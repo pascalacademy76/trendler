@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trendler — Trending in Nederland</title>
+  <meta name="description" content="De actuele trending zoektermen in Nederland, live, met bijbehorend nieuws." />
+  <link rel="canonical" href="https://trendler.nl/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Trendler — Trending in Nederland" />
+  <meta property="og:description" content="De actuele trending zoektermen in Nederland, live, met bijbehorend nieuws." />
+  <meta property="og:url" content="https://trendler.nl/" />
+  <link
+    rel="icon"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='13' fill='%23ff9d2e'/></svg>"
+  />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Archivo:ital,wght@0,400;0,600;0,700;0,800;1,600&family=JetBrains+Mono:wght@400;500;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <a href="/" class="logo">Trendler</a>
+        <span class="live-badge"><span class="live-dot"></span>LIVE</span>
+      </div>
+      <p class="tagline">Wat houdt Nederland <em>nu</em> bezig?</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <p id="page-meta" class="page-meta"></p>
+    <div class="tab-nav">
+      <div id="tab-list" class="tab-list" role="tablist"></div>
+    </div>
+    <section id="trend-section" aria-live="polite">
+      <p class="loading">Trending zoekterm laden…</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Bron: Google Trends NL &amp; Bing News</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
