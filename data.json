@@ -1,700 +1,458 @@
 {
-  "fetchedAt": "2026-08-12T14:41:50.220Z",
+  "fetchedAt": "2026-08-14T13:33:44.401Z",
   "trends": [
     {
-      "keyword": "hoe laat is de eclipse",
-      "trafficLabel": "100K+",
-      "articles": [
-        {
-          "title": "Zonsverduistering te zien: waar heb je het beste zicht en hoe kun je veilig kijken?",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/natuur/5136059/zonsverduistering-te-zien-waar-heb-je-het-beste-zicht-en-hoe-kun-je-veilig-kijken",
-          "publishedDate": "Tue, 11 Aug 2026 22:30:00 GMT",
-          "description": "REGIO - Een uniek moment: de grootste zonsverduistering sinds 27 jaar vindt woensdagavond plaats. Waar kan je deze eclips het beste bewonderen? En wat moet je niet en juist wel doen? Ben jij ..."
-        },
-        {
-          "title": "Hoe, waar en wanneer je vanavond best en veiligst zonsverduistering kan zien: “Oogschade merk je niet voor het te laat is”",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/nieuws/hoe-waar-en-wanneer-je-vanavond-best-en-veiligst-zonsverduistering-kan-zien-oogschade-merk-je-niet-voor-het-te-laat-is~ae007b79/",
-          "publishedDate": "Tue, 11 Aug 2026 22:00:00 GMT",
-          "description": "Vanavond kan je kijken naar de langverwachte zonsverduistering. 90 procent van de zon zal verduisterd zijn. Maar hoe, waar en wanneer kan je die eclips het best zien? In ‘HLN Vandaag’ legt onze wetens ..."
-        },
-        {
-          "title": "Hoe laat is de zonsverduistering in Nederland te zien? Dit is wanneer je naar buiten wilt",
-          "source": "Cosmopolitan",
-          "url": "https://www.cosmopolitan.com/nl/lifestyle/a73404379/zonsverduistering-12-augustus-2026-nederland-tijd/",
-          "publishedDate": "Tue, 11 Aug 2026 09:36:00 GMT",
-          "description": "Volgens de Koninklijke Nederlandse Vereniging voor Weer- en Sterrenkunde begint de zonsverduistering in Nederland rond 19.15 uur. Het belangrijkste moment is rond 20.10 uur: dan bereikt de eclips zijn ..."
-        },
-        {
-          "title": "Alles over de bijzondere zonsverduistering: hoe, waar en wanneer moet je kijken?",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/natuur-en-milieu/alles-over-de-bijzondere-zonsverduistering-hoe-waar-en-wanneer-moet-je-kijken",
-          "publishedDate": "Tue, 11 Aug 2026 08:20:00 GMT",
-          "description": "Wie morgen aan het begin van de avond naar buiten kijkt, kan getuige zijn van een van de meest indrukwekkende natuurverschijnselen van deze eeuw. Een groot deel van de zon verdwijnt dan achter de maan ..."
-        },
-        {
-          "title": "Dit wil je weten over de totale zonsverduistering op 12 augustus",
-          "source": "KIJK Magazine",
-          "url": "https://www.kijkmagazine.nl/space/totale-zonsverduistering-12-augustus/",
-          "publishedDate": "Mon, 03 Aug 2026 23:00:00 GMT",
-          "description": "Op 12 augustus is er een totale zonsverduistering in Europa. In Nederland is hij gedeeltelijk te zien. Dit wil je weten."
-        },
-        {
-          "title": "Zo kijk je veilig naar de zonsverduistering op 12 augustus",
-          "source": "Radar",
-          "url": "https://radar.avrotros.nl/artikel/zo-kijk-je-veilig-naar-de-zonsverduistering-op-12-augustus-62855",
-          "publishedDate": "Mon, 03 Aug 2026 12:17:00 GMT",
-          "description": "Op woensdag 12 augustus is er vanuit Nederland een zonsverduistering te zien: rond 20.11 uur bedekt de maan zo'n 90 procent van de zon. Zo groot was een ..."
-        }
-      ]
-    },
-    {
-      "keyword": "uitkering",
+      "keyword": "hans beijer",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Lezers De Telegraaf: Geen recht op WW-uitkering in het buitenland",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/wat-u-zegt/lezers-de-telegraaf-geen-recht-op-ww-uitkering-in-het-buitenland/159636761.html",
-          "publishedDate": "Wed, 05 Aug 2026 07:00:00 GMT",
-          "description": "„Als je een WW-uitkering krijgt, hoort daar actief naar een baan zoeken bij en op elk moment beschikbaar zijn. Zodra je naar het buitenland gaat: uitkering stoppen.” Dat stelt een deelnemer van de Ste ..."
-        },
-        {
-          "title": "Stelling: Verruiming duur WW-uitkering in buitenland leidt tot misbruik",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/wat-u-zegt/stelling-verruiming-duur-ww-uitkering-in-buitenland-leidt-tot-misbruik/159618363.html",
-          "publishedDate": "Wed, 05 Aug 2026 03:00:00 GMT",
-          "description": "Werklozen die Nederland verlaten voor een ander EU-land om daar werk te zoeken, mogen hun WW-uitkering straks zes maanden meenemen, in plaats van drie. Dat is het gevolg van aangepaste Europese wetgev ..."
-        },
-        {
-          "title": "Voor het eerst sinds 2022 iets minder mensen in Dongen met een WW-uitkering",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/dongen/voor-het-eerst-sinds-2022-iets-minder-mensen-in-dongen-met-een-ww-uitkering~a7262366/",
-          "publishedDate": "Tue, 21 Jul 2026 01:31:00 GMT",
-          "description": "Een lichte daling van het aantal WW-uitkeringen in Dongen: dat hadden we sinds 2022 niet gezien. Maar eind juni was het dan toch zo ver, blijkt uit nieuwe cijfers van uitkeringsinstantie UWV."
-        },
-        {
-          "title": "EU komt met idioot plan: zes maanden met je WW-uitkering op vakantie",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/politiek/eu-komt-met-idioot-plan-zes-maanden-met-je-ww-uitkering-op-vakantie",
-          "publishedDate": "Thu, 06 Aug 2026 04:11:00 GMT",
-          "description": "De Nederlandse werkloosheidsuitkering mag straks zes maanden mee naar het buitenland, en voor sommige groepen zelfs de volle rit. Den Haag verzette zich, verloor, en kondigt nu een tegenstem aan die n ..."
-        },
-        {
-          "title": "Meer dan helft van werklozen die uitkering verliezen, vraagt leefloon aan",
-          "source": "Belga on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/nationaal/meer-dan-helft-van-werklozen-die-uitkering-verliezen-vraagt-leefloon-aan/ar-AA29uUdL",
-          "publishedDate": "Wed, 05 Aug 2026 23:15:12 GMT",
-          "description": "Van de ruim 99.000 mensen die dit jaar hun werkloosheidsuitkering geschrapt zagen, heeft 53 procent een leefloon aan&#173;gevraagd bij het lokale OCMW. De regering-De Wever had op slechts een derde gereken ..."
-        },
-        {
-          "title": "Toerekeningstermijn WGA-uitkeringslasten start op ingangsdatum uitkering",
-          "source": "Accountancy Vanmorgen",
-          "url": "https://www.accountancyvanmorgen.nl/2026/07/31/toerekeningstermijn-wga-uitkeringslasten-start-op-ingangsdatum-uitkering/",
-          "publishedDate": "Fri, 31 Jul 2026 06:03:00 GMT",
-          "description": "Niet de datum waarop de wachttijd van 104 dagen eindigt, maar de datum waarop de WGA-uitkering begint te lopen is maatgevend voor de toerekeningstermijn van tien jaar voor WGA-uitkeringslasten, oordee ..."
-        },
-        {
-          "title": "Aantal werklozen met een uitkering in Brussel bijna gehalveerd",
-          "source": "BRUZZ",
-          "url": "https://www.bruzz.be/actua/economie/aantal-werklozen-met-een-uitkering-brussel-bijna-gehalveerd-2026-07-30",
-          "publishedDate": "Wed, 29 Jul 2026 17:00:00 GMT",
-          "description": "Het aantal werkloze Brusselaars dat een werkloosheidsuitkering ontvangt, is dit jaar fors gedaald. Dat blijkt uit cijfers van de RVA. Tegenover 2025 krijgt bijna de helft geen uitkering meer."
-        },
-        {
-          "title": "Aantal werklozen met WW-uitkering in laatste twee jaar afgenomen",
-          "source": "CBS",
-          "url": "https://www.cbs.nl/nl-nl/nieuws/2022/47/aantal-werklozen-met-ww-uitkering-in-laatste-twee-jaar-afgenomen",
-          "publishedDate": "Wed, 23 Nov 2022 15:00:00 GMT",
-          "description": "&#169; Hollandse Hoogte / Peter Hilz In het derde kwartaal van 2022 ontving 1 op de 9 werklozen een werkloosheidsuitkering. Dat is aanzienlijk minder dan voorheen. In ..."
-        },
-        {
-          "title": "Bereken zelf uitkering loopbaanonderbreking",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/economie/werk/bereken-zelf-uitkering-loopbaanonderbreking/33587618.html",
-          "publishedDate": "Tue, 31 May 2011 08:28:00 GMT",
-          "description": "Vanaf 1 juni kunnen werknemers zelf via de website van de RVA berekenen hoeveel de uitkering voor hun loopbaanonderbreking of tijdskrediet zal bedragen en voor welk soort onderbreking ze in aanmerking ..."
-        },
-        {
-          "title": "Geld lenen met een ziektewetuitkering: mogelijkheden en voorwaarden",
-          "source": "lening",
-          "url": "https://www.lening.nl/geld-lenen-met-een-ziektewetuitkering-mogelijkheden-en-voorwaarden/",
-          "publishedDate": "Sun, 08 Aug 2010 17:00:00 GMT",
-          "description": "Geld lenen met een ziektewetuitkering is mogelijk, afhankelijk van het type uitkering en de voorwaarden van de kredietverstrekker. De mogelijkheid om geld te lenen hangt af van het type uitkering. Een ..."
-        }
-      ]
-    },
-    {
-      "keyword": "anouk bondgenoten",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Pittige vrijpartij tussen Anouk en Diederik in De Bondgenoten maakt tongen los: ’Als deze factor wegvalt, is liefde voorbij’",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/entertainment/media/pittige-vrijpartij-tussen-anouk-en-diederik-in-de-bondgenoten-maakt-tongen-los-als-deze-factor-wegvalt-is-liefde-voorbij/159877615.html",
-          "publishedDate": "Tue, 11 Aug 2026 07:48:00 GMT",
-          "description": "Anouk en Diederik maken letterlijk de tongen los in het realityprogramma De Bondgenoten. Nadat de deelnemers van de populaire SBS6-show wekenlang om elkaar heen draaiden, terwijl Anouk al zes jaar een ..."
-        },
-        {
-          "title": "Anouk en Diederik laten zich volledig gaan in De Bondgenoten: 'Dit valt ook niet te houden'",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/familie-en-relaties/daten/anouk-en-diederik-laten-zich-volledig-gaan-in-de-bondgenoten-dit-valt-ook-niet-te-houden/ar-AA29NfPg",
-          "publishedDate": "Mon, 10 Aug 2026 12:50:09 GMT",
-          "description": "Anouk lijkt haar geliefde thuis volledig te zijn vergeten. Eerder gaf ze al toe gevoelens te hebben voor Diederik en nu laten de twee zich volledig gaan in 'De Bondgenoten'."
-        },
-        {
-          "title": "Bondgenoten-duo Diederik en Anouk vertellen dat ze gezoend hebben: ‘Wat zeg jij nou?’",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/video/bondgenoten-duo-diederik-en-anouk-vertellen-dat-ze-gezoend-hebben-wat-zeg-jij-nou/159822526.html",
-          "publishedDate": "Mon, 10 Aug 2026 05:44:00 GMT",
-          "description": "Het veelbesproken duo in De bondgenoten, Diederik en Anouk, hebben recentelijk gezoend. De zoen kwam na een lang opgebouwde spanning terwijl Anouk nog steeds een vriend thuis heeft zitten. Ze vertelle ..."
-        },
-        {
-          "title": "Relatiedrama komt tot climax in Bondgenoten: Anouk kiest voor Diederik, vriend thuis veegt Instagram leeg",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/relatiedrama-komt-tot-climax-in-bondgenoten-anouk-kiest-voor-diederik-vriend-thuis-veegt-instagram-leeg~acfc8394/",
-          "publishedDate": "Tue, 04 Aug 2026 00:13:00 GMT",
-          "description": "Vooravondsucces De Bondgenoten concurreert qua verhaallijnen met de betere datingshows. Opnieuw is er een relatiedrama van jewelste ontstaan in de loods van het SBS 6-programma. Vriend Max moest via d ..."
-        },
-        {
-          "title": "Grens overschreden: Anouk en Diederik duiken samen onder de lakens in De Bondgenoten",
-          "source": "FEM FEM (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/grens-overschreden-anouk-en-diederik-duiken-samen-onder-de-lakens-in-de-bondgenoten/ar-AA29PnfY",
-          "publishedDate": "Tue, 11 Aug 2026 01:20:02 GMT",
-          "description": "Het hing al tijden in de lucht, maar in de nieuwste aflevering van De Bondgenoten is er dan toch &#233;cht een grens overschreden. De spanning tussen Anouk en Diederik was al weken om te snijden, en het le ..."
-        },
-        {
-          "title": "Vriendje Max weet nu zeker dat hij vrijgezel is: Anouk en Diederik bonken in De Bondgenoten",
-          "source": "VK Magazine",
-          "url": "https://www.vkmag.com/magazine/vriendje-max-weet-nu-zeker-dat-hij-vrijgezel-is-anouk-en-diederik-bonken-in-de-bondgenoten",
-          "publishedDate": "Mon, 10 Aug 2026 13:05:00 GMT",
-          "description": "Dat is natuurlijk vooral pikant vanwege het hele verhaal dat eraan voorafging. Anouk kwam De Bondgenoten binnen terwijl ze al zo'n zes jaar samen was met haar vriend Max. Vervolgens groeide ze steeds ..."
-        },
-        {
-          "title": "De Bondgenoten-Anouk zou voor d&#233;ze influencer gaan werken, maar skipte het voor haar deelname",
-          "source": "Cosmopolitan",
-          "url": "https://www.cosmopolitan.com/nl/entertainment/a73363444/bondgenoten-anouk-werken-influencer/",
-          "publishedDate": "Thu, 06 Aug 2026 03:04:00 GMT",
-          "description": "De Bondgenoten houdt TikTok nog steeds in z'n greep. Gisteren schreven we nog dat de relatie (kunnen we het al zo noemen?!) tussen Anouk en Diederik een nieuwe fase in lijkt te gaan, en vandaag komt J ..."
-        },
-        {
-          "title": "De laatste De Bondgenoten-aflevering vertelt ons h&#233;&#233;l veel over de relatiestatus van Anouk en Diederik",
-          "source": "Cosmopolitan",
-          "url": "https://www.cosmopolitan.com/nl/entertainment/a73341979/de-bondgenoten-anouk-diederik-relatie/",
-          "publishedDate": "Tue, 04 Aug 2026 04:15:00 GMT",
-          "description": "Ondanks het verzoek van haar familie en (nu ex-?)vriend, blijft Anouk deelnemen aan het programma. En sinds ze dat besluit heeft genomen, lijkt ze haar gevoelens niet meer te willen verbergen."
-        },
-        {
-          "title": "Nieuwe wending in De Bondgenoten: Anouk bekent gevoelens voor Diederik en lijkt definitief klaar met Max",
-          "source": "vkmag",
-          "url": "https://www.vkmag.com/magazine/nieuwe-wending-in-de-bondgenoten-anouk-bekent-gevoelens-voor-diederik-en-lijkt-definitief-klaar-met-max",
-          "publishedDate": "Mon, 03 Aug 2026 12:06:00 GMT",
-          "description": "Vanmorgen leek het er nog op dat de sfeer tussen Anouk en Diederik volledig was ge&#235;scaleerd. In de eerste vooruitblik op de nieuwe aflevering van De Bondgenoten vliegen de verwijten over en weer en ..."
-        },
-        {
-          "title": "Diederik zet Anouk voor onmogelijke keuze in De Bondgenoten",
-          "source": "lovereality",
-          "url": "https://lovereality.nl/diederik-zet-anouk-voor-onmogelijke-keuze-in-de-bondgenoten/",
-          "publishedDate": "Mon, 27 Jul 2026 12:09:00 GMT",
-          "description": "Morgen in De Bondgenoten zet Diederik Anouk voor een onmogelijke keuze. In een preview van de aflevering laat Diederik duidelijk weten dat hij niet tevreden is met de huidige status tussen hem en ..."
-        }
-      ]
-    },
-    {
-      "keyword": "snackbar",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Beroving in snackbar Hans en Grietje in De Gorzen, dader (16) is aangehouden",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-schiedam/beroving-in-snackbar-hans-en-grietje-in-de-gorzen-dader-16-is-aangehouden~a51e49c9/",
-          "publishedDate": "Thu, 06 Aug 2026 21:56:00 GMT",
-          "description": "Een 16-jarige jongen heeft vrijdagavond een persoon beroofd in snackbar Hans &amp; Grietje aan de Groenelaan in Schiedam. De politie was een onderzoek gestart na een melding van een overval op de snackbar ..."
-        },
-        {
-          "title": "Snackbar Silly’s en Chinees restaurant Golden Rose komen terug in Berghems Julianakwartier",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/oss/snackbar-sillys-en-chinees-restaurant-golden-rose-komen-terug-in-berghems-julianakwartier~a6b4d53d/",
-          "publishedDate": "Tue, 28 Jul 2026 05:24:00 GMT",
-          "description": "De woningen in het nieuwe Julianakwartier in Berghem zijn in de verkoop gegaan. Het nieuwbouwproject aan de Julianastraat, vlak bij het centrum, bestaat uit tien appartementen en drie horecagelegenhed ..."
-        },
-        {
-          "title": "Crowdfunding voor uitgebrande snackbar in De Baarsjes leverde al 20.000 euro op: ‘Mahmoud kan het nauwelijks geloven, dan schiet hij vol’",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/amsterdam/crowdfunding-voor-uitgebrande-snackbar-in-de-baarsjes-leverde-al-20-000-euro-op-mahmoud-kan-het-nauwelijks-geloven-dan-schiet-hij-vol~b71c7c3b/",
-          "publishedDate": "Tue, 21 Jul 2026 09:01:00 GMT",
-          "description": "Een inzamelingsactie voor Evert Snack, de snackbar in de Jan Evertsenstraat die in de middag van 14 juli werd verwoest door een brand, heeft al bijna 20.000 euro opgebracht. Ondernemers hielpen ..."
-        },
-        {
-          "title": "Brand bij snackbar in de Jan Evertsenstraat: ‘Vlam sloeg in de frituurpan’",
+          "title": "Hans Beijer, B100 uit Bassie en Adriaan, overleden op 78-jarige leeftijd",
           "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/brand-bij-snackbar-in-de-jan-evertsenstraat-vlam-sloeg-in-de-frituurpan~bbe15a15/",
-          "publishedDate": "Tue, 14 Jul 2026 06:13:00 GMT",
-          "description": "Bij een snackbar in de Jan Evertsenstraat in Amsterdam-West is dinsdagmiddag een grote brand uitgebroken. Bovenliggende woningen werden tijdelijk ontruimd. De snackbar is flink beschadigd geraakt."
+          "url": "https://www.parool.nl/kunst-media/hans-beijer-b100-uit-bassie-en-adriaan-overleden-op-78-jarige-leeftijd~bba552a1/",
+          "publishedDate": "Fri, 14 Aug 2026 05:12:00 GMT",
+          "description": "Acteur Hans Beijer is overleden. Dat bevestigt de manager van Bassie en Adriaan. Beijer werd vooral bekend als de slechterik B100 in de series en films over de broers. Deze week is afscheid van hem ge ..."
         },
         {
-          "title": "Populaire snackbar gaat dicht, eigenaren emigreren: 'We hebben genoeg meegemaakt'",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/economie/5137024/populaire-snackbar-gaat-dicht-eigenaren-emigreren-we-hebben-genoeg-meegemaakt",
-          "publishedDate": "Tue, 11 Aug 2026 21:00:00 GMT",
-          "description": "Twintig jaar lang stonden Arjan en Sierkka van Heeswijk tussen de toonbank en de frituurpannen van snackbar Parkzicht in Sassenheim, maar binnenkort trekken ze de deuren van de zaak achter zich dicht."
-        },
-        {
-          "title": "Na covershoot: Gordon is helemaal klaar met afvallen",
-          "source": "Ditjes en Datjes",
-          "url": "https://www.ditjesendatjes.nl/na-covershoot-gordon-is-helemaal-klaar-met-afvallen",
-          "publishedDate": "Fri, 31 Jul 2026 03:58:00 GMT",
-          "description": "Gordon heeft zijn killerbody behaald na maanden trainen. Nadat hij op de cover van Men's Health stond scheurde Goor meteen naar de snackbar."
-        },
-        {
-          "title": "Ton van snackbar de Brink bakt de frietjes van de hemel: 'Maar snacken dat doe ik zelf nauwelijks'",
-          "source": "stadsbladutrecht.nl",
-          "url": "https://indebuurt.nl/woerden/bedrijvigheid/ondernemer-uitgelicht/ton-van-snackbar-de-brink-bakt-de-frietjes-van-de-hemel-maar-snacken-dat-doe-ik-zelf-nauwelijks~98171/",
-          "publishedDate": "Tue, 06 Jan 2026 17:34:00 GMT",
-          "description": "“Mensen moeten wat te kiezen hebben en ik wil iedereen iets bieden,” zegt Ton over het brede assortiment. In zijn dertig jaar als eigenaar van snackbar De Brink, zag hij de snackmarkt nogal veranderen ..."
-        },
-        {
-          "title": "Snackbar sluit deuren, klein brandje zorgt voor abrupt einde van bijna 45 jaar werk",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/112/5044319/snackbar-sluit-deuren-klein-brandje-zorgt-voor-abrupt-einde-van-bijna-45-jaar-werk",
-          "publishedDate": "Thu, 11 Dec 2025 22:00:00 GMT",
-          "description": "WATERINGEN - Een hard gelag voor de eigenaren van snackbar De Vier Wieken in Wateringen. Vlak voor het 45-jarig bestaan van de zaak heeft er in het cafetaria korte tijd brand gewoed. Daar kwam zoveel ..."
-        },
-        {
-          "title": "Groot renovatieproject in Avonturenpark Hellendoorn: nieuw uiterlijk voor snackbar",
-          "source": "looopings.nl",
-          "url": "https://www.looopings.nl/weblog/26972/Groot-renovatieproject-in-Avonturenpark-Hellendoorn-nieuw-uiterlijk-voor-snackbar.html",
-          "publishedDate": "Mon, 25 Nov 2024 06:09:00 GMT",
-          "description": "FOTO'S Avonturenpark Hellendoorn pakt tijdens de wintersluiting een bestaande horecalocatie aan. Het Overijsselse pretpark investeert in een grote renovatie van Bella's Smakbar. De snackbar, gelegen ..."
-        },
-        {
-          "title": "Zeeuwse snackbar wint geschil met Amerikaanse fastfoodketen over het merk Wendy's",
-          "source": "Rechtspraak",
-          "url": "https://www.rechtspraak.nl/organisatie-en-contact/organisatie/gerechtshoven/gerechtshof-s-hertogenbosch/nieuws/2021/11/zeeuwse-snackbar-wint-geschil-met-amerikaanse-fastfoodketen-over-het-merk-wendys",
-          "publishedDate": "Tue, 02 Nov 2021 04:00:00 GMT",
-          "description": "Het gerechtshof ’s-Hertogenbosch heeft vandaag beslist dat de Zeeuwse snackbar Wendy’s haar Beneluxmerk Wendy’s mag behouden. Een Amerikaanse keten van fastfoodrestaurants genaamd Wendy’s stelde dat ..."
-        }
-      ]
-    },
-    {
-      "keyword": "emre mor",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "NEC-held Emre Mor stond minutenlang naast het veld door piercing: ‘Wist niet dat afplakken verboden was’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/sport/nec-held-emre-mor-stond-minutenlang-naast-het-veld-door-piercing-wist-niet-dat-afplakken-verboden-was~aeb6837d/",
-          "publishedDate": "Tue, 11 Aug 2026 22:32:00 GMT",
-          "description": "Een bijzonder moment tijdens de clash tussen NEC en het Griekse Olympiakos. De Nijmegenaren stonden in de cruciale derde voorronde van de Champions League ruim drie minuten met z’n tienen. Oorzaak: de ..."
-        },
-        {
-          "title": "NEC-matchwinner Mor krijgt oorbel niet uit voor invalbeurt: 'Kan niet op dit niveau'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6406054/nec-matchwinner-mor-krijgt-oorbel-niet-uit-voor-invalbeurt-kan-niet-op-dit-niveau.html",
-          "publishedDate": "Tue, 11 Aug 2026 17:00:00 GMT",
-          "description": "NEC-aanvaller Emre Mor heeft dinsdag voor ergernis gezorgd bij zijn trainer Dick Schreuder. De Turk kon in het duel met Olympiacos (2-1-zege) in de derde voorronde van de Champions League niet direct ..."
-        },
-        {
-          "title": "Emre Mor openhartig: “Ik had het mentaal zwaar, heel moeilijk”",
-          "source": "soccernews",
-          "url": "https://www.soccernews.nl/news/emre-mor-openhartig-ik-had-het-mentaal-zwaar-heel-moeilijk/",
-          "publishedDate": "Wed, 12 Aug 2026 05:50:00 GMT",
-          "description": "Emre Mor was dinsdagavond de grote man bij NEC door als vervanger van de geblesseerd uitgevallen Sami Ouaissa de winnend egoal te maken, tegen Olympiakos. Deze zomer werd hij door de Nijmegenaren ..."
-        },
-        {
-          "title": "Heftige emoties bij NEC: 'Ik had het mentaal zwaar, heel moeilijk'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/heftige-emoties-bij-nec-ik-had-het-mentaal-zwaar-heel-moeilijk",
-          "publishedDate": "Wed, 12 Aug 2026 03:43:00 GMT",
-          "description": "Emre Mor was met een late treffer de held van NEC tegen Olympiakos. Na afloop sprak de aanvaller openhartig over de mentaal zware periode die achter hem ligt."
-        },
-        {
-          "title": "“Knip dat hele oor gewoon eraf”: NEC-spits Emre Mor ziet invalbeurt bijna stranden door... oorbel, maar kroont zich uiteindelijk wel tot matchwinnaar",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/sport/voetbal/knip-dat-hele-oor-gewoon-eraf-nec-spits-emre-mor-ziet-invalbeurt-bijna-stranden-door...-oorbel-maar-kroont-zich-uiteindelijk-wel-tot-matchwinnaar/159910674.html",
-          "publishedDate": "Wed, 12 Aug 2026 00:45:00 GMT",
-          "description": "Een bizarre avond voor Emre Mor bij NEC. De Turkse aanvaller stond klaar om in te vallen tegen Olympiakos, maar zijn invalbeurt werd bijna drie minuten uitgesteld door... een oorbel. Dat zorgde voor d ..."
-        },
-        {
-          "title": "De documentaire over NEC-matchwinner Emre Mor komt nog",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/de-documentaire-over-nec-matchwinner-emre-mor-komt-nog/ar-AA29TbpK",
-          "publishedDate": "Tue, 11 Aug 2026 22:56:00 GMT",
-          "description": "Emre Mor kon dinsdagavond nog niet helemaal bevatten wat er was gebeurd. NEC zorgde voor een stunt van jewelste door Olympiakos Piraeus te verslaan in de derde voorronde van de Champions League, met d ..."
-        },
-        {
-          "title": "Oud-toptalent Emre Mor openhartig over zware jaren: ‘Misschien komt er wel een documentaire’",
-          "source": "AD",
-          "url": "https://www.ad.nl/voetbal/oud-toptalent-emre-mor-openhartig-over-zware-jaren-misschien-komt-er-wel-een-documentaire~a6161722e/",
-          "publishedDate": "Tue, 11 Aug 2026 21:24:00 GMT",
-          "description": "„Ik denk dat ik het allemaal nog niet helemaal besef”, zegt Emre Mor (29) in de gracht van het Goffertstadion. Het is dinsdagavond rond half elf als de Turkse zomeraanwinst van NEC de schrijvende pers ..."
-        },
-        {
-          "title": "Dit is het openhartige verhaal van NEC-held Emre Mor: over moeilijke jaren, de oorpiercing en tranen na de winnende goal",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/nec/dit-is-het-openhartige-verhaal-van-nec-held-emre-mor-over-moeilijke-jaren-de-oorpiercing-en-tranen-na-de-winnende-goal~a6161722e/",
-          "publishedDate": "Tue, 11 Aug 2026 18:48:00 GMT",
-          "description": "Voor Emre Mor komt dinsdagavond alles samen. Hij begint op de bank tegen zijn oude club Olympiakos en zorgt nog voor zijn invalbeurt voor frustratie vanwege een oorpiercing, maar groeit uit tot de hel ..."
-        },
-        {
-          "title": "Emre Mor onthult: 'Ik draag mijn oorbel niet omdat ik het leuk vind'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/emotionele-emre-mor-na-heldenrol-nec-geen-makkelijke-jaren-geweest",
-          "publishedDate": "Tue, 11 Aug 2026 15:44:00 GMT",
-          "description": "Emre Mor schoot NEC tegen Olympiakos naar de play-offs van de Champions League. Na afloop sprak hij emotioneel over zijn moeilijke jaren en opvallende oorbel-incident."
-        },
-        {
-          "title": "Emre Mor beleefde veelbewogen avond: 'Alleen plezier is nog belangrijk'",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/emre-mor-beleefde-veelbewogen-avond-alleen-plezier-is-nog-belangrijk/ar-AA29SbO4",
-          "publishedDate": "Tue, 11 Aug 2026 13:59:22 GMT",
-          "description": "Emre Mor beleefde een avond van uitersten. De Turkse buitenspeler maakte de beslissende treffer waardoor NEC zich plaatste voor de play-offs van de Champions League . Bij zijn vroege invalbeurt kreeg ..."
-        }
-      ]
-    },
-    {
-      "keyword": "regen",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Komende week valt regen, maar de droogte in Nederland is hardnekkig: ‘Druppel op gloeiende plaat’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/komende-week-valt-regen-maar-de-droogte-in-nederland-is-hardnekkig-druppel-op-gloeiende-plaat~a7b240059/",
-          "publishedDate": "Fri, 31 Jul 2026 02:00:00 GMT",
-          "description": "Na weken van hitte en nauwelijks regen raakt Nederland steeds verder uitgedroogd. De Rijn staat op een historisch laag peil, er is officieel een watertekort afgekondigd en hoewel komende week regen wo ..."
-        },
-        {
-          "title": "In droge tijden is een gezonde bodem goud waard: ‘Aan de regen kun je niets doen, wel aan hoe je ermee omgaat’",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/in-droge-tijden-is-een-gezonde-bodem-goud-waard-aan-de-regen-kun-je-niets-doen-wel-aan-hoe-je-ermee-omgaat~b188c817/",
-          "publishedDate": "Tue, 28 Jul 2026 22:00:00 GMT",
-          "description": "Door de droogte snakken gewassen naar regen. De Zeeuwse akkerbouwer Maarten Janse werkt al twaalf jaar aan een bodem die beter water vasthoudt, en plukt daar nu de vruchten van. ‘Ik ben eigenlijk best ..."
-        },
-        {
-          "title": "Ineens was het Delftse Bagijnhof in een put veranderd. Hoe gaan wijken om met extreme regen?",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/02/02/ineens-was-het-delftse-bagijnhof-in-een-put-veranderd-hoe-gaan-wijken-om-met-extreme-regen-a4918972",
-          "publishedDate": "Mon, 02 Feb 2026 13:30:00 GMT",
-          "description": "Extreem weer Wateroverlast kan omslaan in onveiligheid, waarschuwde de Onderzoeksraad Voor Veiligheid (OVV) eind januari in een rapport aan de hand van voorbeelden in Nijverdal, Doetinchem en Enschede ..."
-        },
-        {
-          "title": "OVV: Nederland niet klaar voor extreme regen, nu niet en in toekomst niet",
+          "title": "Acteur Hans Beijer, bekend als boef B100 in Bassie en Adriaan, is overleden",
           "source": "NOS",
-          "url": "https://nos.nl/collectie/13871/artikel/2599189-ovv-nederland-niet-klaar-voor-extreme-regen-nu-niet-en-in-toekomst-niet",
-          "publishedDate": "Wed, 21 Jan 2026 22:00:00 GMT",
-          "description": "Nederland is onvoldoende voorbereid op veiligheidsrisico's door extreme regen, terwijl dergelijk weer door klimaatverandering vaker voorkomt. Daarvoor waarschuwt ..."
+          "url": "https://nos.nl/artikel/2626817-acteur-hans-beijer-bekend-als-boef-b100-in-bassie-en-adriaan-is-overleden",
+          "publishedDate": "Fri, 14 Aug 2026 03:38:00 GMT",
+          "description": "De acteur Hans Beijer, vooral bekend als pechvogel B100 in 'Bassie en Adriaan', is overleden. Vorige week donderdag is Beijer op 78-jarige leeftijd overleden, staat in zijn overlijdensadvertentie in ..."
         },
         {
-          "title": "Droogte houdt aan: nauwelijks regen verwacht, warmte keert snel terug",
-          "source": "Wassenaarders.nl",
-          "url": "https://wassenaarders.nl/2026/08/07/droogte-houdt-aan-nauwelijks-regen-verwacht-warmte-keert-snel-terug/",
-          "publishedDate": "Fri, 07 Aug 2026 00:00:00 GMT",
-          "description": "De droogte houdt voorlopig aan. Volgens de laatste weersverwachtingen valt de komende dagen nauwelijks regen, terwijl de temperatuur in het weekend opnieuw oploopt tot tropische waarden. Daardoor blij ..."
-        },
-        {
-          "title": "Regen brengt vandaag even verlichting, maar zomers weer keert snel terug",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/362267/regen-brengt-vandaag-even-verlichting-maar-zomers-weer-keert-snel-terug",
-          "publishedDate": "Thu, 06 Aug 2026 23:55:00 GMT",
-          "description": "Zomers weer keert terug in Noord-Holland: dit weekend 24-25 graden, zondag lokaal 30&#176;C. Rond 13 augustus opnieuw hitte verwacht. Lees de volledige weerverwachting."
-        },
-        {
-          "title": "Eeuwenoud duinmeer dreigt droog te vallen: ‘We snakken allemaal naar regen, veel regen’",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/binnenland/eeuwenoud-duinmeer-dreigt-droog-te-vallen-we-snakken-allemaal-naar-regen-veel-regen~aa1cd848/",
-          "publishedDate": "Tue, 04 Aug 2026 19:11:00 GMT",
-          "description": "Het Quackjeswater in Rockanje, een eeuwenoud duinmeer in het natuurgebied Voornes Duin op Voorne-Putten, staat extreem laag. Een directe oplossing voor het watertekort is er niet. „Nog even en de viss ..."
-        },
-        {
-          "title": "Vandaag regen op komst: wat mogen we verwachten? En helpt het tegen de droogte?",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/binnenland/vandaag-regen-op-komst-wat-mogen-we-verwachten-en-helpt-het-tegen-de-droogte/159567977.html",
-          "publishedDate": "Tue, 04 Aug 2026 04:17:00 GMT",
-          "description": "Er wordt vandaag, dinsdag, regen verwacht in ons land. Hoeveel neerslag zal er vallen, en zal dat helpen tegen de aanhoudende droogte? We vroegen het aan weerman David Dehenauw."
-        },
-        {
-          "title": "Dit is petrichor, de geur die vrijkomt door regen na lange tijd van droogte",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/natuur-en-milieu/dit-is-petrichor-de-geur-die-vrijkomt-door-regen-na-lange-tijd-van-droogte",
-          "publishedDate": "Tue, 14 Jul 2026 23:38:00 GMT",
-          "description": "Na weken van zon en stof was het eindelijk zover: de eerste regendruppels kletterden op de dorre aarde. En dan gebeurt het; die bijzondere geur stijgt op uit de grond. Fris, aards, bijna nostalgisch.."
-        }
-      ]
-    },
-    {
-      "keyword": "paris saint-germain",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Super Cup tussen de kampioenen van Europa: Paris Saint-Germain treft Aston Villa",
-          "source": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2122329/super-cup-tussen-de-kampioenen-van-europa-paris-saint-germain-treft-aston-villa.html",
-          "publishedDate": "Wed, 12 Aug 2026 07:01:00 GMT",
-          "description": "ADVERTORIAL - Paris Saint-Germain en Aston Villa strijden woensdagavond om de Super Cup. De winnaars van de Europa League en de Champions League clashen in een rechstreeks duel om de eerste Europese ..."
-        },
-        {
-          "title": "Waar Aston Villa hoop uit kan putten tegen Paris Saint-Germain",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/waar-aston-villa-hoop-uit-kan-putten-tegen-paris-saint-germain",
-          "publishedDate": "Wed, 12 Aug 2026 03:00:00 GMT",
-          "description": "ADVERTORIAL – Voor Paris Saint-Germain en Aston Villa lonkt de kans om woensdagavond aan het nieuwe seizoen te beginnen met het winnen van een prijs. De winnaar van de Champions League en de winnaar v ..."
-        },
-        {
-          "title": "Op deze zender is woensdag UEFA Super Cup tussen PSG en Aston Villa te zien",
-          "source": "voetbalcentraal",
-          "url": "https://www.voetbalcentraal.nl/nieuws/1723226/Op-deze-zender-is-woensdag-UEFA-Super-Cup-tussen-PSG-en-Aston-Villa-te-zien",
-          "publishedDate": "Tue, 11 Aug 2026 18:51:00 GMT",
-          "description": "Op deze zender is woensdag UEFA Super Cup tussen PSG en Aston Villa te zien Door VI - Algemeen, wednesday 2026-08-12 15:50:00 Paris Saint-Germain en Aston Villa staan woensdagavond tegenover elkaar in ..."
-        },
-        {
-          "title": "'Fabrizio Romano geeft update over onderhandelingen PSG en Ajax'",
-          "source": "Ajax1.nl",
-          "url": "https://www.ajax1.nl/fabrizio-romano-geeft-update-over-onderhandelingen-psg-en-ajax/",
-          "publishedDate": "Tue, 11 Aug 2026 00:41:00 GMT",
-          "description": "Lees nu | Paris Saint-Germain gaat na de strijd om de UEFA Super Cup opnieuw in gesprek met Ajax over een transfer van Mika Godts. Dat ..."
-        },
-        {
-          "title": "Toptransfer op komst: FC Barcelona bereikt akkoord over deal van 50 miljoen",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/toptransfer-op-komst-fc-barcelona-bereikt-akkoord-over-deal-van-50-miljoen/ar-AA29LEYF",
-          "publishedDate": "Mon, 10 Aug 2026 06:49:00 GMT",
-          "description": "Ferran Torres staat op het punt om FC Barcelona in te ruilen voor Paris Saint-Germain. De transfer bevindt zich in de afrondende fase en een offici&#235;le aankondiging wordt de komende dagen verwacht. Vol ..."
-        },
-        {
-          "title": "Paris Saint-Germain neemt Fransman Digne over van Aston Villa",
-          "source": "zeelandnet",
-          "url": "https://www.zeelandnet.nl/nieuws/paris-saint-germain-neemt-fransman-digne-over-van-aston-villa",
-          "publishedDate": "Sun, 09 Aug 2026 14:26:00 GMT",
-          "description": "&quot;Ik ben heel vereerd om terug te keren bij Paris Saint-Germain&quot;, zei Digne, die eerder tussen 2013 en 2015 voor de club speelde. &quot;Ik ben bijzonder onder de indruk hoe de ploeg zich heeft ontwikkeld in ..."
-        },
-        {
-          "title": "Paris Saint-Germain neemt Fransman Digne over van Aston Villa",
+          "title": "Acteur Hans Beijer (78), bekend als boef B100, overleden",
           "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/paris-saint-germain-neemt-fransman-digne-over-van-aston-villa",
-          "publishedDate": "Sun, 09 Aug 2026 14:26:00 GMT",
-          "description": "Paris Saint-Germain haalt linksback Lucas Digne (33) terug met een contract voor drie jaar. Mogelijk debuut woensdag in de Europese Super Cup tegen Aston Villa."
+          "url": "https://nieuws.nl/algemeen/acteur-hans-beijer-78-bekend-als-boef-b100-overleden",
+          "publishedDate": "Fri, 14 Aug 2026 05:13:00 GMT",
+          "description": "DEN HAAG (ANP) - Acteur Hans Beijer is op 78-jarige leeftijd overleden. Dat staat in een overlijdensadvertentie die vrijdag is gepubliceerd in de Volkskrant. Beijer was bij het grote publiek vooral be ..."
         },
         {
-          "title": "Mika Godts wordt gevraagd naar Paris Saint-Germain en doet belofte aan fans van Ajax",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/mika-godts-wordt-gevraagd-naar-paris-saint-germain-en-doet-belofte-aan-fans-van-ajax/ar-AA29I481",
-          "publishedDate": "Sun, 09 Aug 2026 06:19:12 GMT",
-          "description": "Mika Godts was zondag tegen PEC Zwolle door fysieke klachten slechts invaller. De aanvaller van Ajax steekt na de 0-2 zege in Overijssel niet onder stoelen of banken dat hij de transfer naar Paris Sai ..."
+          "title": "Acteur Hans Beijer, B100 uit Bassie &amp; Adriaan, op 78-jarige leeftijd overleden",
+          "source": "NU",
+          "url": "https://www.nu.nl/media/6406320/acteur-hans-beijer-b100-uit-bassie-adriaan-op-78-jarige-leeftijd-overleden.html",
+          "publishedDate": "Fri, 14 Aug 2026 04:56:00 GMT",
+          "description": "Hans Beijer, bekend van zijn rol als B100 in Bassie &amp; Adriaan, is op 78-jarige leeftijd overleden. Dat wordt gemeld in een overlijdensadvertentie die vrijdag is gepubliceerd in de Volkskrant. Bassie ..."
         },
         {
-          "title": "Praat mee op VP: Manchester United - Paris Saint-Germain",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-manchester-united-paris-saint-germain/ar-AA29FuB3",
-          "publishedDate": "Sat, 08 Aug 2026 07:10:00 GMT",
-          "description": "Manchester United en Paris Saint-Germain nemen het tegen elkaar op in een oefenwedstrijd. De wedstrijd begint om 17.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat ..."
+          "title": "Nederlandse acteur Hans Beijer (78) overleden, bekend als B100 in 'Bassie en Adriaan'",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/acteur-hans-beijer-overleden/",
+          "publishedDate": "Fri, 14 Aug 2026 04:44:00 GMT",
+          "description": "De Nederlandse acteur Hans Beijer is overleden. Dat staat in een overlijdensadvertentie in de Volkskrant. Hij is vooral bekend van zijn rol als de boef B100 in de Nederlandse televisiereeks 'Bassie en ..."
         },
         {
-          "title": "'Paris Saint-Germain bereidt verhoogd bod op Mika Godts voor'",
-          "source": "Ajax1.nl",
-          "url": "https://www.ajax1.nl/paris-saint-germain-bereidt-verhoogd-bod-op-mika-godts-voor/",
-          "publishedDate": "Fri, 07 Aug 2026 01:23:00 GMT",
-          "description": "Lees nu | De onderhandelingen tussen Paris Saint-Germain en Ajax zijn nog altijd bezig. Volgens Fabrizio Romano kunnen de Amsterdammers snel een nieuw ..."
+          "title": "Nederlandse acteur Hans Beijer (78), uit Bassie en Adriaan, overleden",
+          "source": "Het Belang van Limburg",
+          "url": "https://www.hbvl.be/media-en-cultuur/bv-en-co/nederlandse-acteur-hans-beijer-78-uit-bassie-en-adriaan-overleden/160032930.html",
+          "publishedDate": "Fri, 14 Aug 2026 04:00:00 GMT",
+          "description": "De Nederlandse acteur Hans Beijer, bekend als de crimineel uit ‘Bassie en Adriaan’, is overleden. Hij werd 78 jaar. “We zullen Hans herinneren als een gezellige collega, een goed acteur maar vooral al ..."
+        },
+        {
+          "title": "Hans Beijer (78), bekend als B100 uit Bassie en Adriaan, overleden",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/entertainment/bners/artikelen/hans-beijer-b100-bassie-adriaan-overleden",
+          "publishedDate": "Fri, 14 Aug 2026 03:29:00 GMT",
+          "description": "Acteur Hans Beijer is op 78-jarige leeftijd overleden. Dat staat in een overlijdensadvertentie die vrijdag is gepubliceerd in de Volkskrant. Beijer werd bij het grote publiek bekend als de slechterik ..."
+        },
+        {
+          "title": "Adriaan eert overleden collega Hans ‘B100’ Beijer (78): ‘Hij kon zich volledig inleven’",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/show/adriaan-eert-overleden-collega-hans-b100-beijer-78-hij-kon-zich-volledig-inleven~aba552a1/",
+          "publishedDate": "Thu, 13 Aug 2026 21:48:00 GMT",
+          "description": "Acteur Hans Beijer (78) is vorige week overleden. Dat bevestigt de manager van Bassie en Adriaan aan deze site. Beijer werd vooral bekend als de slechterik B100 in de kinderseries en -films over de br ..."
+        },
+        {
+          "title": "Nederlandse acteur Hans Beijer (78), boef B100 uit ‘Bassie en Adriaan’, overleden",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/showbizz/nederlandse-acteur-hans-beijer-78-boef-b100-uit-bassie-en-adriaan-overleden~af6ae9b3/",
+          "publishedDate": "Thu, 13 Aug 2026 20:50:00 GMT",
+          "description": "De Nederlandse acteur Hans Beijer, vooral bekend als de onfortuinlijke boef B100 uit ‘Bassie en Adriaan’, is op 78-jarige leeftijd overleden. Het nieuws werd vrijdag bekendgemaakt via de sociale media ..."
+        },
+        {
+          "title": "Alle series met Hans Beijer",
+          "source": "filmvandaag",
+          "url": "https://www.filmvandaag.nl/zoek?categorie=series&zoekterm=Hans+Beijer&veld=cast",
+          "publishedDate": "Fri, 28 Oct 2022 00:40:00 GMT",
+          "description": "Bekijk de beste series met Hans Beijer ..."
         }
       ]
     },
     {
-      "keyword": "frankrijk",
-      "trafficLabel": "5K+",
+      "keyword": "a59",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Jongeren met een te sterke auto riskeren in Frankrijk 15.000 euro boete en zelfs gevangenisstraf",
+          "title": "Hulpdiensten aanwezig na ongeluk in file op A59 achter protesterende boeren",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/329304/video/hulpdiensten-aanwezig-na-ongeluk-in-file-op-a59-achter-protesterende-boeren.html",
+          "publishedDate": "Fri, 14 Aug 2026 04:23:00 GMT",
+          "description": "Op de A59 bij het Brabantse Heesch zijn vrijdag twee mensen omgekomen bij een ongeval. Op de snelweg was een file ontstaan door protesterende boeren die met trekkers naar het provinciehuis in Den Bosc ..."
+        },
+        {
+          "title": "Ongeval met 2 doden op A59 in staart van file bij boerenprotest",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/binnenland/ongeval-met-2-doden-op-a59-in-staart-van-file-bij-boerenprotest~b832f52d/",
+          "publishedDate": "Fri, 14 Aug 2026 03:31:00 GMT",
+          "description": "Op de A59 bij Heesch zijn twee mensen omgekomen door een ongeval in de staart van een file die was ontstaan door tractoren die naar het provinciehuis in Den Bosch reden. Bij het ongeval waren vier ..."
+        },
+        {
+          "title": "Twee doden bij ongeluk op A59 zijn zeventigers uit Oss: ‘Een afschuwelijke tragedie’",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/auto/jongeren-met-een-te-sterke-auto-riskeren-in-frankrijk-15-000-euro-boete-en-zelfs-gevangenisstraf~a1754c4f/",
-          "publishedDate": "Fri, 07 Aug 2026 21:15:00 GMT",
-          "description": "In Frankrijk is een wet aangenomen die beginnende bestuurders verbiedt in een te sterke auto te rijden. Als je dat toch doet, kunnen de consequenties groot zijn."
+          "url": "https://www.ad.nl/binnenland/twee-doden-bij-ongeluk-op-a59-zijn-zeventigers-uit-oss-een-afschuwelijke-tragedie~a7c17500/",
+          "publishedDate": "Thu, 13 Aug 2026 23:14:00 GMT",
+          "description": "De twee mensen die vrijdagochtend om het leven kwamen bij een verkeersongeluk op de A59 bij Heesch zijn een 71-jarige man en een 72-jarige vrouw uit het nabijgelegen Oss. Dat bevestigt de politie. Daa ..."
         },
         {
-          "title": "Historische droogte Frankrijk raakt vakantiegangers: campings grijpen in bij douchen en met bommetjesverbod",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/historische-droogte-frankrijk-raakt-vakantiegangers-campings-grijpen-in-bij-douchen-en-met-bommetjesverbod~aeb35e76/",
-          "publishedDate": "Thu, 06 Aug 2026 22:38:00 GMT",
-          "description": "In Frankrijk is het kurkdroog en moet water worden bespaard. Tegelijkertijd is het superdruk met toeristen. Hoe verenig je dat? Een rondje langs verschillende campings. „Geen bommetje!” ..."
+          "title": "Dodelijke slachtoffers ongeluk A59 zijn zeventigers uit Oss, zes gewonden",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/binnenland/6406350/dodelijke-slachtoffers-ongeluk-a59-zijn-zeventigers-uit-oss-zes-gewonden.html",
+          "publishedDate": "Thu, 13 Aug 2026 18:26:00 GMT",
+          "description": "De twee mensen die vrijdagochtend omkwamen bij een verkeersongeluk op de A59 bij Heesch zijn een 71-jarige man en een 72-jarige vrouw uit het nabijgelegen Oss. De politie bevestigt daarnaast dat in to ..."
         },
         {
-          "title": "Branden in Zuid-Frankrijk: ‘Sommige mensen hebben met een tuinslang op hun dak gestaan’",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/branden-in-zuid-frankrijk-sommige-mensen-hebben-met-een-tuinslang-op-hun-dak-gestaan~bbe9ac40/",
-          "publishedDate": "Wed, 29 Jul 2026 17:00:00 GMT",
-          "description": "De bosbranden in Frankrijk zijn nog niet onder controle. Het grootste gevaar lopen inwoners van de Gironde, waar verslaggever Michael Persson spreekt met mensen die hun dorp zijn ontvlucht of proberen ..."
+          "title": "Slachtoffers ongeluk A59 zijn zeventigers uit Oss, zes gewonden",
+          "source": "Nederlands Dagblad",
+          "url": "https://www.nd.nl/varia/varia/1327495/slachtoffers-ongeluk-a59-zijn-zeventigers-uit-oss-zes-gewonden",
+          "publishedDate": "Fri, 14 Aug 2026 06:15:00 GMT",
+          "description": "De twee mensen die vrijdagochtend om het leven kwamen bij een verkeersongeluk op de A59 bij Heesch zijn een 71-jarige man en een 72-jarige vrouw uit het nabijgelegen Oss. Dat bevestigt de politie."
         },
         {
-          "title": "Verwoestende bosbranden in Frankrijk en Spanje nog niet onder controle, Europese landen schieten te hulp",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/verwoestende-bosbranden-in-frankrijk-en-spanje-nog-niet-onder-controle-europese-landen-schieten-te-hulp~b10b44e7/",
-          "publishedDate": "Fri, 24 Jul 2026 08:20:00 GMT",
-          "description": "Frankrijk en Spanje hebben om versterking gevraagd van andere EU-lidstaten bij de bestrijding van de bosbranden die tienduizenden hectare grond in de as hebben gelegd. Vrijdag zijn die nog altijd niet ..."
+          "title": "Ingetogen programma bij boerenprotest om dodelijk ongeval op A59",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Binnenland/ingetogen-programma-bij-boerenprotest-om-dodelijk-ongeval-op-a59/ar-AA2a69aq",
+          "publishedDate": "Fri, 14 Aug 2026 04:47:00 GMT",
+          "description": "DEN BOSCH (ANP) - Organisatoren van het boerenprotest in Den Bosch vinden het &quot;verschrikkelijk&quot; dat er twee mensen zijn verongelukt bij een file op de A59. Het podiumprogramma met sprekers buiten het ..."
         },
         {
-          "title": "Frankrijk vraagt hulp van EU bij bosbranden, Spanje roept noodtoestand uit",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2624217-frankrijk-vraagt-hulp-van-eu-bij-bosbranden-spanje-roept-noodtoestand-uit",
-          "publishedDate": "Thu, 23 Jul 2026 22:48:00 GMT",
-          "description": "Langs de kust van de Zuid-Franse stad Bordeaux zijn inmiddels ruim 20.000 mensen ge&#235;vacueerd en er is inmiddels 4800 hectare natuur verwoest."
-        },
-        {
-          "title": "Frankrijk en Spanje vragen Europese hulp bij bosbranden, tienduizenden mensen ge&#235;vacueerd",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/wereld/frankrijk-en-spanje-vragen-europese-hulp-bij-bosbranden-tienduizenden-mensen-geevacueerd~b3b73e8a/",
-          "publishedDate": "Thu, 23 Jul 2026 17:00:00 GMT",
-          "description": "Frankrijk en Spanje hebben Europese landen om hulp gevraagd bij het blussen van meerdere grote bosbranden. De Spaanse premier Pedro S&#225;nchez spreekt van een dramatische situatie. Inmiddels zijn tiendui ..."
-        },
-        {
-          "title": "Nicolas de Lacoste vertrokken: ‘In Suriname ben je toch dichtbij Frankrijk'”",
-          "source": "de Ware Tijd",
-          "url": "https://dwtonline.com/nicolas-de-lacoste-vertrokken-in-suriname-ben-je-toch-dichtbij-frankrijk/",
-          "publishedDate": "Tue, 11 Aug 2026 22:50:00 GMT",
-          "description": "Nicolas de Lacoste, voormalig ambassadeur van Frankrijk in Suriname, vertrok officieel op 1 augustus weer naar het vasteland, mainland France, ..."
-        },
-        {
-          "title": "Frankrijk voert verbod in op telemarketing, ook Belgi&#235; springt mee op de kar: “Goede zaak voor bescherming van consumenten”",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/buitenland/frankrijk-voert-verbod-in-op-telemarketing-ook-belgie-springt-mee-op-de-kar-goede-zaak-voor-bescherming-van-consumenten/159937787.html",
-          "publishedDate": "Tue, 11 Aug 2026 18:13:00 GMT",
-          "description": "In Frankrijk is er sinds kort een verbod op telemarketing. Bedrijven mogen dus niet meer ongevraagd mensen opbellen voor een verkooppraatje. Ook in Belgi&#235; zal zo’n verbod ingevoerd worden, een exacte ..."
-        },
-        {
-          "title": "&quot;Zelfs autoruiten zijn gesneuveld&quot;: plotse hagelbui richt ravage aan op vakantiedomein van Vlamingen in Frankrijk",
-          "source": "VRT on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/zelfs-autoruiten-zijn-gesneuveld-plotse-hagelbui-richt-ravage-aan-op-vakantiedomein-van-vlamingen-in-frankrijk/ar-AA29S8SE",
-          "publishedDate": "Tue, 11 Aug 2026 12:55:13 GMT",
-          "description": "De vakantiecamping die de Vlamingen Gunter en Ellen uitbaten in Zuid-Frankrijk is zwaar getroffen door een plotse hagelbui. Er vielen geen gewonden, maar de materi&#235;le schade aan de luxetenten en vakan ..."
-        },
-        {
-          "title": "Braziliaanse architect Juarez Teodoro da Silva werd zendeling in Frankrijk",
+          "title": "Toch trekkers op snelwegen • Zeeuws boerenprotest aangepast om ongeval",
           "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/1158952-braziliaanse-architect-juarez-teodoro-da-silva-werd-zendeling-in-frankrijk",
-          "publishedDate": "Mon, 10 Aug 2026 07:06:00 GMT",
-          "description": "Juarez Teodoro da Silva werd in 2016 door de Ag&#234;ncia Presbiteriana de Miss&#245;es Transculturais, het presbyteriaans genootschap voor transculturele zending, uitgezonden naar Frankrijk."
-        }
-      ]
-    },
-    {
-      "keyword": "memphis depay",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Corinthians verlengt contract Memphis Depay toch niet, spits reageert woest en dreigt met stappen",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/sport/corinthians-verlengt-contract-memphis-depay-toch-niet-spits-reageert-woest-en-dreigt-met-stappen~b4278ce2/",
-          "publishedDate": "Wed, 12 Aug 2026 04:41:00 GMT",
-          "description": "Memphis Depay heeft op sociale media gedreigd met stappen tegen de Braziliaanse voetbalclub Corinthians. Woensdag maakte de club bekend dat de financi&#235;n een contractverlenging niet toelaten en dat de ..."
+          "url": "https://www.rd.nl/artikel/1159345-lto-vergunningen-boeren-intrekken-raakt-vertrouwen-in-overheid-dodelijk-ongeval-op-a59-bij-heesch-in-staart-van-file-bij-boerenprotest",
+          "publishedDate": "Fri, 14 Aug 2026 03:55:00 GMT",
+          "description": "Provinciale Staten in Noord-Brabant onderbreken de zomervakantie om te vergaderen over het voornemen de vergunning van vijf pluimveebedrijven in te trekken."
         },
         {
-          "title": "Memphis woest op Corinthians na gedwongen vertrek: 'Dit blijft niet onbestraft'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6406066/memphis-woest-op-corinthians-na-gedwongen-vertrek-dit-blijft-niet-onbestraft.html",
-          "publishedDate": "Wed, 12 Aug 2026 00:45:00 GMT",
-          "description": "Memphis Depay heeft in de nacht van dinsdag op woensdag woedend uitgehaald naar Corinthians. De Braziliaanse club maakte dinsdag bekend dat het aflopende contract van de Oranje-international niet word ..."
+          "title": "Ongeval met letsel op A59 in Heesch, traumahelikopter gealarmeerd",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/noord-brabant/brabant-noord/heesch/55694341/p2000-ambulance-met-spoed-naar-heesch.html",
+          "publishedDate": "Fri, 14 Aug 2026 02:26:00 GMT",
+          "description": "Heesch is een plaats in de provincie Noord-Brabant en valt onder de P2000-regio Brabant-Noord. De hulpdiensten in Heesch reageren onder meer op 112 meldingen die bij deze veiligheidsregio binnenkomen."
         },
         {
-          "title": "Depay en Corinthians uit elkaar, woedende reactie Depay: 'Dit blijft niet ongestraft'",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2626469-depay-en-corinthians-uit-elkaar-woedende-reactie-depay-dit-blijft-niet-ongestraft",
-          "publishedDate": "Tue, 11 Aug 2026 22:12:00 GMT",
-          "description": "Memphis Depay vertrekt bij Corinthians. De Braziliaanse topclub acht een nieuw contract voor de Oranje-international financieel niet verantwoord."
+          "title": "Twee doden na ongeval in staart van file door boerenprotest op A59 bij Heesch",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/twee-doden-ongeval-file-boerenprotest-a59-heesch",
+          "publishedDate": "Fri, 14 Aug 2026 01:45:00 GMT",
+          "description": "Bij een ongeval met vier auto's op de A59 bij Heesch zijn twee mensen omgekomen. Het ongeluk gebeurde in de staart van een file door het boerenprotest."
         },
         {
-          "title": "Voorzitter durfde handtekening niet meer te zetten: waarom Memphis Depay vertrekt bij Corinthians",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/voorzitter-durfde-handtekening-niet-meer-te-zetten-waarom-memphis-depay-vertrekt-bij-corinthians~ab68ad91/",
-          "publishedDate": "Tue, 11 Aug 2026 18:13:00 GMT",
-          "description": "Alles leek rond, meldden Braziliaanse media zaterdag nog. Na lange en soms moeilijke onderhandelingen lag het contract tussen Memphis Depay en Corinthians klaar om getekend te worden. Dinsdag trok clu ..."
-        },
-        {
-          "title": "Transfervrije Memphis Depay geopperd voor Ajax: &quot;Dat zou kunnen&quot;",
-          "source": "ajax1.nl",
-          "url": "https://www.ajax1.nl/transfervrije-memphis-depay-geopperd-voor-ajax-dat-zou-kunnen/",
-          "publishedDate": "Wed, 12 Aug 2026 06:37:00 GMT",
-          "description": "Mario Been denkt dat Ajax de meest realistische optie binnen Nederland is voor Memphis Depay. De Oranje-international is transfervrij op te pikken. Deze week werd bekend dat Corinthians het aflopende ..."
-        },
-        {
-          "title": "‘Memphis Depay per direct naar Ajax’",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/memphis-depay-per-direct-naar-ajax/",
-          "publishedDate": "Wed, 12 Aug 2026 06:11:00 GMT",
-          "description": "Memphis Depay is transfervrij op te pikken nu hij geen contractverlenging heeft gekregen bij Corinthians. Keert hij terug in Nederland?"
-        },
-        {
-          "title": "Memphis Depay haalt uit naar Corinthians over het niet verlengen van zijn contract",
-          "source": "culturu",
-          "url": "https://www.culturu.com/nieuws/sport/memphis-depay-haalt-uit-naar-corinthians-over-het-niet-verlengen-van-zijn-contract/",
-          "publishedDate": "Wed, 12 Aug 2026 05:53:00 GMT",
-          "description": "Mempis Depay heeft op zijn sociale media uitgehaald naar de clubleiding van Corinthians, nadat de Braziliaanse topclub zijn contract op het laatste moment niet heeft verlengd. “Nu ben ik genoodzaakt ..."
-        },
-        {
-          "title": "Memphis transfervrij op weg naar Ajax? 'Het Godts-verhaal...'",
-          "source": "FC Update",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/memphis-transfervrij-op-weg-naar-ajax-het-godts-verhaal",
-          "publishedDate": "Wed, 12 Aug 2026 04:55:00 GMT",
-          "description": "Memphis Depay is transfervrij op te pikken, nu Corinthians heeft besloten zijn contract niet te verlengen. Slaat een Nederlandse topclub toe? In Voetbalpraat van ESPN wordt volop gespeculeerd over een ..."
-        },
-        {
-          "title": "Depay: Corinthians schendt afspraak door niet te verlengen",
+          "title": "Tientallen tractoren rijden over A59 richting Den Bosch",
           "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/depay-corinthians-schendt-afspraak-door-niet-te-verlengen",
-          "publishedDate": "Wed, 12 Aug 2026 03:00:00 GMT",
-          "description": "Memphis Depay uit kritiek op Corinthians: club verlengt aflopend contract niet ondanks gemaakte afspraken. Aanvaller belooft publiekelijk te reageren."
-        },
-        {
-          "title": "Groot nieuws over Memphis Depay (32) na 'moeilijke beslissing' over topvoetballer",
-          "source": "sportnieuws",
-          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/groot-nieuws-over-memphis-depay-32-na-moeilijke-beslissing-over-topvoetballer-2026081119274621233/",
-          "publishedDate": "Tue, 11 Aug 2026 14:31:00 GMT",
-          "description": "Opmerkelijk nieuws over Memphis Depay. De 32-jarige topvoetballer kan op zoek naar een nieuwe club. Het contract bij Corinthians wordt niet verlengd en daar lijkt de club zelf nog het hardst van te ..."
+          "url": "https://nieuws.nl/algemeen/tientallen-tractoren-rijden-over-a59-richting-den-bosch",
+          "publishedDate": "Fri, 14 Aug 2026 00:30:00 GMT",
+          "description": "Ongeveer 30 tractoren rijden over de A59 bij Vlijmen naar Den Bosch voor een grote stikstofprotest. Langzaam rijdend, met omgekeerde vlaggen, zonder politiebegeleiding."
         }
       ]
     },
     {
-      "keyword": "arnhem",
-      "trafficLabel": "5K+",
+      "keyword": "atletiek",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Zo deel je jouw favoriete hotspots in de stad heel makkelijk op indebuurt Arnhem",
+          "title": "Elien Vekemans eindigt als vierde in finale polsstokspringen op EK atletiek: “Ik zou meteen getekend hebben voor deze plaats”",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/sport/atletiek/elien-vekemans-eindigt-als-vierde-in-finale-polsstokspringen-op-ek-atletiek-ik-zou-meteen-getekend-hebben-voor-deze-plaats/160016222.html",
+          "publishedDate": "Thu, 13 Aug 2026 17:47:00 GMT",
+          "description": "Elien Vekemans is donderdag op het EK atletiek in het Engelse Birmingham in de finale van het polsstokspringen op de vierde plaats ge&#235;indigd. Hoewel ze net naast het podium belandde, overheerste de bl"
+        },
+        {
+          "title": "LIVESTREAM EK atletiek: Belgian Tornados en Cheetahs hebben finaleticket te pakken, Broeders &#233;n Philtjens in polsstokfinale",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/2026/08/03/livestream-ek-atletiek-belgian-tornados-en-cheetahs-hebben-finaleticket-te-pakken-broeders-en-philtjens-in-polsstokfinale~1785764000327/",
+          "publishedDate": "Thu, 13 Aug 2026 16:49:00 GMT",
+          "description": "Opnieuw een drukke ochtend voor de Belgen op het EK atletiek in Birmingham. Noor Vidts begint aan haar zevenkamp, terwijl Ben Broeders en Ylio Philtjens zich proberen te plaatsen voor de finale van he"
+        },
+        {
+          "title": "Jeff Tesselaar uit Heerhugowaard derde na acht onderdelen op tienkamp EK atletiek",
+          "source": "Noordhollands Dagblad",
+          "url": "https://www.noordhollandsdagblad.nl/sport/sport-alkmaar/jeff-tesselaar-uit-heerhugowaard-derde-na-acht-onderdelen-op-tienkamp-ek-atletiek/160008386.html",
+          "publishedDate": "Thu, 13 Aug 2026 12:53:00 GMT",
+          "description": "Jeff Tesselaar bezet na acht onderdelen de derde plaats op de tienkamp bij de EK atletiek in Birmingham en doet nog volop mee om de medailles. De 23-jarige meerkamper uit Heerhugowaard is ook hard op"
+        },
+        {
+          "title": "Nederland zorgt voor zenuwslopende finale op EK atletiek: fenomenale Lieke Klaver lacht na nieuwe medaille",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/atletiek/nieuws/nederland-zorgt-voor-zenuwslopende-finale-op-ek-atletiek-fenomenale-lieke-klaver-lacht-na-nieuwe-medaille-2026081017591844885/",
+          "publishedDate": "Mon, 10 Aug 2026 15:46:00 GMT",
+          "description": "Nederland heeft de derde medaille binnen op de EK atletiek. Na goud en zilver bij het kogelstoten was er een zenuwslopende finale van de 4x400 meter gemengd. Zonder Femke Broeders-Bol werd het razend spannend en leek Nederland op weg naar sensationeel goud. Het werd echter keurig brons."
+        }
+      ]
+    },
+    {
+      "keyword": "brandweerman",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Brandweerman overleden die zwaargewond raakte bij duinbrand Ouddorp",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2626546-brandweerman-overleden-die-zwaargewond-raakte-bij-duinbrand-ouddorp",
+          "publishedDate": "Wed, 12 Aug 2026 09:43:00 GMT",
+          "description": "Een brandweerman die vorige week zwaargewond raakte bij het bestrijden van een duinbrand in Ouddorp is overleden. Dat meldt de veiligheidsregio. Het gaat om een vrijwilliger van de brandweerkazerne in ..."
+        },
+        {
+          "title": "Brandweerman die onder voertuig terechtkwam bij duinbrand Ouddorp overleden: ’Diep gat in ons brandweerhart’",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/binnenland/brandweerman-die-onder-voertuig-terechtkwam-bij-duinbrand-ouddorp-overleden-diep-gat-in-ons-brandweerhart/159937604.html",
+          "publishedDate": "Wed, 12 Aug 2026 08:46:00 GMT",
+          "description": "De brandweerman die bij het blussen van een duinbrand bij het Zuid-Hollandse Ouddorp op donderdag 6 augustus zwaargewond raakte, is overleden. Dat meldt de veiligheidsregio. De man overleed op woensda ..."
+        },
+        {
+          "title": "Brandweerman die onder voertuig kwam tijdens duinbrand Ouddorp is overleden",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/arnhem/zo-deel-je-jouw-favoriete-hotspots-in-de-stad-heel-makkelijk-op-indebuurt-arnhem~a1014d088/",
-          "publishedDate": "Sun, 09 Aug 2026 03:00:00 GMT",
-          "description": "Als Arnhemmer weet jij natuurlijk allang dat Arnhem de leukste stad van Nederland is. En jij kent ook de gezelligste, mooiste en bijzonderste plekjes in de stad. Deel daarom jouw hotspots met je stads ..."
+          "url": "https://www.ad.nl/112-nieuws-goeree-overflakkee/brandweerman-die-onder-voertuig-kwam-tijdens-duinbrand-ouddorp-is-overleden~ad8fb197/",
+          "publishedDate": "Tue, 11 Aug 2026 23:33:00 GMT",
+          "description": "Een brandweerman die zwaargewond raakte tijdens het blussen van de natuurbrand in de duinen bij Ouddorp vorige week, is overleden. Dat meldt de brandweer van Hellevoetsluis op Facebook."
         },
         {
-          "title": "Hier kun je vanavond in Arnhem het beste de zonsverduistering bekijken",
-          "source": "Arnhem Direct",
-          "url": "https://www.arnhem-direct.nl/hier-kun-je-vanavond-in-arnhem-het-beste-de-zonsverduistering-bekijken/",
-          "publishedDate": "Wed, 12 Aug 2026 05:03:00 GMT",
-          "description": "ARNHEM – Nederland is in de ban van de zonsverduistering die vanavond te zien is. Tijdens de eclips verdwijnt op het hoogtepunt ongeveer 88 procent van de zon achter de maan. Maar waar kun je het ..."
+          "title": "Brandweerman raakt zwaargewond bij duinbrand Ouddorp, maar niet door het vuur",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/goeree-overflakkee/brandweerman-raakt-zwaargewond-bij-duinbrand-ouddorp-maar-niet-door-het-vuur~a03ed3f5/",
+          "publishedDate": "Thu, 06 Aug 2026 21:41:00 GMT",
+          "description": "De bij de natuurbrand in de duinen bij Ouddorp afgevoerde brandweerman is zwaargewond geraakt, meldt de veiligheidsregio. Hij kwam onder een brandweervoertuig terecht. „Over zijn gezondheidstoestand m ..."
         },
         {
-          "title": "Mysterie: dit zijn die halve bollen langs de A50 tussen Arnhem en Apeldoorn",
-          "source": "indebuurt",
-          "url": "https://indebuurt.nl/arnhem/genieten-van-arnhem/mysteries/mysterie-dit-zijn-die-halve-bollen-langs-de-a50-tussen-arnhem-en-apeldoorn~a69d589c/",
-          "publishedDate": "Tue, 11 Aug 2026 00:00:00 GMT",
-          "description": "Je hebt ze vast weleens langs de snelweg zien liggen: die halve bollen aan de A50 tussen Arnhem en Apeldoorn. Wat zijn het voor dingen? Wij zochten het uit."
+          "title": "Ex-brandweerman Serge runt nu eigen slagerij: “Ik werk harder dan vroeger, maar de uitdaging is fantastisch”",
+          "source": "Standaard",
+          "url": "https://www.standaard.be/economie/geld/ex-brandweerman-serge-runt-nu-eigen-slagerij-ik-werk-harder-dan-vroeger-maar-de-uitdaging-is-fantastisch/159828444.html",
+          "publishedDate": "Thu, 13 Aug 2026 16:01:00 GMT",
+          "description": "Na een mooie carri&#232;re als brandweerman in een chemiebedrijf besloot Serge Moeskops het roer volledig om te gooien. Toen zijn favoriete keurslager met pensioen ging, nam hij de slagerij over. “In mijn ..."
         },
         {
-          "title": "Duo-tentoonstelling van Hans Vredegoor en Loes Kurpershoek opent in Arnhem",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/arnhem/duo-tentoonstelling-van-hans-vredegoor-en-loes-kurpershoek-opent-in-arnhem~a4c982fc/",
-          "publishedDate": "Mon, 10 Aug 2026 03:00:00 GMT",
-          "description": "Wijkcentrum Bakermat in Arnhem opent een duo-tentoonstelling met werk van Hans Vredegoor en Loes Kurpershoek. Zondag 16 augustus begint de opening om 15.30 uur in de Rembrandtzaal aan Izaak Evertslaan ..."
+          "title": "Brandweerman die gewond raakte bij duinbrand Ouddorp overleden",
+          "source": "zeelandnet",
+          "url": "https://www.zeelandnet.nl/nieuws/brandweerman-die-gewond-raakte-bij-duinbrand-ouddorp-overleden",
+          "publishedDate": "Wed, 12 Aug 2026 08:57:00 GMT",
+          "description": "Tijdens het bestrijden van de brand kwam de man onder een brandweervoertuig terecht. Het slachtoffer werd daarna met een traumahelikopter naar het ziekenhuis gebracht. Een dag later liet de ..."
         },
         {
-          "title": "Uitslaande vlammen bij autobrand op IJsselburcht in Arnhem",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/112-nieuws-arnhem/uitslaande-vlammen-bij-autobrand-op-ijsselburcht-in-arnhem~a96ae572/",
-          "publishedDate": "Sun, 09 Aug 2026 18:29:00 GMT",
-          "description": "Een auto brandde in de nacht van zondag op maandag uit. Dit gebeurde op de IJsselburcht in Arnhem. Van de auto bleef alleen het skelet over."
+          "title": "Zwaargewonde brandweerman Adri overleden na ernstig ongeval tijdens natuurbrand Ouddorp",
+          "source": "Transport Online",
+          "url": "https://www.transport-online.nl/134797/zwaargewonde-brandweerman-adri-overleden-na-ernstig-ongeval-tijdens-natuurbrand-ouddorp/",
+          "publishedDate": "Wed, 12 Aug 2026 08:46:00 GMT",
+          "description": "OUDDORP - De brandweerman die zwaargewond raakte tijdens de bestrijding van de natuurbrand in de duinen bij Ouddorp, is overleden. Dat meldt Brandweer Hellevoetsluis. Het gaat om Adri, vrijwilliger bi ..."
         },
         {
-          "title": "Enorme zeppelin vliegt langs Velp, over Arnhem en de Posbank voor onderzoek naar luchtkwaliteit",
-          "source": "Rheden Nieuws",
-          "url": "https://rheden.nieuws.nl/nieuws/enorme-zeppelin-vliegt-langs-velp-over-arnhem-en-de-posbank-voor-onderzoek-naar-luchtkwaliteit",
-          "publishedDate": "Sun, 09 Aug 2026 07:48:00 GMT",
-          "description": "VELP - Wie zondag 9 augustus omhoog keek in de omgeving van Velp, Arnhem, Nationaal Park de Veluwezoom, Rheden en de Posbank, kon een opvallend luchtschip zien. De grote Zeppelin NT met registratie D- ..."
+          "title": "Brandweerman overleden nadat hij onder brandweerwagen kwam",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2238445/brandweerman-overleden-nadat-hij-onder-brandweerwagen-kwam",
+          "publishedDate": "Wed, 12 Aug 2026 06:18:00 GMT",
+          "description": "Een brandweerman is overleden nadat hij tijdens het blussen van de duinbrand in Ouddorp onder een brandweerwagen kwam. De man raakte op 6 augustus zwaargewond en werd naar het ziekenhuis gebracht. Hij ..."
+        },
+        {
+          "title": "Brandweerman zwaargewond bij duinbrand in Ouddorp",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/openbare-veiligheid-en-noodsituaties/gezondheid-en-veiligheid-waarschuwingen/brandweerman-zwaargewond-bij-duinbrand-in-ouddorp/ar-AA29ATgc",
+          "publishedDate": "Fri, 07 Aug 2026 05:31:00 GMT",
+          "description": "OUDDORP (ANP) - Bij de natuurbrand in de duinen bij het Zuid-Hollandse Ouddorp is een brandweerman zwaargewond geraakt, meldt de veiligheidsregio. Hij kwam onder een brandweervoertuig terecht. &quot;Over z ..."
+        },
+        {
+          "title": "Grote zorgen om brandweerman na ernstig ongeluk bij natuurbrand Ouddorp",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/brand/artikelen/zuid-holland-ouddorp-brandweerman-zwaargewond-natuurbrand",
+          "publishedDate": "Fri, 07 Aug 2026 04:42:00 GMT",
+          "description": "Een brandweerman is zwaargewond geraakt tijdens het bestrijden van de natuurbrand in de duinen bij Ouddorp. De zeer ervaren brandweerman kwam onder een brandweervoertuig terecht. De veiligheidsregio m ..."
+        }
+      ]
+    },
+    {
+      "keyword": "prichard colon",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Puerto Ricaanse oud-bokskampioen Prichard Col&#243;n (33) overleden: 'Hij is in een betere wereld'",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/puerto-ricaanse-oud-bokskampioen-prichard-col%C3%B3n-33-overleden-hij-is-in-een-betere-wereld/ar-AA2a6FzY",
+          "publishedDate": "Fri, 14 Aug 2026 05:58:15 GMT",
+          "description": "De Puerto Ricaanse oud-bokser Prichard Col&#243;n (33), die na een gevecht 221 dagen in coma lag, is overleden. Dat heeft zijn vader bekendgemaakt in een bericht op sociale media."
+        },
+        {
+          "title": "Prichard Colon dies at 33 after spending 221 days in a coma following 2015 fight. Where is Terrel Williams now and what happened to his career?",
+          "source": "The Economic Times on MSN",
+          "url": "https://www.msn.com/en-in/sports/boxing/prichard-colon-dies-at-33-after-spending-221-days-in-a-coma-following-2015-fight-where-is-terrel-williams-now-and-what-happened-to-his-career/ar-AA2a6voL",
+          "publishedDate": "Fri, 14 Aug 2026 06:18:13 GMT",
+          "description": "Prichard Colon, the boxer who suffered a devastating brain injury after his 2015 fight with Terrel Williams, has died at 33 after spending 221 days in a coma. There is little reliable public ..."
+        },
+        {
+          "title": "Former boxer Prichard Col&#243;n dies from injury that caused 221-days coma",
+          "source": "ClutchPoints",
+          "url": "https://clutchpoints.com/celebrity/former-boxer-prichard-colon-dies-injury-caused-221-days-coma",
+          "publishedDate": "Fri, 14 Aug 2026 06:11:00 GMT",
+          "description": "After years of suffering and hardships, boxer Prichard Col&#243;n has passed away. Former Puerto Rican boxer Prichard Col&#243;n recently died at the age of 33. He passed away 11 years after sustaining ..."
+        },
+        {
+          "title": "Puerto Rican boxer Prichard Colon die 11 years afta brain injury wey e sustain from fight",
+          "source": "BBC",
+          "url": "https://www.bbc.com/pidgin/articles/c9v427yv4p9o",
+          "publishedDate": "Fri, 14 Aug 2026 05:59:00 GMT",
+          "description": "Prichard Colon, wey bin suffer severe brain injury during one 2015 fight, die at age 33, im papa Richard confam on social media."
+        },
+        {
+          "title": "Prichard Colon Death: Where Is Terrell Williams Now? Was He Sued by Colon's Family After Their 2015 Fight?",
+          "source": "FilmiBeat",
+          "url": "https://www.filmibeat.com/hollywood/news/2026/prichard-colon-died-at-33-where-is-terrell-williams-now-was-he-sued-by-colon-family-after-2015-fight-527755.html",
+          "publishedDate": "Fri, 14 Aug 2026 05:45:00 GMT",
+          "description": "Prichard Colon’s tragic 2015 boxing injury left him with severe brain damage. But where is Terrell Williams now, and did Colon’s family sue him after the fight?"
+        },
+        {
+          "title": "Boxer Prichard Col&#243;n dies at 33, 11 years after receiving illegal blow to the head during fight",
+          "source": "CNN on MSN",
+          "url": "https://www.msn.com/en-us/sports/other/boxer-prichard-col%C3%B3n-dies-at-33-11-years-after-receiving-illegal-blow-to-the-head-during-fight/ar-AA2a6fq5",
+          "publishedDate": "Fri, 14 Aug 2026 04:13:14 GMT",
+          "description": "Former boxer Prichard Col&#243;n has died at age 33, 11 years after sustaining life-altering blows to the head during the only defeat of his professional career."
+        },
+        {
+          "title": "Prichard Colon net worth: Did ex-Puerto Rican boxer's family get $50mn after his injury?",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/sports/us-sports/prichard-colon-net-worth-did-former-puerto-rican-boxer-family-get-50mn-after-his-injury-101786700381334.html",
+          "publishedDate": "Fri, 14 Aug 2026 03:10:00 GMT",
+          "description": "Prichard Colon, former Puerto Rican boxer, dies at 33 after long struggle from a severe brain injury sustained during a 2015 match."
+        },
+        {
+          "title": "Puerto Ricaanse bokser Prichard Colon, die 221 dagen in coma lag na hersenbloeding, is 11 jaar na dramatische laatste kamp overleden",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/2026/08/14/puerto-ricaanse-bokser-prichard-colon-die-221-dagen-in-coma-lag-na-hersenbloeding-is-11-jaar-na-dramatische-laatste-kamp-overleden~1786684553332/",
+          "publishedDate": "Thu, 13 Aug 2026 23:36:00 GMT",
+          "description": "De bokswereld rouwt om Prichard Colon, de Puerto Ricaanse bokser die in oktober 2025 na een bokskamp een hersenbloeding kreeg in de kleedkamer. Hij onderging een levensreddende ingreep, lag 221 dagen ..."
+        },
+        {
+          "title": "Boxer Prichard Col&#243;n, who spent 221 days in a coma after a fight, has died - PHOTO - VIDEO",
+          "source": "1news.az",
+          "url": "https://1news.az/en/news/20260814152507983-Boxer-Prichard-Col-n-who-spent-221-days-in-a-coma-after-a-fight-has-died-PHOTO-VIDEO",
+          "publishedDate": "Thu, 13 Aug 2026 17:00:00 GMT",
+          "description": "Col&#243;n ended his professional career after a severe injury sustained in October 2015 in a fight with American Terrel Williams. After the bout, during which his opponent repeatedly landed illegal blows ..."
+        },
+        {
+          "title": "Where is Terrel Williams now? What happened to the boxer after Prichard Colon fight?",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/sports/us-sports/where-is-terrel-williams-now-what-happened-to-the-boxer-after-prichard-colon-fight-101786642815414.html",
+          "publishedDate": "Thu, 13 Aug 2026 11:19:00 GMT",
+          "description": "Prichard Colon, the Puerto Rican boxer who suffered a devastating brain injury during his 2015 bout with Terrel Williams, died Thursday at the age of 33. Prichard Colon collapsed after the fight with ..."
+        }
+      ]
+    },
+    {
+      "keyword": "reuzenhaai",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Reuzenhaai voor Nederlandse kust",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/binnenland/reuzenhaai-voor-nederlandse-kust/65378605.html",
+          "publishedDate": "Tue, 04 Nov 2014 08:17:00 GMT",
+          "description": "Ecomare nam de melding meteen serieus. Op Facebook staan namelijk ook foto's die voor de Belgische kust zijn gemaakt. De reuzenhaai (Cetorhinus maximus) is de op een na grootste levende vis, alleen de ..."
+        },
+        {
+          "title": "Reuzenhaai van bijna vijf meter lang aangespoeld aan Deense kust, doodsoorzaak nog onduidelijk",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/reuzenhaai-van-bijna-vijf-meter-lang-aangespoeld-aan-deense-kust-doodsoorzaak-nog-onduidelijk/160014033.html",
+          "publishedDate": "Thu, 13 Aug 2026 23:00:00 GMT",
+          "description": "Op een strand in het noorden van Denemarken is een dode reuzenhaai van bijna vijf meter lang aangetroffen. Het dier werd enkele dagen eerder nog voor de kust van de badplaats &#197;lb&#230;k opgemerkt, waar het ..."
+        },
+        {
+          "title": "Vlaams gezin zag reuzenhaai die op raadselachtige manier stierf voor Deense kust: “Het was indrukwekkend, wat een enorm dier”",
+          "source": "HLN",
+          "url": "https://www.hln.be/buitenland/vlaams-gezin-zag-reuzenhaai-die-op-raadselachtige-manier-stierf-voor-deense-kust-het-was-indrukwekkend-wat-een-enorm-dier~a561b991/",
+          "publishedDate": "Thu, 13 Aug 2026 12:27:00 GMT",
+          "description": "Een reuzenhaai van bijna vijf meter heeft dagenlang voor opwinding gezorgd aan een populair strand in Denemarken. Vakantiegangers, waaronder een gezin uit het Oost-Vlaamse Merelbeke-Melle, zagen hoe ..."
+        },
+        {
+          "title": "Opmerkelijk – Reuzenhaai gespot voor de kust van Kroati&#235;: kan meer dan 10 meter lang worden",
+          "source": "dbsuriname",
+          "url": "https://www.dbsuriname.com/2026/02/27/opmerkelijk-reuzenhaai-gespot-voor-de-kust-van-kroatie-kan-meer-dan-10-meter-lang-worden/",
+          "publishedDate": "Fri, 27 Feb 2026 05:00:00 GMT",
+          "description": "In de Adriatische Zee, voor de kust van Kroati&#235;, is afgelopen week een reuzenhaai gespot. Dat meldt het Blue World Institute. Volgens de natuurorganisatie gaat het om de op een na grootste haaiensoort ..."
+        },
+        {
+          "title": "Reuzenhaai zwemt langs kust van Marbella en verrast bootpassagiers",
+          "source": "inspanje.nl",
+          "url": "https://inspanje.nl/reuzenhaai-zwemt-langs-kust-van-marbella-en-verrast-bootpassagiers/",
+          "publishedDate": "Mon, 19 May 2025 23:28:00 GMT",
+          "description": "Volgens AquaTime, dat al 35 jaar actief is aan de Costa del Sol, was het de allereerste keer dat zij een reuzenhaai van zo dichtbij zagen. Op de beelden is te zien hoe een volwassen vrouwtje samen met ..."
+        },
+        {
+          "title": "Visser vangt per ongeluk reuzenhaai aan de Costa Brava",
+          "source": "inspanje.nl",
+          "url": "https://inspanje.nl/visser-vangt-per-ongeluk-reuzenhaai-aan-de-costa-brava/",
+          "publishedDate": "Sun, 13 Apr 2025 01:55:00 GMT",
+          "description": "Een visser uit Port de la Selva aan de Costa Brava had vorige week een onverwachte vangst in zijn netten. Hij ving een reuzenhaai (Cetorhinus maximus) van maar liefst zeven meter lang. Het dier raakte ..."
+        },
+        {
+          "title": "G&#233;&#233;n lucratieve haaivinnensoep: visser schenkt zeldzame reuzenhaai aan museum",
+          "source": "HLN",
+          "url": "https://www.hln.be/dieren/geen-lucratieve-haaivinnensoep-visser-schenkt-zeldzame-reuzenhaai-aan-museum~a3bbb69e/",
+          "publishedDate": "Sun, 16 Apr 2017 17:13:00 GMT",
+          "description": "Dierenonderzoekers weten nog niet zo veel over reuzenhaaien omdat ze zo moeilijk te vinden zijn. &quot;Natuurlijk zien we ze allemaal liever in de zee, maar op deze manier blijft de reuzenhaai wel bewaard ..."
+        },
+        {
+          "title": "Vogeltellers spotten reuzenhaai in Noordzee",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2014/11/04/vogeltellers_spottenreuzenhaaiinnoordzee-1-2138832/",
+          "publishedDate": "Tue, 04 Nov 2014 07:34:00 GMT",
+          "description": "Medewerkers van INBO waren vorige donderdag op weg met het onderzoeksschip Simon Stevin om vogels te tellen, toen ze getuige waren van een unieke gebeurtenis. &quot;Een zeldzame waarneming&quot;, aldus Jan Seys ..."
+        },
+        {
+          "title": "Reuzenhaai schrikt strand van De Panne op",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2012/07/24/reuzenhaai_schriktstrandvandepanneop-1-1378485/",
+          "publishedDate": "Tue, 24 Jul 2012 04:12:00 GMT",
+          "description": "Reuzenhaai schrikt strand van De Panne op Voor de kust van De Panne, in de buurt van pootjebaders, is gisterennamiddag een reuzenhaai gezien. Dat is de op &#233;&#233;n na grootste vissoort ter wereld. Om ..."
+        }
+      ]
+    },
+    {
+      "keyword": "leeuwarden",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Bijna twee keer zo veel sportscholen in Leeuwarden, maar ook meer mensen die te weinig bewegen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/leeuwarden/bijna-twee-keer-zo-veel-sportscholen-in-leeuwarden-maar-ook-meer-mensen-die-te-weinig-bewegen~a0999773/",
+          "publishedDate": "Tue, 11 Aug 2026 19:37:00 GMT",
+          "description": "Wie graag naar de sportschool gaat, kan in Leeuwarden op 114 plekken terecht. Daarmee is het aantal fitnessgelegenheden sinds 2017 bijna verdubbeld, blijkt uit cijfers van de Kamer van Koophandel. Het ..."
+        },
+        {
+          "title": "Brand in berm langs Eebrug in Leeuwarden",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-leeuwarden/brand-in-berm-langs-eebrug-in-leeuwarden~a223eb68/",
+          "publishedDate": "Mon, 10 Aug 2026 15:30:00 GMT",
+          "description": "In een berm langs de Eebrug in Leeuwarden is maandagavond brand ontstaan. Over de oorzaak van de brand, is nog niets bekend."
+        },
+        {
+          "title": "We zeggen het maar even, er is ook een Pride in Leeuwarden, Doetinchem en Vlissingen: ‘We willen de queercultuur juist vieren’",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/volkskrant-magazine/we-zeggen-het-maar-even-er-is-ook-een-pride-in-leeuwarden-doetinchem-en-vlissingen-we-willen-de-queercultuur-juist-vieren~bd517b6a/",
+          "publishedDate": "Thu, 23 Jul 2026 09:00:00 GMT",
+          "description": "Ook buiten de grote steden wordt Pride gevierd, en daar is de behoefte aan het opzoeken van queerminded gelijkgestemden misschien wel extra groot. ‘Zonde dat jonge mensen hier wegtrekken omdat ze het ..."
+        },
+        {
+          "title": "Persoon te water Rixtwei in Leeuwarden",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/friesland/leeuwarden/55690375/p2000-persoon-te-water-op-rixtwei-in-leeuwarden.html",
+          "publishedDate": "Thu, 13 Aug 2026 05:48:00 GMT",
+          "description": "Leeuwarden is een plaats in de provincie Friesland en valt onder de P2000-regio Friesland. De hulpdiensten in Leeuwarden reageren onder meer op 112 meldingen die bij deze veiligheidsregio binnenkomen."
+        },
+        {
+          "title": "Ongeval met letsel op Dammelaan in Leeuwarden",
+          "source": "Alarmeringen",
+          "url": "https://alarmeringen.nl/friesland/leeuwarden/55689913/p2000-ongeval-met-letsel-op-dammelaan-in-leeuwarden.html",
+          "publishedDate": "Thu, 13 Aug 2026 04:14:00 GMT",
+          "description": "De hulpdiensten zijn donderdagochtend uitgerukt voor een ongeval met letsel aan de Dammelaan in Leeuwarden. De melding kwam rond kwart over elf 's ochtends bij de alarmcentrale binnen. Hulpdiensten ..."
+        },
+        {
+          "title": "IT applicatie &amp; proces specialist",
+          "source": "Tweakers",
+          "url": "https://tweakers.net/carriere/it-banen/1123764/it-applicatie-en-proces-specialist-leeuwarden-abiant",
+          "publishedDate": "Tue, 11 Aug 2026 17:00:00 GMT",
+          "description": "Voor een technisch productiebedrijf zoeken we een IT Applicatie &amp; Proces Specialist die een belangrijke rol wil spelen in de verdere digitalisering van de organisatie. Je wordt verantwoordelijk voor ..."
         },
         {
           "title": "Week van de Rechtsstaat: publieksavond over militaire kamer in Arnhem, open dag met zittingen in Leeuwarden",
@@ -704,25 +462,232 @@
           "description": "Arnhem, Leeuwarden, 7 augustus 2026 om 17:06, Het gerechtshof Arnhem-Leeuwarden geeft tijdens de landelijke Week van de Rechtsstaat een uniek kijkje achter de schermen op beide zittingslocaties. In Ar ..."
         },
         {
-          "title": "Brandlucht in Arnhem komt van grote natuurbrand bij Venray",
-          "source": "Arnhem Direct",
-          "url": "https://www.arnhem-direct.nl/brandlucht-in-arnhem-komt-van-grote-natuurbrand-bij-venray/",
-          "publishedDate": "Tue, 04 Aug 2026 02:42:00 GMT",
-          "description": "ARNHEM – Wie vanochtend in Arnhem naar buiten loopt, kan een duidelijke brandlucht ruiken. Die geur komt niet uit de directe omgeving, maar van de grote natuurbrand bij Oostrum, in de gemeente Venray."
+          "title": "Leeuwarden d&#233; vintage-hotspot van Nederland, Amersfoort koploper online",
+          "source": "Textilia",
+          "url": "https://www.textilia.nl/leeuwarden-de-vintage-hotspot-van-nederland-amersfoort-koploper-online/",
+          "publishedDate": "Mon, 20 Apr 2026 17:00:00 GMT",
+          "description": "Tweedehands shoppen wint in Nederland snel aan terrein, niet alleen uit oogpunt van prijs, maar vooral vanwege de vraag naar unieke items met karakter. Dat meldt vloerenfabrikant Tarkett op basis van ..."
         },
         {
-          "title": "De kleinste woning die nu te koop staat in Arnhem is net een poppenhuisje",
-          "source": "indebuurt",
-          "url": "https://indebuurt.nl/arnhem/wonen/de-kleinste-woning-die-nu-te-koop-staat-in-arnhem-is-net-een-poppenhuisje~a868e392/",
-          "publishedDate": "Fri, 31 Jul 2026 09:00:00 GMT",
-          "description": "Een opvallend detail in de slaapkamer, houten plafondbalken en zichtbare trappen herinneren aan misschien wel jouw favoriete speelgoed van vroeger. De kleinste tussenwoning die nu te koop staat in Arn ..."
+          "title": "Defensie in beroep tegen vernietiging natuurvergunning Vliegbasis Leeuwarden",
+          "source": "luchtvaartnieuws.nl",
+          "url": "https://www.luchtvaartnieuws.nl/nieuws/categorie/4/militair/defensie-in-beroep-tegen-vernietiging-natuurvergunning-vliegbasis-leeuwarden",
+          "publishedDate": "Thu, 28 Aug 2025 08:09:00 GMT",
+          "description": "Defensie gaat in hoger beroep bij de Raad van State tegen de uitspraak van de rechter vorige maand die de natuurvergunning van Vliegbasis Leeuwarden vernietigde. Op de vliegbasis zijn onder meer F-35 ..."
         },
         {
-          "title": "Na bijna 25 jaar verhuist Computershop Arnhem naar nieuwe locatie in winkelcentrum Presikhaaf",
-          "source": "Arnhemse Koerier",
-          "url": "https://www.arnhemsekoerier.nl/nieuws/algemeen/223131/na-bijna-25-jaar-verhuist-computershop-arnhem-naar-nieuwe-locatie-in-winkelcentrum-presikhaaf",
-          "publishedDate": "Fri, 31 Jul 2026 04:59:00 GMT",
-          "description": "ARNHEM – Computershop Arnhem heeft eind juli de deuren geopend op een nieuwe locatie in Winkelcentrum Presikhaaf. De computerspeciaalzaak verhuisde van het Gamerslagplein 2 naar de Hanzestraat 264 in ..."
+          "title": "Jouw nieuwe favoriete stad voor een winterse staycation vind je... gewoon in Friesland!",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/lifestyle/g38293741/staycation-visit-leeuwarden-najaar/",
+          "publishedDate": "Tue, 14 Dec 2021 23:38:00 GMT",
+          "description": "Dit artikel kwam tot stand in samenwerking met Visit Leeuwarden. Wie zegt dat je ver moet reizen voor een heerlijk weekend weg? Nederland kent genoeg fijne steden die je vast nog niet ontdekt hebt, ..."
+        }
+      ]
+    },
+    {
+      "keyword": "dodenweg",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Opnieuw ernstig ongeluk op ‘dodenweg’: ‘Verlaag de maximumsnelheid’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/rheden/opnieuw-ernstig-ongeluk-op-dodenweg-verlaag-de-maximumsnelheid~acbb75ff/",
+          "publishedDate": "Sun, 19 Jul 2026 16:59:00 GMT",
+          "description": "Nu het opnieuw mis is gegaan op de beruchte kanaalroute tussen Dieren en Apeldoorn, trekken omwonenden weer aan de bel. Verlaag de maximumsnelheid van 80 naar 60 kilometer per uur op deze ‘dodenweg’, ..."
+        },
+        {
+          "title": "‘Dodenweg’ Stiens-Holwert kan eerder aangepakt worden door extra geld provincie",
+          "source": "lc.nl",
+          "url": "https://lc.nl/regio/friesland/dodenweg-stiens-holwert-kan-eerder-aangepakt-worden-door-extra-geld-provincie/156422933.html",
+          "publishedDate": "Fri, 21 Nov 2025 08:50:00 GMT",
+          "description": "Met die boodschap kwam gedeputeerde Matthijs de Vries (CU) vrijdag naar Feinsum, waar hij was uitgenodigd door de dorpsbelangen van Feinsum en Stiens en de Fietsersbond. De Vries wees erop dat de ..."
+        },
+        {
+          "title": "Tractor of brommobiel inhalen op ‘dodenweg’ tussen Dieren en Apeldoorn? Dat wordt een duur geintje",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/rheden/tractor-of-brommobiel-inhalen-op-dodenweg-tussen-dieren-en-apeldoorn-dat-wordt-een-duur-geintje~a16cedd0/",
+          "publishedDate": "Thu, 29 Sep 2022 00:45:00 GMT",
+          "description": "Een tractor of brommobiel inhalen op de weg langs het Apeldoorns kanaal? Dat kost je straks 250 euro. Op de zogeheten ‘dodenweg’ geldt binnenkort een volledig inhaalverbod. Een bezwaar daartegen is ..."
+        },
+        {
+          "title": "Apeldoorn grijpt in op ‘dodenweg’: zelfs trekkers inhalen mag niet meer",
+          "source": "AD",
+          "url": "https://www.ad.nl/apeldoorn/apeldoorn-grijpt-in-op-dodenweg-zelfs-trekkers-inhalen-mag-niet-meer~a0986b15/",
+          "publishedDate": "Tue, 02 Aug 2022 21:02:00 GMT",
+          "description": "De route tussen Apeldoorn en Dieren staat bekend als ‘dodenweg’; alleen al in het laatste jaar zijn er drie mensen om het leven gekomen bij een ongeluk. Op de weg langs het Apeldoorns Kanaal - op ..."
+        },
+        {
+          "title": "Ingreep op ‘dodenweg’ tussen Apeldoorn en Dieren: zelfs trekkers inhalen mag niet meer",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/rheden/ingreep-op-dodenweg-tussen-apeldoorn-en-dieren-zelfs-trekkers-inhalen-mag-niet-meer~a0986b15/",
+          "publishedDate": "Tue, 02 Aug 2022 18:05:00 GMT",
+          "description": "De route tussen Apeldoorn en Dieren staat bekend als ‘dodenweg’; alleen al in het laatste jaar zijn er drie mensen om het leven gekomen bij een ongeluk. Op de weg langs het Apeldoorns Kanaal - op ..."
+        },
+        {
+          "title": "‘Dodenweg’ N50 bij Kampen krijgt tijdelijke veiligheidsmaatregelen",
+          "source": "Nederlands Dagblad",
+          "url": "https://www.nd.nl/nieuws/economie/1130697/dodenweg-n50-bij-kampen-krijgt-tijdelijke-veiligheidsmaatregelen",
+          "publishedDate": "Fri, 24 Jun 2022 10:48:00 GMT",
+          "description": "Op de N50 bij Kampen - die bekend staat als dodenweg - vonden de afgelopen vijf jaar 151 ongelukken plaats. Een tekort aan stikstofdeskundigen verhindert een structurele aanpak van het probleem. Wel ..."
+        },
+        {
+          "title": "'Dodenweg' eindelijk aangepakt: 'Ik heb hier veel ongelukken meegemaakt' in Zundert",
+          "source": "Omroep Brabant",
+          "url": "https://www.omroepbrabant.nl/nieuws/3986446/dodenweg-eindelijk-aangepakt-ik-heb-hier-veel-ongelukken-meegemaakt",
+          "publishedDate": "Mon, 08 Nov 2021 12:00:00 GMT",
+          "description": "“Ik woon hier nu twaalf jaar en ik heb meerdere ongelukken meegemaakt, ook met dodelijke afloop.” Jean-Pierre van der Peijl uit Zundert zag de levensgevaarlijke situaties op de N638 waaraan hij woont ..."
+        },
+        {
+          "title": "Gemeente Roerdalen overweegt aanleg faunatunnels langs ‘dodenweg’ voor dassen",
+          "source": "Limburger",
+          "url": "https://www.limburger.nl/regio/roerdalen/sint-odilienberg/gemeente-roerdalen-overweegt-aanleg-faunatunnels-langs-dodenweg-voor-dassen/21898040.html",
+          "publishedDate": "Sun, 21 Jun 2020 11:35:00 GMT",
+          "description": "De gemeente Roerdalen bekijkt of er maatregelen genomen kunnen worden tegen het doodrijden van dassen. Natuurbeschermers dringen daar al langer op aan. Met name de Grote Bergerweg tussen ..."
+        },
+        {
+          "title": "“Dodenweg” in Maaseik krijgt trajectcontrole",
+          "source": "Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/regio/limburg/maaseik/dodenweg-in-maaseik-krijgt-trajectcontrole/57567637.html",
+          "publishedDate": "Thu, 08 Aug 2019 07:38:00 GMT",
+          "description": "Op de N757, ook wel gekend als “dodenweg”, hebben zich op enkele dagen tijd twee dodelijke ongevallen plaatsgevonden. Donderdag overleed de bestuurder van een bestelwagen die tegen een boom ..."
+        },
+        {
+          "title": "Keuze gemaakt: 'dodenweg' N34 wordt gedeeltelijk verdubbeld",
+          "source": "RTV Noord",
+          "url": "https://www.rtvnoord.nl/nieuws/179354/keuze-gemaakt-dodenweg-n34-wordt-gedeeltelijk-verdubbeld",
+          "publishedDate": "Tue, 13 Jun 2017 09:29:00 GMT",
+          "description": "De provincie Drenthe kiest voor een gedeeltelijke verdubbeling van de 'dodenweg' N34. Het volledig vierbaans maken van de weg is te duur. Dat blijkt uit een onderzoek dat is uitgevoerd in opdracht van ..."
+        }
+      ]
+    },
+    {
+      "keyword": "golfstroom",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Tempo van opwarming cruciaal voor Golfstroom: 'Klimaat Europa op z'n kop'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/klimaat/6406015/tempo-van-opwarming-cruciaal-voor-golfstroom-klimaat-europa-op-zn-kop.html",
+          "publishedDate": "Thu, 13 Aug 2026 04:02:00 GMT",
+          "description": "Een belangrijke oceaanstroming die Europa een mild klimaat bezorgt, kan stilvallen door klimaatverandering. Utrechtse wetenschappers ontdekten dat het risico groter wordt naarmate de aarde sneller opw ..."
+        },
+        {
+          "title": "Cruciale Golfstroom kan eerder stilvallen als aarde sneller opwarmt",
+          "source": "NOS",
+          "url": "https://nos.nl/nieuwsuur/artikel/2626649-cruciale-golfstroom-kan-eerder-stilvallen-als-aarde-sneller-opwarmt",
+          "publishedDate": "Thu, 13 Aug 2026 02:00:00 GMT",
+          "description": "De Golfstroom, ook bekend als de AMOC (Atlantic Meridional Overturning Circulation), is een belangrijk systeem van wereldwijde zeestromen. Als die stilvalt, heeft dat wereldwijd drastische gevolgen."
+        },
+        {
+          "title": "Wat veroorzaakt de hittekoepels in Europa?",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/wetenschap/wat-veroorzaakt-de-hittekoepels-in-europa~b7c0c0de3/",
+          "publishedDate": "Fri, 07 Aug 2026 14:59:00 GMT",
+          "description": "Deze zomer gaat de wetenschapsredactie aan de slag met vragen van lezers. Vandaag: het verband tussen de oceaantemperatuur en hittegolven."
+        },
+        {
+          "title": "Gevreesd kantelpunt in de Golfstroom mogelijk al halverwege deze eeuw bereikt",
+          "source": "NOS",
+          "url": "https://nos.nl/nieuwsuur/collectie/13871/artikel/2579953-gevreesd-kantelpunt-in-de-golfstroom-mogelijk-al-halverwege-deze-eeuw-bereikt",
+          "publishedDate": "Tue, 26 Aug 2025 00:00:00 GMT",
+          "description": "Een gevreesd klimaatkantelpunt wordt mogelijk veel sneller bereikt dan tot nu toe gedacht. De Golfstroom, een systeem van zeestromingen dat een cruciale rol speelt in het klimaat, bereikt mogelijk al ..."
+        },
+        {
+          "title": "We gaan er allemaal aan! 'Golfstroom valt stil als aarde sneller opwarmt'",
+          "source": "Powned",
+          "url": "https://www.powned.tv/article/we-gaan-er-allemaal-aan-golfstroom-valt-eerder-stil-als-aarde-sneller-opwarmt~6411/",
+          "publishedDate": "Wed, 12 Aug 2026 17:00:00 GMT",
+          "description": "Voor de onwetenden onder u: de Golfstroom zorgt ervoor dat warm water vanuit de tropen richting Noord-Europa wordt vervoerd, waardoor we hier niet liggen te bibberen van de kou zoals in Canada. Valt ..."
+        },
+        {
+          "title": "Als Golfstroom stilvalt, verandert klimaat in Nederland ingrijpend",
+          "source": "RD",
+          "url": "https://www.rd.nl/a/1118508-als-de-golfstroom-stilvalt-ligt-er-s-winters-zee-ijs-in-de-noordzee",
+          "publishedDate": "Wed, 27 Aug 2025 01:50:00 GMT",
+          "description": "De Golfstroom is een oceaanstroming die West-Europa van warmte voorziet. Zonder deze stroming zullen de winters in Nederland gemiddeld zo’n 5 graden koeler zijn dan de afgelopen winters. De Golfstroom ..."
+        },
+        {
+          "title": "Golfstroom zou halfweg deze eeuw al kunnen stilvallen (maar hoe minder we nog uitstoten, hoe kleiner het risico)",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2025/08/26/golfstroom-zou-halfweg-deze-eeuw-al-kunnen-stilvallen-kantelpunt/",
+          "publishedDate": "Tue, 26 Aug 2025 06:53:00 GMT",
+          "description": "De Golfstroom, de onderzeese stroming die warmte transporteert van de Golf van Mexico naar West-Europa, zou vroeger kunnen stilvallen dan tot nu toe aangenomen werd. Nederlandse wetenschappers ..."
+        },
+        {
+          "title": "Wat staat Europa te wachten als de Golfstroom sterk verzwakt?",
+          "source": "Universiteit Utrecht",
+          "url": "https://www.uu.nl/publicatie/wat-staat-europa-te-wachten-als-de-golfstroom-sterk-verzwakt",
+          "publishedDate": "Wed, 11 Jun 2025 04:25:00 GMT",
+          "description": "De Atlantische oceaanstroming, waar de Golfstroom onderdeel van is, lijkt een stuk instabieler te zijn dan tot voor kort werd gedacht. Bij een afzwakking van de Golfstroom wordt Europa het ..."
+        },
+        {
+          "title": "Stilvallen van Golfstroom kan desastreuze gevolgen hebben: &quot;5 tot 10 graden kouder in Belgi&#235;&quot;",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2024/02/13/klimaat-opwarming-golfstroom-klimaatverandering/",
+          "publishedDate": "Wed, 14 Feb 2024 05:55:00 GMT",
+          "description": "Als de Golfstroom in de Atlantische Oceaan ooit stilvalt, kan dat erg snel gebeuren en zouden de gevolgen voor het noorden en westen van Europa rampzalig zijn. Dat hebben wetenschappers van de ..."
+        },
+        {
+          "title": "Kan de Warme Golfstroom nog wel stilvallen?",
+          "source": "weer",
+          "url": "https://www.weer.nl/nieuws/algemeen/2021/kan-de-warme-golfstroom-nog-wel-stilvallen",
+          "publishedDate": "Tue, 09 Mar 2021 03:05:00 GMT",
+          "description": "Rond 30 keer meer water dan in alle rivieren op aarde bij elkaar opgeteld stroomt erin mee en Scandinavi&#235; krijgt er warmte van die de huidige jaarlijkse energiebehoefte van het gebied maarliefst ..."
+        }
+      ]
+    },
+    {
+      "keyword": "tabaksaccijns",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Tabaksaccijns levert overheid minder op, meer mensen kopen in buitenland",
+          "source": "NU",
+          "url": "https://www.nu.nl/economie/6393151/tabaksaccijns-levert-overheid-minder-op-meer-mensen-kopen-in-buitenland.html",
+          "publishedDate": "Mon, 20 Apr 2026 00:47:00 GMT",
+          "description": "De overheid heeft in 2025 minder inkomsten gekregen uit tabaksaccijns. De inkomsten daalden met 15 procent tot 2,6 miljard euro, blijkt uit CBS-cijfers. Minder mensen roken en meer mensen kopen ..."
+        },
+        {
+          "title": "Overheid ontvangt 15 procent minder inkomsten uit tabaksaccijns",
+          "source": "CBS",
+          "url": "https://www.cbs.nl/nl-nl/nieuws/2026/17/overheid-ontvangt-15-procent-minder-inkomsten-uit-tabaksaccijns",
+          "publishedDate": "Sun, 19 Apr 2026 23:30:00 GMT",
+          "description": "De overheidsinkomsten uit tabaksaccijns zijn in 2025 vergeleken met een jaar eerder met 15 procent gedaald naar 2,6 miljard euro. Vergeleken met 2023, toen de opbrengst met 3,1 miljard euro het ..."
+        },
+        {
+          "title": "Tabaksaccijns leverde overheid vorig jaar 440 miljoen minder op",
+          "source": "zeelandnet",
+          "url": "https://www.zeelandnet.nl/nieuws/tabaksaccijns-leverde-overheid-vorig-jaar-440-miljoen-minder-op",
+          "publishedDate": "Sun, 19 Apr 2026 23:30:00 GMT",
+          "description": "De overheid verhoogde de afgelopen jaren de tarieven van de tabaksaccijns meerdere keren. Zo verdubbelde de accijns op sigaretten sinds 2020. Het minimumtarief in 2025 voor een pakje van twintig ..."
+        },
+        {
+          "title": "Tabaksaccijns leverde overheid vorig jaar 440 miljoen minder op",
+          "source": "MSN",
+          "url": "https://www.msn.com/nl-nl/geldzaken/nieuws/tabaksaccijns-leverde-overheid-vorig-jaar-440-miljoen-minder-op/ar-AA21hX5Z",
+          "publishedDate": "Sun, 19 Apr 2026 21:30:00 GMT",
+          "description": "DEN HAAG (ANP) - De overheid kreeg vorig jaar minder inkomsten uit tabaksaccijns. Dat meldt het Centraal Bureau voor de Statistiek (CBS) op basis van voorlopige cijfers. In 2025 leverde de ..."
+        },
+        {
+          "title": "Afschrift brief aan voorzitter EC over oproep voorstel herziening richtlijn tabaksaccijns",
+          "source": "Rijksoverheid",
+          "url": "https://www.rijksoverheid.nl/documenten/2025/05/26/bijlage-letter-for-president-ursula-von-der-leyen-revision-of-tobacco-taxation-directive",
+          "publishedDate": "Sun, 25 May 2025 17:00:00 GMT",
+          "description": "Afschrift van een brief van de ministers van Financi&#235;n van 14 lidstaten van de Europese Unie (EU) aan de voorzitter van de Europese Commissie (EC) over een oproep om een voorstel te publiceren voor ..."
+        },
+        {
+          "title": "Statement herzien richtlijn tabaksaccijns",
+          "source": "Rijksoverheid",
+          "url": "https://www.rijksoverheid.nl/documenten/2024/12/09/statement-herzien-tabaksrichtlijn",
+          "publishedDate": "Mon, 09 Dec 2024 00:55:00 GMT",
+          "description": "Nederland maakt samen met 15 EU-lidstaten een statement voor het herzien van de richtlijn tabaksaccijns. Door de verruiming van de richtlijn zou in de toekomst ook accijns geheven kunnen worden over ..."
+        },
+        {
+          "title": "Tabaksaccijns is er niet om de staatskas te vullen, en andere lezersreacties",
+          "source": "Het Financieele Dagblad",
+          "url": "https://fd.nl/opinie/1531587/tabaksaccijns-is-er-niet-om-de-staatskas-te-vullen-en-andere-lezersreacties",
+          "publishedDate": "Sat, 21 Sep 2024 22:00:00 GMT",
+          "description": "U heeft browser notificaties voor fd.nl eerder geweigerd. Ga naar browser instellingen en sta browser notificaties toe voor fd.nl. De precieze handelingen zijn afhankelijk van uw browser."
         }
       ]
     }
