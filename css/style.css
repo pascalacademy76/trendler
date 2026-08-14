@@ -312,11 +312,28 @@ main {
   text-align: center;
 }
 
+.site-footer p {
+  margin: 4px 0;
+}
+
+.site-footer a {
+  color: var(--color-muted);
+  text-decoration: underline;
+}
+
+.site-footer a:hover {
+  color: var(--color-accent);
+}
+
 @media (prefers-reduced-motion: reduce) {
   .live-dot,
   .article-card,
   .site-header,
   .trend-header {
     animation: none !important;
+  }
+
+  .article-card {
+    opacity: 1 !important;
   }
 }
