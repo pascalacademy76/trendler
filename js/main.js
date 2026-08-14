@@ -2,6 +2,8 @@ const tabList = document.getElementById('tab-list');
 const trendSection = document.getElementById('trend-section');
 const pageMeta = document.getElementById('page-meta');
 
+const REFRESH_INTERVAL_MINUTES = 30;
+
 let trendsData = [];
 let fetchedAt = null;
 let activeIndex = 0;
@@ -50,9 +52,25 @@ function formatRelativeTime(dateStr) {
   return `${diffDays} ${diffDays === 1 ? 'dag' : 'dagen'} geleden ververst`;
 }
 
+/**
+ * Geeft aan hoeveel minuten er nog zijn tot de volgende geplande update
+ * (de data ververst elke REFRESH_INTERVAL_MINUTES automatisch op de achtergrond).
+ */
+function formatCountdown(dateStr) {
+  const date = new Date(dateStr);
+  if (isNaN(date.getTime())) return '';
+
+  const nextRefresh = date.getTime() + REFRESH_INTERVAL_MINUTES * 60_000;
+  const minutesLeft = Math.ceil((nextRefresh - Date.now()) / 60_000);
+
+  if (minutesLeft <= 0) return 'volgende update wordt binnenkort verwacht';
+  if (minutesLeft === 1) return 'volgende update over 1 minuut';
+  return `volgende update over ${minutesLeft} minuten`;
+}
+
 function updatePageMeta() {
   if (!fetchedAt) return;
-  pageMeta.textContent = formatRelativeTime(fetchedAt);
+  pageMeta.textContent = `${formatRelativeTime(fetchedAt)} · ${formatCountdown(fetchedAt)}`;
   pageMeta.title = `Ververst op ${formatDate(fetchedAt)}`;
 }
 
