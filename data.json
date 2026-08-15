@@ -1,40 +1,6 @@
 {
-  "fetchedAt": "2026-08-15T10:15:43.650Z",
+  "fetchedAt": "2026-08-15T10:46:15.310Z",
   "trends": [
-    {
-      "keyword": "weer",
-      "trafficLabel": "100K+",
-      "articles": [
-        {
-          "title": "Na zonneschijn komt regen: van hittepiek naar wisselvallig weer",
-          "source": "RTV Utrecht",
-          "url": "https://www.rtvutrecht.nl/nieuws/4079797/na-zonneschijn-komt-regen-van-hittepiek-naar-wisselvallig-weer",
-          "publishedDate": "Thu, 13 Aug 2026 01:58:00 GMT",
-          "description": "Utrechters moeten zich de komende twee dagen opmaken voor tropisch warm weer. Het wordt meer dan 30 graden en het KNMI heeft daarom code geel afgegeven. Maar goed nieuws voor mensen die de hitte zat z ..."
-        },
-        {
-          "title": "KNMI waarschuwt voor 'gevaarlijk weer' en geeft code geel af",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/natuur/5137452/knmi-waarschuwt-voor-gevaarlijk-weer-en-geeft-code-geel-af",
-          "publishedDate": "Wed, 12 Aug 2026 07:12:00 GMT",
-          "description": "Weerinstituut KNMI heeft vanaf donderdag 9.00 uur code geel afgegeven. De weerswaarschuwing houdt in ieder geval aan tot vrijdag 23.59 uur. Aanleiding is het warme weer en de verwachte temperaturen bo ..."
-        },
-        {
-          "title": "Weer Dordrecht",
-          "source": "weer",
-          "url": "https://www.weer.nl/zuid-holland/dordrecht",
-          "publishedDate": "Mon, 24 Jun 2024 10:30:00 GMT",
-          "description": "Op deze pagina vind je het meest actuele weer in Dordrecht. Bekijk direct de actuele temperatuur, de weersverwachting per uur of de uitgebreide 14-daagse verwachting. Hier vind je alles overzichtelijk ..."
-        },
-        {
-          "title": "Weer Waalwijk",
-          "source": "weer",
-          "url": "https://www.weer.nl/noord-brabant/waalwijk",
-          "publishedDate": "Mon, 24 Jun 2024 10:30:00 GMT",
-          "description": "Op deze pagina vind je het meest actuele weer in Waalwijk. Bekijk direct de actuele temperatuur, de weersverwachting per uur of de uitgebreide 14-daagse verwachting. Hier vind je alles overzichtelijk ..."
-        }
-      ]
-    },
     {
       "keyword": "zomer",
       "trafficLabel": "20K+",
@@ -96,175 +62,94 @@
           "description": "Data van superjachtplatform Boatpro laten een stijging in verkopen zien van 89% in de maand juli ten opzichte van een jaar eerder. In totaal werd er voor €762,4 miljoen aan superjachten afgerekend."
         },
         {
-          "title": "Nieuwe Barbenheimer? Deze zomer vechten The Odyssey en Spider-Man om bioscoopbezoekers",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/show/nieuwe-barbenheimer-deze-zomer-vechten-the-odyssey-en-spider-man-om-bioscoopbezoekers~aaed8808/",
-          "publishedDate": "Mon, 10 Aug 2026 17:00:00 GMT",
-          "description": "De komkommertijd is voor filmmaatschappijen en bioscoopexploitanten steeds meer een gunstig seizoen om grote titels tegen elkaar op te laten boksen. Op dit moment zijn The Odyssey en Spider-Man: Brand ..."
-        },
-        {
           "title": "De zomer is Hakims favoriete seizoen. ’Op het Leidseplein hield ik trams tegen, improviseerde ik en voelde ik vrijheid’",
           "source": "Noordhollands Dagblad",
           "url": "https://www.noordhollandsdagblad.nl/extra/opinie-column/de-zomer-is-hakims-favoriete-seizoen.-op-het-leidseplein-hield-ik-trams-tegen-improviseerde-ik-en-voelde-ik-vrijheid/158772656.html",
           "publishedDate": "Sat, 08 Aug 2026 07:00:00 GMT",
           "description": "De zomer is voor mij een bijzonder seizoen. Elk jaar is hij weer een ijkpunt. Hij herinnert me eraan hoe de tijd voorbijgaat, hoe oud ik ben, waar ik vandaan kom… en soms ook waar ik naartoe ga."
+        },
+        {
+          "title": "De gekleurde broek is d&#233; manier om je zomergarderobe op te fleuren",
+          "source": "vogue.nl",
+          "url": "https://www.vogue.nl/fashion/trends/gekleurde-broek-lente-zomer-2026/",
+          "publishedDate": "Wed, 05 Aug 2026 01:00:00 GMT",
+          "description": "Nu de zomer haar hoogtepunt bereikt en we midden in het vakantieseizoen zitten, kijken we naar de lente/zomer 2026-catwalks voor inspiratie en kleurrijk optimisme: de broeken zijn dit seizoen namelijk ..."
         }
       ]
     },
     {
-      "keyword": "telstar - sparta rotterdam",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Contouren Rogier Meijer voor het eerst duidelijk bij Sparta: ‘Blij met wat we gecre&#235;erd hebben’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/regiosport-rotterdam/contouren-rogier-meijer-voor-het-eerst-duidelijk-bij-sparta-blij-met-wat-we-gecreeerd-hebben~ab94c65b/",
-          "publishedDate": "Fri, 14 Aug 2026 17:00:00 GMT",
-          "description": "Sparta heeft de tweede speelronde ingeluid met een relatief eenvoudige zege op Telstar (1-3). De Rotterdammers waren in Velsen-Zuid vrijwel het gehele duel de bovenliggende partij, in een wedstrijd wa ..."
-        },
-        {
-          "title": "Sparta houdt stand bij Telstar en boekt eerste uitzege sinds eind januari",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6406394/sparta-houdt-stand-bij-telstar-en-boekt-eerste-uitzege-sinds-eind-januari.html",
-          "publishedDate": "Fri, 14 Aug 2026 14:59:00 GMT",
-          "description": "Sparta heeft vrijdag de eerste overwinning van het seizoen geboekt. De Rotterdammers wonnen na een spannende slotfase met 1-3 bij Telstar."
-        },
-        {
-          "title": "Telstar geen koploper na nederlaag tegen Sparta • Godts voor 55 miljoen naar PSG",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2626799-telstar-geen-koploper-na-nederlaag-tegen-sparta-godts-voor-55-miljoen-naar-psg",
-          "publishedDate": "Fri, 14 Aug 2026 13:20:00 GMT",
-          "description": "In dit blog vind je het verloop van Telstar - Sparta Rotterdam en het belangrijkste nieuws in aanloop naar de tweede speelronde in de eredivisie."
-        },
-        {
-          "title": "Sparta voorkomt unieke koppositie van Telstar met zege in Velsen-Zuid",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2626903-sparta-voorkomt-unieke-koppositie-van-telstar-met-zege-in-velsen-zuid",
-          "publishedDate": "Fri, 14 Aug 2026 13:13:00 GMT",
-          "description": "Telstar had &#233;&#233;n punt nodig thuis tegen Sparta om voor het eerst alleen koploper te worden in de eredivisie. Sparta wint echter met 1-3."
-        },
-        {
-          "title": "Praat mee op VP: SC Telstar – Sparta Rotterdam",
-          "source": "Voetbalprimeur Netherlands on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/algemeen/praat-mee-op-vp-sc-telstar-sparta-rotterdam/ar-AA2a7AyA",
-          "publishedDate": "Fri, 14 Aug 2026 16:56:00 GMT",
-          "description": "SC Telstar neemt het vandaag op tegen Sparta Rotterdam in de Eredivisie. De wedstrijd begint om 20.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
-        },
-        {
-          "title": "Sparta boekt bij Telstar eerste seizoenszege",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/sparta-boekt-bij-telstar-eerste-seizoenszege",
-          "publishedDate": "Fri, 14 Aug 2026 15:11:00 GMT",
-          "description": "Sparta Rotterdam boekt in Velsen de eerste seizoenszege: 3-1 bij Telstar. Doelpunten van Young, Th&#243;risson en Van Cruijsen; Soualhia scoort voor Telstar."
-        },
-        {
-          "title": "Sparta wint overtuigend bij Telstar en pakt eerste competitiezege",
-          "source": "VoetbalRotterdam",
-          "url": "https://www.voetbalrotterdam.nl/2026/08/sparta-wint-overtuigend-bij-telstar-en-pakt-eerste-competitiezege/",
-          "publishedDate": "Fri, 14 Aug 2026 13:08:00 GMT",
-          "description": "Sparta heeft vrijdagavond de eerste overwinning van het nieuwe Eredivisieseizoen geboekt. Op bezoek bij Telstar was de ploeg van Rogier Meijer lange tijd de ..."
-        },
-        {
-          "title": "Th&#243;risson doet oude club Telstar pijn en helpt Sparta aan eerste zege",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/thorisson-doet-oude-club-telstar-pijn-en-helpt-sparta-aan-eerste-zege",
-          "publishedDate": "Fri, 14 Aug 2026 12:55:00 GMT",
-          "description": "Sparta heeft vrijdagavond de eerste overwinning van het nieuwe Eredivisie-seizoen geboekt. In Velsen-Zuid werd Telstar, dat in de eerste speelronde nog knap afrekende met NEC, verslagen. N&#246;kkvi Th&#243;ris ..."
-        },
-        {
-          "title": "Telstar weet zege op NEC geen goed vervolg te geven: Sparta Rotterdam is te sterk",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-2000-uur-telstar-sparta-rotterdam-0-1/ar-AA2a6CoK",
-          "publishedDate": "Fri, 14 Aug 2026 12:25:00 GMT",
-          "description": "Dit is het livetopic voor de competitiewedstrijd tussen Telstar en Sparta Rotterdam. Beide ploegen treffen elkaar om 20.00 uur in het BUKO Stadion in Velsen-Zuid. Het duel is vrijdagavond live te zien ..."
-        },
-        {
-          "title": "LEES TERUG: Sparta wint na spannende slotfase van Telstar (1-3)",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2239296/lees-terug-sparta-wint-na-spannende-slotfase-van-telstar-1-3",
-          "publishedDate": "Fri, 14 Aug 2026 12:02:00 GMT",
-          "description": "Het voetbalweekend werd geopend op Velsen-Zuid, waar Sparta Rotterdam het opnam tegen Telstar. De Spartanen begonnen het seizoen met een nederlaag tegen stadsgenoot Feyenoord Rotterdam. De ploeg van R ..."
-        }
-      ]
-    },
-    {
-      "keyword": "buienradar",
-      "trafficLabel": "20K+",
-      "articles": []
-    },
-    {
-      "keyword": "jason arday",
+      "keyword": "regen",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Na plagiaatrel opgestapte hoogleraar Cambridge (41) dood aangetroffen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2626907-na-plagiaatrel-opgestapte-hoogleraar-cambridge-41-dood-aangetroffen",
-          "publishedDate": "Sat, 15 Aug 2026 01:34:00 GMT",
-          "description": "De Britse universiteit was bezig met een onderzoek naar de academische kwalificaties en benoemingen van voormalig hoogleraar Jason Arday."
-        },
-        {
-          "title": "In opspraak geraakte Britse academicus Jason Arday dood aangetroffen",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/08/14/in-opspraak-geraakte-britse-academicus-jason-arday-dood-aangetroffen-a4934530",
-          "publishedDate": "Fri, 14 Aug 2026 15:16:00 GMT",
-          "description": "Hoogleraar: Jason Arday werd beschuldigd van academische fouten en plagiaat. Begin deze maand legde hij daarom zijn functie als hoogleraar bij Cambridge neer."
-        },
-        {
-          "title": "Voormalig Cambridge-professor Jason Arday dood aangetroffen in Londen",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/voormalig-cambridge-professor-jason-arday-dood-aangetroffen-in-londen~b1f2c5f2d/",
-          "publishedDate": "Fri, 14 Aug 2026 15:02:00 GMT",
-          "description": "Jason Arday, de Cambridge-professor die vorige week ontslag nam na beschuldigingen van plagiaat en leugens, is vrijdag dood aangetroffen. Dat meldt de Britse krant The Telegraph."
-        },
-        {
-          "title": "‘Voormalig Cambridge-professor Jason Arday, die ontslag nam na vele leugens, dood gevonden in woning’",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/wereld/voormalig-cambridge-professor-jason-arday-die-ontslag-nam-na-vele-leugens-dood-gevonden-in-woning~b76ec57c/",
-          "publishedDate": "Fri, 14 Aug 2026 15:00:00 GMT",
-          "description": "De voormalige Cambridge-professor Jason Arday (41) is dood gevonden in zijn woning in Londen, meldt de Britse krant The Telegraph. Arday kwam in opspraak na beschuldigingen van plagiaat. Hij nam vorig ..."
-        },
-        {
-          "title": "Van plagiaat beschuldigde Cambridge-professor Jason Arday (41) dood gevonden",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/buitenland/6406398/van-plagiaat-beschuldigde-cambridge-professor-jason-arday-41-dood-gevonden.html",
-          "publishedDate": "Fri, 14 Aug 2026 14:55:00 GMT",
-          "description": "Jason Arday, voormalig professor aan de prestigieuze University of Cambridge, is vrijdag dood in zijn woning aangetroffen, melden Britse media. Arday had vorige week ontslag genomen vanwege beschuldig ..."
-        },
-        {
-          "title": "In opspraak geraakte ex-hoogleraar aan Cambridge Jason Arday dood gevonden",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/in-opspraak-geraakte-ex-hoogleraar-aan-cambridge-jason-arday-dood-gevonden~be9b48e8/",
-          "publishedDate": "Fri, 14 Aug 2026 14:47:00 GMT",
-          "description": "De Britse voormalige hoogleraar Jason Arday is vrijdagmiddag dood aangetroffen in zijn woning in Londen. Een week geleden trad de 41-jarige Arday af als hoogleraar aan Cambridge wegens plagiaatbeschul ..."
-        },
-        {
-          "title": "Opgestapte Britse prof dood gevonden, familie spreekt van ‘ondraaglijke lastercampagne’",
+          "title": "Komende week valt regen, maar de droogte in Nederland is hardnekkig: ‘Druppel op gloeiende plaat’",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/opgestapte-britse-prof-dood-gevonden-familie-spreekt-van-ondraaglijke-lastercampagne~a76ec57c/?slug_rd=1",
-          "publishedDate": "Thu, 13 Aug 2026 17:46:00 GMT",
-          "description": "De voormalige Cambridge-professor Jason Arday (41) is dood gevonden in zijn woning in Londen. Arday kwam in opspraak na beschuldigingen van plagiaat. Hij was de jongste zwarte hoogleraar ooit aan de p ..."
+          "url": "https://www.ad.nl/binnenland/komende-week-valt-regen-maar-de-droogte-in-nederland-is-hardnekkig-druppel-op-gloeiende-plaat~a7b240059/",
+          "publishedDate": "Fri, 31 Jul 2026 02:00:00 GMT",
+          "description": "Na weken van hitte en nauwelijks regen raakt Nederland steeds verder uitgedroogd. De Rijn staat op een historisch laag peil, er is officieel een watertekort afgekondigd en hoewel komende week regen wo ..."
         },
         {
-          "title": "Geschokte reacties na overlijden van plagiaat beschuldigde Britse professor: &quot;Zou wake-upcall moeten zijn&quot;",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/15/reacties-overlijden-jason-arday-plagiaat-cambridge/",
-          "publishedDate": "Sat, 15 Aug 2026 02:52:00 GMT",
-          "description": "In het Verenigd Koninkrijk wordt, vooral binnen de academische wereld, geschokt gereageerd op het plots overlijden van de van plagiaat beschuldigde professor Jason Arday. &quot;Dit zou een wake-upcall voor ..."
+          "title": "Ineens was het Delftse Bagijnhof in een put veranderd. Hoe gaan wijken om met extreme regen?",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/02/02/ineens-was-het-delftse-bagijnhof-in-een-put-veranderd-hoe-gaan-wijken-om-met-extreme-regen-a4918972",
+          "publishedDate": "Mon, 02 Feb 2026 13:30:00 GMT",
+          "description": "Extreem weer Wateroverlast kan omslaan in onveiligheid, waarschuwde de Onderzoeksraad Voor Veiligheid (OVV) eind januari in een rapport aan de hand van voorbeelden in Nijverdal, Doetinchem en Enschede ..."
         },
         {
-          "title": "Cambridge professor Jason Arday dood aangetroffen, week na ontslag door beschuldigingen van plagiaat",
+          "title": "Wanneer krijgen we (veel) regen? David Dehenauw heeft meer nieuws",
+          "source": "Nieuws365",
+          "url": "https://www.nieuws365.be/weer/wanneer-krijgen-we-veel-regen-david-dehenauw-heeft-meer-nieuws",
+          "publishedDate": "Sat, 15 Aug 2026 02:00:00 GMT",
+          "description": "Wie hoopt op een volledig droge dag, krijgt volgens VTM-weerman David Dehenauw geen garanties. Er kunnen vandaag lokaal regen- of onweersbuien ontstaan, al blijven de neerslaghoeveelheden op de meeste ..."
+        },
+        {
+          "title": "Eindelijk regen na wekenlange droogte, maar is het genoeg voor de natuur?",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/362448/eindelijk-regen-na-wekenlange-droogte-maar-is-het-genoeg-voor-de-natuur",
+          "publishedDate": "Fri, 14 Aug 2026 22:30:00 GMT",
+          "description": "Weken van droogte in Nederland: 10-20mm regen verwacht, maar experts waarschuwen dat het lang niet genoeg is. Lees wat het betekent voor natuur en boeren."
+        },
+        {
+          "title": "Is de regen die nu eindelijk valt genoeg voor de natuur?",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/362448/is-de-regen-die-nu-eindelijk-valt-genoeg-voor-de-natuur",
+          "publishedDate": "Fri, 14 Aug 2026 22:30:00 GMT",
+          "description": "Weken van droogte in Nederland: 10-20mm regen verwacht, maar experts waarschuwen dat het lang niet genoeg is. Lees wat het betekent voor natuur en boeren."
+        },
+        {
+          "title": "Er komt regen aan: oppassen geblazen op de weg, want die kan verraderlijk glad worden",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/binnenland/er-komt-regen-aan-oppassen-geblazen-op-de-weg-want-die-kan-verraderlijk-glad-worden~a1d70e2f/",
+          "publishedDate": "Fri, 14 Aug 2026 22:00:00 GMT",
+          "description": "Komende week en misschien al dit weekend gaat het voor het eerst sinds weken weer regenen in ons land. Opgepast: water in combinatie met vuilresten op de weg kan ineens voor zomergladheid zorgen. Dit ..."
+        },
+        {
+          "title": "Regen komt eraan, maar de droogte is nog lang niet voorbij",
+          "source": "Weer.nl on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/regen-komt-eraan-maar-de-droogte-is-nog-lang-niet-voorbij/ar-AA2a4lWh",
+          "publishedDate": "Thu, 13 Aug 2026 22:00:10 GMT",
+          "description": "Het is uitzonderlijk droog. Komend weekend wordt er een weersomslag verwacht. Dit verzacht wellicht de droogte, maar het verdwijnt zeker niet."
+        },
+        {
+          "title": "Warm weer met toenemende kans op stevige regen- en onweersbuien",
+          "source": "Star Nieuws",
+          "url": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/93387",
+          "publishedDate": "Wed, 12 Aug 2026 22:03:00 GMT",
+          "description": "In de middag moet rekening worden gehouden met regen- en onweersbuien. De grootste kans op stevige buien bestaat in het binnenland en de noordwestelijke districten. Daarbij kunnen bliksem en ..."
+        },
+        {
+          "title": "Weinig regen, warme dagen: de telefoon staat roodgloeiend bij Water4All van Boike (27)",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/enschede/weinig-regen-warme-dagen-de-telefoon-staat-roodgloeiend-bij-water4all-van-boike-27~adf45471/",
+          "publishedDate": "Wed, 05 Aug 2026 23:30:00 GMT",
+          "description": "De zon schijnt, het is warm en regen blijft uit. De telefoon bij Water4All in Oldenzaal staat roodgloeiend. De systemen van het bedrijf zijn populair en gaan het hele land door, merkt mede-eigenaar Bo ..."
+        },
+        {
+          "title": "Vandaag regen op komst: wat mogen we verwachten? En helpt het tegen de droogte?",
           "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/buitenland/cambridge-professor-jason-arday-dood-aangetroffen-week-na-ontslag-door-beschuldigingen-van-plagiaat/160060221.html",
-          "publishedDate": "Fri, 14 Aug 2026 18:34:00 GMT",
-          "description": "Voormalig Cambridge-hoogleraar Jason Arday, die geschiedenis schreef als jongste zwarte hoogleraar ooit aan de universiteit maar onlangs ontslag nam na beschuldigingen van plagiaat, is dood aangetroff ..."
-        },
-        {
-          "title": "Cambridge-professor (41) die beschuldigd werd van plagiaat, dood aangetroffen in woning. Familie reageert: “Die lastercampagne was ondraaglijk voor Jason”",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/cambridge-professor-41-die-beschuldigd-werd-van-plagiaat-dood-aangetroffen-in-woning-familie-reageert-die-lastercampagne-was-ondraaglijk-voor-jason~a5195b04/",
-          "publishedDate": "Fri, 14 Aug 2026 11:17:00 GMT",
-          "description": "Cambridge-professor Jason Arday (41) is vrijdag dood aangetroffen in zijn huis in de Londense wijk Battersea. Dat melden diverse Britse media. Arday kwam in het oog van de storm terecht toen hij besch ..."
+          "url": "https://www.nieuwsblad.be/binnenland/vandaag-regen-op-komst-wat-mogen-we-verwachten-en-helpt-het-tegen-de-droogte/159567977.html",
+          "publishedDate": "Tue, 04 Aug 2026 04:17:00 GMT",
+          "description": "Er wordt vandaag, dinsdag, regen verwacht in ons land. Hoeveel neerslag zal er vallen, en zal dat helpen tegen de aanhoudende droogte? We vroegen het aan weerman David Dehenauw."
         }
       ]
     },
@@ -338,147 +223,78 @@
       ]
     },
     {
-      "keyword": "regen",
+      "keyword": "jason arday",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Komende week valt regen, maar de droogte in Nederland is hardnekkig: ‘Druppel op gloeiende plaat’",
+          "title": "Na plagiaatrel opgestapte hoogleraar Cambridge (41) dood aangetroffen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2626907-na-plagiaatrel-opgestapte-hoogleraar-cambridge-41-dood-aangetroffen",
+          "publishedDate": "Sat, 15 Aug 2026 01:34:00 GMT",
+          "description": "De Britse universiteit was bezig met een onderzoek naar de academische kwalificaties en benoemingen van voormalig hoogleraar Jason Arday."
+        },
+        {
+          "title": "In opspraak geraakte Britse academicus Jason Arday dood aangetroffen",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/08/14/in-opspraak-geraakte-britse-academicus-jason-arday-dood-aangetroffen-a4934530",
+          "publishedDate": "Fri, 14 Aug 2026 15:16:00 GMT",
+          "description": "Hoogleraar: Jason Arday werd beschuldigd van academische fouten en plagiaat. Begin deze maand legde hij daarom zijn functie als hoogleraar bij Cambridge neer."
+        },
+        {
+          "title": "Voormalig Cambridge-professor Jason Arday dood aangetroffen in Londen",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/buitenland/voormalig-cambridge-professor-jason-arday-dood-aangetroffen-in-londen~b1f2c5f2d/",
+          "publishedDate": "Fri, 14 Aug 2026 15:02:00 GMT",
+          "description": "Jason Arday, de Cambridge-professor die vorige week ontslag nam na beschuldigingen van plagiaat en leugens, is vrijdag dood aangetroffen. Dat meldt de Britse krant The Telegraph."
+        },
+        {
+          "title": "‘Voormalig Cambridge-professor Jason Arday, die ontslag nam na vele leugens, dood gevonden in woning’",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/wereld/voormalig-cambridge-professor-jason-arday-die-ontslag-nam-na-vele-leugens-dood-gevonden-in-woning~b76ec57c/",
+          "publishedDate": "Fri, 14 Aug 2026 15:00:00 GMT",
+          "description": "De voormalige Cambridge-professor Jason Arday (41) is dood gevonden in zijn woning in Londen, meldt de Britse krant The Telegraph. Arday kwam in opspraak na beschuldigingen van plagiaat. Hij nam vorig ..."
+        },
+        {
+          "title": "In opspraak geraakte ex-hoogleraar aan Cambridge Jason Arday dood gevonden",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/buitenland/in-opspraak-geraakte-ex-hoogleraar-aan-cambridge-jason-arday-dood-gevonden~be9b48e8/",
+          "publishedDate": "Fri, 14 Aug 2026 14:47:00 GMT",
+          "description": "De Britse voormalige hoogleraar Jason Arday is vrijdagmiddag dood aangetroffen in zijn woning in Londen. Een week geleden trad de 41-jarige Arday af als hoogleraar aan Cambridge wegens plagiaatbeschul ..."
+        },
+        {
+          "title": "Opgestapte Britse prof dood gevonden, familie spreekt van ‘ondraaglijke lastercampagne’",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/komende-week-valt-regen-maar-de-droogte-in-nederland-is-hardnekkig-druppel-op-gloeiende-plaat~a7b240059/",
-          "publishedDate": "Fri, 31 Jul 2026 02:00:00 GMT",
-          "description": "Na weken van hitte en nauwelijks regen raakt Nederland steeds verder uitgedroogd. De Rijn staat op een historisch laag peil, er is officieel een watertekort afgekondigd en hoewel komende week regen wo ..."
+          "url": "https://www.ad.nl/buitenland/opgestapte-britse-prof-dood-gevonden-familie-spreekt-van-ondraaglijke-lastercampagne~a76ec57c/",
+          "publishedDate": "Thu, 13 Aug 2026 17:46:00 GMT",
+          "description": "De voormalige Cambridge-professor Jason Arday (41) is dood gevonden in zijn woning in Londen. Arday kwam in opspraak na beschuldigingen van plagiaat. Hij was de jongste zwarte hoogleraar ooit aan de p ..."
         },
         {
-          "title": "Natuur ook na regen nog kurkdroog: ’Die barbecue moet gewoon uit’",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/binnenland/natuur-ook-na-regen-nog-kurkdroog-die-barbecue-moet-gewoon-uit/159280888.html",
-          "publishedDate": "Tue, 28 Jul 2026 12:48:00 GMT",
-          "description": "Geen houtskoolbarbecues, geen kampvuren en extra opletten met sigaretten. Op camping De Paalberg in Ermelo worden vakantiegangers deze zomer voortdurend herinnerd aan de droogte. Toch moeten medewerke ..."
+          "title": "Het werk van sterprofessor Arday bleek te mooi om waar te zijn: universiteit Cambridge zwaar in verlegenheid",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/het-werk-van-sterprofessor-arday-bleek-te-mooi-om-waar-te-zijn-universiteit-cambridge-zwaar-in-verlegenheid~a0c5eafb/",
+          "publishedDate": "Fri, 07 Aug 2026 05:00:00 GMT",
+          "description": "De ontmaskering van Cambridge-professor Jason Arday roept pijnlijke vragen op in het Verenigd Koninkrijk. De reputatie van de Londenaar blijkt gebaseerd op sterke verhalen, leugens en plagiaat."
         },
         {
-          "title": "Wanneer krijgen we (veel) regen? David Dehenauw heeft meer nieuws",
-          "source": "Nieuws365",
-          "url": "https://www.nieuws365.be/weer/wanneer-krijgen-we-veel-regen-david-dehenauw-heeft-meer-nieuws",
-          "publishedDate": "Sat, 15 Aug 2026 02:00:00 GMT",
-          "description": "Wie hoopt op een volledig droge dag, krijgt volgens VTM-weerman David Dehenauw geen garanties. Er kunnen vandaag lokaal regen- of onweersbuien ontstaan, al blijven de neerslaghoeveelheden op de meeste ..."
+          "title": "Geschokte reacties na overlijden van plagiaat beschuldigde Britse professor: &quot;Zou wake-upcall moeten zijn&quot;",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/15/reacties-overlijden-jason-arday-plagiaat-cambridge/",
+          "publishedDate": "Sat, 15 Aug 2026 02:52:00 GMT",
+          "description": "In het Verenigd Koninkrijk wordt, vooral binnen de academische wereld, geschokt gereageerd op het plots overlijden van de van plagiaat beschuldigde professor Jason Arday. &quot;Dit zou een wake-upcall voor ..."
         },
         {
-          "title": "Eindelijk regen na wekenlange droogte, maar is het genoeg voor de natuur?",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/362448/eindelijk-regen-na-wekenlange-droogte-maar-is-het-genoeg-voor-de-natuur",
-          "publishedDate": "Fri, 14 Aug 2026 22:30:00 GMT",
-          "description": "Weken van droogte in Nederland: 10-20mm regen verwacht, maar experts waarschuwen dat het lang niet genoeg is. Lees wat het betekent voor natuur en boeren."
-        },
-        {
-          "title": "Is de regen die nu eindelijk valt genoeg voor de natuur?",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/362448/is-de-regen-die-nu-eindelijk-valt-genoeg-voor-de-natuur",
-          "publishedDate": "Fri, 14 Aug 2026 22:30:00 GMT",
-          "description": "Weken van droogte in Nederland: 10-20mm regen verwacht, maar experts waarschuwen dat het lang niet genoeg is. Lees wat het betekent voor natuur en boeren."
-        },
-        {
-          "title": "Er komt regen aan: oppassen geblazen op de weg, want die kan verraderlijk glad worden",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/binnenland/er-komt-regen-aan-oppassen-geblazen-op-de-weg-want-die-kan-verraderlijk-glad-worden~a1d70e2f/",
-          "publishedDate": "Fri, 14 Aug 2026 22:00:00 GMT",
-          "description": "Komende week en misschien al dit weekend gaat het voor het eerst sinds weken weer regenen in ons land. Opgepast: water in combinatie met vuilresten op de weg kan ineens voor zomergladheid zorgen. Dit ..."
-        },
-        {
-          "title": "Regen komt eraan, maar de droogte is nog lang niet voorbij",
-          "source": "Weer.nl on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/regen-komt-eraan-maar-de-droogte-is-nog-lang-niet-voorbij/ar-AA2a4lWh",
-          "publishedDate": "Thu, 13 Aug 2026 22:00:10 GMT",
-          "description": "Het is uitzonderlijk droog. Komend weekend wordt er een weersomslag verwacht. Dit verzacht wellicht de droogte, maar het verdwijnt zeker niet."
-        },
-        {
-          "title": "Warm weer met toenemende kans op stevige regen- en onweersbuien",
-          "source": "Star Nieuws",
-          "url": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/93387",
-          "publishedDate": "Wed, 12 Aug 2026 22:03:00 GMT",
-          "description": "In de middag moet rekening worden gehouden met regen- en onweersbuien. De grootste kans op stevige buien bestaat in het binnenland en de noordwestelijke districten. Daarbij kunnen bliksem en ..."
-        },
-        {
-          "title": "Vandaag regen op komst: wat mogen we verwachten? En helpt het tegen de droogte?",
+          "title": "Cambridge professor Jason Arday dood aangetroffen, week na ontslag door beschuldigingen van plagiaat",
           "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/binnenland/vandaag-regen-op-komst-wat-mogen-we-verwachten-en-helpt-het-tegen-de-droogte/159567977.html",
-          "publishedDate": "Tue, 04 Aug 2026 04:17:00 GMT",
-          "description": "Er wordt vandaag, dinsdag, regen verwacht in ons land. Hoeveel neerslag zal er vallen, en zal dat helpen tegen de aanhoudende droogte? We vroegen het aan weerman David Dehenauw."
-        }
-      ]
-    },
-    {
-      "keyword": "sam lammers",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Discussie rond Sam Lammers laait weer op: ‘Onze wissels waren toch logisch?’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/enschede/discussie-rond-sam-lammers-laait-weer-op-onze-wissels-waren-toch-logisch~ac1de9c4/",
-          "publishedDate": "Thu, 13 Aug 2026 19:11:00 GMT",
-          "description": "Is FC Twente Sam Lammers naar de uitgang aan het duwen? Donderdagavond bleef de spits 90 minuten op de bank, terwijl trainer John van den Brom de ene na de andere wissel doorvoerde in het duel tegen D ..."
+          "url": "https://www.nieuwsblad.be/buitenland/cambridge-professor-jason-arday-dood-aangetroffen-week-na-ontslag-door-beschuldigingen-van-plagiaat/160060221.html",
+          "publishedDate": "Fri, 14 Aug 2026 18:34:00 GMT",
+          "description": "Voormalig Cambridge-hoogleraar Jason Arday, die geschiedenis schreef als jongste zwarte hoogleraar ooit aan de universiteit maar onlangs ontslag nam na beschuldigingen van plagiaat, is dood aangetroff ..."
         },
         {
-          "title": "Sam Lammers vol onbegrip over rol als derde spits bij Twente: 'Een klotesituatie'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6405829/sam-lammers-vol-onbegrip-over-rol-als-derde-spits-bij-twente-een-klotesituatie.html",
-          "publishedDate": "Sun, 09 Aug 2026 15:27:00 GMT",
-          "description": "Sam Lammers is vol onbegrip over zijn rol als derde spits bij FC Twente. Vorig jaar was hij nog de eerste spits bij de tukkers, maar dit seizoen moet hij zowel Wout Weghorst als Lucas Vennegoor of Hes ..."
-        },
-        {
-          "title": "Sam Lammers lijkt op weg naar de uitgang bij FC Twente: ‘Hij is de derde spits’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/enschede/sam-lammers-lijkt-op-weg-naar-de-uitgang-bij-fc-twente-hij-is-de-derde-spits~ab275cff/?slug_rd=1",
-          "publishedDate": "Fri, 07 Aug 2026 00:08:00 GMT",
-          "description": "De toekomst van Sam Lammers lijkt niet meer bij FC Twente te liggen nu trainer John van den Brom een duidelijke boodschap heeft afgegeven. De eerste spits van de laatste maanden is in korte tijd gedeg ..."
-        },
-        {
-          "title": "FC Twente hoopt komst Sam Lammers snel af te ronden",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/sport/voetbal/fc-twente-hoopt-komst-sam-lammers-snel-af-te-ronden/64343004.html",
-          "publishedDate": "Thu, 25 Jul 2024 09:13:00 GMT",
-          "description": "GLASGOW - FC Twente hoopt op korte termijn de overgang van Sam Lammers af te kunnen ronden. De nummer drie van het vorige seizoen was eerder deze zomer voor de vacature op de spitspositie ..."
-        },
-        {
-          "title": "‘Bliksemontslag dreigt w&#233;&#233;r bij FC Twente’",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/bliksemontslag-dreigt-weer-bij-fc-twente/",
-          "publishedDate": "Fri, 14 Aug 2026 14:45:00 GMT",
-          "description": "John van den Brom heeft voor de nodige onrust gezorgd bij FC Twente en moet mogelijk vrezen voor een vroegtijdig vertrek."
-        },
-        {
-          "title": "‘Sam Lammers verlaat FC Twente voor Eredivisie-concurrent’",
-          "source": "soccernews",
-          "url": "https://www.soccernews.nl/news/sam-lammers-verlaat-fc-twente-voor-eredivisie-concurrent/",
-          "publishedDate": "Fri, 14 Aug 2026 04:12:00 GMT",
-          "description": "En mogelijk is die gewoon binnen de Eredivisie. FC Utrecht is nog op zoek naar een spits en zou wel interesse hebben om Lammers weer terug te halen. “FC Utrecht zou hem heel graag weer verwelkomen”, ..."
-        },
-        {
-          "title": "Sam Lammers krijgt kritiek: &quot;Dat kan een valkuil zijn voor hem&quot;",
-          "source": "Twentefans.nl",
-          "url": "https://www.twentefans.nl/sam-lammers-krijgt-kritiek-dat-kan-een-valkuil-zijn-voor-hem/",
-          "publishedDate": "Mon, 10 Aug 2026 22:27:00 GMT",
-          "description": "Lees nu | Journalist Gijs Eijsink uit Hengelo kijkt met gemengde gevoelens terug op het afgelopen voetbalweekend. Waar FC Twente donderdagavond nog ..."
-        },
-        {
-          "title": "Sam Lammers optie voor Feyenoord? &quot;Ik zou zeggen: haal hem erbij&quot;",
-          "source": "Twentefans.nl",
-          "url": "https://www.twentefans.nl/sam-lammers-optie-voor-feyenoord-ik-zou-zeggen-haal-hem-erbij/",
-          "publishedDate": "Mon, 10 Aug 2026 01:31:00 GMT",
-          "description": "Lees nu | Sam Lammers lijkt op een dood spoor te zitten bij FC Twente. Een vertrek lijkt onvermijdelijk voor de spits en Rafael van der Vaart ziet in ..."
-        },
-        {
-          "title": "Sam Lammers: 'Een bizarre seizoensstart voor mij, een klotesituatie'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/sam-lammers-onbegrip-derde-spits-fc-twente",
-          "publishedDate": "Sun, 09 Aug 2026 14:48:00 GMT",
-          "description": "Sam Lammers heeft grote moeite met zijn nieuwe rol als derde spits van FC Twente. De aanvaller begrijpt weinig van de keuze en noemt zijn situatie frustrerend."
-        },
-        {
-          "title": "Frustraties bij Sam Lammers: 'Hij is boos, pissig'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/07/frustraties-bij-sam-lammers-hij-is-boos-pissig",
-          "publishedDate": "Tue, 28 Jul 2026 17:00:00 GMT",
-          "description": "Sam Lammers is gefrustreerd door zijn reserverol achter Wout Weghorst bij FC Twente. Trainer John van den Brom bevestigt dat de spits baalt, maar prijst ook zijn reactie."
+          "title": "Cambridge-professor (41) die beschuldigd werd van plagiaat, dood aangetroffen in woning. Familie reageert: “Die lastercampagne was ondraaglijk voor Jason”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/cambridge-professor-41-die-beschuldigd-werd-van-plagiaat-dood-aangetroffen-in-woning-familie-reageert-die-lastercampagne-was-ondraaglijk-voor-jason~a5195b04/",
+          "publishedDate": "Fri, 14 Aug 2026 11:17:00 GMT",
+          "description": "Cambridge-professor Jason Arday (41) is vrijdag dood aangetroffen in zijn huis in de Londense wijk Battersea. Dat melden diverse Britse media. Arday kwam in het oog van de storm terecht toen hij besch ..."
         }
       ]
     },
@@ -536,11 +352,11 @@
           "description": "Het schilderij dat een Duitse kunstenaar jaren geleden als verzoening aan Johan Cruijff wilde aanbieden, is voor 5500 euro geveild. Het kunstwerk is bedoeld als een goedmakertje voor alle ellende die ..."
         },
         {
-          "title": "Schilderij van 460.000 euro is aangekomen in Mechelen: “Dit topstuk is vanaf 2026 te bewonderen”",
-          "source": "Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/regio/antwerpen/rivierenland/mechelen/schilderij-van-460.000-euro-is-aangekomen-in-mechelen-dit-topstuk-is-vanaf-2026-te-bewonderen/84839886.html",
-          "publishedDate": "Wed, 20 Aug 2025 08:36:00 GMT",
-          "description": "MechelenHet portret van Maria van Hongarije waar de stad eerder dit jaar 460.000 euro voor betaalde, is aangekomen in Mechelen. Het schilderij wordt momenteel bewaard in Depot Rato en zal in 2026 te ..."
+          "title": "Het beroemde schilderij dat Taylor Swifts nieuwe album inspireerde is al bijna 130 jaar te zien in Londen – en dit is hoe je het gratis kunt zien",
+          "source": "Secret London",
+          "url": "https://secretldn.com/nl/ophelia-schilderij-londen-taylor-swift/",
+          "publishedDate": "Mon, 06 Oct 2025 09:24:00 GMT",
+          "description": "Nu de wereld opnieuw in een door Taylor veroorzaakte chaos vervalt, leek het ons beter om je te wijzen op het schilderij dat de inspiratie vormde voor haar nieuwste album. Londen is geen onbekende als ..."
         },
         {
           "title": "Italiaanse familie ontdekt na 60 jaar dat &quot;verschrikkelijk&quot; schilderij aan de muur een originele Picasso is",
@@ -577,6 +393,13 @@
           "description": "Voetbal Bij een rommelig verlopen toernooi in Saoedi-Arabi&#235; is het nationale elftal van Indonesi&#235; er niet in geslaagd om zich te kwalificeren voor het WK voetbal. Bondscoach Patrick Kluivert en de ..."
         },
         {
+          "title": "Islam in Indonesi&#235;: even een hoofddoek op voor de foto",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2021/09/17/islam-in-indonesie-even-een-hoofddoek-op-voor-de-foto-a4058691",
+          "publishedDate": "Fri, 17 Sep 2021 12:00:00 GMT",
+          "description": "Indonesi&#235; Islamitische Indonesi&#235;rs worden conservatiever, maar sterke ge&#235;mancipeerde vrouwen gaan er lijnrecht tegenin, schrijft Annemarie Kas in haar laatste artikel als NRC-correspondent ..."
+        },
+        {
           "title": "Indonesi&#235; getroffen door verwoestende aardbeving: tsunamiwaarschuwing en omvangrijke schade.",
           "source": "Notizie.it",
           "url": "https://www.notizie.it/nl/Indonesi%C3%AB-getroffen-door-verwoestende-aardbeving--tsunamiwaarschuwing-en-omvangrijke-schade./",
@@ -596,13 +419,6 @@
           "url": "https://www.columbusmagazine.nl/bestemming/azie/indonesie/raja-ampat/artikel/30405/raja-ampat-indonesie-activiteiten-tips/",
           "publishedDate": "Fri, 17 Jul 2026 02:23:00 GMT",
           "description": "Ontdek de magie van Raja Ampat in Indonesi&#235;. Van duiken met reuzenmanta's tot kajakken tussen homestays: 8 bijzondere tips voor West-Papoea."
-        },
-        {
-          "title": "Democratie is niet vanzelfsprekend in Indonesi&#235;, zeggen deze Leidse studenten",
-          "source": "RD",
-          "url": "https://www.rd.nl/artikel/1124493-democratie-is-niet-vanzelfsprekend-in-indonesie-zeggen-deze-leidse-studenten",
-          "publishedDate": "Sat, 18 Oct 2025 02:20:00 GMT",
-          "description": "In Indonesi&#235; was het al de tweede keer dit jaar dat grote protesten breed worden uitgemeten in internationale media. Het heeft alles te maken met de koers die president Prabowo heeft ingezet. Het ..."
         },
         {
           "title": "Kluivert trots na eerste zege met Indonesi&#235;: 'Dit is nog maar het begin'",
@@ -631,6 +447,282 @@
           "url": "https://www.consilium.europa.eu/nl/press/press-releases/2021/11/18/covid-19-council-adds-indonesia-to-the-list-of-countries-for-which-travel-restrictions-should-be-lifted/",
           "publishedDate": "Thu, 18 Nov 2021 02:50:00 GMT",
           "description": "Na een evaluatie heeft de Raad de lijst aangepast van landen, speciale administratieve regio's en andere entiteiten en territoriale autoriteiten waarvoor de beperkingen op niet‑essenti&#235;le reizen naar ..."
+        }
+      ]
+    },
+    {
+      "keyword": "finlay tarling",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Ronde van Portugal versoberd na dood Finlay Tarling, NSN-ploeg trekt zich terug",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/wielrennen/6406422/ronde-van-portugal-versoberd-na-dood-finlay-tarling-nsn-ploeg-trekt-zich-terug.html",
+          "publishedDate": "Sat, 15 Aug 2026 03:16:00 GMT",
+          "description": "De Ronde van Portugal gaat daags na het overlijden van de Britse wielrenner Finlay Tarling versoberd verder. De negentienjarige Tarling overleed vrijdag na een aanrijding met een voertuig dat niet ver ..."
+        },
+        {
+          "title": "NSN-ploeg stapt na overlijden Tarling uit Ronde van Portugal, die ingetogen doorgaat",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2626957-nsn-ploeg-stapt-na-overlijden-tarling-uit-ronde-van-portugal-die-ingetogen-doorgaat",
+          "publishedDate": "Sat, 15 Aug 2026 02:32:00 GMT",
+          "description": "Voorafgaand aan de negende etappe van de Ronde van Portugal zal er een eerbetoon aan de overleden Finlay Tarling plaatsvinden."
+        },
+        {
+          "title": "Wielertalent Finlay Tarling (19) overleden na val in Ronde van Portugal",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2626874-wielertalent-finlay-tarling-19-overleden-na-val-in-ronde-van-portugal",
+          "publishedDate": "Fri, 14 Aug 2026 10:05:00 GMT",
+          "description": "Finlay Tarling, de jongere broer van tijdrittopper Joshua Tarling, is tijdens de achtste etappe van de Ronde van Portugal om het leven gekomen."
+        },
+        {
+          "title": "Willebrord Wil Vooruit rouwt om overlijden oud-renner Finlay Tarling",
+          "source": "WielerFlits",
+          "url": "https://www.wielerflits.nl/nieuws/willebrord-wil-vooruit-rouwt-om-overlijden-oud-renner-finlay-tarling/",
+          "publishedDate": "Sat, 15 Aug 2026 03:29:00 GMT",
+          "description": "Het overlijden van Finlay Tarling dompelt de wielerwereld dit weekend in rouw. De 19-jarige Brit kwam vrijdagmiddag om het leven na een botsing met een niet-koersgerelateerde auto in tegengestelde ric ..."
+        },
+        {
+          "title": "Ronde van Portugal gaat versoberd verder na dodelijk incident",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/sport/ronde-van-portugal-gaat-versoberd-verder-na-dodelijk-incident",
+          "publishedDate": "Sat, 15 Aug 2026 03:08:00 GMT",
+          "description": "Na de dood van renner Finlay Tarling (19) gaat de Ronde van Portugal sober verder. Eerbetoon, geen feest, afgelaste events; NSN-team stapt uit."
+        },
+        {
+          "title": "NSN Development stapt na overlijden Finlay Tarling uit Ronde van Portugal 2026",
+          "source": "WielerFlits on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/motorsport/nsn-development-stapt-na-overlijden-finlay-tarling-uit-ronde-van-portugal-2026/ar-AA2aaBYC",
+          "publishedDate": "Sat, 15 Aug 2026 02:45:50 GMT",
+          "description": "De vijf overgebleven ploeggenoten van de vrijdag overleden Finlay Tarling stappen uit de Ronde van Portugal 2026. Na de dood van hun 19-jarige collega zijn zij niet in staat om de koers te vervolgen."
+        },
+        {
+          "title": "Na het tragisch overlijden van teamgenoot Finlay Tarling (19): NSN Development Team stapt uit Ronde van Portugal",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/nieuws/na-het-tragisch-overlijden-van-teamgenoot-finlay-tarling-19-nsn-development-team-stapt-uit-ronde-van-portugal/160055233.html",
+          "publishedDate": "Sat, 15 Aug 2026 02:30:00 GMT",
+          "description": "De amper negentienjarige wielrenner Finlay Tarling (NSN Development Team) is vrijdag overleden bij een “incident” tijdens de Ronde van Portugal (cat. 2.1). Dat bevestigden de organisatoren in een mede ..."
+        },
+        {
+          "title": "Ronde van Portugal gaat ingetogen verder na dood Finlay Tarling",
+          "source": "WielerFlits on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/ronde-van-portugal-gaat-ingetogen-verder-na-dood-finlay-tarling/ar-AA2aaoxT",
+          "publishedDate": "Sat, 15 Aug 2026 01:46:23 GMT",
+          "description": "De Ronde van Portugal 2026 kent een inktzwarte bladzijde. Vrijdag kwam Finlay Tarling om het leven nadat hij frontaal op een tegemoetkomende auto botste, die niet op het parcours had mogen rijden. De ..."
+        },
+        {
+          "title": "Wielerwereld rouwt om overleden Britse renner Finlay Tarling (19): ‘Het leven is gewoon niet eerlijk’",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/meer-sport/wielerwereld-rouwt-om-overleden-britse-renner-finlay-tarling-19-het-leven-is-gewoon-niet-eerlijk~afea52b1/",
+          "publishedDate": "Fri, 14 Aug 2026 16:57:00 GMT",
+          "description": "De wielerwereld rouwt om het overlijden van de 19-jarige Britse wielrenner Finlay Tarling. Hij kwam vrijdag tijdens de Ronde van Portugal in botsing met een auto die geen deel uitmaakte van de koers."
+        },
+        {
+          "title": "Wielerwereld rouwt om overlijden Finlay Tarling in Portugal: “Het leven is gewoon niet eerlijk”",
+          "source": "WielerFlits",
+          "url": "https://www.wielerflits.nl/nieuws/wielerwereld-rouwt-om-overlijden-finlay-tarling-in-portugal-het-leven-is-gewoon-niet-eerlijk/",
+          "publishedDate": "Fri, 14 Aug 2026 12:12:00 GMT",
+          "description": "De hele wielerwereld rouwt om het plotselinge overlijden van Finlay Tarling. De Britse wielrenner kwam op 19-jarige leeftijd om het leven door een tragisch ongeluk op het parcours van de Ronde van Por ..."
+        }
+      ]
+    },
+    {
+      "keyword": "zaandam",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Ongeval met letsel in Zaandam",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-zaanstad/ongeval-met-letsel-in-zaandam~a10d6ac5/",
+          "publishedDate": "Fri, 14 Aug 2026 17:22:00 GMT",
+          "description": "De melding kwam rond kwart over negen 's ochtends bij de alarmcentrale binnen. Er is een ambulance naar de locatie gestuurd om hulp te verlenen. 112 Zaandam De brandweer is de afgelopen 30 dagen 67 ke ..."
+        },
+        {
+          "title": "Auto kantelt op A7 bij Wijdewormer door ongeval, twee rijstroken richting Zaandam weer vrijgegeven",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-wormerland/auto-kantelt-op-a7-bij-wijdewormer-door-ongeval-twee-rijstroken-richting-zaandam-weer-vrijgegeven~a18631cf/",
+          "publishedDate": "Fri, 14 Aug 2026 00:13:00 GMT",
+          "description": "Bij een ongeval op de A7 raakten vrijdagmiddag meerdere voertuigen betrokken. Twee personen zijn naar het ziekenhuis gebracht."
+        },
+        {
+          "title": "Riviercruises kunnen door de droogte niet meer langs de hele Rijn, maar vertrekken toch – naar Zaandam bijvoorbeeld",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/riviercruises-kunnen-door-de-droogte-niet-meer-langs-de-hele-rijn-maar-vertrekken-toch-naar-zaandam-bijvoorbeeld~b9ba93ff/",
+          "publishedDate": "Thu, 13 Aug 2026 20:00:00 GMT",
+          "description": "Vanwege de droogte kunnen riviercruises niet meer langs de Rijn naar populaire bestemmingen als Basel en Boedapest. Maar de schepen vertrekken vooralsnog als gepland vanuit Amsterdam, al doen ze ander ..."
+        },
+        {
+          "title": "Riviercruises kunnen door de droogte niet de hele Rijn langs, maar vertrekken toch – naar Zaandam bijvoorbeeld",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/riviercruises-kunnen-door-de-droogte-niet-de-hele-rijn-langs-maar-vertrekken-toch-naar-zaandam-bijvoorbeeld~b9ba93ff/",
+          "publishedDate": "Thu, 13 Aug 2026 20:00:00 GMT",
+          "description": "Vanwege de droogte kunnen riviercruises niet meer langs de Rijn naar populaire bestemmingen als Basel en Boedapest. Maar de schepen vertrekken vooralsnog als gepland vanuit Amsterdam, al doen ze ander ..."
+        },
+        {
+          "title": "Politie zoekt vermiste Noor (12); in de nacht uit woning vertrokken",
+          "source": "112 Nieuws Nederland",
+          "url": "https://112nieuws.net/2026/08/14/politie-zoekt-vermiste-noor-12-in-de-nacht-uit-woning-vertrokken/",
+          "publishedDate": "Fri, 14 Aug 2026 11:50:00 GMT",
+          "description": "De politie is op zoek naar de 12-jarige Noor uit Zaandam. Het meisje is in de nacht van donderdag 13 op vrijdag 14 augustus vertrokken vanuit haar woning. Rond 01.00 uur werd zij voor het laatst gezie ..."
+        },
+        {
+          "title": "Meisje (12) dat midden in de nacht uit woning in Zaandam verdween weer terecht",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/vermissing/artikelen/noord-holland-zaandam-12-jarig-meisje-vermist",
+          "publishedDate": "Fri, 14 Aug 2026 11:28:00 GMT",
+          "description": "Het 12-jarige meisje uit Zaandam dat sinds de nacht van donderdag op vrijdag werd vermist, is weer terecht. Dat meldt de politie zaterdag. Het meisje verdween nadat haar moeder haar rond 00.30 uur ..."
+        },
+        {
+          "title": "Zaanstad waarschuwt voor windturbines bij Noorder IJplas: ’Heeft consequenties voor woningbouwplannen’",
+          "source": "Noordhollands Dagblad",
+          "url": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/zaanstreek/zaanstad-waarschuwt-voor-windturbines-bij-noorder-ijplas-heeft-consequenties-voor-woningbouwplannen/159914528.html",
+          "publishedDate": "Thu, 13 Aug 2026 06:27:00 GMT",
+          "description": "Drie windturbines bij de Noorder IJplas vormen een bedreiging voor de tweeduizend geplande woningen in het Sluiskwartier. Met die boodschap waarschuwt Zaanstad dat de provincie zichzelf in de vingers ..."
+        },
+        {
+          "title": "Mees (18) houdt met zesduizend liter water per ritje de Prins Bernhardbrug in Zaandam koel: ’Soms worden mensen boos, dan gaan ze roepen’",
+          "source": "Noordhollands Dagblad",
+          "url": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/zaanstreek/mees-18-houdt-met-zesduizend-liter-water-per-ritje-de-prins-bernhardbrug-in-zaandam-koel-soms-worden-mensen-boos-dan-gaan-ze-roepen/159572353.html",
+          "publishedDate": "Thu, 06 Aug 2026 04:40:00 GMT",
+          "description": "Niet alleen mensen en dieren hebben last van de hitte, ook de bruggen hebben het zwaar te verduren. Om te voorkomen dat het metaal uitzet en de bruggen niet meer open of dicht gaan, worden deze tijden ..."
+        },
+        {
+          "title": "Man (40) die vermist was uit Zaandam is weer terecht",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/vermissing/artikelen/noord-holland-zaandam-vermissing-man-zijtocht",
+          "publishedDate": "Mon, 03 Aug 2026 07:42:00 GMT",
+          "description": "De politie is op zoek naar de 40-jarige Jaber, die vermist is uit Zaandam. Hij is voor het laatst gezien aan de Zijtocht. De politie vraagt mensen met informatie of camerabeelden zich te melden."
+        },
+        {
+          "title": "Eikelenboom Groep neemt Wemmers Tankcleaning Zaandam over",
+          "source": "TTM.nl",
+          "url": "https://www.ttm.nl/management/fusiesovernames/eikelenboom-groep-neemt-wemmers-tankcleaning-zaandam-over/178336/",
+          "publishedDate": "Thu, 30 Jul 2026 23:01:00 GMT",
+          "description": "Eikelenboom Groep breidt haar netwerk per 1 augustus 2026 uit met de reinigingslocatie van Wemmers Tankcleaning Zaandam. Met deze uitbreiding versterkt de ..."
+        }
+      ]
+    },
+    {
+      "keyword": "groningen",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "81-jarige vrouw overleden na aanrijding met vuilniswagen in Groningen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-groningen/81-jarige-vrouw-overleden-na-aanrijding-met-vuilniswagen-in-groningen~a9333109/",
+          "publishedDate": "Thu, 13 Aug 2026 22:20:00 GMT",
+          "description": "Een voetganger is vrijdagochtend om het leven gekomen bij een ernstig ongeval in Groningen. De 81-jarige vrouw uit Groningen stak met haar rollator over op het zebrapad aan de Verlengde Herenweg toen ..."
+        },
+        {
+          "title": "Oud-politicus en ex-burgemeester van Groningen Jacques Wallage (PvdA) overleden",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2626702-oud-politicus-en-ex-burgemeester-van-groningen-jacques-wallage-pvda-overleden",
+          "publishedDate": "Thu, 13 Aug 2026 08:35:00 GMT",
+          "description": "De Groningse oud-burgemeester en PvdA-politicus Jacques Wallage is op 79-jarige leeftijd overleden. Dat heeft de familie van Wallage aan de gemeente Groningen laten weten. &quot;We zijn diep geraakt door ..."
+        },
+        {
+          "title": "Huizenprijzen Groningen stijgen nog wel, maar in laagste tempo sinds 2023",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/groningen/huizenprijzen-groningen-stijgen-nog-wel-maar-in-laagste-tempo-sinds-2023~ab1dc080/",
+          "publishedDate": "Wed, 12 Aug 2026 22:01:00 GMT",
+          "description": "Wie een huis in Groningen wil kopen, is daar 6 procent meer aan kwijt dan een jaar geleden, blijkt uit nieuwe cijfers van het Centraal Bureau voor de Statistiek. Daarmee ligt het tempo van de prijssti ..."
+        },
+        {
+          "title": "Groningen-drama: oud-Feyenoorder lang ‘out’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/groningen-drama-oud-feyenoorder-lang-out/",
+          "publishedDate": "Fri, 14 Aug 2026 14:47:00 GMT",
+          "description": "Nederland en Malcolm Jeng vormen vooralsnog een ongelukkige combinatie. De oud-Feyenoorder heeft voor de tweede keer in een jaar zijn achillespees ..."
+        },
+        {
+          "title": "Groningen herdenkt einde Tweede Wereldoorlog in Nederlands-Indi&#235; op Martinikerkhof: “Lessen van vrijheid doorgeven”",
+          "source": "OOG Groningen",
+          "url": "https://www.oogtv.nl/2026/08/groningen-herdenkt-einde-tweede-wereldoorlog-in-nederlands-indie-op-martinikerkhof-lessen-van-vrijheid-doorgeven/",
+          "publishedDate": "Fri, 14 Aug 2026 14:26:00 GMT",
+          "description": "Op het Martinikerkhof vindt zaterdag 15 augustus de jaarlijkse Nederlands-Indi&#235; herdenking plaats. Het is vandaag precies 81 jaar geleden dat het Japanse keizerrijk capituleerde, waarmee er een defin ..."
+        },
+        {
+          "title": "Vanaf begin oktober weer treindiensten tussen Groningen en Leer",
+          "source": "Treinreiziger.nl",
+          "url": "https://www.treinreiziger.nl/vanaf-begin-oktober-weer-treindiensten-tussen-groningen-en-leer/",
+          "publishedDate": "Fri, 14 Aug 2026 06:55:00 GMT",
+          "description": "De spoorlijn van Groningen naar het Duitse Leer gaat begin oktober weer open. Dat melden vervoerder Arriva en spoorbeheerder ProRail op vrijdag. Arriva hee ..."
+        },
+        {
+          "title": "Politieke ‘makkers’ herdenken Jacques Wallage: hij leeft voort in Groningen",
+          "source": "RTV Noord",
+          "url": "https://www.rtvnoord.nl/politiek/1429209/politieke-makkers-herdenken-jacques-wallage-hij-leeft-voort-in-groningen",
+          "publishedDate": "Thu, 13 Aug 2026 23:00:00 GMT",
+          "description": "Met het onverwachte overlijden van Jacques Wallage (79) verliest Groningen niet alleen een oud-burgemeester, maar ook een bevlogen politicus. RTV Noord sprak met de mensen die hem van dichtbij meemaak ..."
+        },
+        {
+          "title": "Alles over ADO Den Haag - FC Groningen",
+          "source": "ADO Den Haag",
+          "url": "https://adodenhaag.nl/nl/nieuws/laatste-nieuws/1e-elftal/19397-alles-over-ado-den-haag-fc-groningen1",
+          "publishedDate": "Thu, 13 Aug 2026 06:37:00 GMT",
+          "description": "ADO Den Haag speelt zondag 16 augustus haar eerste thuiswedstrijd in de Vriendenloterij Eredivisie seizoen 2026/2027. De kersverse promovendus zal in eigen huis de eerste punten van het seizoen willen ..."
+        },
+        {
+          "title": "FC Groningen geeft duidelijk signaal af: ‘Hij is niet te koop’",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/fc-groningen-geeft-duidelijk-signaal-af-hij-is-niet-te-koop",
+          "publishedDate": "Mon, 10 Aug 2026 22:56:00 GMT",
+          "description": "FC Groningen wil Thom van Bergen deze zomer niet verkopen. AZ heeft opnieuw interesse getoond in de aanvaller, maar Groningen houdt de boot voorlopig af."
+        },
+        {
+          "title": "Explosief materiaal achtergelaten in bosjes in Groningen",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1158958-explosief-materiaal-achtergelaten-in-bosjes-in-groningen",
+          "publishedDate": "Mon, 10 Aug 2026 07:51:00 GMT",
+          "description": "De politie in Groningen doet onderzoek naar explosief materiaal dat maandag in Groningen in de bosjes is aangetroffen. In de ochtend kreeg de politie een melding van een verdachte situatie aan de Spie ..."
+        }
+      ]
+    },
+    {
+      "keyword": "christopher abbott",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "X‑Men‑cast bevestigd: Inde Navarette als Rogue, Adam Driver als Mister Sinister, Maya Boyd als Storm en meer | D23 2026",
+          "source": "IGN Benelux on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/gaming/x-men-cast-bevestigd-inde-navarette-als-rogue-adam-driver-als-mister-sinister-maya-boyd-als-storm-en-meer-d23-2026/ar-AA2ab5bt",
+          "publishedDate": "Sat, 15 Aug 2026 03:00:42 GMT",
+          "description": "Marvel Studios heeft een flinke lijst castleden bevestigd voor de nieuwe MCU‑reboot van X‑Men, met onder anderen Inde Navarrette als Rogue, Adam Driver als Mister Sinister en Maya Boyd als Storm."
+        },
+        {
+          "title": "Adam Driver speelt schurk in nieuwe X-Men-film",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/adam-driver-speelt-schurk-in-nieuwe-x-men-film",
+          "publishedDate": "Fri, 14 Aug 2026 15:02:00 GMT",
+          "description": "Adam Driver is Mr. Sinister in Marvels nieuwe X-Men. Met Christopher Abbott als Professor X, Navarrette als Rogue en Boyd als Storm. Release: 5 mei 2028."
+        },
+        {
+          "title": "Marvel Studios heeft naar verluidt hun nieuwe Professor X gevonden en het is totaal niet wie je verwacht",
+          "source": "FilmTotaal",
+          "url": "https://www.filmtotaal.nl/nieuws/134399",
+          "publishedDate": "Fri, 14 Aug 2026 08:51:00 GMT",
+          "description": "Christopher Abbott volgt Patrick Stewart en James McAvoy op als Professor X in de nieuwe 'X-Men' reboot... Er werd flink uitgekeken naar 'The Last House' en nu staat de thriller op Netflix: hoe goed ..."
+        },
+        {
+          "title": "Aubrey Plaza verwelkomt eerste kindje met nieuwe vriend, ruim jaar na overlijden van haar echtgenoot",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/celebrities/aubrey-plaza-verwelkomt-eerste-kindje-met-nieuwe-vriend-ruim-jaar-na-overlijden-van-haar-echtgenoot~af31b2ea/",
+          "publishedDate": "Mon, 10 Aug 2026 01:45:00 GMT",
+          "description": "Aubrey Plaza is voor het eerst moeder geworden. Ruim een jaar na het overlijden van haar echtgenoot Jeff Baena heeft de 42-jarige actrice uit onder meer ‘The White Lotus’ en ‘Parks and Recreation’ een ..."
+        },
+        {
+          "title": "Alle films en series met Christopher Abbott",
+          "source": "filmvandaag",
+          "url": "https://www.filmvandaag.nl/zoek?categorie=alles&zoekterm=Christopher+Abbott&veld=cast",
+          "publishedDate": "Mon, 19 Oct 2020 16:24:00 GMT",
+          "description": "Bekijk de beste films en series met Christopher Abbott ..."
+        },
+        {
+          "title": "De beste films met Christopher Abbott",
+          "source": "filmvandaag",
+          "url": "https://www.filmvandaag.nl/acteur/Christopher+Abbott",
+          "publishedDate": "Wed, 01 Nov 2017 08:51:00 GMT",
+          "description": "Bekijk hier het overzicht van de beste films met Christopher Abbott. Christopher Abbott speelt in 27 films, die we hebben gesorteerd op IMDb-score. Via onze uitgebreide zoekpagina kun je zoeken in ..."
         }
       ]
     }
