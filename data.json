@@ -1,44 +1,86 @@
 {
-  "fetchedAt": "2026-08-15T08:53:18.683Z",
+  "fetchedAt": "2026-08-15T09:19:25.932Z",
   "trends": [
     {
       "keyword": "weer",
       "trafficLabel": "100K+",
-      "articles": [
-        {
-          "title": "Eindelijk weer regen na dagenlange hitte: d&#237;t is de opmerkelijke geur die je nu buiten ruikt",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/weer/eindelijk-weer-regen-na-dagenlange-hitte-dit-is-de-opmerkelijke-geur-die-je-nu-buiten-ruikt/64327298.html",
-          "publishedDate": "Sat, 15 Aug 2026 01:35:00 GMT",
-          "description": "Na enkele dagen met tropische temperaturen en extreme hitte is zaterdag broodnodige regen gevallen. Wat je dan misschien opvalt, is dat de regen een specifieke geur heeft. Wat is deze geur, wat ruik j ..."
-        },
-        {
-          "title": "Na zonneschijn komt regen: van hittepiek naar wisselvallig weer",
-          "source": "RTV Utrecht",
-          "url": "https://www.rtvutrecht.nl/nieuws/4079797/na-zonneschijn-komt-regen-van-hittepiek-naar-wisselvallig-weer",
-          "publishedDate": "Thu, 13 Aug 2026 01:58:00 GMT",
-          "description": "Utrechters moeten zich de komende twee dagen opmaken voor tropisch warm weer. Het wordt meer dan 30 graden en het KNMI heeft daarom code geel afgegeven. Maar goed nieuws voor mensen die de hitte zat z ..."
-        },
-        {
-          "title": "KNMI waarschuwt voor 'gevaarlijk weer' en geeft code geel af",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/natuur/5137452/knmi-waarschuwt-voor-gevaarlijk-weer-en-geeft-code-geel-af",
-          "publishedDate": "Wed, 12 Aug 2026 07:12:00 GMT",
-          "description": "Weerinstituut KNMI heeft vanaf donderdag 9.00 uur code geel afgegeven. De weerswaarschuwing houdt in ieder geval aan tot vrijdag 23.59 uur. Aanleiding is het warme weer en de verwachte temperaturen bo ..."
-        },
-        {
-          "title": "Komt een super-El Ni&#241;o het weer verstoren? &quot;Staat zo goed als vast dat we een redelijk intense versie krijgen&quot;",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/04/09/is-er-een-super-el-nino-op-komst/",
-          "publishedDate": "Thu, 09 Apr 2026 08:44:00 GMT",
-          "description": "De kansen op een relatief zware El Ni&#241;o later dit jaar stijgen. Dat zeggen verschillende weermodellen, al blijft het afwachten hoe intens het weerfenomeen zal uitvallen. El Ni&#241;o komt van nature voor ..."
-        }
-      ]
+      "articles": []
     },
     {
-      "keyword": "buienradar",
+      "keyword": "telstar - sparta rotterdam",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Sparta houdt stand bij Telstar en boekt eerste uitzege sinds eind januari",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6406394/sparta-houdt-stand-bij-telstar-en-boekt-eerste-uitzege-sinds-eind-januari.html",
+          "publishedDate": "Fri, 14 Aug 2026 14:59:00 GMT",
+          "description": "Sparta heeft vrijdag de eerste overwinning van het seizoen geboekt. De Rotterdammers wonnen na een spannende slotfase met 1-3 bij Telstar."
+        },
+        {
+          "title": "Telstar geen koploper na nederlaag tegen Sparta • Godts voor 55 miljoen naar PSG",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2626799-telstar-geen-koploper-na-nederlaag-tegen-sparta-godts-voor-55-miljoen-naar-psg",
+          "publishedDate": "Fri, 14 Aug 2026 13:20:00 GMT",
+          "description": "In dit blog vind je het verloop van Telstar - Sparta Rotterdam en het belangrijkste nieuws in aanloop naar de tweede speelronde in de eredivisie."
+        },
+        {
+          "title": "Sparta voorkomt unieke koppositie van Telstar met zege in Velsen-Zuid",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2626903-sparta-voorkomt-unieke-koppositie-van-telstar-met-zege-in-velsen-zuid",
+          "publishedDate": "Fri, 14 Aug 2026 13:13:00 GMT",
+          "description": "Telstar had &#233;&#233;n punt nodig thuis tegen Sparta om voor het eerst alleen koploper te worden in de eredivisie. Sparta wint echter met 1-3."
+        },
+        {
+          "title": "Sparta boekt bij Telstar eerste seizoenszege",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/sparta-boekt-bij-telstar-eerste-seizoenszege",
+          "publishedDate": "Fri, 14 Aug 2026 15:11:00 GMT",
+          "description": "Sparta Rotterdam boekt in Velsen de eerste seizoenszege: 3-1 bij Telstar. Doelpunten van Young, Th&#243;risson en Van Cruijsen; Soualhia scoort voor Telstar."
+        },
+        {
+          "title": "Sparta wint overtuigend bij Telstar en pakt eerste competitiezege",
+          "source": "VoetbalRotterdam",
+          "url": "https://www.voetbalrotterdam.nl/2026/08/sparta-wint-overtuigend-bij-telstar-en-pakt-eerste-competitiezege/",
+          "publishedDate": "Fri, 14 Aug 2026 13:08:00 GMT",
+          "description": "Sparta heeft vrijdagavond de eerste overwinning van het nieuwe Eredivisieseizoen geboekt. Op bezoek bij Telstar was de ploeg van Rogier Meijer lange tijd de ..."
+        },
+        {
+          "title": "VIDEO: Samenvatting Telstar – Sparta (1-3 Eredivisie)",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/08/15/video-samenvatting-telstar-sparta-1-3-eredivisie/",
+          "publishedDate": "Fri, 14 Aug 2026 12:59:00 GMT",
+          "description": "Sparta heeft gisteren prima zaken gedaan in de strijd om de Nederlandse Eredivisie. Op bezoek bij Telstar wisten ze namelijk met 1-3 te winnen. Na een uitstekende eerste wedstrijd van de IJmuidenaren ..."
+        },
+        {
+          "title": "Th&#243;risson doet oude club Telstar pijn en helpt Sparta aan eerste zege",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/thorisson-doet-oude-club-telstar-pijn-en-helpt-sparta-aan-eerste-zege",
+          "publishedDate": "Fri, 14 Aug 2026 12:55:00 GMT",
+          "description": "Sparta heeft vrijdagavond de eerste overwinning van het nieuwe Eredivisie-seizoen geboekt. In Velsen-Zuid werd Telstar, dat in de eerste speelronde nog knap afrekende met NEC, verslagen. N&#246;kkvi Th&#243;ris ..."
+        },
+        {
+          "title": "Telstar weet zege op NEC geen goed vervolg te geven: Sparta Rotterdam is te sterk",
+          "source": "Ajax Showtime on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-2000-uur-telstar-sparta-rotterdam-0-1/ar-AA2a6CoK",
+          "publishedDate": "Fri, 14 Aug 2026 12:25:00 GMT",
+          "description": "Dit is het livetopic voor de competitiewedstrijd tussen Telstar en Sparta Rotterdam. Beide ploegen treffen elkaar om 20.00 uur in het BUKO Stadion in Velsen-Zuid. Het duel is vrijdagavond live te zien ..."
+        },
+        {
+          "title": "LEES TERUG: Sparta wint na spannende slotfase van Telstar (1-3)",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2239296/lees-terug-sparta-wint-na-spannende-slotfase-van-telstar-1-3",
+          "publishedDate": "Fri, 14 Aug 2026 12:02:00 GMT",
+          "description": "Het voetbalweekend werd geopend op Velsen-Zuid, waar Sparta Rotterdam het opnam tegen Telstar. De Spartanen begonnen het seizoen met een nederlaag tegen stadsgenoot Feyenoord Rotterdam. De ploeg van R ..."
+        },
+        {
+          "title": "Praat mee op VP: SC Telstar – Sparta Rotterdam",
+          "source": "Voetbalprimeur Netherlands on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/praat-mee-op-vp-sc-telstar-sparta-rotterdam/ar-AA2a7AyA",
+          "publishedDate": "Fri, 14 Aug 2026 10:00:00 GMT",
+          "description": "SC Telstar neemt het vandaag op tegen Sparta Rotterdam in de Eredivisie. De wedstrijd begint om 20.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+        }
+      ]
     },
     {
       "keyword": "hans beijer",
@@ -117,80 +159,9 @@
       ]
     },
     {
-      "keyword": "telstar - sparta rotterdam",
+      "keyword": "buienradar",
       "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Contouren Rogier Meijer voor het eerst duidelijk bij Sparta: ‘Blij met wat we gecre&#235;erd hebben’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/regiosport-rotterdam/contouren-rogier-meijer-voor-het-eerst-duidelijk-bij-sparta-blij-met-wat-we-gecreeerd-hebben~ab94c65b/",
-          "publishedDate": "Fri, 14 Aug 2026 17:00:00 GMT",
-          "description": "Sparta heeft de tweede speelronde ingeluid met een relatief eenvoudige zege op Telstar (1-3). De Rotterdammers waren in Velsen-Zuid vrijwel het gehele duel de bovenliggende partij, in een wedstrijd wa ..."
-        },
-        {
-          "title": "Sparta houdt stand bij Telstar en boekt eerste uitzege sinds eind januari",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6406394/sparta-houdt-stand-bij-telstar-en-boekt-eerste-uitzege-sinds-eind-januari.html",
-          "publishedDate": "Fri, 14 Aug 2026 14:59:00 GMT",
-          "description": "Sparta heeft vrijdag de eerste overwinning van het seizoen geboekt. De Rotterdammers wonnen na een spannende slotfase met 1-3 bij Telstar."
-        },
-        {
-          "title": "Telstar geen koploper na nederlaag tegen Sparta • Godts voor 55 miljoen naar PSG",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2626799-telstar-geen-koploper-na-nederlaag-tegen-sparta-godts-voor-55-miljoen-naar-psg",
-          "publishedDate": "Fri, 14 Aug 2026 13:20:00 GMT",
-          "description": "In dit blog vind je het verloop van Telstar - Sparta Rotterdam en het belangrijkste nieuws in aanloop naar de tweede speelronde in de eredivisie."
-        },
-        {
-          "title": "Sparta voorkomt unieke koppositie van Telstar met zege in Velsen-Zuid",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2626903-sparta-voorkomt-unieke-koppositie-van-telstar-met-zege-in-velsen-zuid",
-          "publishedDate": "Fri, 14 Aug 2026 13:13:00 GMT",
-          "description": "Telstar had &#233;&#233;n punt nodig thuis tegen Sparta om voor het eerst alleen koploper te worden in de eredivisie. Sparta wint echter met 1-3."
-        },
-        {
-          "title": "Sparta boekt bij Telstar eerste seizoenszege",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/sparta-boekt-bij-telstar-eerste-seizoenszege",
-          "publishedDate": "Fri, 14 Aug 2026 15:11:00 GMT",
-          "description": "Sparta Rotterdam boekt in Velsen de eerste seizoenszege: 3-1 bij Telstar. Doelpunten van Young, Th&#243;risson en Van Cruijsen; Soualhia scoort voor Telstar."
-        },
-        {
-          "title": "Sparta wint overtuigend bij Telstar en pakt eerste competitiezege",
-          "source": "VoetbalRotterdam",
-          "url": "https://www.voetbalrotterdam.nl/2026/08/sparta-wint-overtuigend-bij-telstar-en-pakt-eerste-competitiezege/",
-          "publishedDate": "Fri, 14 Aug 2026 13:08:00 GMT",
-          "description": "Sparta heeft vrijdagavond de eerste overwinning van het nieuwe Eredivisieseizoen geboekt. Op bezoek bij Telstar was de ploeg van Rogier Meijer lange tijd de ..."
-        },
-        {
-          "title": "VIDEO: Samenvatting Telstar – Sparta (1-3 Eredivisie)",
-          "source": "Voetbal4u",
-          "url": "https://www.voetbal4u.com/2026/08/15/video-samenvatting-telstar-sparta-1-3-eredivisie/",
-          "publishedDate": "Fri, 14 Aug 2026 12:59:00 GMT",
-          "description": "Sparta heeft gisteren prima zaken gedaan in de strijd om de Nederlandse Eredivisie. Op bezoek bij Telstar wisten ze namelijk met 1-3 te winnen. Na een uitstekende eerste wedstrijd van de IJmuidenaren ..."
-        },
-        {
-          "title": "Th&#243;risson doet oude club Telstar pijn en helpt Sparta aan eerste zege",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/thorisson-doet-oude-club-telstar-pijn-en-helpt-sparta-aan-eerste-zege",
-          "publishedDate": "Fri, 14 Aug 2026 12:55:00 GMT",
-          "description": "Sparta heeft vrijdagavond de eerste overwinning van het nieuwe Eredivisie-seizoen geboekt. In Velsen-Zuid werd Telstar, dat in de eerste speelronde nog knap afrekende met NEC, verslagen. N&#246;kkvi Th&#243;ris ..."
-        },
-        {
-          "title": "Telstar weet zege op NEC geen goed vervolg te geven: Sparta Rotterdam is te sterk",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-2000-uur-telstar-sparta-rotterdam-0-1/ar-AA2a6CoK",
-          "publishedDate": "Fri, 14 Aug 2026 12:25:00 GMT",
-          "description": "Dit is het livetopic voor de competitiewedstrijd tussen Telstar en Sparta Rotterdam. Beide ploegen treffen elkaar om 20.00 uur in het BUKO Stadion in Velsen-Zuid. Het duel is vrijdagavond live te zien ..."
-        },
-        {
-          "title": "LEES TERUG: Sparta wint na spannende slotfase van Telstar (1-3)",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2239296/lees-terug-sparta-wint-na-spannende-slotfase-van-telstar-1-3",
-          "publishedDate": "Fri, 14 Aug 2026 10:02:00 GMT",
-          "description": "Het voetbalweekend werd geopend op Velsen-Zuid, waar Sparta Rotterdam het opnam tegen Telstar. De Spartanen begonnen het seizoen met een nederlaag tegen stadsgenoot Feyenoord Rotterdam. De ploeg van R ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "zomer",
@@ -211,18 +182,18 @@
           "description": "Wordt dit jaar opnieuw een historisch droge en warme zomer? Vijftig jaar na de uitzonderlijke zomer van 1976, die nog altijd geldt als h&#233;t ijkpunt voor droogte, laat een duik in het krantenarchief zie ..."
         },
         {
-          "title": "Deze zomer kan het weer op Scheveningen: een cocktail of diner in de lucht",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/play/productie/deze-zomer-kan-het-weer-op-scheveningen-een-cocktail-of-diner-in-de-lucht-14083049",
-          "publishedDate": "Mon, 10 Aug 2026 17:00:00 GMT",
-          "description": "Naast het reuzenrad, de tokkelbaan en het bungeejumpen is Dinner in the Sky deze zomer weer terug op Scheveningen: een groot restaurant hangt aan een hijskraan op 50 meter hoogte!"
-        },
-        {
           "title": "Na een uitzonderlijk droge zomer kunnen je planten een oppepper gebruiken: deze 6 ingrepen laten je tuin opnieuw stralen",
           "source": "Het Laatste Nieuws",
           "url": "https://www.hln.be/woon/na-een-uitzonderlijk-droge-zomer-kunnen-je-planten-een-oppepper-gebruiken-deze-6-ingrepen-laten-je-tuin-opnieuw-stralen~afbca747/",
           "publishedDate": "Fri, 14 Aug 2026 23:01:00 GMT",
           "description": "Tijdens de zomer halen we graag onze groene vingers boven voor een piekfijne tuin. Maar ook in het najaar kan je dankzij enkele vooruitziende ingrepen pronken met een weelderige hof. En met een kleine ..."
+        },
+        {
+          "title": "Evergem neemt tegen volgende zomer extra maatregelen tegen hitte in de woonzorgcentra: “Zowel in nieuwbouw als in onze bestaande”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/evergem/evergem-neemt-tegen-volgende-zomer-extra-maatregelen-tegen-hitte-in-de-woonzorgcentra-zowel-in-nieuwbouw-als-in-onze-bestaande~a804b731/",
+          "publishedDate": "Fri, 14 Aug 2026 18:56:00 GMT",
+          "description": "De gemeente Evergem en het Zorgbedrijf Meetjesland bekijken samen de mogelijkheden om tegen volgende zomer extra hittemaatregelen te nemen in de drie woonzorgcentra in de gemeente."
         },
         {
           "title": "Code geel, code smog: hoe Nederland vrijdag stikt in zijn eigen zomer",
@@ -237,6 +208,13 @@
           "url": "https://www.accountancyvanmorgen.nl/2026/08/13/partner-fortes-milestones-reflecteren-doe-je-niet-alleen-in-de-zomer/",
           "publishedDate": "Thu, 13 Aug 2026 07:47:00 GMT",
           "description": "De zomer komt eraan. Voor veel accountantskantoren betekent dat een natuurlijk rustpunt: de samensteldrukte rond de jaarrekeningen is achter de rug, ..."
+        },
+        {
+          "title": "Zomer 2026 maakt van Rijn een stroompje van nog maar amper 1 meter diep",
+          "source": "RD",
+          "url": "https://www.rd.nl/a/1159156-zomer2026-maakt-van-rijn-een-stroompje-van-nog-maar-amper-1-meter-diep",
+          "publishedDate": "Wed, 12 Aug 2026 05:39:00 GMT",
+          "description": "Eerdere extreme zomers lieten een onuitwisbare indruk achter. Velen herinneren zich de uitzonderlijk warme zomer van 2003 nog. Of korter geleden: die van 2018. En bij veel ouderen staat het jaar 1976 ..."
         },
         {
           "title": "Een zonnige zomer op de superjachtmarkt: verkopen stijgen met 89%",
@@ -258,91 +236,13 @@
           "url": "https://indebuurt.nl/tilburg/doen/uittips/veel-livemuziek-markten-en-meer-dit-is-het-programma-van-wilhelminapark-viert-de-zomer~af5b8652/",
           "publishedDate": "Mon, 10 Aug 2026 01:30:00 GMT",
           "description": "Twaalf dagen lang vind je een gratis festival in het Wilhelminapark. Met een programma waarmee je de zomer wel doorkomt, boordevol optredens van Tilburgs talent, knutselsessies in het park en creatiev ..."
-        },
-        {
-          "title": "De zomer is Hakims favoriete seizoen. ’Op het Leidseplein hield ik trams tegen, improviseerde ik en voelde ik vrijheid’",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/extra/opinie-column/de-zomer-is-hakims-favoriete-seizoen.-op-het-leidseplein-hield-ik-trams-tegen-improviseerde-ik-en-voelde-ik-vrijheid/158772656.html",
-          "publishedDate": "Sat, 08 Aug 2026 07:00:00 GMT",
-          "description": "De zomer is voor mij een bijzonder seizoen. Elk jaar is hij weer een ijkpunt. Hij herinnert me eraan hoe de tijd voorbijgaat, hoe oud ik ben, waar ik vandaan kom… en soms ook waar ik naartoe ga."
         }
       ]
     },
     {
       "keyword": "jason arday",
       "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Voormalig Cambridge-professor Jason Arday dood aangetroffen in Londen",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/voormalig-cambridge-professor-jason-arday-dood-aangetroffen-in-londen~b1f2c5f2d/",
-          "publishedDate": "Fri, 14 Aug 2026 15:02:00 GMT",
-          "description": "Jason Arday, de Cambridge-professor die vorige week ontslag nam na beschuldigingen van plagiaat en leugens, is vrijdag dood aangetroffen. Dat meldt de Britse krant The Telegraph."
-        },
-        {
-          "title": "‘Voormalig Cambridge-professor Jason Arday, die ontslag nam na vele leugens, dood gevonden in woning’",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/wereld/voormalig-cambridge-professor-jason-arday-die-ontslag-nam-na-vele-leugens-dood-gevonden-in-woning~b76ec57c/",
-          "publishedDate": "Fri, 14 Aug 2026 15:00:00 GMT",
-          "description": "De voormalige Cambridge-professor Jason Arday (41) is dood gevonden in zijn woning in Londen, meldt de Britse krant The Telegraph. Arday kwam in opspraak na beschuldigingen van plagiaat. Hij nam vorig ..."
-        },
-        {
-          "title": "Van plagiaat beschuldigde Cambridge-professor Jason Arday (41) dood gevonden",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/buitenland/6406398/van-plagiaat-beschuldigde-cambridge-professor-jason-arday-41-dood-gevonden.html",
-          "publishedDate": "Fri, 14 Aug 2026 14:55:00 GMT",
-          "description": "Jason Arday, voormalig professor aan de prestigieuze University of Cambridge, is vrijdag dood in zijn woning aangetroffen, melden Britse media. Arday had vorige week ontslag genomen vanwege beschuldig ..."
-        },
-        {
-          "title": "Na plagiaatrel opgestapte hoogleraar Cambridge dood aangetroffen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2626907-na-plagiaatrel-opgestapte-hoogleraar-cambridge-dood-aangetroffen",
-          "publishedDate": "Fri, 14 Aug 2026 13:25:00 GMT",
-          "description": "De Britse universiteit was bezig met een onderzoek naar de academische kwalificaties en benoemingen van voormalig hoogleraar Jason Arday."
-        },
-        {
-          "title": "Opgestapte Britse prof dood gevonden, familie spreekt van ‘ondraaglijke lastercampagne’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/opgestapte-britse-prof-dood-gevonden-familie-spreekt-van-ondraaglijke-lastercampagne~a76ec57c/?slug_rd=1",
-          "publishedDate": "Thu, 13 Aug 2026 17:46:00 GMT",
-          "description": "De voormalige Cambridge-professor Jason Arday (41) is dood gevonden in zijn woning in Londen. Arday kwam in opspraak na beschuldigingen van plagiaat. Hij was de jongste zwarte hoogleraar ooit aan de p ..."
-        },
-        {
-          "title": "Jason Arday, jongste zwarte hoogleraar ooit aan Cambridge, overleden na plagiaatbeschuldigingen",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/nieuws/jason-arday-jongste-zwarte-hoogleraar-ooit-aan-cambridge-overleden-na-plagiaatbeschuldigingen~b8c045fc4/",
-          "publishedDate": "Fri, 14 Aug 2026 23:44:00 GMT",
-          "description": "Voormalig professor Jason Arday (41) is overleden, dat melden verschillende Britse media. Hij nam vorige week ontslag bij de universiteit van Cambridge na beschuldigingen van plagiaat. De Britse polit ..."
-        },
-        {
-          "title": "Wie was Jason Arday? Jongste zwarte hoogleraar van Cambridge dood aangetroffen",
-          "source": "TCE on MSN",
-          "url": "https://www.msn.com/nl-nl/geldzaken/algemeen/wie-was-jason-arday-jongste-zwarte-hoogleraar-van-cambridge-dood-aangetroffen/ar-AA2aakZF",
-          "publishedDate": "Fri, 14 Aug 2026 23:29:01 GMT",
-          "description": "De jongste zwarte hoogleraar van Cambridge nam ontslag nadat de universiteit een onderzoek naar zijn academische staat van dienst was gestart."
-        },
-        {
-          "title": "Cambridge professor Jason Arday dood aangetroffen, week na ontslag door beschuldigingen van plagiaat",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/buitenland/cambridge-professor-jason-arday-dood-aangetroffen-week-na-ontslag-door-beschuldigingen-van-plagiaat/160060221.html",
-          "publishedDate": "Fri, 14 Aug 2026 18:34:00 GMT",
-          "description": "Voormalig Cambridge-hoogleraar Jason Arday, die geschiedenis schreef als jongste zwarte hoogleraar ooit aan de universiteit maar onlangs ontslag nam na beschuldigingen van plagiaat, is dood aangetroff ..."
-        },
-        {
-          "title": "Voormalig Cambridge-professor Jason Arday dood teruggevonden na ontslag",
-          "source": "VRT on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/voormalig-cambridge-professor-jason-arday-dood-teruggevonden-na-ontslag/ar-AA2a8uNS",
-          "publishedDate": "Fri, 14 Aug 2026 13:02:00 GMT",
-          "description": "De voormalige Cambridge-professor Jason Arday (37) is dood gevonden in zijn woning in Londen. Dat melden Britse media. Arday kwam in opspraak na beschuldigingen van plagiaat. Hij nam vorige week ontsl ..."
-        },
-        {
-          "title": "Cambridge-professor (41) die beschuldigd werd van plagiaat, dood aangetroffen in woning. Familie reageert: “Die lastercampagne was ondraaglijk voor Jason”",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/cambridge-professor-41-die-beschuldigd-werd-van-plagiaat-dood-aangetroffen-in-woning-familie-reageert-die-lastercampagne-was-ondraaglijk-voor-jason~a5195b04/",
-          "publishedDate": "Fri, 14 Aug 2026 11:17:00 GMT",
-          "description": "Cambridge-professor Jason Arday (41) is vrijdag dood aangetroffen in zijn huis in de Londense wijk Battersea. Dat melden diverse Britse media. Arday kwam in het oog van de storm terecht toen hij besch ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "sam lammers",
@@ -368,13 +268,6 @@
           "url": "https://www.ad.nl/enschede/sam-lammers-lijkt-op-weg-naar-de-uitgang-bij-fc-twente-hij-is-de-derde-spits~ab275cff/?slug_rd=1",
           "publishedDate": "Fri, 07 Aug 2026 00:08:00 GMT",
           "description": "De toekomst van Sam Lammers lijkt niet meer bij FC Twente te liggen nu trainer John van den Brom een duidelijke boodschap heeft afgegeven. De eerste spits van de laatste maanden is in korte tijd gedeg ..."
-        },
-        {
-          "title": "FC Twente hoopt komst Sam Lammers snel af te ronden",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/sport/voetbal/fc-twente-hoopt-komst-sam-lammers-snel-af-te-ronden/64343004.html",
-          "publishedDate": "Thu, 25 Jul 2024 09:13:00 GMT",
-          "description": "GLASGOW - FC Twente hoopt op korte termijn de overgang van Sam Lammers af te kunnen ronden. De nummer drie van het vorige seizoen was eerder deze zomer voor de vacature op de spitspositie ..."
         },
         {
           "title": "‘Sam Lammers verlaat FC Twente voor Eredivisie-concurrent’",
@@ -425,20 +318,6 @@
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "LIVE Extreem weer | Grote bosbranden in Duitsland en Belgi&#235;, verwarring in Wales na noodmelding in lokale taal",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/live-extreem-weer-recordaantal-natuurbranden-in-engeland-en-wales-brandweerlieden-naar-ziekenhuis-gebracht~ad0a3949/",
-          "publishedDate": "Fri, 14 Aug 2026 18:09:00 GMT",
-          "description": "Het aantal natuurbranden in Engeland en Wales heeft een record bereikt. En brandweerchef Phil Garrigan verwacht dat het einde van het bosbrandseizoen nog niet in zicht is. Op dit moment woedt een bran ..."
-        },
-        {
-          "title": "LIVE Extreem weer | VK roept alle inwoners op niet te barbecue&#235;n, grote bosbrand dicht bij Nederlandse grens",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/live-natuurbranden-500-brandweerlieden-ingezet-bij-branden-in-de-buurt-van-athene~ad0a3949/",
-          "publishedDate": "Fri, 14 Aug 2026 17:00:00 GMT",
-          "description": "De ontstane schade door natuurbranden in Griekenland neemt toe. In de buurt van Athene zijn inmiddels 500 brandweerlieden ingezet. Volg alle ontwikkelingen over de branden in Europa in ons liveblog."
-        },
-        {
           "title": "Duitse deelstaat Noordrijn-Westfalen geteisterd door grootste natuurbrand ooit",
           "source": "NU.nl",
           "url": "https://www.nu.nl/buitenland/6406393/duitse-deelstaat-noordrijn-westfalen-geteisterd-door-grootste-natuurbrand-ooit.html",
@@ -467,6 +346,13 @@
           "description": "Vanwege een natuurbrand in de Duitse deelstaat Noordrijn-Westfalen zijn meer dan 2000 mensen ge&#235;vacueerd uit het dorp Gey. Dat meldt(opent in nieuw venster) de ..."
         },
         {
+          "title": "LIVE Extreem weer | Grote bosbranden in Duitsland en Belgi&#235;, verwarring in Wales na noodmelding in lokale taal",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/buitenland/live-natuurbranden-bosbrand-op-het-griekse-eiland-paros-bewoners-gevraagd-naar-stranden-te-vluchten~ad0a3949/?slug_rd=1",
+          "publishedDate": "Fri, 14 Aug 2026 18:09:00 GMT",
+          "description": "De natuurbrand in de Duitse gemeente H&#252;rtgenwald is de grootste in de geschiedenis van de deelstaat Noordrijn-Westfalen, meldt het lokale bestuur. De brand, op 40 kilometer van de Nederlandse grens, i ..."
+        },
+        {
           "title": "Grote bosbrand in Duitsland nadert ge&#235;vacueerd dorp, ook leger ingezet",
           "source": "De Limburger",
           "url": "https://www.limburger.nl/grensregio/grote-bosbrand-in-duitsland-nadert-geevacueerd-dorp-ook-leger-ingezet/160056878.html",
@@ -493,158 +379,165 @@
           "url": "https://www.limburger.nl/grensregio/grote-natuurbrand-in-duitse-hurtgenwald-rook-trekt-richting-zuid-limburg/160011804.html",
           "publishedDate": "Thu, 13 Aug 2026 13:30:00 GMT",
           "description": "In H&#252;rtgenwald woedt sinds donderdagavond een grote bosbrand. De rook trekt in de richting van Zuid-Limburg. Er is een blushelikopter ter plaatse."
+        },
+        {
+          "title": "Raadslid roept op tot Europese samenwerking na brand bij Venray: ‘Branden kennen geen grens’",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/land-van-cuijk/raadslid-roept-op-tot-europese-samenwerking-na-brand-bij-venray-branden-kennen-geen-grens~a9142b1a/",
+          "publishedDate": "Mon, 10 Aug 2026 22:45:00 GMT",
+          "description": "Na de verschroeiende bosbrand bij Oostrum lopen de zorgen op: kan de Nederlandse brandweer nog wel aan wat op zijn bordje komt? Juist daarom zouden Nederland en Duitsland intensiever moeten samenwerke ..."
         }
       ]
     },
     {
-      "keyword": "zaandam",
+      "keyword": "schilderij",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Ongeval met letsel in Zaandam",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-zaanstad/ongeval-met-letsel-in-zaandam~a10d6ac5/",
-          "publishedDate": "Fri, 14 Aug 2026 17:22:00 GMT",
-          "description": "De melding kwam rond kwart over negen 's ochtends bij de alarmcentrale binnen. Er is een ambulance naar de locatie gestuurd om hulp te verlenen. 112 Zaandam De brandweer is de afgelopen 30 dagen 67 ke ..."
-        },
-        {
-          "title": "Auto kantelt op A7 bij Wijdewormer door ongeval, twee rijstroken richting Zaandam weer vrijgegeven",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-wormerland/auto-kantelt-op-a7-bij-wijdewormer-door-ongeval-twee-rijstroken-richting-zaandam-weer-vrijgegeven~a18631cf/",
-          "publishedDate": "Fri, 14 Aug 2026 00:13:00 GMT",
-          "description": "Bij een ongeval op de A7 raakten vrijdagmiddag meerdere voertuigen betrokken. Twee personen zijn naar het ziekenhuis gebracht."
-        },
-        {
-          "title": "Riviercruises kunnen door de droogte niet de hele Rijn langs, maar vertrekken toch – naar Zaandam bijvoorbeeld",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/riviercruises-kunnen-door-de-droogte-niet-de-hele-rijn-langs-maar-vertrekken-toch-naar-zaandam-bijvoorbeeld~b9ba93ff/",
-          "publishedDate": "Thu, 13 Aug 2026 20:00:00 GMT",
-          "description": "Vanwege de droogte kunnen riviercruises niet meer langs de Rijn naar populaire bestemmingen als Basel en Boedapest. Maar de schepen vertrekken vooralsnog als gepland vanuit Amsterdam, al doen ze ander ..."
-        },
-        {
-          "title": "Voormalige villa van Albert Heijn in Zaandam is te koop: ’Het is sprookjesachtig, alsof je in een bos woont’",
+          "title": "Klaas (79) kocht duur schilderij voor een prikkie bij de kringloopwinkel: ’Ik wilde nog afdingen’",
           "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/lifestyle/thuis/voormalige-villa-van-albert-heijn-in-zaandam-is-te-koop-het-is-sprookjesachtig-alsof-je-in-een-bos-woont/158421010.html",
-          "publishedDate": "Wed, 08 Jul 2026 02:30:00 GMT",
-          "description": "Albert Heijn - kleinzoon van de gelijknamige oprichter van de grootgrutter - gaf in 1952 opdracht aan architect David Zuiderhoek om de villa te ontwerpen. Drie jaar later werd het pand opgeleverd. De ..."
+          "url": "https://www.telegraaf.nl/financieel/geld/klaas-79-kocht-duur-schilderij-voor-een-prikkie-bij-de-kringloopwinkel-ik-wilde-nog-afdingen/159996302.html",
+          "publishedDate": "Fri, 14 Aug 2026 23:16:00 GMT",
+          "description": "Klaas Veen (79) heeft de aankoop van zijn leven gedaan bij een kringloopwinkel in Meppel. Van zijn laatste geld kocht de kunstliefhebber er voor 25 euro een schilderij van het landschap rond Giethoorn ..."
         },
         {
-          "title": "Politie zoekt vermiste Noor (12); in de nacht uit woning vertrokken",
-          "source": "112 Nieuws Nederland",
-          "url": "https://112nieuws.net/2026/08/14/politie-zoekt-vermiste-noor-12-in-de-nacht-uit-woning-vertrokken/",
-          "publishedDate": "Fri, 14 Aug 2026 11:50:00 GMT",
-          "description": "De politie is op zoek naar de 12-jarige Noor uit Zaandam. Het meisje is in de nacht van donderdag 13 op vrijdag 14 augustus vertrokken vanuit haar woning. Rond 01.00 uur werd zij voor het laatst gezie ..."
+          "title": "Schilderij na ruim 25 jaar terug naar Dordrechts Museum, maar toekomst van Visserijmuseum blijft onzeker",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/altena/schilderij-na-ruim-25-jaar-terug-naar-dordrechts-museum-maar-toekomst-van-visserijmuseum-blijft-onzeker~aef484f1/",
+          "publishedDate": "Sat, 08 Aug 2026 20:32:00 GMT",
+          "description": "Een schilderij is na ruim 25 jaar in bruikleen bij het Visserijmuseum in Woudrichem terug in het Dordrechts Museum. De verhuizing van het werk Vissers op het Hollands Diep van Bernard Marie Koldeweij ..."
         },
         {
-          "title": "Noor (12) midden in de nacht verdwenen uit huis in Zaandam",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/vermissing/artikelen/noord-holland-zaandam-12-jarig-meisje-vermist",
-          "publishedDate": "Fri, 14 Aug 2026 11:28:00 GMT",
-          "description": "De 12-jarige Noor uit Zaandam wordt sinds de nacht van donderdag op vrijdag vermist. Haar moeder hoorde rond 01.00 uur de achterdeur opengaan. Toen ze beneden ging kijken, was Noors jas weg en stond ..."
+          "title": "Uit het oog verloren schilderij van buitenplaats Hofwijck weer boven water",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/financieel/journaal/uit-het-oog-verloren-schilderij-van-buitenplaats-hofwijck-weer-boven-water/159700898.html",
+          "publishedDate": "Thu, 06 Aug 2026 09:24:00 GMT",
+          "description": "Hoe klein het ook is: er is altijd wel iets nieuws te ontdekken aan Hofwijck, de buitenplaats van Constantijn Huygens (1596-1687) in Voorburg. Zo kon onlangs een uit het oog verloren schilderij worden ..."
         },
         {
-          "title": "Zaanstad waarschuwt voor windturbines bij Noorder IJplas: ’Heeft consequenties voor woningbouwplannen’",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/zaanstreek/zaanstad-waarschuwt-voor-windturbines-bij-noorder-ijplas-heeft-consequenties-voor-woningbouwplannen/159914528.html",
-          "publishedDate": "Thu, 13 Aug 2026 06:27:00 GMT",
-          "description": "Drie windturbines bij de Noorder IJplas vormen een bedreiging voor de tweeduizend geplande woningen in het Sluiskwartier. Met die boodschap waarschuwt Zaanstad dat de provincie zichzelf in de vingers ..."
+          "title": "Van Jacques Goudstikker geroofd schilderij hangt decennia bij kleindochter van Nederlandse SS-generaal: ‘Hoe bizar wil je het hebben?’",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/amsterdam/van-jacques-goudstikker-geroofd-schilderij-hangt-decennia-bij-kleindochter-van-nederlandse-ss-generaal-hoe-bizar-wil-je-het-hebben~b93b808b/",
+          "publishedDate": "Mon, 11 May 2026 01:41:00 GMT",
+          "description": "In de hal van de kleindochter van een beruchte Nederlandse SS-generaal hangt een schilderij dat in de Tweede Wereldoorlog toebehoorde aan de Joodse kunsthandelaar Jacques Goudstikker. De familie van ..."
         },
         {
-          "title": "Rie uit Zaandam viert honderdste verjaardag: af en toe een gokje wagen en een glaasje drinken",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/zaanstreek/rie-uit-zaandam-viert-honderdste-verjaardag-af-en-toe-een-gokje-wagen-en-een-glaasje-drinken/159724043.html",
-          "publishedDate": "Sat, 08 Aug 2026 02:00:00 GMT",
-          "description": "Rie Vethaak-Selie is naar eigen zeggen ’nogal goklustig’ en houdt wel van een glaasje bloedwijn op zijn tijd. De geboren en getogen Zaandamse heeft vrijdag alle reden om een glaasje te drinken: het is ..."
+          "title": "“Die gele schijn van al die dikke sigaren moet weg”: Mollenaar Piet mag schilderij uit Senaat in volle glorie herstellen",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/regio/antwerpen/kempen/mol/die-gele-schijn-van-al-die-dikke-sigaren-moet-weg-mollenaar-piet-mag-schilderij-uit-senaat-in-volle-glorie-herstellen/159674548.html",
+          "publishedDate": "Thu, 06 Aug 2026 01:55:00 GMT",
+          "description": "De gepassioneerde Jakob Smitsbewonderaar Piet Deceunick heeft een godsgeschenk gekregen. Hij mag het doek ‘De vlag’ van de Kempense meester restaureren. Dat schilderij hangt al meer dan 100 jaar in de ..."
         },
         {
-          "title": "Man (40) die vermist was uit Zaandam is weer terecht",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/vermissing/artikelen/noord-holland-zaandam-vermissing-man-zijtocht",
-          "publishedDate": "Mon, 03 Aug 2026 07:42:00 GMT",
-          "description": "De politie is op zoek naar de 40-jarige Jaber, die vermist is uit Zaandam. Hij is voor het laatst gezien aan de Zijtocht. De politie vraagt mensen met informatie of camerabeelden zich te melden."
+          "title": "Mauritshuis restaureert: verdwenen soldaat keert terug op schilderij Pieter de Hooch",
+          "source": "Den Haag Centraal",
+          "url": "https://www.denhaagcentraal.net/kunst/mauritshuis-restaureert-verdwenen-soldaat-keert-terug-op-schilderij-pieter-de-hooch/",
+          "publishedDate": "Tue, 04 Aug 2026 10:01:00 GMT",
+          "description": "Na lang wikken en wegen besloten de restauratoren van het Mauritshuis een verdwenen figuur terug te brengen op een schilderij van Pieter de Hooch. Maar de ingreep kan ook weer ongedaan worden gemaakt."
         },
         {
-          "title": "Eikelenboom Groep neemt Wemmers Tankcleaning Zaandam over",
-          "source": "TTM.nl",
-          "url": "https://www.ttm.nl/management/fusiesovernames/eikelenboom-groep-neemt-wemmers-tankcleaning-zaandam-over/178336/",
-          "publishedDate": "Thu, 30 Jul 2026 23:01:00 GMT",
-          "description": "Eikelenboom Groep breidt haar netwerk per 1 augustus 2026 uit met de reinigingslocatie van Wemmers Tankcleaning Zaandam. Met deze uitbreiding versterkt de ..."
+          "title": "AD-veiling: ‘verdwenen’ Cruijff-schilderij voor 5500 euro geveild, opbrengst naar Jeugdfonds",
+          "source": "AD",
+          "url": "https://www.ad.nl/wk-voetbal/ad-veiling-verdwenen-cruijff-schilderij-voor-5500-euro-geveild-opbrengst-naar-jeugdfonds~afa8f859/",
+          "publishedDate": "Mon, 20 Jul 2026 20:51:00 GMT",
+          "description": "Het schilderij dat een Duitse kunstenaar jaren geleden als verzoening aan Johan Cruijff wilde aanbieden, is voor 5500 euro geveild. Het kunstwerk is bedoeld als een goedmakertje voor alle ellende die ..."
+        },
+        {
+          "title": "Schilderij van 460.000 euro is aangekomen in Mechelen: “Dit topstuk is vanaf 2026 te bewonderen”",
+          "source": "Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/regio/antwerpen/rivierenland/mechelen/schilderij-van-460.000-euro-is-aangekomen-in-mechelen-dit-topstuk-is-vanaf-2026-te-bewonderen/84839886.html",
+          "publishedDate": "Wed, 20 Aug 2025 08:36:00 GMT",
+          "description": "MechelenHet portret van Maria van Hongarije waar de stad eerder dit jaar 460.000 euro voor betaalde, is aangekomen in Mechelen. Het schilderij wordt momenteel bewaard in Depot Rato en zal in 2026 te ..."
+        },
+        {
+          "title": "Italiaanse familie ontdekt na 60 jaar dat &quot;verschrikkelijk&quot; schilderij aan de muur een originele Picasso is",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2024/10/01/_verschrikkelijk-schilderij-blijkt-originele-picasso-opkoper-va/",
+          "publishedDate": "Tue, 01 Oct 2024 03:40:00 GMT",
+          "description": "De familie van een Italiaanse opkoper heeft een opvallende ontdekking gedaan over een schilderij dat hij in de jaren 60 meenam uit een huis op Capri. Experts bevestigen dat het om een originele ..."
+        },
+        {
+          "title": "Schilderij serie ‘De kruistocht’ geschonken aan Sint Alfonsius-parochie",
+          "source": "De Ware Tijd",
+          "url": "https://dwtonline.com/schilderij-serie-de-kruistocht-geschonken-aan-sint-alfonsius-parochie/",
+          "publishedDate": "Sat, 27 Jan 2024 10:10:00 GMT",
+          "description": "In Suriname studeerde Wong Loi Sing ruim een halfjaar op de kunstopleiding die de intussen overleden Jules Chin A Foeng had opgezet. Daarna kreeg hij de gelegenheid om zeven jaar op de Vrije Academie ..."
         }
       ]
     },
     {
-      "keyword": "finlay tarling",
+      "keyword": "indonesië",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Wielerwereld rouwt om overleden Britse renner Finlay Tarling (19): ‘Het leven is gewoon niet eerlijk’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/wielrennen/wielerwereld-rouwt-om-overleden-britse-renner-finlay-tarling-19-het-leven-is-gewoon-niet-eerlijk~afea52b1/",
-          "publishedDate": "Fri, 14 Aug 2026 16:57:00 GMT",
-          "description": "De wielerwereld rouwt om het overlijden van de 19-jarige Britse wielrenner Finlay Tarling. Hij kwam vrijdag tijdens de Ronde van Portugal in botsing met een auto die geen deel uitmaakte van de koers."
+          "title": "Zorgen over economie in Indonesi&#235;: crisis dreigt, maar president Prabowo blijft geld als water uitgeven",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/buitenland/zorgen-over-economie-in-indonesie-crisis-dreigt-maar-president-prabowo-blijft-geld-als-water-uitgeven~b667ce46/",
+          "publishedDate": "Tue, 28 Jul 2026 22:00:00 GMT",
+          "description": "De Indonesische economie dreigt in te storten, waarschuwen deskundigen, maar president Prabowo Subianto ontkent dat. Hij noemt critici ‘zwarte Hollanders’ (verraders) en lijkt niet van plan zijn enorm ..."
         },
         {
-          "title": "Negentienjarig wielertalent Finlay Tarling overleden tijdens Ronde van Portugal",
+          "title": "WK-droom Indonesi&#235; en bondscoach Kluivert in duigen",
           "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/08/14/negentienjarig-wielertalent-finlay-tarling-overleden-tijdens-ronde-van-portugal-a4934527",
-          "publishedDate": "Fri, 14 Aug 2026 13:04:00 GMT",
-          "description": "Wielrennen: Tarling was betrokken bij een ernstig ongeval. Het is niet duidelijk wat er precies gebeurd is. Volgens Portugese media zou hij in botsing zijn gekomen met een auto."
+          "url": "https://www.nrc.nl/nieuws/2025/10/12/wk-droom-indonesie-en-bondscoach-kluivert-in-duigen-a4909267",
+          "publishedDate": "Sun, 12 Oct 2025 02:34:00 GMT",
+          "description": "Voetbal Bij een rommelig verlopen toernooi in Saoedi-Arabi&#235; is het nationale elftal van Indonesi&#235; er niet in geslaagd om zich te kwalificeren voor het WK voetbal. Bondscoach Patrick Kluivert en de ..."
         },
         {
-          "title": "Broertje (19) van oud-tijdritkampioen Tarling overleden in Ronde van Portugal",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/wielrennen/6406382/broertje-19-van-oud-tijdritkampioen-tarling-overleden-in-ronde-van-portugal.html",
-          "publishedDate": "Fri, 14 Aug 2026 12:02:00 GMT",
-          "description": "De negentienjarige Finlay Tarling, het broertje van oud-tijdritkampioen Joshua Tarling, is vrijdag om het leven gekomen tijdens de achtste etappe van de Ronde van Portugal. De Brit zou zijn aangereden ..."
+          "title": "Indonesi&#235; getroffen door verwoestende aardbeving: tsunamiwaarschuwing en omvangrijke schade.",
+          "source": "Notizie.it",
+          "url": "https://www.notizie.it/nl/Indonesi%C3%AB-getroffen-door-verwoestende-aardbeving--tsunamiwaarschuwing-en-omvangrijke-schade./",
+          "publishedDate": "Sat, 15 Aug 2026 01:27:00 GMT",
+          "description": "Un sisma di magnitudo 7.7 ha colpito l'Indonesia orientale nella notte tra venerd&#236; e sabato, con epicentro a 68 chilometri da Ende. Almeno venti vittime e allerta tsunami poi revocata."
         },
         {
-          "title": "Wielertalent Finlay Tarling (19) overleden na val in Ronde van Portugal",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2626874-wielertalent-finlay-tarling-19-overleden-na-val-in-ronde-van-portugal",
-          "publishedDate": "Fri, 14 Aug 2026 10:05:00 GMT",
-          "description": "Finlay Tarling, de jongere broer van tijdrittopper Joshua Tarling, is tijdens de achtste etappe van de Ronde van Portugal om het leven gekomen."
+          "title": "Zeker 20 doden bij zware aardbeving voor de kust van Indonesi&#235;",
+          "source": "VRT on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/zeker-20-doden-bij-zware-aardbeving-voor-de-kust-van-indonesi%C3%AB/ar-AA2a9Gz9",
+          "publishedDate": "Fri, 14 Aug 2026 22:58:00 GMT",
+          "description": "Bij een zware aardbeving voor de kust van het Indonesische eiland Flores zijn al zeker 20 mensen om het leven gekomen. Dat meldt het persagentschap AFP. De aardbeving had een kracht van 7.7. Er was oo ..."
         },
         {
-          "title": "Zo reageren Pogacar, Iniesta en zijn Nederlandse juniorenploeg op tragische dood Finlay Tarling",
-          "source": "In de Leiderstrui on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/motorsport/zo-reageren-pogacar-iniesta-en-zijn-nederlandse-juniorenploeg-op-tragische-dood-finlay-tarling/ar-AA2a9u6r",
-          "publishedDate": "Fri, 14 Aug 2026 23:40:00 GMT",
-          "description": "De wielerwereld schudde vrijdag op haar grondvesten toen bekend werd dat Finlay Tarling op 19-jarige leeftijd om het leven was gekomen bij een ongeval in de Ronde van Portugal. Tarling, het jongere br ..."
+          "title": "Alumni netwerk Indonesi&#235;",
+          "source": "Universiteit Utrecht",
+          "url": "https://www.uu.nl/organisatie/alumni/onze-alumni/alumni-netwerken/internationale-alumninetwerken/indonesie",
+          "publishedDate": "Mon, 10 Aug 2026 06:49:00 GMT",
+          "description": "Het UU Alumni Netwerk Indonesi&#235; brengt een levendige gemeenschap van afgestudeerden samen. Het is een plek om weer contact te leggen, je netwerk uit te breiden en idee&#235;n uit te wisselen met mede-alumn ..."
         },
         {
-          "title": "Willebrord Wil Vooruit rouwt om overlijden oud-renner Finlay Tarling",
-          "source": "WielerFlits",
-          "url": "https://www.wielerflits.nl/nieuws/willebrord-wil-vooruit-rouwt-om-overlijden-oud-renner-finlay-tarling/",
-          "publishedDate": "Fri, 14 Aug 2026 13:28:00 GMT",
-          "description": "Het overlijden van Finlay Tarling dompelt de wielerwereld dit weekend in rouw. De 19-jarige Brit kwam vrijdagmiddag om het leven na een botsing met een niet-koersgerelateerde auto in tegengestelde ric ..."
+          "title": "Wat te doen in Raja Ampat: 8x fantastische ervaringen in de magische archipel van Indonesi&#235;",
+          "source": "Columbus Travel",
+          "url": "https://www.columbusmagazine.nl/bestemming/azie/indonesie/raja-ampat/artikel/30405/raja-ampat-indonesie-activiteiten-tips/",
+          "publishedDate": "Fri, 17 Jul 2026 02:23:00 GMT",
+          "description": "Ontdek de magie van Raja Ampat in Indonesi&#235;. Van duiken met reuzenmanta's tot kajakken tussen homestays: 8 bijzondere tips voor West-Papoea."
         },
         {
-          "title": "Wielerwereld rouwt om overlijden Finlay Tarling in Portugal: “Het leven is gewoon niet eerlijk”",
-          "source": "WielerFlits",
-          "url": "https://www.wielerflits.nl/nieuws/wielerwereld-rouwt-om-overlijden-finlay-tarling-in-portugal-het-leven-is-gewoon-niet-eerlijk/",
-          "publishedDate": "Fri, 14 Aug 2026 12:12:00 GMT",
-          "description": "De hele wielerwereld rouwt om het plotselinge overlijden van Finlay Tarling. De Britse wielrenner kwam op 19-jarige leeftijd om het leven door een tragisch ongeluk op het parcours van de Ronde van Por ..."
+          "title": "Democratie is niet vanzelfsprekend in Indonesi&#235;, zeggen deze Leidse studenten",
+          "source": "RD",
+          "url": "https://www.rd.nl/artikel/1124493-democratie-is-niet-vanzelfsprekend-in-indonesie-zeggen-deze-leidse-studenten",
+          "publishedDate": "Sat, 18 Oct 2025 02:20:00 GMT",
+          "description": "In Indonesi&#235; was het al de tweede keer dit jaar dat grote protesten breed worden uitgemeten in internationale media. Het heeft alles te maken met de koers die president Prabowo heeft ingezet. Het ..."
         },
         {
-          "title": "19-jarige wielrenner Finlay Tarling overleden na frontale botsing met wagen in Ronde van Portugal",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/snelnieuws/19-jarige-wielrenner-finlay-tarling-overleden-na-frontale-botsing-met-wagen-in-ronde-van-portugal~b4b89de5/",
-          "publishedDate": "Fri, 14 Aug 2026 12:01:00 GMT",
-          "description": "De 19-jarige Finlay Tarling (NSN Development) is in de Ronde van Portugal overleden na een frontale botsing met een voertuig die geen deel uitmaakte van de wedstrijd. Finlay, de jongere broer van voor ..."
+          "title": "Romeny laat Kluivert juichen: cruciale zege Indonesi&#235; in jacht op WK-ticket",
+          "source": "Vi",
+          "url": "https://www.vi.nl/nieuws/romeny-laat-kluivert-juichen-cruciale-zege-indonesie-in-jacht-op-wk-ticket",
+          "publishedDate": "Tue, 25 Mar 2025 09:41:00 GMT",
+          "description": "Indonesi&#235; heeft dinsdag de eerste overwinning onder leiding van Patrick Kluivert geboekt. Door de thuiszege op Bahrein blijft het WK in zicht voor Timnas, dat zich weer in de topvier van de Aziatische ..."
         },
         {
-          "title": "Drama in Ronde van Portugal: wielrenner Finlay Tarling (19) overleden na incident in achtste rit",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/nieuws/drama-in-ronde-van-portugal-wielrenner-finlay-tarling-19-overleden-na-incident-in-achtste-rit/160055233.html",
-          "publishedDate": "Fri, 14 Aug 2026 11:31:00 GMT",
-          "description": "De amper negentienjarige wielrenner Finlay Tarling (NSN Development Team) is vrijdag overleden bij een “incident” tijdens de Ronde van Portugal (cat. 2.1). Dat bevestigden de organisatoren in een mede ..."
+          "title": "Indonesi&#235; geeft diep in blessuretijd dure punten weg in WK-kwalificatiereeks",
+          "source": "Vi",
+          "url": "https://www.vi.nl/nieuws/indonesie-geeft-diep-in-blessuretijd-dure-punten-weg-in-wk-kwalificatiereeks",
+          "publishedDate": "Thu, 10 Oct 2024 13:10:00 GMT",
+          "description": "Indonesi&#235; heeft donderdagavond met 2-2 gelijkgespeeld tegen Bahrein in de Aziatische WK-kwalificatiecyclus. Met debutanten Mees Hilgers en Eliano Reijnders zagen de Rood-Witten in de negende minuut ..."
         },
         {
-          "title": "Renner Finlay Tarling (19), de jongere broer van Joshua, overleden bij ernstig ongeval in Ronde van Portugal",
-          "source": "De Standaard",
-          "url": "https://www.standaard.be/sport/wielrennen/renner-finlay-tarling-19-de-jongere-broer-van-joshua-overleden-bij-ernstig-ongeval-in-ronde-van-portugal/160056186.html",
-          "publishedDate": "Fri, 14 Aug 2026 10:01:00 GMT",
-          "description": "Finlay Tarling, die uitkwam voor het NSN Development Team, is vrijdag overleden bij een ernstig ongeval tijdens de Ronde van Portugal. Dat bevestigden de organisatoren in een mededeling."
+          "title": "Nieuwe fabriek FrieslandCampina in Indonesi&#235; maakt 1 miljard kilo zuivel per jaar, en dat is hard nodig",
+          "source": "AD",
+          "url": "https://www.ad.nl/economie/nieuwe-fabriek-frieslandcampina-in-indonesie-maakt-1-miljard-kilo-zuivel-per-jaar-en-dat-is-hard-nodig~a13a9cdf/",
+          "publishedDate": "Sat, 20 Jul 2024 22:14:00 GMT",
+          "description": "Een bakje nasi met ei &#233;n een beker melk: deze gratis lunch moet 83 miljoen scholieren in Indonesi&#235; vitaler maken. Zuivelgigant FrieslandCampina ziet kansen en investeert ruim een kwart miljard euro in ..."
         }
       ]
     }
