@@ -1,10 +1,60 @@
 {
-  "fetchedAt": "2026-08-15T09:19:25.932Z",
+  "fetchedAt": "2026-08-15T09:48:27.511Z",
   "trends": [
     {
       "keyword": "weer",
       "trafficLabel": "100K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Eindelijk weer regen na dagenlange hitte: d&#237;t is de opmerkelijke geur die je nu buiten ruikt",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/weer/eindelijk-weer-regen-na-dagenlange-hitte-dit-is-de-opmerkelijke-geur-die-je-nu-buiten-ruikt/64327298.html",
+          "publishedDate": "Sat, 15 Aug 2026 01:35:00 GMT",
+          "description": "Na enkele dagen met tropische temperaturen en extreme hitte is zaterdag broodnodige regen gevallen. Wat je dan misschien opvalt, is dat de regen een specifieke geur heeft. Wat is deze geur, wat ruik j ..."
+        },
+        {
+          "title": "A16 weer vrijgegeven na ongeval voor Drechttunnel",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/hendrik-ido-ambacht/a16-weer-vrijgegeven-na-ongeval-voor-drechttunnel~ac35f1fd/",
+          "publishedDate": "Thu, 13 Aug 2026 22:17:00 GMT",
+          "description": "Op de A16 waren meerdere voertuigen betrokken geraakt bij een ongeval op de hoofdrijbaan vlak voor de Drechttunnel, in de richting van Breda. Verkeer richting Breda werd omgeleid via de parallelbuis, ..."
+        },
+        {
+          "title": "Goed nieuws: zwemmen in de Bernisse kan weer",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/nissewaard/goed-nieuws-zwemmen-in-de-bernisse-kan-weer~a053fdb1a/",
+          "publishedDate": "Wed, 12 Aug 2026 21:35:00 GMT",
+          "description": "Het is weer mogelijk te zwemmen in de Bernisse tegenover vakantiepark Zuytland Buiten. Dat meldt de website zwemwater.nl."
+        },
+        {
+          "title": "Dit wordt het weer: 'De natuur kan een feestje vieren'",
+          "source": "RTV Drenthe",
+          "url": "https://www.rtvdrenthe.nl/nieuws/18697453/dit-wordt-het-weer-de-natuur-kan-een-feestje-vieren",
+          "publishedDate": "Fri, 14 Aug 2026 02:30:00 GMT",
+          "description": "We eindigen deze week nog met tropische temperaturen. Vandaag wordt het 35 graden, maar daarna keren we terug naar een Hollandse zomer. De kinderen gaan weer naar school en de temperatuur daalt."
+        },
+        {
+          "title": "Weer van vandaag: opnieuw een erg warme dag",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2239102/weer-van-vandaag-opnieuw-een-erg-warme-dag",
+          "publishedDate": "Thu, 13 Aug 2026 20:55:00 GMT",
+          "description": "Het wordt vrijdag opnieuw een erg warme en zonnige dag. 's Ochtends warmt het snel op en rond het middaguur is het 29 tot 34 graden. In de middag koelt het langzaam af, door een westenwind."
+        },
+        {
+          "title": "ABN AMRO: bedrijven moeten zich snel voorbereiden op extreem weer",
+          "source": "RD",
+          "url": "https://www.rd.nl/artikel/1159330-abn-amro-bedrijven-moeten-zich-snel-voorbereiden-op-extreem-weer",
+          "publishedDate": "Thu, 13 Aug 2026 17:02:00 GMT",
+          "description": "Bedrijven in Nederland moeten zich beter voorbereiden op extreem weer zoals hitte, droogte en hevige regenbuien. Ondernemingen die niet snel maatregelen nemen om klimaatbestendiger te zijn, riskeren ..."
+        },
+        {
+          "title": "Na zonneschijn komt regen: van hittepiek naar wisselvallig weer",
+          "source": "RTV Utrecht",
+          "url": "https://www.rtvutrecht.nl/nieuws/4079797/na-zonneschijn-komt-regen-van-hittepiek-naar-wisselvallig-weer",
+          "publishedDate": "Thu, 13 Aug 2026 01:58:00 GMT",
+          "description": "Utrechters moeten zich de komende twee dagen opmaken voor tropisch warm weer. Het wordt meer dan 30 graden en het KNMI heeft daarom code geel afgegeven. Maar goed nieuws voor mensen die de hitte zat z ..."
+        }
+      ]
     },
     {
       "keyword": "telstar - sparta rotterdam",
@@ -32,6 +82,13 @@
           "description": "Telstar had &#233;&#233;n punt nodig thuis tegen Sparta om voor het eerst alleen koploper te worden in de eredivisie. Sparta wint echter met 1-3."
         },
         {
+          "title": "Telstar loopt door teleurstellende thuisnederlaag koppositie in de eredivisie mis. Sparta te sterk voor Witte Leeuwen",
+          "source": "Noordhollands Dagblad",
+          "url": "https://www.noordhollandsdagblad.nl/sport/telstar/telstar-loopt-door-teleurstellende-thuisnederlaag-koppositie-in-de-eredivisie-mis.-sparta-te-sterk-voor-witte-leeuwen/160052582.html",
+          "publishedDate": "Fri, 14 Aug 2026 15:15:00 GMT",
+          "description": "Telstar had vrijdagavond tegen Sparta Rotterdam aan een punt genoeg om de koppositie te pakken in de eredivisie, maar na de teleurstellende 3-1 nederlaag in eigen huis blijven de Witte Leeuwen op drie ..."
+        },
+        {
           "title": "Sparta boekt bij Telstar eerste seizoenszege",
           "source": "Nieuws.nl",
           "url": "https://nieuws.nl/voetbal/sparta-boekt-bij-telstar-eerste-seizoenszege",
@@ -46,18 +103,18 @@
           "description": "Sparta heeft vrijdagavond de eerste overwinning van het nieuwe Eredivisieseizoen geboekt. Op bezoek bij Telstar was de ploeg van Rogier Meijer lange tijd de ..."
         },
         {
+          "title": "Sparta houdt voorsprong vast en pakt drie belangrijke punten tegen Telstar",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2239305/sparta-houdt-voorsprong-vast-en-pakt-drie-belangrijke-punten-tegen-telstar",
+          "publishedDate": "Fri, 14 Aug 2026 13:00:00 GMT",
+          "description": "Sparta trapte vrijdagavond het weekend af in Velsen-Zuid. De Spartanen wonnen de wedstrijd met 1-3, waar de doelpunten voor Sparta werden gemaakt door N&#246;kkvi Th&#243;risson, Robin van Cruijsen en Marvin Yo ..."
+        },
+        {
           "title": "VIDEO: Samenvatting Telstar – Sparta (1-3 Eredivisie)",
           "source": "Voetbal4u",
           "url": "https://www.voetbal4u.com/2026/08/15/video-samenvatting-telstar-sparta-1-3-eredivisie/",
           "publishedDate": "Fri, 14 Aug 2026 12:59:00 GMT",
           "description": "Sparta heeft gisteren prima zaken gedaan in de strijd om de Nederlandse Eredivisie. Op bezoek bij Telstar wisten ze namelijk met 1-3 te winnen. Na een uitstekende eerste wedstrijd van de IJmuidenaren ..."
-        },
-        {
-          "title": "Th&#243;risson doet oude club Telstar pijn en helpt Sparta aan eerste zege",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/thorisson-doet-oude-club-telstar-pijn-en-helpt-sparta-aan-eerste-zege",
-          "publishedDate": "Fri, 14 Aug 2026 12:55:00 GMT",
-          "description": "Sparta heeft vrijdagavond de eerste overwinning van het nieuwe Eredivisie-seizoen geboekt. In Velsen-Zuid werd Telstar, dat in de eerste speelronde nog knap afrekende met NEC, verslagen. N&#246;kkvi Th&#243;ris ..."
         },
         {
           "title": "Telstar weet zege op NEC geen goed vervolg te geven: Sparta Rotterdam is te sterk",
@@ -72,89 +129,6 @@
           "url": "https://www.rijnmond.nl/nieuws/2239296/lees-terug-sparta-wint-na-spannende-slotfase-van-telstar-1-3",
           "publishedDate": "Fri, 14 Aug 2026 12:02:00 GMT",
           "description": "Het voetbalweekend werd geopend op Velsen-Zuid, waar Sparta Rotterdam het opnam tegen Telstar. De Spartanen begonnen het seizoen met een nederlaag tegen stadsgenoot Feyenoord Rotterdam. De ploeg van R ..."
-        },
-        {
-          "title": "Praat mee op VP: SC Telstar – Sparta Rotterdam",
-          "source": "Voetbalprimeur Netherlands on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/algemeen/praat-mee-op-vp-sc-telstar-sparta-rotterdam/ar-AA2a7AyA",
-          "publishedDate": "Fri, 14 Aug 2026 10:00:00 GMT",
-          "description": "SC Telstar neemt het vandaag op tegen Sparta Rotterdam in de Eredivisie. De wedstrijd begint om 20.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
-        }
-      ]
-    },
-    {
-      "keyword": "hans beijer",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Hans Beijer, B100 uit Bassie en Adriaan, overleden op 78-jarige leeftijd",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/kunst-media/hans-beijer-b100-uit-bassie-en-adriaan-overleden-op-78-jarige-leeftijd~bba552a1/",
-          "publishedDate": "Fri, 14 Aug 2026 05:12:00 GMT",
-          "description": "Acteur Hans Beijer is overleden. Dat bevestigt de manager van Bassie en Adriaan. Beijer werd vooral bekend als de slechterik B100 in de series en films over de broers. Deze week is afscheid van hem ge ..."
-        },
-        {
-          "title": "Acteur Hans Beijer, bekend als boef B100 in Bassie en Adriaan, is overleden",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2626817-acteur-hans-beijer-bekend-als-boef-b100-in-bassie-en-adriaan-is-overleden",
-          "publishedDate": "Fri, 14 Aug 2026 03:38:00 GMT",
-          "description": "De acteur Hans Beijer, vooral bekend als pechvogel B100 in 'Bassie en Adriaan', is overleden. Vorige week donderdag is Beijer op 78-jarige leeftijd overleden, staat in zijn overlijdensadvertentie in ..."
-        },
-        {
-          "title": "Aanbieding voor €0,49/week",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/entertainment/sterren/hans-beijer-78-boef-b100-uit-bassie-en-adriaan-overleden-we-wilden-van-iedere-draaidag-een-feestje-maken-en-dat-is-met-hans-gelukt/160028945.html",
-          "publishedDate": "Fri, 14 Aug 2026 03:02:00 GMT",
-          "description": "Hans Beijer (78), boef B100 uit Bassie en Adriaan, overleden: ’We wilden van iedere draaidag een feestje maken en dat is met Hans gelukt’ Acteur Hans Beijer is deze week op 78-jarige leeftijd ..."
-        },
-        {
-          "title": "Acteur Hans Beijer (78), bekend als boef B100, overleden",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/algemeen/acteur-hans-beijer-78-bekend-als-boef-b100-overleden",
-          "publishedDate": "Fri, 14 Aug 2026 05:13:00 GMT",
-          "description": "DEN HAAG (ANP) - Acteur Hans Beijer is op 78-jarige leeftijd overleden. Dat staat in een overlijdensadvertentie die vrijdag is gepubliceerd in de Volkskrant. Beijer was bij het grote publiek vooral be ..."
-        },
-        {
-          "title": "Acteur Hans Beijer, B100 uit Bassie &amp; Adriaan, op 78-jarige leeftijd overleden",
-          "source": "NU",
-          "url": "https://www.nu.nl/media/6406320/hans-beijer-b100-uit-bassie-en-adriaan-op-78-jarige-leeftijd-overleden.html",
-          "publishedDate": "Fri, 14 Aug 2026 04:56:00 GMT",
-          "description": "Hans Beijer, bekend van zijn rol als B100 in Bassie &amp; Adriaan, is op 78-jarige leeftijd overleden. Dat wordt gemeld in een overlijdensadvertentie die vrijdag is gepubliceerd in de Volkskrant. Bassie ..."
-        },
-        {
-          "title": "Nederlandse acteur Hans Beijer (78) overleden, bekend als B100 in 'Bassie en Adriaan'",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/acteur-hans-beijer-overleden/",
-          "publishedDate": "Fri, 14 Aug 2026 04:44:00 GMT",
-          "description": "De Nederlandse acteur Hans Beijer is overleden. Dat staat in een overlijdensadvertentie in de Volkskrant. Hij is vooral bekend van zijn rol als de boef B100 in de Nederlandse televisiereeks 'Bassie en ..."
-        },
-        {
-          "title": "Nederlandse acteur Hans Beijer (78), uit Bassie en Adriaan, overleden",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/media-en-cultuur/bv-en-co/nederlandse-acteur-hans-beijer-78-uit-bassie-en-adriaan-overleden/160030286.html",
-          "publishedDate": "Fri, 14 Aug 2026 04:00:00 GMT",
-          "description": "De Nederlandse acteur Hans Beijer, bekend als de crimineel uit ‘Bassie en Adriaan’, is overleden. Hij werd 78 jaar. “We zullen Hans herinneren als een gezellige collega, een goed acteur maar vooral al ..."
-        },
-        {
-          "title": "Hans Beijer (78), bekend als B100 uit Bassie en Adriaan, overleden",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/entertainment/bners/artikelen/hans-beijer-b100-bassie-adriaan-overleden",
-          "publishedDate": "Fri, 14 Aug 2026 03:29:00 GMT",
-          "description": "Acteur Hans Beijer is op 78-jarige leeftijd overleden. Dat staat in een overlijdensadvertentie die vrijdag is gepubliceerd in de Volkskrant. Beijer werd bij het grote publiek bekend als de slechterik ..."
-        },
-        {
-          "title": "Adriaan eert overleden collega Hans ‘B100’ Beijer (78): ‘Hij kon zich volledig inleven’",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/show/adriaan-eert-overleden-collega-hans-b100-beijer-78-hij-kon-zich-volledig-inleven~aba552a1/",
-          "publishedDate": "Thu, 13 Aug 2026 22:30:00 GMT",
-          "description": "Acteur Hans Beijer (78) is vorige week overleden. Dat bevestigt de manager van Bassie en Adriaan aan deze site. Beijer werd vooral bekend als de slechterik B100 in de kinderseries en -films over de br ..."
-        },
-        {
-          "title": "Nederlandse acteur Hans Beijer (78), boef B100 uit ‘Bassie en Adriaan’, overleden",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/showbizz/nederlandse-acteur-hans-beijer-78-boef-b100-uit-bassie-en-adriaan-overleden~af6ae9b3/",
-          "publishedDate": "Thu, 13 Aug 2026 20:50:00 GMT",
-          "description": "De Nederlandse acteur Hans Beijer, vooral bekend als de onfortuinlijke boef B100 uit ‘Bassie en Adriaan’, is op 78-jarige leeftijd overleden. Het nieuws werd vrijdag bekendgemaakt via de sociale media ..."
         }
       ]
     },
@@ -168,18 +142,18 @@
       "trafficLabel": "10K+",
       "articles": [
         {
+          "title": "Studio Tammes vroeg lezers: hoe bewaar je dit zonnige seizoen? ‘In mijn uitgegroeide nagellak zit een restje zomer’",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/ps-van-de-week/studio-tammes-vroeg-lezers-hoe-bewaar-je-dit-zonnige-seizoen-in-mijn-uitgegroeide-nagellak-zit-een-restje-zomer~b0905dad/",
+          "publishedDate": "Fri, 14 Aug 2026 20:00:00 GMT",
+          "description": "Schrijver en illustrator Barbara Tammes opent deze zomer een speeltuin van papier, met simpele creatieve opdrachten om anders naar de wereld te kijken. Haar vraag aan lezers in spel 4: Hoe laat de zom ..."
+        },
+        {
           "title": "In de warme leegte van de zomer staat historicus Janna Coomans net iets meer open voor het radicale onbekende",
           "source": "De Volkskrant",
           "url": "https://www.volkskrant.nl/boeken/in-de-warme-leegte-van-de-zomer-staat-historicus-janna-coomans-net-iets-meer-open-voor-het-radicale-onbekende~b97aa591/",
           "publishedDate": "Thu, 13 Aug 2026 09:38:00 GMT",
           "description": "Met haar literaire drietrapsraket naar vervreemding – via schrijvers Auke Hulst, Jonas Eika en Anne de Marcken – laat Libris Geschiedenis Prijs-winnaar Janna Coomans zich deze zomer aangenaam verwarre ..."
-        },
-        {
-          "title": "De Rijn zakt, de zorgen stijgen: waarom deze zomer zo aan die van 1976 doet denken",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/de-rijn-zakt-de-zorgen-stijgen-waarom-deze-zomer-zo-aan-die-van-1976-doet-denken~a618904b/",
-          "publishedDate": "Wed, 12 Aug 2026 18:30:00 GMT",
-          "description": "Wordt dit jaar opnieuw een historisch droge en warme zomer? Vijftig jaar na de uitzonderlijke zomer van 1976, die nog altijd geldt als h&#233;t ijkpunt voor droogte, laat een duik in het krantenarchief zie ..."
         },
         {
           "title": "Na een uitzonderlijk droge zomer kunnen je planten een oppepper gebruiken: deze 6 ingrepen laten je tuin opnieuw stralen",
@@ -210,11 +184,11 @@
           "description": "De zomer komt eraan. Voor veel accountantskantoren betekent dat een natuurlijk rustpunt: de samensteldrukte rond de jaarrekeningen is achter de rug, ..."
         },
         {
-          "title": "Zomer 2026 maakt van Rijn een stroompje van nog maar amper 1 meter diep",
-          "source": "RD",
-          "url": "https://www.rd.nl/a/1159156-zomer2026-maakt-van-rijn-een-stroompje-van-nog-maar-amper-1-meter-diep",
-          "publishedDate": "Wed, 12 Aug 2026 05:39:00 GMT",
-          "description": "Eerdere extreme zomers lieten een onuitwisbare indruk achter. Velen herinneren zich de uitzonderlijk warme zomer van 2003 nog. Of korter geleden: die van 2018. En bij veel ouderen staat het jaar 1976 ..."
+          "title": "De Rijn zakt, de zorgen stijgen: waarom deze zomer zo aan die van 1976 doet denken",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/binnenland/de-rijn-zakt-de-zorgen-stijgen-waarom-deze-zomer-zo-aan-die-van-1976-doet-denken~a618904b/",
+          "publishedDate": "Wed, 12 Aug 2026 18:30:00 GMT",
+          "description": "Wordt dit jaar opnieuw een historisch droge en warme zomer? Vijftig jaar na de uitzonderlijke zomer van 1976, die nog altijd geldt als h&#233;t ijkpunt voor droogte, laat een duik in het krantenarchief zie ..."
         },
         {
           "title": "Een zonnige zomer op de superjachtmarkt: verkopen stijgen met 89%",
@@ -224,11 +198,11 @@
           "description": "Data van superjachtplatform Boatpro laten een stijging in verkopen zien van 89% in de maand juli ten opzichte van een jaar eerder. In totaal werd er voor €762,4 miljoen aan superjachten afgerekend."
         },
         {
-          "title": "Wordt de ‘barbaarse’ zomer van 1947 overtroffen? Vijfde hittegolf in Limburg, w&#233;&#233;r 35 graden: warmte en droogte eisen steeds meer tol",
-          "source": "De Limburger",
-          "url": "https://www.limburger.nl/weer/wordt-de-barbaarse-zomer-van-1947-overtroffen-vijfde-hittegolf-in-limburg-weer-35-graden-warmte-en-droogte-eisen-steeds-meer-tol/159823281.html",
-          "publishedDate": "Mon, 10 Aug 2026 10:50:00 GMT",
-          "description": "Gaat de zomer van 2026 alle records breken? Deze week volgt al de vijfde hittegolf van het jaar in Limburg, met temperaturen tot 35 graden. Dat kwam slechts een keer eerder voor: in 1947, toen kranten ..."
+          "title": "Nieuwe Barbenheimer? Deze zomer vechten The Odyssey en Spider-Man om bioscoopbezoekers",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/show/nieuwe-barbenheimer-deze-zomer-vechten-the-odyssey-en-spider-man-om-bioscoopbezoekers~aaed8808/",
+          "publishedDate": "Mon, 10 Aug 2026 17:00:00 GMT",
+          "description": "De komkommertijd is voor filmmaatschappijen en bioscoopexploitanten steeds meer een gunstig seizoen om grote titels tegen elkaar op te laten boksen. Op dit moment zijn The Odyssey en Spider-Man: Brand ..."
         },
         {
           "title": "Veel livemuziek, markten en meer: dit is het programma van Wilhelminapark viert de Zomer",
@@ -242,7 +216,78 @@
     {
       "keyword": "jason arday",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Na plagiaatrel opgestapte hoogleraar Cambridge (41) dood aangetroffen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2626907-na-plagiaatrel-opgestapte-hoogleraar-cambridge-41-dood-aangetroffen",
+          "publishedDate": "Sat, 15 Aug 2026 01:34:00 GMT",
+          "description": "De Britse universiteit was bezig met een onderzoek naar de academische kwalificaties en benoemingen van voormalig hoogleraar Jason Arday."
+        },
+        {
+          "title": "In opspraak geraakte Britse academicus Jason Arday dood aangetroffen",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/08/14/in-opspraak-geraakte-britse-academicus-jason-arday-dood-aangetroffen-a4934530",
+          "publishedDate": "Fri, 14 Aug 2026 15:16:00 GMT",
+          "description": "Hoogleraar: Jason Arday werd beschuldigd van academische fouten en plagiaat. Begin deze maand legde hij daarom zijn functie als hoogleraar bij Cambridge neer."
+        },
+        {
+          "title": "Voormalig Cambridge-professor Jason Arday dood aangetroffen in Londen",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/buitenland/voormalig-cambridge-professor-jason-arday-dood-aangetroffen-in-londen~b1f2c5f2d/",
+          "publishedDate": "Fri, 14 Aug 2026 15:02:00 GMT",
+          "description": "Jason Arday, de Cambridge-professor die vorige week ontslag nam na beschuldigingen van plagiaat en leugens, is vrijdag dood aangetroffen. Dat meldt de Britse krant The Telegraph."
+        },
+        {
+          "title": "‘Voormalig Cambridge-professor Jason Arday, die ontslag nam na vele leugens, dood gevonden in woning’",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/wereld/voormalig-cambridge-professor-jason-arday-die-ontslag-nam-na-vele-leugens-dood-gevonden-in-woning~b76ec57c/",
+          "publishedDate": "Fri, 14 Aug 2026 15:00:00 GMT",
+          "description": "De voormalige Cambridge-professor Jason Arday (41) is dood gevonden in zijn woning in Londen, meldt de Britse krant The Telegraph. Arday kwam in opspraak na beschuldigingen van plagiaat. Hij nam vorig ..."
+        },
+        {
+          "title": "Van plagiaat beschuldigde Cambridge-professor Jason Arday (41) dood gevonden",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6406398/van-plagiaat-beschuldigde-cambridge-professor-jason-arday-41-dood-gevonden.html",
+          "publishedDate": "Fri, 14 Aug 2026 14:55:00 GMT",
+          "description": "Jason Arday, voormalig professor aan de prestigieuze University of Cambridge, is vrijdag dood in zijn woning aangetroffen, melden Britse media. Arday had vorige week ontslag genomen vanwege beschuldig ..."
+        },
+        {
+          "title": "Opgestapte Britse prof dood gevonden, familie spreekt van ‘ondraaglijke lastercampagne’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/opgestapte-britse-prof-dood-gevonden-familie-spreekt-van-ondraaglijke-lastercampagne~a76ec57c/?slug_rd=1",
+          "publishedDate": "Thu, 13 Aug 2026 17:46:00 GMT",
+          "description": "De voormalige Cambridge-professor Jason Arday (41) is dood gevonden in zijn woning in Londen. Arday kwam in opspraak na beschuldigingen van plagiaat. Hij was de jongste zwarte hoogleraar ooit aan de p ..."
+        },
+        {
+          "title": "Jason Arday, jongste zwarte hoogleraar ooit aan Cambridge, overleden na plagiaatbeschuldigingen",
+          "source": "De Morgen",
+          "url": "https://www.demorgen.be/nieuws/jason-arday-jongste-zwarte-hoogleraar-ooit-aan-cambridge-overleden-na-plagiaatbeschuldigingen~b8c045fc4/",
+          "publishedDate": "Fri, 14 Aug 2026 23:44:00 GMT",
+          "description": "Voormalig professor Jason Arday (41) is overleden, dat melden verschillende Britse media. Hij nam vorige week ontslag bij de universiteit van Cambridge na beschuldigingen van plagiaat. De Britse polit ..."
+        },
+        {
+          "title": "Cambridge professor Jason Arday dood aangetroffen, week na ontslag door beschuldigingen van plagiaat",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/cambridge-professor-jason-arday-dood-aangetroffen-week-na-ontslag-door-beschuldigingen-van-plagiaat/160060221.html",
+          "publishedDate": "Fri, 14 Aug 2026 18:34:00 GMT",
+          "description": "Voormalig Cambridge-hoogleraar Jason Arday, die geschiedenis schreef als jongste zwarte hoogleraar ooit aan de universiteit maar onlangs ontslag nam na beschuldigingen van plagiaat, is dood aangetroff ..."
+        },
+        {
+          "title": "Van plagiaat beschuldigde Cambridge-professor Jason Arday dood aangetroffen, week na ontslag",
+          "source": "Standaard",
+          "url": "https://www.standaard.be/buitenland/van-plagiaat-beschuldigde-cambridge-professor-jason-arday-dood-aangetroffen-week-na-ontslag/160060766.html",
+          "publishedDate": "Fri, 14 Aug 2026 13:11:00 GMT",
+          "description": "De voormalige Cambridge-professor Jason Arday (41) is dood aangetroffen in zijn woning in Londen. Vorig week nog nam hij ontslag als hoogleraar sociologie aan de universiteit van Cambridge. Arday werd ..."
+        },
+        {
+          "title": "Cambridge-professor (41) die beschuldigd werd van plagiaat, dood aangetroffen in woning. Familie reageert: “Die lastercampagne was ondraaglijk voor Jason”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/cambridge-professor-41-die-beschuldigd-werd-van-plagiaat-dood-aangetroffen-in-woning-familie-reageert-die-lastercampagne-was-ondraaglijk-voor-jason~a5195b04/",
+          "publishedDate": "Fri, 14 Aug 2026 11:17:00 GMT",
+          "description": "Cambridge-professor Jason Arday (41) is vrijdag dood aangetroffen in zijn huis in de Londense wijk Battersea. Dat melden diverse Britse media. Arday kwam in het oog van de storm terecht toen hij besch ..."
+        }
+      ]
     },
     {
       "keyword": "sam lammers",
@@ -270,11 +315,25 @@
           "description": "De toekomst van Sam Lammers lijkt niet meer bij FC Twente te liggen nu trainer John van den Brom een duidelijke boodschap heeft afgegeven. De eerste spits van de laatste maanden is in korte tijd gedeg ..."
         },
         {
+          "title": "FC Twente hoopt komst Sam Lammers snel af te ronden",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/voetbal/fc-twente-hoopt-komst-sam-lammers-snel-af-te-ronden/64343004.html",
+          "publishedDate": "Thu, 25 Jul 2024 09:13:00 GMT",
+          "description": "GLASGOW - FC Twente hoopt op korte termijn de overgang van Sam Lammers af te kunnen ronden. De nummer drie van het vorige seizoen was eerder deze zomer voor de vacature op de spitspositie ..."
+        },
+        {
           "title": "‘Sam Lammers verlaat FC Twente voor Eredivisie-concurrent’",
           "source": "soccernews",
           "url": "https://www.soccernews.nl/news/sam-lammers-verlaat-fc-twente-voor-eredivisie-concurrent/",
           "publishedDate": "Fri, 14 Aug 2026 04:12:00 GMT",
           "description": "En mogelijk is die gewoon binnen de Eredivisie. FC Utrecht is nog op zoek naar een spits en zou wel interesse hebben om Lammers weer terug te halen. “FC Utrecht zou hem heel graag weer verwelkomen”, ..."
+        },
+        {
+          "title": "Moet FC Utrecht er een spits bij halen? 'Sam Lammers zou een goeie zijn'",
+          "source": "RTV Utrecht",
+          "url": "https://www.rtvutrecht.nl/sport/4078958/moet-fc-utrecht-er-een-spits-bij-halen-sam-lammers-zou-een-goeie-zijn",
+          "publishedDate": "Tue, 11 Aug 2026 12:00:00 GMT",
+          "description": "FC Utrecht begon de competitie zondag met een nederlaag bij FC Groningen. Het was de eerste wedstrijd onder de nieuwe trainer Anthony Correia. De nederlaag is niet iets om van in paniek te raken, maar ..."
         },
         {
           "title": "‘Van den Brom stuurt aan op FC Twente-transfer’",
@@ -303,89 +362,75 @@
           "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/sam-lammers-onbegrip-derde-spits-fc-twente",
           "publishedDate": "Sun, 09 Aug 2026 14:48:00 GMT",
           "description": "Sam Lammers heeft grote moeite met zijn nieuwe rol als derde spits van FC Twente. De aanvaller begrijpt weinig van de keuze en noemt zijn situatie frustrerend."
-        },
-        {
-          "title": "Frustraties bij Sam Lammers: 'Hij is boos, pissig'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/07/frustraties-bij-sam-lammers-hij-is-boos-pissig",
-          "publishedDate": "Tue, 28 Jul 2026 17:00:00 GMT",
-          "description": "Sam Lammers is gefrustreerd door zijn reserverol achter Wout Weghorst bij FC Twente. Trainer John van den Brom bevestigt dat de spits baalt, maar prijst ook zijn reactie."
         }
       ]
     },
     {
-      "keyword": "bosbrand duitsland",
+      "keyword": "regen",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Duitse deelstaat Noordrijn-Westfalen geteisterd door grootste natuurbrand ooit",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/buitenland/6406393/duitse-deelstaat-noordrijn-westfalen-geteisterd-door-grootste-natuurbrand-ooit.html",
-          "publishedDate": "Fri, 14 Aug 2026 14:32:00 GMT",
-          "description": "Het westen van Duitsland kampt met een hevige natuurbrand. De brand in de gemeente H&#252;rtgenwald is de grootste in de geschiedenis van de aan Nederland grenzende deelstaat Noordrijn-Westfalen. Vijf mens ..."
+          "title": "Eindelijk weer regen na dagenlange hitte: d&#237;t is de opmerkelijke geur die je nu buiten ruikt",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/weer/eindelijk-weer-regen-na-dagenlange-hitte-dit-is-de-opmerkelijke-geur-die-je-nu-buiten-ruikt/64327298.html",
+          "publishedDate": "Sat, 15 Aug 2026 01:35:00 GMT",
+          "description": "Na enkele dagen met tropische temperaturen en extreme hitte is zaterdag broodnodige regen gevallen. Wat je dan misschien opvalt, is dat de regen een specifieke geur heeft. Wat is deze geur, wat ruik j ..."
         },
         {
-          "title": "Nederlanders ge&#235;vacueerd wegens bosbrand in Kroati&#235;, grote brand in Duitsland",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/buitenland/6406355/nederlanders-geevacueerd-wegens-bosbrand-in-kroatie-grote-brand-in-duitsland.html",
-          "publishedDate": "Fri, 14 Aug 2026 10:31:00 GMT",
-          "description": "Nederlandse vakantiegangers van D-reizen en Prijsvrij Vakanties zijn ge&#235;vacueerd vanwege een bosbrand in Kroati&#235;. Ondertussen woedt vlak over de grens bij Vaals een grote brand in het Duitse H&#252;rtgenbo ..."
+          "title": "Komende week valt regen, maar de droogte in Nederland is hardnekkig: ‘Druppel op gloeiende plaat’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/komende-week-valt-regen-maar-de-droogte-in-nederland-is-hardnekkig-druppel-op-gloeiende-plaat~a7b240059/",
+          "publishedDate": "Fri, 31 Jul 2026 02:00:00 GMT",
+          "description": "Na weken van hitte en nauwelijks regen raakt Nederland steeds verder uitgedroogd. De Rijn staat op een historisch laag peil, er is officieel een watertekort afgekondigd en hoewel komende week regen wo ..."
         },
         {
-          "title": "Grote natuurbrand nadert ge&#235;vacueerd dorp Gey in Duitsland",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2626858-grote-natuurbrand-nadert-geevacueerd-dorp-gey-in-duitsland",
-          "publishedDate": "Fri, 14 Aug 2026 08:15:00 GMT",
-          "description": "De grote natuurbrand in de Duitse deelstaat Noordrijn-Westfalen komt steeds dichter bij het ge&#235;vacueerde dorp Gey. Het vuur bevindt zich op zo'n 150 meter van het plaatsje. Volgens de ..."
+          "title": "Ineens was het Delftse Bagijnhof in een put veranderd. Hoe gaan wijken om met extreme regen?",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/02/02/ineens-was-het-delftse-bagijnhof-in-een-put-veranderd-hoe-gaan-wijken-om-met-extreme-regen-a4918972",
+          "publishedDate": "Mon, 02 Feb 2026 13:30:00 GMT",
+          "description": "Extreem weer Wateroverlast kan omslaan in onveiligheid, waarschuwde de Onderzoeksraad Voor Veiligheid (OVV) eind januari in een rapport aan de hand van voorbeelden in Nijverdal, Doetinchem en Enschede ..."
         },
         {
-          "title": "Meer dan 2000 mensen ge&#235;vacueerd vanwege natuurbrand in Duitse dorp Gey",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2626797-meer-dan-2000-mensen-geevacueerd-vanwege-natuurbrand-in-duitse-dorp-gey",
-          "publishedDate": "Fri, 14 Aug 2026 01:07:00 GMT",
-          "description": "Vanwege een natuurbrand in de Duitse deelstaat Noordrijn-Westfalen zijn meer dan 2000 mensen ge&#235;vacueerd uit het dorp Gey. Dat meldt(opent in nieuw venster) de ..."
+          "title": "Wanneer krijgen we (veel) regen? David Dehenauw heeft meer nieuws",
+          "source": "Nieuws365",
+          "url": "https://www.nieuws365.be/weer/wanneer-krijgen-we-veel-regen-david-dehenauw-heeft-meer-nieuws",
+          "publishedDate": "Sat, 15 Aug 2026 02:00:00 GMT",
+          "description": "Wie hoopt op een volledig droge dag, krijgt volgens VTM-weerman David Dehenauw geen garanties. Er kunnen vandaag lokaal regen- of onweersbuien ontstaan, al blijven de neerslaghoeveelheden op de meeste ..."
         },
         {
-          "title": "LIVE Extreem weer | Grote bosbranden in Duitsland en Belgi&#235;, verwarring in Wales na noodmelding in lokale taal",
+          "title": "Eindelijk regen na wekenlange droogte, maar is het genoeg voor de natuur?",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/362448/eindelijk-regen-na-wekenlange-droogte-maar-is-het-genoeg-voor-de-natuur",
+          "publishedDate": "Fri, 14 Aug 2026 22:30:00 GMT",
+          "description": "Weken van droogte in Nederland: 10-20mm regen verwacht, maar experts waarschuwen dat het lang niet genoeg is. Lees wat het betekent voor natuur en boeren."
+        },
+        {
+          "title": "Is de regen die nu eindelijk valt genoeg voor de natuur?",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/362448/is-de-regen-die-nu-eindelijk-valt-genoeg-voor-de-natuur",
+          "publishedDate": "Fri, 14 Aug 2026 22:30:00 GMT",
+          "description": "Weken van droogte in Nederland: 10-20mm regen verwacht, maar experts waarschuwen dat het lang niet genoeg is. Lees wat het betekent voor natuur en boeren."
+        },
+        {
+          "title": "Er komt regen aan: oppassen geblazen op de weg, want die kan verraderlijk glad worden",
           "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/buitenland/live-natuurbranden-bosbrand-op-het-griekse-eiland-paros-bewoners-gevraagd-naar-stranden-te-vluchten~ad0a3949/?slug_rd=1",
-          "publishedDate": "Fri, 14 Aug 2026 18:09:00 GMT",
-          "description": "De natuurbrand in de Duitse gemeente H&#252;rtgenwald is de grootste in de geschiedenis van de deelstaat Noordrijn-Westfalen, meldt het lokale bestuur. De brand, op 40 kilometer van de Nederlandse grens, i ..."
+          "url": "https://www.gelderlander.nl/binnenland/er-komt-regen-aan-oppassen-geblazen-op-de-weg-want-die-kan-verraderlijk-glad-worden~a1d70e2f/",
+          "publishedDate": "Fri, 14 Aug 2026 22:00:00 GMT",
+          "description": "Komende week en misschien al dit weekend gaat het voor het eerst sinds weken weer regenen in ons land. Opgepast: water in combinatie met vuilresten op de weg kan ineens voor zomergladheid zorgen. Dit ..."
         },
         {
-          "title": "Grote bosbrand in Duitsland nadert ge&#235;vacueerd dorp, ook leger ingezet",
-          "source": "De Limburger",
-          "url": "https://www.limburger.nl/grensregio/grote-bosbrand-in-duitsland-nadert-geevacueerd-dorp-ook-leger-ingezet/160056878.html",
-          "publishedDate": "Fri, 14 Aug 2026 12:18:00 GMT",
-          "description": "De bosbrand in de Duitse gemeente H&#252;rtgenwald heeft het ge&#235;vacueerde dorp Gey tot op ongeveer 150 meter genaderd. Volgens de autoriteiten gaat het om de grootste natuurbrand ooit in de regio."
+          "title": "Regen komt eraan, maar de droogte is nog lang niet voorbij",
+          "source": "Weer.nl on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/regen-komt-eraan-maar-de-droogte-is-nog-lang-niet-voorbij/ar-AA2a4lWh",
+          "publishedDate": "Thu, 13 Aug 2026 22:00:10 GMT",
+          "description": "Het is uitzonderlijk droog. Komend weekend wordt er een weersomslag verwacht. Dit verzacht wellicht de droogte, maar het verdwijnt zeker niet."
         },
         {
-          "title": "Natuurbrand Duitse H&#252;rtgenwald is grootste in Noordrijn-Westfalen",
-          "source": "ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/Buitenland/natuurbrand-duitse-h%C3%BCrtgenwald-is-grootste-in-noordrijn-westfalen/ar-AA2a82j3",
-          "publishedDate": "Fri, 14 Aug 2026 11:13:02 GMT",
-          "description": "D&#220;REN (ANP) - De natuurbrand in de Duitse gemeente H&#252;rtgenwald is de grootste in de geschiedenis van de aan Nederland grenzende deelstaat Noordrijn-Westfalen. Dat schrijft het Duitse Tagesschau. Volge ..."
-        },
-        {
-          "title": "Natuurbranden Europa - Bosbrand nabij Belgische grens dwingt meer dan 1.800 Duitsers tot evacuatie",
-          "source": "Belga News Agency on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/natuurbranden-europa-bosbrand-nabij-belgische-grens-dwingt-meer-dan-1-800-duitsers-tot-evacuatie/ar-AA2a5sBY",
-          "publishedDate": "Thu, 13 Aug 2026 23:43:20 GMT",
-          "description": "De Duitse autoriteiten hebben vrijdag de evacuatie bevolen van een dorp in het westen van het land, niet ver van de grens met Belgi&#235;. Een bosbrand bedreigt Gey, een deelgemeente van H&#252;rtgenwald in de ..."
-        },
-        {
-          "title": "Grote natuurbrand in Duitse H&#252;rtgenwald: rook trekt richting Zuid-Limburg",
-          "source": "De Limburger",
-          "url": "https://www.limburger.nl/grensregio/grote-natuurbrand-in-duitse-hurtgenwald-rook-trekt-richting-zuid-limburg/160011804.html",
-          "publishedDate": "Thu, 13 Aug 2026 13:30:00 GMT",
-          "description": "In H&#252;rtgenwald woedt sinds donderdagavond een grote bosbrand. De rook trekt in de richting van Zuid-Limburg. Er is een blushelikopter ter plaatse."
-        },
-        {
-          "title": "Raadslid roept op tot Europese samenwerking na brand bij Venray: ‘Branden kennen geen grens’",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/land-van-cuijk/raadslid-roept-op-tot-europese-samenwerking-na-brand-bij-venray-branden-kennen-geen-grens~a9142b1a/",
-          "publishedDate": "Mon, 10 Aug 2026 22:45:00 GMT",
-          "description": "Na de verschroeiende bosbrand bij Oostrum lopen de zorgen op: kan de Nederlandse brandweer nog wel aan wat op zijn bordje komt? Juist daarom zouden Nederland en Duitsland intensiever moeten samenwerke ..."
+          "title": "Warm weer met toenemende kans op stevige regen- en onweersbuien",
+          "source": "Star Nieuws",
+          "url": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/93387",
+          "publishedDate": "Wed, 12 Aug 2026 22:03:00 GMT",
+          "description": "In de middag moet rekening worden gehouden met regen- en onweersbuien. De grootste kans op stevige buien bestaat in het binnenland en de noordwestelijke districten. Daarbij kunnen bliksem en ..."
         }
       ]
     },
@@ -423,9 +468,9 @@
         },
         {
           "title": "“Die gele schijn van al die dikke sigaren moet weg”: Mollenaar Piet mag schilderij uit Senaat in volle glorie herstellen",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/regio/antwerpen/kempen/mol/die-gele-schijn-van-al-die-dikke-sigaren-moet-weg-mollenaar-piet-mag-schilderij-uit-senaat-in-volle-glorie-herstellen/159674548.html",
-          "publishedDate": "Thu, 06 Aug 2026 01:55:00 GMT",
+          "source": "Gazet van Antwerpen",
+          "url": "https://www.gva.be/regio/antwerpen/kempen/mol/die-gele-schijn-van-al-die-dikke-sigaren-moet-weg-mollenaar-piet-mag-schilderij-uit-senaat-in-volle-glorie-herstellen/159668813.html",
+          "publishedDate": "Thu, 06 Aug 2026 03:55:00 GMT",
           "description": "De gepassioneerde Jakob Smitsbewonderaar Piet Deceunick heeft een godsgeschenk gekregen. Hij mag het doek ‘De vlag’ van de Kempense meester restaureren. Dat schilderij hangt al meer dan 100 jaar in de ..."
         },
         {
@@ -470,13 +515,6 @@
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Zorgen over economie in Indonesi&#235;: crisis dreigt, maar president Prabowo blijft geld als water uitgeven",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/zorgen-over-economie-in-indonesie-crisis-dreigt-maar-president-prabowo-blijft-geld-als-water-uitgeven~b667ce46/",
-          "publishedDate": "Tue, 28 Jul 2026 22:00:00 GMT",
-          "description": "De Indonesische economie dreigt in te storten, waarschuwen deskundigen, maar president Prabowo Subianto ontkent dat. Hij noemt critici ‘zwarte Hollanders’ (verraders) en lijkt niet van plan zijn enorm ..."
-        },
-        {
           "title": "WK-droom Indonesi&#235; en bondscoach Kluivert in duigen",
           "source": "NRC",
           "url": "https://www.nrc.nl/nieuws/2025/10/12/wk-droom-indonesie-en-bondscoach-kluivert-in-duigen-a4909267",
@@ -494,7 +532,7 @@
           "title": "Zeker 20 doden bij zware aardbeving voor de kust van Indonesi&#235;",
           "source": "VRT on MSN",
           "url": "https://www.msn.com/nl-be/nieuws/other/zeker-20-doden-bij-zware-aardbeving-voor-de-kust-van-indonesi%C3%AB/ar-AA2a9Gz9",
-          "publishedDate": "Fri, 14 Aug 2026 22:58:00 GMT",
+          "publishedDate": "Fri, 14 Aug 2026 21:57:58 GMT",
           "description": "Bij een zware aardbeving voor de kust van het Indonesische eiland Flores zijn al zeker 20 mensen om het leven gekomen. Dat meldt het persagentschap AFP. De aardbeving had een kracht van 7.7. Er was oo ..."
         },
         {
@@ -538,6 +576,89 @@
           "url": "https://www.ad.nl/economie/nieuwe-fabriek-frieslandcampina-in-indonesie-maakt-1-miljard-kilo-zuivel-per-jaar-en-dat-is-hard-nodig~a13a9cdf/",
           "publishedDate": "Sat, 20 Jul 2024 22:14:00 GMT",
           "description": "Een bakje nasi met ei &#233;n een beker melk: deze gratis lunch moet 83 miljoen scholieren in Indonesi&#235; vitaler maken. Zuivelgigant FrieslandCampina ziet kansen en investeert ruim een kwart miljard euro in ..."
+        },
+        {
+          "title": "COVID‑19: Indonesi&#235; toegevoegd aan lijst van landen waarvoor reisbeperkingen moeten worden opgeheven",
+          "source": "consilium.europa",
+          "url": "https://www.consilium.europa.eu/nl/press/press-releases/2021/11/18/covid-19-council-adds-indonesia-to-the-list-of-countries-for-which-travel-restrictions-should-be-lifted/",
+          "publishedDate": "Thu, 18 Nov 2021 02:50:00 GMT",
+          "description": "Na een evaluatie heeft de Raad de lijst aangepast van landen, speciale administratieve regio's en andere entiteiten en territoriale autoriteiten waarvoor de beperkingen op niet‑essenti&#235;le reizen naar ..."
+        }
+      ]
+    },
+    {
+      "keyword": "zaandam",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Ongeval met letsel in Zaandam",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-zaanstad/ongeval-met-letsel-in-zaandam~a10d6ac5/",
+          "publishedDate": "Fri, 14 Aug 2026 17:22:00 GMT",
+          "description": "De melding kwam rond kwart over negen 's ochtends bij de alarmcentrale binnen. Er is een ambulance naar de locatie gestuurd om hulp te verlenen. 112 Zaandam De brandweer is de afgelopen 30 dagen 67 ke ..."
+        },
+        {
+          "title": "Auto kantelt op A7 bij Wijdewormer door ongeval, twee rijstroken richting Zaandam weer vrijgegeven",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-wormerland/auto-kantelt-op-a7-bij-wijdewormer-door-ongeval-twee-rijstroken-richting-zaandam-weer-vrijgegeven~a18631cf/",
+          "publishedDate": "Fri, 14 Aug 2026 00:13:00 GMT",
+          "description": "Bij een ongeval op de A7 raakten vrijdagmiddag meerdere voertuigen betrokken. Twee personen zijn naar het ziekenhuis gebracht."
+        },
+        {
+          "title": "Riviercruises kunnen door de droogte niet meer langs de hele Rijn, maar vertrekken toch – naar Zaandam bijvoorbeeld",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/riviercruises-kunnen-door-de-droogte-niet-meer-langs-de-hele-rijn-maar-vertrekken-toch-naar-zaandam-bijvoorbeeld~b9ba93ff/",
+          "publishedDate": "Thu, 13 Aug 2026 20:00:00 GMT",
+          "description": "Vanwege de droogte kunnen riviercruises niet meer langs de Rijn naar populaire bestemmingen als Basel en Boedapest. Maar de schepen vertrekken vooralsnog als gepland vanuit Amsterdam, al doen ze ander ..."
+        },
+        {
+          "title": "Riviercruises kunnen door de droogte niet de hele Rijn langs, maar vertrekken toch – naar Zaandam bijvoorbeeld",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/riviercruises-kunnen-door-de-droogte-niet-de-hele-rijn-langs-maar-vertrekken-toch-naar-zaandam-bijvoorbeeld~b9ba93ff/",
+          "publishedDate": "Thu, 13 Aug 2026 20:00:00 GMT",
+          "description": "Vanwege de droogte kunnen riviercruises niet meer langs de Rijn naar populaire bestemmingen als Basel en Boedapest. Maar de schepen vertrekken vooralsnog als gepland vanuit Amsterdam, al doen ze ander ..."
+        },
+        {
+          "title": "Politie zoekt vermiste Noor (12); in de nacht uit woning vertrokken",
+          "source": "112 Nieuws Nederland",
+          "url": "https://112nieuws.net/2026/08/14/politie-zoekt-vermiste-noor-12-in-de-nacht-uit-woning-vertrokken/",
+          "publishedDate": "Fri, 14 Aug 2026 11:50:00 GMT",
+          "description": "De politie is op zoek naar de 12-jarige Noor uit Zaandam. Het meisje is in de nacht van donderdag 13 op vrijdag 14 augustus vertrokken vanuit haar woning. Rond 01.00 uur werd zij voor het laatst gezie ..."
+        },
+        {
+          "title": "Rie uit Zaandam viert honderdste verjaardag: af en toe een gokje wagen en een glaasje drinken",
+          "source": "Noordhollands Dagblad",
+          "url": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/zaanstreek/rie-uit-zaandam-viert-honderdste-verjaardag-af-en-toe-een-gokje-wagen-en-een-glaasje-drinken/159724043.html",
+          "publishedDate": "Sat, 08 Aug 2026 02:00:00 GMT",
+          "description": "Rie Vethaak-Selie is naar eigen zeggen ’nogal goklustig’ en houdt wel van een glaasje bloedwijn op zijn tijd. De geboren en getogen Zaandamse heeft vrijdag alle reden om een glaasje te drinken: het is ..."
+        },
+        {
+          "title": "Mees (18) houdt met zesduizend liter water per ritje de Prins Bernhardbrug in Zaandam koel: ’Soms worden mensen boos, dan gaan ze roepen’",
+          "source": "Noordhollands Dagblad",
+          "url": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/zaanstreek/mees-18-houdt-met-zesduizend-liter-water-per-ritje-de-prins-bernhardbrug-in-zaandam-koel-soms-worden-mensen-boos-dan-gaan-ze-roepen/159572353.html",
+          "publishedDate": "Thu, 06 Aug 2026 04:40:00 GMT",
+          "description": "Niet alleen mensen en dieren hebben last van de hitte, ook de bruggen hebben het zwaar te verduren. Om te voorkomen dat het metaal uitzet en de bruggen niet meer open of dicht gaan, worden deze tijden ..."
+        },
+        {
+          "title": "Man (40) die vermist was uit Zaandam is weer terecht",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/vermissing/artikelen/noord-holland-zaandam-vermissing-man-zijtocht",
+          "publishedDate": "Mon, 03 Aug 2026 07:42:00 GMT",
+          "description": "De politie is op zoek naar de 40-jarige Jaber, die vermist is uit Zaandam. Hij is voor het laatst gezien aan de Zijtocht. De politie vraagt mensen met informatie of camerabeelden zich te melden."
+        },
+        {
+          "title": "Eikelenboom Groep neemt Wemmers Tankcleaning Zaandam over",
+          "source": "TTM.nl",
+          "url": "https://www.ttm.nl/management/fusiesovernames/eikelenboom-groep-neemt-wemmers-tankcleaning-zaandam-over/178336/",
+          "publishedDate": "Thu, 30 Jul 2026 23:01:00 GMT",
+          "description": "Eikelenboom Groep breidt haar netwerk per 1 augustus 2026 uit met de reinigingslocatie van Wemmers Tankcleaning Zaandam. Met deze uitbreiding versterkt de ..."
+        },
+        {
+          "title": "Voorheen ANWB Rijopleiding Zaandam",
+          "source": "ANWB",
+          "url": "https://www.anwb.nl/auto/rijbewijs/rijschool-zaandam",
+          "publishedDate": "Mon, 29 Jun 2026 17:01:00 GMT",
+          "description": "ANWB biedt geen rijlessen meer aan. Gelukkig kun je nog steeds terecht bij dezelfde vertrouwde rijschool in jouw regio. Algemene Rijopleiding Noord-Holland, voorheen ANWB Rijopleiding Zaandam, is ..."
         }
       ]
     }
