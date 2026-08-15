@@ -1,81 +1,147 @@
 {
-  "fetchedAt": "2026-08-15T07:06:23.466Z",
+  "fetchedAt": "2026-08-15T07:50:46.360Z",
   "trends": [
+    {
+      "keyword": "weer",
+      "trafficLabel": "50K+",
+      "articles": [
+        {
+          "title": "A16 weer vrijgegeven na ongeval voor Drechttunnel",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/hendrik-ido-ambacht/a16-weer-vrijgegeven-na-ongeval-voor-drechttunnel~ac35f1fd/",
+          "publishedDate": "Thu, 13 Aug 2026 22:17:00 GMT",
+          "description": "Op de A16 waren meerdere voertuigen betrokken geraakt bij een ongeval op de hoofdrijbaan vlak voor de Drechttunnel, in de richting van Breda. Verkeer richting Breda werd omgeleid via de parallelbuis, ..."
+        },
+        {
+          "title": "Dit wordt het weer: 'De natuur kan een feestje vieren'",
+          "source": "RTV Drenthe",
+          "url": "https://www.rtvdrenthe.nl/nieuws/18697453/dit-wordt-het-weer-de-natuur-kan-een-feestje-vieren",
+          "publishedDate": "Fri, 14 Aug 2026 02:30:00 GMT",
+          "description": "We eindigen deze week nog met tropische temperaturen. Vandaag wordt het 35 graden, maar daarna keren we terug naar een Hollandse zomer. De kinderen gaan weer naar school en de temperatuur daalt."
+        },
+        {
+          "title": "Weer van vandaag: opnieuw een erg warme dag",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2239102/weer-van-vandaag-opnieuw-een-erg-warme-dag",
+          "publishedDate": "Thu, 13 Aug 2026 20:55:00 GMT",
+          "description": "Het wordt vrijdag opnieuw een erg warme en zonnige dag. 's Ochtends warmt het snel op en rond het middaguur is het 29 tot 34 graden. In de middag koelt het langzaam af, door een westenwind."
+        },
+        {
+          "title": "ABN AMRO: bedrijven moeten zich snel voorbereiden op extreem weer",
+          "source": "RD",
+          "url": "https://www.rd.nl/artikel/1159330-abn-amro-bedrijven-moeten-zich-snel-voorbereiden-op-extreem-weer",
+          "publishedDate": "Thu, 13 Aug 2026 17:02:00 GMT",
+          "description": "Bedrijven in Nederland moeten zich beter voorbereiden op extreem weer zoals hitte, droogte en hevige regenbuien. Ondernemingen die niet snel maatregelen nemen om klimaatbestendiger te zijn, riskeren ..."
+        },
+        {
+          "title": "Na zonneschijn komt regen: van hittepiek naar wisselvallig weer",
+          "source": "RTV Utrecht",
+          "url": "https://www.rtvutrecht.nl/nieuws/4079797/na-zonneschijn-komt-regen-van-hittepiek-naar-wisselvallig-weer",
+          "publishedDate": "Thu, 13 Aug 2026 01:58:00 GMT",
+          "description": "Utrechters moeten zich de komende twee dagen opmaken voor tropisch warm weer. Het wordt meer dan 30 graden en het KNMI heeft daarom code geel afgegeven. Maar goed nieuws voor mensen die de hitte zat z ..."
+        }
+      ]
+    },
     {
       "keyword": "a59",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Zeker vijftig trekkers op A2, ondanks oproep om snelweg te mijden",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/zeker-vijftig-trekkers-op-a2-ondanks-oproep-om-snelweg-te-mijden~b47147c6/",
-          "publishedDate": "Fri, 14 Aug 2026 07:45:00 GMT",
-          "description": "Zeker vijftig trekkers rijden vrijdagmiddag op de A2 bij Empel in de richting van Utrecht, net boven Den Bosch, ondanks oproepen om niet de snelweg op te gaan. De verkeerssituatie vanwege de boerenpro ..."
-        },
-        {
           "title": "Hulpdiensten aanwezig na ongeluk in file op A59 achter protesterende boeren",
           "source": "NU.nl",
           "url": "https://www.nu.nl/329304/video/hulpdiensten-aanwezig-na-ongeluk-in-file-op-a59-achter-protesterende-boeren.html",
           "publishedDate": "Fri, 14 Aug 2026 04:23:00 GMT",
-          "description": "Op de A59 bij het Brabantse Heesch zijn vrijdag twee mensen omgekomen bij een ongeval. Op de snelweg was een file ontstaan door protesterende boeren die met trekkers naar het provinciehuis in Den Bosc ..."
+          "description": "Op de A59 bij het Brabantse Heesch zijn vrijdag twee mensen omgekomen bij een ongeval. Op de snelweg was een file ontstaan door protesterende boeren die met trekkers naar het provinciehuis in Den Bosc"
         },
         {
-          "title": "Ongeval met 2 doden op A59 in staart van file bij boerenprotest",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/binnenland/ongeval-met-2-doden-op-a59-in-staart-van-file-bij-boerenprotest~b832f52d/",
-          "publishedDate": "Fri, 14 Aug 2026 03:31:00 GMT",
-          "description": "Op de A59 bij Heesch zijn twee mensen omgekomen door een ongeval in de staart van een file die was ontstaan door tractoren die naar het provinciehuis in Den Bosch reden. Bij het ongeval waren vier ..."
-        },
-        {
-          "title": "Twee doden bij ongeluk op A59 zijn zeventigers uit Oss: ‘Een afschuwelijke tragedie’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/twee-doden-bij-ongeluk-op-a59-zijn-zeventigers-uit-oss-een-afschuwelijke-tragedie~a7c17500/",
-          "publishedDate": "Fri, 14 Aug 2026 00:25:00 GMT",
-          "description": "De twee mensen die vrijdagochtend om het leven kwamen bij een verkeersongeluk op de A59 bij Heesch zijn een 71-jarige man en een 72-jarige vrouw uit het nabijgelegen Oss. Dat bevestigt de politie. Daa ..."
-        },
-        {
-          "title": "Slachtoffers ongeluk A59 zijn zeventigers uit Oss, zes gewonden",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/algemeen/slachtoffers-ongeluk-a59-zijn-zeventigers-uit-oss-zes-gewonden",
-          "publishedDate": "Fri, 14 Aug 2026 06:15:00 GMT",
-          "description": "Twee doden (71 en 72) uit Oss bij filebotsing op A59 bij Heesch; zes gewonden. Vier auto's betrokken, files door boerenprotest naar Den Bosch. Klik voor details."
-        },
-        {
-          "title": "Ingetogen programma bij boerenprotest om dodelijk ongeval op A59",
-          "source": "ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/Binnenland/ingetogen-programma-bij-boerenprotest-om-dodelijk-ongeval-op-a59/ar-AA2a69aq",
-          "publishedDate": "Fri, 14 Aug 2026 04:47:00 GMT",
-          "description": "DEN BOSCH (ANP) - Organisatoren van het boerenprotest in Den Bosch vinden het &quot;verschrikkelijk&quot; dat er twee mensen zijn verongelukt bij een file op de A59. Het podiumprogramma met sprekers buiten het ..."
-        },
-        {
-          "title": "Twee doden na ongeval in staart van file door boerenprotest op A59 bij Heesch",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/twee-doden-ongeval-file-boerenprotest-a59-heesch",
-          "publishedDate": "Fri, 14 Aug 2026 01:45:00 GMT",
-          "description": "Bij een ongeval met vier auto's op de A59 bij Heesch zijn twee mensen omgekomen. Het ongeluk gebeurde in de staart van een file door het boerenprotest."
-        },
-        {
-          "title": "Twee doden na ernstig ongeval; snelweg volledig afgesloten",
-          "source": "112 Nieuws Nederland",
-          "url": "https://112nieuws.net/2026/08/14/twee-doden-na-ernstig-ongeval-snelweg-volledig-afgesloten/",
-          "publishedDate": "Fri, 14 Aug 2026 01:31:00 GMT",
-          "description": "Op de A59 richting Den Bosch heeft vrijdagochtend rond 09.25 uur een ernstig ongeval plaatsgevonden met vier auto's. Daarbij zijn twee personen om het leven gekomen. Meerdere mensen raakten gewond. Wa ..."
-        },
-        {
-          "title": "Gisteren om 10:00 • Aangepast gisteren om 16:14",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6022969/twee-doden-en-meerdere-gewonden-bij-zwaar-ongeluk-op-a59-bij-heesch",
-          "publishedDate": "Fri, 14 Aug 2026 01:00:00 GMT",
-          "description": "Twee mensen zijn vrijdagochtend overleden bij een ongeluk met vier auto's op de A59 bij Heesch. Ook zijn er meerdere gewonden. Hulpdiensten en een traumateam zijn aanwezig."
-        },
-        {
-          "title": "Tientallen tractoren rijden over A59 richting Den Bosch",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/algemeen/tientallen-tractoren-rijden-over-a59-richting-den-bosch",
-          "publishedDate": "Fri, 14 Aug 2026 00:30:00 GMT",
-          "description": "Ongeveer 30 tractoren rijden over de A59 bij Vlijmen naar Den Bosch voor een grote stikstofprotest. Langzaam rijdend, met omgekeerde vlaggen, zonder politiebegeleiding."
+          "title": "Twee doden en zes gewonden bij ongeluk tractoren die naar boerenprotest reden, Farmers Defence Force deelt Jodensterren met letter B uit",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/nederland/twee-doden-en-zes-gewonden-bij-ongeluk-tractoren-die-naar-boerenprotest-reden-farmers-defence-force-deelt-jodensterren-met-letter-b-uit~b1b54bf3/",
+          "publishedDate": "Fri, 14 Aug 2026 02:10:00 GMT",
+          "description": "Op de A59 zijn bij het Brabantse Heesch twee mensen omgekomen, bij een ongeluk in de staart van een file die was ontstaan door tractoren die richting Den Bosch reden. Honderden boeren verzamelden zich"
         }
       ]
+    },
+    {
+      "keyword": "dodenweg",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Opnieuw ernstig ongeluk op ‘dodenweg’: ‘Verlaag de maximumsnelheid’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/rheden/opnieuw-ernstig-ongeluk-op-dodenweg-verlaag-de-maximumsnelheid~acbb75ff/",
+          "publishedDate": "Sun, 19 Jul 2026 16:59:00 GMT",
+          "description": "Nu het opnieuw mis is gegaan op de beruchte kanaalroute tussen Dieren en Apeldoorn, trekken omwonenden weer aan de bel. Verlaag de maximumsnelheid van 80 naar 60 kilometer per uur op deze ‘dodenweg’, ..."
+        },
+        {
+          "title": "‘Dodenweg’ Stiens-Holwert kan eerder aangepakt worden door extra geld provincie",
+          "source": "lc.nl",
+          "url": "https://lc.nl/regio/friesland/dodenweg-stiens-holwert-kan-eerder-aangepakt-worden-door-extra-geld-provincie/156422933.html",
+          "publishedDate": "Fri, 21 Nov 2025 08:50:00 GMT",
+          "description": "Met die boodschap kwam gedeputeerde Matthijs de Vries (CU) vrijdag naar Feinsum, waar hij was uitgenodigd door de dorpsbelangen van Feinsum en Stiens en de Fietsersbond. De Vries wees erop dat de ..."
+        },
+        {
+          "title": "Tractor of brommobiel inhalen op ‘dodenweg’ tussen Dieren en Apeldoorn? Dat wordt een duur geintje",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/rheden/tractor-of-brommobiel-inhalen-op-dodenweg-tussen-dieren-en-apeldoorn-dat-wordt-een-duur-geintje~a16cedd0/",
+          "publishedDate": "Thu, 29 Sep 2022 00:45:00 GMT",
+          "description": "Een tractor of brommobiel inhalen op de weg langs het Apeldoorns kanaal? Dat kost je straks 250 euro. Op de zogeheten ‘dodenweg’ geldt binnenkort een volledig inhaalverbod. Een bezwaar daartegen is ..."
+        },
+        {
+          "title": "Apeldoorn grijpt in op ‘dodenweg’: zelfs trekkers inhalen mag niet meer",
+          "source": "AD",
+          "url": "https://www.ad.nl/apeldoorn/apeldoorn-grijpt-in-op-dodenweg-zelfs-trekkers-inhalen-mag-niet-meer~a0986b15/",
+          "publishedDate": "Tue, 02 Aug 2022 21:02:00 GMT",
+          "description": "De route tussen Apeldoorn en Dieren staat bekend als ‘dodenweg’; alleen al in het laatste jaar zijn er drie mensen om het leven gekomen bij een ongeluk. Op de weg langs het Apeldoorns Kanaal - op ..."
+        },
+        {
+          "title": "Ingreep op ‘dodenweg’ tussen Apeldoorn en Dieren: zelfs trekkers inhalen mag niet meer",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/rheden/ingreep-op-dodenweg-tussen-apeldoorn-en-dieren-zelfs-trekkers-inhalen-mag-niet-meer~a0986b15/",
+          "publishedDate": "Tue, 02 Aug 2022 18:05:00 GMT",
+          "description": "De route tussen Apeldoorn en Dieren staat bekend als ‘dodenweg’; alleen al in het laatste jaar zijn er drie mensen om het leven gekomen bij een ongeluk. Op de weg langs het Apeldoorns Kanaal - op ..."
+        },
+        {
+          "title": "Zeker drie Belgische toeristen en hun chauffeur omgekomen bij ongeval op beruchte ‘dodenweg’ in Kenia",
+          "source": "Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/zeker-drie-belgische-toeristen-en-hun-chauffeur-omgekomen-bij-ongeval-op-beruchte-dodenweg-in-kenia/56660316.html",
+          "publishedDate": "Fri, 15 Jul 2022 15:12:00 GMT",
+          "description": "Bij het ongeval, dat gebeurde in de Mwanataibu-regio in de Kwale County, zouden volgens Keniaanse media zeker drie Belgische toeristen omgekomen zijn. Omstreeks 13 uur (lokale tijd) zou de bestuurder ..."
+        },
+        {
+          "title": "‘Dodenweg’ N50 bij Kampen krijgt tijdelijke veiligheidsmaatregelen",
+          "source": "Nederlands Dagblad",
+          "url": "https://www.nd.nl/nieuws/economie/1130697/dodenweg-n50-bij-kampen-krijgt-tijdelijke-veiligheidsmaatregelen",
+          "publishedDate": "Fri, 24 Jun 2022 10:48:00 GMT",
+          "description": "Op de N50 bij Kampen - die bekend staat als dodenweg - vonden de afgelopen vijf jaar 151 ongelukken plaats. Een tekort aan stikstofdeskundigen verhindert een structurele aanpak van het probleem. Wel ..."
+        },
+        {
+          "title": "Gemeente Roerdalen overweegt aanleg faunatunnels langs ‘dodenweg’ voor dassen",
+          "source": "Limburger",
+          "url": "https://www.limburger.nl/regio/roerdalen/sint-odilienberg/gemeente-roerdalen-overweegt-aanleg-faunatunnels-langs-dodenweg-voor-dassen/21898040.html",
+          "publishedDate": "Sun, 21 Jun 2020 11:35:00 GMT",
+          "description": "De gemeente Roerdalen bekijkt of er maatregelen genomen kunnen worden tegen het doodrijden van dassen. Natuurbeschermers dringen daar al langer op aan. Met name de Grote Bergerweg tussen ..."
+        },
+        {
+          "title": "“Dodenweg” in Maaseik krijgt trajectcontrole",
+          "source": "Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/regio/limburg/maaseik/dodenweg-in-maaseik-krijgt-trajectcontrole/57567637.html",
+          "publishedDate": "Thu, 08 Aug 2019 07:38:00 GMT",
+          "description": "Op de N757, ook wel gekend als “dodenweg”, hebben zich op enkele dagen tijd twee dodelijke ongevallen plaatsgevonden. Donderdag overleed de bestuurder van een bestelwagen die tegen een boom ..."
+        },
+        {
+          "title": "Vliegertsdijk in Grashoek beruchte ‘dodenweg’",
+          "source": "Limburger",
+          "url": "https://www.limburger.nl/regio/venlo/vliegertsdijk-in-grashoek-beruchte-dodenweg/21981521.html",
+          "publishedDate": "Wed, 12 Dec 2018 09:17:00 GMT",
+          "description": "De Vliegertsdijk in Grashoek heeft een bedenkelijke reputatie als ‘dodenweg’. Met het overlijden van twee Poolse mannen woensdagmorgen, staat de teller op vier. Bizar is dat de vier slachtoffers op ..."
+        }
+      ]
+    },
+    {
+      "keyword": "buienradar",
+      "trafficLabel": "20K+",
+      "articles": []
     },
     {
       "keyword": "hans beijer",
@@ -119,7 +185,7 @@
         {
           "title": "Acteur Hans Beijer, B100 uit Bassie &amp; Adriaan, op 78-jarige leeftijd overleden",
           "source": "NU",
-          "url": "https://www.nu.nl/media/6406320/acteur-hans-beijer-b100-uit-bassie-adriaan-op-78-jarige-leeftijd-overleden.html",
+          "url": "https://www.nu.nl/media/6406320/hans-beijer-b100-uit-bassie-en-adriaan-op-78-jarige-leeftijd-overleden.html",
           "publishedDate": "Fri, 14 Aug 2026 04:56:00 GMT",
           "description": "Hans Beijer, bekend van zijn rol als B100 in Bassie &amp; Adriaan, is op 78-jarige leeftijd overleden. Dat wordt gemeld in een overlijdensadvertentie die vrijdag is gepubliceerd in de Volkskrant. Bassie ..."
         },
@@ -179,18 +245,18 @@
           "description": "Telstar had &#233;&#233;n punt nodig thuis tegen Sparta om voor het eerst alleen koploper te worden in de eredivisie. Sparta wint echter met 1-3."
         },
         {
+          "title": "Telstar loopt door teleurstellende thuisnederlaag koppositie in de eredivisie mis. Sparta te sterk voor Witte Leeuwen",
+          "source": "Noordhollands Dagblad",
+          "url": "https://www.noordhollandsdagblad.nl/sport/telstar/telstar-loopt-door-teleurstellende-thuisnederlaag-koppositie-in-de-eredivisie-mis.-sparta-te-sterk-voor-witte-leeuwen/160052582.html",
+          "publishedDate": "Fri, 14 Aug 2026 15:15:00 GMT",
+          "description": "Telstar had vrijdagavond tegen Sparta Rotterdam aan een punt genoeg om de koppositie te pakken in de eredivisie, maar na de teleurstellende 3-1 nederlaag in eigen huis blijven de Witte Leeuwen op drie ..."
+        },
+        {
           "title": "Sparta boekt bij Telstar eerste seizoenszege",
           "source": "Nieuws.nl",
           "url": "https://nieuws.nl/voetbal/sparta-boekt-bij-telstar-eerste-seizoenszege",
           "publishedDate": "Fri, 14 Aug 2026 15:11:00 GMT",
           "description": "Sparta Rotterdam boekt in Velsen de eerste seizoenszege: 3-1 bij Telstar. Doelpunten van Young, Th&#243;risson en Van Cruijsen; Soualhia scoort voor Telstar."
-        },
-        {
-          "title": "Sparta wint van Telstar en heeft eerste Eredivisie-zege van het seizoen te pakken",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/sparta-wint-van-telstar-en-heeft-eerste-eredivisie-zege-van-het-seizoen-te-pakken/blt144eb35f8b70fbe7",
-          "publishedDate": "Fri, 14 Aug 2026 14:59:00 GMT",
-          "description": "Sparta heeft vrijdagavond de eerste zege van het nieuwe Eredivisie-seizoen geboekt. De Rotterdammers noteerden uit bij Telstar de eerste driepunter, dankzij doelpunten van Marvin Young en N&#246;kkvi Th&#243;ri ..."
         },
         {
           "title": "Sparta wint overtuigend bij Telstar en pakt eerste competitiezege",
@@ -207,6 +273,13 @@
           "description": "Sparta trapte vrijdagavond het weekend af in Velsen-Zuid. De Spartanen wonnen de wedstrijd met 1-3, waar de doelpunten voor Sparta werden gemaakt door N&#246;kkvi Th&#243;risson, Robin van Cruijsen en Marvin Yo ..."
         },
         {
+          "title": "Telstar weet zege op NEC geen goed vervolg te geven: Sparta Rotterdam is te sterk",
+          "source": "Ajax Showtime on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-2000-uur-telstar-sparta-rotterdam-0-1/ar-AA2a6CoK",
+          "publishedDate": "Fri, 14 Aug 2026 12:25:00 GMT",
+          "description": "Dit is het livetopic voor de competitiewedstrijd tussen Telstar en Sparta Rotterdam. Beide ploegen treffen elkaar om 20.00 uur in het BUKO Stadion in Velsen-Zuid. Het duel is vrijdagavond live te zien ..."
+        },
+        {
           "title": "VIDEO: Samenvatting Telstar – Sparta (1-3 Eredivisie)",
           "source": "Voetbal4u",
           "url": "https://www.voetbal4u.com/2026/08/15/video-samenvatting-telstar-sparta-1-3-eredivisie/",
@@ -214,73 +287,11 @@
           "description": "Sparta heeft gisteren prima zaken gedaan in de strijd om de Nederlandse Eredivisie. Op bezoek bij Telstar wisten ze namelijk met 1-3 te winnen. Na een uitstekende eerste wedstrijd van de IJmuidenaren ..."
         },
         {
-          "title": "Live 20.00 uur | Telstar - Sparta Rotterdam (0-1)",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-2000-uur-weet-telstar-zegereeks-voort-te-zetten-tegen-sparta-rotterdam/ar-AA2a6CoK",
-          "publishedDate": "Fri, 14 Aug 2026 11:00:00 GMT",
-          "description": "Dit is het livetopic voor de competitiewedstrijd tussen Telstar en Sparta Rotterdam. Beide ploegen treffen elkaar om 20.00 uur in het BUKO Stadion in Velsen-Zuid. Het duel is vrijdagavond live te zien ..."
-        },
-        {
           "title": "LEES TERUG: Sparta wint na spannende slotfase van Telstar (1-3)",
           "source": "Rijnmond",
           "url": "https://www.rijnmond.nl/nieuws/2239296/lees-terug-sparta-wint-na-spannende-slotfase-van-telstar-1-3",
           "publishedDate": "Fri, 14 Aug 2026 10:02:00 GMT",
           "description": "Het voetbalweekend werd geopend op Velsen-Zuid, waar Sparta Rotterdam het opnam tegen Telstar. De Spartanen begonnen het seizoen met een nederlaag tegen stadsgenoot Feyenoord Rotterdam. De ploeg van R ..."
-        }
-      ]
-    },
-    {
-      "keyword": "dodenweg",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Opnieuw ernstig ongeluk op ‘dodenweg’: ‘Verlaag de maximumsnelheid’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/rheden/opnieuw-ernstig-ongeluk-op-dodenweg-verlaag-de-maximumsnelheid~acbb75ff/",
-          "publishedDate": "Sun, 19 Jul 2026 16:59:00 GMT",
-          "description": "Nu het opnieuw mis is gegaan op de beruchte kanaalroute tussen Dieren en Apeldoorn, trekken omwonenden weer aan de bel. Verlaag de maximumsnelheid van 80 naar 60 kilometer per uur op deze ‘dodenweg’, ..."
-        },
-        {
-          "title": "Tractor of brommobiel inhalen op ‘dodenweg’ tussen Dieren en Apeldoorn? Dat wordt een duur geintje",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/rheden/tractor-of-brommobiel-inhalen-op-dodenweg-tussen-dieren-en-apeldoorn-dat-wordt-een-duur-geintje~a16cedd0/",
-          "publishedDate": "Thu, 29 Sep 2022 00:45:00 GMT",
-          "description": "Een tractor of brommobiel inhalen op de weg langs het Apeldoorns kanaal? Dat kost je straks 250 euro. Op de zogeheten ‘dodenweg’ geldt binnenkort een volledig inhaalverbod. Een bezwaar daartegen is ..."
-        },
-        {
-          "title": "Apeldoorn grijpt in op ‘dodenweg’: zelfs trekkers inhalen mag niet meer",
-          "source": "AD",
-          "url": "https://www.ad.nl/apeldoorn/apeldoorn-grijpt-in-op-dodenweg-zelfs-trekkers-inhalen-mag-niet-meer~a0986b15/",
-          "publishedDate": "Tue, 02 Aug 2022 21:02:00 GMT",
-          "description": "De route tussen Apeldoorn en Dieren staat bekend als ‘dodenweg’; alleen al in het laatste jaar zijn er drie mensen om het leven gekomen bij een ongeluk. Op de weg langs het Apeldoorns Kanaal - op ..."
-        },
-        {
-          "title": "Ingreep op ‘dodenweg’ tussen Apeldoorn en Dieren: zelfs trekkers inhalen mag niet meer",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/rheden/ingreep-op-dodenweg-tussen-apeldoorn-en-dieren-zelfs-trekkers-inhalen-mag-niet-meer~a0986b15/",
-          "publishedDate": "Tue, 02 Aug 2022 18:05:00 GMT",
-          "description": "De route tussen Apeldoorn en Dieren staat bekend als ‘dodenweg’; alleen al in het laatste jaar zijn er drie mensen om het leven gekomen bij een ongeluk. Op de weg langs het Apeldoorns Kanaal - op ..."
-        },
-        {
-          "title": "‘Dodenweg’ N50 bij Kampen krijgt tijdelijke veiligheidsmaatregelen",
-          "source": "Nederlands Dagblad",
-          "url": "https://www.nd.nl/nieuws/economie/1130697/dodenweg-n50-bij-kampen-krijgt-tijdelijke-veiligheidsmaatregelen",
-          "publishedDate": "Fri, 24 Jun 2022 10:48:00 GMT",
-          "description": "Op de N50 bij Kampen - die bekend staat als dodenweg - vonden de afgelopen vijf jaar 151 ongelukken plaats. Een tekort aan stikstofdeskundigen verhindert een structurele aanpak van het probleem. Wel ..."
-        },
-        {
-          "title": "Gemeente Roerdalen overweegt aanleg faunatunnels langs ‘dodenweg’ voor dassen",
-          "source": "Limburger",
-          "url": "https://www.limburger.nl/regio/roerdalen/sint-odilienberg/gemeente-roerdalen-overweegt-aanleg-faunatunnels-langs-dodenweg-voor-dassen/21898040.html",
-          "publishedDate": "Sun, 21 Jun 2020 11:35:00 GMT",
-          "description": "De gemeente Roerdalen bekijkt of er maatregelen genomen kunnen worden tegen het doodrijden van dassen. Natuurbeschermers dringen daar al langer op aan. Met name de Grote Bergerweg tussen ..."
-        },
-        {
-          "title": "Keuze gemaakt: 'dodenweg' N34 wordt gedeeltelijk verdubbeld",
-          "source": "RTV Noord",
-          "url": "https://www.rtvnoord.nl/nieuws/179354/keuze-gemaakt-dodenweg-n34-wordt-gedeeltelijk-verdubbeld",
-          "publishedDate": "Tue, 13 Jun 2017 09:29:00 GMT",
-          "description": "De provincie Drenthe kiest voor een gedeeltelijke verdubbeling van de 'dodenweg' N34. Het volledig vierbaans maken van de weg is te duur. Dat blijkt uit een onderzoek dat is uitgevoerd in opdracht van ..."
         }
       ]
     },
@@ -324,11 +335,11 @@
           "description": "De Britse universiteit was bezig met een onderzoek naar de academische kwalificaties en benoemingen van voormalig hoogleraar Jason Arday."
         },
         {
-          "title": "Het werk van sterprofessor Arday bleek te mooi om waar te zijn: universiteit Cambridge zwaar in verlegenheid",
+          "title": "Opgestapte Cambridge-prof Arday dood gevonden in woning, familie spreekt van ‘ondraaglijke lastercampagne’",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/het-werk-van-sterprofessor-arday-bleek-te-mooi-om-waar-te-zijn-universiteit-cambridge-zwaar-in-verlegenheid~a0c5eafb/",
-          "publishedDate": "Fri, 07 Aug 2026 05:00:00 GMT",
-          "description": "De ontmaskering van Cambridge-professor Jason Arday roept pijnlijke vragen op in het Verenigd Koninkrijk. De reputatie van de Londenaar blijkt gebaseerd op sterke verhalen, leugens en plagiaat."
+          "url": "https://www.ad.nl/buitenland/opgestapte-cambridge-prof-arday-dood-gevonden-in-woning-familie-spreekt-van-ondraaglijke-lastercampagne~a76ec57c/",
+          "publishedDate": "Thu, 13 Aug 2026 17:41:00 GMT",
+          "description": "De voormalige Cambridge-professor Jason Arday (41) is dood gevonden in zijn woning in Londen. Arday kwam in opspraak na beschuldigingen van plagiaat. Hij was de jongste zwarte hoogleraar ooit aan de p ..."
         },
         {
           "title": "Jason Arday, jongste zwarte hoogleraar ooit aan Cambridge, overleden na plagiaatbeschuldigingen",
@@ -348,7 +359,7 @@
           "title": "Cambridge professor Jason Arday dood aangetroffen, week na ontslag door beschuldigingen van plagiaat",
           "source": "Het Nieuwsblad",
           "url": "https://www.nieuwsblad.be/buitenland/cambridge-professor-jason-arday-dood-aangetroffen-week-na-ontslag-door-beschuldigingen-van-plagiaat/160060221.html",
-          "publishedDate": "Fri, 14 Aug 2026 17:00:00 GMT",
+          "publishedDate": "Fri, 14 Aug 2026 18:34:00 GMT",
           "description": "Voormalig Cambridge-hoogleraar Jason Arday, die geschiedenis schreef als jongste zwarte hoogleraar ooit aan de universiteit maar onlangs ontslag nam na beschuldigingen van plagiaat, is dood aangetroff ..."
         },
         {
@@ -359,11 +370,6 @@
           "description": "Cambridge-professor Jason Arday (41) is vrijdag dood aangetroffen in zijn huis in de Londense wijk Battersea. Dat melden diverse Britse media. Arday kwam in het oog van de storm terecht toen hij besch ..."
         }
       ]
-    },
-    {
-      "keyword": "buienradar",
-      "trafficLabel": "10K+",
-      "articles": []
     },
     {
       "keyword": "sam lammers",
@@ -389,6 +395,13 @@
           "url": "https://www.ad.nl/enschede/sam-lammers-lijkt-op-weg-naar-de-uitgang-bij-fc-twente-hij-is-de-derde-spits~ab275cff/?slug_rd=1",
           "publishedDate": "Fri, 07 Aug 2026 00:08:00 GMT",
           "description": "De toekomst van Sam Lammers lijkt niet meer bij FC Twente te liggen nu trainer John van den Brom een duidelijke boodschap heeft afgegeven. De eerste spits van de laatste maanden is in korte tijd gedeg ..."
+        },
+        {
+          "title": "FC Twente hoopt komst Sam Lammers snel af te ronden",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/voetbal/fc-twente-hoopt-komst-sam-lammers-snel-af-te-ronden/64343004.html",
+          "publishedDate": "Thu, 25 Jul 2024 09:13:00 GMT",
+          "description": "GLASGOW - FC Twente hoopt op korte termijn de overgang van Sam Lammers af te kunnen ronden. De nummer drie van het vorige seizoen was eerder deze zomer voor de vacature op de spitspositie ..."
         },
         {
           "title": "‘Sam Lammers verlaat FC Twente voor Eredivisie-concurrent’",
@@ -426,13 +439,6 @@
           "description": "Sam Lammers heeft grote moeite met zijn nieuwe rol als derde spits van FC Twente. De aanvaller begrijpt weinig van de keuze en noemt zijn situatie frustrerend."
         },
         {
-          "title": "Sam Lammers reageert op 'soap' bij FC Twente: 'Ben het er niet mee eens'",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/sam-lammers-reageert-op-soap-bij-fc-twente-ben-het-er-niet-mee-eens/ar-AA29IJrc",
-          "publishedDate": "Sun, 09 Aug 2026 10:36:00 GMT",
-          "description": "Sam Lammers is het niet eens met zijn nieuwe rol als derde spits van FC Twente. Dat vertelt hij voor de camera van VoetbalPrimeur. De 29-jarige aanvaller omschrijft zijn situatie als &quot;bijzonder&quot; en is ..."
-        },
-        {
           "title": "Frustraties bij Sam Lammers: 'Hij is boos, pissig'",
           "source": "FCUpdate.nl",
           "url": "https://www.fcupdate.nl/voetbalnieuws/2026/07/frustraties-bij-sam-lammers-hij-is-boos-pissig",
@@ -449,7 +455,7 @@
           "title": "LIVE Extreem weer | VK roept alle inwoners op niet te barbecue&#235;n, grote bosbranden in Duitsland en Belgi&#235;",
           "source": "Algemeen Dagblad",
           "url": "https://www.ad.nl/buitenland/live-extreem-weer-vk-roept-alle-inwoners-op-niet-te-barbecueen-grote-bosbranden-in-duitsland-en-belgie~ad0a3949/",
-          "publishedDate": "Fri, 14 Aug 2026 17:00:00 GMT",
+          "publishedDate": "Fri, 14 Aug 2026 23:41:00 GMT",
           "description": "De natuurbrand in de Duitse gemeente H&#252;rtgenwald is de grootste in de geschiedenis van de deelstaat Noordrijn-Westfalen, meldt het lokale bestuur. De brand, op 40 kilometer van de Nederlandse grens, i ..."
         },
         {
@@ -509,11 +515,11 @@
           "description": "In H&#252;rtgenwald woedt sinds donderdagavond een grote bosbrand. De rook trekt in de richting van Zuid-Limburg. Er is een blushelikopter ter plaatse."
         },
         {
-          "title": "Luisterverhaal: Met het Duitse ‘internet of trees’ weet je wanneer er bosbrand dreigt",
-          "source": "Het Financieele Dagblad",
-          "url": "https://fd.nl/samenleving/1565477/luisterverhaal-met-het-duitse-internet-of-trees-weet-je-wanneer-er-bosbrand-dreigt",
-          "publishedDate": "Sat, 16 Aug 2025 22:00:00 GMT",
-          "description": "Het FD Luisterverhaal schotelt je wekelijks een artikel voor uit Het Financieele Dagblad dat de blik verbreedt en de kennis verdiept. Een verhaal dat het waard is om gehoord te worden. image/svg+xml ..."
+          "title": "Ruim 200 evacuaties bij Gardameer in Itali&#235; vanwege grote bosbrand",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/weernieuws/twee-bosbranden-in-fontainebleau-eindelijk-onder-controle-evacuaties-vanwege-brand-in-duits-nationaal-park-explosiegevaar-vanwege-oude-munitie~afce368d/",
+          "publishedDate": "Fri, 07 Aug 2026 17:00:00 GMT",
+          "description": "Extreme hitte houdt Europa al weken in haar greep. Zuid-Frankrijk en Spanje worden geteisterd door zware bosbranden. Zelfs nabij Parijs woedt er nu een grote vuurzee; de brandweer krijgt versterking v ..."
         }
       ]
     },
@@ -564,11 +570,11 @@
           "description": "De 12-jarige Noor uit Zaandam wordt sinds de nacht van donderdag op vrijdag vermist. Haar moeder hoorde rond 01.00 uur de achterdeur opengaan. Toen ze beneden ging kijken, was Noors jas weg en stond ..."
         },
         {
-          "title": "Zaanstad waarschuwt voor windturbines bij Noorder IJplas: ’Heeft consequenties voor woningbouwplannen’",
+          "title": "Rie uit Zaandam viert honderdste verjaardag: af en toe een gokje wagen en een glaasje drinken",
           "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/zaanstreek/zaanstad-waarschuwt-voor-windturbines-bij-noorder-ijplas-heeft-consequenties-voor-woningbouwplannen/159914528.html",
-          "publishedDate": "Thu, 13 Aug 2026 06:27:00 GMT",
-          "description": "Drie windturbines bij de Noorder IJplas vormen een bedreiging voor de tweeduizend geplande woningen in het Sluiskwartier. Met die boodschap waarschuwt Zaanstad dat de provincie zichzelf in de vingers ..."
+          "url": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/zaanstreek/rie-uit-zaandam-viert-honderdste-verjaardag-af-en-toe-een-gokje-wagen-en-een-glaasje-drinken/159724043.html",
+          "publishedDate": "Sat, 08 Aug 2026 02:00:00 GMT",
+          "description": "Rie Vethaak-Selie is naar eigen zeggen ’nogal goklustig’ en houdt wel van een glaasje bloedwijn op zijn tijd. De geboren en getogen Zaandamse heeft vrijdag alle reden om een glaasje te drinken: het is ..."
         },
         {
           "title": "Mees (18) houdt met zesduizend liter water per ritje de Prins Bernhardbrug in Zaandam koel: ’Soms worden mensen boos, dan gaan ze roepen’",
@@ -590,82 +596,6 @@
           "url": "https://www.ttm.nl/management/fusiesovernames/eikelenboom-groep-neemt-wemmers-tankcleaning-zaandam-over/178336/",
           "publishedDate": "Thu, 30 Jul 2026 23:01:00 GMT",
           "description": "Eikelenboom Groep breidt haar netwerk per 1 augustus 2026 uit met de reinigingslocatie van Wemmers Tankcleaning Zaandam. Met deze uitbreiding versterkt de ..."
-        }
-      ]
-    },
-    {
-      "keyword": "finlay tarling",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Negentienjarig wielertalent Finlay Tarling overleden tijdens Ronde van Portugal",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/08/14/negentienjarig-wielertalent-finlay-tarling-overleden-tijdens-ronde-van-portugal-a4934527",
-          "publishedDate": "Fri, 14 Aug 2026 13:04:00 GMT",
-          "description": "Wielrennen: Tarling was betrokken bij een ernstig ongeval. Het is niet duidelijk wat er precies gebeurd is. Volgens Portugese media zou hij in botsing zijn gekomen met een auto."
-        },
-        {
-          "title": "Broertje (19) van oud-tijdritkampioen Tarling overleden in Ronde van Portugal",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/wielrennen/6406382/broertje-19-van-oud-tijdritkampioen-tarling-overleden-in-ronde-van-portugal.html",
-          "publishedDate": "Fri, 14 Aug 2026 12:02:00 GMT",
-          "description": "De negentienjarige Finlay Tarling, het broertje van oud-tijdritkampioen Joshua Tarling, is vrijdag om het leven gekomen tijdens de achtste etappe van de Ronde van Portugal. De Brit zou zijn aangereden ..."
-        },
-        {
-          "title": "Wielertalent Finlay Tarling (19) overleden na val in Ronde van Portugal",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2626874-wielertalent-finlay-tarling-19-overleden-na-val-in-ronde-van-portugal",
-          "publishedDate": "Fri, 14 Aug 2026 10:05:00 GMT",
-          "description": "Finlay Tarling, de jongere broer van tijdrittopper Joshua Tarling, is tijdens de achtste etappe van de Ronde van Portugal om het leven gekomen."
-        },
-        {
-          "title": "Zo reageren Pogacar, Iniesta en zijn Nederlandse juniorenploeg op tragische dood Finlay Tarling",
-          "source": "In de Leiderstrui on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/zo-reageren-pogacar-iniesta-en-zijn-nederlandse-juniorenploeg-op-tragische-dood-finlay-tarling/ar-AA2a9u6r",
-          "publishedDate": "Fri, 14 Aug 2026 23:40:00 GMT",
-          "description": "De wielerwereld schudde vrijdag op haar grondvesten toen bekend werd dat Finlay Tarling op 19-jarige leeftijd om het leven was gekomen bij een ongeval in de Ronde van Portugal. Tarling, het jongere br ..."
-        },
-        {
-          "title": "Beelden tonen ravage op plek van dodelijk ongeval Finlay Tarling (19), Portugese media berichten over oorzaak",
-          "source": "In de Leiderstrui on MSN",
-          "url": "https://www.msn.com/nl-be/openbare-veiligheid-en-noodgevallen/verkeers-en-transportincidenten/beelden-tonen-ravage-op-plek-van-dodelijk-ongeval-finlay-tarling-19-portugese-media-berichten-over-oorzaak/ar-AA2aaiqi",
-          "publishedDate": "Fri, 14 Aug 2026 23:15:00 GMT",
-          "description": "Een schok ging vrijdag door de wielerwereld, toen bekend werd dat de jonge renner Finlay Tarling (19 jaar oud) van de beloftenploeg van NSN overleden was na een ongeval in de Ronde van Portugal. De Br ..."
-        },
-        {
-          "title": "Wielerwereld rouwt om overlijden Finlay Tarling in Portugal: “Het leven is gewoon niet eerlijk”",
-          "source": "WielerFlits",
-          "url": "https://www.wielerflits.nl/nieuws/wielerwereld-rouwt-om-overlijden-finlay-tarling-in-portugal-het-leven-is-gewoon-niet-eerlijk/",
-          "publishedDate": "Fri, 14 Aug 2026 12:12:00 GMT",
-          "description": "De hele wielerwereld rouwt om het plotselinge overlijden van Finlay Tarling. De Britse wielrenner kwam op 19-jarige leeftijd om het leven door een tragisch ongeluk op het parcours van de Ronde van Por ..."
-        },
-        {
-          "title": "19-jarige wielrenner Finlay Tarling overleden na frontale botsing met wagen in Ronde van Portugal",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/snelnieuws/19-jarige-wielrenner-finlay-tarling-overleden-na-frontale-botsing-met-wagen-in-ronde-van-portugal~b4b89de5/",
-          "publishedDate": "Fri, 14 Aug 2026 12:01:00 GMT",
-          "description": "De 19-jarige Finlay Tarling (NSN Development) is in de Ronde van Portugal overleden na een frontale botsing met een voertuig die geen deel uitmaakte van de wedstrijd. Finlay, de jongere broer van voor ..."
-        },
-        {
-          "title": "Britse wielrenner (19) overleden in Ronde van Portugal",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/sport/britse-wielrenner-19-overleden-in-ronde-van-portugal",
-          "publishedDate": "Fri, 14 Aug 2026 11:39:00 GMT",
-          "description": "Finlay Tarling (19) van NSN Development Team overlijdt na incident in etappe 8 tussen Melgaco en Fafe; etappe geannuleerd. Broer van Joshua Tarling."
-        },
-        {
-          "title": "Tragisch nieuws: wielrenner Finlay Tarling (19) overleden tijdens Ronde van Portugal",
-          "source": "Wielerflits Nederland on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/tragisch-nieuws-wielrenner-finlay-tarling-19-overleden-tijdens-ronde-van-portugal/ar-AA2a7RI6",
-          "publishedDate": "Fri, 14 Aug 2026 11:20:00 GMT",
-          "description": "Triest nieuws uit de Ronde van Portugal: wielrenner Finlay Tarling is op 19-jarige leeftijd overleden door een tragisch ongeluk dat is gebeurd tijdens de achtste etappe van de Volta a Portugal 2026. D ..."
-        },
-        {
-          "title": "Renner Finlay Tarling (19), de jongere broer van Joshua, overleden bij ernstig ongeval in Ronde van Portugal",
-          "source": "De Standaard",
-          "url": "https://www.standaard.be/sport/wielrennen/renner-finlay-tarling-19-de-jongere-broer-van-joshua-overleden-bij-ernstig-ongeval-in-ronde-van-portugal/160056186.html",
-          "publishedDate": "Fri, 14 Aug 2026 10:01:00 GMT",
-          "description": "Finlay Tarling, die uitkwam voor het NSN Development Team, is vrijdag overleden bij een ernstig ongeval tijdens de Ronde van Portugal. Dat bevestigden de organisatoren in een mededeling."
         }
       ]
     }
