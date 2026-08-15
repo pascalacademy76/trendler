@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T23:14:02.321Z",
+  "fetchedAt": "2026-08-15T23:42:26.433Z",
   "trends": [
     {
       "keyword": "excelsior - psv",
@@ -116,6 +116,13 @@
           "description": "AZ heeft op bezoek bij FC Utrecht met 1-4 gewonnen. Daardoor grijpen de Alkmaarders voor nu de koppositie in de eredivisie."
         },
         {
+          "title": "Uitstekend AZ zet FC Utrecht bij het thuisdebuut van trainer Correia flink te kijk",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/uitstekend-az-zet-fc-utrecht-bij-het-thuisdebuut-van-trainer-correia-flink-te-kijk~a176b4380/",
+          "publishedDate": "Sat, 15 Aug 2026 04:52:00 GMT",
+          "description": "FC Utrecht staat voorlopig met beide benen op de grond. Waar de verwachtingen in de Galgenwaard met de komst van coach Anthony Correia hooggespannen zijn, daar staat de ploeg na twee speelronden nog m ..."
+        },
+        {
           "title": "AZ vervolgt veelbelovende start van seizoen met zege in Utrecht",
           "source": "Nieuws.nl",
           "url": "https://nieuws.nl/voetbal/az-vervolgt-veelbelovende-start-van-seizoen-met-zege-in-utrecht",
@@ -135,13 +142,6 @@
           "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/fc-utrecht-az-1-4-alkmaarders-galgenwaard",
           "publishedDate": "Sat, 15 Aug 2026 13:41:00 GMT",
           "description": "AZ wint overtuigend met 1-4 bij FC Utrecht. Peer Koopmeiners opent de score, waarna Patati, Meerdink en Oufkir het verschil maken."
-        },
-        {
-          "title": "Lees terug: AZ zet FC Utrecht van Correia eenvoudig opzij • FC Volendam boekt eerste zege",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/362510/fc-volendam-halverwege-op-voorsprong-geen-verrasing-in-de-opstelling-az",
-          "publishedDate": "Sat, 15 Aug 2026 13:41:00 GMT",
-          "description": "AZ op jacht naar tweede zege in de eredivisie bij FC Utrecht. FC Volendam wil zich herpakken tegen TOP Oss. Volg alles live in ons blog."
         },
         {
           "title": "AZ overklast FC Utrecht en blijft na vierklapper foutloos in de Eredivisie",
@@ -171,18 +171,74 @@
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "NEC loopt weg bij zwak Willem II (0-4) • Straks FC Utrecht tegen AZ",
+          "title": "NEC wint ruim bij Willem II voor duels met Bod&#248;/Glimt, Fortuna klopt Cambuur",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6406448/nec-wint-ruim-bij-willem-ii-voor-duels-met-bodglimt-fortuna-klopt-cambuur.html",
+          "publishedDate": "Sat, 15 Aug 2026 11:26:00 GMT",
+          "description": "NEC heeft zaterdag de eerste punten van het seizoen gepakt door de uitwedstrijd tegen Willem II met ruime cijfers te winnen. Het werd 1-4. Fortuna Sittard was na een sterk start met 3-1 te sterk voor ..."
+        },
+        {
+          "title": "NEC na ruime zege op Willem II met goed gevoel naar Champions League-play-offs",
           "source": "NOS",
-          "url": "https://nos.nl/liveblog/2626975-nec-loopt-weg-bij-zwak-willem-ii-0-4-straks-fc-utrecht-tegen-az",
-          "publishedDate": "Sat, 15 Aug 2026 06:33:00 GMT",
-          "description": "In dit blog volg je alle ontwikkelingen rondom de vier wedstrijden die vandaag gespeeld worden in de tweede speelronde van de eredivisie."
+          "url": "https://nos.nl/artikel/2627000-nec-na-ruime-zege-op-willem-ii-met-goed-gevoel-naar-champions-league-play-offs",
+          "publishedDate": "Sat, 15 Aug 2026 09:25:00 GMT",
+          "description": "NEC weet vier dagen voor de play-off-wedstrijd tegen Bod&#248;/Glimt&#160;in de play-offs Champions League ruim te winnen bij Willem II: 1-4."
+        },
+        {
+          "title": "NEC herstelt zich van blamage en kan na klinkende zege op Willem II met vertrouwen naar play-offs Champions League",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/nijmegen/live-eredivisie-nec-begonnen-aan-duel-met-willem-ii-paar-wijzigingen-in-opstelling~a058daf19/?slug_rd=1",
+          "publishedDate": "Sat, 15 Aug 2026 05:22:00 GMT",
+          "description": "NEC heeft zich hersteld van de blamage in de eerste competitiewedstrijd tegen Telstar. De Nijmeegse club won dankzij een ijzersterke fase in de tweede helft met grote cijfers van Willem II (1-4). De p ..."
+        },
+        {
+          "title": "NEC laat Willem II na rust kansloos in Tilburg",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/nec-laat-willem-ii-na-rust-kansloos-in-tilburg",
+          "publishedDate": "Sat, 15 Aug 2026 11:43:00 GMT",
+          "description": "NEC wint met 1-4 bij Willem II na sterke tweede helft. Doelpunten van Chery, Linssen en Sierhuis; debutant Tahaui opent score. Focus nu op Bod&#248;/Glimt."
         },
         {
           "title": "NEC boekt forse zege Willem II, Kjetil Knutsen heeft na 56 minuten genoeg gezien",
           "source": "FCUpdate.nl",
           "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/nec-boekt-forse-zege-willem-ii-kjetil-knutsen-heeft-na-56-minuten-genoeg-gezien",
           "publishedDate": "Sat, 15 Aug 2026 11:26:00 GMT",
-          "description": "Willem II oogde vervolgens aangeslagen en NEC rook bloed. Nadat een poging van Tahaui nog was geblokt, haalde Linssen in de 65ste minuut vernietigend uit voor de 0-3. Twee minuten later volgde het mooiste doelpunt van de middag. De net ingevallen Sierhuis kreeg een slim passje van Dusan Tadic en volleerde de bal schitterend in de kruising: 0-4."
+          "description": "Willem II oogde vervolgens aangeslagen en NEC rook bloed. Nadat een poging van Tahaui nog was geblokt, haalde Linssen in de 65ste minuut vernietigend uit voor de 0-3. Twee minuten later volgde het ..."
+        },
+        {
+          "title": "NEC herstelt zich tegen Willem II overtuigend van valse competitiestart",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/nec-herstelt-zich-tegen-willem-ii-overtuigend-van-valse-competitiestart/blt125322c8659c871f",
+          "publishedDate": "Sat, 15 Aug 2026 11:26:00 GMT",
+          "description": "NEC heeft zich overtuigend hersteld van de valse competitiestart tegen Telstar. De Nijmegenaren wonnen in speelronde twee van de VriendenLoterij Eredivisie met 1-4 op bezoek bij Willem II. De ploeg ..."
+        },
+        {
+          "title": "Dusan Tadic zorgt voor veel irritatie tijdens Willem II - NEC: 'Onbegrijpelijk'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/dusan-tadic-kritiek-willem-ii-nec-schwalbe-penalty",
+          "publishedDate": "Sat, 15 Aug 2026 10:35:00 GMT",
+          "description": "Dusan Tadic krijgt tijdens Willem II - NEC veel kritiek na een penaltyclaim. Op sociale media vinden meerdere kijkers dat hij geel had moeten krijgen."
+        },
+        {
+          "title": "NEC heeft geen kind aan Willem II en is klaar voor duel met Bod&#248;/Glimt",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/nec-heeft-geen-kind-aan-willem-ii-en-is-klaar-voor-duel-met-bod%C3%B8glimt/ar-AA2acb2v",
+          "publishedDate": "Sat, 15 Aug 2026 09:24:00 GMT",
+          "description": "NEC kende zaterdag een goede generale competitie voor de eerste ontmoeting met Bod&#248;/Glimt in de Champions League. De ploeg van Dick Schreuder had geen kind aan Willem II. Al duurde het even voor NEC o ..."
+        },
+        {
+          "title": "Live 16.30 uur | Willem II - NEC (1-4)",
+          "source": "Ajax Showtime on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-1630-uur-willem-ii-nec-0-2/ar-AA2aam78",
+          "publishedDate": "Sat, 15 Aug 2026 08:50:00 GMT",
+          "description": "Dit is het livetopic voor de Eredivisie-wedstrijden op zaterdag 15 augustus. NEC gaat op bezoek bij promovendus Willem II, terwijl FC Utrecht het in eigen huis opneemt tegen AZ. Daarnaast komt PSV in ..."
+        },
+        {
+          "title": "Willem II verliest ondanks bijzondere doelpuntenmaker met ruime cijfers van NEC",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/brabant/live-willem-ii-krijgt-eerste-kans-tegen-nec-maar-van-aalst-krijgt-de-bal-er-niet-in~a46f5892c/?slug_rd=1",
+          "publishedDate": "Sat, 15 Aug 2026 03:29:00 GMT",
+          "description": "Willem II heeft ook de tweede wedstrijd van dit Eredivisie-seizoen ruim verloren. De Tilburgers deden het thuis tegen NEC zeker in de eerste helft uitstekend, maar stortten na rust in. Het werd uitein ..."
         }
       ]
     },
@@ -267,6 +323,13 @@
       "trafficLabel": "10K+",
       "articles": [
         {
+          "title": "Buijs maakt zich geen illusies met Fortuna, Plat wilde een penalty voor Cambuur",
+          "source": "NOS",
+          "url": "https://nos.nl/video/2627067-buijs-maakt-zich-geen-illusies-met-fortuna-plat-wilde-een-penalty-voor-cambuur",
+          "publishedDate": "Sat, 15 Aug 2026 16:42:00 GMT",
+          "description": "De reactie van Fortuna Sittard-trainer Danny Buijs en zijn SC Cambuur-collega Johan Plat na de 2-1 in Zuid-Limburg."
+        },
+        {
           "title": "Fortuna Sittard boekt week na remise bij PSV moeizame zege op Cambuur",
           "source": "NOS",
           "url": "https://nos.nl/artikel/2627055-fortuna-sittard-boekt-week-na-remise-bij-psv-moeizame-zege-op-cambuur",
@@ -281,18 +344,18 @@
           "description": "NEC heeft zaterdag de eerste punten van het seizoen gepakt door de uitwedstrijd tegen Willem II met ruime cijfers te winnen. Het werd 1-4. Fortuna Sittard was na een sterk start met 3-1 te sterk voor ..."
         },
         {
+          "title": "Fortuna Sittard boekt nipte zege op SC Cambuur",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/fortuna-sittard-boekt-nipte-zege-op-sc-cambuur",
+          "publishedDate": "Sat, 15 Aug 2026 16:28:00 GMT",
+          "description": "Fortuna Sittard wint thuis met 3-1 van SC Cambuur. Brittijn en Zeefuik scoren vroeg; ’t Zand beslist in blessuretijd. Cambuur stuit op Branderhorst. Klik voor meer!"
+        },
+        {
           "title": "Fortuna Sittard ontsnapt na zenuwslopende slotfase aan puntenverlies tegen SC Cambuur",
           "source": "Voetbalzone",
           "url": "https://www.voetbalzone.nl/nieuws/fortuna-sittard-ontsnapt-na-zenuwslopende-slotfase-aan-puntenverlies-tegen-sc-cambuur/blt8bdecfd30083516e",
           "publishedDate": "Sat, 15 Aug 2026 15:57:00 GMT",
           "description": "Fortuna Sittard heeft zaterdag zijn eerste Eredivisie-zege van het seizoen geboekt. Dankzij vroege treffers van Philip Brittijn en Lequincio Zeefuik en vooral een aantal geweldige reddingen van Mattij ..."
-        },
-        {
-          "title": "Cambuur komt fyftjin minne minuten net te boppe yn Sittard: &quot;We schoten tekort&quot;",
-          "source": "Omrop Frysl&#226;n",
-          "url": "https://www.omropfryslan.nl/fy/nijs/18701410/cambuur-komt-fyftjin-minne-minuten-net-te-boppe-yn-sittard-we-schoten-tekort",
-          "publishedDate": "Sat, 15 Aug 2026 15:08:00 GMT",
-          "description": "Cambuur wie sneontej&#251;n de bettere ploech yn de wedstriid tsjin Fortuna Sittard, mar it ferlear wol wer. It waard 3-1 foar de th&#250;sploech."
         },
         {
           "title": "Fortuna Sittard wint dankzij uitblinkende Branderhorst en verslaat Cambuur",
@@ -328,13 +391,6 @@
           "url": "https://www.voetbal4u.com/2026/08/15/supertip-livestream-fortuna-sittard-cambuur-eredivisie-15-08-2026/",
           "publishedDate": "Sat, 15 Aug 2026 08:10:00 GMT",
           "description": "Vandaag om 21.00 uur staat er weer een mooie wedstrijd op het programma in de Nederlandse Eredivisie. Fortuna Sittard speelt dan namelijk in eigen huis tegen Cambuur. Beide ploegen zullen er alles aan ..."
-        },
-        {
-          "title": "Fortuna Sittard boekt na punt tegen PSV nipte zege op SC Cambuur",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/voetbal/fortuna-sittard-boekt-na-punt-tegen-psv-nipte-zege-op-sc-cambuur~a7d4e762/",
-          "publishedDate": "Sat, 15 Aug 2026 07:01:00 GMT",
-          "description": "Fortuna Sittard heeft de thuiswedstrijd tegen SC Cambuur (3-1) gewonnen. Philip Brittijn, Lequincio Zeefuik en Shiloh ‘t Zand waren de doelpuntenmakers."
         }
       ]
     },
@@ -364,6 +420,13 @@
           "description": "In de hal van de kleindochter van een beruchte Nederlandse SS-generaal hangt een schilderij dat in de Tweede Wereldoorlog toebehoorde aan de Joodse kunsthandelaar Jacques Goudstikker. De familie van ..."
         },
         {
+          "title": "Aanbieding voor €0,49/week",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/binnenland/geroofd-schilderij-uit-joodse-goudstikker-collectie-blijkt-al-jaren-aan-muur-nederlandse-erfgename-ss-generaal-hendrik-seyffardt-te-hangen-onverkoopbaar-aan-niemand-vertellen/151202797.html",
+          "publishedDate": "Sun, 10 May 2026 22:00:00 GMT",
+          "description": "Geroofd schilderij uit Joodse Goudstikker-collectie blijkt al jaren aan muur Nederlandse erfgename SS-generaal Hendrik Seyffardt te hangen: ’Onverkoopbaar, aan niemand vertellen!’ AMSTERDAM - ..."
+        },
+        {
           "title": "Man koopt 17e-eeuws schilderij online – en beseft dat het misschien een geheim verbergt",
           "source": "TCE on MSN",
           "url": "https://www.msn.com/nl-nl/samenleving-cultuur-en-geschiedenis/geschiedenis/man-koopt-17e-eeuws-schilderij-online-en-beseft-dat-het-misschien-een-geheim-verbergt/ar-AA2abqj9",
@@ -378,25 +441,18 @@
           "description": "Geld inzamelen voor House of Animals om dieren te ondersteunen die getroffen zijn door de natuurbranden in Frankrijk en Spanje. Dat is het doel van de stadse kunstenaar Erik Zwezerijnen, die voor dit ..."
         },
         {
+          "title": "“Die gele schijn van al die dikke sigaren moet weg”: Mollenaar Piet mag schilderij uit Senaat in volle glorie herstellen",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/regio/antwerpen/kempen/mol/die-gele-schijn-van-al-die-dikke-sigaren-moet-weg-mollenaar-piet-mag-schilderij-uit-senaat-in-volle-glorie-herstellen/159674548.html",
+          "publishedDate": "Thu, 06 Aug 2026 01:55:00 GMT",
+          "description": "De gepassioneerde Jakob Smitsbewonderaar Piet Deceunick heeft een godsgeschenk gekregen. Hij mag het doek ‘De vlag’ van de Kempense meester restaureren. Dat schilderij hangt al meer dan 100 jaar in de ..."
+        },
+        {
           "title": "Mauritshuis restaureert: verdwenen soldaat keert terug op schilderij Pieter de Hooch",
           "source": "Den Haag Centraal",
           "url": "https://www.denhaagcentraal.net/kunst/mauritshuis-restaureert-verdwenen-soldaat-keert-terug-op-schilderij-pieter-de-hooch/",
           "publishedDate": "Tue, 04 Aug 2026 10:01:00 GMT",
           "description": "Na lang wikken en wegen besloten de restauratoren van het Mauritshuis een verdwenen figuur terug te brengen op een schilderij van Pieter de Hooch. Maar de ingreep kan ook weer ongedaan worden gemaakt."
-        },
-        {
-          "title": "AD-veiling: ‘verdwenen’ Cruijff-schilderij voor 5500 euro geveild, opbrengst naar Jeugdfonds",
-          "source": "AD",
-          "url": "https://www.ad.nl/wk-voetbal/ad-veiling-verdwenen-cruijff-schilderij-voor-5500-euro-geveild-opbrengst-naar-jeugdfonds~afa8f859/",
-          "publishedDate": "Mon, 20 Jul 2026 20:51:00 GMT",
-          "description": "Het schilderij dat een Duitse kunstenaar jaren geleden als verzoening aan Johan Cruijff wilde aanbieden, is voor 5500 euro geveild. Het kunstwerk is bedoeld als een goedmakertje voor alle ellende die ..."
-        },
-        {
-          "title": "Het beroemde schilderij dat Taylor Swifts nieuwe album inspireerde is al bijna 130 jaar te zien in Londen – en dit is hoe je het gratis kunt zien",
-          "source": "Secret London",
-          "url": "https://secretldn.com/nl/ophelia-schilderij-londen-taylor-swift/",
-          "publishedDate": "Mon, 06 Oct 2025 09:24:00 GMT",
-          "description": "Nu de wereld opnieuw in een door Taylor veroorzaakte chaos vervalt, leek het ons beter om je te wijzen op het schilderij dat de inspiratie vormde voor haar nieuwste album. Londen is geen onbekende als ..."
         },
         {
           "title": "Italiaanse familie ontdekt na 60 jaar dat &quot;verschrikkelijk&quot; schilderij aan de muur een originele Picasso is",
@@ -411,40 +467,6 @@
           "url": "https://dwtonline.com/schilderij-serie-de-kruistocht-geschonken-aan-sint-alfonsius-parochie/",
           "publishedDate": "Sat, 27 Jan 2024 10:10:00 GMT",
           "description": "In Suriname studeerde Wong Loi Sing ruim een halfjaar op de kunstopleiding die de intussen overleden Jules Chin A Foeng had opgezet. Daarna kreeg hij de gelegenheid om zeven jaar op de Vrije Academie ..."
-        }
-      ]
-    },
-    {
-      "keyword": "milan - man utd",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Amorim krijgt meteen zijn revanche op Man United na comeback met AC Milan",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/amorim-krijgt-meteen-zijn-revanche-op-man-united-na-comeback-met-ac-milan/ar-AA2acllc",
-          "publishedDate": "Sat, 15 Aug 2026 12:16:58 GMT",
-          "description": "Ruben Amorim heeft met AC Milan revanche genomen op zijn oude werkgever Manchester United. De Italianen wisten op neutraal terrein in Polen, in de Tarczynski Arena, met 2-4 te winnen, nadat de Engelse ..."
-        },
-        {
-          "title": "Amorim neemt met Milan revanche op het Man United van Tielemans en Lammens",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-be/sport/voetbal/amorim-neemt-met-milan-revanche-op-het-man-united-van-tielemans-en-lammens/ar-AA2abMfT",
-          "publishedDate": "Sat, 15 Aug 2026 10:54:00 GMT",
-          "description": "Ruben Amorim heeft met AC Milan revanche genomen op zijn oude werkgever Manchester United. De Italianen wisten een oefenmatch op neutraal terrein in de Tarczynski Arena met 2-4 te winnen, nadat de Eng ..."
-        },
-        {
-          "title": "Manchester United Vs AC Milan Live Streaming: When And Where To Watch MUN v ACM In India",
-          "source": "News18",
-          "url": "https://www.news18.com/sports/football/manchester-united-vs-ac-milan-live-streaming-ruben-amorim-when-and-where-to-watch-mun-v-acm-in-india-ws-l-10275478.html",
-          "publishedDate": "Sat, 15 Aug 2026 06:59:00 GMT",
-          "description": "Manchester United close out preseason against Ruben Amorim's AC Milan in Wroclaw. Here's the kick-off time and where to watch the friendly live in India."
-        },
-        {
-          "title": "Amad: AC Milan zero in on Man United star as new clubs enter race",
-          "source": "Yahoo! Sports",
-          "url": "https://sports.yahoo.com/articles/amad-ac-milan-zero-man-131500091.html",
-          "publishedDate": "Thu, 16 Jul 2026 06:15:00 GMT",
-          "description": "Manchester United and AC Milan manager Ruben Amorim are about to cross paths for the first time since their unceremonious separation in January.The two parties ended a tumultuous 14-month collaboratio ..."
         }
       ]
     },
@@ -502,13 +524,6 @@
           "description": "&quot;There was also someone else wanted to be here...&quot; Adam Driver joins the MCU as Nathaniel Milbury. #XMen pic.twitter.com/34bqLrK7Hc 'Her Private Hell' van 'Drive'-regisseur: wederom een schot in de ..."
         },
         {
-          "title": "Obsession-ster Inde Navarrette gaat viraal na bijzonder cadeau van Call of Duty-fan",
-          "source": "nl.ign",
-          "url": "https://nl.ign.com/call-of-duty-infinity-ward-project/165905/obsession-ster-inde-navarrette-gaat-viraal-na-bijzonder-cadeau-van-call-of-duty-fan",
-          "publishedDate": "Tue, 21 Jul 2026 09:30:00 GMT",
-          "description": "Inde Navarrette is opnieuw een hit op sociale media. De Obsession-actrice ging viraal nadat een fan haar een verzegeld exemplaar van Call of Duty: Modern Warfare 2 (2009) cadeau gaf, een game die ..."
-        },
-        {
           "title": "Star du film &#171; Obsession &#187;, qui est Inde Navarrette, l'actrice que le tout Hollywood s'arrache d&#233;j&#224; ?",
           "source": "Yahoo Actualit&#233;s",
           "url": "https://fr.news.yahoo.com/sport/star-du-film-%C2%AB-obsession-%C2%BB-qui-est-inde-navarrette-lactrice-que-le-tout-hollywood-sarrache-deja-150039875.html",
@@ -521,6 +536,13 @@
           "url": "https://fr.style.yahoo.com/inde-navarrette-star-film-d-164200702.html",
           "publishedDate": "Fri, 29 May 2026 09:42:00 GMT",
           "description": "Ajoutez Yahoo comme source pr&#233;f&#233;r&#233;e pour voir nos articles sur Google. Qui est Inde Navarrette, la star du film d’horreur &#171; Obsession &#187;? - &#169;Matt Winkelmeyer/WireImage Depuis quelques jours, le nom ..."
+        },
+        {
+          "title": "Inde Navarrette : d&#233;couvrez ses projets &#224; venir et ses ambitions",
+          "source": "sixactualites.fr",
+          "url": "https://sixactualites.fr/interviews/inde-navarrette-decouvrez-ses-projets-a-venir-et-ses-ambitions/121095/",
+          "publishedDate": "Wed, 27 May 2026 13:18:00 GMT",
+          "description": "Vous vous demandez comment Inde Navarrette va tracer son chemin dans un paysage m&#233;diatique en constante mutation ? Quelles sont ses projets &#224; venir et comment ses ambitions se transforment-elles en ..."
         }
       ]
     },
@@ -529,11 +551,39 @@
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Van een tropisch rif tot de grachten: de (zee)spons is overal een belangrijke bodembewoner: ‘We moeten er zuinig op zijn’",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/van-een-tropisch-rif-tot-de-grachten-de-zee-spons-is-overal-een-belangrijke-bodembewoner-we-moeten-er-zuinig-op-zijn~b9730578/",
-          "publishedDate": "Tue, 11 Aug 2026 20:00:00 GMT",
-          "description": "Van Cura&#231;ao tot de Amsterdamse grachten: (zee)sponzen vind je overal ter wereld. Nieuw onderzoek van de Amsterdams-Griekse Michelle Achlatis van de UvA laat iets opmerkelijks zien: sommige sponzen ged ..."
+          "title": "Frans gezin dobbert in Thailand 16 uur op zee met half gezonken jetski",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2626972-frans-gezin-dobbert-in-thailand-16-uur-op-zee-met-half-gezonken-jetski",
+          "publishedDate": "Sat, 15 Aug 2026 05:51:00 GMT",
+          "description": "Een zoekactie werd 's nachts gestaakt, waardoor de familie pas de volgende ochtend in veiligheid kon worden gebracht."
+        },
+        {
+          "title": "Zoektocht naar vermist persoon in zee in Den Haag gestopt, niemand gevonden",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-den-haag/zoektocht-naar-vermist-persoon-in-zee-in-den-haag-gestopt-niemand-gevonden~a08346ca/",
+          "publishedDate": "Sun, 09 Aug 2026 17:26:00 GMT",
+          "description": "De KNRM, de reddingsbrigade en de kustwacht waren maandag in de zee bij de Strandweg in Den Haag op zoek naar een vermist persoon. Ze hebben alleen een aantal spullen gevonden."
+        },
+        {
+          "title": "Meer dan 500 uit Myanmar gevluchte Rohingya komen om op zee",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/meer-dan-500-uit-myanmar-gevluchte-rohingya-komen-om-op-zee~bb2b3c2c/",
+          "publishedDate": "Wed, 15 Jul 2026 17:00:00 GMT",
+          "description": "Meer dan 500 mensen zijn waarschijnlijk omgekomen nadat twee boten met vluchtelingen uit Myanmar in de Golf van Bengalen zijn gekapseisd. De opvarenden zijn leden van de vervolgde Rohingya-minderheid."
+        },
+        {
+          "title": "Oekra&#239;ne opent nieuw front op zee met aanvallen op Russische schepen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2623058-oekraine-opent-nieuw-front-op-zee-met-aanvallen-op-russische-schepen",
+          "publishedDate": "Wed, 15 Jul 2026 02:33:00 GMT",
+          "description": "Oekra&#239;ne heeft vannacht een grootschalige drone-aanval uitgevoerd op de Zwarte Zee. Daarbij werden twintig Russische schepen geraakt, waaronder zeventien olietankers, meldt Robert Brovdi, de commandan ..."
+        },
+        {
+          "title": "Franse vader en 2 jonge zonen dobberen 16 uur lang rond op zee voor de Thaise kust na kapseizen van jetski",
+          "source": "VRT on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/franse-vader-en-2-jonge-zonen-dobberen-16-uur-lang-rond-op-zee-voor-de-thaise-kust-na-kapseizen-van-jetski/ar-AA2aaXeX",
+          "publishedDate": "Sat, 15 Aug 2026 02:02:28 GMT",
+          "description": "Een Franse vader en zijn 2 jonge zonen zijn gered nadat ze 16 uur op zee hadden rondgedreven voor de kust van Thailand. Hun jetski was gekapseisd. &quot;Ze zagen er erg bleek uit, vooral de jongens&quot;, melde ..."
         },
         {
           "title": "Toeristenboot in brand voor kust in Turkije, meer dan 100 opvarenden springen in zee",
@@ -543,46 +593,87 @@
           "description": "Voor de kust van de Turkse badplaats Fethiye zijn meer dan 100 passagiers van een toeristenboot in zee gesprongen om te ontsnappen aan een brand aan boord. Bij de opvarenden waren ook kinderen. Alle ..."
         },
         {
-          "title": "Laat de zee (ook) uw leesbestemming zijn",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/1159141-laat-de-zee-ook-uw-leesbestemming-zijn",
-          "publishedDate": "Wed, 12 Aug 2026 03:55:00 GMT",
-          "description": "Te veel boekenkasten zijn geen model van het „scheepje onder Jezus’ hoede”, maar op zijn best slechts van een schip dat de veilige binnenwateren bevaart. Daarmee doen we niet alleen onszelf, maar ook ..."
-        },
-        {
-          "title": "Turkije roept Kyiv en Moskou op aanvallen op Zwarte Zee te staken",
-          "source": "zeelandnet",
-          "url": "https://www.zeelandnet.nl/nieuws/turkije-roept-kyiv-en-moskou-op-aanvallen-op-zwarte-zee-te-staken",
-          "publishedDate": "Sat, 08 Aug 2026 13:45:00 GMT",
-          "description": "ANKARA (ANP/AFP) - Turkije wil dat Oekra&#239;ne en Rusland stoppen met hun aanvallen op schepen op de Zwarte Zee. Minister van Buitenlandse Zaken Hakan Fidan riep bij staatspersbureau Anadolu op tot een ..."
-        },
-        {
-          "title": "’Kortste weg naar zee’, charmante minitentoonstelling Museum Kennemerland in Beverwijk",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/regio/ijmond/kortste-weg-naar-zee-charmante-minitentoonstelling-museum-kennemerland-in-beverwijk/159625321.html",
-          "publishedDate": "Sat, 08 Aug 2026 11:58:00 GMT",
-          "description": "De minitentoonstelling ’Kortste weg naar zee’ vertelt het verhaal van visie, ondernemerschap en duizenden arbeiders. Mensen die in het Noordzeekanaalgebied de kortste weg naar zee mogelijk maakten. Ee ..."
-        },
-        {
-          "title": "Eindelijk openbaar toilet bij strandopgang Egmond aan Zee; ’Hier kun je niet op tegen zijn’",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/regio/alkmaar/eindelijk-openbaar-toilet-bij-strandopgang-egmond-aan-zee-hier-kun-je-niet-op-tegen-zijn/159571619.html",
-          "publishedDate": "Fri, 07 Aug 2026 11:49:00 GMT",
-          "description": "Na een dag bakken op het strand loopt de blaas vol. Waar kan de strandganger in Egmond aan Zee met hoge nood terecht? In zee, bij restaurants en nu ook: in de wc-container. ,,Sehr sch&#246;n!” ..."
-        },
-        {
           "title": "Duitse toeristen waarschuwen elkaar voor onveilige zee na verdrinkingsdrama",
           "source": "NH Nieuws",
           "url": "https://www.nhnieuws.nl/nieuws/362241/duitse-toeristen-waarschuwen-elkaar-voor-onveilige-zee-na-verdrinkingsdrama",
           "publishedDate": "Thu, 06 Aug 2026 21:00:00 GMT",
           "description": "Twee vrouwen verdronken bij Callantsoog na reddingspoging. Gemeente Schagen plaatste extra waarschuwingsbord op onbewaakte strandafslag Voordijk."
+        }
+      ]
+    },
+    {
+      "keyword": "rob goossens",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Rob Goossens ziet Eline veranderen in B&amp;B vol liefde: 'Je ziet hoe desastreus het kan uitpakken'",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/rob-goossens-ziet-eline-veranderen-in-b-b-vol-liefde-je-ziet-hoe-desastreus-het-kan-uitpakken/ar-AA2ab88x",
+          "publishedDate": "Sat, 15 Aug 2026 03:42:29 GMT",
+          "description": "Wie dacht de deelnemers van B&amp;B Vol Liefde inmiddels een beetje te kennen, kwam deze week bedrogen uit. In zijn nieuwe column verbaast Rob Goossens (35) zich over de metamorfoses van Timothy, Iris en ..."
         },
         {
-          "title": "Tom Waes trotseert in 'Zeilen Waes' de zee met nieuwe zeilboot: &quot;De Land Rover van de zee&quot;",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2025/09/05/zeilboot-tom-waes/",
-          "publishedDate": "Sat, 06 Sep 2025 01:35:00 GMT",
-          "description": "In een nieuw tv-programma voor VRT zal Tom Waes de zee trotseren met een zeilboot. Dat idee had de tv-maker al langer, maar nu is zijn splinternieuwe zeilboot eindelijk zo goed als klaar. Onder de ..."
+          "title": "Rob Goossens haalt uit naar makers na afgeblazen MAFS-huwelijk: ‘Experiment verprutst’",
+          "source": "europesays",
+          "url": "https://www.europesays.com/be-nl/50908/",
+          "publishedDate": "Sat, 25 Apr 2026 06:28:00 GMT",
+          "description": "“Alleen al Robs reactie op Sandra’s paniek had een reden voor haar moeten zijn om hem te trouwen” Twee dagen lang heb ik me dood lopen ergeren aan Sandra, die blijkbaar dacht dat ze aan Kopen Zonder ..."
+        },
+        {
+          "title": "Rob Goossens en Jan Roos willen Paul de Leeuw van de buis: ‘Weg’",
+          "source": "europesays",
+          "url": "https://www.europesays.com/nl/173341/",
+          "publishedDate": "Mon, 30 Mar 2026 08:21:00 GMT",
+          "description": "Het is flink aan het stormen rondom Paul de Leeuw. Dat komt vooral omdat hij een extreem slecht seizoen van Ranking the Stars heeft gemaakt en hij niet wil erkennen dat hij echt g&#234;nant werk heeft ..."
+        },
+        {
+          "title": "Rob Goossens",
+          "source": "ditjesendatjes",
+          "url": "https://www.ditjesendatjes.nl/auteur/rob-goossens",
+          "publishedDate": "Tue, 09 Dec 2025 16:33:00 GMT",
+          "description": "Column Rob Goossens: Eindelijk heeft Jan Smit weer eens zelf de touwtjes in handen Column Rob Goossens: ‘Dan sta je met je Ferrari toch gewoon voor paal’ Column Rob Goossens: ‘Brooklyn Beckham: alles ..."
+        },
+        {
+          "title": "Rob Goossens blikt terug op BI-gevecht tegen Dennis Schouten: 'Ben gaan prijsschieten op zijn lever'",
+          "source": "panorama",
+          "url": "https://panorama.nl/artikel/665874/rob-goossens-blikt-terug-op-bi-gevecht-tegen-dennis-schouten-tweede-ronde-ben-ik-gaan-prijsschieten-op-zijn-lever",
+          "publishedDate": "Tue, 07 Oct 2025 01:43:00 GMT",
+          "description": "Rob Goossens nam het zondagavond tijdens het BN’er-boksevenement Boxing Influencers (BI) op tegen Dennis Schouten. Maandagavond blikt hij terug en vertelt over de blessures die hij daarbij opliep."
+        },
+        {
+          "title": "Rob Goossens over gevecht met Dennis Schouten: 'Krijg 25.000 euro van Wilfred Genee als ik hem knock-out sla'",
+          "source": "panorama",
+          "url": "https://panorama.nl/artikel/644676/rob-goossens-over-gevecht-met-dennis-schouten-krijg-25000-euro-van-wilfred-genee-als-ik-hem-knock-out-sla",
+          "publishedDate": "Thu, 10 Jul 2025 04:03:00 GMT",
+          "description": "Goossens laat weten dat Wilfred Genee hem rijkelijk zal belonen als hij erin slaagt Dennis Schouten in elkaar te meppen in de boksring. Of er enige rancune speelt bij Rob? &quot;Zo zit ik niet in elkaar&quot;, ..."
+        },
+        {
+          "title": "Rob Goossens: Media moeten lessen trekken uit het vertrek van Sigrid Kaag: stop met manipulatie naar gewenst stemgedrag",
+          "source": "dagelijksestandaard.nl",
+          "url": "https://www.dagelijksestandaard.nl/media/rob-goossens-media-moeten-lessen-trekken-uit-het-vertrek-van-sigrid-kaag-stop-met-manipulatie-naar-gewenst-stemgedrag",
+          "publishedDate": "Thu, 13 Jul 2023 10:00:00 GMT",
+          "description": "Mediawatcher Rob Goossens brengt een belangrijk punt naar voren in zijn kritiek op de media naar aanleiding van het vertrek van Sigrid Kaag als politiek partijleider van D66. Hij benadrukt dat de ..."
+        },
+        {
+          "title": "Rob Goossens: 'Ik had Valerio in zijn televisieloze jaren niet per se gemist'",
+          "source": "Nieuwe Revu",
+          "url": "https://revu.nl/artikel/496774/rob-goossens-ik-had-valerio-in-zijn-televisieloze-jaren-niet-per-se-gemist",
+          "publishedDate": "Wed, 31 May 2023 02:14:00 GMT",
+          "description": "Na vijf jaar buiten de spotlights beleefde Valerio Zeno (39) begin januari zijn comeback als presentator van Echte meisjes. Smaakt naar meer, vonden ze bij talkshow Renze. Smaakt naar minder, vindt de ..."
+        },
+        {
+          "title": "Wie is Rob Goossens? ‘Ik denk dat 70 procent mij irritant vindt’",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/home/wie-is-rob-goossens-ik-denk-dat-70-procent-mij-irritant-vindt~a5486f83/",
+          "publishedDate": "Tue, 19 Jul 2022 17:37:00 GMT",
+          "description": "Eigenlijk, zo geeft Rob Goossens toe, zei hij ‘ja’ tegen zijn deelname aan De Slimste Mens omdat ‘mensen me nu waarschijnlijk wel irritant genoeg vinden’. Vanaf deze maandag begint het nieuwe seizoen ..."
+        },
+        {
+          "title": "Goossens: Harmonix Centre",
+          "source": "HiFi",
+          "url": "https://hifi.nl/nieuws/38150/Goossens-Harmonix-Centre.html",
+          "publishedDate": "Mon, 16 Oct 2006 17:00:00 GMT",
+          "description": "`Rob Goossens beeld &amp; geluid` start met eerste Harmonix Tuning Centre. In de eerste anderhalf jaar na de herintroductie is overduidelijk geworden dat Harmonix enorm veel mogelijkheden heeft om ook als ..."
         }
       ]
     }
