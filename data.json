@@ -1,79 +1,155 @@
 {
-  "fetchedAt": "2026-08-15T18:18:06.893Z",
+  "fetchedAt": "2026-08-15T18:54:04.970Z",
   "trends": [
     {
-      "keyword": "hoge venen belgie",
-      "trafficLabel": "100K+",
+      "keyword": "excelsior - psv",
+      "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Verbrand gebied Belgi&#235; zeer snel verdubbeld: 'Ergste brand in onze geschiedenis'",
+          "title": "Van Bommel zet PSV vroeg op voorsprong bij Excelsior • AZ leidt ruim in Utrecht (1-4)",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2626975-van-bommel-zet-psv-vroeg-op-voorsprong-bij-excelsior-az-leidt-ruim-in-utrecht-1-4",
+          "publishedDate": "Sat, 15 Aug 2026 11:40:00 GMT",
+          "description": "In dit blog volg je alle ontwikkelingen rondom de vier wedstrijden die vandaag gespeeld worden in de tweede speelronde van de eredivisie."
+        },
+        {
+          "title": "LIVE eredivisie | PSV op zoek naar tweede treffer tegen koploper Excelsior, Ivan Perisic kopt bijna raak",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/live-eredivisie-psv-op-zoek-naar-tweede-treffer-tegen-koploper-excelsior-ivan-perisic-kopt-bijna-raak~ad583e77/",
+          "publishedDate": "Sat, 15 Aug 2026 04:37:00 GMT",
+          "description": "PSV leek tegen Fortuna Sittard op weg naar een zege, maar de Eindhovenaren speelden uiteindelijk alsnog gelijk (2-2). De ploeg van Peter Bosz moet op bezoek bij Excelsior dus op zoek naar de eerste ze ..."
+        },
+        {
+          "title": "LIVE eredivisie | Ruben van Bommel zet PSV op vroege voorsprong tegen koploper Excelsior",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/live-eredivisie-ruben-van-bommel-zet-psv-op-vroege-voorsprong-tegen-koploper-excelsior~ad583e77/?slug_rd=1",
+          "publishedDate": "Sat, 15 Aug 2026 04:12:00 GMT",
+          "description": "PSV leek tegen Fortuna Sittard op weg naar een zege, maar de Eindhovenaren speelden uiteindelijk alsnog gelijk (2-2). De ploeg van Peter Bosz moet op bezoek bij Excelsior dus op zoek naar de eerste ze ..."
+        },
+        {
+          "title": "Live Eredivisie | PSV dankzij Van Bommel op voorsprong bij Excelsior",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/buitenland/6406449/verbrand-gebied-belgie-zeer-snel-verdubbeld-ergste-brand-in-onze-geschiedenis.html",
-          "publishedDate": "Sat, 15 Aug 2026 11:04:00 GMT",
-          "description": "De natuurbrand die vrijdagmiddag uitbrak in het Belgische Hoge Venen heeft inmiddels al zeker 1.800 hectare natuur verbrand. De burgemeesters van de Luikse gemeenten Weismes en Jalhay spreken van de e ..."
+          "url": "https://www.nu.nl/voetbal/6406439/live-eredivisie-psv-dankzij-van-bommel-op-voorsprong-bij-excelsior.html",
+          "publishedDate": "Fri, 14 Aug 2026 23:00:00 GMT",
+          "description": "Goedendag! In dit liveblog hou ik, Thieu van der Bruggen, je op de hoogte van speelronde 2 van dit Eredivisie-seizoen. Veel plezier!"
         },
         {
-          "title": "Natuurbrand is grootste ooit in Belgi&#235;, twee dorpen gedeeltelijk ontruimd",
+          "title": "LIVE: Excelsior kijkt tegen achterstand aan tegen PSV (0-1)",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2239409/live-excelsior-kijkt-tegen-achterstand-aan-tegen-psv-0-1",
+          "publishedDate": "Sat, 15 Aug 2026 11:35:00 GMT",
+          "description": "Na de klinkende zege vorige week van Excelsior op Cambuur hebben de Kralingers een week lang mogen genieten van de eerste plek in de eredivisie. Zaterdagavond komt regerend kampioen PSV op bezoek. Beh ..."
+        },
+        {
+          "title": "Live 20.00 uur | Excelsior - PSV (0-1)",
+          "source": "Ajax Showtime on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/live-20-00-uur-excelsior-psv-0-1/ar-AA2aam78",
+          "publishedDate": "Sat, 15 Aug 2026 11:20:00 GMT",
+          "description": "Dit is het livetopic voor de Eredivisie-wedstrijden op zaterdag 15 augustus. NEC gaat op bezoek bij promovendus Willem II, terwijl FC Utrecht het in eigen huis opneemt tegen AZ. Daarnaast komt PSV in ..."
+        },
+        {
+          "title": "Vermoedelijke opstelling PSV tegen Excelsior: Bosz grijpt in",
+          "source": "soccernews",
+          "url": "https://www.soccernews.nl/news/vermoedelijke-opstelling-psv-tegen-excelsior-bosz-grijpt-in/",
+          "publishedDate": "Sat, 15 Aug 2026 10:00:00 GMT",
+          "description": "PSV is niet al te best begonnen aan het seizoen. De Eindhovenaren verspeelden direct op de eerste speeldag van de Eredivisie dure punten tegen Fortuna Sittard. Een nieuwe uitglijder tegen Excelsior ..."
+        },
+        {
+          "title": "Peter Bosz laat teruggekeerde sterspelers van PSV starten tegen Excelsior",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/peter-bosz-laat-teruggekeerde-sterspelers-van-psv-starten-tegen-excelsior/ar-AA2abCzX",
+          "publishedDate": "Sat, 15 Aug 2026 07:54:18 GMT",
+          "description": "Peter Bosz van PSV heeft zijn opstelling wereldkundig voor de uitwedstrijd tegen Excelsior naar buiten gebracht. Joey Veerman en Sergi&#241;o Dest staan in de basis en voor hun eerste Eredivisie-minuten va ..."
+        },
+        {
+          "title": "Live Eredivisie | Landskampioen PSV op minimale voorsprong",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/live-eredivisie-landskampioen-psv-op-minimale-voorsprong-2026081513512582429/",
+          "publishedDate": "Fri, 14 Aug 2026 23:42:00 GMT",
+          "description": "De Eredivisie is eindelijk weer in volle gang! Na een boeiende eerste speelronde staan er ook dit weekend weer genoeg lekkere affiches op het programma. Telstar en Sparta trapten de speelronde vrijdag ..."
+        },
+        {
+          "title": "VI Live: PSV op zoek naar comfortabelere voorsprong tegen Excelsior",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/vi-live-psv-op-zoek-naar-comfortabelere-voorsprong-tegen-excelsior",
+          "publishedDate": "Fri, 14 Aug 2026 22:30:00 GMT",
+          "description": "PSV hoopt zich zaterdag te revancheren voor de valse Eredivisie-start van vorige week. Na de remise tegen Fortuna Sittard neemt de kampioen van Nederland het zaterdag om 20.00 uur op tegen Excelsior, ..."
+        }
+      ]
+    },
+    {
+      "keyword": "utrecht - az",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Van Bommel zet PSV vroeg op voorsprong bij Excelsior • AZ leidt ruim in Utrecht (1-4)",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2626995-natuurbrand-is-grootste-ooit-in-belgie-twee-dorpen-gedeeltelijk-ontruimd",
-          "publishedDate": "Sat, 15 Aug 2026 08:49:00 GMT",
-          "description": "Aan het einde van de middag was al zo'n 1600 hectare natuur verbrand, een gebied zo groot als de gemeente Gouda."
+          "url": "https://nos.nl/liveblog/2626975-van-bommel-zet-psv-vroeg-op-voorsprong-bij-excelsior-az-leidt-ruim-in-utrecht-1-4",
+          "publishedDate": "Sat, 15 Aug 2026 11:40:00 GMT",
+          "description": "In dit blog volg je alle ontwikkelingen rondom de vier wedstrijden die vandaag gespeeld worden in de tweede speelronde van de eredivisie."
         },
         {
-          "title": "Grote veenbrand in de Ardennen moeilijk te blussen, Nederland stuurt helikopters",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2626958-grote-veenbrand-in-de-ardennen-moeilijk-te-blussen-nederland-stuurt-helikopters",
-          "publishedDate": "Sat, 15 Aug 2026 03:01:00 GMT",
-          "description": "Het natuurpark Hoge Venen ligt op zo'n 20 kilometer van de Nederlandse grens. De rookvorming veroorzaakt overlast in delen van Zuid-Limburg."
+          "title": "LIVE eredivisie | AZ breidt comfortabele voorsprong verder uit, FC Utrecht afgeschminkt in eigen huis",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/utrecht/live-eredivisie-fc-utrecht-begint-stormachtig-tegen-az-maar-benut-de-kansen-niet~a176b4380/?slug_rd=1",
+          "publishedDate": "Sat, 15 Aug 2026 04:32:00 GMT",
+          "description": "AZ heeft de Johan Cruijff Schaal en de eerste zege in de Vriendenloterij eredivisie op zak. FC Utrecht verloor vorige week onnodig van FC Groningen en aast op eerherstel. Inmiddels de wedstrijd begonn ..."
         },
         {
-          "title": "LIVE. “Ergste brand in Belgische geschiedenis”: 600 mensen ge&#235;vacueerd in twee dorpen op Hoge Venen - Nederland stuurt helikopters",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/binnenland/live.-ergste-brand-in-belgische-geschiedenis-600-mensen-geevacueerd-in-twee-dorpen-op-hoge-venen-nederland-stuurt-helikopters/152287959.html",
-          "publishedDate": "Sat, 15 Aug 2026 10:53:00 GMT",
-          "description": "Europa heeft al weken te kampen met aanhoudende hitte en droogte. In Zuid-Europa gaat dat gepaard met verwoestende natuurbranden en dodelijke onweersbuien. Volg hier al het nieuws."
+          "title": "AZ wint mede dankzij indraaiende corner van Koopmeiners ruim bij FC Utrecht",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6406454/az-wint-mede-dankzij-indraaiende-corner-van-koopmeiners-ruim-bij-fc-utrecht.html",
+          "publishedDate": "Fri, 14 Aug 2026 23:40:00 GMT",
+          "description": "AZ heeft in de uitwedstrijd tegen FC Utrecht al de derde zege van de maand geboekt: 1-4. De Alkmaarders pakten eerder deze maand al de Johan Cruijff Schaal en wonnen vorige week tijdens de eerste spee ..."
         },
         {
-          "title": "Evacuaties rond Belgisch natuurgebied Hoge Venen om natuurbrand",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/buitenland/evacuaties-rond-belgisch-natuurgebied-hoge-venen-om-natuurbrand",
-          "publishedDate": "Sat, 15 Aug 2026 10:42:00 GMT",
-          "description": "Zeventien straten in Sourbrodt en enkele in B&#252;tgenbach ge&#235;vacueerd door veenbrand. 1800 hectare verwoest; hulp uit Duitsland, EU en NL helikopter."
+          "title": "AZ beleeft perfecte Eredivisie-start en duwt FC Utrecht in de problemen",
+          "source": "Voetbalprimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2123578/az-beleeft-perfecte-eredivisie-start-en-duwt-fc-utrecht-in-de-problemen.html",
+          "publishedDate": "Sat, 15 Aug 2026 11:40:00 GMT",
+          "description": "AZ heeft zaterdagavond ook zijn tweede wedstrijd van het Eredivisie-seizoen gewonnen. Na de 2-0 zege op ADO Den Haag was de ploeg van Leeroy Echteld in Stadion Galgenwaard met 1-4 te sterk voor FC Utr ..."
         },
         {
-          "title": "Blusvliegtuigen kunnen niet gebruikt worden op Hoge Venen omdat ze allemaal in het buitenland zijn",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/binnenland/blusvliegtuigen-kunnen-niet-gebruikt-worden-op-hoge-venen-omdat-ze-allemaal-in-het-buitenland-zijn/160076593.html",
-          "publishedDate": "Sat, 15 Aug 2026 08:47:00 GMT",
-          "description": "Terwijl de gigantische natuurbrand in de Hoge Venen maar blijft woeden, vragen veel mensen zich luidop af waarom de blusvliegtuigen van Zwartberg in Limburg niet worden ingezet. Dat blijkt onmogelijk, ..."
+          "title": "FC Utrecht overklast door AZ",
+          "source": "RTV Utrecht",
+          "url": "https://www.rtvutrecht.nl/sport/4080590/fc-utrecht-overklast-door-az",
+          "publishedDate": "Sat, 15 Aug 2026 11:39:00 GMT",
+          "description": "Ook na de eerste thuiswedstrijd is er nog werk aan de winkel voor FC Utrecht. Het kon niet mee op het niveau van AZ. In de Galgenwaard verloor het met 1-4. Vlak voor rust kwam het onfortuinlijk op ach ..."
         },
         {
-          "title": "Nederland schiet Belgi&#235; te hulp bij grote natuurbrand",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/brand/artikelen/nederland-belgie-hulp-natuurbrand-droogte",
-          "publishedDate": "Sat, 15 Aug 2026 08:00:00 GMT",
-          "description": "Nederland stuurt twee Defensiehelikopters naar Belgi&#235; om te helpen bij het blussen van een grote natuurbrand in de Hoge Venen, waar inmiddels zo’n 1600 hectare natuur is getroffen."
+          "title": "AZ grijpt koppositie na overtuigende zege op tegenvallend FC Utrecht",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/az-grijpt-koppositie-na-overtuigende-zege-op-tegenvallend-fc-utrecht/ar-AA2abXja",
+          "publishedDate": "Sat, 15 Aug 2026 11:38:08 GMT",
+          "description": "AZ heeft zaterdag een overtuigende zege geboekt op FC Utrecht. De ploeg van Leeroy Echteld was een maatje te groot voor de mannen van Anthony Correia. Daardoor grijpt AZ de koppositie in de Eredivisie ..."
         },
         {
-          "title": "Belgi&#235; vraagt EU-hulp bij bestrijding bosbranden in de Hoge Venen",
-          "source": "Business AM (Nederlands) on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/belgi%C3%AB-vraagt-eu-hulp-bij-bestrijding-bosbranden-in-de-hoge-venen/ar-AA2abJ2L",
-          "publishedDate": "Sat, 15 Aug 2026 07:51:00 GMT",
-          "description": "Key takeaways Om een bosbrand in de Hoge Venen te bestrijden, heeft Belgi&#235; om hulp gevraagd via het EU-mechanisme voor civiele bescherming. Dit systeem stelt lidstaten en partners in staat om aanvulle ..."
+          "title": "Uitstekend AZ zet FC Utrecht bij het thuisdebuut van trainer Correia flink te kijk",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/utrecht/live-eredivisie-eerste-kansen-fc-utrecht-az-neemt-regie-in-de-galgenwaard-over~a176b4380/?slug_rd=1",
+          "publishedDate": "Sat, 15 Aug 2026 04:40:00 GMT",
+          "description": "AZ heeft de Johan Cruijff Schaal en de eerste zege in de Vriendenloterij eredivisie op zak. FC Utrecht verloor vorige week onnodig van FC Groningen en aast op eerherstel. Inmiddels de wedstrijd begonn ..."
         },
         {
-          "title": "Brand in de Hoge Venen is “zwaarste natuurbrand ooit in ons land”, al meer dan 1.600 hectare in vlammen opgegaan",
-          "source": "De Standaard",
-          "url": "https://www.standaard.be/binnenland/brand-in-de-hoge-venen-is-zwaarste-natuurbrand-ooit-in-ons-land-al-meer-dan-1.600-hectare-in-vlammen-opgegaan/160067272.html",
-          "publishedDate": "Sat, 15 Aug 2026 06:05:00 GMT",
-          "description": "Op de Hoge Venen heeft een brand al meer dan 1.600 hectare natuur in de as gelegd. Volgens de burgemeesters van de gemeenten Weismes en Jalhay is het de grootste natuurbrand in de Belgische geschieden ..."
+          "title": "AZ zet FC Utrecht van Correia eenvoudig opzij • FC Volendam boekt eerste zege",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/362510/az-zet-fc-utrecht-van-correia-eenvoudig-opzij-fc-volendam-boekt-eerste-zege",
+          "publishedDate": "Sat, 15 Aug 2026 03:36:00 GMT",
+          "description": "AZ op jacht naar tweede zege in de eredivisie bij FC Utrecht. FC Volendam wil zich herpakken tegen TOP Oss. Volg alles live in ons blog."
         },
         {
-          "title": "Brand op Hoge Venen legt meer dan 1.600 hectare in de as, EU stuurt blusvliegtuigen",
-          "source": "De Standaard",
-          "url": "https://www.standaard.be/binnenland/brand-op-hoge-venen-legt-meer-dan-1.600-hectare-in-de-as-eu-stuurt-blusvliegtuigen/160067272.html",
-          "publishedDate": "Sat, 15 Aug 2026 03:17:00 GMT",
-          "description": "Op de Hoge Venen heeft een brand al meer dan 1.600 hectare natuur in de as gelegd. Het vuur is nog niet onder controle. De Europese Unie stuurt blustoestellen."
+          "title": "AZ slaat genadeloos toe tegen FC Utrecht, dat slechte start beleeft in de Eredivisie",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/fc-utrecht-az-1-4-alkmaarders-galgenwaard",
+          "publishedDate": "Fri, 14 Aug 2026 23:41:00 GMT",
+          "description": "AZ wint overtuigend met 1-4 bij FC Utrecht. Peer Koopmeiners opent de score, waarna Patati, Meerdink en Oufkir het verschil maken."
+        },
+        {
+          "title": "AZ overklast FC Utrecht en blijft na vierklapper foutloos in de Eredivisie",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/az-overklast-fc-utrecht-en-blijft-na-vierklapper-foutloos-in-de-eredivisie/bltb2131798f4b57e32",
+          "publishedDate": "Fri, 14 Aug 2026 23:40:00 GMT",
+          "description": "AZ heeft zijn uitstekende seizoenstart een passend vervolg gegeven. Na de zeges in de Johan Cruijff Schaal op PSV (0-4) en in de Eredivisie op ADO Den Haag (2-0) overklaste het zaterdag ook het nog al ..."
         }
       ]
     },
@@ -91,428 +167,84 @@
       ]
     },
     {
-      "keyword": "utrecht - az",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Van Bommel zet PSV vroeg op voorsprong bij Excelsior • AZ overrompelt Utrecht (1-3)",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2626975-van-bommel-zet-psv-vroeg-op-voorsprong-bij-excelsior-az-overrompelt-utrecht-1-3",
-          "publishedDate": "Sat, 15 Aug 2026 06:33:00 GMT",
-          "description": "In dit blog volg je alle ontwikkelingen rondom de vier wedstrijden die vandaag gespeeld worden in de tweede speelronde van de eredivisie."
-        },
-        {
-          "title": "LIVE eredivisie | AZ komt net voor rust op voorsprong, FC Utrecht geeft doelpunt weg uit corner",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/utrecht/live-eredivisie-eerste-kansen-fc-utrecht-az-neemt-regie-in-de-galgenwaard-over~a176b4380/?slug_rd=1",
-          "publishedDate": "Sat, 15 Aug 2026 03:36:00 GMT",
-          "description": "AZ heeft de Johan Cruijff Schaal en de eerste zege in de Vriendenloterij eredivisie op zak. FC Utrecht verloor vorige week onnodig van FC Groningen en aast op eerherstel. Inmiddels de wedstrijd begonn ..."
-        },
-        {
-          "title": "Live Eredivisie | Van Bommel zet PSV op voorsprong, AZ overklast FC Utrecht",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6406439/live-eredivisie-fc-utrecht-en-az-jagen-op-openingstreffer.html",
-          "publishedDate": "Fri, 14 Aug 2026 23:00:00 GMT",
-          "description": "Goedendag! In dit liveblog hou ik, Thieu van der Bruggen, je op de hoogte van speelronde 2 van dit Eredivisie-seizoen. Veel plezier!"
-        },
-        {
-          "title": "Live Eredivisie | FC Utrecht en AZ in evenwicht, opstelling PSV bekend",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6406439/live-eredivisie-nec-en-willem-ii-jagen-op-openingsdoelpunt-in-tilburg.html",
-          "publishedDate": "Fri, 14 Aug 2026 23:00:00 GMT",
-          "description": "Goedendag! In dit liveblog hou ik, Thieu van der Bruggen, je op de hoogte van speelronde 2 van dit Eredivisie-seizoen. Veel plezier!"
-        },
-        {
-          "title": "Luister nu live naar de 2e helft van FC Utrecht - AZ | Stand: 1-3",
-          "source": "RTV Utrecht",
-          "url": "https://www.rtvutrecht.nl/sport/4080590/luister-nu-live-naar-de-2e-helft-van-fc-utrecht-az-stand-1-3",
-          "publishedDate": "Sat, 15 Aug 2026 11:08:00 GMT",
-          "description": "FC Utrecht speelt zijn eerste thuiswedstrijd van het seizoen tegen AZ. Luister hier vanaf 18.15 uur live naar de voorbeschouwing. Een half uur later kun je live het wedstrijdverslag horen."
-        },
-        {
-          "title": "Live Eredivisie | FC Utrecht - AZ (1-3) | Excelsior - PSV (0-1)",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/live-eredivisie-fc-utrecht-az-1-3-excelsior-psv-0-1/ar-AA2aam78",
-          "publishedDate": "Sat, 15 Aug 2026 10:55:00 GMT",
-          "description": "Dit is het livetopic voor de Eredivisie-wedstrijden op zaterdag 15 augustus. NEC gaat op bezoek bij promovendus Willem II, terwijl FC Utrecht het in eigen huis opneemt tegen AZ. Daarnaast komt PSV in ..."
-        },
-        {
-          "title": "AZ loopt hard weg bij FC Utrecht • FC Volendam boekt eerste zege",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/362510/az-loopt-hard-weg-bij-fc-utrecht-fc-volendam-boekt-eerste-zege",
-          "publishedDate": "Sat, 15 Aug 2026 10:35:00 GMT",
-          "description": "AZ op jacht naar tweede zege in de eredivisie bij FC Utrecht. FC Volendam wil zich herpakken tegen TOP Oss. Volg alles live in ons blog."
-        },
-        {
-          "title": "AZ dichtbij openingstreffer tegen nieuwe club Correia • FC Volendam boekt eerste zege",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/362510/fc-volendam-stevent-op-zege-af-geen-verrassing-in-opstelling-az",
-          "publishedDate": "Sat, 15 Aug 2026 10:03:00 GMT",
-          "description": "AZ op jacht naar tweede zege in de eredivisie bij FC Utrecht. FC Volendam wil zich herpakken tegen TOP Oss. Volg alles live in ons blog."
-        },
-        {
-          "title": "LIVE eredivisie | AZ komt net voor rust op voorsprong, FC Utrecht geeft doelpunt knullig weg",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/utrecht/live-eredivisie-eerste-kansen-fc-utrecht-az-neemt-regie-in-de-galgenwaard-over~a176b4380/?slug_rd=1",
-          "publishedDate": "Sat, 15 Aug 2026 03:44:00 GMT",
-          "description": "AZ heeft de Johan Cruijff Schaal en de eerste zege in de Vriendenloterij eredivisie op zak. FC Utrecht verloor vorige week onnodig van FC Groningen en aast op eerherstel. Inmiddels de wedstrijd begonn ..."
-        },
-        {
-          "title": "VI Live: Stepanov geeft Utrecht beetje hoop tegen sterk AZ",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/vi-live-stepanov-geeft-utrecht-beetje-hoop-tegen-sterk-az",
-          "publishedDate": "Fri, 14 Aug 2026 23:16:00 GMT",
-          "description": "Zaterdag staan er vier Eredivisie-wedstrijden gepland. NEC gaat op bezoek bij promovendus Willem II, FC Utrecht ontvangt AZ en Fortuna Sittard staat tegenover SC Cambuur. Het duel van PSV volgen we in ..."
-        }
-      ]
-    },
-    {
       "keyword": "willem ii - nec",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "NEC loopt weg bij zwak Willem II (0-4) • Straks FC Utrecht tegen AZ",
+          "title": "NEC wint ruim bij Willem II in aanloop naar confrontatie met Bod&#248;/Glimt",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6406448/nec-wint-ruim-bij-willem-ii-in-aanloop-naar-confrontatie-met-bodglimt.html",
+          "publishedDate": "Sat, 15 Aug 2026 11:26:00 GMT",
+          "description": "NEC heeft zaterdag de eerste punten van het seizoen gepakt door de uitwedstrijd tegen Willem II met ruime cijfers te winnen. Het werd 1-4. De Nijmegenaren werkten daarmee aan het vertrouwen in aanloop ..."
+        },
+        {
+          "title": "NEC na ruime zege op Willem II met goed gevoel naar Champions League-play-offs",
           "source": "NOS",
-          "url": "https://nos.nl/liveblog/2626975-nec-loopt-weg-bij-zwak-willem-ii-0-4-straks-fc-utrecht-tegen-az",
-          "publishedDate": "Sat, 15 Aug 2026 06:33:00 GMT",
-          "description": "In dit blog volg je alle ontwikkelingen rondom de vier wedstrijden die vandaag gespeeld worden in de tweede speelronde van de eredivisie."
+          "url": "https://nos.nl/artikel/2627000-nec-na-ruime-zege-op-willem-ii-met-goed-gevoel-naar-champions-league-play-offs",
+          "publishedDate": "Sat, 15 Aug 2026 09:25:00 GMT",
+          "description": "NEC weet vier dagen voor de play-off-wedstrijd tegen Bod&#248;/Glimt&#160;in de play-offs Champions League ruim te winnen bij Willem II: 1-4."
+        },
+        {
+          "title": "NEC laat Willem II na rust kansloos in Tilburg",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/nec-laat-willem-ii-na-rust-kansloos-in-tilburg",
+          "publishedDate": "Sat, 15 Aug 2026 11:43:00 GMT",
+          "description": "NEC wint met 1-4 bij Willem II na sterke tweede helft. Doelpunten van Chery, Linssen en Sierhuis; debutant Tahaui opent score. Focus nu op Bod&#248;/Glimt."
         },
         {
           "title": "NEC boekt forse zege Willem II, Kjetil Knutsen heeft na 56 minuten genoeg gezien",
           "source": "FCUpdate.nl",
           "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/nec-boekt-forse-zege-willem-ii-kjetil-knutsen-heeft-na-56-minuten-genoeg-gezien",
-          "publishedDate": "Fri, 14 Aug 2026 21:26:00 GMT",
-          "description": "Willem II oogde vervolgens aangeslagen en NEC rook bloed. Nadat een poging van Tahaui nog was geblokt, haalde Linssen in de 65ste minuut vernietigend uit voor de 0-3. Twee minuten later volgde het mooiste doelpunt van de middag. De net ingevallen Sierhuis kreeg een slim passje van Dusan Tadic en volleerde de bal schitterend in de kruising: 0-4."
-        }
-      ]
-    },
-    {
-      "keyword": "ongeval",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Ongeval met letsel op Tuingracht in De Rijp",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-alkmaar/ongeval-met-letsel-op-tuingracht-in-de-rijp~ae0db8bc/",
-          "publishedDate": "Sat, 15 Aug 2026 00:54:00 GMT",
-          "description": "De brandweer is de afgelopen 30 dagen 1 keer naar De Rijp gestuurd. De ambulance werd in die periode 17 keer gealarmeerd. Meer artikelen over de inzet van de hulpdiensten lees je in onze sectie 112 ..."
+          "publishedDate": "Sat, 15 Aug 2026 11:26:00 GMT",
+          "description": "Willem II oogde vervolgens aangeslagen en NEC rook bloed. Nadat een poging van Tahaui nog was geblokt, haalde Linssen in de 65ste minuut vernietigend uit voor de 0-3. Twee minuten later volgde het ..."
         },
         {
-          "title": "Ongeval met letsel op Turfsingel in Groningen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-groningen/ongeval-met-letsel-op-turfsingel-in-groningen~a0829cd6/",
-          "publishedDate": "Fri, 14 Aug 2026 20:15:00 GMT",
-          "description": "De melding kwam rond kwart over twaalf 's middags bij de alarmcentrale binnen. Hulpdiensten zijn naar de locatie gestuurd om hulp te verlenen. 112 Groningen De brandweer is de afgelopen 30 dagen 102 k ..."
-        },
-        {
-          "title": "FDF: direct verband tussen ongeval en boerenprotest niet fair",
-          "source": "ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/openbare-veiligheid-en-noodsituaties/verkeer-en-transport-incidenten/fdf-direct-verband-tussen-ongeval-en-boerenprotest-niet-fair/ar-AA2aawxb",
-          "publishedDate": "Sat, 15 Aug 2026 04:17:00 GMT",
-          "description": "SINT HUBERT (ANP) - Het is &quot;niet fair&quot; om direct een verband te leggen tussen actievoerende boeren in Den Bosch en het dodelijk ongeluk op de A59, zegt vicevoorzitter Jos Ubels van de actiegroep Farme ..."
-        },
-        {
-          "title": "Bestuurder (80) zit gekneld in voertuig na ongeval in Veurne: “Overgebracht naar ziekenhuis”",
-          "source": "HLN",
-          "url": "https://www.hln.be/veurne/bestuurder-80-zit-gekneld-in-voertuig-na-ongeval-in-veurne-overgebracht-naar-ziekenhuis~a8da2423/",
-          "publishedDate": "Sat, 15 Aug 2026 04:06:00 GMT",
-          "description": "Het ongeval gebeurde omstreeks 17 uur op het kruispunt van de Noordmoerstraat met de W. Cobergherstraat, tussen Houtem en Adinkerke. Volgens de politie ontstond de botsing nadat een van de bestuurders ..."
-        },
-        {
-          "title": "Fatbiker gewond na eenzijdig ongeval in Wageningen",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/112-nieuws-wageningen/fatbiker-gewond-na-eenzijdig-ongeval-in-wageningen~a2f46b1d/",
-          "publishedDate": "Fri, 14 Aug 2026 22:41:00 GMT",
-          "description": "Twee jongens op een fatbike zijn zaterdagmiddag ten val gekomen op de rotonde van de Mansholtlaan en de Hollandseweg in Wageningen. E&#233;n van hen raakte hierbij gewond."
-        },
-        {
-          "title": "Enorme ravage en meerdere gewonden na ernstig ongeval op snelweg; weg bezaaid met brokstukken",
-          "source": "112 Nieuws Nederland",
-          "url": "https://112nieuws.net/2026/08/15/enorme-ravage-en-meerdere-gewonden-na-ernstig-ongeval-op-snelweg-weg-bezaaid-met-brokstukken/",
-          "publishedDate": "Fri, 14 Aug 2026 22:30:00 GMT",
-          "description": "Op de A18 bij Doetinchem heeft in de nacht van vrijdag op zaterdag een ernstig verkeersongeval plaatsgevonden waarbij twee automobilisten gewond zijn geraakt. Het ongeval gebeurde rond 03.15 uur. Volg ..."
-        },
-        {
-          "title": "Ingetogen programma bij boerenprotest om dodelijk ongeval op A59",
-          "source": "zeelandnet",
-          "url": "https://www.zeelandnet.nl/nieuws/ingetogen-programma-bij-boerenprotest-om-dodelijk-ongeval-op-a59",
-          "publishedDate": "Fri, 14 Aug 2026 04:47:00 GMT",
-          "description": "Het ongeval gebeurde bij Heesch in de staart van een file die was ontstaan door tractoren die naar het provinciehuis in Den Bosch reden. De organiserende landbouwclubs zeggen dat uit politieonderzoek ..."
-        },
-        {
-          "title": "Twee doden na ongeval in staart van file door boerenprotest op A59 bij Heesch",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/twee-doden-ongeval-file-boerenprotest-a59-heesch",
-          "publishedDate": "Fri, 14 Aug 2026 01:45:00 GMT",
-          "description": "Bij een ongeval met vier auto's op de A59 bij Heesch zijn twee mensen omgekomen. Het ongeluk gebeurde in de staart van een file door het boerenprotest."
-        },
-        {
-          "title": "Twee doden na ernstig ongeval; snelweg volledig afgesloten",
-          "source": "112 Nieuws Nederland",
-          "url": "https://112nieuws.net/2026/08/14/twee-doden-na-ernstig-ongeval-snelweg-volledig-afgesloten/",
-          "publishedDate": "Fri, 14 Aug 2026 01:31:00 GMT",
-          "description": "Op de A59 richting Den Bosch heeft vrijdagochtend rond 09.25 uur een ernstig ongeval plaatsgevonden met vier auto's. Daarbij zijn twee personen om het leven gekomen. Meerdere mensen raakten gewond. Wa ..."
-        },
-        {
-          "title": "Surfer (58) omgekomen bij ongeval met bootje op Schildmeer",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/surfer-58-omgekomen-ongeval-bootje-schildmeer-groningen-steendam",
-          "publishedDate": "Fri, 07 Aug 2026 02:19:00 GMT",
-          "description": "Na een ongeval op het Schildmeer is donderdagmiddag een surfer overleden. De surfer kwam in botsing met een bootje. Een 19-jarige man is aangehouden."
-        }
-      ]
-    },
-    {
-      "keyword": "excelsior - psv",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Bosz begint bij Excelsior aan 150ste duel als PSV-coach • AZ dompelt Utrecht in rouw (0-3)",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2626975-bosz-begint-bij-excelsior-aan-150ste-duel-als-psv-coach-az-dompelt-utrecht-in-rouw-0-3",
-          "publishedDate": "Sat, 15 Aug 2026 06:33:00 GMT",
-          "description": "In dit blog volg je alle ontwikkelingen rondom de vier wedstrijden die vandaag gespeeld worden in de tweede speelronde van de eredivisie."
-        },
-        {
-          "title": "LIVE eredivisie | PSV met Dest en Veerman in de basis begonnen tegen koploper Excelsior, dat direct gevaarlijk is",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/live-eredivisie-psv-met-dest-en-veerman-in-de-basis-begonnen-tegen-koploper-excelsior-dat-direct-gevaarlijk-is~ad583e77/",
-          "publishedDate": "Sat, 15 Aug 2026 04:04:00 GMT",
-          "description": "PSV leek tegen Fortuna Sittard op weg naar een zege, maar de Eindhovenaren speelden uiteindelijk alsnog gelijk (2-2). De ploeg van Peter Bosz moet op bezoek bij Excelsior dus op zoek naar de eerste ze ..."
-        },
-        {
-          "title": "Live Eredivisie | FC Utrecht - AZ (1-3) | Excelsior - PSV (0-1)",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/live-eredivisie-fc-utrecht-az-1-3-excelsior-psv-0-1/ar-AA2aam78",
-          "publishedDate": "Sat, 15 Aug 2026 10:55:00 GMT",
-          "description": "Dit is het livetopic voor de Eredivisie-wedstrijden op zaterdag 15 augustus. NEC gaat op bezoek bij promovendus Willem II, terwijl FC Utrecht het in eigen huis opneemt tegen AZ. Daarnaast komt PSV in ..."
-        },
-        {
-          "title": "Op welke zender kijk je Excelsior – PSV live?",
-          "source": "soccernews",
-          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-excelsior-psv-2/",
-          "publishedDate": "Sat, 15 Aug 2026 10:01:00 GMT",
-          "description": "Zaterdagavond hoopt PSV zijn eerste zege in de Eredivisie van dit seizoen te kunnen boeken. Daarvoor moet koploper Excelsior verslagen worden dat bovenaan staat na de eerste speelronde. Slaagt PSV ..."
-        },
-        {
-          "title": "Vermoedelijke opstelling PSV tegen Excelsior: Bosz grijpt in",
-          "source": "soccernews",
-          "url": "https://www.soccernews.nl/news/vermoedelijke-opstelling-psv-tegen-excelsior-bosz-grijpt-in/",
-          "publishedDate": "Sat, 15 Aug 2026 10:00:00 GMT",
-          "description": "PSV is niet al te best begonnen aan het seizoen. De Eindhovenaren verspeelden direct op de eerste speeldag van de Eredivisie dure punten tegen Fortuna Sittard. Een nieuwe uitglijder tegen Excelsior ..."
-        },
-        {
-          "title": "LIVE: Koploper Excelsior begonnen aan duel tegen regerend kampioen PSV (0-0)",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2239409/live-koploper-excelsior-begonnen-aan-duel-tegen-regerend-kampioen-psv-0-0",
-          "publishedDate": "Sat, 15 Aug 2026 09:16:00 GMT",
-          "description": "Na de klinkende zege vorige week van Excelsior op Cambuur hebben de Kralingers een week lang mogen genieten van de eerste plek in de eredivisie. Zaterdagavond komt regerend kampioen PSV op bezoek. Beh ..."
-        },
-        {
-          "title": "LIVE: Van Bommel schiet PSV razend snel op voorsprong tegen Excelsior (0-1)",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2239409/live-van-bommel-schiet-psv-razend-snel-op-voorsprong-tegen-excelsior-0-1",
-          "publishedDate": "Sat, 15 Aug 2026 09:16:00 GMT",
-          "description": "Na de klinkende zege vorige week van Excelsior op Cambuur hebben de Kralingers een week lang mogen genieten van de eerste plek in de eredivisie. Zaterdagavond komt regerend kampioen PSV op bezoek. Beh ..."
-        },
-        {
-          "title": "Peter Bosz laat teruggekeerde sterspelers van PSV starten tegen Excelsior",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/peter-bosz-laat-teruggekeerde-sterspelers-van-psv-starten-tegen-excelsior/ar-AA2abCzX",
-          "publishedDate": "Sat, 15 Aug 2026 07:54:18 GMT",
-          "description": "Peter Bosz van PSV heeft zijn opstelling wereldkundig voor de uitwedstrijd tegen Excelsior naar buiten gebracht. Joey Veerman en Sergi&#241;o Dest staan in de basis en voor hun eerste Eredivisie-minuten va ..."
-        },
-        {
-          "title": "LIVE | Veerman en Dest keren terug in PSV-basis, bekijk hier de opstelling tegen Excelsior",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/regiosport-eindhoven/live-veerman-en-dest-keren-terug-in-psv-basis-bekijk-hier-de-opstelling-tegen-excelsior~abcd9256/",
-          "publishedDate": "Sat, 15 Aug 2026 02:57:00 GMT",
-          "description": "Een misstap zoals bij de seizoensstart kan PSV zich logischerwijs niet te vaak veroorloven in de titelstrijd. De druk staat er daarom vol op als het bij Excelsior op bezoek gaat, uitgerekend de ploeg ..."
-        },
-        {
-          "title": "Vermoedelijke opstelling PSV: Peter Bosz kiest tegen Excelsior voor vertrouwde gezichten",
+          "title": "NEC herstelt zich tegen Willem II overtuigend van valse competitiestart",
           "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/vermoedelijke-opstelling-psv-peter-bosz-kiest-tegen-excelsior-voor-vertrouwde-gezichten/bltd06f3e07d5533a3e",
-          "publishedDate": "Sat, 15 Aug 2026 01:30:00 GMT",
-          "description": "PSV hoopt zich zaterdagavond op bezoek bij Excelsior te revancheren voor de slechte seizoensstart tegen Fortuna Sittard (2-2). Gelukkig voor Peter Bosz heeft hij in Kralingen weer meer smaken tot zijn ..."
-        }
-      ]
-    },
-    {
-      "keyword": "schilderij",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Schilderij na ruim 25 jaar terug naar Dordrechts Museum, maar toekomst van Visserijmuseum blijft onzeker",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/altena/schilderij-na-ruim-25-jaar-terug-naar-dordrechts-museum-maar-toekomst-van-visserijmuseum-blijft-onzeker~aef484f1/",
-          "publishedDate": "Sat, 08 Aug 2026 20:32:00 GMT",
-          "description": "Een schilderij is na ruim 25 jaar in bruikleen bij het Visserijmuseum in Woudrichem terug in het Dordrechts Museum. De verhuizing van het werk Vissers op het Hollands Diep van Bernard Marie Koldeweij ..."
+          "url": "https://www.voetbalzone.nl/nieuws/nec-herstelt-zich-tegen-willem-ii-overtuigend-van-valse-competitiestart/blt125322c8659c871f",
+          "publishedDate": "Sat, 15 Aug 2026 11:26:00 GMT",
+          "description": "NEC heeft zich overtuigend hersteld van de valse competitiestart tegen Telstar. De Nijmegenaren wonnen in speelronde twee van de VriendenLoterij Eredivisie met 1-4 op bezoek bij Willem II. De ploeg ..."
         },
         {
-          "title": "Uit het oog verloren schilderij van buitenplaats Hofwijck weer boven water",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/financieel/journaal/uit-het-oog-verloren-schilderij-van-buitenplaats-hofwijck-weer-boven-water/159700898.html",
-          "publishedDate": "Thu, 06 Aug 2026 09:24:00 GMT",
-          "description": "Hoe klein het ook is: er is altijd wel iets nieuws te ontdekken aan Hofwijck, de buitenplaats van Constantijn Huygens (1596-1687) in Voorburg. Zo kon onlangs een uit het oog verloren schilderij worden ..."
+          "title": "Dusan Tadic zorgt voor veel irritatie tijdens Willem II - NEC: 'Onbegrijpelijk'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/dusan-tadic-kritiek-willem-ii-nec-schwalbe-penalty",
+          "publishedDate": "Sat, 15 Aug 2026 10:35:00 GMT",
+          "description": "Dusan Tadic krijgt tijdens Willem II - NEC veel kritiek na een penaltyclaim. Op sociale media vinden meerdere kijkers dat hij geel had moeten krijgen."
         },
         {
-          "title": "Van Jacques Goudstikker geroofd schilderij hangt decennia bij kleindochter van Nederlandse SS-generaal: ‘Hoe bizar wil je het hebben?’",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/amsterdam/van-jacques-goudstikker-geroofd-schilderij-hangt-decennia-bij-kleindochter-van-nederlandse-ss-generaal-hoe-bizar-wil-je-het-hebben~b93b808b/",
-          "publishedDate": "Mon, 11 May 2026 01:41:00 GMT",
-          "description": "In de hal van de kleindochter van een beruchte Nederlandse SS-generaal hangt een schilderij dat in de Tweede Wereldoorlog toebehoorde aan de Joodse kunsthandelaar Jacques Goudstikker. De familie van ..."
+          "title": "Schreuder ziet NEC herstellen: 'Dit ga je vaker zien'",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/schreuder-ziet-nec-herstellen-dit-ga-je-vaker-zien/ar-AA2abR7q",
+          "publishedDate": "Sat, 15 Aug 2026 10:34:28 GMT",
+          "description": "Dick Schreuder zag NEC zaterdag verbetering tonen in de Eredivisie. Waar de Nijmegenaren in de eerste speelronde nog met 1-2 verloren van Telstar, ging het tegen Willem II beter. Met opnieuw een Europ ..."
         },
         {
-          "title": "Man koopt 17e-eeuws schilderij online – en beseft dat het misschien een geheim verbergt",
-          "source": "TCE on MSN",
-          "url": "https://www.msn.com/nl-nl/samenleving-cultuur-en-geschiedenis/geschiedenis/man-koopt-17e-eeuws-schilderij-online-en-beseft-dat-het-misschien-een-geheim-verbergt/ar-AA2abqj9",
-          "publishedDate": "Sat, 15 Aug 2026 04:37:13 GMT",
-          "description": "Mark Byram II (24) vertelde Newsweek: &quot;Het bevat veel interessante details die wijzen op een veel rijker verleden.&quot; ..."
+          "title": "NEC heeft geen kind aan Willem II en is klaar voor duel met Bod&#248;/Glimt",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/nec-heeft-geen-kind-aan-willem-ii-en-is-klaar-voor-duel-met-bod%C3%B8glimt/ar-AA2acb2v",
+          "publishedDate": "Sat, 15 Aug 2026 09:24:00 GMT",
+          "description": "NEC kende zaterdag een goede generale competitie voor de eerste ontmoeting met Bod&#248;/Glimt in de Champions League. De ploeg van Dick Schreuder had geen kind aan Willem II. Al duurde het even voor NEC o ..."
         },
         {
-          "title": "Stadse kunstenaar komt in actie voor door natuurbranden getroffen dieren met speciaal schilderij: “Dieren verdienen net zo hard hulp”",
-          "source": "OOG Groningen",
-          "url": "https://www.oogtv.nl/2026/08/stadse-kunstenaar-komt-in-actie-voor-door-natuurbranden-getroffen-dieren-met-speciaal-schilderij-dieren-verdienen-net-zo-hard-hulp/",
-          "publishedDate": "Sun, 09 Aug 2026 03:00:00 GMT",
-          "description": "Geld inzamelen voor House of Animals om dieren te ondersteunen die getroffen zijn door de natuurbranden in Frankrijk en Spanje. Dat is het doel van de stadse kunstenaar Erik Zwezerijnen, die voor dit ..."
-        },
-        {
-          "title": "“Die gele schijn van al die dikke sigaren moet weg”: Mollenaar Piet mag schilderij uit Senaat in volle glorie herstellen",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/regio/antwerpen/kempen/mol/die-gele-schijn-van-al-die-dikke-sigaren-moet-weg-mollenaar-piet-mag-schilderij-uit-senaat-in-volle-glorie-herstellen/159668813.html",
-          "publishedDate": "Thu, 06 Aug 2026 03:55:00 GMT",
-          "description": "De gepassioneerde Jakob Smitsbewonderaar Piet Deceunick heeft een godsgeschenk gekregen. Hij mag het doek ‘De vlag’ van de Kempense meester restaureren. Dat schilderij hangt al meer dan 100 jaar in de ..."
-        },
-        {
-          "title": "Mauritshuis restaureert: verdwenen soldaat keert terug op schilderij Pieter de Hooch",
-          "source": "Den Haag Centraal",
-          "url": "https://www.denhaagcentraal.net/kunst/mauritshuis-restaureert-verdwenen-soldaat-keert-terug-op-schilderij-pieter-de-hooch/",
-          "publishedDate": "Tue, 04 Aug 2026 10:01:00 GMT",
-          "description": "Na lang wikken en wegen besloten de restauratoren van het Mauritshuis een verdwenen figuur terug te brengen op een schilderij van Pieter de Hooch. Maar de ingreep kan ook weer ongedaan worden gemaakt."
-        },
-        {
-          "title": "AD-veiling: ‘verdwenen’ Cruijff-schilderij voor 5500 euro geveild, opbrengst naar Jeugdfonds",
-          "source": "AD",
-          "url": "https://www.ad.nl/wk-voetbal/ad-veiling-verdwenen-cruijff-schilderij-voor-5500-euro-geveild-opbrengst-naar-jeugdfonds~afa8f859/",
-          "publishedDate": "Mon, 20 Jul 2026 20:51:00 GMT",
-          "description": "Het schilderij dat een Duitse kunstenaar jaren geleden als verzoening aan Johan Cruijff wilde aanbieden, is voor 5500 euro geveild. Het kunstwerk is bedoeld als een goedmakertje voor alle ellende die ..."
-        },
-        {
-          "title": "Italiaanse familie ontdekt na 60 jaar dat &quot;verschrikkelijk&quot; schilderij aan de muur een originele Picasso is",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2024/10/01/_verschrikkelijk-schilderij-blijkt-originele-picasso-opkoper-va/",
-          "publishedDate": "Tue, 01 Oct 2024 03:40:00 GMT",
-          "description": "De familie van een Italiaanse opkoper heeft een opvallende ontdekking gedaan over een schilderij dat hij in de jaren 60 meenam uit een huis op Capri. Experts bevestigen dat het om een originele ..."
-        },
-        {
-          "title": "Schilderij serie ‘De kruistocht’ geschonken aan Sint Alfonsius-parochie",
-          "source": "De Ware Tijd",
-          "url": "https://dwtonline.com/schilderij-serie-de-kruistocht-geschonken-aan-sint-alfonsius-parochie/",
-          "publishedDate": "Sat, 27 Jan 2024 10:10:00 GMT",
-          "description": "In Suriname studeerde Wong Loi Sing ruim een halfjaar op de kunstopleiding die de intussen overleden Jules Chin A Foeng had opgezet. Daarna kreeg hij de gelegenheid om zeven jaar op de Vrije Academie ..."
-        }
-      ]
-    },
-    {
-      "keyword": "milan - man utd",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Amorim neemt met Milan revanche op het Man United van Tielemans en Lammens",
+          "title": "Praat mee op VP: Willem II - NEC",
           "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-be/sport/voetbal/amorim-neemt-met-milan-revanche-op-het-man-united-van-tielemans-en-lammens/ar-AA2abMfT",
-          "publishedDate": "Sat, 15 Aug 2026 10:54:00 GMT",
-          "description": "Ruben Amorim heeft met AC Milan revanche genomen op zijn oude werkgever Manchester United. De Italianen wisten een oefenmatch op neutraal terrein in de Tarczynski Arena met 2-4 te winnen, nadat de Eng ..."
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-willem-ii-nec/ar-AA2aaUub",
+          "publishedDate": "Sat, 15 Aug 2026 07:25:01 GMT",
+          "description": "Willem II ontvangt NEC in eigen huis voor een competitieduel. De wedstrijd begint om 16.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
         },
         {
-          "title": "Amorim krijgt meteen zijn revanche op Man United na comeback met AC Milan",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/amorim-krijgt-meteen-zijn-revanche-op-man-united-na-comeback-met-ac-milan/ar-AA2acllc",
-          "publishedDate": "Sat, 15 Aug 2026 09:52:00 GMT",
-          "description": "Ruben Amorim heeft met AC Milan revanche genomen op zijn oude werkgever Manchester United. De Italianen wisten op neutraal terrein in de Tarczynski Arena met 2-4 te winnen, nadat de Engelse topclub tw ..."
-        }
-      ]
-    },
-    {
-      "keyword": "indonesië",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Veel schade na aardbeving in Indonesi&#235;",
-          "source": "NOS",
-          "url": "https://nos.nl/video/2626943-veel-schade-na-aardbeving-in-indonesie",
-          "publishedDate": "Fri, 14 Aug 2026 22:58:00 GMT",
-          "description": "Voor de kust van het Indonesische eiland Flores is een zware aardbeving geweest met een kracht van 7,7. Daarbij zijn meerdere mensen overleden, melden lokale autoriteiten."
-        },
-        {
-          "title": "Alice Olthof (93) sprak met niemand over Nederlands-Indi&#235;, tot haar kleinkinderen er naar vroegen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/den-haag/alice-olthof-93-sprak-met-niemand-over-nederlands-indie-tot-haar-kleinkinderen-er-naar-vroegen~a1c1dc14/",
-          "publishedDate": "Fri, 14 Aug 2026 02:00:00 GMT",
-          "description": "‘Een hele eer’ vindt de Haagse Alice Olthof-Blocks (93) het dat ze zaterdag bij de Nationale Herdenking bij het Indisch Monument in Den Haag een krans mag leggen. Dan worden het einde van de Tweede We ..."
-        },
-        {
-          "title": "Zorgen over economie in Indonesi&#235;: crisis dreigt, maar president Prabowo blijft geld als water uitgeven",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/zorgen-over-economie-in-indonesie-crisis-dreigt-maar-president-prabowo-blijft-geld-als-water-uitgeven~b667ce46/",
-          "publishedDate": "Tue, 28 Jul 2026 22:00:00 GMT",
-          "description": "De Indonesische economie dreigt in te storten, waarschuwen deskundigen, maar president Prabowo Subianto ontkent dat. Hij noemt critici ‘zwarte Hollanders’ (verraders) en lijkt niet van plan zijn enorm ..."
-        },
-        {
-          "title": "WK-droom Indonesi&#235; en bondscoach Kluivert in duigen",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2025/10/12/wk-droom-indonesie-en-bondscoach-kluivert-in-duigen-a4909267",
-          "publishedDate": "Sun, 12 Oct 2025 02:34:00 GMT",
-          "description": "Voetbal Bij een rommelig verlopen toernooi in Saoedi-Arabi&#235; is het nationale elftal van Indonesi&#235; er niet in geslaagd om zich te kwalificeren voor het WK voetbal. Bondscoach Patrick Kluivert en de ..."
-        },
-        {
-          "title": "Islam in Indonesi&#235;: even een hoofddoek op voor de foto",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2021/09/17/islam-in-indonesie-even-een-hoofddoek-op-voor-de-foto-a4058691",
-          "publishedDate": "Fri, 17 Sep 2021 12:00:00 GMT",
-          "description": "Indonesi&#235; Islamitische Indonesi&#235;rs worden conservatiever, maar sterke ge&#235;mancipeerde vrouwen gaan er lijnrecht tegenin, schrijft Annemarie Kas in haar laatste artikel als NRC-correspondent ..."
-        },
-        {
-          "title": "Alumni netwerk Indonesi&#235;",
-          "source": "Universiteit Utrecht",
-          "url": "https://www.uu.nl/organisatie/alumni/onze-alumni/alumni-netwerken/internationale-alumninetwerken/indonesie",
-          "publishedDate": "Mon, 10 Aug 2026 06:49:00 GMT",
-          "description": "Het UU Alumni Netwerk Indonesi&#235; brengt een levendige gemeenschap van afgestudeerden samen. Het is een plek om weer contact te leggen, je netwerk uit te breiden en idee&#235;n uit te wisselen met mede-alumn ..."
-        },
-        {
-          "title": "Wat te doen in Raja Ampat: 8x fantastische ervaringen in de magische archipel van Indonesi&#235;",
-          "source": "Columbus Travel",
-          "url": "https://www.columbusmagazine.nl/bestemming/azie/indonesie/raja-ampat/artikel/30405/raja-ampat-indonesie-activiteiten-tips/",
-          "publishedDate": "Fri, 17 Jul 2026 02:23:00 GMT",
-          "description": "Ontdek de magie van Raja Ampat in Indonesi&#235;. Van duiken met reuzenmanta's tot kajakken tussen homestays: 8 bijzondere tips voor West-Papoea."
-        },
-        {
-          "title": "Democratie is niet vanzelfsprekend in Indonesi&#235;, zeggen deze Leidse studenten",
-          "source": "RD",
-          "url": "https://www.rd.nl/artikel/1124493-democratie-is-niet-vanzelfsprekend-in-indonesie-zeggen-deze-leidse-studenten",
-          "publishedDate": "Sat, 18 Oct 2025 02:20:00 GMT",
-          "description": "In Indonesi&#235; was het al de tweede keer dit jaar dat grote protesten breed worden uitgemeten in internationale media. Het heeft alles te maken met de koers die president Prabowo heeft ingezet. Het ..."
-        },
-        {
-          "title": "Kluivert trots na eerste zege met Indonesi&#235;: 'Dit is nog maar het begin'",
-          "source": "Vi",
-          "url": "https://www.vi.nl/nieuws/kluivert-trots-na-eerste-zege-met-indonesie-dit-is-nog-maar-het-begin",
-          "publishedDate": "Tue, 25 Mar 2025 11:48:00 GMT",
-          "description": "Patrick Kluivert was na zijn eerste overwinning als bondscoach van Indonesi&#235; trots op zijn ploeg. De 48-jarige oud-international beloofde de fans dat de zege op Bahrein het begin van iets mooi is. Ook ..."
-        },
-        {
-          "title": "Romeny laat Kluivert juichen: cruciale zege Indonesi&#235; in jacht op WK-ticket",
-          "source": "Vi",
-          "url": "https://www.vi.nl/nieuws/romeny-laat-kluivert-juichen-cruciale-zege-indonesie-in-jacht-op-wk-ticket",
-          "publishedDate": "Tue, 25 Mar 2025 09:41:00 GMT",
-          "description": "Indonesi&#235; heeft dinsdag de eerste overwinning onder leiding van Patrick Kluivert geboekt. Door de thuiszege op Bahrein blijft het WK in zicht voor Timnas, dat zich weer in de topvier van de Aziatische ..."
+          "title": "Live 16.30 uur | Willem II - NEC (0-0)",
+          "source": "Ajax Showtime on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/live-eredivisie-nec-speelt-tegen-willem-ii-az-en-psv-komen-ook-in-actie/ar-AA2aam78",
+          "publishedDate": "Sat, 15 Aug 2026 06:50:00 GMT",
+          "description": "Dit is het livetopic voor de Eredivisie-wedstrijden op zaterdag 15 augustus. NEC gaat op bezoek bij promovendus Willem II, terwijl FC Utrecht het in eigen huis opneemt tegen AZ. Daarnaast komt PSV in ..."
         }
       ]
     },
     {
       "keyword": "jason arday",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
         {
           "title": "Spraakmakende Cambridge-hoogleraar dood aangetroffen, week na ontslag",
@@ -557,11 +289,11 @@
           "description": "Jason Arday, voormalig professor aan de prestigieuze University of Cambridge, is vrijdag dood in zijn woning aangetroffen, melden Britse media. Arday had vorige week ontslag genomen vanwege beschuldig ..."
         },
         {
-          "title": "Britse premier: dood hoogleraar Arday is ‘een tragedie’",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/1159505-britse-premier-dood-hoogleraar-arday-is-een-tragedie",
-          "publishedDate": "Sat, 15 Aug 2026 07:34:00 GMT",
-          "description": "De Britse premier Andy Burnham vindt de dood van hoogleraar Jason Arday „op vele vlakken een tragedie”. Arday werd vrijdag dood gevonden nadat hij eerder was teruggetreden als professor aan de univers ..."
+          "title": "Geschokte reacties na overlijden van plagiaat beschuldigde Britse professor: &quot;Zou wake-upcall moeten zijn&quot;",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/15/reacties-overlijden-jason-arday-plagiaat-cambridge/",
+          "publishedDate": "Sat, 15 Aug 2026 02:52:00 GMT",
+          "description": "In het Verenigd Koninkrijk wordt, vooral binnen de academische wereld, geschokt gereageerd op het plots overlijden van de van plagiaat beschuldigde professor Jason Arday. &quot;Dit zou een wake-upcall voor ..."
         },
         {
           "title": "Jason Arday, jongste zwarte hoogleraar ooit aan Cambridge, overleden na beschuldigingen van plagiaat",
@@ -583,6 +315,188 @@
           "url": "https://www.hln.be/buitenland/cambridge-professor-41-die-beschuldigd-werd-van-plagiaat-dood-aangetroffen-in-woning-familie-reageert-die-lastercampagne-was-ondraaglijk-voor-jason~a5195b04/",
           "publishedDate": "Thu, 13 Aug 2026 21:55:00 GMT",
           "description": "Cambridge-professor Jason Arday (41) is vrijdag dood aangetroffen in zijn huis in de Londense wijk Battersea. Dat melden diverse Britse media. Arday kwam in het oog van de storm terecht toen hij besch ..."
+        }
+      ]
+    },
+    {
+      "keyword": "farmers defence force",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "GroenLinks en PvdA in Brabant eisen inspreekverbod voor voorman Farmers Defence Force",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/groenlinks-en-pvda-in-brabant-eisen-inspreekverbod-voor-voorman-farmers-defence-force~ae96a0ac/",
+          "publishedDate": "Fri, 14 Aug 2026 21:57:00 GMT",
+          "description": "Mag je iemand de mond snoeren als hij echt te ver gaat? GroenLinks en PvdA in Noord-Brabant vinden van wel. Zij eisen dat Farmers Defence Force-voorman Mark van den Oever niet meer mag inspreken bij d ..."
+        },
+        {
+          "title": "Twee doden en zes gewonden bij ongeluk tractoren die naar boerenprotest reden, Farmers Defence Force deelt Jodensterren met letter B uit",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/nederland/twee-doden-en-zes-gewonden-bij-ongeluk-tractoren-die-naar-boerenprotest-reden-farmers-defence-force-deelt-jodensterren-met-letter-b-uit~b1b54bf3/",
+          "publishedDate": "Fri, 14 Aug 2026 02:10:00 GMT",
+          "description": "Op de A59 zijn bij het Brabantse Heesch twee mensen omgekomen, bij een ongeluk in de staart van een file die was ontstaan door tractoren die richting Den Bosch reden. Honderden boeren verzamelden zich ..."
+        },
+        {
+          "title": "FDF: direct verband tussen ongeval en boerenprotest niet fair",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/openbare-veiligheid-en-noodsituaties/verkeer-en-transport-incidenten/fdf-direct-verband-tussen-ongeval-en-boerenprotest-niet-fair/ar-AA2aawxb",
+          "publishedDate": "Sat, 15 Aug 2026 05:08:00 GMT",
+          "description": "SINT HUBERT (ANP) - Het is &quot;niet fair&quot; om direct een verband te leggen tussen actievoerende boeren in Den Bosch en het dodelijk ongeluk op de A59, zegt vicevoorzitter Jos Ubels van de actiegroep Farme ..."
+        },
+        {
+          "title": "Boer Jan uit Beers legt uit waarom hij boerenprotest in Den Bosch bezocht",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/land-van-cuijk/boer-jan-uit-beers-legt-uit-waarom-hij-boerenprotest-in-den-bosch-bezocht~a77b90ce/",
+          "publishedDate": "Fri, 14 Aug 2026 18:56:00 GMT",
+          "description": "Boer Jan de Haas (64) uit Beers was &#233;&#233;n van de honderden demonstranten die voor het Brabantse provinciehuis stond. Hij vertelt waarom boeren deze vrijdag w&#233;&#233;r de trekker pakten vanwege stikstof. Farme ..."
+        },
+        {
+          "title": "Gisteren om 21:28 • Aangepast vandaag om 10:17",
+          "source": "Omroep Brabant",
+          "url": "https://www.omroepbrabant.nl/nieuws/6023076/groenlinks-en-pvda-willen-inspreekverbod-mark-van-den-oever",
+          "publishedDate": "Fri, 14 Aug 2026 12:29:00 GMT",
+          "description": "Het moet Farmers Defence Force-voorman Mark van den Oever verboden worden om nog in te spreken bij vergaderingen van Provinciale Staten. Dat vinden GroenLinks en PvdA. Vrijdag ging Van den Oever volge ..."
+        },
+        {
+          "title": "Jetten vindt uitdelen Jodensterren rond boerenprotest 'walgelijk'",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/algemeen/jetten-vindt-uitdelen-jodensterren-rond-boerenprotest-walgelijk",
+          "publishedDate": "Fri, 14 Aug 2026 08:20:00 GMT",
+          "description": "Premier Rob Jetten noemt het uitdelen van ‘Jodensterren’ met boerenzakdoekpatroon rond het protest in Den Bosch “walgelijk” en “zeer ongepast”, en waarschuwt FDF."
+        },
+        {
+          "title": "Farmers Defence Force deelt Jodensterren met letter B uit: 'Walgelijke actie'",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/politiek/demonstratie/artikelen/farmers-defence-force-deelt-jodensterren-met-letter-b-uit-walgelijke-actie",
+          "publishedDate": "Fri, 14 Aug 2026 06:39:00 GMT",
+          "description": "Farmers Defence Force (FDF) heeft tijdens het boerenprotest in Den Bosch stickers van davidsterren met het patroon van een rode boerenzakdoek en de letter B uitgedeeld. Dat melden het Brabants Dagblad ..."
+        },
+        {
+          "title": "Gisteren om 15:27 • Aangepast gisteren om 16:06",
+          "source": "Omroep Brabant",
+          "url": "https://www.omroepbrabant.nl/nieuws/6023052/sp-haalt-uit-naar-farmers-defence-force",
+          "publishedDate": "Fri, 14 Aug 2026 06:27:00 GMT",
+          "description": "De SP begint haalt in haar bijdrage in het debat over het intrekken van de vergunning van vijf pluimveehouders, hard uit naar Farmers Defence Force. Statenlid Irma Koopman wil &quot;om te beginnen zeggen d ..."
+        },
+        {
+          "title": "Ook Farmers Defence Force roept op tot boerenprotest in Brabant: ‘Strijders, het is tijd!’",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/den-bosch/ook-farmers-defence-force-roept-op-tot-boerenprotest-in-brabant-strijders-het-is-tijd~a7f9d416/",
+          "publishedDate": "Tue, 25 Nov 2025 23:44:00 GMT",
+          "description": ",,We gaan met z’n allen naar de kloten als we nu stil blijven zitten.” Met deze boodschap roept ook actiegroep Farmers Defence Force boeren op om vrijdag naar het provinciehuis te komen. Het kan ..."
+        },
+        {
+          "title": "Farmers Defence Force over opkomst boerenprotest: 'Weer overweldigend'",
+          "source": "RTV Drenthe",
+          "url": "https://www.rtvdrenthe.nl/nieuws/13140054/farmers-defence-force-over-opkomst-boerenprotest-weer-overweldigend",
+          "publishedDate": "Tue, 17 Nov 2020 13:39:00 GMT",
+          "description": "Drentse boeren protesteerden vandaag samen met collega's uit andere delen van Nederland in Den Haag. Ze zijn het niet eens met de stikstofplannen en de nieuwe Omgevingswet van het kabinet."
+        }
+      ]
+    },
+    {
+      "keyword": "schilderij",
+      "trafficLabel": "10K+",
+      "articles": []
+    },
+    {
+      "keyword": "indonesië",
+      "trafficLabel": "10K+",
+      "articles": []
+    },
+    {
+      "keyword": "milan - man utd",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Amorim neemt met Milan revanche op het Man United van Tielemans en Lammens",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-be/sport/voetbal/amorim-neemt-met-milan-revanche-op-het-man-united-van-tielemans-en-lammens/ar-AA2abMfT",
+          "publishedDate": "Sat, 15 Aug 2026 10:54:00 GMT",
+          "description": "Ruben Amorim heeft met AC Milan revanche genomen op zijn oude werkgever Manchester United. De Italianen wisten een oefenmatch op neutraal terrein in de Tarczynski Arena met 2-4 te winnen, nadat de Eng ..."
+        },
+        {
+          "title": "Amorim krijgt meteen zijn revanche op Man United na comeback met AC Milan",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/amorim-krijgt-meteen-zijn-revanche-op-man-united-na-comeback-met-ac-milan/ar-AA2acllc",
+          "publishedDate": "Sat, 15 Aug 2026 09:52:00 GMT",
+          "description": "Ruben Amorim heeft met AC Milan revanche genomen op zijn oude werkgever Manchester United. De Italianen wisten op neutraal terrein in de Tarczynski Arena met 2-4 te winnen, nadat de Engelse topclub tw ..."
+        }
+      ]
+    },
+    {
+      "keyword": "zomer 2027",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "De 7 badmodetrends voor de zomer van 2027, gespot op GCSW",
+          "source": "FashionUnited",
+          "url": "https://fashionunited.nl/nieuws/mode/de-7-badmodetrends-voor-de-zomer-van-2027-gespot-op-gcsw/2026081370257",
+          "publishedDate": "Thu, 13 Aug 2026 05:00:00 GMT",
+          "description": "Ontdek de 7 belangrijkste badmodetrends voor de zomer van 2027, gepresenteerd tijdens de Gran Canaria Swim Week."
+        },
+        {
+          "title": "Bel&#233;n Rodriguez, haar liefde voor Gaetano en haar droom van Sanremo 2027.",
+          "source": "Notizie.it",
+          "url": "https://www.notizie.it/nl/De-liefde-van-Belen-Rodriguez-voor-Gaetano-en-haar-droom-van-Sanremo-2027./",
+          "publishedDate": "Thu, 13 Aug 2026 01:27:00 GMT",
+          "description": "Bel&#233;n Rodriguez beleeft een zomer vol nieuwe ervaringen, reizen, liefde en nieuwe professionele uitdagingen. Ontdek meer over haar priv&#233;leven en haar toekomstplannen."
+        },
+        {
+          "title": "DTM-kalender 2027 officieel: voorlopig geen internationalisering, clashes met WEC",
+          "source": "Motorsport",
+          "url": "https://nl.motorsport.com/dtm/news/dtm-kalender-2027-officieel-voorlopig-geen-internationalisering-clashes-met-wec/10846134/",
+          "publishedDate": "Wed, 12 Aug 2026 23:09:00 GMT",
+          "description": "De DTM heeft de kalender voor het seizoen 2027 gepresenteerd: hoe het Formule 1-vertrek uit Zandvoort doorwerkt en welke overlappingen er met andere series zijn De DTM heeft zijn kalender voor het ..."
+        },
+        {
+          "title": "Gratis schaduwbomen voor het vee: veehouders hebben tot de zomer van 2027 om aan te vragen. Op is op.",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/regio/gratis-schaduwbomen-voor-het-vee-veehouders-hebben-tot-de-zomer-van-2027-om-aan-te-vragen-op-is-op~a300b0d0/",
+          "publishedDate": "Wed, 12 Aug 2026 18:24:00 GMT",
+          "description": "De Vlaamse overheid en de achttien regionale landschappen delen gratis schaduwbomen uit aan landbouwers met een graasweide. In onze regio loopt dat via Regionaal Landschap Dijleland, voor Bertem, Bier ..."
+        },
+        {
+          "title": "Dit zijn de grootste modetrends van Copenhagen Fashion Week lente/zomer 2027",
+          "source": "Harper's Bazaar",
+          "url": "https://www.harpersbazaar.com/nl/mode-juwelen/a73400903/kopenhagen-fashion-week-lente-zomer-2027-modetrends/",
+          "publishedDate": "Mon, 10 Aug 2026 17:00:00 GMT",
+          "description": "Vorig jaar zagen we de peplum al voorzichtig voorbijkomen, maar in de lente/zomer van 2027 maakt het silhouet zijn definitieve comeback. Gespot op de catwalk bij Baum und Pferdgarten, By Malene Birger ..."
+        },
+        {
+          "title": "Highlights van Copenhagen Fashion Week lente/zomer 2027",
+          "source": "Vogue Nederland",
+          "url": "https://www.vogue.nl/fashion/copenhagen-fashion-week-lente-zomer-2027-highlights/",
+          "publishedDate": "Mon, 10 Aug 2026 07:14:00 GMT",
+          "description": "Kaukasus-couture, space fairies en Scandi mininalism at its best: wat je wil onthouden van Copenhagen Fashion Week lente/zomer 2027."
+        },
+        {
+          "title": "Het Witte Paard keert volgende zomer terug naar Middelkerke: “Deze samenwerking zou wel eens vele jaren kunnen duren”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/middelkerke/het-witte-paard-keert-volgende-zomer-terug-naar-middelkerke-deze-samenwerking-zou-wel-eens-vele-jaren-kunnen-duren~a91d2a9c/",
+          "publishedDate": "Sat, 08 Aug 2026 20:16:00 GMT",
+          "description": "Zondag vond in het casinogebouw Silt &lt;a href=&quot;https://www.hln.be/middelkerke/cast-van-back-to-baccara-wordt-overladen-met-felicitaties-na-premiere-in-silt-ik-ben-ontzettend-dankbaar-dat-mijn-zoon-len- ..."
+        },
+        {
+          "title": "Streetstyle van de CPHFW: deze 7 modetrends nemen we mee naar winter 2026-2027",
+          "source": "Trendystyle",
+          "url": "https://www.trendystyle.net/cphfw-streetstyle-modetrends-winter-2026-2027/",
+          "publishedDate": "Sat, 08 Aug 2026 09:08:00 GMT",
+          "description": "Laat je inspireren door de streetstyle van de CPHFW. Van polkadots tot statement accessoires: deze 7 modetrends zie je terug in de winter van 2026-2027."
+        },
+        {
+          "title": "De coolste Scandi-girl streetstyle van Copenhagen Fashion Week lente/zomer 2027",
+          "source": "Vogue Nederland",
+          "url": "https://www.vogue.nl/fashion/fashion-nieuws/streetstyle-copenhagen-fashion-week-lente-zomer-2027/",
+          "publishedDate": "Fri, 07 Aug 2026 04:11:00 GMT",
+          "description": "Copenhagen Fashion Week is van start: hier bekijk je de coolste Scandi-streetstyle van het lente/zomer 2027-seizoen."
+        },
+        {
+          "title": "Oudsbergen investeert anderhalf miljoen euro in buitenaanleg van De Duin: “Tegen zomer 2027 is sportsite helemaal af”",
+          "source": "HBvL",
+          "url": "https://www.hbvl.be/regio/limburg/oudsbergen/oudsbergen-investeert-anderhalf-miljoen-euro-in-buitenaanleg-van-de-duin-tegen-zomer-2027-is-sportsite-helemaal-af/158244318.html",
+          "publishedDate": "Wed, 08 Jul 2026 17:00:00 GMT",
+          "description": "“Met deze buitenaanleg maken we de sportzone helemaal af”, besluit Goossens. “De nieuwe sporthal staat er al, maar nu zorgen we ervoor dat ook de omgeving een aantrekkelijke en veilige ontmoetingsplek ..."
         }
       ]
     }
