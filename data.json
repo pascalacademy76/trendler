@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-16T22:13:11.032Z",
+  "fetchedAt": "2026-08-16T22:44:34.734Z",
   "trends": [
     {
       "keyword": "ajax - heerenveen",
@@ -41,25 +41,11 @@
           "description": "Ajax heeft thuis tegen sc Heerenveen de eerste punten van het seizoen verspeeld. Trainer M&#237;chel S&#225;nchez zag een prachtgoal van de piepjonge vervanger van Mika Godts, maar kon de zoveelste ineenstortin ..."
         },
         {
-          "title": "Samenvatting: Ajax zakt ver weg en laat Heerenveen punt pakken in Arena",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/video/samenvatting-ajax-zakt-ver-weg-en-laat-heerenveen-punt-pakken-in-arena",
-          "publishedDate": "Sun, 16 Aug 2026 15:00:00 GMT",
-          "description": "In navolging van Feyenoord liet zondag ook Ajax punten liggen . De Amsterdammers begonnen goed aan het duel met SC Heerenveen, maar gaven uiteindelijk een 2-0 voorsprong uit handen. Bekijk de samenvat ..."
-        },
-        {
           "title": "Kijkers missen cruciaal moment in samenvatting Ajax - sc Heerenveen: ‘Complete willekeur’",
           "source": "FCUpdate.nl",
           "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/woede-nos-samenvatting-ajax-heerenveen-bouwman-vente",
           "publishedDate": "Sun, 16 Aug 2026 14:27:00 GMT",
           "description": "Grote onvrede over de NOS na Ajax - sc Heerenveen. Het veelbesproken moment rond Aaron Bouwman en Dylan Vente ontbrak in de samenvatting."
-        },
-        {
-          "title": "Rondom Ajax: Brobbey op de tribune tijdens Ajax - SC Heerenveen",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/rondom-ajax-brobbey-op-de-tribune-tijdens-ajax-sc-heerenveen/ar-AA29MmvH",
-          "publishedDate": "Sun, 16 Aug 2026 14:05:00 GMT",
-          "description": "Tussen al het belangrijke nieuws en reacties rondom Ajax kun je in de loop van de week best het een en ander missen. Geen zorgen, want Ajax Showtime houdt je op de hoogte van de laatste nieuwtjes en g ..."
         },
         {
           "title": "Ajax geeft voorsprong uit handen tegen sc Heerenveen: fluitconcert na eerste puntenverlies",
@@ -74,6 +60,20 @@
           "url": "https://www.msn.com/nl-nl/nieuws/overig/live-1645-uur-ajax-sc-heerenveen-2-1/ar-AA2adkkI",
           "publishedDate": "Sun, 16 Aug 2026 09:15:00 GMT",
           "description": "Dit is het livetopic van de wedstrijd Ajax - sc Heerenveen. De wedstrijd begint om 16.45 uur in de Johan Cruijff ArenA. Zowel de Amsterdammers als de Friezen begonnen in de Eredivisie met een overwinn ..."
+        },
+        {
+          "title": "Ajax met Dolberg en Ouazane tegen Heerenveen",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-met-dolberg-en-ouazane-tegen-heerenveen",
+          "publishedDate": "Sun, 16 Aug 2026 06:32:00 GMT",
+          "description": "Ajax begint zondag aan het Eredivisie-duel met SC Heerenveen met Kasper Dolberg in de spits. De Deen krijgt de voorkeur boven zomeraanwinsten Marcos Leonardo en Tolu Arokodare. Ook Abdellah Ouazane st ..."
+        },
+        {
+          "title": "Samenvatting Ajax - sc Heerenveen",
+          "source": "AFC Ajax",
+          "url": "https://www.ajax.nl/artikelen/samenvatting-ajax-sc-heerenveen/",
+          "publishedDate": "Sun, 16 Aug 2026 03:01:00 GMT",
+          "description": "Ajax heeft zondag met 2-2 gelijkgespeeld tegen sc Heerenveen. De Amsterdammers kwamen op een 2-0-voorsprong dankzij een eigen doelpunt van de Friezen en een fraaie uithaal van Abdellah Ouazane. Toch ..."
         }
       ]
     },
@@ -130,11 +130,18 @@
           "description": "Meerdere hulpdiensten zijn opgeroepen vanwege een incident op een schip bij Urk. Volgens een woordvoerder van de veiligheidsregio Flevoland is er mogelijk sprake van een explosie aan boord."
         },
         {
-          "title": "Explosie vernielt vijf woningen in Den Haag, hulpdiensten gaan uit van 20 slachtoffers",
-          "source": "Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/explosie-vernielt-vijf-woningen-in-den-haag-hulpdiensten-gaan-uit-van-20-slachtoffers~b7e79236/",
-          "publishedDate": "Sat, 07 Dec 2024 04:59:00 GMT",
-          "description": "Een explosie in een woning in Den Haag heeft een enorme ravage veroorzaakt. Zeker vijf appartementen zijn vernield. De politie is op zoek naar een auto die vlak na de klap wegreed. De explosie vond ..."
+          "title": "Duitse hulpdiensten getroffen door explosie in Ratingen, meerdere zwaargewonden",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2023/05/11/duitse-hulpdiensten-getroffen-door-explosie-in-ratingen-meerdere-zwaargewonden-a4164459",
+          "publishedDate": "Thu, 11 May 2023 07:30:00 GMT",
+          "description": "Bij een ontploffing in een woning in het Duitse Ratingen in de buurt van D&#252;sseldorf zijn donderdag zeker twaalf hulpverleners gewond geraakt, van wie acht nog in levensgevaar verkeren. Dat melden ..."
+        },
+        {
+          "title": "Verdachte van mishandeling vlucht dak op in Rotterdam",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/artikelen/verdachte-van-mishandeling-vlucht-dak-op-in-rotterdam",
+          "publishedDate": "Sun, 16 Aug 2026 03:36:00 GMT",
+          "description": "In Rotterdam zijn de hulpdiensten zondag uitgerukt voor een mishandeling aan de Sophoclesstraat. De verdachte is vervolgens het dak van een flatgebouw op gevlucht."
         },
         {
           "title": "Ongeval met letsel op Molenstroetweg in Ruurlo",
@@ -149,13 +156,6 @@
           "url": "https://www.noordhollandsdagblad.nl/regio/haarlem/hulpdiensten-uitgerukt-voor-brandmelding-in-bosgebied-overveen-vuur-snel-onder-controle/158888354.html",
           "publishedDate": "Fri, 17 Jul 2026 10:24:00 GMT",
           "description": "Enkele bomen hebben vrijdagmiddag in brand gestaan in het bosgebied tussen de Duinlustweg en de Tetterodeweg in Overveen. De met meerdere eenheden uitgerukte brandweer heeft het vuur inmiddels onder c ..."
-        },
-        {
-          "title": "Hulpdiensten opgeroepen voor autobrand in Willebroek: “De oorzaak wordt nog verder onderzocht”",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/regio/antwerpen/rivierenland/willebroek/hulpdiensten-opgeroepen-voor-autobrand-in-willebroek-de-oorzaak-wordt-nog-verder-onderzocht/158267720.html",
-          "publishedDate": "Fri, 03 Jul 2026 17:00:00 GMT",
-          "description": "De hulpdiensten werden vrijdagnacht opgeroepen voor een brandend voertuig in de Kloosterstraat in Willebroek. Er raakte niemand gewond, maar drie wagens en een woning raakten bij de brand beschadigd."
         },
         {
           "title": "Nieuw communicatiesysteem helpt hulpdiensten tijdens crisis, ook als stroom en internet uitvallen",
@@ -243,7 +243,7 @@
         {
           "title": "Met glansrol voor Christos Tzolis: ex-Club Brugge-speler geeft twee assists bij debuut voor Arsenal, dat Community Shield overtuigend wint van slap City",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenlands-voetbal/met-glansrol-voor-christos-tzolis-ex-club-brugge-speler-geeft-twee-assists-bij-debuut-voor-arsenal-dat-community-shield-overtuigend-wint-van-slap-city~ae93712c/?slug_rd=1",
+          "url": "https://www.hln.be/buitenlands-voetbal/met-glansrol-voor-christos-tzolis-ex-club-brugge-speler-geeft-twee-assists-bij-debuut-voor-arsenal-dat-community-shield-overtuigend-wint-van-slap-city~ae93712c/",
           "publishedDate": "Sun, 16 Aug 2026 02:29:00 GMT",
           "description": "Een debuut om in te kaderen voor Christos Tzolis (24). De ex-speler van &lt;a href=&quot;http://hln.be/club-brugge&quot; target=&quot;_blank&quot;&gt;Club Brugge was goed voor twee assists bij zijn eerste offici&#235;le minuten voo ..."
         }
@@ -326,6 +326,11 @@
       ]
     },
     {
+      "keyword": "weer september 2026",
+      "trafficLabel": "5K+",
+      "articles": []
+    },
+    {
       "keyword": "tommy wieringa",
       "trafficLabel": "5K+",
       "articles": [
@@ -402,19 +407,6 @@
       ]
     },
     {
-      "keyword": "weer september 2026",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Het weer in september in Spanje volgens weerziener Jorge Rey en AEMET",
-          "source": "inspanje.nl",
-          "url": "https://inspanje.nl/weer-september-spanje-jorge-rey/",
-          "publishedDate": "Thu, 04 Sep 2025 03:09:00 GMT",
-          "description": "De jonge weerziener Jorge Rey, inmiddels een bekende naam in Spanje dankzij zijn traditionele caba&#241;uelas-methode, trekt opnieuw de aandacht van de Spaanse media met zijn voorspellingen voor september ..."
-        }
-      ]
-    },
-    {
       "keyword": "explosief",
       "trafficLabel": "5K+",
       "articles": [
@@ -438,6 +430,13 @@
           "url": "https://www.ad.nl/nieuwegein/cameratoezicht-in-nieuwegeinse-straat-waar-explosief-werd-gevonden~af8e939b/",
           "publishedDate": "Mon, 10 Aug 2026 01:55:00 GMT",
           "description": "Bewoners van de Guido Gezellehove kwamen 7 augustus met de schrik vrij toen bleek dat in hun straat een explosief was gevonden. De politie onderzoekt wie er achter zit, en ook de burgemeester is overg ..."
+        },
+        {
+          "title": "Explosief in tuin in Rotterdam gevonden, EOD ingeschakeld",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2625443-explosief-in-tuin-in-rotterdam-gevonden-eod-ingeschakeld",
+          "publishedDate": "Mon, 03 Aug 2026 16:23:00 GMT",
+          "description": "In de tuin van een huis in Rotterdam heeft de politie maandagavond een explosief gevonden. De Explosieven Opruimingsdienst Defensie (EOD) werd gewaarschuwd en heeft het explosief verwijderd. Het zal ..."
         },
         {
           "title": "Explosief gaat af in Alphen in de Thorbeckestraat om de hoek bij De Hypotheker. ’Wij zijn slachtoffer, geen doelwit’, zegt de filiaalhouder",
@@ -468,25 +467,18 @@
           "description": "In een perkje aan de Spieghelstraat in stadswijk De Wijert is maandagochtend vroeg explosief materiaal aangetroffen. De straat werd urenlang afgezet en omwonenden mochten hun woningen niet verlaten. D ..."
         },
         {
-          "title": "Duitse minister: drone met explosief nieuw soort hybride dreiging",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/buitenland/duitse-minister-drone-met-explosief-nieuw-soort-hybride-dreiging",
-          "publishedDate": "Wed, 05 Aug 2026 14:52:00 GMT",
-          "description": "Drone met explosief bij Leipzig: Duitse minister Dobrindt waarschuwt voor nieuw hybride dreigingsscenario. Incident nabij Oekra&#239;ense toestellen, onderzoek loopt."
-        },
-        {
-          "title": "Drone met 800 gram explosief gevonden bij Oekra&#239;ens vrachtvliegtuig in Leipzig: ‘Professionele hybride dreigingssituatie’",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/nieuws/drone-met-800-gram-explosief-gevonden-bij-oekraiens-vrachtvliegtuig-in-leipzig-professionele-hybride-dreigingssituatie~b0c1135a8/",
-          "publishedDate": "Wed, 05 Aug 2026 14:50:00 GMT",
-          "description": "Op de luchthaven van Leipzig is dinsdagnacht een drone met springstof aangetroffen, vlak bij een Oekra&#239;ens vrachtvliegtuig. Dat bevestigt de NAVO. Een ontsteker bleek defect, waardoor de lading niet o ..."
-        },
-        {
           "title": "Explosief gevonden in tuin na melding van vuurwapen in woning",
           "source": "Rijnmond",
           "url": "https://www.rijnmond.nl/nieuws/2234038/explosief-gevonden-in-tuin-na-melding-van-vuurwapen-in-woning",
           "publishedDate": "Mon, 03 Aug 2026 23:22:00 GMT",
           "description": "In de tuin van een woning aan de Voorde in Rotterdam-Vreewijk is maandagavond een explosief gevonden. De Explosieven Opruimingsdienst Defensie (EOD) heeft het ding tot ontploffing gebracht in het Kral ..."
+        },
+        {
+          "title": "Explosief gevonden in tuin van woning in Rotterdam",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/explosief-gevonden-in-tuin-van-woning-in-rotterdam/ar-AA29kTNQ",
+          "publishedDate": "Mon, 03 Aug 2026 19:19:00 GMT",
+          "description": "ROTTERDAM (ANP) - In de tuin bij een woning in Rotterdam heeft de politie maandagavond een explosief gevonden. De Explosieven Opruimingsdienst Defensie (EOD) werd gewaarschuwd en heeft het explosief v ..."
         }
       ]
     },
@@ -523,18 +515,11 @@
           "description": "Minister Hegseth van Defensie betoogde in de Senaat dat er nog 79 miljard euro extra nodig is voor de defensiebegroting ..."
         },
         {
-          "title": "Iran buigt niet. Trump, hoe moet het nu verder met de oorlog?",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/buitenland/iran-buigt-niet-trump-hoe-moet-het-nu-verder-met-de-oorlog~b3db7611/",
-          "publishedDate": "Sun, 19 Jul 2026 09:09:00 GMT",
-          "description": "De luchtoorlog tussen de VS en Iran duurt inmiddels alweer negen dagen sinds het verbreken van het ‘memorandum van begrip’ tussen beide landen, dat door sommigen ook wel het ‘memorandum van onbegrip’ ..."
-        },
-        {
-          "title": "‘Oorlog in Iran bedreigt toekomst van Chinese theepot-raffinaderijen’",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/buitenland/oorlog-in-iran-bedreigt-toekomst-van-chinese-theepot-raffinaderijen~bf04f997/",
-          "publishedDate": "Mon, 13 Apr 2026 03:18:00 GMT",
-          "description": "Terwijl de halve wereld kampt met olie- en gastekorten door de oorlog tegen Iran, ging er in maart juist m&#233;&#233;r Iraanse olie naar China. Het grootste deel gaat naar zogeheten theepot-raffinaderijen. Die ..."
+          "title": "Iran: akkoord met Oman over Straat van Hormuz aanstaande",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/a/1159522-iran-akkoord-met-oman-over-straat-van-hormuz-aanstaande",
+          "publishedDate": "Sat, 15 Aug 2026 12:01:00 GMT",
+          "description": "Iran zegt in principe een akkoord te hebben met Oman over een veilige scheepsdoorvaart van de Straat van Hormuz. Dat meldt nieuwszender Al Jazeera na een uitgegeven verklaring van het Iraanse minister ..."
         },
         {
           "title": "Trump: na verslaan Iran wordt Straat van Hormuz grondgebied VS",
@@ -563,6 +548,13 @@
           "url": "https://www.hln.be/buitenland/frustratie-van-trump-over-oorlog-in-iran-kookt-over-tijdens-meeting-kabinet-oorlogsminister-hegseth-krijgt-volle-laag~a3d6e642/",
           "publishedDate": "Thu, 06 Aug 2026 03:20:00 GMT",
           "description": "De Amerikaanse president Donald Trump zit helemaal vast in zijn oorlog met Iran en dat frustreert hem bovenmate. Tijdens een kabinetsmeeting vrijdag kreeg minister van Oorlog Pete Hegseth de volle laa ..."
+        },
+        {
+          "title": "Offici&#235;le Amerikaanse dodentol in Iran-oorlog daalt plots van achttien naar veertien",
+          "source": "De Standaard",
+          "url": "https://www.standaard.be/buitenland/officiele-amerikaanse-dodentol-in-iran-oorlog-daalt-plots-van-achttien-naar-veertien/159162115.html",
+          "publishedDate": "Thu, 23 Jul 2026 17:00:00 GMT",
+          "description": "In de oorlog tegen Iran stierven achttien Amerikaanse militairen. Dat stond toch zo in de offici&#235;le telling van het Pentagon, tot het er donderdag ineens nog maar veertien waren. De verklaringen daarv ..."
         }
       ]
     },
@@ -606,13 +598,6 @@
           "description": "Lens kwam nauwelijks onder de Parijse druk vandaan, maar vond halverwege de eerste helft steeds meer ruimte. Lucas Beraldo voorkwam eerst met een sterke tackle dat Franjo Ivanovic gevaarlijk kon ..."
         },
         {
-          "title": "VIDEO. Daar is titel nummer 14: PSG kroont zich na zege op bezoek bij Lens tot Frans landskampioen",
-          "source": "Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/sport/voetbal/video.-daar-is-titel-nummer-14-psg-kroont-zich-na-zege-op-bezoek-bij-lens-tot-frans-landskampioen/151570704.html",
-          "publishedDate": "Wed, 13 May 2026 14:02:00 GMT",
-          "description": "Lens wist wat het moest doen in eigen huis tegen PSG: enkel een zege was voldoende om PSG nog van de titel te houden in de Ligue 1. Luis Enrique had voor de feestavond gekozen voor een ..."
-        },
-        {
           "title": "Champions de France! PSG mept concurrent Lens knock-out en viert 12e titel in 14 jaar",
           "source": "sporza.be",
           "url": "https://sporza.be/nl/matches/voetbal/buitenland/fra/ligue-1-mcdonald-s/2025-2026/regulier/29/rc-lens-paris-saint-germain-champions-de-france-psg-mept-concurrent-lens-knock-out-en-viert-12e-titel-in-14-jaar~1752054129727/",
@@ -625,6 +610,13 @@
           "url": "https://www.hln.be/ligue-1/voorproefje-voor-champions-league-finale-psg-opnieuw-frans-kampioen-na-zege-bij-concurrent-lens~ae94a4e4/",
           "publishedDate": "Wed, 13 May 2026 07:55:00 GMT",
           "description": "Het heeft hen dit seizoen meer moeite gekost dan gewoonlijk, maar PSG is voor de 14de keer Frans landskampioen. De Parijzenaars wonnen op de voorlaatste speeldag met 0-2 bij Lens, de verrassende ..."
+        },
+        {
+          "title": "Het resterende programma van Lens en PSG in Ligue 1",
+          "source": "Vi",
+          "url": "https://www.vi.nl/nieuws/enorme-stunt-in-de-maak-het-resterende-programma-van-lens-en-psg-in-ligue-1",
+          "publishedDate": "Tue, 21 Apr 2026 01:39:00 GMT",
+          "description": "In de Ligue 1 zijn er nog een paar speelrondes af te werken, al heeft Paris Saint-Germain nog een wedstrijd tegoed ten opzichte van Lens. Op dit moment gaan de Parijzenaren aan de leiding met 63 ..."
         },
         {
           "title": "PSG-Lens ondanks kritiek uitgesteld: 'Eigenaardige opvatting van sportiviteit'",
