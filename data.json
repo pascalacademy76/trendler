@@ -1,329 +1,25 @@
 {
-  "fetchedAt": "2026-08-16T23:13:15.427Z",
+  "fetchedAt": "2026-08-16T23:41:37.010Z",
   "trends": [
     {
       "keyword": "ajax - heerenveen",
       "trafficLabel": "100K+",
-      "articles": [
-        {
-          "title": "Ook Ajax niet meer foutloos in Eredivisie na gelijkspel tegen sc Heerenveen",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6406507/ook-ajax-niet-meer-foutloos-in-eredivisie-na-gelijkspel-tegen-sc-heerenveen.html",
-          "publishedDate": "Sun, 16 Aug 2026 11:36:00 GMT",
-          "description": "Ook Ajax heeft zondag punten geknoeid in de Eredivisie. De ploeg van trainer M&#237;chel S&#225;nchez speelde met 2-2 gelijk tegen sc Heerenveen. De Amsterdammers staan nu op gelijke hoogte met onder meer PSV e ..."
-        },
-        {
-          "title": "Feestje Ajax in jarige Arena loopt uit op kater door late gelijkmaker Heerenveen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627159-feestje-ajax-in-jarige-arena-loopt-uit-op-kater-door-late-gelijkmaker-heerenveen",
-          "publishedDate": "Sun, 16 Aug 2026 09:39:00 GMT",
-          "description": "In de Johan Cruijff Arena wordt het 2-2. Maxence Rivera maakt in de 82ste minuut de gelijkmaker. Ajax stond met 2-0 voor."
-        },
-        {
-          "title": "Ajax geeft in eigen Arena ruime voorsprong uit handen tegen Heerenveen (2-2)",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/sport/ajax-geeft-in-eigen-arena-ruime-voorsprong-uit-handen-tegen-heerenveen-2-2~b4e27c88/",
-          "publishedDate": "Sun, 16 Aug 2026 06:57:00 GMT",
-          "description": "Ajax is op pijnlijke wijze tegen het eerste puntenverlies aangelopen in de VriendenLoterij Eredivisie. De ploeg van trainer M&#237;chel S&#225;nchez gaf in de Johan Cruijff Arena een voorsprong van 2-0 uit hand ..."
-        },
-        {
-          "title": "Heerenveen speelt gelijk tegen Ajax • Amsterdammers hielden de Friezen in leven",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2627093-heerenveen-speelt-gelijk-tegen-ajax-amsterdammers-hielden-de-friezen-in-leven",
-          "publishedDate": "Sun, 16 Aug 2026 04:11:00 GMT",
-          "description": "Het spelbeeld is weer zoals in het eerste halfuur. Ajax heeft de druk er goed op bij Heerenveen, dat nauwelijks van de eigen helft afkomt. Heerenveen brengt zo Rivera erin. De tweede helft is begonnen ..."
-        },
-        {
-          "title": "Dreun voor Ajax: Amsterdammers geven in eigen Arena ruime voorsprong uit handen tegen Heerenveen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/dreun-voor-ajax-amsterdammers-geven-in-eigen-arena-ruime-voorsprong-uit-handen-tegen-heerenveen~a4e27c88/",
-          "publishedDate": "Sun, 16 Aug 2026 03:43:00 GMT",
-          "description": "Ajax heeft thuis tegen sc Heerenveen de eerste punten van het seizoen verspeeld. Trainer M&#237;chel S&#225;nchez zag een prachtgoal van de piepjonge vervanger van Mika Godts, maar kon de zoveelste ineenstortin ..."
-        },
-        {
-          "title": "Kijkers missen cruciaal moment in samenvatting Ajax - sc Heerenveen: ‘Complete willekeur’",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/woede-nos-samenvatting-ajax-heerenveen-bouwman-vente",
-          "publishedDate": "Sun, 16 Aug 2026 14:27:00 GMT",
-          "description": "Grote onvrede over de NOS na Ajax - sc Heerenveen. Het veelbesproken moment rond Aaron Bouwman en Dylan Vente ontbrak in de samenvatting."
-        },
-        {
-          "title": "SC Heerenveen diep onder de indruk van aanwinst Ajax: 'Op het veld ervaar je het anders'",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/sc-heerenveen-diep-onder-de-indruk-van-aanwinst-ajax-op-het-veld-ervaar-je-het-anders/bltbd59328dcafc29f0",
-          "publishedDate": "Sun, 16 Aug 2026 12:31:00 GMT",
-          "description": "Ajax verspeelde zondag een 2-0 voorsprong tegen sc Heerenveen (2-2). In het eerste halfuur speelden de Amsterdammers overtuigend en dat hadden zij deels te danken aan doelman Marc ter Stegen, die stro ..."
-        },
-        {
-          "title": "Ajax geeft voorsprong uit handen tegen sc Heerenveen: fluitconcert na eerste puntenverlies",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/ajax-geeft-voorsprong-uit-handen-tegen-sc-heerenveen-fluitconcert-na-eerste-puntenverlies",
-          "publishedDate": "Sun, 16 Aug 2026 11:36:00 GMT",
-          "description": "Ajax heeft in de Johan Cruijff ArenA een comfortabele voorsprong volledig uit handen gegeven tegen sc Heerenveen ..."
-        },
-        {
-          "title": "Ajax laat na door te drukken tegen SC Heerenveen en geeft drie punten in slotfase uit handen",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-1645-uur-ajax-sc-heerenveen-2-1/ar-AA2adkkI",
-          "publishedDate": "Sun, 16 Aug 2026 09:15:00 GMT",
-          "description": "Dit is het livetopic van de wedstrijd Ajax - sc Heerenveen. De wedstrijd begint om 16.45 uur in de Johan Cruijff ArenA. Zowel de Amsterdammers als de Friezen begonnen in de Eredivisie met een overwinn ..."
-        },
-        {
-          "title": "Ajax met Dolberg en Ouazane tegen Heerenveen",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-met-dolberg-en-ouazane-tegen-heerenveen",
-          "publishedDate": "Sun, 16 Aug 2026 06:32:00 GMT",
-          "description": "Ajax begint zondag aan het Eredivisie-duel met SC Heerenveen met Kasper Dolberg in de spits. De Deen krijgt de voorkeur boven zomeraanwinsten Marcos Leonardo en Tolu Arokodare. Ook Abdellah Ouazane st ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "feyenoord - ga eagles",
       "trafficLabel": "100K+",
-      "articles": [
-        {
-          "title": "LIVE | Feyenoord - Go Ahead Eagles 2-2 | Einde wedstrijd",
-          "source": "FR-Fans.nl",
-          "url": "https://www.fr-fans.nl/nieuws/78508/live-feyenoord-go-ahead-eagles",
-          "publishedDate": "Sun, 16 Aug 2026 07:10:00 GMT",
-          "description": "Feyenoord speelt vandaag in de Eredivisie de wedstrijd tegen Go Ahead Eagles. Het is voor beide ploegen de tweede offici&#235;le wedstrijd van het seizoen 2026-2027."
-        },
-        {
-          "title": "Vermoedelijke opstelling Feyenoord: Van Bronckhorst wisselt op &#233;&#233;n positie",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/vermoedelijke-opstelling-feyenoord-van-bronckhorst-wisselt-op-%C3%A9%C3%A9n-positie/ar-AA2a7XDa?ocid=BingNewsVerp",
-          "publishedDate": "Sat, 15 Aug 2026 02:51:13 GMT",
-          "description": "Feyenoord neemt het zondagmiddag in eigen huis op tegen Go Ahead Eagles. De Rotterdammers willen na de 0-1 overwinning vorige week op Sparta Rotterdam de seizoensouverture een goed vervolg geven tegen"
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "hulpdiensten",
       "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Ongeval met letsel op Boshuizerlaan in Leiden",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-leiden/ongeval-met-letsel-op-boshuizerlaan-in-leiden~a248be30/",
-          "publishedDate": "Sat, 15 Aug 2026 18:54:00 GMT",
-          "description": "De hulpdiensten zijn zondagochtend uitgerukt voor een ongeval met letsel op de kruising de Boshuizerlaan en Telderskade in Leiden."
-        },
-        {
-          "title": "Hulpdiensten helpen twee personen veilig aan land bij Het Zwin in Retranchement",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/sluis/hulpdiensten-helpen-twee-personen-veilig-aan-land-bij-het-zwin-in-retranchement~a6062faf/",
-          "publishedDate": "Sun, 09 Aug 2026 18:35:00 GMT",
-          "description": "Twee personen raakten zondagavond in de problemen na opkomend water. Dit gebeurde in natuurgebied Het Zwin in Retranchement. Uiteindelijk wisten de twee personen dankzij de Belgische brandweer bij het ..."
-        },
-        {
-          "title": "Hulpdiensten rukken massaal uit na explosie op zeilboot",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/video/hulpdiensten-rukken-massaal-uit-na-explosie-op-zeilboot/159510608.html",
-          "publishedDate": "Sun, 02 Aug 2026 08:55:00 GMT",
-          "description": "Zondagmiddag zijn hulpdiensten massaal uitgerukt na een explosie op een zeilboot in de buurt van Urk. Twee mensen raakten te water en zijn later naar het ziekenhuis gebracht. Over de toestand van het ..."
-        },
-        {
-          "title": "Hulpdiensten onderweg naar schip bij Urk",
-          "source": "NOS",
-          "url": "https://nos.nl/video/2625263-hulpdiensten-onderweg-naar-schip-bij-urk",
-          "publishedDate": "Sun, 02 Aug 2026 06:50:00 GMT",
-          "description": "Meerdere hulpdiensten zijn opgeroepen vanwege een incident op een schip bij Urk. Volgens een woordvoerder van de veiligheidsregio Flevoland is er mogelijk sprake van een explosie aan boord."
-        },
-        {
-          "title": "Ongeval met letsel op Kromme Spieringweg in Vijfhuizen",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/noord-holland/kennemerland/vijfhuizen/55705576/p2000-ambulance-naar-kromme-spieringweg-in-vijfhuizen-voor-ongeval-met-letsel.html",
-          "publishedDate": "Sun, 16 Aug 2026 13:50:00 GMT",
-          "description": "De hulpdiensten zijn zondagavond uitgerukt voor een ongeval met letsel aan de Kromme Spieringweg in Vijfhuizen."
-        },
-        {
-          "title": "Verdachte van mishandeling vlucht dak op in Rotterdam",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/crime/artikelen/verdachte-van-mishandeling-vlucht-dak-op-in-rotterdam",
-          "publishedDate": "Sun, 16 Aug 2026 03:36:00 GMT",
-          "description": "In Rotterdam zijn de hulpdiensten zondag uitgerukt voor een mishandeling aan de Sophoclesstraat. De verdachte is vervolgens het dak van een flatgebouw op gevlucht."
-        },
-        {
-          "title": "Ongeval met letsel op Molenstroetweg in Ruurlo",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/112-nieuws-berkelland/ongeval-met-letsel-op-molenstroetweg-in-ruurlo~a60a0168/",
-          "publishedDate": "Sun, 16 Aug 2026 02:22:00 GMT",
-          "description": "De melding kwam rond kwart over zes 's avonds bij de alarmcentrale binnen. Hulpdiensten zijn naar de locatie gestuurd om hulp te verlenen. 112 Ruurlo De brandweer is de afgelopen 30 dagen 4 keer naar ..."
-        },
-        {
-          "title": "Hulpdiensten uitgerukt voor brandmelding in bosgebied Overveen, vuur snel onder controle",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/regio/haarlem/hulpdiensten-uitgerukt-voor-brandmelding-in-bosgebied-overveen-vuur-snel-onder-controle/158888354.html",
-          "publishedDate": "Fri, 17 Jul 2026 10:24:00 GMT",
-          "description": "Enkele bomen hebben vrijdagmiddag in brand gestaan in het bosgebied tussen de Duinlustweg en de Tetterodeweg in Overveen. De met meerdere eenheden uitgerukte brandweer heeft het vuur inmiddels onder c ..."
-        },
-        {
-          "title": "Hulpdiensten opgeroepen voor autobrand in Willebroek: “De oorzaak wordt nog verder onderzocht”",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/regio/antwerpen/rivierenland/willebroek/hulpdiensten-opgeroepen-voor-autobrand-in-willebroek-de-oorzaak-wordt-nog-verder-onderzocht/158267720.html",
-          "publishedDate": "Fri, 03 Jul 2026 17:00:00 GMT",
-          "description": "De hulpdiensten werden vrijdagnacht opgeroepen voor een brandend voertuig in de Kloosterstraat in Willebroek. Er raakte niemand gewond, maar drie wagens en een woning raakten bij de brand beschadigd."
-        },
-        {
-          "title": "Nieuw communicatiesysteem helpt hulpdiensten tijdens crisis, ook als stroom en internet uitvallen",
-          "source": "RD",
-          "url": "https://www.rd.nl/a/1154231-nieuw-communicatiesysteem-helpt-hulpdiensten-tijdens-crisis-ook-als-stroom-en-internet-uitvallen",
-          "publishedDate": "Fri, 26 Jun 2026 06:00:00 GMT",
-          "description": "„Tijdens de aardbeving werd ik wakker. Het eerste wat ik probeerde, was contact opnemen met vrienden in Oost-Turkije, met wie ik vaak online games speelde. Maar ik kon niemand bereiken”, vertelt &#199;ağan ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "arsenal - manchester city",
       "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Arsenal verslaat City in strijd om Community Shield na goal binnen 23 seconden",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6406508/arsenal-verslaat-city-in-strijd-om-community-shield-na-goal-binnen-23-seconden.html",
-          "publishedDate": "Sun, 16 Aug 2026 10:55:00 GMT",
-          "description": "Arsenal heeft zondag ten koste van Manchester City het Community Shield veroverd. De Engelse landskampioen kwam al binnen 23 seconden op voorsprong en liep uit naar een 3-0-overwinning."
-        },
-        {
-          "title": "Arsenal pakt Community Shield door zege op City, waar Maresca debuteert als coach",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627152-arsenal-pakt-community-shield-door-zege-op-city-waar-maresca-debuteert-als-coach",
-          "publishedDate": "Sun, 16 Aug 2026 09:04:00 GMT",
-          "description": "De regerend landskampioen van Engeland verovert de Super Cup door met 3-0 te winnen van de ploeg van trainer Enzo Maresca, de opvolger van Pep Guardiola."
-        },
-        {
-          "title": "Kampioen Arsenal geeft bekerwinnaar Manchester City pak slaag en grijpt eerste prijs van het seizoen",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/sport/voetbal/kampioen-arsenal-geeft-bekerwinnaar-manchester-city-pak-slaag-en-grijpt-eerste-prijs-van-het-seizoen/160096775.html",
-          "publishedDate": "Sun, 16 Aug 2026 08:59:00 GMT",
-          "description": "Arsenal heeft Manchester City zondag verslagen in de strijd om de Community Shield, de Engelse supercup. De landskampioen was in het Principality Stadium in Cardiff met 3-0 te sterk voor de winnaar va ..."
-        },
-        {
-          "title": "Voormalig Twente-huurling blinkt uit in Cardiff, waar Arsenal veel te sterk is voor Manchester City",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/voormalig-twente-huurling-blinkt-uit-in-cardiff-waar-arsenal-veel-te-sterk-is-voor-manchester-city~a7e0bbff/",
-          "publishedDate": "Sun, 16 Aug 2026 02:23:00 GMT",
-          "description": "Arsenal heeft met grote overtuiging de eerste prijs van het seizoen gepakt. De Premier League-kampioen won in Cardiff met 3-0 van FA Cup-winnaar Manchester City in de strijd om de Community Shield."
-        },
-        {
-          "title": "Arsenal verslaat Manchester City in strijd om Community Shield",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/arsenal-verslaat-manchester-city-in-strijd-om-community-shield",
-          "publishedDate": "Sun, 16 Aug 2026 11:11:00 GMT",
-          "description": "Arsenal wint met 3-0 van Manchester City in de Community Shield in Cardiff. Doelpunten van Calafiori, Havertz en &#216;degaard. Eerste duel onder Maresca."
-        },
-        {
-          "title": "Arsenal in bloedvorm speelt Manchester City zoek en verovert Community Shield",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/arsenal-in-bloedvorm-speelt-manchester-city-zoek-en-verovert-community-shield/ar-AA2afeI1",
-          "publishedDate": "Sun, 16 Aug 2026 10:55:00 GMT",
-          "description": "Arsenal heeft zondagmiddag met grote overtuiging de Community Shield veroverd. De landskampioen was in het Principality Stadium in Cardiff met 3-0 te sterk voor FA Cup-houder Manchester City. Riccardo ..."
-        },
-        {
-          "title": "Uitblinker Christos Tzolis loodst Arsenal voorbij zwak Manchester City naar afgetekende zege in Community Shield",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/2026/08/16/uitblinker-christos-tzolis-loodst-arsenal-voorbij-zwak-manchester-city-naar-afgetekende-zege-in-community-shield~1786895949346/",
-          "publishedDate": "Sun, 16 Aug 2026 09:31:00 GMT",
-          "description": "In de Community Shield, de Engelse Supercup, stond Tzolis aan de aftrap in het team van Mikel Arteta. Ook Bruno Guimaraes, die andere topaankoop, stond in de ploeg. Bij City was Jeremy Doku, die na ..."
-        },
-        {
-          "title": "VIDEO. Twee assists van Christos Tzolis bezorgen Arsenal tegen onmondig Manchester City van Jeremy Doku achttiende Community Shield",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/sport/voetbal/video.-twee-assists-van-christos-tzolis-bezorgen-arsenal-tegen-onmondig-manchester-city-van-jeremy-doku-achttiende-community-shield/160097432.html",
-          "publishedDate": "Sun, 16 Aug 2026 09:13:00 GMT",
-          "description": "Arsenal heeft zondag in het Millennium Stadium in Cardiff voor de achttiende keer de Community Shield, zeg maar de Engelse Super Cup, naar zich toe getrokken. De landskampioen was met 3-0 te sterk voo ..."
-        },
-        {
-          "title": "Arsenal walst met bliksemstart over Man City heen en pakt eerste prijs",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/arsenal-walst-met-bliksemstart-over-man-city-heen-en-pakt-eerste-prijs/ar-AA2aeInD",
-          "publishedDate": "Sun, 16 Aug 2026 08:58:44 GMT",
-          "description": "Arsenal heeft de eerste prijs van het nieuwe seizoen binnen. De formatie van Mikel Arteta won via een bliksemstart overtuigend van Manchester City het Community Shield, waarbij nieuwe manager Enzo Mar ..."
-        },
-        {
-          "title": "Met glansrol voor Christos Tzolis: ex-Club Brugge-speler geeft twee assists bij debuut voor Arsenal, dat Community Shield overtuigend wint van slap City",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenlands-voetbal/met-glansrol-voor-christos-tzolis-ex-club-brugge-speler-geeft-twee-assists-bij-debuut-voor-arsenal-dat-community-shield-overtuigend-wint-van-slap-city~ae93712c/",
-          "publishedDate": "Sun, 16 Aug 2026 02:29:00 GMT",
-          "description": "Een debuut om in te kaderen voor Christos Tzolis (24). De ex-speler van &lt;a href=&quot;http://hln.be/club-brugge&quot; target=&quot;_blank&quot;&gt;Club Brugge was goed voor twee assists bij zijn eerste offici&#235;le minuten voo ..."
-        }
-      ]
-    },
-    {
-      "keyword": "twente - pec",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Eigen goal PEC Zwolle helpt winnend FC Twente in het zadel",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627130-eigen-goal-pec-zwolle-helpt-winnend-fc-twente-in-het-zadel",
-          "publishedDate": "Sun, 16 Aug 2026 07:23:00 GMT",
-          "description": "FC Twente heeft zondagmiddag gewonnen van PEC Zwolle. De ploeg van John van den Brom kwam terug van een achterstand na een onfortuinlijke eigen goal van PEC-aanvaller Dylan Mbayo."
-        },
-        {
-          "title": "PEC Zwolle kan altijd van FC Twente verliezen, maar het gaat om de manier waarop",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/zwolle/pec-zwolle-kan-altijd-van-fc-twente-verliezen-maar-het-gaat-om-de-manier-waarop~a22de584/",
-          "publishedDate": "Sun, 16 Aug 2026 02:50:00 GMT",
-          "description": "Dat PEC Zwolle een uitwedstrijd tegen FC Twente verliest, is niet raar. De manier waarop de Zwollenaren zondag met 3-1 onderuitgingen, mag echter niet als acceptabel worden gezien. Helemaal niet met h ..."
-        },
-        {
-          "title": "PEC Zwolle verdedigt aardig, maar daar houdt het ook mee op",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/pec-zwolle-verdedigt-aardig-maar-daar-houdt-het-ook-mee-op",
-          "publishedDate": "Sun, 16 Aug 2026 14:41:00 GMT",
-          "description": "PEC Zwolle verloor met 3-1 van FC Twente na een zwakke vertoning in Enschede. De Zwollenaren verdedigden aardig, maar kwamen aan de bal tekort en cre&#235;erden nauwelijks kansen."
-        },
-        {
-          "title": "Onrust is voelbaar bij FC Twente: 'Hier eisen we veel van elkaar'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/onrust-is-voelbaar-bij-fc-twente-hier-eisen-we-veel-van-elkaar",
-          "publishedDate": "Sun, 16 Aug 2026 12:58:00 GMT",
-          "description": "FC Twente versloeg PEC Zwolle met 3-1, maar de onrust in Enschede was duidelijk voelbaar. Robin Pr&#246;pper vertelt over de druk, de prestaties en het gemor in de Grolsch Veste."
-        },
-        {
-          "title": "FC Twente verslaat PEC Zwolle en heeft eerste punten binnen",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/fc-twente-verslaat-pec-zwolle-en-heeft-eerste-punten-binnen",
-          "publishedDate": "Sun, 16 Aug 2026 09:42:00 GMT",
-          "description": "FC Twente wint thuis met 3-1 van PEC Zwolle. Weidmann scoort, eigen goal Mbayo en Rots beslist. Eerste zege van het seizoen, verschil na rust."
-        },
-        {
-          "title": "PEC afgetroefd door FC Twente: 'We speelden hun wedstrijd'",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/pec-afgetroefd-door-fc-twente-we-speelden-hun-wedstrijd/ar-AA2afcrO",
-          "publishedDate": "Sun, 16 Aug 2026 09:35:15 GMT",
-          "description": "PEC Zwolle verliet De Grolsch Veste zondag met een illusie armer. De ploeg van trainer Henry van der Vegt kwam nog op voorsprong tegen FC Twente, maar liet verder veel te weinig zien. De thuisploeg hi ..."
-        },
-        {
-          "title": "FC Twente buigt achterstand om en pakt eerste punten dit Eredivisie-seizoen",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/fc-twente-buigt-achterstand-om-en-pakt-eerste-punten-dit-eredivisie-seizoen/blt41e04c299e1633e7",
-          "publishedDate": "Sun, 16 Aug 2026 09:26:00 GMT",
-          "description": "FC Twente heeft zijn eerste punten binnen in dit nieuwe VriendenLoterij Eredivisie-seizoen. In eigen huis boekte de ploeg van trainer John van den Brom zondag een 3-1 overwinning op PEC Zwolle, dat he ..."
-        },
-        {
-          "title": "Lammers nu wel eerste invaller bij FC Twente: 'Die pikorde is te groot gemaakt'",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/lammers-nu-wel-eerste-invaller-bij-fc-twente-die-pikorde-is-te-groot-gemaakt/ar-AA2aePxh",
-          "publishedDate": "Sun, 16 Aug 2026 08:53:13 GMT",
-          "description": "Sam Lammers kreeg zondagmiddag tijdens het duel met PEC Zwolle een groot applaus van de supporters van FC Twente. De spits kwam na 82 minuten in het veld voor Wout Weghorst en kreeg een warm onthaal."
-        },
-        {
-          "title": "Waarom Twente in de eerste helft moeite had met PEC Zwolle",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/waarom-twente-in-de-eerste-helft-moeite-had-met-pec-zwolle/ar-AA2aer3Q",
-          "publishedDate": "Sun, 16 Aug 2026 07:24:44 GMT",
-          "description": "FC Twente heeft de eerste drie punten van dit Eredivisieseizoen binnen door PEC Zwolle te verslaan: 3-1. Tactische analyse van een wedstrijd waarin Twente moeite heeft met het lage blok van PEC, maar ..."
-        },
-        {
-          "title": "Praat mee op VP: dolend Twente ook bij PEC Zwolle op achterstand",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-dolend-twente-ook-bij-pec-zwolle-op-achterstand/ar-AA2aepu3",
-          "publishedDate": "Sun, 16 Aug 2026 05:55:27 GMT",
-          "description": "FC Twente en PEC Zwolle treffen elkaar vandaag in de Eredivisie. De wedstrijd begint om 14.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "jutta leerdam",
@@ -402,80 +98,110 @@
       ]
     },
     {
-      "keyword": "speerwerpen",
-      "trafficLabel": "10K+",
+      "keyword": "twente - pec",
+      "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Meerkampmedailles lonken op EK voor Oosterwegel en Dokter na verspringen en speerwerpen",
+          "title": "Eigen goal PEC Zwolle helpt winnend FC Twente in het zadel",
           "source": "NOS",
-          "url": "https://nos.nl/video/2626986-meerkampmedailles-lonken-op-ek-voor-oosterwegel-en-dokter-na-verspringen-en-speerwerpen",
-          "publishedDate": "Sat, 15 Aug 2026 07:52:00 GMT",
-          "description": "Bekijk een samenvatting van het verspringen en speerwerpen, het vijfde en zesde onderdeel, van de zevenkamp op de EK atletiek in Birmingham."
+          "url": "https://nos.nl/artikel/2627130-eigen-goal-pec-zwolle-helpt-winnend-fc-twente-in-het-zadel",
+          "publishedDate": "Sun, 16 Aug 2026 07:23:00 GMT",
+          "description": "FC Twente heeft zondagmiddag gewonnen van PEC Zwolle. De ploeg van John van den Brom kwam terug van een achterstand na een onfortuinlijke eigen goal van PEC-aanvaller Dylan Mbayo."
         },
         {
-          "title": "Atletiekclub Feniks in Zuidoost vreest funeste herinrichting: ‘Met een speelheuvel op het middenterrein kun je niet speerwerpen’",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/amsterdam/atletiekclub-feniks-in-zuidoost-vreest-funeste-herinrichting-met-een-speelheuvel-op-het-middenterrein-kun-je-niet-speerwerpen~b89db402/",
-          "publishedDate": "Tue, 21 Nov 2023 03:59:00 GMT",
-          "description": "Atletiekvereniging Feniks vreest voor haar voortbestaan. Door een voorgenomen herinrichting van het Bijlmer Sportpark dreigt het middenterrein te sneuvelen en komen onderdelen als speerwerpen en ..."
+          "title": "FC Twente buigt achterstand om mede dankzij knullig eigen doelpunt PEC en kan met vertrouwen naar Europese play-off",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/fc-twente-buigt-achterstand-om-mede-dankzij-knullig-eigen-doelpunt-pec-en-kan-met-vertrouwen-naar-europese-play-off~afc58a3e/",
+          "publishedDate": "Sun, 16 Aug 2026 00:49:00 GMT",
+          "description": "FC Twente heeft de eerste zege van het seizoen te pakken in de VriendenLoterij Eredivisie. De ploeg van trainer John van den Brom boog in eigen huis tegen PEC Zwolle mede dankzij een knullig eigen doe ..."
         },
         {
-          "title": "Nafi Thiam sluit comeback in Ratingen af met matige prestatie in speerwerpen",
-          "source": "europesays",
-          "url": "https://www.europesays.com/be-nl/92918/",
-          "publishedDate": "Sun, 28 Jun 2026 08:38:00 GMT",
-          "description": "Nafi Thiam heeft ook op de tweede dag van de zevenkamp in Ratingen (Duitsland) niet voor een uitschieter kunnen zorgen. In het speerwerpen bleef ze 12 meter onder haar persoonlijk record. Zo sluit ze ..."
+          "title": "PEC Zwolle verdedigt aardig, maar daar houdt het ook mee op",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/pec-zwolle-verdedigt-aardig-maar-daar-houdt-het-ook-mee-op",
+          "publishedDate": "Sun, 16 Aug 2026 14:41:00 GMT",
+          "description": "PEC Zwolle verloor met 3-1 van FC Twente na een zwakke vertoning in Enschede. De Zwollenaren verdedigden aardig, maar kwamen aan de bal tekort en cre&#235;erden nauwelijks kansen."
         },
         {
-          "title": "Historisch goud: Nafi Thiam derde keer op rij olympisch kampioen op zevenkamp, Noor Vidts pakt bijzonder knap brons",
-          "source": "HLN",
-          "url": "https://www.hln.be/olympische-spelen/historisch-goud-nafi-thiam-derde-keer-op-rij-olympisch-kampioen-op-zevenkamp-noor-vidts-pakt-bijzonder-knap-brons~af760c58/",
-          "publishedDate": "Fri, 09 Aug 2024 06:09:00 GMT",
-          "description": "Een historische hattrick! Nafi Thiam (29) heeft voor de derde keer op rij olympisch goud veroverd op de zevenkamp. Op de afsluitende 800 meter verdedigde ze haar leidersplaats met succes tegen ..."
+          "title": "Onrust is voelbaar bij FC Twente: 'Hier eisen we veel van elkaar'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/onrust-is-voelbaar-bij-fc-twente-hier-eisen-we-veel-van-elkaar",
+          "publishedDate": "Sun, 16 Aug 2026 12:58:00 GMT",
+          "description": "FC Twente versloeg PEC Zwolle met 3-1, maar de onrust in Enschede was duidelijk voelbaar. Robin Pr&#246;pper vertelt over de druk, de prestaties en het gemor in de Grolsch Veste."
         },
         {
-          "title": "Vetter na speerwerpen ineens nog kansrijk voor WK-plak zevenkamp",
-          "source": "zeelandnet",
-          "url": "https://www.zeelandnet.nl/nieuws/vetter-na-speerwerpen-ineens-nog-kansrijk-voor-wk-plak-zevenkamp",
-          "publishedDate": "Sun, 20 Aug 2023 07:14:00 GMT",
-          "description": "Vetter klom na het zesde onderdeel zelfs naar de tweede plaats in het klassement met 5684 punten. Ze heeft er 26 minder dan de Britse Katarina Johnson-Thompson, die zondagavond als leider de ..."
+          "title": "FC Twente verslaat PEC Zwolle en heeft eerste punten binnen",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/fc-twente-verslaat-pec-zwolle-en-heeft-eerste-punten-binnen",
+          "publishedDate": "Sun, 16 Aug 2026 09:42:00 GMT",
+          "description": "FC Twente wint thuis met 3-1 van PEC Zwolle. Weidmann scoort, eigen goal Mbayo en Rots beslist. Eerste zege van het seizoen, verschil na rust."
         },
         {
-          "title": "Klisnsmar Sampi voelt zich goed bij speerwerpen",
-          "source": "De Ware Tijd",
-          "url": "https://dwtonline.com/klisnsmar-sampi-voelt-zich-goed-bij-speerwerpen/",
-          "publishedDate": "Sun, 29 Jan 2023 14:03:00 GMT",
-          "description": "Voor de 24-jarige districtsatleet was het zijn eerste deelname ooit op het technische nummer. “Ik heb met mijn coach gesproken en hij zei dat ik me de volgende keer op dit onderdeel moet focussen."
+          "title": "PEC afgetroefd door FC Twente: 'We speelden hun wedstrijd'",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/pec-afgetroefd-door-fc-twente-we-speelden-hun-wedstrijd/ar-AA2afcrO",
+          "publishedDate": "Sun, 16 Aug 2026 09:35:15 GMT",
+          "description": "PEC Zwolle verliet De Grolsch Veste zondag met een illusie armer. De ploeg van trainer Henry van der Vegt kwam nog op voorsprong tegen FC Twente, maar liet verder veel te weinig zien. De thuisploeg hi ..."
         },
         {
-          "title": "Indoor speerwerpen of kogelstoten? Atletiekvereniging bouwt ultramoderne hal in Heusden",
-          "source": "HBvL",
-          "url": "https://www.hbvl.be/regio/limburg/heusden-zolder/indoor-speerwerpen-of-kogelstoten-atletiekvereniging-bouwt-ultramoderne-hal-in-heusden/29313364.html",
-          "publishedDate": "Thu, 30 Sep 2021 22:59:00 GMT",
-          "description": "Volgens Marcel Schepers (81), voorzitter van AVT, wordt het een ultramodern atletiekcentrum met internationale uitstraling. Samen met bestuurslid Ludo Billen volgt hij het project van dichtbij. “We ..."
+          "title": "FC Twente buigt achterstand om en pakt eerste punten dit Eredivisie-seizoen",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/fc-twente-buigt-achterstand-om-en-pakt-eerste-punten-dit-eredivisie-seizoen/blt41e04c299e1633e7",
+          "publishedDate": "Sun, 16 Aug 2026 09:26:00 GMT",
+          "description": "FC Twente heeft zijn eerste punten binnen in dit nieuwe VriendenLoterij Eredivisie-seizoen. In eigen huis boekte de ploeg van trainer John van den Brom zondag een 3-1 overwinning op PEC Zwolle, dat he ..."
         },
         {
-          "title": "Speerwerpen keert in 2020 terug op Memorial Van Damme",
-          "source": "BRUZZ",
-          "url": "https://www.bruzz.be/sport/speerwerpen-keert-2020-terug-op-memorial-van-damme-2019-11-15",
-          "publishedDate": "Thu, 14 Nov 2019 16:00:00 GMT",
-          "description": "Hoewel de Memorial Van Damme volgend jaar niet langer de finale van de Diamond League vormt, mogen de toeschouwers opnieuw aan een sterk programma verwachten. Onder meer de 100 en 400 meter staan in ..."
+          "title": "Lammers nu wel eerste invaller bij FC Twente: 'Die pikorde is te groot gemaakt'",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/lammers-nu-wel-eerste-invaller-bij-fc-twente-die-pikorde-is-te-groot-gemaakt/ar-AA2aePxh",
+          "publishedDate": "Sun, 16 Aug 2026 08:53:13 GMT",
+          "description": "Sam Lammers kreeg zondagmiddag tijdens het duel met PEC Zwolle een groot applaus van de supporters van FC Twente. De spits kwam na 82 minuten in het veld voor Wout Weghorst en kreeg een warm onthaal."
         },
         {
-          "title": "Beard heeft speerwerpen in het bloed, maar twijfelt over topsportcarri&#232;re",
-          "source": "AD",
-          "url": "https://www.ad.nl/woerden/beard-heeft-speerwerpen-in-het-bloed-maar-twijfelt-over-topsportcarriere~abd74b44/",
-          "publishedDate": "Thu, 20 Jun 2019 00:16:00 GMT",
-          "description": "De atletieksport is Imogen Beard met de paplepel ingegoten. Haar ouders zijn fanatieke speerwerpers en zij namen hun kinderen mee naar de atletiekbanen. ,,Eerst combineerde ik atletiek nog met turnen ..."
+          "title": "Waarom Twente in de eerste helft moeite had met PEC Zwolle",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/waarom-twente-in-de-eerste-helft-moeite-had-met-pec-zwolle/ar-AA2aer3Q",
+          "publishedDate": "Sun, 16 Aug 2026 07:24:44 GMT",
+          "description": "FC Twente heeft de eerste drie punten van dit Eredivisieseizoen binnen door PEC Zwolle te verslaan: 3-1. Tactische analyse van een wedstrijd waarin Twente moeite heeft met het lage blok van PEC, maar ..."
         },
         {
-          "title": "Speerwerpen kan ook sexy zijn, zo bewijst olympisch kampioen R&#246;hler",
-          "source": "HLN",
-          "url": "https://www.hln.be/time-out/speerwerpen-kan-ook-sexy-zijn-zo-bewijst-olympisch-kampioen-rohler~a2ec6155/",
-          "publishedDate": "Thu, 04 May 2017 17:02:00 GMT",
-          "description": "In de video showen vier Duitse speerwerpers hun troeven. Onder meer olympisch kampioen Thomas R&#246;hler doet mee. Daarnaast zien we ook nog Andreas Hofmann, Lars Hamann en Johannes Vetter. &quot;De video ..."
+          "title": "Praat mee op VP: dolend Twente ook bij PEC Zwolle op achterstand",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-dolend-twente-ook-bij-pec-zwolle-op-achterstand/ar-AA2aepu3",
+          "publishedDate": "Sun, 16 Aug 2026 05:55:27 GMT",
+          "description": "FC Twente en PEC Zwolle treffen elkaar vandaag in de Eredivisie. De wedstrijd begint om 14.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
         }
       ]
+    },
+    {
+      "keyword": "ado - groningen",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Voetbaldag begint met ADO-Groningen • Later ook Feyenoord en Ajax in actie",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2627093-voetbaldag-begint-met-ado-groningen-later-ook-feyenoord-en-ajax-in-actie",
+          "publishedDate": "Sat, 15 Aug 2026 14:12:00 GMT",
+          "description": "Welkom op de tweede eredivisiezondag van het seizoen. We beginnen de dag met ADO tegen Groningen, waarna er met Feyenoord, Twente en Ajax drie topploegen in actie komen. Gisteren wonnen hun concurrenten NEC en PSV van respectievelijk Willem II en Excelsior."
+        },
+        {
+          "title": "Groningen verpest langverwachte Eredivisie-rentree ADO in eigen huis",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/groningen-verpest-langverwachte-eredivisie-rentree-ado-in-eigen-huis/ar-AA2ae0xL",
+          "publishedDate": "Sun, 16 Aug 2026 05:14:57 GMT",
+          "description": "ADO Den Haag had zich de eerste Eredivisie-wedstrijd in eigen huis in vijf jaar ongetwijfeld heel anders voorgesteld. FC Groningen trok zich zondag niets aan van het Haagse enthousiasme en boekte een"
+        }
+      ]
+    },
+    {
+      "keyword": "speerwerpen",
+      "trafficLabel": "10K+",
+      "articles": []
+    },
+    {
+      "keyword": "tommy wieringa",
+      "trafficLabel": "10K+",
+      "articles": []
     },
     {
       "keyword": "vliegtuig",
@@ -552,87 +278,6 @@
           "description": "Aan boord van een Ryanair-vlucht van Griekenland naar Duitsland hebben zich vrijdagochtend angstaanjagende taferelen afgespeeld die je alleen in films ..."
         }
       ]
-    },
-    {
-      "keyword": "knal",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Harde knal laat Amersfoorters schrikken: bliksemontlading van hoogste categorie zorgt voor ‘explosie’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/leusden/harde-knal-laat-amersfoorters-schrikken-bliksemontlading-van-hoogste-categorie-zorgt-voor-explosie~a65e142b/",
-          "publishedDate": "Sun, 16 Aug 2026 04:05:00 GMT",
-          "description": "Schrok jij zaterdagmiddag ook van de gigantische knal in de regio Amersfoort? Niet gek, er was een blikseminslag van de hoogste categorie. Uniek, noemt meteoroloog Alwin Haklander van het KNMI het."
-        },
-        {
-          "title": "Explosie bij advocatenkantoor in Spuistraat: ‘Niet normaal harde knal’",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/amsterdam/explosie-bij-advocatenkantoor-in-spuistraat-niet-normaal-harde-knal~b6e405d9/",
-          "publishedDate": "Mon, 14 Oct 2024 01:42:00 GMT",
-          "description": "De melding van de explosie kwam rond 05.00 uur binnen bij de hulpdiensten. Na de explosie ontstond een brand, die snel kon worden geblust. Stichting Salvage, die namens verzekeraars gedupeerden van ..."
-        },
-        {
-          "title": "Bewoners geschrokken na nachtelijke autobrand in Irisstraat in Hilversum",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/regio/gooi/bewoners-geschrokken-na-nachtelijke-autobrand-in-irisstraat-in-hilversum/160070217.html",
-          "publishedDate": "Sat, 15 Aug 2026 08:07:00 GMT",
-          "description": "Een keiharde knal zorgde vrijdagnacht voor onrust in de Irisstraat in Hilversum. Een wit bestelbusje ging in vlammen op. Buurtbewoners waren bang dat de brand zou overslaan, maar de hulpdiensten waren ..."
-        },
-        {
-          "title": "Opnieuw luide knal en rookpluim boven haven in Zwijndrecht: “Gecontroleerde veiligheidsprocedure”",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/beveren-kruibeke-zwijndrecht/opnieuw-luide-knal-en-rookpluim-boven-haven-in-zwijndrecht-gecontroleerde-veiligheidsprocedure~a3bbca0c/",
-          "publishedDate": "Mon, 10 Aug 2026 16:24:00 GMT",
-          "description": "Inwoners van Zwijndrecht werden maandagavond rond 22.20 uur opnieuw opgeschrikt door een luide knal, gevolgd door een opvallende rookpluim boven de Waaslandhaven. Net als vorige week blijkt het om een ..."
-        },
-        {
-          "title": "Deze beroemdheden lijken maar niet ouder te worden",
-          "source": "StarsInsider on MSN",
-          "url": "https://www.msn.com/nl-be/entertainment/beroemdheden/deze-beroemdheden-lijken-maar-niet-ouder-te-worden/ss-AA1CdBlq",
-          "publishedDate": "Thu, 30 Jul 2026 12:00:00 GMT",
-          "description": "We smeren en spuiten wat af om onze huid er zo jong mogelijk uit te laten zien. Maar sommige lijken de fontein der Eeuwige Jeugd te hebben ontdekt en lijken ongevoelig voor de verstrijkende tijd. Ze z ..."
-        },
-        {
-          "title": "Politie overstelpt met telefoontjes na knal in Massachusetts",
-          "source": "zeelandnet",
-          "url": "https://www.zeelandnet.nl/nieuws/politie-overstelpt-met-telefoontjes-na-knal-in-massachusetts",
-          "publishedDate": "Sat, 30 May 2026 15:17:00 GMT",
-          "description": "De politie zegt dat er geen noodoproepen voor politie, ambulance of brandweer in verband met de knal zijn geweest en dat er waarschijnlijk geen bedreiging voor de openbare veiligheid is. &quot;We blijven ..."
-        },
-        {
-          "title": "Politie onderzoekt knal in flat Terneuzen",
-          "source": "politie",
-          "url": "https://www.politie.nl/nieuws/2026/maart/12/08-politie-onderzoekt-knal-in-flat-terneuzen.html",
-          "publishedDate": "Thu, 12 Mar 2026 03:34:00 GMT",
-          "description": "In een flat aan de Vondelstraat in Terneuzen werden bewoners in de nacht van woensdag 11 op donderdag 12 maart opgeschrikt door een harde knal. Omdat er niet bekend was waar de knal vandaan kwam of ..."
-        },
-        {
-          "title": "Reijnders maakt eerste Oranje-goal: een knal om nooit te vergeten",
-          "source": "Vi",
-          "url": "https://www.vi.nl/nieuws/reijnders-maakt-eerste-oranje-goal-een-knal-om-nooit-te-vergeten",
-          "publishedDate": "Fri, 22 Mar 2024 14:32:00 GMT",
-          "description": "Tijjani Reijnders heeft in de oefeninterland tegen Schotland zijn eerste goal voor Oranje gemaakt. Met een geweldige afstandsknal zorgde hij voor de doorbraak in een wedstrijd die op slot zat."
-        },
-        {
-          "title": "Supersonische blikseminslag veroorzaakt enorme knal: “Geluid van een straaljager, midden in een woonwijk”",
-          "source": "HLN",
-          "url": "https://www.hln.be/oud-heverlee/supersonische-blikseminslag-veroorzaakt-enorme-knal-geluid-van-een-straaljager-midden-in-een-woonwijk~ac290098/",
-          "publishedDate": "Fri, 05 Aug 2022 06:41:00 GMT",
-          "description": "Zoals gebruikelijk trok Kevin, tevens ook professioneel fotograaf, eropuit om het onweer vast te leggen met zijn camera. “Donder wordt veroorzaakt door de opwarming van de lucht door een ..."
-        },
-        {
-          "title": "Visser meldt knal aan 't Eilandje",
-          "source": "Het Belang van Limburg",
-          "url": "https://www.hbvl.be/regio/limburg/maaseik/visser-meldt-knal-aan-t-eilandje/24834752.html",
-          "publishedDate": "Sun, 26 May 2019 06:28:00 GMT",
-          "description": "De politie kreeg zaterdag rond 3 uur een ongeruste oproep van een visser. Die had op het ’t Eilandje aan de Komweg in Neeroeteren een knal gehoord en zag iets smeulen. De politie ontdekte dat onbekend ..."
-        }
-      ]
-    },
-    {
-      "keyword": "weer september 2026",
-      "trafficLabel": "5K+",
-      "articles": []
     }
   ]
 }
