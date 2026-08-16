@@ -1,23 +1,30 @@
 {
-  "fetchedAt": "2026-08-16T03:25:39.495Z",
+  "fetchedAt": "2026-08-16T04:06:52.149Z",
   "trends": [
     {
       "keyword": "excelsior - psv",
       "trafficLabel": "50K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "LIVE eredivisie | PSV slaat razendsnel terug na treffer Excelsior: Ricardo Pepi herstelt de orde",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/live-eredivisie-psv-slaat-razendsnel-terug-na-treffer-excelsior-ricardo-pepi-herstelt-de-orde~ad583e77/?slug_rd=1",
+          "publishedDate": "Sat, 15 Aug 2026 05:16:00 GMT",
+          "description": "PSV leek tegen Fortuna Sittard op weg naar een zege, maar de Eindhovenaren speelden uiteindelijk alsnog gelijk (2-2). De ploeg van Peter Bosz moet op bezoek bij Excelsior dus op zoek naar de eerste ze"
+        },
+        {
+          "title": "Excelsior vecht, maar verliest van beter PSV en is koppositie kwijt",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2239411/excelsior-vecht-maar-verliest-van-beter-psv-en-is-koppositie-kwijt",
+          "publishedDate": "Sat, 15 Aug 2026 12:57:00 GMT",
+          "description": "Excelsior heeft de eerste thuiswedstrijd van het nieuwe seizoen in de eredivisie verloren. Regerend kampioen PSV was op Woudestein met 1-2 te sterk. Na een vroege achterstand zorgde Casper Widell nog"
+        }
+      ]
     },
     {
       "keyword": "ongeluk boerenrock",
       "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Zwaar ongeluk flinke smet op zomerse dag Boerenrock Festival",
-          "source": "RTV Drenthe",
-          "url": "https://www.rtvdrenthe.nl/nieuws/18699706/zwaar-ongeluk-flinke-smet-op-zomerse-dag-boerenrock-festival",
-          "publishedDate": "Sat, 15 Aug 2026 01:26:00 GMT",
-          "description": "Een bezoeker van het Boerenrock Festival in Drouwenermond is gisteravond zwaar gewond geraakt. Het slachtoffer werd met een ambulance naar het ziekenhuis gebracht. &quot;Het ongeluk heeft behoorlijke impac ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "utrecht - az",
@@ -27,159 +34,88 @@
     {
       "keyword": "fortuna - cambuur",
       "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Fortuna Sittard boekt week na remise bij PSV moeizame zege op Cambuur",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627055-fortuna-sittard-boekt-week-na-remise-bij-psv-moeizame-zege-op-cambuur",
-          "publishedDate": "Sat, 15 Aug 2026 14:01:00 GMT",
-          "description": "Fortuna Sittard komt in eigen huis al snel op 2-0, maar pakt uiteindelijk met de hakken over de sloot de volle buit: 3-1."
-        },
-        {
-          "title": "NEC wint ruim bij Willem II voor duels met Bod&#248;/Glimt, Fortuna klopt Cambuur",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6406448/nec-wint-ruim-bij-willem-ii-voor-duels-met-bodglimt-fortuna-klopt-cambuur.html",
-          "publishedDate": "Sat, 15 Aug 2026 11:26:00 GMT",
-          "description": "NEC heeft zaterdag de eerste punten van het seizoen gepakt door de uitwedstrijd tegen Willem II met ruime cijfers te winnen. Het werd 1-4. Fortuna Sittard was na een sterk start met 3-1 te sterk voor ..."
-        },
-        {
-          "title": "SC Cambuur voelt zich bestolen na nederlaag bij Fortuna Sittard: 'Zijn hoofd wordt eraf geslagen'",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/sc-cambuur-voelt-zich-bestolen-na-nederlaag-bij-fortuna-sittard-zijn-hoofd-wordt-eraf-geslagen/ar-AA2acxlW",
-          "publishedDate": "Sat, 15 Aug 2026 17:17:00 GMT",
-          "description": "SC Cambuur-trainer Johan Plat is woedend om de niet gegeven strafschop voor zijn ploeg in de blessuretijd tegen Fortuna Sittard (3-1). Uitblinker en Fortuna-goalie Mattijs Branderhorst tastte diep in ..."
-        },
-        {
-          "title": "Fortuna Sittard boekt nipte zege op SC Cambuur",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/fortuna-sittard-boekt-nipte-zege-op-sc-cambuur",
-          "publishedDate": "Sat, 15 Aug 2026 16:28:00 GMT",
-          "description": "Fortuna Sittard wint thuis met 3-1 van SC Cambuur. Brittijn en Zeefuik scoren vroeg; ’t Zand beslist in blessuretijd. Cambuur stuit op Branderhorst. Klik voor meer!"
-        },
-        {
-          "title": "Fortuna Sittard ontsnapt na zenuwslopende slotfase aan puntenverlies tegen SC Cambuur",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/fortuna-sittard-ontsnapt-na-zenuwslopende-slotfase-aan-puntenverlies-tegen-sc-cambuur/blt8bdecfd30083516e",
-          "publishedDate": "Sat, 15 Aug 2026 15:57:00 GMT",
-          "description": "Fortuna Sittard heeft zaterdag zijn eerste Eredivisie-zege van het seizoen geboekt. Dankzij vroege treffers van Philip Brittijn en Lequincio Zeefuik en vooral een aantal geweldige reddingen van Mattij ..."
-        },
-        {
-          "title": "Cambuur komt fyftjin minne minuten net te boppe yn Sittard: &quot;We schoten tekort&quot;",
-          "source": "Omrop Frysl&#226;n",
-          "url": "https://www.omropfryslan.nl/fy/nijs/18701410/cambuur-komt-fyftjin-minne-minuten-net-te-boppe-yn-sittard-we-schoten-tekort",
-          "publishedDate": "Sat, 15 Aug 2026 15:08:00 GMT",
-          "description": "Cambuur wie sneontej&#251;n de bettere ploech yn de wedstriid tsjin Fortuna Sittard, mar it ferlear wol wer. It waard 3-1 foar de th&#250;sploech."
-        },
-        {
-          "title": "Gepaste euforie bij Fortuna na 'geweldige' start: 'Maar we zijn er nog lang niet'",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/gepaste-euforie-bij-fortuna-na-geweldige-start-maar-we-zijn-er-nog-lang-niet/ar-AA2ac7NS",
-          "publishedDate": "Sat, 15 Aug 2026 14:57:22 GMT",
-          "description": "Na anderhalve speelronde staat Fortuna Sittard tweede in de Eredivisie en dat zorgde voor tevreden Limburgse gezichten. Bij tegenstander SC Cambuur, dat met 3-1 verslagen werd, was er juist de nodige ..."
-        },
-        {
-          "title": "Fortuna Sittard wint dankzij uitblinkende Branderhorst en verslaat Cambuur",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/fortuna-sittard-wint-dankzij-uitblinkende-branderhorst-en-verslaat-cambuur/ar-AA2acE9t",
-          "publishedDate": "Sat, 15 Aug 2026 13:55:00 GMT",
-          "description": "Fortuna Sittard heeft de eerste overwinning van het seizoen geboekt. In eigen huis werd promovendus SC Cambuur met 3-1 verslagen. Voor Cambuur is het de tweede nederlaag op rij."
-        },
-        {
-          "title": "Fortuna haalt dankzij Branderhorst opgelucht adem na duel met Cambuur",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/fortuna-haalt-dankzij-branderhorst-opgelucht-adem-na-duel-met-cambuur/ar-AA2acO9F",
-          "publishedDate": "Sat, 15 Aug 2026 13:54:04 GMT",
-          "description": "Fortuna Sittard heeft het knappe resultaat tegen PSV van vorige week een goed vervolg gegeven door in eigen huis te winnen van SC Cambuur. De bezoekers herstelden zich in Limburg van een beroerde star ..."
-        },
-        {
-          "title": "Praat mee op VP: Fortuna Sittard – SC Cambuur",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-fortuna-sittard-sc-cambuur/ar-AA2abHvv",
-          "publishedDate": "Sat, 15 Aug 2026 11:00:01 GMT",
-          "description": "Fortuna Sittard en SC Cambuur treffen elkaar vandaag in de Eredivisie. De wedstrijd begint om 21.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "willem ii - nec",
       "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "NEC wint ruim bij Willem II voor duels met Bod&#248;/Glimt, Fortuna klopt Cambuur",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6406448/nec-wint-ruim-bij-willem-ii-voor-duels-met-bodglimt-fortuna-klopt-cambuur.html",
-          "publishedDate": "Sat, 15 Aug 2026 11:26:00 GMT",
-          "description": "NEC heeft zaterdag de eerste punten van het seizoen gepakt door de uitwedstrijd tegen Willem II met ruime cijfers te winnen. Het werd 1-4. Fortuna Sittard was na een sterk start met 3-1 te sterk voor ..."
-        },
-        {
-          "title": "NEC na ruime zege op Willem II met goed gevoel naar Champions League-play-offs",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627000-nec-na-ruime-zege-op-willem-ii-met-goed-gevoel-naar-champions-league-play-offs",
-          "publishedDate": "Sat, 15 Aug 2026 09:25:00 GMT",
-          "description": "NEC weet vier dagen voor de play-off-wedstrijd tegen Bod&#248;/Glimt&#160;in de play-offs Champions League ruim te winnen bij Willem II: 1-4."
-        },
-        {
-          "title": "NEC herstelt zich van blamage en kan na klinkende zege op Willem II met vertrouwen naar play-offs Champions League",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/nijmegen/live-eredivisie-nec-begonnen-aan-duel-met-willem-ii-paar-wijzigingen-in-opstelling~a058daf19/?slug_rd=1",
-          "publishedDate": "Sat, 15 Aug 2026 05:22:00 GMT",
-          "description": "NEC heeft zich hersteld van de blamage in de eerste competitiewedstrijd tegen Telstar. De Nijmeegse club won dankzij een ijzersterke fase in de tweede helft met grote cijfers van Willem II (1-4). De p ..."
-        },
-        {
-          "title": "NEC laat Willem II na rust kansloos in Tilburg",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/nec-laat-willem-ii-na-rust-kansloos-in-tilburg",
-          "publishedDate": "Sat, 15 Aug 2026 11:43:00 GMT",
-          "description": "NEC wint met 1-4 bij Willem II na sterke tweede helft. Doelpunten van Chery, Linssen en Sierhuis; debutant Tahaui opent score. Focus nu op Bod&#248;/Glimt."
-        },
-        {
-          "title": "NEC boekt forse zege Willem II, Kjetil Knutsen heeft na 56 minuten genoeg gezien",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/nec-boekt-forse-zege-willem-ii-kjetil-knutsen-heeft-na-56-minuten-genoeg-gezien",
-          "publishedDate": "Sat, 15 Aug 2026 11:26:00 GMT",
-          "description": "Willem II oogde vervolgens aangeslagen en NEC rook bloed. Nadat een poging van Tahaui nog was geblokt, haalde Linssen in de 65ste minuut vernietigend uit voor de 0-3. Twee minuten later volgde het ..."
-        },
-        {
-          "title": "NEC herstelt zich tegen Willem II overtuigend van valse competitiestart",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/nec-herstelt-zich-tegen-willem-ii-overtuigend-van-valse-competitiestart/blt125322c8659c871f",
-          "publishedDate": "Sat, 15 Aug 2026 11:26:00 GMT",
-          "description": "NEC heeft zich overtuigend hersteld van de valse competitiestart tegen Telstar. De Nijmegenaren wonnen in speelronde twee van de VriendenLoterij Eredivisie met 1-4 op bezoek bij Willem II. De ploeg ..."
-        },
-        {
-          "title": "Dusan Tadic zorgt voor veel irritatie tijdens Willem II - NEC: 'Onbegrijpelijk'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/dusan-tadic-kritiek-willem-ii-nec-schwalbe-penalty",
-          "publishedDate": "Sat, 15 Aug 2026 10:35:00 GMT",
-          "description": "Dusan Tadic krijgt tijdens Willem II - NEC veel kritiek na een penaltyclaim. Op sociale media vinden meerdere kijkers dat hij geel had moeten krijgen."
-        },
-        {
-          "title": "Schreuder ziet NEC herstellen: 'Dit ga je vaker zien'",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/schreuder-ziet-nec-herstellen-dit-ga-je-vaker-zien/ar-AA2abR7q",
-          "publishedDate": "Sat, 15 Aug 2026 10:34:28 GMT",
-          "description": "Dick Schreuder zag NEC zaterdag verbetering tonen in de Eredivisie. Waar de Nijmegenaren in de eerste speelronde nog met 1-2 verloren van Telstar, ging het tegen Willem II beter. Met opnieuw een Europ ..."
-        },
-        {
-          "title": "NEC heeft geen kind aan Willem II en is klaar voor duel met Bod&#248;/Glimt",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/nec-heeft-geen-kind-aan-willem-ii-en-is-klaar-voor-duel-met-bod%C3%B8glimt/ar-AA2acb2v",
-          "publishedDate": "Sat, 15 Aug 2026 09:24:00 GMT",
-          "description": "NEC kende zaterdag een goede generale competitie voor de eerste ontmoeting met Bod&#248;/Glimt in de Champions League. De ploeg van Dick Schreuder had geen kind aan Willem II. Al duurde het even voor NEC o ..."
-        },
-        {
-          "title": "Live 16.30 uur | Willem II - NEC (0-0)",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/live-eredivisie-nec-speelt-tegen-willem-ii-az-en-psv-komen-ook-in-actie/ar-AA2aam78",
-          "publishedDate": "Sat, 15 Aug 2026 06:50:00 GMT",
-          "description": "Dit is het livetopic voor de Eredivisie-wedstrijden op zaterdag 15 augustus. NEC gaat op bezoek bij promovendus Willem II, terwijl FC Utrecht het in eigen huis opneemt tegen AZ. Daarnaast komt PSV in ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "ongeval",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Nieuwe richtlijn die dodelijk ongeval Julianasluis in Gouda moest voorkomen kwam zeven dagen n&#225; ongeluk",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/gouda/nieuwe-richtlijn-die-dodelijk-ongeval-julianasluis-in-gouda-moest-voorkomen-kwam-zeven-dagen-na-ongeluk~a1f0257d/",
+          "publishedDate": "Sat, 15 Aug 2026 17:00:00 GMT",
+          "description": "Zeven dagen na het dodelijke ongeval bij de Julianasluis in Gouda, verscheen er een nieuwe richtlijn om het cameratoezicht bij sluizen te verbeteren. Had die de dood van de 58-jarige Mieke Houtman kun ..."
+        },
+        {
+          "title": "Ongeval met letsel op Schoutlaan in Weert",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-weert/ongeval-met-letsel-op-schoutlaan-in-weert~a7502d18/",
+          "publishedDate": "Sat, 15 Aug 2026 00:28:00 GMT",
+          "description": "De brandweer is de afgelopen 30 dagen 62 keer naar Weert gestuurd. De ambulance werd in die periode 225 keer gealarmeerd. Meer artikelen over de inzet van de hulpdiensten lees je in onze sectie 112 ..."
+        },
+        {
+          "title": "Ongeval met letsel op Bazuinlaan in Rijswijk",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/zuid-holland/haaglanden/rijswijk/55702100/p2000-ongeval-met-letsel-op-bazuinlaan-in-rijswijk.html",
+          "publishedDate": "Sat, 15 Aug 2026 16:47:00 GMT",
+          "description": "Rijswijk is een plaats in de provincie Zuid-Holland en valt onder de P2000-regio Haaglanden. De hulpdiensten in Rijswijk reageren onder meer op 112 meldingen die bij deze veiligheidsregio binnenkomen."
+        },
+        {
+          "title": "Ongeval met letsel op Polderslaan in Oostvoorne",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/zuid-holland/rotterdam-rijnmond/oostvoorne/55701894/p2000-politie-naar-polderslaan-in-oostvoorne-voor-ongeval-met-letsel.html",
+          "publishedDate": "Sat, 15 Aug 2026 13:47:00 GMT",
+          "description": "De melding kwam rond kwart voor elf 's avonds bij de alarmcentrale binnen. Hulpdiensten zijn naar de locatie gestuurd om hulp te verlenen."
+        },
+        {
+          "title": "FDF: direct verband tussen ongeval en boerenprotest niet fair",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/a/1159491-fdf-direct-verband-tussen-ongeval-en-boerenprotest-niet-fair",
+          "publishedDate": "Sat, 15 Aug 2026 04:17:00 GMT",
+          "description": "Het is „niet fair” om direct een verband te leggen tussen actievoerende boeren in Den Bosch en het dodelijk ongeluk op de A59, zegt vicevoorzitter Jos Ubels van de actiegroep Farmers Defence Force (FD ..."
+        },
+        {
+          "title": "Fatbiker gewond na eenzijdig ongeval in Wageningen",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/112-nieuws-wageningen/fatbiker-gewond-na-eenzijdig-ongeval-in-wageningen~a2f46b1d/",
+          "publishedDate": "Fri, 14 Aug 2026 22:41:00 GMT",
+          "description": "Twee jongens op een fatbike zijn zaterdagmiddag ten val gekomen op de rotonde van de Mansholtlaan en de Hollandseweg in Wageningen. E&#233;n van hen raakte hierbij gewond."
+        },
+        {
+          "title": "Enorme ravage en meerdere gewonden na ernstig ongeval op snelweg; weg bezaaid met brokstukken",
+          "source": "112 Nieuws Nederland",
+          "url": "https://112nieuws.net/2026/08/15/enorme-ravage-en-meerdere-gewonden-na-ernstig-ongeval-op-snelweg-weg-bezaaid-met-brokstukken/",
+          "publishedDate": "Fri, 14 Aug 2026 22:30:00 GMT",
+          "description": "Op de A18 bij Doetinchem heeft in de nacht van vrijdag op zaterdag een ernstig verkeersongeval plaatsgevonden waarbij twee automobilisten gewond zijn geraakt. Het ongeval gebeurde rond 03.15 uur. Volg ..."
+        },
+        {
+          "title": "Ingetogen programma bij boerenprotest om dodelijk ongeval op A59",
+          "source": "zeelandnet",
+          "url": "https://www.zeelandnet.nl/nieuws/ingetogen-programma-bij-boerenprotest-om-dodelijk-ongeval-op-a59",
+          "publishedDate": "Fri, 14 Aug 2026 04:47:00 GMT",
+          "description": "Het ongeval gebeurde bij Heesch in de staart van een file die was ontstaan door tractoren die naar het provinciehuis in Den Bosch reden. De organiserende landbouwclubs zeggen dat uit politieonderzoek ..."
+        },
+        {
+          "title": "Twee doden na ongeval in staart van file door boerenprotest op A59 bij Heesch",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/twee-doden-ongeval-file-boerenprotest-a59-heesch",
+          "publishedDate": "Fri, 14 Aug 2026 01:45:00 GMT",
+          "description": "Bij een ongeval met vier auto's op de A59 bij Heesch zijn twee mensen omgekomen. Het ongeluk gebeurde in de staart van een file door het boerenprotest."
+        },
+        {
+          "title": "Twee doden na ernstig ongeval; snelweg volledig afgesloten",
+          "source": "112 Nieuws Nederland",
+          "url": "https://112nieuws.net/2026/08/14/twee-doden-na-ernstig-ongeval-snelweg-volledig-afgesloten/",
+          "publishedDate": "Fri, 14 Aug 2026 01:31:00 GMT",
+          "description": "Op de A59 richting Den Bosch heeft vrijdagochtend rond 09.25 uur een ernstig ongeval plaatsgevonden met vier auto's. Daarbij zijn twee personen om het leven gekomen. Meerdere mensen raakten gewond. Wa ..."
+        }
+      ]
     },
     {
       "keyword": "zomer",
@@ -194,154 +130,12 @@
     {
       "keyword": "zomer 2027",
       "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Colombiaanse superster Karol G. kondigt concert aan in Amsterdam voor zomer 2027",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/amsterdam/colombiaanse-superster-karol-g-kondigt-concert-aan-in-amsterdam-voor-zomer-2027~bf58e2d9/",
-          "publishedDate": "Tue, 21 Apr 2026 10:23:00 GMT",
-          "description": "De Johan Cruijff Arena heeft de komst van de reggaetonartiest dinsdag aangekondigd. De ticketverkoop start op 30 april 2026 om 14.00 uur. Behalve een optreden in Amsterdam treedt Karol G. onder meer ..."
-        },
-        {
-          "title": "De 7 badmodetrends voor de zomer van 2027, gespot op GCSW",
-          "source": "FashionUnited",
-          "url": "https://fashionunited.nl/nieuws/mode/de-7-badmodetrends-voor-de-zomer-van-2027-gespot-op-gcsw/2026081370257",
-          "publishedDate": "Thu, 13 Aug 2026 05:00:00 GMT",
-          "description": "Ontdek de 7 belangrijkste badmodetrends voor de zomer van 2027, gepresenteerd tijdens de Gran Canaria Swim Week."
-        },
-        {
-          "title": "Bel&#233;n Rodriguez, haar liefde voor Gaetano en haar droom van Sanremo 2027.",
-          "source": "Notizie.it",
-          "url": "https://www.notizie.it/nl/De-liefde-van-Belen-Rodriguez-voor-Gaetano-en-haar-droom-van-Sanremo-2027./",
-          "publishedDate": "Thu, 13 Aug 2026 01:27:00 GMT",
-          "description": "Bel&#233;n Rodriguez beleeft een zomer vol nieuwe ervaringen, reizen, liefde en nieuwe professionele uitdagingen. Ontdek meer over haar priv&#233;leven en haar toekomstplannen."
-        },
-        {
-          "title": "Gratis schaduwbomen voor het vee: veehouders hebben tot de zomer van 2027 om aan te vragen. Op is op.",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/regio/gratis-schaduwbomen-voor-het-vee-veehouders-hebben-tot-de-zomer-van-2027-om-aan-te-vragen-op-is-op~a300b0d0/",
-          "publishedDate": "Wed, 12 Aug 2026 18:24:00 GMT",
-          "description": "De Vlaamse overheid en de achttien regionale landschappen delen gratis schaduwbomen uit aan landbouwers met een graasweide. In onze regio loopt dat via Regionaal Landschap Dijleland, voor Bertem, Bier ..."
-        },
-        {
-          "title": "Dit zijn de grootste modetrends van Copenhagen Fashion Week lente/zomer 2027",
-          "source": "Harper's Bazaar",
-          "url": "https://www.harpersbazaar.com/nl/mode-juwelen/a73400903/kopenhagen-fashion-week-lente-zomer-2027-modetrends/",
-          "publishedDate": "Mon, 10 Aug 2026 17:00:00 GMT",
-          "description": "Vorig jaar zagen we de peplum al voorzichtig voorbijkomen, maar in de lente/zomer van 2027 maakt het silhouet zijn definitieve comeback. Gespot op de catwalk bij Baum und Pferdgarten, By Malene Birger ..."
-        },
-        {
-          "title": "Highlights van Copenhagen Fashion Week lente/zomer 2027",
-          "source": "Vogue Nederland",
-          "url": "https://www.vogue.nl/fashion/copenhagen-fashion-week-lente-zomer-2027-highlights/",
-          "publishedDate": "Mon, 10 Aug 2026 07:14:00 GMT",
-          "description": "Kaukasus-couture, space fairies en Scandi mininalism at its best: wat je wil onthouden van Copenhagen Fashion Week lente/zomer 2027."
-        },
-        {
-          "title": "Streetstyle van de CPHFW: deze 7 modetrends nemen we mee naar winter 2026-2027",
-          "source": "Trendystyle",
-          "url": "https://www.trendystyle.net/cphfw-streetstyle-modetrends-winter-2026-2027/",
-          "publishedDate": "Sat, 08 Aug 2026 09:08:00 GMT",
-          "description": "Laat je inspireren door de streetstyle van de CPHFW. Van polkadots tot statement accessoires: deze 7 modetrends zie je terug in de winter van 2026-2027."
-        },
-        {
-          "title": "De coolste Scandi-girl streetstyle van Copenhagen Fashion Week lente/zomer 2027",
-          "source": "Vogue Nederland",
-          "url": "https://www.vogue.nl/fashion/fashion-nieuws/streetstyle-copenhagen-fashion-week-lente-zomer-2027/",
-          "publishedDate": "Fri, 07 Aug 2026 04:11:00 GMT",
-          "description": "Copenhagen Fashion Week is van start: hier bekijk je de coolste Scandi-streetstyle van het lente/zomer 2027-seizoen."
-        },
-        {
-          "title": "Oudsbergen investeert anderhalf miljoen euro in buitenaanleg van De Duin: “Tegen zomer 2027 is sportsite helemaal af”",
-          "source": "HBvL",
-          "url": "https://www.hbvl.be/regio/limburg/oudsbergen/oudsbergen-investeert-anderhalf-miljoen-euro-in-buitenaanleg-van-de-duin-tegen-zomer-2027-is-sportsite-helemaal-af/158244318.html",
-          "publishedDate": "Wed, 08 Jul 2026 17:00:00 GMT",
-          "description": "“Met deze buitenaanleg maken we de sportzone helemaal af”, besluit Goossens. “De nieuwe sporthal staat er al, maar nu zorgen we ervoor dat ook de omgeving een aantrekkelijke en veilige ontmoetingsplek ..."
-        },
-        {
-          "title": "School De Brug blijft zeker tot zomer 2027 open, leerlingen blijven bij elkaar",
-          "source": "AD",
-          "url": "https://www.ad.nl/hulst/school-de-brug-blijft-zeker-tot-zomer-2027-open-leerlingen-blijven-bij-elkaar~ac25c677/",
-          "publishedDate": "Mon, 10 Mar 2025 23:52:00 GMT",
-          "description": "De Hulster school voor speciaal basisonderwijs De Brug blijft zeker tot de zomer van 2027 open. De tien leerlingen die dan nog op school zitten, de huidige leerlingen van groep 5 en 6, blijven bij ..."
-        }
-      ]
+      "articles": []
     },
     {
-      "keyword": "indonesië",
+      "keyword": "aardbevingen indonesië",
       "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Veel schade na aardbeving in Indonesi&#235;",
-          "source": "NOS",
-          "url": "https://nos.nl/video/2626943-veel-schade-na-aardbeving-in-indonesie",
-          "publishedDate": "Fri, 14 Aug 2026 22:58:00 GMT",
-          "description": "Voor de kust van het Indonesische eiland Flores is een zware aardbeving geweest met een kracht van 7,7. Daarbij zijn meerdere mensen overleden, melden lokale autoriteiten."
-        },
-        {
-          "title": "Zorgen over economie in Indonesi&#235;: crisis dreigt, maar president Prabowo blijft geld als water uitgeven",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/zorgen-over-economie-in-indonesie-crisis-dreigt-maar-president-prabowo-blijft-geld-als-water-uitgeven~b667ce46/",
-          "publishedDate": "Tue, 28 Jul 2026 22:00:00 GMT",
-          "description": "De Indonesische economie dreigt in te storten, waarschuwen deskundigen, maar president Prabowo Subianto ontkent dat. Hij noemt critici ‘zwarte Hollanders’ (verraders) en lijkt niet van plan zijn enorm ..."
-        },
-        {
-          "title": "WK-droom Indonesi&#235; en bondscoach Kluivert in duigen",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2025/10/12/wk-droom-indonesie-en-bondscoach-kluivert-in-duigen-a4909267",
-          "publishedDate": "Sun, 12 Oct 2025 02:34:00 GMT",
-          "description": "Voetbal Bij een rommelig verlopen toernooi in Saoedi-Arabi&#235; is het nationale elftal van Indonesi&#235; er niet in geslaagd om zich te kwalificeren voor het WK voetbal. Bondscoach Patrick Kluivert en de ..."
-        },
-        {
-          "title": "Aardbeving in Indonesi&#235;: 38 doden en zware schade op het eiland Flores",
-          "source": "Notizie.it",
-          "url": "https://www.notizie.it/nl/Aardbeving-in-Indonesi%C3%AB%3A-38-doden-en-zware-schade-op-het-eiland-Flores./",
-          "publishedDate": "Sat, 15 Aug 2026 19:16:00 GMT",
-          "description": "Indonesi&#235; is getroffen door twee krachtige aardbevingen. Op Flores kwamen 38 mensen om het leven en raakte de infrastructuur zwaar beschadigd. Op Sumatra werd een aardbeving met een magnitude van 6.9 ..."
-        },
-        {
-          "title": "Meerdere aardbevingen in Indonesi&#235; en &#233;&#233;n bij Papoea-Nieuw-Guinea",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/1159502-meerdere-aardbevingen-in-indonesie-en-een-bij-papoea-nieuw-guinea",
-          "publishedDate": "Sat, 15 Aug 2026 07:17:00 GMT",
-          "description": "Na een sterke aardbeving voor de noordkust van het Indonesische eiland Flores zijn er zaterdag nog meer bevingen gemeld in de archipel. Een schok van 6.4 is door het Duitse instituut GFZ gemeten in he ..."
-        },
-        {
-          "title": "Tientallen doden bij aardbeving Indonesi&#235;",
-          "source": "De Standaard",
-          "url": "https://www.standaard.be/buitenland/tientallen-doden-bij-aardbeving-indonesie/160065488.html",
-          "publishedDate": "Sat, 15 Aug 2026 01:32:00 GMT",
-          "description": "Voor de kust van het Indonesische eiland Flores vond zaterdag een krachtige beving plaats. Daarbij kwamen volgens de eerste berichten minstens dertig tot veertig mensen om het leven. Tal van gebouwen ..."
-        },
-        {
-          "title": "Alumni netwerk Indonesi&#235;",
-          "source": "Universiteit Utrecht",
-          "url": "https://www.uu.nl/organisatie/alumni/onze-alumni/alumni-netwerken/internationale-alumninetwerken/indonesie",
-          "publishedDate": "Mon, 10 Aug 2026 06:49:00 GMT",
-          "description": "Het UU Alumni Netwerk Indonesi&#235; brengt een levendige gemeenschap van afgestudeerden samen. Het is een plek om weer contact te leggen, je netwerk uit te breiden en idee&#235;n uit te wisselen met mede-alumn ..."
-        },
-        {
-          "title": "Wat te doen in Raja Ampat: 8x fantastische ervaringen in de magische archipel van Indonesi&#235;",
-          "source": "Columbus Travel",
-          "url": "https://www.columbusmagazine.nl/bestemming/azie/indonesie/raja-ampat/artikel/30405/raja-ampat-indonesie-activiteiten-tips/",
-          "publishedDate": "Fri, 17 Jul 2026 02:23:00 GMT",
-          "description": "Ontdek de magie van Raja Ampat in Indonesi&#235;. Van duiken met reuzenmanta's tot kajakken tussen homestays: 8 bijzondere tips voor West-Papoea."
-        },
-        {
-          "title": "Romeny laat Kluivert juichen: cruciale zege Indonesi&#235; in jacht op WK-ticket",
-          "source": "Vi",
-          "url": "https://www.vi.nl/nieuws/romeny-laat-kluivert-juichen-cruciale-zege-indonesie-in-jacht-op-wk-ticket",
-          "publishedDate": "Tue, 25 Mar 2025 09:41:00 GMT",
-          "description": "Indonesi&#235; heeft dinsdag de eerste overwinning onder leiding van Patrick Kluivert geboekt. Door de thuiszege op Bahrein blijft het WK in zicht voor Timnas, dat zich weer in de topvier van de Aziatische ..."
-        },
-        {
-          "title": "Nieuwe fabriek FrieslandCampina in Indonesi&#235; maakt 1 miljard kilo zuivel per jaar, en dat is hard nodig",
-          "source": "AD",
-          "url": "https://www.ad.nl/economie/nieuwe-fabriek-frieslandcampina-in-indonesie-maakt-1-miljard-kilo-zuivel-per-jaar-en-dat-is-hard-nodig~a13a9cdf/",
-          "publishedDate": "Sat, 20 Jul 2024 22:14:00 GMT",
-          "description": "Een bakje nasi met ei &#233;n een beker melk: deze gratis lunch moet 83 miljoen scholieren in Indonesi&#235; vitaler maken. Zuivelgigant FrieslandCampina ziet kansen en investeert ruim een kwart miljard euro in ..."
-        }
-      ]
+      "articles": []
     }
   ]
 }
