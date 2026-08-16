@@ -1,101 +1,15 @@
 {
-  "fetchedAt": "2026-08-16T16:48:55.104Z",
+  "fetchedAt": "2026-08-16T17:14:11.945Z",
   "trends": [
     {
       "keyword": "ajax - heerenveen",
       "trafficLabel": "100K+",
-      "articles": [
-        {
-          "title": "Feestje Ajax in jarige Arena loopt uit op kater door late gelijkmaker Heerenveen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627159-feestje-ajax-in-jarige-arena-loopt-uit-op-kater-door-late-gelijkmaker-heerenveen",
-          "publishedDate": "Sun, 16 Aug 2026 09:39:00 GMT",
-          "description": "In de Johan Cruijff Arena wordt het 2-2. Maxence Rivera maakt in de 82ste minuut de gelijkmaker. Ajax stond met 2-0 voor."
-        },
-        {
-          "title": "Heerenveen speelt gelijk tegen Ajax • Amsterdammers hielden de Friezen in leven",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2627093-heerenveen-speelt-gelijk-tegen-ajax-amsterdammers-hielden-de-friezen-in-leven",
-          "publishedDate": "Sun, 16 Aug 2026 04:11:00 GMT",
-          "description": "Het spelbeeld is weer zoals in het eerste halfuur. Ajax heeft de druk er goed op bij Heerenveen, dat nauwelijks van de eigen helft afkomt. Heerenveen brengt zo Rivera erin. De tweede helft is begonnen ..."
-        },
-        {
-          "title": "LIVE eredivisie | Ajax geeft het weg in slotfase: Heerenveen scoort en maakt achterstand van twee doelpunten ongedaan",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/live-eredivisie-spanning-in-amsterdam-ajax-verdedigt-minimale-voorsprong-in-slotfase-tegen-heerenveen~a4e27c88/?slug_rd=1",
-          "publishedDate": "Sun, 16 Aug 2026 02:22:00 GMT",
-          "description": "Ajax is de competitie begonnen met drie punten tegen PEC Zwolle (0-2). Dat geldt ook voor Heerenveen, dat in eigen huis FC Twente versloeg (1-0). Wie zegeviert in de Johan Cruijff Arena? Volg het duel ..."
-        },
-        {
-          "title": "LIVE eredivisie | Ajax met minimale marge slotfase in tegen Heerenveen, applaus voor toeschouwer Brian Brobbey",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/live-eredivisie-tik-voor-ajax-heerenveen-maakt-aansluitingstreffer-bij-laatste-actie-van-eerste-helft~a4e27c88/?slug_rd=1",
-          "publishedDate": "Sun, 16 Aug 2026 02:12:00 GMT",
-          "description": "Ajax is de competitie begonnen met drie punten tegen PEC Zwolle (0-2). Dat geldt ook voor Heerenveen, dat in eigen huis FC Twente versloeg (1-0). Wie zegeviert in de Johan Cruijff Arena? Volg het duel ..."
-        },
-        {
-          "title": "Ajax sukkelt in slaap na sterke start en morst tegen SC Heerenveen",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-sukkelt-in-slaap-na-sterke-start-en-morst-tegen-sc-heerenveen",
-          "publishedDate": "Sun, 16 Aug 2026 09:35:00 GMT",
-          "description": "Ajax heeft zondagmiddag punten laten liggen in de Eredivisie. De ploeg van M&#237;chel S&#225;nchez wervelde in de openingsfase tegen SC Heerenveen, maar zakte uiteindelijk flink weg. Een treffer van Maxence Ri ..."
-        },
-        {
-          "title": "Ajax laat na door te drukken tegen SC Heerenveen en geeft drie punten in slotfase uit handen",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/ajax-laat-na-door-te-drukken-tegen-sc-heerenveen-en-geeft-drie-punten-in-slotfase-uit-handen/ar-AA2adkkI",
-          "publishedDate": "Sun, 16 Aug 2026 09:35:00 GMT",
-          "description": "Ajax heeft zondag twee punten laten liggen in de thuiswedstrijd tegen sc Heerenveen. De Amsterdammers begonnen goed aan de wedstrijd en kwam op een 2-0 voorsprong, maar daarmee waren de drie punten no ..."
-        },
-        {
-          "title": "Ajax geeft 2-0 voorsprong weg tegen Heerenveen en morst eerste punten in Eredivisie",
-          "source": "AT5",
-          "url": "https://www.at5.nl/artikelen/239523/ajax-geeft-2-0-voorsprong-weg-tegen-heerenveen-en-morst-eerste-punten-in-eredivisie",
-          "publishedDate": "Sun, 16 Aug 2026 09:31:00 GMT",
-          "description": "Ajax heeft in de eigen Johan Cruijff Arena de eerste punten van dit seizoen verspeeld. Ajax kwam nog op 2-0, maar die voorsprong bleek niet genoeg. Het werd nog 2-2. Door het pijnlijke puntverlies ..."
-        },
-        {
-          "title": "S&#225;nchez gooit Ajax-opstelling opnieuw om: negen nieuwe namen tegen Heerenveen",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/sanchez-gooit-ajax-opstelling-opnieuw-om-negen-nieuwe-namen-tegen-heerenveen",
-          "publishedDate": "Sun, 16 Aug 2026 08:46:00 GMT",
-          "description": "M&#237;chel S&#225;nchez gooit de opstelling van Ajax voor het thuisduel met sc Heerenveen opnieuw compleet door elkaar. Alleen Youri Regeer en Aaron Bouwman blijven staan."
-        },
-        {
-          "title": "Dreun voor Ajax: Amsterdammers geven in eigen Arena ruime voorsprong uit handen tegen Heerenveen",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/voetbal/live-eredivisie-spanning-terug-in-amsterdam-na-goal-heerenveen-op-slag-van-rust-gloukh-dicht-bij-doelpunt-voor-ajax~a4e27c88/?slug_rd=1",
-          "publishedDate": "Sun, 16 Aug 2026 02:37:00 GMT",
-          "description": "Ajax is de competitie begonnen met drie punten tegen PEC Zwolle (0-2). Dat geldt ook voor Heerenveen, dat in eigen huis FC Twente versloeg (1-0). Wie zegeviert in de Johan Cruijff Arena? Volg het duel ..."
-        },
-        {
-          "title": "Ajax geeft voorsprong uit handen tegen sc Heerenveen: fluitconcert na eerste puntenverlies",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/ajax-geeft-voorsprong-uit-handen-tegen-sc-heerenveen-fluitconcert-na-eerste-puntenverlies",
-          "publishedDate": "Sat, 15 Aug 2026 21:36:00 GMT",
-          "description": "Ajax heeft in de Johan Cruijff ArenA een comfortabele voorsprong volledig uit handen gegeven tegen sc Heerenveen ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "feyenoord - ga eagles",
       "trafficLabel": "100K+",
-      "articles": [
-        {
-          "title": "Feyenoord geeft voorsprong uit handen en speelt gelijk tegen Go Ahead Eagles",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627131-feyenoord-geeft-voorsprong-uit-handen-en-speelt-gelijk-tegen-go-ahead-eagles",
-          "publishedDate": "Sun, 16 Aug 2026 07:25:00 GMT",
-          "description": "Na een 2-0 voorsprong en een flink veldoverwicht voor Feyenoord weet Go Ahead Eagles er alsnog een punt uit te slepen, 2-2."
-        },
-        {
-          "title": "Vermoedelijke opstelling Feyenoord: Van Bronckhorst wisselt op &#233;&#233;n positie",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/vermoedelijke-opstelling-feyenoord-van-bronckhorst-wisselt-op-%C3%A9%C3%A9n-positie/ar-AA2a7XDa?ocid=BingNewsVerp",
-          "publishedDate": "Sat, 15 Aug 2026 02:51:13 GMT",
-          "description": "Feyenoord neemt het zondagmiddag in eigen huis op tegen Go Ahead Eagles. De Rotterdammers willen na de 0-1 overwinning vorige week op Sparta Rotterdam de seizoensouverture een goed vervolg geven tegen"
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "zee",
@@ -109,18 +23,18 @@
           "description": "Een zoekactie werd 's nachts gestaakt, waardoor de familie pas de volgende ochtend in veiligheid kon worden gebracht."
         },
         {
+          "title": "Mensen vallen van loopbrug in zee tijdens zware aardbeving in Indonesi&#235;",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/video/productie/mensen-vallen-van-loopbrug-in-zee-tijdens-zware-aardbeving-in-indonesie-14141541",
+          "publishedDate": "Fri, 14 Aug 2026 17:00:00 GMT",
+          "description": "Let op: de volgende beelden kunnen als schokkend worden ervaren. Dit is het moment waarop meerdere mensen tijdens de zware aardbeving plotseling in zee belanden."
+        },
+        {
           "title": "Van een tropisch rif tot de grachten: de (zee)spons is overal een belangrijke bodembewoner: ‘We moeten er zuinig op zijn’",
           "source": "Het Parool",
           "url": "https://www.parool.nl/amsterdam/van-een-tropisch-rif-tot-de-grachten-de-zee-spons-is-overal-een-belangrijke-bodembewoner-we-moeten-er-zuinig-op-zijn~b9730578/",
           "publishedDate": "Tue, 11 Aug 2026 20:00:00 GMT",
           "description": "Van Cura&#231;ao tot de Amsterdamse grachten: (zee)sponzen vind je overal ter wereld. Nieuw onderzoek van de Amsterdams-Griekse Michelle Achlatis van de UvA laat iets opmerkelijks zien: sommige sponzen ged ..."
-        },
-        {
-          "title": "Zoektocht naar vermist persoon in zee in Den Haag gestopt, niemand gevonden",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-den-haag/zoektocht-naar-vermist-persoon-in-zee-in-den-haag-gestopt-niemand-gevonden~a08346ca/",
-          "publishedDate": "Sun, 09 Aug 2026 17:26:00 GMT",
-          "description": "De KNRM, de reddingsbrigade en de kustwacht waren maandag in de zee bij de Strandweg in Den Haag op zoek naar een vermist persoon. Ze hebben alleen een aantal spullen gevonden."
         },
         {
           "title": "Japan protesteert tegen Chinese oefening op zee met scherp",
@@ -162,408 +76,108 @@
     {
       "keyword": "arsenal - manchester city",
       "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Arsenal pakt Community Shield door zege op City, waar Maresca debuteert als coach",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627152-arsenal-pakt-community-shield-door-zege-op-city-waar-maresca-debuteert-als-coach",
-          "publishedDate": "Sun, 16 Aug 2026 09:04:00 GMT",
-          "description": "De regerend landskampioen van Engeland verovert de Super Cup door met 3-0 te winnen van de ploeg van trainer Enzo Maresca, de opvolger van Pep Guardiola."
-        },
-        {
-          "title": "Arsenal in Cardiff veel te sterk voor Manchester City, voormalig Twente-huurling blinkt uit met twee assists",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/arsenal-in-cardiff-veel-te-sterk-voor-manchester-city-voormalig-twente-huurling-blinkt-uit-met-twee-assists~a7e0bbff/",
-          "publishedDate": "Sun, 16 Aug 2026 02:13:00 GMT",
-          "description": "Arsenal heeft met grote overtuiging de eerste prijs van het seizoen gepakt. De Premier League-kampioen won in Cardiff met 3-0 van Manchester City in de strijd om de Community Shield."
-        },
-        {
-          "title": "Uitblinker Christos Tzolis loodst Arsenal voorbij zwak Manchester City naar afgetekende zege in Community Shield",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/2026/08/16/uitblinker-christos-tzolis-loodst-arsenal-voorbij-zwak-manchester-city-naar-afgetekende-zege-in-community-shield~1786895949346/",
-          "publishedDate": "Sun, 16 Aug 2026 09:31:00 GMT",
-          "description": "In de Community Shield, de Engelse Supercup, stond Tzolis aan de aftrap in het team van Mikel Arteta. Ook Bruno Guimaraes, die andere topaankoop, stond in de ploeg. Bij City was Jeremy Doku, die na ..."
-        },
-        {
-          "title": "VIDEO. Twee assists van Christos Tzolis bezorgen Arsenal tegen onmondig Manchester City van Jeremy Doku achttiende Community Shield",
-          "source": "Het Belang van Limburg",
-          "url": "https://www.hbvl.be/sport/voetbal/video.-twee-assists-van-christos-tzolis-bezorgen-arsenal-tegen-onmondig-manchester-city-van-jeremy-doku-achttiende-community-shield/160097538.html",
-          "publishedDate": "Sun, 16 Aug 2026 09:13:00 GMT",
-          "description": "Arsenal heeft zondag in het Millennium Stadium in Cardiff voor de achttiende keer de Community Shield, zeg maar de Engelse Super Cup, naar zich toe getrokken. De landskampioen was met 3-0 te sterk voo ..."
-        },
-        {
-          "title": "Arsenal verplettert City en pakt eerste prijs, Tzolis blinkt uit bij debuut",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/arsenal-verplettert-city-en-pakt-eerste-prijs-tzolis-blinkt-uit-bij-debuut/ar-AA2aeDDX",
-          "publishedDate": "Sun, 16 Aug 2026 09:06:00 GMT",
-          "description": "Arsenal heeft zondag de Community Shield gewonnen ten koste van Manchester City. De ploeg van Mikel Arteta was met 3-0 te sterk en pakt daarmee zijn tweede prijs in korte tijd. De van Club Brugge over ..."
-        },
-        {
-          "title": "Arsenal walst met bliksemstart over Man City heen en pakt eerste prijs",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/arsenal-walst-met-bliksemstart-over-man-city-heen-en-pakt-eerste-prijs/ar-AA2aeInD",
-          "publishedDate": "Sun, 16 Aug 2026 08:58:44 GMT",
-          "description": "Arsenal heeft de eerste prijs van het nieuwe seizoen binnen. De formatie van Mikel Arteta won via een bliksemstart overtuigend van Manchester City het Community Shield, waarbij nieuwe manager Enzo Mar ..."
-        },
-        {
-          "title": "Praat mee op VP: Man City zonder Rodri en Reijnders, twee debutanten bij Arsenal",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-man-city-zonder-rodri-en-reijnders-twee-debutanten-bij-arsenal/ar-AA2adIxW",
-          "publishedDate": "Sun, 16 Aug 2026 06:59:45 GMT",
-          "description": "Arsenal en Manchester City strijden vandaag om het Community Shield. De wedstrijd begint om 16.00 uur. Volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
-        },
-        {
-          "title": "Arsenal in bloedvorm speelt Manchester City zoek en verovert Community Shield",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/arsenal-in-bloedvorm-speelt-manchester-city-zoek-en-verovert-community-shield/ar-AA2afeI1",
-          "publishedDate": "Sun, 16 Aug 2026 06:56:45 GMT",
-          "description": "Arsenal heeft zondagmiddag met grote overtuiging de Community Shield veroverd. De landskampioen was in het Principality Stadium in Cardiff met 3-0 te sterk voor FA Cup-houder Manchester City. Riccardo ..."
-        },
-        {
-          "title": "Met glansrol voor Christos Tzolis: ex-Club Brugge-speler geeft twee assists bij debuut voor Arsenal, dat Community Shield overtuigend wint van slap City",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenlands-voetbal/met-glansrol-voor-christos-tzolis-ex-club-brugge-speler-geeft-twee-assists-bij-debuut-voor-arsenal-dat-community-shield-overtuigend-wint-van-slap-city~ae93712c/?slug_rd=1",
-          "publishedDate": "Sun, 16 Aug 2026 02:03:00 GMT",
-          "description": "Een debuut om in te kaderen voor Christos Tzolis (24). De ex-speler van &lt;a href=&quot;http://hln.be/club-brugge&quot; target=&quot;_blank&quot;&gt;Club Brugge was goed voor twee assists bij zijn eerste offici&#235;le minuten voo ..."
-        },
-        {
-          "title": "Arsenal verslaat Manchester City in strijd om Community Shield",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/arsenal-verslaat-manchester-city-in-strijd-om-community-shield",
-          "publishedDate": "Sat, 15 Aug 2026 21:11:00 GMT",
-          "description": "Arsenal wint met 3-0 van Manchester City in de Community Shield in Cardiff. Doelpunten van Calafiori, Havertz en &#216;degaard. Eerste duel onder Maresca."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "twente - pec",
       "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "FC Twente buigt achterstand om mede dankzij knullig eigen doelpunt PEC en kan met vertrouwen naar Europese play-off",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/fc-twente-buigt-achterstand-om-mede-dankzij-knullig-eigen-doelpunt-pec-en-kan-met-vertrouwen-naar-europese-play-off~afc58a3e/",
-          "publishedDate": "Sun, 16 Aug 2026 00:49:00 GMT",
-          "description": "FC Twente heeft de eerste zege van het seizoen te pakken in de VriendenLoterij Eredivisie. De ploeg van trainer John van den Brom boog in eigen huis tegen PEC Zwolle mede dankzij een knullig eigen doe"
-        },
-        {
-          "title": "Praat mee op VP: dolend Twente ook bij PEC Zwolle op achterstand",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-dolend-twente-ook-bij-pec-zwolle-op-achterstand/ar-AA2aepu3?ocid=BingNewsVerp",
-          "publishedDate": "Sun, 16 Aug 2026 05:55:27 GMT",
-          "description": "FC Twente en PEC Zwolle treffen elkaar vandaag in de Eredivisie. De wedstrijd begint om 14.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "ado - groningen",
       "trafficLabel": "20K+",
+      "articles": []
+    },
+    {
+      "keyword": "jutta leerdam",
+      "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "ADO-doelman Kilian Nikiema beleeft ‘frustrerende’ middag tegen FC Groningen: ‘Hopelijk is dit eenmalig’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/den-haag/ado-doelman-kilian-nikiema-beleeft-frustrerende-middag-tegen-fc-groningen-hopelijk-is-dit-eenmalig~af142572/",
-          "publishedDate": "Sun, 16 Aug 2026 00:41:00 GMT",
-          "description": "Doelman Kilian Nikiema verlengde afgelopen week zijn contract bij ADO Den Haag met drie jaar. Zondagmiddag tegen FC Groningen bewees hij waarom de club hem graag langer wilde binden. Een &lt;a href=&quot;http"
+          "title": "Jutta Leerdam doet onthulling over jeugd: ’Dat vormt je als jong meisje’",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/video/jutta-leerdam-doet-onthulling-over-jeugd-dat-vormt-je-als-jong-meisje/160074939.html",
+          "publishedDate": "Sat, 15 Aug 2026 11:11:00 GMT",
+          "description": "Jutta Leerdam laat op TikTok weten welke drie dingen in haar leven haar het meeste zelfvertrouwen hebben gegeven. Hetgene dat het meeste effect heeft gehad op het zelfvertrouwen van de schaatster is h ..."
         },
         {
-          "title": "Voetbaldag begint met ADO-Groningen • Later ook Feyenoord en Ajax in actie",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2627093-voetbaldag-begint-met-ado-groningen-later-ook-feyenoord-en-ajax-in-actie",
-          "publishedDate": "Sat, 15 Aug 2026 14:12:00 GMT",
-          "description": "Welkom op de tweede eredivisiezondag van het seizoen. We beginnen de dag met ADO tegen Groningen, waarna er met Feyenoord, Twente en Ajax drie topploegen in actie komen. Gisteren wonnen hun concurrenten NEC en PSV van respectievelijk Willem II en Excelsior."
+          "title": "Jutta Leerdam wordt komend seizoen niet op het ijs verwacht: 'Bijna onmogelijk'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/schaatsen/6406030/jutta-leerdam-wordt-komend-seizoen-niet-op-het-ijs-verwacht-bijna-onmogelijk.html",
+          "publishedDate": "Tue, 11 Aug 2026 11:35:00 GMT",
+          "description": "Terwijl vrijwel alle topschaatsers deze week op het zomerijs in Thialf staan, ontbreekt Jutta Leerdam. De olympische kampioene laat zelf nog altijd niets los over haar toekomst, maar haar concurrentes ..."
+        },
+        {
+          "title": "Jutta Leerdam voor start olympisch seizoen mysterieus: ’Vraag het me straks’",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/schaatsen/jutta-leerdam-voor-start-olympisch-seizoen-mysterieus-vraag-het-me-straks/101257550.html",
+          "publishedDate": "Fri, 31 Oct 2025 00:00:00 GMT",
+          "description": "Leerdam, vlak voor ze deur achter haar sluit: „Ik zit nu zo in een focus, dus vraag me straks, als het seizoen na dit weekend echt is begonnen, maar hoe het met me gaat. Nu liever niet.” Poltavets had ..."
+        },
+        {
+          "title": "Wie zijn deze 2 belangrijke mannen in het leven van Jutta Leerdam (naast Jake Paul)?",
+          "source": "Startpagina on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/wie-zijn-deze-2-belangrijke-mannen-in-het-leven-van-jutta-leerdam-naast-jake-paul/ar-AA24xpjV",
+          "publishedDate": "Sun, 16 Aug 2026 01:16:28 GMT",
+          "description": "Als Jutta Leerdam in het nieuws is, gaat het vaak over haar prestaties op het ijs of haar opvallende relatie met Jake ..."
+        },
+        {
+          "title": "Jutta Leerdam doet gooi naar Victoria's Secret-catwalk met TikTok-video",
+          "source": "MAN MAN on MSN",
+          "url": "https://www.msn.com/nl-nl/lifestyle/other/jutta-leerdam-doet-gooi-naar-victoria-s-secret-catwalk-met-tiktok-video/ar-AA2a7jn7",
+          "publishedDate": "Fri, 14 Aug 2026 06:45:13 GMT",
+          "description": "Jutta Leerdam, de Nederlandse schaatsster met de charme van een model, doet een gedurfde gooi naar de catwalk van Victoria's Secret."
+        },
+        {
+          "title": "Jutta Leerdam voedt geruchten over schaatstoekomst met opmerkelijke trip",
+          "source": "sportnieuws",
+          "url": "https://sportnieuws.nl/schaatsen/nieuws/jutta-leerdam-voedt-geruchten-over-schaatstoekomst-met-opmerkelijke-trip-2026081410544519548/",
+          "publishedDate": "Fri, 14 Aug 2026 06:10:00 GMT",
+          "description": "In Thialf glimt het zomerijs alweer enige tijd onder de schaatsen van de Nederlandse top, maar Jutta Leerdam is op een heel andere plek te vinden. De olympisch kampioene is weer met heel andere zaken ..."
+        },
+        {
+          "title": "Kunnen we Jutta Leerdam komend seizoen op het ijs verwachten? Dit zeggen haar oud-teamgenoten",
+          "source": "Cosmopolitan",
+          "url": "https://www.cosmopolitan.com/nl/entertainment/a73411608/jutta-leerdam-toekomst-schaatsen/",
+          "publishedDate": "Wed, 12 Aug 2026 04:13:00 GMT",
+          "description": "Dat Jutta Leerdam zich even afzijdig houdt na haar grote overwinning tijdens de Olympische Winterspelen, snappen we helemaal. Maar toch zijn we heel benieuwd wanneer ze haar volgende move aankondigt."
+        },
+        {
+          "title": "Schaatsicoon Jutta Leerdam houdt fans in spanning met opvallende boodschap over toekomst",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/schaatsen/nieuws/schaatsicoon-jutta-leerdam-houdt-fans-in-spanning-met-opvallende-boodschap-over-toekomst-2026080309105556546/",
+          "publishedDate": "Mon, 03 Aug 2026 04:44:00 GMT",
+          "description": "Het schaatsseizoen komt langzaam dichterbij en de meeste Nederlandse topschaatsers zijn volop in training. Over de bekendste schaatsster van het stel zijn echter nog een hoop onzekerheden. Het is ..."
+        },
+        {
+          "title": "Ice queen Jutta Leerdam pakt olympisch goud op de 1000 meter en schrijft geschiedenis",
+          "source": "Cosmopolitan",
+          "url": "https://www.cosmopolitan.com/nl/lifestyle/a70289736/jutta-leerdam-olympische-spelen-2026-goud-1000-meter/",
+          "publishedDate": "Mon, 09 Feb 2026 10:14:00 GMT",
+          "description": "Jutta Leerdam was vanaf het begin messcherp en liet zien waarom zij al jaren tot de absolute wereldtop behoort. Ze liet haar concurrenten achter zich – en dat niet alleen: ze zette de snelste tijd ..."
+        },
+        {
+          "title": "Gaan we veel van Jutta Leerdam zien in realityserie 'Paul American' van vriend Jake Paul?",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/lifestyle/lifestyle-nieuws/a64045968/jutta-leerdam-poster-realityserie-jake-paul/",
+          "publishedDate": "Wed, 05 Mar 2025 02:13:00 GMT",
+          "description": "Het is al heel lang zo dat voormalig ELLE-coverster Jutta Leerdam niet meer alleen bekend is in ons eigen land. Vanaf eind deze maand, dankzij de aankomende realityserie van Jake Paul, zou het zomaar ..."
         }
       ]
     },
     {
       "keyword": "action",
       "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Action-steeldieven maken er een potje van",
-          "source": "VK Magazine",
-          "url": "https://www.vkmag.com/magazine/action-steeldieven-maken-er-een-potje-van",
-          "publishedDate": "Thu, 13 Aug 2026 05:55:00 GMT",
-          "description": "Gezelligheid bij de Action in Rotterdam. Het zijn al drie woorden waarvan je ze niet in &#233;&#233;n zin verwacht. Twee jonge mannen proberen producten te stelen uit de winkel, maar een medewerker heeft ze gez ..."
-        },
-        {
-          "title": "Update - Action geeft je makkelijk, snel en goedkoop twee monitoren onderweg",
-          "source": "XGN.nl",
-          "url": "https://www.xgn.nl/nieuws/action-geeft-je-makkelijk-snel-en-goedkoop-twee-monitoren-onderweg",
-          "publishedDate": "Wed, 12 Aug 2026 13:32:00 GMT",
-          "description": "Action heeft een geweldige gadget voor mensen die veel onderweg werken. Met dit draagbare scherm werk je overal makkelijk en snel met twee monitoren."
-        },
-        {
-          "title": "Action verkoopt draagbaar Full HD-display voor je thuiswerkplek &#233;n onderweg",
-          "source": "MANLY on MSN",
-          "url": "https://www.msn.com/nl-nl/lifestyle/other/action-verkoopt-draagbaar-full-hd-display-voor-je-thuiswerkplek-%C3%A9n-onderweg/ar-AA29LC4O",
-          "publishedDate": "Mon, 10 Aug 2026 04:52:14 GMT",
-          "description": "Onderweg in de auto of het vliegtuig, op de camping of aan het strand: Action verkoopt een draagbaar beeldscherm in Full ..."
-        },
-        {
-          "title": "Interior girlies, opgelet! Deze houten bartafel van Action geeft je woonkamer een instant upgrade",
-          "source": "Cosmopolitan",
-          "url": "https://www.cosmopolitan.com/nl/lifestyle/a73373412/houten-bartafel-action/",
-          "publishedDate": "Sat, 08 Aug 2026 03:00:00 GMT",
-          "description": "Wat ik misschien wel het allergezelligst vind in een huis, is een bar bij de keuken. In mijn vorige huis konden mijn vriendinnen heerlijk aan de bar zitten, terwijl ik aan het koken was. Nou ben ik si ..."
-        },
-        {
-          "title": "De viral Japandi-eetkamerstoelen van de Action zijn eindelijk weer op voorraad",
-          "source": "Cosmopolitan",
-          "url": "https://www.cosmopolitan.com/nl/lifestyle/a73352333/action-japandi-eetkamer-stoelen-budgetproof/",
-          "publishedDate": "Thu, 06 Aug 2026 01:43:00 GMT",
-          "description": "Het liefst scroll ik uren op Pinterest of TikTok op zoek naar de mooiste interieurinspiratie en handige tips, vooral nu ik net ben verhuisd en mijn huis nog wel een upgrade kan gebruiken. Het enige mi ..."
-        },
-        {
-          "title": "Deze elektrische dweil met sprayfunctie bij Action is de beste investering voor een schone vloer",
-          "source": "ELLE",
-          "url": "https://www.elle.com/nl/lifestyle/a73353043/action-elektrische-dweil/",
-          "publishedDate": "Wed, 05 Aug 2026 08:00:00 GMT",
-          "description": "Er is niets leuker dan het internet afstruinen op zoek naar de beste home gadgets. Action is dan ook een van onze favoriete (web)adressen, want de (online) winkel staat bekend om handige &#233;n betaalbare ..."
-        },
-        {
-          "title": "Action verkoopt een robotstofzuiger voor minder dan 90 euro",
-          "source": "WANT",
-          "url": "https://www.want.nl/action-robotstofzuiger-goedkoop-2026/",
-          "publishedDate": "Fri, 31 Jul 2026 08:18:00 GMT",
-          "description": "Ben je op zoek naar een robotstofzuiger? Action heeft wel een heel voordelige deal zelfs te mooi lijkt om waard te zijn."
-        },
-        {
-          "title": "Action opent nieuwe winkel in Sint-Lambrechts-Woluwe",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/brussel/action-opent-nieuwe-winkel-in-sint-lambrechts-woluwe~ad1961a3/",
-          "publishedDate": "Wed, 29 Jul 2026 17:00:00 GMT",
-          "description": "Discountketen Action breidt verder uit in Belgi&#235; en opent op donderdag 6 augustus haar eerste winkel in Sint-Lambrechts-Woluwe. Daarmee telt de keten nu 233 winkels in Belgi&#235;."
-        },
-        {
-          "title": "Spotgoedkoop Action-product (€ 1,97) is een regelrechte hit!",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-nl/lifestyle/other/spotgoedkoop-action-product-1-97-is-een-regelrechte-hit/ar-AA1G43EF",
-          "publishedDate": "Sun, 19 Jul 2026 02:25:00 GMT",
-          "description": "Zoals je weet, heeft de Action alles in huis om zowel binnen- als buitenshuis alles spik en span te krijgen. Van schoonmaakbenodigdheden en keukengerei tot decoratieve items en opbergoplossingen; ..."
-        },
-        {
-          "title": "Dit opvallende interieur-item van Action had net zo goed van een designermerk kunnen zijn",
-          "source": "ELLE",
-          "url": "https://www.elle.com/nl/lifestyle/a70583253/vloerlamp-xxl-action/",
-          "publishedDate": "Tue, 03 Mar 2026 01:59:00 GMT",
-          "description": "Statementverlichting is al jaren favoriet bij high-end interieurmerken: oversized vormen, een zachte gloed, modern en multifunctioneel. Precies daarom verrast deze XXL LED-vloerlamp van Action zo. Met ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "vliegtuig",
       "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Neemt iedereen straks het elektrische vliegtuig of wordt het een luchttaxi voor de rijken?",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/economie/neemt-iedereen-straks-het-elektrische-vliegtuig-of-wordt-het-een-luchttaxi-voor-de-rijken~b60da358/",
-          "publishedDate": "Wed, 12 Aug 2026 22:00:00 GMT",
-          "description": "Na jaren van grote beloften komt er beweging in elektrisch vliegen. Nieuwe toestellen gaan de lucht in, al blijft het formaat nog achter op de ambitie. Staan we aan de vooravond van een doorbraak? ‘Di ..."
-        },
-        {
-          "title": "Waarom Trump heimelijk wisselde van vliegtuig",
-          "source": "NOS",
-          "url": "https://nos.nl/nieuwsuur/video/2626464-waarom-trump-heimelijk-wisselde-van-vliegtuig",
-          "publishedDate": "Tue, 11 Aug 2026 13:21:00 GMT",
-          "description": "Toen de Amerikaanse president Trump vorige maand plotseling van vliegtuig wisselde na de NAVO-top in Turkije, werd hij heimelijk vervoerd in een cateringwagen. Dat zeggen functionarissen van het Witte ..."
-        },
-        {
-          "title": "Oekra&#239;ens vliegtuig in Leipzig waar drone dichtbij kwam, was beladen met munitie",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2625752-oekraiens-vliegtuig-in-leipzig-waar-drone-dichtbij-kwam-was-beladen-met-munitie",
-          "publishedDate": "Wed, 05 Aug 2026 23:20:00 GMT",
-          "description": "Het is niet duidelijk hoeveel munitie er aan boord was. In de nacht van dinsdag op woensdag werd er naast het vliegtuig een drone met een explosief gevonden."
-        },
-        {
-          "title": "Vermist vliegtuig uit 1952 teruggevonden: crash veranderde veiligheidsregels voorgoed",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/vermist-vliegtuig-uit-1952-teruggevonden-crash-veranderde-veiligheidsregels-voorgoed~a39ba55c/",
-          "publishedDate": "Wed, 22 Jul 2026 00:00:00 GMT",
-          "description": "In de oceaan voor de kust van Puerto Rico hebben onderzoekers het wrak gevonden van het Pan Am-vliegtuig dat in 1952 is neergestort. Sinds deze crash, waarbij 52 mensen om het leven kwamen, zijn de ve ..."
-        },
-        {
-          "title": "Haar zoon vroeg drie keer om water, maar kreeg het niet: moeder stort in na uur in snikheet vliegtuig op Eindhoven Airport",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/haar-zoon-vroeg-drie-keer-om-water-maar-kreeg-het-niet-moeder-stort-in-na-uur-in-snikheet-vliegtuig-op-eindhoven-airport~a022cfaff/",
-          "publishedDate": "Tue, 07 Jul 2026 20:05:00 GMT",
-          "description": "Tijdens een hittegolf een uur lang in een stilstaand vliegtuig zitten, zonder water en met een niet-werkende airco. Het overkwam mevrouw Bogers-Kroese (87), die aan hartfalen lijdt. „Mijn vader huilde ..."
-        },
-        {
-          "title": "Piloot van Air India test positief op marihuana nadat vliegtuig plots 90 meter daalde en 24 mensen gewond raakten",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/buitenland/piloot-van-air-india-test-positief-op-marihuana-nadat-vliegtuig-plots-90-meter-daalde-en-24-mensen-gewond-raakten/160024684.html",
-          "publishedDate": "Fri, 14 Aug 2026 05:38:00 GMT",
-          "description": "Een piloot van een vliegtuig van Air India heeft positief getest op marihuana. Hij moest de drugstest ondergaan nadat hij tijdens een vlucht plots ongeveer 300 voet daalde. Na het incident heeft Air I ..."
-        },
-        {
-          "title": "Afgebroken motoronderdelen verbrijzelden raam van Ryanair-vliegtuig waardoor passagier bijna uit vliegtuig werd gezogen",
-          "source": "VRT NWS on MSN",
-          "url": "https://www.msn.com/nl-be/openbare-veiligheid-en-noodgevallen/verkeers-en-transportincidenten/afgebroken-motoronderdelen-verbrijzelden-raam-van-ryanair-vliegtuig-waardoor-passagier-bijna-uit-vliegtuig-werd-gezogen/ar-AA2a65fq",
-          "publishedDate": "Fri, 14 Aug 2026 03:22:40 GMT",
-          "description": "Afgebroken motoronderdelen hebben het raam van een Ryanair-vliegtuig verbrijzeld, waardoor een man begin juli bijna uit het toestel werd gezogen. Dat blijkt uit een Amerikaans onderzoek. De man hield ..."
-        },
-        {
-          "title": "Trump bevestigt dat hij van vliegtuig wisselde wegens dreiging en krijgt kritiek omdat hij journalisten en medewerkers liet zitten",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/buitenland/trump-bevestigt-dat-hij-van-vliegtuig-wisselde-wegens-dreiging-en-krijgt-kritiek-omdat-hij-journalisten-en-medewerkers-liet-zitten/159909865.html",
-          "publishedDate": "Tue, 11 Aug 2026 22:34:00 GMT",
-          "description": "De Amerikaanse president Donald Trump heeft dinsdag (lokale tijd) bevestigd dat hij begin juli in Turkije in het geheim van vliegtuig is gewisseld wegens een “dreiging”. &#160;Hij stelde dat hij enkel het ..."
-        },
-        {
-          "title": "Vliegtuig met Europese toeristen crasht onderweg naar wereldberoemde Nazcalijnen in Peru: zeker dertien doden",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/vliegtuig-met-europese-toeristen-crasht-onderweg-naar-wereldberoemde-nazcalijnen-in-peru-zeker-dertien-doden~a23c5637/",
-          "publishedDate": "Sat, 01 Aug 2026 17:00:00 GMT",
-          "description": "In het Zuid-Amerikaanse land Peru is zaterdag een klein vliegtuig met toeristen aan boord neergestort. Dertien mensen kwamen om het leven, zo meldt de lokale politie. Volgens het Peruviaanse ministeri ..."
-        },
-        {
-          "title": "Raam van vliegtuig kapot tijdens vlucht; passagier wordt bijna naar buiten gezogen",
-          "source": "Waterkant.net",
-          "url": "https://www.waterkant.net/suriname/2026/07/10/raam-van-vliegtuig-kapot-tijdens-vlucht-passagier-wordt-bijna-naar-buiten-gezogen/",
-          "publishedDate": "Fri, 10 Jul 2026 08:24:00 GMT",
-          "description": "Aan boord van een Ryanair-vlucht van Griekenland naar Duitsland hebben zich vrijdagochtend angstaanjagende taferelen afgespeeld die je alleen in films ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "peter bosz",
       "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "PSV-coach Bosz draait er niet omheen: 'We zijn nog niet top, dat zag je vandaag'",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2626088-psv-coach-bosz-draait-er-niet-omheen-we-zijn-nog-niet-top-dat-zag-je-vandaag",
-          "publishedDate": "Sat, 08 Aug 2026 14:21:00 GMT",
-          "description": "Landskampioen PSV is de competitie begonnen met een teleurstellende 2-2 tegen Fortuna Sittard. PSV-coach Peter Bosz wijst op het aantal spelers dat er nog niet bij is."
-        },
-        {
-          "title": "Peter Bosz: 'Ik heb de training vrijdag per direct gestopt. Iedereen was er kapot van'",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/peter-bosz-ik-heb-de-training-vrijdag-per-direct-gestopt-iedereen-was-er-kapot-van/blt2ce28020dc98dab3",
-          "publishedDate": "Sun, 16 Aug 2026 05:45:00 GMT",
-          "description": "“Ik ben de training meteen gestopt. Ik merkte het ook aan de jongens. Ze stonden er allemaal omheen en het was niet het moment om door te gaan”, besloot Bosz. Pl&#233;a wordt volgens Bosz pas in oktober ..."
-        },
-        {
-          "title": "Bosz ziet verbetering bij PSV: 'Vanaf dat moment hadden we de regie in handen'",
-          "source": "Voetbal Centraal",
-          "url": "https://www.voetbalcentraal.nl/nieuws/1727672/Bosz-ziet-verbetering-bij-PSV:--Vanaf-dat-moment-hadden-we-de-regie-in-handen-",
-          "publishedDate": "Sun, 16 Aug 2026 05:41:00 GMT",
-          "description": "Peter Bosz is voorzichtig tevreden na de overwinning op Excelsior. PSV won met 1-2 van de Kralingers, maar er was nog genoeg ruimte voor verbetering. Toch zag Bosz dat zijn ploeg de controle had, met ..."
-        },
-        {
-          "title": "Trainer Bosz gunt Veerman transfer naar Dortmund",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/trainer-bosz-gunt-veerman-transfer-naar-dortmund",
-          "publishedDate": "Sat, 15 Aug 2026 16:55:00 GMT",
-          "description": "Trainer Peter Bosz gunt Joey Veerman een transfer naar Borussia Dortmund. PSV ontving nog geen bod; media melden interesse en clausule rond €20 miljoen."
-        },
-        {
-          "title": "‘Van Gaal: liever Bosz dan Xavi’",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/van-gaal-liever-bosz-dan-xavi/",
-          "publishedDate": "Sat, 15 Aug 2026 12:24:00 GMT",
-          "description": "Louis van Gaal liet weten open te staan voor een gesprek met de Nederlandse voetbalbond (KNVB), maar die koos voor Xavi als nieuwe bondscoach van het ..."
-        },
-        {
-          "title": "Dries Roelvink bespreekt bondscoach Xavi met Van Gaal: 'Liever Peter Bosz'",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/dries-roelvink-bespreekt-bondscoach-xavi-met-van-gaal-liever-peter-bosz/ar-AA2acG3S",
-          "publishedDate": "Sat, 15 Aug 2026 12:08:50 GMT",
-          "description": "Louis van Gaal had eigenlijk liever gezien dat de KNVB niet Xavi Hern&#225;ndez, maar Peter Bosz had aangesteld als de nieuwe bondscoach van het Nederlands elftal. Dat stelt zanger Dries Roelvink, die Van ..."
-        },
-        {
-          "title": "Na aanstelling Xavi geeft Bosz eindelijk uitsluitsel: 'Of er contact was met de KNVB?'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/peter-bosz-geen-contact-knvb-aanstelling-xavi-bondscoach",
-          "publishedDate": "Fri, 14 Aug 2026 06:08:00 GMT",
-          "description": "Peter Bosz reageert op de aanstelling van Xavi als bondscoach van Oranje en onthult of de KNVB hem na het vertrek van Ronald Koeman heeft benaderd."
-        },
-        {
-          "title": "Opvallend moment bij Peter Bosz op persconferentie na nieuwe dreun voor PSV: 'Help eens?'",
-          "source": "sportnieuws",
-          "url": "https://sportnieuws.nl/eredivisie-voetbal/nieuws/opvallend-moment-bij-peter-bosz-op-persconferentie-na-nieuwe-dreun-voor-psv-help-eens-2026080821310463640/",
-          "publishedDate": "Sat, 08 Aug 2026 16:58:00 GMT",
-          "description": "PSV is het Eredivisie-seizoen op slechte wijze begonnen. Thuis tegen Fortuna Sittard verspeelde de landskampioen direct punten: 2-2. Trainer Peter Bosz was na afloop vanzelfsprekend zeer ontevreden."
-        },
-        {
-          "title": "'Slapeloze nachten' voor PSV-coach Peter Bosz: 'Anders wordt het een moeilijk seizoen'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/slapeloze-nachten-voor-psv-coach-peter-bosz-anders-wordt-het-een-moeilijk-seizoen-2026080320243820633/",
-          "publishedDate": "Mon, 03 Aug 2026 22:00:00 GMT",
-          "description": "De Eredivisie gaat komend weekend van start en na drie landstitels op rij leek PSV opnieuw de favoriet voor het kampioenschap. De ploeg van Peter Bosz kreeg zondag in de Johan Cruijff Schaal echter ee ..."
-        },
-        {
-          "title": "Kenneth Perez verbaasd over reactie Peter Bosz na afstraffing PSV: 'Dit is best wel gek'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/kenneth-perez-peter-bosz-reactie-psv-az-rode-kaart",
-          "publishedDate": "Sat, 01 Aug 2026 17:00:00 GMT",
-          "description": "Kenneth Perez begrijpt weinig van de analyse van Peter Bosz na de 0-4 nederlaag van PSV tegen AZ. De ESPN-analist vindt dat de trainer de rode kaart van Joey Veerman te veel als verklaring gebruikt."
-        }
-      ]
-    },
-    {
-      "keyword": "boom",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Hoe vergaat het een boom die naar een ander halfrond verhuist?",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/wetenschap/hoe-vergaat-het-een-boom-die-naar-een-ander-halfrond-verhuist~b1e7a2b54/",
-          "publishedDate": "Sun, 02 Aug 2026 15:00:00 GMT",
-          "description": "Deze zomer gaat de wetenschapsredactie aan de slag met vragen van lezers. Vandaag: Kan een boom zijn jaarritme aanpassen?"
-        },
-        {
-          "title": "Boom staat gigantisch in de weg, maar wordt niet gekapt",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/natuur/5137680/boom-staat-gigantisch-in-de-weg-maar-wordt-niet-gekapt",
-          "publishedDate": "Sun, 16 Aug 2026 03:01:00 GMT",
-          "description": "Er komt geen praktische oplossing voor de smalle doorgang voor voetgangers op de stoep van de Hoflaan in 's-Gravenzande. De vernauwing komt door een boom die daar al heel lang staat. 'Wij gaan geen ge ..."
-        },
-        {
-          "title": "Hoe een specht zijn jongen in een boom voedt",
-          "source": "10-Minutes Amazing Life on MSN",
-          "url": "https://www.msn.com/nl-be/natuurwetenschappen/dierkunde/hoe-een-specht-zijn-jongen-in-een-boom-voedt/vi-AA2adTNt",
-          "publishedDate": "Sun, 16 Aug 2026 00:01:53 GMT",
-          "description": "Een specht keert terug naar een holte in een boom om zijn hongerige jongen te voeren die daar veilig verstopt zitten. De ouder brengt het voedsel zorgvuldig direct naar het nest en laat zo een fascine ..."
-        },
-        {
-          "title": "Tot gemiddeld wel 23 snikhete dagen per jaar: zoveel hittegolfdagen krijgt Boom komende decennia te verduren",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/boom/tot-gemiddeld-wel-23-snikhete-dagen-per-jaar-zoveel-hittegolfdagen-krijgt-boom-komende-decennia-te-verduren~a45f81ab/",
-          "publishedDate": "Sat, 15 Aug 2026 17:00:00 GMT",
-          "description": "Dit jaar hadden we er al drie, zelfs bijna vier: van die snikhete hittegolven. Vandaag is dat nog uitzonderlijk, maar door de klimaatverandering schiet het aantal hittegolfdagen in Vlaanderen de komen ..."
-        },
-        {
-          "title": "Brandweer redt kat uit een boom in Veenhuizen",
-          "source": "RTV Drenthe",
-          "url": "https://www.rtvdrenthe.nl/nieuws/18693043/brandweer-redt-kat-uit-een-boom-in-veenhuizen",
-          "publishedDate": "Wed, 12 Aug 2026 10:22:00 GMT",
-          "description": "Het is de brandweer gelukt om een kat uit een boom aan de Hoofdweg in Veenhuizen te bevrijden. Omdat de kat steeds meer tekenen van zwakte vertoonde, rukte de brandweer woensdagmiddag weer uit voor ee ..."
-        },
-        {
-          "title": "Droogte velt grote boom die op dak zorgcentrum belandt",
-          "source": "GelreNieuws.nl",
-          "url": "https://www.gelrenieuws.nl/2026/08/droogte-velt-grote-boom-die-op-dak-zorgcentrum-belandt.html",
-          "publishedDate": "Tue, 04 Aug 2026 03:37:00 GMT",
-          "description": "BARNEVELD - Bij verzorgingshuis Norschoten aan de Klaverweide in Barneveld is dinsdag vanochtend een grote boom op het pand terechtgekomen. De boom viel om en belandde tegen de gevel en deels op het d ..."
-        },
-        {
-          "title": "Boom valt om bij Rijksmuseum en neemt boom ernaast ook mee",
-          "source": "AT5",
-          "url": "https://www.at5.nl/artikelen/239365/boom-valt-om-bij-rijksmuseum-en-neemt-boom-ernaast-ook-mee",
-          "publishedDate": "Mon, 03 Aug 2026 00:40:00 GMT",
-          "description": "Boom valt om in Jan Luijkenstraat Amsterdam-Zuid, vlakbij het Rijksmuseum, en neemt tweede boom mee. Hek museum licht beschadigd. Gemeente onderzoekt oorzaak."
-        },
-        {
-          "title": "Wat kun je met een boom die zijn laatste adem uitblaast? Toon Hendriks zoekt mensen met idee&#235;n",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/land-van-cuijk/wat-kun-je-met-een-boom-die-zijn-laatste-adem-uitblaast-toon-hendriks-zoekt-mensen-met-ideeen~a460e429/",
-          "publishedDate": "Sun, 02 Aug 2026 19:47:00 GMT",
-          "description": "Iemand moet het doen, dus waarom hij niet. Waarom zou Toon Hendriks uit Overloon niet het voortouw nemen om van de lindeboom in Overloon een historisch monument te maken?"
-        }
-      ]
+      "articles": []
     }
   ]
 }
