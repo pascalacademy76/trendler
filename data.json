@@ -1,25 +1,197 @@
 {
-  "fetchedAt": "2026-08-16T23:41:37.010Z",
+  "fetchedAt": "2026-08-17T00:52:07.817Z",
   "trends": [
     {
       "keyword": "ajax - heerenveen",
       "trafficLabel": "100K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Heerenveen speelt gelijk tegen Ajax • Amsterdammers hielden de Friezen in leven",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2627093-heerenveen-speelt-gelijk-tegen-ajax-amsterdammers-hielden-de-friezen-in-leven",
+          "publishedDate": "Sun, 16 Aug 2026 04:11:00 GMT",
+          "description": "Het spelbeeld is weer zoals in het eerste halfuur. Ajax heeft de druk er goed op bij Heerenveen, dat nauwelijks van de eigen helft afkomt. Heerenveen brengt zo Rivera erin. De tweede helft is begonnen in Amsterdam. Ajax krijgt meteen een kans via Gloukh. Knap verdedigend werk van Willemsen voorkomt de 3-1."
+        },
+        {
+          "title": "Trainer M&#237;chel ziet Ajax na rust instorten tegen Heerenveen",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/trainer-michel-ziet-ajax-na-rust-instorten-tegen-heerenveen",
+          "publishedDate": "Sat, 15 Aug 2026 23:09:00 GMT",
+          "description": "M&#237;chel ziet Ajax na rust de controle verliezen tegen Heerenveen (2-2). Vertrek Godts naar PSG, weinig opties op middenveld; club zoekt versterkingen."
+        }
+      ]
     },
     {
       "keyword": "feyenoord - ga eagles",
       "trafficLabel": "100K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "LEES TERUG: Feyenoord geeft voorsprong uit handen tegen Go Ahead en speelt gelijk (2-2)",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2239738/lees-terug-feyenoord-geeft-voorsprong-uit-handen-tegen-go-ahead-en-speelt-gelijk-2-2",
+          "publishedDate": "Sun, 16 Aug 2026 03:03:00 GMT",
+          "description": "Na een voortvarende competitiestart tegen Sparta, staat voor Feyenoord vandaag de eerste thuiswedstrijd van het eredivisieseizoen op het programma. Go Ahead Eagles, traditioneel geen gemakkelijke ploe"
+        },
+        {
+          "title": "Vermoedelijke opstelling Feyenoord: Van Bronckhorst wisselt op &#233;&#233;n positie",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/vermoedelijke-opstelling-feyenoord-van-bronckhorst-wisselt-op-%C3%A9%C3%A9n-positie/ar-AA2a7XDa?ocid=BingNewsVerp",
+          "publishedDate": "Sat, 15 Aug 2026 02:51:13 GMT",
+          "description": "Feyenoord neemt het zondagmiddag in eigen huis op tegen Go Ahead Eagles. De Rotterdammers willen na de 0-1 overwinning vorige week op Sparta Rotterdam de seizoensouverture een goed vervolg geven tegen"
+        }
+      ]
     },
     {
       "keyword": "hulpdiensten",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Hulpdiensten helpen twee personen veilig aan land bij Het Zwin in Retranchement",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/sluis/hulpdiensten-helpen-twee-personen-veilig-aan-land-bij-het-zwin-in-retranchement~a6062faf/",
+          "publishedDate": "Sun, 09 Aug 2026 18:35:00 GMT",
+          "description": "Twee personen raakten zondagavond in de problemen na opkomend water. Dit gebeurde in natuurgebied Het Zwin in Retranchement. Uiteindelijk wisten de twee personen dankzij de Belgische brandweer bij het ..."
+        },
+        {
+          "title": "Grootschalige inzet van de hulpdiensten op Texel nadat buggy crasht op het strand",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-texel/grootschalige-inzet-van-de-hulpdiensten-op-texel-nadat-buggy-crasht-op-het-strand~a8dfb631/",
+          "publishedDate": "Thu, 06 Aug 2026 01:30:00 GMT",
+          "description": "Een buggy is donderdagmiddag op een strand op Texel gecrasht bij een eenzijdig ongeval. Daarbij raakte de bestuurder gewond."
+        },
+        {
+          "title": "Hulpdiensten rukken massaal uit na explosie op zeilboot",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/video/hulpdiensten-rukken-massaal-uit-na-explosie-op-zeilboot/159510608.html",
+          "publishedDate": "Sun, 02 Aug 2026 08:55:00 GMT",
+          "description": "Zondagmiddag zijn hulpdiensten massaal uitgerukt na een explosie op een zeilboot in de buurt van Urk. Twee mensen raakten te water en zijn later naar het ziekenhuis gebracht. Over de toestand van het ..."
+        },
+        {
+          "title": "Hulpdiensten onderweg naar schip bij Urk",
+          "source": "NOS",
+          "url": "https://nos.nl/video/2625263-hulpdiensten-onderweg-naar-schip-bij-urk",
+          "publishedDate": "Sun, 02 Aug 2026 06:50:00 GMT",
+          "description": "Meerdere hulpdiensten zijn opgeroepen vanwege een incident op een schip bij Urk. Volgens een woordvoerder van de veiligheidsregio Flevoland is er mogelijk sprake van een explosie aan boord."
+        },
+        {
+          "title": "Duitse hulpdiensten getroffen door explosie in Ratingen, meerdere zwaargewonden",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2023/05/11/duitse-hulpdiensten-getroffen-door-explosie-in-ratingen-meerdere-zwaargewonden-a4164459",
+          "publishedDate": "Thu, 11 May 2023 07:30:00 GMT",
+          "description": "Bij een ontploffing in een woning in het Duitse Ratingen in de buurt van D&#252;sseldorf zijn donderdag zeker twaalf hulpverleners gewond geraakt, van wie acht nog in levensgevaar verkeren. Dat melden ..."
+        },
+        {
+          "title": "Ongeval met letsel op Kromme Spieringweg in Vijfhuizen",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/noord-holland/kennemerland/vijfhuizen/55705576/p2000-ambulance-naar-kromme-spieringweg-in-vijfhuizen-voor-ongeval-met-letsel.html",
+          "publishedDate": "Sun, 16 Aug 2026 13:50:00 GMT",
+          "description": "De hulpdiensten zijn zondagavond uitgerukt voor een ongeval met letsel aan de Kromme Spieringweg in Vijfhuizen."
+        },
+        {
+          "title": "Verdachte van mishandeling vlucht dak op in Rotterdam",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/artikelen/verdachte-van-mishandeling-vlucht-dak-op-in-rotterdam",
+          "publishedDate": "Sun, 16 Aug 2026 03:36:00 GMT",
+          "description": "In Rotterdam zijn de hulpdiensten zondag uitgerukt voor een mishandeling aan de Sophoclesstraat. De verdachte is vervolgens het dak van een flatgebouw op gevlucht."
+        },
+        {
+          "title": "Hulpdiensten opgeroepen voor autobrand in Willebroek: “De oorzaak wordt nog verder onderzocht”",
+          "source": "Gazet van Antwerpen",
+          "url": "https://www.gva.be/regio/antwerpen/rivierenland/willebroek/hulpdiensten-opgeroepen-voor-autobrand-in-willebroek-de-oorzaak-wordt-nog-verder-onderzocht/158267720.html",
+          "publishedDate": "Fri, 03 Jul 2026 17:00:00 GMT",
+          "description": "De hulpdiensten werden vrijdagnacht opgeroepen voor een brandend voertuig in de Kloosterstraat in Willebroek. Er raakte niemand gewond, maar drie wagens en een woning raakten bij de brand beschadigd."
+        },
+        {
+          "title": "Nieuw communicatiesysteem helpt hulpdiensten tijdens crisis, ook als stroom en internet uitvallen",
+          "source": "RD",
+          "url": "https://www.rd.nl/a/1154231-nieuw-communicatiesysteem-helpt-hulpdiensten-tijdens-crisis-ook-als-stroom-en-internet-uitvallen",
+          "publishedDate": "Fri, 26 Jun 2026 06:00:00 GMT",
+          "description": "„Tijdens de aardbeving werd ik wakker. Het eerste wat ik probeerde, was contact opnemen met vrienden in Oost-Turkije, met wie ik vaak online games speelde. Maar ik kon niemand bereiken”, vertelt &#199;ağan ..."
+        },
+        {
+          "title": "Ramptoeristen zorgden voor grote problemen voor hulpdiensten na ongeluk met luchtballon in Friesland",
+          "source": "panorama",
+          "url": "https://panorama.nl/artikel/661620/ramptoeristen-zorgden-voor-grote-problemen-hulpdiensten-na-ongeluk-met-luchtballon-in-friesland",
+          "publishedDate": "Thu, 14 Aug 2025 04:19:00 GMT",
+          "description": "Woensdagavond vond een vreselijk ongeluk met een luchtballon plaats in het Friese De Hoeve. Een 66-jarige vrouw kwam daarbij om het leven. De ballonvaart was een cadeau van de organisatie aan een ..."
+        }
+      ]
     },
     {
       "keyword": "arsenal - manchester city",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Arsenal verslaat City in strijd om Community Shield na goal binnen 23 seconden",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6406508/arsenal-verslaat-city-in-strijd-om-community-shield-na-goal-binnen-23-seconden.html",
+          "publishedDate": "Sun, 16 Aug 2026 10:55:00 GMT",
+          "description": "Arsenal heeft zondag ten koste van Manchester City het Community Shield veroverd. De Engelse landskampioen kwam al binnen 23 seconden op voorsprong en liep uit naar een 3-0-overwinning."
+        },
+        {
+          "title": "Arsenal pakt Community Shield door zege op City, waar Maresca debuteert als coach",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627152-arsenal-pakt-community-shield-door-zege-op-city-waar-maresca-debuteert-als-coach",
+          "publishedDate": "Sun, 16 Aug 2026 09:04:00 GMT",
+          "description": "De regerend landskampioen van Engeland verovert de Super Cup door met 3-0 te winnen van de ploeg van trainer Enzo Maresca, de opvolger van Pep Guardiola."
+        },
+        {
+          "title": "Kampioen Arsenal geeft bekerwinnaar Manchester City pak slaag en grijpt eerste prijs van het seizoen",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/voetbal/kampioen-arsenal-geeft-bekerwinnaar-manchester-city-pak-slaag-en-grijpt-eerste-prijs-van-het-seizoen/160096775.html",
+          "publishedDate": "Sun, 16 Aug 2026 08:59:00 GMT",
+          "description": "Arsenal heeft Manchester City zondag verslagen in de strijd om de Community Shield, de Engelse supercup. De landskampioen was in het Principality Stadium in Cardiff met 3-0 te sterk voor de winnaar va ..."
+        },
+        {
+          "title": "Voormalig Twente-huurling blinkt uit in Cardiff, waar Arsenal veel te sterk is voor Manchester City",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/voormalig-twente-huurling-blinkt-uit-in-cardiff-waar-arsenal-veel-te-sterk-is-voor-manchester-city~a7e0bbff/",
+          "publishedDate": "Sun, 16 Aug 2026 02:23:00 GMT",
+          "description": "Arsenal heeft met grote overtuiging de eerste prijs van het seizoen gepakt. De Premier League-kampioen won in Cardiff met 3-0 van FA Cup-winnaar Manchester City in de strijd om de Community Shield."
+        },
+        {
+          "title": "Arsenal verslaat Manchester City in strijd om Community Shield",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/arsenal-verslaat-manchester-city-in-strijd-om-community-shield",
+          "publishedDate": "Sun, 16 Aug 2026 11:11:00 GMT",
+          "description": "Arsenal wint met 3-0 van Manchester City in de Community Shield in Cardiff. Doelpunten van Calafiori, Havertz en &#216;degaard. Eerste duel onder Maresca."
+        },
+        {
+          "title": "Arsenal in bloedvorm speelt Manchester City zoek en verovert Community Shield",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/arsenal-in-bloedvorm-speelt-manchester-city-zoek-en-verovert-community-shield/ar-AA2afeI1",
+          "publishedDate": "Sun, 16 Aug 2026 10:55:00 GMT",
+          "description": "Arsenal heeft zondagmiddag met grote overtuiging de Community Shield veroverd. De landskampioen was in het Principality Stadium in Cardiff met 3-0 te sterk voor FA Cup-houder Manchester City. Riccardo ..."
+        },
+        {
+          "title": "Uitblinker Christos Tzolis loodst Arsenal voorbij zwak Manchester City naar afgetekende zege in Community Shield",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/2026/08/16/uitblinker-christos-tzolis-loodst-arsenal-voorbij-zwak-manchester-city-naar-afgetekende-zege-in-community-shield~1786895949346/",
+          "publishedDate": "Sun, 16 Aug 2026 09:31:00 GMT",
+          "description": "In de Community Shield, de Engelse Supercup, stond Tzolis aan de aftrap in het team van Mikel Arteta. Ook Bruno Guimaraes, die andere topaankoop, stond in de ploeg. Bij City was Jeremy Doku, die na ..."
+        },
+        {
+          "title": "VIDEO. Twee assists van Christos Tzolis bezorgen Arsenal tegen onmondig Manchester City van Jeremy Doku achttiende Community Shield",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/sport/voetbal/video.-twee-assists-van-christos-tzolis-bezorgen-arsenal-tegen-onmondig-manchester-city-van-jeremy-doku-achttiende-community-shield/160097432.html",
+          "publishedDate": "Sun, 16 Aug 2026 09:13:00 GMT",
+          "description": "Arsenal heeft zondag in het Millennium Stadium in Cardiff voor de achttiende keer de Community Shield, zeg maar de Engelse Super Cup, naar zich toe getrokken. De landskampioen was met 3-0 te sterk voo ..."
+        },
+        {
+          "title": "Arsenal walst met bliksemstart over Man City heen en pakt eerste prijs",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/arsenal-walst-met-bliksemstart-over-man-city-heen-en-pakt-eerste-prijs/ar-AA2aeInD",
+          "publishedDate": "Sun, 16 Aug 2026 08:58:44 GMT",
+          "description": "Arsenal heeft de eerste prijs van het nieuwe seizoen binnen. De formatie van Mikel Arteta won via een bliksemstart overtuigend van Manchester City het Community Shield, waarbij nieuwe manager Enzo Mar ..."
+        },
+        {
+          "title": "Met glansrol voor Christos Tzolis: ex-Club Brugge-speler geeft twee assists bij debuut voor Arsenal, dat Community Shield overtuigend wint van slap City",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenlands-voetbal/met-glansrol-voor-christos-tzolis-ex-club-brugge-speler-geeft-twee-assists-bij-debuut-voor-arsenal-dat-community-shield-overtuigend-wint-van-slap-city~ae93712c/?slug_rd=1",
+          "publishedDate": "Sun, 16 Aug 2026 02:29:00 GMT",
+          "description": "Een debuut om in te kaderen voor Christos Tzolis (24). De ex-speler van &lt;a href=&quot;http://hln.be/club-brugge&quot; target=&quot;_blank&quot;&gt;Club Brugge was goed voor twee assists bij zijn eerste offici&#235;le minuten voo ..."
+        }
+      ]
     },
     {
       "keyword": "jutta leerdam",
@@ -102,74 +274,18 @@
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Eigen goal PEC Zwolle helpt winnend FC Twente in het zadel",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627130-eigen-goal-pec-zwolle-helpt-winnend-fc-twente-in-het-zadel",
-          "publishedDate": "Sun, 16 Aug 2026 07:23:00 GMT",
-          "description": "FC Twente heeft zondagmiddag gewonnen van PEC Zwolle. De ploeg van John van den Brom kwam terug van een achterstand na een onfortuinlijke eigen goal van PEC-aanvaller Dylan Mbayo."
-        },
-        {
-          "title": "FC Twente buigt achterstand om mede dankzij knullig eigen doelpunt PEC en kan met vertrouwen naar Europese play-off",
+          "title": "LIVE eredivisie | Mbayo helpt FC Twente aan voorsprong: PEC-aanvaller schiet bal hard in eigen doel",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/fc-twente-buigt-achterstand-om-mede-dankzij-knullig-eigen-doelpunt-pec-en-kan-met-vertrouwen-naar-europese-play-off~afc58a3e/",
-          "publishedDate": "Sun, 16 Aug 2026 00:49:00 GMT",
-          "description": "FC Twente heeft de eerste zege van het seizoen te pakken in de VriendenLoterij Eredivisie. De ploeg van trainer John van den Brom boog in eigen huis tegen PEC Zwolle mede dankzij een knullig eigen doe ..."
-        },
-        {
-          "title": "PEC Zwolle verdedigt aardig, maar daar houdt het ook mee op",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/pec-zwolle-verdedigt-aardig-maar-daar-houdt-het-ook-mee-op",
-          "publishedDate": "Sun, 16 Aug 2026 14:41:00 GMT",
-          "description": "PEC Zwolle verloor met 3-1 van FC Twente na een zwakke vertoning in Enschede. De Zwollenaren verdedigden aardig, maar kwamen aan de bal tekort en cre&#235;erden nauwelijks kansen."
-        },
-        {
-          "title": "Onrust is voelbaar bij FC Twente: 'Hier eisen we veel van elkaar'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/onrust-is-voelbaar-bij-fc-twente-hier-eisen-we-veel-van-elkaar",
-          "publishedDate": "Sun, 16 Aug 2026 12:58:00 GMT",
-          "description": "FC Twente versloeg PEC Zwolle met 3-1, maar de onrust in Enschede was duidelijk voelbaar. Robin Pr&#246;pper vertelt over de druk, de prestaties en het gemor in de Grolsch Veste."
-        },
-        {
-          "title": "FC Twente verslaat PEC Zwolle en heeft eerste punten binnen",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/fc-twente-verslaat-pec-zwolle-en-heeft-eerste-punten-binnen",
-          "publishedDate": "Sun, 16 Aug 2026 09:42:00 GMT",
-          "description": "FC Twente wint thuis met 3-1 van PEC Zwolle. Weidmann scoort, eigen goal Mbayo en Rots beslist. Eerste zege van het seizoen, verschil na rust."
+          "url": "https://www.ad.nl/voetbal/live-eredivisie-mbayo-helpt-fc-twente-aan-voorsprong-pec-aanvaller-schiet-bal-hard-in-eigen-doel~afc58a3e/",
+          "publishedDate": "Sat, 15 Aug 2026 23:50:00 GMT",
+          "description": "FC Twente en PEC Zwollen treffen elkaar vanmiddag in de VriendenLoterij Eredivisie. Beide clubs verloren vorige week hun eerste competitiewedstrijd: Twente op bezoek bij Heerenveen (1-0) en PEC in eig"
         },
         {
           "title": "PEC afgetroefd door FC Twente: 'We speelden hun wedstrijd'",
           "source": "Voetbal International on MSN",
           "url": "https://www.msn.com/nl-nl/sport/voetbal/pec-afgetroefd-door-fc-twente-we-speelden-hun-wedstrijd/ar-AA2afcrO",
           "publishedDate": "Sun, 16 Aug 2026 09:35:15 GMT",
-          "description": "PEC Zwolle verliet De Grolsch Veste zondag met een illusie armer. De ploeg van trainer Henry van der Vegt kwam nog op voorsprong tegen FC Twente, maar liet verder veel te weinig zien. De thuisploeg hi ..."
-        },
-        {
-          "title": "FC Twente buigt achterstand om en pakt eerste punten dit Eredivisie-seizoen",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/fc-twente-buigt-achterstand-om-en-pakt-eerste-punten-dit-eredivisie-seizoen/blt41e04c299e1633e7",
-          "publishedDate": "Sun, 16 Aug 2026 09:26:00 GMT",
-          "description": "FC Twente heeft zijn eerste punten binnen in dit nieuwe VriendenLoterij Eredivisie-seizoen. In eigen huis boekte de ploeg van trainer John van den Brom zondag een 3-1 overwinning op PEC Zwolle, dat he ..."
-        },
-        {
-          "title": "Lammers nu wel eerste invaller bij FC Twente: 'Die pikorde is te groot gemaakt'",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/lammers-nu-wel-eerste-invaller-bij-fc-twente-die-pikorde-is-te-groot-gemaakt/ar-AA2aePxh",
-          "publishedDate": "Sun, 16 Aug 2026 08:53:13 GMT",
-          "description": "Sam Lammers kreeg zondagmiddag tijdens het duel met PEC Zwolle een groot applaus van de supporters van FC Twente. De spits kwam na 82 minuten in het veld voor Wout Weghorst en kreeg een warm onthaal."
-        },
-        {
-          "title": "Waarom Twente in de eerste helft moeite had met PEC Zwolle",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/waarom-twente-in-de-eerste-helft-moeite-had-met-pec-zwolle/ar-AA2aer3Q",
-          "publishedDate": "Sun, 16 Aug 2026 07:24:44 GMT",
-          "description": "FC Twente heeft de eerste drie punten van dit Eredivisieseizoen binnen door PEC Zwolle te verslaan: 3-1. Tactische analyse van een wedstrijd waarin Twente moeite heeft met het lage blok van PEC, maar ..."
-        },
-        {
-          "title": "Praat mee op VP: dolend Twente ook bij PEC Zwolle op achterstand",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-dolend-twente-ook-bij-pec-zwolle-op-achterstand/ar-AA2aepu3",
-          "publishedDate": "Sun, 16 Aug 2026 05:55:27 GMT",
-          "description": "FC Twente en PEC Zwolle treffen elkaar vandaag in de Eredivisie. De wedstrijd begint om 14.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+          "description": "PEC Zwolle verliet De Grolsch Veste zondag met een illusie armer. De ploeg van trainer Henry van der Vegt kwam nog op voorsprong tegen FC Twente, maar liet verder veel te weinig zien. De thuisploeg hi"
         }
       ]
     },
@@ -194,88 +310,181 @@
       ]
     },
     {
-      "keyword": "speerwerpen",
+      "keyword": "weersverwachting september",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Weerbericht: Septemberhitte houdt nog wel even aan, pas komende week regen",
+          "source": "NU",
+          "url": "https://www.nu.nl/weerbericht/6280257/weerbericht-septemberhitte-houdt-nog-wel-even-aan-pas-komende-week-regen.html",
+          "publishedDate": "Sun, 10 Sep 2023 01:17:00 GMT",
+          "description": "Ook zondag is het nog erg zonnig en zeer warm septemberweer. Bij weinig wind loopt de temperatuur op tot zo'n 28 graden op de Waddeneilanden. In de rest van het land wordt het tussen de 29 en 32 ..."
+        },
+        {
+          "title": "Weerbericht: September trapt af met veel regen",
+          "source": "NU",
+          "url": "https://www.nu.nl/weerbericht/6278980/weerbericht-september-trapt-af-met-veel-regen.html",
+          "publishedDate": "Thu, 31 Aug 2023 23:26:00 GMT",
+          "description": "Vrijdag luidt meteorologisch gezien het einde van de zomer en het begin van de herfst in. Tijdens deze overgang is het weerbeeld ook niet bepaald zomers te noemen. In de nacht naar vrijdag was het ..."
+        },
+        {
+          "title": "Weerbericht: ‘Na droge en warme start vaker buien in september’",
+          "source": "zeelandnet",
+          "url": "https://www.zeelandnet.nl/nieuws/weerbericht-na-droge-en-warme-start-vaker-buien-in-september",
+          "publishedDate": "Thu, 01 Sep 2022 08:00:00 GMT",
+          "description": "September begint vrij rustig met wolkenvelden, zon en weinig wind. De eerste dagen is het overwegend droog en met 22 tot 27 graden is het ook wat warmer dan gebruikelijk. Gemiddeld start september met ..."
+        }
+      ]
     },
     {
       "keyword": "tommy wieringa",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Na drie uur Zomergasten kon er geen misverstand over bestaan: bij Tommy Wieringa moet elke zin een kilo zijn",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/televisie/na-drie-uur-zomergasten-kon-er-geen-misverstand-over-bestaan-bij-tommy-wieringa-moet-elke-zin-een-kilo-zijn~bb98b3e1/",
+          "publishedDate": "Sun, 16 Aug 2026 16:25:00 GMT",
+          "description": "Na drie uur Zomergasten kon er geen misverstand over bestaan: bij Wieringa moet elke zin een kilo zijn. Elke herinnering is een feilloos geformuleerde volzin, elke gedachte een kortverhaal op zich."
+        },
+        {
+          "title": "Ingenomen met de protagonist vertelt Tommy Wieringa over zijn leven alsof het een jongensboek is",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/08/16/ingenomen-met-de-protagonist-vertelt-tommy-wieringa-over-zijn-leven-alsof-het-een-jongensboek-is-a4934596",
+          "publishedDate": "Sun, 16 Aug 2026 16:24:00 GMT",
+          "description": "Tv-recensie: Wat Tommy Wieringa ons vooral wil meegeven: doe iets. Als Zomergast laat hij gewichtige pauzes vallen en gebruikt hij moeilijke zinnen."
+        },
+        {
+          "title": "In het Oekra&#239;ense Lviv spreekt Tommy Wieringa een weduwe – voor haar was Igor geen dappere soldaat, maar de man van wie ze hield",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/han-lips/in-het-oekraiense-lviv-spreekt-tommy-wieringa-een-weduwe-voor-haar-was-igor-geen-dappere-soldaat-maar-de-man-van-wie-ze-hield~b5d10cfa/",
+          "publishedDate": "Mon, 22 Dec 2025 23:24:00 GMT",
+          "description": "Het konvooi bestaat deze keer uit zes terreinwagens, drie ambulances, een vrachtwagen en een koelwagen, allemaal volgeladen met medische hulpgoederen. Bestemming: Oekra&#239;ne. Ze gingen al eerder, dat ..."
+        },
+        {
+          "title": "Vanavond op tv: Het filmdebuut van Tom Barman, Tommy Wieringa in ‘Zomergasten’ en een laatste keer lopen",
+          "source": "Humo",
+          "url": "https://www.humo.be/tv/vanavond-op-tv-het-filmdebuut-van-tom-barman-tommy-wieringa-in-zomergasten-en-een-laatste-keer-lopen~b0bbd5bf/",
+          "publishedDate": "Sun, 16 Aug 2026 00:00:00 GMT",
+          "description": "Omdat ook uw zittend gat onderhouden moet worden, gidst HUMO u elke dag door het aanbod op het kleine en middelgrote scherm. Nog meer inspiratie nodig? Check dan hier zeker onze complete tv-gids."
+        },
+        {
+          "title": "Schrijver Tommy Wieringa: 'Joe Speedboot is mijn ingehaalde jongensjeugd'",
+          "source": "Nieuwe Revu",
+          "url": "https://revu.nl/artikel/681524/schrijver-tommy-wieringa-joe-speedboot-is-mijn-ingehaalde-jongensjeugd",
+          "publishedDate": "Fri, 20 Mar 2026 03:31:00 GMT",
+          "description": "De verfilming van Joe Speedboot mag je rustig een evenement noemen. Na twintig jaar en 61 drukken is er nu eindelijk een bioscoopversie van Tommy Wieringa’s avonturenroman. Reden genoeg om met de ..."
+        },
+        {
+          "title": "Tommy Wieringa maakt zich zorgen over de toekomst",
+          "source": "Mixed Grill",
+          "url": "https://mixedgrill.nl/tommy-wieringa-maakt-zich-zorgen-over-de-toekomst/",
+          "publishedDate": "Tue, 25 Mar 2025 09:38:00 GMT",
+          "description": "April is de Maand van de Filosofie. Het thema voor 2025 is ‘Mij een zorg’. Speciaal hiervoor schreef Tommy Wieringa een essay dat te koop zal zijn in de boekhandel. In Optimisme zonder hoop laat ..."
+        },
+        {
+          "title": "Tommy Wieringa in Dominicanenklooster Huissen",
+          "source": "regioonline",
+          "url": "https://regioonline.nl/regio-arnhem-nijmegen/tommy-wieringa-klooster/",
+          "publishedDate": "Mon, 11 Nov 2024 22:00:00 GMT",
+          "description": "November is de maand van de bibliotheekcampagne Heel Nederland Leest. Het boek Joe Speedboot van Tommy Wieringa is de hele maand gratis verkrijgbaar in alle vestigingen van de Bibliotheek Gelderland ..."
+        },
+        {
+          "title": "De boeken van de week: Tommy Wieringa in Oekra&#239;ne, de biografie van Walter Grootaers en op citytrip naar Charleroi",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2024/10/08/de-boeken-van-de-week/",
+          "publishedDate": "Fri, 11 Oct 2024 02:47:00 GMT",
+          "description": "Tommy Wieringa is 5 keer met een hulpkonvooi naar het front in Oekra&#239;ne getrokken en brengt daarover verslag uit in een boek. De nakende 70e verjaardag van Walter Grootaers, frontman van De Kreuners, ..."
+        },
+        {
+          "title": "Tommy Wieringa: ‘In elk stadje waar de Russen zijn verjaagd, vind je martelkamers en massagraven’",
+          "source": "AD",
+          "url": "https://www.ad.nl/buitenland/tommy-wieringa-in-elk-stadje-waar-de-russen-zijn-verjaagd-vind-je-martelkamers-en-massagraven~a2709324/",
+          "publishedDate": "Sun, 29 Sep 2024 21:00:00 GMT",
+          "description": "Hij is net terug uit Soemy, helemaal in het oosten van Oekra&#239;ne, waar de oorlog maar een paar kilometer ver is. Soldaten schillen er aardappels boven een emmer, verblijven er in ‘diepe, koele bunkers’ ..."
+        },
+        {
+          "title": "Tommy Wieringa schreef emotioneel boek over zijn &quot;rare&quot; moeder",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2019/01/31/tommy-wieringa-schrijft-emotioneel-boek-over-zijn-rare-moeder/",
+          "publishedDate": "Thu, 31 Jan 2019 12:33:00 GMT",
+          "description": "Wieringa werd in relatief korte tijd een erg bekende en bekroonde auteur. Hij schreef onder meer &quot;Joe Speedboot&quot;, &quot;Ik was nooit in Isfahaan&quot; en &quot;De Heilige Rita&quot;. Moeder Wieringa had een winkel van ..."
+        }
+      ]
     },
     {
-      "keyword": "vliegtuig",
+      "keyword": "speerwerpen",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Neemt iedereen straks het elektrische vliegtuig of wordt het een luchttaxi voor de rijken?",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/economie/neemt-iedereen-straks-het-elektrische-vliegtuig-of-wordt-het-een-luchttaxi-voor-de-rijken~b60da358/",
-          "publishedDate": "Wed, 12 Aug 2026 22:00:00 GMT",
-          "description": "Na jaren van grote beloften komt er beweging in elektrisch vliegen. Nieuwe toestellen gaan de lucht in, al blijft het formaat nog achter op de ambitie. Staan we aan de vooravond van een doorbraak? ‘Di ..."
+          "title": "Nafi Thiam sluit comeback in Ratingen af met matige prestatie in speerwerpen",
+          "source": "europesays",
+          "url": "https://www.europesays.com/be-nl/92918/",
+          "publishedDate": "Sun, 28 Jun 2026 08:38:00 GMT",
+          "description": "Nafi Thiam heeft ook op de tweede dag van de zevenkamp in Ratingen (Duitsland) niet voor een uitschieter kunnen zorgen. In het speerwerpen bleef ze 12 meter onder haar persoonlijk record. Zo sluit ze ..."
         },
         {
-          "title": "Waarom Trump heimelijk wisselde van vliegtuig",
-          "source": "NOS",
-          "url": "https://nos.nl/nieuwsuur/video/2626464-waarom-trump-heimelijk-wisselde-van-vliegtuig",
-          "publishedDate": "Tue, 11 Aug 2026 13:21:00 GMT",
-          "description": "Toen de Amerikaanse president Trump vorige maand plotseling van vliegtuig wisselde na de NAVO-top in Turkije, werd hij heimelijk vervoerd in een cateringwagen. Dat zeggen functionarissen van het Witte ..."
+          "title": "Historisch goud: Nafi Thiam derde keer op rij olympisch kampioen op zevenkamp, Noor Vidts pakt bijzonder knap brons",
+          "source": "HLN",
+          "url": "https://www.hln.be/olympische-spelen/historisch-goud-nafi-thiam-derde-keer-op-rij-olympisch-kampioen-op-zevenkamp-noor-vidts-pakt-bijzonder-knap-brons~af760c58/",
+          "publishedDate": "Fri, 09 Aug 2024 06:09:00 GMT",
+          "description": "Een historische hattrick! Nafi Thiam (29) heeft voor de derde keer op rij olympisch goud veroverd op de zevenkamp. Op de afsluitende 800 meter verdedigde ze haar leidersplaats met succes tegen ..."
         },
         {
-          "title": "Oekra&#239;ens vliegtuig in Leipzig waar drone dichtbij kwam, was beladen met munitie",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2625752-oekraiens-vliegtuig-in-leipzig-waar-drone-dichtbij-kwam-was-beladen-met-munitie",
-          "publishedDate": "Wed, 05 Aug 2026 23:20:00 GMT",
-          "description": "Het is niet duidelijk hoeveel munitie er aan boord was. In de nacht van dinsdag op woensdag werd er naast het vliegtuig een drone met een explosief gevonden."
+          "title": "WK atletiek | Vetter wilde opgeven - “Ik dacht: ik kan net zo goed stoppen met die klote-meerkamp”",
+          "source": "eurosport",
+          "url": "https://www.eurosport.nl/atletiek/world-championships/2023/wk-atletiek-vetter-wilde-opgeven-ik-dacht-ik-kan-net-zo-goed-stoppen-met-die-klote-meerkamp_sto9751917/story.shtml",
+          "publishedDate": "Sun, 20 Aug 2023 15:06:00 GMT",
+          "description": "“Ik kan net zo goed stoppen met die klote-meerkamp. Echt, dat dacht ik. Het had allemaal geen zin meer”, aldus Vetter tegenover NU.nl. “Vroeger was ik gaan zeiken en werd het helemaal niets meer. Maar ..."
         },
         {
-          "title": "Vliegtuig van de toekomst: geen ramen meer en vier gangpaden naast elkaar",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/buitenland/vliegtuig-van-de-toekomst-geen-ramen-meer-en-vier-gangpaden-naast-elkaar/159381745.html",
-          "publishedDate": "Thu, 30 Jul 2026 04:18:00 GMT",
-          "description": "De Amerikaanse overheid steunt een bedrijf dat werkt aan het vliegtuig van de toekomst. De eerste JetZero, die de vorm heeft van een grote rog, moet volgend jaar de lucht in."
+          "title": "Vetter na speerwerpen ineens nog kansrijk voor WK-plak zevenkamp",
+          "source": "zeelandnet",
+          "url": "https://www.zeelandnet.nl/nieuws/vetter-na-speerwerpen-ineens-nog-kansrijk-voor-wk-plak-zevenkamp",
+          "publishedDate": "Sun, 20 Aug 2023 07:14:00 GMT",
+          "description": "Vetter klom na het zesde onderdeel zelfs naar de tweede plaats in het klassement met 5684 punten. Ze heeft er 26 minder dan de Britse Katarina Johnson-Thompson, die zondagavond als leider de ..."
         },
         {
-          "title": "Vermist vliegtuig uit 1952 teruggevonden: crash veranderde veiligheidsregels voorgoed",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/vermist-vliegtuig-uit-1952-teruggevonden-crash-veranderde-veiligheidsregels-voorgoed~a39ba55c/",
-          "publishedDate": "Wed, 22 Jul 2026 00:00:00 GMT",
-          "description": "In de oceaan voor de kust van Puerto Rico hebben onderzoekers het wrak gevonden van het Pan Am-vliegtuig dat in 1952 is neergestort. Sinds deze crash, waarbij 52 mensen om het leven kwamen, zijn de ve ..."
+          "title": "Klisnsmar Sampi voelt zich goed bij speerwerpen",
+          "source": "De Ware Tijd",
+          "url": "https://dwtonline.com/klisnsmar-sampi-voelt-zich-goed-bij-speerwerpen/",
+          "publishedDate": "Sun, 29 Jan 2023 14:03:00 GMT",
+          "description": "Voor de 24-jarige districtsatleet was het zijn eerste deelname ooit op het technische nummer. “Ik heb met mijn coach gesproken en hij zei dat ik me de volgende keer op dit onderdeel moet focussen."
         },
         {
-          "title": "Piloot van Air India test positief op marihuana nadat vliegtuig plots 90 meter daalde en 24 mensen gewond raakten",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/buitenland/piloot-van-air-india-test-positief-op-marihuana-nadat-vliegtuig-plots-90-meter-daalde-en-24-mensen-gewond-raakten/160024684.html",
-          "publishedDate": "Fri, 14 Aug 2026 05:38:00 GMT",
-          "description": "Een piloot van een vliegtuig van Air India heeft positief getest op marihuana. Hij moest de drugstest ondergaan nadat hij tijdens een vlucht plots ongeveer 300 voet daalde. Na het incident heeft Air I ..."
+          "title": "Indoor speerwerpen of kogelstoten? Atletiekvereniging bouwt ultramoderne hal in Heusden",
+          "source": "HBvL",
+          "url": "https://www.hbvl.be/regio/limburg/heusden-zolder/indoor-speerwerpen-of-kogelstoten-atletiekvereniging-bouwt-ultramoderne-hal-in-heusden/29313364.html",
+          "publishedDate": "Thu, 30 Sep 2021 22:59:00 GMT",
+          "description": "Volgens Marcel Schepers (81), voorzitter van AVT, wordt het een ultramodern atletiekcentrum met internationale uitstraling. Samen met bestuurslid Ludo Billen volgt hij het project van dichtbij. “We ..."
         },
         {
-          "title": "Afgebroken motoronderdelen verbrijzelden raam van Ryanair-vliegtuig waardoor passagier bijna uit vliegtuig werd gezogen",
-          "source": "VRT NWS on MSN",
-          "url": "https://www.msn.com/nl-be/openbare-veiligheid-en-noodgevallen/verkeers-en-transportincidenten/afgebroken-motoronderdelen-verbrijzelden-raam-van-ryanair-vliegtuig-waardoor-passagier-bijna-uit-vliegtuig-werd-gezogen/ar-AA2a65fq",
-          "publishedDate": "Fri, 14 Aug 2026 03:22:40 GMT",
-          "description": "Afgebroken motoronderdelen hebben het raam van een Ryanair-vliegtuig verbrijzeld, waardoor een man begin juli bijna uit het toestel werd gezogen. Dat blijkt uit een Amerikaans onderzoek. De man hield ..."
+          "title": "Speerwerpen keert in 2020 terug op Memorial Van Damme",
+          "source": "BRUZZ",
+          "url": "https://www.bruzz.be/sport/speerwerpen-keert-2020-terug-op-memorial-van-damme-2019-11-15",
+          "publishedDate": "Thu, 14 Nov 2019 16:00:00 GMT",
+          "description": "Hoewel de Memorial Van Damme volgend jaar niet langer de finale van de Diamond League vormt, mogen de toeschouwers opnieuw aan een sterk programma verwachten. Onder meer de 100 en 400 meter staan in ..."
         },
         {
-          "title": "Trump bevestigt dat hij van vliegtuig wisselde wegens dreiging en krijgt kritiek omdat hij journalisten en medewerkers liet zitten",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/buitenland/trump-bevestigt-dat-hij-van-vliegtuig-wisselde-wegens-dreiging-en-krijgt-kritiek-omdat-hij-journalisten-en-medewerkers-liet-zitten/159909865.html",
-          "publishedDate": "Tue, 11 Aug 2026 22:34:00 GMT",
-          "description": "De Amerikaanse president Donald Trump heeft dinsdag (lokale tijd) bevestigd dat hij begin juli in Turkije in het geheim van vliegtuig is gewisseld wegens een “dreiging”. &#160;Hij stelde dat hij enkel het ..."
+          "title": "Beard heeft speerwerpen in het bloed, maar twijfelt over topsportcarri&#232;re",
+          "source": "AD",
+          "url": "https://www.ad.nl/woerden/beard-heeft-speerwerpen-in-het-bloed-maar-twijfelt-over-topsportcarriere~abd74b44/",
+          "publishedDate": "Thu, 20 Jun 2019 00:16:00 GMT",
+          "description": "De atletieksport is Imogen Beard met de paplepel ingegoten. Haar ouders zijn fanatieke speerwerpers en zij namen hun kinderen mee naar de atletiekbanen. ,,Eerst combineerde ik atletiek nog met turnen ..."
         },
         {
-          "title": "Vliegtuig met Europese toeristen crasht op weg naar wereldberoemde Nazca-lijnen in Peru: dertien doden",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/snelnieuws/vliegtuig-met-europese-toeristen-crasht-op-weg-naar-wereldberoemde-nazca-lijnen-in-peru-dertien-doden~bbd9cb5b/",
-          "publishedDate": "Sat, 01 Aug 2026 23:40:00 GMT",
-          "description": "In Peru is zaterdag een vliegtuig met toeristen neergestort in de buurt van de stad Nazca. Daarbij zijn alle dertien inzittenden omgekomen. Onder hen waren elf Europese toeristen en twee piloten. Tot ..."
+          "title": "Speerwerpen kan ook sexy zijn, zo bewijst olympisch kampioen R&#246;hler",
+          "source": "HLN",
+          "url": "https://www.hln.be/time-out/speerwerpen-kan-ook-sexy-zijn-zo-bewijst-olympisch-kampioen-rohler~a2ec6155/",
+          "publishedDate": "Thu, 04 May 2017 17:02:00 GMT",
+          "description": "In de video showen vier Duitse speerwerpers hun troeven. Onder meer olympisch kampioen Thomas R&#246;hler doet mee. Daarnaast zien we ook nog Andreas Hofmann, Lars Hamann en Johannes Vetter. &quot;De video ..."
         },
         {
-          "title": "Raam van vliegtuig kapot tijdens vlucht; passagier wordt bijna naar buiten gezogen",
-          "source": "Waterkant.net",
-          "url": "https://www.waterkant.net/suriname/2026/07/10/raam-van-vliegtuig-kapot-tijdens-vlucht-passagier-wordt-bijna-naar-buiten-gezogen/",
-          "publishedDate": "Fri, 10 Jul 2026 08:24:00 GMT",
-          "description": "Aan boord van een Ryanair-vlucht van Griekenland naar Duitsland hebben zich vrijdagochtend angstaanjagende taferelen afgespeeld die je alleen in films ..."
+          "title": "Naar Buiten: speerwerpen vanaf Romeinse strijdwagen",
+          "source": "RD",
+          "url": "https://www.rd.nl/artikel/408428-naar-buiten-speerwerpen-vanaf-romeinse-strijdwagen",
+          "publishedDate": "Thu, 04 Aug 2011 03:23:00 GMT",
+          "description": "Op de elfde editie van de beurs Naar Buiten en in het dorpje Holland in Muziek op landgoed de Schaffelaar in Barneveld lopen de vreemdste figuranten rond. „Het is warm in die kleren”, puft een fraai ..."
         }
       ]
     }
