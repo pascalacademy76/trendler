@@ -1,84 +1,79 @@
 {
-  "fetchedAt": "2026-08-17T16:18:54.190Z",
+  "fetchedAt": "2026-08-17T16:53:52.121Z",
   "trends": [
     {
       "keyword": "hayden panettiere",
       "trafficLabel": "100K+",
-      "articles": []
-    },
-    {
-      "keyword": "hulpdiensten",
-      "trafficLabel": "50K+",
       "articles": [
         {
-          "title": "Ongeval met letsel in Gouda, traumahelikopter gealarmeerd",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-gouda/ongeval-met-letsel-in-gouda-traumahelikopter-gealarmeerd~a7efdbac/",
-          "publishedDate": "Mon, 17 Aug 2026 01:23:00 GMT",
-          "description": "De melding kwam rond kwart over vijf 's middags bij de alarmcentrale binnen. Hulpdiensten zijn naar de locatie gestuurd om hulp te verlenen. 112 Gouda De brandweer is de afgelopen 30 dagen 59 keer naa ..."
-        },
-        {
-          "title": "Ongeval met letsel op Rijksweg in Groningen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-groningen/ongeval-met-letsel-op-rijksweg-in-groningen~a1b0c85a/",
-          "publishedDate": "Sun, 16 Aug 2026 20:08:00 GMT",
-          "description": "De melding kwam vlak na vijf uur 's middags bij de alarmcentrale binnen. Hulpdiensten zijn naar de locatie gestuurd om hulp te verlenen. 112 Groningen De brandweer is de afgelopen 30 dagen 103 keer na ..."
-        },
-        {
-          "title": "Hulpdiensten rukken massaal uit na explosie op zeilboot",
+          "title": "Hayden Panettiere gereanimeerd door ambulancemedewerkers: ’Mogelijke overdosis’",
           "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/video/hulpdiensten-rukken-massaal-uit-na-explosie-op-zeilboot/159510608.html",
-          "publishedDate": "Sun, 02 Aug 2026 08:55:00 GMT",
-          "description": "Zondagmiddag zijn hulpdiensten massaal uitgerukt na een explosie op een zeilboot in de buurt van Urk. Twee mensen raakten te water en zijn later naar het ziekenhuis gebracht. Over de toestand van het ..."
+          "url": "https://www.telegraaf.nl/entertainment/sterren/hayden-panettiere-gereanimeerd-door-ambulancemedewerkers-mogelijke-overdosis/160142342.html",
+          "publishedDate": "Mon, 17 Aug 2026 08:14:00 GMT",
+          "description": "De Amerikaanse actrice Hayden Panettiere is vlak voor haar overlijden nog gereanimeerd door ambulancemedewerkers. Dat bevestigt de politie, die nog onderzoek doet, onder meer aan vakblad Variety."
         },
         {
-          "title": "Hulpdiensten onderweg naar schip bij Urk",
+          "title": "Collega's en vrienden verslagen na overlijden Hayden Panettiere: 'Gebroken hart'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/film/6406566/collegas-en-vrienden-verslagen-na-overlijden-hayden-panettiere-gebroken-hart.html",
+          "publishedDate": "Mon, 17 Aug 2026 04:17:00 GMT",
+          "description": "Vrienden en collega's van Hayden Panettiere hebben maandag verslagen gereageerd op haar plotselinge dood. Haar vertegenwoordiger maakte eerder op de dag bekend dat de Amerikaanse actrice op 36-jarige ..."
+        },
+        {
+          "title": "Actrice Hayden Panettiere (36) overleden, doodsoorzaak onbekend",
           "source": "NOS",
-          "url": "https://nos.nl/video/2625263-hulpdiensten-onderweg-naar-schip-bij-urk",
-          "publishedDate": "Sun, 02 Aug 2026 06:50:00 GMT",
-          "description": "Meerdere hulpdiensten zijn opgeroepen vanwege een incident op een schip bij Urk. Volgens een woordvoerder van de veiligheidsregio Flevoland is er mogelijk sprake van een explosie aan boord."
+          "url": "https://nos.nl/artikel/2627206-actrice-hayden-panettiere-36-overleden-doodsoorzaak-onbekend",
+          "publishedDate": "Sun, 16 Aug 2026 21:14:00 GMT",
+          "description": "De Amerikaanse actrice Hayden Panettiere is op 36-jarige leeftijd overleden. Dat heeft haar familie bekendgemaakt in een verklaring. Over de doodsoorzaak is niets gemeld. Panettiere was onder meer bek ..."
         },
         {
-          "title": "Verkeerswaakhond VS slaat alarm: robotauto’s hinderen hulpdiensten te vaak",
-          "source": "Volkskrant",
-          "url": "https://www.volkskrant.nl/tech/verkeerswaakhond-vs-slaat-alarm-robotauto-s-hinderen-hulpdiensten-te-vaak~b22db19b/",
-          "publishedDate": "Thu, 09 Jul 2026 07:24:00 GMT",
-          "description": "Die eis staat geformuleerd in een brandbrief die is verstuurd door de National Highway Traffic Safety Administration (NHTSA), de instantie belast met het bewaken van de verkeersveiligheid in de VS."
+          "title": "Hayden Panettiere werd vlak voor overlijden nog tevergeefs gereanimeerd",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/film/6406621/hayden-panettiere-werd-vlak-voor-overlijden-nog-tevergeefs-gereanimeerd.html",
+          "publishedDate": "Sun, 16 Aug 2026 21:09:00 GMT",
+          "description": "Hayden Panettiere is vlak voor haar overlijden nog gereanimeerd door ambulancemedewerkers, bevestigt de Amerikaanse politie aan Variety. Verder zijn er &quot;geen aanwijzingen voor een misdrijf of verdacht ..."
         },
         {
-          "title": "Explosie vernielt vijf woningen in Den Haag, hulpdiensten gaan uit van 20 slachtoffers",
-          "source": "Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/explosie-vernielt-vijf-woningen-in-den-haag-hulpdiensten-gaan-uit-van-20-slachtoffers~b7e79236/",
-          "publishedDate": "Sat, 07 Dec 2024 04:59:00 GMT",
-          "description": "Een explosie in een woning in Den Haag heeft een enorme ravage veroorzaakt. Zeker vijf appartementen zijn vernield. De politie is op zoek naar een auto die vlak na de klap wegreed. De explosie vond ..."
+          "title": "Hayden Panettiere leek droomcarri&#232;re te hebben, maar had een leven vol verdriet: ‘Kom ik nooit meer overheen’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/hayden-panettiere-leek-droomcarriere-te-hebben-maar-had-een-leven-vol-verdriet-kom-ik-nooit-meer-overheen~a01ae9cc/",
+          "publishedDate": "Sun, 16 Aug 2026 20:50:00 GMT",
+          "description": "Hayden Panettiere stond haar leven lang in de spotlights. Ze werd &lt;a href=&quot;https://www.ad.nl/show/actrice-hayden-panettiere-bekend-van-serie-heroes-en-scream-films-op-36-jarige-leeftijd-overleden~aebd ..."
         },
         {
-          "title": "Nieuw communicatiesysteem helpt hulpdiensten tijdens crisis, ook als stroom en internet uitvallen",
-          "source": "RD",
-          "url": "https://www.rd.nl/a/1154231-nieuw-communicatiesysteem-helpt-hulpdiensten-tijdens-crisis-ook-als-stroom-en-internet-uitvallen",
-          "publishedDate": "Fri, 26 Jun 2026 06:00:00 GMT",
-          "description": "„Tijdens de aardbeving werd ik wakker. Het eerste wat ik probeerde, was contact opnemen met vrienden in Oost-Turkije, met wie ik vaak online games speelde. Maar ik kon niemand bereiken”, vertelt &#199;ağan ..."
+          "title": "Hayden Panettiere overleden op 36-jarige leeftijd",
+          "source": "Marie Claire on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/hayden-panettiere-overleden-op-36-jarige-leeftijd/ar-AA2agC4C",
+          "publishedDate": "Mon, 17 Aug 2026 09:11:17 GMT",
+          "description": "De actrice was vooral bekend om haar rollen in Heroes en Nashville."
         },
         {
-          "title": "Hulpdiensten vinden meerdere lichamen onder puin na brand in opslagplaats in Anderlecht: vrees voor nog meer doden",
-          "source": "HLN",
-          "url": "https://www.hln.be/brussel/hulpdiensten-vinden-meerdere-lichamen-onder-puin-na-brand-in-opslagplaats-in-anderlecht-vrees-voor-nog-meer-doden~ab931f31/",
-          "publishedDate": "Sun, 07 Jun 2026 04:17:00 GMT",
-          "description": "Tijdens die opruimingswerken deden de hulpdiensten zaterdagavond een vreselijke ontdekking toen ze op meerdere lichamen stuitten. Hulpdiensten zochten na de brand nog naar meerdere vermiste personen."
+          "title": "Hayden Panettiere (36) overleden na hartstilstand, onderzoek naar mogelijke overdosis",
+          "source": "Welingelichte Kringen",
+          "url": "https://www.welingelichtekringen.nl/beroemd-2/hayden-panettiere-36-overleden-na-hartstilstand-onderzoek-naar-mogelijke-overdosis",
+          "publishedDate": "Mon, 17 Aug 2026 07:54:00 GMT",
+          "description": "Actrice Hayden Panettiere is zondag overleden in Greenville, in de Amerikaanse staat South Carolina. Volgens de Daily Mail werd de 36-jarige ster onwel aangetroffen in een loftappartement, nadat er ee ..."
         },
         {
-          "title": "Ramptoeristen zorgden voor grote problemen voor hulpdiensten na ongeluk met luchtballon in Friesland",
-          "source": "panorama",
-          "url": "https://panorama.nl/artikel/661620/ramptoeristen-zorgden-voor-grote-problemen-hulpdiensten-na-ongeluk-met-luchtballon-in-friesland",
-          "publishedDate": "Thu, 14 Aug 2025 04:19:00 GMT",
-          "description": "Woensdagavond vond een vreselijk ongeluk met een luchtballon plaats in het Friese De Hoeve. Een 66-jarige vrouw kwam daarbij om het leven. De ballonvaart was een cadeau van de organisatie aan een ..."
+          "title": "Actrice Hayden Panettiere werd vlak voor haar dood nog vergeefs gereanimeerd",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/show/actrice-hayden-panettiere-werd-vlak-voor-haar-dood-nog-vergeefs-gereanimeerd~a4b46085/",
+          "publishedDate": "Mon, 17 Aug 2026 00:46:00 GMT",
+          "description": "De Amerikaanse actrice Hayden Panettiere is vlak voor haar overlijden nog gereanimeerd door ambulancemedewerkers. Dat bevestigt de politie, die nog onderzoek doet, onder meer aan vakblad Variety. Verd ..."
         },
         {
-          "title": "Hulpdiensten druk met ingestorte Wilhelminatoren in Valkenburg",
-          "source": "zeelandnet",
-          "url": "https://www.zeelandnet.nl/nieuws/hulpdiensten-druk-met-ingestorte-wilhelminatoren-in-valkenburg",
-          "publishedDate": "Sun, 16 Mar 2025 05:32:00 GMT",
-          "description": "De Wilhelminatoren op de Zuid-Limburgse Heunsberg stortte zondagochtend door nog onbekende oorzaak plotseling in. De eerste meldingen daarvan kwamen rond 06.45 uur binnen bij de Veiligheidsregio ..."
+          "title": "Hayden Panettiere, bekend van ‘Scream’ en ‘Heroes’, op 36-jarige leeftijd overleden, hulpverleners spraken over mogelijke overdosis",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/celebrities/hayden-panettiere-bekend-van-scream-en-heroes-op-36-jarige-leeftijd-overleden-hulpverleners-spraken-over-mogelijke-overdosis~a02bc3ce/",
+          "publishedDate": "Sun, 16 Aug 2026 23:01:00 GMT",
+          "description": "Hayden Panettiere is op 36-jarige leeftijd overleden. Haar vertegenwoordiger heeft haar overlijden bevestigd aan ABC News. Over de doodsoorzaak is nog niets bekendgemaakt, maar inmiddels zijn er wel a ..."
+        },
+        {
+          "title": "‘Heroes’- en ‘Nashville’-actrice Hayden Panettiere overleden op 36-jarige leeftijd",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/heroes-en-nashville-actrice-hayden-panettiere-overleden-op-36-jarige-leeftijd/160106079.html",
+          "publishedDate": "Sun, 16 Aug 2026 22:42:00 GMT",
+          "description": "De Amerikaanse actrice Hayden Panettiere is op 36-jarige leeftijd overleden. Haar vertegenwoordiger heeft het nieuws bevestigd aan ABC News. De doodsoorzaak is niet bekendgemaakt."
         }
       ]
     },
@@ -101,13 +96,6 @@
           "description": "Vanwege de droogte kunnen riviercruises niet meer langs de Rijn naar populaire bestemmingen als Basel en Boedapest. Maar de schepen vertrekken vooralsnog als gepland vanuit Amsterdam, al doen ze ander ..."
         },
         {
-          "title": "Scheepvaart over Duitse Rijn deels gestremd, miljardenstrop dreigt voor economie",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2626584-scheepvaart-over-duitse-rijn-deels-gestremd-miljardenstrop-dreigt-voor-economie",
-          "publishedDate": "Wed, 12 Aug 2026 11:36:00 GMT",
-          "description": "De Rijn is de logistieke levensader van Duitsland. Zo'n 80 procent van de scheepvaart in Duitsland vaart over deze rivier. De economische schade loopt in de miljarden, verwacht Onderzoeksinstituut ifW ..."
-        },
-        {
           "title": "De ooit zo machtige Rijn is nu verschrompeld tot een bijna krachteloos beekje",
           "source": "Trouw",
           "url": "https://www.trouw.nl/buitenland/de-ooit-zo-machtige-rijn-is-nu-verschrompeld-tot-een-bijna-krachteloos-beekje~bc49e2dd/",
@@ -127,6 +115,13 @@
           "url": "https://www.logistiek.nl/210996/binnenvaart-verwelkomt-regen-waterpeil-op-kritiek-punt-in-rijn-naar-halve-meter",
           "publishedDate": "Mon, 17 Aug 2026 06:07:00 GMT",
           "description": "De binnenvaart is blij met de regen die momenteel in Europa valt. Het waterpeil in de Rijn, die veel last heeft van de droogte, stijgt daardoor deze week naar verwachting naar een peil van 50 centimet ..."
+        },
+        {
+          "title": "Na historisch dieptepunt keert het tij op de Rijn: regen brengt binnenvaart verlichting",
+          "source": "Transport Online",
+          "url": "https://www.transport-online.nl/135163/na-historisch-dieptepunt-keert-het-tij-op-de-rijn-regen-brengt-binnenvaart-verlichting/",
+          "publishedDate": "Mon, 17 Aug 2026 05:01:00 GMT",
+          "description": "ROTTERDAM - De regen biedt verlichting voor de binnenvaartsector, verwacht binnenvaartexpert Wouter van der Geest van adviesbureau Rebel Group. Nadat er de afgelopen dagen regen is gevallen wordt er o ..."
         },
         {
           "title": "Het regende dit weekend, maar de Rijn zal voorlopig laag blijven",
@@ -159,42 +154,9 @@
       ]
     },
     {
-      "keyword": "steven berghuis",
-      "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
       "keyword": "luchtaanval",
       "trafficLabel": "10K+",
       "articles": [
-        {
-          "title": "Enorme explosies: Oekra&#239;ense drones treffen opnieuw ‘Russische Amazon’ Wildberries",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/video/enorme-explosies-oekraense-drones-treffen-opnieuw-russische-amazon-wildberries/160018190.html",
-          "publishedDate": "Fri, 14 Aug 2026 01:28:00 GMT",
-          "description": "Een luchtaanval heeft donderdag brand veroorzaakt op een industrieterrein van de online retailer Wildberries in de Russische regio Basjkortostan. Op beelden zijn enorme explosies te zien."
-        },
-        {
-          "title": "Minister Brekelmans wil naar Hawija voor persoonlijke excuses Nederlandse luchtaanval",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2567444-minister-brekelmans-wil-naar-hawija-voor-persoonlijke-excuses-nederlandse-luchtaanval",
-          "publishedDate": "Thu, 15 May 2025 12:38:00 GMT",
-          "description": "Minister Brekelmans van Defensie wil persoonlijk excuses aanbieden aan de nabestaanden en slachtoffers van het bombardement op Hawija in Irak in 2015. Dit zei hij in een debat in de Tweede Kamer over ..."
-        },
-        {
-          "title": "Commissie scherpt conclusies over luchtaanval Hawija aan na zien beelden",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2562213-commissie-scherpt-conclusies-over-luchtaanval-hawija-aan-na-zien-beelden",
-          "publishedDate": "Thu, 03 Apr 2025 07:04:00 GMT",
-          "description": "De commissie die onderzoek deed naar de Nederlandse luchtaanval op Hawija in Irak, gaat haar conclusies aanscherpen na het zien van videobeelden. De beelden waren gemaakt op de ochtend na het ..."
-        },
-        {
-          "title": "Zeker twaalf doden na luchtaanval met Hezbollah-kopstuk als doelwit",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/buitenland/zeker-twaalf-doden-na-luchtaanval-met-hezbollah-kopstuk-als-doelwit~b76c0ba9/",
-          "publishedDate": "Fri, 20 Sep 2024 11:51:00 GMT",
-          "description": "Zeker twaalf doden en 66 gewonden, zo meldt het Libanese ministerie van gezondheid, na een Isra&#235;lische luchtaanval in de dichtbevolkte wijk Dahiyeh in Beiroet vrijdagmiddag. Volgens het Isra&#235;lische ..."
-        },
         {
           "title": "Dreigt na de luchtaanval op het Iraanse consulaat in Syri&#235; een nieuwe escalatie in het Midden-Oosten?",
           "source": "Volkskrant",
@@ -217,6 +179,13 @@
           "description": "Een Isra&#235;lische luchtaanval trof vanochtend een huis aan de rand van het dorp Ansar in Zuid-Libanon, waarbij zeven mensen omkwamen en drie gewond raakten. Dit is het dodelijkste incident sinds het sta ..."
         },
         {
+          "title": "Journalist onder doden bij Isra&#235;lische luchtaanval op Gaza",
+          "source": "NU",
+          "url": "https://www.nu.nl/midden-oostenconflict/6400212/journalist-onder-doden-bij-israelische-luchtaanval-op-gaza.html",
+          "publishedDate": "Sat, 20 Jun 2026 17:00:00 GMT",
+          "description": "Bij een Isra&#235;lische aanval op Gaza is zaterdag een journalist gedood. Het gaat om een cameraman van het Qatarese Al Jazeera. Hij is een van de zeker 260 Palestijnse journalisten die sinds oktober 2023 ..."
+        },
+        {
           "title": "Veel doden na luchtaanval op Centraal-Gaza, meer aanvallen aangekondigd in Khan Younis",
           "source": "Het Financieele Dagblad",
           "url": "https://fd.nl/politiek/1525206/veel-doden-na-luchtaanval-op-centraal-gaza-meer-aanvallen-aangekondigd-in-khan-younis",
@@ -236,29 +205,268 @@
           "url": "https://www.funx.nl/news/up-2-date/88403972-f3b8-47dd-9c6e-89ada29199d3/minstens-500-palestijnen-vermoord-na-israelische-luchtaanval-op-ziekenhuis",
           "publishedDate": "Tue, 17 Oct 2023 16:30:00 GMT",
           "description": "Shaun King is onder meer schrijver en activist die zich uitspreekt over en verslag doet van wat er gebeurt in Palestina. Op Instagram deelt hij regelmatig beelden over hoe de gruwelijke situatie eruit ..."
+        },
+        {
+          "title": "Twaalf kinderen gedood bij Navo-luchtaanval Afghanistan",
+          "source": "Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/twaalf-kinderen-gedood-bij-navo-luchtaanval-afghanistan/43618906.html",
+          "publishedDate": "Sun, 29 May 2011 03:09:00 GMT",
+          "description": "Helikopters van de Isaf-missie in Afghanistan zijn zaterdag tussengekomen om een Navo-basis die aangevallen werd door opstandelingen, te versterken. Bij de operatie werden twee huizen in het district ..."
+        }
+      ]
+    },
+    {
+      "keyword": "jongen",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Jongen loopt Albert Heijn met 7 oktober-shirt binnen: ‘Een expliciete verheerlijking van terreur’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/jongen-loopt-albert-heijn-met-7-oktober-shirt-binnen-een-expliciete-verheerlijking-van-terreur~ae22de25/",
+          "publishedDate": "Wed, 12 Aug 2026 21:57:00 GMT",
+          "description": "Een jongen die zondagavond in een Amsterdams filiaal van Albert Heijn rondliep in een shirt met de opdruk ‘October 7’, zorgt voor grote verontwaardiging. De Nationaal Co&#246;rdinator Antisemitismebestrijd ..."
+        },
+        {
+          "title": "Jongen gezien met mogelijk vuurwapen bij Philips Stadion, politie houdt hem aan",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/eindhoven/jongen-gezien-met-mogelijk-vuurwapen-bij-philips-stadion-politie-houdt-hem-aan~ae6fd10a/?slug_rd=1",
+          "publishedDate": "Tue, 11 Aug 2026 15:10:00 GMT",
+          "description": "Een minderjarige jongen is dinsdagmiddag in Eindhoven aangehouden met een mogelijk vuurwapen. Hij liep in de omgeving van het Philips Stadion rond en werd door meerdere mensen gezien, die daarop de po ..."
+        },
+        {
+          "title": "Jongen (9) vindt handgranaat bij opvang en kindervakantieweek Vught",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/artikelen/jongen-handgranaat-kindervakantieweek-vught",
+          "publishedDate": "Mon, 17 Aug 2026 09:34:00 GMT",
+          "description": "Een 9-jarige jongen heeft een handgranaat gevonden aan de Sportlaan in Vught. Kinderen van een kindervakantieweek moesten elders worden opgevangen."
+        },
+        {
+          "title": "Jongen (9) vindt handgranaat bij buitenschoolse opvang in Vught",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/videos/jongen-9-vindt-handgranaat-bij-buitenschoolse-opvang-in-vught",
+          "publishedDate": "Mon, 17 Aug 2026 09:10:00 GMT",
+          "description": "Een 9-jarige jongen van een buitenschoolse opvang heeft maandagmiddag een handgranaat gevonden aan de Sportlaan in Vught. Dat meldt het Brabants Dagblad. Het terrein werd tijdelijk ontruimd. Ook de ki ..."
+        },
+        {
+          "title": "Grijze wouw broedt voor het eerst succesvol in Vlaanderen: 4 jongen vliegen uit in IJzervallei",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/13/grijze-wouw-broedt-voor-het-eerst-succesvol-in-de-ijzervallei/",
+          "publishedDate": "Thu, 13 Aug 2026 04:58:00 GMT",
+          "description": "Voor het eerst heeft een grijze wouw succesvol gebroed in Vlaanderen. Vorige week vlogen 4 jongen van het broedpaar uit in de IJzervallei. Dat bevestigt het Agentschap voor Natuur en Bos."
+        },
+        {
+          "title": "1-jarige jongen overleden na ongeluk op goudveld",
+          "source": "Waterkant.net",
+          "url": "https://www.waterkant.net/suriname/2026/08/11/1-jarige-jongen-overleden-na-ongeluk-op-goudveld/",
+          "publishedDate": "Tue, 11 Aug 2026 14:59:00 GMT",
+          "description": "Een 1-jarige jongen is in de nacht van maandag op dinsdag 11 augustus overleden nadat hij te Wakibasoe in Suriname door een cilinder zou zijn geraakt."
+        },
+        {
+          "title": "15-jarige jongen in VS veroordeeld tot 100 jaar gevangenisstraf",
+          "source": "Dagblad Suriname",
+          "url": "https://www.dbsuriname.com/2026/08/10/15-jarige-jongen-in-vs-veroordeeld-tot-100-jaar-gevangenisstraf/",
+          "publishedDate": "Mon, 10 Aug 2026 06:57:00 GMT",
+          "description": "Een 15-jarige jongen uit Indiana is veroordeeld tot 100 jaar gevangenisstraf na te zijn schuldig bevonden aan een bende-gerelateerde schietpartij in 2025 ..."
+        },
+        {
+          "title": "Jongen loopt met bivakmuts op door Helmond, agenten vinden mes in broek",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/eindhoven/jongen-loopt-met-bivakmuts-op-door-helmond-agenten-vinden-mes-in-broek~aeeaac45/",
+          "publishedDate": "Sun, 09 Aug 2026 13:58:00 GMT",
+          "description": "Agenten in Helmond keken afgelopen nacht vreemd op toen ze tijdens hun surveillance een minderjarige met een bivakmuts op zijn hoofd zagen lopen."
+        },
+        {
+          "title": "Jongen lichtgewond nadat hij tegen gespannen koord fietst",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/362325/jongen-lichtgewond-nadat-hij-tegen-gespannen-koord-fietst",
+          "publishedDate": "Sat, 08 Aug 2026 20:20:00 GMT",
+          "description": "Jongen fietst tegen gespannen koord in Zandvoort-centrum en raakt lichtgewond. Burgemeester veroordeelt actie. Politie zoekt getuigen en camerabeelden."
+        },
+        {
+          "title": "Familie van jongen die zes jaar geleden van dak van Tate Modern gegooid werd, geeft update: &quot;Hij kan weer lopen, springen, zwemmen&quot;",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2025/10/27/familie-van-jongen-die-zes-jaar-geleden-van-tate-modern-gegooid/",
+          "publishedDate": "Mon, 27 Oct 2025 03:52:00 GMT",
+          "description": "Hij was er heel erg aan toe: zo had hij over zijn hele lichaam gebroken botten en had hij ook een hersenbloeding. Hij moest maandenlang op de dienst intensieve zorg verblijven en stond (en staat) voor ..."
         }
       ]
     },
     {
       "keyword": "slovenië",
       "trafficLabel": "5K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Weer Oranjesucces in 3x3 basketbal: belofteteam Nederland wint in Singapore",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2626845-weer-oranjesucces-in-3x3-basketbal-belofteteam-nederland-wint-in-singapore",
+          "publishedDate": "Fri, 14 Aug 2026 06:35:00 GMT",
+          "description": "Lotte Toornstra, Alissa van Duijn, Hennie van Schaik en Quinta van Schijndel verslaan in de finale van Singapore Sloveni&#235; met 16-14."
+        },
+        {
+          "title": "Noodweer en aardverschuivingen in Sloveni&#235; en Georgi&#235;, 85 Nederlanders gerepatrieerd",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2023/08/05/noodweer-en-aardverschuivingen-in-slovenie-en-georgie-ook-nederlanders-vermist-a4171342",
+          "publishedDate": "Sat, 05 Aug 2023 07:01:00 GMT",
+          "description": "Overstromingen SOS International stuurt bussen naar Sloveni&#235; om 85 Nederlanders op te halen die door de overstromingen zijn getroffen. In Georgi&#235; kwamen bij aardverschuivingen in de bergen zeventien ..."
+        },
+        {
+          "title": "‘Problemen in Sloveni&#235; lijken opgelost’, nog twee Nederlanders vermist in Georgi&#235;",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/problemen-in-slovenie-lijken-opgelost-nog-twee-nederlanders-vermist-in-georgie~bcdd2b0f/",
+          "publishedDate": "Sat, 05 Aug 2023 02:00:00 GMT",
+          "description": "De acute problemen voor Nederlanders van het door noodweer getroffen gebied in Sloveni&#235; lijken te zijn opgelost, zegt een woordvoerder van het ministerie van Buitenlandse Zaken. Er worden nog twee ..."
+        },
+        {
+          "title": "Moergestelnaar ontmoet tourwinnaar tijdens vakantie in Sloveni&#235;",
+          "source": "Oisterwijk Nieuws",
+          "url": "https://www.oisterwijknieuws.nl/2026/08/moergestelnaar-ontmoet-tourwinnaar-tijdens-vakantie-in-slovenie/",
+          "publishedDate": "Wed, 12 Aug 2026 06:00:00 GMT",
+          "description": "Moergestelnaar Louis van Laarhoven is, zoals ze in Belgi&#235; zouden zeggen, een rasechte ‘wielertoerist’. Hij is helemaal bezeten van de tweewieler, of dat nou op een gravelcircuit is, op de mountainbike ..."
+        },
+        {
+          "title": "Verkiezingen in Sloveni&#235; eindigen in een nek-aan-nekrace, coalitiebesprekingen in het verschiet",
+          "source": "Business AM",
+          "url": "https://businessam.be/verkiezingen-in-slovenie-eindigen-in-een-nek-aan-nekrace-coalitiebesprekingen-in-het-verschiet/",
+          "publishedDate": "Mon, 23 Mar 2026 06:18:00 GMT",
+          "description": "De parlementsverkiezingen in Sloveni&#235; leverden een nek-aan-nekrace op, waardoor geen enkele partij of blok genoeg zetels behaalde om zelfstandig een regering te vormen. Voorlopige resultaten wezen ..."
+        },
+        {
+          "title": "Referendum in de maak over vertrek Sloveni&#235; uit NAVO",
+          "source": "zeelandnet",
+          "url": "https://www.zeelandnet.nl/nieuws/referendum-in-de-maak-over-vertrek-slovenie-uit-navo",
+          "publishedDate": "Mon, 07 Jul 2025 09:10:00 GMT",
+          "description": "Tegenstanders van de met de NAVO afgesproken forse verhoging van het defensiebudget hebben een meerderheid verzameld voor een raadgevend referendum daarover. Met een tweede niet-bindend referendum ..."
+        },
+        {
+          "title": "De mooiste fietsroutes in Sloveni&#235;",
+          "source": "Puur op reis",
+          "url": "https://puuropreis.nl/nieuws/15444-de-mooiste-fietsroutes-in-slovenie",
+          "publishedDate": "Mon, 22 Apr 2024 06:37:00 GMT",
+          "description": "Of je nu een relaxte fietstocht wilt maken, of wel van een beetje uitdaging houdt, in Sloveni&#235; kun je altijd een passende fietstocht vinden. Van schilderachtige hoogten in centraal Sloveni&#235;, een rit ..."
+        },
+        {
+          "title": "De Soča-vallei in Sloveni&#235; | Een natuurlijk pretpark voor levensgenieters",
+          "source": "Tijd",
+          "url": "https://www.tijd.be/sabato/reizen/de-so-a-vallei-in-slovenie-een-natuurlijk-pretpark-voor-levensgenieters/10462315.html",
+          "publishedDate": "Fri, 21 Apr 2023 01:51:00 GMT",
+          "description": "Op de bucketlist met de meest romantische plekken ter wereld verdient het meer van Bled een ereplaats. Zelfs een cynicus kan hier niet ongevoelig voor blijven. Ze vormen een plaatje: de bergen op de ..."
+        },
+        {
+          "title": "Familiepret in Sloveni&#235;",
+          "source": "reishonger",
+          "url": "https://www.reishonger.nl/reisverslagen/slovenie-met-kinderen/",
+          "publishedDate": "Wed, 23 Jun 2021 16:07:00 GMT",
+          "description": "In Midden-Europa ligt een groen pareltje, Sloveni&#235; genaamd. Met een kleine oppervlakte, maar grote diversiteit steelt het land ieder jaar meer Nederlandse harten. Door een keur aan bezienswaardigheden ..."
+        },
+        {
+          "title": "Sloveni&#235;: groen en veilig",
+          "source": "reishonger",
+          "url": "https://www.reishonger.nl/interviews/slovenie-groen-en-veilig/",
+          "publishedDate": "Thu, 23 Jul 2020 13:52:00 GMT",
+          "description": "Het prachtige Sloveni&#235; heeft haar grenzen weer geopend voor Nederlandse toeristen. Begin juli heeft de Sloveense regering Nederland en Belgi&#235; weer op de groene epidemiologische Covid-19 statuslijst ..."
+        }
+      ]
+    },
+    {
+      "keyword": "leonne stentler",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Leonne Stentler: ‘Ik dacht: ben ik echt de beste rechtsback?’ Liza Ferschtman: ‘Die vraag blijft. Ben ik goed genoeg?’",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2022/07/22/leonne-stentler-ik-dacht-ben-ik-echt-de-beste-rechtsback-van-het-land-liza-ferschtman-die-vraag-blijft-ben-ik-goed-genoeg-2-a4136933",
+          "publishedDate": "Fri, 22 Jul 2022 10:00:00 GMT",
+          "description": "Zomeravondgesprek Voetbal-analist Leonne Stentler (36) haalde Ajax en Oranje, tot een blessure haar dwong te stoppen. Violist Liza Ferschtman (42) speelt nog altijd. „Het idee niet te weten of je ooit ..."
+        },
+        {
+          "title": "Oud-voetbalprof Leonne Stentler: ’Ik kan een voorbeeld zijn voor meiden’",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/voetbal/oud-voetbalprof-leonne-stentler-ik-kan-een-voorbeeld-zijn-voor-meiden/64694900.html",
+          "publishedDate": "Wed, 29 Jul 2020 08:00:00 GMT",
+          "description": "„Zozo, die jongen heeft &#233;cht talent”, laat Leonne Stentler met een glimlach weten. Dat de oud-prof van ADO Den Haag, Ajax en het Nederlands elftal tegenwoordig voetbalanalist is bij de NOS, is voor ..."
+        },
+        {
+          "title": "‘Leonne Stentler per direct van de buis’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/leonne-stentler-per-direct-van-de-buis/",
+          "publishedDate": "Mon, 17 Aug 2026 07:30:00 GMT",
+          "description": "Leonne Stentler hoeft volgens velen niet meer aan te schuiven bij de samenvattingen van de Eredivisie. De kijker ziet liever andere analisten."
+        },
+        {
+          "title": "‘Feyenoord-tweetal zorgt voor totale waanzin’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/feyenoord-tweetal-zorgt-voor-totale-waanzin/",
+          "publishedDate": "Mon, 10 Aug 2026 02:17:00 GMT",
+          "description": "Bij Feyenoord blonk het middenveld uit tegen Sparta, dat zagen ook analisten Leonne Stentler en Rafael van der Vaart."
+        },
+        {
+          "title": "Van der Vaart gelooft niet wat hij ziet bij Feyenoord: 'Sorry hoor, maar dit zie je bijna nooit!'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/van-der-vaart-onder-indruk-zechiel-valente-feyenoord-sparta",
+          "publishedDate": "Sun, 09 Aug 2026 12:26:00 GMT",
+          "description": "Rafael van der Vaart en Leonne Stentler zijn onder de indruk van het middenveld van Feyenoord tegen Sparta. Vooral Gjivai Zechi&#235;l en Luciano Valente krijgen volop complimenten, waarbij Van der Vaart &#233; ..."
+        },
+        {
+          "title": "Grote vraagtekens bij Reiziger als bondscoach: 'D&#225;t mag nooit doorslaggevend zijn'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/vraagtekens-bij-reiziger-als-bondscoach-diversiteit-mag-nooit-doorslaggevend-zijn",
+          "publishedDate": "Sun, 09 Aug 2026 02:05:00 GMT",
+          "description": "Leonne Stentler en Jeroen Stekelenburg plaatsen grote vraagtekens bij Michael Reiziger als mogelijke nieuwe bondscoach van Oranje. &quot;Diversiteit mag nooit de doorslaggevende factor zijn.&quot; ..."
+        },
+        {
+          "title": "Leonne Stentler wil wel kinderen met haar vriendin: ‘Maar hebben beiden niet de behoefte zwanger te zijn’",
+          "source": "AD",
+          "url": "https://www.ad.nl/mezza/leonne-stentler-wil-wel-kinderen-met-haar-vriendin-maar-hebben-beiden-niet-de-behoefte-zwanger-te-zijn~ab13d3da/",
+          "publishedDate": "Sat, 22 Jun 2024 04:29:00 GMT",
+          "description": "Leonne Stentler is onderweg naar het tafeltje van de interviewer, als ze op het terras van een restaurant in de Amsterdamse Watergraafsmeer door iemand wordt aangesproken. De man complimenteert de ..."
+        },
+        {
+          "title": "Collega's over voetbalanalyticus Leonne Stentler: ‘Daarin is ze gewoon de beste van allemaal’",
+          "source": "AD",
+          "url": "https://www.ad.nl/wk-vrouwenvoetbal/collega-s-over-voetbalanalyticus-leonne-stentler-daarin-is-ze-gewoon-de-beste-van-allemaal~a63cfb83/",
+          "publishedDate": "Sun, 30 Jul 2023 04:06:00 GMT",
+          "description": "Het is de zomer van 2017, Suse van Kleef is nog correspondent in Londen. Vrouwenvoetbal beleeft in Nederland zijn grote doorbraak: de Leeuwinnen winnen het EK in eigen land. In de beginfase van dat ..."
+        },
+        {
+          "title": "Leonne Stentler over ‘gouden gleuf’-uitspraak: ‘Ik krijg er alleen maar leuke opmerkingen over’",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/show/leonne-stentler-over-gouden-gleuf-uitspraak-ik-krijg-er-alleen-maar-leuke-opmerkingen-over~a5cf9955/",
+          "publishedDate": "Mon, 01 Aug 2022 05:33:00 GMT",
+          "description": "Op het moment dat voetbalanalist Leonne Stentler gisteravond na de wedstrijd Engeland-Duitsland zei dat bondscoach Sarina Wiegman een ‘gouden gleuf’ heeft, wist ze al: hier gaan mensen het over hebben ..."
+        },
+        {
+          "title": "Leonne Stentler: 'Het wordt een taaie wedstrijd'",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/nieuws/binnenland/96aa5e4a-4ecd-415f-af84-4fd7d8a1ee3f/voormalig-voetbalster-leonne-stentler-het-wordt-een-taaie-wedstrijd",
+          "publishedDate": "Mon, 24 Jul 2017 09:00:00 GMT",
+          "description": "De Tour de France is afgelopen, maar het EK voetbal voor vrouwen is in volle gang. Het wordt een spannende wedstrijd vanavond! De Oranje-vrouwen kunnen - eigenlijk moeten - zich vandaag plaatsen voor ..."
+        }
+      ]
     },
     {
       "keyword": "nicolaas beetsweg",
       "trafficLabel": "5K+",
-      "articles": []
-    },
-    {
-      "keyword": "politie",
-      "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Een heel leven maar geen naam: wie herkent deze man?",
-          "source": "politie",
-          "url": "https://www.politie.nl/nieuws/2026/augustus/17/een-heel-leven-maar-geen-naam-wie-herkent-deze-man.html",
-          "publishedDate": "Mon, 17 Aug 2026 06:44:00 GMT",
-          "description": "Wie is ‘’Lucky?’’ Die vraag houdt het Amsterdamse Cold Case team al drie jaar bezig nadat een “onbekende” man in het ziekenhuis belandt. Al snel blijkt dat iedere weg naar zijn identiteit doodloopt."
+          "title": "Dode vrouw (19) gevonden in woning Heiloo, man (20) opgepakt",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627252-dode-vrouw-19-gevonden-in-woning-heiloo-man-20-opgepakt",
+          "publishedDate": "Mon, 17 Aug 2026 05:35:00 GMT",
+          "description": "In een woning in Heiloo is gisteravond het lichaam gevonden van een 19-jarige vrouw uit Heerhugowaard. De politie kreeg 's avonds rond 22.30 uur een melding over de vrouw. De melder (20) is ..."
+        },
+        {
+          "title": "Vrouw (19) dood gevonden in woning Heiloo, man (20) opgepakt",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/misdaad/6406577/vrouw-19-dood-gevonden-in-woning-heiloo-man-20-opgepakt.html",
+          "publishedDate": "Mon, 17 Aug 2026 05:28:00 GMT",
+          "description": "Een negentienjarige vrouw uit Heerhugowaard is zondagavond dood aangetroffen in een woning in Heiloo. De politie gaat uit van een misdrijf en is een onderzoek gestart. Een twintigjarige man is aangeho ..."
+        },
+        {
+          "title": "Drama in Heiloo: vrouw (19) dood aangetroffen in woning, 20-jarige man in de boeien",
+          "source": "Panorama on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/drama-in-heiloo-vrouw-19-dood-aangetroffen-in-woning-20-jarige-man-in-de-boeien/ar-AA2ai66D",
+          "publishedDate": "Mon, 17 Aug 2026 06:13:00 GMT",
+          "description": "In een woning aan de Nicolaas Beetsweg is het levenloze lichaam van een 19-jarige vrouw uit Heerhugowaard gevonden. De politie telt &#233;&#233;n en &#233;&#233;n bij elkaar op, gaat uit van een misdrijf en heeft direct ..."
         },
         {
           "title": "Vrouw uit Heerhugowaard door misdrijf om het leven gekomen",
@@ -268,18 +476,169 @@
           "description": "Op zondagavond 16 augustus rond 22.30 uur kreeg de politie een melding over een overleden persoon in een woning aan de Nicolaas Beetsweg in Heiloo. In de woning is niet veel later een overleden vrouw ..."
         },
         {
+          "title": "Vrouw uit Heerhugowaard door misdrijf om het leven gekomen in Heiloo",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/noord-holland/heerhugowaard/159970-vrouw-uit-heerhugowaard-door-misdrijf-om-het-leven-gekomen-in-heiloo.html",
+          "publishedDate": "Mon, 17 Aug 2026 04:52:00 GMT",
+          "description": "Op zondagavond 16 augustus rond 22.30 uur kreeg de politie een melding van een overleden persoon in een woning aan de Nicolaas Beetsweg in Heiloo. In de woning is niet veel later een overleden vrouw a ..."
+        },
+        {
+          "title": "Dode vrouw (19) gevonden in woning Heiloo, man (20) aangehouden",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/artikelen/noord-holland-heiloo-dode-vrouw-woning-man-aangehouden",
+          "publishedDate": "Mon, 17 Aug 2026 03:43:00 GMT",
+          "description": "In een woning aan de Nicolaas Beetsweg in Heiloo is zondagavond een 19-jarige vrouw uit Heerhugowaard dood aangetroffen. De politie gaat uit van een misdrijf. Een 20-jarige man uit Heiloo is aangehoud ..."
+        },
+        {
+          "title": "Vrouw (19) door misdrijf om het leven gekomen, melder aangehouden",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/362552/vrouw-19-door-misdrijf-om-het-leven-gekomen-melder-aangehouden",
+          "publishedDate": "Mon, 17 Aug 2026 03:29:00 GMT",
+          "description": "Vrouw (19) om het leven gekomen in woning Nicolaas Beetsweg Heiloo. Man (20) aangehouden na eigen melding. Politie zoekt getuigen."
+        },
+        {
+          "title": "KORT maandag: politie onderzoekt explosie bij woning in Assen",
+          "source": "Crimesite",
+          "url": "https://www.crimesite.nl/kort-maandag-dode-vrouw-19-in-woning-heiloo-verdachte-20-vast/",
+          "publishedDate": "Mon, 17 Aug 2026 03:28:00 GMT",
+          "description": "De politie doet onderzoek naar een explosie die vrijdagnacht rond 01.00 plaatsvond bij een woning aan de Prins Bernhardstraat in Assen. Bij de explosie raakte niemand gewond. Laatste Nieuws De politie ..."
+        },
+        {
+          "title": "Jonge vrouw (19) door misdrijf om het leven gekomen, man (20) aangehouden",
+          "source": "112 Nieuws Nederland",
+          "url": "https://112nieuws.net/2026/08/17/jonge-vrouw-19-door-misdrijf-om-het-leven-gekomen-man-20-aangehouden/",
+          "publishedDate": "Mon, 17 Aug 2026 03:27:00 GMT",
+          "description": "In een woning aan de Nicolaas Beetsweg in Heiloo is zondagavond een 19-jarige vrouw uit Heerhugowaard overleden aangetroffen. De politie gaat uit van een misdrijf en heeft een 20-jarige man uit Heiloo ..."
+        },
+        {
+          "title": "19-jarige vrouw dood aangetroffen in woning Heiloo, 20-jarige melder aangehouden",
+          "source": "transport-online.nl",
+          "url": "https://www.transport-online.nl/135181/19-jarige-vrouw-dood-aangetroffen-in-woning-heiloo-20-jarige-melder-aangehouden/",
+          "publishedDate": "Sun, 16 Aug 2026 21:11:00 GMT",
+          "description": "HEILOO – De politie heeft zondagavond 16 augustus een 20-jarige man uit Heiloo aangehouden nadat in een woning aan de Nicolaas Beetsweg in Heiloo een overleden vrouw was aangetroffen. Het slachtoffer ..."
+        }
+      ]
+    },
+    {
+      "keyword": "actrice hayden panettiere",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "‘Heroes’- en ‘Nashville’-actrice Hayden Panettiere overleden op 36-jarige leeftijd",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/heroes-en-nashville-actrice-hayden-panettiere-overleden-op-36-jarige-leeftijd/160106079.html",
+          "publishedDate": "Sun, 16 Aug 2026 22:42:00 GMT",
+          "description": "De Amerikaanse actrice Hayden Panettiere is op 36-jarige leeftijd overleden. Haar vertegenwoordiger heeft het nieuws bevestigd aan ABC News. De doodsoorzaak is niet bekendgemaakt."
+        },
+        {
+          "title": "Hollywood geschokt door plotselinge dood van 'Heroes'-ster Hayden Panettiere (36)",
+          "source": "FilmTotaal",
+          "url": "https://www.filmtotaal.nl/nieuws/134447",
+          "publishedDate": "Sun, 16 Aug 2026 12:50:00 GMT",
+          "description": "Actrice Hayden Panettiere is op slechts 36-jarige leeftijd overleden. Haar familie bevestigde zondag het tragische nieuws. De doodsoorzaak is voorlopig niet bekendgemaakt en wordt nog onderzocht. Pane"
+        }
+      ]
+    },
+    {
+      "keyword": "rico verhoeven",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Alistair Overeem (46) verklaart alles-of-niets-poging voor clash met Rico Verhoeven: ‘Niemand wil &#233;cht tegen hem vechten’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/vechtsport/alistair-overeem-46-verklaart-alles-of-niets-poging-voor-clash-met-rico-verhoeven-niemand-wil-echt-tegen-hem-vechten~a8ed3610/",
+          "publishedDate": "Thu, 06 Aug 2026 00:29:00 GMT",
+          "description": "Plots waren ze daar: geruchten over Rico Verhoeven (37) versus Alistair Overeem (46). De Nederlandse clash die het kickboksen nooit kreeg, moet in het boksen alsnog komen. Als het aan Overeem ligt, te ..."
+        },
+        {
+          "title": "Overeem wil dolgraag tegen Verhoeven boksen, maar die wens is niet wederzijds",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/sport-overig/6405449/overeem-wil-dolgraag-tegen-verhoeven-boksen-maar-die-wens-is-niet-wederzijds.html",
+          "publishedDate": "Wed, 05 Aug 2026 15:12:00 GMT",
+          "description": "Alistair Overeem wil dolgraag tegen Rico Verhoeven boksen, maar een gevecht tussen de twee gaat er niet komen. Het kamp van Verhoeven heeft geen interesse in een confrontatie en richt zich op andere t ..."
+        },
+        {
+          "title": "Rico Verhoeven over controversi&#235;le nederlaag tegen Usyk: ’We kregen gelijk, maar niks werd teruggedraaid’",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/rico-verhoeven-over-controversiele-nederlaag-tegen-usyk-we-kregen-gelijk-maar-niks-werd-teruggedraaid/159625012.html",
+          "publishedDate": "Wed, 05 Aug 2026 02:39:00 GMT",
+          "description": "Rico Verhoeven vocht sinds zijn vertrek bij Glory eenmaal: voor de wereldtitel in het boksen. Verder ligt hij nu nergens vast. Dus kan het ook zomaar zijn dat hij in de nabije toekomst tekent voor de ..."
+        },
+        {
+          "title": "Herken jij hem nog? Zo zag kickbokslegende Rico Verhoeven er vroeger uit",
+          "source": "MAN MAN on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/herken-jij-hem-nog-zo-zag-kickbokslegende-rico-verhoeven-er-vroeger-uit/ar-AA1GwCoO",
+          "publishedDate": "Mon, 17 Aug 2026 07:20:44 GMT",
+          "description": "Rico Verhoeven, wie kent deze machine nou niet? Buiten de ring is de Brabander een vriendelijke man, maar zodra hij in d ..."
+        },
+        {
+          "title": "Topvechter Rico Verhoeven legt probleem in liefdesleven uit: 'Je krijgt niet eens de kans om te daten'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/vechtsport/nieuws/topvechter-rico-verhoeven-legt-probleem-in-liefdesleven-uit-je-krijgt-niet-eens-de-kans-om-te-daten-2026081706565071295/",
+          "publishedDate": "Mon, 17 Aug 2026 02:48:00 GMT",
+          "description": "Rico Verhoeven heeft een turbulente periode op liefdesgebied achter de rug. De knokker ging in juli uit elkaar met influencer Naomy van Beem en is sindsdien vrijgezel. Soms duiken er wel eens geruchte ..."
+        },
+        {
+          "title": "Trainer van Rico Verhoeven schuift het aanbod van Overeem opzij: &quot;Rico needs credible names in boxing&quot;",
+          "source": "PUNA.NL",
+          "url": "https://www.puna.nl/sports/trainer-van-rico-verhoeven-schuift-het-aanbod-van-overeem-opzij-rico-needs-credible-names-in-boxing",
+          "publishedDate": "Thu, 13 Aug 2026 12:00:00 GMT",
+          "description": "Peter Fury zegt dat er meerdere aanbiedingen voor Rico Verhoeven liggen en dat een rematch met Usyk van tafel is. Een serie tegen Overeem ziet hij niet zitten."
+        },
+        {
+          "title": "Alistair Overeem wil tegen Rico Verhoeven boksen en haalt uit: &quot;Niemand heeft interesse om te vechten&quot;",
+          "source": "PUNA.NL",
+          "url": "https://www.puna.nl/sports/alistair-overeem-wil-tegen-rico-verhoeven-boksen-en-haalt-uit-niemand-heeft-interesse-om-te-vechten",
+          "publishedDate": "Thu, 06 Aug 2026 08:00:00 GMT",
+          "description": "Alistair Overeem wil op zijn 46e alsnog tegen Rico Verhoeven boksen in de ArenA. Diens manager is duidelijk: het is niet het gevecht dat zij zoeken."
+        },
+        {
+          "title": "Vechtsporticoon Rico Verhoeven (37) moet het ontgelden na 'droom' over clash: 'Geef de fans wat ze willen'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/vechtsport/nieuws/vechtsporticoon-rico-verhoeven-37-moet-het-ontgelden-na-droom-over-clash-geef-de-fans-wat-ze-willen-2026080610393148598/",
+          "publishedDate": "Thu, 06 Aug 2026 05:56:00 GMT",
+          "description": "Het gebeurde al eens bijna: een gevecht tussen Alistair Overeem (46) en Rico Verhoeven (37). Dat gevecht werd destijds op het laatste moment afgeblazen, maar nu steken wederom geruchten de kop op over ..."
+        },
+        {
+          "title": "Rico Verhoeven onthult gesprekken met UFC bij Joe Rogan en sluit overstap binnen MMA niet uit - &quot;Ik ben weer transfervrij&quot;",
+          "source": "Eurosport",
+          "url": "https://www.eurosport.nl/mixed-martial-arts/ufc/2026/rico-verhoeven-onthult-gesprekken-met-ufc-bij-joe-rogan-ik-ben-weer-transfervrij-en-sluit-overstap-naar-grootste-mma-organisatie-niet-uit_sto23325383/story.shtml",
+          "publishedDate": "Wed, 05 Aug 2026 02:42:00 GMT",
+          "description": "Rico Verhoeven onthult bij Joe Rogan dat hij eerder met de UFC sprak. De voormalig GLORY-kampioen is nu weer transfervrij en lijkt open te staan voor overstap."
+        },
+        {
+          "title": "Rico Verhoeven trakteert zichzelf op een gloednieuwe Rolls-Royce Cullinan t.w.v. € 600.000,-",
+          "source": "MAN MAN on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/rico-verhoeven-trakteert-zichzelf-op-een-gloednieuwe-rolls-royce-cullinan-t-w-v-600-000/ar-AA28RjFE",
+          "publishedDate": "Tue, 28 Jul 2026 03:24:31 GMT",
+          "description": "Rico Verhoeven heeft zichzelf opnieuw van zijn beste kant laten zien, al gebeurde dat dit keer niet in de ring. De Nederlandse kickbokser is namelijk de trotse eigenaar geworden van een gloednieuwe Ro ..."
+        }
+      ]
+    },
+    {
+      "keyword": "politie",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Politie onderzoekt explosie bij woning Prins Bernhardstraat",
+          "source": "politie.nl",
+          "url": "https://www.politie.nl/nieuws/2026/augustus/17/politie-onderzoekt-explosie-bij-woning-prins-bernhardstraat.html",
+          "publishedDate": "Mon, 17 Aug 2026 09:45:00 GMT",
+          "description": "De politie doet onderzoek naar een explosie die plaatsvond bij een woning aan de Prins Bernhardstraat in Assen. Bij de explosie raakte niemand gewond."
+        },
+        {
+          "title": "Een heel leven maar geen naam: wie herkent deze man?",
+          "source": "politie",
+          "url": "https://www.politie.nl/nieuws/2026/augustus/17/een-heel-leven-maar-geen-naam-wie-herkent-deze-man.html",
+          "publishedDate": "Mon, 17 Aug 2026 06:44:00 GMT",
+          "description": "Wie is ‘’Lucky?’’ Die vraag houdt het Amsterdamse Cold Case team al drie jaar bezig nadat een “onbekende” man in het ziekenhuis belandt. Al snel blijkt dat iedere weg naar zijn identiteit doodloopt."
+        },
+        {
           "title": "Zoekactie Ringvaartplas voor de moord op Rob Zweekhorst",
           "source": "politie.nl",
           "url": "https://www.politie.nl/nieuws/2026/augustus/9/07-zoekactie-ringvaartplas.html",
           "publishedDate": "Mon, 17 Aug 2026 04:59:00 GMT",
           "description": "De zoekactie naar een wapen die de politie onlangs hield in de Ringvaartplas in Rotterdam-Prinsenland houdt verband met de moord op Rob Zweekhorst. Of bij deze zoekactie al iets is gevonden wat belang ..."
-        },
-        {
-          "title": "Politie onderzoekt explosie bij woning Prins Bernhardstraat",
-          "source": "politie.nl",
-          "url": "https://www.politie.nl/nieuws/2026/augustus/17/politie-onderzoekt-explosie-bij-woning-prins-bernhardstraat.html",
-          "publishedDate": "Sun, 16 Aug 2026 19:45:00 GMT",
-          "description": "De politie doet onderzoek naar een explosie die plaatsvond bij een woning aan de Prins Bernhardstraat in Assen. Bij de explosie raakte niemand gewond."
         },
         {
           "title": "Man aangehouden in onderzoek naar woningbrand",
@@ -322,87 +681,13 @@
           "url": "https://www.politie.nl/nieuws/2026/augustus/14/08-politie-houdt-twee-verdachten-aan-na-mishandeling-in-dorst.html",
           "publishedDate": "Fri, 14 Aug 2026 06:22:00 GMT",
           "description": "De politie kreeg op zondagavond 9 augustus een melding dat er mogelijk zou zijn geschoten op een camping aan de Klein Oosterhout in Dorst. Hulpdiensten, waaronder een traumahelikopter en meerdere poli ..."
-        }
-      ]
-    },
-    {
-      "keyword": "rico verhoeven",
-      "trafficLabel": "5K+",
-      "articles": []
-    },
-    {
-      "keyword": "actrice hayden panettiere",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Hayden Panettiere gereanimeerd door ambulancemedewerkers: ’Mogelijke overdosis’",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/entertainment/sterren/hayden-panettiere-gereanimeerd-door-ambulancemedewerkers-mogelijke-overdosis/160142342.html",
-          "publishedDate": "Mon, 17 Aug 2026 08:14:00 GMT",
-          "description": "De Amerikaanse actrice Hayden Panettiere is vlak voor haar overlijden nog gereanimeerd door ambulancemedewerkers. Dat bevestigt de politie, die nog onderzoek doet, onder meer aan vakblad Variety."
         },
         {
-          "title": "Collega's en vrienden verslagen na overlijden Hayden Panettiere: 'Gebroken hart'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/film/6406566/collegas-en-vrienden-verslagen-na-overlijden-hayden-panettiere-gebroken-hart.html",
-          "publishedDate": "Mon, 17 Aug 2026 04:17:00 GMT",
-          "description": "Vrienden en collega's van Hayden Panettiere hebben maandag verslagen gereageerd op haar plotselinge dood. Haar vertegenwoordiger maakte eerder op de dag bekend dat de Amerikaanse actrice op 36-jarige ..."
-        },
-        {
-          "title": "Scream-actrice Hayden Panettiere overleden op 36-jarige leeftijd",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/nieuws/scream-actrice-hayden-panettiere-overleden-op-36-jarige-leeftijd/160108213.html",
-          "publishedDate": "Mon, 17 Aug 2026 02:39:00 GMT",
-          "description": "Hayden Panettiere is op 36-jarige leeftijd overleden, dat heeft haar vertegenwoordiger tegenover ABC News bevestigd. Over de doodsoorzaak van Panettiere is niets bekendgemaakt."
-        },
-        {
-          "title": "Actrice Hayden Panettiere (36) overleden, doodsoorzaak onbekend",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627206-actrice-hayden-panettiere-36-overleden-doodsoorzaak-onbekend",
-          "publishedDate": "Sun, 16 Aug 2026 21:14:00 GMT",
-          "description": "De Amerikaanse actrice Hayden Panettiere is op 36-jarige leeftijd overleden. Dat heeft haar familie bekendgemaakt in een verklaring. Over de doodsoorzaak is niets gemeld. Panettiere was onder meer bek ..."
-        },
-        {
-          "title": "Hayden Panettiere werd vlak voor overlijden nog tevergeefs gereanimeerd",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/film/6406621/hayden-panettiere-werd-vlak-voor-overlijden-nog-tevergeefs-gereanimeerd.html",
-          "publishedDate": "Sun, 16 Aug 2026 21:09:00 GMT",
-          "description": "Hayden Panettiere is vlak voor haar overlijden nog gereanimeerd door ambulancemedewerkers, bevestigt de Amerikaanse politie aan Variety. Verder zijn er &quot;geen aanwijzingen voor een misdrijf of verdacht ..."
-        },
-        {
-          "title": "Hayden Panettiere overleden op 36-jarige leeftijd",
-          "source": "Marie Claire on MSN",
-          "url": "https://www.msn.com/nl-nl/lifestyle/nieuws/hayden-panettiere-overleden-op-36-jarige-leeftijd/ar-AA2agC4C",
-          "publishedDate": "Mon, 17 Aug 2026 09:11:17 GMT",
-          "description": "De actrice was vooral bekend om haar rollen in Heroes en Nashville."
-        },
-        {
-          "title": "Amerikaanse actrice Hayden Panettiere is op 36-jarige leeftijd overleden",
-          "source": "ELLE",
-          "url": "https://www.elle.com/nl/lifestyle/lifestyle-nieuws/a73448989/amerikaanse-actrice-hayden-panettiere-overleden/",
-          "publishedDate": "Mon, 17 Aug 2026 00:50:00 GMT",
-          "description": "Amerikaanse actrice Hayden Panettiere is op slechts 36-jarige leeftijd overleden, deelde haar vertegenwoordiger met ABC News. Panettiere was vooral bekend van haar rollen in tv-series als Nashville en ..."
-        },
-        {
-          "title": "Actrice Hayden Panettiere werd vlak voor haar dood nog vergeefs gereanimeerd",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/show/actrice-hayden-panettiere-werd-vlak-voor-haar-dood-nog-vergeefs-gereanimeerd~a4b46085/",
-          "publishedDate": "Mon, 17 Aug 2026 00:46:00 GMT",
-          "description": "De Amerikaanse actrice Hayden Panettiere is vlak voor haar overlijden nog gereanimeerd door ambulancemedewerkers. Dat bevestigt de politie, die nog onderzoek doet, onder meer aan vakblad Variety. Verd ..."
-        },
-        {
-          "title": "Hayden Panettiere, bekend van ‘Scream’ en ‘Heroes’, op 36-jarige leeftijd overleden, hulpverleners spraken over mogelijke overdosis",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/celebrities/hayden-panettiere-bekend-van-scream-en-heroes-op-36-jarige-leeftijd-overleden-hulpverleners-spraken-over-mogelijke-overdosis~a02bc3ce/",
-          "publishedDate": "Sun, 16 Aug 2026 23:01:00 GMT",
-          "description": "Hayden Panettiere is op 36-jarige leeftijd overleden. Haar vertegenwoordiger heeft haar overlijden bevestigd aan ABC News. Over de doodsoorzaak is nog niets bekendgemaakt, maar inmiddels zijn er wel a ..."
-        },
-        {
-          "title": "‘Heroes’- en ‘Nashville’-actrice Hayden Panettiere overleden op 36-jarige leeftijd",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/buitenland/heroes-en-nashville-actrice-hayden-panettiere-overleden-op-36-jarige-leeftijd/160106079.html",
-          "publishedDate": "Sun, 16 Aug 2026 22:42:00 GMT",
-          "description": "De Amerikaanse actrice Hayden Panettiere is op 36-jarige leeftijd overleden. Haar vertegenwoordiger heeft het nieuws bevestigd aan ABC News. De doodsoorzaak is niet bekendgemaakt."
+          "title": "Verdachten steken zich in wespennest, zijn er gloeiend bij",
+          "source": "politie.nl",
+          "url": "https://www.politie.nl/nieuws/2026/augustus/10/04-twee-verdachten-steken-zich-in-wespennest-den-helder.html",
+          "publishedDate": "Sun, 09 Aug 2026 21:47:00 GMT",
+          "description": "De politie heeft op maandag 10 augustus 2026 rond 04.47 uur twee mannen aangehouden na een poging inbraak in een winkelcentrum. De aanhouding vond plaats na een zoekactie in de omgeving."
         }
       ]
     }
