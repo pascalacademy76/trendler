@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T14:25:51.013Z",
+  "fetchedAt": "2026-08-18T15:01:11.748Z",
   "trends": [
     {
       "keyword": "politie nl lucky",
@@ -155,7 +155,7 @@
     },
     {
       "keyword": "buschauffeur",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
         {
           "title": "Buschauffeur zwaargewond na mishandeling door mensen die niet wilden betalen",
@@ -165,11 +165,25 @@
           "description": "Een buschauffeur van Arriva is maandag zwaargewond geraakt door een mishandeling door twee personen. Een van hen is aangehouden, de ander is nog spoorloos."
         },
         {
-          "title": "Busschauffeur in Zuid-Limburg zwaar mishandeld, verdachten weigerden te betalen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627370-busschauffeur-in-zuid-limburg-zwaar-mishandeld-verdachten-weigerden-te-betalen",
-          "publishedDate": "Tue, 18 Aug 2026 06:03:00 GMT",
-          "description": "De man probeerde twee mensen uit zijn bus te zetten, maar werd ten val gebracht. Vervolgens is hij geschopt en geslagen, schrijft de politie in een verklaring."
+          "title": "Buschauffeur zwaargewond in Eijsden na mishandeling door jongeren die niet wilden inchecken",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/buschauffeur-zwaargewond-in-eijsden-na-mishandeling-door-jongeren-die-niet-wilden-inchecken~a6c5528f/",
+          "publishedDate": "Mon, 17 Aug 2026 18:18:00 GMT",
+          "description": "Een buschauffeur van Arriva is maandagmiddag zwaargewond geraakt bij een mishandeling in het Limburgse Eijsden. De twee verdachten sloegen daarna op de vlucht, &#233;&#233;n van hen is nog spoorloos."
+        },
+        {
+          "title": "Britse buschauffeur mag onderweg geen bellen meer blazen vanwege veiligheidsrisico’s",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/britse-buschauffeur-mag-onderweg-geen-bellen-meer-blazen-vanwege-veiligheidsrisicos~a4645221/",
+          "publishedDate": "Sun, 16 Aug 2026 21:16:00 GMT",
+          "description": "Een buschauffeur uit Londen die viraal ging vanwege zijn ‘bellenbus’, mag wegens veiligheidsrisico’s geen zeepbellen meer blazen. Dat meldt de lokale site My London."
+        },
+        {
+          "title": "Twee wanbetalers mishandelen Arriva-buschauffeur na conflict over inchecken",
+          "source": "Panorama on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/twee-wanbetalers-mishandelen-arriva-buschauffeur-na-conflict-over-inchecken/ar-AA2aoaK4",
+          "publishedDate": "Tue, 18 Aug 2026 07:46:00 GMT",
+          "description": "Een doordeweekse rit veranderde maandagmiddag in een absolute nachtmerrie voor een buschauffeur van Arriva. Nadat hij twee passagiers aansprak die weigerden af te tikken, ging het helemaal mis."
         },
         {
           "title": "Nederlandse buschauffeur zwaargewond naar ziekenhuis gebracht nadat hij zwartrijders confronteert: minderjarige jongen uit Belgi&#235; opgepakt",
@@ -205,20 +219,6 @@
           "url": "https://www.limburger.nl/regio/eijsden-margraten/eijsden/buschauffeur-in-elkaar-geslagen-nadat-hij-zwartrijders-had-geconfronteerd-in-eijsden-minderjarige-jongen-uit-belgie-opgepakt/160171901.html",
           "publishedDate": "Tue, 18 Aug 2026 04:06:00 GMT",
           "description": "Een buschauffeur is maandagmiddag zwaargewond naar het ziekenhuis gebracht nadat hij werd mishandeld door twee personen in Eijsden. Een minderjarige jongen uit Belgi&#235; is als verdachte opgepakt."
-        },
-        {
-          "title": "Buschauffeur zwaargewond in Eijsden na mishandeling door passagiers die niet wilden inchecken",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/binnenland/buschauffeur-zwaargewond-in-eijsden-na-mishandeling-door-passagiers-die-niet-wilden-inchecken~a6c5528f/",
-          "publishedDate": "Mon, 17 Aug 2026 18:18:00 GMT",
-          "description": "Een buschauffeur van Arriva is maandagmiddag zwaargewond geraakt bij een mishandeling in het Limburgse Eijsden. De twee verdachten sloegen daarna op de vlucht, &#233;&#233;n van hen is nog spoorloos."
-        },
-        {
-          "title": "Twee wanbetalers mishandelen Arriva-buschauffeur na conflict over inchecken",
-          "source": "Panorama on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/twee-wanbetalers-mishandelen-arriva-buschauffeur-na-conflict-over-inchecken/ar-AA2aoaK4",
-          "publishedDate": "Mon, 17 Aug 2026 17:46:00 GMT",
-          "description": "Een doordeweekse rit veranderde maandagmiddag in een absolute nachtmerrie voor een buschauffeur van Arriva. Nadat hij twee passagiers aansprak die weigerden af te tikken, ging het helemaal mis."
         },
         {
           "title": "Opleiding tot Buschauffeur bij EBS in Apeldoorn",
@@ -308,81 +308,76 @@
     {
       "keyword": "mathieu van der poel",
       "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "brandstof",
-      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "CPB verwacht koopkrachtdaling in 2027, economie blijft wel draaien",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/nederland/cpb-verwacht-koopkrachtdaling-in-2027-economie-blijft-wel-draaien~b25422e5/",
-          "publishedDate": "Fri, 14 Aug 2026 06:38:00 GMT",
-          "description": "Hogere prijzen voor energie en brandstof treffen Nederlandse huishoudens in de portemonnee. De eerder verwachte koopkrachtwinst voor dit jaar daalt en in 2027 gaat de koopkracht in de min. Tegelijkert ..."
+          "title": "Van der Poel droomde al jaar van hero&#239;sche zege in Parijs: 'Alles op alles gezet'",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2624555-van-der-poel-droomde-al-jaar-van-heroische-zege-in-parijs-alles-op-alles-gezet",
+          "publishedDate": "Sun, 26 Jul 2026 14:36:00 GMT",
+          "description": "Mathieu van der Poel dacht dat zijn kansen verkeken waren, maar kwam net voor de sprinters over de finish in de spetterende slotrit van de Tour."
         },
         {
-          "title": "Vrachtwagen rijdt tegen muurtje in Beek en Donk, diesel stroomt de straat op",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/brabant/vrachtwagen-rijdt-tegen-muurtje-in-beek-en-donk-diesel-stroomt-de-straat-op~ad34a2f2/",
-          "publishedDate": "Tue, 18 Aug 2026 02:07:00 GMT",
-          "description": "Een vrachtwagen is dinsdagochtend op een industrieterrein in Beek en Donk tegen een muurtje gereden. Daarbij scheurde de dieseltank open, waardoor brandstof op straat en in een laaddock terechtkwam."
+          "title": "🎥 Fan op racefiets kan Mathieu van der Poel op mountainbike niet volgen",
+          "source": "In de leiderstrui on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/wielrennen/fan-op-racefiets-kan-mathieu-van-der-poel-op-mountainbike-niet-volgen/ar-AA2anLIZ",
+          "publishedDate": "Tue, 18 Aug 2026 06:25:00 GMT",
+          "description": "Mathieu van der Poel lijkt zijn tanden te zetten in een korte en hevige periode mountainbiken. De Nederlander van Alpecin-Premier Tech zit alweer even op de fiets en werkt toe richting zijn rentree in ..."
         },
         {
-          "title": "Delfzijl krijgt vulstation voor waterstof, nog vrachtwagens nodig om die schone brandstof op de juiste plekken te krijgen",
-          "source": "RTV Noord",
-          "url": "https://www.rtvnoord.nl/economie/1430139/delfzijl-krijgt-vulstation-voor-waterstof-nog-vrachtwagens-nodig-om-die-schone-brandstof-op-de-juiste-plekken-te-krijgen",
-          "publishedDate": "Mon, 17 Aug 2026 23:00:00 GMT",
-          "description": "Waterstof geldt al jaren als een schone brandstof voor de toekomst, en vooral in de regio rond Delfzijl wordt er steeds meer op ingezet. Toch blijft er een praktisch probleem: wat heb je aan al die sc ..."
+          "title": "Mathieu van der Poel zondag in actie tijdens Wereldbeker in Les Gets als voorbereiding op wereldkampioenschap mountainbiken",
+          "source": "Eurosport",
+          "url": "https://www.eurosport.nl/mountainbike/mathieu-van-der-poel-zondag-in-actie-tijdens-wereldbeker-in-les-gets-als-voorbereiding-op-wereldkampioenschap-mountainbiken_sto23329098/story.shtml",
+          "publishedDate": "Tue, 18 Aug 2026 03:34:00 GMT",
+          "description": "Mathieu van der Poel komt zondag 23 augustus in actie tijdens de Wereldbekermanche in Les Gets in voorbereiding op het WK in Val di Sole een week later."
         },
         {
-          "title": "Italiaanse pompen verkopen aangelengde brandstof: 1 op de 5 gecontroleerde stations in Rome was niet in orde",
-          "source": "Autobahn on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/italiaanse-pompen-verkopen-aangelengde-brandstof-1-op-de-5-gecontroleerde-stations-in-rome-was-niet-in-orde/ar-AA2ahzes",
-          "publishedDate": "Mon, 17 Aug 2026 05:22:00 GMT",
-          "description": "Italiaanse autoriteiten hebben de controles op benzine en diesel flink opgevoerd. Bij een steekproef in Rome was ongeveer &#233;&#233;n op de vijf gecontroleerde tankstations op minstens &#233;&#233;n punt niet in orde."
+          "title": "UPDATE: Van der Poel hakt belangrijke knoop helemaal door",
+          "source": "Wielerkrant.be",
+          "url": "https://www.wielerkrant.be/nieuws/2026-08-17/update-van-der-poel-hakt-belangrijke-knoop-helemaal-door",
+          "publishedDate": "Mon, 17 Aug 2026 10:30:00 GMT",
+          "description": "Mathieu van der Poel heeft de knoop doorgehakt. Hij heeft een beslissing genomen over de deelname aan de Wereldbeker mountainbike in Les Gets. Van der Poel zal daar met zekerheid aan de start staan."
         },
         {
-          "title": "Brandstof in delen van Duitsland fors duurder vanwege laagwater",
-          "source": "AutoWeek",
-          "url": "https://www.autoweek.nl/autonieuws/artikel/brandstof-in-delen-van-duitsland-fors-duurder-vanwege-laagwater/",
-          "publishedDate": "Tue, 11 Aug 2026 08:41:00 GMT",
-          "description": "Volgens de ANWB kost een liter Euro 95 in Duitsland momenteel gemiddeld €2,23. In Nederland is dit €2,27. Belgi&#235; is met €1,83 per liter benzine aanzienlijk goedkoper."
+          "title": "Wielericoon Mathieu van der Poel keert dit weekend terug op de fiets voor bijzondere missie",
+          "source": "sportnieuws",
+          "url": "https://sportnieuws.nl/wielrennen/nieuws/wielericoon-mathieu-van-der-poel-keert-dit-weekend-terug-op-de-fiets-voor-bijzondere-missie-2026081714493153415/",
+          "publishedDate": "Mon, 17 Aug 2026 10:14:00 GMT",
+          "description": "Sinds zijn fenomenale zege op de Champs-&#201;lys&#233;es liet Mathieu van der Poel zich niet meer zien in wedstrijdverband. Dit weekend komt daar verandering im, want de Nederlander stap dan weer op de fiets."
         },
         {
-          "title": "Joeloemsingh: “Brandstofsmokkel tegengaan middels kleuren van legale brandstof”",
-          "source": "Waterkant.net",
-          "url": "https://www.waterkant.net/suriname/2026/08/10/joeloemsingh-brandstofsmokkel-tegengaan-middels-kleuren-van-legale-brandstof/",
-          "publishedDate": "Mon, 10 Aug 2026 00:00:00 GMT",
-          "description": "NDP-parlementari&#235;r Wedprekash Joeloemsingh is moe van de verhalen over brandstofsmokkel in Suriname. Volgens de politicus wordt brandstof niet alleen ..."
+          "title": "Mathieu van der Poel test zondag zijn mountainbikebenen tijdens Wereldbeker in Frankrijk, live te zien bij Sporza",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/2026/08/17/mathieu-van-der-poel-test-zondag-zijn-mountainbikebenen-tijdens-wereldbeker-in-frankrijk-live-te-zien-bij-sporza~1786980708043/",
+          "publishedDate": "Mon, 17 Aug 2026 08:45:00 GMT",
+          "description": "De organisatie van de Wereldbekermanches in het mountainbike heeft aangekondigd dat Mathieu van der Poel zondag aan de start staat van de manche in Les Gets (Frankrijk). Het wordt zijn eerste mountain ..."
         },
         {
-          "title": "Komt de korting van 20 cent per liter brandstof in Spanje weer terug?",
-          "source": "spanjevandaag",
-          "url": "https://www.spanjevandaag.com/17/03/2026/komt-de-korting-van-20-cent-per-liter-brandstof-in-spanje-weer-terug/",
-          "publishedDate": "Tue, 17 Mar 2026 03:11:00 GMT",
-          "description": "De stijgende brandstofprijzen zorgen opnieuw voor veel discussie in Spanje. Veel automobilisten vragen zich af of de regering opnieuw een korting van 20 cent per liter gaat invoeren, zoals dat in 2022 ..."
+          "title": "Mathieu van der Poel hervat dit weekend op de mountainbike, wegprogramma onduidelijk",
+          "source": "WielerFlits on MSN",
+          "url": "https://www.msn.com/nl-be/sport/wielrennen/mathieu-van-der-poel-hervat-dit-weekend-op-de-mountainbike-wegprogramma-onduidelijk/ar-AA2ah7v0",
+          "publishedDate": "Mon, 17 Aug 2026 03:14:03 GMT",
+          "description": "We zagen hem al trainen met Remco Evenepoel, maar stilaan sijpelt er ook meer informatie naar buiten over de competitieplannen van Mathieu van der Poel. Officieel bevestigt Alpecin-Premier Tech nog ni ..."
         },
         {
-          "title": "CO2-neutrale brandstof maakt dure elektrische auto overbodig",
-          "source": "Auto55",
-          "url": "https://www.auto55.be/nieuws/34532-co2-neutrale-brandstof-maakt-dure-elektrische-auto-overbodig",
-          "publishedDate": "Thu, 29 Dec 2022 16:00:00 GMT",
-          "description": "Als het van Europa afhangt, dan kan je vanaf 2035 alleen nog maar een elektrische auto kopen. Eender voor wat je je auto wil of moet gebruiken. Omwille van de druk die zo’n geforceerde omschakeling ..."
+          "title": "Mathieu van der Poel keert komend weekend terug in competitie: Nederlander neemt deel aan WB mountainbike in Les Gets",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/wielrennen/ef-education-easypost-ziet-sterkhouder-vertrekken-michael-valgren-zet-cariere-verder-bij-netcompany-ineos~a98ef736/",
+          "publishedDate": "Sun, 16 Aug 2026 17:58:00 GMT",
+          "description": "Na zijn fabuleuze zege op de Champs Elys&#232;es in de slotrit van de Tour keert Mathieu van der Poel dit weekend terug in competitie. Volgens onze informatie staat de Nederlander van Alpecin-Premier Tech ..."
         },
         {
-          "title": "Hoeveel brandstof verbruikt een Formule 1-auto tijdens een race?",
-          "source": "gpfans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/94024/hoeveel-brandstof-verbruikt-een-formule-1auto-tijdens-een-race/",
-          "publishedDate": "Wed, 19 Oct 2022 04:59:00 GMT",
-          "description": "Formule 1-auto's verbruiken een aanzienlijke hoeveelheid brandstof tijdens een Grand Prix. En alhoewel het verbruik nog altijd niet in de buurt komt van de gemiddelde straatauto, heeft de sport de ..."
+          "title": "Topwielrenner Mathieu van der Poel stoomt zich klaar voor WK in gezelschap van opvallende gast",
+          "source": "sportnieuws",
+          "url": "https://sportnieuws.nl/wielrennen/nieuws/topwielrenner-mathieu-van-der-poel-stoomt-zich-klaar-voor-wk-in-gezelschap-van-opvallende-gast-2026081516245870473/",
+          "publishedDate": "Sat, 15 Aug 2026 11:52:00 GMT",
+          "description": "Mathieu van der Poel liet zich sinds zijn fenomenale zege op de Champs-&#201;lys&#233;es in de Tour de France nauwelijks meer zien. De Nederlander kondigde aan zich weer te gaan focussen op de mountainbike. In ..."
         },
         {
-          "title": "Groene ammoniak: de weinig bekende uitstootvrije brandstof die zal boomen in de toekomst",
-          "source": "Business AM",
-          "url": "https://businessam.be/groene-ammoniak-uitstootvrije-brandstof/",
-          "publishedDate": "Tue, 12 Jul 2022 01:41:00 GMT",
-          "description": "Groene ammoniak groeit snel uit als een alternatieve vorm van emissievrije brandstof en krijgt steeds meer aandacht van energiereuzen zoals ExxonMobil. Groene ammoniak is een serieuze kanshebber om in ..."
+          "title": "Dit weten we over het najaarsprogramma van Mathieu van der Poel",
+          "source": "Wielerflits Nederland on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/contouren-programma-mathieu-van-der-poel-voor-tweede-seizoensdeel-zichtbaar/ar-AA28HRkc",
+          "publishedDate": "Mon, 27 Jul 2026 01:00:00 GMT",
+          "description": "Mathieu van der Poel wacht een tweede deel van het seizoen met twee belangrijke afspraken. Eind augustus doet hij een gooi naar de wereldtitel mountainbiken in Val di Sole, waarna een maand later het ..."
         }
       ]
     },
@@ -435,7 +430,7 @@
           "source": "NOS",
           "url": "https://nos.nl/artikel/2627358-schadelijke-japanse-kever-gevonden-nvwa-waarschuwt-vakantiegangers-voor-meeliften",
           "publishedDate": "Tue, 18 Aug 2026 04:49:00 GMT",
-          "description": "De Nederlandse Voedsel- en Warenautoriteit (NVWA) heeft eind juli een dode Japanse kever aangetroffen in Nederland. Het dier werd aangetroffen bij een groothandel in een plastic bak die uit Itali&#235; ..."
+          "description": "De Nederlandse Voedsel- en Warenautoriteit (NVWA) heeft eind juli een dode Japanse kever aangetroffen in Nederland. Het dier werd aangetroffen bij een groothandel in een plastic bak die uit Itali&#235; kwa ..."
         },
         {
           "title": "Dode Japanse kever aangetroffen in Nederland afkomstig uit Itali&#235;, NVWA waarschuwt voor ’zeer schadelijk’ insect",
@@ -528,6 +523,13 @@
           "description": "Isack Hadjar rijdt net als zijn teamgenoot Max Verstappen komend weekend de allerlaatste Grand Prix van Nederland met een speciale helm. De hoofddeksels zijn ge&#239;nspireerd door Delfts blauw, het wereld ..."
         },
         {
+          "title": "F1TV-analist ziet eigenlijk nog maar &#233;&#233;n optie voor Verstappen in 2027",
+          "source": "F1 Maximaal",
+          "url": "https://www.f1maximaal.nl/formule-1/f1tv-analist-ziet-eigenlijk-nog-maar-een-optie-voor-verstappen-in-2027",
+          "publishedDate": "Tue, 18 Aug 2026 07:25:00 GMT",
+          "description": "Max Verstappen heeft nog altijd niet bekendgemaakt wat zijn plannen zijn voor volgend jaar. De 28-jarige coureur van Red Bull Racing werd in de afgelopen weken herhaaldelijk in verband gebracht met ..."
+        },
+        {
           "title": "Red Bull past werkwijze niet aan door Hadjar: &quot;Ze luisteren alleen maar naar Verstappen&quot;",
           "source": "F1 Maximaal",
           "url": "https://www.f1maximaal.nl/formule-1/red-bull-past-werkwijze-niet-aan-door-hadjar-ze-luisteren-alleen-maar-naar-verstappen",
@@ -535,11 +537,11 @@
           "description": "Max Verstappen is al jaren de onbetwiste kopman bij Red Bull Racing. Isack Hadjar slaagt er echter in om het verschil met de Nederlander redelijk klein te houden. Heeft de jonge Fransman dan ook iets ..."
         },
         {
-          "title": "Albers geeft toe: &quot;Stiekem ben ik toch wel erg jaloers op Max Verstappen&quot;",
-          "source": "F1 Maximaal",
-          "url": "https://www.f1maximaal.nl/opinie/albers-geeft-toe-stiekem-ben-ik-toch-wel-erg-jaloers-op-max-verstappen",
-          "publishedDate": "Tue, 18 Aug 2026 01:52:00 GMT",
-          "description": "Komende zondag staat in Zandvoort de zesde en voorlopig laatste Grand Prix van Nederland op het programma. In de afgelopen seizoenen heeft de organisatie steeds een prachtig evenement neergezet en dus ..."
+          "title": "De offici&#235;le Max Verstappen shop",
+          "source": "gptoday",
+          "url": "https://www.gptoday.net/nl/coureurs/max-verstappen/shop",
+          "publishedDate": "Tue, 18 Aug 2026 03:45:00 GMT",
+          "description": "Voor de Max Verstappen fans die zijn kleding willen dragen werd jaren geleden de Max Verstappen webshop geopend, in 2017 werd ook de eerste fysieke winkel geopend. Op zaterdag 17 juni openden de ..."
         },
         {
           "title": "Tijden Formule 1 | zo laat racet Max Verstappen tijdens GP van Nederland op circuit Zandvoort",
@@ -556,18 +558,11 @@
           "description": "Zandvoort maakt zich op voor de laatste Dutch Grand Prix. Kan Max Verstappen winnen na twee tweede plaatsen? Bekijk de beelden in NH Sport."
         },
         {
-          "title": "Kelly Piquet maakt veel indruk: wereldberoemde actrice reageert op bericht van geliefde Max Verstappen",
-          "source": "sportnieuws",
-          "url": "https://sportnieuws.nl/boulevard/nieuws/kelly-piquet-maakt-veel-indruk-wereldberoemde-actrice-reageert-op-bericht-van-geliefde-max-verstappen-2026081705052144118/",
-          "publishedDate": "Mon, 17 Aug 2026 00:25:00 GMT",
-          "description": "Max Verstappen is als viervoudig wereldkampioen Formule 1 natuurlijk een bekendheid, maar ook zijn geliefde Kelly Piquet kan er wat van. Een bericht van haar zorgde zondag voor flink wat reacties, ook ..."
-        },
-        {
-          "title": "Max Verstappen",
-          "source": "RaceXpress",
-          "url": "https://www.racexpress.nl/max-verstappen",
-          "publishedDate": "Sun, 16 Aug 2026 17:00:00 GMT",
-          "description": "H&#233;t verzamelpunt voor alles over Max Verstappen. De Nederlandse Red Bull-coureur en meervoudig wereldkampioen – van elke Grand Prix en persmoment tot de analyses erachter. Laatste nieuws, foto’s en vi ..."
+          "title": "Max Verstappen onthult speciale helm voor laatste Dutch Grand Prix",
+          "source": "Motorsport",
+          "url": "https://nl.motorsport.com/f1/news/max-verstappen-onthult-speciale-helm-voor-laatste-dutch-grand-prix/10846309/",
+          "publishedDate": "Sat, 15 Aug 2026 17:10:00 GMT",
+          "description": "Max Verstappen heeft een speciale, door Delfts aardewerk ge&#239;nspireerde helm onthuld voor zijn laatste thuisrace tijdens de Dutch Grand Prix van 2026 in Zandvoort Viervoudig Formule 1-kampioen Max ..."
         },
         {
           "title": "Steiner: Mercedes heeft Max Verstappen niet meer nodig",
@@ -575,6 +570,82 @@
           "url": "https://nl.motorsport.com/f1/news/steiner-mercedes-heeft-max-verstappen-niet-meer-nodig/10846516/",
           "publishedDate": "Sat, 15 Aug 2026 01:30:00 GMT",
           "description": "Guenther Steiner denkt dat Mercedes Max Verstappen mogelijk niet langer hoeft na te jagen na Kimi Antonelli Voormalig Haas Formula 1-teambaas Guenther Steiner denkt dat de noodzaak voor Mercedes om ..."
+        }
+      ]
+    },
+    {
+      "keyword": "femke broeders bol",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Femke Broeders-Bol is Fanny Blankers-Koen voorbij, beste EK ooit voor Nederland",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/andere-sporten/femke-broeders-bol-is-fanny-blankers-koen-voorbij-beste-ek-ooit-voor-nederland~a5abb556c/",
+          "publishedDate": "Sun, 16 Aug 2026 17:03:00 GMT",
+          "description": "Femke Broeders-Bol is ‘Vliegende Huisvrouw’ Fanny Blankers-Koen voorbijgegaan in het eeuwige medailleklassement van Europese kampioenschappen atletiek. Beiden staan op acht plakken, maar Broeders-Bol ..."
+        },
+        {
+          "title": "Femke Broeders-Bol leidde de vrouwenploeg als vanouds naar de Europese titel op de 4x400 meter",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/sport/femke-broeders-bol-leidde-de-vrouwenploeg-als-vanouds-naar-de-europese-titel-op-de-4x400-meter~b88a740a/",
+          "publishedDate": "Sun, 16 Aug 2026 16:53:00 GMT",
+          "description": "Als vanouds leidde Femke Broeders-Bol op de EK de vrouwenploeg op de 4x400 meter naar de Europese titel."
+        },
+        {
+          "title": "Femke Broeders-Bol is verbaasd over haar progressie: ’Mijn benen gaan sneller dan mijn hoofd’",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/femke-broeders-bol-is-verbaasd-over-haar-progressie-mijn-benen-gaan-sneller-dan-mijn-hoofd/160063734.html",
+          "publishedDate": "Sat, 15 Aug 2026 00:50:00 GMT",
+          "description": "Femke Broeders-Bol vertelt dat ze heel blij is met brons. Dat blijkt uit al haar teksten na de EK-finale over 800 meter in Birmingham. Haar progressie op deze nieuwe discipline is ook verrassend, want ..."
+        },
+        {
+          "title": "Femke Broeders-Bol pakt EK-brons op 800 meter en evenaart Nederlands record uit 1992: ‘Echt gaaf!’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/andere-sporten/femke-broeders-bol-pakt-ek-brons-op-800-meter-en-evenaart-nederlands-record-uit-1992-echt-gaaf~acd9b0dee/",
+          "publishedDate": "Fri, 14 Aug 2026 15:15:00 GMT",
+          "description": "Femke Broeders-Bol heeft tijdens de EK atletiek in Birmingham een bronzen medaille veroverd op de 800 meter. Met een tijd van 1.55,54 evenaarde Broeders-Bol het Nederlandse record van Ellen van Langen ..."
+        },
+        {
+          "title": "Gaat Femke Broeders-Bol vanavond haar eerste gouden medaille op de 800 meter winnen?",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/sport/gaat-femke-broeders-bol-vanavond-haar-eerste-gouden-medaille-op-de-800-meter-winnen~bd60b10f/",
+          "publishedDate": "Thu, 13 Aug 2026 12:40:00 GMT",
+          "description": "Tien maanden na haar besluit om zich tot 800-meterloper om te scholen staat Femke Broeders-Bol vrijdag op de EK in haar eerste internationale finale. En na de halve finale weet ze dat een ongeluk op d ..."
+        },
+        {
+          "title": "Broeders-Bol: goud winnen voelt als vanouds, maar went nooit",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/sport/broeders-bol-goud-winnen-voelt-als-vanouds-maar-went-nooit",
+          "publishedDate": "Sun, 16 Aug 2026 16:46:00 GMT",
+          "description": "Femke Broeders-Bol leidt 4x400m-ploeg naar EK-goud in Birmingham. Onwennige 400m, sterke slotronde en spannende strijd met Newnham: goud winnen went nooit."
+        },
+        {
+          "title": "Femke Broeders-Bol en Lieke Klaver leiden Nederlandse vrouwen naar historisch goud op EK",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/atletiek/nieuws/femke-broeders-bol-en-lieke-klaver-leiden-nederlandse-vrouwen-naar-historisch-goud-op-ek-2026081620422676714/",
+          "publishedDate": "Sun, 16 Aug 2026 15:42:00 GMT",
+          "description": "De Nederlandse vrouwen hebben voor de derde keer op rij goud gewonnen bij de 4x400 meter op de EK atletiek. Femke Broeders-Bol, Lieke Klaver, Myrte van der Schoot en Eveline Saalberg lagen in de ..."
+        },
+        {
+          "title": "Femke Broeders-Bol deelt dag na haar bronzen race complimenten uit: 'Dat was geweldig'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/atletiek/nieuws/femke-broeders-bol-deelt-dag-na-haar-bronzen-race-complimenten-uit-dat-was-geweldig-2026081507554903827/",
+          "publishedDate": "Sat, 15 Aug 2026 03:29:00 GMT",
+          "description": "Femke Broeders-Bol won vrijdag in een ware titanenstrijd brons op de 800 meter tijdens het EK atletiek. De atlete heeft na een nachtje slapen nog een mooie reactie gegeven via haar Instagram. Daar dee ..."
+        },
+        {
+          "title": "Broeders-Bol wint bij EK-debuut brons op 800 meter in recordtijd",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/sport/broeders-bol-wint-bij-ek-debuut-brons-op-800-meter-in-recordtijd",
+          "publishedDate": "Fri, 14 Aug 2026 16:00:00 GMT",
+          "description": "Femke Broeders-Bol verovert brons bij haar EK-debuut op de 800 meter in 1.55,54 en evenaart het Nederlands record. Werro wint goud, Hodgkinson zilver."
+        },
+        {
+          "title": "Femke Broeders-Bol plaatst zich overtuigend voor finale 800 meter, concurrente hard onderuit",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/meer-sport/femke-broeders-bol-plaatst-zich-overtuigend-voor-finale-800-meter-concurrente-hard-onderuit~ac2bcd96/",
+          "publishedDate": "Thu, 13 Aug 2026 04:24:00 GMT",
+          "description": "Femke Broeders-Bol heeft zich op de EK atletiek geplaatst voor de eindstrijd van de 800 meter. De atlete werd tweede in haar halve finale. Concurrente Audrey Werro kwam ten val, maar kreeg met dank aa ..."
         }
       ]
     }
