@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T17:48:45.533Z",
+  "fetchedAt": "2026-08-19T18:23:28.765Z",
   "trends": [
     {
       "keyword": "oostenrijk",
@@ -11,6 +11,13 @@
           "url": "https://www.ad.nl/buitenland/vakantie-in-oostenrijk-eindigt-in-drama-nederlandse-vader-ziet-12-jarige-zoon-30-meter-naar-beneden-vallen~a4895468/",
           "publishedDate": "Wed, 19 Aug 2026 00:09:00 GMT",
           "description": "Een 12-jarige Nederlandse jongen ligt zwaargewond op de intensive care in Oostenrijk na een metersdiepe val tijdens een bergwandeling in Tirol. De tiener stortte zondagochtend over steil en rotsachtig ..."
+        },
+        {
+          "title": "‘Rijke geldschieter’ blijkt oplichter: Nederlander veroordeeld voor miljoenenfraude in Oostenrijk",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/rijke-geldschieter-blijkt-oplichter-nederlander-veroordeeld-voor-miljoenenfraude-in-oostenrijk~aca5590f/",
+          "publishedDate": "Tue, 18 Aug 2026 01:16:00 GMT",
+          "description": "Een 53-jarige Nederlander is in Oostenrijk veroordeeld tot vijf jaar gevangenisstraf wegens grootschalige oplichting en valsheid in geschrifte. Dat bevestigt een woordvoerder van de rechtbank in een s ..."
         },
         {
           "title": "41 graden in Wenen, Oostenrijk zucht onder hitterecord",
@@ -48,13 +55,6 @@
           "description": "In Frankrijk werd in 2025 melding gedaan van ruim 1300 antisemitische incidenten. Het aantal meldingen van aanvallen op christenen en moslims en hun eigendommen nam licht toe ten opzichte van 2024."
         },
         {
-          "title": "Grootste gletsjer van Oostenrijk dreigt in twee&#235;n te breken",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/08/05/grootste-oostenrijkse-gletsjer-dreigt-in-twee-te-breken/",
-          "publishedDate": "Tue, 04 Aug 2026 18:20:00 GMT",
-          "description": "De Pasterze, de grootste gletsjer van Oostenrijk, smelt aan een alarmerend tempo. Door aanhoudende hitte dreigt de gletsjer dit jaar in twee delen uiteen te vallen. Wetenschappers volgen de evolutie a ..."
-        },
-        {
           "title": "Oostenrijk getroffen door zwaar noodweer: bergdorpen in Tirol overspoeld door modder en puin",
           "source": "Het Laatste Nieuws",
           "url": "https://www.hln.be/buitenland/oostenrijk-getroffen-door-zwaar-noodweer-bergdorpen-in-tirol-overspoeld-door-modder-en-puin~a2ed61cb/",
@@ -78,215 +78,13 @@
       ]
     },
     {
-      "keyword": "maarten brante",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Podcastmaker en JA21-medewerker Maarten Brante (48) overleden na val in water Amsterdam",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/binnenland/podcastmaker-en-ja21-medewerker-maarten-brante-48-overleden-na-val-in-water-amsterdam/160205278.html",
-          "publishedDate": "Tue, 18 Aug 2026 16:14:00 GMT",
-          "description": "In Amsterdam is podcastmaker, fotograaf en medewerker van de lokale JA21-fractie Maarten Brante dinsdag overleden. Hij was 48 jaar."
-        },
-        {
-          "title": "JA21-fractiemedewerker Maarten Brante (48) overleden na noodlottige val uit sloepje aan Prins Hendrikkade",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/ja21-fractiemedewerker-maarten-brante-48-overleden-na-noodlottige-val-uit-sloepje-aan-prins-hendrikkade~bd4d6305/",
-          "publishedDate": "Tue, 18 Aug 2026 15:52:00 GMT",
-          "description": "JA21-fractiemedewerker, podcastmaker en fotograaf Maarten Brante is dinsdag 18 augustus op 48-jarige leeftijd overleden aan de gevolgen van een noodlottig ongeval. Hij raakte vorige week zwaargewond b ..."
-        },
-        {
-          "title": "JA21-fractiemedewerker en podcastmaker Maarten Brante (48) overleden na noodlottig ongeval in Amsterdam",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/ja21-fractiemedewerker-en-podcastmaker-maarten-brante-48-overleden-na-noodlottig-ongeval-in-amsterdam~a633c548/",
-          "publishedDate": "Tue, 18 Aug 2026 06:11:00 GMT",
-          "description": "JA21-fractiemedewerker, podcastmaker en fotograaf Maarten Brante is op 48-jarige leeftijd overleden na een noodlottig ongeval in het centrum van Amsterdam. Brante raakte vorige week te water bij de Pr ..."
-        },
-        {
-          "title": "Fotograaf en podcastmaker Maarten Brante overleden",
-          "source": "Villamedia",
-          "url": "https://www.villamedia.nl/artikel/fotograaf-en-podcastmaker-maarten-brante-overleden",
-          "publishedDate": "Wed, 19 Aug 2026 00:10:00 GMT",
-          "description": "In Amsterdam is podcastmaker, fotograaf en medewerker van de lokale JA21-fractie Maarten Brante dinsdag overleden. Hij was 48 jaar."
-        },
-        {
-          "title": "Podcastmaker en JA21-medewerker Maarten Brante overleden",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/a/1159773-podcastmaker-en-ja21-medewerker-maarten-brante-overleden",
-          "publishedDate": "Tue, 18 Aug 2026 15:48:00 GMT",
-          "description": "In Amsterdam is podcastmaker, fotograaf en medewerker van de lokale JA21-fractie Maarten Brante dinsdag overleden. Hij was 48 jaar."
-        },
-        {
-          "title": "Ja21-fractiemedewerker Maarten Brante overleden na val in water Prins Hendrikkade",
-          "source": "AT5",
-          "url": "https://www.at5.nl/artikelen/239550/ja21-fractiemedewerker-maarten-brante-overleden-na-val-in-water-prins-hendrikkade",
-          "publishedDate": "Tue, 18 Aug 2026 12:50:00 GMT",
-          "description": "Maarten Brante (48), fractiemedewerker van JA21 en podcastmaker, overleden na val in water bij Prins Hendrikkade Amsterdam-Centrum. Partij reageert verslagen."
-        },
-        {
-          "title": "JA21-fractiemedewerker Maarten Brante overleden na noodlottig ongeval in Amsterdam",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/362608/ja21-fractiemedewerker-maarten-brante-overleden-na-noodlottig-ongeval-in-amsterdam",
-          "publishedDate": "Tue, 18 Aug 2026 12:50:00 GMT",
-          "description": "JA21-medewerker Maarten Brante (48) overleden na val te water bij Prins Hendrikkade Amsterdam-Centrum. Brandweerduikers vonden hem na lange zoekactie."
-        }
-      ]
-    },
-    {
       "keyword": "wendy van wanten",
       "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Zoon van Belgische prins Laurent wettelijk erkend",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627460-zoon-van-belgische-prins-laurent-wettelijk-erkend",
-          "publishedDate": "Wed, 19 Aug 2026 01:29:00 GMT",
-          "description": "Cl&#233;ment Vandenkerckhove werd geboren uit een relatie tussen prins Laurent en de zangeres Wendy Van Wanten. Na die relatie trouwde Laurent met prinses Claire, met wie hij drie kinderen kreeg."
-        },
-        {
-          "title": "Prins Laurent erkent zijn zoon nu ook officieel: Cl&#233;ment wordt prins van Belgi&#235;",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/prins-laurent-erkent-zijn-zoon-nu-ook-officieel-clement-wordt-prins-van-belgie~a73efb0e/",
-          "publishedDate": "Tue, 18 Aug 2026 19:50:00 GMT",
-          "description": "Prins Laurent (62) maakte in 2025 al bekend dat Cl&#233;ment Vandenkerckhove (26), de zoon van Wendy Van Wanten (66), ook zijn kind is. Nu erkent hij Cl&#233;ment ook officieel. Dat betekent dat Belgi&#235; een nieu ..."
-        },
-        {
-          "title": "Belgi&#235; heeft er een prins bij: prins Laurent erkent Cl&#233;ment nu ook officieel als zijn zoon",
-          "source": "De Standaard",
-          "url": "https://www.standaard.be/binnenland/belgie-heeft-er-een-prins-bij-prins-laurent-erkent-clement-nu-ook-officieel-als-zijn-zoon/160208641.html",
-          "publishedDate": "Wed, 19 Aug 2026 01:54:00 GMT",
-          "description": "Prins Laurent (62) maakte in 2025 bekend dat Cl&#233;ment Vandenkerckhove (26) zijn zoon is en heeft dat nu ook officieel laten registeren. De moeder is Wendy Van Wanten."
-        },
-        {
-          "title": "Cl&#233;ment is status als buitenstaander van koninklijke familie kwijt: prins Laurent erkent hem officieel als zoon",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/nieuws/clement-is-status-als-buitenstaander-van-koninklijke-familie-kwijt-prins-laurent-erkent-hem-officieel-als-zoon~b73efb0e/",
-          "publishedDate": "Wed, 19 Aug 2026 01:28:00 GMT",
-          "description": "Prins Laurent heeft Cl&#233;ment Vandenkerckhove, zijn zoon met Wendy van Wanten, nu ook officieel erkend bij de burgerlijke stand. Dat onthult Le Soir. Daarmee is Cl&#233;ment nu een prins van Belgi&#235;, al kan h ..."
-        },
-        {
-          "title": "Prins Laurent heeft Cl&#233;ment officieel erkend als zoon, en dat maakt hem prins",
-          "source": "Het Belang van Limburg",
-          "url": "https://www.hbvl.be/media-en-cultuur/bv-en-co/prins-laurent-heeft-clement-officieel-erkend-als-zoon-en-dat-maakt-hem-prins/160207803.html",
-          "publishedDate": "Wed, 19 Aug 2026 01:21:00 GMT",
-          "description": "Prins Laurent heeft Cl&#233;ment Vandenkerckhove, zijn zoon met Wendy Van Wanten, officieel erkend als zijn kind. Dat meldt Le Soir. Cl&#233;ment is daarmee meteen ook zelf prins."
-        },
-        {
-          "title": "Prins Laurent erkent zoon Cl&#233;ment officieel: mogelijk nieuwe prins van Belgi&#235;",
-          "source": "RTL Boulevard (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/prins-laurent-erkent-zoon-cl%C3%A9ment-officieel-mogelijk-nieuwe-prins-van-belgi%C3%AB/ar-AA2arCWv",
-          "publishedDate": "Wed, 19 Aug 2026 00:00:04 GMT",
-          "description": "De Belgische prins Laurent (62) heeft zijn buitenechtelijke zoon Cl&#233;ment Vandenkerckhove (26), die hij kreeg met Wendy Van Wanten (66), officieel erkend. Dat schrijft de Belgische krant Le Soir woensd ..."
-        },
-        {
-          "title": "OPROEP. Heb jij een vraag over de erkenning van Cl&#233;ment Vandenkerckhove? Stel ze hier",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/vtm-nieuws/oproep-heb-jij-een-vraag-over-de-erkenning-van-clement-vandenkerckhove-stel-ze-hier~ae097c9b/",
-          "publishedDate": "Tue, 18 Aug 2026 19:02:00 GMT",
-          "description": "Prins Laurent (62) heeft Cl&#233;ment Vandenkerckhove (26), de zoon van Wendy Van Wanten (66), &lt;a href=&quot;https://www.hln.be/royalty/prins-laurent-erkent-zijn-zoon-nu-ook-officieel-clement-wordt-prins-van-be ..."
-        },
-        {
-          "title": "&quot;Binnen gezin Laurent en Claire opgenomen worden, is andere zaak&quot;",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/video/productie/gesprek-met-wim-13-13-17-aeb1b0eb-14190234",
-          "publishedDate": "Tue, 18 Aug 2026 17:00:00 GMT",
-          "description": "Na zijn onthullend persbericht in september 2025 heeft prins Laurent (62) nu ook bij de burgerlijke stand Cl&#233;ment Vandenkerckhove (26) officieel als zijn kind erkend. Welke gevolgen heeft dat voor de ..."
-        },
-        {
-          "title": "Prins Laurent erkent Cl&#233;ment nu ook officieel als zijn zoon",
-          "source": "BRUZZ",
-          "url": "https://www.bruzz.be/actua/samenleving/prins-laurent-erkent-clement-nu-ook-officieel-als-zijn-zoon-2026-08-19",
-          "publishedDate": "Tue, 18 Aug 2026 17:00:00 GMT",
-          "description": "Prins Laurent heeft zijn buitenechtelijke zoon Cl&#233;ment Vandenkerckhove, kind van Wendy Van Wanten, officieel erkend bij de burgerlijke stand. Belgi&#235; krijgt zo een nieuwe prins."
-        },
-        {
-          "title": "Wendy Van Wanten",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/tag/wendy-van-wanten/",
-          "publishedDate": "Sun, 14 Jun 2026 08:19:00 GMT",
-          "description": "PremiumAmber en Dylan halen met ‘Perron geluk’ top van Vlaamse hitparade: “Gebaseerd op ontmoeting op stationsperron in Deinze” Amber Verleyen (33) uit Deinze en haar man Dylan Vanholme (41 en zoon ..."
-        }
-      ]
-    },
-    {
-      "keyword": "christiaan bauer",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Christiaan Bauer viert verjaardag: ’25 jaar vol herinneringen en soms een beetje loslaten’",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/entertainment/sterren/christiaan-bauer-viert-verjaardag-25-jaar-vol-herinneringen-en-soms-een-beetje-loslaten/157681951.html",
-          "publishedDate": "Tue, 23 Jun 2026 12:04:00 GMT",
-          "description": "Op sociale media zet Mariska haar zoon uitgebreid in het zonnetje. Bij een reeks foto’s van hen samen staat ze stil bij het feit dat het ’kleine jongetje dat ooit mijn hand vasthield’ inmiddels een ..."
-        },
-        {
-          "title": "Bauers zien vervolg realityserie toch niet zitten: ’Misschien over 20 jaar weer’",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/entertainment/media/bauers-zien-vervolg-realityserie-toch-niet-zitten-misschien-over-20-jaar-weer/64335812.html",
-          "publishedDate": "Sat, 15 Jun 2024 15:16:00 GMT",
-          "description": "Met wekelijks meer dan 1,5 miljoen kijkers leek een vervolg op De Bauers - 20 jaar later slechts een kwestie van tijd. Niets is minder waar, zo blijkt uit een interview met Frans en Christiaan Bauer ..."
-        },
-        {
-          "title": "Mijn hart ging uit naar Christiaan Bauer: was dit niet een beetje snel?",
-          "source": "AD",
-          "url": "https://www.ad.nl/moerdijk/mijn-hart-ging-uit-naar-christiaan-bauer-was-dit-niet-een-beetje-snel~af23eeb0/?slug_rd=1",
-          "publishedDate": "Thu, 29 Jan 2026 04:25:00 GMT",
-          "description": "Ergens in de loop der jaren hebben berichten over het liefdesleven van bekende Nederlanders een plek gekregen tussen ons journalistieke nieuws. Je kunt daar iets van vinden. Feit is: deze berichten ..."
-        },
-        {
-          "title": "Christiaan Bauer weer gelukkig in de liefde: ‘Ken haar vanaf de kleuterklas’",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/show/christiaan-bauer-weer-gelukkig-in-de-liefde-ken-haar-vanaf-de-kleuterklas~a76ce92f/",
-          "publishedDate": "Tue, 20 Jan 2026 22:04:00 GMT",
-          "description": "„We hebben het heel leuk”, aldus Christiaan in het NPO Sterren NL-programma over zijn nieuwe vriendin. Aan RTL Boulevard bevestigt hij dat het gaat om Rosalie. De twee komen allebei uit Fijnaart en ..."
-        },
-        {
-          "title": "Christiaan Bauer feliciteert 'beste vriend' en vader Frans",
-          "source": "Nieuws",
-          "url": "https://nieuws.nl/entertainment/christiaan-bauer-feliciteert-beste-vriend-en-vader-frans",
-          "publishedDate": "Tue, 30 Dec 2025 06:09:00 GMT",
-          "description": "Frans Bauer viert dinsdag zijn 52e verjaardag. Op Instagram staat zoon Christiaan stil bij de heuglijke dag. &quot;Mijn vader, mijn beste vriend, en degene die altijd gelijk heeft (of in elk geval denkt te ..."
-        },
-        {
-          "title": "Christiaan Bauer bevestigt relatiebreuk: 'Moeilijk om afscheid van te nemen'",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-nl/familie-en-relaties/daten/christiaan-bauer-bevestigt-relatiebreuk-moeilijk-om-afscheid-van-te-nemen/ar-AA1SXjq7",
-          "publishedDate": "Wed, 24 Dec 2025 01:17:00 GMT",
-          "description": "Christiaan en Kim waren ruim vier jaar samen. Kim werd een vast gezicht binnen de familie Bauer en verscheen zelfs in de realityserie De Bauers. Ondanks zijn gebroken hart gaat de zangcarri&#232;re van ..."
-        },
-        {
-          "title": "Chris Bauer (23) in de voetsporen van vader Frans: dit is zijn nieuwe hit",
-          "source": "AD",
-          "url": "https://www.ad.nl/moerdijk/chris-bauer-23-in-de-voetsporen-van-vader-frans-dit-is-zijn-nieuwe-hit~ad1f4765/",
-          "publishedDate": "Fri, 16 May 2025 05:25:00 GMT",
-          "description": "FIJNAART - Of het nou in de krant, op tv, de radio of online muziekkanalen is: Christiaan Bauer (23) is dezer dagen niet weg te slaan uit de schijnwerpers. De carri&#232;re van de man die nog thuis in ..."
-        },
-        {
-          "title": "Christiaan Bauer weet carri&#232;repad nog niet",
-          "source": "Nieuws",
-          "url": "https://nieuws.nl/entertainment/christiaan-bauer-weet-carrierepad-nog-niet",
-          "publishedDate": "Fri, 28 Mar 2025 12:00:00 GMT",
-          "description": "Christiaan Bauer weet nog niet of hij zijn vader achterna gaat in de showbizzwereld of toch kiest voor een kantoorbaan. &quot;De tijd gaat het ons vertellen. Ik heb nog geen idee&quot;, zei de 23-jarige zoon ..."
-        },
-        {
-          "title": "Christiaan Bauer tekent contract bij platenmaatschappij van Jan Smit in Fijnaart",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/4626530/christiaan-bauer-tekent-contract-bij-platenmaatschappij-van-jan-smit",
-          "publishedDate": "Wed, 15 Jan 2025 09:32:00 GMT",
-          "description": "Christiaan Bauer heeft een contract getekend bij de platenmaatschappij van zanger Jan Smit, Vosound. Dat hebben de platenmaatschappij en de zoon van Frans Bauer woensdag bekendgemaakt via Instagram."
-        },
-        {
-          "title": "Frans Bauer is muzikale mentor voor zoon Christiaan: 'Maar hij pusht niet' in Eindhoven",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/4494437/frans-bauer-is-muzikale-mentor-voor-zoon-christiaan-maar-hij-pusht-niet",
-          "publishedDate": "Sun, 23 Jun 2024 12:29:00 GMT",
-          "description": "Chris Bauer, de oudste zoon van Frans en Mariska Bauer, is aan zijn muzikale carri&#232;re begonnen met de single Vlinders. Het zag er voor de buitenwereld niet altijd naar uit dat Chris ook de muziek in ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "frontale botsing",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "Zeker 23 doden bij botsing tussen busje en vrachtwagen in Brazili&#235;",
@@ -338,13 +136,6 @@
           "description": "Op de N455 bij Boskoop is woensdagochtend een 41-jarige man uit Zoeterwoude om het leven gekomen. Dat heeft de politie bekendgemaakt. De auto waarin het slachtoffer zat, botste frontaal op een vrachtw ..."
         },
         {
-          "title": "Hulpdiensten rukken uit voor frontale aanrijding in Niel: &#233;&#233;n bestuurder naar ziekenhuis",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/niel/hulpdiensten-rukken-uit-voor-frontale-aanrijding-in-niel-een-bestuurder-naar-ziekenhuis~a6b868d1/",
-          "publishedDate": "Tue, 18 Aug 2026 22:35:00 GMT",
-          "description": "In de Antwerpsestraat in Niel, ter hoogte van de kruising met de Edward Claessenslaan, is woensdagmiddag omstreeks 15.30 uur een zwaar verkeersongeval gebeurd. Twee personenwagens kwamen er frontaal m ..."
-        },
-        {
           "title": "Twee gewonden bij frontale botsing in Belfeld",
           "source": "De Limburger",
           "url": "https://www.limburger.nl/regio/venlo/belfeld/twee-gewonden-bij-frontale-botsing-in-belfeld/160200440.html",
@@ -357,26 +148,13 @@
           "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/dode-frontale-botsing-beveren-kruibeke-zwijndrecht/",
           "publishedDate": "Thu, 06 Aug 2026 12:50:00 GMT",
           "description": "Bij een frontale botsing tussen twee voertuigen in Beveren-Kruibeke-Zwijndrecht is een bestuurder om het leven gekomen. Dat bevestigt het parket van Oost-Vlaanderen, dat een verkeersdeskundige heeft a ..."
-        }
-      ]
-    },
-    {
-      "keyword": "schaduwoorlog",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Poetin begint wanhopig te worden, en dat is gevaarlijk",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/luister/poetin-begint-wanhopig-te-worden-en-dat-is-gevaarlijk~b16d9582/",
-          "publishedDate": "Wed, 19 Aug 2026 07:34:00 GMT",
-          "description": "Het gonst ervan bij de Europese veiligheidsdiensten: de Russische president Vladimir Poetin zou binnenkort wel eens de Navo kunnen gaan testen. Klopt dat, en waar blijkt dat dan uit? In de eerste afle ..."
         },
         {
-          "title": "Schaduwoorlog: Wat is de rol van ‘CyberCom’ in de ontvoering van Maduro?",
-          "source": "Volkskrant",
-          "url": "https://www.volkskrant.nl/podcast/de-volkskrant-elke-dag/schaduwoorlog-wat-is-de-rol-van-cybercom-in-de-ontvoering-van-maduro/",
-          "publishedDate": "Thu, 08 Jan 2026 07:32:00 GMT",
-          "description": "In het holst van de nacht werden de Venezolaanse president Nicol&#225;s Maduro en zijn vrouw afgelopen weekend van hun bed gelicht. Hoe werd deze bliksemactie van het Amerikaanse leger voorbereid? En welke ..."
+          "title": "Jonge vrouw (23) overleden bij frontale botsing nabij Voeren: bestuurder had 3,3 promille in het bloed",
+          "source": "Het Belang van Limburg",
+          "url": "https://www.hbvl.be/regio/limburg/voeren/jonge-vrouw-23-overleden-bij-frontale-botsing-nabij-voeren-bestuurder-had-33-promille-in-het-bloed/158682769.html",
+          "publishedDate": "Mon, 13 Jul 2026 16:45:00 GMT",
+          "description": "Op de weg van Moelingen naar Battice in Dalhem, net over de grens met Voeren, is maandagavond rond 21.15 uur een dodelijk ongeval gebeurd. Twee voertuigen botsten er frontaal. Een 23-jarige vrouw uit ..."
         }
       ]
     },
@@ -384,6 +162,13 @@
       "keyword": "leon bailey",
       "trafficLabel": "5K+",
       "articles": [
+        {
+          "title": "Leon Bailey van Aston Villa liet villa die hij huurde in Belgi&#235; compleet verwaarloosd achter, maar weigert nu de schade te betalen",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/voetbal/leon-bailey-van-aston-villa-liet-villa-die-hij-huurde-in-belgie-compleet-verwaarloosd-achter-maar-weigert-nu-de-schade-te-betalen/64095991.html",
+          "publishedDate": "Sat, 26 Apr 2025 05:39:00 GMT",
+          "description": "Na een jarenlange procedureslag met profvoetballer en miljonair Leon Bailey haalde in januari een verhuurder van een Genkse villa in hoger beroep zijn gelijk rond een financieel dispuut. Bailey heeft ..."
+        },
         {
           "title": "‘Ajax heeft eerste gesprek achter de rug met Leon Bailey (29)’",
           "source": "Voetbal4u",
@@ -422,7 +207,7 @@
         {
           "title": "Ajax krijgt Bailey (ex-Genk) aangeboden, aanvaller staat open voor transfer",
           "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/ajax-krijgt-bailey-ex-genk-aangeboden-aanvaller-staat-open-voor-transfer/ar-AA2aqTCH",
+          "url": "https://www.msn.com/nl-be/sport/voetbal/ajax-krijgt-bailey-ex-genk-aangeboden-aanvaller-staat-open-voor-transfer/ar-AA2aqTCH",
           "publishedDate": "Tue, 18 Aug 2026 23:30:00 GMT",
           "description": "Leon Bailey, de voormalige aanvaller van KRC Genk, is aangeboden bij Ajax om Rode Duivel Mika Godts op te volgen. Dat meldt De Telegraaf . De Amsterdammers denken momenteel na over de eventuele komst ..."
         },
@@ -450,230 +235,316 @@
       ]
     },
     {
-      "keyword": "salmonella",
+      "keyword": "frank beard",
       "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Dairyland Produce roept jalape&#241;os terug vanwege risico op Salmonella",
-          "source": "GroentenNieuws",
-          "url": "https://www.groentennieuws.nl/article/9864327/dairyland-produce-roept-jalapenos-terug-vanwege-risico-op-salmonella/",
-          "publishedDate": "Wed, 19 Aug 2026 04:18:00 GMT",
-          "description": "Dairyland Produce, handelend onder de naam Hardie's Fresh Foods uit Houston, TX, en Dallas, TX, roept Pepper Jalapeno 5# terug, omdat het product mogelijk besmet is met Salmonella."
-        },
-        {
-          "title": "Kamp stopgezet nadat zeven Vlaamse jongeren salmonellabesmetting opliepen na zwempartij in de Ourthe",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/binnenland/kamp-stopgezet-nadat-zeven-vlaamse-jongeren-salmonellabesmetting-opliepen-na-zwempartij-in-de-ourthe/160034483.html",
-          "publishedDate": "Fri, 14 Aug 2026 06:25:00 GMT",
-          "description": "Zeven Vlaamse jongeren zijn donderdag besmet geraakt met salmonella nadat ze tijdens een vakantiekamp gingen zwemmen in de Ourthe. Dat melden de burgemeester van Ferri&#232;res en de beheerder van het vaka ..."
-        },
-        {
-          "title": "Mexicaanse jalape&#241;o's gekoppeld aan nieuwe Salmonella-uitbraak in VS",
-          "source": "GroentenNieuws",
-          "url": "https://www.groentennieuws.nl/article/9862061/mexicaanse-jalapeno-s-gekoppeld-aan-nieuwe-salmonella-uitbraak-in-vs/",
-          "publishedDate": "Tue, 11 Aug 2026 04:42:00 GMT",
-          "description": "De FDA en CDC onderzoeken een Salmonella Javiana-uitbraak in meerdere Amerikaanse staten. De uitbraak is gekoppeld aan jalape&#241;o's uit Sinaloa, Mexico. Deze pepers werden door Coast ..."
-        },
-        {
-          "title": "Kippenkwekerij roept scharreleieren terug wegens mogelijke aanwezigheid van salmonella, onder meer Carrefour, Colruyt en Delhaize getroffen",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/binnenland/kippenkwekerij-roept-scharreleieren-terug-wegens-mogelijke-aanwezigheid-van-salmonella-onder-meer-carrefour-colruyt-en-delhaize-getroffen/159861660.html",
-          "publishedDate": "Tue, 11 Aug 2026 02:33:00 GMT",
-          "description": "In overleg met het voedselagentschap FAVV roept Laerco BV scharreleieren terug wegens mogelijke aanwezigheid van salmonella."
-        },
-        {
-          "title": "Let op als je deze eieren in huis hebt: producent waarschuwt voor mogelijke salmonella",
-          "source": "Nieuws365",
-          "url": "https://www.nieuws365.be/voeding/let-op-als-je-deze-eieren-in-huis-hebt-producent-waarschuwt-voor-mogelijke-salmonella",
-          "publishedDate": "Tue, 11 Aug 2026 01:00:00 GMT",
-          "description": "In overleg met het Federaal Agentschap voor de Veiligheid van de Voedselketen (FAVV) heeft producent Laerco BV beslist om verschillende partijen scharreleieren uit de verkoop te halen. Er is een risic ..."
-        },
-        {
-          "title": "Scharreleieren van Laerco BV teruggeroepen wegens mogelijke aanwezigheid van salmonella",
-          "source": "VRT on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/scharreleieren-van-laerco-bv-teruggeroepen-wegens-mogelijke-aanwezigheid-van-salmonella-onder-meer-verkocht-bij-colruyt-en-delhaize/ar-AA29OOkJ",
-          "publishedDate": "Mon, 10 Aug 2026 23:55:09 GMT",
-          "description": "In overleg met het voedselagentschap FAVV roept kippenhouderij Laerco BV scharreleieren terug. In een van de stallen van de houderij is salmonella vastgesteld. Het FAVV vraagt om eieren met de betrokk ..."
-        },
-        {
-          "title": "Salmonella gevonden in diepvries cordon bleu: Aldi geeft je geld terug in Brabant",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6009402/salmonella-gevonden-in-diepvries-cordon-bleu-aldi-geeft-je-geld-terug",
-          "publishedDate": "Sat, 16 May 2026 08:54:00 GMT",
-          "description": "In de kip cordon bleu van de Aldi zit mogelijk salmonella. De supermarktketen roept het vlees daarom terug. Mensen die het hebben gekocht, kunnen de verpakking terugbrengen naar de winkel en krijgen ..."
-        },
-        {
-          "title": "Kamerbrief stijging Salmonella in de pluimveehouderij",
-          "source": "Rijksoverheid",
-          "url": "https://www.rijksoverheid.nl/documenten/2025/09/22/stijging-salmonella-in-de-pluimveehouderij",
-          "publishedDate": "Thu, 03 Apr 2025 17:00:00 GMT",
-          "description": "Minister Wiersma (LVVN) informeert de Tweede Kamer over de verhoogde aanwezigheid van Salmonella Enteritidis bij leghennen en de stijging van het aantal ziektegevallen bij mensen dat hiermee gepaard ..."
-        },
-        {
-          "title": "Waarom is Salmonella zo hardnekkig en gevaarlijk?",
-          "source": "eoswetenschap.eu",
-          "url": "https://www.eoswetenschap.eu/voeding/waarom-salmonella-zo-hardnekkig-en-gevaarlijk",
-          "publishedDate": "Tue, 23 Aug 2022 05:00:00 GMT",
-          "description": "Salmonella is een bacterie die ontsteking in je darm veroorzaakt. Hij leeft zowel buiten als in de darm, toch is zijn favoriete plek erin. Je kan besmet worden via het eten van besmet voedsel. Eens je ..."
-        },
-        {
-          "title": "Chocolade met salmonella van Callebaut in Wieze geeft aan ruim 300 gezinnen een jaar lang groene stroom",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2022/07/07/wat-gebeurt-er-met-de-salmonelle-besmette-chocolade-van-callebau/",
-          "publishedDate": "Thu, 07 Jul 2022 04:17:00 GMT",
-          "description": "De met salmonella besmette chocolade die uit de fabriek van Barry Callebaut in Wieze komt, wordt verdeeld over verschillende biogasinstallaties in Vlaanderen. De vetrijke chocolade wordt er verwerkt ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "gta 6 leaks",
       "trafficLabel": "5K+",
+      "articles": []
+    },
+    {
+      "keyword": "blikje",
+      "trafficLabel": "2K+",
       "articles": [
         {
-          "title": "Eerste actiebeelden en virtuele landkaart van GTA 6 opgedoken, week voor offici&#235;le onthulling op Netflix",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/tech/eerste-actiebeelden-en-virtuele-landkaart-van-gta-6-opgedoken-week-voor-officiele-onthulling-op-netflix~a9d3524b/",
-          "publishedDate": "Tue, 18 Aug 2026 18:32:00 GMT",
-          "description": "Beelden van de langverwachte videogame Grand Theft Auto 6 (GTA 6) lijken voortijdig op het internet te zijn beland. Dinsdagavond verschenen op diverse platforms twee video’s met vermeende gameplaybeel ..."
+          "title": "Welk blikje of flesje spritz is het lekkerste aperitief? “Eindelijk een volwassen smaak, weg uit de kleuterspeeltuin”",
+          "source": "Standaard",
+          "url": "https://www.standaard.be/inspiratie/helpdesk/welk-blikje-of-flesje-spritz-is-het-lekkerste-aperitief-eindelijk-een-volwassen-smaak-weg-uit-de-kleuterspeeltuin/158269292.html",
+          "publishedDate": "Wed, 08 Jul 2026 03:00:00 GMT",
+          "description": "Spritz is een overkoepelende term voor alle aperitieven op basis van bittere likeur, prosecco en spuitwater. In Veneti&#235; gebruiken ze bijvoorbeeld Select, op basis van rabarber, en in Noord-Itali&#235; ..."
         },
         {
-          "title": "Stop Killing Games Movement Releases Official Statement on GTA 6 Leaks",
-          "source": "Game Rant",
-          "url": "https://gamerant.com/gta-6-gameplay-leak-stop-killing-games/",
-          "publishedDate": "Wed, 19 Aug 2026 10:30:00 GMT",
-          "description": "A new GTA 6 leak controversy pulls Stop Killing Games into the spotlight as the movement pushes back against the people behind it."
+          "title": "Gevaarlijker dan je denkt: wat &#233;&#233;n blikje cola in 60 minuten met je lichaam doet",
+          "source": "panorama",
+          "url": "https://panorama.nl/artikel/687004/gevaarlijker-dan-je-denkt-wat-een-blikje-cola-in-60-minuten-met-je-lichaam-doet",
+          "publishedDate": "Sun, 24 May 2026 04:13:00 GMT",
+          "description": "We trekken hem allemaal wel eens open voor de snelle dorst, de broodnodige cafe&#239;ne-kick, of gewoon omdat die ijskoude suikerbom verdomd lekker wegtikt. Maar schijn bedriegt. Achter dat iconische rode ..."
         },
         {
-          "title": "GTA 6-lek zorgt ervoor dat Stop Killing Games-beweging afstand neemt van hackersmanifest",
-          "source": "IGN Benelux",
-          "url": "https://nl.ign.com/grand-theft-auto-vi/166514/gta-6-lek-zorgt-ervoor-dat-stop-killing-games-beweging-afstand-neemt-van-hackersmanifest",
-          "publishedDate": "Wed, 19 Aug 2026 07:18:00 GMT",
-          "description": "De Stop Killing Games-beweging neemt nadrukkelijk afstand van de groep die verantwoordelijk zegt te zijn voor de recente GTA 6-leak. Volgens de organisatie hebben de mensen achter de leak niets te mak ..."
+          "title": "Hotspot alert! Kendra, Isadee en Amij&#233; openen Shot Lifestyle &amp; Coffee: 'Koffie in een blikje'",
+          "source": "stadsbladutrecht.nl",
+          "url": "https://indebuurt.nl/amsterdam/bedrijvigheid/ondernemer-uitgelicht/hotspot-alert-kendra-isadee-en-amije-openen-shot-lifestyle-coffee-koffie-in-een-blikje~414480/",
+          "publishedDate": "Sun, 04 Jan 2026 22:34:00 GMT",
+          "description": "Zelfs op een gewone donderdagmiddag is het druk bij Shot Lifestyle &amp; Coffee aan de Marathonweg. Dit nieuwe pareltje opende in maart, en de blikjes met koffie en healthshots vliegen sindsdien de deur ..."
         },
         {
-          "title": "[UPDATE] GTA 6 Suffers Second Day of Leaks as Group Reportedly Responsible Continues Threats",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/gta-6-gameplay-and-map-appear-to-leak-online-group-reportedly-responsible-threatens-rockstar-over-all-digital-future",
-          "publishedDate": "Wed, 19 Aug 2026 07:18:00 GMT",
-          "description": "Grand Theft Auto 6 appears to have suffered yet another significant leak after what looks like legitimate gameplay videos and an image of the full map appeared online. Rockstar has yet to comment."
+          "title": "Controverse rondom blikje Sprite in persconferentie aan het licht gebracht: 'Mag dat niet?'",
+          "source": "gpfans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1065721/controverse-rondom-blikje-sprite-in-persconferentie-aan-het-licht-gebracht-mag-dat-niet/",
+          "publishedDate": "Thu, 23 Oct 2025 09:48:00 GMT",
+          "description": "Lando Norris scoorde een welverdiende tweede plaats in de afgelopen F1 Grand Prix van de Verenigde Staten. Hij was doodop en de McLaren-coureur wilde maar al te graag wat drinken tijdens de ..."
         },
         {
-          "title": "Despite Leaks, Rockstar Has Already Made Over $400 Million From GTA 6 Pre-Orders",
-          "source": "FandomWire",
-          "url": "https://fandomwire.com/rockstar-has-made-over-400-million-from-gta-6/",
-          "publishedDate": "Wed, 19 Aug 2026 06:04:00 GMT",
-          "description": "GTA 6 being all over the news is nothing new at this point, but the past couple of days have been particularly interesting. Surfing the internet right now are alleged leaks of the upcoming title that ..."
+          "title": "Dagelijks een blikje (light) frisdrank drinken, verhoogt kans op dodelijke leverziekte met 60 procent",
+          "source": "metronieuws",
+          "url": "https://www.metronieuws.nl/lifestyle/fit-gezond/2025/10/frisdrank-verhoogt-kans-leverziekte-xyz/",
+          "publishedDate": "Fri, 10 Oct 2025 06:02:00 GMT",
+          "description": "Dat het drinken van frisdrank niet goed is voor je gezondheid, is algemeen bekend. Maar wist je dat je met slechts &#233;&#233;n blikje frisdrank per dag – of dat nu light is of niet – maar liefst 60 procent ..."
         },
         {
-          "title": "GTA 6 Story Cutscenes Leak Online Three Months Before Release",
-          "source": "VICE",
-          "url": "https://www.vice.com/en/article/gta-6-story-cutscenes-leak-online/",
-          "publishedDate": "Wed, 19 Aug 2026 03:34:00 GMT",
-          "description": "GTA 6 story cutscenes have leaked online three months before release following a major hack targeting Rockstar Games."
+          "title": "Blikje in plaats van kikker: fotograaf legt vast hoe ooievaar afval aan jong voedert in Diest",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2025/07/30/ooievaar-blikje-webbekoms-broek-diest/",
+          "publishedDate": "Wed, 30 Jul 2025 06:24:00 GMT",
+          "description": "Nietsvermoedend voedert een ooievaarskoppel zijn jong, maar in plaats van een muis of kikker krijgt het kuiken een blikje voorgeschoteld. Een fotograaf legde het tafereel vast in het Webbekoms Broek ..."
         },
         {
-          "title": "Leak: Gameplaybeelden en volledige map van GTA 6 zijn gelekt",
-          "source": "Gameliner",
-          "url": "https://gameliner.nl/nieuws/leak-gameplaybeelden-en-volledige-map-van-gta-6-zijn-gelekt/56147",
-          "publishedDate": "Wed, 19 Aug 2026 02:09:00 GMT",
-          "description": "Gameplay en de volledige map van GTA 6 zijn gelekt. Het lek toont onder meer Jason in zijn dagelijkse leven. Take-Two lijkt de beelden offline te halen."
+          "title": "Spoiler alert: jouw naam is straks weer te vinden op een blikje Coca-Cola",
+          "source": "TAGMAG",
+          "url": "https://tagmag.news/feed/887175-spoiler-alert-jouw-naam-is-straks-weer-te-vinden-op-een-blikje-coca-cola/",
+          "publishedDate": "Thu, 27 Mar 2025 00:31:00 GMT",
+          "description": "Yes, het is weer zover: binnenkort scannen we de rekken af om onze naam (en die van onze besties) terug te vinden op een blikje Coca-Cola. De iconische ‘Share a Coke’-campagne maakt een comeback, en ..."
         },
         {
-          "title": "GTA 6-leakers dreigen met meer leaks en delen mogelijk volledige map",
-          "source": "IGN Benelux on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/gaming/gta-6-leakers-dreigen-met-meer-leaks-en-delen-mogelijk-volledige-map/ar-AA2ar3V2",
-          "publishedDate": "Wed, 19 Aug 2026 01:57:00 GMT",
-          "description": "De groep achter de recente GTA 6-leaks heeft niet alleen gameplaybeelden verspreid, maar lijkt ook een duidelijke boodschap te hebben voor Rockstar en andere grote uitgevers. Op een website die wordt ..."
+          "title": "Panja Paloma: zomerse smaken in een blikje",
+          "source": "Mixed Grill",
+          "url": "https://mixedgrill.nl/panja-paloma-zomerse-smaken-in-een-blikje/",
+          "publishedDate": "Wed, 07 Aug 2024 21:45:00 GMT",
+          "description": "Waterkant, de populaire hotspot aan de Amsterdamse Singelgracht, en Brouwerij ’t IJ hebben de handen ineen geslagen om een verfrissende nieuwe (bier)cocktail te cre&#235;ren: de Panja Paloma. Deze unieke ..."
         },
         {
-          "title": "GTA 6 gameplay en map gelekt: dit zie je in de video’s",
-          "source": "Manners",
-          "url": "https://www.manners.nl/gta-6-leak-maps-gameplay/",
-          "publishedDate": "Tue, 18 Aug 2026 23:49:00 GMT",
-          "description": "De grootste GTA 6-leak sinds 2022: twee video's van gameplay en de complete kaart van Leonida. Negen dagen voordat Rockstar zijn eigen grootse onthulling op Netflix dropt."
+          "title": "NU+ Voor je statiegeld mag het blikje wel gedeukt zijn, maar niet geplet",
+          "source": "NU",
+          "url": "https://www.nu.nl/economie/6255364/voor-je-statiegeld-mag-het-blikje-wel-gedeukt-zijn-maar-niet-geplet.html",
+          "publishedDate": "Wed, 15 Mar 2023 22:12:00 GMT",
+          "description": "Vanaf 1 april is het zover: dan zit er na jaren van discussie en nog eens een paar maanden uitstel echt statiegeld op blikjes. Maar liefst 2,5 miljard blikjes gaan er jaarlijks over de toonbank, een ..."
         },
         {
-          "title": "GTA 6 leaks: Map and gameplay potentially revealed",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/gta-6-leaks-map-gamplay-revealed-ahead-of-netflix-preview",
-          "publishedDate": "Tue, 18 Aug 2026 19:00:00 GMT",
-          "description": "New footage and a map image tied to a group called Cyberleek have spread online just over a week before an official first look on Netflix."
+          "title": "Max Verstappen krijgt eigen Red Bull blikje",
+          "source": "gpfans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/619/max-verstappen-krijgt-eigen-red-bull-blikje/",
+          "publishedDate": "Wed, 17 May 2017 02:24:00 GMT",
+          "description": "Nog heel even geduld en dan kunnen de echte Max Verstappen-fans genieten van een blikje Red Bull met daarop de prints van hun favoriete coureur. Red Bull Racing introduceert tijdens de Jumbo Racedagen ..."
         }
       ]
     },
     {
-      "keyword": "zz top",
-      "trafficLabel": "5K+",
+      "keyword": "wout weghorst",
+      "trafficLabel": "2K+",
       "articles": [
         {
-          "title": "Tussen de mannen met baarden van ZZ Top drumde hij strak en hard, maar met lome, zuidelijke vertraging",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/muziek/tussen-de-mannen-met-baarden-van-zz-top-drumde-hij-strak-en-hard-maar-met-lome-zuidelijke-vertraging~b28911dc/",
-          "publishedDate": "Wed, 19 Aug 2026 08:19:00 GMT",
-          "description": "Zijn gezondheid haperde al een tijdje, geheel onverwacht komt het nieuws over het overlijden van Frank Beard niet. De drummer van ZZ Top bepaalde 57 jaar de strakke hartslag van de Texaanse rockband i ..."
-        },
-        {
-          "title": "Drummer Frank Beard van ZZ Top overleden, de enige van de drie zonder baard",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627439-drummer-frank-beard-van-zz-top-overleden-de-enige-van-de-drie-zonder-baard",
-          "publishedDate": "Tue, 18 Aug 2026 15:38:00 GMT",
-          "description": "Drummer Frank Beard van de Amerikaanse rockband ZZ Top is op 77-jarige leeftijd overleden. Hij kampte de afgelopen tijd met gezondheidsproblemen en overleed in zijn ranch in Texas, meldt de band."
-        },
-        {
-          "title": "ZZ Top-drummer Frank Beard (77) overleden",
+          "title": "'Het is best logisch dat Wout Weghorst niet scoort voor FC Twente'",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/muziek/6406754/zz-top-drummer-frank-beard-77-overleden.html",
-          "publishedDate": "Tue, 18 Aug 2026 15:32:00 GMT",
-          "description": "Frank Beard, de drummer van de Amerikaanse rockband ZZ Top, is dinsdag op 77-jarige leeftijd overleden. Dat heeft een woordvoerder van de muzikant bekendgemaakt. Beard was al langere tijd ziek. De ..."
+          "url": "https://www.nu.nl/329388/video/het-is-best-logisch-dat-wout-weghorst-niet-scoort-voor-fc-twente.html",
+          "publishedDate": "Mon, 17 Aug 2026 10:27:00 GMT",
+          "description": "In de podcast Afspelen van NU.nl bespreken voetbalverslaggevers Rypke Bakker en Stan Wagtman de eerste weken van Wout Weghorst bij FC Twente. Stan voorspelde dat de spits minimaal vijftien goals gaat ..."
         },
         {
-          "title": "ZZ Top-drummer Frank Beard op 77-jarige leeftijd overleden",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/muziek/6406754/zz-top-drummer-frank-beard-op-77-jarige-leeftijd-overleden.html",
-          "publishedDate": "Tue, 18 Aug 2026 15:32:00 GMT",
-          "description": "Frank Beard, de drummer van de Amerikaanse rockband ZZ Top, is dinsdag op 77-jarige leeftijd overleden. Dat heeft een woordvoerder van de muzikant bekendgemaakt. Beard was al langere tijd ziek."
-        },
-        {
-          "title": "ZZ Top-dummer Frank Beard (77) overleden",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/entertainment/sterren/zz-top-dummer-frank-beard-77-overleden/160204060.html",
-          "publishedDate": "Tue, 18 Aug 2026 13:04:00 GMT",
-          "description": "Frank Beard, de drummer van rockband ZZ Top, is op 77-jarige leeftijd overleden. Dat heeft een woordvoerder van de muzikant dinsdag bekendgemaakt. Beard kampte de afgelopen tijd met gezondheidsproblem ..."
-        },
-        {
-          "title": "Frank Beard (77), drummer van ZZ Top, overleden",
+          "title": "FC Twente reist zonder Wout Weghorst af naar Slowakije, Jo&#235;l Drommel krijgt kans onder de lat",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/frank-beard-77-drummer-van-zz-top-overleden~af8851d0/",
-          "publishedDate": "Tue, 18 Aug 2026 06:33:00 GMT",
-          "description": "Frank Beard, de drummer van rockband ZZ Top, is op 77-jarige leeftijd overleden. Dat heeft een woordvoerder van de muzikant dinsdag bekendgemaakt. Beard kampte de afgelopen tijd met gezondheidsproblem ..."
+          "url": "https://www.ad.nl/voetbal/fc-twente-reist-zonder-wout-weghorst-af-naar-slowakije-joel-drommel-krijgt-kans-onder-de-lat~a21083d5/",
+          "publishedDate": "Thu, 13 Aug 2026 12:00:00 GMT",
+          "description": "FC Twente speelt in het uitduel met het Slowaakse FC DAC 1904 in de voorrondes van de Conference League zonder keeper Lars Unnerstall en spits Wout Weghorst. Trainer John van den Brom ziet kans om het ..."
         },
         {
-          "title": "ZZ Top-drummer Frank Beard overleden op 77-jarige leeftijd",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/video/zz-top-drummer-frank-beard-overleden-op-77-jarige-leeftijd/160209779.html",
-          "publishedDate": "Tue, 18 Aug 2026 03:38:00 GMT",
-          "description": "Drummer Frank Beard van de Amerikaanse rockband ZZ Top is op 77-jarige leeftijd overleden. Beard kampte de afgelopen tijd met gezondheidsproblemen en overleed in een hospice op een ranch in Texas."
+          "title": "FC Twente laat Weghorst thuis voor Conference League-return in Slowakije",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6406196/fc-twente-laat-weghorst-thuis-voor-conference-league-return-in-slowakije.html",
+          "publishedDate": "Thu, 13 Aug 2026 03:54:00 GMT",
+          "description": "FC Twente is zonder spits Wout Weghorst afgereisd naar Slowakije voor de return in de voorronde van de Conference League. De club uit Enschede won de eerste wedstrijd tegen DAC 1904 met liefst 6-0. Oo ..."
         },
         {
-          "title": "Voor de ZZ Top-sound was de backbeat van Frank Beard cruciaal",
-          "source": "OOR",
-          "url": "https://oor.nl/news/de-backbeat-van-frank-beard-was-cruciale-voor-de-zz-top-sound/",
-          "publishedDate": "Wed, 19 Aug 2026 01:17:00 GMT",
-          "description": "Frank Beard, de drummer die ruim een halve eeuw de motor vormde van ZZ Top, is maandag op 77-jarige leeftijd overleden. Hij stierf in zijn ranch in Richmond, Texas, omringd door familie. Beard kampte ..."
+          "title": "Van Hanegem velt oordeel over Weghorst: 'Denk dat hij dat onderschat heeft'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/van-hanegem-velt-oordeel-over-weghorst-denk-dat-hij-dat-onderschat-heeft/ar-AA2aubXH",
+          "publishedDate": "Wed, 19 Aug 2026 09:40:00 GMT",
+          "description": "Willem van Hanegem denkt dat Wout Weghorst zijn vorm nog wel gaat vinden bij FC Twente. Dat vertelt de oud-voetballer in VP's Willem &amp; Wessel . Ook neemt hij het op voor Sam Lammers, die op dit moment ..."
         },
         {
-          "title": "Rockband ZZ Top verliest drummer: Frank Beard (77) overleden na gezondheidsproblemen",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/celebrities/rockband-zz-top-verliest-drummer-frank-beard-77-overleden-na-gezondheidsproblemen~ae957f84/",
-          "publishedDate": "Tue, 18 Aug 2026 15:15:00 GMT",
-          "description": "Frank Beard, de drummer die meer dan een halve eeuw het ritmische hart vormde van de rockband ZZ Top, is overleden. Dat heeft een woordvoerder van de muzikant dinsdag bekendgemaakt. Beard kampte de af ..."
+          "title": "Kritiek op tegenvallende Wout Weghorst (34) bij FC Twente neemt toe: 'Duidelijk dat het beter moet'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/eredivisie-voetbal/nieuws/kritiek-op-tegenvallende-wout-weghorst-34-bij-fc-twente-neemt-toe-duidelijk-dat-het-beter-moet-2026081913360910287/",
+          "publishedDate": "Wed, 19 Aug 2026 08:36:00 GMT",
+          "description": "FC Twente kent een wisselvallige start van het seizoen en dat leidde de afgelopen weken tot de nodige kritiek. Niet alleen trainer John van den Brom kreeg ervan langs, ook Wout Weghorst en Thomas van ..."
         },
         {
-          "title": "Frank Beard (77) overleden, drummer van Amerikaanse rockband ZZ Top",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/18/frank-beard-drummer-zz-top-overleden/",
-          "publishedDate": "Tue, 18 Aug 2026 13:14:00 GMT",
-          "description": "De Amerikaanse muzikant Frank Beard is overleden. Hij was de drummer van het Amerikaanse boogie- en rocktrio ZZ Top, dat in de jaren 70 en 80 grote successen kende. De rockband is momenteel op tour en ..."
+          "title": "FC Twente: zoeken naar de klik met Weghorst en supporters",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/fc-twente-zoeken-naar-de-klik-met-weghorst-en-supporters/ar-AA2atrU9",
+          "publishedDate": "Wed, 19 Aug 2026 08:00:00 GMT",
+          "description": "In aanloop naar de play-offwedstrijden tegen FK Qarabag voor deelname aan de Conference League laten trainer John van den Brom en middenvelder Ramiz Zerrouki zich uit over het spel van de ploeg, de ro ..."
+        },
+        {
+          "title": "Van den Brom vertelt over doelpuntendroogte Weghorst: 'Voor mij niet zo gek'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/van-den-brom-vertelt-over-doelpuntendroogte-weghorst-voor-mij-niet-zo-gek/ar-AA2atkF3",
+          "publishedDate": "Wed, 19 Aug 2026 07:56:00 GMT",
+          "description": "John van den Brom maakt zich geen zorgen om het feit dat de goals vooralsnog uitblijven bij Wout Weghorst. De Oranje-international heeft zijn eerste vijf wedstrijden voor FC Twente er inmiddels op zit ..."
+        },
+        {
+          "title": "Wouter Goes: &quot;Weghorst heeft dat meer met mij dan ik met hem&quot;",
+          "source": "Twentefans.nl",
+          "url": "https://www.twentefans.nl/wouter-goes-weghorst-heeft-dat-meer-met-mij-dan-ik-met-hem/",
+          "publishedDate": "Fri, 14 Aug 2026 17:33:00 GMT",
+          "description": "Lees nu | Wouter Goes ligt regelmatig onder een vergrootglas bij de Nederlandse arbitrage. De verdediger van AZ doet er alles aan om zijn ..."
+        },
+        {
+          "title": "FC Twente houdt Wout Weghorst buiten de selectie",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/fc-twente-houdt-wout-weghorst-buiten-de-selectie",
+          "publishedDate": "Thu, 13 Aug 2026 08:02:00 GMT",
+          "description": "FC Twente houdt Wout Weghorst buiten de selectie voor het Europese duel met DAC 1904. Ook doelman Lars Unnerstall krijgt rust van trainer John van den Brom."
+        },
+        {
+          "title": "Wout Weghorst gesteund: &quot;Hij wordt helemaal niet goed gebruikt&quot;",
+          "source": "Twentefans.nl",
+          "url": "https://www.twentefans.nl/wout-weghorst-gesteund-hij-wordt-helemaal-niet-goed-gebruikt/",
+          "publishedDate": "Wed, 12 Aug 2026 03:26:00 GMT",
+          "description": "Lees nu | Wout Weghorst heeft zijn draai bij FC Twente nog niet helemaal gevonden. De spits kwam deze zomer naar Enschede en maakte inmiddels ..."
+        }
+      ]
+    },
+    {
+      "keyword": "emma wortelboer",
+      "trafficLabel": "2K+",
+      "articles": [
+        {
+          "title": "Emma Wortelboer deelt naam van pasgeboren dochter",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/emma-wortelboer-deelt-naam-van-pasgeboren-dochter/ar-AA2aug23",
+          "publishedDate": "Wed, 19 Aug 2026 08:04:30 GMT",
+          "description": "Emma Wortelboer heeft de naam van haar tweede kind bekendgemaakt op Instagram. Eerder woensdag liet Emma haar volgers weten dat ze is bevallen van haar tweede kind."
+        },
+        {
+          "title": "Emma Wortelboer bevallen van tweede dochter",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/achterklap/6406800/emma-wortelboer-bevallen-van-tweede-dochter.html",
+          "publishedDate": "Wed, 19 Aug 2026 05:27:00 GMT",
+          "description": "Emma Wortelboer is bevallen van haar tweede kind. De 29-jarige presentatrice maakt woensdag op Instagram bekend dat ze een tweede dochter heeft gekregen."
+        },
+        {
+          "title": "Emma Wortelboer bevallen van tweede kind: 'Het bevielen beval wel'",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5640567/emma-wortelboer-bevallen-van-tweede-kind",
+          "publishedDate": "Wed, 19 Aug 2026 03:07:00 GMT",
+          "description": "Emma Wortelboer (29) is voor de tweede keer moeder geworden. Dat maakt de presentator bekend op Instagram, waar ze foto's deelt van de bevalling en haar pasgeboren baby."
+        },
+        {
+          "title": "Emma Wortelboer voor de tweede keer moeder geworden: ‘Ze heet Annie’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/emma-wortelboer-voor-de-tweede-keer-moeder-geworden-ze-heet-annie~a14d54ac/",
+          "publishedDate": "Wed, 19 Aug 2026 01:10:00 GMT",
+          "description": "Emma Wortelboer is bevallen van haar tweede kind. ‘Het bevielen beval wel’, schrijft de 29-jarige presentatrice woensdag op Instagram. Ze deelt er een aantal foto’s bij waarop ze met haar zwangere bui ..."
+        },
+        {
+          "title": "Emma Wortelboer noemt pasgeboren dochter Annie",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/emma-wortelboer-noemt-pasgeboren-dochter-annie",
+          "publishedDate": "Wed, 19 Aug 2026 10:04:00 GMT",
+          "description": "Emma Wortelboer heeft de naam van haar tweede kind bekendgemaakt. &quot;Trouwennsss ze heet Annie&quot;, schrijft de 29-jarige presentatrice bij een foto van een babyvoet op Instagram. Eerder woensdag liet Wort ..."
+        },
+        {
+          "title": "Even loeren: dit is de vriend van presentatrice Emma Wortelboer",
+          "source": "FEM FEM (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/even-loeren-dit-is-de-vriend-van-presentatrice-emma-wortelboer/ar-AA28QOar",
+          "publishedDate": "Wed, 19 Aug 2026 07:55:46 GMT",
+          "description": "Emma Wortelboer heeft bekendgemaakt dat ze in verwachting is van haar tweede kindje. Ze kreeg al eerder een dochter met ..."
+        },
+        {
+          "title": "Emma Wortelboer bevallen van tweede kind",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/emma-wortelboer-bevallen-van-tweede-kind",
+          "publishedDate": "Wed, 19 Aug 2026 05:13:00 GMT",
+          "description": "Emma Wortelboer is bevallen van haar tweede kind. &quot;Het bevielen beval wel&quot;, schrijft de 29-jarige presentatrice woensdag op Instagram. Ze deelt er een aantal foto's bij waarop ze met haar zwangere bui ..."
+        },
+        {
+          "title": "Emma Wortelboer vreest voor de dag dat dochter haar opzoekt op Google: 'Dat is een h&#233;&#233;l slecht idee'",
+          "source": "panorama",
+          "url": "https://panorama.nl/artikel/639831/emma-wortelboer-vreest-voor-de-dag-dat-dochter-haar-opzoekt-op-google-dat-is-een-heel-slecht-idee",
+          "publishedDate": "Wed, 16 Apr 2025 07:16:00 GMT",
+          "description": "De voormalig Spuiten en Slikken-presentatrice kijkt niet uit naar het moment dat haar dochter oud genoeg is om haar moeder op te zoeken op het internet. De 28-jarige Wortelboer is te gast in het ..."
+        },
+        {
+          "title": "Babynieuws! Emma Wortelboer is bevallen en d&#237;t is de prachtige naam van haar eerste kindje",
+          "source": "Cosmopolitan",
+          "url": "https://www.cosmopolitan.com/nl/entertainment/a60187040/emma-wortelboer-bevallen-eerste-kindje-naam/",
+          "publishedDate": "Wed, 13 Mar 2024 06:59:00 GMT",
+          "description": "Je kunt het afgelopen oktober niet gemist hebben. Emma Wortelboer maakte op iconische wijze bekend in verwachting te zijn; ze verscheen helemaal &#224; la Rihanna met haar blote zwangere buik op de rode ..."
+        },
+        {
+          "title": "Emma Wortelboer over haar zwangerschap: ‘Na de seks voelde ik het gelijk: ik ben zwanger’",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/mezza/emma-wortelboer-over-haar-zwangerschap-na-de-seks-voelde-ik-het-gelijk-ik-ben-zwanger~a6afbb25/",
+          "publishedDate": "Fri, 19 Jan 2024 02:15:00 GMT",
+          "description": "En zo wist ik net wat eerder dan de rest van Nederland dat onze ‘muze’ moeder werd. Het leek mij een goed idee met haar van gedachten te wisselen over een mooie fotoshoot, lekker rauw en met een vette ..."
+        }
+      ]
+    },
+    {
+      "keyword": "gletsjer",
+      "trafficLabel": "2K+",
+      "articles": [
+        {
+          "title": "‘Ongelooflijk verdrietig’: Nepalese gletsjer Yala is officieel gestorven",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2025/05/12/ongelooflijk-verdrietig-nepalese-gletsjer-yala-is-officieel-gestorven-a4892958",
+          "publishedDate": "Mon, 12 May 2025 08:01:00 GMT",
+          "description": "Klimaatverandering Onderzoekers hebben de Yalagletsjer in de Himalaya officieel dood verklaard. Zo lang er te weinig wordt gedaan tegen klimaatverandering, zal het zeker niet de laatste zijn die ..."
+        },
+        {
+          "title": "De laatste gletsjer in Venezuela is gesmolten. ‘Symbool voor wereldwijd smeltend ijs’",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/de-laatste-gletsjer-in-venezuela-is-gesmolten-symbool-voor-wereldwijd-smeltend-ijs~bbbc87a8/",
+          "publishedDate": "Fri, 10 May 2024 08:49:00 GMT",
+          "description": "Op 4900 meter hoog, naast de berg Pico Humboldt in Venezuela, lag jarenlang de gletsjer La Corona. ‘De Kroon’, ooit een gletsjer van 450 hectare, smolt de afgelopen vijftig jaar net als de andere zes ..."
+        },
+        {
+          "title": "Lichamen Belgen na 34 jaar teruggevonden op Zwitserse gletsjer",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/algemeen/algemeen/lichamen-belgen-na-34-jaar-teruggevonden-op-zwitserse-gletsjer/ar-AA2asftw",
+          "publishedDate": "Wed, 19 Aug 2026 03:48:00 GMT",
+          "description": "SION (ANP/BELGA) - De Zwitserse autoriteiten hebben met DNA-onderzoek de identiteit vastgesteld van twee mannen van wie de stoffelijke resten eind juli bij Saas-Grund in het kanton Valais werden gevon ..."
+        },
+        {
+          "title": "Doomsday-gletsjer op ramkoers: Dreigende zeespiegelstijging tegen de 23e eeuw",
+          "source": "Newsmonkey",
+          "url": "https://newsmonkey.be/doomsday-gletsjer-dreigende-zeespiegelstijging/",
+          "publishedDate": "Sun, 22 Sep 2024 17:41:00 GMT",
+          "description": "De Thwaites-gletsjer, beter bekend als de “Doomsday Glacier”, smelt in snel tempo. Wetenschappers waarschuwen dat dit kan leiden tot een extreme zeespiegelstijging met catastrofale gevolgen tegen de ..."
+        },
+        {
+          "title": "Het loopt fout met enorme Thwaites-gletsjer op Antarctica: “Dit kan rampzalig zijn voor wereldwijde zeespiegel”",
+          "source": "HLN",
+          "url": "https://www.hln.be/wetenschap/het-loopt-fout-met-enorme-thwaites-gletsjer-op-antarctica-dit-kan-rampzalig-zijn-voor-wereldwijde-zeespiegel~acd6193e/",
+          "publishedDate": "Sat, 29 Jun 2024 21:00:00 GMT",
+          "description": "Als een van de snelst smeltende ijsmassa’s maakt de gigantische Thwaites-gletsjer zijn bijnaam Doomsday helemaal waar. Hij dankt die naam aan het afschrikwekkende feit dat hij de zeespiegel ingrijpend ..."
+        },
+        {
+          "title": "Verwoesting dreigt vanaf Zuidpool: Thwaites-gletsjer smelt steeds sneller",
+          "source": "AD",
+          "url": "https://www.ad.nl/wetenschap/verwoesting-dreigt-vanaf-zuidpool-thwaites-gletsjer-smelt-steeds-sneller~acd6193e/",
+          "publishedDate": "Fri, 14 Jun 2024 17:00:00 GMT",
+          "description": "Als een van de snelst smeltende ijsmassa’s maakt de gigantische Thwaites-gletsjer zijn bijnaam (Doomsday) helemaal waar. Hij dankt die naam aan het afschrikwekkende gegeven dat hij de zeespiegel ..."
+        },
+        {
+          "title": "Wetenschappers waarschuwen voor onomkeerbare terugtrekking van gletsjer in West-Antarctica",
+          "source": "HLN",
+          "url": "https://www.hln.be/weer-en-wetenschap/wetenschappers-waarschuwen-voor-onomkeerbare-terugtrekking-van-gletsjer-in-west-antarctica~ad56ea01/",
+          "publishedDate": "Tue, 16 Jan 2024 22:30:00 GMT",
+          "description": "De Pine Island Glacier, deel van de West-Antarctische ijskap, onderging recent aanzienlijke veranderingen. Men zag hoe de smelt van de gletsjer versnelde waardoor hij zich terugtrok en dunner werd."
+        },
+        {
+          "title": "Niet abnormaal dat resten alpinist pas na 38 jaar weer opduiken: &quot;Een gletsjer neemt en een gletsjer geeft ook terug&quot;",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2023/07/28/niet-abnormaal-dat-resten-alpinist-pas-na-38-jaar-weer-opdoken/",
+          "publishedDate": "Fri, 28 Jul 2023 11:02:00 GMT",
+          "description": "75 jaar zou hij vandaag geweest zijn, de Duitse alpinist wiens resten onlangs zijn teruggevonden aan de voet van de Matterhorn in Zwitserland. De bergbeklimmer was sinds 1986 vermist. Dat lichamen pas ..."
+        },
+        {
+          "title": "‘Een slapende reus die wakker wordt’: de ‘doemdag’-gletsjer op Antarctica is wankeler dan ooit",
+          "source": "De Morgen",
+          "url": "https://www.demorgen.be/tech-wetenschap/een-slapende-reus-die-wakker-wordt-de-doemdag-gletsjer-op-antarctica-is-wankeler-dan-ooit~b80e6088/",
+          "publishedDate": "Wed, 02 Feb 2022 19:00:00 GMT",
+          "description": "Dat is nochtans het beeld dat we kregen toen media enkele weken geleden kopten dat de ‘doemdag-gletsjer binnen de vijf jaar dreigt te breken’. De Thwaites-gletsjer op Antarctica kreeg zijn omineuze ..."
+        },
+        {
+          "title": "Breedste gletsjer ter wereld dreigt in zee te glijden, en dat heeft mogelijk desastreuze gevolgen",
+          "source": "De Morgen",
+          "url": "https://www.demorgen.be/tech-wetenschap/breedste-gletsjer-ter-wereld-dreigt-in-zee-te-glijden-en-dat-heeft-mogelijk-desastreuze-gevolgen~bbd3e633/",
+          "publishedDate": "Thu, 16 Dec 2021 01:00:00 GMT",
+          "description": "De zogenoemde ‘doomsday-gletsjer’ aan de westkust van Antarctica baart wetenschappers opnieuw zorgen. Nieuw onderzoek heeft aangetoond aan dat de ijsschots die de breedste gletsjer ter wereld belet in ..."
         }
       ]
     }
