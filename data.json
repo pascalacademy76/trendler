@@ -1,86 +1,29 @@
 {
-  "fetchedAt": "2026-08-19T21:19:07.780Z",
+  "fetchedAt": "2026-08-19T21:48:48.950Z",
   "trends": [
     {
       "keyword": "nec",
       "trafficLabel": "50K+",
-      "articles": [
-        {
-          "title": "Champions League-droom NEC lijkt voorbij: ruime thuisnederlaag tegen Bod&#248;/Glimt",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627542-champions-league-droom-nec-lijkt-voorbij-ruime-thuisnederlaag-tegen-bodo-glimt",
-          "publishedDate": "Wed, 19 Aug 2026 13:53:00 GMT",
-          "description": "NEC krijgt in het eerste play-offduel met Bod&#248;/Glimt een lesje in effectiviteit. De Noren, vorig jaar als debutant al stuntend in de Champions League, winnen met 3-1 in Nijmegen."
-        },
-        {
-          "title": "NEC-aanvoerder Chery na pijnlijke CL-avond: 'Niet wat we voor ogen hadden'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6406879/nec-aanvoerder-chery-na-pijnlijke-cl-avond-niet-wat-we-voor-ogen-hadden.html",
-          "publishedDate": "Wed, 19 Aug 2026 02:14:00 GMT",
-          "description": "De eerste Champions League-avond in de clubhistorie draaide woensdagavond voor NEC-aanvoerder Tjaronn Chery uit op een kleine teleurstelling. Bod&#248;/Glimt won met 1-3 in Nijmegen, waardoor de competitie ..."
-        },
-        {
-          "title": "Champions League ver weg voor NEC na thuisnederlaag tegen Bod&#248;/Glimt",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6406868/champions-league-ver-weg-voor-nec-na-thuisnederlaag-tegen-bodglimt.html",
-          "publishedDate": "Wed, 19 Aug 2026 01:54:00 GMT",
-          "description": "NEC lijkt het hoofdtoernooi van de Champions League te kunnen vergeten. De Nijmegenaren gingen woensdagavond in de laatste kwalificatieronde thuis onderuit tegen het Noorse Bod&#248;/Glimt: 1-3."
-        },
-        {
-          "title": "Belangrijke week voor NEC, Ajax en FC Twente: zo laat komen Nederlandse clubs in actie in Europa",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/belangrijke-week-voor-nec-ajax-en-fc-twente-zo-laat-komen-nederlandse-clubs-in-actie-in-europa~a6173ec4/",
-          "publishedDate": "Tue, 18 Aug 2026 22:58:00 GMT",
-          "description": "NEC, Ajax en FC Twente staan voor een belangrijke week in Europa. De Nederlandse clubs hopen een grote stap te zetten naar de Europese hoofdtoernooien. Dan zullen wel de play-offs gewonnen moeten word ..."
-        },
-        {
-          "title": "Champions League ver weg: NEC ondanks opleving pijnlijk onderuit tegen Bod&#248;/Glimt",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/champions-league-ver-weg-nec-ondanks-opleving-pijnlijk-onderuit-tegen-bod%C3%B8glimt/ar-AA2avoEd",
-          "publishedDate": "Wed, 19 Aug 2026 14:14:20 GMT",
-          "description": "NEC heeft een teleurstellend heenduel in de play-offs om de Champions League tegen Bod&#248;/Glimt achter de rug. Hoewel de Nijmegenaren in de slotfase opleefden, liepen ze pijnlijk in het mes bij de Noren ..."
-        },
-        {
-          "title": "NEC op Rapport: Schreuder en vijf anderen scoren onvoldoende tegen Bod&#248;/Glimt",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/nec-op-rapport-schreuder-en-vijf-anderen-scoren-onvoldoende-tegen-bodo-glimt",
-          "publishedDate": "Wed, 19 Aug 2026 14:08:00 GMT",
-          "description": "NEC had zich het eerste duel met Bod&#248;/Glimt in de play-offs van de Champions League ongetwijfeld anders voorgesteld. De Nijmegenaren verloren in eigen huis met 1-3 van de Noren en dat levert zes onvol ..."
-        },
-        {
-          "title": "Via deze omzetting ontsnapte Bod&#248;/Glimt aan de pressie van NEC",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/via-deze-omzetting-ontsnapte-bod%C3%B8-glimt-aan-de-pressie-van-nec/ar-AA2avyKb",
-          "publishedDate": "Wed, 19 Aug 2026 13:54:23 GMT",
-          "description": "Bod&#248;/Glimt is de machine gebleken waar NEC voor vreesde: 1-3. In Nijmegen toonde Kjetil Knutsen pragmatisme door zijn gebruikelijke combinatiespel in te ruilen voor de lange bal."
-        },
-        {
-          "title": "Bod&#248;/Glimt legt NEC op pijnbank, Champions League ver weg na ruime nederlaag",
-          "source": "De Limburger",
-          "url": "https://www.limburger.nl/sport/voetbal/bod%C3%B8glimt-legt-nec-op-pijnbank-champions-league-ver-weg-na-ruime-nederlaag/160255738.html",
-          "publishedDate": "Wed, 19 Aug 2026 02:02:00 GMT",
-          "description": "De kans is groot dat de met zoveel enthousiasme onthaalde Champions League-hymne in De Goffert een eenmalige gebeurtenis gaat zijn. Defensieve fouten braken NEC op in de eerste play-off-wedstrijd van ..."
-        },
-        {
-          "title": "Teruglezen | Bod&#248;/Glimt maatje te groot voor NEC: Champions League lijkt ver weg",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/teruglezen-bodoglimt-maatje-te-groot-voor-nec-champions-league-lijkt-ver-weg",
-          "publishedDate": "Wed, 19 Aug 2026 01:56:00 GMT",
-          "description": "NEC begint met een thuiswedstrijd tegen FK Bod&#248;/Glimt aan de play-offs om een plek in het hoofdtoernooi van de Champions League. Mis niets en volg de heenwedstrijd in Nijmegen in dit liveblog van FCUp ..."
-        },
-        {
-          "title": "NEC wordt te laat wakker tegen Bod&#248;/Glimt en ziet CL uit zicht verdwijnen",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/nec-wordt-te-laat-wakker-tegen-bodoglimt-en-ziet-cl-uit-zicht-verdwijnen",
-          "publishedDate": "Wed, 19 Aug 2026 01:55:00 GMT",
-          "description": "NEC heeft in De Goffert een pijnlijke nederlaag geleden tegen Bod&#248;/Glimt in de laatste voorronde van de Champions League ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "oostenrijk",
       "trafficLabel": "20K+",
       "articles": [
+        {
+          "title": "Vakantie in Oostenrijk eindigt in drama: Nederlandse vader ziet 12-jarige zoon 30 meter naar beneden vallen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/vakantie-in-oostenrijk-eindigt-in-drama-nederlandse-vader-ziet-12-jarige-zoon-30-meter-naar-beneden-vallen~a4895468/",
+          "publishedDate": "Wed, 19 Aug 2026 00:09:00 GMT",
+          "description": "Een 12-jarige Nederlandse jongen ligt zwaargewond op de intensive care in Oostenrijk na een metersdiepe val tijdens een bergwandeling in Tirol. De tiener stortte zondagochtend over steil en rotsachtig ..."
+        },
+        {
+          "title": "‘Rijke geldschieter’ blijkt oplichter: Nederlander veroordeeld voor miljoenenfraude in Oostenrijk",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/rijke-geldschieter-blijkt-oplichter-nederlander-veroordeeld-voor-miljoenenfraude-in-oostenrijk~aca5590f/",
+          "publishedDate": "Tue, 18 Aug 2026 01:16:00 GMT",
+          "description": "Een 53-jarige Nederlander is in Oostenrijk veroordeeld tot vijf jaar gevangenisstraf wegens grootschalige oplichting en valsheid in geschrifte. Dat bevestigt een woordvoerder van de rechtbank in een s ..."
+        },
         {
           "title": "Lees alles terug over Claude en de winst van Oostenrijk op het Songfestival",
           "source": "NU.nl",
@@ -136,13 +79,6 @@
           "url": "https://www.gpblog.com/nl/nieuws/max-verstappen-in-oostenrijk-zien-racen-zo-kijk-je-live-mee-in-nederland",
           "publishedDate": "Sun, 22 Jun 2025 08:11:00 GMT",
           "description": "Na de Grand Prix van Canada reist het Formule 1-circus door naar Oostenrijk. Hoe en waar je alle sessies met Max Verstappen op de Red Bull Ring kunt volgen, zet GPblog in dit artikel voor je op een ..."
-        },
-        {
-          "title": "Waarom Oostenrijk een van de beste culinaire bestemmingen van het moment is",
-          "source": "ELLE",
-          "url": "https://www.elle.com/nl/eten/eten-drinken/a40987091/oostenrijk-culinair-regio-wenen-karinthie-niederoesterreich/",
-          "publishedDate": "Fri, 23 Sep 2022 07:02:00 GMT",
-          "description": "Hoofdstad Wenen wordt vooral geassocieerd met de schnitzel, sachertorte (een hemelse chocoladecake) en tafelspitz (mals rundvlees), maar biedt nog veel meer. Wist je bijvoorbeeld dat wijn een grote ..."
         }
       ]
     },
@@ -163,13 +99,6 @@
           "url": "https://www.ad.nl/show/prins-laurent-erkent-zijn-zoon-nu-ook-officieel-clement-wordt-prins-van-belgie~a73efb0e/",
           "publishedDate": "Tue, 18 Aug 2026 19:50:00 GMT",
           "description": "Prins Laurent (62) maakte in 2025 al bekend dat Cl&#233;ment Vandenkerckhove (26), de zoon van Wendy Van Wanten (66), ook zijn kind is. Nu erkent hij Cl&#233;ment ook officieel. Dat betekent dat Belgi&#235; een nieu ..."
-        },
-        {
-          "title": "Een nieuwe prins voor de buren: prins Laurent erkent zijn zoon Cl&#233;ment nu ook officieel",
-          "source": "Nouveau on MSN",
-          "url": "https://www.msn.com/nl-nl/familie-en-relaties/algemeen/een-nieuwe-prins-voor-de-buren-prins-laurent-erkent-zijn-zoon-cl%C3%A9ment-nu-ook-officieel/ar-AA2asajV",
-          "publishedDate": "Wed, 19 Aug 2026 03:40:00 GMT",
-          "description": "Het was jarenlang het best bewaarde geheim van de Belgische showbizz &#233;n het paleis: de relatie tussen de rebelse prins Laurent en zangeres Wendy Van Wanten. Vorig jaar kwam het hoge woord er al uit, m ..."
         },
         {
           "title": "Cl&#233;ment is status als buitenstaander van koninklijke familie kwijt: prins Laurent erkent hem officieel als zoon",
@@ -193,6 +122,13 @@
           "description": "De Belgische prins Laurent (62) heeft zijn buitenechtelijke zoon Cl&#233;ment Vandenkerckhove (26), die hij kreeg met Wendy Van Wanten (66), officieel erkend. Dat schrijft de Belgische krant Le Soir woensd ..."
         },
         {
+          "title": "Cl&#233;ment Vandenkerckhove is wettelijk erkend als zoon van prins Laurent",
+          "source": "VRT on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/cl%C3%A9ment-vandenkerckhove-is-wettelijk-erkend-als-zoon-van-prins-laurent/ar-AA2arpXl",
+          "publishedDate": "Tue, 18 Aug 2026 23:45:14 GMT",
+          "description": "Cl&#233;ment Vandenkerckhove is wettelijk erkend als zoon van prins Laurent. Dat schrijft de krant Le Soir en is aan onze redactie bevestigd door Frans Van Coppenolle, de man van Cl&#233;ments moeder Iris Vande ..."
+        },
+        {
           "title": "OPROEP. Heb jij een vraag over de erkenning van Cl&#233;ment Vandenkerckhove? Stel ze hier",
           "source": "Het Laatste Nieuws",
           "url": "https://www.hln.be/vtm-nieuws/oproep-heb-jij-een-vraag-over-de-erkenning-van-clement-vandenkerckhove-stel-ze-hier~ae097c9b/",
@@ -200,18 +136,18 @@
           "description": "Prins Laurent (62) heeft Cl&#233;ment Vandenkerckhove (26), de zoon van Wendy Van Wanten (66), &lt;a href=&quot;https://www.hln.be/royalty/prins-laurent-erkent-zijn-zoon-nu-ook-officieel-clement-wordt-prins-van-be ..."
         },
         {
+          "title": "&quot;Binnen gezin Laurent en Claire opgenomen worden, is andere zaak&quot;",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/video/productie/gesprek-met-wim-13-13-17-aeb1b0eb-14190234",
+          "publishedDate": "Tue, 18 Aug 2026 17:00:00 GMT",
+          "description": "Na zijn onthullend persbericht in september 2025 heeft prins Laurent (62) nu ook bij de burgerlijke stand Cl&#233;ment Vandenkerckhove (26) officieel als zijn kind erkend. Welke gevolgen heeft dat voor de ..."
+        },
+        {
           "title": "Wendy Van Wanten",
           "source": "Gazet van Antwerpen",
           "url": "https://www.gva.be/tag/wendy-van-wanten/",
           "publishedDate": "Sun, 14 Jun 2026 08:19:00 GMT",
           "description": "PremiumAmber en Dylan halen met ‘Perron geluk’ top van Vlaamse hitparade: “Gebaseerd op ontmoeting op stationsperron in Deinze” Amber Verleyen (33) uit Deinze en haar man Dylan Vanholme (41 en zoon ..."
-        },
-        {
-          "title": "Dylan, oudste zoon Wendy Van Wanten, hoopte tevergeefs op verzoening: “Ik dacht dichter naar haar toe te groeien eens het geheim weg was”",
-          "source": "HLN",
-          "url": "https://www.hln.be/bv/dylan-oudste-zoon-wendy-van-wanten-hoopte-tevergeefs-op-verzoening-ik-dacht-dichter-naar-haar-toe-te-groeien-eens-het-geheim-weg-was~a2a9135d/",
-          "publishedDate": "Sun, 02 Nov 2025 20:16:00 GMT",
-          "description": "Dylan, oudste zoon Wendy Van Wanten, hoopte tevergeefs op verzoening: “Ik dacht dichter naar haar toe te groeien eens het geheim weg was” Dylan Vanholme (41), de oudste zoon van Wendy Van Wanten (65), ..."
         },
         {
           "title": "Zonder de Nederlandse Pin-Up Club had prins Laurent Wendy Van Wanten waarschijnlijk nooit ontmoet",
@@ -225,78 +161,7 @@
     {
       "keyword": "n455",
       "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Man (41) overleden na frontale botsing met vrachtwagen bij Hazerswoude-Dorp",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/man-41-overleden-na-frontale-botsing-met-vrachtwagen-bij-hazerswoude-dorp~a194ca07/",
-          "publishedDate": "Tue, 18 Aug 2026 23:15:00 GMT",
-          "description": "Een vrachtwagen en een auto zijn woensdagochtend frontaal op elkaar gebotst op de N455 bij Hazerswoude-Dorp. De bestuurder van de auto, een 41-jarige man uit Zoeterwoude, is om het leven gekomen. Dat ..."
-        },
-        {
-          "title": "41-jarige man overleden bij frontale aanrijding met vrachtwagen op N455",
-          "source": "Transport Online",
-          "url": "https://www.transport-online.nl/135389/41-jarige-man-overleden-bij-frontale-aanrijding-met-vrachtwagen-op-n455/",
-          "publishedDate": "Wed, 19 Aug 2026 14:08:00 GMT",
-          "description": "HAZERSWOUDE-DORP – Bij een ernstig verkeersongeval tussen een vrachtwagen en een personenauto op de N455 bij Hazerswoude-Dorp is woensdagochtend een 41-jarige man uit Zoeterwoude om het leven gekomen."
-        },
-        {
-          "title": "Zoeterwoudenaar (41) overleden na frontale botsing bij Hazerswoude-Dorp",
-          "source": "Sleutelstad",
-          "url": "https://sleutelstad.nl/2026/08/19/zoeterwoudenaar-41-overleden-na-frontale-botsing-bij-hazerswoude-dorp/",
-          "publishedDate": "Wed, 19 Aug 2026 04:47:00 GMT",
-          "description": "Een 41-jarige man uit Zoeterwoude is woensdagochtend om het leven gekomen bij een frontale botsing tussen een personenauto en een vrachtwagen op de N455 bij Hazerswoude-Dorp. De vrachtwagenchauffeur r ..."
-        },
-        {
-          "title": "Automobilist (41) overleden na botsing met vrachtwagen op N455",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/zuid-holland-hazerswoude-dorp-dodelijk-ongeluk-n455-vrachtwagen-auto",
-          "publishedDate": "Wed, 19 Aug 2026 02:30:00 GMT",
-          "description": "Bij een botsing tussen een vrachtwagen en een auto op de N455 bij Hazerswoude-Dorp is woensdagochtend een 41-jarige man uit Zoeterwoude overleden."
-        },
-        {
-          "title": "Man (41) overleden na botsing auto met truck bij Hazerswoude-Dorp",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/a/1159798-man-41-overleden-na-botsing-auto-met-truck-bij-hazerswoude-dorp",
-          "publishedDate": "Wed, 19 Aug 2026 02:03:00 GMT",
-          "description": "HAZERSWOUDE-DORP (ANP) - Door een botsing tussen een vrachtwagen en een auto op de N455 bij Hazerswoude-Dorp is op woensdagochtend een 41-jarige man uit Zoeterwoude overleden. Dat meldt de politie. He ..."
-        },
-        {
-          "title": "Dode bij frontale botsing tussen auto en vrachtwagen",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/112/5139086/dode-bij-frontale-botsing-tussen-auto-en-vrachtwagen",
-          "publishedDate": "Tue, 18 Aug 2026 23:37:00 GMT",
-          "description": "Op de N455 bij Boskoop is woensdagochtend een 41-jarige man uit Zoeterwoude om het leven gekomen. Dat heeft de politie bekendgemaakt. De auto waarin het slachtoffer zat, botste frontaal op een vrachtw ..."
-        },
-        {
-          "title": "Rotonde op N209 en N455 bij Hazerswoude-Dorp vier dagen afgesloten door werkzaamheden",
-          "source": "studioalphen",
-          "url": "https://www.studioalphen.nl/nieuws/rotonde-op-n209-en-n455-bij-hazerswoude-dorp-vier-dagen-afgesloten-door-werkzaamheden/",
-          "publishedDate": "Wed, 19 Mar 2025 08:01:00 GMT",
-          "description": "HAZERSWOUDE-DORP – De rotonde tussen de N209 en N455 is vanaf komende vrijdagavond vier dagen afgesloten vanwege werkzaamheden: ‘Het asfalt op de rotonde is niet meer van goede kwaliteit, daarom ..."
-        },
-        {
-          "title": "N455 tussen Boskoop en Hazerswoude-Dorp meerdere momenten dicht op 11 en 12 september",
-          "source": "studioalphen",
-          "url": "https://www.studioalphen.nl/nieuws/n455-tussen-boskoop-en-hazerswoude-dorp-meerdere-momenten-dicht-op-11-en-12-september-verschillende-omleidingen/",
-          "publishedDate": "Tue, 10 Sep 2024 02:01:00 GMT",
-          "description": "GEMEENTE ALPHEN AAN DEN RIJN – De N455 tussen Boskoop en Hazerswoude-Dorp, oftewel de Hoogeveenseweg, is op woensdag 11 en donderdag 12 september op meerdere momenten afgesloten. De provincie werkt, ..."
-        },
-        {
-          "title": "Zwaargewonde bij ernstig ongeluk op N455: bestelbus knalt tegen boom, weg dicht",
-          "source": "AD",
-          "url": "https://www.ad.nl/112-nieuws-alphen-aan-den-rijn/zwaargewonde-bij-ernstig-ongeluk-op-n455-bestelbus-knalt-tegen-boom-weg-dicht~a6380da3/",
-          "publishedDate": "Wed, 01 May 2024 04:38:00 GMT",
-          "description": "E&#233;n persoon zat na de klap bekneld in de bus. Brandweerlieden hebben het zwaargewonde slachtoffer inmiddels uit de wagen gehaald. De persoon is met spoed overgebracht naar het ziekenhuis. In de buurt ..."
-        },
-        {
-          "title": "Werken op N455 hervatten op vrijdag 20 augustus: nieuwe omleiding van kracht",
-          "source": "HLN",
-          "url": "https://www.hln.be/sint-laureins/werken-op-n455-hervatten-op-vrijdag-20-augustus-nieuwe-omleiding-van-kracht~a08f17be/",
-          "publishedDate": "Mon, 16 Aug 2021 23:16:00 GMT",
-          "description": "Sinds maart van dit jaar is het Agentschap Wegen en Verkeer bezig met de grondige heraanleg van de N455: de Vlamingstraat, Sint-Janspolderdijk en Sint-Margrietestraat in Sint-Laureins. De aannemer ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "barcelona - al-ahly",
@@ -306,15 +171,15 @@
           "title": "Geen warm welkom voor Frenkie de Jong: Oranje-international uitgefloten voor oefenduel Barcelona",
           "source": "Algemeen Dagblad",
           "url": "https://www.ad.nl/voetbal/geen-warm-welkom-voor-frenkie-de-jong-oranje-international-uitgefloten-voor-oefenduel-barcelona~a24b392c/",
-          "publishedDate": "Wed, 19 Aug 2026 01:22:00 GMT",
+          "publishedDate": "Wed, 19 Aug 2026 06:55:00 GMT",
           "description": "Bij de traditionele spelerspresentatie van Barcelona, voorafgaand aan de oefenwedstrijd tegen Al Ahly, kreeg Frenkie de Jong woensdagavond geen warm welkom. De geblesseerde middenvelder werd bij zijn ..."
         },
         {
-          "title": "Barcelona 2-1 Al Ahly: Report, result, goals from Joan Gamper Trophy 2026",
-          "source": "101 Great Goals",
-          "url": "https://www.101greatgoals.com/football/la-liga/barcelona-al-ahly-report-result-joan-gamper-trophy-2026-rodri-anthony-gordon-penalty-abdelkarim-raphinha-goals/",
-          "publishedDate": "Wed, 19 Aug 2026 13:09:00 GMT",
-          "description": "See how Barcelona's new signings including Rodri were introduced to the Camp Nou crowd and read about their win over Al Ahly."
+          "title": "Barcelona beat Al Ahly 2-1 to claim Joan Gamper Trophy as Gordon misses late penalty",
+          "source": "Mint on MSN",
+          "url": "https://www.msn.com/en-in/sports/football/barcelona-beat-al-ahly-2-1-to-claim-joan-gamper-trophy-as-gordon-misses-late-penalty/ar-AA2av0C3",
+          "publishedDate": "Wed, 19 Aug 2026 14:15:51 GMT",
+          "description": "Barcelona controlled large parts of the opening half with high pressing that kept Al Ahly pinned deep."
         },
         {
           "title": "Barcelona-fans verwelkomen Rodri, maar fluiten De Jong uit in Camp Nou",
@@ -377,382 +242,27 @@
     {
       "keyword": "blikje",
       "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Welk blikje of flesje spritz is het lekkerste aperitief? “Eindelijk een volwassen smaak, weg uit de kleuterspeeltuin”",
-          "source": "Standaard",
-          "url": "https://www.standaard.be/inspiratie/helpdesk/welk-blikje-of-flesje-spritz-is-het-lekkerste-aperitief-eindelijk-een-volwassen-smaak-weg-uit-de-kleuterspeeltuin/158269292.html",
-          "publishedDate": "Wed, 08 Jul 2026 03:00:00 GMT",
-          "description": "Spritz is een overkoepelende term voor alle aperitieven op basis van bittere likeur, prosecco en spuitwater. In Veneti&#235; gebruiken ze bijvoorbeeld Select, op basis van rabarber, en in Noord-Itali&#235; ..."
-        },
-        {
-          "title": "Gevaarlijker dan je denkt: wat &#233;&#233;n blikje cola in 60 minuten met je lichaam doet",
-          "source": "panorama",
-          "url": "https://panorama.nl/artikel/687004/gevaarlijker-dan-je-denkt-wat-een-blikje-cola-in-60-minuten-met-je-lichaam-doet",
-          "publishedDate": "Sun, 24 May 2026 04:13:00 GMT",
-          "description": "We trekken hem allemaal wel eens open voor de snelle dorst, de broodnodige cafe&#239;ne-kick, of gewoon omdat die ijskoude suikerbom verdomd lekker wegtikt. Maar schijn bedriegt. Achter dat iconische rode ..."
-        },
-        {
-          "title": "Hotspot alert! Kendra, Isadee en Amij&#233; openen Shot Lifestyle &amp; Coffee: 'Koffie in een blikje'",
-          "source": "stadsbladutrecht.nl",
-          "url": "https://indebuurt.nl/amsterdam/bedrijvigheid/ondernemer-uitgelicht/hotspot-alert-kendra-isadee-en-amije-openen-shot-lifestyle-coffee-koffie-in-een-blikje~414480/",
-          "publishedDate": "Sun, 04 Jan 2026 22:34:00 GMT",
-          "description": "Zelfs op een gewone donderdagmiddag is het druk bij Shot Lifestyle &amp; Coffee aan de Marathonweg. Dit nieuwe pareltje opende in maart, en de blikjes met koffie en healthshots vliegen sindsdien de deur ..."
-        },
-        {
-          "title": "Controverse rondom blikje Sprite in persconferentie aan het licht gebracht: 'Mag dat niet?'",
-          "source": "gpfans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/1065721/controverse-rondom-blikje-sprite-in-persconferentie-aan-het-licht-gebracht-mag-dat-niet/",
-          "publishedDate": "Thu, 23 Oct 2025 09:48:00 GMT",
-          "description": "Lando Norris scoorde een welverdiende tweede plaats in de afgelopen F1 Grand Prix van de Verenigde Staten. Hij was doodop en de McLaren-coureur wilde maar al te graag wat drinken tijdens de ..."
-        },
-        {
-          "title": "Dagelijks een blikje (light) frisdrank drinken, verhoogt kans op dodelijke leverziekte met 60 procent",
-          "source": "metronieuws",
-          "url": "https://www.metronieuws.nl/lifestyle/fit-gezond/2025/10/frisdrank-verhoogt-kans-leverziekte-xyz/",
-          "publishedDate": "Fri, 10 Oct 2025 06:02:00 GMT",
-          "description": "Dat het drinken van frisdrank niet goed is voor je gezondheid, is algemeen bekend. Maar wist je dat je met slechts &#233;&#233;n blikje frisdrank per dag – of dat nu light is of niet – maar liefst 60 procent ..."
-        },
-        {
-          "title": "Blikje in plaats van kikker: fotograaf legt vast hoe ooievaar afval aan jong voedert in Diest",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2025/07/30/ooievaar-blikje-webbekoms-broek-diest/",
-          "publishedDate": "Wed, 30 Jul 2025 06:24:00 GMT",
-          "description": "Nietsvermoedend voedert een ooievaarskoppel zijn jong, maar in plaats van een muis of kikker krijgt het kuiken een blikje voorgeschoteld. Een fotograaf legde het tafereel vast in het Webbekoms Broek ..."
-        },
-        {
-          "title": "Spoiler alert: jouw naam is straks weer te vinden op een blikje Coca-Cola",
-          "source": "TAGMAG",
-          "url": "https://tagmag.news/feed/887175-spoiler-alert-jouw-naam-is-straks-weer-te-vinden-op-een-blikje-coca-cola/",
-          "publishedDate": "Thu, 27 Mar 2025 00:31:00 GMT",
-          "description": "Yes, het is weer zover: binnenkort scannen we de rekken af om onze naam (en die van onze besties) terug te vinden op een blikje Coca-Cola. De iconische ‘Share a Coke’-campagne maakt een comeback, en ..."
-        },
-        {
-          "title": "Panja Paloma: zomerse smaken in een blikje",
-          "source": "Mixed Grill",
-          "url": "https://mixedgrill.nl/panja-paloma-zomerse-smaken-in-een-blikje/",
-          "publishedDate": "Wed, 07 Aug 2024 21:45:00 GMT",
-          "description": "Waterkant, de populaire hotspot aan de Amsterdamse Singelgracht, en Brouwerij ’t IJ hebben de handen ineen geslagen om een verfrissende nieuwe (bier)cocktail te cre&#235;ren: de Panja Paloma. Deze unieke ..."
-        },
-        {
-          "title": "NU+ Voor je statiegeld mag het blikje wel gedeukt zijn, maar niet geplet",
-          "source": "NU",
-          "url": "https://www.nu.nl/economie/6255364/voor-je-statiegeld-mag-het-blikje-wel-gedeukt-zijn-maar-niet-geplet.html",
-          "publishedDate": "Wed, 15 Mar 2023 22:12:00 GMT",
-          "description": "Vanaf 1 april is het zover: dan zit er na jaren van discussie en nog eens een paar maanden uitstel echt statiegeld op blikjes. Maar liefst 2,5 miljard blikjes gaan er jaarlijks over de toonbank, een ..."
-        },
-        {
-          "title": "Max Verstappen krijgt eigen Red Bull blikje",
-          "source": "gpfans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/619/max-verstappen-krijgt-eigen-red-bull-blikje/",
-          "publishedDate": "Wed, 17 May 2017 02:24:00 GMT",
-          "description": "Nog heel even geduld en dan kunnen de echte Max Verstappen-fans genieten van een blikje Red Bull met daarop de prints van hun favoriete coureur. Red Bull Racing introduceert tijdens de Jumbo Racedagen ..."
-        }
-      ]
+      "articles": []
+    },
+    {
+      "keyword": "cyberaanval",
+      "trafficLabel": "2K+",
+      "articles": []
     },
     {
       "keyword": "europese hoornaar",
       "trafficLabel": "2K+",
-      "articles": [
-        {
-          "title": "Aziatische hoornaar gesignaleerd in Friesland, gemeente verstuurt waarschuwing",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/dantumadiel/aziatische-hoornaar-gesignaleerd-in-friesland-gemeente-verstuurt-waarschuwing~a901ce81/",
-          "publishedDate": "Wed, 05 Aug 2026 17:01:00 GMT",
-          "description": "De Aziatische hoornaar is ook in Frysl&#226;n gezien, meldt de gemeente Dantumadiel. De exoot is al enkele jaren actief in Nederland en kan schadelijk zijn voor honingbijen, hommels, wespen en andere bestu ..."
-        },
-        {
-          "title": "Meerdere personen gestoken door Hoornaar bij Kampina Oisterwijk – brandweer en ambulance nodig",
-          "source": "Oisterwijk Nieuws",
-          "url": "https://www.oisterwijknieuws.nl/2026/08/meerdere-personen-gestoken-door-hoornaar-bij-kampina-oisterwijk-brandweer-en-ambulance-nodig/",
-          "publishedDate": "Wed, 19 Aug 2026 14:00:00 GMT",
-          "description": "Afgelopen dagen zijn de brandweer en ambulances meerdere keren opgeroepen door personen die zijn gestoken door Hoornaars. Dit gebeurde bij natuurgebied De Kampina, in de buurt van het Belversven in Oi ..."
-        },
-        {
-          "title": "Meerdere bomen in Edam van wiekpot voorzien om Aziatische hoornaar te vangen: ’Maar het lijkt loos alarm’",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/waterland/meerdere-bomen-in-edam-van-wiekpot-voorzien-om-aziatische-hoornaar-te-vangen-maar-het-lijkt-loos-alarm/159991769.html",
-          "publishedDate": "Fri, 14 Aug 2026 04:34:00 GMT",
-          "description": "Bewoners van de buurt rondom de Achterhaven in Edam zijn er mogelijk al eens op gestuit: wiekpotten bij de bomen om de Aziatische hoornaar te lokken. Na een waarschuwing van een buurtbewoner die het i ..."
-        },
-        {
-          "title": "Met ultralicht zendertje jagen imkers in Bennekom op Aziatische hoornaar",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/1159049-met-ultralicht-zendertje-jagen-imkers-in-bennekom-op-aziatische-hoornaar",
-          "publishedDate": "Tue, 11 Aug 2026 06:33:00 GMT",
-          "description": "Imkers maken zich grote zorgen over de razendsnelle opmars van de geelpoothoornaar, beter bekend als de Aziatische hoornaar. Met behulp van ultralichte zendertjes sporen ze de nesten op. Maar heeft ..."
-        },
-        {
-          "title": "Meer meldingen van hoornaars in Heusden in Heusden",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6013445/meer-meldingen-van-hoornaars-in-heusden",
-          "publishedDate": "Tue, 16 Jun 2026 04:50:00 GMT",
-          "description": "De gemeente Heusden krijgt vaker meldingen over hoornaars nu het warmer wordt. Vaak blijkt het om Europese hoornaars te gaan, die ongevaarlijk zijn, maar ook de Aziatische hoornaar komt soms voor."
-        },
-        {
-          "title": "Aziatische hoornaar veroorzaakt problemen in Castricum, gemeente roept op tot melding",
-          "source": "AD",
-          "url": "https://www.ad.nl/castricum/aziatische-hoornaar-veroorzaakt-problemen-in-castricum-gemeente-roept-op-tot-melding~a6ab2c9a/",
-          "publishedDate": "Wed, 15 Apr 2026 21:27:00 GMT",
-          "description": "De Aziatische hoornaar is weer actief door het warmere weer. Deze wespensoort vormt een bedreiging voor insecten zoals bijen en kan overlast geven. Gemeente Castricum roept inwoners op om nesten te ..."
-        },
-        {
-          "title": "Hoornaar gezien in Den Bosch? Dit moet je doen",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/den-bosch/hoornaar-gezien-in-den-bosch-dit-moet-je-doen~abcfc83d4/?slug_rd=1",
-          "publishedDate": "Mon, 18 Aug 2025 10:14:00 GMT",
-          "description": "De Aziatische hoornaar komt sinds een aantal jaar voor in Nederland en is ook al gespot in Den Bosch. Wat moet je doen als je er eentje ziet, en hoe ga je om met een hoornaarsteek? Lees hier alle info ..."
-        },
-        {
-          "title": "Hoornaar gezien in Amersfoort? Dit moet je doen",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/amersfoort/hoornaar-gezien-in-amersfoort-dit-moet-je-doen~a5801439/",
-          "publishedDate": "Mon, 18 Aug 2025 07:54:00 GMT",
-          "description": "De Aziatische hoornaar komt sinds een aantal jaar voor in Nederland en is ook al gespot in Amersfoort. Wat moet je doen als je er eentje ziet, en hoe ga je om met een hoornaarsteek? Lees hier alle ..."
-        },
-        {
-          "title": "Medewerkers van groendienst belaagd door hoornaars tijdens snoeiwerken in Bilzen-Hoeselt",
-          "source": "Het Belang van Limburg",
-          "url": "https://www.hbvl.be/regio/limburg/bilzen-hoeselt/medewerkers-van-groendienst-belaagd-door-hoornaars-tijdens-snoeiwerken-in-bilzen-hoeselt/83289114.html",
-          "publishedDate": "Wed, 13 Aug 2025 07:24:00 GMT",
-          "description": "Het aantal opgemerkte nesten van wespen en hoornaars neemt sinds afgelopen weekend een enorme sprong. In Bilzen-Hoeselt werden de arbeiders van de stedelijke groendienst tijdens snoeiwerken verrast do ..."
-        },
-        {
-          "title": "Op deze plekken komen 'agressieve' Aziatische hoornaars veel voor",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2058908/op-deze-plekken-komen-agressieve-aziatische-hoornaars-veel-voor",
-          "publishedDate": "Tue, 12 Aug 2025 07:22:00 GMT",
-          "description": "De zomer van 2025 zorgt voor uitzonderlijk veel wespenoverlast. Door de zachte winter en het warme, droge voorjaar zijn de nesten eerder actief geworden en sneller gegroeid. Vooral de agressieve ..."
-        }
-      ]
-    },
-    {
-      "keyword": "gletsjer",
-      "trafficLabel": "2K+",
-      "articles": [
-        {
-          "title": "‘Ongelooflijk verdrietig’: Nepalese gletsjer Yala is officieel gestorven",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2025/05/12/ongelooflijk-verdrietig-nepalese-gletsjer-yala-is-officieel-gestorven-a4892958",
-          "publishedDate": "Mon, 12 May 2025 08:01:00 GMT",
-          "description": "Klimaatverandering Onderzoekers hebben de Yalagletsjer in de Himalaya officieel dood verklaard. Zo lang er te weinig wordt gedaan tegen klimaatverandering, zal het zeker niet de laatste zijn die ..."
-        },
-        {
-          "title": "De laatste gletsjer in Venezuela is gesmolten. ‘Symbool voor wereldwijd smeltend ijs’",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/buitenland/de-laatste-gletsjer-in-venezuela-is-gesmolten-symbool-voor-wereldwijd-smeltend-ijs~bbbc87a8/",
-          "publishedDate": "Fri, 10 May 2024 08:49:00 GMT",
-          "description": "Op 4900 meter hoog, naast de berg Pico Humboldt in Venezuela, lag jarenlang de gletsjer La Corona. ‘De Kroon’, ooit een gletsjer van 450 hectare, smolt de afgelopen vijftig jaar net als de andere zes ..."
-        },
-        {
-          "title": "Lichamen Belgen na 34 jaar teruggevonden op Zwitserse gletsjer",
-          "source": "ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/algemeen/algemeen/lichamen-belgen-na-34-jaar-teruggevonden-op-zwitserse-gletsjer/ar-AA2asftw",
-          "publishedDate": "Wed, 19 Aug 2026 03:48:00 GMT",
-          "description": "SION (ANP/BELGA) - De Zwitserse autoriteiten hebben met DNA-onderzoek de identiteit vastgesteld van twee mannen van wie de stoffelijke resten eind juli bij Saas-Grund in het kanton Valais werden gevon ..."
-        },
-        {
-          "title": "Doomsday-gletsjer op ramkoers: Dreigende zeespiegelstijging tegen de 23e eeuw",
-          "source": "Newsmonkey",
-          "url": "https://newsmonkey.be/doomsday-gletsjer-dreigende-zeespiegelstijging/",
-          "publishedDate": "Sun, 22 Sep 2024 17:41:00 GMT",
-          "description": "De Thwaites-gletsjer, beter bekend als de “Doomsday Glacier”, smelt in snel tempo. Wetenschappers waarschuwen dat dit kan leiden tot een extreme zeespiegelstijging met catastrofale gevolgen tegen de ..."
-        },
-        {
-          "title": "Het loopt fout met enorme Thwaites-gletsjer op Antarctica: “Dit kan rampzalig zijn voor wereldwijde zeespiegel”",
-          "source": "HLN",
-          "url": "https://www.hln.be/wetenschap/het-loopt-fout-met-enorme-thwaites-gletsjer-op-antarctica-dit-kan-rampzalig-zijn-voor-wereldwijde-zeespiegel~acd6193e/",
-          "publishedDate": "Sat, 29 Jun 2024 21:00:00 GMT",
-          "description": "Als een van de snelst smeltende ijsmassa’s maakt de gigantische Thwaites-gletsjer zijn bijnaam Doomsday helemaal waar. Hij dankt die naam aan het afschrikwekkende feit dat hij de zeespiegel ingrijpend ..."
-        },
-        {
-          "title": "Verwoesting dreigt vanaf Zuidpool: Thwaites-gletsjer smelt steeds sneller",
-          "source": "AD",
-          "url": "https://www.ad.nl/wetenschap/verwoesting-dreigt-vanaf-zuidpool-thwaites-gletsjer-smelt-steeds-sneller~acd6193e/",
-          "publishedDate": "Fri, 14 Jun 2024 17:00:00 GMT",
-          "description": "Als een van de snelst smeltende ijsmassa’s maakt de gigantische Thwaites-gletsjer zijn bijnaam (Doomsday) helemaal waar. Hij dankt die naam aan het afschrikwekkende gegeven dat hij de zeespiegel ..."
-        },
-        {
-          "title": "Wetenschappers waarschuwen voor onomkeerbare terugtrekking van gletsjer in West-Antarctica",
-          "source": "HLN",
-          "url": "https://www.hln.be/weer-en-wetenschap/wetenschappers-waarschuwen-voor-onomkeerbare-terugtrekking-van-gletsjer-in-west-antarctica~ad56ea01/",
-          "publishedDate": "Tue, 16 Jan 2024 22:30:00 GMT",
-          "description": "De Pine Island Glacier, deel van de West-Antarctische ijskap, onderging recent aanzienlijke veranderingen. Men zag hoe de smelt van de gletsjer versnelde waardoor hij zich terugtrok en dunner werd."
-        },
-        {
-          "title": "Niet abnormaal dat resten alpinist pas na 38 jaar weer opduiken: &quot;Een gletsjer neemt en een gletsjer geeft ook terug&quot;",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2023/07/28/niet-abnormaal-dat-resten-alpinist-pas-na-38-jaar-weer-opdoken/",
-          "publishedDate": "Fri, 28 Jul 2023 11:02:00 GMT",
-          "description": "75 jaar zou hij vandaag geweest zijn, de Duitse alpinist wiens resten onlangs zijn teruggevonden aan de voet van de Matterhorn in Zwitserland. De bergbeklimmer was sinds 1986 vermist. Dat lichamen pas ..."
-        },
-        {
-          "title": "‘Een slapende reus die wakker wordt’: de ‘doemdag’-gletsjer op Antarctica is wankeler dan ooit",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/tech-wetenschap/een-slapende-reus-die-wakker-wordt-de-doemdag-gletsjer-op-antarctica-is-wankeler-dan-ooit~b80e6088/",
-          "publishedDate": "Wed, 02 Feb 2022 19:00:00 GMT",
-          "description": "Dat is nochtans het beeld dat we kregen toen media enkele weken geleden kopten dat de ‘doemdag-gletsjer binnen de vijf jaar dreigt te breken’. De Thwaites-gletsjer op Antarctica kreeg zijn omineuze ..."
-        },
-        {
-          "title": "Breedste gletsjer ter wereld dreigt in zee te glijden, en dat heeft mogelijk desastreuze gevolgen",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/tech-wetenschap/breedste-gletsjer-ter-wereld-dreigt-in-zee-te-glijden-en-dat-heeft-mogelijk-desastreuze-gevolgen~bbd3e633/",
-          "publishedDate": "Thu, 16 Dec 2021 01:00:00 GMT",
-          "description": "De zogenoemde ‘doomsday-gletsjer’ aan de westkust van Antarctica baart wetenschappers opnieuw zorgen. Nieuw onderzoek heeft aangetoond aan dat de ijsschots die de breedste gletsjer ter wereld belet in ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "atlético madrid - málaga",
       "trafficLabel": "2K+",
-      "articles": [
-        {
-          "title": "Goles y resumen Atl&#233;tico de Madrid vs M&#225;laga: Sin Obed Vargas, los del Cholo Simeone ganan con golazos",
-          "source": "MARCA",
-          "url": "https://www.marca.com/mx/futbol/mexicanos-mundo/cronica/2026/08/19/goles-resumen-atletico-madrid-vs-malaga-obed-vargas-cholo-simeone-ganan-golazos.html",
-          "publishedDate": "Wed, 19 Aug 2026 14:06:00 GMT",
-          "description": "Mexicanos por el mundo. C&#243;mo el Olympiacos catapultar&#237;a a Hormiga Gonz&#225;lez a Premier League Mexicanos por el mundo. Obed Vargas saldr&#225; de Atl&#233;tico de Madrid; Diego Simeone le ha dado un mensaje claro ..."
-        },
-        {
-          "title": "Atl&#233;tico de Madrid - M&#225;laga, en directo hoy: Jornada 1 de LaLiga",
-          "source": "RTVE",
-          "url": "https://www.rtve.es/deportes/20260819/atletico-madrid-malaga-directo-hoy-jornada-1-liga-resultado-goles/17194320.shtml",
-          "publishedDate": "Wed, 19 Aug 2026 13:00:00 GMT",
-          "description": "Facebook X Bluesky WhatsApp WhatsApp Copiar enlace La direcci&#243;n de esta p&#225;gina ha sido copiada en su portapapeles Guardar en mi lista El contenido ha sido guardado en su lista Atl&#233;tico de Madrid y M&#225;l ..."
-        },
-        {
-          "title": "Atl&#233;tico de Madrid - M&#225;laga en directo: resultado, ganador y goles del partido de la Liga hoy",
-          "source": "ABC",
-          "url": "https://www.abc.es/deportes/atletico-madrid/atletico-madrid-malaga-directo-resultado-ganador-goles-20260819142416-di.html",
-          "publishedDate": "Wed, 19 Aug 2026 12:01:00 GMT",
-          "description": "Los de Diego Pablo Simeone se estrenan en su estadio frente al conjunto andaluz, que regresa a Primera Divisi&#243;n ..."
-        },
-        {
-          "title": "Atl&#233;tico de Madrid vs. M&#225;laga en vivo. Partido en directo hoy LaLiga 2026",
-          "source": "Mediotiempo on MSN",
-          "url": "https://www.msn.com/es-mx/noticias/otras/atl%C3%A9tico-de-madrid-vs-m%C3%A1laga-en-vivo-a-qu%C3%A9-hora-y-d%C3%B3nde-ver-partido-hoy-laliga-2026/ar-AA2atG64",
-          "publishedDate": "Wed, 19 Aug 2026 12:00:00 GMT",
-          "description": "La actividad en LaLiga ha regresado, contando ya con algunos de los primeros compromisos correspondientes a la Jornada 1 de la campa&#241;a 2026/27, teniendo para este mi&#233;rcoles 19 de agosto el cruce entre ..."
-        },
-        {
-          "title": "D&#243;nde ver Atl&#233;tico de Madrid - M&#225;laga; &#191;Jugar&#225; Obed Vargas en la Jornada 1 de LaLiga?",
-          "source": "MARCA",
-          "url": "https://www.marca.com/mx/futbol/mexicanos-mundo/2026/08/19/donde-ver-atletico-de-madrid-malaga-jugara-obed-vargas-en-la-jornada-1-de-laliga.html",
-          "publishedDate": "Wed, 19 Aug 2026 11:32:00 GMT",
-          "description": "En pretemporada, han empatado tres partidos ante el Leicester (3-3), Al Ittihad (2-2) y Fulham (2-2), aunque este &#250;ltimo se gan&#243; en penaltis. Sum&#243; una victoria contra el Al Arabi (4-2) y perdi&#243; frente ..."
-        },
-        {
-          "title": "Alineaciones confirmadas de Atl&#233;tico de Madrid y M&#225;laga CF hoy: varias sorpresas de Simeone",
-          "source": "ElDesmarque",
-          "url": "https://www.eldesmarque.com/futbol/liga-1a-division/20260819/alineaciones-confirmadas-atletico-madrid-malaga-hoy-jornada-1-laliga_18_019983388.html",
-          "publishedDate": "Wed, 19 Aug 2026 10:49:00 GMT",
-          "description": "Alineaciones confirmadas en el Metropolitano. El Atl&#233;tico de Madrid y el M&#225;laga CF debutan este mi&#233;rcoles en LaLiga EA Sports, en esta jornada 1 que ..."
-        },
-        {
-          "title": "Atl&#233;tico Madrid vs M&#225;laga",
-          "source": "GOAL",
-          "url": "https://www.goal.com/es/noticias/streaming-en-vivo-atle%CC%81tico-madrid-v-ma%CC%81laga/blt5aa1235ebe1fc5d7",
-          "publishedDate": "Wed, 19 Aug 2026 08:05:00 GMT",
-          "description": "Toda la informaci&#243;n para ver el Atl&#233;tico Madrid vs M&#225;laga en directo: canal de televisi&#243;n, streaming en vivo, horario de inicio y novedades de los equipos para la jornada 1 de Primera Divisi&#243;n."
-        },
-        {
-          "title": "Atl&#233;tico de Madrid - M&#225;laga: horario y d&#243;nde ver hoy el partido de LaLiga EA Sports",
-          "source": "Diario de Sevilla",
-          "url": "https://www.diariodesevilla.es/deportes/atletico-madrid-malaga-horario-ver_0_2007746247.html",
-          "publishedDate": "Wed, 19 Aug 2026 07:41:00 GMT",
-          "description": "El conjunto rojiblanco debuta en LaLiga EA Sports 2026-2027 frente al M&#225;laga en el Riyadh Air Metropolitano con varias novedades en el once titular ..."
-        },
-        {
-          "title": "El Atl&#233;tico de Madrid de Obed Vargas debuta este mi&#233;rcoles 19 de agosto en LaLiga; &#191;A qu&#233; hora y d&#243;nde ver el partido?",
-          "source": "Telediario M&#233;xico on MSN",
-          "url": "https://www.msn.com/es-mx/noticias/otras/el-atl%C3%A9tico-de-madrid-de-obed-vargas-debuta-este-mi%C3%A9rcoles-19-de-agosto-en-laliga-a-qu%C3%A9-hora-y-d%C3%B3nde-ver-el-partido/ar-AA2atyeX",
-          "publishedDate": "Wed, 19 Aug 2026 07:10:00 GMT",
-          "description": "Atl&#233;tico de Madrid enfrentar&#225; al M&#225;laga en la continuaci&#243;n de la jornada 1 en LaLiga 2026-27, luego de que se jugaran los primeros partidos el pasado fin de semana."
-        },
-        {
-          "title": "Atl&#233;tico de Madrid vs M&#225;laga: Pron&#243;stico y posibles alineaciones del partido de la Jornada 1 de LaLiga",
-          "source": "sdpnoticias",
-          "url": "https://www.sdpnoticias.com/deportes/atletico-de-madrid-vs-malaga-pronostico-y-posibles-alineaciones-del-partido-de-la-jornada-1-de-laliga/",
-          "publishedDate": "Tue, 18 Aug 2026 18:00:00 GMT",
-          "description": "Pron&#243;stico Atl&#233;tico de Madrid vs M&#225;laga: victoria 2-0 de los colchoneros en el Metrop&#243;litano para la Jornada 1 de LaLiga."
-        }
-      ]
+      "articles": []
     },
     {
-      "keyword": "emma wortelboer",
+      "keyword": "gletsjer",
       "trafficLabel": "2K+",
-      "articles": [
-        {
-          "title": "Emma Wortelboer deelt naam van pasgeboren dochter",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/emma-wortelboer-deelt-naam-van-pasgeboren-dochter/ar-AA2aug23",
-          "publishedDate": "Wed, 19 Aug 2026 08:04:30 GMT",
-          "description": "Emma Wortelboer heeft de naam van haar tweede kind bekendgemaakt op Instagram. Eerder woensdag liet Emma haar volgers weten dat ze is bevallen van haar tweede kind."
-        },
-        {
-          "title": "Emma Wortelboer bevallen van tweede dochter",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/achterklap/6406800/emma-wortelboer-bevallen-van-tweede-dochter.html",
-          "publishedDate": "Wed, 19 Aug 2026 05:27:00 GMT",
-          "description": "Emma Wortelboer is bevallen van haar tweede kind. De 29-jarige presentatrice maakt woensdag op Instagram bekend dat ze een tweede dochter heeft gekregen."
-        },
-        {
-          "title": "Emma Wortelboer bevallen van tweede kind: 'Het bevielen beval wel'",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/artikel/5640567/emma-wortelboer-bevallen-van-tweede-kind",
-          "publishedDate": "Wed, 19 Aug 2026 03:07:00 GMT",
-          "description": "Emma Wortelboer (29) is voor de tweede keer moeder geworden. Dat maakt de presentator bekend op Instagram, waar ze foto's deelt van de bevalling en haar pasgeboren baby."
-        },
-        {
-          "title": "Emma Wortelboer noemt pasgeboren dochter Annie",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/emma-wortelboer-noemt-pasgeboren-dochter-annie",
-          "publishedDate": "Wed, 19 Aug 2026 10:04:00 GMT",
-          "description": "Emma Wortelboer heeft de naam van haar tweede kind bekendgemaakt. &quot;Trouwennsss ze heet Annie&quot;, schrijft de 29-jarige presentatrice bij een foto van een babyvoet op Instagram. Eerder woensdag liet Wort ..."
-        },
-        {
-          "title": "Even loeren: dit is de vriend van presentatrice Emma Wortelboer",
-          "source": "FEM FEM (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/even-loeren-dit-is-de-vriend-van-presentatrice-emma-wortelboer/ar-AA28QOar",
-          "publishedDate": "Wed, 19 Aug 2026 07:55:46 GMT",
-          "description": "Emma Wortelboer heeft bekendgemaakt dat ze in verwachting is van haar tweede kindje. Ze kreeg al eerder een dochter met ..."
-        },
-        {
-          "title": "Emma Wortelboer bevallen van tweede kind",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/emma-wortelboer-bevallen-van-tweede-kind",
-          "publishedDate": "Wed, 19 Aug 2026 05:13:00 GMT",
-          "description": "Emma Wortelboer is bevallen van haar tweede kind. &quot;Het bevielen beval wel&quot;, schrijft de 29-jarige presentatrice woensdag op Instagram. Ze deelt er een aantal foto's bij waarop ze met haar zwangere bui ..."
-        },
-        {
-          "title": "Emma Wortelboer voor de tweede keer moeder geworden: ‘Ze heet Annie’",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/show/emma-wortelboer-voor-de-tweede-keer-moeder-geworden-ze-heet-annie~a14d54ac/",
-          "publishedDate": "Wed, 19 Aug 2026 01:10:00 GMT",
-          "description": "Emma Wortelboer is bevallen van haar tweede kind. ‘Het bevielen beval wel’, schrijft de 29-jarige presentatrice woensdag op Instagram. Ze deelt er een aantal foto’s bij waarop ze met haar zwangere bui ..."
-        },
-        {
-          "title": "Emma Wortelboer vreest voor de dag dat dochter haar opzoekt op Google: 'Dat is een h&#233;&#233;l slecht idee'",
-          "source": "panorama",
-          "url": "https://panorama.nl/artikel/639831/emma-wortelboer-vreest-voor-de-dag-dat-dochter-haar-opzoekt-op-google-dat-is-een-heel-slecht-idee",
-          "publishedDate": "Wed, 16 Apr 2025 07:16:00 GMT",
-          "description": "De voormalig Spuiten en Slikken-presentatrice kijkt niet uit naar het moment dat haar dochter oud genoeg is om haar moeder op te zoeken op het internet. De 28-jarige Wortelboer is te gast in het ..."
-        },
-        {
-          "title": "Babynieuws! Emma Wortelboer is bevallen en d&#237;t is de prachtige naam van haar eerste kindje",
-          "source": "Cosmopolitan",
-          "url": "https://www.cosmopolitan.com/nl/entertainment/a60187040/emma-wortelboer-bevallen-eerste-kindje-naam/",
-          "publishedDate": "Wed, 13 Mar 2024 06:59:00 GMT",
-          "description": "Je kunt het afgelopen oktober niet gemist hebben. Emma Wortelboer maakte op iconische wijze bekend in verwachting te zijn; ze verscheen helemaal &#224; la Rihanna met haar blote zwangere buik op de rode ..."
-        },
-        {
-          "title": "Emma Wortelboer over haar zwangerschap: ‘Na de seks voelde ik het gelijk: ik ben zwanger’",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/mezza/emma-wortelboer-over-haar-zwangerschap-na-de-seks-voelde-ik-het-gelijk-ik-ben-zwanger~a6afbb25/",
-          "publishedDate": "Fri, 19 Jan 2024 02:15:00 GMT",
-          "description": "En zo wist ik net wat eerder dan de rest van Nederland dat onze ‘muze’ moeder werd. Het leek mij een goed idee met haar van gedachten te wisselen over een mooie fotoshoot, lekker rauw en met een vette ..."
-        }
-      ]
+      "articles": []
     }
   ]
 }
