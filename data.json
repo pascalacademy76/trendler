@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T14:29:13.696Z",
+  "fetchedAt": "2026-08-20T15:06:20.271Z",
   "trends": [
     {
       "keyword": "dick schreuder",
@@ -41,18 +41,18 @@
           "description": "Dick Schreuder toont zich na de pijnlijke 1-3 nederlaag van NEC tegen Bod&#248;/Glimt behoorlijk kritisch op zijn ploeg. De hoofdtrainer van de Nijmegenaren baalt van de manier waarop zijn ploeg de doelpun ..."
         },
         {
-          "title": "'Schreuder mag best kritisch op zichzelf zijn'",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/video/schreuder-mag-best-kritisch-op-zichzelf-zijn",
-          "publishedDate": "Wed, 19 Aug 2026 17:01:00 GMT",
-          "description": "In deze VI ZSM blikt NEC-watcher Sander Janssen met presentator Kalum van Oudheusden terug op de wedstrijd tussen NEC en Bodo/Glimt. De ploeg van trainer Dick Schreuder heeft een teleurstellend heendu ..."
-        },
-        {
           "title": "NEC-trainer Schreuder vond Bod&#248;/Glimt nog beter dan verwacht",
           "source": "Nieuws.nl",
           "url": "https://nieuws.nl/voetbal/nec-trainer-schreuder-vond-bodoeglimt-nog-beter-dan-verwacht",
           "publishedDate": "Wed, 19 Aug 2026 16:57:00 GMT",
           "description": "NIJMEGEN (ANP) - Trainer Dick Schreuder van NEC vond het Noorse FK Bod&#248;/Glimt nog beter dan verwacht. &quot;Als je ze echt live ziet dan zijn ze nog veel beter. Ze kunnen goed verdedigen. Ze kunnen goed co ..."
+        },
+        {
+          "title": "NEC op Rapport: Schreuder en vijf anderen scoren onvoldoende tegen Bod&#248;/Glimt",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/nec-op-rapport-schreuder-en-vijf-anderen-scoren-onvoldoende-tegen-bodo-glimt",
+          "publishedDate": "Wed, 19 Aug 2026 14:08:00 GMT",
+          "description": "NEC had zich het eerste duel met Bod&#248;/Glimt in de play-offs van de Champions League ongetwijfeld anders voorgesteld. De Nijmegenaren verloren in eigen huis met 1-3 van de Noren en dat levert zes onvol ..."
         },
         {
           "title": "Dick Schreuder kiest bij cruciale wedstrijd NEC voor basisdebutant",
@@ -154,6 +154,82 @@
       ]
     },
     {
+      "keyword": "cyberaanval",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Cyberaanval kan ieder bedrijf raken: zo voorkom je dat digitale diefstal uitgroeit tot een crisis",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/financieel/cyberaanval-kan-ieder-bedrijf-raken-zo-voorkom-je-dat-digitale-diefstal-uitgroeit-tot-een-crisis/159685897.html",
+          "publishedDate": "Thu, 06 Aug 2026 22:29:00 GMT",
+          "description": "De cyberaanval waarvan Bol en de Bijenkorf, en dus ook hun klanten, slachtoffer zijn geworden, laat opnieuw pijnlijk zien dat digitale diefstal allang niet meer een kwestie is van &#243;f het gebeurt, maar ..."
+        },
+        {
+          "title": "Cyberaanval op partnerbedrijf bol en Bijenkorf: klantgegevens mogelijk op straat",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6405433/cyberaanval-op-partnerbedrijf-bol-en-bijenkorf-klantgegevens-mogelijk-op-straat.html",
+          "publishedDate": "Wed, 05 Aug 2026 10:58:00 GMT",
+          "description": "Het logistieke bedrijf CEVA, dat voor zowel de Bijenkorf als voor bol werkt, is getroffen door een cyberaanval. Daardoor liggen klantgegevens van beide winkels mogelijk op straat. Er zijn volgens bol ..."
+        },
+        {
+          "title": "Dienstverlener van Bol getroffen door grootschalige cyberaanval: klantgegevens liggen massaal op straat",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/lifestyle/tech/dienstverlener-van-bol-getroffen-door-grootschalige-cyberaanval-klantgegevens-liggen-massaal-op-straat/159648951.html",
+          "publishedDate": "Wed, 05 Aug 2026 10:07:00 GMT",
+          "description": "Een logistieke dienstverlener waarmee Bol samenwerkt, heeft op 1 augustus te maken gehad met een grootschalige cyberaanval. Dat bevestigt het verkoopplatform woensdag aan De Telegraaf. Hierbij zijn va ..."
+        },
+        {
+          "title": "Meer klantgegevens bol.com betrokken bij datalek CEVA dan gedacht",
+          "source": "AG Connect",
+          "url": "https://www.agconnect.nl/maatschappij/security/meer-klantgegevens-bolcom-gestolen-bij-datalek-ceva",
+          "publishedDate": "Thu, 20 Aug 2026 05:14:00 GMT",
+          "description": "Bij de&#160;cyberaanval&#160;op het logistieke bedrijf CEVA zijn meer klantgegevens van bol.com betrokken dan de webwinkel eerder dacht. Klanten wier gegevens mogelijk ook zijn bekeken of gekopieerd, hebben hie ..."
+        },
+        {
+          "title": "Ook persoonsgegevens Ceva-medewerkers buitgemaakt bij cyberaanval",
+          "source": "TTM.nl",
+          "url": "https://www.ttm.nl/it/cybersecurity/ook-persoonsgegevens-ceva-medewerkers-buitgemaakt-bij-cyberaanval/178685/",
+          "publishedDate": "Thu, 20 Aug 2026 03:18:00 GMT",
+          "description": "De cyberaanval op Ceva Logistics heeft niet alleen gevolgen voor klanten. Ook persoonsgegevens van (voormalige) medewerkers zijn buitgemaakt. Dat meldt ..."
+        },
+        {
+          "title": "Meubelketen WEBA getroffen door cyberaanval: klantgegevens gestolen",
+          "source": "ITdaily",
+          "url": "https://itdaily.be/nieuws/beveiliging/meubelketen-weba-getroffen-door-cyberaanval-klantgegevens-gestolen/",
+          "publishedDate": "Wed, 19 Aug 2026 17:01:00 GMT",
+          "description": "Meubelketen WEBA meldt een datalek waarbij mogelijk klantgegevens betrokken zijn. De cyberaanval vond op 10 augustus plaats."
+        },
+        {
+          "title": "Datalek bij Bol groter dan gedacht: meer klantgegevens betrokken",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/advies-en-tips/waarschuwen/artikelen/datalek-bol-groter-klantgegevens-ceva",
+          "publishedDate": "Wed, 19 Aug 2026 08:23:00 GMT",
+          "description": "Het datalek bij logistiek partner CEVA blijkt groter dan gedacht. Bol waarschuwt meer klanten dat hun gegevens mogelijk zijn bekeken of gekopieerd."
+        },
+        {
+          "title": "Bol waarschuwt: meer klanten mogelijk slachtoffer van cyberaanval Ceva",
+          "source": "Logistiek",
+          "url": "https://www.logistiek.nl/211052/bol-waarschuwt-meer-klanten-mogelijk-slachtoffer-van-cyberaanval-ceva",
+          "publishedDate": "Wed, 19 Aug 2026 08:18:00 GMT",
+          "description": "Bol stuurde woensdagmiddag opnieuw een waarschuwingsmail naar klanten, omdat hun data mogelijk gestolen zijn via een cyberaanval bij Ceva."
+        },
+        {
+          "title": "Cyberaanval treft meubelgigant WEBA: klantgegevens gestolen",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/tech/cyberaanval-treft-meubelgigant-weba-klantgegevens-gestolen~a318dde7/",
+          "publishedDate": "Tue, 18 Aug 2026 23:54:00 GMT",
+          "description": "De bekende meubelketen WEBA is het slachtoffer geworden van een cyberaanval. Hackers wisten binnen te dringen in de IT-systemen van het bedrijf en hebben daarbij toegang gekregen tot klantgegevens. Ze ..."
+        },
+        {
+          "title": "Logistiekpartner De Bijenkorf slachtoffer van cyberaanval",
+          "source": "RetailDetail BE",
+          "url": "https://www.retaildetail.be/nl/news/mode/logistiekpartner-de-bijenkorf-slachtoffer-van-cyberaanval/",
+          "publishedDate": "Wed, 05 Aug 2026 03:22:00 GMT",
+          "description": "Een cyberaanval bij een logistieke partner van De Bijenkorf vertraagt bestellingen, retourzendingen en terugbetalingen."
+        }
+      ]
+    },
+    {
       "keyword": "europese hoornaar",
       "trafficLabel": "10K+",
       "articles": [
@@ -226,82 +302,6 @@
           "url": "https://www.hbvl.be/regio/limburg/genk/genk-zoekt-niet-geregistreerde-imkers-om-aziatische-hoornaars-te-bestrijden/46857124.html",
           "publishedDate": "Mon, 03 Mar 2025 13:26:00 GMT",
           "description": "Alle imkers in Genk krijgen van de stad gratis een val voor de Aziatische hoornaar. Omdat niet alle imkers in kaart zijn gebracht, roept de stad ze op om zich te melden."
-        }
-      ]
-    },
-    {
-      "keyword": "cyberaanval",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Cyberaanval kan ieder bedrijf raken: zo voorkom je dat digitale diefstal uitgroeit tot een crisis",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/financieel/cyberaanval-kan-ieder-bedrijf-raken-zo-voorkom-je-dat-digitale-diefstal-uitgroeit-tot-een-crisis/159685897.html",
-          "publishedDate": "Thu, 06 Aug 2026 22:29:00 GMT",
-          "description": "De cyberaanval waarvan Bol en de Bijenkorf, en dus ook hun klanten, slachtoffer zijn geworden, laat opnieuw pijnlijk zien dat digitale diefstal allang niet meer een kwestie is van &#243;f het gebeurt, maar ..."
-        },
-        {
-          "title": "Cyberaanval op partnerbedrijf bol en Bijenkorf: klantgegevens mogelijk op straat",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6405433/cyberaanval-op-partnerbedrijf-bol-en-bijenkorf-klantgegevens-mogelijk-op-straat.html",
-          "publishedDate": "Wed, 05 Aug 2026 10:58:00 GMT",
-          "description": "Het logistieke bedrijf CEVA, dat voor zowel de Bijenkorf als voor bol werkt, is getroffen door een cyberaanval. Daardoor liggen klantgegevens van beide winkels mogelijk op straat. Er zijn volgens bol ..."
-        },
-        {
-          "title": "Dienstverlener van Bol getroffen door grootschalige cyberaanval: klantgegevens liggen massaal op straat",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/lifestyle/tech/dienstverlener-van-bol-getroffen-door-grootschalige-cyberaanval-klantgegevens-liggen-massaal-op-straat/159648951.html",
-          "publishedDate": "Wed, 05 Aug 2026 10:07:00 GMT",
-          "description": "Een logistieke dienstverlener waarmee Bol samenwerkt, heeft op 1 augustus te maken gehad met een grootschalige cyberaanval. Dat bevestigt het verkoopplatform woensdag aan De Telegraaf. Hierbij zijn va ..."
-        },
-        {
-          "title": "Meer klantgegevens bol.com betrokken bij datalek CEVA dan gedacht",
-          "source": "AG Connect",
-          "url": "https://www.agconnect.nl/maatschappij/security/meer-klantgegevens-bolcom-gestolen-bij-datalek-ceva",
-          "publishedDate": "Thu, 20 Aug 2026 05:14:00 GMT",
-          "description": "Bij de&#160;cyberaanval&#160;op het logistieke bedrijf CEVA zijn meer klantgegevens van bol.com betrokken dan de webwinkel eerder dacht. Klanten wier gegevens mogelijk ook zijn bekeken of gekopieerd, hebben hie ..."
-        },
-        {
-          "title": "Ook persoonsgegevens Ceva-medewerkers buitgemaakt bij cyberaanval",
-          "source": "TTM.nl",
-          "url": "https://www.ttm.nl/it/cybersecurity/ook-persoonsgegevens-ceva-medewerkers-buitgemaakt-bij-cyberaanval/178685/",
-          "publishedDate": "Thu, 20 Aug 2026 03:18:00 GMT",
-          "description": "De cyberaanval op Ceva Logistics heeft niet alleen gevolgen voor klanten. Ook persoonsgegevens van (voormalige) medewerkers zijn buitgemaakt. Dat meldt ..."
-        },
-        {
-          "title": "Datalek bij Bol groter dan gedacht: meer klantgegevens betrokken",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/advies-en-tips/waarschuwen/artikelen/datalek-bol-groter-klantgegevens-ceva",
-          "publishedDate": "Wed, 19 Aug 2026 08:23:00 GMT",
-          "description": "Het datalek bij logistiek partner CEVA blijkt groter dan gedacht. Bol waarschuwt meer klanten dat hun gegevens mogelijk zijn bekeken of gekopieerd."
-        },
-        {
-          "title": "Bol waarschuwt: meer klanten mogelijk slachtoffer van cyberaanval Ceva",
-          "source": "Logistiek",
-          "url": "https://www.logistiek.nl/211052/bol-waarschuwt-meer-klanten-mogelijk-slachtoffer-van-cyberaanval-ceva",
-          "publishedDate": "Wed, 19 Aug 2026 08:18:00 GMT",
-          "description": "Bol stuurde woensdagmiddag opnieuw een waarschuwingsmail naar klanten, omdat hun data mogelijk gestolen zijn via een cyberaanval bij Ceva."
-        },
-        {
-          "title": "Half jaar na cyberaanval AZ Monica nog altijd geen wifi voor pati&#235;nten: &quot;Netwerk veilig maken is prioriteit&quot;",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/half-jaar-na-cyberaanval-az-monica-nog-altijd-geen-wifi-voor-pat/",
-          "publishedDate": "Fri, 14 Aug 2026 05:56:00 GMT",
-          "description": "Meer dan een half jaar na de zware cyberaanval van midden januari hebben de campussen van AZ Monica in Deurne en Antwerpen nog altijd geen wifi voor pati&#235;nten en bezoekers. De beveiliging van het netw ..."
-        },
-        {
-          "title": "Cyberaanval op partnerbedrijf treft ook klanten van Bol: “Het is nu veel gemakkelijker om lijsten van slachtoffers te maken”",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/economie/cyberaanval-op-partnerbedrijf-treft-ook-klanten-van-bol-het-is-nu-veel-gemakkelijker-om-lijsten-van-slachtoffers-te-maken/159661407.html",
-          "publishedDate": "Wed, 05 Aug 2026 15:08:00 GMT",
-          "description": "Hackers hebben bij een cyberaanval op Ceva Logistics, een van de logistieke partners van de webwinkel Bol.com, persoonsgegevens van klanten buitgemaakt. Moeten klanten zich zorgen maken? “Een bedrijf ..."
-        },
-        {
-          "title": "Logistiekpartner De Bijenkorf slachtoffer van cyberaanval",
-          "source": "RetailDetail BE",
-          "url": "https://www.retaildetail.be/nl/news/mode/logistiekpartner-de-bijenkorf-slachtoffer-van-cyberaanval/",
-          "publishedDate": "Wed, 05 Aug 2026 03:22:00 GMT",
-          "description": "Een cyberaanval bij een logistieke partner van De Bijenkorf vertraagt bestellingen, retourzendingen en terugbetalingen."
         }
       ]
     },
@@ -382,78 +382,147 @@
       ]
     },
     {
-      "keyword": "barcelona - al-ahly",
+      "keyword": "verkeersongeval",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Geen warm welkom voor Frenkie de Jong: Oranje-international uitgefloten voor oefenduel Barcelona",
+          "title": "Twee motorrijders gewond na verkeersongeval op A13 tussen Delft en Rotterdam",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/geen-warm-welkom-voor-frenkie-de-jong-oranje-international-uitgefloten-voor-oefenduel-barcelona~a24b392c/",
-          "publishedDate": "Wed, 19 Aug 2026 16:28:00 GMT",
-          "description": "Bij de traditionele spelerspresentatie van Barcelona, voorafgaand aan de oefenwedstrijd tegen Al Ahly, kreeg Frenkie de Jong woensdagavond geen warm welkom. De geblesseerde middenvelder werd bij zijn ..."
+          "url": "https://www.ad.nl/112-nieuws-rotterdam/twee-motorrijders-gewond-na-verkeersongeval-op-a13-tussen-delft-en-rotterdam~af0ebe87/",
+          "publishedDate": "Fri, 10 Jul 2026 17:00:00 GMT",
+          "description": "Op de A13 tussen Delft en Rotterdam zijn op zaterdagmiddag twee motorrijders gewond geraakt bij een verkeersongeval. Vanwege het ongeluk waren tijdelijk twee rijstroken afgesloten, maar deze zijn inmi ..."
         },
         {
-          "title": "VIDEO. FC Barcelona-fans zijn nu al gek van Jesse Bisiwu: 18-jarige Belg luidkeels toegejuicht bij presentatie (wat niet gezegd kan worden van Frenkie de Jong)",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/sport/voetbal/video.-fc-barcelona-fans-zijn-nu-al-gek-van-jesse-bisiwu-18-jarige-belg-luidkeels-toegejuicht-bij-presentatie-wat-niet-gezegd-kan-worden-van-frenkie-de-jong/160269388.html",
-          "publishedDate": "Thu, 20 Aug 2026 02:45:00 GMT",
-          "description": "Barcelona heeft woensdagavond zijn voorbereiding afgesloten met een 2-1-zege tegen Al Ahly in de Joan Gamper Trophy. In het vernieuwde Camp Nou nam Bar&#231;a voor de rust afstand dankzij Hamza Abdelkarim ..."
+          "title": "Uitspraak in hoger beroep in zaak dodelijk verkeersongeval Oldehove",
+          "source": "Rechtspraak",
+          "url": "https://www.rechtspraak.nl/organisatie-en-contact/organisatie/gerechtshoven/gerechtshof-arnhem-leeuwarden/nieuws/2026/08/uitspraak-in-hoger-beroep-in-zaak-dodelijk-verkeersongeval-oldehove",
+          "publishedDate": "Thu, 20 Aug 2026 05:07:00 GMT",
+          "description": "Leeuwarden, 20 augustus 2026 om 14:07, Het gerechtshof Arnhem-Leeuwarden, locatie Leeuwarden, heeft een 44-jarige man veroordeeld voor het veroorzaken van een verkeersongeval door aanmerkelijk onvoorz ..."
         },
         {
-          "title": "Barcelona Beat Al Ahly 2-1 to Win Joan Gamper Trophy",
-          "source": "Tempo.co English",
-          "url": "https://en.tempo.co/read/2117897/barcelona-beat-al-ahly-2-1-to-win-joan-gamper-trophy",
-          "publishedDate": "Thu, 20 Aug 2026 02:20:00 GMT",
-          "description": "Barcelona defeated Egyptian club Al Ahly 2-1 to lift the 2026 Joan Gamper Trophy at Camp Nou, concluding their pre-season campaign ahead of La Liga."
+          "title": "Kind overleden na verkeersongeval op Ameland",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1159858-kind-overleden-na-verkeersongeval-op-ameland",
+          "publishedDate": "Wed, 19 Aug 2026 10:12:00 GMT",
+          "description": "Een kind is woensdagmiddag door een verkeersongeval overleden in Hollum, een dorp op het eiland Ameland. Dat meldt de politie. Het kind, dat te voet was, werd aan de Trapweg geraakt door een auto. Med ..."
         },
         {
-          "title": "Barcelona vs Al Ahly Results Today: One Historic Detail Makes This Joan Gamper Trophy Different",
-          "source": "Heavy",
-          "url": "https://heavy.com/sports/soccer/fc-barcelona/barcelona-vs-al-ahly-results-today-one-historic-detail-makes-this-joan-gamper-trophy-different/",
-          "publishedDate": "Thu, 20 Aug 2026 00:35:00 GMT",
-          "description": "Barcelona vs Al Ahly results today, live score, updates, stats, lineups, and key moments from the Joan Gamper Trophy at Camp Nou."
+          "title": "Belg opgepakt voor betrokkenheid bij ernstig verkeersongeval op Kreta",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/belg-opgepakt-voor-betrokkenheid-bij-ernstig-verkeersongeval-op-kreta/160155576.html",
+          "publishedDate": "Mon, 17 Aug 2026 23:17:00 GMT",
+          "description": "Een 35-jarige Belgische toerist is zaterdagmiddag op Kreta betrokken geraakt bij een verkeersongeval. Een aangereden motorrijder raakte daarbij ernstig gewond, melden lokale media."
         },
         {
-          "title": "Three takeaways from Barcelona 2-1 Al Ahly | Joan Gamper Trophy",
-          "source": "Yahoo Sports Canada",
-          "url": "https://ca.sports.yahoo.com/news/three-takeaways-barcelona-2-1-070000729.html",
-          "publishedDate": "Thu, 20 Aug 2026 00:00:00 GMT",
-          "description": "Barcelona’s final pre-season game of the summer kicked off against Al Ahly last evening at the Spotify Camp Nou in a night of celebration as the club hosted their annual Joan Gamper Gala.The ..."
+          "title": "Verkeersongeval op E313 in Tessenderlo zorgt tijdlang voor verkeershinder richting Lummen",
+          "source": "Het Belang van Limburg",
+          "url": "https://www.hbvl.be/regio/limburg/tessenderlo-ham/verkeersongeval-op-e313-in-tessenderlo-zorgt-tijdlang-voor-verkeershinder-richting-lummen/160087261.html",
+          "publishedDate": "Sun, 16 Aug 2026 06:00:00 GMT",
+          "description": "Op de E313 richting Lummen is zondagmiddag rond 12.45 uur een zwaar verkeersongeval gebeurd ter hoogte van het parkeerterrein in Tessenderlo. Dat zorgde voor een stevige file richting Lummen."
         },
         {
-          "title": "Barcelona beat Al Ahly 2-1 to claim Joan Gamper Trophy as Gordon misses late penalty",
-          "source": "Mint",
-          "url": "https://www.livemint.com/sports/news/barcelona-beat-al-ahly-2-1-to-claim-joan-gamper-trophy-as-gordon-misses-late-penalty-11787173669992.html",
-          "publishedDate": "Wed, 19 Aug 2026 14:15:00 GMT",
-          "description": "Barcelona closed their preseason campaign with a hard-fought 2-1 victory over Egyptian side Al Ahly in the Joan Gamper Trophy on Wednesday night. The result came in front of a packed Spotify Camp Nou ..."
+          "title": "Vijf bruiloftsgasten overleden bij verkeersongeval in Turkije",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1159501-vijf-bruiloftsgasten-overleden-bij-verkeersongeval-in-turkije",
+          "publishedDate": "Sat, 15 Aug 2026 06:47:00 GMT",
+          "description": "Vijf personen zijn omgekomen bij een ernstig verkeersongeval in het zuidoosten van Turkije, onder wie twee kinderen. Ook zijn er elf gewonden, melden plaatselijke autoriteiten. Zij zaten in een minibu ..."
         },
         {
-          "title": "Frenkie de Jong treft onaangename verrassing als hij veld oploopt bij FC Barcelona",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/frenkie-de-jong-uitgefloten-door-deel-aanhang-fc-barcelona/blt959fae507301ddb6",
-          "publishedDate": "Wed, 19 Aug 2026 13:15:00 GMT",
-          "description": "Frenkie de Jong is woensdag uitgefloten door een gedeelte van de aanhang van FC Barcelona. Dat gebeurde toen de middenvelder het veld opliep voor de oefenwedstrijd tegen Al-Ahly om de Trofeo Joan Gamp ..."
+          "title": "1-jarig jongetje dood bij zwaar verkeersongeval op weg naar Atjoni",
+          "source": "Waterkant.net",
+          "url": "https://www.waterkant.net/suriname/2026/08/15/1-jarig-jongetje-dood-bij-zwaar-verkeersongeval-op-weg-naar-atjoni/",
+          "publishedDate": "Fri, 14 Aug 2026 17:03:00 GMT",
+          "description": "Bij een zwaar verkeersongeval op de weg naar Atjoni in Suriname, is een 1-jarige jongen vrijdagmiddag 14 augustus om het leven gekomen. Dat bevestigt de ..."
         },
         {
-          "title": "Barcelona 2-1 Al Ahly: Report, result, goals from Joan Gamper Trophy 2026",
-          "source": "101 Great Goals",
-          "url": "https://www.101greatgoals.com/football/la-liga/barcelona-al-ahly-report-result-joan-gamper-trophy-2026-rodri-anthony-gordon-penalty-abdelkarim-raphinha-goals/",
-          "publishedDate": "Wed, 19 Aug 2026 13:09:00 GMT",
-          "description": "See how Barcelona's new signings including Rodri were introduced to the Camp Nou crowd and read about their win over Al Ahly."
+          "title": "2 gewonden bij verkeersongeval in het Zoni&#235;nwoud in Ukkel",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/09/2-gewonden-bij-verkeersongeval-in-het-zonienwoud-in-ukkel/",
+          "publishedDate": "Sun, 09 Aug 2026 07:33:00 GMT",
+          "description": "Bij een verkeersongeval in het Zoni&#235;nwoud in de Brusselse gemeente Ukkel zijn zondag 2 mensen gewond geraakt. Bij de botsing waren 2 personenwagens en een bestelwagen betrokken. De toestand van 1 van ..."
         },
         {
-          "title": "Barcelona-fans verwelkomen Rodri, maar fluiten De Jong uit in Camp Nou",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/barcelona-fans-verwelkomen-rodri-maar-fluiten-de-jong-uit-in-camp-nou",
-          "publishedDate": "Wed, 19 Aug 2026 12:19:00 GMT",
-          "description": "Een volgepakt Camp Nou heeft woensdagavond de selectie van Barcelona voor het seizoen 2026/27 verwelkomd tijdens de traditionele wedstrijd om de Joan Gamper Trofee tegen Al-Ahly. Nieuwkomer Rodri kree ..."
+          "title": "Voormalig Benfica-speler Man&#250; (43) overleden bij verkeersongeval",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/voormalig-benfica-speler-man%C3%BA-43-overleden-bij-verkeersongeval/ar-AA27JoB3",
+          "publishedDate": "Sun, 12 Jul 2026 03:08:00 GMT",
+          "description": "Man&#250; is zaterdag op 43-jarige leeftijd om het leven gekomen bij een verkeersongeval in Portugal. De voormalige aanvaller speelde onder meer voor Benfica."
         },
         {
-          "title": "Barcelona vs Al Ahly: Confirmed Joan Gamper Trophy teams and line ups",
-          "source": "101 Great Goals",
-          "url": "https://www.101greatgoals.com/football/la-liga/barcelona-vs-al-ahly-live-joan-gamper-trophy-teams-online-stream-tv-channel-where-to-watch/",
-          "publishedDate": "Wed, 19 Aug 2026 10:25:00 GMT",
-          "description": "Barcelona and Al-Ahly have named their starting sides for their meeting at Camp Nou on Wednesday. The showdown represents the 61st edition of the Spanish side’s annual Joan Gamper Trophy match, ..."
+          "title": "Auto belandt op zijn kop bij verkeersongeval in Posterholt",
+          "source": "Limburger",
+          "url": "https://www.limburger.nl/regio/roerdalen/posterholt/auto-belandt-op-zijn-kop-bij-verkeersongeval-in-posterholt/56902677.html",
+          "publishedDate": "Mon, 14 Apr 2025 11:34:00 GMT",
+          "description": "Posterholt Bij een verkeersongeval op de N293 bij de Karkenerweg in Posterholt is maandagmiddag een auto ondersteboven langs de weg terechtgekomen. Het ongeval gebeurde rond half zes. Hulpdiensten, ..."
+        }
+      ]
+    },
+    {
+      "keyword": "tornado",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Tientallen doden en ravage in VS door reeks tornado's",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2559753-tientallen-doden-en-ravage-in-vs-door-reeks-tornado-s",
+          "publishedDate": "Fri, 14 Mar 2025 20:43:00 GMT",
+          "description": "In de Verenigde Staten zijn zeker 34 mensen om het leven gekomen door een reeks tornado's. Verschillende stormen razen over het midden van Amerika en laten een spoor van vernieling achter. Tientallen ..."
+        },
+        {
+          "title": "Vermoedelijke tornado in Belgi&#235;; ook in Nederland waarschuwingen voor supercells",
+          "source": "Weer.nl on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/vermoedelijke-tornado-in-belgi%C3%AB-ook-in-nederland-waarschuwingen-voor-supercells/ar-AA2axVPY",
+          "publishedDate": "Thu, 20 Aug 2026 02:38:29 GMT",
+          "description": "Beelden van stormschade wijzen op een mogelijke tornado tussen het Belgische Ligneuville en B&#252;llingen. Vandaag gelden er meer waarschuwingen voor zwaar onweer."
+        },
+        {
+          "title": "Dode bij zware stormen en tornado in Duitsland: vrouw (58) overleden nadat boom op haar valt",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/dode-bij-zware-stormen-en-tornado-in-duitsland-vrouw-58-overleden-nadat-boom-op-haar-valt/160262379.html",
+          "publishedDate": "Thu, 20 Aug 2026 01:05:00 GMT",
+          "description": "Zware stormen hebben in de nacht van woensdag op donderdag op verschillende plaatsen in Duitsland grote schade aangericht. Daarbij is zeker een persoon om het leven gekomen en raakten anderen gewond."
+        },
+        {
+          "title": "Mini-tornado beschadigt huis zwaar in B&#252;llingen: &quot;Bijkomende catastrofe voor brandweer in Hoge Venen&quot;",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/20/mini-tornado-buellingen/",
+          "publishedDate": "Wed, 19 Aug 2026 21:30:00 GMT",
+          "description": "In B&#252;llingen, een dorpje aan de Hoge Venen en aan de Duitse grens, heeft gisteren een mini-tornado over zich heen gekregen. De krachtige windhoos veroorzaakte heel wat schade. In het centrum is een hu ..."
+        },
+        {
+          "title": "Tornado raasde zeldzaam lang over Friesland: 'Juiste recept was compleet'",
+          "source": "NU",
+          "url": "https://www.nu.nl/binnenland/6373142/tornado-raasde-zeldzaam-lang-over-friesland-juiste-recept-was-compleet.html",
+          "publishedDate": "Tue, 21 Oct 2025 06:10:00 GMT",
+          "description": "Een tornado raasde maandagavond over het zuidwesten van Friesland. De wervelstorm duurde voor Nederlandse begrippen &quot;zeldzaam lang&quot;. Hoe ontstaat zo'n tornado? En hoe vaak komt het voor in Nederland?"
+        },
+        {
+          "title": "De Tri-State Tornado: de dodelijkste tornado in de VS ooit",
+          "source": "weer",
+          "url": "https://www.weer.nl/nieuws/algemeen/2023/de-tri-state-tornado-de-dodelijkste-tornado-in-de-vs-ooit",
+          "publishedDate": "Sat, 11 Feb 2023 01:11:00 GMT",
+          "description": "De lente nadert, de temperaturen gaan langzaam weer omhoog en – met het sterker worden van de zon – kan de atmosfeer op termijn weer onstabiel worden. Daarmee ligt, als de weersomstandigheden ..."
+        },
+        {
+          "title": "Waarom we nog steeds niet precies weten wat het verband is tussen tornado’s en klimaatverandering",
+          "source": "nationalgeographic",
+          "url": "https://www.nationalgeographic.nl/natuur-leefomgeving/a62322/waarom-we-nog-steeds-net-precies-weten-wat-het-verband-is-tussen-tornados-en-klimaatverandering",
+          "publishedDate": "Wed, 15 Dec 2021 06:31:00 GMT",
+          "description": "De tornado’s die zich onlangs in de VS voordeden, behoren tot de meest destructieve en dodelijkste in de geschiedenis. Het dodental in Kentucky, de staat die het hardst werd getroffen, is opgelopen ..."
+        },
+        {
+          "title": "Hoe ontstaan tornado's en waarom komen ze zo vaak voor in de Verenigde Staten?",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2019/03/04/hoe-tornado_s-ontstaan-en-waarom-ze-zo-vaak-in-de-verenigde-stat/",
+          "publishedDate": "Mon, 04 Mar 2019 07:45:00 GMT",
+          "description": "Bomen, auto’s, en zelfs volledige huizen: alles wat op het pad van een krachtige tornado komt, wordt zonder moeite opgezogen. Een tornado is eigenlijk een krachtige wervelwind met zeer hoge ..."
+        },
+        {
+          "title": "OVERZICHT. De dodelijkste tornado's ooit",
+          "source": "Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/overzicht.-de-dodelijkste-tornados-ooit/42409085.html",
+          "publishedDate": "Tue, 21 May 2013 06:41:00 GMT",
+          "description": "De meest dodelijke tornado, met naar schatting 1.300 doden, sloeg toe in 1989 in het Zuid-Aziatische land Bangladesh. De wervelwind van de 26ste april liet niet veel meer dan een paar bomen rechtop ..."
         }
       ]
     },
@@ -476,11 +545,25 @@
           "description": "Omwonenden van Het Groene Veld in Amsterdam-Noord, waar de oud-krakers van haventerrein ADM tot eind 2024 tijdelijk mogen wonen, hebben een eigen toekomstvisie gepresenteerd aan de gemeente. Ze willen ..."
         },
         {
-          "title": "Gouden en groene landbouwgronden in een gigantisch patchwork",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-nl/lifestyle/other/gouden-en-groene-landbouwgronden-in-een-gigantisch-patchwork/vi-AA2779oV",
-          "publishedDate": "Thu, 02 Jul 2026 16:59:00 GMT",
-          "description": "Dit landelijke landbouwlandschap laat een rustig luchtbeeld zien van gouden akkers, groene weilanden en een stille weg die door het landschap slingert. Van bovenaf zorgen de patronen in de velden, ..."
+          "title": "Een vergeten eilandru&#239;ne tussen de zee en het groen",
+          "source": "4k Films by Adnan on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/een-vergeten-eilandru%C3%AFne-tussen-de-zee-en-het-groen/vi-AA2alNpX",
+          "publishedDate": "Mon, 17 Aug 2026 23:02:01 GMT",
+          "description": "De ru&#239;nes van Kal&#248; in Jutland, Denemarken, laten de resten zien van een middeleeuws kasteel, omringd door rustige kustlandschappen, groene velden en het water van Kal&#248; Vig. Deze ru&#239;ne, eeuwen geleden ..."
+        },
+        {
+          "title": "Woonzorg Flevoland bevestigt overlijden cli&#235;nt, mogelijk misdrijf",
+          "source": "Nationale Zorggids",
+          "url": "https://www.nationalezorggids.nl/ouderenzorg/woonzorg-flevoland-bevestigt-overlijden-client-mogelijk-misdrijf/",
+          "publishedDate": "Mon, 17 Aug 2026 04:22:00 GMT",
+          "description": "Woonzorg Flevoland laat weten dat de persoon die in een woning aan de Groene Velden in Lelystad is overleden, beschermd woonde. Deze persoon kampte ..."
+        },
+        {
+          "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
+          "source": "Flevoland",
+          "url": "https://www.omroepflevoland.nl/nieuws/520283/overleden-persoon-gevonden-in-woning-lelystad-politie-houdt-rekening-met-misdrijf",
+          "publishedDate": "Sun, 16 Aug 2026 04:53:00 GMT",
+          "description": "Agenten hebben zaterdagavond een overleden persoon gevonden in een huis in Lelystad. Het lichaam werd gevonden in een woning aan de Groene Velden, ten westen van industrieterrein Oostervaart. De ..."
         },
         {
           "title": "Sportpark De Groene Velden zegt ‘nee’ tegen betaald parkeren (maar ‘s nachts is ok&#233;)",
@@ -488,20 +571,6 @@
           "url": "https://www.ad.nl/veenendaal/sportpark-de-groene-velden-zegt-nee-tegen-betaald-parkeren-maar-s-nachts-is-oke~a91c8f6a/",
           "publishedDate": "Wed, 06 May 2026 23:14:00 GMT",
           "description": "Vier Veenendaalse sportclubs op De Groene Velden zitten niet te wachten op betaald parkeren op hun gezamenlijke sportpark. Althans niet wanneer er wordt gesport. De clubs zijn w&#233;l een voorstander van ..."
-        },
-        {
-          "title": "Nieuwe straten: geen Trekhaakstraat maar Groene Velden en Lage Velden in Afferden",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/druten/nieuwe-straten-geen-trekhaakstraat-maar-groene-velden-en-lage-velden-in-afferden~adbb2b2b/",
-          "publishedDate": "Sat, 30 Aug 2025 01:53:00 GMT",
-          "description": "De wijk Groenemorgen is gepland tussen de Koningstraat, de Oude Weisestraat en de Driemorgen. De bouw is nog niet zeker omdat er nog een beroepsprocedure loopt. Als de bouw doorgaat komen er zestig ..."
-        },
-        {
-          "title": "&quot;Plan Groene Velden deugt niet&quot;",
-          "source": "Flevoland",
-          "url": "https://www.omroepflevoland.nl/nieuws/95386/lelystad-plan-groene-velden-deugt-niet",
-          "publishedDate": "Wed, 10 Oct 2012 14:50:00 GMT",
-          "description": "Het vorig jaar vastgestelde nieuwe bestemmingsplan voor de Lelystadse wijk de Groene Velden deugt niet en moet worden vernietigd. Dat betoogden bewoners en grondeigenaren van de Groene Velden woensdag ..."
         },
         {
           "title": "College: Open karakter De Groene Velden behouden",
@@ -589,154 +658,78 @@
       ]
     },
     {
-      "keyword": "bouwvakker",
+      "keyword": "sandra bullock",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Aanbieding voor €0,49/week",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/binnenland/bouwvakker-29-zwaargewond-nadat-hij-zaag-in-nek-krijgt-tijdens-sloopwerkzaamheden/158495017.html",
-          "publishedDate": "Thu, 09 Jul 2026 06:52:00 GMT",
-          "description": "Een 29-jarige bouwvakker uit Oosterhout heeft donderdagochtend tijdens werkzaamheden een zaagblad in zijn nek gekregen. Hij is zwaargewond afgevoerd naar het ziekenhuis. Dat meldt Omroep Brabant."
+          "title": "Sandra Bullock doorbreekt stilzwijgen over ALS-strijd overleden partner Bryan Randall",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/sandra-bullock-doorbreekt-stilzwijgen-over-als-strijd-overleden-partner-bryan-randall/ar-AA2auSDT",
+          "publishedDate": "Wed, 19 Aug 2026 13:20:10 GMT",
+          "description": "Sandra Bullock (57) heeft in de podcast 'SmartLess' voor het eerst uitgebreid gesproken over het overlijden van haar partner Bryan Randall in 2023. De acteur en fotograaf overleed op 57-jarige leeftij ..."
         },
         {
-          "title": "Bouwvakker kopt ‘niet gevaarlijke’ antitankgranaat tijdens sloop",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/amsterdam/bouwvakker-kopt-niet-gevaarlijke-antitankgranaat-tijdens-sloop~b1c76ba2/",
-          "publishedDate": "Sat, 02 Jul 2022 04:56:00 GMT",
-          "description": "‘Een bizarre melding op een vroege dinsdagochtend,’ schrijft de politie van basisteam Boven IJ op Facebook. Een bouwvakker belde namelijk de politie dat bij het lostrekken van een plafond in een ..."
+          "title": "Sandra Bullock deelt zeldzame gezinsfoto's vanaf ranch in Wyoming",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5640627/sandra-bullock-deelt-zeldzame-fotos-van-gezin",
+          "publishedDate": "Wed, 19 Aug 2026 06:15:00 GMT",
+          "description": "Sandra Bullock heeft op Instagram zeldzame foto's gedeeld van haar kinderen Louis (16) en Laila (12). Ze plaatste een aantal foto's van het gezin rondom hun ranch in de staat Wyoming. De 62-jarige act ..."
         },
         {
-          "title": "Bouwvakker krijgt antitankbom op hoofd tijdens werkzaamheden in Amsterdam",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/binnenland/bouwvakker-krijgt-antitankbom-op-hoofd-tijdens-werkzaamheden-in-amsterdam/64490195.html",
-          "publishedDate": "Fri, 01 Jul 2022 11:17:00 GMT",
-          "description": "In een bericht op Facebook schrijven agenten van Politie Basisteam Boven IJ vrijdag dat ze dinsdagmorgen een ’bizarre melding’ kregen. In een renovatiewoning aan het Mosveld in Amsterdam-Noord viel ..."
-        },
-        {
-          "title": "Bouwvakker (22) kritiek na val van stelling op werf in Turnhout",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/regio/antwerpen/kempen/turnhout/bouwvakker-22-kritiek-na-val-van-stelling-op-werf-in-turnhout/26070335.html",
-          "publishedDate": "Sat, 26 Nov 2022 04:17:00 GMT",
-          "description": "Arbeiders waren vrijdagnamiddag bezig met stellingen tegen een muur te plaatsen. Een 22-jarige Portugees is daarbij een tiental meter naar beneden gevallen. De bouwvakker werd in zorgwekkende toestand ..."
-        },
-        {
-          "title": "Bouwvakker valt van steiger in Delft, slachtoffer naar ziekenhuis",
-          "source": "AD",
-          "url": "https://www.ad.nl/delft/bouwvakker-valt-van-steiger-in-delft-slachtoffer-naar-ziekenhuis~a829faa5/",
-          "publishedDate": "Fri, 18 Jun 2021 02:18:00 GMT",
-          "description": ",,De bouwvakker was bezig op de steiger op een hoogte van ongeveer 2,5 meter”, meldt calamiteitensite District8. ,,Door een onbekende reden viel hij van de steiger af en raakte hij gewond.” Het Mobiel ..."
-        },
-        {
-          "title": "'Laat stijging AOW-leeftijd niet voor bouwvakker gelden'",
-          "source": "AD",
-          "url": "https://www.ad.nl/economie/laat-stijging-aow-leeftijd-niet-voor-bouwvakker-gelden~a449aa83/",
-          "publishedDate": "Thu, 19 Apr 2018 19:07:00 GMT",
-          "description": "De sociale partners in de bouw willen dat een bouwvakker na 45 dienstjaren kan stoppen met werken. ,,Dat is uniek,’’ zegt cao-onderhandelaar Hans Crombeen van vakbond FNV. ,,Voor het eerst trekken we ..."
-        },
-        {
-          "title": "Jongen (13) krijgt elf jaar cel voor doodsteken bouwvakker (53)",
-          "source": "Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/buitenland/jongen-13-krijgt-elf-jaar-cel-voor-doodsteken-bouwvakker-53/31368382.html",
-          "publishedDate": "Fri, 10 Apr 2015 10:50:00 GMT",
-          "description": "Op 14 december vorig jaar was er tussen enkele jongeren en de 53-jarige bouwvakker Christopher Barry ruzie ontstaan. Twee van de jongens volgden hem uiteindelijk in het gebouwencomplex waar hij woonde ..."
-        },
-        {
-          "title": "Bouwvakker goedkoper dan in buurlanden",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/economie/werk/bouwvakker-goedkoper-dan-in-buurlanden/30857565.html",
-          "publishedDate": "Wed, 17 Jul 2013 23:56:00 GMT",
-          "description": "In de chemiesector daarentegen is de concurrentiepositie problematisch. Dat schrijven De Standaard en Het Nieuwsblad. De kranten konden het rapport over de loonkosthandicap inkijken dat de de ..."
-        },
-        {
-          "title": "Belgische bouwvakker goedkoper dan in omliggende landen",
-          "source": "Standaard",
-          "url": "https://www.standaard.be/economie/geld/belgische-bouwvakker-goedkoper-dan-in-omliggende-landen/42488634.html",
-          "publishedDate": "Wed, 17 Jul 2013 23:00:00 GMT",
-          "description": "De bouwsector probeert momenteel een uitzondering uit de brand te slepen op de gelijkschakeling van arbeiders en bedienden omdat anders de loonkosten te hoog zouden oplopen. Wanneer men echter kijkt ..."
-        },
-        {
-          "title": "'Bouwvakker durft niet om papadag te vragen'",
+          "title": "Sandra Bullock mocht niet over ziekte overleden partner praten: 'Zijn wens'",
           "source": "NU",
-          "url": "https://www.nu.nl/economie/2238259/bouwvakker-durft-niet-om-papadag-te-vragen.html",
-          "publishedDate": "Fri, 30 Apr 2010 11:17:00 GMT",
-          "description": "RIJSWIJK - Ook bouwvakkers willen weleens wat later beginnen met werken. Bij het leeuwendeel van de bouwbedrijven zijn flexibele arbeidstijden echter niet bespreekbaar, stelt FNV Bouw. De vakbonden ..."
-        }
-      ]
-    },
-    {
-      "keyword": "hond",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Vliegtuig van KLM moet landing op Schiphol afbreken door hond vlakbij landingsbaan",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/vliegtuig-van-klm-moet-landing-op-schiphol-afbreken-door-hond-vlakbij-landingsbaan~a133eeeb/",
-          "publishedDate": "Tue, 18 Aug 2026 09:54:00 GMT",
-          "description": "Een vliegtuig heeft vrijdag een landing op Schiphol moeten afbreken omdat een hond aan de ‘airside-kant’ van de Polderbaan liep. Dat bevestigt een woordvoerder van de luchthaven. De hond was snel weer ..."
+          "url": "https://www.nu.nl/achterklap/6406884/sandra-bullock-mocht-niet-over-ziekte-overleden-partner-praten-zijn-wens.html",
+          "publishedDate": "Wed, 19 Aug 2026 23:41:00 GMT",
+          "description": "Sandra Bullock heeft voor het eerst uitgebreid gesproken over de ziekte van haar partner Bryan Randall in 2023. De acteur en fotograaf overleed op 57-jarige leeftijd aan de spierziekte ALS. Bullock ..."
         },
         {
-          "title": "Hypo-allergene hond Bailey uit het lab roept ethische vragen op",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/wetenschap/hypo-allergene-hond-bailey-uit-het-lab-roept-ethische-vragen-op~ba76a30b/",
-          "publishedDate": "Sun, 16 Aug 2026 11:02:00 GMT",
-          "description": "Geneticus Matt Walker is allergisch voor honden. En dus maakte hij een hond waar hij niet allergisch voor is. De droom voor liefhebbers met een hondenallergie, maar is het ethisch aanvaardbaar? ‘Dit g ..."
+          "title": "The witches are back: alles wat we tot nu toe weten over ‘Practical Magic 2’",
+          "source": "Marie Claire Belgi&#235;",
+          "url": "https://marieclaire.be/nl/the-witches-are-back-alles-wat-we-tot-nu-toe-weten-over-practical-magic-2/",
+          "publishedDate": "Wed, 19 Aug 2026 17:01:00 GMT",
+          "description": "Bijna 30 jaar na het origineel uit 1998 keren Sandra Bullock en Nicole Kidman terug als heksenzussen Sally en Gillian in 'Practical Magic 2'."
         },
         {
-          "title": "Agent schiet op agressieve hond in Leeuwarden",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-leeuwarden/agent-schiet-op-agressieve-hond-in-leeuwarden~ad60880b/",
-          "publishedDate": "Wed, 12 Aug 2026 00:36:00 GMT",
-          "description": "Een agent heeft woensdagmiddag geschoten op een agressieve hond in Leeuwarden. Volgens de politie was de situatie gevaarlijk. Of de hond geraakt is, is niet duidelijk. De viervoeter wordt door een die ..."
+          "title": "Sandra Bullock praat voor het eerst over overleden partner Bryan",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/sandra-bullock-praat-voor-het-eerst-over-overleden-partner-bryan",
+          "publishedDate": "Wed, 19 Aug 2026 15:20:00 GMT",
+          "description": "Sandra Bullock heeft in de podcast SmartLess voor het eerst uitgebreid gesproken over het overlijden van haar partner Bryan Randall in 2023. De acteur en fotograaf overleed op 57-jarige leeftijd aan d ..."
         },
         {
-          "title": "Mechelen zoekt nu ook de leukste hond: “Na de katten, mogen de honden schitteren”",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/regio/antwerpen/rivierenland/mechelen/mechelen-zoekt-nu-ook-de-leukste-hond-na-de-katten-mogen-de-honden-schitteren/160261759.html",
-          "publishedDate": "Thu, 20 Aug 2026 00:59:00 GMT",
-          "description": "Na de verkiezing van de leukste kat van Mechelen, gaat schepen van Dierenwelzijn Patrick Princen (Voor Mechelen) nu op zoek naar de leukste hond. Mechelaars kunnen hun viervoeter nomineren via een onl ..."
+          "title": "De beginjaren van Sandra Bullock",
+          "source": "Showbizz Daily International on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/de-beginjaren-van-sandra-bullock/vi-AA24xdRb",
+          "publishedDate": "Mon, 17 Aug 2026 22:40:00 GMT",
+          "description": "Sandra Annette Bullock werd geboren in Arlington, Virginia, in 1964. Films als 'Speed', 'Crash' en 'Gravity' maakten haar tot een ster."
         },
         {
-          "title": "Mechelen zoekt leukste hond en vraagt aandacht voor adoptie en verantwoord hondenbezit",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/mechelen/mechelen-zoekt-leukste-hond-en-vraagt-aandacht-voor-adoptie-en-verantwoord-hondenbezit~a5ced6cb/",
-          "publishedDate": "Wed, 19 Aug 2026 21:46:00 GMT",
-          "description": "Na de zoektocht naar de &lt;a href=&quot;https://www.hln.be/mechelen/malibu-2-is-uitgeroepen-tot-leukste-kat-van-mechelen-ze-werd-met-dichtgeplakte-oogjes-en-zwaar-ziek-langs-de-weg-gevonden~abfc2819/&quot; target ..."
+          "title": "Vanaf vandaag kijk je op Netflix naar een even zo spectaculaire als oogverblindende ruimtefilm die keihard binnenkomt",
+          "source": "FilmTotaal",
+          "url": "https://www.filmtotaal.nl/nieuws/134278",
+          "publishedDate": "Thu, 13 Aug 2026 23:00:00 GMT",
+          "description": "De sciencefictionthriller Gravity uit 2013 staat sinds vandaag op Netflix. De film van Alfonso Cuar&#243;n won zeven Oscars, waaronder die voor beste regie, beste camerawerk en beste visuele effecten. Alfo ..."
         },
         {
-          "title": "Wie heeft de leukste hond van ’t stad? Bar Leon houdt Grote Borgerhondenshow",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/borgerhout/wie-heeft-de-leukste-hond-van-t-stad-bar-leon-houdt-grote-borgerhondenshow/160227958.html",
-          "publishedDate": "Wed, 19 Aug 2026 06:26:00 GMT",
-          "description": "Wie heeft de leukste, gekste, grappigste of schattigste hond van ’t stad? Dat moet op zondag 23 augustus blijken tijdens de Grote Borgerhondenshow aan Bar Leon. Het wordt geen klassieke hondenshow waa ..."
+          "title": "Sandra Bullock zwaar onder vuur na controverse rond 'The Blind Side’: &quot;Geef je Oscar af”",
+          "source": "HLN",
+          "url": "https://www.hln.be/celebrities/sandra-bullock-zwaar-onder-vuur-na-controverse-rond-the-blind-side-geef-je-oscar-af~a951848c/",
+          "publishedDate": "Tue, 15 Aug 2023 23:43:00 GMT",
+          "description": "De heisa rond de explosieve rechtszaak die voormalig American Football-speler Michael Oher (37) heeft aangespannen tegen de familie Tuohy - het verhaal dat werd verfilmd in ‘The Blind Side’ uit 2009 - ..."
         },
         {
-          "title": "De Trouwe Hond Fidelitas fier op honderdjarig bestaan: “Mijlpaal in het vormen van pupjes tot gehoorzame honden”",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/dendermonde/de-trouwe-hond-fidelitas-fier-op-honderdjarig-bestaan-mijlpaal-in-het-vormen-van-pupjes-tot-gehoorzame-honden~ac5e8fec/",
-          "publishedDate": "Tue, 18 Aug 2026 19:42:00 GMT",
-          "description": "Hondenclub De Trouwe Hond Fidelitas uit Dendermonde bestaat honderd jaar. En dat zet de vereniging graag vol trots in de kijker. “We zijn &#233;&#233;n van oudste hondenclubs in het land”."
+          "title": "Sandra Bullocks partner, Bryan Randall (57), is overleden na een jarenlange strijd tegen ALS",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/lifestyle/lifestyle-nieuws/a44757795/bryan-randall-sandra-bullock-overleden-als/",
+          "publishedDate": "Mon, 07 Aug 2023 23:47:00 GMT",
+          "description": "Op maandagavond is naar buiten gekomen dat filmster Sandra Bullock haar partner met wie ze acht jaar samen was is verloren. Bryan Randall streed de laatste drie jaar van zijn leven tegen de ziekte ALS ..."
         },
         {
-          "title": "Waarom je je hond beter thuislaat tijdens de zonsverduistering",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/natuur-en-milieu/waarom-je-je-hond-beter-thuislaat-tijdens-de-zonsverduistering",
-          "publishedDate": "Wed, 12 Aug 2026 02:12:00 GMT",
-          "description": "Vanavond kijken veel Nederlanders naar de bijzondere zonsverduistering. Maar neem je hond liever niet mee naar een drukke kijkplek. Niet omdat een hond gegarandeerd in paniek raakt of automatisch naar ..."
-        },
-        {
-          "title": "Bij 30 graden buiten is het asfalt al bijna 60 graden: zo herken je dat je hond of kat oververhit raakt",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/dieren/bij-30-graden-buiten-is-het-asfalt-al-bijna-60-graden-zo-herken-je-dat-je-hond-of-kat-oververhit-raakt",
-          "publishedDate": "Tue, 11 Aug 2026 03:25:00 GMT",
-          "description": "Jij loopt op schoenzolen, je hond niet.&#160;Op een dag van 30 graden is de zwarte weg onder zijn poten geen 30 maar richting 60 graden — heet genoeg voor blaren in minder dan een minuut. En als het dan mi ..."
-        },
-        {
-          "title": "Horror in dierenpension? Baasjes slaan alarm na dood van hond Banjer",
-          "source": "PowNed",
-          "url": "https://www.powned.tv/article/horror-in-dierenpension-baasjes-slaan-alarm-na-dood-van-hond-banjer~6377/",
-          "publishedDate": "Wed, 05 Aug 2026 17:01:00 GMT",
-          "description": "Je brengt je hond met een gerust hart naar een pension, maar haalt hem zwaargewond of helemaal niet meer levend op. Dat is volgens meerdere gedupeerden de harde realiteit bij een dierenpension in Darp ..."
+          "title": "De beste films met Sandra Bullock",
+          "source": "filmvandaag",
+          "url": "https://www.filmvandaag.nl/acteur/Sandra+Bullock",
+          "publishedDate": "Mon, 09 Oct 2017 15:34:00 GMT",
+          "description": "Bekijk hier het overzicht van de beste films met Sandra Bullock. Sandra Bullock speelt in 53 films, die we hebben gesorteerd op IMDb-score. Via onze uitgebreide zoekpagina kun je zoeken in alle films ..."
         }
       ]
     }
