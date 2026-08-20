@@ -1,42 +1,334 @@
 {
-  "fetchedAt": "2026-08-20T02:13:11.377Z",
+  "fetchedAt": "2026-08-20T03:23:12.321Z",
   "trends": [
     {
       "keyword": "nec",
       "trafficLabel": "50K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Bischoff put hoop uit aansluitingstreffer na 'stomme fouten' NEC",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/bischoff-put-hoop-uit-aansluitingstreffer-na-stomme-fouten-nec/ar-AA2avGvB?ocid=BingNewsVerp",
+          "publishedDate": "Wed, 19 Aug 2026 14:43:00 GMT",
+          "description": "NEC heeft woensdagavond een pijnlijke 1-3 nederlaag geleden tegen FK Bod&#248;/Glimt in de voorronde van de Champions League . Ondanks een lastige avond in De Goffert en enkele kostbare fouten, blijft doel"
+        },
+        {
+          "title": "Invalidenparkeerplaats bij Goffertstadion niet bereikbaar: ‘Ga je bijna 40 jaar naar NEC en dan dit’",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/nec/invalidenparkeerplaats-bij-goffertstadion-niet-bereikbaar-ga-je-bijna-40-jaar-naar-nec-en-dan-dit~a824a33d/",
+          "publishedDate": "Wed, 19 Aug 2026 00:46:00 GMT",
+          "description": "NEC strijdt vanavond thuis in het Goffertstadion tegen Bod&#248;/Glimt voor een plek in de Champions League. Een uniek moment voor de club. Maar veel supporters met een lichamelijke beperking lijken het ni"
+        }
+      ]
     },
     {
       "keyword": "oostenrijk",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Vakantie in Oostenrijk eindigt in drama: Nederlandse vader ziet 12-jarige zoon 30 meter naar beneden vallen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/vakantie-in-oostenrijk-eindigt-in-drama-nederlandse-vader-ziet-12-jarige-zoon-30-meter-naar-beneden-vallen~a4895468/",
+          "publishedDate": "Wed, 19 Aug 2026 00:09:00 GMT",
+          "description": "Een 12-jarige Nederlandse jongen ligt zwaargewond op de intensive care in Oostenrijk na een metersdiepe val tijdens een bergwandeling in Tirol. De tiener stortte zondagochtend over steil en rotsachtig ..."
+        },
+        {
+          "title": "De verkiezingsuitslag in Oostenrijk heeft gevolgen voor de hele EU",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2024/10/04/de-verkiezingsuitslag-in-oostenrijk-heeft-gevolgen-voor-de-hele-eu-a4868123",
+          "publishedDate": "Thu, 03 Oct 2024 17:00:00 GMT",
+          "description": "Dit is het dagelijkse commentaar van NRC. Het bevat meningen, interpretaties en keuzes. Ze worden geschreven door een groep redacteuren, geselecteerd door de hoofdredacteur. In de commentaren laat NRC ..."
+        },
+        {
+          "title": "Nederlands gezin crasht met auto in Oostenrijk en komt ondersteboven in bos terecht: “Remmen raakten oververhit”",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/nederlands-gezin-crasht-met-auto-in-oostenrijk-en-komt-ondersteboven-in-bos-terecht-remmen-raakten-oververhit/159767680.html",
+          "publishedDate": "Fri, 07 Aug 2026 14:40:00 GMT",
+          "description": "Een Nederlands gezin van vier is met hun auto in Oostenrijk gecrasht na technische problemen. De auto kwam ondersteboven terecht in een bos, in de regio Karinthi&#235;."
+        },
+        {
+          "title": "Kwart minder neerslag kost Oostenrijk vijfde aan graan",
+          "source": "Boerenbusiness.nl",
+          "url": "https://www.boerenbusiness.nl/artikel/10916700/kwart-minder-neerslag-kost-oostenrijk-vijfde-aan-graan",
+          "publishedDate": "Thu, 06 Aug 2026 00:30:00 GMT",
+          "description": "Droogte en hitte drukken de Oostenrijkse graanproductie fors. De kwaliteit blijft goed, maar voorraden en export drukken de prijsvorming. Lees meer over ..."
+        },
+        {
+          "title": "Kerken en kerkelijke eigendommen in Frankrijk en Oostenrijk vallen vaak ten prooi aan geweld",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1158505-kerken-en-kerkelijke-eigendommen-in-frankrijk-en-oostenrijk-vallen-vaak-ten-prooi-aan-geweld",
+          "publishedDate": "Tue, 04 Aug 2026 23:54:00 GMT",
+          "description": "In Frankrijk werd in 2025 melding gedaan van ruim 1300 antisemitische incidenten. Het aantal meldingen van aanvallen op christenen en moslims en hun eigendommen nam licht toe ten opzichte van 2024."
+        },
+        {
+          "title": "Oostenrijk getroffen door zwaar noodweer: bergdorpen in Tirol overspoeld door modder en puin",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/oostenrijk-getroffen-door-zwaar-noodweer-bergdorpen-in-tirol-overspoeld-door-modder-en-puin~a2ed61cb/",
+          "publishedDate": "Thu, 30 Jul 2026 05:23:00 GMT",
+          "description": "Terwijl het zuiden van Europa geteisterd wordt door zware bosbranden, hebben hevige onweersbuien woensdagavond voor grote schade gezorgd in Tirol, in het westen van Oostenrijk. Vooral Vent en S&#246;lden i ..."
+        },
+        {
+          "title": "Oostenrijk wil legerdienst verlengen tot negen maanden",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/oostenrijk-wil-legerdienst-verlengen-tot-negen-maanden/159265553.html",
+          "publishedDate": "Mon, 27 Jul 2026 10:52:00 GMT",
+          "description": "De Oostenrijkse regering wil de legerdienst verlengen met drie maanden, tot in totaal negen maanden. De drie coalitiepartners binnen de regering - de Oostenrijkse Volkspartij (&#214;VP), het liberale Neos ..."
+        },
+        {
+          "title": "Max Verstappen in Oostenrijk zien racen? Zo kijk je live mee in Nederland",
+          "source": "gpblog",
+          "url": "https://www.gpblog.com/nl/nieuws/max-verstappen-in-oostenrijk-zien-racen-zo-kijk-je-live-mee-in-nederland",
+          "publishedDate": "Sun, 22 Jun 2025 08:11:00 GMT",
+          "description": "Na de Grand Prix van Canada reist het Formule 1-circus door naar Oostenrijk. Hoe en waar je alle sessies met Max Verstappen op de Red Bull Ring kunt volgen, zet GPblog in dit artikel voor je op een ..."
+        },
+        {
+          "title": "Merih Demiral leidt Turkije naar overwinning op Oostenrijk in EK knock-outfase",
+          "source": "Vi",
+          "url": "https://www.vi.nl/wedstrijden/2024-07-02/oostenrijk-vs-turkije",
+          "publishedDate": "Mon, 01 Jul 2024 17:00:00 GMT",
+          "description": "In een spannende confrontatie in de knock-outfase van het Europees Kampioenschap in het Leipzig Stadium, heeft Turkije een cruciale 2-1 overwinning behaald op Oostenrijk. Merih Demiral, de verdediger ..."
+        },
+        {
+          "title": "Waarom Oostenrijk een van de beste culinaire bestemmingen van het moment is",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/eten/eten-drinken/a40987091/oostenrijk-culinair-regio-wenen-karinthie-niederoesterreich/",
+          "publishedDate": "Fri, 23 Sep 2022 07:02:00 GMT",
+          "description": "Hoofdstad Wenen wordt vooral geassocieerd met de schnitzel, sachertorte (een hemelse chocoladecake) en tafelspitz (mals rundvlees), maar biedt nog veel meer. Wist je bijvoorbeeld dat wijn een grote ..."
+        }
+      ]
     },
     {
       "keyword": "barcelona - al-ahly",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Geen warm welkom voor Frenkie de Jong: Oranje-international uitgefloten voor oefenduel Barcelona",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/geen-warm-welkom-voor-frenkie-de-jong-oranje-international-uitgefloten-voor-oefenduel-barcelona~a24b392c/",
+          "publishedDate": "Wed, 19 Aug 2026 07:50:00 GMT",
+          "description": "Bij de traditionele spelerspresentatie van Barcelona, voorafgaand aan de oefenwedstrijd tegen Al Ahly, kreeg Frenkie de Jong woensdagavond geen warm welkom. De geblesseerde middenvelder werd bij zijn ..."
+        },
+        {
+          "title": "Barcelona vs Al Ahly LIVE | Joan Gamper Trophy 2026",
+          "source": "Khel Now",
+          "url": "https://khelnow.com/football/barcelona-vs-al-ahly-live-joan-gamper-trophy-202608",
+          "publishedDate": "Wed, 19 Aug 2026 17:03:00 GMT",
+          "description": "Catch all the action from the Joan Gamper Trophy 2026 clash. Watch the match live and follow the updates here."
+        },
+        {
+          "title": "Barcelona vs Al Ahly: Full lineups confirmed for Joan Gamper Trophy 2026",
+          "source": "Khel Now",
+          "url": "https://khelnow.com/football/barcelona-vs-al-ahly-lineups-joan-gamper-trophy-202608",
+          "publishedDate": "Wed, 19 Aug 2026 15:47:00 GMT",
+          "description": "See the full confirmed lineups for the Barcelona vs Al Ahly Joan Gamper Trophy 2026 match at the Camp Nou on August 19."
+        },
+        {
+          "title": "Frenkie de Jong treft onaangename verrassing als hij veld oploopt bij FC Barcelona",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/frenkie-de-jong-uitgefloten-door-deel-aanhang-fc-barcelona/blt959fae507301ddb6",
+          "publishedDate": "Wed, 19 Aug 2026 13:15:00 GMT",
+          "description": "Frenkie de Jong is woensdag uitgefloten door een gedeelte van de aanhang van FC Barcelona. Dat gebeurde toen de middenvelder het veld opliep voor de oefenwedstrijd tegen Al-Ahly om de Trofeo Joan Gamp ..."
+        },
+        {
+          "title": "Barcelona Beat Al Ahly 2-1 to Win Joan Gamper Trophy",
+          "source": "Tempo.co English",
+          "url": "https://en.tempo.co/read/2117897/barcelona-beat-al-ahly-2-1-to-win-joan-gamper-trophy",
+          "publishedDate": "Wed, 19 Aug 2026 12:20:00 GMT",
+          "description": "Barcelona defeated Egyptian club Al Ahly 2-1 to lift the 2026 Joan Gamper Trophy at Camp Nou, concluding their pre-season campaign ahead of La Liga."
+        },
+        {
+          "title": "Barcelona-fans verwelkomen Rodri, maar fluiten De Jong uit in Camp Nou",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/barcelona-fans-verwelkomen-rodri-maar-fluiten-de-jong-uit-in-camp-nou",
+          "publishedDate": "Wed, 19 Aug 2026 12:19:00 GMT",
+          "description": "Een volgepakt Camp Nou heeft woensdagavond de selectie van Barcelona voor het seizoen 2026/27 verwelkomd tijdens de traditionele wedstrijd om de Joan Gamper Trofee tegen Al-Ahly. Nieuwkomer Rodri kree ..."
+        },
+        {
+          "title": "Barcelona vs. Al Ahly Lineups &amp; Confirmed Team News for Final Preseason Friendly",
+          "source": "Athlon Sports on MSN",
+          "url": "https://www.msn.com/en-us/sports/soccer/barcelona-vs-al-ahly-lineups-confirmed-team-news-for-final-preseason-friendly/ar-AA2atWjW",
+          "publishedDate": "Wed, 19 Aug 2026 11:18:00 GMT",
+          "description": "Barcelona vs. Al Ahly lineups, team news and predicted XIs for the 2026 Joan Gamper Trophy preseason friendly at Spotify Camp Nou."
+        },
+        {
+          "title": "Barcelona vs Al Ahly: Confirmed Joan Gamper Trophy teams and line ups",
+          "source": "101 Great Goals",
+          "url": "https://www.101greatgoals.com/football/la-liga/barcelona-vs-al-ahly-live-joan-gamper-trophy-teams-online-stream-tv-channel-where-to-watch/",
+          "publishedDate": "Wed, 19 Aug 2026 10:25:00 GMT",
+          "description": "Barcelona and Al-Ahly have named their starting sides for their meeting at Camp Nou on Wednesday. The showdown represents the 61st edition of the Spanish side’s annual Joan Gamper Trophy match, ..."
+        },
+        {
+          "title": "Is Rodri Playing Today for Barcelona vs. Al Ahly in the Joan Gamper Trophy?",
+          "source": "Athlon Sports on MSN",
+          "url": "https://www.msn.com/en-us/sports/other/is-rodri-playing-today-for-barcelona-vs-al-ahly-in-the-joan-gamper-trophy/ar-AA2auQxm",
+          "publishedDate": "Wed, 19 Aug 2026 09:33:18 GMT",
+          "description": "Barcelona face Egyptian club Al Ahly SC today in the Joan Gamper Trophy."
+        },
+        {
+          "title": "Barcelona Vs Al Ahly Live Streaming, Club Friendly 2026: Preview, When And Where To Watch",
+          "source": "Outlook India",
+          "url": "https://www.outlookindia.com/sports/football/barcelona-vs-al-ahly-live-streaming-club-friendly-2026-preview-when-and-where-to-watch",
+          "publishedDate": "Wed, 19 Aug 2026 09:15:00 GMT",
+          "description": "Barcelona face Al Ahly in the Joan Gamper Trophy at Camp Nou. Get the complete match preview, team news, key players, recent form and all major talking points ..."
+        }
+      ]
     },
     {
       "keyword": "wendy van wanten",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Zoon van Belgische prins Laurent wettelijk erkend",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627460-zoon-van-belgische-prins-laurent-wettelijk-erkend",
+          "publishedDate": "Wed, 19 Aug 2026 01:29:00 GMT",
+          "description": "Cl&#233;ment Vandenkerckhove werd geboren uit een relatie tussen prins Laurent en de zangeres Wendy Van Wanten. Na die relatie trouwde Laurent met prinses Claire, met wie hij drie kinderen kreeg."
+        },
+        {
+          "title": "Prins Laurent erkent zijn zoon nu ook officieel: Cl&#233;ment wordt prins van Belgi&#235;",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/prins-laurent-erkent-zijn-zoon-nu-ook-officieel-clement-wordt-prins-van-belgie~a73efb0e/",
+          "publishedDate": "Tue, 18 Aug 2026 19:50:00 GMT",
+          "description": "Prins Laurent (62) maakte in 2025 al bekend dat Cl&#233;ment Vandenkerckhove (26), de zoon van Wendy Van Wanten (66), ook zijn kind is. Nu erkent hij Cl&#233;ment ook officieel. Dat betekent dat Belgi&#235; een nieu ..."
+        },
+        {
+          "title": "Cl&#233;ment is officieel de zoon van prins Laurent en dus zelf ook prins: wat betekent dat voor hem? En voor Belgi&#235;?",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/binnenland/clement-is-officieel-de-zoon-van-prins-laurent-en-dus-zelf-ook-prins-wat-betekent-dat-voor-hem-en-voor-belgie/160207910.html",
+          "publishedDate": "Wed, 19 Aug 2026 02:12:00 GMT",
+          "description": "Cl&#233;ment Vandenkerckhove (25) is behalve de zoon van Wendy Van Wanten nu ook officieel de zoon van prins Laurent. Met een kort bezoekje aan het gemeentehuis in februari was de erkenning van het vadersc ..."
+        },
+        {
+          "title": "Cl&#233;ment is status als buitenstaander van koninklijke familie kwijt: prins Laurent erkent hem officieel als zoon",
+          "source": "De Morgen",
+          "url": "https://www.demorgen.be/nieuws/clement-is-status-als-buitenstaander-van-koninklijke-familie-kwijt-prins-laurent-erkent-hem-officieel-als-zoon~b73efb0e/",
+          "publishedDate": "Wed, 19 Aug 2026 01:28:00 GMT",
+          "description": "Prins Laurent heeft Cl&#233;ment Vandenkerckhove, zijn zoon met Wendy van Wanten, nu ook officieel erkend bij de burgerlijke stand. Dat onthult Le Soir. Daarmee is Cl&#233;ment nu een prins van Belgi&#235;, al kan h ..."
+        },
+        {
+          "title": "Prins Laurent erkent zoon Cl&#233;ment officieel: mogelijk nieuwe prins van Belgi&#235;",
+          "source": "RTL Boulevard (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/prins-laurent-erkent-zoon-cl%C3%A9ment-officieel-mogelijk-nieuwe-prins-van-belgi%C3%AB/ar-AA2arCWv",
+          "publishedDate": "Wed, 19 Aug 2026 00:00:04 GMT",
+          "description": "De Belgische prins Laurent (62) heeft zijn buitenechtelijke zoon Cl&#233;ment Vandenkerckhove (26), die hij kreeg met Wendy Van Wanten (66), officieel erkend. Dat schrijft de Belgische krant Le Soir woensd ..."
+        },
+        {
+          "title": "Cl&#233;ment Vandenkerckhove is wettelijk erkend als zoon van prins Laurent",
+          "source": "VRT on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/cl%C3%A9ment-vandenkerckhove-is-wettelijk-erkend-als-zoon-van-prins-laurent/ar-AA2arpXl",
+          "publishedDate": "Tue, 18 Aug 2026 23:45:14 GMT",
+          "description": "Cl&#233;ment Vandenkerckhove is wettelijk erkend als zoon van prins Laurent. Dat schrijft de krant Le Soir en is aan onze redactie bevestigd door Frans Van Coppenolle, de man van Cl&#233;ments moeder Iris Vande ..."
+        },
+        {
+          "title": "“Mijn leven kan momenteel niet beter zijn”: wie is Cl&#233;ment, de nieuwste prins van ons koningshuis?",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/royalty/mijn-leven-kan-momenteel-niet-beter-zijn-wie-is-clement-de-nieuwste-prins-van-ons-koningshuis~a99ce0a0/",
+          "publishedDate": "Tue, 18 Aug 2026 21:43:00 GMT",
+          "description": "Zes jaar na hun eerste gesprek als vader en zoon heeft prins Laurent (62) Cl&#233;ment Vandenkerckhove (26) officieel erkend. Voor de twintiger telt echter maar &#233;&#233;n ding: dat hij eindelijk een hechte band ..."
+        },
+        {
+          "title": "Wendy Van Wanten",
+          "source": "Gazet van Antwerpen",
+          "url": "https://www.gva.be/tag/wendy-van-wanten/",
+          "publishedDate": "Sun, 14 Jun 2026 08:19:00 GMT",
+          "description": "PremiumAmber en Dylan halen met ‘Perron geluk’ top van Vlaamse hitparade: “Gebaseerd op ontmoeting op stationsperron in Deinze” Amber Verleyen (33) uit Deinze en haar man Dylan Vanholme (41 en zoon ..."
+        },
+        {
+          "title": "Zonder de Nederlandse Pin-Up Club had prins Laurent Wendy Van Wanten waarschijnlijk nooit ontmoet",
+          "source": "AD",
+          "url": "https://www.ad.nl/show/zonder-de-nederlandse-pin-up-club-had-prins-laurent-wendy-van-wanten-waarschijnlijk-nooit-ontmoet~a88f9ff6/",
+          "publishedDate": "Tue, 09 Sep 2025 17:00:00 GMT",
+          "description": "Belgi&#235; heeft er sinds dinsdag ineens een prins bij. Op die titel kan de 25-jarige zoon van zangeres Wendy Van Wanten aanspraak maken nu prins Laurent heeft erkend dat hij de vader is. Minder bekend: ..."
+        },
+        {
+          "title": "Wendy Van Wanten wordt 65: “Botox en fillers, da’s voor mij niet nodig”",
+          "source": "Gazet van Antwerpen",
+          "url": "https://www.gva.be/media-en-cultuur/bv-en-co/wendy-van-wanten-wordt-65-botox-en-fillers-da-s-voor-mij-niet-nodig/38302330.html",
+          "publishedDate": "Thu, 06 Feb 2025 06:44:00 GMT",
+          "description": "Wendy, die officieel Iris Vandenkerckhove heet, verfraaide in de begindagen van haar loopbaan als model de covers van enkele vooraanstaande magazines waaronder Elle, Vogue, Burda, en Flair. Dat ..."
+        }
+      ]
     },
     {
       "keyword": "frontale botsing",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Zeker 23 doden bij botsing tussen busje en vrachtwagen in Brazili&#235;",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627478-zeker-23-doden-bij-botsing-tussen-busje-en-vrachtwagen-in-brazilie",
+          "publishedDate": "Wed, 19 Aug 2026 04:38:00 GMT",
+          "description": "Vijf mensen raakten gewond. Het lijkt erop dat de vrachtwagen in de nacht op de verkeerde weghelft terechtkwam."
+        },
+        {
+          "title": "Man (41) overleden na frontale botsing met vrachtwagen bij Hazerswoude-Dorp",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/man-41-overleden-na-frontale-botsing-met-vrachtwagen-bij-hazerswoude-dorp~a194ca07/",
+          "publishedDate": "Tue, 18 Aug 2026 23:15:00 GMT",
+          "description": "Een vrachtwagen en een auto zijn woensdagochtend frontaal op elkaar gebotst op de N455 bij Hazerswoude-Dorp. De bestuurder van de auto, een 41-jarige man uit Zoeterwoude, is om het leven gekomen. Dat ..."
+        },
+        {
+          "title": "Twee gewonden bij frontale botsing tussen auto’s in Belfeld",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-venlo/twee-gewonden-bij-frontale-botsing-tussen-autos-in-belfeld~a28d5d4b/",
+          "publishedDate": "Tue, 18 Aug 2026 04:01:00 GMT",
+          "description": "Twee personenauto’s zijn dinsdagavond frontaal op elkaar gebotst op de Prins Hendrikstraat in Belfeld. Twee inzittenden raakten gewond en zijn met ambulances naar het ziekenhuis gebracht."
+        },
+        {
+          "title": "Dode en gewonden bij botsing tussen busje en vrachtwagen in Overijssel",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2624953-dode-en-gewonden-bij-botsing-tussen-busje-en-vrachtwagen-in-overijssel",
+          "publishedDate": "Thu, 30 Jul 2026 05:22:00 GMT",
+          "description": "Bij een verkeersongeluk op de N48 bij Balkbrug in Overijssel is iemand om het leven gekomen. Zes anderen zijn zwaargewond naar het ziekenhuis gebracht. De hulpdiensten kregen vanochtend meldingen binn ..."
+        },
+        {
+          "title": "41-jarige man overleden bij frontale aanrijding met vrachtwagen op N455",
+          "source": "Transport Online",
+          "url": "https://www.transport-online.nl/135389/41-jarige-man-overleden-bij-frontale-aanrijding-met-vrachtwagen-op-n455/",
+          "publishedDate": "Wed, 19 Aug 2026 14:08:00 GMT",
+          "description": "HAZERSWOUDE-DORP – Bij een ernstig verkeersongeval tussen een vrachtwagen en een personenauto op de N455 bij Hazerswoude-Dorp is woensdagochtend een 41-jarige man uit Zoeterwoude om het leven gekomen."
+        },
+        {
+          "title": "Zoeterwoudenaar (41) overleden na frontale botsing bij Hazerswoude-Dorp",
+          "source": "Sleutelstad",
+          "url": "https://sleutelstad.nl/2026/08/19/zoeterwoudenaar-41-overleden-na-frontale-botsing-bij-hazerswoude-dorp/",
+          "publishedDate": "Wed, 19 Aug 2026 04:47:00 GMT",
+          "description": "Een 41-jarige man uit Zoeterwoude is woensdagochtend om het leven gekomen bij een frontale botsing tussen een personenauto en een vrachtwagen op de N455 bij Hazerswoude-Dorp. De vrachtwagenchauffeur r ..."
+        },
+        {
+          "title": "Brandweer moet bestuurder bevrijden na frontale botsing in Niel",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/niel/brandweer-moet-bestuurder-bevrijden-na-frontale-botsing-in-niel~a6b868d1/",
+          "publishedDate": "Wed, 19 Aug 2026 03:43:00 GMT",
+          "description": "In de Antwerpsestraat in Niel, ter hoogte van de kruising met de Edward Claessenslaan, is woensdagmiddag omstreeks 15.30 uur een zwaar verkeersongeval gebeurd. Twee personenwagens kwamen er frontaal m ..."
+        },
+        {
+          "title": "Dode (41) na ernstige frontale botsing tussen auto en vrachtwagen",
+          "source": "112 Nieuws Nederland",
+          "url": "https://112nieuws.net/2026/08/19/dode-41-na-ernstige-frontale-botsing-tussen-auto-em-vrachtwagen/",
+          "publishedDate": "Tue, 18 Aug 2026 23:43:00 GMT",
+          "description": "Bij een ernstig verkeersongeval op de Hoogeveenseweg (N455) in Hazerswoude-Dorp is woensdagochtend een 41-jarige man uit Zoeterwoude overleden. Rond 06.15 uur kwamen daar een personenauto en een vrach ..."
+        },
+        {
+          "title": "Dode bij frontale botsing tussen auto en vrachtwagen",
+          "source": "Omroep West",
+          "url": "https://www.omroepwest.nl/112/5139086/dode-bij-frontale-botsing-tussen-auto-en-vrachtwagen",
+          "publishedDate": "Tue, 18 Aug 2026 23:37:00 GMT",
+          "description": "Op de N455 bij Boskoop is woensdagochtend een 41-jarige man uit Zoeterwoude om het leven gekomen. Dat heeft de politie bekendgemaakt. De auto waarin het slachtoffer zat, botste frontaal op een vrachtw ..."
+        },
+        {
+          "title": "Twee gewonden bij frontale botsing in Belfeld",
+          "source": "De Limburger",
+          "url": "https://www.limburger.nl/regio/venlo/belfeld/twee-gewonden-bij-frontale-botsing-in-belfeld/160200440.html",
+          "publishedDate": "Tue, 18 Aug 2026 12:34:00 GMT",
+          "description": "BelfeldBij een frontale botsing in Belfeld zijn dinsdagavond twee automobilisten gewond geraakt. Het ongeval gebeurde rond 18.40 uur op de Prins Hendrikstraat. De twee slachtoffers zijn beiden met een ..."
+        }
+      ]
     },
     {
       "keyword": "boot",
       "trafficLabel": "10K+",
       "articles": [
-        {
-          "title": "Explosie op IJsselmeer: boot gezonken, gewonden door KNRM Urk aan wal gebracht",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/urk/explosie-op-ijsselmeer-boot-gezonken-gewonden-door-knrm-urk-aan-wal-gebracht~a065620d/",
-          "publishedDate": "Sun, 02 Aug 2026 00:42:00 GMT",
-          "description": "Er is een explosie geweest op een boot op het IJsselmeer. Daarbij is brand ontstaan. Zeker twee opvarenden zijn volgens de hulpdiensten gewond geraakt. De boot is gezonken."
-        },
         {
           "title": "Nieuw-Zeelanders Ann (84) en Bret (85) stranden met boot in Menen, maar krijgen meteen hulp: “Mensen zijn hier zo gastvrij”",
           "source": "Het Nieuwsblad",
@@ -59,11 +351,11 @@
           "description": "De 5,8 meter lange RBB19 combineert het uiterlijk van een vroege Sunseeker uit Quantum of Solace met 250 pk en moderne apparatuur. Van de kostbare speedboot worden naar verwachting slechts enkele genu ..."
         },
         {
-          "title": "Vrouw en baby komen om bij omslaan boot bij Vrijheidsbeeld New York",
-          "source": "nu",
-          "url": "https://nu.cw/2026/08/09/vrouw-en-baby-komen-om-bij-omslaan-boot-bij-vrijheidsbeeld-new-york/",
-          "publishedDate": "Sun, 09 Aug 2026 07:44:00 GMT",
-          "description": "Een 27-jarige vrouw en een vijf maanden oude baby zijn omgekomen toen een boot zaterdagavond omsloeg in de haven van de Amerikaanse stad New York, meldt onder meer CNN. Het incident gebeurde nabij ..."
+          "title": "Vrouw (27) en baby van vijf maanden overleden na kapseizen boot bij Vrijheidsbeeld",
+          "source": "Mamaplaats on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/vrouw-27-en-baby-van-vijf-maanden-overleden-na-kapseizen-boot-bij-vrijheidsbeeld/ar-AA29L87B",
+          "publishedDate": "Mon, 10 Aug 2026 03:28:28 GMT",
+          "description": "Beeld: Canva Een boottocht in New York is ge&#235;indigd in een verschrikkelijk drama. Een 27-jarige vrouw en ..."
         },
         {
           "title": "Nederlanders op vermiste boot in Indonesi&#235; ongedeerd gevonden",
@@ -73,13 +365,6 @@
           "description": "Zoek- en reddingsteams hebben bij het Indonesische eiland Sulawesi een boot met dertien opvarenden, onder wie vier Nederlandse toeristen, teruggevonden. De Nederlandse opvarenden zijn ongedeerd, beves ..."
         },
         {
-          "title": "UGent stelt zelfgebouwde elektrische competitieboot voor: &quot;We gaan voor winst in internationale wedstrijd&quot;",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/05/04/ugent-boot0/",
-          "publishedDate": "Mon, 04 May 2026 12:14:00 GMT",
-          "description": "Vorig jaar stelde een team van de UGent al het prototype van zijn boot voor. Het ging om een klein model dat als voorbeeld diende. Doel was om er een grotere, elektrische, autonome boot van te maken."
-        },
-        {
           "title": "Boot die groenten en fruit naar Brussel moest brengen, vat vuur aan Akenkaai",
           "source": "vrt",
           "url": "https://www.vrt.be/vrtnws/nl/2025/08/17/boerenboot-in-brand-brussel/",
@@ -87,173 +372,308 @@
           "description": "Boot die groenten en fruit naar Brussel moest brengen, vat vuur aan Akenkaai Aan de Akenkaai in Brussel heeft een brand gewoed op een boot. Dat meldt de Brusselse brandweer. Het gaat om de boerenboot, ..."
         },
         {
-          "title": "Boot Wormerveer afgebrand na 'stomme fout' bij bijvullen kachel",
-          "source": "Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/275180",
-          "publishedDate": "Tue, 27 Oct 2020 03:26:00 GMT",
-          "description": "WORMERVEER - Een kleine boot is gisteravond afgebrand langs de Zaanweg in Wormerveer. De boot werd bewoond door een man, die op tijd kon wegkomen en ongedeerd bleef. Hij laat NH Nieuws weten dat hij ..."
+          "title": "Joris Hessels werkt aan nieuw televisieprogramma &quot;Willy's boot&quot;: &quot;Willy wil voor zijn 90e verjaardag nog &#233;&#233;n keer op zee&quot;",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2023/09/27/willy-s-boot-is-nieuw-programma-van-joris-hessels/",
+          "publishedDate": "Wed, 27 Sep 2023 03:10:00 GMT",
+          "description": "Televisiemaker Joris Hessels komt in het voorjaar met een nieuwe reeks &quot;Willy's boot&quot;. De zes afleveringen draaien rond de renovatie van een oude boot die al jaren op Willy's oprit ligt. &quot;Ik heb Willy ..."
         }
       ]
     },
     {
-      "keyword": "blikjes zonder statiegeld",
+      "keyword": "blikje",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Criminelen verdienen miljoenen aan blikjes zonder statiegeld, meldt EenVandaag",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627464-criminelen-verdienen-miljoenen-aan-blikjes-zonder-statiegeld-meldt-eenvandaag",
-          "publishedDate": "Wed, 19 Aug 2026 01:43:00 GMT",
-          "description": "De vaak goedkopere blikjes worden gekocht bij kleine, particuliere bedrijven of bij grote websites, waar ze volgens EenVandaag een belangrijk deel van de omzet uitmaken."
+          "title": "Welk blikje of flesje spritz is het lekkerste aperitief? “Eindelijk een volwassen smaak, weg uit de kleuterspeeltuin”",
+          "source": "Standaard",
+          "url": "https://www.standaard.be/inspiratie/helpdesk/welk-blikje-of-flesje-spritz-is-het-lekkerste-aperitief-eindelijk-een-volwassen-smaak-weg-uit-de-kleuterspeeltuin/158269292.html",
+          "publishedDate": "Wed, 08 Jul 2026 03:00:00 GMT",
+          "description": "Spritz is een overkoepelende term voor alle aperitieven op basis van bittere likeur, prosecco en spuitwater. In Veneti&#235; gebruiken ze bijvoorbeeld Select, op basis van rabarber, en in Noord-Itali&#235; ..."
         },
         {
-          "title": "Statiegeld werkt als een tierelier: 80 procent minder blikjes op straat gegooid",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/duurzaamheid-economie/statiegeld-werkt-als-een-tierelier-80-procent-minder-blikjes-op-straat-gegooid~bb7aac56/",
-          "publishedDate": "Tue, 01 Apr 2025 04:17:00 GMT",
-          "description": "De cijfers van de afvalrapers zijn glashelder: lagen er in de periode 2017-2022 gemiddeld 23,5 blikjes per kilometer op straat, nu zijn dat er gemiddeld 4,8 per kilometer. Dat is een afname van 80 ..."
+          "title": "Gevaarlijker dan je denkt: wat &#233;&#233;n blikje cola in 60 minuten met je lichaam doet",
+          "source": "panorama",
+          "url": "https://panorama.nl/artikel/687004/gevaarlijker-dan-je-denkt-wat-een-blikje-cola-in-60-minuten-met-je-lichaam-doet",
+          "publishedDate": "Sun, 24 May 2026 04:13:00 GMT",
+          "description": "We trekken hem allemaal wel eens open voor de snelle dorst, de broodnodige cafe&#239;ne-kick, of gewoon omdat die ijskoude suikerbom verdomd lekker wegtikt. Maar schijn bedriegt. Achter dat iconische rode ..."
         },
         {
-          "title": "Flesjes en blikjes met statiegeld inleveren is gedoe, de inspectie is er klaar mee. Is er nog hoop?",
-          "source": "Volkskrant",
-          "url": "https://www.volkskrant.nl/economie/werkt-het-inleveren-van-statiegeldblikjes-eigenlijk-wel~b21327da/",
-          "publishedDate": "Wed, 26 Jun 2024 22:00:00 GMT",
-          "description": "Toen er statiegeld op blikjes werd ingevoerd, stopte de Christelijke Muziek- en Showband Juliana uit Amersfoort maar met bier drinken uit blik. Veel te veel gedoe om alle blikjes die er na repetities ..."
+          "title": "Hotspot alert! Kendra, Isadee en Amij&#233; openen Shot Lifestyle &amp; Coffee: 'Koffie in een blikje'",
+          "source": "stadsbladutrecht.nl",
+          "url": "https://indebuurt.nl/amsterdam/bedrijvigheid/ondernemer-uitgelicht/hotspot-alert-kendra-isadee-en-amije-openen-shot-lifestyle-coffee-koffie-in-een-blikje~414480/",
+          "publishedDate": "Sun, 04 Jan 2026 22:34:00 GMT",
+          "description": "Zelfs op een gewone donderdagmiddag is het druk bij Shot Lifestyle &amp; Coffee aan de Marathonweg. Dit nieuwe pareltje opende in maart, en de blikjes met koffie en healthshots vliegen sindsdien de deur ..."
         },
         {
-          "title": "Paroollezers over 1 jaar statiegeld op blikjes: ‘In je krappe Amsterdamse huis zit je met een stinkende stapel blikjes’",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/columns-opinie/paroollezers-over-1-jaar-statiegeld-op-blikjes-in-je-krappe-amsterdamse-huis-zit-je-met-een-stinkende-stapel-blikjes~b67bca64/",
-          "publishedDate": "Fri, 29 Mar 2024 20:00:00 GMT",
-          "description": "Statiegeld op blikjes en plastic flesjes hadden ze jaren geleden al moeten invoeren. Ook toen was het belang van recycling duidelijk. De producenten zouden gestimuleerd zijn hun rommel op te ruimen."
+          "title": "Controverse rondom blikje Sprite in persconferentie aan het licht gebracht: 'Mag dat niet?'",
+          "source": "gpfans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1065721/controverse-rondom-blikje-sprite-in-persconferentie-aan-het-licht-gebracht-mag-dat-niet/",
+          "publishedDate": "Thu, 23 Oct 2025 09:48:00 GMT",
+          "description": "Lando Norris scoorde een welverdiende tweede plaats in de afgelopen F1 Grand Prix van de Verenigde Staten. Hij was doodop en de McLaren-coureur wilde maar al te graag wat drinken tijdens de ..."
         },
         {
-          "title": "Een jaar na de invoering van statiegeld op blikjes: zuchtend in ellenlange rijen en langs omgekieperde vuilnisbakken",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/amsterdam/een-jaar-na-de-invoering-van-statiegeld-op-blikjes-zuchtend-in-ellenlange-rijen-en-langs-omgekieperde-vuilnisbakken~bad34c0a/",
-          "publishedDate": "Fri, 29 Mar 2024 19:00:00 GMT",
-          "description": "Net zoals de fietsen, de scheve huizen en de verkeerspaaltjes met Andreaskruisen, zijn opengebroken prullenbakken het afgelopen jaar onderdeel geworden van een typisch Amsterdams straatbeeld. Met een ..."
+          "title": "Blikje in plaats van kikker: fotograaf legt vast hoe ooievaar afval aan jong voedert in Diest",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2025/07/30/ooievaar-blikje-webbekoms-broek-diest/",
+          "publishedDate": "Wed, 30 Jul 2025 06:24:00 GMT",
+          "description": "Nietsvermoedend voedert een ooievaarskoppel zijn jong, maar in plaats van een muis of kikker krijgt het kuiken een blikje voorgeschoteld. Een fotograaf legde het tafereel vast in het Webbekoms Broek ..."
         },
         {
-          "title": "Statiegeld op blikjes zorgt voor nieuwe vorm van criminaliteit",
-          "source": "FOK!",
-          "url": "https://frontpage.fok.nl/nieuws/893407/1/1/50/statiegeld-op-blikjes-zorgt-voor-nieuwe-vorm-van-criminaliteit.html",
-          "publishedDate": "Wed, 19 Aug 2026 05:14:00 GMT",
-          "description": "De Inspectie Leefomgeving en Transport (ILT) ziet dat jaarlijks naar schatting 25 tot 50 miljoen blikjes zonder statiegeld in Nederland worden verkocht, ondanks de statiegeldplicht die sinds 2023 geld ..."
+          "title": "Spoiler alert: jouw naam is straks weer te vinden op een blikje Coca-Cola",
+          "source": "TAGMAG",
+          "url": "https://tagmag.news/feed/887175-spoiler-alert-jouw-naam-is-straks-weer-te-vinden-op-een-blikje-coca-cola/",
+          "publishedDate": "Thu, 27 Mar 2025 00:31:00 GMT",
+          "description": "Yes, het is weer zover: binnenkort scannen we de rekken af om onze naam (en die van onze besties) terug te vinden op een blikje Coca-Cola. De iconische ‘Share a Coke’-campagne maakt een comeback, en ..."
         },
         {
-          "title": "'Criminelen verdienen geld aan de illegale import van blikjes zonder statiegeld'",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/crime/videos/criminelen-verdienen-geld-aan-de-illegale-import-van-blikjes-zonder-statieg",
-          "publishedDate": "Tue, 18 Aug 2026 22:28:00 GMT",
-          "description": "Criminelen verdienen geld aan de illegale import van blikjes zonder statiegeld. Jaarlijks worden in Nederland naar schatting 25 tot 50 miljoen van deze blikjes verkocht. Het gaat om een miljoenenhande ..."
+          "title": "Panja Paloma: zomerse smaken in een blikje",
+          "source": "Mixed Grill",
+          "url": "https://mixedgrill.nl/panja-paloma-zomerse-smaken-in-een-blikje/",
+          "publishedDate": "Wed, 07 Aug 2024 21:45:00 GMT",
+          "description": "Waterkant, de populaire hotspot aan de Amsterdamse Singelgracht, en Brouwerij ’t IJ hebben de handen ineen geslagen om een verfrissende nieuwe (bier)cocktail te cre&#235;ren: de Panja Paloma. Deze unieke ..."
         },
         {
-          "title": "'Criminelen verdienen miljoenen aan blikjes zonder statiegeld'",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/crime/artikelen/nederland-illegale-import-blikjes-zonder-statiegeld-criminelen",
-          "publishedDate": "Tue, 18 Aug 2026 21:52:00 GMT",
-          "description": "Jaarlijks worden in Nederland 25 tot 50 miljoen blikjes zonder statiegeld verkocht. Ze worden illegaal ge&#239;mporteerd en leveren een miljoenenhandel op."
+          "title": "NU+ Voor je statiegeld mag het blikje wel gedeukt zijn, maar niet geplet",
+          "source": "NU",
+          "url": "https://www.nu.nl/economie/6255364/voor-je-statiegeld-mag-het-blikje-wel-gedeukt-zijn-maar-niet-geplet.html",
+          "publishedDate": "Wed, 15 Mar 2023 22:12:00 GMT",
+          "description": "Vanaf 1 april is het zover: dan zit er na jaren van discussie en nog eens een paar maanden uitstel echt statiegeld op blikjes. Maar liefst 2,5 miljard blikjes gaan er jaarlijks over de toonbank, een ..."
         },
         {
-          "title": "Makkelijk blikjes en flesjes inleveren voor statiegeld bij Rataplan in Purmerend",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/waterland/makkelijk-blikjes-en-flesjes-inleveren-voor-statiegeld-bij-rataplan-in-purmerend/160167051.html",
-          "publishedDate": "Tue, 18 Aug 2026 11:27:00 GMT",
-          "description": "Statiegeld speelt een belangrijke rol in het recyclen van verpakkingen. Door flessen en blikjes in te zamelen, worden waardevolle grondstoffen hergebruikt. Dit zorgt voor minder zwerfafval en ..."
-        },
-        {
-          "title": "Importeur beboet voor verkoop Red Bull-blikjes zonder statiegeld",
-          "source": "Limburger",
-          "url": "https://www.limburger.nl/economie/importeur-beboet-voor-verkoop-red-bull-blikjes-zonder-statiegeld/22323192.html",
-          "publishedDate": "Wed, 28 Aug 2024 06:22:00 GMT",
-          "description": "Het gaat om de roze blikjes van Red Bull. De ILT kreeg hierover in maart een anonieme tip binnen. „Blikjes zonder statiegeld en Nederlands statiegeldlogo zijn strafbaar. Daar controleren wij op”, legt ..."
+          "title": "Max Verstappen krijgt eigen Red Bull blikje",
+          "source": "gpfans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/619/max-verstappen-krijgt-eigen-red-bull-blikje/",
+          "publishedDate": "Wed, 17 May 2017 02:24:00 GMT",
+          "description": "Nog heel even geduld en dan kunnen de echte Max Verstappen-fans genieten van een blikje Red Bull met daarop de prints van hun favoriete coureur. Red Bull Racing introduceert tijdens de Jumbo Racedagen ..."
         }
       ]
     },
     {
       "keyword": "isack hadjar",
       "trafficLabel": "5K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Verstappen krijgt Lawson als teamgenoot bij GP Nederland door blessure Hadjar",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/formule-1/6406772/verstappen-krijgt-lawson-als-teamgenoot-bij-gp-nederland-door-blessure-hadjar.html",
+          "publishedDate": "Wed, 19 Aug 2026 06:06:00 GMT",
+          "description": "Isack Hadjar kan dit weekend door een polsblessure niet in actie komen tijdens de Grand Prix van Nederland. De teamgenoot van Max Verstappen wordt in Zandvoort vervangen door Racing Bulls-coureur Liam ..."
+        },
+        {
+          "title": "Hadjar mist Formule 1-weekend in Zandvoort en wordt vervangen door Lawson",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627475-hadjar-mist-formule-1-weekend-in-zandvoort-en-wordt-vervangen-door-lawson",
+          "publishedDate": "Wed, 19 Aug 2026 04:29:00 GMT",
+          "description": "Red Bull-coureur Isack Hadjar kampt met een polsblessure, Liam Lawson is zijn vervanger aan de zijde van Max Verstappen."
+        },
+        {
+          "title": "Tsunoda keert terug in F1 na Hadjar-blessure: 'Bedankt voor flexibiliteit'",
+          "source": "Formule1nieuws.nl",
+          "url": "https://formule1nieuws.nl/nieuws/tsunoda-keert-terug-in-f1-na-hadjar-blessure-bedankt-voor-flexibiliteit/",
+          "publishedDate": "Wed, 19 Aug 2026 15:20:00 GMT",
+          "description": "Yuki Tsunoda maakt een verrassende terugkeer in de Formule 1. De Japanner vervangt Isack Hadjar bij RB F1 Team tijdens de Dutch Grand Prix, nadat de rookie een polsblessure opliep. Het is een bijzonde ..."
+        },
+        {
+          "title": "Lawson keert terug bij Red Bull na polsbreuk Hadjar: 10 vervangingen",
+          "source": "Formule1nieuws.nl",
+          "url": "https://formule1nieuws.nl/nieuws/lawson-keert-terug-bij-red-bull-na-polsbreuk-hadjar-10-vervangingen/",
+          "publishedDate": "Wed, 19 Aug 2026 07:37:00 GMT",
+          "description": "Liam Lawson stapt dit weekend opnieuw in bij Red Bull Racing na een blessure van teamgenoot Isack Hadjar. De Fransman brak zijn pols tijdens een training in de sportschool en is niet medisch goedgekeu ..."
+        },
+        {
+          "title": "Stoelendans in Zandvoort: Liam Lawson vervangt Isack Hadjar bij Red Bull, ook Yuki Tsunoda schuift plekje op",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/2026/08/19/stoelendans-in-zandvoort-liam-lawson-vervangt-isack-hadjar-bij-red-bull-ook-yuki-tsunoda-schuift-plekje-op~1787139415961/",
+          "publishedDate": "Wed, 19 Aug 2026 04:53:00 GMT",
+          "description": "Zoek niet naar Isack Hadjar dit weekend in Zandvoort: de Red Bull-rijder mist de Grote Prijs van Nederland door een polsblessure. Liam Lawson kruipt daardoor in de Red Bull van Hadjar, Yuki Tsunoda ne ..."
+        },
+        {
+          "title": "Officieel: Isack Hadjar mist GP van Nederland, Liam Lawson en Yuki Tsunoda vallen in bij Red Bull en Racing Bulls",
+          "source": "F1journaal.be",
+          "url": "https://f1journaal.be/officieel-isack-hadjar-mist-gp-van-nederland-liam-lawson-en-yuki-tsunoda-vallen-in-bij-red-bull-en-racing-bulls/",
+          "publishedDate": "Wed, 19 Aug 2026 04:14:00 GMT",
+          "description": "Nadat eerder al gesuggereerd werd dat Isack Hadjar door een polsblessure niet zou kunnen deelnemen aan de ‘Dutch GP’ werden deze geruchten nu ook officieel bevestigd. Isack Hadjar […] ..."
+        },
+        {
+          "title": "Hadjar mist F1 Dutch GP mogelijk, Red Bull heeft al vervanger voor Zandvoort op het oog",
+          "source": "Motorsport.com on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/motorsport/hadjar-mist-f1-dutch-gp-mogelijk-red-bull-heeft-al-vervanger-voor-zandvoort-op-het-oog/ar-AA2arHJa",
+          "publishedDate": "Tue, 18 Aug 2026 23:56:38 GMT",
+          "description": "Isack Hadjar kampt naar verluidt met een polsblessure, al heeft Red Bull nog geen definitieve knoop doorgehakt. Mocht Hadjar niet kunnen rijden, dan schuift het team Liam Lawson door."
+        },
+        {
+          "title": "Isack Hadjar mist Dutch GP in Zandvoort vanwege blessure",
+          "source": "GPblog on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/motorsport/isack-hadjar-mist-dutch-gp-in-zandvoort-vanwege-blessure/ar-AA2ara5o",
+          "publishedDate": "Tue, 18 Aug 2026 21:52:00 GMT",
+          "description": "Isack Hadjar zou de Dutch GP van aankomend weekend aan zich voorbij moeten laten gaan vanwege een polsblessure. Racing Bulls-coureur Liam Lawson zou de Fransman vervangen bij Red Bull Racing. De Teleg ..."
+        },
+        {
+          "title": "Isack Hadjar mist Dutch GP F1, Red Bull bevestigt vervanger",
+          "source": "Motorsport.com",
+          "url": "https://nl.motorsport.com/f1/news/isack-hadjar-mist-dutch-gp-f1-red-bull-bevestigt-vervanger/10847310/",
+          "publishedDate": "Tue, 18 Aug 2026 21:18:00 GMT",
+          "description": "Hadjar heeft een blessure opgelopen en mist daardoor de Grand Prix van dit weekend Red Bull heeft officieel bevestigd dat Liam Lawson de geblesseerde Isack Hadjar zal vervangen tijdens de Formula 1 Du ..."
+        },
+        {
+          "title": "GP Nederland: geblesseerde Hadjar blijft aan de kant, Lawson springt in",
+          "source": "Autosport.be",
+          "url": "https://www.autosport.be/news/gp-nederland-geblesseerde-hadjar-blijft-aan-de-kant-lawson-springt-in.html",
+          "publishedDate": "Tue, 18 Aug 2026 17:00:00 GMT",
+          "description": "Isack Hadjar zal de Grote Prijs van Nederland aan de zijlijn moeten volgen. De Franse Red Bull-rijder liep tijdens een trainingssessie een blessure op aan de pols. Liam Lawson wordt in Zandvoort zijn ..."
+        }
+      ]
     },
     {
       "keyword": "duitsland",
       "trafficLabel": "2K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Op een oude DDR-basis opent Duitsland het nationale centrum voor dronebestrijding: ‘Wie op Duitsland mikt, treft heel Europa’",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/wereld/op-een-oude-ddr-basis-opent-duitsland-het-nationale-centrum-voor-dronebestrijding-wie-op-duitsland-mikt-treft-heel-europa~bc93f6ba/",
+          "publishedDate": "Wed, 19 Aug 2026 20:01:00 GMT",
+          "description": "Duitsland kampt met steeds meer drone-incidenten. Uit angst voor escalatie wordt Rusland niet expliciet als dader genoemd, maar ondertussen wordt er wel gehandeld: deze week is een nationaal antidrone ..."
+        },
+        {
+          "title": "Op een verlaten DDR-vliegveld wapent Duitsland zich tegen drones, want het land wordt erdoor overspoeld",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/op-een-verlaten-ddr-vliegveld-wapent-duitsland-zich-tegen-drones-want-het-land-wordt-erdoor-overspoeld~ac93f6ba/?slug_rd=1",
+          "publishedDate": "Tue, 18 Aug 2026 23:49:00 GMT",
+          "description": "Duitsland wordt overspoeld door drones. De Duitse autoriteiten durven Rusland niet te beschuldigen, uit angst voor escalatie. Maar dat wil niet zeggen dat onze oosterburen stilzitten: deze week is een ..."
+        },
+        {
+          "title": "Duitsland verlengt omstreden grenscontroles opnieuw met half jaar",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627431-duitsland-verlengt-omstreden-grenscontroles-opnieuw-met-half-jaar",
+          "publishedDate": "Tue, 18 Aug 2026 13:15:00 GMT",
+          "description": "De Duitse grenscontroles worden met zes maanden verlengd, tot in ieder geval half maart 2027. Minister Dobrindt van Binnenlandse Zaken heeft dat meegedeeld aan de Europese Commissie, zegt hij tegen ..."
+        },
+        {
+          "title": "Uitvoer migratiepact leidt tot onenigheid: Itali&#235; weigert migranten uit Duitsland over te nemen",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/buitenland/uitvoer-migratiepact-leidt-tot-onenigheid-italie-weigert-migranten-uit-duitsland-over-te-nemen~be084e27/",
+          "publishedDate": "Tue, 18 Aug 2026 11:13:00 GMT",
+          "description": "Duitsland wil migranten die via Itali&#235; de Europese Unie binnenkwamen terugsturen naar dat land. De Italiaanse minister van Binnenlandse Zaken weigert, terwijl het recent ingevoerde migratiepact dat ni ..."
+        },
+        {
+          "title": "Duitsland door met grenscontroles vanwege Ceuta-dreiging. ‘Terugdringen migratie vereist maatregelen’",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/montferland/filerijden-bij-de-grens-gaat-door-duitsers-verlengen-grenscontroles-tot-maart-2027~a014fa24b/?slug_rd=1",
+          "publishedDate": "Wed, 19 Aug 2026 02:16:00 GMT",
+          "description": "‎Duitsland gaat een halfjaar langer door met de grenscontroles. Dat heeft de verantwoordelijke minister laten weten. In Nederland blijft het de komende maanden dus filerijden bij de grens."
+        },
+        {
+          "title": "AfD op weg naar monsterzege in Oost-Duitsland, ondanks alle weerstand",
+          "source": "EW",
+          "url": "https://www.ewmagazine.nl/buitenland/achtergrond/2026/08/afd-duitsland-1582000/",
+          "publishedDate": "Tue, 18 Aug 2026 06:46:00 GMT",
+          "description": "Met angst en beven kijkt het Duitse politieke establishment naar de verkiezingen in Saksen-Anhalt, op zondag 6 september."
+        },
+        {
+          "title": "Bedrijfssluitingen in Duitsland op hoogste niveau in twintig jaar",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/economie/bedrijfssluitingen-in-duitsland-op-hoogste-niveau-in-twintig-jaar",
+          "publishedDate": "Tue, 18 Aug 2026 04:29:00 GMT",
+          "description": "FRANKFURT (ANP/DPA/BLOOMBERG) - Het aantal bedrijven in Duitsland dat de deuren heeft gesloten, is gestegen tot het hoogste niveau in bijna twintig jaar. De stijging van het aantal bedrijfssluitingen."
+        },
+        {
+          "title": "Duitsland evacueert dorp om naderende natuurbrand H&#252;rtgenwald",
+          "source": "De Limburger",
+          "url": "https://www.limburger.nl/grensregio/duitsland-evacueert-dorp-om-naderende-natuurbrand-hurtgenwald/160018322.html",
+          "publishedDate": "Fri, 14 Aug 2026 01:34:00 GMT",
+          "description": "In Duitsland wordt een dorp ge&#235;vacueerd vanwege een naderende natuurbrand. De evacuatie treft alle 1800 inwoners van Gey, een plaatsje op enkele tientallen kilometers van Limburg."
+        },
+        {
+          "title": "Duitsland kijkt door aanstelling Xavi uit naar komende clash met Oranje: ‘Trainer-Knaller in Holland!’",
+          "source": "De Limburger",
+          "url": "https://www.limburger.nl/sport/voetbal/duitsland-kijkt-door-aanstelling-xavi-uit-naar-komende-clash-met-oranje-trainer-knaller-in-holland/159985259.html",
+          "publishedDate": "Thu, 13 Aug 2026 07:35:00 GMT",
+          "description": "De Spaanse sportmedia hebben vooralsnog neutraal gereageerd op de benoeming van de Spanjaard Xavi als bondscoach van het Nederlands elftal. De niet-Spaanstalige media zijn veel uitgesprokener: „Na Zin ..."
+        },
+        {
+          "title": "Komkommers: forse groei in Itali&#235; en Duitsland, terugval in Roemeni&#235; en Polen",
+          "source": "GroentenNieuws",
+          "url": "https://www.groentennieuws.nl/article/9861025/komkommers-forse-groei-in-italie-en-duitsland-terugval-in-roemenie-en-polen/",
+          "publishedDate": "Thu, 13 Aug 2026 04:11:00 GMT",
+          "description": "Bij komkommers is Spanje met 31,2% van de totale EU-oogst (2,43 miljoen ton in 2024) de onbetwiste marktleider, gevolgd door Nederland, Polen en Frankrijk. Samen zijn ze goed voor 72,2% ..."
+        }
+      ]
     },
     {
-      "keyword": "bitcoin nieuws",
+      "keyword": "europese hoornaar",
       "trafficLabel": "2K+",
       "articles": [
         {
-          "title": "Bitcoin stabiliseert boven kostenbasis terwijl goud en olie stijgen",
-          "source": "Blockchain Stories",
-          "url": "https://www.blockchainstories.com/nieuws/bitcoin-stabiliseert-boven-kostenbasis-terwijl-goud-en-olie-stijgen/",
-          "publishedDate": "Wed, 19 Aug 2026 14:15:00 GMT",
-          "description": "Bitcoin stabiliseert zich volgens analist Glassnode boven belangrijke kostenniveaus, ondanks dat goud en olie stijgen. De koers staat op $67.911."
+          "title": "Aziatische hoornaar gesignaleerd in Friesland, gemeente verstuurt waarschuwing",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/dantumadiel/aziatische-hoornaar-gesignaleerd-in-friesland-gemeente-verstuurt-waarschuwing~a901ce81/",
+          "publishedDate": "Wed, 05 Aug 2026 17:01:00 GMT",
+          "description": "De Aziatische hoornaar is ook in Frysl&#226;n gezien, meldt de gemeente Dantumadiel. De exoot is al enkele jaren actief in Nederland en kan schadelijk zijn voor honingbijen, hommels, wespen en andere bestu ..."
         },
         {
-          "title": "Waarom de koersen van bitcoin en crypto vandaag plotseling zo hard stijgen",
-          "source": "Crypto Insiders",
-          "url": "https://www.crypto-insiders.nl/nieuws/bitcoin/waarom-de-koersen-van-bitcoin-en-crypto-vandaag-plotseling-zo-hard-stijgen/",
-          "publishedDate": "Wed, 19 Aug 2026 12:36:00 GMT",
-          "description": "Bitcoin en de cryptomarkt stegen vandaag door een short squeeze, een mega-koopactie en goed nieuws uit de Verenigde Staten."
+          "title": "Een Aziatische hoornaar mag je doodslaan, een Europese niet. Maar onderscheid ze maar eens",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/duurzaamheid-economie/een-aziatische-hoornaar-mag-je-doodslaan-een-europese-niet-maar-onderscheid-ze-maar-eens~b321d4cf/",
+          "publishedDate": "Fri, 04 Jul 2025 15:00:00 GMT",
+          "description": "Alarmerende nieuwsberichten over monsterwespen, jeukrupsen en vraatzuchtige kevers zetten menig burger op scherp. Zeker als er wordt opgeroepen om deze dieren te bestrijden, meppen Nederlanders er ..."
         },
         {
-          "title": "BlackRock: Bitcoin daling van 50% verandert niets aan langetermijnvisie",
-          "source": "Blockchain Stories",
-          "url": "https://www.blockchainstories.com/nieuws/blackrock-bitcoin-daling-van-50-verandert-niets-aan-langetermijnvisie/",
-          "publishedDate": "Wed, 19 Aug 2026 11:28:00 GMT",
-          "description": "BlackRock ziet de daling van Bitcoin met meer dan 50% vanaf de recordkoers van oktober 2025 niet als een trendbreuk. In een nieuw rapport schrijft het vermogensbeheersbedrijf dat de terugval vooral he ..."
+          "title": "Meerdere bomen in Edam van wiekpot voorzien om Aziatische hoornaar te vangen: ’Maar het lijkt loos alarm’",
+          "source": "Noordhollands Dagblad",
+          "url": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/waterland/meerdere-bomen-in-edam-van-wiekpot-voorzien-om-aziatische-hoornaar-te-vangen-maar-het-lijkt-loos-alarm/159991769.html",
+          "publishedDate": "Fri, 14 Aug 2026 04:34:00 GMT",
+          "description": "Bewoners van de buurt rondom de Achterhaven in Edam zijn er mogelijk al eens op gestuit: wiekpotten bij de bomen om de Aziatische hoornaar te lokken. Na een waarschuwing van een buurtbewoner die het i ..."
         },
         {
-          "title": "Cryptomarkt schiet door het dak: Bitcoin, Ethereum en XRP breken belangrijke levels",
-          "source": "Newsbit",
-          "url": "https://newsbit.nl/cryptomarkt-schiet-door-het-dak-bitcoin-ethereum-en-xrp-breken-belangrijke-levels/",
-          "publishedDate": "Wed, 19 Aug 2026 11:09:00 GMT",
-          "description": "De cryptokoersen vliegen: Bitcoin, Ethereum en XRP maken een monsterstijging en Newsbit-analist onderzoekt de huidige stand van zaken."
+          "title": "Met ultralicht zendertje jagen imkers in Bennekom op Aziatische hoornaar",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1159049-met-ultralicht-zendertje-jagen-imkers-in-bennekom-op-aziatische-hoornaar",
+          "publishedDate": "Tue, 11 Aug 2026 06:33:00 GMT",
+          "description": "Imkers maken zich grote zorgen over de razendsnelle opmars van de geelpoothoornaar, beter bekend als de Aziatische hoornaar. Met behulp van ultralichte zendertjes sporen ze de nesten op. Maar heeft ..."
         },
         {
-          "title": "Crypto koersupdate: Bitcoin, Ethereum en XRP stijgen snoeihard naar hoogste niveaus in lange tijd",
-          "source": "Newsbit",
-          "url": "https://newsbit.nl/crypto-koersupdate-bitcoin-ethereum-en-xrp-stijgen-snoeihard-naar-hoogste-niveaus-in-lange-tijd/",
-          "publishedDate": "Wed, 19 Aug 2026 10:41:00 GMT",
-          "description": "De ingreep van het Amerikaanse ministerie van Financi&#235;n op de obligatiemarkt heeft voor een golf van groene cijfers gezorgd op de financi&#235;le markten. En crypto lijkt het meest te profiteren. Het heeft ..."
+          "title": "Meer meldingen van hoornaars in Heusden in Heusden",
+          "source": "Omroep Brabant",
+          "url": "https://www.omroepbrabant.nl/nieuws/6013445/meer-meldingen-van-hoornaars-in-heusden",
+          "publishedDate": "Tue, 16 Jun 2026 04:50:00 GMT",
+          "description": "De gemeente Heusden krijgt vaker meldingen over hoornaars nu het warmer wordt. Vaak blijkt het om Europese hoornaars te gaan, die ongevaarlijk zijn, maar ook de Aziatische hoornaar komt soms voor."
         },
         {
-          "title": "Crypto Radar: Bitcoin en altcoins schieten omhoog na nieuws uit VS",
-          "source": "Crypto Insiders",
-          "url": "https://www.crypto-insiders.nl/marktupdates/crypto-radar-bitcoin-en-altcoins-schieten-omhoog-na-nieuws-uit-vs/",
-          "publishedDate": "Wed, 19 Aug 2026 08:46:00 GMT",
-          "description": "Eerder vandaag leek de cryptomarkt nog verder weg te zakken, maar inmiddels is het beeld volledig omgeslagen. Op het moment van schrijven zetten ..."
+          "title": "Aziatische hoornaar veroorzaakt problemen in Castricum, gemeente roept op tot melding",
+          "source": "AD",
+          "url": "https://www.ad.nl/castricum/aziatische-hoornaar-veroorzaakt-problemen-in-castricum-gemeente-roept-op-tot-melding~a6ab2c9a/",
+          "publishedDate": "Wed, 15 Apr 2026 21:27:00 GMT",
+          "description": "De Aziatische hoornaar is weer actief door het warmere weer. Deze wespensoort vormt een bedreiging voor insecten zoals bijen en kan overlast geven. Gemeente Castricum roept inwoners op om nesten te ..."
         },
         {
-          "title": "Bitcoin koers volatiliteit laagste ooit – analist mikt op $66.100 in augustus",
-          "source": "Bitcoin Magazine",
-          "url": "https://bitcoinmagazine.nl/nieuws/bitcoin-koers-volatiliteit-laagste-ooit-analist-mikt-op-66-100-in-augustus",
-          "publishedDate": "Wed, 19 Aug 2026 08:01:00 GMT",
-          "description": "Bitcoin koers volatiliteit zakt onder Nasdaq. Crypto analist K33 waarschuwt voor een grote beweging. Dit niveau telt."
+          "title": "Hoornaar gezien in Den Bosch? Dit moet je doen",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/den-bosch/hoornaar-gezien-in-den-bosch-dit-moet-je-doen~abcfc83d4/?slug_rd=1",
+          "publishedDate": "Mon, 18 Aug 2025 10:14:00 GMT",
+          "description": "De Aziatische hoornaar komt sinds een aantal jaar voor in Nederland en is ook al gespot in Den Bosch. Wat moet je doen als je er eentje ziet, en hoe ga je om met een hoornaarsteek? Lees hier alle info ..."
         },
         {
-          "title": "Bitcoin (BTC) is nog maar &#233;&#233;n stap verwijderd van start bullmarkt",
-          "source": "BLOX",
-          "url": "https://nieuws.btcdirect.eu/bitcoin-btc-is-nog-maar-een-stap-verwijderd-van-start-bullmarkt/",
-          "publishedDate": "Wed, 19 Aug 2026 04:22:00 GMT",
-          "description": "Volgens Bitfinex zijn twee belangrijke voorwaarden voor een nieuwe Bitcoin-rally inmiddels aanwezig. E&#233;n ontbrekend puzzelstuk kan volgens de analisten doorslaggevend worden."
+          "title": "Medewerkers van groendienst belaagd door hoornaars tijdens snoeiwerken in Bilzen-Hoeselt",
+          "source": "Het Belang van Limburg",
+          "url": "https://www.hbvl.be/regio/limburg/bilzen-hoeselt/medewerkers-van-groendienst-belaagd-door-hoornaars-tijdens-snoeiwerken-in-bilzen-hoeselt/83289114.html",
+          "publishedDate": "Wed, 13 Aug 2025 07:24:00 GMT",
+          "description": "Het aantal opgemerkte nesten van wespen en hoornaars neemt sinds afgelopen weekend een enorme sprong. In Bilzen-Hoeselt werden de arbeiders van de stedelijke groendienst tijdens snoeiwerken verrast do ..."
         },
         {
-          "title": "Bitcoin bijna 50% onder zijn top, maar BlackRock blijft opvallend positief",
-          "source": "BLOX",
-          "url": "https://nieuws.btcdirect.eu/bitcoin-bijna-50-onder-zijn-top-maar-blackrock-blijft-opvallend-positief/",
-          "publishedDate": "Wed, 19 Aug 2026 02:45:00 GMT",
-          "description": "Bitcoin heeft een stevig jaar achter de rug. Sinds de koers van oktober 2025 is ongeveer de helft van zijn waarde verloren gegaan. Toch ziet BlackRock geen reden om haar langetermijnvisie op Bitcoin f ..."
+          "title": "Op deze plekken komen 'agressieve' Aziatische hoornaars veel voor",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2058908/op-deze-plekken-komen-agressieve-aziatische-hoornaars-veel-voor",
+          "publishedDate": "Tue, 12 Aug 2025 07:22:00 GMT",
+          "description": "De zomer van 2025 zorgt voor uitzonderlijk veel wespenoverlast. Door de zachte winter en het warme, droge voorjaar zijn de nesten eerder actief geworden en sneller gegroeid. Vooral de agressieve ..."
         },
         {
-          "title": "ChatGPT en Claude AI voorspellen Bitcoin bodem – is $50.000 het doelwit?",
-          "source": "Bitcoin Magazine",
-          "url": "https://bitcoinmagazine.nl/nieuws/chatgpt-en-claude-ai-voorspellen-bitcoin-bodem-is-50-000-het-doelwit",
-          "publishedDate": "Mon, 17 Aug 2026 08:11:00 GMT",
-          "description": "Bitcoin sloot voor de tweede keer in vier jaar onder het 200 weeks gemiddelde en handelt rond $63.300. Wij legden ChatGPT en Claude dezelfde vraag voor: waar ligt de bodem? Beide AI modellen komen ..."
+          "title": "Let op: Aziatische hoornaar ontwaakt en dit moet je doen als je er eentje ziet",
+          "source": "Omroep Zeeland",
+          "url": "https://www.omroepzeeland.nl/nieuws/17286119/let-op-aziatische-hoornaar-ontwaakt-en-dit-moet-je-doen-als-je-er-eentje-ziet",
+          "publishedDate": "Thu, 06 Mar 2025 01:03:00 GMT",
+          "description": "Waarom zijn het er zoveel? In Belgi&#235; en Frankrijk zijn er al vijf tot zeven keer zoveel gezien als vorig jaar, legt Roelands uit. &quot;Wij grenzen aan Belgi&#235; en die beestjes stoppen niet bij de grens.&quot; ..."
         }
       ]
     }
