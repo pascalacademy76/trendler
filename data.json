@@ -1,85 +1,9 @@
 {
-  "fetchedAt": "2026-08-22T09:20:17.240Z",
+  "fetchedAt": "2026-08-22T09:49:51.420Z",
   "trends": [
     {
-      "keyword": "politie",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Vrouw (30) aangehouden voor betrokkenheid bankhelpdeskfraude in Vlaardingen",
-          "source": "politie.nl",
-          "url": "https://www.politie.nl/nieuws/2026/augustus/21/07-vrouw-30-aangehouden-voor-betrokkenheid-bankhelpdeskfraude-in-vlaardingen.html",
-          "publishedDate": "Fri, 21 Aug 2026 10:12:00 GMT",
-          "description": "Na onderzoek en meerdere herkenningen heeft de politie op dinsdag 18 augustus een 30-jarige vrouw uit Utrecht aangehouden. Zij wordt verdacht van betrokkenheid bij bankhelpdeskfraude, waar een 78-jari ..."
-        },
-        {
-          "title": "Politieonderzoek in Waalre",
-          "source": "politie.nl",
-          "url": "https://www.politie.nl/nieuws/2026/augustus/21/politieonderzoek-in-waalre.html",
-          "publishedDate": "Fri, 21 Aug 2026 05:38:00 GMT",
-          "description": "Verkregen informatie van buitenlandse autoriteiten resulteerde donderdagvond, 20 augustus 2026, tot een instap van de DSI en recherche op een woonwagenkamp aan de Broekweg in Waarle. Diverse loodsen e ..."
-        },
-        {
-          "title": "Uiteindelijk zeven aanhoudingen voor bedreiging en opruiing",
-          "source": "politie.nl",
-          "url": "https://www.politie.nl/nieuws/2026/augustus/21/02-uiteindelijk-zeven-aanhoudingen-voor-bedreiging-en-opruiing.html",
-          "publishedDate": "Fri, 21 Aug 2026 02:46:00 GMT",
-          "description": "De politie heeft in de afgelopen maanden in totaal zeven aanhoudingen verricht voor bedreiging en opruiing. Dit gebeurde in een onderzoek naar online uitlatingen na politieoptreden in Apeldoorn."
-        },
-        {
-          "title": "Gezochte man overleden gevonden",
-          "source": "politie.nl",
-          "url": "https://www.politie.nl/nieuws/2026/augustus/21/03-gezochte-man-overleden-aangetroffen.html",
-          "publishedDate": "Fri, 21 Aug 2026 02:40:00 GMT",
-          "description": "Op woensdag 19 augustus deelden wij foto’s van een man die mogelijk betrokken is bij het overlijden van een vrouw uit Lelystad. Donderdag 20 augustus hebben wij een overleden persoon vlak bij de Reige ..."
-        },
-        {
-          "title": "Botresten aangetroffen in Roggebotsebos in Dronten",
-          "source": "politie.nl",
-          "url": "https://www.politie.nl/nieuws/2026/augustus/20/03-botresten-aangetroffen-in-roggebotsebos-in-dronten.html",
-          "publishedDate": "Thu, 20 Aug 2026 09:33:00 GMT",
-          "description": "In het Roggebotsebos zijn op maandag 10 augustus botresten aangetroffen. Onderzoek door het Nederlands Forensisch Instituut (NFI) heeft uitgewezen dat de resten afkomstig zijn van een man. De identite ..."
-        },
-        {
-          "title": "Dealer betrapt: politie treft harddrugs aan in woning",
-          "source": "politie.nl",
-          "url": "https://www.politie.nl/nieuws/2026/augustus/20/10-dealer-betrapt-politie-treft-harddrugs-aan-in-woning-heerlen.html",
-          "publishedDate": "Thu, 20 Aug 2026 07:06:00 GMT",
-          "description": "De politie heeft woensdag in Heerlen ruim 160 kilo harddrugs gevonden. Er zijn twee verdachten aangehouden. Het gaat om een 24-jarige man uit Heerlen en een 46-jarige man uit diezelfde stad."
-        },
-        {
-          "title": "Drie aanhoudingen in onderzoek naar overleden man Botersloot",
-          "source": "politie.nl",
-          "url": "https://www.politie.nl/nieuws/2026/augustus/20/07-drie-aanhoudingen-in-onderzoek-naar-overleden-man-botersloot.html",
-          "publishedDate": "Thu, 20 Aug 2026 07:04:00 GMT",
-          "description": "De politie heeft in de nacht van woensdag op donderdag drie personen aangehouden in het onderzoek naar de overleden man die woensdagmiddag werd aangetroffen in een woning aan de Botersloot in Rotterda ..."
-        },
-        {
-          "title": "Doorbraak in meer dan dertig jaar oud zedenonderzoek",
-          "source": "politie.nl",
-          "url": "https://www.politie.nl/nieuws/2026/augustus/20/02-apeldoorn-doorbraak-in-meer-dan-dertig-jaar-oud-zedenonderzoek.html",
-          "publishedDate": "Thu, 20 Aug 2026 04:18:00 GMT",
-          "description": "De politie Oost-Nederland heeft op dinsdag 18 augustus een inmiddels 53-jarige man uit de gemeente Apeldoorn aangehouden op verdenking van betrokkenheid bij een zeer ernstig zedendelict in de zomer va ..."
-        },
-        {
-          "title": "Overleden persoon aangetroffen in woning aan de Botersloot, politie zoekt camerabeelden",
-          "source": "politie.nl",
-          "url": "https://www.politie.nl/nieuws/2026/augustus/19/07-overleden-persoon-aangetroffen-in-woning-aan-de-botersloot-politie-zoekt-camerabeelden.html",
-          "publishedDate": "Wed, 19 Aug 2026 16:18:00 GMT",
-          "description": "In een woning aan de Botersloot in Rotterdam is op woensdag&#160;19 augustus een overleden man aangetroffen. We gaan ervanuit dat deze persoon door een misdrijf om het leven is gekomen. De politie is op zo ..."
-        },
-        {
-          "title": "Aanhouding voor witwassen in drugsonderzoek",
-          "source": "politie.nl",
-          "url": "https://www.politie.nl/nieuws/2026/augustus/19/02-apeldoorn-aanhouding-voor-witwassen-in-drugsonderzoek.html",
-          "publishedDate": "Wed, 19 Aug 2026 09:00:00 GMT",
-          "description": "De politie heeft woensdagochtend een verdachte aangehouden in een lopend onderzoek naar de handel in verdovende middelen in en rond Apeldoorn. Eerder werden al vier aanhoudingen verricht in dit onderz ..."
-        }
-      ]
-    },
-    {
       "keyword": "el niño",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
         {
           "title": "Sterke El Ni&#241;o in aantocht: 95 procent kans dat we zwaarste categorie bereiken",
@@ -103,11 +27,18 @@
           "description": "Vanaf volgende maand zal er minder scheepvaart door het Panamakanaal gaan vanwege de droogte die wordt veroorzaakt door het weerfenomeen El Ni&#241;o. Dat hebben de autoriteiten van de strategische waterwe ..."
         },
         {
-          "title": "El Ni&#241;o kan voor eind 2027 tot voedseltekorten bij 50 miljoen extra mensen leiden",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/buitenland/6405399/el-nino-kan-voor-eind-2027-tot-voedseltekorten-bij-50-miljoen-extra-mensen-leiden.html",
-          "publishedDate": "Wed, 05 Aug 2026 06:51:00 GMT",
-          "description": "El Ni&#241;o kan voor het einde van 2027 bijna 50 miljoen extra mensen in voedselonzekerheid brengen, waarschuwt het wereldvoedselprogramma van de VN woensdag. Door droogte, overstromingen en extreme tempe ..."
+          "title": "Van extreme droogte tot kletsnatte tyfoons: de super-El Ni&#241;o is begonnen",
+          "source": "NOS",
+          "url": "https://nos.nl/video/2626950-van-extreme-droogte-tot-kletsnatte-tyfoons-de-super-el-nino-is-begonnen",
+          "publishedDate": "Sat, 15 Aug 2026 01:02:00 GMT",
+          "description": "De Stille Oceaan is heter dan ooit zo vroeg in het jaar en alles wijst erop dat het uitdraait op een 'Super' of zelfs 'Godzilla' El Ni&#241;o, een wereldwijd impactvol weerfenomeen. In deze video: wat dat ..."
+        },
+        {
+          "title": "Panamakanaal beperkt het aantal scheepsdoorvoeren door ernstige droogte door El Ni&#241;o",
+          "source": "Business AM on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/panamakanaal-beperkt-het-aantal-scheepsdoorvoeren-door-ernstige-droogte-door-el-ni%C3%B1o/ar-AA2aH98p",
+          "publishedDate": "Fri, 21 Aug 2026 21:43:00 GMT",
+          "description": "Key takeaways Als gevolg van een ernstige droogte, veroorzaakt door El Ni&#241;o, voert de Autoriteit van het Panamakanaal een gefaseerde vermindering van het dagelijkse aantal scheepsdoorvoeren door. Vana ..."
         },
         {
           "title": "Panamakanaal beperkt dagelijks scheepvaartsverkeer door El Ni&#241;o",
@@ -143,89 +74,6 @@
           "url": "https://www.notizie.it/nl/El-Ni%C3%B1o-wordt-steeds-sterker--voorspellingen-en-wereldwijde-gevolgen/",
           "publishedDate": "Sun, 09 Aug 2026 03:27:00 GMT",
           "description": "De Super El Ni&#241;o van 2026 wordt steeds sterker en dreigt de meest intense in 150 jaar te worden. Lees meer over de mogelijke impact op het wereldwijde klimaat en welke gebieden het meest risico lopen."
-        },
-        {
-          "title": "El Ni&#241;o 2026-2027: Voorspellingen, gevolgen en historische gegevens",
-          "source": "Notizie.it",
-          "url": "https://www.notizie.it/nl/Voorspellingen--gevolgen-en-historische-gegevens-van-El-Ni%C3%B1o-in-2026-2027/",
-          "publishedDate": "Sat, 25 Jul 2026 02:32:00 GMT",
-          "description": "Het El Ni&#241;o-weerfenomeen wordt steeds intenser. Experts zeggen dat het de sterkste El Ni&#241;o in de geschiedenis zou kunnen worden, met aanzienlijke gevolgen voor het wereldwijde klimaat."
-        }
-      ]
-    },
-    {
-      "keyword": "lily hooper",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Ouders van Lily (18) horen na acht dagen zoeken dat ze leeft, halfuur later blijkt dat niet zo",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/ouders-van-lily-18-horen-na-acht-dagen-zoeken-dat-ze-leeft-halfuur-later-blijkt-dat-niet-zo/ar-AA2aCPCN",
-          "publishedDate": "Fri, 21 Aug 2026 01:06:55 GMT",
-          "description": "Na een zoektocht van acht dagen in de Australische bush kregen de ouders van de 18-jarige Lily Hooper te horen dat hun dochter levend gevonden was. Maar de opluchting maakte binnen een halfuur alweer ..."
-        },
-        {
-          "title": "Vreugde slaat om in verdriet: vermiste Lily (18) blijkt toch overleden nadat familie al redding viert",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/buitenland/vreugde-slaat-om-in-verdriet-vermiste-lily-18-blijkt-toch-overleden-nadat-familie-al-redding-viert/160315966.html",
-          "publishedDate": "Fri, 21 Aug 2026 01:01:00 GMT",
-          "description": "Acht dagen lang klampten familie en vrienden zich vast aan hoop. Toen uiteindelijk het bericht kwam dat Lily Hooper was gevonden, barstte de vreugde los. Maar die duurde slechts enkele minuten: de 18- ..."
-        },
-        {
-          "title": "Zo kon schandaal rond dood gevonden Lily (18) in Australi&#235; gebeuren: ‘Ik heb foute info gekregen’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/zo-kon-schandaal-rond-dood-gevonden-lily-18-in-australie-gebeuren-ik-heb-foute-info-gekregen~a8d471d9c/",
-          "publishedDate": "Thu, 20 Aug 2026 19:53:00 GMT",
-          "description": "Van pure euforie naar immense verslagenheid in nog geen half uur tijd. De klap voor de nabestaanden van de Australische Lily Hooper (18) is niet te bevatten. De politie meldde eerst dat de vermiste wa ..."
-        },
-        {
-          "title": "Dad's remarkable message of forgiveness after cops gave false hope when Lily Hooper's body was found",
-          "source": "Daily Mail on MSN",
-          "url": "https://www.msn.com/en-us/news/world/dads-remarkable-message-of-forgiveness-after-cops-gave-false-hope-when-lily-hoopers-body-was-found/ar-AA2aGFF4",
-          "publishedDate": "Fri, 21 Aug 2026 21:27:11 GMT",
-          "description": "Ms Hooper's family endured a heartbreaking ordeal after first being told she was found alive, only to later learn she had died."
-        },
-        {
-          "title": "Dad of teen hiker Lily Hooper sends message to police after she was mistakenly reported 'alive'",
-          "source": "UNILAD",
-          "url": "https://www.unilad.com/news/world-news/lily-hoopers-dad-police-message-mistakenly-reported-alive-210380-20260821",
-          "publishedDate": "Fri, 21 Aug 2026 12:34:00 GMT",
-          "description": "Lily Hooper’s father has spoken out after police mistakenly told the family the missing 18-year-old had been found alive."
-        },
-        {
-          "title": "Father of teen Lily Hooper found dead sends message to police after they said she was still alive",
-          "source": "LADbible",
-          "url": "https://www.ladbible.com/australia/lily-hooper-father-police-message-mixup-304337-20260821",
-          "publishedDate": "Fri, 21 Aug 2026 07:59:00 GMT",
-          "description": "Lily’s father Jim has since broke his silence over the communications blunder, saying that he holds ‘no anger’ following the awful mix-up, 7News reports. He told the outlet that he is grateful for the ..."
-        },
-        {
-          "title": "Familie van Lily (18) krijgt te horen dat vermiste dochter levend is gevonden, terwijl ze al is overleden",
-          "source": "AD",
-          "url": "https://www.ad.nl/buitenland/familie-van-lily-18-krijgt-te-horen-dat-vermiste-dochter-levend-is-gevonden-terwijl-ze-al-is-overleden~a44ad927/",
-          "publishedDate": "Thu, 20 Aug 2026 21:19:00 GMT",
-          "description": "Acht dagen lang leefde de familie van de 18-jarige Lily Hooper in angst. Toen kwam het verlossende bericht van de Australische politie: de vermiste tiener was levend teruggevonden. Een vreselijke ..."
-        },
-        {
-          "title": "Missing teen hiker Lily Hooper found dead as NSW police apologise for miscommunication ‘born of elation’",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park",
-          "publishedDate": "Thu, 20 Aug 2026 19:04:00 GMT",
-          "description": "Initial report from ‘thick and dense terrain’ where Lily was located was she’d been found alive but within 10 minutes a ‘more accurate account’ was relayed to police ..."
-        },
-        {
-          "title": "Chris Minns komt terug op verklaring: &quot;Lily is dood teruggevonden&quot;",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/video/productie/chris-minns-komt-terug-op-verklaring-lily-is-dood-gevonden-14214543",
-          "publishedDate": "Thu, 20 Aug 2026 17:00:00 GMT",
-          "description": "De Australische politie heeft haar excuses aangeboden aan familieleden van de 18-jarige Lily Hooper. De familie kreeg na acht dagen vermissing te horen dat de tiener levend was teruggevonden, terwijl ..."
-        },
-        {
-          "title": "What happened to Lily Hooper? Missing teen found dead after police told family she was alive",
-          "source": "The Tab",
-          "url": "https://thetab.com/2026/08/20/what-happened-to-lily-hooper-missing-teen-found-dead-after-police-told-family-she-was-alive",
-          "publishedDate": "Thu, 20 Aug 2026 08:39:00 GMT",
-          "description": "Police in Australia have been forced to apologise after wrongly telling the family of 18-year-old Lily Hooper that she was alive. She’d been missing for eight days in the Australian bush."
         }
       ]
     },
@@ -234,18 +82,74 @@
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Tijdschema Grand Prix van Nederland: zo laat komt Max Verstappen in actie tijdens laatste F1-race in Zandvoort",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/sport/autosport/tijdschema-grand-prix-van-nederland-zo-laat-komt-max-verstappen-in-actie-tijdens-laatste-f1-race-in-zandvoort/160019278.html",
-          "publishedDate": "Fri, 21 Aug 2026 01:06:00 GMT",
-          "description": "Na de zomerstop wordt het Formule 1-seizoen komend weekend hervat, in Zandvoort. Het wordt de laatste Dutch Grand Prix. Met dit keer op de zaterdag ook een sprintrace."
+          "title": "Sprintrace begint straks • Drukte op stations, deel publiek dreigt te laat te komen",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2627840-sprintrace-begint-straks-drukte-op-stations-deel-publiek-dreigt-te-laat-te-komen",
+          "publishedDate": "Sat, 22 Aug 2026 01:01:00 GMT",
+          "description": "In dit liveblog volgen we alle actie op en rondom het circuit in Zandvoort voor de voorlopig laatste Dutch Grand Prix."
         },
         {
-          "title": "Zandvoort sprintkwalificatie vandaag: dit is het exacte starttijdstip",
+          "title": "Live F1 | Druppels in Zandvoort vlak voor start sprintrace",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/formule-1/6407159/live-f1-druppels-in-zandvoort-vlak-voor-start-sprintrace.html",
+          "publishedDate": "Sat, 22 Aug 2026 00:46:00 GMT",
+          "description": "Goedendag en welkom in dit liveblog. Hier houden we je vanuit Zandvoort op de hoogte van alle ontwikkelingen bij de Grand Prix van Nederland. Veel plezier!"
+        },
+        {
+          "title": "Bekijk de startgrid voor de sprintrace in Zandvoort met Verstappen op plek zes",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/formule-1/6407127/bekijk-de-startgrid-voor-de-sprintrace-in-zandvoort-met-verstappen-op-plek-zes.html",
+          "publishedDate": "Fri, 21 Aug 2026 23:00:00 GMT",
+          "description": "Max Verstappen kwalificeerde zich vrijdag als zesde voor de eerste en laatste sprintrace in Zandvoort. Bekijk hier de startopstelling."
+        },
+        {
+          "title": "Wekdienst 22/8: Sprintrace in Zandvoort • Prinsengrachtconcert in hartje Amsterdam",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627822-wekdienst-22-8-sprintrace-in-zandvoort-prinsengrachtconcert-in-hartje-amsterdam",
+          "publishedDate": "Fri, 21 Aug 2026 21:59:00 GMT",
+          "description": "Goedemorgen! Het is vandaag dag twee van het laatste Formule 1-raceweekend in Zandvoort. Op het programma staat de sprintrace. Max Verstappen start hierin als zesde. En in het centrum van Amsterdam ..."
+        },
+        {
+          "title": "LIVE Formule 1 | Kan Max Verstappen verrassen tijdens sprintrace in Zandvoort?",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/formule-1/live-formule-1-kan-max-verstappen-verrassen-tijdens-sprintrace-in-zandvoort~abcf548e/",
+          "publishedDate": "Fri, 21 Aug 2026 19:21:00 GMT",
+          "description": "Max Verstappen speelde vrijdag een bijrol in de sprintkwalificatie en hoopt op een betere zaterdag in Zandvoort. Te beginnen met de sprintrace. De lichten gaan op groen om 12.00 uur. Volg het op de vo ..."
+        },
+        {
+          "title": "F1 live 12:00u | Sprintrace Grand Prix van Nederland 2026",
+          "source": "F1 Maximaal on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/f1-live-1200u-sprintrace-grand-prix-van-nederland-2026/ar-AA2aHaZy",
+          "publishedDate": "Sat, 22 Aug 2026 02:30:00 GMT",
+          "description": "Het is tijd voor de eerste en tegelijkertijd laatste sprintrace op Circuit Zandvoort. Om 12:00 uur gaan de lichten uit voor de Sprint van de Grand Prix van Nederland, waarin de coureurs 24 ronden voor ..."
+        },
+        {
+          "title": "Verstappen begint aan sprintrace in Zandvoort met gewijzigde startopstelling",
+          "source": "GPblog on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/verstappen-begint-aan-sprintrace-in-zandvoort-met-gewijzigde-startopstelling/ar-AA2aHpLH",
+          "publishedDate": "Sat, 22 Aug 2026 01:59:00 GMT",
+          "description": "Voorafgaand aan de start van de sprintrace in Zandvoort zijn er nog een paar kleine wijzigingen doorgevoerd aan de startopstelling. Twee teams dingen veranderd aan de auto's, waardoor die twee coureur ..."
+        },
+        {
+          "title": "Dag 2 Dutch Grand Prix - Zandvoort stroomt vol met tienduizenden racefans",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/362709/dag-2-dutch-grand-prix-zandvoort-stroomt-vol-met-tienduizenden-racefans",
+          "publishedDate": "Fri, 21 Aug 2026 17:14:00 GMT",
+          "description": "Sprintrace Zandvoort: Russell start vanaf pole, Verstappen zesde. Kwalificatie GP volgt om 16.00 uur. Bekijk alle ontwikkelingen van dag twee."
+        },
+        {
+          "title": "Russell pakt sprintzege Zandvoort: Antonelli houdt Hamilton achter zich",
           "source": "Formule1nieuws.nl",
-          "url": "https://formule1nieuws.nl/nieuws/zandvoort-sprintkwalificatie-vandaag-dit-is-het-exacte-starttijdstip/",
-          "publishedDate": "Thu, 20 Aug 2026 23:01:00 GMT",
-          "description": "De vijfde sprintrace van het Formule 1-seizoen 2026 staat dit weekend op het programma in Zandvoort. Voordat er zaterdag wordt geracet, moet eerst de grid worden bepaald. De sprintkwalificatie begint"
+          "url": "https://formule1nieuws.nl/nieuws/russell-pakt-sprintzege-zandvoort-antonelli-houdt-hamilton-achter-zich/",
+          "publishedDate": "Fri, 21 Aug 2026 14:17:00 GMT",
+          "description": "George Russell heeft de sprintrace op Zandvoort gewonnen en daarmee zijn sterke vorm op het Nederlandse circuit bevestigd. De Mercedes-coureur startte vanaf pole position en gaf die voorsprong niet me ..."
+        },
+        {
+          "title": "Drukte in treinen naar Zandvoort vanwege de Dutch Grand Prix",
+          "source": "IJmuider Courant",
+          "url": "https://www.ijmuidercourant.nl/sport/sport-regionaal/drukte-in-treinen-naar-zandvoort-vanwege-de-dutch-grand-prix/160284407.html",
+          "publishedDate": "Fri, 21 Aug 2026 14:12:00 GMT",
+          "description": "Alles in en rond Zandvoort staat dit weekend in het teken van de Formule 1. Lukt het Max Verstappen om nog een keer boven zichzelf uit te stijgen tijdens zijn thuis-grand prix? Via dit liveblog houden ..."
         }
       ]
     },
@@ -269,10 +173,10 @@
         },
         {
           "title": "Engelse pers prijst Arsenal de hemel in, kritiek op Van Ewijk",
-          "source": "Vi",
+          "source": "Voetbal International",
           "url": "https://www.vi.nl/nieuws/engelse-pers-prijst-arsenal-de-hemel-in-kritiek-op-van-ewijk",
           "publishedDate": "Sat, 22 Aug 2026 02:12:00 GMT",
-          "description": "Arsenal heeft bij de seizoensstart indruk gemaakt, concludeerden ook de Engelse media. Zij denken dat er dit seizoen nog veel meer in het vat zit voor de ploeg van Mikel Arteta. Aan de andere kant ..."
+          "description": "Arsenal heeft bij de seizoensstart indruk gemaakt, concludeerden ook de Engelse media. Zij denken dat er dit seizoen nog veel meer in het vat zit voor de ploeg van Mikel Arteta. Aan de andere kant kre ..."
         },
         {
           "title": "Arsenal verpulvert ploeg van Engels voetbalicoon (48) en kent perfecte Premier League-start",
@@ -287,13 +191,6 @@
           "url": "https://www.msn.com/nl-nl/nieuws/overig/regerend-kampioen-arsenal-start-nieuw-premier-league-seizoen-met-overtuigende-zege/ar-AA2aFwV4",
           "publishedDate": "Fri, 21 Aug 2026 15:52:00 GMT",
           "description": "Arsenal heeft het nieuwe Premier League-seizoen op overtuigende wijze afgetrapt. In eigen huis won de regerend landskampioen eenvoudig van promovendus Coventry City: 3-0. De doelpunten werden gemaakt ..."
-        },
-        {
-          "title": "Kampioen Arsenal geeft Coventry bij Premier League-terugkeer direct koude douche",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/kampioen-arsenal-geeft-coventry-bij-premier-league-terugkeer-direct-koude-douche/ar-AA2aFpFx",
-          "publishedDate": "Fri, 21 Aug 2026 13:52:35 GMT",
-          "description": "Arsenal is het seizoen in de Premier League goed begonnen. De regerend kampioen van Engeland kreeg het Coventry City van Frank Lampard, dat na 25 jaar terugkeerde op het hoogste niveau, op bezoek. The ..."
         },
         {
           "title": "Foutje Van Ewijk leidt eenvoudige Arsenal-zege in bij Premier League-opening",
@@ -315,6 +212,13 @@
           "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-arsenal-coventry-live/",
           "publishedDate": "Fri, 21 Aug 2026 13:30:00 GMT",
           "description": "De Premier League begint dit weekend. Titelverdediger Arsenal ontvangt in het eigen Emirates Stadium promovendus Coventry City. Waar kijk je dit duel ..."
+        },
+        {
+          "title": "Praat mee op VP: Arsenal – Coventry City",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-arsenal-coventry-city/ar-AA2aEESx",
+          "publishedDate": "Fri, 21 Aug 2026 11:37:18 GMT",
+          "description": "De Premier League gaat vrijdagavond van start met een bijzonder affiche. Landskampioen Arsenal ontvangt promovendus Coventry City in het Emirates Stadium. De wedstrijd begint om 21.00 uur, volg de wed ..."
         },
         {
           "title": "Arsenal - Coventry met trots bekeken in Belgi&#235;: 'Hij was de beste op het veld'",
@@ -358,11 +262,18 @@
           "description": "Leiden/Zoeterwoude-Rijndijk,,Zo verdrietig. Zo jong. Leiden is in rouw. Sterkte aan de familie, teamgenoten en vrienden.’’ De Leidse cabaretier en schrijver Jochem Myjer was &#233;&#233;n van de bijna duizend ..."
         },
         {
-          "title": "Kale bende is niet meer in Zoeterwoude",
-          "source": "Leidsch Dagblad",
-          "url": "https://www.leidschdagblad.nl/regio/leiden/kale-bende-is-niet-meer-in-zoeterwoude/57211157.html",
-          "publishedDate": "Wed, 16 Apr 2025 06:06:00 GMT",
-          "description": ",,Er is hier wel wat veranderd'’, zegt een ouder tijdens de voetbalwedstrijd van onze dochters. We zijn als supporters deze zaterdagochtend afgereisd naar Zoeterwoude-Rijndijk. Aan het hek op veld 2 ..."
+          "title": "RKVV Meerburg",
+          "source": "Transfermarkt",
+          "url": "https://www.transfermarkt.de/rkvv-meerburg/gastarbeiter/verein/44573",
+          "publishedDate": "Mon, 10 Jun 2024 08:33:00 GMT",
+          "description": "Die Statistik zeigt, aus welcher ausl&#228;ndischen Nation ein Verein in seiner Geschichte die meisten Spieler besch&#228;ftigt hat. Die erweiterte Ansicht gibt neben der Gesamtzahl an Eins&#228;tzen und Toren auch ..."
+        },
+        {
+          "title": "RKVV Meerburg",
+          "source": "Transfermarkt",
+          "url": "https://www.transfermarkt.de/rkvv-meerburg/erfolge/verein/44573",
+          "publishedDate": "Wed, 10 Apr 2024 17:29:00 GMT",
+          "description": "Diese Seite enth&#228;lt eine komplette &#220;bersicht &#252;ber die Erfolge eines Vereins. Diese werden sowohl chronologisch in einer Tabelle als auch in einer Einzel&#252;bersicht detailliert dargestellt."
         },
         {
           "title": "G voetbal hoort er helemaal bij in de Leidse regio",
@@ -384,13 +295,6 @@
           "url": "https://adodenhaag.nl/nl/adogroen/nieuws/7361-clinic-met-wilfried-kanon-en-bas-kuipers-bij-rkvv-meerburg",
           "publishedDate": "Thu, 29 Nov 2018 13:27:00 GMT",
           "description": "Woensdagmiddag 28 november hebben zo’n 80 kinderen van Meerburg JO8 en JO9 meegedaan aan een clinic van ADO Den Haag. Onder leiding van een echte ADO-trainer werden negen voetbalonderdelen afgewerkt ..."
-        },
-        {
-          "title": "40ste Kerstcross RKVV Meerburg",
-          "source": "sleutelstad",
-          "url": "https://sleutelstad.nl/2013/12/12/40ste-kerstcross-rkvv-meerburg/",
-          "publishedDate": "Thu, 12 Dec 2013 05:48:00 GMT",
-          "description": "Op tweede kerstdag wordt de 40ste Kerstcross georganiseerd op het terrein van RKVV Meerburg in Zoeterwoude Rijndijk. Donderdag 26 december geeft oud-organisator Frans Bos om 13:00 het startschot."
         }
       ]
     },
@@ -434,13 +338,6 @@
           "description": "De politie heeft woensdagochtend een verdachte aangehouden in een lopend onderzoek naar de handel in verdovende middelen in en rond Apeldoorn. Eerder werden al vier aanhoudingen verricht in dit onderz ..."
         },
         {
-          "title": "Man die overleed bij aanhouding raakte al vaker flink in de war maar stond ook bekend als sociaal",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/nijmegen/man-die-overleed-bij-aanhouding-raakte-al-vaker-flink-in-de-war-maar-stond-ook-bekend-als-sociaal~a13cd4e9/",
-          "publishedDate": "Sat, 15 Aug 2026 19:36:00 GMT",
-          "description": "De schreeuwende man die in de nacht van vrijdag op zaterdag &lt;a href=&quot;https://www.gelderlander.nl/nijmegen/politie-grijpt-in-bij-schreeuwende-man-in-nijmegen-verdachte-wordt-onwel-en-overlijdt~a058dd65 ..."
-        },
-        {
           "title": "NS-medewerkers en agent gewond bij aanhouding agressieve man",
           "source": "HV-Almere",
           "url": "https://www.hv-almere.nl/2026/08/ns-medewerkers-en-agent-gewond-bij-aanhouding-agressieve-man-in-almere/",
@@ -460,6 +357,13 @@
           "url": "https://www.ad.nl/112-nieuws-den-haag/een-aanhouding-na-flinke-aanrijding-tussen-twee-autos-in-den-haag~a3b56836/",
           "publishedDate": "Sat, 04 Jul 2026 18:17:00 GMT",
           "description": "Op de Van der Kunstraat in Den Haag zijn zondagochtend twee auto’s met elkaar in botsing gekomen. Het ongeval gebeurde ter hoogte van een vleeshandel in de straat. Door de aanrijding raakten beide ..."
+        },
+        {
+          "title": "Betrokken agent bij geweld aanhouding Zeist: 'Wist niet dat vrouw zwanger was'",
+          "source": "NU",
+          "url": "https://www.nu.nl/binnenland/6397857/betrokken-agent-bij-geweld-aanhouding-zeist-wist-niet-dat-vrouw-zwanger-was.html",
+          "publishedDate": "Mon, 01 Jun 2026 15:15:00 GMT",
+          "description": "De agent die geweld gebruikte tegen een vrouw bij de veelbesproken aanhouding in Zeist, zegt dat hij niet wist dat ze zwanger was. Beelden de gewelddadige aanhouding gaan al dagen rond op sociale ..."
         },
         {
           "title": "Antwoorden Kamervragen over de aanhouding van15 personen wegens het verspreiden van IS propaganda via sociale media",
@@ -496,20 +400,6 @@
           "description": "Stuurde jij ook out-of-offices deze zomer? Veel mensen genoten van hun vakantie. Eenmaal terug op kantoor is het daarna even aanpoten om weer bij te lezen. Met deze terugblik op de ..."
         },
         {
-          "title": "Spanje krijgt wisselvallig weer met stormen, hagel en lagere temperaturen",
-          "source": "INSpanje.nl",
-          "url": "https://inspanje.nl/spanje-krijgt-wisselvallig-weer-dit-weekend/",
-          "publishedDate": "Fri, 21 Aug 2026 01:51:00 GMT",
-          "description": "Bereid je voor op wisselvallig weer in Spanje met stormen en regenbuien deze week. Ontdek wat je kunt verwachten."
-        },
-        {
-          "title": "Regio Valencia van hittecode rood naar zware onweersbuien met hagel en harde windstoten",
-          "source": "INSpanje.nl",
-          "url": "https://inspanje.nl/noodweer-regio-valencia-kerkdak-ingestort/",
-          "publishedDate": "Thu, 20 Aug 2026 09:57:00 GMT",
-          "description": "Hevige onweersbuien teisteren de Comunitat Valenciana met hagel en windstoten tot 149 km/h. In Alzira stortte een kerkdak in ..."
-        },
-        {
           "title": "Ooit zoveel hagel gezien? Sneeuwschuiver moet weg weer veilig maken",
           "source": "jeugdjournaal",
           "url": "https://jeugdjournaal.nl/l/2627123",
@@ -531,18 +421,32 @@
           "description": "Stormnacht met hagel ‘zo groot als je handpalm’ kost verzekeraars tonnen aan schade Verzekeraars hebben voor ‘tonnen’ aan schadeclaims binnengekregen na de storm van afgelopen nacht. Zij kregen al ..."
         },
         {
-          "title": "Hagel en storm leiden tot veel schademeldingen",
-          "source": "boerenbusiness.nl",
-          "url": "https://www.boerenbusiness.nl/akkerbouw/artikel/10916373/hagel-en-storm-leiden-tot-veel-schademeldingen",
-          "publishedDate": "Tue, 23 Jun 2026 02:54:00 GMT",
-          "description": "Hagel en zware buien zorgen voor oplopende schademeldingen in de akkerbouw, vooral in het noordoosten. De schade concentreert zich in uien en aardappelen en raakt opbrengst en herstel. Lees meer over ..."
+          "title": "Onstuimige avond: hagel tot 2 centimeter en windstoten tot 60 kilometer per uur",
+          "source": "rtl",
+          "url": "https://www.rtl.nl/nieuws/weer/artikel/5597089/waarschuwing-voor-onstuimige-avond-hagel-tot-2-centimeter-en-windstoten",
+          "publishedDate": "Sat, 02 May 2026 04:18:00 GMT",
+          "description": "Het gaat flink spoken in Nederland. Aan begin van de avond trekt een gebied met stevige buien over ons land. Voor een groot deel van Nederland geldt code geel. Maak RTL je Google-favoriet De hele ..."
         },
         {
-          "title": "Plots onweer, hagel en zelfs sneeuw tijdens lente: waarom gaan maartse buien zo hevig tekeer?",
+          "title": "Dit is hoe hagel ontstaat en wanneer je grote hagelstenen kunt verwachten",
+          "source": "MSN",
+          "url": "https://www.msn.com/nl-nl/weer/extreme-weergebeurtenissen/dit-is-hoe-hagel-ontstaat-en-wanneer-je-grote-hagelstenen-kunt-verwachten/ar-AA1Zo4eE",
+          "publishedDate": "Wed, 25 Mar 2026 09:00:00 GMT",
+          "description": "Hagel zijn kleine klompjes ijs, maar hoe ze ontstaan en wat daar voor nodig is kun je lezen in dit artikel. Er zijn ook verschillende soorten hagel en het is handig als je deze uit elkaar kunt houden."
+        },
+        {
+          "title": "Verwoesting in Verenigde Staten door ‘gorilla-hagel’: “Nergens stijgt kans op grote hagel sneller dan in Europa”",
           "source": "HLN",
-          "url": "https://www.hln.be/weer-en-wetenschap/plots-onweer-hagel-en-zelfs-sneeuw-tijdens-lente-waarom-gaan-maartse-buien-zo-hevig-tekeer~a3463514/",
-          "publishedDate": "Mon, 23 Mar 2026 03:36:00 GMT",
-          "description": "Na enkele dagen heerlijk zonnig lenteweer lijkt het weer woensdag drastisch om te slaan. Het KMI voorspelt een zwaarbewolkte hemel met stevige (onweers)buien, temperaturen onder de 10 graden en zelfs ..."
+          "url": "https://www.hln.be/weer-en-wetenschap/verwoesting-in-verenigde-staten-door-gorilla-hagel-nergens-stijgt-kans-op-grote-hagel-sneller-dan-in-europa~adacbf88/",
+          "publishedDate": "Thu, 12 Mar 2026 04:32:00 GMT",
+          "description": "Zware onweersbuien met tornado’s zorgen deze week in de Verenigde Staten voor heel wat schade en enkele dodelijke slachtoffers. Vooral de staten Texas, Illinois en Indiana kregen het hard te verduren."
+        },
+        {
+          "title": "Zo ontstaat hagel",
+          "source": "weer",
+          "url": "https://www.weer.nl/nieuws/algemeen/2025/zo-ontstaat-hagel",
+          "publishedDate": "Sun, 08 Jun 2025 07:15:00 GMT",
+          "description": "Hagel wordt gevormd in wolken die sterk in de hoogte ontwikkeld zijn: de zogenoemde cumulonimbuswolken. Deze ontstaan in een onstabiele en vochtige atmosfeer. Daardoor kan lucht tot grote hoogtes ..."
         }
       ]
     },
@@ -593,18 +497,18 @@
           "description": "Een fietser is vrijdag aan het einde van de middag in botsing gekomen met een automobilist op de Mauvestraat in Apeldoorn. Door de botsing heeft de auto een flinke barst in de voorruit opgelopen. De f ..."
         },
         {
-          "title": "Fietser naar ziekenhuis na aanrijding met auto in Emmen",
-          "source": "RTV Drenthe",
-          "url": "https://www.rtvdrenthe.nl/nieuws/18717346/fietser-naar-ziekenhuis-na-aanrijding-met-auto-in-emmen",
-          "publishedDate": "Fri, 21 Aug 2026 03:17:00 GMT",
-          "description": "Bij een ongeluk tussen een auto en een fietser op de Nieuw-Amsterdamsestraat in Emmen is vrijdagochtend een fietser gewond geraakt. Het slachtoffer is per ambulance overgebracht naar het ziekenhuis."
-        },
-        {
           "title": "Fietser rijdt door na botsing met fatbike op Stationsplein in Hoorn",
           "source": "OnsWestfriesland",
           "url": "https://onswestfriesland.nl/2026/gemeente-hoorn/fietser-rijdt-door-na-botsing-met-fatbike-op-stationsplein-in-hoorn/",
           "publishedDate": "Fri, 21 Aug 2026 02:15:00 GMT",
           "description": "HOORN – Op het Stationsplein in Hoorn heeft donderdagmiddag rond 16.15 uur een aanrijding plaatsgevonden tussen een fietser en een vrouw op een fatbike. De vrouw reed daar met een bijrijder toen zij w ..."
+        },
+        {
+          "title": "Dokkum: fietser gewond na te zijn geraakt door bliksem",
+          "source": "W&#226;ldNet",
+          "url": "https://www.waldnet.nl/wn/nieuws/85059/Dokkum_fietser_gewond_na_te_zijn_geraakt_door_bliksem.html",
+          "publishedDate": "Thu, 20 Aug 2026 06:25:00 GMT",
+          "description": "Een fietser is donderdag gewond geraakt nadat hij werd geraakt door de bliksem. Het slachtoffer reed in een groepje toen het gebeurde. Het ..."
         },
         {
           "title": "Fietser (77) overleden na ongeluk in Apeldoorn: botste tegen openslaande autodeur",
@@ -648,6 +552,13 @@
           "description": "Oud-coureur Jan Lammers vindt de contractverlenging van Max Verstappen bij de Formule 1-renstal van Red Bull „mooi en logisch nieuws”. Verstappen verlengde zijn verbintenis met twee jaar tot en met 20 ..."
         },
         {
+          "title": "Dutch GP: Max Verstappen verlengt contract bij Red Bull - blijft tot en met 2030 actief in Formule 1",
+          "source": "Eurosport",
+          "url": "https://www.eurosport.nl/formule-1/gp-nederland/2026/dutch-gp-max-verstappen-verlengt-contract-bij-red-bull-blijft-tot-en-met-2030-actief-in-formule-1_sto23329593/story.shtml",
+          "publishedDate": "Thu, 20 Aug 2026 02:16:00 GMT",
+          "description": "Max Verstappen heeft er toch voor gekozen om zijn contract bij Red Bull Racing tot 2030 te verlengen. De aankondiging kwam vlak voor de laatste Dutch GP."
+        },
+        {
           "title": "Verstappen blikt terug op tweede GP-zege: &quot;Ik was dat weekend enorm ziek&quot;",
           "source": "F1 Maximaal on MSN",
           "url": "https://www.msn.com/nl-be/nieuws/other/verstappen-blikt-terug-op-tweede-gp-zege-ik-was-dat-weekend-enorm-ziek/ar-AA294T3Q",
@@ -662,25 +573,163 @@
           "description": "Het Sepang International Circuit keert later dit jaar terug op de F1-kalender, weliswaar als GP van Bahrein. De laatste keer dat op het circuit een F1-race plaatsvond was […] ..."
         },
         {
-          "title": "Zieke Verstappen feliciteert Norris via videoboodschap",
-          "source": "Autovisie",
-          "url": "https://www.autovisie.nl/autosport/max-verstappen-ziek-afwezig-prijzengala/",
-          "publishedDate": "Fri, 12 Dec 2025 11:45:00 GMT",
-          "description": "Max Verstappen ontbrak tijdens het prijzengala van de internationale autosportfederatie FIA in Tasjkent (Oezbekistan). De coureur van Red Bull, die 2 punten tekortkwam voor zijn vijfde wereldtitel in ..."
-        },
-        {
           "title": "Max Verstappen hoopte ziek te zijn, maar meldt zich t&#243;ch als rockster voor officieuze Formule 1-opening",
           "source": "AD",
           "url": "https://www.ad.nl/formule-1/max-verstappen-hoopte-ziek-te-zijn-maar-meldt-zich-toch-als-rockster-voor-officieuze-formule-1-opening~aa62c766/",
           "publishedDate": "Mon, 17 Feb 2025 00:34:00 GMT",
           "description": "Michael Jackson, Madonna en de Spice Girls traden er avonden lang op. Epke Zonderland (‘en hij staat!’) slingerde er naar olympisch goud. Maar morgenavond is de O2 Arena in Londen even van Max ..."
+        }
+      ]
+    },
+    {
+      "keyword": "koets",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Ongeluk met paard en koets in Hellendoorn, menner overleden",
+          "source": "RTL Nieuws (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/ongeluk-met-paard-en-koets-in-hellendoorn-menner-overleden/ar-AA2aDKzj",
+          "publishedDate": "Fri, 21 Aug 2026 03:56:46 GMT",
+          "description": "Bij een ongeluk met een paard en een koets in Hellendoorn is een man omgekomen. Het gaat om de menner, meldt de politie. Een passagier, die ook op de koets zat, kon zich op tijd in veiligheid brengen."
         },
         {
-          "title": "Zieke Max Verstappen meldt zich noodgedwongen dag later in Saoedi-Arabi&#235;",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/formule-1/zieke-max-verstappen-meldt-zich-noodgedwongen-dag-later-in-saoedi-arabie~ab85c395/",
-          "publishedDate": "Thu, 16 Mar 2023 14:47:00 GMT",
-          "description": "De aanloop naar de tweede Grand Prix van het seizoen verloopt voor Max Verstappen niet helemaal vlekkeloos. De regerend wereldkampioen kampte de afgelopen dagen met buikgriep waardoor hij zich later ..."
+          "title": "Man in Marle komt om bij val met paard en koets, passagier springt van de wagen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/hellendoorn/man-in-daarle-komt-om-het-leven-bij-val-met-paard-en-koets~ac4f7c3c/?slug_rd=1",
+          "publishedDate": "Fri, 21 Aug 2026 00:41:00 GMT",
+          "description": "Bij een ernstig ongeval met een paard en koets in Daarle is vrijdagochtend een man om het leven gekomen. De koets raakte aan de Ekkelweg door nog onbekende oorzaak van de weg en belandde in een sloot."
+        },
+        {
+          "title": "Paardenkoets in Zwitserse Alpen op hol: 1 dode en 12 gewonden",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627143-paardenkoets-in-zwitserse-alpen-op-hol-1-dode-en-12-gewonden",
+          "publishedDate": "Sun, 16 Aug 2026 08:23:00 GMT",
+          "description": "De remmen werkten niet goed. Bergafwaarts kwam de koetsier daardoor in de problemen. Toen een van de paarden viel, was er geen houden meer aan."
+        },
+        {
+          "title": "De Kwestie: ’Handen af van de Gouden Koets’",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/wat-u-zegt/de-kwestie/de-kwestie-handen-af-van-de-gouden-koets/64706789.html",
+          "publishedDate": "Sat, 12 Sep 2020 09:14:00 GMT",
+          "description": "Maar weinig vervoermiddelen zullen zo vaak en heftig bediscussieerd zijn als de Gouden Koets en dan met name de beschilderde panelen aan de linkerkant ervan. Daarin herkent een aantal mensen ..."
+        },
+        {
+          "title": "Menner overleden bij ongeval met paard en koets in Hellendoorn",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1160050-menner-overleden-bij-ongeval-met-paard-en-koets-in-hellendoorn",
+          "publishedDate": "Fri, 21 Aug 2026 05:19:00 GMT",
+          "description": "Bij een ongeval met een paard en een koets aan de Ekkelweg in Hellendoorn is een man om het leven gekomen. Het gaat om de menner, meldt de politie. Een passagier, die ook op de koets zat, kon zich op ..."
+        },
+        {
+          "title": "112 Nieuws: Automobilist gewond in Haaksbergen | Koetsier overleden in Marle",
+          "source": "Oost",
+          "url": "https://www.oost.nl/nieuws/3685769/112-nieuws-automobilist-gewond-in-haaksbergen-koetsier-overleden-in-marle",
+          "publishedDate": "Fri, 21 Aug 2026 01:32:00 GMT",
+          "description": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van vrijdag 21 augustus."
+        },
+        {
+          "title": "Elektrische koets voor toeristen belandt tegen boom in Antwerpen",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/05/elektrische-paardenkoets-antwerpen-ongeval-boom/",
+          "publishedDate": "Wed, 05 Aug 2026 08:34:00 GMT",
+          "description": "In Antwerpen is een elektrische koets voor toeristen tegen een boom beland. De koets zou door een technisch defect stuurloos zijn geraakt. De bestuurder raakte lichtgewond. Er reden geen toeristen mee ..."
+        },
+        {
+          "title": "De Gouden Koets: van trots volksgeschenk tot nationaal ongemak",
+          "source": "ewmagazine",
+          "url": "https://www.ewmagazine.nl/ingezonden-opinie/achtergrond/2021/07/de-gouden-koets-van-trots-volksgeschenk-tot-nationaal-ongemak-831911/",
+          "publishedDate": "Fri, 02 Jul 2021 04:02:00 GMT",
+          "description": "Koning Willem-Alexander tijdens de opening van de expositie De Gouden Koets in het Amsterdam Museum. Foto: ANP. ‘Prachtig gerestaureerd, niks meer aan doen,’ schreef een enthousiaste twitteraar op 19 ..."
+        },
+        {
+          "title": "Geen goud, geen glans. Het dilemma rond de Gouden Koets",
+          "source": "ewmagazine",
+          "url": "https://www.ewmagazine.nl/nederland/achtergrond/2021/06/geen-goud-geen-glans-het-dilemma-rond-de-gouden-koets-830206/",
+          "publishedDate": "Fri, 18 Jun 2021 06:57:00 GMT",
+          "description": "Koning Willem-Alexander tijdens de opening van de expositie De Gouden Koets in het Amsterdam Museum. Foto: ANP. De Koning staat voor een ingewikkelde keuze over de Gouden Koets. Het ligt misschien ..."
+        },
+        {
+          "title": "Gouden Koets",
+          "source": "Eerste",
+          "url": "https://www.eerstekamer.nl/begrip/gouden_koets",
+          "publishedDate": "Thu, 22 May 2014 17:41:00 GMT",
+          "description": "De Gouden Koets, het offici&#235;le staatsierijtuig van het Nederlandse Koningshuis, werd op 7 september 1898 ter gelegenheid van haar troonsbestijging door de Amsterdamse bevolking aan Koningin Wilhelmina ..."
+        }
+      ]
+    },
+    {
+      "keyword": "rodney leysner",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Vermiste Nederlandse filmproducent mogelijk slachtoffer van misdrijf: Surinaamse politie vindt autowrak",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/vermiste-nederlandse-filmproducent-mogelijk-slachtoffer-van-misdrijf-surinaamse-politie-vindt-autowrak~a8479c77/",
+          "publishedDate": "Fri, 21 Aug 2026 17:50:00 GMT",
+          "description": "De Surinaamse politie heeft een uitgebrande en in elkaar geperste auto gevonden in het onderzoek naar de vermiste Nederlandse filmproducent Rodney Leysner. De politie denkt dat er sprake is van een mi ..."
+        },
+        {
+          "title": "Uitgebrande auto gevonden, Leysner lijkt slachtoffer misdrijf",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/binnenland/beruchte-ex-schoonzoon-rijkste-surinamer-ryan-t.-gezocht-na-verdwijning-nederlandse-filmproducent-rodney-leysner-52/160340758.html",
+          "publishedDate": "Fri, 21 Aug 2026 14:19:00 GMT",
+          "description": "Rodney Leysner, de Nederlandse filmproducent die al enige tijd werd vermist in Suriname, lijkt slachtoffer van een misdrijf. Zijn auto is vrijdag uitgebrand gevonden, in een moeras, vlakbij waar hij z ..."
+        },
+        {
+          "title": "Drie arrestaties voor vermissing producent Rodney Leysner in Suriname",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627803-drie-arrestaties-voor-vermissing-producent-rodney-leysner-in-suriname",
+          "publishedDate": "Fri, 21 Aug 2026 13:22:00 GMT",
+          "description": "De auto van Leysner is uitgebrand teruggevonden op een verlaten perceel buiten Paramaribo. Zijn lichaam is nog niet gevonden."
+        },
+        {
+          "title": "Vermiste Nederlandse filmproducent Rodney Leysner (52) mogelijk slachtoffer misdrijf na vondst autowrak",
+          "source": "moordplekken",
+          "url": "https://www.moordplekken.nl/nieuws/vermiste-filmproducent-rodney-leysner-suriname-misdrijf-autowrak-ryan-t",
+          "publishedDate": "Fri, 21 Aug 2026 17:00:00 GMT",
+          "description": "De Surinaamse politie houdt er inmiddels ernstig rekening mee dat de vermiste Nederlandse filmproducent Rodney Leysner (52) het slachtoffer is geworden van een misdrijf. In het district Saramacca is ..."
+        },
+        {
+          "title": "Politie treft afgebrand voertuig aan in zaak vermiste Rodney Leysner; verdachten in beeld",
+          "source": "Waterkant.net",
+          "url": "https://www.waterkant.net/suriname/2026/08/21/politie-treft-afgebrand-voertuig-aan-in-zaak-vermiste-rodney-leysner-aan-verdachten-in-beeld/",
+          "publishedDate": "Fri, 21 Aug 2026 10:58:00 GMT",
+          "description": "Er is een nieuwe ontwikkeling in het onderzoek naar de vermissing van de Nederlandse filmproducent Rodney Leysner (52) in Suriname. De Surinaamse politie ..."
+        },
+        {
+          "title": "Uitgebrande auto gevonden in zwamp in zaak vermiste Rodney Leysner",
+          "source": "Suriname Nieuws",
+          "url": "https://www.srnieuws.com/uitgebrande-auto-gevonden-in-zwamp-in-zaak-vermiste-rodney-leysner",
+          "publishedDate": "Fri, 21 Aug 2026 10:17:00 GMT",
+          "description": "De politie heeft een uitgebrande auto gevonden in het onderzoek naar de vermiste Rodney Leysner (52). De auto lag in een zwamp in Saramacca en was in elkaar geperst. Onderzoek moet uitwijzen of het zi ..."
+        },
+        {
+          "title": "Vermissing Rodney Leysner uitgedraaid op misdrijf: auto opgegraven en verdachten aangehouden",
+          "source": "de Ware Tijd",
+          "url": "https://dwtonline.com/vermissing-rodney-leysner-uitgedraaid-op-misdrijf-auto-opgegraven-en-verdachten-aangehouden/",
+          "publishedDate": "Fri, 21 Aug 2026 08:09:00 GMT",
+          "description": "PARAMARIBO - De vermissingszaak rond Rudisa-directielid Rodney Leysner is officieel veranderd in een onderzoek naar een misdrijf. Dat meldt politiewoordvoerder ..."
+        },
+        {
+          "title": "Politie vermoedt misdrijf bij vermissing Rodney Leysner; drie verdachten vast",
+          "source": "Suriname Nieuws",
+          "url": "https://www.srnieuws.com/politie-vermoedt-misdrijf-bij-vermissing-rodney-leysner-drie-verdachten-vast",
+          "publishedDate": "Fri, 21 Aug 2026 08:02:00 GMT",
+          "description": "De vermissing van Rudisa-topman Rodney Leysner wordt inmiddels onderzocht als een zaak waarbij mogelijk sprake is van een misdrijf. De politie heeft drie verdachten aangehouden en zoekt naar een vierd ..."
+        },
+        {
+          "title": "Vijf dagen zonder spoor van Rodney Leysner",
+          "source": "Dagblad Suriname",
+          "url": "https://www.dbsuriname.com/2026/08/21/vijf-dagen-zonder-spoor-van-rodney-leysner/",
+          "publishedDate": "Fri, 21 Aug 2026 06:30:00 GMT",
+          "description": "De Nederlandse filmproducent en ondernemer Rodney Leysner wordt sinds zaterdagavond 15 augustus vermist in Suriname. Hij werd rond 21.45 uur voor het laatst ..."
+        },
+        {
+          "title": "Kapitale Delicten belast met onderzoek ‘vermiste’ Rodney Leysner",
+          "source": "de Ware Tijd",
+          "url": "https://dwtonline.com/kapitale-delicten-belast-met-onderzoek-vermiste-rodney-leysner/",
+          "publishedDate": "Tue, 18 Aug 2026 19:02:00 GMT",
+          "description": "PARAMARIBO — De afdeling Kapitale Delicten van het Korps Politie Suriname is zondag gestart met het onderzoek naar de vermissing ..."
         }
       ]
     }
