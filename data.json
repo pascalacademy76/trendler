@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-08-23T13:09:24.945Z",
+  "fetchedAt": "2026-08-23T13:52:15.310Z",
   "trends": [
     {
       "keyword": "ongeval",
-      "trafficLabel": "50K+",
+      "trafficLabel": "100K+",
       "articles": [
         {
           "title": "Ongeval met letsel op Bavinksweg in Almelo",
@@ -20,6 +20,13 @@
           "description": "Een busje en een personenauto zijn zaterdagavond met elkaar in botsing gekomen op de N205 (Drie Merenweg) bij Vijfhuizen. Beide voertuigen raakten daarbij zwaar beschadigd."
         },
         {
+          "title": "Ongeval met letsel op Burgemeester van Karnebeeklaan in Den Haag",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/zuid-holland/haaglanden/den-haag/55732536/p2000-ongeval-met-letsel-op-burgemeester-van-karnebeeklaan-in-den-haag.html",
+          "publishedDate": "Sun, 23 Aug 2026 06:12:00 GMT",
+          "description": "De hulpdiensten zijn zondagmiddag uitgerukt voor een ongeval met letsel op de kruising de Burgemeester van Karnebeeklaan en Scheveningseweg in Den Haag."
+        },
+        {
           "title": "Bestuurder vermoedelijk onder invloed van coca&#239;ne bij zwaar ongeval",
           "source": "GelreNieuws.nl",
           "url": "https://www.gelrenieuws.nl/2026/08/23/video/bestuurder-vermoedelijk-onder-invloed-van-cocane-bij-zwaar-ongeval.html",
@@ -32,13 +39,6 @@
           "url": "https://www.gelderlander.nl/overbetuwe/bestuurder-onder-invloed-bij-ernstig-ongeval-valburg-treinverkeer-rijdt-weer-normaal~a7124d58a/",
           "publishedDate": "Sat, 22 Aug 2026 18:59:00 GMT",
           "description": "Een van de automobilisten die zaterdagmiddag betrokken was bij een ernstig ongeval in Valburg was waarschijnlijk onder invloed van drugs. Dat meldt de politie."
-        },
-        {
-          "title": "Ongeval met letsel op Burgemeester van Karnebeeklaan in Den Haag",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/zuid-holland/haaglanden/den-haag/55732536/p2000-ongeval-met-letsel-op-burgemeester-van-karnebeeklaan-in-den-haag.html",
-          "publishedDate": "Sat, 22 Aug 2026 16:11:00 GMT",
-          "description": "De hulpdiensten zijn zondagmiddag uitgerukt voor een ongeval met letsel op de kruising de Burgemeester van Karnebeeklaan en Scheveningseweg in Den Haag."
         },
         {
           "title": "Kind met traumahelikopter naar Erasmus MC na ongeval met zijspan bij Tholen",
@@ -79,77 +79,97 @@
     },
     {
       "keyword": "psv - groningen",
-      "trafficLabel": "20K+",
+      "trafficLabel": "50K+",
       "articles": [
         {
-          "title": "PSV'er Driouech ontbreekt tegen FC Groningen vanwege deal met Celta de Vigo",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6407245/psver-driouech-ontbreekt-tegen-fc-groningen-vanwege-deal-met-celta-de-vigo.html",
-          "publishedDate": "Sun, 23 Aug 2026 03:41:00 GMT",
-          "description": "Couhaib Driouech ontbreekt zondag in de selectie van PSV voor de Eredivisie-wedstrijd tegen FC Groningen. De aanvaller, die eerder een overstap naar Rangers FC zag afketsen, is naar verluidt voor 8 mi ..."
-        },
-        {
-          "title": "Live Eredivisie | PSV en FC Groningen missen allebei kansen op voorsprong",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6407251/live-eredivisie-psv-en-fc-groningen-missen-allebei-kansen-op-voorsprong.html",
-          "publishedDate": "Sun, 23 Aug 2026 02:45:00 GMT",
-          "description": "Welkom in dit liveblog! Hier hou ik, Bram Schutte, je op de hoogte van al het Eredivisie-voetbal van deze zondag. Veel plezier!"
-        },
-        {
-          "title": "Snelle goals PSV en Groningen (1-1) • Geertruida op de bank, Saibari neemt afscheid",
+          "title": "PSV met Sano begonnen tegen Groningen • Geertruida op de bank, Saibari neemt afscheid",
           "source": "NOS",
-          "url": "https://nos.nl/liveblog/2627970-snelle-goals-psv-en-groningen-1-1-geertruida-op-de-bank-saibari-neemt-afscheid",
+          "url": "https://nos.nl/liveblog/2627970-eagles-gaat-winnen-van-ado-sano-op-middenveld-psv-geertruida-op-de-bank",
           "publishedDate": "Sun, 23 Aug 2026 02:43:00 GMT",
           "description": "In dit eredivisieblog aandacht voor drie wedstrijden: Go Ahead Eagles - ADO Den Haag, PSV - FC Groningen en SC Cambuur - Feyenoord."
         },
         {
-          "title": "LIVE eredivisie | PSV op jacht naar tweede goal tegen Groningen, geel Van Bommel na tackle op Vaessen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/live-eredivisie-psv-op-jacht-naar-tweede-goal-tegen-groningen-geel-van-bommel-na-tackle-op-vaessen~a4ed66bb/",
-          "publishedDate": "Sat, 22 Aug 2026 22:52:00 GMT",
-          "description": "Een spectaculaire openingsfase in Eindhoven, waar het na tien minuten al 1-1 was bij PSV - FC Groningen door een goal van Brynj&#243;lfur Willumsson en eigen goal van Thijmen Blokzijl. Volg hier ons livebl ..."
-        },
-        {
-          "title": "Voorsprong FC Groningen is van korte duur, PSV scoort (1-1)",
-          "source": "RTV Noord",
-          "url": "https://www.rtvnoord.nl/sport/1430406/voorsprong-fc-groningen-is-van-korte-duur-psv-scoort-1-1",
-          "publishedDate": "Sun, 23 Aug 2026 05:41:00 GMT",
-          "description": "FC Groningen is na twee speelrondes in de eredivisie nog foutloos. De Groningers spelen vanmiddag in Eindhoven tegen regerend landskampioen PSV. Lukt het de FC om voor het eerst sinds 2018 minstens ee ..."
-        },
-        {
-          "title": "Live 14.30 uur | PSV - FC Groningen (1-1)",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/live-14-30-uur-psv-fc-groningen-1-1/ar-AA2aK6fl",
-          "publishedDate": "Sun, 23 Aug 2026 05:05:00 GMT",
-          "description": "Dit is het livetopic voor de drie Eredivisiewedstrijden op zondag 23 augustus. Go Ahead Eagles trapt de dag af met een thuiswedstrijd tegen ADO Den Haag. Later op de middag treft PSV op eigen veld FC ..."
-        },
-        {
-          "title": "Geertruida en Kostic stappen uit PSV-bus en kunnen debuteren tegen Groningen",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/geertruida-en-kostic-stappen-uit-psv-bus-en-kunnen-debuteren-tegen-groningen/ar-AA2aLd4B",
-          "publishedDate": "Sun, 23 Aug 2026 04:45:14 GMT",
-          "description": "Lutsharel Geertruida en Filip Kostic zijn zondagmiddag uit de spelersbus van PSV gestapt voor het Eredivisie-duel met FC Groningen. Het duo kan debuteren tegen de Trots van het Noorden . Beide spelers ..."
-        },
-        {
-          "title": "VI Live: PSV en FC Groningen na afscheid Saibari onderweg",
+          "title": "VI Live: PSV verdedigt in tweede helft ruime voorsprong tegen FC Groningen",
           "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/vi-live-psv-en-fc-groningen-na-afscheid-saibari-onderweg",
+          "url": "https://www.vi.nl/nieuws/vi-live-psv-verdedigt-in-tweede-helft-ruime-voorsprong-tegen-fc-groningen",
           "publishedDate": "Sat, 22 Aug 2026 22:16:00 GMT",
-          "description": "PSV krijgt zondagmiddag bezoek van FC Groningen. De Trots van het Noorden is nog altijd foutloos in de Eredivisie en daar zal de landskampioen graag verandering in aanbrengen. Volg het duel in deze VI ..."
+          "description": "PSV krijgt zondagmiddag bezoek van FC Groningen. De Trots van het Noorden is nog altijd foutloos in de Eredivisie en daar zal de landskampioen graag verandering in aanbrengen. Volg het duel in deze VI"
+        }
+      ]
+    },
+    {
+      "keyword": "viaplay",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Amber Brantsen in shock om Viaplay-haat: ‘Met de dood bedreigd’",
+          "source": "Mediacourant",
+          "url": "https://www.mediacourant.nl/2026/08/amber-brantsen-in-shock-om-viaplay-haat-met-de-dood-bedreigd/",
+          "publishedDate": "Sun, 23 Aug 2026 05:30:00 GMT",
+          "description": "Amber Brantsen schrok zich rot van de enorme hoeveelheid haat die loskwam toen Viaplay de Formule 1-uitzendingen overnam. Sommige collega's werden zelfs met de dood bedreigd. &quot;Bizar.&quot; ..."
         },
         {
-          "title": "VI Live: PSV verzuimt na megakansen voorsprong te pakken tegen Groningen",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/vi-live-psv-en-fc-groningen-scoren-allebei-in-eerste-tien-minuten",
-          "publishedDate": "Sat, 22 Aug 2026 22:16:00 GMT",
-          "description": "PSV krijgt zondagmiddag bezoek van FC Groningen. De Trots van het Noorden is nog altijd foutloos in de Eredivisie en daar zal de landskampioen graag verandering in aanbrengen. Volg het duel in deze VI ..."
+          "title": "Zo kijk je de F1 Grand Prix Nederland live op TV",
+          "source": "https//racingnews365.nl",
+          "url": "https://racingnews365.nl/zo-kijk-je-de-f1-grand-prix-nederland-live-op-tv",
+          "publishedDate": "Sun, 23 Aug 2026 04:55:00 GMT",
+          "description": "De Grand Prix van Nederland belooft een hele bijzondere te worden, want de race staat voorlopig voor het laatst op de Formule 1-kalender. De coureurs zullen er ongetwijfeld een fraaie race van willen ..."
         },
         {
-          "title": "Live Eredivisie | PSV komt vroeg op achterstand in eigen huis, maar herstelt razendsnel tegen FC Groningen",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/eredivisie-voetbal/nieuws/live-eredivisie-psv-komt-vroeg-op-achterstand-in-eigen-huis-maar-herstelt-razendsnel-tegen-fc-groningen-2026082307122739600/",
-          "publishedDate": "Sat, 22 Aug 2026 17:43:00 GMT",
-          "description": "In de Eredivisie worden er dit weekend wat minder duels gespeeld dan gebruikelijk en daardoor zijn er zondag maar drie wedstrijden. Topclubs PSV en Feyenoord komen wel in actie en kunnen zich na een m ..."
+          "title": "Zo kijk je vanmiddag gratis naar Formule 1 GP van Zandvoort",
+          "source": "gadgetgear",
+          "url": "https://www.gadgetgear.nl/2026/08/zo-kijk-je-vanmiddag-gratis-naar-formule-1-gp-van-zandvoort/",
+          "publishedDate": "Sun, 23 Aug 2026 04:10:00 GMT",
+          "description": "De Grand Prix van Nederland is dit weekend volledig gratis te zien op Viaplay TV, de open zender van Viaplay. Vandaag begint de uitzending om 12.45 uur en de race start om 15.00 uur. Je hebt er geen V ..."
+        },
+        {
+          "title": "Op welke zender kijk je Hull City – Manchester United live?",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-hull-city-manchester-united/",
+          "publishedDate": "Sat, 22 Aug 2026 03:15:00 GMT",
+          "description": "De Premier League begint dit weekend. Grootmacht Manchester United gaat op bezoek bij promovendus Hull City. Waar kijk je dit duel live? SN TV Gids: waar ..."
+        },
+        {
+          "title": "Formule 1 GP van Zandvoort gratis kijken z&#243;nder Viaplay: zo doe je dat",
+          "source": "iPhoned",
+          "url": "https://www.iphoned.nl/tips/formule-1-zandvoort-gratis-kijken/",
+          "publishedDate": "Fri, 21 Aug 2026 05:17:00 GMT",
+          "description": "De Formule 1 Grand Prix van Nederland vindt dit jaar voor de laatste keer plaats op Circuit Zandvoort. Zo kijk je de race zonder Viaplay!"
+        },
+        {
+          "title": "Voor de laatste Dutch GP op Zandvoort heb je geen Viaplay-abonnement nodig",
+          "source": "JFK",
+          "url": "https://jfk.men/entertainment/grand-prix-nederland-2026-gratis-kijken-viaplay-tv/",
+          "publishedDate": "Fri, 21 Aug 2026 03:02:00 GMT",
+          "description": "Iedereen kan gratis naar de Grand Prix van Nederland 2026 kijken via Viaplay TV. Bekijk hier het volledige programma op Circuit Zandvoort."
+        },
+        {
+          "title": "Zo kijk je LIVE en GRATIS de Formule 1 in Zandvoort met Max Verstappen",
+          "source": "RaceXpress",
+          "url": "https://www.racexpress.nl/autosport-int-diversen/zo-kijk-je-live-en-gratis-de-formule-1-in-zandvoort-met-max-verstappen/n/155592",
+          "publishedDate": "Thu, 20 Aug 2026 23:02:00 GMT",
+          "description": "2026 Formula One Dutch Grand Prix: dit weekeinde wordt de zesde en laatste editie van de Dutch Grand Prix op het circuit van Zandvoort gehouden. Voor ..."
+        },
+        {
+          "title": "Viaplay met zeer positief nieuws in aanloop naar laatste GP van Nederland",
+          "source": "GPblog on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/motorsport/viaplay-met-zeer-positief-nieuws-in-aanloop-naar-laatste-gp-van-nederland/ar-AA2atSJE",
+          "publishedDate": "Wed, 19 Aug 2026 07:03:00 GMT",
+          "description": "Nederlandse Formule 1-fans hoeven komend weekend niet per se een betaald abonnement te hebben om de laatste Dutch Grand Prix op Zandvoort te kunnen volgen. Viaplay stelt het volledige raceweekend grat ..."
+        },
+        {
+          "title": "F1 GP Nederland met Max Verstappen gratis te bekijken bij Viaplay",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/f1-gp-nederland-met-max-verstappen-gratis-te-bekijken-bij-viaplay/ar-AA2ahooo",
+          "publishedDate": "Mon, 17 Aug 2026 03:00:00 GMT",
+          "description": "De laatste Grand Prix van Nederland is voor autosportfans gratis te bekijken. Viaplay zendt alle sessies uit op het 'open' net Viaplay TV."
+        },
+        {
+          "title": "Viaplay uit de rode cijfers, maar internationale ambities zijn voorbij",
+          "source": "NU",
+          "url": "https://www.nu.nl/economie/6403442/viaplay-uit-de-rode-cijfers-maar-internationale-ambities-zijn-voorbij.html",
+          "publishedDate": "Fri, 17 Jul 2026 05:19:00 GMT",
+          "description": "Viaplay heeft voor het eerst in ruim twee jaar weer winst geboekt. De Zweedse streamingdienst krabbelt langzaam op na een zware crisis, waarin het bedrijf moest bezuinigen. Onlangs besloot het ook de ..."
         }
       ]
     },
@@ -165,13 +185,6 @@
           "description": "In dit eredivisieblog aandacht voor drie wedstrijden: Go Ahead Eagles - ADO Den Haag, PSV - FC Groningen en SC Cambuur - Feyenoord."
         },
         {
-          "title": "Rottier brengt ADO terug in de wedstrijd tegen Go Ahead Eagles",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/sport/5138872/rottier-brengt-ado-terug-in-de-wedstrijd-tegen-go-ahead-eagles",
-          "publishedDate": "Sun, 23 Aug 2026 04:51:00 GMT",
-          "description": "ADO Den Haag kreeg in haar eerste twee eredivisiewedstrijden te maken met de harde wetten van het Nederlands topvoetbal. FC Groningen en AZ waren een maatje te groot voor de equipe van Robin Peter. Lu"
-        },
-        {
           "title": "LIVE Eredivisie | PSV neemt het op tegen FC Groningen, Feyenoord op bezoek bij SC Cambuur",
           "source": "Ajax Showtime on MSN",
           "url": "https://www.msn.com/nl-nl/nieuws/overig/live-eredivisie-psv-neemt-het-op-tegen-fc-groningen-feyenoord-op-bezoek-bij-sc-cambuur/ar-AA2aK6fl?ocid=BingNewsVerp",
@@ -179,31 +192,18 @@
           "description": "Dit is het livetopic voor de drie Eredivisiewedstrijden op zondag 23 augustus. Go Ahead Eagles trapt de dag af met een thuiswedstrijd tegen ADO Den Haag. Later op de middag treft PSV op eigen veld FC"
         },
         {
-          "title": "Voorbeschouwing Go Ahead Eagles – ADO Den Haag",
-          "source": "adodenhaag.nl",
-          "url": "https://adodenhaag.nl/nl/zoeken?q=eagles",
-          "publishedDate": "Sat, 28 Oct 2023 17:00:00 GMT",
-          "description": "ADO Den Haag gaat zaterdagavond op jacht naar de eerste punten van het seizoen. De ploeg van trainer Maurice Steijn gaat in de tweede speelronde op bezoek bij Go Ahead Eagles. De promovendus speelde afgelopen zondag met 1-1 gelijk bij FC Utrecht."
-        }
-      ]
-    },
-    {
-      "keyword": "hoe laat f1",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Hoe de F1-grid voor 2027 vorm krijgt na Verstappens Red Bull-verlenging",
-          "source": "Motorsport.com",
-          "url": "https://nl.motorsport.com/f1/news/hoe-de-f1-grid-voor-2027-vorm-krijgt-na-verstappens-red-bull-verlenging/10847650/",
-          "publishedDate": "Thu, 20 Aug 2026 17:00:00 GMT",
-          "description": "F1 Zandvoort 2026 gratis live kijken: Hoe laat zijn de sprint en kwalificatie en waar te zien? Op het eerste gezicht zou de komst van drie coureursaankondigingen voor 2027 in dezelfde week erop kunnen"
+          "title": "Tengstedt goud waard voor Go Ahead Eagles, dat ADO nieuwe dreun bezorgt",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/tengstedt-goud-waard-voor-go-ahead-eagles-dat-ado-nieuwe-dreun-bezorgt/bltf6f1f0257e466f99",
+          "publishedDate": "Sat, 22 Aug 2026 17:09:00 GMT",
+          "description": "Go Ahead Eagles stijgt naar plek twee in de Vriendenloterij Eredivisie. De ploeg van trainer Joseph Oosting won op eigen veld met 3-1 van ADO Den Haag, dat stijf onderaan staat met drie nederlagen op rij."
         },
         {
-          "title": "F1-tijden: Tijdschema F1 GP Nederland 2026",
-          "source": "https//racingnews365.nl",
-          "url": "https://racingnews365.nl/f1-tijden-tijdschema-f1-gp-nederland-2026",
-          "publishedDate": "Sun, 16 Aug 2026 22:00:00 GMT",
-          "description": "Na de zomerstop wordt de tweede seizoenshelft van de Formule 1 in gang geschoten in ons eigen land. Circuit Zandvoort is voor de zesde keer op rij het decor voor de Grand Prix van Nederland, en het belooft een memorabele editie te worden. Vanaf 2027 ..."
+          "title": "Preview: Go Ahead Eagles vs. ADO Den Haag - prediction, team news, lineups",
+          "source": "Sports Mole",
+          "url": "https://www.sportsmole.co.uk/football/go-ahead-eagles/preview/go-ahead-eagles-vs-ado-den-haag-prediction-team-news-lineups_603446.html",
+          "publishedDate": "Fri, 21 Aug 2026 07:08:00 GMT",
+          "description": "Sports Mole previews Sunday's Eredivisie clash between Go Ahead Eagles and ADO Den Haag, including predictions, team news and possible lineups."
         }
       ]
     },
@@ -268,18 +268,38 @@
           "description": "De relatie tussen Lazio-voetballer Kenneth Taylor en influencer Jade Anna van Vliet is voorbij, zo meldt Van Vliet in een story op Instagram."
         },
         {
-          "title": "Twee maanden na verloving: Jade Anna en Kenneth Taylor zetten punt achter relatie",
-          "source": "VK Magazine",
-          "url": "https://www.vkmag.com/magazine/twee-maanden-na-verloving-jade-anna-en-kenneth-taylor-zetten-punt-achter-relatie",
-          "publishedDate": "Sat, 22 Aug 2026 10:46:00 GMT",
-          "description": "Het leek allemaal behoorlijk lekker te gaan tussen influencer Jade Anna van Vliet en voetballer Kenneth Taylor. Begin dit jaar verhuisde de influencer nog met haar vriend mee naar Rome, waar Taylor na ..."
-        },
-        {
           "title": "Kenneth Taylor en Jade Anna kort na verloving uit elkaar: 'Moeilijk om te delen'",
           "source": "Voetbalprimeur on MSN",
           "url": "https://www.msn.com/nl-nl/lifestyle/other/kenneth-taylor-en-influencer-jade-anna-uit-elkaar-liefde-alleen-is-niet-genoeg/ar-AA2aI0R6",
           "publishedDate": "Sat, 22 Aug 2026 09:15:00 GMT",
           "description": "Blessuregevallen, transfers, interviews en wedstrijdverslagen; alles vind je in de nieuwslijst van VoetbalPrimeur. In de rubriek 'Buitenspel' houden we jullie &#243;&#243;k op de hoogte van de zaken die een te ..."
+        },
+        {
+          "title": "Jade Anna en verloofde Kenneth uit elkaar: 'Ontzettend veel verdriet'",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/jade-anna-en-verloofde-kenneth-uit-elkaar-ontzettend-veel-verdriet",
+          "publishedDate": "Sat, 22 Aug 2026 08:56:00 GMT",
+          "description": "Jade Anna en haar verloofde Kenneth maken een emotionele breuk bekend. Ondanks hun liefde hebben ze verschillende toekomstvisies."
+        }
+      ]
+    },
+    {
+      "keyword": "verstappen",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "LIVE Grand Prix van Zandvoort | Drama in laatste Dutch GP: Max Verstappen knalt er snoeihard af in Zandvoort",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/formule-1/live-grand-prix-van-zandvoort-drama-in-laatste-dutch-gp-max-verstappen-knalt-er-snoeihard-af-in-zandvoort~a37b2d74/",
+          "publishedDate": "Sat, 22 Aug 2026 23:43:00 GMT",
+          "description": "Voor de laatste keer rijden Max Verstappen en zijn collega’s vandaag de Grand Prix van Zandvoort. De Dutch GP verdwijnt van de Formule 1-kalender. Wie wordt de winnaar en waar finisht Max Verstappen?"
+        },
+        {
+          "title": "LIVE. Lichte regen zorgt voor wat extra spanning: kan Max Verstappen verrassen voor eigen publiek vanop vierde rij?",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/formule-1/live-lichte-regen-zorgt-voor-wat-extra-spanning-kan-max-verstappen-verrassen-voor-eigen-publiek-vanop-vierde-rij~a9613a93/",
+          "publishedDate": "Wed, 19 Aug 2026 05:03:00 GMT",
+          "description": "Dit weekend trekt het &lt;a href=&quot;https://www.hln.be/formule-1/&quot; target=&quot;_blank&quot;&gt;F1-circus naar Zandvoort, waar Max Verstappen (28) zijn thuisrace rijdt. Vorig jaar werd de Nederlander tweede achter Osca"
         }
       ]
     },
@@ -288,108 +308,39 @@
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Spectaculaire beelden: luchtmacht voert flyby uit bij laatste Grand Prix van Nederland",
+          "title": "LIVE Grand Prix van Zandvoort | Verstappen toegejuicht tijdens Drivers Parade, koning en koningin aangekomen op circuit",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/formule-1/live-grand-prix-van-zandvoort-verstappen-toegejuicht-tijdens-drivers-parade-koning-en-koningin-aangekomen-op-circuit~a37b2d74/",
+          "publishedDate": "Sat, 22 Aug 2026 16:57:00 GMT",
+          "description": "Voor de laatste keer rijden Max Verstappen en zijn collega’s vandaag de Grand Prix van Zandvoort. De Dutch GP verdwijnt van de Formule 1-kalender. Wie wordt de winnaar en waar finisht Max Verstappen?"
+        },
+        {
+          "title": "Tijdschema Grand Prix van Nederland: zo laat komt Max Verstappen in actie tijdens laatste F1-race in Zandvoort",
           "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/video/spectaculaire-beelden-luchtmacht-voert-flyby-uit-bij-laatste-grand-prix-van-nederland/160395217.html",
-          "publishedDate": "Sun, 23 Aug 2026 06:03:00 GMT",
-          "description": "De Koninklijke Luchtmacht heeft zondag voorafgaand aan de laatste Grand Prix van Nederland een flyby uitgevoerd boven en rondom het circuit. Daarbij werden onder andere een Chinook en F-35’s ingezet."
+          "url": "https://www.telegraaf.nl/sport/autosport/tijdschema-grand-prix-van-nederland-zo-laat-komt-max-verstappen-in-actie-tijdens-laatste-f1-race-in-zandvoort/160019278.html",
+          "publishedDate": "Fri, 21 Aug 2026 07:40:00 GMT",
+          "description": "Na de zomerstop wordt het Formule 1-seizoen komend weekend hervat, in Zandvoort. Het wordt de laatste Dutch Grand Prix. Met dit keer op de zaterdag ook een sprintrace."
         },
         {
-          "title": "Herlings moet hard weken in Arnhem voor zege in eerste manche GP van Nederland",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627991-herlings-moet-hard-weken-in-arnhem-voor-zege-in-eerste-manche-gp-van-nederland",
-          "publishedDate": "Sun, 23 Aug 2026 05:58:00 GMT",
-          "description": "Jeffrey Herlings vecht een boeiende strijd uit met landgenoot Kay de Wolf, valt zelf nog even stil, maar wint uiteindelijk toch de eerste manche."
-        },
-        {
-          "title": "Live F1 | Laatste GP van Nederland op punt van beginnen op opdrogende baan",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/formule-1/6407247/live-f1-hamilton-looft-nederlandse-fans-antonelli-hoopt-op-terugkeer-zandvoort.html",
-          "publishedDate": "Sun, 23 Aug 2026 01:45:00 GMT",
-          "description": "Goedendag en welkom in dit liveblog! Hier houden we je vanaf Circuit Zandvoort op de hoogte van de laatste Grand Prix van Nederland. Veel plezier!"
-        },
-        {
-          "title": "Bekijk de startopstelling voor de GP van Nederland met Verstappen op plek zeven",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/formule-1/6407219/bekijk-de-startopstelling-voor-de-gp-van-nederland-met-verstappen-op-plek-zeven.html",
-          "publishedDate": "Sat, 22 Aug 2026 12:52:00 GMT",
-          "description": "Max Verstappen begint zondag vanaf de zevende plek aan de laatste Grand Prix van Nederland. Lando Norris troefde de Mercedes-coureurs af en veroverde poleposition. Bekijk hier de volledige startopstel ..."
-        },
-        {
-          "title": "Zo kijk je de F1 Grand Prix Nederland live op tv",
+          "title": "Zo kijk je de F1 Grand Prix Nederland live op TV",
           "source": "RacingNews365 on MSN",
           "url": "https://www.msn.com/nl-nl/nieuws/overig/zo-kijk-je-de-f1-grand-prix-nederland-live-op-tv/ar-AA2aK6Ut",
           "publishedDate": "Sun, 23 Aug 2026 04:55:00 GMT",
           "description": "Op zondag 23 augustus 2026 wordt de Formule 1 Grand Prix van Nederland verreden. Bekijk hier hoe je de race live op tv kunt volgen."
         },
         {
-          "title": "Russell ziet groot voordeel ten opzichte van Antonell: &quot;Ik heb alles te winnen”",
-          "source": "F1 Maximaal",
-          "url": "https://www.f1maximaal.nl/formule-1/russell-ziet-groot-voordeel-ten-opzichte-van-antonell-ik-heb-alles-te-winnen",
-          "publishedDate": "Sat, 22 Aug 2026 17:56:00 GMT",
-          "description": "George Russell start de Grand Prix van Nederland vanaf de tweede plaats, met Mercedes-teamgenoot Andrea Kimi Antonelli direct achter hem op P3. Daarmee starten beide Mercedessen achter polesitter Land ..."
-        },
-        {
-          "title": "F1 Live 15:00u | Grand Prix van Nederland 2026",
-          "source": "F1 Maximaal",
-          "url": "https://www.f1maximaal.nl/formule-1/f1-live-1500u-grand-prix-van-nederland-2026",
-          "publishedDate": "Sat, 22 Aug 2026 17:01:00 GMT",
-          "description": "Het is tijd voor de allerlaatste Grand Prix van Nederland op Circuit Zandvoort. Om 15:00 uur gaan de lichten uit voor de race over 72 ronden, waarbij Lando Norris vanaf poleposition vertrekt. Voor Max ..."
-        },
-        {
-          "title": "Max Verstappen staat voor moeilijke opdracht tijdens laatste Grand Prix van Nederland na kwalificatie",
+          "title": "Live Formule 1 | Laatste GP van Nederland krijgt meteen enorme domper met uitvallen Max Verstappen en rode vlag",
           "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/formule-1/nieuws/max-verstappen-staat-voor-moeilijke-opdracht-tijdens-laatste-grand-prix-van-nederland-na-kwalificatie-2026082213522597364/",
-          "publishedDate": "Sat, 22 Aug 2026 10:04:00 GMT",
-          "description": "Max Verstappen start zondag vanaf P7 tijdens de voorlopig laatste Grand Prix van Nederland. De Red Bull-coureur zette zaterdag de zevende tijd neer tijdens de kwalificatie. Lando Norris stelde ..."
+          "url": "https://sportnieuws.nl/formule-1/nieuws/live-formule-1-laatste-gp-van-nederland-krijgt-meteen-enorme-domper-met-uitvallen-max-verstappen-en-rode-vlag-2026082306065759350/",
+          "publishedDate": "Sat, 22 Aug 2026 18:22:00 GMT",
+          "description": "De GP van Nederland is zondag meteen opgeschikt door een harde crash van Max Verstappen. De Nederlander verloor in de eerste ronde de controle van zijn auto op het nog natte circuit Zandvoort en klapt"
         },
         {
-          "title": "Jeffrey Herlings wint kwalificatierace van MXGP in Arnhem, Kay de Wolf tweede",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/sport/jeffrey-herlings-wint-kwalificatierace-van-mxgp-in-arnhem-kay-de-wolf-tweede~afe6f5dd/",
-          "publishedDate": "Sat, 22 Aug 2026 03:42:00 GMT",
-          "description": "Jeffrey Herlings heeft de kwalificatierace van de MXGP tijdens de Grand Prix van Nederland in Arnhem gewonnen. Voor eigen publiek maakte de coureur uit Oploo een bijzonder sterke indruk. In totaal ein ..."
-        }
-      ]
-    },
-    {
-      "keyword": "quevin castro",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Aanbieding voor €0,49/week",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/sport/voetbal/tragisch-nieuws-uit-portugal-voetballer-quevin-castro-25-tijdens-oefenduel-overleden/160381979.html",
-          "publishedDate": "Sat, 22 Aug 2026 11:26:00 GMT",
-          "description": "De Portugese voetballer Quevin Castro is op 25-jarige leeftijd overleden tijdens een oefenwedstrijd van zijn club Real Sport Clube, die uitkomt op het derde niveau in Portugal."
-        },
-        {
-          "title": "Tragisch nieuws uit Portugal: voetballer Quevin Castro (25) tijdens oefenduel overleden",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/sport/voetbal/tragisch-nieuws-uit-portugal-voetballer-quevin-castro-25-tijdens-oefenduel-overleden/160383116.html",
-          "publishedDate": "Sat, 22 Aug 2026 14:26:00 GMT",
-          "description": "De Portugese voetballer Quevin Castro is op 25-jarige leeftijd overleden tijdens een oefenwedstrijd van zijn club Real Sport Clube, die uitkomt op het derde niveau in Portugal."
-        },
-        {
-          "title": "Drama in Portugal: Qu&#233;vin Castro (25) overleden tijdens oefenwedstrijd",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/drama-in-portugal-quevin-castro-25-overleden-tijdens-oefenwedstrijd",
-          "publishedDate": "Sat, 22 Aug 2026 14:12:00 GMT",
-          "description": "Dramatisch nieuws uit Portugal, waar voetballer Quevin Castro van Real Sport Clube tijdens een oefenwedstrijd op zijn 25ste verjaardag onwel is geworden en uiteindelijk is overleden."
-        },
-        {
-          "title": "Portugese voetballer Quevin Castro (25) overleden tijdens wedstrijd",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/voetbal/portugese-voetballer-quevin-castro-25-overleden-tijdens-wedstrijd~a80ad494/",
-          "publishedDate": "Sat, 22 Aug 2026 04:47:00 GMT",
-          "description": "De Portugese voetballer Quevin Castro is op 25-jarige leeftijd overleden tijdens een oefenwedstrijd van zijn club Real Sport Clube, die uitkomt op het derde niveau in Portugal. De oud-speler van West ..."
-        },
-        {
-          "title": "Quevin Castro",
-          "source": "FC Update",
-          "url": "https://www.fcupdate.nl/voetballers/quevin-de-castro",
-          "publishedDate": "Fri, 13 Oct 2023 17:00:00 GMT",
-          "description": "Een overzicht van de carri&#232;re van voetballer Quevin Castro."
+          "title": "F1 GP van Nederland: Kimi Antonelli snelste in enige training op Zandvoort, Red Bull worstelt",
+          "source": "Motorsport.com",
+          "url": "https://nl.motorsport.com/f1/news/f1-gp-van-nederland-kimi-antonelli-snelste-in-enige-training-op-zandvoort-red-bull-worstelt/10847880/",
+          "publishedDate": "Fri, 21 Aug 2026 04:50:00 GMT",
+          "description": "President Donald Trump zwaait groene vlag en rijdt ereronde voor IndyCar-race in D.C. Kimi Antonelli was de snelste in de training voor de Dutch Grand Prix, terwijl de kampioenschapsleider verderging"
         }
       ]
     },
@@ -398,11 +349,32 @@
       "trafficLabel": "10K+",
       "articles": [
         {
+          "title": "'Dit kan voor John van den Brom een vervelend verhaal worden'",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/video/dit-kan-voor-john-van-den-brom-een-vervelend-verhaal-worden/160358507.html",
+          "publishedDate": "Sun, 23 Aug 2026 06:45:00 GMT",
+          "description": "Wout Weghorst maakt tot nu toe geen indruk bij FC Twente. De wedstrijd tegen FK Qarabağ was volgens Valentijn Driessen een zielige vertoning. In Kick-off gaat het over de druk die langzaam toeneemt op ..."
+        },
+        {
+          "title": "Enorme anticlimax in Zandvoort: Max Verstappen crasht al in eerste ronde",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/autosport/enorme-anticlimax-in-zandvoort-max-verstappen-crasht-al-in-eerste-ronde/160389028.html",
+          "publishedDate": "Sun, 23 Aug 2026 06:19:00 GMT",
+          "description": "De Grand Prix van Nederland is uitgelopen op een enorme sof voor thuisheld Max Verstappen. De Red Bull-coureur crashte aan het einde van de openingsronde."
+        },
+        {
           "title": "Spectaculaire beelden: luchtmacht voert flyby uit bij laatste Grand Prix van Nederland",
           "source": "De Telegraaf",
           "url": "https://www.telegraaf.nl/video/spectaculaire-beelden-luchtmacht-voert-flyby-uit-bij-laatste-grand-prix-van-nederland/160395217.html",
           "publishedDate": "Sun, 23 Aug 2026 06:03:00 GMT",
           "description": "De Koninklijke Luchtmacht heeft zondag voorafgaand aan de laatste Grand Prix van Nederland een flyby uitgevoerd boven en rondom het circuit. Daarbij werden onder andere een Chinook en F-35’s ingezet."
+        },
+        {
+          "title": "TikTok Shop voor het eerst winstgevend in Europa, maar rechtszaken kosten miljarden",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/financieel/tiktok-shop-voor-het-eerst-winstgevend-in-europa-maar-rechtszaken-kosten-miljarden/160393877.html",
+          "publishedDate": "Sun, 23 Aug 2026 05:57:00 GMT",
+          "description": "Het Europese onderdeel van socialemediaconcern TikTok heeft vorig jaar voor het eerst winst geboekt, dankzij de grote toestroom van gebruikers. Tegelijkertijd zette het bedrijf ruim 1 miljard dollar a ..."
         },
         {
           "title": "Nicolette van Dam: ‘Ik kan niet alles vertellen wat ik oranje aan heb’",
@@ -445,137 +417,87 @@
           "url": "https://www.telegraaf.nl/video/sylvana-ijsselmuiden-het-moet-in-het-eerste-kwartier-gebeuren-of-het-moet-gaan-regenen/160392593.html",
           "publishedDate": "Sun, 23 Aug 2026 04:36:00 GMT",
           "description": "De Formule 1 maakt zich op voor de laatste Grand Prix van Nederland. Formule 1-kenner Sylvana IJssel maakte zes edities mee. Ze kijkt vooruit op de race van 15.00 uur."
-        },
-        {
-          "title": "Tina Nijkamp: bizarre hoeveelheid aandacht voor Lowlands bewijst dat de NPO nog steeds in een enorme bubbel leeft",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/entertainment/media/tina-nijkamp-bizarre-hoeveelheid-aandacht-voor-lowlands-bewijst-dat-de-npo-nog-steeds-in-een-enorme-bubbel-leeft/160391162.html",
-          "publishedDate": "Sun, 23 Aug 2026 03:48:00 GMT",
-          "description": "Dit weekend was Lowlands. Nou, dat hebben we geweten ook. NPO 3, 3FM, FunX, NPO Start, NPO Luister, 3voor12 en NPO Cultuur. Het was overal. De halve publieke omroep was tijdelijk naar Biddinghuizen ve ..."
-        },
-        {
-          "title": "Enorme logistieke operatie voor NS in Zandvoort: ‘Mensen moeten wel geduld hebben’",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/video/enorme-logistieke-operatie-voor-ns-in-zandvoort-mensen-moeten-wel-geduld-hebben/160390561.html",
-          "publishedDate": "Sun, 23 Aug 2026 03:08:00 GMT",
-          "description": "De NS vervoerde zaterdag meer dan 55.000 mensen naar Zandvoort. Dat is een recordaantal. Ook zondag komen duizenden mensen weer met de trein naar Zandvoort. NS-woordvoerder Carola Belderbos vertelt ho ..."
-        },
-        {
-          "title": "'Dat is vaak de uitdaging in een relatie'",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/video/dat-is-vaak-de-uitdaging-in-een-relatie/160359771.html",
-          "publishedDate": "Sun, 23 Aug 2026 03:00:00 GMT",
-          "description": "Wat gebeurt er &#233;cht tussen twee mensen als de verliefdheid wegebt, het dagelijks leven het overneemt en de lastige gesprekken zich opstapelen? In een serie van tien afleveringen duiken we in alle aspe ..."
-        }
-      ]
-    },
-    {
-      "keyword": "doos van pandora",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Poetin dreigt: Oekra&#239;ne heeft doos van Pandora geopend met aanvallen",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/samenleving/poetin-oekraine-heeft-doos-van-pandora-geopend-met-aanvallen",
-          "publishedDate": "Sat, 22 Aug 2026 12:31:00 GMT",
-          "description": "Oekra&#239;ne heeft met luchtaanvallen op economische doelen in Rusland een doos van Pandora geopend, volgens president Vladimir Poetin. Rusland beantwoordt dat volgens hem met doelgerichte aanvallen op Oe ..."
-        },
-        {
-          "title": "Duitse buitenlandminister: Oekra&#239;ne zal winnen van Rusland",
-          "source": "ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/Buitenland/duitse-buitenlandminister-oekra%C3%AFne-zal-winnen-van-rusland/ar-AA2aH4Zd",
-          "publishedDate": "Sat, 22 Aug 2026 02:25:00 GMT",
-          "description": "KYIV (ANP/DPA) - De Duitse minister van Buitenlandse Zaken, Johann Wadephul, is op bezoek in Kyiv. &quot;We staan achter Oekra&#239;ne. We steunen het. Het zal dit militaire conflict winnen&quot;, zei hij na aankoms ..."
-        },
-        {
-          "title": "Doos van Pandora wordt heropend over toekomst oud raadhuis Weert",
-          "source": "Limburger",
-          "url": "https://www.limburger.nl/regio/weert/doos-van-pandora-wordt-heropend-over-toekomst-oud-raadhuis-weert/22200044.html",
-          "publishedDate": "Thu, 03 Feb 2022 03:31:00 GMT",
-          "description": "WeertWelke invulling krijgt het voormalige stadhuis van Weert aan de Beekstraat in 2025? Die doos van Pandora wordt door B en W heropend. Na de raadsverkiezingen wordt dit een dominante politieke ..."
-        },
-        {
-          "title": "Open Vld op de rem over kadastraal inkomen: &quot;Doos van Pandora niet openen&quot;",
-          "source": "HLN",
-          "url": "https://www.hln.be/binnenland/open-vld-op-de-rem-over-kadastraal-inkomen-doos-van-pandora-niet-openen~a3a8c073/?slug_rd=1",
-          "publishedDate": "Sun, 16 Apr 2017 16:18:00 GMT",
-          "description": "Hoe &quot;noodzakelijk&quot; Vlaams minister van Wonen Liesbeth Homans (N-VA) een aanpassing van het kadastraal inkomen ook vindt, een aanpassing oogst veel vraagtekens &#233;n tegenstand. Onder meer van ..."
         }
       ]
     },
     {
       "keyword": "tholen",
       "trafficLabel": "5K+",
+      "articles": []
+    },
+    {
+      "keyword": "crash verstappen",
+      "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Verschil tussen dure en goedkope kinderopvang op Tholen bedraagt honderden euro's per jaar",
+          "title": "Verstappen valt uit na crash in openingsronde laatste thuisrace in Zandvoort",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627993-verstappen-valt-uit-na-crash-in-openingsronde-laatste-thuisrace-in-zandvoort",
+          "publishedDate": "Sun, 23 Aug 2026 06:12:00 GMT",
+          "description": "Max Verstappen is uitgevallen in de openingsronde van de voorlopig laatste Grand Prix van Nederland op het circuit van Zandvoort. De Nederlander crashte bij het uitkomen van de Arie Luyendykbocht toen ..."
+        },
+        {
+          "title": "GP in Nederland weer onderweg, Antonelli leidt • Verstappen vroeg klaar na crash",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2627960-gp-in-nederland-weer-onderweg-antonelli-leidt-verstappen-vroeg-klaar-na-crash",
+          "publishedDate": "Sun, 23 Aug 2026 01:50:00 GMT",
+          "description": "In dit liveblog volgen we alle actie op en naast de baan tijdens de laatste Grand Prix van Nederland in Zandvoort."
+        },
+        {
+          "title": "LIVE Grand Prix van Zandvoort | Drama in laatste Dutch GP: Max Verstappen knalt er snoeihard af in Zandvoort",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/tholen/verschil-tussen-dure-en-goedkope-kinderopvang-op-tholen-bedraagt-honderden-euros-per-jaar~ae356071/?slug_rd=1",
-          "publishedDate": "Tue, 11 Aug 2026 02:00:00 GMT",
-          "description": "Niet elke ouder op Tholen betaalt evenveel voor de kinderopvang. Sterker: op jaarbasis loopt het verschil tussen goedkope en dure opvang hier in de honderden euro's, blijkt uit cijfers van het Centraa ..."
+          "url": "https://www.ad.nl/formule-1/live-grand-prix-van-zandvoort-drama-in-laatste-dutch-gp-max-verstappen-knalt-er-snoeihard-af-in-zandvoort~a37b2d74/",
+          "publishedDate": "Sat, 22 Aug 2026 23:43:00 GMT",
+          "description": "Voor de laatste keer rijden Max Verstappen en zijn collega’s vandaag de Grand Prix van Zandvoort. De Dutch GP verdwijnt van de Formule 1-kalender. Wie wordt de winnaar en waar finisht Max Verstappen?"
         },
         {
-          "title": "Motorrijder en meisje gewond bij ongeval op Vrouwendijk",
-          "source": "Omroep Tholen",
-          "url": "https://www.omroeptholen.nl/nieuws/motorrijder-en-meisje-gewond-bij-ongeval-op-vrouwendijk/",
-          "publishedDate": "Sat, 22 Aug 2026 17:01:00 GMT",
-          "description": "Bij een ernstig ongeval met een motor met zijspan aan de Vrouwendijk bij Tholen zijn zaterdagmiddag 22 augustus een motorrijder en een minderjarig meisje gewond geraakt. Het meisje zat in het zijspan ..."
+          "title": "‘Dat was het, sorry’: ontgoocheling bij Max Verstappen na keiharde crash laatste GP in Zandvoort",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/formule-1/dat-was-het-sorry-ontgoocheling-bij-max-verstappen-na-keiharde-crash-laatste-gp-in-zandvoort~a336f1f1/",
+          "publishedDate": "Sat, 22 Aug 2026 23:30:00 GMT",
+          "description": "De allerlaatste Grand Prix in Zandvoort is voor Max Verstappen uitgelopen op een sportief drama. Bij het uitkomen van de Arie Luyendijkbocht verloor de Nederlander de controle over zijn Red Bull, waar ..."
         },
         {
-          "title": "Kind met traumahelikopter naar Erasmus MC na ongeval met zijspan bij Tholen",
-          "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/kind-met-traumahelikopter-naar-erasmus-mc-na-ongeval-met-zijspan-bij-tholen",
-          "publishedDate": "Sat, 22 Aug 2026 09:47:00 GMT",
-          "description": "THOLEN - Bij een ernstig ongeval met een motor met zijspan aan de Vrouwendijk in Tholen zijn zaterdagmiddag een motorrijder en een kind gewond geraakt. Het kind ..."
+          "title": "Verstappen snel uitgeschakeld in laatste GP Nederland na zware crash",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/formule-1/6407267/verstappen-snel-uitgeschakeld-in-laatste-gp-nederland-na-zware-crash.html",
+          "publishedDate": "Sat, 22 Aug 2026 18:35:00 GMT",
+          "description": "Het laatste optreden van Max Verstappen in Nederland als Formule 1-coureur is zondag uitgelopen op een deceptie. De Limburger verloor in de openingsronde op een opdrogend Zandvoort de controle over zi ..."
         },
         {
-          "title": "Brandweer twee keer uitgerukt op Tholen",
-          "source": "Omroep Tholen",
-          "url": "https://www.omroeptholen.nl/nieuws/brandweer-twee-keer-uitgerukt-op-tholen/",
-          "publishedDate": "Sat, 22 Aug 2026 08:43:00 GMT",
-          "description": "De brandweer is in de nacht van vrijdag 21 op zaterdag 22 augustus en zaterdagochtend twee keer uitgerukt op Tholen. In Tholen stond een hybride auto in brand. Enkele uren later kwam de brandweer in a ..."
+          "title": "Balen: Verstappen crasht en ligt uit laatste Dutch Grand Prix",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/sport/formule-1/max-verstappen/artikelen/verstappen-crasht-laatste-dutch-grand-prix-formule-1",
+          "publishedDate": "Sun, 23 Aug 2026 06:19:00 GMT",
+          "description": "Max Verstappen crasht in de eerste ronde van de Dutch Grand Prix in Zandvoort. De race wordt stilgelegd na zijn uitval. Lees hier de details van deze teleurstellende gebeurtenis."
         },
         {
-          "title": "Minderjarig meisje met traumahelikopter naar ziekenhuis na ernstig ongeval",
-          "source": "112 Nieuws Nederland",
-          "url": "https://112nieuws.net/2026/08/22/minderjarig-meisje-met-traumahelikopter-naar-ziekenhuis-na-ernstig-ongeval/",
-          "publishedDate": "Sat, 22 Aug 2026 08:21:00 GMT",
-          "description": "Op de Vrouwendijk in Tholen heeft zaterdagmiddag rond 14.30 uur een ernstig ongeval plaatsgevonden. Een motor met zijspan raakte door nog onbekende oorzaak van de weg en kwam vervolgens in een sloot t ..."
+          "title": "Video: De enorme crash van Max Verstappen tijdens zijn laatste Dutch GP",
+          "source": "GP33",
+          "url": "https://gp33.nl/f1-nieuws/video-de-enorme-crash-van-max-verstappen-tijdens-zijn-laatste-dutch-gp",
+          "publishedDate": "Sun, 23 Aug 2026 06:12:00 GMT",
+          "description": "Max Verstappen heeft zijn allerlaatste Dutch Grand Prix op verschrikkelijke wijze afgesloten. De Nederlander, die hoopte zijn fans te kunnen trakteren op een geweldig slot van het F1-tijdperk op ..."
         },
         {
-          "title": "Inschrijving Thoolse Mijl sluit bijna: nog enkele dagen om aan te melden",
-          "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/inschrijving-thoolse-mijl-sluit-bijna-nog-enkele-dagen-om-aan-te-melden",
-          "publishedDate": "Fri, 21 Aug 2026 01:21:00 GMT",
-          "description": "THOLEN - Wie op zaterdag 29 augustus wil deelnemen aan de tiende editie van De Thoolse Mijl, heeft nog maar enkele dagen om zich in te schrijven. De inschrijvin ..."
+          "title": "Verstappen crasht en valt uit in laatste Dutch GP op Zandvoort",
+          "source": "Autovisie",
+          "url": "https://www.autovisie.nl/autosport/verstappen-crash-dutch-grand-prix-zandvoort/",
+          "publishedDate": "Sun, 23 Aug 2026 06:12:00 GMT",
+          "description": "Max Verstappen is gecrasht in de laatste Dutch Grand Prix van Zandvoort. De viervoudig wereldkampioen raakte aan het einde van de eerste ronde de controle kwijt over zijn Red Bull en reed de auto vol ..."
         },
         {
-          "title": "Kampeernacht keert na acht jaar terug bij De Spetter in Tholen",
-          "source": "Omroep Zeeland",
-          "url": "https://www.omroepzeeland.nl/nieuws/18709399/kampeernacht-keert-na-acht-jaar-terug-bij-de-spetter-in-tholen",
-          "publishedDate": "Tue, 18 Aug 2026 21:25:00 GMT",
-          "description": "Voor het eerst in acht jaar sliepen er weer kinderen op het terrein van zwembad De Spetter in Tholen. Zo'n dertig kinderen deden mee aan de kampeernacht, die in het teken stond van de jungle en wilde ..."
+          "title": "Max Verstappen crasht en valt uit in laatste Dutch GP op Zandvoort",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/362732/max-verstappen-crasht-en-valt-uit-in-laatste-dutch-gp-op-zandvoort",
+          "publishedDate": "Sat, 22 Aug 2026 23:58:00 GMT",
+          "description": "F1 Grand Prix Zandvoort stopt na 2026: organisatie verlengt contract niet. Burgemeester Moolenburgh: &quot;We gaan het missen.&quot; Lees alle ontwikkelingen."
         },
         {
-          "title": "Woningbrand op Machteld van Gelrestraat op Tholen",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/zeeland/tholen/55700248/p2000-woningbrand-op-machteld-van-gelrestraat-in-tholen.html",
-          "publishedDate": "Sat, 15 Aug 2026 07:41:00 GMT",
-          "description": "Aan de Machteld van Gelrestraat in Tholen is zaterdagmiddag een brand in een woning gemeld. Over eventuele gewonden, de exacte omvang van de brand en schade is nog niets bekend."
-        },
-        {
-          "title": "Tholen heeft behoefte aan woningen en wil zondagsrust behouden: 'Het is een dag om God te heiligen'",
-          "source": "Omroep Zeeland",
-          "url": "https://www.omroepzeeland.nl/nieuws/18268196/tholen-heeft-behoefte-aan-woningen-en-wil-zondagsrust-behouden-het-is-een-dag-om-god-te-heiligen",
-          "publishedDate": "Fri, 06 Mar 2026 08:15:00 GMT",
-          "description": "Politieke partijen die het grotendeels met elkaar eens zijn is op Tholen niet zo vreemd. Dat vinden VVD, SGP en Algemeen Belang Tholen in de Zeeuwse Kamer. T&#243;ch is er wel een kleine nuance, want als ..."
-        },
-        {
-          "title": "Opnieuw arrestatie in onderzoek naar aanslag op woning in Tholen - update 14 maart",
-          "source": "politie",
-          "url": "https://www.politie.nl/nieuws/2024/maart/13/08-opnieuw-arrestatie-in-onderzoek-naar-aanslag-op-woning-in-tholen.html",
-          "publishedDate": "Tue, 12 Mar 2024 17:00:00 GMT",
-          "description": "Vanmorgen werd een 24-jarige man uit Tholen aangehouden. Hierna volgde een doorzoeking van zijn woning. Daarbij zijn restanten van een hennepkwekerij en lachgas-cilinders aangetroffen. Gelijktijdig ..."
+          "title": "Harde crash van Max Verstappen op Zandvoort: hij is ongedeerd, van z’n Red Bull is weinig meer over",
+          "source": "Noordhollands Dagblad",
+          "url": "https://www.noordhollandsdagblad.nl/sport/sport-haarlem/harde-crash-van-max-verstappen-op-zandvoort-hij-is-ongedeerd-van-zn-red-bull-is-weinig-meer-over/160284405.html",
+          "publishedDate": "Sat, 22 Aug 2026 18:16:00 GMT",
+          "description": "Alles in en rond Zandvoort staat dit weekend in het teken van de Formule 1. Lukt het Max Verstappen om nog een keer boven zichzelf uit te stijgen tijdens zijn thuis-grand prix? Via dit liveblog houden ..."
         }
       ]
     }
