@@ -1,10 +1,81 @@
 {
-  "fetchedAt": "2026-08-24T22:18:46.691Z",
+  "fetchedAt": "2026-08-24T22:51:12.462Z",
   "trends": [
     {
       "keyword": "groente",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Droogte maakt groente kleiner en duurder: aardbeien en aardappelen schieten omhoog in prijs",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/economie/droogte-maakt-groente-kleiner-en-duurder-aardbeien-en-aardappelen-schieten-omhoog-in-prijs~a6680feb/",
+          "publishedDate": "Wed, 12 Aug 2026 03:12:00 GMT",
+          "description": "Lichtere kroppen sla, kleinere kolen en duurdere aardbeien. Zo raakt de uitzonderlijke droogte de consument in de tas en de portemonnee. Meer prijseffecten zijn te verwachten omdat ook de oogst van aa ..."
+        },
+        {
+          "title": "Groente- en fruithandelaar die van markt in Assen werd geweerd, stopt er helemaal mee",
+          "source": "RTV Drenthe",
+          "url": "https://www.rtvdrenthe.nl/nieuws/18715138/groente-en-fruithandelaar-die-van-markt-in-assen-werd-geweerd-stopt-er-helemaal-mee",
+          "publishedDate": "Fri, 21 Aug 2026 22:00:00 GMT",
+          "description": "Nadat de marktkraam uit Assen werd geweerd, verdween deze ook van de markt in Rolde. Nu stopt het bedrijf ook in Appelscha."
+        },
+        {
+          "title": "Staphorster broers komen met lokale moestuinmarktplaats: „Ontwennen dat groente en fruit perfect gevormd is”",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1159818-staphorster-broers-komen-met-lokale-moestuinmarktplaats-ontwennen-dat-groente-en-fruit-perfect-gevormd-is",
+          "publishedDate": "Wed, 19 Aug 2026 04:36:00 GMT",
+          "description": "Wim en Laurens Bloemert zetten een onlinemoestuinplatform voor lokale oogst op poten. Alles om te voorkomen dat goede groente op de mestbult belandt."
+        },
+        {
+          "title": "Sandra verkoopt groente en fruit van lokale boeren: 'Wat je eet maakt echt een verschil'",
+          "source": "stadsbladutrecht.nl",
+          "url": "https://indebuurt.nl/delft/bedrijvigheid/ondernemer-uitgelicht/sandra-verkoopt-groente-en-fruit-van-lokale-boeren-wat-je-eet-maakt-echt-een-verschil~149802/",
+          "publishedDate": "Mon, 05 Jan 2026 21:03:00 GMT",
+          "description": "Bij de Hortus aan het Poortlandplein staat sinds kort een grote vlag met groente- en fruit erop. Deze vlag is van Rechtstreex, een webwinkel die producten verkoopt van lokale boeren en makers. In de ..."
+        },
+        {
+          "title": "Als je je groente op d&#233;ze manier klaarmaakt, ben je dus kennelijk het meest gezond bezig",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/beauty-health/a63685941/groente-bereiden-gezondste-manier/",
+          "publishedDate": "Thu, 06 Feb 2025 05:13:00 GMT",
+          "description": "We zijn allemaal op de hoogte van het feit dat het eten van groente veel goeds doet voor ons lichaam en onze gezondheid. Maar waar misschien minder onder ons van op de hoogte zijn, is dat de ..."
+        },
+        {
+          "title": "Meer PFAS gespoten op groente en fruit in Nederland: 'Een slechte ontwikkeling'",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/nieuws/binnenland/6855bf24-c953-4770-b0cd-39a2023e781a/meer-pfas-gespoten-op-groente-en-fruit-in-nederland-een-slechte-ontwikkeling",
+          "publishedDate": "Mon, 26 Feb 2024 23:30:00 GMT",
+          "description": "In Nederland en Belgi&#235; wordt het meeste PFAS gespoten op groente en fruit in vergelijking met de rest van Europa. Ook is de afgelopen tien jaar het gebruik van PFAS op groente en fruit verdrievoudigd, ..."
+        },
+        {
+          "title": "Schrappen van btw op groente en fruit blijkt moeilijk en weinig effectief",
+          "source": "NU",
+          "url": "https://www.nu.nl/economie/6257327/schrappen-van-btw-op-groente-en-fruit-blijkt-moeilijk-en-weinig-effectief.html",
+          "publishedDate": "Wed, 29 Mar 2023 08:35:00 GMT",
+          "description": "De kosten van de afschaffing van de btw op groente en fruit zouden bijna 550 miljoen euro tot 950 miljoen euro bedragen, afhankelijk van de afbakening. De onderzoekers stellen dat hierdoor maximaal 4 ..."
+        },
+        {
+          "title": "Waarom kom je in een supermarkt eerst langs de groente- en fruitafdeling?",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/eten/eten-drinken/a34041357/supermarkt-eerst-langs-groente-fruit/",
+          "publishedDate": "Wed, 30 Sep 2020 08:18:00 GMT",
+          "description": "Niets is zo verleidelijk als een groot schap vol kleurrijke en verse groente. Een supermarkt waar de bananen er fris groen-geel uitzien, komt beter over dan een winkel waar de fruitvliegen niet zijn ..."
+        },
+        {
+          "title": "Petra Hegeman (De Groentefactory) teelt groente in een zeecontainer",
+          "source": "groentennieuws",
+          "url": "https://www.groentennieuws.nl/article/167734/petra-hegeman-de-groentefactory-teelt-groente-in-een-zeecontainer/",
+          "publishedDate": "Thu, 18 Jan 2018 16:00:00 GMT",
+          "description": "Tholen - Sinds december oogst Petra Hegeman diverse soorten sla, boerenkool en diverse soorten kruiden in haar Leafy Green Machine - een grote zeecontainer die is ingericht als een volledig ..."
+        },
+        {
+          "title": "Is meer groente en fruit echt veel gezonder?",
+          "source": "rtl",
+          "url": "https://www.rtl.nl/nieuws/nederland/artikel/1970856/meer-groente-en-fruit-echt-veel-gezonder",
+          "publishedDate": "Wed, 02 Apr 2014 04:26:00 GMT",
+          "description": "1. Wat zegt het Voedingscentrum? Twee ons groente en twee stuks fruit, is het advies van het Voedingscentrum. &quot;Vers, pot, blik: het is net zo gezond&quot;, benadrukt professor Martijn Katan, emeritus ..."
+        }
+      ]
     },
     {
       "keyword": "onweer",
@@ -94,6 +165,13 @@
           "description": "Volgens de 40-jarige recordinternational van Nederland stond de muur bij de eerste vrije trap van Rice niet goed opgesteld. ,,Het is een beetje gek ik dat ik het zeg: maar dit lijkt heel moeilijk, ..."
         },
         {
+          "title": "Met ‘Sneijder’ verkent Kees Jansma de ondergrens van het genre",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2020/07/10/met-sneijder-verkent-kees-jansma-de-ondergrens-van-het-genre-a4005553",
+          "publishedDate": "Fri, 10 Jul 2020 02:36:00 GMT",
+          "description": "Iedereen leest Op deze plek schrijft NRC over de populairste boeken van dit moment. Deze week: Sneijder van Kees Jansma, die koos voor een zuiver voetbalboek over een ‘voetballer zonder verhaal of ..."
+        },
+        {
           "title": "Foto's: dit is de 17 jaar jongere (en prachtige) vriendin van Wesley Sneijder",
           "source": "MAN MAN on MSN",
           "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/foto-s-dit-is-de-17-jaar-jongere-en-prachtige-vriendin-van-wesley-sneijder/ar-AA1P1zyD",
@@ -148,13 +226,6 @@
           "url": "https://www.hln.be/eredivisie/wesley-sneijder-die-rol-in-sportieve-staf-fc-utrecht-wel-ziet-zitten-sneert-naar-van-den-brom-iedereen-is-happy-dat-hij-weg-is~ae032596/",
           "publishedDate": "Tue, 15 Dec 2020 18:07:00 GMT",
           "description": "Wesley Sneijder staat ervoor open om eventueel bij FC Utrecht aan de slag te gaan. De naam van de recordinternational wordt als mogelijke assistent-trainer in verband gebracht met Mark van Bommel, die ..."
-        },
-        {
-          "title": "Wesley Sneijder, machtig mannetje uit Ondiep",
-          "source": "Vi",
-          "url": "https://www.vi.nl/nieuws/wesley-sneijder-machtig-mannetje-uit-ondiep",
-          "publishedDate": "Thu, 06 Sep 2018 05:00:00 GMT",
-          "description": "Voor Wesley Sneijder was 2010 magisch. Hij won de Italiaanse Super Cup, de Coppa Italia, de landstitel, de Champions League, de Wereldbeker voor clubs en... N&#233;t niet het WK in Zuid-Afrika. Een ..."
         }
       ]
     },
@@ -191,35 +262,253 @@
           "description": "Frans Bauer is openhartig over zijn moeder Wies, die aan alzheimer lijdt. Hoewel de zanger blij is dat het naar omstandigheden goed met haar gaat, wordt hij ook geconfronteerd met de gevolgen van de z ..."
         },
         {
+          "title": "Nieuw jaar, nieuwe look: Frans Bauer scheert zijn hoofd kaal voor derde haartransplantatie",
+          "source": "AD",
+          "url": "https://www.ad.nl/moerdijk/nieuw-jaar-nieuwe-look-frans-bauer-scheert-zijn-hoofd-kaal-voor-derde-haartransplantatie~a45a7738/",
+          "publishedDate": "Thu, 26 Dec 2024 22:56:00 GMT",
+          "description": "‘Hoppaaaaaa!!!! I did it again!! Met een glad koppie het nieuwe jaar in!’ Zo schrijft hij op Facebook en Instagram. Op sociale media zijn de reacties gemengd. Sommige volgers juichen de nieuwe look ..."
+        },
+        {
           "title": "Frans Bauer Junior over roddels over zijn liefdesleven: 'Je moet altijd eerlijk zijn’",
           "source": "AD",
           "url": "https://www.ad.nl/show/frans-bauer-junior-over-roddels-over-zijn-liefdesleven-je-moet-altijd-eerlijk-zijn~aa3108c6/",
           "publishedDate": "Mon, 16 Dec 2024 17:05:00 GMT",
           "description": "Na het kijkcijferspektakel De Bauers - 20 Jaar Later keerde de bekende familie vorige week terug op de buis met een gloednieuwe special: Kerst met de Bauers. Van een emotioneel moment tijdens de ..."
+        },
+        {
+          "title": "Acteerdebuut Frans Bauer junior in Zapp-serie Caps Club: 'Ik hoop dat Frans Bauer komt!'",
+          "source": "Omroep Brabant",
+          "url": "https://www.omroepbrabant.nl/nieuws/1460542/acteerdebuut-frans-bauer-junior-in-zapp-serie-caps-club-ik-hoop-dat-frans-bauer-komt",
+          "publishedDate": "Sat, 05 Oct 2013 11:08:00 GMT",
+          "description": "De zoon van Frans was is zondag te bewonderen in de nieuwe Zapp-serie Caps Club. De achtjarige Frans junior speelde zichzelf in de serie. Ook onder anderen Lucile Werner en Hans Klok hadden een ..."
+        }
+      ]
+    },
+    {
+      "keyword": "linda.",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Linda de Mol blikt terug op dieptepunt in relatie met Jeroen Rietbergen",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/lifestyle/other/linda-de-mol-blikt-terug-op-dieptepunt-in-relatie-met-jeroen-rietbergen/ar-AA2atO7Z",
+          "publishedDate": "Wed, 19 Aug 2026 08:03:56 GMT",
+          "description": "Linda de Mol (62) blikt in de nieuwste editie van LINDA. terug op de moeilijke periode in haar relatie met Jeroen Rietbergen (55). In haar editorial schrijft de presentator over liefde, vergeving en d ..."
+        },
+        {
+          "title": "Marie Bouzkov&#225; / Linda Noskov&#225;-Aldila Sutjiadi / Erin Routliffe",
+          "source": "sporza.be",
+          "url": "https://sporza.be/nl/sport/tennis/marie-bouzkova-linda-noskova-aldila-sutjiadi-erin-routliffe~3351059/",
+          "publishedDate": "Thu, 20 Aug 2026 11:59:00 GMT",
+          "description": "Marie Bouzkov&#225; en Linda Noskov&#225; tegen Erin Routliffe en Aldila Sutjiadi, afgelopen, 2 sets, set 1: 7 - 5, set 2: 7 - 5 totaalscore 2, 0, winnaars Marie Bouzkov&#225; en Linda Noskov&#225; ..."
+        },
+        {
+          "title": "Linda Noskov&#225;-Amanda Anisimova",
+          "source": "sporza.be",
+          "url": "https://sporza.be/nl/sport/tennis/linda-noskova-amanda-anisimova~3351187/",
+          "publishedDate": "Wed, 19 Aug 2026 11:00:00 GMT",
+          "description": "Linda Noskov&#225;, nummer 8 van de wereld, reekshoofd 6 tegen Amanda Anisimova, nummer 10 van de wereld, reekshoofd 9, afgelopen, 2 sets, set 1: 1 - 6, set 2: 4 - 6 totaalscore 0, 2, winnaar Amanda ..."
+        },
+        {
+          "title": "Apetrotse Linda de Mol reageert op kritiek dochter Noa Vahle",
+          "source": "europesays",
+          "url": "https://www.europesays.com/nl/252087/",
+          "publishedDate": "Tue, 30 Jun 2026 15:03:00 GMT",
+          "description": "Noa Vale doet dit WK voetbal live verslag vanuit de Verenigde Staten en Mexico. Hoewel Nederland sinds dinsdag definitief is uitgeschakeld, kan moeder Linda de Mol niet anders dan stiekem blij zijn ..."
+        },
+        {
+          "title": "Linda de Mol was bang dat schoondochter Chelsey niet zou eten: 'Ongelooflijk dat ze zo slank blijft'",
+          "source": "MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/nieuws/linda-de-mol-was-bang-dat-schoondochter-chelsey-niet-zou-eten-ongelooflijk-dat-ze-zo-slank-blijft/ar-AA20YbPi",
+          "publishedDate": "Wed, 15 Apr 2026 08:01:00 GMT",
+          "description": "De familie van Linda de Mol (61) is de afgelopen jaren uitgebreid. Zo heeft haar zoon Julian Vahle (29) al een tijd een relatie met topmodel Chelsey Weimar (29). In de editorial van haar blad LINDA."
+        },
+        {
+          "title": "Linda G&#252;m&#252;s Gerritsen is de nieuwe hoofdredacteur van Vogue Nederland",
+          "source": "vogue.nl",
+          "url": "https://www.vogue.nl/fashion/fashion-nieuws/linda-gumus-gerritsen-hoofdredacteur-vogue-nederland/",
+          "publishedDate": "Mon, 16 Sep 2024 10:30:00 GMT",
+          "description": "G&#252;m&#252;s Gerritsen is sinds 2021 fashion director bij Vogue Nederland en stapt nu in de rol van editor-in-chief. Linda G&#252;m&#252;s Gerritsen en mode go way back. Al meer dan 25 jaar werkt ze als stylist en ..."
+        },
+        {
+          "title": "Linda Senden en Marjan van Dijk op NU.nl over 'pink tax'",
+          "source": "Universiteit Utrecht",
+          "url": "https://www.uu.nl/in-de-media/linda-senden-en-marjan-van-dijk-op-nunl-over-pink-tax",
+          "publishedDate": "Mon, 12 Aug 2019 01:49:00 GMT",
+          "description": "Vrouwenproducten hebben vaak een explicieter design dan mannenproducten en zijn daarnaast ook duurder. De prijsverhoging op vrouwenproducten wordt ook wel de 'pink tax' genoemd. Niet alleen ..."
+        },
+        {
+          "title": "met cadeau",
+          "source": "linda",
+          "url": "https://www.linda.nl/linda-magazine-abonnement/",
+          "publishedDate": "Sat, 09 Feb 2019 19:37:00 GMT",
+          "description": "Na&#239;f-pakket t.w.v. € 100. Deze bestaat uit een toilettas, babypoeder, badolie, babycr&#232;me, een 2-in-1 shampoo en een voedende buikbalsem. 12 x LINDA.magazine 2 x per jaar LINDA.mini 1x per jaar ..."
+        },
+        {
+          "title": "Suggesties voor in het magazine?",
+          "source": "linda",
+          "url": "https://www.linda.nl/colofon/",
+          "publishedDate": "Fri, 19 Jun 2015 18:55:00 GMT",
+          "description": "Mocht je graag persoonlijk in contact komen met LINDA. voor de advertentiemogelijkheden, mail ons sales@linda.nl Voor persvragen of het aanvragen van interviews en/of beeldmateriaal kan je contact ..."
         }
       ]
     },
     {
       "keyword": "joris zorg",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Man (26) vast om dood van bewoner woonzorgcentrum Oirschot",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628146-man-26-vast-om-dood-van-bewoner-woonzorgcentrum-oirschot",
+          "publishedDate": "Mon, 24 Aug 2026 07:39:00 GMT",
+          "description": "Een goed ingevoerde bron zegt tegen Omroep Brabant dat het zou gaan om een verpleegkundige die rechtstreeks contact had met de overleden bewoner. De politie bevestigt dat niet."
+        },
+        {
+          "title": "Man (26) opgepakt in onderzoek naar verdacht overlijden in Brabants woonzorgcentrum",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/oirschot/verdachte-in-onderzoek-naar-overlijden-in-woonzorgcentrum-oirschot-is-26-jarige-man-zit-nog-altijd-vast~a4f9c7fe/?slug_rd=1",
+          "publishedDate": "Mon, 24 Aug 2026 00:22:00 GMT",
+          "description": "De verdachte die zondagochtend is aangehouden in verband met een verdacht overlijden in een woonzorgcentrum in Oirschot is een 26-jarige man uit diezelfde plaats. De man wordt gehoord over zijn mogeli ..."
+        },
+        {
+          "title": "Vandaag om 18:55 • Aangepast vandaag om 19:32",
+          "source": "Omroep Brabant",
+          "url": "https://www.omroepbrabant.nl/nieuws/6024143/opgepakte-verpleegkundige-na-dood-van-bewoner-is-tv-gezicht-jelle-d",
+          "publishedDate": "Mon, 24 Aug 2026 09:55:00 GMT",
+          "description": "De verpleegkundige die zondagochtend thuis is opgepakt in verband met de dood van een 92-jarige bewoner van Joris Zorg in Oirschot is de 26-jarige Jelle D. uit Oirschot. Dat meldt De Telegraaf. Jelle ..."
+        },
+        {
+          "title": "Verdachte in zaak dode in zorgcentrum is man (26) uit Oirschot",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1160272-verdachte-in-zaak-dode-in-zorgcentrum-is-man-26-uit-oirschot",
+          "publishedDate": "Mon, 24 Aug 2026 09:35:00 GMT",
+          "description": "De verdachte in een onderzoek naar een dode bewoner van woonzorgcentrum Joris Zorg in Oirschot is een 26-jarige man uit hetzelfde dorp, meldt de politie. De man zit vast en wordt gehoord over zijn mog ..."
+        },
+        {
+          "title": "Oud-deelnemer ‘De Bondgenoten’ opgepakt na verdachte dood in woonzorgcentrum",
+          "source": "Weekend Online",
+          "url": "https://www.weekend-online.nl/nieuws/oud-deelnemer-de-bondgenoten-opgepakt-na-verdachte-dood-in-woonzorgcentrum/",
+          "publishedDate": "Mon, 24 Aug 2026 09:20:00 GMT",
+          "description": "Een voormalig deelnemer aan ‘De Bondgenoten’ is opgepakt vanwege mogelijke betrokkenheid bij de niet-natuurlijke dood van een pati&#235;nt."
+        },
+        {
+          "title": "Update: Aanhouding in politieonderzoek woonzorgcentrum Oirschot",
+          "source": "politie.nl",
+          "url": "https://www.politie.nl/nieuws/2026/augustus/23/09-aanhouding-in-politieonderzoek-woonzorgcentrum-oirschot.html",
+          "publishedDate": "Mon, 24 Aug 2026 08:50:00 GMT",
+          "description": "De politie heeft vanochtend om 08.15 uur een verdachte aangehouden in het onderzoek naar aanleiding van het overlijden van een bewoner van Woonzorgcentrum Joris Zorg in Oirschot."
+        },
+        {
+          "title": "Verdachte zaak dode bewoner Joris Zorg is man (26) uit Oirschot",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/artikelen/joris-zorg-verdachte-dode-bewoner-oirschot",
+          "publishedDate": "Mon, 24 Aug 2026 08:48:00 GMT",
+          "description": "Verdachte in het onderzoek naar een dode bewoner van Joris Zorg is een 26-jarige man uit Oirschot. Hij zit vast en wordt door de politie gehoord."
+        },
+        {
+          "title": "Verdachte aangehouden na niet-natuurlijke dood bewoner zorgcentrum Oirschot",
+          "source": "Nationale Zorggids",
+          "url": "https://www.nationalezorggids.nl/ouderenzorg/verdachte-aangehouden-na-niet-natuurlijke-dood-bewoner-zorgcentrum-oirschot/",
+          "publishedDate": "Sun, 23 Aug 2026 23:57:00 GMT",
+          "description": "Een bewoner van woonzorgcentrum Sint Joris van Joris Zorg in Oirschot is onder verdachte omstandigheden overleden. Inmiddels is een persoon aangehouden die mogelijk betrokken ..."
+        },
+        {
+          "title": "Terug naar de kaart",
+          "source": "moordplekken",
+          "url": "https://www.moordplekken.nl/nieuws/bevestigd-verpleegkundige-tv-gezicht-jelle-d-opgepakt-dood-bewoner-joris-zorg-oirschot",
+          "publishedDate": "Sun, 23 Aug 2026 17:00:00 GMT",
+          "description": "Wat eerder vandaag al via juicekanalen naar buiten sijpelde, is inmiddels bevestigd door landelijke media en de politie: de verdachte die is opgepakt in verband met de niet-natuurlijke dood van een 92 ..."
+        },
+        {
+          "title": "Arrestatie na overlijden bewoner woonzorgcentrum Oirschot (UPDATE)",
+          "source": "Crimesite",
+          "url": "https://www.crimesite.nl/arrestatie-na-overlijden-bewoner-woonzorgcentrum-oirschot/",
+          "publishedDate": "Sun, 23 Aug 2026 03:12:00 GMT",
+          "description": "De politie heeft zondagochtend om 08.15 een verdachte aangehouden op verdenking van betrokkenheid bij het overlijden van een bewoner van Woonzorgcentrum Joris Zorg in Oirschot. Vrijdag overleed een be ..."
+        }
+      ]
     },
     {
-      "keyword": "linda.",
+      "keyword": "fulham - chelsea",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Jorrel Hato grijpt met Chelsea volle pond op bezoek bij Fulham",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/voetbal/jorrel-hato-grijpt-met-chelsea-volle-pond-op-bezoek-bij-fulham/160460847.html",
+          "publishedDate": "Mon, 24 Aug 2026 14:24:00 GMT",
+          "description": "Chelsea heeft in de eerste speelronde van de Premier League gewonnen bij Fulham. In de West-Londense derby in Craven Cottage werd het 3-2 voor de bezoekers. Door de overwinning staat Chelsea na &#233;&#233;n sp ..."
+        },
+        {
+          "title": "Xabi Alonso beleeft sterk debuut met Chelsea dankzij recordaankoop Morgan Rogers en Cole Palmer",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/live-premier-league-xabi-alonso-bleeft-sterk-debuut-met-chelsea-dankzij-recordaankoop-morgan-rogers-en-cole-palmer~aae4ac9e/",
+          "publishedDate": "Mon, 24 Aug 2026 07:01:00 GMT",
+          "description": "Bij Chelsea waait een frisse wind: Xabi Alonso staat sinds deze zomer aan het roer. Met Jorrel Hato in de basis begint hij het seizoen tegen Fulham. Volg het duel hier live."
+        },
+        {
+          "title": "Pedro, Rogers en uitblinker Palmer bezorgen Alonso droomstart in Engeland",
+          "source": "Voetbalprimeur",
+          "url": "https://www.voetbalprimeur.be/nieuws/2127092/chelsea-wint-eerste-competitiewedstrijd-onder-alonso-met-3-2-bij-fulham.html",
+          "publishedDate": "Mon, 24 Aug 2026 14:00:00 GMT",
+          "description": "Chelsea heeft het tijdperk onder Xabi Alonso met drie punten ingezet. The Blues trokken maandagavond met 2-3 aan het langste eind tegen Fulham na een aantrekkelijk duel op Craven Cottage. Romeo Lavia ..."
+        },
+        {
+          "title": "Chelsea wint strijd der ontslagen Real-trainers in spektakelstuk tegen Fulham",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/chelsea-wint-strijd-der-ontslagen-real-trainers-in-spektakelstuk-tegen-fulham/ar-AA2aQAu7",
+          "publishedDate": "Mon, 24 Aug 2026 13:57:00 GMT",
+          "description": "Chelsea is het seizoen in de Premier League met een overwinning begonnen. Het was Xabi Alonso die als winnaar uit de strijd der ontslagen Real Madrid-trainers kwam, want het Fulham van &#193;lvaro Arbeloa ..."
+        },
+        {
+          "title": "Praat mee op VP: Fulham – Chelsea",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-chelsea-met-hato-en-aanwinst-rogers-tegen-fulham/ar-AA2aPu23",
+          "publishedDate": "Mon, 24 Aug 2026 11:57:45 GMT",
+          "description": "Fulham en Chelsea sluiten maandagavond de eerste speelronde van de Premier League af met een Londense derby. De wedstrijd begint om 21.00 uur, volg de wedstrijd hieronder in de live-omgeving van Voetb ..."
+        },
+        {
+          "title": "Op welke zender kijk je Fulham – Chelsea live?",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-fulham-chelsea-live/",
+          "publishedDate": "Mon, 24 Aug 2026 04:03:00 GMT",
+          "description": "Chelsea neemt het in de Premier League op tegen Fulham. In de SN TV-gids zie je op welke zender dit duel te zien is."
+        },
+        {
+          "title": "Chelsea verslaat Fulham in West-Londense derby",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/chelsea-verslaat-fulham-in-west-londense-derby",
+          "publishedDate": "Mon, 24 Aug 2026 01:59:00 GMT",
+          "description": "LONDEN (ANP) - Chelsea heeft in de eerste speelronde van de Premier League gewonnen bij Fulham. In de West-Londense derby in Craven Cottage werd het 3-2 voor de bezoekers. Door de overwinning staat Ch ..."
+        },
+        {
+          "title": "Cole Palmer schittert en bezorgt Xabi Alonso droomstart bij Chelsea",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/cole-palmer-schittert-en-bezorgt-xabi-alonso-droomstart-bij-chelsea/blt5703c64babacf537",
+          "publishedDate": "Mon, 24 Aug 2026 01:54:00 GMT",
+          "description": "Xabi Alonso heeft bij zijn debuut als trainer in de Premier League direct een overwinning geboekt. Zijn Chelsea zegevierde op bezoek bij Fulham met 2-3. Man van de wedstrijd werd Cole Palmer, die met ..."
+        },
+        {
+          "title": "Fulham – Chelsea: Opstellingen, Statistieken, Voorspelling &amp; Odds",
+          "source": "Squawka Football",
+          "url": "https://www.squawka.com/nl/nieuws/fulham-chelsea-opstellingen-statistieken-voorspelling-odds/",
+          "publishedDate": "Tue, 06 Jan 2026 00:58:00 GMT",
+          "description": "De Londense derby tussen Fulham en Chelsea staat opnieuw op het programma, en de spanning is te snijden. Met Stamford Bridge nog vers in het geheugen na de 2-0 zege van Chelsea eerder dit seizoen, zal ..."
+        },
+        {
+          "title": "Chelsea dankt de VAR voor controversi&#235;le overwinning in derby tegen Fulham, dat zich opnieuw benadeeld voelt",
+          "source": "sporza.be",
+          "url": "https://sporza.be/nl/matches/voetbal/buitenland/eng/premier-league/2025-2026/regulier/03/chelsea-fulham-chelsea-dankt-de-var-voor-controversiele-overwinning-in-derby-tegen-fulham-dat-zich-opnieuw-benadeeld-voelt~1750776003862/",
+          "publishedDate": "Sat, 30 Aug 2025 06:30:00 GMT",
+          "description": "56' - Doelpunt strafschop - Enzo Fern&#225;ndez (2 - 0) 59' - Verv. Rodrigo Muniz door Ra&#250;l Jim&#233;nez 60' - Verv. Timothy Castagne door Harry Wilson 67' - Verv. Ryan Sessegnon door Antonee Robinson 67' - ..."
+        }
+      ]
     },
     {
       "keyword": "benzine",
       "trafficLabel": "10K+",
       "articles": [
-        {
-          "title": "Veel benzineauto's verkocht, maar elektrisch rijden rukt op",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628083-veel-benzineauto-s-verkocht-maar-elektrisch-rijden-rukt-op",
-          "publishedDate": "Sun, 23 Aug 2026 21:30:00 GMT",
-          "description": "Van volledig elektrische auto's en hybrides met een stekker werden er in totaal zo'n 260.000 verkocht. Ruim een kwart daarvan werd gekocht door de tien procent hoogste inkomens."
-        },
         {
           "title": "Benzine en diesel worden iets goedkoper, maar olieprijs blijft gevoelig",
           "source": "NU.nl",
@@ -233,6 +522,13 @@
           "url": "https://www.ad.nl/economie/marktwaakhond-zet-prijsopbouw-van-benzine-en-diesel-online-zoveel-verdienen-raffinaderijen-per-liter~aa11e7675/",
           "publishedDate": "Sun, 19 Jul 2026 23:18:00 GMT",
           "description": "Olieconcerns en raffinaderijen lopen financieel binnen dankzij de Iran-crisis. Wat we al vermoedden klopt: tijdens de sterk wisselende olieprijs op de wereldmarkt weten zij hun winsten aanzienlijk te ..."
+        },
+        {
+          "title": "In dit land kun je bijna alleen nog E20 tanken, en nu barst het protest onder bestuurders los",
+          "source": "Autobahn",
+          "url": "https://autobahn.eu/artikel/693992/e20-benzine-india-protest-e10-ethanol",
+          "publishedDate": "Mon, 24 Aug 2026 01:22:00 GMT",
+          "description": "Het land heeft gewone benzine vrijwel volledig vervangen door E20. Nu groeit het protest en wordt zelfs besproken of E10 moet terugkeren voor miljoenen oudere voertuigen."
         },
         {
           "title": "Benzine tanken wordt duurder - Europese gasprijs naar hoogste niveau in maanden",
@@ -249,11 +545,11 @@
           "description": "Een echtpaar uit Michigan stopte onderweg van vakantie alleen om benzine te tanken. Nadat een klant voor hem krasloten kocht, besloot de 64 jarige man hetzelfde te doen. Thuis bleek &#233;&#233;n ticket 500.000 ..."
         },
         {
-          "title": "VS eerder over op winterbenzine om prijs aan pomp te drukken",
-          "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/vs-eerder-over-op-winterbenzine-om-prijs-aan-pomp-te-drukken",
-          "publishedDate": "Thu, 20 Aug 2026 14:50:00 GMT",
-          "description": "WASHINGTON (ANP/BLOOMBERG) - De Amerikaanse regering van president Donald Trump staat toe dat er eerder wordt overgeschakeld op de verkoop van winterbenzine in ..."
+          "title": "Belgische benzine duurder, maar nog veel goedkoper dan Nederland",
+          "source": "zeelandnet",
+          "url": "https://www.zeelandnet.nl/nieuws/belgische-benzine-duurder-maar-nog-veel-goedkoper-dan-nederland",
+          "publishedDate": "Thu, 13 Aug 2026 04:49:00 GMT",
+          "description": "De prijsverhoging hangt samen met de opgelopen olieprijzen. Belgi&#235; heeft een wettelijke maximumprijs voor benzine, vastgesteld door de overheid. Tankstations bepalen zelf of ze onder deze prijs gaan ..."
         },
         {
           "title": "Benzine in Belgi&#235; duurder, maar nog v&#233;&#233;l goedkoper dan in Nederland: dit is het verschil",
@@ -263,11 +559,11 @@
           "description": "De maximumprijs voor benzine in Belgi&#235; is vanaf vrijdag hoger. Voor een liter Euro95 (E10) mag dan maximaal 1,936 euro worden gerekend aan de Belgische pomp. Het gaat om een stijging van 7 cent per ..."
         },
         {
-          "title": "Benzine wordt woensdag goedkoper in Belgi&#235;, terwijl Nederland rond de recordprijs blijft hangen",
-          "source": "TopGear Nederland on MSN",
-          "url": "https://www.msn.com/nl-nl/auto/nieuws/benzine-wordt-woensdag-goedkoper-in-belgi%C3%AB-terwijl-nederland-rond-de-recordprijs-blijft-hangen/ar-AA29ovYN",
-          "publishedDate": "Tue, 04 Aug 2026 05:15:00 GMT",
-          "description": "Vanaf woensdag groeit het prijsverschil aan de pomp opnieuw, en bij 50 liter gaat het om serieus geld."
+          "title": "Benzineprijs onderweg naar nieuwe recordhoogte",
+          "source": "AutoWeek",
+          "url": "https://www.autoweek.nl/autonieuws/artikel/benzineprijs-nadert-nieuwe-recordhoogte-tanken-met-tranen/",
+          "publishedDate": "Thu, 23 Jul 2026 02:27:00 GMT",
+          "description": "De benzineprijs blijft stijgen. Als het zo doorgaat, bereikt de prijs van benzine deze week nog een nieuwe recordhoogte. De kans dat je in de komende dagen met zeiknatte ogen je tank volgooit, is aanz ..."
         },
         {
           "title": "Benzine en diesel in Duitsland fors duurder na einde accijnskorting",
@@ -279,78 +575,78 @@
       ]
     },
     {
-      "keyword": "chelsea",
+      "keyword": "hongarije",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Xabi Alonso beleeft sterk debuut met Chelsea dankzij recordaankoop Morgan Rogers en Cole Palmer",
+          "title": "Hongarije houdt de rest van de wereld een spiegel voor",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/live-premier-league-xabi-alonso-bleeft-sterk-debuut-met-chelsea-dankzij-recordaankoop-morgan-rogers-en-cole-palmer~aae4ac9e/",
-          "publishedDate": "Mon, 24 Aug 2026 07:01:00 GMT",
-          "description": "Bij Chelsea waait een frisse wind: Xabi Alonso staat sinds deze zomer aan het roer. Met Jorrel Hato in de basis begint hij het seizoen tegen Fulham. Volg het duel hier live."
+          "url": "https://www.ad.nl/commentaar/hongarije-houdt-de-rest-van-de-wereld-een-spiegel-voor~a36719d4/",
+          "publishedDate": "Sun, 23 Aug 2026 03:00:00 GMT",
+          "description": "We kunnen niet vaak genoeg over Hongarije schrijven. Al was het maar omdat dit land een zeldzaam lichtpuntje is in een wereld die langzaam raakt afgestompt door het circus-Trump, schrijft Saskia van W ..."
         },
         {
-          "title": "En w&#233;&#233;r een miljoenentransfer voor Chelsea: dat brengt totale uitgaven laatste tien jaar op 3,12 miljard",
+          "title": "Hongarije moet de puinhoop van 16 jaar Orb&#225;n onder ogen zien: ‘Het is veel mensen extreem moeilijk gemaakt’",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/en-weer-een-miljoenentransfer-voor-chelsea-dat-brengt-totale-uitgaven-laatste-tien-jaar-op-3-12-miljard~a8de7ac4/",
-          "publishedDate": "Wed, 12 Aug 2026 01:09:00 GMT",
-          "description": "Er gaat de laatste paar jaar geen transferwindow voorbij zonder dat Chelsea honderden miljoenen euro’s betaalt voor nieuwe spelers. Pep Chavarr&#237;a van Rayo Vallecano (19 miljoen euro) is de nieuwste aa ..."
+          "url": "https://www.ad.nl/buitenland/hongarije-moet-de-puinhoop-van-16-jaar-orban-onder-ogen-zien-het-is-veel-mensen-extreem-moeilijk-gemaakt~a29df816/",
+          "publishedDate": "Sat, 22 Aug 2026 18:00:00 GMT",
+          "description": "De val van dwarsligger Viktor Orb&#225;n werd in veel Europese landen gevierd als belangrijk teken van hoop. Van zijn opvolger P&#233;ter Magyar wordt veel verwacht. Maakt hij dat waar? Aan de vooravond van een ..."
         },
         {
-          "title": "Chelsea-speler Mudryk vrij na nieuw dopingonderzoek: 'Zou nu niet geschorst zijn'",
+          "title": "Twaalf Poolse toeristen omgekomen bij busongeluk Hongarije",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/buitenland/twaalf-poolse-toeristen-omgekomen-bij-busongeluk-hongarije~b7aa1a26/",
+          "publishedDate": "Sun, 16 Aug 2026 05:30:00 GMT",
+          "description": "In Hongarije zijn twaalf Poolse bedevaartgangers omgekomen bij een ernstig busongeluk. Meer dan veertig andere inzittenden raakten gewond. De chauffeur, eveneens afkomstig uit Polen, is aangehouden. V ..."
+        },
+        {
+          "title": "Zeker twaalf doden bij busongeluk Hongarije, chauffeur viel vermoedelijk in slaap",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6404997/chelsea-speler-mudryk-vrij-na-nieuw-dopingonderzoek-zou-nu-niet-geschorst-zijn.html",
-          "publishedDate": "Fri, 31 Jul 2026 10:40:00 GMT",
-          "description": "Chelsea-aanvaller Mykhaylo Mudryk mag na een dopingschorsing van anderhalf jaar weer voetballen. De Oekra&#239;ner legde eind 2024 een positieve test af en heeft sindsdien geen wedstrijd meer gespeeld."
+          "url": "https://www.nu.nl/buitenland/6406477/zeker-twaalf-doden-bij-busongeluk-hongarije-chauffeur-viel-vermoedelijk-in-slaap.html",
+          "publishedDate": "Sun, 16 Aug 2026 02:09:00 GMT",
+          "description": "Bij een zwaar busongeluk in Hongarije zijn zeker twaalf doden gevallen en twintig mensen gewond geraakt. De bus sloeg over de kop en kwam in de berm terecht nadat de chauffeur vermoedelijk in slaap wa ..."
         },
         {
-          "title": "'Hongerige' Palmer 'opgeladen' bij Chelsea: 'Ik weet hoeveel talent ik heb'",
+          "title": "Twaalf Polen omgekomen bij busongeluk in Hongarije, chauffeur aangehouden",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627083-twaalf-polen-omgekomen-bij-busongeluk-in-hongarije-chauffeur-aangehouden",
+          "publishedDate": "Sat, 15 Aug 2026 23:58:00 GMT",
+          "description": "Bij een busongeluk in het oosten van Hongarije zijn twaalf inzittenden om het leven gekomen. Daarnaast raakte een aantal mensen zwaargewond toen de bus vannacht in de berm van de snelweg terechtkwam e ..."
+        },
+        {
+          "title": "Hongarije nadert voltooiing van EU-doelstellingen om subsidie van 10 miljard euro vrij te maken",
+          "source": "Business AM on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/hongarije-nadert-voltooiing-van-eu-doelstellingen-om-subsidie-van-10-miljard-euro-vrij-te-maken/ar-AA2aQpWT",
+          "publishedDate": "Mon, 24 Aug 2026 14:59:00 GMT",
+          "description": "Key takeaways Hongarije boekt momenteel aanzienlijke vooruitgang bij het voldoen aan de eisen van de Europese Unie om 10 miljard euro aan vastgelopen herstelsubsidies vrij te maken. Volgens vertegenwo ..."
+        },
+        {
+          "title": "Hongarije herstart enige kerncentrale nu waterpeil Donau weer stijgt",
+          "source": "De Tijd",
+          "url": "https://www.tijd.be/politiek-economie/europa/economie/hongarije-herstart-enige-kerncentrale-nu-waterpeil-donau-weer-stijgt/10683166.html",
+          "publishedDate": "Sun, 23 Aug 2026 00:58:00 GMT",
+          "description": "De enige kerncentrale van Hongarije draait opnieuw, nadat ze wekenlang stillag door de historisch lage stand van de Donau. Een dam op de rivierbodem moet het koelwater op peil houden."
+        },
+        {
+          "title": "In beeld: Hongarije viert nationale feestdag",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1159944-in-beeld-hongarije-viert-nationale-feestdag",
+          "publishedDate": "Thu, 20 Aug 2026 07:00:00 GMT",
+          "description": "Op het momument direct naast het parlementsgebouw in Boedapest staat de inscriptie 2 Korinthe 4:9: „Vervolgd, doch niet daarin verlaten; nedergeworpen, doch niet verdorven.” ..."
+        },
+        {
+          "title": "P&#233;ter Magyar belooft geen Orb&#225;n II te worden, maar de kritiek groeit. ‘Bouw Hongarije niet op wraak’",
+          "source": "Nederlands Dagblad",
+          "url": "https://www.nd.nl/nieuws/buitenland/1327476/peter-magyar-belooft-geen-orban-ii-te-worden-maar-de-kritiek-",
+          "publishedDate": "Sun, 16 Aug 2026 16:29:00 GMT",
+          "description": "Honderd dagen geleden werd P&#233;ter Magyar premier van Hongarije, na zestien jaar Viktor Orb&#225;n. Zijn kabinet voert razendsnel hervormingen door tegen corruptie en staatspropaganda."
+        },
+        {
+          "title": "Twente zakt door de ondergrens in Hongarije",
           "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/hongerige-palmer-opgeladen-bij-chelsea-ik-weet-hoeveel-talent-ik-heb",
-          "publishedDate": "Mon, 24 Aug 2026 14:54:00 GMT",
-          "description": "Cole Palmer heeft zijn visitekaartje voor het nieuwe seizoen afgegeven. De aanvallende middenvelder van Chelsea is 'hongerig'. 'Ik weet hoeveel talent ik heb, dus ik weet dat ik zulke prestaties kan l ..."
-        },
-        {
-          "title": "Chelsea-nieuweling onder indruk: 'Xabi Alonso kan waarschijnlijk nog steeds mee'",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/chelsea-nieuweling-onder-indruk-xabi-alonso-kan-waarschijnlijk-nog-steeds-mee",
-          "publishedDate": "Mon, 24 Aug 2026 06:00:00 GMT",
-          "description": "Morgan Rogers is onder de indruk van zijn nieuwe manager Xabi Alonso. De 24-jarige Engelsman kwam deze zomer voor een enorm bedrag over van Aston Villa . De aanwezigheid van de Spanjaard is de belangr ..."
-        },
-        {
-          "title": "Seizoensvoorbeschouwing: deze nieuwe koers moet van Chelsea weer een titelkandidaat maken",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/originals/seizoensvoorbeschouwing-deze-nieuwe-koers-moet-van-chelsea-weer-een-titelkandidaat-maken/blte37a9d540c2dc0ef",
-          "publishedDate": "Mon, 24 Aug 2026 04:29:00 GMT",
-          "description": "Chelsea gooide deze zomer het roer om. Lees alles over Xabi Alonso, de transfers, selectie en titelkansen van The Blues in het seizoen 2026/27."
-        },
-        {
-          "title": "Op welke zender kijk je Fulham – Chelsea live?",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-fulham-chelsea-live/",
-          "publishedDate": "Mon, 24 Aug 2026 04:03:00 GMT",
-          "description": "Chelsea neemt het in de Premier League op tegen Fulham. In de SN TV-gids zie je op welke zender dit duel te zien is."
-        },
-        {
-          "title": "T&#243;ch Champions League op Stamford Bridge: Chelsea schiet buitenlandse club te hulp",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/t%C3%B3ch-champions-league-op-stamford-bridge-chelsea-schiet-buitenlandse-club-te-hulp/ar-AA2aEGsB",
-          "publishedDate": "Fri, 21 Aug 2026 08:27:34 GMT",
-          "description": "Chelsea is op bijzondere wijze te hulp geschoten bij Shakhtar Donetsk. De Oekra&#239;ense club is dit seizoen actief in de Champions League en was nog op zoek naar een tijdelijk stadion om de wedstrijden v ..."
-        },
-        {
-          "title": "'Chelsea wil 140 (!) miljoen ontvangen, stelt keiharde deadline aan Man City'",
-          "source": "voetbalprimeur",
-          "url": "https://www.voetbalprimeur.be/nieuws/2122596/chelsea-stelt-deadline-aan-manchester-city-voor-enzo-fernandez.html",
-          "publishedDate": "Thu, 13 Aug 2026 04:02:00 GMT",
-          "description": "Chelsea heeft een keiharde deadline gesteld voor een mogelijke overgang van Enzo Fern&#225;ndez naar Manchester City. Dat meldt transferexpert Fabrizio Romano. The Blues willen dat de concurrent snel zaken ..."
-        },
-        {
-          "title": "Chelsea haalt Jordan Henderson terug naar de top: 'Een geweldige kans'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/chelsea-haalt-oud-ajacied-jordan-henderson-terug-naar-engelse-top",
-          "publishedDate": "Mon, 03 Aug 2026 10:17:00 GMT",
-          "description": "Chelsea heeft de komst van voormalig Ajax-middenvelder Jordan Henderson bevestigd. De 36-jarige Engelsman tekent voor twee seizoenen op Stamford Bri ..."
+          "url": "https://www.vi.nl/video/twente-zakt-door-de-ondergrens-in-hongarije",
+          "publishedDate": "Fri, 31 Jul 2026 07:45:00 GMT",
+          "description": "Nieuwe aflevering van Rondje Europa! FC Twente is uitgeschakeld in de voorronde van de Europa League na een pijnlijke avond in Hongarije. De ploeg begon slordig, oogde kwetsbaar en wist ook met een ma ..."
         }
       ]
     },
@@ -429,11 +725,6 @@
           "description": "Op sociale media vroegen heel wat mensen zich af wie “die reus op het podium” was. Barron Trump dus, de zoon van Donald en Melania Trump. De student aan NYU is 2 meter groot en torende dan ook boven ..."
         }
       ]
-    },
-    {
-      "keyword": "hongarije",
-      "trafficLabel": "5K+",
-      "articles": []
     }
   ]
 }
