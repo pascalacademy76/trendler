@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T13:44:34.529Z",
+  "fetchedAt": "2026-08-24T14:34:28.507Z",
   "trends": [
     {
       "keyword": "groente",
@@ -74,6 +74,82 @@
           "url": "https://www.rtl.nl/nieuws/nederland/artikel/1970856/meer-groente-en-fruit-echt-veel-gezonder",
           "publishedDate": "Wed, 02 Apr 2014 04:26:00 GMT",
           "description": "1. Wat zegt het Voedingscentrum? Twee ons groente en twee stuks fruit, is het advies van het Voedingscentrum. &quot;Vers, pot, blik: het is net zo gezond&quot;, benadrukt professor Martijn Katan, emeritus ..."
+        }
+      ]
+    },
+    {
+      "keyword": "onweer",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Het wordt deze week steeds warmer, later is er kans op fors onweer",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628026-het-wordt-deze-week-steeds-warmer-later-is-er-kans-op-fors-onweer",
+          "publishedDate": "Sun, 23 Aug 2026 09:11:00 GMT",
+          "description": "Morgen wordt het 21 tot 24 graden met in het hele land flink wat zon. Dinsdag wordt het zelfs nog iets warmer."
+        },
+        {
+          "title": "Wisselend bewolkt en enkele buien, soms met onweer",
+          "source": "RTL Nieuws (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/weer/meteorologie/wisselend-bewolkt-en-enkele-buien-soms-met-onweer/ar-AA2aCjuJ",
+          "publishedDate": "Thu, 20 Aug 2026 21:16:04 GMT",
+          "description": "Er staan vandaag behoorlijk wat buien op de planning, soms gepaard met onweer. Er trekt namelijk een storing over, van noordwest naar zuidoost. In de middag komt er vanuit het noordoosten geleidelijk ..."
+        },
+        {
+          "title": "Tropische hitte niet helemaal uit Europa verdreven, volgende week onweer op komst",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/tropische-hitte-niet-helemaal-uit-europa-verdreven-volgende-week-onweer-op-komst~ad88e7fd/",
+          "publishedDate": "Fri, 14 Aug 2026 23:06:00 GMT",
+          "description": "De echte hitte wordt in bijna heel Europa verdreven komende week. In de Engelse hoofdstad, waar de parken eerder een woestijn lijken, is de regen er meer dan welkom."
+        },
+        {
+          "title": "Warm en vochtig weer met kans op stevige buien en onweer",
+          "source": "Culturu",
+          "url": "https://www.culturu.com/nieuws/suriname/warm-en-vochtig-weer-met-kans-op-stevige-buien-en-onweer/",
+          "publishedDate": "Sun, 23 Aug 2026 23:04:00 GMT",
+          "description": "Suriname nieuws - Suriname krijgt vandaag te maken met warm en vochtig weer. Hoewel de dag op veel plaatsen met bewolking begint, neemt vooral in de middag en avond de kans ..."
+        },
+        {
+          "title": "Zon, maar ook regen, wind en onweer verwacht: 'We krijgen van alles wat'",
+          "source": "Omroep West",
+          "url": "https://www.omroepwest.nl/natuur/5140582/zon-maar-ook-regen-wind-en-onweer-verwacht-we-krijgen-van-alles-wat",
+          "publishedDate": "Sun, 23 Aug 2026 11:00:00 GMT",
+          "description": "In de laatste week van de zomervakantie wordt wisselvallig weer verwacht. Volgens weerman Jordi Bloem kunnen we rekenen op zon, maar kan het zeker later in de week ook gaan regenen en onweren. 'We kri ..."
+        },
+        {
+          "title": "Na lange droogte veel onweer en regen in zuidoosten Frankrijk",
+          "source": "Nederlands Dagblad",
+          "url": "https://www.nd.nl/varia/varia/1328230/na-lange-droogte-veel-onweer-en-regen-in-zuidoosten-frankrijk",
+          "publishedDate": "Fri, 21 Aug 2026 06:53:00 GMT",
+          "description": "Na een lange periode van droogte zijn in het zuidoosten van Frankrijk hevige onweers- en regenbuien losgebarsten in met name in het departement Var, waar Saint-Tropez en Toulon liggen. Het vooral ..."
+        },
+        {
+          "title": "Onweer en regen trekken over het land, ook kans op stevige rukwinden",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/21/weerbericht-21-22-23-augustus/",
+          "publishedDate": "Thu, 20 Aug 2026 22:01:00 GMT",
+          "description": "Het warme zomerweer laat zich de volgende dagen niet zien. Vandaag krijgen we regen en soms onweer, met felle rukwinden. Ook morgen blijft het wisselvallig. Zondag zou het droog blijven, maar voor ech ..."
+        },
+        {
+          "title": "Na grote natuurbrand ook hevig onweer in Luik: mini-tornado verwoest deel van huis",
+          "source": "VRT",
+          "url": "https://www.vrt.be/nwsnwsnws/nl/post/2026/08/20/onweer_luik/",
+          "publishedDate": "Thu, 20 Aug 2026 00:42:00 GMT",
+          "description": "Het was een zware nacht voor de hulpdiensten in de Waalse provincie Luik. Niet alleen door de natuurbrand in de Hoge Venen, ook een hevig onweer veroorzaakte problemen. In de gemeente B&#252;llingen was er ..."
+        },
+        {
+          "title": "Wisselvallige week op komst: veel regen en kans op onweer",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/weer/weerbericht/artikelen/weer-nederland-regen-buien-onweer-koeler-week",
+          "publishedDate": "Sun, 16 Aug 2026 22:57:00 GMT",
+          "description": "Nederland krijgt een wisselvallige week met geregeld regen en buien. Woensdag kunnen buien gepaard gaan met onweer en in de kustprovincies kan lokaal veel regen vallen. Richting het weekend daalt de t ..."
+        },
+        {
+          "title": "Onweer en harde wind gooit roet in eten van IJsselmeermarathon. ’Ze namen niet eens de moeite om even naar Friesland te komen’",
+          "source": "Noordhollands Dagblad",
+          "url": "https://www.noordhollandsdagblad.nl/sport/sport-westfriesland/onweer-en-harde-wind-gooit-roet-in-eten-van-ijsselmeermarathon.-ze-namen-niet-eens-de-moeite-om-even-naar-friesland-te-komen/160043684.html",
+          "publishedDate": "Sun, 16 Aug 2026 10:33:00 GMT",
+          "description": "De afgelasting van de 58ste IJsselmeermarathon was een bittere pil voor de zeven deelnemers en organisatie. Terwijl zwemmers en coaches in Stavoren waren, kregen ze vanuit Medemblik telefonisch de med ..."
         }
       ]
     },
@@ -236,388 +312,8 @@
       ]
     },
     {
-      "keyword": "onweer",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Het wordt deze week steeds warmer, later is er kans op fors onweer",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628026-het-wordt-deze-week-steeds-warmer-later-is-er-kans-op-fors-onweer",
-          "publishedDate": "Sun, 23 Aug 2026 09:11:00 GMT",
-          "description": "Morgen wordt het 21 tot 24 graden met in het hele land flink wat zon. Dinsdag wordt het zelfs nog iets warmer."
-        },
-        {
-          "title": "Wisselend bewolkt en enkele buien, soms met onweer",
-          "source": "RTL Nieuws (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/weer/meteorologie/wisselend-bewolkt-en-enkele-buien-soms-met-onweer/ar-AA2aCjuJ",
-          "publishedDate": "Thu, 20 Aug 2026 21:16:04 GMT",
-          "description": "Er staan vandaag behoorlijk wat buien op de planning, soms gepaard met onweer. Er trekt namelijk een storing over, van noordwest naar zuidoost. In de middag komt er vanuit het noordoosten geleidelijk ..."
-        },
-        {
-          "title": "Warm en vochtig weer met kans op stevige buien en onweer",
-          "source": "Culturu",
-          "url": "https://www.culturu.com/nieuws/suriname/warm-en-vochtig-weer-met-kans-op-stevige-buien-en-onweer/",
-          "publishedDate": "Sun, 23 Aug 2026 23:04:00 GMT",
-          "description": "Suriname nieuws - Suriname krijgt vandaag te maken met warm en vochtig weer. Hoewel de dag op veel plaatsen met bewolking begint, neemt vooral in de middag en avond de kans ..."
-        },
-        {
-          "title": "Warm en drukkend met kans op felle buien en onweer",
-          "source": "Suriname Nieuws",
-          "url": "https://www.srnieuws.com/warm-en-drukkend-met-kans-op-felle-buien-en-onweer",
-          "publishedDate": "Sun, 23 Aug 2026 22:46:00 GMT",
-          "description": "Voor vandaag wordt warm en vochtig weer voorspeld. Vooral in de middag en avond neemt de kans op buien toe, waarbij plaatselijk ook onweer kan voorkomen. De grootste kans op felle buien en onweer best ..."
-        },
-        {
-          "title": "Zon, maar ook regen, wind en onweer verwacht: 'We krijgen van alles wat'",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/natuur/5140582/zon-maar-ook-regen-wind-en-onweer-verwacht-we-krijgen-van-alles-wat",
-          "publishedDate": "Sun, 23 Aug 2026 11:00:00 GMT",
-          "description": "In de laatste week van de zomervakantie wordt wisselvallig weer verwacht. Volgens weerman Jordi Bloem kunnen we rekenen op zon, maar kan het zeker later in de week ook gaan regenen en onweren. 'We kri ..."
-        },
-        {
-          "title": "Na lange droogte veel onweer en regen in zuidoosten Frankrijk",
-          "source": "Nederlands Dagblad",
-          "url": "https://www.nd.nl/varia/varia/1328230/na-lange-droogte-veel-onweer-en-regen-in-zuidoosten-frankrijk",
-          "publishedDate": "Fri, 21 Aug 2026 06:53:00 GMT",
-          "description": "Na een lange periode van droogte zijn in het zuidoosten van Frankrijk hevige onweers- en regenbuien losgebarsten in met name in het departement Var, waar Saint-Tropez en Toulon liggen. Het vooral ..."
-        },
-        {
-          "title": "Onweer en regen trekken over het land, ook kans op stevige rukwinden",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/21/weerbericht-21-22-23-augustus/",
-          "publishedDate": "Thu, 20 Aug 2026 22:01:00 GMT",
-          "description": "Het warme zomerweer laat zich de volgende dagen niet zien. Vandaag krijgen we regen en soms onweer, met felle rukwinden. Ook morgen blijft het wisselvallig. Zondag zou het droog blijven, maar voor ech ..."
-        },
-        {
-          "title": "Na grote natuurbrand ook hevig onweer in Luik: mini-tornado verwoest deel van huis",
-          "source": "VRT",
-          "url": "https://www.vrt.be/nwsnwsnws/nl/post/2026/08/20/onweer_luik/",
-          "publishedDate": "Thu, 20 Aug 2026 00:42:00 GMT",
-          "description": "Het was een zware nacht voor de hulpdiensten in de Waalse provincie Luik. Niet alleen door de natuurbrand in de Hoge Venen, ook een hevig onweer veroorzaakte problemen. In de gemeente B&#252;llingen was er ..."
-        },
-        {
-          "title": "Wisselvallige week op komst: veel regen en kans op onweer",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/weer/weerbericht/artikelen/weer-nederland-regen-buien-onweer-koeler-week",
-          "publishedDate": "Sun, 16 Aug 2026 22:57:00 GMT",
-          "description": "Nederland krijgt een wisselvallige week met geregeld regen en buien. Woensdag kunnen buien gepaard gaan met onweer en in de kustprovincies kan lokaal veel regen vallen. Richting het weekend daalt de t ..."
-        },
-        {
-          "title": "Onweer en harde wind gooit roet in eten van IJsselmeermarathon. ’Ze namen niet eens de moeite om even naar Friesland te komen’",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/sport/sport-westfriesland/onweer-en-harde-wind-gooit-roet-in-eten-van-ijsselmeermarathon.-ze-namen-niet-eens-de-moeite-om-even-naar-friesland-te-komen/160043684.html",
-          "publishedDate": "Sun, 16 Aug 2026 10:33:00 GMT",
-          "description": "De afgelasting van de 58ste IJsselmeermarathon was een bittere pil voor de zeven deelnemers en organisatie. Terwijl zwemmers en coaches in Stavoren waren, kregen ze vanuit Medemblik telefonisch de med ..."
-        }
-      ]
-    },
-    {
-      "keyword": "sigrid kaag",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Zomergast Sigrid Kaag geeft imposante informatie, maar vertelt geen verhaal",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/cultuur-media/zomergast-sigrid-kaag-geeft-imposante-informatie-maar-vertelt-geen-verhaal~b3ce3091/",
-          "publishedDate": "Mon, 24 Aug 2026 06:32:00 GMT",
-          "description": "Je hoeft X niet te checken om te weten wat er over Sigrid Kaag wordt gezegd. Ze is Zomergast en hup, #Kaag werd trending in Nederland. Vaak met ongezouten kritiek op haar beleid als minister van ..."
-        },
-        {
-          "title": "Sigrid Kaag zong als studente in Egypte Franse chansons in een bar, vertelde ze in Zomergasten",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/han-lips/sigrid-kaag-zong-als-studente-in-egypte-franse-chansons-in-een-bar-vertelde-ze-in-zomergasten~b15126fd/",
-          "publishedDate": "Mon, 24 Aug 2026 00:33:00 GMT",
-          "description": "In de rubriek Han Lips schrijven verschillende redacteuren van Het Parool elke dag over wat hun opvalt op tv. Vandaag: Zomergasten, met Sigrid Kaag."
-        },
-        {
-          "title": "Sigrid Kaag kiest in Zomergasten voor ‘menselijkheid’, van geopolitiek en van haarzelf",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/08/24/verslag-zomergasten-kaag-door-tristan-a4935021",
-          "publishedDate": "Sun, 23 Aug 2026 20:37:00 GMT",
-          "description": "ZAP: Diplomaat, VN-gezant en voormalig vicepremier Sigrid Kaag was de vijfde Zomergast. Ze koos „menselijkheid” als rode lijn: van de geopolitiek, van haarzelf en als iets om naar te streven."
-        },
-        {
-          "title": "Sigrid Kaag toont zich in ‘Zomergasten’ een vrouw die streng is voor zichzelf, maar veel mededogen heeft met de ander",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/televisie/sigrid-kaag-toont-zich-in-zomergasten-een-vrouw-die-streng-is-voor-zichzelf-maar-veel-mededogen-heeft-met-de-ander~b7bb4eee/",
-          "publishedDate": "Sun, 23 Aug 2026 20:10:00 GMT",
-          "description": "In de voorlaatste Zomergasten gaf Sigrid Kaag drie uur lang een boeiend inkijkje in haar studententijd, indrukwekkende (geo)politieke loopbaan en specialisatie in ‘foute types’. Met als bonus zowaar o ..."
-        },
-        {
-          "title": "Kaag zegt dat VS haar wilde als secretaris-generaal van de VN: ‘Maar Nederland liet het op zijn beloop’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/kaag-zegt-dat-vs-haar-wilde-als-secretaris-generaal-van-de-vn-maar-nederland-liet-het-op-zijn-beloop~a92cd84e/",
-          "publishedDate": "Sun, 23 Aug 2026 08:01:00 GMT",
-          "description": "Sigrid Kaag heeft in Zomergasten gezegd dat de Verenigde Staten Nederland tien jaar geleden hebben gevraagd of Kaag zich beschikbaar wilde stellen als mogelijke nieuwe secretaris-generaal van de Veren ..."
-        },
-        {
-          "title": "Sigrid Kaag was naar eigen zeggen in beeld voor topbaan bij VN: &quot;Ik leef niet voor functies&quot;",
-          "source": "De Dagelijkse Standaard",
-          "url": "https://www.dagelijksestandaard.nl/buitenland/sigrid-kaag-was-naar-eigen-zeggen-in-beeld-voor-topbaan-bij-vn-ik-leef-niet-voor-functies",
-          "publishedDate": "Mon, 24 Aug 2026 06:30:00 GMT",
-          "description": "Sigrid Kaag had zomaar secretaris-generaal van de Verenigde Naties kunnen worden. Althans, dat blijkt uit haar verhaal in VPRO’s Zomergasten."
-        },
-        {
-          "title": "Sigrid Kaag zegt dat VS haar voorstelden als secretaris-generaal Verenigde Naties",
-          "source": "vandaaginside",
-          "url": "https://www.vandaaginside.nl/politiek/nederlandse-politiek/artikelen/sigrid-kaag-zegt-dat-vs-haar-voorstelden-als-secretaris-generaal-verenigde",
-          "publishedDate": "Sun, 23 Aug 2026 23:48:00 GMT",
-          "description": "Sigrid Kaag heeft in Zomergasten gezegd dat de Verenigde Staten Nederland tien jaar geleden hebben gevraagd of Kaag zich beschikbaar wilde stellen als mogelijke nieuwe secretaris-generaal van de Veren ..."
-        },
-        {
-          "title": "Jaren had ze in het Midden-Oosten gewoond, maar in ‘Zomergasten’ vertelde Sigrid Kaag hoe ze uitgerekend in Nederland beveiliging nodig had gehad",
-          "source": "Humo",
-          "url": "https://www.humo.be/tv/jaren-had-ze-in-het-midden-oosten-gewoond-maar-in-zomergasten-vertelde-sigrid-kaag-hoe-ze-uitgerekend-in-nederland-beveiliging-nodig-had-gehad~b0d5b809/",
-          "publishedDate": "Sun, 23 Aug 2026 16:52:00 GMT",
-          "description": "HUMO’s tv-recensent Tom Raes keek naar de voorlaatste aflevering van ‘Zomergasten’ met politica Sigrid Kaag. ‘Ooit had deze ‘Zomergasten’ misschien nog stof doen opwaaien, maar ik vrees dat de tijden ..."
-        },
-        {
-          "title": "Sigrid Kaag zondag te gast in 'Zomergasten'",
-          "source": "tvvisie",
-          "url": "https://tvvisie.nl/inhoud/nederland/22augustus2026/sigrid-kaag-zondag-te-gast-in-zomergasten_141955/",
-          "publishedDate": "Fri, 21 Aug 2026 17:00:00 GMT",
-          "description": "Internationaal onderhandelaar en oud-politicus Sigrid Kaag (Rijswijk, 1961) is op zondag 23 augustus de vijfde gast in 'VPRO Zomergasten'."
-        },
-        {
-          "title": "Kaag stopt als minister en gaat hulp en wederopbouw Gaza co&#246;rdineren voor VN",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/politiek/kaag-stopt-als-minister-en-gaat-hulp-en-wederopbouw-gaza-coordineren-voor-vn~a9936a73/",
-          "publishedDate": "Tue, 26 Dec 2023 03:13:00 GMT",
-          "description": "Sigrid Kaag stopt als demissionair minister van Financi&#235;n omdat ze voor de Verenigde Naties de wederopbouw van Gaza gaat co&#246;rdineren. D66-leider Rob Jetten neemt haar portefeuille formeel tijdelijk ..."
-        }
-      ]
-    },
-    {
-      "keyword": "sos gebaar",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Meisje (14) ontkomt aan mogelijke verkrachtingspoging dankzij oplettende agenten die SOS-gebaar opmerken",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/buitenland/meisje-14-ontkomt-aan-mogelijke-verkrachtingspoging-dankzij-oplettende-agenten-die-sos-gebaar-opmerken/160411877.html",
-          "publishedDate": "Mon, 24 Aug 2026 04:00:00 GMT",
-          "description": "Een meisje in Rome heeft weten te ontsnappen aan een mogelijke verkrachtingspoging. Dat deed zij door met haar hand het internationale SOS-gebaar voor hulp te maken op een moment dat twee politieagent ..."
-        },
-        {
-          "title": "Meisje (14) ontsnapt dankzij handgebaar aan mogelijke verkrachting in Rome",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/buitenland/6407321/meisje-14-ontsnapt-dankzij-handgebaar-aan-mogelijke-verkrachting-in-rome.html",
-          "publishedDate": "Mon, 24 Aug 2026 01:19:00 GMT",
-          "description": "Een veertienjarig meisje is donderdag in Rome aan een mogelijke verkrachtingspoging ontsnapt, meldt de Italiaanse nieuwssite RaiNews. Ze maakte vanuit een auto het internationale hulpgebaar. Twee poli ..."
-        },
-        {
-          "title": "Meisje (14) ontsnapt in Rome aan mogelijke verkrachtingspoging dankzij SOS-gebaar",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628076-meisje-14-ontsnapt-in-rome-aan-mogelijke-verkrachtingspoging-dankzij-sos-gebaar",
-          "publishedDate": "Sun, 23 Aug 2026 16:39:00 GMT",
-          "description": "Agenten die langsreden herkenden het internationale hulpgebaar van het meisje en schoten te hulp. Een 47-jarige Roemeen is aangehouden."
-        },
-        {
-          "title": "Meisje (14) maakt SOS-gebaar en wordt door agenten gered van mogelijke verkrachting",
-          "source": "Kek Mama on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/meisje-14-maakt-sos-gebaar-en-wordt-door-agenten-gered-van-mogelijke-verkrachting/ar-AA2aOIhd",
-          "publishedDate": "Mon, 24 Aug 2026 06:00:00 GMT",
-          "description": "Een klein handgebaar kan in een noodsituatie het verschil maken. Dat bleek in Itali&#235;, waar een 14-jarig meisje de aandacht van agenten wist te trekken nadat ze tegen haar wil was meegenomen door de vr ..."
-        },
-        {
-          "title": "SOS-handgebaar kan levens redden: kennen we het in Nederland?",
-          "source": "NPO Radio 1",
-          "url": "https://www.nporadio1.nl/fragmenten/eenvandaag/01a033ba-9127-73f0-bcbe-772d6d32a818/2026-08-24-sos-handgebaar-kan-levens-redden-kennen-we-het-in-nederland",
-          "publishedDate": "Mon, 24 Aug 2026 05:00:00 GMT",
-          "description": "Ontsnappen aan een mogelijke verkrachting met een eenvoudig handgebaar. Een 14-jarig meisje in Rome wist in een noodsituatie met het SOS-gebaar de politie te waarschuwen. Vorig jaar gebruikte ook een ..."
-        },
-        {
-          "title": "Door dit gebaar te maken, ontsnapte Italiaans meisje aan ontvoering: welk gebaar gebruiken we in Nederland?",
-          "source": "Panorama",
-          "url": "https://panorama.nl/artikel/694007/door-dit-gebaar-te-maken-ontsnapte-italiaans-meisje-aan-ontvoering-welk-gebaar-gebruiken-we-in-nederland",
-          "publishedDate": "Mon, 24 Aug 2026 01:53:00 GMT",
-          "description": "Het teken dat het 14-jarige slachtoffer maakte om duidelijk te maken dat ze in gevaar verkeerde, was het internationale SOS-gebaar. Deze maak je door je hand op te steken, je open handpalm te tonen, ..."
-        },
-        {
-          "title": "Moet iedereen het handgebaar voor noodsituaties kennen? ‘Hang niet de held uit’",
-          "source": "Nederlands Dagblad",
-          "url": "https://www.nd.nl/nieuws/nederland/1301088/moet-iedereen-het-handgebaar-voor-noodsituaties-kennen-hang-n",
-          "publishedDate": "Fri, 09 Jan 2026 03:24:00 GMT",
-          "description": "Met een SOS-handgebaar stil om hulp vragen. Op sociale media gaan volop verhalen rond dat hierdoor mensenlevens gered zijn in noodsituaties. Is het handig als iedereen dit gebaar kent? Niet per se, ..."
-        },
-        {
-          "title": "6-Jarig Oostenrijks meisje voorkomt ontvoering door met SOS-gebaar politie te waarschuwen",
-          "source": "waarmaarraar.nl",
-          "url": "https://www.waarmaarraar.nl/pages/re/129961/6-Jarig_Oostenrijks_meisje_voorkomt_ontvoering_door_met_SOS-gebaar_politie_te_waarschuwen.html",
-          "publishedDate": "Wed, 03 Dec 2025 13:39:00 GMT",
-          "description": "De Oostenrijkse politie heeft op een bijzondere manier een ontvoering weten te voorkomen. Agenten hielden de bestuurder van een auto staande bij een verkeersongeluk. Op de achterbank troffen zij een ..."
-        },
-        {
-          "title": "Zesjarig meisje toont SOS-gebaar en kan zo met haar moeder ontsnappen aan ontvoerder",
-          "source": "Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/buitenland/zesjarig-meisje-toont-sos-gebaar-en-kan-zo-met-haar-moeder-ontsnappen-aan-ontvoerder/109871316.html",
-          "publishedDate": "Wed, 03 Dec 2025 07:00:00 GMT",
-          "description": "Zesjarig meisje toont SOS-gebaar en kan zo met haar moeder ontsnappen aan ontvoerder De politie heeft een ontvoering in het Oostenrijkse Wenen kunnen verijdelen met dank aan een bijzonder moedig ..."
-        },
-        {
-          "title": "Zesjarig meisje voorkomt ontvoering met SOS-handgebaar in Oostenrijk",
-          "source": "Fok",
-          "url": "https://frontpage.fok.nl/nieuws/887176/1/1/50/zesjarig-meisje-voorkomt-ontvoering-met-sos-handgebaar-in-oostenrijk.html",
-          "publishedDate": "Wed, 03 Dec 2025 01:59:00 GMT",
-          "description": "In Oostenrijk voorkwam een zesjarig meisje een ontvoering door een internationaal SOS-handgebaar te maken. Tijdens een verkeersongeluk werd de auto van een 39-jarige Irakees door de politie ..."
-        }
-      ]
-    },
-    {
-      "keyword": "iran nieuws",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Trumps ‘economische D-day’ tegen Iran is daar, maar het is maar de vraag wie er zij aan zij met hem staan",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/trumps-economische-d-day-tegen-iran-is-daar-maar-het-is-maar-de-vraag-wie-er-zij-aan-zij-met-hem-staan~b933ed3a6/",
-          "publishedDate": "Sun, 23 Aug 2026 22:00:00 GMT",
-          "description": "Als het niet met wapens kan, dan maar met economische middelen. Kort samengevat is dat de nieuwe Amerikaanse aanpak in de sluimerende Iran-oorlog. Door Iran economisch te isoleren hoopt president Dona ..."
-        },
-        {
-          "title": "Iran had invloed op deportatievluchten vanuit de VS, ook n&#225; het begin van de oorlog van vorig jaar",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/buitenland/iran-had-invloed-op-deportatievluchten-vanuit-de-vs-ook-na-het-begin-van-de-oorlog-van-vorig-jaar~b4b91e3d/",
-          "publishedDate": "Thu, 20 Aug 2026 14:47:00 GMT",
-          "description": "Uit mailverkeer blijkt dat Iran achter de schermen invloed heeft uitgeoefend op het lot van Iraanse migranten in de VS. Het land communiceerde ook na het begin van de oorlog met immigratiepolitie Ice ..."
-        },
-        {
-          "title": "LIVE Midden-Oosten | Iran: ‘Straat van Hormuz gaat pas open als VS aan onze eisen voldoet’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/live-midden-oosten-israel-voert-aanvallen-uit-op-militaire-doelen-iran~ac528ac3/",
-          "publishedDate": "Tue, 18 Aug 2026 05:04:00 GMT",
-          "description": "Het Iraanse leger zegt vrijdag dat het drones heeft ingezet tegen Amerikaanse militaire doelwitten in Koeweit, als ‘vergelding voor de agressie’ van de Verenigde Staten. De VS en Isra&#235;l bespreken een ..."
-        },
-        {
-          "title": "Nieuwe eisen Iran voor heropening Straat van Hormuz, snelle deal lijkt uit zicht",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2626093-nieuwe-eisen-iran-voor-heropening-straat-van-hormuz-snelle-deal-lijkt-uit-zicht",
-          "publishedDate": "Sat, 08 Aug 2026 16:03:00 GMT",
-          "description": "Met de nieuwe voorwaarden lijkt een snelle deal over de heropening van de belangrijke zeestraat buiten bereik."
-        },
-        {
-          "title": "Iran: consequenties voor helpen VS met economische druk",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/1160233-iran-consequenties-voor-helpen-vs-met-economische-druk",
-          "publishedDate": "Mon, 24 Aug 2026 04:39:00 GMT",
-          "description": "Iran zegt niet onder de indruk te zijn van dreigementen van de Amerikaanse president Trump en zijn minister van Financi&#235;n Scott Bessent over nieuwe sancties tegen Iran. Het land dreigt met „consequent ..."
-        },
-        {
-          "title": "Iran niet onder de indruk van uitspraken VS en dreigt met “consequenties” voor landen die zich aansluiten bij sancties",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/iran-niet-onder-de-indruk-van-uitspraken-vs-en-dreigt-met-consequenties-voor-landen-die-zich-aansluiten-bij-sancties~a99e0324/",
-          "publishedDate": "Sun, 23 Aug 2026 21:44:00 GMT",
-          "description": "Iran zegt dat het verhaal van de Verenigde Staten tegenstrijdig is: aan de ene kant is Iran verslagen, maar aan de andere kant zeggen de VS &quot;de grootste financi&#235;le invasie ooit&quot; te lanceren. Volgens ..."
-        },
-        {
-          "title": "Iran: Sancties VS zijn misdaad tegen de mensheid",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/1159980-iran-sancties-vs-zijn-misdaad-tegen-de-mensheid",
-          "publishedDate": "Thu, 20 Aug 2026 11:58:00 GMT",
-          "description": "Teheran noemt de door de VS aangekondigde extra economische sancties tegen Iran „een misdaad tegen de mensheid” en een vorm van „economische terreur”. Dat blijkt uit een verklaring van het Iraanse min ..."
-        },
-        {
-          "title": "Nieuwe fase Iran-conflict: wie Iran helpt, wordt zelf doelwit",
-          "source": "Newsbit",
-          "url": "https://newsbit.nl/nieuwe-fase-iran-conflict-wie-iran-helpt-wordt-zelf-doelwit/",
-          "publishedDate": "Thu, 20 Aug 2026 01:04:00 GMT",
-          "description": "Donald Trump kondigt 'economische oorlogsvoering' met Iran aan. Wat betekent dat? En wat zijn de gevolgen hiervan voor de markt?"
-        },
-        {
-          "title": "‘Iran wil Amerikaanse militaire bases in Europa aanvallen bij nieuwe escalatie in oorlog’",
-          "source": "Het Financieele Dagblad",
-          "url": "https://fd.nl/politiek/1608487/iran-wil-amerikaanse-militaire-bases-in-europa-aanvallen-bij-nieuwe-escalatie-in-oorlog",
-          "publishedDate": "Wed, 19 Aug 2026 00:44:00 GMT",
-          "description": "Iraanse raketten zouden tot ver in Europa kunnen reiken, maar volgens een expert waarschijnlijk weinig schade kunnen aanrichten."
-        },
-        {
-          "title": "Een mysterieuze leider, radicale generaals en dreigende taal: Iran kiest een nieuwe koers",
-          "source": "EW",
-          "url": "https://www.ewmagazine.nl/buitenland/achtergrond/2026/08/nederlandse-economie-koopkracht-inflatie-cpb-2027-2-1581544/",
-          "publishedDate": "Sat, 15 Aug 2026 06:59:00 GMT",
-          "description": "De Nederlandse economie groeit in 2026 en 2027, maar de koopkracht daalt. Het CPB wijst op hoge inflatie, lastenverzwaringen en internationale risico’s."
-        }
-      ]
-    },
-    {
-      "keyword": "tadej pogačar",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "De loodzware Vuelta, zonder topsprinters, biedt volop kansen voor Wout van Aert",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/sport/de-loodzware-vuelta-zonder-topsprinters-biedt-volop-kansen-voor-wout-van-aert~be4aba2d7/",
-          "publishedDate": "Fri, 21 Aug 2026 20:00:00 GMT",
-          "description": "Waar Tadej Pogačar dit jaar zijn enige nog ontbrekende grote rondewinst wil boeken, zal Wout van Aert in de Vuelta van 2026 vooral op zoek gaan naar ritzeges. De Belg van Visma-Lease a Bike, die de To ..."
-        },
-        {
-          "title": "Pogačar voelt zich schuldig tegenover Van Aert",
-          "source": "Nieuws365",
-          "url": "https://www.nieuws365.be/sport/pogacar-voelt-zich-schuldig-tegenover-van-aert",
-          "publishedDate": "Mon, 24 Aug 2026 01:00:00 GMT",
-          "description": "Tadej Pogačar zorgde na de tweede etappe van de Vuelta voor een opvallend gebaar richting Wout van Aert. De Sloveen had in de slotfase gereageerd op een aanval van de Belg, maar besloot vervolgens nie ..."
-        },
-        {
-          "title": "Wielerfenomeen Tadej Pogacar viert succes met geliefde: 'Zal deze dag niet vergeten'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/wielrennen/nieuws/wielerfenomeen-tadej-pogacar-viert-succes-met-geliefde-zal-deze-dag-niet-vergeten-2026082310391205527/",
-          "publishedDate": "Sun, 23 Aug 2026 05:59:00 GMT",
-          "description": "Tadej Pogacar vierde zaterdag zijn overwinning na de openingsrit van de Vuelta a Espa&#241;a met zijn geliefde en wielrenster Urska Zigart. Op Instagram deelt hij een liefdevolle foto van hen samen en ..."
-        },
-        {
-          "title": "Monaco blikt terug op start Vuelta in prinsdom met rol Albert",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/koningshuis/monaco-blikt-terug-op-start-vuelta-in-prinsdom-met-rol-albert",
-          "publishedDate": "Sun, 23 Aug 2026 04:32:00 GMT",
-          "description": "Het prinsdom van Monaco blikt zondag terug op de start van de Ronde van Spanje, die zaterdag vanuit het casino in Monte Carlo begon. Op Instagram deelt het paleis diverse foto's van de festiviteiten r ..."
-        },
-        {
-          "title": "In navolging van Roglic en Vingegaard: Tadej Pogacar draagt leiderstrui in Giro, Tour &#233;n Vuelta",
-          "source": "WielerFlits on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/in-navolging-van-roglic-en-vingegaard-tadej-pogacar-draagt-leiderstrui-in-giro-tour-%C3%A9n-vuelta/ar-AA2aKc2C",
-          "publishedDate": "Sun, 23 Aug 2026 02:27:19 GMT",
-          "description": "Tadej Pogačar heeft zondag voor een unicum gezorgd in zijn carri&#232;re. De Sloveense wereldkampioen nam voor het eerst in zijn carri&#232;re de leiderstrui van de Vuelta a Espa&#241;a in ontvangst. Daarmee is Poga ..."
-        },
-        {
-          "title": "Tadej Pogacar haalde vlak voor podium al zijn regenbogen weg: “Ik moet van shirt wisselen”",
-          "source": "WielerFlits",
-          "url": "https://www.wielerflits.be/nieuws/tadej-pogacar-haalde-vlak-voor-podium-al-zijn-regenbogen-weg-ik-moet-van-shirt-wisselen/",
-          "publishedDate": "Sun, 23 Aug 2026 02:17:00 GMT",
-          "description": "Na zijn ritzege op de Vuelta verwijderde Pogačar zijn regenbooguitingen snel. Ontdek waarom hij moest wisselen van shirt tijdens het podiummoment."
-        },
-        {
-          "title": "Wielrenner Pogačar pakt leiderstrui in eerste etappe Vuelta",
-          "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/wielrenner-pogacar-pakt-leiderstrui-in-eerste-etappe-vuelta",
-          "publishedDate": "Sat, 22 Aug 2026 12:52:00 GMT",
-          "description": "MONACO (ANP) - Tadej Pogačar heeft al in de eerste etappe van de Vuelta laten zien waarom hij de torenhoge favoriet voor de eindzege is. De laatste winnaar van ..."
-        },
-        {
-          "title": "Pogačar grijpt meteen rood in Vuelta: &quot;Ik denk dat die 9 honderdsten bij mijn appartement lagen&quot;",
-          "source": "WielerFlits on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/algemeen/poga%C4%8Dar-grijpt-meteen-rood-in-vuelta-ik-denk-dat-die-9-honderdsten-bij-mijn-appartement-lagen/ar-AA2aIlZ6",
-          "publishedDate": "Sat, 22 Aug 2026 12:00:22 GMT",
-          "description": "Tadej Pogačar heeft de Vuelta a Espa&#241;a op spectaculaire wijze geopend. De Sloveen won de openingstijdrit met amper negen honderdsten van een seconde verschil en mag als eerste de rode leiderstrui aant ..."
-        },
-        {
-          "title": "Favorieten Vuelta a Espa&#241;a 2026: kan iemand Tadej Pogačar van het rood houden?",
-          "source": "Bicycling Nederland on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/motorsport/favorieten-vuelta-a-espa%C3%B1a-2026-kan-iemand-tadej-poga%C4%8Dar-van-het-rood-houden/ar-AA2aHcCA",
-          "publishedDate": "Sat, 22 Aug 2026 01:00:00 GMT",
-          "description": "Zaterdag begint de 81e Vuelta a Espa&#241;a met een Grande Salida in Monaco. Drie weken later wacht de traditionele ontknoping in Granada, met 21 etappes, ruim 3.300 kilometer en bijna 50.000 hoogtemeters."
-        },
-        {
-          "title": "Wout van Aert gelooft in meer kansen door aanwezigheid Tadej Pogacar",
-          "source": "WielerFlits",
-          "url": "https://www.wielerflits.be/nieuws/wout-van-aert-gelooft-in-meer-kansen-door-aanwezigheid-tadej-pogacar/",
-          "publishedDate": "Thu, 20 Aug 2026 12:28:00 GMT",
-          "description": "Wout van Aert richt zich op de Vuelta 2026: tijdritkansen, etappezeges en de impact van Pogacar. Lees zijn motivatie en doelen voor deze ronde!"
-        }
-      ]
-    },
-    {
       "keyword": "b&amp;b vol liefde",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "Praat mee: B&amp;B vol liefde is meer B&amp;B vol ellende, wat een teleurstelling dit seizoen",
@@ -688,6 +384,310 @@
           "url": "https://www.ad.nl/utrecht/opnames-voor-b-b-vol-liefde-in-utrecht-zien-we-renske-lieske-en-rayisa-ook-terug-bij-reunie~a0a832b2/",
           "publishedDate": "Wed, 27 Aug 2025 00:47:00 GMT",
           "description": "Hoe vergaat het de kandidaten en singles die meedoen met B&amp;B vol liefde, nu het televisieprogramma al wekenlang draait en miljoenen Nederlanders meeleven in hun zoektocht naar de ware? Vandaag moet er ..."
+        }
+      ]
+    },
+    {
+      "keyword": "sigrid kaag",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Sigrid Kaag zong als studente in Egypte Franse chansons in een bar, vertelde ze in Zomergasten",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/han-lips/sigrid-kaag-zong-als-studente-in-egypte-franse-chansons-in-een-bar-vertelde-ze-in-zomergasten~b15126fd/",
+          "publishedDate": "Mon, 24 Aug 2026 00:33:00 GMT",
+          "description": "In de rubriek Han Lips schrijven verschillende redacteuren van Het Parool elke dag over wat hun opvalt op tv. Vandaag: Zomergasten, met Sigrid Kaag."
+        },
+        {
+          "title": "Sigrid Kaag kiest in Zomergasten voor ‘menselijkheid’, van geopolitiek en van haarzelf",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/08/24/verslag-zomergasten-kaag-door-tristan-a4935021",
+          "publishedDate": "Sun, 23 Aug 2026 20:37:00 GMT",
+          "description": "ZAP: Diplomaat, VN-gezant en voormalig vicepremier Sigrid Kaag was de vijfde Zomergast. Ze koos „menselijkheid” als rode lijn: van de geopolitiek, van haarzelf en als iets om naar te streven."
+        },
+        {
+          "title": "Sigrid Kaag toont zich in ‘Zomergasten’ een vrouw die streng is voor zichzelf, maar veel mededogen heeft met de ander",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/televisie/sigrid-kaag-toont-zich-in-zomergasten-een-vrouw-die-streng-is-voor-zichzelf-maar-veel-mededogen-heeft-met-de-ander~b7bb4eee/",
+          "publishedDate": "Sun, 23 Aug 2026 20:10:00 GMT",
+          "description": "In de voorlaatste Zomergasten gaf Sigrid Kaag drie uur lang een boeiend inkijkje in haar studententijd, indrukwekkende (geo)politieke loopbaan en specialisatie in ‘foute types’. Met als bonus zowaar o ..."
+        },
+        {
+          "title": "Kaag zegt dat VS haar wilde als secretaris-generaal van de VN: ‘Maar Nederland liet het op zijn beloop’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/kaag-zegt-dat-vs-haar-wilde-als-secretaris-generaal-van-de-vn-maar-nederland-liet-het-op-zijn-beloop~a92cd84e/",
+          "publishedDate": "Sun, 23 Aug 2026 08:01:00 GMT",
+          "description": "Sigrid Kaag heeft in Zomergasten gezegd dat de Verenigde Staten Nederland tien jaar geleden hebben gevraagd of Kaag zich beschikbaar wilde stellen als mogelijke nieuwe secretaris-generaal van de Veren ..."
+        },
+        {
+          "title": "Jaren had ze in het Midden-Oosten gewoond, maar in ‘Zomergasten’ vertelde Sigrid Kaag hoe ze uitgerekend in Nederland beveiliging nodig had gehad",
+          "source": "Humo",
+          "url": "https://www.humo.be/tv/jaren-had-ze-in-het-midden-oosten-gewoond-maar-in-zomergasten-vertelde-sigrid-kaag-hoe-ze-uitgerekend-in-nederland-beveiliging-nodig-had-gehad~b0d5b809/",
+          "publishedDate": "Mon, 24 Aug 2026 06:52:00 GMT",
+          "description": "HUMO’s tv-recensent Tom Raes keek naar de voorlaatste aflevering van ‘Zomergasten’ met politica Sigrid Kaag. ‘Ooit had deze ‘Zomergasten’ misschien nog stof doen opwaaien, maar ik vrees dat de tijden ..."
+        },
+        {
+          "title": "Sigrid Kaag was naar eigen zeggen in beeld voor topbaan bij VN: &quot;Ik leef niet voor functies&quot;",
+          "source": "De Dagelijkse Standaard",
+          "url": "https://www.dagelijksestandaard.nl/buitenland/sigrid-kaag-was-naar-eigen-zeggen-in-beeld-voor-topbaan-bij-vn-ik-leef-niet-voor-functies",
+          "publishedDate": "Mon, 24 Aug 2026 06:30:00 GMT",
+          "description": "Sigrid Kaag had zomaar secretaris-generaal van de Verenigde Naties kunnen worden. Althans, dat blijkt uit haar verhaal in VPRO’s Zomergasten."
+        },
+        {
+          "title": "Sigrid Kaag zegt dat VS haar voorstelden als secretaris-generaal Verenigde Naties",
+          "source": "vandaaginside",
+          "url": "https://www.vandaaginside.nl/politiek/nederlandse-politiek/artikelen/sigrid-kaag-zegt-dat-vs-haar-voorstelden-als-secretaris-generaal-verenigde",
+          "publishedDate": "Sun, 23 Aug 2026 23:48:00 GMT",
+          "description": "Sigrid Kaag heeft in Zomergasten gezegd dat de Verenigde Staten Nederland tien jaar geleden hebben gevraagd of Kaag zich beschikbaar wilde stellen als mogelijke nieuwe secretaris-generaal van de Veren ..."
+        },
+        {
+          "title": "Sigrid Kaag: &quot;VS vroegen mij als secretaris-generaal van de VN&quot;",
+          "source": "FOK!",
+          "url": "https://frontpage.fok.nl/nieuws/893512/1/1/50/sigrid-kaag-vs-vroegen-mij-als-secretaris-generaal-van-de-vn.html",
+          "publishedDate": "Sun, 23 Aug 2026 16:02:00 GMT",
+          "description": "De Verenigde Staten hebben Sigrid Kaag tien jaar geleden gevraagd zich beschikbaar te stellen als mogelijke nieuwe secretaris-generaal van de Verenigde Naties. Dat zegt de voormalig D66-leider zondag ..."
+        },
+        {
+          "title": "Sigrid Kaag zondag te gast in 'Zomergasten'",
+          "source": "tvvisie",
+          "url": "https://tvvisie.nl/inhoud/nederland/22augustus2026/sigrid-kaag-zondag-te-gast-in-zomergasten_141955/",
+          "publishedDate": "Fri, 21 Aug 2026 17:00:00 GMT",
+          "description": "Internationaal onderhandelaar en oud-politicus Sigrid Kaag (Rijswijk, 1961) is op zondag 23 augustus de vijfde gast in 'VPRO Zomergasten'."
+        },
+        {
+          "title": "Kaag stopt als minister en gaat hulp en wederopbouw Gaza co&#246;rdineren voor VN",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/politiek/kaag-stopt-als-minister-en-gaat-hulp-en-wederopbouw-gaza-coordineren-voor-vn~a9936a73/",
+          "publishedDate": "Tue, 26 Dec 2023 03:13:00 GMT",
+          "description": "Sigrid Kaag stopt als demissionair minister van Financi&#235;n omdat ze voor de Verenigde Naties de wederopbouw van Gaza gaat co&#246;rdineren. D66-leider Rob Jetten neemt haar portefeuille formeel tijdelijk ..."
+        }
+      ]
+    },
+    {
+      "keyword": "sos gebaar",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Meisje (14) ontkomt aan mogelijke verkrachtingspoging dankzij oplettende agenten die SOS-gebaar opmerken",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/buitenland/meisje-14-ontkomt-aan-mogelijke-verkrachtingspoging-dankzij-oplettende-agenten-die-sos-gebaar-opmerken/160411877.html",
+          "publishedDate": "Mon, 24 Aug 2026 04:00:00 GMT",
+          "description": "Een meisje in Rome heeft weten te ontsnappen aan een mogelijke verkrachtingspoging. Dat deed zij door met haar hand het internationale SOS-gebaar voor hulp te maken op een moment dat twee politieagent ..."
+        },
+        {
+          "title": "Meisje (14) ontsnapt dankzij handgebaar aan mogelijke verkrachting in Rome",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6407321/meisje-14-ontsnapt-dankzij-handgebaar-aan-mogelijke-verkrachting-in-rome.html",
+          "publishedDate": "Mon, 24 Aug 2026 01:19:00 GMT",
+          "description": "Een veertienjarig meisje is donderdag in Rome aan een mogelijke verkrachtingspoging ontsnapt, meldt de Italiaanse nieuwssite RaiNews. Ze maakte vanuit een auto het internationale hulpgebaar. Twee poli ..."
+        },
+        {
+          "title": "Meisje (14) ontsnapt in Rome aan mogelijke verkrachtingspoging dankzij SOS-gebaar",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628076-meisje-14-ontsnapt-in-rome-aan-mogelijke-verkrachtingspoging-dankzij-sos-gebaar",
+          "publishedDate": "Sun, 23 Aug 2026 16:39:00 GMT",
+          "description": "Agenten die langsreden herkenden het internationale hulpgebaar van het meisje en schoten te hulp. Een 47-jarige Roemeen is aangehouden."
+        },
+        {
+          "title": "Meisje (14) gered door agenten na SOS-gebaar",
+          "source": "Mamaplaats on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/meisje-14-gered-door-agenten-na-sos-gebaar/ar-AA2aPmPW",
+          "publishedDate": "Mon, 24 Aug 2026 06:37:00 GMT",
+          "description": "Meisje (14) gered door agenten na SOS-gebaar Soms zijn woorden niet nodig om duidelijk te maken dat ..."
+        },
+        {
+          "title": "SOS-handgebaar kan levens redden: kennen we het in Nederland?",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/fragmenten/eenvandaag/01a033ba-9127-73f0-bcbe-772d6d32a818/2026-08-24-sos-handgebaar-kan-levens-redden-kennen-we-het-in-nederland",
+          "publishedDate": "Mon, 24 Aug 2026 05:00:00 GMT",
+          "description": "Ontsnappen aan een mogelijke verkrachting met een eenvoudig handgebaar. Een 14-jarig meisje in Rome wist in een noodsituatie met het SOS-gebaar de politie te waarschuwen. Vorig jaar gebruikte ook een ..."
+        },
+        {
+          "title": "Door dit gebaar te maken, ontsnapte Italiaans meisje aan ontvoering: welk gebaar gebruiken we in Nederland?",
+          "source": "Panorama",
+          "url": "https://panorama.nl/artikel/694007/door-dit-gebaar-te-maken-ontsnapte-italiaans-meisje-aan-ontvoering-welk-gebaar-gebruiken-we-in-nederland",
+          "publishedDate": "Mon, 24 Aug 2026 01:53:00 GMT",
+          "description": "Het teken dat het 14-jarige slachtoffer maakte om duidelijk te maken dat ze in gevaar verkeerde, was het internationale SOS-gebaar. Deze maak je door je hand op te steken, je open handpalm te tonen, ..."
+        },
+        {
+          "title": "Meisje kennelijk gered door SOS-handgebaar, maar expert waarschuwt: „Het is geen wondermiddel”",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1160263-meisje-kennelijk-gered-door-sos-handgebaar-maar-expert-waarschuwt-het-is-geen-wondermiddel",
+          "publishedDate": "Sun, 23 Aug 2026 18:46:00 GMT",
+          "description": "Het SOS-handgebaar is een „sympathiek” middel , reageert Frank Hoen, voorman van die organisatie, maandag desgevraagd."
+        },
+        {
+          "title": "Moet iedereen het handgebaar voor noodsituaties kennen? ‘Hang niet de held uit’",
+          "source": "Nederlands Dagblad",
+          "url": "https://www.nd.nl/nieuws/nederland/1301088/moet-iedereen-het-handgebaar-voor-noodsituaties-kennen-hang-n",
+          "publishedDate": "Fri, 09 Jan 2026 03:24:00 GMT",
+          "description": "Met een SOS-handgebaar stil om hulp vragen. Op sociale media gaan volop verhalen rond dat hierdoor mensenlevens gered zijn in noodsituaties. Is het handig als iedereen dit gebaar kent? Niet per se, ..."
+        },
+        {
+          "title": "6-Jarig Oostenrijks meisje voorkomt ontvoering door met SOS-gebaar politie te waarschuwen",
+          "source": "waarmaarraar.nl",
+          "url": "https://www.waarmaarraar.nl/pages/re/129961/6-Jarig_Oostenrijks_meisje_voorkomt_ontvoering_door_met_SOS-gebaar_politie_te_waarschuwen.html",
+          "publishedDate": "Wed, 03 Dec 2025 13:39:00 GMT",
+          "description": "De Oostenrijkse politie heeft op een bijzondere manier een ontvoering weten te voorkomen. Agenten hielden de bestuurder van een auto staande bij een verkeersongeluk. Op de achterbank troffen zij een ..."
+        },
+        {
+          "title": "Zesjarig meisje toont SOS-gebaar en kan zo met haar moeder ontsnappen aan ontvoerder",
+          "source": "Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/zesjarig-meisje-toont-sos-gebaar-en-kan-zo-met-haar-moeder-ontsnappen-aan-ontvoerder/109871316.html",
+          "publishedDate": "Wed, 03 Dec 2025 07:00:00 GMT",
+          "description": "Zesjarig meisje toont SOS-gebaar en kan zo met haar moeder ontsnappen aan ontvoerder De politie heeft een ontvoering in het Oostenrijkse Wenen kunnen verijdelen met dank aan een bijzonder moedig ..."
+        }
+      ]
+    },
+    {
+      "keyword": "tadej pogačar",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "De loodzware Vuelta, zonder topsprinters, biedt volop kansen voor Wout van Aert",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/sport/de-loodzware-vuelta-zonder-topsprinters-biedt-volop-kansen-voor-wout-van-aert~be4aba2d7/",
+          "publishedDate": "Fri, 21 Aug 2026 20:00:00 GMT",
+          "description": "Waar Tadej Pogačar dit jaar zijn enige nog ontbrekende grote rondewinst wil boeken, zal Wout van Aert in de Vuelta van 2026 vooral op zoek gaan naar ritzeges. De Belg van Visma-Lease a Bike, die de To ..."
+        },
+        {
+          "title": "Pogačar voelt zich schuldig tegenover Van Aert",
+          "source": "Nieuws365",
+          "url": "https://www.nieuws365.be/sport/pogacar-voelt-zich-schuldig-tegenover-van-aert",
+          "publishedDate": "Mon, 24 Aug 2026 01:00:00 GMT",
+          "description": "Tadej Pogačar zorgde na de tweede etappe van de Vuelta voor een opvallend gebaar richting Wout van Aert. De Sloveen had in de slotfase gereageerd op een aanval van de Belg, maar besloot vervolgens nie ..."
+        },
+        {
+          "title": "Vuelta 2026: Tadej Pogacar ziet ‘mooie kans’ op ritzege, maar plaatst wel kanttekening",
+          "source": "WielerFlits",
+          "url": "https://www.wielerflits.nl/nieuws/vuelta-2026-tadej-pogacar-ziet-mooie-kans-op-ritzege-maar-plaatst-wel-kanttekening/",
+          "publishedDate": "Sun, 23 Aug 2026 18:17:00 GMT",
+          "description": "We zijn nog maar drie dagen ver in de Vuelta a Espa&#241;a 2026, maar de renners mogen zich nu al opmaken voor een eerste aankomst bergop. Tadej Pogacar zal het graag horen, en de Sloveen ziet ook mogelijk ..."
+        },
+        {
+          "title": "Wielerfenomeen Tadej Pogacar viert succes met geliefde: 'Zal deze dag niet vergeten'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/wielrennen/nieuws/wielerfenomeen-tadej-pogacar-viert-succes-met-geliefde-zal-deze-dag-niet-vergeten-2026082310391205527/",
+          "publishedDate": "Sun, 23 Aug 2026 05:59:00 GMT",
+          "description": "Tadej Pogacar vierde zaterdag zijn overwinning na de openingsrit van de Vuelta a Espa&#241;a met zijn geliefde en wielrenster Urska Zigart. Op Instagram deelt hij een liefdevolle foto van hen samen en ..."
+        },
+        {
+          "title": "Monaco blikt terug op start Vuelta in prinsdom met rol Albert",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/koningshuis/monaco-blikt-terug-op-start-vuelta-in-prinsdom-met-rol-albert",
+          "publishedDate": "Sun, 23 Aug 2026 04:32:00 GMT",
+          "description": "Het prinsdom van Monaco blikt zondag terug op de start van de Ronde van Spanje, die zaterdag vanuit het casino in Monte Carlo begon. Op Instagram deelt het paleis diverse foto's van de festiviteiten r ..."
+        },
+        {
+          "title": "In navolging van Roglic en Vingegaard: Tadej Pogacar draagt leiderstrui in Giro, Tour &#233;n Vuelta",
+          "source": "WielerFlits on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/in-navolging-van-roglic-en-vingegaard-tadej-pogacar-draagt-leiderstrui-in-giro-tour-%C3%A9n-vuelta/ar-AA2aKc2C",
+          "publishedDate": "Sun, 23 Aug 2026 02:27:19 GMT",
+          "description": "Tadej Pogačar heeft zondag voor een unicum gezorgd in zijn carri&#232;re. De Sloveense wereldkampioen nam voor het eerst in zijn carri&#232;re de leiderstrui van de Vuelta a Espa&#241;a in ontvangst. Daarmee is Poga ..."
+        },
+        {
+          "title": "Tadej Pogacar haalde vlak voor podium al zijn regenbogen weg: “Ik moet van shirt wisselen”",
+          "source": "WielerFlits",
+          "url": "https://www.wielerflits.be/nieuws/tadej-pogacar-haalde-vlak-voor-podium-al-zijn-regenbogen-weg-ik-moet-van-shirt-wisselen/",
+          "publishedDate": "Sun, 23 Aug 2026 02:17:00 GMT",
+          "description": "Na zijn ritzege op de Vuelta verwijderde Pogačar zijn regenbooguitingen snel. Ontdek waarom hij moest wisselen van shirt tijdens het podiummoment."
+        },
+        {
+          "title": "Wielrenner Pogačar pakt leiderstrui in eerste etappe Vuelta",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/wielrenner-pogacar-pakt-leiderstrui-in-eerste-etappe-vuelta",
+          "publishedDate": "Sat, 22 Aug 2026 12:52:00 GMT",
+          "description": "MONACO (ANP) - Tadej Pogačar heeft al in de eerste etappe van de Vuelta laten zien waarom hij de torenhoge favoriet voor de eindzege is. De laatste winnaar van ..."
+        },
+        {
+          "title": "Pogačar grijpt meteen rood in Vuelta: &quot;Ik denk dat die 9 honderdsten bij mijn appartement lagen&quot;",
+          "source": "WielerFlits on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/poga%C4%8Dar-grijpt-meteen-rood-in-vuelta-ik-denk-dat-die-9-honderdsten-bij-mijn-appartement-lagen/ar-AA2aIlZ6",
+          "publishedDate": "Sat, 22 Aug 2026 12:00:22 GMT",
+          "description": "Tadej Pogačar heeft de Vuelta a Espa&#241;a op spectaculaire wijze geopend. De Sloveen won de openingstijdrit met amper negen honderdsten van een seconde verschil en mag als eerste de rode leiderstrui aant ..."
+        },
+        {
+          "title": "Wout van Aert gelooft in meer kansen door aanwezigheid Tadej Pogacar",
+          "source": "WielerFlits",
+          "url": "https://www.wielerflits.be/nieuws/wout-van-aert-gelooft-in-meer-kansen-door-aanwezigheid-tadej-pogacar/",
+          "publishedDate": "Thu, 20 Aug 2026 12:28:00 GMT",
+          "description": "Wout van Aert richt zich op de Vuelta 2026: tijdritkansen, etappezeges en de impact van Pogacar. Lees zijn motivatie en doelen voor deze ronde!"
+        }
+      ]
+    },
+    {
+      "keyword": "box 3",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Stelling: Aanpassen box 3 noodzakelijk om investeerders woningbouwmarkt terug te lokken",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/wat-u-zegt/stelling-aanpassen-box-3-noodzakelijk-om-investeerders-woningbouwmarkt-terug-te-lokken/160156781.html",
+          "publishedDate": "Tue, 18 Aug 2026 03:00:00 GMT",
+          "description": "Per jaar moeten er 100.000 woningen gebouwd worden, maar zonder fiscale aanpassingen, waaronder in box 3, gaat dat niet lukken. Dat schrijft een monsterverbond van woningcorporaties, provincies, gemee ..."
+        },
+        {
+          "title": "Belastingplichtige mag verdeling box 3-grondslag wijzigen na massaal bezwaar",
+          "source": "Taxence",
+          "url": "https://www.taxence.nl/nieuws/belastingplichtige-mag-verdeling-box-3-grondslag-wijzigen-na-massaal-bezwaar/",
+          "publishedDate": "Sun, 23 Aug 2026 16:30:00 GMT",
+          "description": "Rechtbank Den Haag oordeelt dat de inspecteur het box 3-vermogen van de man terecht heeft gecorrigeerd wegens duurzaam overtollige liquiditeiten in zijn eenmanszaak. Slechts €165.000 van de bank- en ..."
+        },
+        {
+          "title": "Box 3 en vastgoed: dit moet je weten",
+          "source": "Fiscalert",
+          "url": "https://fiscalert.nl/belastingen/artikelen/box-3-en-vastgoed-dit-moet-je-weten/",
+          "publishedDate": "Wed, 19 Aug 2026 04:51:00 GMT",
+          "description": "Ander vastgoed dat je priv&#233; bezit, valt daar in principe w&#233;l onder. Denk aan een vakantiewoning, verhuurde woning of ander onroerend goed. Als hoofdregel betaal je in box 3 belasting over een ..."
+        },
+        {
+          "title": "Correctie box 3-vermogen vanwege half miljoen werkkapitaal bij omzet van nog geen € 8.000",
+          "source": "Accountancy Vanmorgen",
+          "url": "https://www.accountancyvanmorgen.nl/2026/08/12/correctie-box-3-vermogen-vanwege-half-miljoen-werkkapitaal-bij-omzet-van-nog-geen-e-8-000/",
+          "publishedDate": "Wed, 12 Aug 2026 04:30:00 GMT",
+          "description": "Een man met een bescheiden eenmanszaak heeft niet aannemelijk kunnen maken dat hij tonnen werkkapitaal nodig had. Overtollige liquiditeiten, oordeelt de rechtbank."
+        },
+        {
+          "title": "Nadelig uitpakken box 3-verdeling voor toeslagen redt bezwaartermijn niet",
+          "source": "Taxence",
+          "url": "https://www.taxence.nl/nieuws/nadelig-uitpakken-box-3-verdeling-voor-toeslagen-redt-bezwaartermijn-niet/",
+          "publishedDate": "Sun, 09 Aug 2026 23:18:00 GMT",
+          "description": "Rechtbank Gelderland oordeelt dat de termijnoverschrijding bij het bezwaar tegen de aanslagen IB/PVV 2023 niet verschoonbaar is. Ambtshalve vermindering is ook niet mogelijk, omdat de aanslagen al ..."
+        },
+        {
+          "title": "Box 3: techsector sputtert tegen nieuwe vermogenstaks. Terecht?",
+          "source": "ewmagazine",
+          "url": "https://www.ewmagazine.nl/economie/achtergrond/2026/06/box-3-techsector-sputtert-tegen-nieuwe-vermogenstaks-terecht-1575047/",
+          "publishedDate": "Tue, 16 Jun 2026 05:55:00 GMT",
+          "description": "De Eerste Kamer stemt over het nieuwe, unieke box-3-stelsel, de belasting op sparen en beleggen. De techsector vreest een te ingewikkelde regeling. Want wat betekent ‘schaalbaar en herhaalbaar’? Stemt ..."
+        },
+        {
+          "title": "Box 3 vs Belgi&#235;: waar groeit uw vermogen sneller?",
+          "source": "debelegger",
+          "url": "https://www.debelegger.nl/post/box-3-vs-belgi%C3%AB-waar-groeit-uw-vermogen-sneller",
+          "publishedDate": "Sat, 14 Feb 2026 05:00:00 GMT",
+          "description": "Belgi&#235; belast dividenden tegen 30%, hanteert een meerwaardebelasting van 10% met een vrijstelling van 10.000 euro en rekent een beurstaks en effectentaks van 0,15%. Nederland kent geen beurstaks of ..."
+        },
+        {
+          "title": "Beleggen in Box 3 of via een BV? Dit is wat er &#233;cht op het spel staat",
+          "source": "debelegger",
+          "url": "https://www.debelegger.nl/post/beleggen-in-box-3-of-via-een-bv-dit-is-wat-er-%C3%A9cht-op-het-spel-staat",
+          "publishedDate": "Fri, 13 Feb 2026 02:57:00 GMT",
+          "description": "Beoordeeld met NaN uit 5 sterren. De discussie over beleggen in Box 3 of via een BV is de afgelopen jaren verschoven van discussie voor zeer vermogenden naar een concrete strategische keuze voor ..."
+        },
+        {
+          "title": "Nieuwe box 3-wet: Vandaag wordt er gestemd",
+          "source": "nieuws.btcdirect",
+          "url": "https://nieuws.btcdirect.eu/nieuwe-box-3-wet-vandaag-wordt-er-gestemd/",
+          "publishedDate": "Thu, 12 Feb 2026 02:26:00 GMT",
+          "description": "Na jaren van uitstel en discussie lijkt de hervorming van box 3 eindelijk een beslissende fase te bereiken. Vandaag, 12 februari, vindt in de Tweede Kamer een belangrijke stemming plaats over het ..."
+        },
+        {
+          "title": "Box 3: uitleg en tarieven voor 2025 en 2026",
+          "source": "ewmagazine",
+          "url": "https://www.ewmagazine.nl/economie/achtergrond/2026/01/box-3-sparen-en-beleggen-2025-2026-1530007/",
+          "publishedDate": "Sun, 01 Feb 2026 00:00:00 GMT",
+          "description": "Box 3 uitgelegd voor 2025 en 2026. (Foto ANP). In box 3 wordt belasting geheven over inkomen uit vermogen, zoals spaargeld, beleggingen en andere bezittingen. Hoeveel precies, hangt af van de hoogte ..."
         }
       ]
     }
