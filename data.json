@@ -1,112 +1,450 @@
 {
-  "fetchedAt": "2026-08-24T00:52:38.222Z",
+  "fetchedAt": "2026-08-24T02:19:26.344Z",
   "trends": [
     {
       "keyword": "cambuur - feyenoord",
       "trafficLabel": "100K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Feyenoord na vuurwerkstaking snel klaar met zwak Cambuur",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628043-feyenoord-na-vuurwerkstaking-snel-klaar-met-zwak-cambuur",
+          "publishedDate": "Sun, 23 Aug 2026 10:07:00 GMT",
+          "description": "De Rotterdammers maken al voor rust het verschil in Leeuwarden (0-4). Na rust neemt Feyenoord gas terug en doet Cambuur wat terug: 2-5."
+        },
+        {
+          "title": "Live Eredivisie | Feyenoord al voor rust op rozen na doelpuntenregen tegen SC Cambuur",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/eredivisie-voetbal/nieuws/live-eredivisie-feyenoord-begint-ongewijzigd-tegen-sc-cambuur-psv-walst-over-fc-groningen-heen-2026082307122739600/",
+          "publishedDate": "Sat, 22 Aug 2026 21:45:00 GMT",
+          "description": "In de Eredivisie worden er dit weekend wat minder duels gespeeld dan gebruikelijk en daardoor zijn er zondag maar drie wedstrijden. Topclubs PSV en Feyenoord komen wel in actie en kunnen zich na een m"
+        }
+      ]
     },
     {
       "keyword": "psv - groningen",
       "trafficLabel": "100K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "PSV neemt afstand van FC Groningen (5-1) • Straks nog Cambuur - Feyenoord",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2627970-psv-neemt-afstand-van-fc-groningen-5-1-straks-nog-cambuur-feyenoord",
+          "publishedDate": "Sun, 23 Aug 2026 02:43:00 GMT",
+          "description": "In dit eredivisieblog aandacht voor drie wedstrijden: Go Ahead Eagles - ADO Den Haag, PSV - FC Groningen en SC Cambuur - Feyenoord."
+        },
+        {
+          "title": "Trieste aftocht voor FC Groningen-verdediger tegen PSV na keiharde botsing",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/eredivisie-voetbal/nieuws/trieste-aftocht-voor-fc-groningen-verdediger-tegen-psv-na-keiharde-botsing-2026082313504182448/",
+          "publishedDate": "Sun, 23 Aug 2026 08:50:00 GMT",
+          "description": "FC Groningen kende &#252;berhaupt een z&#233;&#233;r vervelende middag tegen PSV, maar voor Marco Rente werd het al helemaal een trieste dag. De verdediger werd in de rust in de ploeg gebracht, maar moest na slechts"
+        }
+      ]
     },
     {
       "keyword": "elche - barcelona",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Titelhouder Barcelona beleeft vliegende start met ruime zege bij Elche",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628070-titelhouder-barcelona-beleeft-vliegende-start-met-ruime-zege-bij-elche",
+          "publishedDate": "Sun, 23 Aug 2026 14:27:00 GMT",
+          "description": "Barcelona, nog zonder aankoop en WK-ster Rodri, heeft vooral na rust weinig te duchten van Elche en begint de Spaanse competitie met een 5-0 uitzege."
+        },
+        {
+          "title": "FC Barcelona scoort vijf keer in uitduel met Elche",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/fc-barcelona-scoort-vijf-keer-in-uitduel-met-elche",
+          "publishedDate": "Sun, 23 Aug 2026 16:54:00 GMT",
+          "description": "ELCHE (ANP) - FC Barcelona is de jacht op een derde landstitel op rij goed begonnen. De club scoorde vijf keer in de uitwedstrijd tegen Elche (0-5). Raphinha benutte in de veertiende minuut een strafs ..."
+        },
+        {
+          "title": "FC Barcelona opent LaLiga met 0-5 in Elche, maar Gavi valt geblesseerd uit",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/fc-barcelona-opent-laliga-met-zege-in-elche-gavi-geblesseerd/",
+          "publishedDate": "Sun, 23 Aug 2026 16:41:00 GMT",
+          "description": "Raphinha, Adeyemi, Gordon en Fermin Lopez droegen bij aan een ruime Bar&#231;a-zege, terwijl Gavi voor rust uitviel."
+        },
+        {
+          "title": "FC Barcelona begint seizoen met vijfklapper; Adeyemi en Gordon direct belangrijk",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/fc-barcelona-begint-seizoen-met-vijfklapper-adeyemi-en-gordon-direct-belangrijk/ar-AA2aLpMi",
+          "publishedDate": "Sun, 23 Aug 2026 16:29:00 GMT",
+          "description": "FC Barcelona heeft zondag overtuigend afgerekend met Elche. De Catalanen wonnen hun eerste LaLiga-wedstrijd van het seizoen met afgetekende cijfers: 0-5. Raphinha was goed voor twee goals en een assis ..."
+        },
+        {
+          "title": "Bar&#231;a heeft De Jong niet nodig voor doelpuntrijk debutantenfeestje tegen Elche",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/barca-heeft-de-jong-niet-nodig-voor-doelpuntrijk-debutantenfeestje-tegen-elche",
+          "publishedDate": "Sun, 23 Aug 2026 14:27:00 GMT",
+          "description": "Landskampioen Barcelona heeft zondagavond geen fout gemaakt bij zijn start van het nieuwe seizoen in Spanje. Elche werd op een ruime nederlaag getrakteerd. Het werd een debutantenfeestje, afgesloten m ..."
+        },
+        {
+          "title": "Praat mee op VP: Elche – FC Barcelona",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-elche-fc-barcelona/ar-AA2aLVSe",
+          "publishedDate": "Sun, 23 Aug 2026 13:34:07 GMT",
+          "description": "FC Barcelona begint zondagavond aan het nieuwe La Liga-seizoen. De regerend landskampioen gaat op bezoek bij Elche. De wedstrijd begint om 21.30 uur, volg de wedstrijd hieronder in de live-omgeving va ..."
+        },
+        {
+          "title": "FC Barcelona laat Jesse Bisiwu buiten selectie voor competitiestart in Elche",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/fc-barcelona-jesse-bisiwu-selectie-elche/",
+          "publishedDate": "Sun, 23 Aug 2026 04:32:00 GMT",
+          "description": "FC Barcelona opent zondagavond met enige vertraging zijn seizoen in La Liga. De titelverdediger begint aan de competitie met een verplaatsing naar Elche, maar zonder Bisiwu in de wedstrijdselectie."
+        },
+        {
+          "title": "Op welke zender kijk je Elche CF – Barcelona live?",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-elche-cf-barcelona/",
+          "publishedDate": "Sun, 23 Aug 2026 03:30:00 GMT",
+          "description": "FC Barcelona begint LaLiga met een uitwedstrijd tegen Elche CF. In de SN TV-gids zie je op welke zender dit duel te zien is."
+        },
+        {
+          "title": "Hansi Flick en Barcelona nemen het in de laatste test op tegen Elche.",
+          "source": "Notizie.it",
+          "url": "https://www.notizie.it/nl/Hansi-Flick-en-Barcelona-staan-%E2%80%8B%E2%80%8Bvoor-een-zware-test-tegen-Lelche./",
+          "publishedDate": "Sat, 22 Aug 2026 11:25:00 GMT",
+          "description": "Het Barcelona van Hansi Flick trapt het seizoen 2026/27 af met een wedstrijd tegen Elche. Laten we, met de nieuwe aanwinsten en de afwezigheden in het team, de strategie&#235;n van de Catalaanse club eens ..."
+        },
+        {
+          "title": "FC Barcelona in openingsduel met Elche nog zonder Rodri",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/fc-barcelona-in-openingsduel-met-elche-nog-zonder-rodri",
+          "publishedDate": "Sat, 22 Aug 2026 06:29:00 GMT",
+          "description": "BARCELONA (ANP) - FC Barcelona moet het zondag in de eerste competitiewedstrijd van het nieuwe seizoen nog doen zonder Rodri. De van Manchester City overgekomen middenvelder zit nog niet bij de select ..."
+        }
+      ]
     },
     {
       "keyword": "newcastle - liverpool",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Liverpool laat gelijk in Newcastle in duel met scorende Gakpo en debuterende Steur",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628060-liverpool-laat-gelijk-in-newcastle-in-duel-met-scorende-gakpo-en-debuterende-steur",
+          "publishedDate": "Sun, 23 Aug 2026 11:27:00 GMT",
+          "description": "De wedstrijd op St. James' Park eindigt in 2-2. Dominik Szoboszlai maakt in de 99ste minuut vanaf de strafschopstip gelijk."
+        },
+        {
+          "title": "Live PL | Liverpool opnieuw op achterstand bij Newcastle, bekijk de tussenstand",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6407277/live-pl-liverpool-opnieuw-op-achterstand-bij-newcastle-bekijk-de-tussenstand.html",
+          "publishedDate": "Sun, 23 Aug 2026 08:30:00 GMT",
+          "description": "Liverpool trapt het Premier League-seizoen af met een uitwedstrijd bij Newcastle United. Met Virgil van Dijk, Ryan Gravenberch, Jeremie Frimpong, Cody Gakpo (Liverpool), Sean Steur en Sven Botman (New ..."
+        },
+        {
+          "title": "Spektakel in Newcastle met zes Nederlanders op het veld: Szoboszlai redt in 99ste minuut punt voor Liverpool",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/spektakel-in-newcastle-met-zes-nederlanders-op-het-veld-szoboszlai-redt-in-99ste-minuut-punt-voor-liverpool~a4852b2b/",
+          "publishedDate": "Sun, 23 Aug 2026 04:16:00 GMT",
+          "description": "Liverpool is het nieuwe seizoen in de Premier League begonnen met een 2-2 gelijkspel bij Newcastle United. Bij het debuut van Andoni Iraola (de opvolger van Arne Slot) leek Liverpool te gaan verliezen ..."
+        },
+        {
+          "title": "Liverpool redt in minuut 99 een punt in eerste duel in tijdperk post-Slot, Gakpo scoort",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/liverpool-redt-in-minuut-99-een-punt-in-eerste-duel-in-tijdperk-post-slot-gakpo-scoort/blt07a596e3c0b71d3a",
+          "publishedDate": "Sun, 23 Aug 2026 12:30:00 GMT",
+          "description": "Liverpool heeft zondag op de valreep een punt overgehouden aan het uitduel met Newcastle United. De ploeg van Andoni Iraola keek op St. James' Park lange tijd tegen een nederlaag aan, maar Dominik Szo ..."
+        },
+        {
+          "title": "Britse media pakken &#233;&#233;n Nederlander hard aan na Newcastle United - Liverpool",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/britse-media-pakken-%C3%A9%C3%A9n-nederlander-hard-aan-na-newcastle-united-liverpool/ar-AA2aLBRy",
+          "publishedDate": "Sun, 23 Aug 2026 11:20:30 GMT",
+          "description": "Jeremie Frimpong heeft zondag geen goede beurt gemaakt in de Engelse media. De Nederlander kende een moeizame middag tijdens het spectaculaire gelijkspel tussen Newcastle United en Liverpool (2-2). Th ..."
+        },
+        {
+          "title": "Met een penalty in de 96e minuut! Liverpool graait in extremis nog een puntje mee uit Newcastle",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/matches/voetbal/buitenland/eng/premier-league/2026-2027/regulier/01/newcastle-united-liverpool-met-een-penalty-in-de-96e-minuut-liverpool-graait-in-extremis-nog-een-puntje-mee-uit-newcastle~1784281210476/",
+          "publishedDate": "Sun, 23 Aug 2026 10:32:00 GMT",
+          "description": "En daar zullen ze nog spijt van krijgen, want in het ultieme slot krijgt Liverpool nog een penalty toegewezen na een overtreding van Hall. Szoboszlai zette zich achter de bal en bezorgt Liverpool zo ..."
+        },
+        {
+          "title": "Persona non grata bij Newcastle - Liverpool: &#233;lk balcontact keihard uitgefloten",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/persona-non-grata-bij-newcastle-liverpool-%C3%A9lk-balcontact-keihard-uitgefloten/ar-AA2aLXPQ",
+          "publishedDate": "Sun, 23 Aug 2026 09:38:00 GMT",
+          "description": "Alexander Isak weet zondagmiddag vanaf de eerste seconden precies waar hij aan toe is. De spits van Liverpool keert weer terug op St. James' Park en wordt werkelijk bij ieder balcontact getrakteerd op ..."
+        },
+        {
+          "title": "Praat mee op VP: Newcastle United – Liverpool met veel Nederlandse inbreng",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-newcastle-united-liverpool-met-veel-nederlandse-inbreng/ar-AA2aLjhX",
+          "publishedDate": "Sun, 23 Aug 2026 08:37:51 GMT",
+          "description": "Liverpool en Newcastle United kruisen de degens in de Premier League. De wedstrijd begint zondagmiddag om 17.30 uur. Volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+        },
+        {
+          "title": "Vermoedelijke opstellingen Newcastle en Liverpool: Nederlanders krijgen de kans",
+          "source": "VoetbalNieuws.nl",
+          "url": "https://www.voetbalnieuws.nl/nieuws/2126414/vermoedelijke-opstellingen-newcastle-en-liverpool-nederlanders-krijgen-de-kans.html",
+          "publishedDate": "Sun, 23 Aug 2026 04:00:00 GMT",
+          "description": "Newcastle United en Liverpool openen het seizoen op St James' Park. Van Dijk, Frimpong, Gravenberch en Gakpo lijken bij Liverpool te starten."
+        },
+        {
+          "title": "Op welke zender kijk je Newcastle United – Liverpool?",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-newcastle-united-liverpool/",
+          "publishedDate": "Sat, 22 Aug 2026 04:45:00 GMT",
+          "description": "In de Premier League spelen Newcastle United en Liverpool tegen elkaar. In de SN TV-gids zie je op welke zender dit duel te zien is."
+        }
+      ]
     },
     {
       "keyword": "grand prix van nederland",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Norris volgde GP op tv's langs de baan: 'Mooie race om Zandvoort af te sluiten'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/formule-1/6407296/norris-volgde-gp-op-tvs-langs-de-baan-mooie-race-om-zandvoort-af-te-sluiten.html",
-          "publishedDate": "Sun, 23 Aug 2026 13:49:00 GMT",
-          "description": "Lando Norris dankt zijn overwinning in de Grand Prix van Nederland vooral aan het werk &quot;buiten de baan&quot;. De regerend wereldkampioen genoot van de race en keek zelfs mee via de schermen langs de baan."
-        },
-        {
-          "title": "Norris wint laatste Dutch Grand Prix in Zandvoort, Verstappen crasht hard in openingsronde",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/sport/drama-in-laatste-grand-prix-van-nederland-verstappen-crasht-in-eerste-ronde~bd51e7ca/",
-          "publishedDate": "Sun, 23 Aug 2026 10:19:00 GMT",
-          "description": "Max Verstappen is gecrasht in de laatste Dutch Grand Prix van Zandvoort. De viervoudig wereldkampioen raakte aan het einde van de eerste ronde de controle kwijt over zijn Red Bull en reed de auto vol ..."
-        },
-        {
-          "title": "Norris: 'Mooi om laatste race in Zandvoort te winnen' • Verstappen vroeg klaar na crash",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2627960-norris-mooi-om-laatste-race-in-zandvoort-te-winnen-verstappen-vroeg-klaar-na-crash",
-          "publishedDate": "Sun, 23 Aug 2026 09:31:00 GMT",
-          "description": "In dit liveblog volgen we alle actie op en naast de baan tijdens de laatste Grand Prix van Nederland in Zandvoort."
-        },
-        {
-          "title": "Spectaculaire beelden: luchtmacht voert flyby uit bij laatste Grand Prix van Nederland",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/video/spectaculaire-beelden-luchtmacht-voert-flyby-uit-bij-laatste-grand-prix-van-nederland/160395217.html",
-          "publishedDate": "Sun, 23 Aug 2026 06:03:00 GMT",
-          "description": "De Koninklijke Luchtmacht heeft zondag voorafgaand aan de laatste Grand Prix van Nederland een flyby uitgevoerd boven en rondom het circuit. Daarbij werden onder andere een Chinook en F-35’s ingezet."
-        },
-        {
           "title": "Formule 1-podcast | ‘Dit was de laatste grand prix van Max Verstappen op Nederlandse bodem’",
           "source": "Algemeen Dagblad",
           "url": "https://www.ad.nl/formule-1/formule-1-podcast-dit-was-de-laatste-grand-prix-van-max-verstappen-op-nederlandse-bodem~a222de3b/",
           "publishedDate": "Sun, 23 Aug 2026 05:44:00 GMT",
-          "description": "Zandvoort ging eruit met een knal. Voor Max Verstappen dan. De Nederlander crashte in de eerste ronde op Zandvoort en daarmee kreeg de Dutch Grand Prix niet het gedroomde afscheid. Na zes jaar verdwij ..."
+          "description": "Zandvoort ging eruit met een knal. Voor Max Verstappen dan. De Nederlander crashte in de eerste ronde op Zandvoort en daarmee kreeg de Dutch Grand Prix niet het gedroomde afscheid. Na zes jaar verdwij"
         },
         {
-          "title": "Laatste Dutch Grand Prix gewonnen door Lando Norris",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/sport/formule-1/artikelen/formule-1-laatste-dutch-grand-prix-gewonnen-door-lando-norris",
-          "publishedDate": "Sun, 23 Aug 2026 08:27:00 GMT",
-          "description": "Lando Norris wint de laatste Dutch Grand Prix na een vroege crash van Max Verstappen. McLaren viert feest terwijl Verstappen zich verontschuldigt."
-        },
-        {
-          "title": "F1 Live 15:00u | Grand Prix van Nederland 2026",
-          "source": "F1 Maximaal",
-          "url": "https://www.f1maximaal.nl/formule-1/f1-live-1500u-grand-prix-van-nederland-2026",
-          "publishedDate": "Sun, 23 Aug 2026 07:00:00 GMT",
-          "description": "Het is tijd voor de allerlaatste Grand Prix van Nederland op Circuit Zandvoort. Om 15:00 uur gaan de lichten uit voor de race over 72 ronden, waarbij Lando Norris vanaf poleposition vertrekt. Voor Max ..."
-        },
-        {
-          "title": "Balen: Verstappen crasht en ligt uit laatste Dutch Grand Prix",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/sport/formule-1/max-verstappen/artikelen/verstappen-crasht-laatste-dutch-grand-prix-formule-1",
-          "publishedDate": "Sun, 23 Aug 2026 06:19:00 GMT",
-          "description": "Max Verstappen crasht in de eerste ronde van de Dutch Grand Prix in Zandvoort. De race wordt stilgelegd na zijn uitval. Lees hier de details van deze teleurstellende gebeurtenis."
+          "title": "F1 GP van Nederland: Kimi Antonelli snelste in enige training op Zandvoort, Red Bull worstelt",
+          "source": "Motorsport.com",
+          "url": "https://nl.motorsport.com/f1/news/f1-gp-van-nederland-kimi-antonelli-snelste-in-enige-training-op-zandvoort-red-bull-worstelt/10847880/",
+          "publishedDate": "Fri, 21 Aug 2026 04:50:00 GMT",
+          "description": "President Donald Trump zwaait groene vlag en rijdt ereronde voor IndyCar-race in D.C. Kimi Antonelli was de snelste in de training voor de Dutch Grand Prix, terwijl de kampioenschapsleider verderging"
         }
       ]
     },
     {
       "keyword": "george russell",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "George Russell komt met verrassend bericht na zeer controversieel moment in Zandvoort",
+          "source": "GP33",
+          "url": "https://gp33.nl/f1-nieuws/george-russell-komt-met-verrassend-bericht-na-zeer-controversieel-moment-in-zandvoort",
+          "publishedDate": "Sun, 23 Aug 2026 14:31:00 GMT",
+          "description": "George Russell eindigde als derde tijdens de GP van Nederland. Achteraf sprak de coureur onder andere over een zeer controversieel moment met teamgenoot Kimi Antonelli. Russell begon de Grand Prix van ..."
+        },
+        {
+          "title": "WK tussenstand na GP Nederland 2026, Russell terug naar P2",
+          "source": "Formule1nieuws.nl",
+          "url": "https://formule1nieuws.nl/nieuws/wk-tussenstand-na-gp-nederland-2026-russell-terug-naar-p2/",
+          "publishedDate": "Sun, 23 Aug 2026 14:28:00 GMT",
+          "description": "Kimi Antonelli behoud de leiding in het kampioenschap maar achter hem zijn er wat veranderingen. George Russell en Lewis Hamilton blijven strijden om de tweede plek en nu heeft Russell deze plek voorl ..."
+        },
+        {
+          "title": "George Russell noemt teamorders van Mercedes in Dutch GP 'de juiste beslissing'",
+          "source": "Motorsport.com",
+          "url": "https://nl.motorsport.com/f1/news/george-russell-noemt-teamorders-van-mercedes-in-dutch-gp-de-juiste-beslissing/10848666/",
+          "publishedDate": "Sun, 23 Aug 2026 02:09:00 GMT",
+          "description": "Russell accepteerde Mercedes' beslissing om in de Dutch Grand Prix van de Formule 1 van positie te wisselen met teamgenoot Kimi Antonelli ..."
+        },
+        {
+          "title": "George Russell ‘meer ontspannen’ nu F1-titel van 2026 voor Kimi Antonelli te verliezen is",
+          "source": "motorsport.com on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/motorsport/george-russell-meer-ontspannen-nu-f1-titel-van-2026-voor-kimi-antonelli-te-verliezen-is/ar-AA2aIBps",
+          "publishedDate": "Sat, 22 Aug 2026 10:56:40 GMT",
+          "description": "De Mercedes-coureur is sterk begonnen aan de tweede helft van de F1-campagne van 2026, want hij won de sprint van de Dutch GP en start de race van zondag als tweede ..."
+        },
+        {
+          "title": "Russell blij dat regen in Zandvoort viel na finish sprintrace",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/sport/russell-blij-dat-regen-in-zandvoort-viel-na-finish-sprintrace",
+          "publishedDate": "Sat, 22 Aug 2026 06:56:00 GMT",
+          "description": "ZANDVOORT (ANP) - George Russell was vooral blij dat de regen viel na de finish van de sprintrace bij de Dutch Grand Prix op Zandvoort. &quot;Als het een ronde eerder was gaan regenen, had de race wel eens ..."
+        },
+        {
+          "title": "George Russell wint weinig enerverende Sprint in Zandvoort",
+          "source": "autosport",
+          "url": "https://www.autosport.nu/nieuws/benelux/george-russell-wint-weinig-enerverende-sprint-in-zandvoort/",
+          "publishedDate": "Sat, 22 Aug 2026 03:48:00 GMT",
+          "description": "George Russell heeft zijn poleposition op Zandvoort verzilverd. De Mercedes-coureur reed tijdens de 24 ronden lange Sprintrace onbedreigd naar de overwinning. Charles Leclerc eindigde als tweede, terw ..."
+        },
+        {
+          "title": "Russell wijst teamorders af: 'Niet eens een overweging op dit moment'",
+          "source": "Formule1nieuws.nl",
+          "url": "https://formule1nieuws.nl/nieuws/russell-wijst-teamorders-af-niet-eens-een-overweging-op-dit-moment/",
+          "publishedDate": "Sat, 22 Aug 2026 02:06:00 GMT",
+          "description": "George Russell sluit teamorders bij Mercedes categorisch uit, ondanks een achterstand van 59 punten op teamgenoot Kimi Antonelli in het rijdersklassement. De Brit benadrukt dat het team volledig focus ..."
+        },
+        {
+          "title": "Zesde tijd Verstappen in sprintkwalificatie, Russell de snelste",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/zesde-tijd-verstappen-in-sprintkwalificatie-russell-de-snelste",
+          "publishedDate": "Fri, 21 Aug 2026 10:30:00 GMT",
+          "description": "ZANDVOORT (ANP) - Max Verstappen heeft de zesde tijd gereden in de kwalificatie voor de sprintrace bij de Dutch Grand Prix. Daarmee lijkt het erop dat de viervo ..."
+        }
+      ]
     },
     {
       "keyword": "ga eagles - ado",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Eagles op 2-0 tegen ADO • Sano en Fernandez op middenveld PSV, Geertruida op de bank",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2627970-eagles-op-2-0-tegen-ado-sano-en-fernandez-op-middenveld-psv-geertruida-op-de-bank",
+          "publishedDate": "Sun, 23 Aug 2026 02:43:00 GMT",
+          "description": "In dit eredivisieblog aandacht voor drie wedstrijden: Go Ahead Eagles - ADO Den Haag, PSV - FC Groningen en SC Cambuur - Feyenoord."
+        },
+        {
+          "title": "Tengstedt goud waard voor Go Ahead Eagles, dat ADO nieuwe dreun bezorgt",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/tengstedt-goud-waard-voor-go-ahead-eagles-dat-ado-nieuwe-dreun-bezorgt/bltf6f1f0257e466f99",
+          "publishedDate": "Sun, 23 Aug 2026 07:09:00 GMT",
+          "description": "Go Ahead Eagles stijgt naar plek twee in de Vriendenloterij Eredivisie. De ploeg van trainer Joseph Oosting won op eigen veld met 3-1 van ADO Den Haag, dat stijf onderaan staat met drie nederlagen op rij."
+        },
+        {
+          "title": "LIVE Eredivisie | PSV neemt het op tegen FC Groningen, Feyenoord op bezoek bij SC Cambuur",
+          "source": "Ajax Showtime on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-eredivisie-psv-neemt-het-op-tegen-fc-groningen-feyenoord-op-bezoek-bij-sc-cambuur/ar-AA2aK6fl?ocid=BingNewsVerp",
+          "publishedDate": "Sun, 23 Aug 2026 00:20:00 GMT",
+          "description": "Dit is het livetopic voor de drie Eredivisiewedstrijden op zondag 23 augustus. Go Ahead Eagles trapt de dag af met een thuiswedstrijd tegen ADO Den Haag. Later op de middag treft PSV op eigen veld FC"
+        },
+        {
+          "title": "Geen punten voor ADO Den Haag op bezoek bij Go Ahead Eagles",
+          "source": "ADO Den Haag",
+          "url": "https://adodenhaag.nl/nl/teams/1e-elftal/resultaten/go-ahead-eagles-ado-den-haag-1324",
+          "publishedDate": "Sat, 22 Aug 2026 17:01:00 GMT",
+          "description": "De jacht op de eerste punten van het seizoen heeft voor ADO Den Haag helaas nog geen resultaat opgeleverd. Op bezoek bij Go Ahead Eagles ging de wedstrijd in de eerste helft lange tijd gelijk op, maar"
+        }
+      ]
+    },
+    {
+      "keyword": "formule 1 zandvoort 2026",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Zo kijk je vanmiddag gratis naar Formule 1 GP van Zandvoort",
+          "source": "gadgetgear",
+          "url": "https://www.gadgetgear.nl/2026/08/zo-kijk-je-vanmiddag-gratis-naar-formule-1-gp-van-zandvoort/",
+          "publishedDate": "Sun, 23 Aug 2026 04:10:00 GMT",
+          "description": "De Grand Prix van Nederland is dit weekend volledig gratis te zien op Viaplay TV, de open zender van Viaplay. Vandaag begint de uitzending om 12.45 uur en de race start om 15.00 uur. Je hebt er geen V"
+        },
+        {
+          "title": "Overvolle treinen naar Formule 1 • Gemengde gevoelens in Zandvoort",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/362732/overvolle-treinen-naar-formule-1-gemengde-gevoelens-in-zandvoort",
+          "publishedDate": "Sat, 22 Aug 2026 23:58:00 GMT",
+          "description": "F1 Grand Prix Zandvoort stopt na 2026: organisatie verlengt contract niet. Burgemeester Moolenburgh: &quot;We gaan het missen.&quot; Lees alle ontwikkelingen."
+        }
+      ]
     },
     {
       "keyword": "bulkcarrier",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Bulkcarrier op weg naar Vlissingen zinkt na botsing bij Gibraltar",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/binnenland/bulkcarrier-op-weg-naar-vlissingen-zinkt-na-botsing-bij-gibraltar/64502787.html",
+          "publishedDate": "Mon, 29 Aug 2022 22:30:00 GMT",
+          "description": "Er zijn 24 medewerkers aan boord van de bulkcarrier. Ze maken het goed, heeft de kapitein aan de autoriteiten laten weten. Reddingswerkers zijn in de buurt om de zeelieden te evacueren indien nodig."
+        },
+        {
+          "title": "Geef cadeau Deel Downloaden Leeslijst",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2020/08/17/mauritius-bulkcarrier-breekt-a4008974",
+          "publishedDate": "Sun, 16 Aug 2020 17:00:00 GMT",
+          "description": "De Japanse bulkcarrier MV Wakashio, die eind juli vastliep op het koraal voor de kust van Mauritius, is zaterdag in twee&#235;n gebroken. De afgelopen weken is zo’n drieduizend ton olie uit het vaartuig ..."
+        },
+        {
+          "title": "Telex: vakbondsactie NL, inspectiedrones, DHL en hybride bulkcarrier",
+          "source": "flows",
+          "url": "https://www.flows.be/douane/2021/03/telex-vakbondsactie-nl-inspectiedrones-dhl-en-hybride-bulkcarrier/",
+          "publishedDate": "Tue, 09 Mar 2021 04:58:00 GMT",
+          "description": "6% van de werkgevers in transport en logistiek plant aanwervingen tegen eind juni 2021, rederij Stena Bulk stelde het ontwerp van zijn eerste hybride bulkcarrier voor en het toeristische eiland ..."
+        },
+        {
+          "title": "Bulkcarrier gestrand nabij Waddenzee",
+          "source": "Texelse Courant",
+          "url": "https://www.texelsecourant.nl/nieuws/algemeen/29520/bulkcarrier-gestrand-nabij-waddenzee",
+          "publishedDate": "Tue, 31 Oct 2017 01:00:00 GMT",
+          "description": "Het is een schrikbeeld op de eilanden: een schip dat strandt en vervolgens olie dreigt te verliezen in de Waddenzee. Iets dergelijks is momenteel gaande ter hoogte van het Duitse Waddeneiland Langeoog ..."
+        },
+        {
+          "title": "Bijzondere bulkcarrier meert aan in Eemshaven",
+          "source": "Groninger Internet Courant",
+          "url": "https://www.gic.nl/economie/bijzondere-bulkcarrier-meert-aan-in-eemshaven",
+          "publishedDate": "Mon, 07 Apr 2014 09:57:00 GMT",
+          "description": "In de Eemshaven meert dinsdag de MS Fitnes aan. Deze enorme bulkcarrier is 175 meter lang en 26 meter breed. De Fitnes komt 13.000 ton granietsteen brengen, die bedoeld zijn voor de spoorwerkzaamheden ..."
+        }
+      ]
     },
     {
       "keyword": "sigrid kaag",
       "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "haaland",
-      "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Kaag zegt dat VS haar wilde als secretaris-generaal van de VN: ‘Maar Nederland liet het op zijn beloop’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/kaag-zegt-dat-vs-haar-wilde-als-secretaris-generaal-van-de-vn-maar-nederland-liet-het-op-zijn-beloop~a92cd84e/",
+          "publishedDate": "Sun, 23 Aug 2026 08:01:00 GMT",
+          "description": "Sigrid Kaag heeft in Zomergasten gezegd dat de Verenigde Staten Nederland tien jaar geleden hebben gevraagd of Kaag zich beschikbaar wilde stellen als mogelijke nieuwe secretaris-generaal van de Veren ..."
+        },
+        {
+          "title": "Sigrid Kaag kiest in Zomergasten voor ‘menselijkheid’, van geopolitiek en van haarzelf",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/08/24/verslag-zomergasten-kaag-door-tristan-a4935021",
+          "publishedDate": "Sun, 23 Aug 2026 06:37:00 GMT",
+          "description": "ZAP: Diplomaat, VN-gezant en voormalig vicepremier Sigrid Kaag was de vijfde Zomergast. Ze koos „menselijkheid” als rode lijn: van de geopolitiek, van haarzelf en als iets om naar te streven."
+        },
+        {
+          "title": "De Volkskrant tv-selectie voor zondag 23 augustus",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/ditjes/de-volkskrant-tv-selectie-voor-zondag-23-augustus~bd5edc39/",
+          "publishedDate": "Fri, 21 Aug 2026 06:22:00 GMT",
+          "description": "Elke dag tipt de redactie van de Volkskrant de beste programma’s en films op televisie. Dit zijn die van zondag."
+        },
+        {
+          "title": "Sigrid Kaag stopt als VN-gezant voor het Midden-Oosten: ‘Het vredesproces is op sterven na dood’",
+          "source": "Volkskrant",
+          "url": "https://www.volkskrant.nl/buitenland/sigrid-kaag-stopt-als-vn-gezant-voor-het-midden-oosten-het-vredesproces-is-op-sterven-na-dood~b8a9d3fc/",
+          "publishedDate": "Fri, 27 Jun 2025 20:00:00 GMT",
+          "description": "Aan alles kun je wennen, ook aan een luchtalarm. In Isra&#235;lische steden gingen de sirenes de voorbije weken veelvuldig af, ten teken dat er Iraanse raketten onderweg waren en dat iedereen naar de ..."
+        },
+        {
+          "title": "Voor Sigrid Kaag is de wederopbouw van Gaza niet de eerste uitdagende VN-missie",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/voor-sigrid-kaag-is-de-wederopbouw-van-gaza-niet-de-eerste-uitdagende-vn-missie~b72984b7/",
+          "publishedDate": "Sat, 23 Dec 2023 11:31:00 GMT",
+          "description": "Sigrid Kaag stopt op 8 januari als demissionair minister van financi&#235;n en vicepremier. Ze gaat voor de Verenigde Naties de wederopbouw van Gaza co&#246;rdineren. Kaag maakte dat dinsdagavond zelf bekend."
+        },
+        {
+          "title": "Sigrid Kaag ziet haar Europese begrotingsplan tegen kerst w&#233;l slagen",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/sigrid-kaag-ziet-haar-europese-begrotingsplan-tegen-kerst-wel-slagen~badd92a4/",
+          "publishedDate": "Fri, 08 Dec 2023 10:56:00 GMT",
+          "description": "Praten over geld is in Brussel nooit makkelijk. Praten over een financieel systeem leidt meestal tot flinke ruzie. Maar nu lijken de 27 EU-lidstaten toch bijna een akkoord te hebben over ..."
+        },
+        {
+          "title": "Dit was de loopbaan van Sigrid Kaag in de Nederlandse politiek: ‘Ik was gechoqueerd, dit is Nederland dus’",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/nederland/dit-was-de-loopbaan-van-sigrid-kaag-in-de-nederlandse-politiek-ik-was-gechoqueerd-dit-is-nederland-dus~b48d0921/",
+          "publishedDate": "Thu, 13 Jul 2023 03:56:00 GMT",
+          "description": "D66-leider Sigrid Kaag stelt zich niet opnieuw beschikbaar als lijsttrekker. Meermaals twijfelde de demissionair vicepremier en minister van Financi&#235;n openlijk of zij wel door moest gaan in de ..."
+        },
+        {
+          "title": "Sigrid Kaag zondag te gast in 'Zomergasten'",
+          "source": "tvvisie",
+          "url": "https://tvvisie.nl/inhoud/nederland/22augustus2026/sigrid-kaag-zondag-te-gast-in-zomergasten_141955/",
+          "publishedDate": "Fri, 21 Aug 2026 17:00:00 GMT",
+          "description": "Internationaal onderhandelaar en oud-politicus Sigrid Kaag (Rijswijk, 1961) is op zondag 23 augustus de vijfde gast in 'VPRO Zomergasten'."
+        },
+        {
+          "title": "Kaag stopt als minister en gaat hulp en wederopbouw Gaza co&#246;rdineren voor VN",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/politiek/kaag-stopt-als-minister-en-gaat-hulp-en-wederopbouw-gaza-coordineren-voor-vn~a9936a73/",
+          "publishedDate": "Tue, 26 Dec 2023 03:13:00 GMT",
+          "description": "Sigrid Kaag stopt als demissionair minister van Financi&#235;n omdat ze voor de Verenigde Naties de wederopbouw van Gaza gaat co&#246;rdineren. D66-leider Rob Jetten neemt haar portefeuille formeel tijdelijk ..."
+        },
+        {
+          "title": "Sigrid Kaag blikt terug op Rutte 4: 'We waren al moe en uitgeput toen we aan het kabinet begonnen'",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/nieuws/binnenland/b8286e10-408a-493e-9494-c9d428cfe0bf/sigrid-kaag-blikt-terug-op-rutte-4-we-waren-al-moe-en-uitgeput-toen-we-aan-het-kabinet-begonnen",
+          "publishedDate": "Fri, 15 Dec 2023 15:15:00 GMT",
+          "description": "Nu er een nieuw kabinet in de maak is, spreekt Met het Oog op Morgen elke vrijdag bewindspersonen uit het demissionaire kabinet om terug te blikken op hun regeerperiode. Politiek verslaggever Wilma ..."
+        }
+      ]
     }
   ]
 }
