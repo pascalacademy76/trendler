@@ -1,55 +1,709 @@
 {
-  "fetchedAt": "2026-08-24T10:30:57.200Z",
+  "fetchedAt": "2026-08-24T11:20:09.585Z",
   "trends": [
     {
       "keyword": "cambuur - feyenoord",
       "trafficLabel": "100K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Feyenoord-fans zorgen met bizarre actie voor onderbreking bij Cambuur",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/feyenoord-fans-zorgen-met-bizarre-actie-voor-onderbreking-bij-cambuur",
+          "publishedDate": "Sun, 23 Aug 2026 10:08:00 GMT",
+          "description": "Feyenoord-fans zorgen bij Cambuur voor grote chaos. In de twaalfde minuut wordt de wedstrijd stilgelegd nadat vuurwerk richting het veld, een ander vak en zelfs de eigen keeper wordt geschoten."
+        },
+        {
+          "title": "Geen wijzigingen in opstelling Feyenoord tegen Cambuur; aanwinst voor het eerst op de bank",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2242973/geen-wijzigingen-in-opstelling-feyenoord-tegen-cambuur-aanwinst-voor-het-eerst-op-de-bank",
+          "publishedDate": "Sun, 23 Aug 2026 08:31:00 GMT",
+          "description": "Giovanni van Bronckhorst heeft geen wijzigingen aangebracht in zijn opstelling voor de wedstrijd tegen SC Cambuur. Dat betekent dat Mika M&#225;rmol nog altijd de linksback van Feyenoord is. Aanwinst Javi"
+        }
+      ]
     },
     {
       "keyword": "ruben van bommel",
       "trafficLabel": "100K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Van Bommel jaar na kruisbandblessure al op hoog niveau: 'Wordt grote speler'",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628082-van-bommel-jaar-na-kruisbandblessure-al-op-hoog-niveau-wordt-grote-speler",
+          "publishedDate": "Sun, 23 Aug 2026 23:22:00 GMT",
+          "description": "De 22-jarige linksbuiten was zondag tegen FC Groningen (5-1) de uitblinker bij PSV. Een maand geleden pas maakte hij zijn rentree na een zware knieblessure."
+        },
+        {
+          "title": "'Ruben van Bommel heeft trekjes van zijn vader en beweegt zich richting Oranje'",
+          "source": "VoetbalNieuws.nl",
+          "url": "https://www.voetbalnieuws.nl/nieuws/2126827/ruben-van-bommel-heeft-trekjes-van-zijn-vader-en-beweegt-zich-richting-oranje.html",
+          "publishedDate": "Mon, 24 Aug 2026 03:08:00 GMT",
+          "description": "Ruben van Bommel was zondagmiddag de absolute uitblinker bij PSV tijdens de 5-1 zege op FC Groningen. Dat vindt voormalig Oranje-international Romano Denneboom, die drie PSV'ers opneemt in zijn elftal ..."
+        },
+        {
+          "title": "Speler van de Week: Ruben van Bommel wordt steeds fitter en dreigender",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/pro/speler-van-de-week-ruben-van-bommel-wordt-steeds-fitter-en-dreigender",
+          "publishedDate": "Mon, 24 Aug 2026 01:00:00 GMT",
+          "description": "Ruben van Bommel is VI's Speler van de Week geworden. De aanvaller van PSV was zondag tegen FC Groningen de grote uitblinker aan de zijde van de ploeg van Peter Bosz."
+        },
+        {
+          "title": "Ruben van Bommel reageert luchtig op Belgische job van vader Mark",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/ruben-van-bommel-reactie-belgische-job-vader-mark/",
+          "publishedDate": "Sun, 23 Aug 2026 23:13:00 GMT",
+          "description": "De PSV-flankaanvaller is blij met de nieuwe rol van zijn vader bij Belgi&#235; en lacht een Nederlands scenario weg."
+        },
+        {
+          "title": "Voetbalzone team van de week: Ruben van Bommel solliciteert bij Xavi",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/voetbalzone-team-van-de-week-ruben-van-bommel-solliciteert-bij-xavi/ar-AA2aNEVi",
+          "publishedDate": "Sun, 23 Aug 2026 23:00:00 GMT",
+          "description": "Speelronde 3 van de VriendenLoterij Eredivisie zit erop. PSV en Feyenoord wisten te overtuigen, terwijl Ajax niet in actie kwam. Dit zijn de uitblinkers van het weekend!"
+        },
+        {
+          "title": "Ruben van Bommel wordt PSV’s recordtransfer, zegt Bosz",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/ruben-van-bommel-wordt-psvs-recordtransfer-zegt-bosz",
+          "publishedDate": "Sun, 23 Aug 2026 15:21:00 GMT",
+          "description": "Peter Bosz ziet in Ruben van Bommel de potentie voor de duurste PSV-transfer ooit. De druk op de zoon van Mark neemt toe."
+        },
+        {
+          "title": "Kenneth Perez weet na PSV - FC Groningen genoeg over toekomst Ruben van Bommel",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/kenneth-perez-weet-na-psv-fc-groningen-genoeg-over-toekomst-ruben-van-bommel/ar-AA2aLz9D",
+          "publishedDate": "Sun, 23 Aug 2026 13:38:00 GMT",
+          "description": "Kenneth Perez is zeer onder de indruk van Ruben van Bommel. De aanvaller maakte zondag veel indruk namens PSV tegen FC Groningen en laat volgens de analist van ESPN zien dat hij na zijn zware kniebles ..."
+        },
+        {
+          "title": "PSV'er Ruben van Bommel bezorgt directe tegenstander slapeloze nacht: 'Hij was mij de baas'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/psver-ruben-van-bommel-bezorgt-directe-tegenstander-slapeloze-nacht-hij-was-mij-de-baas-2026082316452137641/",
+          "publishedDate": "Sun, 23 Aug 2026 12:03:00 GMT",
+          "description": "Voor Jorg Schreuders was het een zware middag in het Philips Stadion. De rechtsback van Groningen, die vorig seizoen vaak nog als (aanvallende) middenvelder speelde, kreeg de ondankbare taak Van ..."
+        },
+        {
+          "title": "PSV-uitblinker Ruben van Bommel merkt verschil na horrorblessure: 'Ik ben sneller en sterker'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/eredivisie-voetbal/nieuws/psv-uitblinker-ruben-van-bommel-merkt-verschil-na-horrorblessure-ik-ben-sneller-en-sterker-2026082315474641983/",
+          "publishedDate": "Sun, 23 Aug 2026 10:47:00 GMT",
+          "description": "PSV boekte zondagmiddag een klinkende zege (5-1) op FC Groningen. Mede door een uitstekend optreden van Ruben van Bommel, die nog altijd herstellende is van een zware knieblessure. Op de persconferent ..."
+        },
+        {
+          "title": "PSV walst over FC Groningen heen en ziet uitblinker Van Bommel schitteren",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/psv-walst-over-fc-groningen-heen-en-ziet-uitblinker-van-bommel-schitteren",
+          "publishedDate": "Sun, 23 Aug 2026 09:28:00 GMT",
+          "description": "PSV wint met 5-1 van FC Groningen. Ruben van Bommel schittert met een hoofdrol bij vier goals en Lutsharel Geertruida maakt zijn debuut voor PSV in het Philips Stadion."
+        }
+      ]
     },
     {
       "keyword": "a28",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Nog eens 8 gewonden naar ziekenhuis na zwaar ongeluk op A28, totaal nu op 16",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/binnenland/6407329/nog-eens-8-gewonden-naar-ziekenhuis-na-zwaar-ongeluk-op-a28-totaal-nu-op-16.html",
+          "publishedDate": "Mon, 24 Aug 2026 02:49:00 GMT",
+          "description": "De politie is maandagochtend volop bezig met onderzoek naar het ongeluk dat in de nacht van zondag op maandag plaatsvond tussen een touringcar en een bestelbus op de A28. De voertuigen liggen elk op e ..."
+        },
+        {
+          "title": "Acht ernstig gewonden bij ongeluk met bus vol Duitse scholieren, A28 bij Wezep mogelijk tot vanavond afgesloten",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/acht-ernstig-gewonden-bij-ongeluk-met-bus-vol-duitse-scholieren-a28-bij-wezep-mogelijk-tot-vanavond-afgesloten~bf63061f/",
+          "publishedDate": "Mon, 24 Aug 2026 01:17:00 GMT",
+          "description": "Op de A28 bij het Gelderse Wezep zijn maandagochtend vroeg zeker acht zwaargewonden gevallen bij een botsing tussen een Oostenrijkse touringcar en een bestelwagen. Aan boord van de touringcar waren 54 ..."
+        },
+        {
+          "title": "Beelden: gewonden bij ongeluk touringcar en bestelbus op A28",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/video/beelden-gewonden-bij-ongeluk-touringcar-en-bestelbus-op-a28/160412146.html",
+          "publishedDate": "Mon, 24 Aug 2026 00:22:00 GMT",
+          "description": "Op de A28 bij Wezep (Gelderland) zijn maandagochtend vroeg meerdere gewonden gevallen bij een ongeluk met een touringcar en een bestelbus. In de bus zouden meer dan vijftig mensen hebben gezeten en he ..."
+        },
+        {
+          "title": "Gewonden bij zwaar ongeluk met touringcar en bestelbus, A28 bij Wezep dicht",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628078-gewonden-bij-zwaar-ongeluk-met-touringcar-en-bestelbus-a28-bij-wezep-dicht",
+          "publishedDate": "Sun, 23 Aug 2026 20:29:00 GMT",
+          "description": "Op de A28 bij Wezep is vannacht een touringcar van de snelweg geraakt en door de vangrail gereden na een aanrijding met een bestelbus. Hoe dat kon gebeuren, is nog niet duidelijk. Er zijn meerdere gew ..."
+        },
+        {
+          "title": "Scholieren gewond door glassplinters na ongeluk A28: 'Engeltjes op schouders'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/binnenland/6407348/scholieren-gewond-door-glassplinters-na-ongeluk-a28-engeltjes-op-schouders.html",
+          "publishedDate": "Sun, 23 Aug 2026 15:25:00 GMT",
+          "description": "Bij de botsing tussen de touringcar en de bestelbus op de A28 bij Wezep hebben &quot;heel veel engeltjes op schouders gezeten&quot;, zegt burgemeester Tanja Haseloop-Amsing van de gemeente Oldebroek, waar Wezep ..."
+        },
+        {
+          "title": "Duitse ouder krijgt belletje gewonde dochter crash A28: 'Bus is omgevallen'",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/ongeluk/videos/duitse-ouder-krijgt-belletje-gewonde-dochter-crash-a28-bus-is-omgevallen",
+          "publishedDate": "Mon, 24 Aug 2026 03:37:00 GMT",
+          "description": "Het is een telefoontje dat je als ouder absoluut niet wil krijgen, midden in de nacht. Toch gebeurde het bij een aantal Duitse vaders en moeders, na het grote ongeval op de A28: &quot;Papa, mama, ik heb ee ..."
+        },
+        {
+          "title": "Duitse school: geen levensbedreigende verwondingen na crash A28",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/gelderland-wezep-duitse-school-update-ongeluk-a28-niet-levensbedreigend",
+          "publishedDate": "Mon, 24 Aug 2026 02:10:00 GMT",
+          "description": "Na de zware buscrash op de A28 bij Wezep laat de Duitse school weten dat geen van de leerlingen en docenten levensbedreigend gewond is geraakt. Vijftien gewonden zijn naar het ziekenhuis gebracht."
+        },
+        {
+          "title": "Acht ernstig gewonden bij ongeluk met bus Duitse scholieren, A28 bij Wezep mogelijk tot vanavond afgesloten",
+          "source": "Nederlands Dagblad",
+          "url": "https://www.nd.nl/nieuws/nederland/1328387/meerdere-gewonden-bij-ongeval-met-oostenrijkse-touringcar-vol",
+          "publishedDate": "Mon, 24 Aug 2026 00:18:00 GMT",
+          "description": "Op de A28 bij het Gelderse Wezep zijn maandagochtend vroeg meerdere gewonden gevallen bij een ernstig ongeluk met een Oostenrijkse touringcar en een bestelbus. In de bus zouden meer dan vijftig mensen ..."
+        },
+        {
+          "title": "Zestien gewonden bij zwaar ongeluk met touringcar, A28 dicht",
+          "source": "Oost",
+          "url": "https://www.oost.nl/nieuws/3686500/zestien-gewonden-bij-zwaar-ongeluk-met-touringcar-a28-dicht",
+          "publishedDate": "Sun, 23 Aug 2026 22:55:00 GMT",
+          "description": "Bij een ongeluk met een Oostenrijkse touringcar op de A28 zijn meerdere mensen gewond geraakt, waarvan enkele ernstig. Het ongeluk gebeurde ter hoogte van Wezep, vlak bij Zwolle. De snelweg blijft ver ..."
+        },
+        {
+          "title": "Burgemeester: heel veel engeltjes op schouders bij ongeluk A28",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/algemeen/burgemeester-heel-veel-engeltjes-op-schouders-bij-ongeluk-a28",
+          "publishedDate": "Sun, 23 Aug 2026 15:03:00 GMT",
+          "description": "WEZEP (ANP) - Bij het ongeluk tussen de touringcar en de bestelbus op de A28 bij Wezep hebben er &quot;heel veel engeltjes op schouders gezeten&quot;, zegt burgemeester Tanja Haseloop-Amsing van de gemeente Old ..."
+        }
+      ]
     },
     {
       "keyword": "george russell",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Max Verstappen start sprintrace in Zandvoort vanaf derde rij, George Russell troeft concurrentie af",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/autosport/max-verstappen-start-sprintrace-in-zandvoort-vanaf-derde-rij-george-russell-troeft-concurrentie-af/160344222.html",
+          "publishedDate": "Fri, 21 Aug 2026 10:16:00 GMT",
+          "description": "George Russell start de sprintrace in Zandvoort zaterdag vanaf pole position. De Mercedes-coureur bleef in een spannende sprintkwalificatie de concurrentie nipt voor. Max Verstappen reed naar de zesde ..."
+        },
+        {
+          "title": "George Russell berust in teamorders van Mercedes: “Het was de juiste beslissing”",
+          "source": "F1journaal.be",
+          "url": "https://f1journaal.be/george-russell-berust-in-teamorders-van-mercedes-het-was-de-juiste-beslissing/",
+          "publishedDate": "Sun, 23 Aug 2026 21:44:00 GMT",
+          "description": "Tijdens de race was George Russell niet te spreken over de instructie van het team die hij kreeg om teamgenoot Kimi Antonelli te laten passeren. Na afloop van […] ..."
+        },
+        {
+          "title": "George Russell komt met verrassend bericht na zeer controversieel moment in Zandvoort",
+          "source": "GP33",
+          "url": "https://gp33.nl/f1-nieuws/george-russell-komt-met-verrassend-bericht-na-zeer-controversieel-moment-in-zandvoort",
+          "publishedDate": "Sun, 23 Aug 2026 14:31:00 GMT",
+          "description": "George Russell eindigde als derde tijdens de GP van Nederland. Achteraf sprak de coureur onder andere over een zeer controversieel moment met teamgenoot Kimi Antonelli. Russell begon de Grand Prix van ..."
+        },
+        {
+          "title": "WK tussenstand na GP Nederland 2026, Russell terug naar P2",
+          "source": "Formule1nieuws.nl",
+          "url": "https://formule1nieuws.nl/nieuws/wk-tussenstand-na-gp-nederland-2026-russell-terug-naar-p2/",
+          "publishedDate": "Sun, 23 Aug 2026 14:28:00 GMT",
+          "description": "Kimi Antonelli behoud de leiding in het kampioenschap maar achter hem zijn er wat veranderingen. George Russell en Lewis Hamilton blijven strijden om de tweede plek en nu heeft Russell deze plek voorl ..."
+        },
+        {
+          "title": "George Russell noemt teamorders van Mercedes in Dutch GP 'de juiste beslissing'",
+          "source": "Motorsport.com",
+          "url": "https://nl.motorsport.com/f1/news/george-russell-noemt-teamorders-van-mercedes-in-dutch-gp-de-juiste-beslissing/10848666/",
+          "publishedDate": "Sun, 23 Aug 2026 02:09:00 GMT",
+          "description": "Russell accepteerde Mercedes' beslissing om in de Dutch Grand Prix van de Formule 1 van positie te wisselen met teamgenoot Kimi Antonelli ..."
+        },
+        {
+          "title": "Max Verstappen gaat de wereld over na spijkerharde uithaal naar George Russell",
+          "source": "GP33",
+          "url": "https://gp33.nl/f1-nieuws/max-verstappen-gaat-de-wereld-over-na-spijkerharde-uithaal-naar-george-russell",
+          "publishedDate": "Sun, 23 Aug 2026 01:31:00 GMT",
+          "description": "Max Verstappen en George Russell zullen nooit de allerbeste vrienden worden. Tijdens de Grand Prix van Qatar in 2024 zijn de twee elkaar in de haren gevlogen, waarna hun relatie flink verzuurde. Lange ..."
+        },
+        {
+          "title": "George Russell ‘meer ontspannen’ nu F1-titel van 2026 voor Kimi Antonelli te verliezen is",
+          "source": "motorsport.com on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/motorsport/george-russell-meer-ontspannen-nu-f1-titel-van-2026-voor-kimi-antonelli-te-verliezen-is/ar-AA2aIBps",
+          "publishedDate": "Sat, 22 Aug 2026 10:56:40 GMT",
+          "description": "De Mercedes-coureur is sterk begonnen aan de tweede helft van de F1-campagne van 2026, want hij won de sprint van de Dutch GP en start de race van zondag als tweede ..."
+        },
+        {
+          "title": "George Russell wint weinig enerverende Sprint in Zandvoort",
+          "source": "autosport",
+          "url": "https://www.autosport.nu/nieuws/benelux/george-russell-wint-weinig-enerverende-sprint-in-zandvoort/",
+          "publishedDate": "Sat, 22 Aug 2026 03:48:00 GMT",
+          "description": "George Russell heeft zijn poleposition op Zandvoort verzilverd. De Mercedes-coureur reed tijdens de 24 ronden lange Sprintrace onbedreigd naar de overwinning. Charles Leclerc eindigde als tweede, terw ..."
+        },
+        {
+          "title": "Russell wijst teamorders af: 'Niet eens een overweging op dit moment'",
+          "source": "Formule1nieuws.nl",
+          "url": "https://formule1nieuws.nl/nieuws/russell-wijst-teamorders-af-niet-eens-een-overweging-op-dit-moment/",
+          "publishedDate": "Sat, 22 Aug 2026 02:06:00 GMT",
+          "description": "George Russell sluit teamorders bij Mercedes categorisch uit, ondanks een achterstand van 59 punten op teamgenoot Kimi Antonelli in het rijdersklassement. De Brit benadrukt dat het team volledig focus ..."
+        },
+        {
+          "title": "Zesde tijd Verstappen in sprintkwalificatie, Russell de snelste",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/zesde-tijd-verstappen-in-sprintkwalificatie-russell-de-snelste",
+          "publishedDate": "Fri, 21 Aug 2026 10:30:00 GMT",
+          "description": "ZANDVOORT (ANP) - Max Verstappen heeft de zesde tijd gereden in de kwalificatie voor de sprintrace bij de Dutch Grand Prix. Daarmee lijkt het erop dat de viervo ..."
+        }
+      ]
     },
     {
       "keyword": "elche - barcelona",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Titelhouder Barcelona beleeft vliegende start met ruime zege bij Elche",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628070-titelhouder-barcelona-beleeft-vliegende-start-met-ruime-zege-bij-elche",
+          "publishedDate": "Sun, 23 Aug 2026 14:27:00 GMT",
+          "description": "Barcelona, nog zonder aankoop en WK-ster Rodri, heeft vooral na rust weinig te duchten van Elche en begint de Spaanse competitie met een 5-0 uitzege."
+        },
+        {
+          "title": "Van wereldtitel naar roze haardos: Barcelona-speler Gavi houdt woord na WK-triomf",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/2026/08/24/van-wereldtitel-naar-roze-haardos-barcelona-speler-gavi-houdt-woord-na-wk-triomf~1787547851240/",
+          "publishedDate": "Sun, 23 Aug 2026 22:12:00 GMT",
+          "description": "Belofte maakt schuld. Gavi had aangekondigd dat hij zijn haar roze zou verven als Spanje wereldkampioen zou worden. De 22-jarige middenvelder hield woord en trok naar de kapper. Op sociale media ..."
+        },
+        {
+          "title": "FC Barcelona scoort vijf keer in uitduel met Elche",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/fc-barcelona-scoort-vijf-keer-in-uitduel-met-elche",
+          "publishedDate": "Sun, 23 Aug 2026 16:54:00 GMT",
+          "description": "ELCHE (ANP) - FC Barcelona is de jacht op een derde landstitel op rij goed begonnen. De club scoorde vijf keer in de uitwedstrijd tegen Elche (0-5). Raphinha benutte in de veertiende minuut een strafs ..."
+        },
+        {
+          "title": "FC Barcelona opent LaLiga met 0-5 in Elche, maar Gavi valt geblesseerd uit",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/fc-barcelona-opent-laliga-met-zege-in-elche-gavi-geblesseerd/",
+          "publishedDate": "Sun, 23 Aug 2026 16:41:00 GMT",
+          "description": "Raphinha, Adeyemi, Gordon en Fermin Lopez droegen bij aan een ruime Bar&#231;a-zege, terwijl Gavi voor rust uitviel."
+        },
+        {
+          "title": "FC Barcelona begint seizoen met vijfklapper; Adeyemi en Gordon direct belangrijk",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/fc-barcelona-begint-seizoen-met-vijfklapper-adeyemi-en-gordon-direct-belangrijk/ar-AA2aLpMi",
+          "publishedDate": "Sun, 23 Aug 2026 16:29:00 GMT",
+          "description": "FC Barcelona heeft zondag overtuigend afgerekend met Elche. De Catalanen wonnen hun eerste LaLiga-wedstrijd van het seizoen met afgetekende cijfers: 0-5. Raphinha was goed voor twee goals en een assis ..."
+        },
+        {
+          "title": "Praat mee op VP: Elche – FC Barcelona",
+          "source": "Voetbalprimeur Netherlands on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-elche-fc-barcelona/ar-AA2aLVSe",
+          "publishedDate": "Sun, 23 Aug 2026 11:48:54 GMT",
+          "description": "FC Barcelona begint zondagavond aan het nieuwe La Liga-seizoen. De regerend landskampioen gaat op bezoek bij Elche. De wedstrijd begint om 21.30 uur, volg de wedstrijd hieronder in de live-omgeving va ..."
+        },
+        {
+          "title": "FC Barcelona laat Jesse Bisiwu buiten selectie voor competitiestart in Elche",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/fc-barcelona-jesse-bisiwu-selectie-elche/",
+          "publishedDate": "Sun, 23 Aug 2026 04:32:00 GMT",
+          "description": "FC Barcelona opent zondagavond met enige vertraging zijn seizoen in La Liga. De titelverdediger begint aan de competitie met een verplaatsing naar Elche, maar zonder Bisiwu in de wedstrijdselectie."
+        },
+        {
+          "title": "Hansi Flick en Barcelona nemen het in de laatste test op tegen Elche.",
+          "source": "Notizie.it",
+          "url": "https://www.notizie.it/nl/Hansi-Flick-en-Barcelona-staan-%E2%80%8B%E2%80%8Bvoor-een-zware-test-tegen-Lelche./",
+          "publishedDate": "Sat, 22 Aug 2026 11:25:00 GMT",
+          "description": "Het Barcelona van Hansi Flick trapt het seizoen 2026/27 af met een wedstrijd tegen Elche. Laten we, met de nieuwe aanwinsten en de afwezigheden in het team, de strategie&#235;n van de Catalaanse club eens ..."
+        },
+        {
+          "title": "FC Barcelona in openingsduel met Elche nog zonder Rodri",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/fc-barcelona-in-openingsduel-met-elche-nog-zonder-rodri",
+          "publishedDate": "Sat, 22 Aug 2026 06:29:00 GMT",
+          "description": "BARCELONA (ANP) - FC Barcelona moet het zondag in de eerste competitiewedstrijd van het nieuwe seizoen nog doen zonder Rodri. De van Manchester City overgekomen middenvelder zit nog niet bij de select ..."
+        },
+        {
+          "title": "Elche vs Barcelona voorspelling, tips en quotes | 23/08/2026",
+          "source": "Eurosport",
+          "url": "https://www.eurosport.nl/weddenschappen/voorspellingen/elche-vs-barcelona-voorspelling-tips-en-quotes-23-08-2026/",
+          "publishedDate": "Fri, 21 Aug 2026 14:24:00 GMT",
+          "description": "Op langere termijn overheerst Barcelona het onderlinge duel volledig, met 36 zeges tegenover 9 voor Elche en 12 gelijke spelen in 57 ontmoetingen in alle competities. Elche moet al teruggaan naar 1974 ..."
+        }
+      ]
     },
     {
       "keyword": "newcastle - liverpool",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Late gelijkmaker Liverpool tegen Newcastle in duel met scorende Gakpo en debuterende Steur",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628060-late-gelijkmaker-liverpool-tegen-newcastle-in-duel-met-scorende-gakpo-en-debuterende-steur",
+          "publishedDate": "Sun, 23 Aug 2026 11:27:00 GMT",
+          "description": "De wedstrijd op St. James' Park eindigt in 2-2. Dominik Szoboszlai maakt in de 99ste minuut vanaf de strafschopstip gelijk."
+        },
+        {
+          "title": "Live PL | Liverpool opnieuw op achterstand bij Newcastle, bekijk de tussenstand",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6407277/live-pl-liverpool-opnieuw-op-achterstand-bij-newcastle-bekijk-de-tussenstand.html",
+          "publishedDate": "Sun, 23 Aug 2026 08:30:00 GMT",
+          "description": "Liverpool trapt het Premier League-seizoen af met een uitwedstrijd bij Newcastle United. Met Virgil van Dijk, Ryan Gravenberch, Jeremie Frimpong, Cody Gakpo (Liverpool), Sean Steur en Sven Botman (New ..."
+        },
+        {
+          "title": "Spektakel in Newcastle met zes Nederlanders op het veld: Szoboszlai redt in 99ste minuut punt voor Liverpool",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/spektakel-in-newcastle-met-zes-nederlanders-op-het-veld-szoboszlai-redt-in-99ste-minuut-punt-voor-liverpool~a4852b2b/",
+          "publishedDate": "Sun, 23 Aug 2026 04:16:00 GMT",
+          "description": "Liverpool is het nieuwe seizoen in de Premier League begonnen met een 2-2 gelijkspel bij Newcastle United. Bij het debuut van Andoni Iraola (de opvolger van Arne Slot) leek Liverpool te gaan verliezen ..."
+        },
+        {
+          "title": "Britse media pakken &#233;&#233;n Nederlander hard aan na Newcastle United - Liverpool",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/britse-media-pakken-%C3%A9%C3%A9n-nederlander-hard-aan-na-newcastle-united-liverpool/ar-AA2aLBRy",
+          "publishedDate": "Sun, 23 Aug 2026 15:20:00 GMT",
+          "description": "Jeremie Frimpong heeft zondag geen goede beurt gemaakt in de Engelse media. De Nederlander kende een moeizame middag tijdens het spectaculaire gelijkspel tussen Newcastle United en Liverpool (2-2). Th ..."
+        },
+        {
+          "title": "Liverpool pakt laat punt bij Newcastle na penalty van Szoboszlai",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/liverpool-laat-punt-newcastle-penalty-szoboszlai/",
+          "publishedDate": "Sun, 23 Aug 2026 14:32:00 GMT",
+          "description": "Cody Gakpo maakte gelijk, maar pas na een penalty diep in blessuretijd sleepte Liverpool een punt uit de brand."
+        },
+        {
+          "title": "Liverpool ontsnapt aan valse start tegen Newcastle en redt punt in laatste seconde",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/liverpool-ontsnapt-aan-valse-start-tegen-newcastle-en-redt-punt-in-laatste-seconde/ar-AA2aLY3Z",
+          "publishedDate": "Sun, 23 Aug 2026 10:40:26 GMT",
+          "description": "Met zes Nederlanders aan de aftrap is zondag ook het Premier League-seizoen van Newcastle United en Liverpool begonnen. In de eerste offici&#235;le wedstrijd van Liverpool onder Andoni Iraola, de opvolger ..."
+        },
+        {
+          "title": "Met een penalty in de 96e minuut! Liverpool graait in extremis nog een puntje mee uit Newcastle",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/matches/voetbal/buitenland/eng/premier-league/2026-2027/regulier/01/newcastle-united-liverpool-met-een-penalty-in-de-96e-minuut-liverpool-graait-in-extremis-nog-een-puntje-mee-uit-newcastle~1784281210476/",
+          "publishedDate": "Sun, 23 Aug 2026 10:32:00 GMT",
+          "description": "En daar zullen ze nog spijt van krijgen, want in het ultieme slot krijgt Liverpool nog een penalty toegewezen na een overtreding van Hall. Szoboszlai zette zich achter de bal en bezorgt Liverpool zo ..."
+        },
+        {
+          "title": "Liverpool ontsnapt: Szoboszlai redt punt op bezoek in Newcastle",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/liverpool-ontsnapt-szoboszlai-redt-punt-op-bezoek-in-newcastle/ar-AA2aLLE8",
+          "publishedDate": "Sun, 23 Aug 2026 10:29:00 GMT",
+          "description": "Newcastle United heeft de overwinning weggegeven in het thuisduel met Liverpool. Diep in de extra speeltijd zorgde Dominik Szoboszlai vanaf elf meter voor het gelijkspel."
+        },
+        {
+          "title": "Praat mee op VP: Newcastle United – Liverpool met veel Nederlandse inbreng",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-newcastle-united-liverpool-met-veel-nederlandse-inbreng/ar-AA2aLjhX",
+          "publishedDate": "Sun, 23 Aug 2026 08:37:51 GMT",
+          "description": "Liverpool en Newcastle United kruisen de degens in de Premier League. De wedstrijd begint zondagmiddag om 17.30 uur. Volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+        },
+        {
+          "title": "Vermoedelijke opstellingen Newcastle en Liverpool: Nederlanders krijgen de kans",
+          "source": "VoetbalNieuws.nl",
+          "url": "https://www.voetbalnieuws.nl/nieuws/2126414/vermoedelijke-opstellingen-newcastle-en-liverpool-nederlanders-krijgen-de-kans.html",
+          "publishedDate": "Sun, 23 Aug 2026 04:00:00 GMT",
+          "description": "Newcastle United en Liverpool openen het seizoen op St James' Park. Van Dijk, Frimpong, Gravenberch en Gakpo lijken bij Liverpool te starten."
+        }
+      ]
+    },
+    {
+      "keyword": "groente",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Droogte maakt groente kleiner en duurder: aardbeien en aardappelen schieten omhoog in prijs",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/economie/droogte-maakt-groente-kleiner-en-duurder-aardbeien-en-aardappelen-schieten-omhoog-in-prijs~a6680feb/",
+          "publishedDate": "Wed, 12 Aug 2026 03:12:00 GMT",
+          "description": "Lichtere kroppen sla, kleinere kolen en duurdere aardbeien. Zo raakt de uitzonderlijke droogte de consument in de tas en de portemonnee. Meer prijseffecten zijn te verwachten omdat ook de oogst van aa ..."
+        },
+        {
+          "title": "Groente- en fruithandelaar die van markt in Assen werd geweerd, stopt er helemaal mee",
+          "source": "RTV Drenthe",
+          "url": "https://www.rtvdrenthe.nl/nieuws/18715138/groente-en-fruithandelaar-die-van-markt-in-assen-werd-geweerd-stopt-er-helemaal-mee",
+          "publishedDate": "Fri, 21 Aug 2026 22:00:00 GMT",
+          "description": "Nadat de marktkraam uit Assen werd geweerd, verdween deze ook van de markt in Rolde. Nu stopt het bedrijf ook in Appelscha."
+        },
+        {
+          "title": "Staphorster broers komen met lokale moestuinmarktplaats: „Ontwennen dat groente en fruit perfect gevormd is”",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1159818-staphorster-broers-komen-met-lokale-moestuinmarktplaats-ontwennen-dat-groente-en-fruit-perfect-gevormd-is",
+          "publishedDate": "Wed, 19 Aug 2026 04:36:00 GMT",
+          "description": "Wim en Laurens Bloemert zetten een onlinemoestuinplatform voor lokale oogst op poten. Alles om te voorkomen dat goede groente op de mestbult belandt."
+        },
+        {
+          "title": "Sandra verkoopt groente en fruit van lokale boeren: 'Wat je eet maakt echt een verschil'",
+          "source": "stadsbladutrecht.nl",
+          "url": "https://indebuurt.nl/delft/bedrijvigheid/ondernemer-uitgelicht/sandra-verkoopt-groente-en-fruit-van-lokale-boeren-wat-je-eet-maakt-echt-een-verschil~149802/",
+          "publishedDate": "Mon, 05 Jan 2026 21:03:00 GMT",
+          "description": "Bij de Hortus aan het Poortlandplein staat sinds kort een grote vlag met groente- en fruit erop. Deze vlag is van Rechtstreex, een webwinkel die producten verkoopt van lokale boeren en makers. In de ..."
+        },
+        {
+          "title": "Als je je groente op d&#233;ze manier klaarmaakt, ben je dus kennelijk het meest gezond bezig",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/beauty-health/a63685941/groente-bereiden-gezondste-manier/",
+          "publishedDate": "Thu, 06 Feb 2025 05:13:00 GMT",
+          "description": "We zijn allemaal op de hoogte van het feit dat het eten van groente veel goeds doet voor ons lichaam en onze gezondheid. Maar waar misschien minder onder ons van op de hoogte zijn, is dat de ..."
+        },
+        {
+          "title": "Meer PFAS gespoten op groente en fruit in Nederland: 'Een slechte ontwikkeling'",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/nieuws/binnenland/6855bf24-c953-4770-b0cd-39a2023e781a/meer-pfas-gespoten-op-groente-en-fruit-in-nederland-een-slechte-ontwikkeling",
+          "publishedDate": "Mon, 26 Feb 2024 23:30:00 GMT",
+          "description": "In Nederland en Belgi&#235; wordt het meeste PFAS gespoten op groente en fruit in vergelijking met de rest van Europa. Ook is de afgelopen tien jaar het gebruik van PFAS op groente en fruit verdrievoudigd, ..."
+        },
+        {
+          "title": "Schrappen van btw op groente en fruit blijkt moeilijk en weinig effectief",
+          "source": "NU",
+          "url": "https://www.nu.nl/economie/6257327/schrappen-van-btw-op-groente-en-fruit-blijkt-moeilijk-en-weinig-effectief.html",
+          "publishedDate": "Wed, 29 Mar 2023 08:35:00 GMT",
+          "description": "De kosten van de afschaffing van de btw op groente en fruit zouden bijna 550 miljoen euro tot 950 miljoen euro bedragen, afhankelijk van de afbakening. De onderzoekers stellen dat hierdoor maximaal 4 ..."
+        },
+        {
+          "title": "Waarom kom je in een supermarkt eerst langs de groente- en fruitafdeling?",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/eten/eten-drinken/a34041357/supermarkt-eerst-langs-groente-fruit/",
+          "publishedDate": "Wed, 30 Sep 2020 08:18:00 GMT",
+          "description": "Niets is zo verleidelijk als een groot schap vol kleurrijke en verse groente. Een supermarkt waar de bananen er fris groen-geel uitzien, komt beter over dan een winkel waar de fruitvliegen niet zijn ..."
+        },
+        {
+          "title": "Petra Hegeman (De Groentefactory) teelt groente in een zeecontainer",
+          "source": "groentennieuws",
+          "url": "https://www.groentennieuws.nl/article/167734/petra-hegeman-de-groentefactory-teelt-groente-in-een-zeecontainer/",
+          "publishedDate": "Thu, 18 Jan 2018 16:00:00 GMT",
+          "description": "Tholen - Sinds december oogst Petra Hegeman diverse soorten sla, boerenkool en diverse soorten kruiden in haar Leafy Green Machine - een grote zeecontainer die is ingericht als een volledig ..."
+        },
+        {
+          "title": "Is meer groente en fruit echt veel gezonder?",
+          "source": "rtl",
+          "url": "https://www.rtl.nl/nieuws/nederland/artikel/1970856/meer-groente-en-fruit-echt-veel-gezonder",
+          "publishedDate": "Wed, 02 Apr 2014 04:26:00 GMT",
+          "description": "1. Wat zegt het Voedingscentrum? Twee ons groente en twee stuks fruit, is het advies van het Voedingscentrum. &quot;Vers, pot, blik: het is net zo gezond&quot;, benadrukt professor Martijn Katan, emeritus ..."
+        }
+      ]
     },
     {
       "keyword": "mishandeling",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Vrouw en baby springen van balkon na mishandeling in woning Ridderkerk, 35-jarige man aangehouden",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-ridderkerk/vrouw-en-baby-springen-van-balkon-na-mishandeling-in-woning-ridderkerk-35-jarige-man-aangehouden~a251a793/",
+          "publishedDate": "Sun, 23 Aug 2026 04:49:00 GMT",
+          "description": "De politie heeft zondagavond een 35-jarige man uit Rotterdam aangehouden voor betrokkenheid bij een mishandeling in een woning aan de Burgemeester de Gaaij Fortmanstraat in Ridderkerk. Een vrouw en ee ..."
+        },
+        {
+          "title": "Aanhouding voor mishandeling, mogelijk verband met asielopvang Engelen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627422-aanhouding-voor-mishandeling-mogelijk-verband-met-asielopvang-engelen",
+          "publishedDate": "Tue, 18 Aug 2026 11:49:00 GMT",
+          "description": "In juni werd een vrouw onder meer bespoten met rode verf. Er is nu een tweede verdachte aangehouden en de politie vermoedt een verband met de asieldiscussie."
+        },
+        {
+          "title": "Politie vermoedt link met asielopvang bij mishandeling van vrouw in Den Bosch",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/binnenland/6406738/politie-vermoedt-link-met-asielopvang-bij-mishandeling-van-vrouw-in-den-bosch.html",
+          "publishedDate": "Tue, 18 Aug 2026 11:49:00 GMT",
+          "description": "De politie heeft sterke vermoedens dat de mishandeling van een vrouw in Den Bosch afgelopen juni verband houdt met uitingen rondom de komst van een asielopvang voor jongeren. Er zijn inmiddels twee ma ..."
+        },
+        {
+          "title": "Buschauffeur zwaargewond in Eijsden na mishandeling door jongeren die niet wilden inchecken",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/buschauffeur-zwaargewond-in-eijsden-na-mishandeling-door-jongeren-die-niet-wilden-inchecken~a6c5528f/",
+          "publishedDate": "Tue, 18 Aug 2026 08:18:00 GMT",
+          "description": "Een buschauffeur van Arriva is maandagmiddag zwaargewond geraakt bij een mishandeling in het Limburgse Eijsden. De twee verdachten sloegen daarna op de vlucht, &#233;&#233;n van hen is nog spoorloos."
+        },
+        {
+          "title": "Minister Monorath wacht onderzoek af naar vermeende mishandeling politie-rekruut",
+          "source": "Starnieuws",
+          "url": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/93554",
+          "publishedDate": "Sat, 22 Aug 2026 13:53:00 GMT",
+          "description": "Minister Harish Monorath van Justitie en Veiligheid wil niet vooruitlopen op het onderzoek naar de vermeende mishandeling van een politie-rekruut ..."
+        },
+        {
+          "title": "Buschauffeur zwaargewond na mishandeling in Eijsden, minderjarige verdachte aangehouden",
+          "source": "Transport Online",
+          "url": "https://www.transport-online.nl/135299/buschauffeur-zwaargewond-na-mishandeling-in-eijsden-minderjarige-verdachte-aangehouden/",
+          "publishedDate": "Tue, 18 Aug 2026 13:48:00 GMT",
+          "description": "EIJSDEN – Een buschauffeur van Arriva is maandagmiddag 17 augustus zwaargewond geraakt nadat hij bij een bushalte in Eijsden door twee personen werd mishandeld. De chauffeur werd geschopt en geslagen ..."
+        },
+        {
+          "title": "Buschauffeur zwaargewond na mishandeling door zwartrijders in Eijsden",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/artikelen/limburg-eijsden-buschauffeur-mishandeld-zwartrijders-arriva",
+          "publishedDate": "Tue, 18 Aug 2026 04:46:00 GMT",
+          "description": "Een buschauffeur van Arriva is in Eijsden zwaargewond geraakt nadat twee personen hem buiten zijn bus schopten en sloegen. De twee weigerden te betalen voor hun rit."
+        },
+        {
+          "title": "Politie deelt beelden van verdachte van mishandeling treinconducteur",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2240209/politie-deelt-beelden-van-verdachte-van-mishandeling-treinconducteur",
+          "publishedDate": "Mon, 17 Aug 2026 06:07:00 GMT",
+          "description": "De politie heeft maandag beelden gedeeld van een verdachte van een mishandeling van een treinconducteur bij station Sliedrecht. Vermoedelijk is de verdachte minderjarig."
+        },
+        {
+          "title": "Politie houdt twee verdachten aan na mishandeling in Dorst",
+          "source": "politie.nl",
+          "url": "https://www.politie.nl/nieuws/2026/augustus/14/08-politie-houdt-twee-verdachten-aan-na-mishandeling-in-dorst.html",
+          "publishedDate": "Fri, 14 Aug 2026 06:22:00 GMT",
+          "description": "De politie kreeg op zondagavond 9 augustus een melding dat er mogelijk zou zijn geschoten op een camping aan de Klein Oosterhout in Dorst. Hulpdiensten, waaronder een traumahelikopter en meerdere poli ..."
+        },
+        {
+          "title": "[VIDEO] Twee verdachten gezocht na zware mishandeling in Uithoorn",
+          "source": "0297.nl",
+          "url": "https://0297.nl/nieuws/91730/video-twee-verdachten-gezocht-na-zware-mishandeling-in-uithoorn",
+          "publishedDate": "Wed, 12 Aug 2026 00:41:00 GMT",
+          "description": "Na een avondje in de kroeg harde schoppen en klappen krijgen als je staat te praten. Het overkomt een 18-jarig ..."
+        }
+      ]
     },
     {
       "keyword": "sigrid kaag",
       "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "sos gebaar",
-      "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Sigrid Kaag zong als studente in Egypte Franse chansons in een bar, vertelde ze in Zomergasten",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/han-lips/sigrid-kaag-zong-als-studente-in-egypte-franse-chansons-in-een-bar-vertelde-ze-in-zomergasten~b15126fd/",
+          "publishedDate": "Mon, 24 Aug 2026 00:33:00 GMT",
+          "description": "In de rubriek Han Lips schrijven verschillende redacteuren van Het Parool elke dag over wat hun opvalt op tv. Vandaag: Zomergasten, met Sigrid Kaag."
+        },
+        {
+          "title": "Sigrid Kaag kiest in Zomergasten voor ‘menselijkheid’, van geopolitiek en van haarzelf",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/08/24/verslag-zomergasten-kaag-door-tristan-a4935021",
+          "publishedDate": "Sun, 23 Aug 2026 20:37:00 GMT",
+          "description": "ZAP: Diplomaat, VN-gezant en voormalig vicepremier Sigrid Kaag was de vijfde Zomergast. Ze koos „menselijkheid” als rode lijn: van de geopolitiek, van haarzelf en als iets om naar te streven."
+        },
+        {
+          "title": "Sigrid Kaag toont zich in ‘Zomergasten’ een vrouw die streng is voor zichzelf, maar veel mededogen heeft met de ander",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/televisie/sigrid-kaag-toont-zich-in-zomergasten-een-vrouw-die-streng-is-voor-zichzelf-maar-veel-mededogen-heeft-met-de-ander~b7bb4eee/",
+          "publishedDate": "Sun, 23 Aug 2026 20:10:00 GMT",
+          "description": "In de voorlaatste Zomergasten gaf Sigrid Kaag drie uur lang een boeiend inkijkje in haar studententijd, indrukwekkende (geo)politieke loopbaan en specialisatie in ‘foute types’. Met als bonus zowaar o ..."
+        },
+        {
+          "title": "Kaag zegt dat VS haar wilde als secretaris-generaal van de VN: ‘Maar Nederland liet het op zijn beloop’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/kaag-zegt-dat-vs-haar-wilde-als-secretaris-generaal-van-de-vn-maar-nederland-liet-het-op-zijn-beloop~a92cd84e/",
+          "publishedDate": "Sun, 23 Aug 2026 08:01:00 GMT",
+          "description": "Sigrid Kaag heeft in Zomergasten gezegd dat de Verenigde Staten Nederland tien jaar geleden hebben gevraagd of Kaag zich beschikbaar wilde stellen als mogelijke nieuwe secretaris-generaal van de Veren ..."
+        },
+        {
+          "title": "De Volkskrant tv-selectie voor zondag 23 augustus",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/ditjes/de-volkskrant-tv-selectie-voor-zondag-23-augustus~bd5edc39/",
+          "publishedDate": "Fri, 21 Aug 2026 06:22:00 GMT",
+          "description": "Elke dag tipt de redactie van de Volkskrant de beste programma’s en films op televisie. Dit zijn die van zondag."
+        },
+        {
+          "title": "Voor Sigrid Kaag is de wederopbouw van Gaza niet de eerste uitdagende VN-missie",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/voor-sigrid-kaag-is-de-wederopbouw-van-gaza-niet-de-eerste-uitdagende-vn-missie~b72984b7/",
+          "publishedDate": "Sat, 23 Dec 2023 11:31:00 GMT",
+          "description": "Sigrid Kaag stopt op 8 januari als demissionair minister van financi&#235;n en vicepremier. Ze gaat voor de Verenigde Naties de wederopbouw van Gaza co&#246;rdineren. Kaag maakte dat dinsdagavond zelf bekend."
+        },
+        {
+          "title": "Sigrid Kaag zegt dat VS haar voorstelden als secretaris-generaal Verenigde Naties",
+          "source": "vandaaginside",
+          "url": "https://www.vandaaginside.nl/politiek/nederlandse-politiek/artikelen/sigrid-kaag-zegt-dat-vs-haar-voorstelden-als-secretaris-generaal-verenigde",
+          "publishedDate": "Sun, 23 Aug 2026 23:48:00 GMT",
+          "description": "Sigrid Kaag heeft in Zomergasten gezegd dat de Verenigde Staten Nederland tien jaar geleden hebben gevraagd of Kaag zich beschikbaar wilde stellen als mogelijke nieuwe secretaris-generaal van de Veren ..."
+        },
+        {
+          "title": "Sigrid Kaag: &quot;VS vroegen mij als secretaris-generaal van de VN&quot;",
+          "source": "FOK!",
+          "url": "https://frontpage.fok.nl/nieuws/893512/1/1/50/sigrid-kaag-vs-vroegen-mij-als-secretaris-generaal-van-de-vn.html",
+          "publishedDate": "Sun, 23 Aug 2026 16:02:00 GMT",
+          "description": "De Verenigde Staten hebben Sigrid Kaag tien jaar geleden gevraagd zich beschikbaar te stellen als mogelijke nieuwe secretaris-generaal van de Verenigde Naties. Dat zegt de voormalig D66-leider zondag ..."
+        },
+        {
+          "title": "Sigrid Kaag zondag te gast in 'Zomergasten'",
+          "source": "tvvisie",
+          "url": "https://tvvisie.nl/inhoud/nederland/22augustus2026/sigrid-kaag-zondag-te-gast-in-zomergasten_141955/",
+          "publishedDate": "Fri, 21 Aug 2026 17:00:00 GMT",
+          "description": "Internationaal onderhandelaar en oud-politicus Sigrid Kaag (Rijswijk, 1961) is op zondag 23 augustus de vijfde gast in 'VPRO Zomergasten'."
+        },
+        {
+          "title": "Kaag stopt als minister en gaat hulp en wederopbouw Gaza co&#246;rdineren voor VN",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/politiek/kaag-stopt-als-minister-en-gaat-hulp-en-wederopbouw-gaza-coordineren-voor-vn~a9936a73/",
+          "publishedDate": "Tue, 26 Dec 2023 03:13:00 GMT",
+          "description": "Sigrid Kaag stopt als demissionair minister van Financi&#235;n omdat ze voor de Verenigde Naties de wederopbouw van Gaza gaat co&#246;rdineren. D66-leider Rob Jetten neemt haar portefeuille formeel tijdelijk ..."
+        }
+      ]
     },
     {
       "keyword": "hillegom",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Jan Modaal heeft in Hillegom opnieuw meer woningen om uit te kiezen: twee vallen er binnen budget",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/hillegom/jan-modaal-heeft-in-hillegom-opnieuw-meer-woningen-om-uit-te-kiezen-twee-vallen-er-binnen-budget~a73b6edb/",
+          "publishedDate": "Fri, 21 Aug 2026 04:00:00 GMT",
+          "description": "Met een modaal inkomen kun je in Hillegom op dit moment meer te koop staande woningen betalen dan precies een jaar geleden. Het merendeel van de huizen blijft hier met maar &#233;&#233;n inkomen onbetaalbaar. L ..."
+        },
+        {
+          "title": "Hege (51) vermist uit Hillegom, politie vraagt om hulp",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/vermissing/artikelen/zuid-holland-hillegom-vrouw-vermist-grijze-fiat-500",
+          "publishedDate": "Sun, 23 Aug 2026 22:48:00 GMT",
+          "description": "De 51-jarige Hege wordt sinds zondagnacht vermist uit Hillegom. Ze vertrok rond 01.00 uur in een grijze Fiat 500 met zwart panoramadak. De politie vraagt mensen die Hege hebben gezien of weten waar zi ..."
+        },
+        {
+          "title": "112 Hillegom: actueel overzicht 112 meldingen vandaag",
+          "source": "Alarmeringen",
+          "url": "https://alarmeringen.nl/zuid-holland/hollands-midden/hillegom/",
+          "publishedDate": "Sun, 23 Aug 2026 17:00:00 GMT",
+          "description": "08-12 Aanhouding voor explosie Hillegom 20-11 Getuigen gezocht explosie Hillegom 15-11 Explosie bij woning, recherche doet onderzoek in Hillegom 04-07 Verdachten aangehouden voor mishandeling ..."
+        },
+        {
+          "title": "Politie zoekt dringend naar vermiste Hege (51) uit Hillegom",
+          "source": "moordplekken",
+          "url": "https://www.moordplekken.nl/blog/vermissing-hege-51-hillegom-grijze-fiat-500",
+          "publishedDate": "Sun, 23 Aug 2026 16:15:00 GMT",
+          "description": "Hege is voor het laatst gezien in Hillegom en vertrok daar rond 01:00 uur 's nachts. Sindsdien ontbreekt ieder spoor van haar. Om de zoektocht te versnellen, heeft de politie een duidelijk signalement ..."
+        },
+        {
+          "title": "Vrouw (51) vermist nadat ze 's nachts vertrok met auto",
+          "source": "Omroep West",
+          "url": "https://www.omroepwest.nl/112/5140652/vrouw-51-vermist-nadat-ze-s-nachts-vertrok-met-auto",
+          "publishedDate": "Sun, 23 Aug 2026 11:01:00 GMT",
+          "description": "De 51-jarige Hege uit Hillegom wordt sinds de nacht van zaterdag op zondag vermist. De politie heeft daarom de naam en foto van de vrouw openbaar gemaakt."
+        },
+        {
+          "title": "Ongeval met letsel op Floraplein in Hillegom, traumahelikopter gealarmeerd",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/zuid-holland/hollands-midden/hillegom/55724641/p2000-ongeval-met-letsel-op-floraplein-in-hillegom.html",
+          "publishedDate": "Fri, 21 Aug 2026 05:51:00 GMT",
+          "description": "De hulpdiensten zijn vrijdagmiddag uitgerukt voor een ongeval met letsel op de kruising het Floraplein en Ambachtstraat in Hillegom."
+        },
+        {
+          "title": "Moordonderzoek in een Hillegoms dahliaveld. Niet echt, wel net echt",
+          "source": "Noordhollands Dagblad",
+          "url": "https://www.noordhollandsdagblad.nl/regio/haarlem/moordonderzoek-in-een-hillegoms-dahliaveld.-niet-echt-wel-net-echt/160044555.html",
+          "publishedDate": "Fri, 14 Aug 2026 10:59:00 GMT",
+          "description": "Consternatie, blauwe zwaailichten, blaffende politiehonden en veel vreemd volk donderdag aan de Noorder Leidsevaart in Hillegom. Was er iets vreselijks gebeurd? Nou, niet echt. Maar wel net echt. Bij ..."
+        },
+        {
+          "title": "Hier zijn huizenprijzen niet gestegen, maar juist gedaald: 'Stuk minder bezichtigingen'",
+          "source": "Omroep West",
+          "url": "https://www.omroepwest.nl/economie/5137447/hier-zijn-huizenprijzen-niet-gestegen-maar-juist-gedaald-stuk-minder-bezichtigingen",
+          "publishedDate": "Wed, 12 Aug 2026 22:00:00 GMT",
+          "description": "In heel de regio is de gemiddelde huizenprijs van koopwoningen wederom (flink) gestegen. Dat blijkt uit de nieuwe cijfers die het Centraal Bureau voor de Statistiek (CBS) heeft gepubliceerd. Maar tuss ..."
+        },
+        {
+          "title": "Blauwe Tram is d&#233; topper van de Hillegomse brouwerij Klein Duimpje: ’Als je er een stuk of vier op hebt, gaat-ie terugkoppen’",
+          "source": "Haarlems Dagblad",
+          "url": "https://www.haarlemsdagblad.nl/regio/haarlem/blauwe-tram-is-de-topper-van-de-hillegomse-brouwerij-klein-duimpje-als-je-er-een-stuk-of-vier-op-hebt-gaat-ie-terugkoppen/159819791.html",
+          "publishedDate": "Mon, 10 Aug 2026 08:00:00 GMT",
+          "description": "De Hillegomse bierbrouwerij mag dan Klein Duimpje heten, echt mini kun je de flink uit de hand gelopen hobby van Erik Bouman (67) niet noemen. Inmiddels heeft hij de op een na grootste ambachtelijke b ..."
+        },
+        {
+          "title": "Opnieuw explosie in Hillegom, minderjarige verdachte aangehouden",
+          "source": "RD",
+          "url": "https://www.rd.nl/artikel/1128644-opnieuw-explosie-in-hillegom-minderjarige-verdachte-aangehouden",
+          "publishedDate": "Thu, 20 Nov 2025 05:44:00 GMT",
+          "description": "Bij een woning aan de Frederik Hendriklaan in Hillegom is in de nacht van woensdag op donderdag een explosief afgegaan. Daardoor raakte de woning zwaar beschadigd. De politie heeft een minderjarige ..."
+        }
+      ]
     }
   ]
 }
