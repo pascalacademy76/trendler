@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T05:56:15.191Z",
+  "fetchedAt": "2026-08-25T06:39:08.631Z",
   "trends": [
     {
       "keyword": "groente",
@@ -78,82 +78,6 @@
       ]
     },
     {
-      "keyword": "onweer",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Het wordt deze week steeds warmer, later is er kans op fors onweer",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628026-het-wordt-deze-week-steeds-warmer-later-is-er-kans-op-fors-onweer",
-          "publishedDate": "Sun, 23 Aug 2026 09:11:00 GMT",
-          "description": "Morgen wordt het 21 tot 24 graden met in het hele land flink wat zon. Dinsdag wordt het zelfs nog iets warmer."
-        },
-        {
-          "title": "Wisselend bewolkt en enkele buien, soms met onweer",
-          "source": "RTL Nieuws (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/weer/meteorologie/wisselend-bewolkt-en-enkele-buien-soms-met-onweer/ar-AA2aCjuJ",
-          "publishedDate": "Thu, 20 Aug 2026 21:16:04 GMT",
-          "description": "Er staan vandaag behoorlijk wat buien op de planning, soms gepaard met onweer. Er trekt namelijk een storing over, van noordwest naar zuidoost. In de middag komt er vanuit het noordoosten geleidelijk ..."
-        },
-        {
-          "title": "Tropische hitte niet helemaal uit Europa verdreven, volgende week onweer op komst",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/tropische-hitte-niet-helemaal-uit-europa-verdreven-volgende-week-onweer-op-komst~ad88e7fd/",
-          "publishedDate": "Fri, 14 Aug 2026 23:06:00 GMT",
-          "description": "De echte hitte wordt in bijna heel Europa verdreven komende week. In de Engelse hoofdstad, waar de parken eerder een woestijn lijken, is de regen er meer dan welkom."
-        },
-        {
-          "title": "Warm en vochtig weer met kans op stevige buien en onweer",
-          "source": "Culturu",
-          "url": "https://www.culturu.com/nieuws/suriname/warm-en-vochtig-weer-met-kans-op-stevige-buien-en-onweer/",
-          "publishedDate": "Mon, 24 Aug 2026 13:03:00 GMT",
-          "description": "Suriname nieuws - Suriname krijgt vandaag te maken met warm en vochtig weer. Hoewel de dag op veel plaatsen met bewolking begint, neemt vooral in de middag en avond de kans ..."
-        },
-        {
-          "title": "Donderdag mogelijk onweer door erg hoge CAPE-waarde: zo werkt dat",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/eindhoven/donderdag-mogelijk-onweer-door-erg-hoge-cape-waarde-zo-werkt-dat~a335a91a/",
-          "publishedDate": "Mon, 24 Aug 2026 12:52:00 GMT",
-          "description": "Het leek wel een aaneenschakeling van hittegolven, maar de zomer krijgt mogelijk een nat staartje. De komende twee weken wordt vrijwel elke dag regen voorspeld. Vooral komende donderdag en vrijdag kan ..."
-        },
-        {
-          "title": "Zon, maar ook regen, wind en onweer verwacht: 'We krijgen van alles wat'",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/natuur/5140582/zon-maar-ook-regen-wind-en-onweer-verwacht-we-krijgen-van-alles-wat",
-          "publishedDate": "Sun, 23 Aug 2026 11:00:00 GMT",
-          "description": "In de laatste week van de zomervakantie wordt wisselvallig weer verwacht. Volgens weerman Jordi Bloem kunnen we rekenen op zon, maar kan het zeker later in de week ook gaan regenen en onweren. 'We kri ..."
-        },
-        {
-          "title": "Na lange droogte veel onweer en regen in zuidoosten Frankrijk",
-          "source": "Nederlands Dagblad",
-          "url": "https://www.nd.nl/varia/varia/1328230/na-lange-droogte-veel-onweer-en-regen-in-zuidoosten-frankrijk",
-          "publishedDate": "Fri, 21 Aug 2026 06:53:00 GMT",
-          "description": "Na een lange periode van droogte zijn in het zuidoosten van Frankrijk hevige onweers- en regenbuien losgebarsten in met name in het departement Var, waar Saint-Tropez en Toulon liggen. Het vooral ..."
-        },
-        {
-          "title": "Onweer en regen trekken over het land, ook kans op stevige rukwinden",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/21/weerbericht-21-22-23-augustus/",
-          "publishedDate": "Thu, 20 Aug 2026 22:01:00 GMT",
-          "description": "Het warme zomerweer laat zich de volgende dagen niet zien. Vandaag krijgen we regen en soms onweer, met felle rukwinden. Ook morgen blijft het wisselvallig. Zondag zou het droog blijven, maar voor ech ..."
-        },
-        {
-          "title": "Wisselvallige week op komst: veel regen en kans op onweer",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/weer/weerbericht/artikelen/weer-nederland-regen-buien-onweer-koeler-week",
-          "publishedDate": "Sun, 16 Aug 2026 22:57:00 GMT",
-          "description": "Nederland krijgt een wisselvallige week met geregeld regen en buien. Woensdag kunnen buien gepaard gaan met onweer en in de kustprovincies kan lokaal veel regen vallen. Richting het weekend daalt de t ..."
-        },
-        {
-          "title": "Onweer en harde wind gooit roet in eten van IJsselmeermarathon. ’Ze namen niet eens de moeite om even naar Friesland te komen’",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/sport/sport-westfriesland/onweer-en-harde-wind-gooit-roet-in-eten-van-ijsselmeermarathon.-ze-namen-niet-eens-de-moeite-om-even-naar-friesland-te-komen/160043684.html",
-          "publishedDate": "Sun, 16 Aug 2026 10:33:00 GMT",
-          "description": "De afgelasting van de 58ste IJsselmeermarathon was een bittere pil voor de zeven deelnemers en organisatie. Terwijl zwemmers en coaches in Stavoren waren, kregen ze vanuit Medemblik telefonisch de med ..."
-        }
-      ]
-    },
-    {
       "keyword": "wesley sneijder",
       "trafficLabel": "10K+",
       "articles": [
@@ -163,6 +87,20 @@
           "url": "https://www.telegraaf.nl/sport/voetbal/ongeloof-in-engeland-en-bijval-voor-wesley-sneijder-na-uitspraken-over-schitterende-vrije-trappen-declan-rice/64075743.html",
           "publishedDate": "Wed, 09 Apr 2025 08:14:00 GMT",
           "description": "Volgens de 40-jarige recordinternational van Nederland stond de muur bij de eerste vrije trap van Rice niet goed opgesteld. ,,Het is een beetje gek ik dat ik het zeg: maar dit lijkt heel moeilijk, ..."
+        },
+        {
+          "title": "Met ‘Sneijder’ verkent Kees Jansma de ondergrens van het genre",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2020/07/10/met-sneijder-verkent-kees-jansma-de-ondergrens-van-het-genre-a4005553",
+          "publishedDate": "Fri, 10 Jul 2020 02:36:00 GMT",
+          "description": "Iedereen leest Op deze plek schrijft NRC over de populairste boeken van dit moment. Deze week: Sneijder van Kees Jansma, die koos voor een zuiver voetbalboek over een ‘voetballer zonder verhaal of ..."
+        },
+        {
+          "title": "Foto’s: dit is de knappe ex-vrouw van Wesley Sneijder (v&#243;&#243;r Yolanthe)",
+          "source": "MAN MAN on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/foto-s-dit-is-de-knappe-ex-vrouw-van-wesley-sneijder-v%C3%B3%C3%B3r-yolanthe/ar-AA1SouI7",
+          "publishedDate": "Mon, 24 Aug 2026 23:27:01 GMT",
+          "description": "Ontdek wie Ramona Streekstra is: ex-vrouw van Wesley Sneijder, moeder van Jessey en de stille kracht achter het talent van Jong FC Utrecht."
         },
         {
           "title": "Foto's: dit is de 17 jaar jongere (en prachtige) vriendin van Wesley Sneijder",
@@ -212,20 +150,6 @@
           "url": "https://www.hln.be/eredivisie/wesley-sneijder-die-rol-in-sportieve-staf-fc-utrecht-wel-ziet-zitten-sneert-naar-van-den-brom-iedereen-is-happy-dat-hij-weg-is~ae032596/",
           "publishedDate": "Tue, 15 Dec 2020 18:07:00 GMT",
           "description": "Wesley Sneijder staat ervoor open om eventueel bij FC Utrecht aan de slag te gaan. De naam van de recordinternational wordt als mogelijke assistent-trainer in verband gebracht met Mark van Bommel, die ..."
-        },
-        {
-          "title": "Wesley Sneijder, machtig mannetje uit Ondiep",
-          "source": "Vi",
-          "url": "https://www.vi.nl/nieuws/wesley-sneijder-machtig-mannetje-uit-ondiep",
-          "publishedDate": "Thu, 06 Sep 2018 05:00:00 GMT",
-          "description": "Voor Wesley Sneijder was 2010 magisch. Hij won de Italiaanse Super Cup, de Coppa Italia, de landstitel, de Champions League, de Wereldbeker voor clubs en... N&#233;t niet het WK in Zuid-Afrika. Een ..."
-        },
-        {
-          "title": "Schooljuf van Sneijder: Wes blijft altijd een kind van Ondiep",
-          "source": "AD",
-          "url": "https://www.ad.nl/utrecht/schooljuf-van-sneijder-wes-blijft-altijd-een-kind-van-ondiep~ade03de6/",
-          "publishedDate": "Wed, 05 Sep 2018 22:00:00 GMT",
-          "description": "In de klas van juf Bianca Lodder (53) hangt een ingelijst en gesigneerd Oranjeshirt van Wesley Sneijder prominent naast het schoolbord. De kinderen in groep 1 en 2, die Lodder les geeft, zijn te jong ..."
         }
       ]
     },
@@ -269,13 +193,6 @@
           "description": "Frans Bauer is openhartig over zijn moeder Wies, die aan alzheimer lijdt. Hoewel de zanger blij is dat het naar omstandigheden goed met haar gaat, wordt hij ook geconfronteerd met de gevolgen van de z ..."
         },
         {
-          "title": "Nieuw jaar, nieuwe look: Frans Bauer scheert zijn hoofd kaal voor derde haartransplantatie",
-          "source": "AD",
-          "url": "https://www.ad.nl/moerdijk/nieuw-jaar-nieuwe-look-frans-bauer-scheert-zijn-hoofd-kaal-voor-derde-haartransplantatie~a45a7738/",
-          "publishedDate": "Thu, 26 Dec 2024 22:56:00 GMT",
-          "description": "‘Hoppaaaaaa!!!! I did it again!! Met een glad koppie het nieuwe jaar in!’ Zo schrijft hij op Facebook en Instagram. Op sociale media zijn de reacties gemengd. Sommige volgers juichen de nieuwe look ..."
-        },
-        {
           "title": "Frans Bauer Junior over roddels over zijn liefdesleven: 'Je moet altijd eerlijk zijn’",
           "source": "AD",
           "url": "https://www.ad.nl/show/frans-bauer-junior-over-roddels-over-zijn-liefdesleven-je-moet-altijd-eerlijk-zijn~aa3108c6/",
@@ -310,30 +227,23 @@
           "description": "LONDEN (ANP) - Chelsea heeft in de eerste speelronde van de Premier League gewonnen bij Fulham. In de West-Londense derby in Craven Cottage werd het 3-2 voor de bezoekers. Door de overwinning staat Ch ..."
         },
         {
-          "title": "Cole Palmer schittert en bezorgt Xabi Alonso droomstart bij Chelsea",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/cole-palmer-schittert-en-bezorgt-xabi-alonso-droomstart-bij-chelsea/blt5703c64babacf537",
-          "publishedDate": "Mon, 24 Aug 2026 15:54:00 GMT",
-          "description": "Xabi Alonso heeft bij zijn debuut als trainer in de Premier League direct een overwinning geboekt. Zijn Chelsea zegevierde op bezoek bij Fulham met 2-3. Man van de wedstrijd werd Cole Palmer, die met ..."
-        },
-        {
           "title": "Pedro, Rogers en uitblinker Palmer bezorgen Alonso droomstart in Engeland",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/pedro-rogers-en-uitblinker-palmer-bezorgen-alonso-droomstart-in-engeland/ar-AA2aQj2T",
-          "publishedDate": "Mon, 24 Aug 2026 14:06:16 GMT",
-          "description": "Het Xabi Alonso-tijdperk bij Chelsea is van start gegaan met een zege op Fulham. Op Craven Cottage eindigde een spectaculaire wedstrijd maandagavond in 3-2 voor de gasten. Chelsea kwam al na een halve ..."
+          "source": "Voetbalprimeur",
+          "url": "https://www.voetbalprimeur.be/nieuws/2127092/chelsea-wint-eerste-competitiewedstrijd-onder-alonso-met-3-2-bij-fulham.html",
+          "publishedDate": "Mon, 24 Aug 2026 14:00:00 GMT",
+          "description": "Chelsea heeft het tijdperk onder Xabi Alonso met drie punten ingezet. The Blues trokken maandagavond met 2-3 aan het langste eind tegen Fulham na een aantrekkelijk duel op Craven Cottage. Romeo Lavia ..."
         },
         {
-          "title": "Ketting Palmer-Pedro-tandem gesmeerd: Chelsea begint seizoen met zege",
+          "title": "Chelsea wint strijd der ontslagen Real-trainers in spektakelstuk tegen Fulham",
           "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/ketting-palmer-pedro-tandem-gesmeerd-chelsea-begint-seizoen-met-zege/ar-AA2aQAu7",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/chelsea-wint-strijd-der-ontslagen-real-trainers-in-spektakelstuk-tegen-fulham/ar-AA2aQAu7",
           "publishedDate": "Mon, 24 Aug 2026 13:57:00 GMT",
           "description": "Chelsea is het seizoen in de Premier League met een overwinning begonnen. Het was Xabi Alonso die als winnaar uit de strijd der ontslagen Real Madrid-trainers kwam, want het Fulham van &#193;lvaro Arbeloa ..."
         },
         {
           "title": "Praat mee op VP: Fulham – Chelsea",
           "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-chelsea-met-hato-en-aanwinst-rogers-tegen-fulham/ar-AA2aPu23",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-fulham-chelsea/ar-AA2aPu23",
           "publishedDate": "Mon, 24 Aug 2026 11:57:45 GMT",
           "description": "Fulham en Chelsea sluiten maandagavond de eerste speelronde van de Premier League af met een Londense derby. De wedstrijd begint om 21.00 uur, volg de wedstrijd hieronder in de live-omgeving van Voetb ..."
         },
@@ -352,6 +262,13 @@
           "description": "Chelsea is sterk aan de Premier League begonnen onder Xabi Alonso. De Blues wonnen met 2-3 op het veld van Fulham, terwijl Rom&#233;o Lavia met een degelijke basisbeurt ook een positief signaal gaf aan bon ..."
         },
         {
+          "title": "Xabi Alonso beleeft sterk debuut met Chelsea dankzij recordaankoop Morgan Rogers en Cole Palmer",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/voetbal/xabi-alonso-beleeft-sterk-debuut-met-chelsea-dankzij-recordaankoop-morgan-rogers-en-cole-palmer~aae4ac9e/",
+          "publishedDate": "Mon, 24 Aug 2026 07:01:00 GMT",
+          "description": "Chelsea heeft in de eerste speelronde van de Premier League gewonnen bij Fulham. In de vermakelijke West-Londense derby in Craven Cottage werd het 3-2 voor de bezoekers, waar Xabi Alonso zijn debuut m ..."
+        },
+        {
           "title": "Op welke zender kijk je Fulham – Chelsea live?",
           "source": "Soccernews.nl",
           "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-fulham-chelsea-live/",
@@ -364,6 +281,82 @@
           "url": "https://www.squawka.com/nl/nieuws/fulham-chelsea-opstellingen-statistieken-voorspelling-odds/",
           "publishedDate": "Tue, 06 Jan 2026 00:58:00 GMT",
           "description": "De Londense derby tussen Fulham en Chelsea staat opnieuw op het programma, en de spanning is te snijden. Met Stamford Bridge nog vers in het geheugen na de 2-0 zege van Chelsea eerder dit seizoen, zal ..."
+        }
+      ]
+    },
+    {
+      "keyword": "timothy b&amp;b vol liefde",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Timothy uit B&amp;B vol liefde bewees alle mensen die kritiek op hem hadden het tegendeel met deze actie",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/timothy-uit-benb-vol-liefde-bewees-alle-mensen-die-kritiek-op-hem-hadden-het-tegendeel-met-deze-actie~a847822f/",
+          "publishedDate": "Wed, 19 Aug 2026 06:20:00 GMT",
+          "description": "Even geen ordinaire grappen en dubbelzinnige opmerkingen: woensdagavond zag ik in B&amp;B vol liefde een kant van Timothy die me verraste."
+        },
+        {
+          "title": "Wat had Wadie uit B&amp;B vol liefde verwacht? Dat Timothy de paardenbloem zou inlijsten?",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/wat-had-wadie-uit-benb-vol-liefde-verwacht-dat-timothy-de-paardenbloem-zou-inlijsten~a63b3c67/",
+          "publishedDate": "Mon, 17 Aug 2026 15:20:00 GMT",
+          "description": "Nooit gedacht dat een paardenbloem (!) voor drama zou zorgen. Maar het gebeurde maandagavond toch echt in B&amp;B vol liefde."
+        },
+        {
+          "title": "B&amp;B vol liefde: Timothy bewijst dat hij meer diepgang heeft dan een blini",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/entertainment/media/bb-vol-liefde-timothy-bewijst-dat-hij-meer-diepgang-heeft-dan-een-blini/159818295.html",
+          "publishedDate": "Mon, 10 Aug 2026 15:25:00 GMT",
+          "description": "Er zijn in deze aflevering van B&amp;B vol liefde overduidelijk een paar exits aanstaande. Yvonne kampt met een vlinderkerkhof, Timothy wil geen therapeut zijn, Caroline is binnen mum van tijd uitgekeken ..."
+        },
+        {
+          "title": "'B&amp;B vol liefde-Timothy, dit is wel h&#233;&#233;l extreem'",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/video/bb-vol-liefde-timothy-dit-is-wel-heel-extreem/159716891.html",
+          "publishedDate": "Mon, 10 Aug 2026 00:02:00 GMT",
+          "description": "Timothy heeft in B&amp;B vol liefde continu contact met Micha&#235;l. Tijdens hun dates klotst het geld tegen de plinten en kan het niet op voor Timothy. Onlangs bleek dat zijn divagedrag hem duur komt te ..."
+        },
+        {
+          "title": "Timothy in B&amp;B Vol Liefde",
+          "source": "Girlscene",
+          "url": "https://www.girlscene.nl/realityster-timothy-bb-vol-liefde/",
+          "publishedDate": "Wed, 19 Aug 2026 03:57:00 GMT",
+          "description": "Tussen zijn B&amp;B Vol Liefde-avontuur door blijkt Timothy ook nog tijd te hebben voor een feestje met een bekend realitygezicht."
+        },
+        {
+          "title": "Zien: Eline en Timothy uit B&amp;B vol liefde zijn samen op Ibiza",
+          "source": "MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/zien-eline-en-timothy-uit-b-b-vol-liefde-zijn-samen-op-ibiza/ar-AA29L9OE",
+          "publishedDate": "Mon, 10 Aug 2026 01:48:00 GMT",
+          "description": "Wat krijg je als je twee B&amp;B Vol Liefde-deelnemers op hetzelfde zonnige eiland zet? Juist: een onverwachte B&amp;B-cross-over! Eline en Timothy kwamen elkaar tegen op Ibiza en dat zorgde voor een wel h&#233;&#233;l ..."
+        },
+        {
+          "title": "Door dit te verzwijgen maakt Timothy uit B&amp;B vol liefde de situatie alleen maar ingewikkelder",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/show/door-dit-te-verzwijgen-maakt-timothy-uit-benb-vol-liefde-de-situatie-alleen-maar-ingewikkelder~a451a75a/",
+          "publishedDate": "Wed, 05 Aug 2026 17:23:00 GMT",
+          "description": "Waarom is Timothy uit B&amp;B vol liefde niet gewoon eerlijk tegen zijn date? Dit maakt het alleen maar ingewikkelder. Het is tijd om het eens over Gordon, ehhhh, Timothy te hebben. Nee, ik ga zijn ..."
+        },
+        {
+          "title": "'Kriegelige' Timothy zet Peter buitenspel in B&amp;B vol liefde",
+          "source": "MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/kriegelige-timothy-zet-peter-buitenspel-in-b-b-vol-liefde/ar-AA29kpuT",
+          "publishedDate": "Mon, 03 Aug 2026 13:18:00 GMT",
+          "description": "Een priv&#233;jacht, kaviaar en champagne, het leven van Timothy ziet er altijd ros&#233;kleurig uit in 'B&amp;B Vol Liefde'. Maar naast zijn zijde is er maar plek voor een persoon en dat is niet Peter, heeft ..."
+        },
+        {
+          "title": "Timothy van B&amp;B vol liefde veroordeeld na een pittig huurconflict op Ibiza",
+          "source": "Panorama on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/timothy-van-b-b-vol-liefde-veroordeeld-na-een-pittig-huurconflict-op-ibiza/ar-AA297RRF",
+          "publishedDate": "Fri, 31 Jul 2026 04:57:00 GMT",
+          "description": "Timothy, bekend van B&amp;B vol liefde, blijkt op Ibiza te zijn veroordeeld tot het betalen van een flinke huurschuld. Zijn huisbaas doet in Priv&#233; een boekje open."
+        },
+        {
+          "title": "B&amp;B Vol liefde houdt de gemoederen weer bezig: 'Van Fred verwacht ik veel'",
+          "source": "Omroep West",
+          "url": "https://www.omroepwest.nl/cultuur/5131585/b-en-b-vol-liefde-houdt-de-gemoederen-weer-bezig-van-fred-verwacht-ik-veel",
+          "publishedDate": "Tue, 28 Jul 2026 09:00:00 GMT",
+          "description": "GOUDA - Kunstzinnige kipverkoper Fred, hondenliefhebster Caroline, kaviaarfan Timothy: we raken niet uitgepraat over B&amp;B Vol liefde. Het is op menig werkvloer en borrel h&#233;t gesprek van de dag. Maar ..."
         }
       ]
     },
@@ -428,11 +421,11 @@
           "description": "Een bewoner van woonzorgcentrum Sint Joris van Joris Zorg in Oirschot is onder verdachte omstandigheden overleden. Inmiddels is een persoon aangehouden die mogelijk betrokken ..."
         },
         {
-          "title": "Terug naar de kaart",
-          "source": "moordplekken",
-          "url": "https://www.moordplekken.nl/nieuws/bevestigd-verpleegkundige-tv-gezicht-jelle-d-opgepakt-dood-bewoner-joris-zorg-oirschot",
-          "publishedDate": "Sun, 23 Aug 2026 17:00:00 GMT",
-          "description": "Wat eerder vandaag al via juicekanalen naar buiten sijpelde, is inmiddels bevestigd door landelijke media en de politie: de verdachte die is opgepakt in verband met de niet-natuurlijke dood van een 92 ..."
+          "title": "Persoon aangehouden na dood bewoner woonzorgcentrum Oirschot",
+          "source": "Zorgvisie",
+          "url": "https://www.zorgvisie.nl/skipr/persoon-aangehouden-na-dood-bewoner-woonzorgcentrum-oirschot/",
+          "publishedDate": "Sun, 23 Aug 2026 10:43:00 GMT",
+          "description": "De politie heeft zondag 23 augustus een persoon aangehouden die wordt verdacht van betrokkenheid bij de dood van een bewoner in een woonzorgcentrum&#160;van Joris Zorg in het Brabantse Oirschot. Het overli ..."
         },
         {
           "title": "Arrestatie na overlijden bewoner woonzorgcentrum Oirschot (UPDATE)",
@@ -497,13 +490,6 @@
           "description": "Twee bedrijven die betrokken waren bij een arbeidsongeval in het Twentse Tubbergen waardoor een 16-jarige jongen omkwam, hebben een boete gekregen. Dat meldt het Openbaar Ministerie. Het ene bedrijf m ..."
         },
         {
-          "title": "WW-uitkeringen: grootste stijging in Tubbergen, sterkste daling in Ommen",
-          "source": "Oost",
-          "url": "https://www.oost.nl/nieuws/3685344/ww-uitkeringen-grootste-stijging-in-tubbergen-sterkste-daling-in-ommen",
-          "publishedDate": "Thu, 20 Aug 2026 05:31:00 GMT",
-          "description": "Het aantal WW-uitkeringen is in juli in veertien van de 25 Overijsselse gemeenten gestegen vergeleken met juli vorig jaar. In Tubbergen was de stijging met 26 procent het grootst, blijkt uit cijfers v ..."
-        },
-        {
           "title": "Reanimatie op in Tubbergen",
           "source": "Alarmeringen.nl",
           "url": "https://alarmeringen.nl/overijssel/twente/tubbergen/55686578/p2000-ambulance-met-spoed-naar-tubbergen.html",
@@ -516,82 +502,13 @@
           "url": "https://www.politie.nl/nieuws/2024/maart/26/02-tubbergen-man-aangehouden-voor-bedreigen-van-de-burgemeester-van-tubbergen.html",
           "publishedDate": "Tue, 26 Mar 2024 04:20:00 GMT",
           "description": "Het bedreigen van bestuurders wordt niet getolereerd door politie en het Openbaar Ministerie en daarom met prioriteit opgepakt. De politie heeft dinsdagmorgen 26 maart 2024 een 48-jarige man uit ..."
-        }
-      ]
-    },
-    {
-      "keyword": "barron trump",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Aanbieding voor €0,49/week",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/buitenland/iraanse-staatsmedia-10-miljoen-dollar-op-hoofd-van-barron-trump-20/160431750.html",
-          "publishedDate": "Mon, 24 Aug 2026 04:59:00 GMT",
-          "description": "Iraanse staatsmedia hebben een video uitgezonden waarin Barron Trump, de 20-jarige zoon van de Amerikaanse president Donald Trump, met de dood bedreigd wordt."
         },
         {
-          "title": "Iran zet 10 miljoen dollar op hoofd van Barron Trump",
-          "source": "TCE on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/iran-zet-10-miljoen-dollar-op-hoofd-van-barron-trump/ar-AA2aONWp",
-          "publishedDate": "Mon, 24 Aug 2026 07:05:51 GMT",
-          "description": "Iran wil de Amerikaanse president Donald Trump treffen via zijn zoon Barron en looft een premie van 10 miljoen dollar uit voor wie hem vermoordt."
-        },
-        {
-          "title": "Oorlog Midden-Oosten - Iran plakt prijs op het hoofd van jongste zoon Trump",
-          "source": "Belga News Agency on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/oorlog-midden-oosten-iran-plakt-prijs-op-het-hoofd-van-jongste-zoon-trump/ar-AA2aOKMN",
-          "publishedDate": "Mon, 24 Aug 2026 05:47:03 GMT",
-          "description": "Iraanse staatsmedia hebben een doodsbedreiging geuit aan het adres van de 20-jarige Barron Trump, de jongste zoon van de president van de Verenigde Staten. Er wordt een beloning van 10 miljoen dollar ..."
-        },
-        {
-          "title": "Jongste zoon van Donald Trump met dood bedreigd op Iraanse staatstelevisie",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/nieuws/jongste-zoon-van-donald-trump-met-dood-bedreigd-op-iraanse-staatstelevisie~b1471fcb/",
-          "publishedDate": "Mon, 24 Aug 2026 04:31:00 GMT",
-          "description": "De jongste zoon van de Amerikaanse president Donald Trump wordt in een video met de dood bedreigd. Opvallend daarbij: het was de Iraanse staatszender IRIB TV3 die de beelden uitzond. De makers zetten ..."
-        },
-        {
-          "title": "Nu jongste zoon van Donald Trump in het vizier wordt genomen: hoe re&#235;el is de Iraanse dreiging tegen Barron?",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/nu-jongste-zoon-van-donald-trump-in-het-vizier-wordt-genomen-hoe-reeel-is-de-iraanse-dreiging-tegen-barron~a218fbf3/",
-          "publishedDate": "Mon, 24 Aug 2026 00:09:00 GMT",
-          "description": "Een video van de Iraanse staatszender neemt de jongste zoon van de Amerikaanse president Donald Trump expliciet in het vizier. Onder de titel “Waar kan Barron Trump vermoord worden?” worden plaatsen g ..."
-        },
-        {
-          "title": "Dit is alles wat je moet weten over de familie van Donald Trump",
-          "source": "ELLE",
-          "url": "https://www.elle.com/nl/lifestyle/a62850167/donald-trump-familie/",
-          "publishedDate": "Fri, 30 May 2025 22:00:00 GMT",
-          "description": "Alles wat je moet weten over de kinderen en huwelijken van de tweevoudig gekozen president van Amerika. Voordat Trump een carri&#232;re in de politiek nastreefde, stond hij wereldwijd bekend als zakenman ..."
-        },
-        {
-          "title": "Alles wat je moet weten over Barron Trump, de jongste zoon van Donald Trump",
-          "source": "ELLE",
-          "url": "https://www.elle.com/nl/lifestyle/lifestyle-nieuws/a63490167/barron-trump-jongste-zoon-donald-trump/",
-          "publishedDate": "Wed, 28 May 2025 22:49:00 GMT",
-          "description": "Barron Trump, de zoon van Donald Trump, staat sinds zijn vader opnieuw president van de Verenigde Staten is weer volop in de spotlights. Maar wat weten we eigenlijk over de 19-jarige? We zetten alles ..."
-        },
-        {
-          "title": "Let op Barron Trump, de 2,06 meter lange zoon: ‘Hij wordt klaargestoomd, zelfs zijn kapsel is veranderd’",
-          "source": "AD",
-          "url": "https://www.ad.nl/buitenland/let-op-barron-trump-de-2-06-meter-lange-zoon-hij-wordt-klaargestoomd-zelfs-zijn-kapsel-is-veranderd~aec70084/",
-          "publishedDate": "Fri, 31 Jan 2025 21:00:00 GMT",
-          "description": "Niet Don jr., Eric, Ivanka of Tiffany stalen na de inauguratie van hun pa de show in de Capital One Arena in Washington. Het was hun jongste halfbroer Barron die door de menigte in het ..."
-        },
-        {
-          "title": "Trump is zelf 1,90 meter, maar zijn zoon Barron torent nog boven hem uit",
-          "source": "Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/buitenland/trump-is-zelf-190-meter-maar-zijn-zoon-barron-torent-nog-boven-hem-uit/27499472.html",
-          "publishedDate": "Wed, 06 Nov 2024 04:49:00 GMT",
-          "description": "Op sociale media vroegen heel wat mensen zich af wie “die reus op het podium” was. Barron Trump dus, de zoon van Donald en Melania Trump. De student aan NYU is 2 meter groot en torende dan ook boven ..."
-        },
-        {
-          "title": "Barron Trump (18) wordt dan toch geen kiesman op de Republikeinse conventie komende zomer",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2024/05/10/zoon-trump-politieke-stap/",
-          "publishedDate": "Fri, 10 May 2024 06:13:00 GMT",
-          "description": "Barron Trump (18) zal dan toch geen kiesman zijn op de Republikeinse Conventie in juli. Dat heeft het kantoor van zijn moeder Melania Trump laten weten. &quot;Helaas zal hij niet deelnemen vanwege andere ..."
+          "title": "Dit weten we tot nu toe over komst asielzoekerscentrum naar Tubbergen",
+          "source": "rtl",
+          "url": "https://www.rtl.nl/nieuws/nederland/artikel/5327648/asielzoekerscentrum-tubbergen-azc-gemeente-rijk-toestemming",
+          "publishedDate": "Thu, 18 Aug 2022 07:00:00 GMT",
+          "description": "In Tubbergen wordt zonder toestemming van de gemeente een asielzoekerscentrum (azc) geplaatst, tot boosheid bij inwoners van de plaats. Maar waarom gebeurt de plaatsing eigenlijk zonder overleg? En ..."
         }
       ]
     },
@@ -599,6 +516,20 @@
       "keyword": "hongarije",
       "trafficLabel": "5K+",
       "articles": [
+        {
+          "title": "Hongarije houdt de rest van de wereld een spiegel voor",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/commentaar/hongarije-houdt-de-rest-van-de-wereld-een-spiegel-voor~a36719d4/",
+          "publishedDate": "Sun, 23 Aug 2026 03:00:00 GMT",
+          "description": "We kunnen niet vaak genoeg over Hongarije schrijven. Al was het maar omdat dit land een zeldzaam lichtpuntje is in een wereld die langzaam raakt afgestompt door het circus-Trump, schrijft Saskia van W ..."
+        },
+        {
+          "title": "Hongarije moet de puinhoop van 16 jaar Orb&#225;n onder ogen zien: ‘Het is veel mensen extreem moeilijk gemaakt’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/hongarije-moet-de-puinhoop-van-16-jaar-orban-onder-ogen-zien-het-is-veel-mensen-extreem-moeilijk-gemaakt~a29df816/",
+          "publishedDate": "Sat, 22 Aug 2026 18:00:00 GMT",
+          "description": "De val van dwarsligger Viktor Orb&#225;n werd in veel Europese landen gevierd als belangrijk teken van hoop. Van zijn opvolger P&#233;ter Magyar wordt veel verwacht. Maakt hij dat waar? Aan de vooravond van een ..."
+        },
         {
           "title": "Twaalf Polen omgekomen bij busongeluk in Hongarije, chauffeur aangehouden",
           "source": "NOS",
@@ -628,13 +559,6 @@
           "description": "Key takeaways Hongarije boekt momenteel aanzienlijke vooruitgang bij het voldoen aan de eisen van de Europese Unie om 10 miljard euro aan vastgelopen herstelsubsidies vrij te maken. Volgens vertegenwo ..."
         },
         {
-          "title": "Afrikaanse varkenspest op varkenshouderijbedrijfjes in Hongarije",
-          "source": "AgriHolland",
-          "url": "https://www.agriholland.nl/nieuws/275422/",
-          "publishedDate": "Sun, 23 Aug 2026 17:00:00 GMT",
-          "description": "In Hongarije heeft de nationale autoriteit voor voedselveiligheid N&#233;bih Afrikaanse varkenspest vastgesteld in verschillende varkensbedrijven in de provincie Baranya in het zuiden van het land. De ..."
-        },
-        {
           "title": "Hongarije herstart enige kerncentrale nu waterpeil Donau weer stijgt",
           "source": "De Tijd",
           "url": "https://www.tijd.be/politiek-economie/europa/economie/hongarije-herstart-enige-kerncentrale-nu-waterpeil-donau-weer-stijgt/10683166.html",
@@ -656,18 +580,87 @@
           "description": "Honderd dagen geleden werd P&#233;ter Magyar premier van Hongarije, na zestien jaar Viktor Orb&#225;n. Zijn kabinet voert razendsnel hervormingen door tegen corruptie en staatspropaganda."
         },
         {
-          "title": "Volledige shutdown dreigt voor grootste (en enige) kerncentrale van Hongarije door aanhoudende droogte: &quot;Energiecrisis komt dichtbij&quot;",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/01/honarije-paks-kerncentrale-waterpeil-donau-energie-problemen/",
-          "publishedDate": "Sat, 01 Aug 2026 03:12:00 GMT",
-          "description": "Hongarije bereidt zich voor op een mogelijke volledige stillegging van de Paks-kerncentrale, de belangrijkste van het land. Door de historisch lage waterstand van de Donau kan de centrale mogelijk nie ..."
+          "title": "Hongarije: Vijfde poleposition voor Rafael Camara",
+          "source": "Autosport.be",
+          "url": "https://www.autosport.be/news/hongarije-vijfde-poleposition-voor-rafael-camara.html",
+          "publishedDate": "Thu, 31 Jul 2025 17:00:00 GMT",
+          "description": "In het voorlaatste wedstrijdweekend van het FIA Formule 3 kampioenschap heeft Rafael Camara nog eens de puntjes op de i gezet. De kampioenschapsleider pakte op de Hungaroring zijn vijfde polepositie v ..."
+        }
+      ]
+    },
+    {
+      "keyword": "barron trump",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Aanbieding voor €0,49/week",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/buitenland/iraanse-staatsmedia-10-miljoen-dollar-op-hoofd-van-barron-trump-20/160431750.html",
+          "publishedDate": "Mon, 24 Aug 2026 04:59:00 GMT",
+          "description": "Iraanse staatsmedia hebben een video uitgezonden waarin Barron Trump, de 20-jarige zoon van de Amerikaanse president Donald Trump, met de dood bedreigd wordt."
         },
         {
-          "title": "Zo kijk je de GP van Hongarije zondag zonder Viaplay of F1 TV Pro, en het kost je niets",
-          "source": "XGN.nl",
-          "url": "https://www.xgn.nl/nieuws/zo-kijk-je-de-gp-van-hongarije-zondag-zonder-viaplay-of-f1-tv-pro-en-het-kost-je-niets",
-          "publishedDate": "Sat, 25 Jul 2026 23:48:00 GMT",
-          "description": "De Grand Prix van Hongarije staat voor de deur. Wie scheurt als eerste over de finish? Om dat live te zien hoef je geen F1 TV Pro of ViaPlay te hebben."
+          "title": "Iran zet 10 miljoen dollar op het hoofd van Barron Trump",
+          "source": "FOK!",
+          "url": "https://frontpage.fok.nl/nieuws/893540/1/1/50/iran-zet-10-miljoen-dollar-op-het-hoofd-van-barron-trump.html",
+          "publishedDate": "Mon, 24 Aug 2026 13:20:00 GMT",
+          "description": "Iraanse staatstelevisie heeft maandag een video uitgezonden waarin Barron Trump, de zoon van president Donald Trump, met de dood wordt bedreigd. De makers loven een beloning van 10 miljoen dollar uit ..."
+        },
+        {
+          "title": "Barron Trump in het vizier van Iran: &quot;Een beloning van 10 miljoen dollar&quot;",
+          "source": "Notizie.it",
+          "url": "https://www.notizie.it/nl/Iran-looft-een-beloning-van-10-miljoen-dollar-uit-voor-de-zoon-van-de-Amerikaanse-president--laten-we-Barron-Trump-vermoorden./",
+          "publishedDate": "Mon, 24 Aug 2026 11:32:00 GMT",
+          "description": "De Iraanse staatsmedia hebben een video uitgebracht waarin Barron Trump wordt bedreigd en waarin wordt beweerd dat zijn bewegingen in de gaten worden gehouden. Er zou ook een beloning van 10 miljoen d ..."
+        },
+        {
+          "title": "Iran zet 10 miljoen dollar op hoofd van Barron Trump",
+          "source": "TCE on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/iran-zet-10-miljoen-dollar-op-hoofd-van-barron-trump/ar-AA2aONWp",
+          "publishedDate": "Mon, 24 Aug 2026 07:05:51 GMT",
+          "description": "Iran wil de Amerikaanse president Donald Trump treffen via zijn zoon Barron en looft een premie van 10 miljoen dollar uit voor wie hem vermoordt."
+        },
+        {
+          "title": "Nu jongste zoon van Donald Trump in het vizier wordt genomen: hoe re&#235;el is de Iraanse dreiging tegen Barron?",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/nu-jongste-zoon-van-donald-trump-in-het-vizier-wordt-genomen-hoe-reeel-is-de-iraanse-dreiging-tegen-barron~a218fbf3/",
+          "publishedDate": "Mon, 24 Aug 2026 00:09:00 GMT",
+          "description": "Een video van de Iraanse staatszender neemt de jongste zoon van de Amerikaanse president Donald Trump expliciet in het vizier. Onder de titel “Waar kan Barron Trump vermoord worden?” worden plaatsen g ..."
+        },
+        {
+          "title": "LIVE Midden-Oosten | Iraanse staatsmedia zetten 8,5 miljoen euro op hoofd van Barron Trump",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/buitenland/live-midden-oosten-china-blokkeert-resolutie-van-vn-over-heropenen-straat-van-hormuz-iran-verbreekt-directe-communicatie-met-vs~ac528ac3/?slug_rd=1",
+          "publishedDate": "Sun, 23 Aug 2026 21:59:00 GMT",
+          "description": "De Iraanse staatszender IRIB TV3 heeft een video uitgezonden waarin Barron Trump, de jongste zoon van de Amerikaanse president Donald Trump, met de dood wordt bedreigd. De makers loven een beloning ui ..."
+        },
+        {
+          "title": "“Waar kan Barron Trump vermoord worden?”: Iraanse staatsmedia plakken 8,5 miljoen euro op zijn hoofd",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/waar-kan-barron-trump-vermoord-worden-iraanse-staatsmedia-plakken-8-5-miljoen-euro-op-zijn-hoofd~a1471fcb/",
+          "publishedDate": "Sun, 23 Aug 2026 20:51:00 GMT",
+          "description": "De jongste zoon van de Amerikaanse president Donald Trump wordt in een video met de dood bedreigd. Opvallend daarbij: het was de Iraanse staatszender IRIB TV3 die de beelden uitzond. De makers zetten ..."
+        },
+        {
+          "title": "De obsessieve relatie tussen Melania en Barron Trump",
+          "source": "MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/nieuws/de-relatie-tussen-melania-en-barron-trump-is-nogal-ongemakkelijk-en-wel-hierom/ss-AA20W1DS",
+          "publishedDate": "Wed, 15 Apr 2026 02:36:00 GMT",
+          "description": "Als enige kind van Melania en Donald Trump is Barron Trump veelal uit de publieke schijnwerpers gehouden, een bewuste keuze van zijn ouders. Echter, naarmate men dieper ingaat op de relatie tussen hem ..."
+        },
+        {
+          "title": "Alles wat je moet weten over Barron Trump, de jongste zoon van Donald Trump",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/lifestyle/lifestyle-nieuws/a63490167/barron-trump-jongste-zoon-donald-trump/",
+          "publishedDate": "Wed, 28 May 2025 22:49:00 GMT",
+          "description": "Barron Trump, de zoon van Donald Trump, staat sinds zijn vader opnieuw president van de Verenigde Staten is weer volop in de spotlights. Maar wat weten we eigenlijk over de 19-jarige? We zetten alles ..."
+        },
+        {
+          "title": "Barron Trump (18) wordt dan toch geen kiesman op de Republikeinse conventie komende zomer",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2024/05/10/zoon-trump-politieke-stap/",
+          "publishedDate": "Fri, 10 May 2024 06:13:00 GMT",
+          "description": "Barron Trump (18) zal dan toch geen kiesman zijn op de Republikeinse Conventie in juli. Dat heeft het kantoor van zijn moeder Melania Trump laten weten. &quot;Helaas zal hij niet deelnemen vanwege andere ..."
         }
       ]
     },
@@ -676,18 +669,11 @@
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Twentse Thuisbezorgd-oprichter steekt miljoenen in bedrijf dat horeca op de kop wil zetten",
+          "title": "Gemeenten doen asielopvang vaker in eigen beheer: meer draagvlak inwoners &#233;n het is goedkoper",
           "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/eindhoven/twentse-thuisbezorgd-oprichter-steekt-miljoenen-in-bedrijf-dat-horeca-op-de-kop-wil-zetten~a3f54d58/",
-          "publishedDate": "Mon, 24 Aug 2026 22:01:00 GMT",
-          "description": "Hij begon ooit vanuit een studentenkamer in Enschede met het digitaliseren van het bestellen van eten. Nu steekt Jitse Groen, oprichter van Thuisbezorgd.nl, miljoenen in een bedrijf dat opnieuw de hor ..."
-        },
-        {
-          "title": "NS biedt goedkopere treinkaartjes aan voor reizigers in rustige treinen net voor of na de spits",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/binnenland/ns-biedt-goedkopere-treinkaartjes-aan-voor-reizigers-in-rustige-treinen-net-voor-of-na-de-spits~a42db3f5/",
+          "url": "https://www.gelderlander.nl/oss/gemeenten-doen-asielopvang-vaker-in-eigen-beheer-meer-draagvlak-inwoners-en-het-is-goedkoper~aab4c55c/",
           "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
-          "description": "Mensen die drukke treinen net voor of na de spits mijden, kunnen vanaf dinsdag goedkoper reizen met NS. Dat meldt NU.nl. De spoorvervoerder biedt voordeligere kaartjes aan voor reizigers die kiezen vo ..."
+          "description": "Na alle heisa en demonstraties rond de komst van asielzoekerscentra is er een opvallende ontwikkeling: een groeiend aantal gemeenten runt zelf een azc om inwoners er meer bij te betrekken. Er zijn nu ..."
         },
         {
           "title": "Omstreden kruising moest veiliger worden, maar werd gevaarlijker: onderzoek stelt voor om het terug te draaien",
@@ -697,25 +683,11 @@
           "description": "Fietsers rijden al maanden gevaarlijke afsnijroutes op het kruispunt bij Kievitsdel. De reden: eind vorig jaar is er een oversteek weggehaald. Die aanpassing had de plek veiliger moeten maken, maar in ..."
         },
         {
-          "title": "Voetbalveld onbespeelbaar door aanvallen ‘van onder en boven’, speciale laser moet uitkomst bieden",
+          "title": "NS biedt goedkopere treinkaartjes aan voor reizigers in rustige treinen net voor of na de spits",
           "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/beuningen/voetbalveld-onbespeelbaar-door-aanvallen-van-onder-en-boven-speciale-laser-moet-uitkomst-bieden~a8654a12/",
+          "url": "https://www.gelderlander.nl/binnenland/ns-biedt-goedkopere-treinkaartjes-aan-voor-reizigers-in-rustige-treinen-net-voor-of-na-de-spits~a42db3f5/",
           "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
-          "description": "Het hoofdveld van Roda’28 in Winssen wordt van onder &#233;n boven aangevallen en is daardoor onbespeelbaar geraakt. De timing kan, zo vlak voor het nieuwe voetbalseizoen, haast niet slechter. Een speciale ..."
-        },
-        {
-          "title": "Gemeenten doen asielopvang vaker in eigen beheer: meer draagvlak inwoners &#233;n het is goedkoper",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/oss/gemeenten-doen-asielopvang-vaker-in-eigen-beheer-meer-draagvlak-inwoners-en-het-is-goedkoper~aab4c55c/",
-          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
-          "description": "Na alle heisa en demonstraties rond de komst van asielzoekerscentra is er een opvallende ontwikkeling: een groeiend aantal gemeenten runt zelf een azc om inwoners er meer bij te betrekken. Er zijn nu ..."
-        },
-        {
-          "title": "Driekwart van de jongeren draagt oortjes of koptelefoon tijdens fietsen",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/auto/driekwart-van-de-jongeren-draagt-oortjes-of-koptelefoon-tijdens-fietsen~a5b15610/",
-          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
-          "description": "Nu Nederland terugkeert van de zomervakantie, neemt de drukte op wegen en fietspaden weer flink toe. Juist dan is het belangrijk om goed op te letten. Toch fietst driekwart van de jongeren tussen 18 e ..."
+          "description": "Mensen die drukke treinen net voor of na de spits mijden, kunnen vanaf dinsdag goedkoper reizen met NS. Dat meldt NU.nl. De spoorvervoerder biedt voordeligere kaartjes aan voor reizigers die kiezen vo ..."
         },
         {
           "title": "Voetbalveld in Winssen is vlak voor nieuw seizoen kapotgevreten van onder &#233;n boven",
@@ -725,6 +697,20 @@
           "description": "Het hoofdveld van Roda’28 in Winssen wordt van onder &#233;n boven aangevallen en is daardoor onbespeelbaar geraakt. De timing kan, zo vlak voor het nieuwe voetbalseizoen, haast niet slechter. Een speciale ..."
         },
         {
+          "title": "Voetbalveld onbespeelbaar door aanvallen ‘van onder en boven’, speciale laser moet uitkomst bieden",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/beuningen/voetbalveld-onbespeelbaar-door-aanvallen-van-onder-en-boven-speciale-laser-moet-uitkomst-bieden~a8654a12/",
+          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+          "description": "Het hoofdveld van Roda’28 in Winssen wordt van onder &#233;n boven aangevallen en is daardoor onbespeelbaar geraakt. De timing kan, zo vlak voor het nieuwe voetbalseizoen, haast niet slechter. Een speciale ..."
+        },
+        {
+          "title": "Driekwart van de jongeren draagt oortjes of koptelefoon tijdens fietsen",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/auto/driekwart-van-de-jongeren-draagt-oortjes-of-koptelefoon-tijdens-fietsen~a5b15610/",
+          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+          "description": "Nu Nederland terugkeert van de zomervakantie, neemt de drukte op wegen en fietspaden weer flink toe. Juist dan is het belangrijk om goed op te letten. Toch fietst driekwart van de jongeren tussen 18 e ..."
+        },
+        {
           "title": "De temperaturen gaan weer even stijgen, ook meer kans op stevige buien",
           "source": "De Gelderlander",
           "url": "https://www.gelderlander.nl/binnenland/de-temperaturen-gaan-weer-even-stijgen-ook-meer-kans-op-stevige-buien~a1f17669/",
@@ -732,18 +718,25 @@
           "description": "Na een wisselvallig weekend stijgt de temperatuur deze week naar 24 graden op woensdag en 27 graden op donderdag. Tegelijkertijd neemt ook de kans op stevige buien toe, meldt Weeronline."
         },
         {
-          "title": "Angst bij boeren groeit voor gigantische schade door droogte, niet alleen voor nu maar ook voor de toekomst",
+          "title": "Jaar na eerste aanslag begint de rechtszaak rond zonnestudio My Tan: krijgt het dorp antwoord op d&#233; vraag?",
           "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/binnenland/angst-bij-boeren-groeit-voor-gigantische-schade-door-droogte-niet-alleen-voor-nu-maar-ook-voor-de-toekomst~ad5fffbb/",
+          "url": "https://www.gelderlander.nl/wijchen/jaar-na-eerste-aanslag-begint-de-rechtszaak-rond-zonnestudio-my-tan-krijgt-het-dorp-antwoord-op-de-vraag~a2fff0c6/",
           "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
-          "description": "‎De aanhoudende droogte en hoge temperaturen dreigen met de dag funester te worden voor de oogst van veel boeren. &lt;a href=&quot;https://www.gelderlander.nl/binnenland/droogte-dreigt-boeren-honderden-miljoe ..."
+          "description": "Van een schietpartij tot een explosie voor de deur. Ruim een halfjaar ging zonnestudio My Tan in Wijchen gebukt onder hevige aanslagen en intimidatie. Deze dinsdag start na een jaar vol vragen, angst ..."
         },
         {
-          "title": "Deze woningen tot 3 ton staan al langer dan een half jaar te koop in Arnhem",
+          "title": "Kees (25) werd aan de bar verliefd op WVV Wageningen: ‘Dit is de voetbalfamilie die ik zocht’",
           "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/arnhem/deze-woningen-tot-3-ton-staan-al-langer-dan-een-half-jaar-te-koop-in-arnhem~ad151247/",
+          "url": "https://www.gelderlander.nl/amateurvoetbal/kees-25-werd-aan-de-bar-verliefd-op-wvv-wageningen-dit-is-de-voetbalfamilie-die-ik-zocht~a14325cb/",
           "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
-          "description": "De meeste koopwoningen in Arnhem worden snel verkocht, maar er zijn ook stulpjes die maar geen nieuwe eigenaar vinden. Zelfs met een vraagprijs onder de drie ton!"
+          "description": "„Ik zocht een vereniging waar clubliefde nog &#233;cht iets betekent”, vertelt Kees van Leeuwen (25). De aanvaller kwam uit bij WVV Wageningen, een ingeslapen voetbalbolwerk dat vorig seizoen een dieptepun ..."
+        },
+        {
+          "title": "Aalten is er bijna klaar voor en excursie naar ‘t Maatje",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/mijndg/aalten-is-er-bijna-klaar-voor-en-excursie-naar-t-maatje~a77eef91/",
+          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+          "description": "Heb je iemand in het zonnetje gezet, ben je met je vereniging op stap of is je team kampioen geworden? Laat het onze lezers weten en kom met je foto op deze website. Mail naar mijnleukstefoto@gelderla ..."
         }
       ]
     }
