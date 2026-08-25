@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T05:02:37.487Z",
+  "fetchedAt": "2026-08-25T05:56:15.191Z",
   "trends": [
     {
       "keyword": "groente",
@@ -11,6 +11,13 @@
           "url": "https://www.ad.nl/economie/droogte-maakt-groente-kleiner-en-duurder-aardbeien-en-aardappelen-schieten-omhoog-in-prijs~a6680feb/",
           "publishedDate": "Wed, 12 Aug 2026 03:12:00 GMT",
           "description": "Lichtere kroppen sla, kleinere kolen en duurdere aardbeien. Zo raakt de uitzonderlijke droogte de consument in de tas en de portemonnee. Meer prijseffecten zijn te verwachten omdat ook de oogst van aa ..."
+        },
+        {
+          "title": "Heb je een magnesiumtekort? Deze groene groente verdient een vaste plek op je bord",
+          "source": "ELLE Belgi&#235;",
+          "url": "https://www.elle.be/nl/438220-magnesiumtekort-groene-groente-genieten.html",
+          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+          "description": "Spinazie zit boordevol magnesium en andere voedingsstoffen. Ontdek waarom deze groene groente op je bord thuishoort."
         },
         {
           "title": "Groente- en fruithandelaar die van markt in Assen werd geweerd, stopt er helemaal mee",
@@ -48,13 +55,6 @@
           "description": "In Nederland en Belgi&#235; wordt het meeste PFAS gespoten op groente en fruit in vergelijking met de rest van Europa. Ook is de afgelopen tien jaar het gebruik van PFAS op groente en fruit verdrievoudigd, ..."
         },
         {
-          "title": "Schrappen van btw op groente en fruit blijkt moeilijk en weinig effectief",
-          "source": "NU",
-          "url": "https://www.nu.nl/economie/6257327/schrappen-van-btw-op-groente-en-fruit-blijkt-moeilijk-en-weinig-effectief.html",
-          "publishedDate": "Wed, 29 Mar 2023 08:35:00 GMT",
-          "description": "De kosten van de afschaffing van de btw op groente en fruit zouden bijna 550 miljoen euro tot 950 miljoen euro bedragen, afhankelijk van de afbakening. De onderzoekers stellen dat hierdoor maximaal 4 ..."
-        },
-        {
           "title": "Waarom kom je in een supermarkt eerst langs de groente- en fruitafdeling?",
           "source": "ELLE",
           "url": "https://www.elle.com/nl/eten/eten-drinken/a34041357/supermarkt-eerst-langs-groente-fruit/",
@@ -80,7 +80,78 @@
     {
       "keyword": "onweer",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Het wordt deze week steeds warmer, later is er kans op fors onweer",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628026-het-wordt-deze-week-steeds-warmer-later-is-er-kans-op-fors-onweer",
+          "publishedDate": "Sun, 23 Aug 2026 09:11:00 GMT",
+          "description": "Morgen wordt het 21 tot 24 graden met in het hele land flink wat zon. Dinsdag wordt het zelfs nog iets warmer."
+        },
+        {
+          "title": "Wisselend bewolkt en enkele buien, soms met onweer",
+          "source": "RTL Nieuws (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/weer/meteorologie/wisselend-bewolkt-en-enkele-buien-soms-met-onweer/ar-AA2aCjuJ",
+          "publishedDate": "Thu, 20 Aug 2026 21:16:04 GMT",
+          "description": "Er staan vandaag behoorlijk wat buien op de planning, soms gepaard met onweer. Er trekt namelijk een storing over, van noordwest naar zuidoost. In de middag komt er vanuit het noordoosten geleidelijk ..."
+        },
+        {
+          "title": "Tropische hitte niet helemaal uit Europa verdreven, volgende week onweer op komst",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/tropische-hitte-niet-helemaal-uit-europa-verdreven-volgende-week-onweer-op-komst~ad88e7fd/",
+          "publishedDate": "Fri, 14 Aug 2026 23:06:00 GMT",
+          "description": "De echte hitte wordt in bijna heel Europa verdreven komende week. In de Engelse hoofdstad, waar de parken eerder een woestijn lijken, is de regen er meer dan welkom."
+        },
+        {
+          "title": "Warm en vochtig weer met kans op stevige buien en onweer",
+          "source": "Culturu",
+          "url": "https://www.culturu.com/nieuws/suriname/warm-en-vochtig-weer-met-kans-op-stevige-buien-en-onweer/",
+          "publishedDate": "Mon, 24 Aug 2026 13:03:00 GMT",
+          "description": "Suriname nieuws - Suriname krijgt vandaag te maken met warm en vochtig weer. Hoewel de dag op veel plaatsen met bewolking begint, neemt vooral in de middag en avond de kans ..."
+        },
+        {
+          "title": "Donderdag mogelijk onweer door erg hoge CAPE-waarde: zo werkt dat",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/eindhoven/donderdag-mogelijk-onweer-door-erg-hoge-cape-waarde-zo-werkt-dat~a335a91a/",
+          "publishedDate": "Mon, 24 Aug 2026 12:52:00 GMT",
+          "description": "Het leek wel een aaneenschakeling van hittegolven, maar de zomer krijgt mogelijk een nat staartje. De komende twee weken wordt vrijwel elke dag regen voorspeld. Vooral komende donderdag en vrijdag kan ..."
+        },
+        {
+          "title": "Zon, maar ook regen, wind en onweer verwacht: 'We krijgen van alles wat'",
+          "source": "Omroep West",
+          "url": "https://www.omroepwest.nl/natuur/5140582/zon-maar-ook-regen-wind-en-onweer-verwacht-we-krijgen-van-alles-wat",
+          "publishedDate": "Sun, 23 Aug 2026 11:00:00 GMT",
+          "description": "In de laatste week van de zomervakantie wordt wisselvallig weer verwacht. Volgens weerman Jordi Bloem kunnen we rekenen op zon, maar kan het zeker later in de week ook gaan regenen en onweren. 'We kri ..."
+        },
+        {
+          "title": "Na lange droogte veel onweer en regen in zuidoosten Frankrijk",
+          "source": "Nederlands Dagblad",
+          "url": "https://www.nd.nl/varia/varia/1328230/na-lange-droogte-veel-onweer-en-regen-in-zuidoosten-frankrijk",
+          "publishedDate": "Fri, 21 Aug 2026 06:53:00 GMT",
+          "description": "Na een lange periode van droogte zijn in het zuidoosten van Frankrijk hevige onweers- en regenbuien losgebarsten in met name in het departement Var, waar Saint-Tropez en Toulon liggen. Het vooral ..."
+        },
+        {
+          "title": "Onweer en regen trekken over het land, ook kans op stevige rukwinden",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/21/weerbericht-21-22-23-augustus/",
+          "publishedDate": "Thu, 20 Aug 2026 22:01:00 GMT",
+          "description": "Het warme zomerweer laat zich de volgende dagen niet zien. Vandaag krijgen we regen en soms onweer, met felle rukwinden. Ook morgen blijft het wisselvallig. Zondag zou het droog blijven, maar voor ech ..."
+        },
+        {
+          "title": "Wisselvallige week op komst: veel regen en kans op onweer",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/weer/weerbericht/artikelen/weer-nederland-regen-buien-onweer-koeler-week",
+          "publishedDate": "Sun, 16 Aug 2026 22:57:00 GMT",
+          "description": "Nederland krijgt een wisselvallige week met geregeld regen en buien. Woensdag kunnen buien gepaard gaan met onweer en in de kustprovincies kan lokaal veel regen vallen. Richting het weekend daalt de t ..."
+        },
+        {
+          "title": "Onweer en harde wind gooit roet in eten van IJsselmeermarathon. ’Ze namen niet eens de moeite om even naar Friesland te komen’",
+          "source": "Noordhollands Dagblad",
+          "url": "https://www.noordhollandsdagblad.nl/sport/sport-westfriesland/onweer-en-harde-wind-gooit-roet-in-eten-van-ijsselmeermarathon.-ze-namen-niet-eens-de-moeite-om-even-naar-friesland-te-komen/160043684.html",
+          "publishedDate": "Sun, 16 Aug 2026 10:33:00 GMT",
+          "description": "De afgelasting van de 58ste IJsselmeermarathon was een bittere pil voor de zeven deelnemers en organisatie. Terwijl zwemmers en coaches in Stavoren waren, kregen ze vanuit Medemblik telefonisch de med ..."
+        }
+      ]
     },
     {
       "keyword": "wesley sneijder",
@@ -96,7 +167,7 @@
         {
           "title": "Foto's: dit is de 17 jaar jongere (en prachtige) vriendin van Wesley Sneijder",
           "source": "MAN MAN on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/foto-s-dit-is-de-17-jaar-jongere-en-prachtige-vriendin-van-wesley-sneijder/ar-AA1P1zyD",
+          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/foto-s-dit-is-de-17-jaar-jongere-en-prachtige-vriendin-van-wesley-sneijder/ar-AA1P1zyD",
           "publishedDate": "Mon, 24 Aug 2026 13:25:03 GMT",
           "description": "Romy Lukassen is de knappe vriendin van Wesley Sneijder. Hier lees je meer over haar leeftijd en Instagram."
         },
@@ -129,13 +200,6 @@
           "description": "Wesley Sneijder ziet het niet meer gebeuren dat Ajax landskampioen wordt in Nederland. De ex-speler van de Amsterdammers verbaasde zich over de elf spelers die trainer Francesco Farioli tegen NEC (0-3 ..."
         },
         {
-          "title": "Wesley Sneijder lijkt streep te zetten door terugkeer bij Ajax: ‘Wat ik nu allemaal zie gebeuren...’",
-          "source": "AD",
-          "url": "https://www.ad.nl/nederlands-voetbal/wesley-sneijder-lijkt-streep-te-zetten-door-terugkeer-bij-ajax-wat-ik-nu-allemaal-zie-gebeuren~acb5ca1f/",
-          "publishedDate": "Mon, 04 Sep 2023 06:28:00 GMT",
-          "description": "Wesley Sneijder lijkt t&#243;ch af te zien van een terugkeer bij Ajax. De recordinternational gaat binnenkort met coach Maurice Steijn om de tafel om te praten over een mogelijke rol bij de topclub, maar ..."
-        },
-        {
           "title": "Zoontje van Wesley Sneijder debuteert op vijftiende verjaardag in Hoofdklasse",
           "source": "Vi",
           "url": "https://www.vi.nl/nieuws/zoontje-van-wesley-sneijder-debuteert-op-vijftiende-verjaardag-in-hoofdklasse",
@@ -155,13 +219,77 @@
           "url": "https://www.vi.nl/nieuws/wesley-sneijder-machtig-mannetje-uit-ondiep",
           "publishedDate": "Thu, 06 Sep 2018 05:00:00 GMT",
           "description": "Voor Wesley Sneijder was 2010 magisch. Hij won de Italiaanse Super Cup, de Coppa Italia, de landstitel, de Champions League, de Wereldbeker voor clubs en... N&#233;t niet het WK in Zuid-Afrika. Een ..."
+        },
+        {
+          "title": "Schooljuf van Sneijder: Wes blijft altijd een kind van Ondiep",
+          "source": "AD",
+          "url": "https://www.ad.nl/utrecht/schooljuf-van-sneijder-wes-blijft-altijd-een-kind-van-ondiep~ade03de6/",
+          "publishedDate": "Wed, 05 Sep 2018 22:00:00 GMT",
+          "description": "In de klas van juf Bianca Lodder (53) hangt een ingelijst en gesigneerd Oranjeshirt van Wesley Sneijder prominent naast het schoolbord. De kinderen in groep 1 en 2, die Lodder les geeft, zijn te jong ..."
         }
       ]
     },
     {
       "keyword": "frans bauer jr",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Aanbieding voor €0,49/week",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/entertainment/sterren/relatie-van-frans-bauer-jr.-21-is-gestrand-vader-frans-reageert-ik-vraag-me-af-of-hij-de-liefde-ooit-gaat-vinden/160454339.html",
+          "publishedDate": "Mon, 24 Aug 2026 10:08:00 GMT",
+          "description": "Frans Bauer Jr. (21) en zijn vriendin Liza zijn uit elkaar. De relatie van de oudste zoon van Frans en Mariska Bauer is op de klippen gelopen, bevestigt het management van de Bauers aan RTL Boulevard."
+        },
+        {
+          "title": "Frans Bauer Jr. weer vrijgezel: ex maakt nog debuut in De Bauers",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/frans-bauer-jr-weer-vrijgezel-ex-maakt-nog-debuut-in-de-bauers/ar-AA2aPtlr",
+          "publishedDate": "Mon, 24 Aug 2026 09:36:36 GMT",
+          "description": "In oktober 2025 bleek dat Frans Bauer Jr. (21) een nieuwe liefde had gevonden. Zijn vriendin Liza dook op tijdens een etentje met de familie Bauer, vastgelegd door moeder Mariska Bauer (50). Nu, bijna ..."
+        },
+        {
+          "title": "Frans Bauer: “die belofte is heilig voor ons”",
+          "source": "Show24",
+          "url": "https://show24.nl/frans-bauer-die-belofte-is-heilig-voor-ons/",
+          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+          "description": "Frans Bauer en zijn echtgenote Mariska hebben alweer een jaar geleden een belofte gedaan. En die belofte is heilig voor hen. De reden is duidelijk… Prachtig moment voor Mariska Bauer. Niet alleen werd ..."
+        },
+        {
+          "title": "Liefdesbreuk bij de Bauers: Frans Jr. weer vrijgezel",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/frans-bauer-junior-liza-liefdesbreuk-relatie-vrijgezel",
+          "publishedDate": "Mon, 24 Aug 2026 10:22:00 GMT",
+          "description": "Verdrietig liefdesnieuws vanuit huize Bauer, want zoon Frans Jr. is weer vrijgezel. Zijn relatie met Liza is stuk gelopen."
+        },
+        {
+          "title": "Frans Bauer openhartig over moeder met alzheimer: 'Ze dacht dat ze 45 werd'",
+          "source": "Startpagina on MSN",
+          "url": "https://www.msn.com/nl-nl/familie-en-relaties/ouderenzorg/frans-bauer-openhartig-over-moeder-met-alzheimer-ze-dacht-dat-ze-45-werd/ar-AA2aOpcg",
+          "publishedDate": "Mon, 24 Aug 2026 02:16:19 GMT",
+          "description": "Frans Bauer is openhartig over zijn moeder Wies, die aan alzheimer lijdt. Hoewel de zanger blij is dat het naar omstandigheden goed met haar gaat, wordt hij ook geconfronteerd met de gevolgen van de z ..."
+        },
+        {
+          "title": "Nieuw jaar, nieuwe look: Frans Bauer scheert zijn hoofd kaal voor derde haartransplantatie",
+          "source": "AD",
+          "url": "https://www.ad.nl/moerdijk/nieuw-jaar-nieuwe-look-frans-bauer-scheert-zijn-hoofd-kaal-voor-derde-haartransplantatie~a45a7738/",
+          "publishedDate": "Thu, 26 Dec 2024 22:56:00 GMT",
+          "description": "‘Hoppaaaaaa!!!! I did it again!! Met een glad koppie het nieuwe jaar in!’ Zo schrijft hij op Facebook en Instagram. Op sociale media zijn de reacties gemengd. Sommige volgers juichen de nieuwe look ..."
+        },
+        {
+          "title": "Frans Bauer Junior over roddels over zijn liefdesleven: 'Je moet altijd eerlijk zijn’",
+          "source": "AD",
+          "url": "https://www.ad.nl/show/frans-bauer-junior-over-roddels-over-zijn-liefdesleven-je-moet-altijd-eerlijk-zijn~aa3108c6/",
+          "publishedDate": "Mon, 16 Dec 2024 17:05:00 GMT",
+          "description": "Na het kijkcijferspektakel De Bauers - 20 Jaar Later keerde de bekende familie vorige week terug op de buis met een gloednieuwe special: Kerst met de Bauers. Van een emotioneel moment tijdens de ..."
+        },
+        {
+          "title": "Acteerdebuut Frans Bauer junior in Zapp-serie Caps Club: 'Ik hoop dat Frans Bauer komt!'",
+          "source": "Omroep Brabant",
+          "url": "https://www.omroepbrabant.nl/nieuws/1460542/acteerdebuut-frans-bauer-junior-in-zapp-serie-caps-club-ik-hoop-dat-frans-bauer-komt",
+          "publishedDate": "Sat, 05 Oct 2013 11:08:00 GMT",
+          "description": "De zoon van Frans was is zondag te bewonderen in de nieuwe Zapp-serie Caps Club. De achtjarige Frans junior speelde zichzelf in de serie. Ook onder anderen Lucile Werner en Hans Klok hadden een ..."
+        }
+      ]
     },
     {
       "keyword": "fulham - chelsea",
@@ -190,24 +318,31 @@
         },
         {
           "title": "Pedro, Rogers en uitblinker Palmer bezorgen Alonso droomstart in Engeland",
-          "source": "Voetbalprimeur",
-          "url": "https://www.voetbalprimeur.be/nieuws/2127092/chelsea-wint-eerste-competitiewedstrijd-onder-alonso-met-3-2-bij-fulham.html",
-          "publishedDate": "Mon, 24 Aug 2026 14:00:00 GMT",
-          "description": "Chelsea heeft het tijdperk onder Xabi Alonso met drie punten ingezet. The Blues trokken maandagavond met 2-3 aan het langste eind tegen Fulham na een aantrekkelijk duel op Craven Cottage. Romeo Lavia ..."
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/pedro-rogers-en-uitblinker-palmer-bezorgen-alonso-droomstart-in-engeland/ar-AA2aQj2T",
+          "publishedDate": "Mon, 24 Aug 2026 14:06:16 GMT",
+          "description": "Het Xabi Alonso-tijdperk bij Chelsea is van start gegaan met een zege op Fulham. Op Craven Cottage eindigde een spectaculaire wedstrijd maandagavond in 3-2 voor de gasten. Chelsea kwam al na een halve ..."
         },
         {
-          "title": "Chelsea wint strijd der ontslagen Real-trainers in spektakelstuk tegen Fulham",
+          "title": "Ketting Palmer-Pedro-tandem gesmeerd: Chelsea begint seizoen met zege",
           "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/chelsea-wint-strijd-der-ontslagen-real-trainers-in-spektakelstuk-tegen-fulham/ar-AA2aQAu7",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/ketting-palmer-pedro-tandem-gesmeerd-chelsea-begint-seizoen-met-zege/ar-AA2aQAu7",
           "publishedDate": "Mon, 24 Aug 2026 13:57:00 GMT",
           "description": "Chelsea is het seizoen in de Premier League met een overwinning begonnen. Het was Xabi Alonso die als winnaar uit de strijd der ontslagen Real Madrid-trainers kwam, want het Fulham van &#193;lvaro Arbeloa ..."
         },
         {
           "title": "Praat mee op VP: Fulham – Chelsea",
           "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-fulham-chelsea/ar-AA2aPu23",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-chelsea-met-hato-en-aanwinst-rogers-tegen-fulham/ar-AA2aPu23",
           "publishedDate": "Mon, 24 Aug 2026 11:57:45 GMT",
           "description": "Fulham en Chelsea sluiten maandagavond de eerste speelronde van de Premier League af met een Londense derby. De wedstrijd begint om 21.00 uur, volg de wedstrijd hieronder in de live-omgeving van Voetb ..."
+        },
+        {
+          "title": "Britse media zijn unaniem over totaal nieuwe rol voor Jorrel Hato onder Xabi Alonso",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/britse-media-zijn-unaniem-over-totaal-nieuwe-rol-voor-jorrel-hato-onder-xabi-alonso/blt5f02ca7548b2e75d",
+          "publishedDate": "Mon, 24 Aug 2026 10:45:00 GMT",
+          "description": "Jorrel Hato moet nog wennen aan zijn nieuwe positie, maar heeft het goed gedaan, zo stellen de Britse media na de 2-3 overwinning op Fulham van maandagavond. De international van Oranje begon als ..."
         },
         {
           "title": "Chelsea wint bij Fulham onder Xabi Alonso: Lavia geeft Van Bommel een opsteker",
@@ -215,13 +350,6 @@
           "url": "https://voetbalfocus.be/chelsea-wint-fulham-xabi-alonso-romeo-lavia/",
           "publishedDate": "Mon, 24 Aug 2026 09:41:00 GMT",
           "description": "Chelsea is sterk aan de Premier League begonnen onder Xabi Alonso. De Blues wonnen met 2-3 op het veld van Fulham, terwijl Rom&#233;o Lavia met een degelijke basisbeurt ook een positief signaal gaf aan bon ..."
-        },
-        {
-          "title": "Xabi Alonso beleeft sterk debuut met Chelsea dankzij recordaankoop Morgan Rogers en Cole Palmer",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/voetbal/xabi-alonso-beleeft-sterk-debuut-met-chelsea-dankzij-recordaankoop-morgan-rogers-en-cole-palmer~aae4ac9e/",
-          "publishedDate": "Mon, 24 Aug 2026 07:01:00 GMT",
-          "description": "Chelsea heeft in de eerste speelronde van de Premier League gewonnen bij Fulham. In de vermakelijke West-Londense derby in Craven Cottage werd het 3-2 voor de bezoekers, waar Xabi Alonso zijn debuut m ..."
         },
         {
           "title": "Op welke zender kijk je Fulham – Chelsea live?",
@@ -236,26 +364,6 @@
           "url": "https://www.squawka.com/nl/nieuws/fulham-chelsea-opstellingen-statistieken-voorspelling-odds/",
           "publishedDate": "Tue, 06 Jan 2026 00:58:00 GMT",
           "description": "De Londense derby tussen Fulham en Chelsea staat opnieuw op het programma, en de spanning is te snijden. Met Stamford Bridge nog vers in het geheugen na de 2-0 zege van Chelsea eerder dit seizoen, zal ..."
-        }
-      ]
-    },
-    {
-      "keyword": "a28 ongeluk",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Nog eens 8 gewonden naar ziekenhuis na zwaar ongeluk op A28, totaal nu op 16",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/binnenland/6407329/nog-eens-8-gewonden-naar-ziekenhuis-na-zwaar-ongeluk-op-a28-totaal-nu-op-16.html",
-          "publishedDate": "Mon, 24 Aug 2026 02:49:00 GMT",
-          "description": "De politie is maandagochtend volop bezig met onderzoek naar het ongeluk dat in de nacht van zondag op maandag plaatsvond tussen een touringcar en een bestelbus op de A28. De voertuigen liggen elk op e"
-        },
-        {
-          "title": "Burgemeester: heel veel engeltjes op schouders bij ongeluk A28",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/algemeen/burgemeester-heel-veel-engeltjes-op-schouders-bij-ongeluk-a28",
-          "publishedDate": "Sun, 23 Aug 2026 15:03:00 GMT",
-          "description": "WEZEP (ANP) - Bij het ongeluk tussen de touringcar en de bestelbus op de A28 bij Wezep hebben er &quot;heel veel engeltjes op schouders gezeten&quot;, zegt burgemeester Tanja Haseloop-Amsing van de gemeente Old"
         }
       ]
     },
@@ -306,6 +414,13 @@
           "description": "De politie heeft vanochtend om 08.15 uur een verdachte aangehouden in het onderzoek naar aanleiding van het overlijden van een bewoner van Woonzorgcentrum Joris Zorg in Oirschot."
         },
         {
+          "title": "Verdachte zaak dode bewoner Joris Zorg is man (26) uit Oirschot",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/artikelen/joris-zorg-verdachte-dode-bewoner-oirschot",
+          "publishedDate": "Mon, 24 Aug 2026 08:48:00 GMT",
+          "description": "Verdachte in het onderzoek naar een dode bewoner van Joris Zorg is een 26-jarige man uit Oirschot. Hij zit vast en wordt door de politie gehoord."
+        },
+        {
           "title": "Verdachte aangehouden na niet-natuurlijke dood bewoner zorgcentrum Oirschot",
           "source": "Nationale Zorggids",
           "url": "https://www.nationalezorggids.nl/ouderenzorg/verdachte-aangehouden-na-niet-natuurlijke-dood-bewoner-zorgcentrum-oirschot/",
@@ -320,13 +435,6 @@
           "description": "Wat eerder vandaag al via juicekanalen naar buiten sijpelde, is inmiddels bevestigd door landelijke media en de politie: de verdachte die is opgepakt in verband met de niet-natuurlijke dood van een 92 ..."
         },
         {
-          "title": "Persoon aangehouden na dood bewoner woonzorgcentrum Oirschot",
-          "source": "Zorgvisie",
-          "url": "https://www.zorgvisie.nl/skipr/persoon-aangehouden-na-dood-bewoner-woonzorgcentrum-oirschot/",
-          "publishedDate": "Sun, 23 Aug 2026 10:43:00 GMT",
-          "description": "De politie heeft zondag 23 augustus een persoon aangehouden die wordt verdacht van betrokkenheid bij de dood van een bewoner in een woonzorgcentrum&#160;van Joris Zorg in het Brabantse Oirschot. Het overli ..."
-        },
-        {
           "title": "Arrestatie na overlijden bewoner woonzorgcentrum Oirschot (UPDATE)",
           "source": "Crimesite",
           "url": "https://www.crimesite.nl/arrestatie-na-overlijden-bewoner-woonzorgcentrum-oirschot/",
@@ -336,9 +444,80 @@
       ]
     },
     {
-      "keyword": "hongarije",
+      "keyword": "tubbergen",
       "trafficLabel": "5K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Boetes en werkstraf na dodelijk ongeval van 16-jarige stagiair in Tubbergen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628189-boetes-en-werkstraf-na-dodelijk-ongeval-van-16-jarige-stagiair-in-tubbergen",
+          "publishedDate": "Mon, 24 Aug 2026 12:39:00 GMT",
+          "description": "De twee bedrijven die betrokken waren bij een dodelijk arbeidsongeval met de 16-jarige stagiair uit Geesteren krijgen een boete. De stagebegeleider krijgt een werkstraf, meldt RTV Oost."
+        },
+        {
+          "title": "Bram (16) kwam om het leven tijdens zijn stage in Tubbergen: boetes voor bedrijven, werkstraf voor begeleider",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/bram-16-kwam-om-het-leven-tijdens-zijn-stage-in-tubbergen-boetes-voor-bedrijven-werkstraf-voor-begeleider~aa209ec1/",
+          "publishedDate": "Mon, 24 Aug 2026 00:50:00 GMT",
+          "description": "Het Openbaar Ministerie heeft straffen opgelegd na het overlijden van de 16-jarige stagiair Bram Wesselink bij een bedrijfsongeval in Tubbergen op 14 mei 2024. De bedrijven en de begeleider hebben onv ..."
+        },
+        {
+          "title": "Aanbieding voor €0,49/week",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/binnenland/asieldwang-laat-diepe-sporen-na-in-tubbergen-weigergemeenten-zijn-gewaarschuwd-ons-vertrouwen-in-de-democratie-is-weg/160367179.html",
+          "publishedDate": "Sat, 22 Aug 2026 22:30:00 GMT",
+          "description": "Het Twentse Tubbergen beleefde vier jaar geleden een voorproefje van wat gemeenten te wachten staat als het kabinet hen dwingt asielzoekers op te vangen. De soms gewelddadige protesten van toen zijn i ..."
+        },
+        {
+          "title": "Priester Tilma niet naar Oldenzaal en Tubbergen: ‘Komt als grote verrassing’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/tubbergen/priester-tilma-niet-naar-oldenzaal-en-tubbergen-komt-als-grote-verrassing~a2667451/",
+          "publishedDate": "Sun, 12 Jul 2026 23:17:00 GMT",
+          "description": "De katholieke parochies in Oldenzaal en Tubbergen moeten op zoek naar een oplossing nu de komst van pastor Paulus Tilma onverwacht is afgeblazen. De 33-jarige priester, die op 1 augustus zou beginnen, ..."
+        },
+        {
+          "title": "Bijna nergens in Nederland blijven jongeren zo lang thuis wonen als in Tubbergen",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2025/02/07/bijna-nergens-in-nederland-blijven-jongeren-zo-lang-thuis-wonen-als-in-tubbergen-a4882335",
+          "publishedDate": "Fri, 07 Feb 2025 11:16:00 GMT",
+          "description": "Huisvesting In het Overijsselse Tubbergen is ruim 90 procent van de 20- tot 25-jarigen nog niet uit huis, en bijna 43 procent van de 25-tot 30-jarigen. Dat verbaast daar niemand: „in je eentje is het ..."
+        },
+        {
+          "title": "16-jarige stagiair overleden in Tubbergen: boetes en werkstraf",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/rechtszaak/artikelen/stagiair-tubbergen-boetes-werkstraf",
+          "publishedDate": "Mon, 24 Aug 2026 10:41:00 GMT",
+          "description": "Twee bedrijven krijgen boetes en een begeleider een werkstraf na het dodelijke arbeidsongeval met een 16-jarige stagiair in Tubbergen."
+        },
+        {
+          "title": "Werkstraf en boetes in zaak ge&#235;lektrocuteerde stagiair Tubbergen",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1160282-werkstraf-en-boetes-in-zaak-geelektrocuteerde-stagiair-tubbergen",
+          "publishedDate": "Mon, 24 Aug 2026 10:33:00 GMT",
+          "description": "Twee bedrijven die betrokken waren bij een arbeidsongeval in het Twentse Tubbergen waardoor een 16-jarige jongen omkwam, hebben een boete gekregen. Dat meldt het Openbaar Ministerie. Het ene bedrijf m ..."
+        },
+        {
+          "title": "WW-uitkeringen: grootste stijging in Tubbergen, sterkste daling in Ommen",
+          "source": "Oost",
+          "url": "https://www.oost.nl/nieuws/3685344/ww-uitkeringen-grootste-stijging-in-tubbergen-sterkste-daling-in-ommen",
+          "publishedDate": "Thu, 20 Aug 2026 05:31:00 GMT",
+          "description": "Het aantal WW-uitkeringen is in juli in veertien van de 25 Overijsselse gemeenten gestegen vergeleken met juli vorig jaar. In Tubbergen was de stijging met 26 procent het grootst, blijkt uit cijfers v ..."
+        },
+        {
+          "title": "Reanimatie op in Tubbergen",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/overijssel/twente/tubbergen/55686578/p2000-ambulance-met-spoed-naar-tubbergen.html",
+          "publishedDate": "Wed, 12 Aug 2026 08:32:00 GMT",
+          "description": "Tubbergen is een plaats in de provincie Overijssel en valt onder de P2000-regio Twente. De hulpdiensten in Tubbergen reageren onder meer op 112 meldingen die bij deze veiligheidsregio binnenkomen. Via ..."
+        },
+        {
+          "title": "Man aangehouden voor bedreigen van de burgemeester van Tubbergen",
+          "source": "politie",
+          "url": "https://www.politie.nl/nieuws/2024/maart/26/02-tubbergen-man-aangehouden-voor-bedreigen-van-de-burgemeester-van-tubbergen.html",
+          "publishedDate": "Tue, 26 Mar 2024 04:20:00 GMT",
+          "description": "Het bedreigen van bestuurders wordt niet getolereerd door politie en het Openbaar Ministerie en daarom met prioriteit opgepakt. De politie heeft dinsdagmorgen 26 maart 2024 een 48-jarige man uit ..."
+        }
+      ]
     },
     {
       "keyword": "barron trump",
@@ -417,9 +596,156 @@
       ]
     },
     {
-      "keyword": "turijn",
+      "keyword": "hongarije",
       "trafficLabel": "5K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Twaalf Polen omgekomen bij busongeluk in Hongarije, chauffeur aangehouden",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627083-twaalf-polen-omgekomen-bij-busongeluk-in-hongarije-chauffeur-aangehouden",
+          "publishedDate": "Sat, 15 Aug 2026 23:58:00 GMT",
+          "description": "Bij een busongeluk in het oosten van Hongarije zijn twaalf inzittenden om het leven gekomen. Daarnaast raakte een aantal mensen zwaargewond toen de bus vannacht in de berm van de snelweg terechtkwam e ..."
+        },
+        {
+          "title": "Door Orb&#225;n ontslagen rechter voorgedragen als nieuwe president Hongarije",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6405750/door-orban-ontslagen-rechter-voorgedragen-als-nieuwe-president-hongarije.html",
+          "publishedDate": "Sat, 08 Aug 2026 14:07:00 GMT",
+          "description": "De Hongaarse regeringspartij Tisza heeft Andr&#225;s Baka voorgedragen als de nieuwe president. Baka gaf in het verleden leiding aan het Hongaarse hooggerechtshof, tot hij in 2011 werd weggestuurd door de ..."
+        },
+        {
+          "title": "Norris wint GP Hongarije • Verstappen tweede ondanks problemen: 'Ongelofelijk'",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2624494-norris-wint-gp-hongarije-verstappen-tweede-ondanks-problemen-ongelofelijk",
+          "publishedDate": "Sun, 26 Jul 2026 10:46:00 GMT",
+          "description": "In dit liveblog volgen we alle actie tijdens en rondom de Grand Prix van Hongarije op de Hungaroring. &quot;Ik had niet verwacht om op het podium te staan&quot;, zegt Verstappen. &quot;De start was ok&#233;, en na de eer ..."
+        },
+        {
+          "title": "Hongarije nadert voltooiing van EU-doelstellingen om subsidie van 10 miljard euro vrij te maken",
+          "source": "Business AM on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/hongarije-nadert-voltooiing-van-eu-doelstellingen-om-subsidie-van-10-miljard-euro-vrij-te-maken/ar-AA2aQpWT",
+          "publishedDate": "Mon, 24 Aug 2026 14:59:00 GMT",
+          "description": "Key takeaways Hongarije boekt momenteel aanzienlijke vooruitgang bij het voldoen aan de eisen van de Europese Unie om 10 miljard euro aan vastgelopen herstelsubsidies vrij te maken. Volgens vertegenwo ..."
+        },
+        {
+          "title": "Afrikaanse varkenspest op varkenshouderijbedrijfjes in Hongarije",
+          "source": "AgriHolland",
+          "url": "https://www.agriholland.nl/nieuws/275422/",
+          "publishedDate": "Sun, 23 Aug 2026 17:00:00 GMT",
+          "description": "In Hongarije heeft de nationale autoriteit voor voedselveiligheid N&#233;bih Afrikaanse varkenspest vastgesteld in verschillende varkensbedrijven in de provincie Baranya in het zuiden van het land. De ..."
+        },
+        {
+          "title": "Hongarije herstart enige kerncentrale nu waterpeil Donau weer stijgt",
+          "source": "De Tijd",
+          "url": "https://www.tijd.be/politiek-economie/europa/economie/hongarije-herstart-enige-kerncentrale-nu-waterpeil-donau-weer-stijgt/10683166.html",
+          "publishedDate": "Sun, 23 Aug 2026 00:58:00 GMT",
+          "description": "De enige kerncentrale van Hongarije draait opnieuw, nadat ze wekenlang stillag door de historisch lage stand van de Donau. Een dam op de rivierbodem moet het koelwater op peil houden."
+        },
+        {
+          "title": "In beeld: Hongarije viert nationale feestdag",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1159944-in-beeld-hongarije-viert-nationale-feestdag",
+          "publishedDate": "Thu, 20 Aug 2026 07:00:00 GMT",
+          "description": "Op het momument direct naast het parlementsgebouw in Boedapest staat de inscriptie 2 Korinthe 4:9: „Vervolgd, doch niet daarin verlaten; nedergeworpen, doch niet verdorven.” ..."
+        },
+        {
+          "title": "P&#233;ter Magyar belooft geen Orb&#225;n II te worden, maar de kritiek groeit. ‘Bouw Hongarije niet op wraak’",
+          "source": "Nederlands Dagblad",
+          "url": "https://www.nd.nl/nieuws/buitenland/1327476/peter-magyar-belooft-geen-orban-ii-te-worden-maar-de-kritiek-",
+          "publishedDate": "Sun, 16 Aug 2026 16:29:00 GMT",
+          "description": "Honderd dagen geleden werd P&#233;ter Magyar premier van Hongarije, na zestien jaar Viktor Orb&#225;n. Zijn kabinet voert razendsnel hervormingen door tegen corruptie en staatspropaganda."
+        },
+        {
+          "title": "Volledige shutdown dreigt voor grootste (en enige) kerncentrale van Hongarije door aanhoudende droogte: &quot;Energiecrisis komt dichtbij&quot;",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/01/honarije-paks-kerncentrale-waterpeil-donau-energie-problemen/",
+          "publishedDate": "Sat, 01 Aug 2026 03:12:00 GMT",
+          "description": "Hongarije bereidt zich voor op een mogelijke volledige stillegging van de Paks-kerncentrale, de belangrijkste van het land. Door de historisch lage waterstand van de Donau kan de centrale mogelijk nie ..."
+        },
+        {
+          "title": "Zo kijk je de GP van Hongarije zondag zonder Viaplay of F1 TV Pro, en het kost je niets",
+          "source": "XGN.nl",
+          "url": "https://www.xgn.nl/nieuws/zo-kijk-je-de-gp-van-hongarije-zondag-zonder-viaplay-of-f1-tv-pro-en-het-kost-je-niets",
+          "publishedDate": "Sat, 25 Jul 2026 23:48:00 GMT",
+          "description": "De Grand Prix van Hongarije staat voor de deur. Wie scheurt als eerste over de finish? Om dat live te zien hoef je geen F1 TV Pro of ViaPlay te hebben."
+        }
+      ]
+    },
+    {
+      "keyword": "de gelderlander",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Twentse Thuisbezorgd-oprichter steekt miljoenen in bedrijf dat horeca op de kop wil zetten",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/eindhoven/twentse-thuisbezorgd-oprichter-steekt-miljoenen-in-bedrijf-dat-horeca-op-de-kop-wil-zetten~a3f54d58/",
+          "publishedDate": "Mon, 24 Aug 2026 22:01:00 GMT",
+          "description": "Hij begon ooit vanuit een studentenkamer in Enschede met het digitaliseren van het bestellen van eten. Nu steekt Jitse Groen, oprichter van Thuisbezorgd.nl, miljoenen in een bedrijf dat opnieuw de hor ..."
+        },
+        {
+          "title": "NS biedt goedkopere treinkaartjes aan voor reizigers in rustige treinen net voor of na de spits",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/binnenland/ns-biedt-goedkopere-treinkaartjes-aan-voor-reizigers-in-rustige-treinen-net-voor-of-na-de-spits~a42db3f5/",
+          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+          "description": "Mensen die drukke treinen net voor of na de spits mijden, kunnen vanaf dinsdag goedkoper reizen met NS. Dat meldt NU.nl. De spoorvervoerder biedt voordeligere kaartjes aan voor reizigers die kiezen vo ..."
+        },
+        {
+          "title": "Omstreden kruising moest veiliger worden, maar werd gevaarlijker: onderzoek stelt voor om het terug te draaien",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/renkum/omstreden-kruising-moest-veiliger-worden-maar-werd-gevaarlijker-onderzoek-stelt-voor-om-het-terug-te-draaien~a46c4cd6/",
+          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+          "description": "Fietsers rijden al maanden gevaarlijke afsnijroutes op het kruispunt bij Kievitsdel. De reden: eind vorig jaar is er een oversteek weggehaald. Die aanpassing had de plek veiliger moeten maken, maar in ..."
+        },
+        {
+          "title": "Voetbalveld onbespeelbaar door aanvallen ‘van onder en boven’, speciale laser moet uitkomst bieden",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/beuningen/voetbalveld-onbespeelbaar-door-aanvallen-van-onder-en-boven-speciale-laser-moet-uitkomst-bieden~a8654a12/",
+          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+          "description": "Het hoofdveld van Roda’28 in Winssen wordt van onder &#233;n boven aangevallen en is daardoor onbespeelbaar geraakt. De timing kan, zo vlak voor het nieuwe voetbalseizoen, haast niet slechter. Een speciale ..."
+        },
+        {
+          "title": "Gemeenten doen asielopvang vaker in eigen beheer: meer draagvlak inwoners &#233;n het is goedkoper",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/oss/gemeenten-doen-asielopvang-vaker-in-eigen-beheer-meer-draagvlak-inwoners-en-het-is-goedkoper~aab4c55c/",
+          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+          "description": "Na alle heisa en demonstraties rond de komst van asielzoekerscentra is er een opvallende ontwikkeling: een groeiend aantal gemeenten runt zelf een azc om inwoners er meer bij te betrekken. Er zijn nu ..."
+        },
+        {
+          "title": "Driekwart van de jongeren draagt oortjes of koptelefoon tijdens fietsen",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/auto/driekwart-van-de-jongeren-draagt-oortjes-of-koptelefoon-tijdens-fietsen~a5b15610/",
+          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+          "description": "Nu Nederland terugkeert van de zomervakantie, neemt de drukte op wegen en fietspaden weer flink toe. Juist dan is het belangrijk om goed op te letten. Toch fietst driekwart van de jongeren tussen 18 e ..."
+        },
+        {
+          "title": "Voetbalveld in Winssen is vlak voor nieuw seizoen kapotgevreten van onder &#233;n boven",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/beuningen/voetbalveld-in-winssen-is-vlak-voor-nieuw-seizoen-kapotgevreten-van-onder-en-boven~a8654a12/",
+          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+          "description": "Het hoofdveld van Roda’28 in Winssen wordt van onder &#233;n boven aangevallen en is daardoor onbespeelbaar geraakt. De timing kan, zo vlak voor het nieuwe voetbalseizoen, haast niet slechter. Een speciale ..."
+        },
+        {
+          "title": "De temperaturen gaan weer even stijgen, ook meer kans op stevige buien",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/binnenland/de-temperaturen-gaan-weer-even-stijgen-ook-meer-kans-op-stevige-buien~a1f17669/",
+          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+          "description": "Na een wisselvallig weekend stijgt de temperatuur deze week naar 24 graden op woensdag en 27 graden op donderdag. Tegelijkertijd neemt ook de kans op stevige buien toe, meldt Weeronline."
+        },
+        {
+          "title": "Angst bij boeren groeit voor gigantische schade door droogte, niet alleen voor nu maar ook voor de toekomst",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/binnenland/angst-bij-boeren-groeit-voor-gigantische-schade-door-droogte-niet-alleen-voor-nu-maar-ook-voor-de-toekomst~ad5fffbb/",
+          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+          "description": "‎De aanhoudende droogte en hoge temperaturen dreigen met de dag funester te worden voor de oogst van veel boeren. &lt;a href=&quot;https://www.gelderlander.nl/binnenland/droogte-dreigt-boeren-honderden-miljoe ..."
+        },
+        {
+          "title": "Deze woningen tot 3 ton staan al langer dan een half jaar te koop in Arnhem",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/arnhem/deze-woningen-tot-3-ton-staan-al-langer-dan-een-half-jaar-te-koop-in-arnhem~ad151247/",
+          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+          "description": "De meeste koopwoningen in Arnhem worden snel verkocht, maar er zijn ook stulpjes die maar geen nieuwe eigenaar vinden. Zelfs met een vraagprijs onder de drie ton!"
+        }
+      ]
     }
   ]
 }
