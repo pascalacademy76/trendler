@@ -1,466 +1,189 @@
 {
-  "fetchedAt": "2026-08-26T16:12:29.696Z",
+  "fetchedAt": "2026-08-26T18:13:02.699Z",
   "trends": [
     {
-      "keyword": "dolly parton",
-      "trafficLabel": "200K+",
-      "articles": [
-        {
-          "title": "Podcast De Dag: Dolly Parton, Queen of Country en zoveel meer",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628381-podcast-de-dag-dolly-parton-queen-of-country-en-zoveel-meer",
-          "publishedDate": "Wed, 26 Aug 2026 06:31:00 GMT",
-          "description": "Podcast De Dag brengt een ode aan de veelzijdigheid van Dolly Parton. Want ze was veel meer dan alleen een countrymuzikant."
-        },
-        {
-          "title": "Vijf fantastische liedjes van Dolly Parton – van de 3.000 nummers die ze schreef",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/muziek/vijf-fantastische-liedjes-van-dolly-parton-van-de-3-000-nummers-die-ze-schreef~be88f485/",
-          "publishedDate": "Wed, 26 Aug 2026 05:33:00 GMT",
-          "description": "De dinsdag overleden Dolly Parton was een van de beste liedschrijvers van onze tijd. Ze schreef in zeven decennia meer dan drieduizend nummers. Dit zijn vijf van de allerbeste."
-        },
-        {
-          "title": "Dolly Parton vertelde &#233;&#233;n anekdote steeds met plezier: ‘Ik ben er schatrijk van geworden’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/dolly-parton-vertelde-een-anekdote-steeds-met-plezier-ik-ben-er-schatrijk-van-geworden~ab1501a3/",
-          "publishedDate": "Tue, 25 Aug 2026 21:51:00 GMT",
-          "description": "Dolly Parton ontketende in 2007 een heuse Dollygate in ons land: had ze in Ahoy nou staan playbacken of niet? Journalist Stefan Raatgever vroeg het de wereldster enigszins beschroomd en vergat hun ges ..."
-        },
-        {
-          "title": "Dolly Parton maakte er geen enkel probleem van: ‘Natuurlijk playbackte ik’",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/kunst-media/dolly-parton-maakte-er-geen-enkel-probleem-van-natuurlijk-playbackte-ik~bb1501a3/",
-          "publishedDate": "Tue, 25 Aug 2026 16:01:00 GMT",
-          "description": "Journalist van Het Parool Stefan Raatgever interviewde Dolly Parton in 2007. De ontmoeting bleef hem altijd bij. Op de avond van haar overlijden blikt hij terug."
-        },
-        {
-          "title": "Dolly Parton (1946-2026) was geliefd onder alle Amerikanen, van conservatief tot progressief",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/cultuur-media/dolly-parton-1946-2026-was-geliefd-onder-alle-amerikanen-van-conservatief-tot-progressief~b04543cb/",
-          "publishedDate": "Tue, 25 Aug 2026 13:06:00 GMT",
-          "description": "Het duurde lang, maar aan het einde van haar leven werd Dolly Parton toch gezien als groot zangeres en kunstenaar."
-        },
-        {
-          "title": "Zangeres Dolly Parton (80) overleden, leed korte tijd aan kanker: ‘Ze heeft in het licht geleefd’",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/kunst-media/zangeres-dolly-parton-80-overleden-leed-korte-tijd-aan-kanker-ze-heeft-in-het-licht-geleefd~b84847ba/",
-          "publishedDate": "Tue, 25 Aug 2026 13:01:00 GMT",
-          "description": "De Amerikaanse zangeres Dolly Parton is op 80-jarige leeftijd overleden. Voor haar dood leed ze kort aan kanker."
-        },
-        {
-          "title": "Beyonc&#233; en Taylor Swift plaatsen Dolly Parton-eerbetoon na overlijden",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/algemeen/buitenland/artikelen/beyonce-en-taylor-swift-plaatsen-dolly-parton-eerbetoon-na-overlijden",
-          "publishedDate": "Wed, 26 Aug 2026 08:10:00 GMT",
-          "description": "Beyonc&#233; en Taylor Swift herdenken Dolly Parton na haar overlijden. Ze prijzen haar talent en invloed in een emotionele verklaring."
-        },
-        {
-          "title": "Brits leger eert Dolly Parton met 9 to 5 bij Buckingham Palace",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/brits-leger-eert-dolly-parton-met-9-to-5-bij-buckingham-palace-zjQJ7f",
-          "publishedDate": "Wed, 26 Aug 2026 06:26:00 GMT",
-          "description": "Ter ere van de overleden Dolly Parton heeft het Britse leger een uitvoering van 9 to 5 ten gehore gebracht bij Buckingham Palace. Op een video van het Britse koningshuis op Instagram is te zien dat ee ..."
-        },
-        {
-          "title": "NTR herhaalt documentaire over Dolly Parton",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/ntr-herhaalt-documentaire-over-dolly-parton",
-          "publishedDate": "Wed, 26 Aug 2026 03:04:00 GMT",
-          "description": "De NTR herhaalt woensdagavond vanwege het overlijden van countryzangeres Dolly Parton de documentaire Dolly verenigt de Staten uit 2025. Dat maakt een woordvoerder van de omroep bekend. De Amerikaanse ..."
-        },
-        {
-          "title": "Grote zangeressen eren Dolly Parton: ‘De wereld voelt ineens een stuk minder sprankelend’",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/show/grote-zangeressen-eren-dolly-parton-de-wereld-voelt-ineens-een-stuk-minder-sprankelend~ad5f7f591/",
-          "publishedDate": "Tue, 25 Aug 2026 17:24:00 GMT",
-          "description": "Hollywood gaat nog even door met het eren van Dolly Parton. De &lt;a href=&quot;https://www.ad.nl/show/zangeres-dolly-parton-op-80-jarige-leeftijd-overleden~a19b9413/&quot; target=&quot;_blank&quot;&gt;op dinsdag overleden 80- ..."
-        }
-      ]
-    },
-    {
-      "keyword": "dolly parton dood",
+      "keyword": "carl dean",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Podcast De Dag: Dolly Parton, Queen of Country en zoveel meer",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628381-podcast-de-dag-dolly-parton-queen-of-country-en-zoveel-meer",
-          "publishedDate": "Wed, 26 Aug 2026 06:31:00 GMT",
-          "description": "Podcast De Dag brengt een ode aan de veelzijdigheid van Dolly Parton. Want ze was veel meer dan alleen een countrymuzikant."
+          "title": "Wie was grote, mysterieuze liefde van Dolly Parton? ‘Stiekem stond hij al die tijd op albumhoes’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/wie-was-grote-mysterieuze-liefde-van-dolly-parton-stiekem-stond-hij-al-die-tijd-op-albumhoes~a0c0e2d1/",
+          "publishedDate": "Tue, 04 Mar 2025 22:29:00 GMT",
+          "description": "Hun eerste ontmoeting was in een wasserette, zo’n beetje de enige publieke plek waar countryster Dolly Parton en echtgenoot Carl Dean zich ooit samen hebben vertoond. Hun huwelijk was van hen, en alle ..."
         },
         {
-          "title": "Vijf fantastische liedjes van Dolly Parton – van de 3.000 nummers die ze schreef",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/muziek/vijf-fantastische-liedjes-van-dolly-parton-van-de-3-000-nummers-die-ze-schreef~be88f485/",
-          "publishedDate": "Wed, 26 Aug 2026 05:33:00 GMT",
-          "description": "De dinsdag overleden Dolly Parton was een van de beste liedschrijvers van onze tijd. Ze schreef in zeven decennia meer dan drieduizend nummers. Dit zijn vijf van de allerbeste."
-        },
-        {
-          "title": "Dolly Parton was ’alles’ voor Alkmaarse zangeres Country Wilma: ’Ik schrok me te pletter toen ik hoorde dat ze is overleden’",
+          "title": "Echtgenoot Dolly Parton, Carl Dean (82), overleden",
           "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/vrouw/achter-het-nieuws/dolly-parton-was-alles-voor-alkmaarse-zangeres-country-wilma-ik-schrok-me-te-pletter-toen-ik-hoorde-dat-ze-is-overleden/160520286.html",
-          "publishedDate": "Wed, 26 Aug 2026 01:46:00 GMT",
-          "description": "Ze is de zelfbenoemde Dolly Parton van Nederland. Voor de Alkmaarse Wilma Roos (74), alias zangeres Country Wilma, was de dinsdag overleden Dolly Parton ’een voorbeeld, eigenlijk alles’."
+          "url": "https://www.telegraaf.nl/entertainment/sterren/echtgenoot-dolly-parton-carl-dean-82-overleden/64385575.html",
+          "publishedDate": "Tue, 04 Mar 2025 00:33:00 GMT",
+          "description": "Parton en Dean trouwden in 1966, ze ontmoetten elkaar in een wasserette. Het stel had geen kinderen. Dean leefde ondanks de grote carri&#232;re van zijn partner een leven buiten de schijnwerpers. Parton ..."
         },
         {
-          "title": "Ilse DeLange geschrokken door overlijden Dolly Parton: ‘Ze was een mentor voor mij’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/ilse-delange-geschrokken-door-overlijden-dolly-parton-ze-was-een-mentor-voor-mij~afc075d3/",
-          "publishedDate": "Tue, 25 Aug 2026 18:44:00 GMT",
-          "description": "Ilse DeLange heeft geschrokken gereageerd op het overlijden van Dolly Parton. De zangeres hoorde dinsdagavond na opnames van The Voice dat haar idool was overleden, schrijft ze woensdag op Instagram."
+          "title": "Van wasserette tot een laatste eerbetoon: zo ontroerend was de geheime liefde van Dolly Parton en Carl Thomas Dean",
+          "source": "Nouveau on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/van-wasserette-tot-een-laatste-eerbetoon-zo-ontroerend-was-de-geheime-liefde-van-dolly-parton-en-carl-thomas-dean/ar-AA2aWD3E",
+          "publishedDate": "Wed, 26 Aug 2026 01:43:00 GMT",
+          "description": "Haar gezondheid ging de laatste tijd al achteruit, en na een korte, dappere strijd tegen kanker is countrylegende Dolly Parton op 80-jarige leeftijd overleden. Met haar heengaan verliest de muziekwere ..."
         },
         {
-          "title": "Dolly Parton (1946-2026) was geliefd onder alle Amerikanen, van conservatief tot progressief",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/cultuur-media/dolly-parton-1946-2026-was-geliefd-onder-alle-amerikanen-van-conservatief-tot-progressief~b04543cb/",
-          "publishedDate": "Tue, 25 Aug 2026 13:06:00 GMT",
-          "description": "Het duurde lang, maar aan het einde van haar leven werd Dolly Parton toch gezien als groot zangeres en kunstenaar."
+          "title": "Parton wordt naast overleden man begraven",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/parton-wordt-naast-overleden-man-begraven/ar-AA2aUbzS",
+          "publishedDate": "Tue, 25 Aug 2026 14:11:32 GMT",
+          "description": "Dolly Parton zal naast haar vorig jaar overleden echtgenoot Carl Dean worden begraven. Dat zegt haar neef Bryan Seaver, die de woordvoering namens haar familie doet, tegen TMZ."
         },
         {
-          "title": "Zangeres Dolly Parton (80) overleden, leed korte tijd aan kanker: ‘Ze heeft in het licht geleefd’",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/kunst-media/zangeres-dolly-parton-80-overleden-leed-korte-tijd-aan-kanker-ze-heeft-in-het-licht-geleefd~b84847ba/",
-          "publishedDate": "Tue, 25 Aug 2026 13:01:00 GMT",
-          "description": "De Amerikaanse zangeres Dolly Parton is op 80-jarige leeftijd overleden. Voor haar dood leed ze kort aan kanker."
-        },
-        {
-          "title": "Country-icoon Dolly Parton (9 to 5, Jolene) op 80-jarige leeftijd overleden",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628296-country-icoon-dolly-parton-9-to-5-jolene-op-80-jarige-leeftijd-overleden",
-          "publishedDate": "Tue, 25 Aug 2026 11:04:00 GMT",
-          "description": "De Amerikaanse country-artiest Dolly Parton is op 80-jarige leeftijd overleden. Dat heeft haar familie via haar Facebook- en Instagramaccount bekendgemaakt. Haar neef en hoofd beveiliging, Brian ..."
-        },
-        {
-          "title": "Beyonc&#233; en Taylor Swift plaatsen Dolly Parton-eerbetoon na overlijden",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/algemeen/buitenland/artikelen/beyonce-en-taylor-swift-plaatsen-dolly-parton-eerbetoon-na-overlijden",
-          "publishedDate": "Wed, 26 Aug 2026 08:10:00 GMT",
-          "description": "Beyonc&#233; en Taylor Swift herdenken Dolly Parton na haar overlijden. Ze prijzen haar talent en invloed in een emotionele verklaring."
-        },
-        {
-          "title": "Brits leger eert Dolly Parton met 9 to 5 bij Buckingham Palace",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/brits-leger-eert-dolly-parton-met-9-to-5-bij-buckingham-palace-zjQJ7f",
-          "publishedDate": "Wed, 26 Aug 2026 06:26:00 GMT",
-          "description": "Ter ere van de overleden Dolly Parton heeft het Britse leger een uitvoering van 9 to 5 ten gehore gebracht bij Buckingham Palace. Op een video van het Britse koningshuis op Instagram is te zien dat ee ..."
-        },
-        {
-          "title": "Zangeres Dolly Parton (80) overleden",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/uitgelicht/zangeres-dolly-parton-80-overleden/160514458.html",
-          "publishedDate": "Tue, 25 Aug 2026 00:18:00 GMT",
-          "description": "De Amerikaanse zangeres Dolly Parton is op 80-jarige leeftijd overleden. Dat heeft haar neef Bryan Seaver namens de familie op Facebook laten weten. Het was de wens van Dolly dat haar overlijden op de ..."
-        }
-      ]
-    },
-    {
-      "keyword": "hoogwoud",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Hans vindt buurman dood in de auto, die daarvoor zijn eigen vrouw om het leven bracht",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/362834/hans-vindt-buurman-dood-in-de-auto-die-daarvoor-zijn-eigen-vrouw-om-het-leven-bracht",
-          "publishedDate": "Wed, 26 Aug 2026 07:18:00 GMT",
-          "description": "Man doodt vrouw en zichzelf in buurtschap De Gouwe, gemeente Opmeer. Beiden waren in de zeventig. Politie sluit onderzoek, motief blijft onbekend."
-        },
-        {
-          "title": "Vrouw in Hoogwoud door partner om het leven gebracht",
-          "source": "nu",
-          "url": "https://nu.cw/2026/08/26/vrouw-in-hoogwoud-door-partner-om-het-leven-gebracht/",
-          "publishedDate": "Wed, 26 Aug 2026 06:59:00 GMT",
-          "description": "Een vrouw in het Noord-Hollandse Hoogwoud is door haar partner om het leven gebracht, meldt de politie woensdag. De partner heeft zich daarna van het leven beroofd."
-        },
-        {
-          "title": "Twee doden in woning Hoogwoud: politie rondt onderzoek af na overlijdensonderzoek",
-          "source": "OnsWestfriesland",
-          "url": "https://onswestfriesland.nl/2026/nieuws_opmeer/twee-doden-in-woning-hoogwoud-politie-rondt-onderzoek-af-na-overlijdensonderzoek/",
-          "publishedDate": "Wed, 26 Aug 2026 05:24:00 GMT",
-          "description": "Uit respect voor de nabestaanden en vanwege de privacy van de overleden personen worden geen verdere inhoudelijke mededelingen gedaan."
-        },
-        {
-          "title": "Drama in Hoogwoud: vrouw omgebracht door partner, dader pleegt zelfmoord",
-          "source": "Panorama on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/drama-in-hoogwoud-vrouw-omgebracht-door-partner-dader-pleegt-zelfmoord/ar-AA2aX4Ds",
-          "publishedDate": "Wed, 26 Aug 2026 05:03:00 GMT",
-          "description": "Een gruwelijke ontdekking aan de Gouwe in het Noord-Hollandse Hoogwoud. Agenten troffen dinsdagochtend twee lichamen aan."
-        },
-        {
-          "title": "Dode in Hoogwoud werd door partner om het leven gebracht",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/1160446-dode-in-hoogwoud-werd-door-partner-om-het-leven-gebracht",
-          "publishedDate": "Wed, 26 Aug 2026 04:03:00 GMT",
-          "description": "Een van de twee mensen die dinsdag dood werden gevonden in een woning in Hoogwoud is door haar partner om het leven gebracht. De partner pleegde daarna su&#239;cide, laat de politie weten."
-        },
-        {
-          "title": "Twee overleden personen aangetroffen in woning in Hoogwoud",
-          "source": "politie.nl",
-          "url": "https://www.politie.nl/nieuws/2026/augustus/26/04-twee-overleden-personen-aangetroffen-in-woning-in-hoogwoud.html",
-          "publishedDate": "Wed, 26 Aug 2026 03:43:00 GMT",
-          "description": "In een woning in buurtschap De Gouwe in Hoogwoud zijn dinsdag 25 augustus twee overleden personen aangetroffen. De politie stelde daarop een overlijdensonderzoek in."
-        },
-        {
-          "title": "Drama Hoogwoud ontrafeld: Partner doodde vrouw en pleegde daarna su&#239;cide",
-          "source": "moordplekken",
-          "url": "https://www.moordplekken.nl/nieuws/drama-hoogwoud-ontrafeld-partner-doodde-vrouw-suicide-de-gouwe",
-          "publishedDate": "Tue, 25 Aug 2026 16:59:00 GMT",
-          "description": "Het lugubere mysterie rondom de afgelegen woning aan De Gouwe in Hoogwoud is ontrafeld. De politie heeft het onderzoek afgerond en trekt een gitzwarte conclusie: er heeft zich een afschuwelijk ..."
-        },
-        {
-          "title": "Inwoners Hoogwoud geschokt na vondst doden in woning",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/videos/inwoners-hoogwoud-geschokt-na-vondst-doden-in-woning",
-          "publishedDate": "Tue, 25 Aug 2026 13:08:00 GMT",
-          "description": "In het Noord-Hollandse Hoogwoud zijn dinsdagochtend twee mensen dood in een woning gevonden, meldt de politie. Over hun identiteit deelt de politie niets."
-        },
-        {
-          "title": "Twee overleden mensen gevonden in woning Hoogwoud",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/1160395-twee-overleden-mensen-gevonden-in-woning-hoogwoud",
-          "publishedDate": "Tue, 25 Aug 2026 10:52:00 GMT",
-          "description": "In het Noord-Hollandse Hoogwoud zijn dinsdagochtend twee mensen dood in een woning gevonden, meldt de politie. Over hun identiteit deelt de politie niets."
-        },
-        {
-          "title": "Twee doden gevonden in woning in Hoogwoud, gaslucht geroken",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/twee-doden-woning-hoogwoud",
-          "publishedDate": "Tue, 25 Aug 2026 10:26:00 GMT",
-          "description": "In een woning in Hoogwoud zijn dinsdagochtend twee mensen dood gevonden. Agenten roken een gaslucht; de doodsoorzaak wordt nog onderzocht."
-        }
-      ]
-    },
-    {
-      "keyword": "vrachtwagenchauffeur",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Vrachtwagenchauffeur bekneld na ernstig ongeluk op N242 bij Heerhugowaard",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-dijk-en-waard/vrachtwagenchauffeur-bekneld-na-ernstig-ongeluk-op-n242-bij-heerhugowaard~a283c069e/",
-          "publishedDate": "Tue, 25 Aug 2026 00:20:00 GMT",
-          "description": "Een vrachtwagenchauffeur is dinsdagochtend gewond geraakt bij een ernstig ongeluk op de Westerweg (N242) in Heerhugowaard. De vrachtwagen botste eerst op een personenauto en kwam daarna tegen een verk ..."
-        },
-        {
-          "title": "Politie arresteert vrachtwagenchauffeur op A15 voor rijden onder invloed",
-          "source": "destadgorinchem.nl",
-          "url": "https://www.destadgorinchem.nl/112/ongeval/1303999/politie-arresteert-vrachtwagenchauffeur-op-a15-voor-rijden-on",
-          "publishedDate": "Wed, 26 Aug 2026 08:52:00 GMT",
-          "description": "ALBLASSERDAM – Weggebruikers hebben woensdagmiddag 26 augustus 2026 een vrachtwagen klemgereden op de A15 bij Alblasserdam. Dit gebeurde net voor de Noordtunnel, op de baan richting Rotterdam."
-        },
-        {
-          "title": "&quot;We troosten elkaar&quot;: trucker Harm-Jan trekt al voor 10e jaar op rij naar plek waar hij Sam (20) doodreed",
-          "source": "VRT NWS on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/we-troosten-elkaar-trucker-die-fietsster-dodelijk-aanreed-herdenkt-ongeval-in-oud-turnhout-al-10-jaar-samen-met-haar-oma/ar-AA2aYHf2",
-          "publishedDate": "Wed, 26 Aug 2026 08:47:38 GMT",
-          "description": "De Nederlandse vrachtwagenchauffeur Harm-Jan heeft vandaag voor het 10e jaar op rij bloemen gelegd op het kruispunt in Oud-Turnhout waar hij op 26 augustus 2016 Sam Moelants (20) fataal aanreed. De vr ..."
-        },
-        {
-          "title": "Vrachtwagenchauffeur ernstig gewond na botsing tegen boom in Bolsward",
-          "source": "Transport Online",
-          "url": "https://www.transport-online.nl/136167/vrachtwagenchauffeur-ernstig-gewond-na-botsing-tegen-boom-in-bolsward/",
-          "publishedDate": "Wed, 26 Aug 2026 07:11:00 GMT",
-          "description": "BOLSWARD – Een vrachtwagenchauffeur is woensdagochtend ernstig gewond geraakt bij een eenzijdig ongeval op de Twibaksdyk in Bolsward. De vrachtwagen botste tegen een boom, waarna de chauffeur bekneld ..."
-        },
-        {
-          "title": "Vrachtwagenchauffeur onder invloed heeft drie rijbanen nodig en wordt klemgereden",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2244546/vrachtwagenchauffeur-onder-invloed-heeft-drie-rijbanen-nodig-en-wordt-klemgereden",
-          "publishedDate": "Wed, 26 Aug 2026 05:37:00 GMT",
-          "description": "Een vrachtwagenchauffeur is donderdagmiddag op de A15 bij Alblasserdam van de weg gehaald. Hij vertoonde gevaarlijk rijgedrag en bleek onder invloed te zijn. De chauffeur is aangehouden."
-        },
-        {
-          "title": "Vrachtwagenchauffeur rijdt afgesloten rijstrook op snelweg op: 320 euro boete en 15 dagen rijverbod",
+          "title": "Dolly Parton gaf afgelopen weekend nog update over gezondheid na moeilijke periode",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/gent/vrachtwagenchauffeur-rijdt-afgesloten-rijstrook-op-snelweg-op-320-euro-boete-en-15-dagen-rijverbod~a95c0adc/",
-          "publishedDate": "Tue, 25 Aug 2026 18:57:00 GMT",
-          "description": "Een vrachtwagenchauffeur is door de politierechtbank veroordeeld nadat hij op de snelweg een rijstrook gebruikte die door een ongeval was afgesloten. De man reed volgens het dossier door tot vlak aan ..."
+          "url": "https://www.hln.be/celebrities/dolly-parton-gaf-afgelopen-weekend-nog-update-over-gezondheid-na-moeilijke-periode~af76c8e9/",
+          "publishedDate": "Sat, 22 Aug 2026 05:24:00 GMT",
+          "description": "Dolly Parton (80) heeft haar gezondheid naar eigen zeggen verwaarloosd tijdens het ziekbed van haar overleden echtgenoot Carl Dean. Dat vertelde de zangeres afgelopen weekend nog in een interview met ..."
         },
         {
-          "title": "Brandweer bevrijdt zwaargewonde vrachtwagenchauffeur uit cabine op N242",
-          "source": "Transport Online",
-          "url": "https://www.transport-online.nl/135994/brandweer-bevrijdt-zwaargewonde-vrachtwagenchauffeur-uit-cabine-op-n242/",
-          "publishedDate": "Tue, 25 Aug 2026 02:50:00 GMT",
-          "description": "HEERHUGOWAARD – Een vrachtwagenchauffeur is dinsdagochtend zwaargewond geraakt bij een eenzijdig ongeval op de N242 (Westerweg) bij Heerhugowaard. De brandweer moest de chauffeur met zwaar gereedschap ..."
+          "title": "Het liefdesverhaal van Dolly Parton en haar overleden echtgenoot Carl Thomas Dean",
+          "source": "beaumonde",
+          "url": "https://beaumonde.nl/artikel/637127/het-liefdesverhaal-van-dolly-parton-en-haar-overleden-echtgenoot-carl-thomas-dean",
+          "publishedDate": "Tue, 04 Mar 2025 02:49:00 GMT",
+          "description": "Verdrietig nieuws: Dolly Parton's echtgenoot, Carl Thomas Dean, is op 82-jarige leeftijd overleden. Dit heeft de country-zangeres bekendgemaakt via sociale media. Ondanks bezwaren van haar manager, ..."
         },
         {
-          "title": "Vrachtwagenchauffeur bekneld en grote ravage na ernstig ongeval",
-          "source": "112 Nieuws Nederland",
-          "url": "https://112nieuws.net/2026/08/25/vrachtwagenchauffeur-bekneld-en-grote-ravage-na-ernstig-eenzijdig-ongeval/",
-          "publishedDate": "Mon, 24 Aug 2026 23:28:00 GMT",
-          "description": "Een vrachtwagenchauffeur is dinsdagochtend bekneld geraakt bij een zwaar eenzijdig ongeval op de N242 (Westerweg) bij Heerhugowaard. Het ongeval gebeurde rond 07.20 uur in de richting van Alkmaar. Ter ..."
+          "title": "Dolly Parton verliest echtgenoot Carl Thomas Dean (82), haar inspiratie voor hit ‘Jolene’",
+          "source": "Gazet van Antwerpen",
+          "url": "https://www.gva.be/media-en-cultuur/bv-en-co/dolly-parton-verliest-echtgenoot-carl-thomas-dean-82-haar-inspiratie-voor-hit-jolene/46955155.html",
+          "publishedDate": "Tue, 04 Mar 2025 00:23:00 GMT",
+          "description": "In 1966 trouwde Carl Thomas Dean met Dolly Parton. De twee leerden elkaar twee jaar eerder kennen aan een wasserette in Nashville. Parton brak pas enkele jaren later door als countryzangeres. Ondanks ..."
         },
         {
-          "title": "Ernstig ongeluk op N242 in Heerhugowaard, vrachtwagenchauffeur raakt bekneld",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/362781/ernstig-ongeluk-op-n242-in-heerhugowaard-vrachtwagenchauffeur-raakt-bekneld",
-          "publishedDate": "Mon, 24 Aug 2026 22:53:00 GMT",
-          "description": "Vrachtwagenchauffeur bekneld na ongeluk N242 Heerhugowaard. Traumahelikopter opgeroepen, weg in beide richtingen dicht. Meer informatie volgt."
+          "title": "Dolly Parton verliest echtgenoot Carl Thomas Dean (82), die de inspiratie vormde voor haar monsterhit 'Jolene'",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2025/03/04/carl-thomas-dean-de-man-van-dolly-parton-overleden/",
+          "publishedDate": "Mon, 03 Mar 2025 21:09:00 GMT",
+          "description": "In de VS is Carl Thomas Dean (82) overleden. Dean was 59 jaar lang getrouwd met country-icoon Dolly Parton. Hij slaagde erin decennialang uit de schijnwerpers te blijven en zijn vrouw te laten ..."
         },
         {
-          "title": "Vrachtwagenchauffeur verdacht van seksuele handelingen bij pony in Vosselaar: &quot;Dit is ziekelijk gedrag&quot;",
-          "source": "VRT on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/vrachtwagenchauffeur-verdacht-van-seksuele-handelingen-bij-pony-in-vosselaar-dit-is-ziekelijk-gedrag/ar-AA2axiSi",
-          "publishedDate": "Thu, 20 Aug 2026 01:03:22 GMT",
-          "description": "Het parket van Antwerpen onderzoekt of een 47-jarige vrachtwagenchauffeur seksuele handelingen heeft uitgevoerd bij een pony in een weide in Vosselaar. Dat schrijft Gazet van Antwerpen en het parket b ..."
+          "title": "Dementerende echtgenoot Dolly Parton voor het eerst in 40 jaar gesignaleerd",
+          "source": "AD",
+          "url": "https://www.ad.nl/show/dementerende-echtgenoot-dolly-parton-voor-het-eerst-in-40-jaar-gesignaleerd~a5fcdafb/",
+          "publishedDate": "Mon, 06 Jan 2020 15:00:00 GMT",
+          "description": "Carl Dean (77), de man van Dolly Parton (73), is recent voor het eerst in 40 jaar in de openbaarheid gesignaleerd en gefotografeerd. Een uiterst opmerkelijk moment, omdat de countryzangeres en haar ..."
+        },
+        {
+          "title": "Echtgenoot Dolly Parton voor het eerst in 40 jaar gezien (en dat beroert de gemoederen)",
+          "source": "HLN",
+          "url": "https://www.hln.be/celebrities/echtgenoot-dolly-parton-voor-het-eerst-in-40-jaar-gezien-en-dat-beroert-de-gemoederen~a5fcdafb/",
+          "publishedDate": "Mon, 06 Jan 2020 01:36:00 GMT",
+          "description": "Carl Dean (77), de man van Dolly Parton (73), werd recent voor het eerst in 40 jaar publiekelijk gezien en gefotografeerd. Een uiterst opmerkelijk moment, gezien de countryzangeres en haar man zich ..."
         }
       ]
     },
     {
-      "keyword": "noodweer",
+      "keyword": "tim curry",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Vuelta-rit gestaakt om noodweer in Pyrenee&#235;n, renners besluiten zelf te stoppen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628155-vuelta-rit-gestaakt-om-noodweer-in-pyreneeen-renners-besluiten-zelf-te-stoppen",
-          "publishedDate": "Mon, 24 Aug 2026 08:48:00 GMT",
-          "description": "De derde etappe van de Ronde van Spanje is stilgelegd vanwege noodweer in de bergen en krijgt geen ritwinnaar."
-        },
-        {
-          "title": "Achmea boekt minder winst door schade na extreem noodweer",
+          "title": "Rocky Horror Picture Show- en IT-acteur Tim Curry (80) overleden",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6406180/achmea-boekt-minder-winst-door-schade-na-extreem-noodweer.html",
-          "publishedDate": "Thu, 13 Aug 2026 01:49:00 GMT",
-          "description": "Verzekeraar Achmea heeft in het eerste half jaar minder operationele winst geboekt dan een jaar eerder. Dat kwam door onder meer schade na hevige hagel- en onweersbuien in Nederland aan het einde van ..."
+          "url": "https://www.nu.nl/film/6407650/rocky-horror-picture-show-en-it-acteur-tim-curry-80-overleden.html",
+          "publishedDate": "Wed, 26 Aug 2026 11:03:00 GMT",
+          "description": "De Britse acteur Tim Curry is op tachtigjarige leeftijd overleden. Curry werd bekend door zijn rollen in onder meer It en The Rocky Horror Picture Show. Hij kampte al jaren met gezondheidsproblemen en ..."
         },
         {
-          "title": "Doden na noodweer in Frankrijk en Duitsland, huishoudens zonder stroom",
+          "title": "Rocky Horror Picture Show-acteur en IT-clown Tim Curry overleden",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2623342-doden-na-noodweer-in-frankrijk-en-duitsland-huishoudens-zonder-stroom",
-          "publishedDate": "Fri, 17 Jul 2026 06:30:00 GMT",
-          "description": "Na dagen van hitte en natuurbranden, kantelde het weer gisteren in Frankrijk. Bij noodweer kwamen zeker twee mensen om het leven."
+          "url": "https://nos.nl/artikel/2628415-rocky-horror-picture-show-acteur-en-it-clown-tim-curry-overleden",
+          "publishedDate": "Wed, 26 Aug 2026 10:15:00 GMT",
+          "description": "Hoewel Curry altijd geassocieerd werd met zijn rol in Rocky Horror, kan hij bogen op een succesvolle carri&#232;re in theater, film en televisie."
         },
         {
-          "title": "301.187 bliksemflitsen geteld tijdens noodweer in Nederland: ‘Dit is zeer bijzonder’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/301-187-bliksemflitsen-geteld-tijdens-noodweer-in-nederland-dit-is-zeer-bijzonder~a0424e0c/",
-          "publishedDate": "Sun, 28 Jun 2026 02:05:00 GMT",
-          "description": "Tijdens het noodweer van zaterdagavond- en nacht zijn honderdduizenden bliksemontladingen geteld. Unieke hoeveelheden, zegt weerman Berend van Straaten van Weerplaza. „Dit laat goed zien hoe extreem d ..."
+          "title": "Acteur Tim Curry (80), bekend van ‘The Rocky Horror Picture Show’, overleden",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/cultuur-media/acteur-tim-curry-80-bekend-van-the-rocky-horror-picture-show-overleden~bb24cd5c/",
+          "publishedDate": "Tue, 25 Aug 2026 21:50:00 GMT",
+          "description": "Acteur Tim Curry, bekend van zijn rollen in de film The Rocky Horror Picture Show en de tv-serie IT, is op 80-jarige leeftijd overleden. Dat melden Amerikaanse media als Variety en entertainmentwebsit ..."
         },
         {
-          "title": "Beringenaar (19) over noodweer in Zuid-Frankrijk: “Het was redelijk beangstigend”",
-          "source": "Het Belang van Limburg",
-          "url": "https://www.hbvl.be/regio/limburg/beringen/beringenaar-19-over-noodweer-in-zuid-frankrijk-het-was-redelijk-beangstigend/160480408.html",
-          "publishedDate": "Tue, 25 Aug 2026 06:38:00 GMT",
-          "description": "De Zuid-Franse departementen Aude en H&#233;rault zijn maandag geteisterd door zwaar noodweer. Zo trok een tornado een spoor van vernieling door het dorpje Pomas. “Het was redelijk beangstigend”, zegt Beri ..."
-        },
-        {
-          "title": "Peloton in Vuelta stopt vanwege noodweer in derde etappe",
+          "title": "TMZ: Rocky Horror Picture Show en It-acteur Tim Curry overleden",
           "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/peloton-in-vuelta-stopt-vanwege-noodweer-in-derde-etappe",
-          "publishedDate": "Mon, 24 Aug 2026 11:28:00 GMT",
-          "description": "FONT-ROMEU (ANP) - De wielrenners in de Vuelta zijn maandag in de slotfase van de derde etappe gestopt vanwege noodweer. In de hagel nam rodetruidrager en werel ..."
+          "url": "https://www.zeelandnet.nl/nieuws/tmz-rocky-horror-picture-show-en-it-acteur-tim-curry-overleden",
+          "publishedDate": "Wed, 26 Aug 2026 11:00:00 GMT",
+          "description": "LOS ANGELES (ANP) - Acteur Tim Curry, bekend van zijn rollen in de film The Rocky Horror Picture Show en de tv-serie It, is op 80-jarige leeftijd overleden. Dat ..."
         },
         {
-          "title": "Bizarre situatie in Vuelta: Tadej Pogacar sommeert alle renners te stoppen en schuilen voor noodweer",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/wielrennen/nieuws/bizarre-situatie-in-vuelta-tadej-pogacar-sommeert-alle-renners-te-stoppen-en-schuilen-voor-noodweer-2026082415341035014/",
-          "publishedDate": "Mon, 24 Aug 2026 10:34:00 GMT",
-          "description": "Noodweer heeft de derde etappe van de Vuelta letterlijk stilgelegd. Tadej Pogacar nam het heft in eigen handen toen de finale dusdanig slecht was, en sommeerde het hele peloton om voor de veiligheid t ..."
+          "title": "Hollywood verliest opnieuw een icoon: Tim Curry overleden op 80-jarige leeftijd",
+          "source": "P-Magazine",
+          "url": "https://p-magazine.com/nl/articles/hollywood-verliest-opnieuw-een-icoon-tim-curry-overleden-op-80-jarige-leeftijd",
+          "publishedDate": "Wed, 26 Aug 2026 10:04:00 GMT",
+          "description": "We hebben nog maar net afscheid moeten nemen van Dolly Parton of Hollywood krijgt opnieuw een zware klap te verwerken."
         },
         {
-          "title": "Zwaar noodweer Costa Dorada: zeven gewonden en zo’n 400 mensen ge&#235;vacueerd",
-          "source": "INSpanje.nl",
-          "url": "https://inspanje.nl/zwaar-noodweer-costa-dorada/",
-          "publishedDate": "Sat, 22 Aug 2026 02:56:00 GMT",
-          "description": "Zwaar noodweer treft de Costa Dorada: zeven gewonden, &#233;&#233;n kritiek, en zo'n 400 mensen ge&#235;vacueerd uit camping en discotheek."
+          "title": "Acteur Tim Curry (80) overleden, bekend van 'The rocky horror picture show' en 'It'",
+          "source": "VRT NWS on MSN",
+          "url": "https://www.msn.com/nl-be/entertainment/beroemdheden/acteur-tim-curry-80-overleden-bekend-van-the-rocky-horror-picture-show-en-home-alone-2/ar-AA2aYWuJ",
+          "publishedDate": "Wed, 26 Aug 2026 09:29:55 GMT",
+          "description": "De Britse acteur Tim Curry is overleden. Dat melden verschillende Britse en Amerikaanse media. Hij was vooral bekend van zijn iconische rol als Dr. Frank-N-Furter in 'The rocky horror picture show' en ..."
         },
         {
-          "title": "Bruggen kapot, water de huiskamer in: hevig noodweer teistert dorpen in Ja&#233;n",
-          "source": "INSpanje.nl",
-          "url": "https://inspanje.nl/hevig-noodweer-jaen-huelma-cambil/",
-          "publishedDate": "Fri, 14 Aug 2026 02:06:00 GMT",
-          "description": "Onverwacht noodweer tijdens een hittegolf verrastten inwoners van dorpen zoals Huelma en Cambil in de provincie Ja&#233;n ..."
-        },
-        {
-          "title": "Noodweer teistert Zuid-Frankrijk: dodentol opgelopen tot drie, meerdere personen vermist",
+          "title": "Acteur Tim Curry (80), bekend van ‘It’ en ‘Home Alone’, overleden",
           "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/buitenland/noodweer-teistert-zuid-frankrijk-dodentol-opgelopen-tot-drie-meerdere-personen-vermist/67949515.html",
-          "publishedDate": "Tue, 20 May 2025 08:33:00 GMT",
-          "description": "In het zuiden van Frankrijk is de dodentol na het noodweer opgelopen tot drie. Dat meldt de gendarmerie van het zuidelijke departement Var dinsdag in een update. Er zijn nog meerdere personen vermist."
+          "url": "https://www.gva.be/media-en-cultuur/bv-en-co/acteur-tim-curry-80-bekend-van-it-en-home-alone-overleden/160556554.html",
+          "publishedDate": "Wed, 26 Aug 2026 06:52:00 GMT",
+          "description": "De Britse acteur Tim Curry is op 80-jarige leeftijd overleden. Hij werd bekend door zijn opvallende rollen in de originele&#160;‘Rocky horror picture show’&#160;en als de clown Pennywise in Stephen King’s&#160;‘It’."
+        },
+        {
+          "title": "Acteur Tim Curry (80), bekend van ‘The Rocky Horror Picture Show’ en ‘It’, overleden",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/showbizz/acteur-tim-curry-80-bekend-van-the-rocky-horror-picture-show-en-it-overleden~aacf1fd9/",
+          "publishedDate": "Wed, 26 Aug 2026 02:21:00 GMT",
+          "description": "De Britse acteur Tim Curry is op 80-jarige leeftijd overleden. Dat melden verschillende Britse en Amerikaanse media. Curry was vooral bekend van zijn iconische rol als Dr. Frank-N-Furter in de cultfil ..."
+        },
+        {
+          "title": "Acteur Tim Curry (Rocky Horror, Home Alone, Pennywise) op 80-jarige leeftijd overleden",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/show/acteur-tim-curry-rocky-horror-home-alone-pennywise-op-80-jarige-leeftijd-overleden~a07241b8e/",
+          "publishedDate": "Wed, 26 Aug 2026 01:49:00 GMT",
+          "description": "Acteur Tim Curry is op 80-jarige leeftijd overleden. Dat meldt de Amerikaanse entertainmentwebsite TMZ. De Britse acteur, die bekendheid verwierf met zijn rol als Dr. Frank-N-Furter in de cultklassiek ..."
+        },
+        {
+          "title": "The Rocky Horror Picture Show en It-acteur Tim Curry overleden",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/the-rocky-horror-picture-show-en-it-acteur-tim-curry-overleden",
+          "publishedDate": "Tue, 25 Aug 2026 21:16:00 GMT",
+          "description": "Acteur Tim Curry, bekend van zijn rollen in de film The Rocky Horror Picture Show en de tv-serie It, is op 80-jarige leeftijd overleden. Dat melden Amerikaanse media als Variety en entertainmentwebsit ..."
         }
       ]
     },
     {
       "keyword": "onweersbuien",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Code geel voor onweersbuien in nacht van donderdag op vrijdag",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628387-code-geel-voor-onweersbuien-in-nacht-van-donderdag-op-vrijdag",
-          "publishedDate": "Wed, 26 Aug 2026 07:30:00 GMT",
-          "description": "De waarschuwing geldt voor het hele land. Lokaal kan meer dan 40 millimeter neerslag vallen, waardoor wateroverlast kan ontstaan."
-        },
-        {
-          "title": "Vrij zonnig en steeds warmer, later in de week kans op stevige onweersbuien",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/vrij-zonnig-en-steeds-warmer-later-in-de-week-kans-op-stevige-onweersbuien~bdf40071/",
-          "publishedDate": "Mon, 24 Aug 2026 00:49:00 GMT",
-          "description": "Er komt deze week warme en vochtige lucht onze kant op. Vanaf woensdag moeten we daarom rekening houden met onweer."
-        },
-        {
-          "title": "Laatste week van augustus begint zonnig, maar eindigt met onweersbuien",
-          "source": "RTL Nieuws (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/laatste-week-van-augustus-begint-zonnig-maar-eindigt-met-onweersbuien/ar-AA2aPAe0",
-          "publishedDate": "Sun, 23 Aug 2026 20:33:04 GMT",
-          "description": "De laatste week van de zomervakantie begint droog met een paar flinke zonnestralen. Het wordt ook weer ietsje warmer. Later deze week slaat dat weerbeeld compleet om: dan krijgen we te maken met stevi ..."
-        },
-        {
-          "title": "Code geel: KNMI waarschuwt voor onweer en buien met grote hagelstenen",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/weer/extreem-weer/artikelen/code-geel-knmi-waarschuwt-voor-onweer-en-wateroverlast-door-felle-buien",
-          "publishedDate": "Wed, 26 Aug 2026 06:04:00 GMT",
-          "description": "Donderdag of in de nacht naar vrijdag geldt er code geel. KNMI waarschuwt voor onweer en wateroverlast. Er is kans op hagelstenen met een diameter tot 2 cm."
-        },
-        {
-          "title": "Zware onweersbuien verwacht en kans op wateroverlast, KNMI geeft code geel af",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/natuur/5141352/zware-onweersbuien-verwacht-en-kans-op-wateroverlast-knmi-geeft-code-geel-af",
-          "publishedDate": "Wed, 26 Aug 2026 05:59:00 GMT",
-          "description": "Donderdagavond en -nacht worden zware onweersbuien verwacht. Ook is er kans op wateroverlast. Weerinstituut KNMI heeft code geel afgegeven voor Zuid-Holland en zeven andere provincies."
-        },
-        {
           "title": "Stevige onweersbuien met kans op hagel en zware windstoten op komst",
-          "source": "nu",
-          "url": "https://nu.cw/2026/08/26/stevige-onweersbuien-met-kans-op-hagel-en-zware-windstoten-op-komst/",
-          "publishedDate": "Wed, 26 Aug 2026 05:02:00 GMT",
-          "description": "Na enkele zonnige dagen wordt het weer onstuimig. Donderdag en vrijdag is er kans op stevige onweersbuien, zware windstoten, grote hagelstenen en wateroverlast, schrijft Weeronline."
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/weerbericht/6407562/stevige-onweersbuien-met-kans-op-hagel-en-zware-windstoten-op-komst.html",
+          "publishedDate": "Wed, 26 Aug 2026 03:02:00 GMT",
+          "description": "De laatste dagen van de zomervakantie voor regio Midden worden onstuimig. Donderdag en vrijdag is er kans op stevige onweersbuien, zware windstoten, grote hagelstenen en wateroverlast, schrijft Weeron"
         },
         {
-          "title": "Stevige onweersbuien op komst met zware windstoten en hagel",
-          "source": "GelreNieuws.nl",
-          "url": "https://www.gelrenieuws.nl/2026/08/stevige-onweersbuien-op-komst-met-zware-windstoten-en-hagel.html",
-          "publishedDate": "Wed, 26 Aug 2026 04:35:00 GMT",
-          "description": "NEDERLAND - Na enkele zonnige dagen slaat het weer donderdag en vrijdag om. Volgens Weeronline neemt de kans op stevige onweersbuien toe, waarbij lokaal veel regen, zware windstoten en hagel kunnen vo ..."
-        },
-        {
-          "title": "KNMI gaat voortaan waarschuwen voor zwaar onweer op jouw locatie",
-          "source": "DroidApp",
-          "url": "https://www.droidapp.nl/nieuws/knmi-voortaan-waarschuwen-zwaar-onweer-locatie/",
-          "publishedDate": "Wed, 26 Aug 2026 03:24:00 GMT",
-          "description": "Het KNMI voegt een nieuwe functie toe aan de KNMI-app. Vanaf deze week worden de meldingen voor onweersbuien nauwkeuriger. Voortaan krijg je deze niet meer per provincie, maar kan je hiervan op de hoo ..."
-        },
-        {
-          "title": "Onstuimig weer: flinke regen- en onweersbuien in aantocht",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/362820/onstuimig-weer-flinke-regen-en-onweersbuien-in-aantocht",
-          "publishedDate": "Tue, 25 Aug 2026 17:32:00 GMT",
-          "description": "Noord-Holland krijgt onstuimige dagen: vrijdag kans op fikse onweersbuien na warme 27 graden. Ook in het weekend blijft het nat. Lees het weerbericht."
-        },
-        {
-          "title": "Zomerse temperaturen in aantocht, maar ook kans op stevige onweersbuien",
+          "title": "Temperaturen lopen op tot 30 graden, daarna slaat het weer om",
           "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/weer/weerbericht/artikelen/weer-zomerse-temperaturen-25-graden-onweersbuien",
-          "publishedDate": "Mon, 24 Aug 2026 00:39:00 GMT",
-          "description": "Na een frisse en wisselvallige zomerweek loopt de temperatuur deze week weer op. Dinsdag wordt het op veel plaatsen 25 graden en daarna wordt het nog iets warmer. Later in de week neemt de kans op ste ..."
+          "url": "https://www.hartvannederland.nl/weer/weerbericht/videos/temperaturen-lopen-op-tot-30-graden-daarna-slaat-het-weer-om",
+          "publishedDate": "Tue, 25 Aug 2026 22:30:00 GMT",
+          "description": "Het wordt vandaag zomers warm met temperaturen rond 25 graden en veel ruimte voor de zon. Morgen kan het kwik oplopen tot 30 graden, maar neemt de kans op stevige regen en onweersbuien toe. Richting h"
         }
       ]
     },
     {
       "keyword": "nepal",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
+        {
+          "title": "95 lichamen gevonden na aardbeving, lawine en grote overstroming in Nepal",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6407636/95-lichamen-gevonden-na-aardbeving-lawine-en-grote-overstroming-in-nepal.html",
+          "publishedDate": "Wed, 26 Aug 2026 09:34:00 GMT",
+          "description": "Hulpdiensten in Nepal hebben 95 lichamen gevonden na de grote overstroming in het grensgebied met China. De overstroming is waarschijnlijk ontstaan na een aardbeving en een daaropvolgende lawine."
+        },
         {
           "title": "Tientallen doden en honderden vermisten door overstroming in Nepal en Tibet",
           "source": "Trouw",
@@ -469,46 +192,39 @@
           "description": "Overstromingen en een aardverschuiving hebben een ravage aangericht in het grensgebied tussen Nepal en Tibet. De autoriteiten vrezen voor veel slachtoffers."
         },
         {
-          "title": "Dodental na overstroming in Nepal stijgt tot 95, vrees voor veel meer slachtoffers",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/wereld/dodental-na-overstroming-in-nepal-stijgt-tot-95-vrees-voor-veel-meer-slachtoffers~ba101910/",
-          "publishedDate": "Wed, 26 Aug 2026 06:21:00 GMT",
-          "description": "In het noorden van Nepal zijn meerdere doden gevallen als gevolg van een grote overstroming. Ook worden veel mensen vermist. De Nepalese autoriteiten melden dat er tot nu toe 384 toeristen in de regio ..."
+          "title": "Zeker 98 doden en honderden vermisten in Nepal en Tibet na vloedgolf in Trishuli-rivier",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/08/26/zeker-18-doden-en-honderden-vermisten-na-overstroming-in-nepal-en-tibet-a4935189",
+          "publishedDate": "Wed, 26 Aug 2026 07:46:00 GMT",
+          "description": "Overstroming Nepal en Tibet: De overstroming vond plaats langs de Bhote Koshi-rivier in de provincie Rasuwa. Op videobeelden is te zien hoe de rivier met verwoestende kracht buiten zijn oevers treedt."
         },
         {
-          "title": "Na stortvloed bijna honderd doden en honderden vermisten • Premier Nepal: 'Hele land is geschokt'",
+          "title": "Grote ravage na stortvloed Nepal, meer dan 150 doden en honderden vermisten",
           "source": "NOS",
-          "url": "https://nos.nl/liveblog/2628376-na-stortvloed-bijna-honderd-doden-en-honderden-vermisten-premier-nepal-hele-land-is-geschokt",
-          "publishedDate": "Wed, 26 Aug 2026 05:33:00 GMT",
-          "description": "In Nepal zijn bijna honderd doden gevallen en honderden mensen vermist na een grote overstroming. Mogelijk wordt ook een Nederlander vermist."
-        },
-        {
-          "title": "Grote ravage na stortvloed Nepal, bijna honderd doden en honderden vermisten",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628366-grote-ravage-na-stortvloed-nepal-bijna-honderd-doden-en-honderden-vermisten",
+          "url": "https://nos.nl/artikel/2628366-grote-ravage-na-stortvloed-nepal-meer-dan-150-doden-en-honderden-vermisten",
           "publishedDate": "Wed, 26 Aug 2026 03:48:00 GMT",
           "description": "Het water steeg plotseling, hele dorpen in het Himalayagebergte zijn weggevaagd. Het is waarschijnlijk dat het aantal slachtoffers nog oploopt."
         },
         {
-          "title": "Dorpen weggevaagd bij overstromingen in Nepal, dodental loopt op",
+          "title": "Expert over ramp in Nepal: waarom smeltende gletsjers in de Himalaya voor steeds meer ellende zorgen",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/dorpen-weggevaagd-bij-overstromingen-in-nepal-dodental-loopt-op~aa101910/",
-          "publishedDate": "Wed, 26 Aug 2026 01:08:00 GMT",
-          "description": "In het noorden van Nepal zijn zeker 95 doden gevallen als gevolg van grote overstromingen. De Nepalese autoriteiten melden daarnaast dat er tot nu toe bijna vierhonderd mensen worden vermist, onder wi ..."
+          "url": "https://www.ad.nl/buitenland/expert-over-ramp-in-nepal-waarom-smeltende-gletsjers-in-de-himalaya-voor-steeds-meer-ellende-zorgen~afd43ae94/",
+          "publishedDate": "Wed, 26 Aug 2026 03:31:00 GMT",
+          "description": "Een ijs- en rotslawine vanuit een gletsjer aan de noordkant van de Himalaya is vermoedelijk de oorzaak van de vloedgolf in het grensgebied tussen China (Tibet) en Nepal. Dat zegt Walter Immerzeel, als ..."
         },
         {
-          "title": "LIVE Overstromingen Nepal | Dodental loopt op naar 95: dorpen weggevaagd, honderden toeristen vermist",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/live-overstromingen-nepal-dodental-loopt-op-naar-95-dorpen-weggevaagd-honderden-toeristen-vermist~a248a934/",
-          "publishedDate": "Wed, 26 Aug 2026 01:06:00 GMT",
-          "description": "In het noorden van Nepal zijn zeker 95 doden gevallen als gevolg van een grote overstroming. De Nepalese autoriteiten melden daarnaast dat er tot nu toe bijna vierhonderd mensen vermist worden, onder ..."
+          "title": "Al minstens 100 doden na modderstroom in Nepal en Tibet, ook honderden toeristen vermist",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/al-minstens-100-doden-na-modderstroom-in-nepal-en-tibet-ook-honderden-toeristen-vermist/160523469.html",
+          "publishedDate": "Wed, 26 Aug 2026 08:45:00 GMT",
+          "description": "Een modderstroom heeft woensdag in Nepal en Tibet al minstens 100 doden gemaakt, honderden toeristen zijn ook vermist. Dat melden de autoriteiten in het land. Er verblijven ook 85 Belgen in Nepal. Vol ..."
         },
         {
-          "title": "Overstroming Nepal vermoedelijk veroorzaakt door afbreken gletsjerijs",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/overstroming-nepal-vermoedelijk-veroorzaakt-door-afbreken-gletsjerijs~bbca6a80/",
-          "publishedDate": "Tue, 25 Aug 2026 19:43:00 GMT",
-          "description": "De overstromingen zijn vermoedelijk veroorzaakt door het afbreken van een grote hoeveelheid gletsjerijs, zeggen experts tegen The New York Times en tijdschrift New Scientist. De Nepalese autoriteiten ..."
+          "title": "Al minstens 100 doden na modderstroom in Nepal en Tibet- Pr&#233;vot: “Geen weet van Belgische slachtoffers”",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/al-minstens-100-doden-na-modderstroom-in-nepal-en-tibet-prevot-geen-weet-van-belgische-slachtoffers/160523469.html",
+          "publishedDate": "Wed, 26 Aug 2026 08:45:00 GMT",
+          "description": "Een modderstroom heeft woensdag in Nepal en Tibet al minstens 100 doden gemaakt, honderden toeristen zijn ook vermist. Dat melden de autoriteiten in het land. Er verblijven ook 85 Belgen in Nepal. Vol ..."
         },
         {
           "title": "Dodental na aardbeving Nepal loopt op, reddingsacties bezig",
@@ -518,7 +234,7 @@
           "description": "KATHMANDU (ANP/AFP) - Het dodental door de overstroming in Nepal is opgelopen tot 31, melden de autoriteiten in het land volgens de BBC. Er zijn 93 mensen gewond geraakt. Over de grens in China zijn v ..."
         },
         {
-          "title": "Vloedgolf Nepal eist minstens 95 levens: honderden vermisten, onder wie 341 buitenlandse toeristen",
+          "title": "Lawine en vloedgolf in Nepal en Tibet: zeker 100 doden en honderden vermisten, onder wie bijna 500 toeristen",
           "source": "VRT",
           "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/dodelijke-overstromingen-in-nepal-na-lawine-19-doden-en-honderd/",
           "publishedDate": "Wed, 26 Aug 2026 06:47:00 GMT",
@@ -535,14 +251,14 @@
     },
     {
       "keyword": "wateroverlast",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Donderdagavond in 8 provincies code geel wegens onweer en regen, later overal",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/binnenland/6407626/donderdagavond-in-8-provincies-code-geel-wegens-onweer-en-regen-later-overal.html",
-          "publishedDate": "Wed, 26 Aug 2026 08:16:00 GMT",
-          "description": "Het KNMI waarschuwt donderdagavond voor onweersbuien en mogelijk wateroverlast. Er is code geel afgegeven voor acht provincies. In de nacht naar vrijdag geldt de waarschuwing voor het hele land."
+          "title": "Morgenavond kans op wateroverlast en hagel: 'Komen pittige buien aan'",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/weer/artikel/5644407/morgenavond-kans-op-wateroverlast-en-hagel-komen-pittige-buien-aan",
+          "publishedDate": "Wed, 26 Aug 2026 10:05:00 GMT",
+          "description": "Nederland krijgt morgenavond en -nacht te maken met 'pittige onweersbuien', zegt Maurice Middendorp van Buienradar. De buien beginnen in de zuidelijke provincies en trekken noordwaarts over het land."
         },
         {
           "title": "Hitte &#233;n onstuimig weer op komst: code geel om onweer, kans op wateroverlast en grote hagelstenen",
@@ -550,6 +266,13 @@
           "url": "https://www.telegraaf.nl/binnenland/hitte-en-onstuimig-weer-op-komst-code-geel-om-onweer-kans-op-wateroverlast-en-grote-hagelstenen/160513151.html",
           "publishedDate": "Wed, 26 Aug 2026 00:34:00 GMT",
           "description": "Donderdag en vrijdag worden warme tot zeer warme dagen en in het weekend koelt het wat af. Dat meldt Weeronline. Op donderdag en vrijdag neemt ook de kans op stevige onweersbuien toe, met mogelijk wat ..."
+        },
+        {
+          "title": "Donderdagavond in 8 provincies code geel wegens onweer en regen, later overal",
+          "source": "nu",
+          "url": "https://nu.cw/2026/08/26/donderdagavond-in-8-provincies-code-geel-wegens-onweer-en-regen-later-overal/",
+          "publishedDate": "Wed, 26 Aug 2026 10:16:00 GMT",
+          "description": "Het KNMI waarschuwt donderdagavond voor onweersbuien en mogelijk wateroverlast. Er is code geel afgegeven voor acht provincies. In de nacht naar vrijdag geldt de waarschuwing voor het hele land."
         },
         {
           "title": "KNMI waarschuwt voor onweer en wateroverlast donderdagavond",
@@ -594,13 +317,6 @@
           "description": "Na de aanhoudende droogte trekt er sinds vanmiddag een stevige regen- en onweerszone over Belgi&#235;. Daarom heeft de federale overheidsdienst Binnenlandse Zaken het nummer 1722 geactiveerd. Daarmee kunne ..."
         },
         {
-          "title": "Regen zorgt voor schade: appartementencomplex onder water en supermarkt dicht",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/112/5139117/regen-zorgt-voor-schade-appartementencomplex-onder-water-en-supermarkt-dicht",
-          "publishedDate": "Wed, 19 Aug 2026 04:47:00 GMT",
-          "description": "De regen zorgt voor overlast in onze regio. Volgens de brandweer zijn er al zeker zeven meldingen binnengekomen. Onder meer is in Katwijk woensdagochtend de berging van twee appartementencomplexen aan ..."
-        },
-        {
           "title": "Hevige regen zorgt voor wateroverlast op meerdere plekken in Katwijk",
           "source": "Allesoverkatwijk.nl",
           "url": "https://www.allesoverkatwijk.nl/nieuws/algemeen/108732/hevige-regen-zorgt-voor-wateroverlast-op-meerdere-plekken-in-",
@@ -611,13 +327,13 @@
     },
     {
       "keyword": "joost b&amp;b vol liefde",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "‘Ongemakkelijk verleden BenB kandidaat Joost: ‘stalkingsgedrag’",
           "source": "Ditjes en Datjes",
           "url": "https://www.ditjesendatjes.nl/ongemakkelijk-verleden-benb-kandidaat-joost-stalkingsgedrag",
-          "publishedDate": "Tue, 25 Aug 2026 19:48:00 GMT",
+          "publishedDate": "Wed, 26 Aug 2026 09:48:00 GMT",
           "description": "De sfeer bekoelde toen Joost in B&amp;B Vol Liefde het hart van Timothy kwam veroveren. Medekandidaat Michael vond hem niets. Nu weten we waarom."
         },
         {
@@ -630,43 +346,264 @@
       ]
     },
     {
+      "keyword": "dolly parton kinderen",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Familie: Dolly Parton leed kort aan kanker, afscheid in besloten kring",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/familie-dolly-parton-leed-kort-aan-kanker-afscheid-in-besloten-kring~a6337dd4/",
+          "publishedDate": "Tue, 25 Aug 2026 18:07:00 GMT",
+          "description": "Dolly Parton leed voor haar dood kort aan kanker. Dat heeft de familie van de &lt;a href=&quot;https://www.ad.nl/show/zangeres-dolly-parton-op-80-jarige-leeftijd-overleden~a19b9413/&quot; target=&quot;_blank&quot;&gt;dinsdag o ..."
+        },
+        {
+          "title": "In Memoriam: Dolly Parton (1946–2026) – We Will Always Love You",
+          "source": "Blues Magazine",
+          "url": "https://www.bluesmagazine.nl/dolly-parton-overleden-in-memoriam-we-will-always-love-you/",
+          "publishedDate": "Wed, 26 Aug 2026 09:17:00 GMT",
+          "description": "Dolly Parton is op 80-jarige leeftijd overleden. Een eerbetoon aan de legendarische songwriter achter Jolene en I Will Always Love You."
+        },
+        {
+          "title": "Wat een icoon: dit deed Dolly Parton voor kinderen en gezinnen",
+          "source": "Mamaplaats on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/wat-een-icoon-dit-deed-dolly-parton-voor-kinderen-en-gezinnen/ar-AA2aYrcE",
+          "publishedDate": "Wed, 26 Aug 2026 06:48:26 GMT",
+          "description": "Dolly Parton deed veel meer dan zingen: dit betekende ze voor miljoenen kinderen Een boek op de ..."
+        },
+        {
+          "title": "Dolly Parton was veel meer dan een country zangeres: ze gaf miljoenen kinderen iets wat haar eigen vader moest missen",
+          "source": "Kek Mama on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/dolly-parton-was-veel-meer-dan-een-country-zangeres-ze-gaf-miljoenen-kinderen-iets-wat-haar-eigen-vader-moest-missen/ar-AA2aXhpx",
+          "publishedDate": "Wed, 26 Aug 2026 04:00:00 GMT",
+          "description": "Grote blonde pruiken, strass-steentjes, een flinke dosis zelfspot en natuurlijk Jolene. Dolly Parton was onmogelijk over het hoofd te zien. Maar achter alle glitter zat een vrouw die haar enorme succe ..."
+        },
+        {
+          "title": "Familie: Dolly Parton leed kort aan kanker",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Buitenland/familie-dolly-parton-leed-kort-aan-kanker/ar-AA2aUQKL",
+          "publishedDate": "Tue, 25 Aug 2026 17:34:08 GMT",
+          "description": "NASHVILLE (ANP) - Dolly Parton leed voor haar dood kort aan kanker. Dat heeft de familie van de dinsdag op 80-jarige leeftijd overleden countryzangeres bevestigd. Om welke vorm van kanker het ging, is ..."
+        },
+        {
+          "title": "Dolly Parton was alles tegelijk: artiest, ondernemer, sekssymbool en feminist",
+          "source": "OOR",
+          "url": "https://oor.nl/news/country-icoon-dolly-parton-overleden/",
+          "publishedDate": "Tue, 25 Aug 2026 11:31:00 GMT",
+          "description": "Zangeres, songwriter en country-icoon Dolly Parton is vandaag overleden. Ze werd 80 jaar. Op dit moment is er nog geen offici&#235;le doodsoorzaak bekendgemaakt."
+        },
+        {
+          "title": "Dolly Parton overleden (80), countrylegende, actrice, pientere zakenvrouw en filantrope",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/25/dolly-parton-overleden-countryzangeres-jolene-actrice-filantrope/",
+          "publishedDate": "Tue, 25 Aug 2026 11:01:00 GMT",
+          "description": "De Amerikaanse zangeres Dolly Parton (80) is overleden. Dat heeft haar familie bekendgemaakt. Ze was een van de meest geliefde en invloedrijke artiesten in de geschiedenis van de countrymuziek, niet a ..."
+        }
+      ]
+    },
+    {
       "keyword": "school",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "'FVD-school' opent deuren",
-          "source": "NOS",
-          "url": "https://nos.nl/nieuwsuur/video/2627310-fvd-school-opent-deuren",
-          "publishedDate": "Mon, 17 Aug 2026 13:35:00 GMT",
-          "description": "Vandaag opent de Renaissanceschool in Almere, m&#233;t subsidie. Is het de bedoeling dat een politieke partij met overheidsgeld een school start? Een meerderheid van de Kamer maakt zich zorgen en wil de we ..."
+          "title": "Elf leerlingen op verkeerde middelbare school geplaatst door fout bij Centrale Loting &amp; Matching",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/elf-leerlingen-op-verkeerde-middelbare-school-geplaatst-door-fout-bij-centrale-loting-matching~b2f72ed8/",
+          "publishedDate": "Tue, 18 Aug 2026 09:44:00 GMT",
+          "description": "Door een fout bij de Centrale Loting &amp; Matching 2026 hebben elf leerlingen in april een plek gekregen op een middelbare school die lager op hun voorkeurslijst staat dan had gemoeten. Inmiddels hebben ..."
         },
         {
-          "title": "'FVD-school' opent deuren dankzij subsidie, Kamermeerderheid wil regels aanscherpen",
+          "title": "Seksueel wangedrag op school: 'Ik denk dat we niet half weten hoeveel het voorkomt'",
           "source": "NOS",
-          "url": "https://nos.nl/nieuwsuur/artikel/2627273-fvd-school-opent-deuren-dankzij-subsidie-kamermeerderheid-wil-regels-aanscherpen",
-          "publishedDate": "Mon, 17 Aug 2026 10:44:00 GMT",
-          "description": "Vandaag opent de Renaissanceschool in Almere, m&#233;t subsidie. Is het de bedoeling dat een politieke partij met overheidsgeld een school start? Een meerderheid van de Kamer maakt zich zorgen en wil de we ..."
+          "url": "https://nos.nl/artikel/2603003-seksueel-wangedrag-op-school-ik-denk-dat-we-niet-half-weten-hoeveel-het-voorkomt",
+          "publishedDate": "Wed, 18 Feb 2026 07:57:00 GMT",
+          "description": "Veel jongeren maken seksueel grensoverschrijdend gedrag mee op de middelbare school of op het mbo. Dat zeggen ze tegen NOS Stories. Ook tientallen vertrouwenspersonen zien dat het op scholen waarvoor ..."
         },
         {
-          "title": "Plein van Forum-school ligt er op eerste dag verlaten bij: slechts vier kinderen komen opdagen",
+          "title": "Duitse school na crash A28: geen levensbedreigende verwondingen",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1160200-duitse-school-na-crash-a28-geen-levensbedreigende-verwondingen",
+          "publishedDate": "Mon, 24 Aug 2026 03:22:00 GMT",
+          "description": "Ongeveer 40 tot 45 Duitse scholieren worden opgevangen in een sporthal in Wezep, meldt de veiligheidsregio. Zij zaten in de touringcar die maandagochtend betrokken was bij een ongeluk op de A28. Veel ..."
+        },
+        {
+          "title": "Jongeman op eerste schooldag doodgeschoten voor school op Cura&#231;ao",
+          "source": "Waterkant.net",
+          "url": "https://www.waterkant.net/suriname/2026/08/21/jongeman-op-eerste-schooldag-doodgeschoten-voor-school-op-curacao/",
+          "publishedDate": "Fri, 21 Aug 2026 00:59:00 GMT",
+          "description": "Een jongeman is donderdagmiddag 20 augustus voor het Kolegio Mgr. Willem Ellis in Santa Helena op Cura&#231;ao doodgeschoten. Het incident vond plaats op de ..."
+        },
+        {
+          "title": "Twee doden door schietpartij op school in de Filipijnen",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/buitenland/twee-doden-door-schietpartij-op-school-in-de-filipijnen",
+          "publishedDate": "Mon, 17 Aug 2026 22:21:00 GMT",
+          "description": "ZAMBOANGA (ANP) - Bij een schietpartij op een middelbare school in het zuiden van de Filipijnen zijn dinsdag twee doden gevallen. Volgens de lokale autoriteiten is de situatie inmiddels onder controle ..."
+        },
+        {
+          "title": "Word jij een Student op School?",
+          "source": "Universiteit Utrecht",
+          "url": "https://www.uu.nl/onderwijs/student-op-school",
+          "publishedDate": "Tue, 23 Jun 2026 06:46:00 GMT",
+          "description": "Heb jij een hart voor onderwijs en lijkt het je leuk om na de zomervakantie aan de slag te gaan op een middelbare school in de regio Utrecht? Meld je dan aan voor de Student op School Studentenpool ..."
+        },
+        {
+          "title": "School die beschadigd werd bij ontploffing in Sint-Gillis zal morgen gewoon openen",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/04/19/school-getroffen-in-sint-gillis-zal-openen/",
+          "publishedDate": "Sun, 19 Apr 2026 10:06:00 GMT",
+          "description": "In de Franstalige basis- en middelbare school in Sint-Gillis die beschadigd werd door een ontploffing zal morgen gewoon les worden gegeven. Dat heeft burgemeester Jean Spinette (PS) meegedeeld. In de ..."
+        },
+        {
+          "title": "School in Malle voert uniform opnieuw in: &quot;Meer rust en verbondenheid, minder keuzestress&quot;",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/03/06/mariagaarde-malle-school-secundair-uniform-uniformschool/",
+          "publishedDate": "Fri, 06 Mar 2026 07:20:00 GMT",
+          "description": "Mariagaarde secundair in Malle voert vanaf schooljaar 2027-2028 opnieuw een uniform in voor alle leerlingen van de eerste graad. De school wil zo inzetten op meer rust en verbondenheid. Leerlingen die ..."
+        },
+        {
+          "title": "Wanneer hoeft mijn kind niet naar school?",
+          "source": "Rijksoverheid",
+          "url": "https://www.rijksoverheid.nl/vraag-en-antwoord/leerplicht/leerplicht-kind-niet-naar-school",
+          "publishedDate": "Fri, 15 Nov 2019 03:44:00 GMT",
+          "description": "Als uw kind 5 jaar wordt moet het naar school. Soms is een volledige schoolweek nog te veel voor een kind. Uw kind mag dan 5 uur in de week thuisblijven. Dit mag tot uw kind 6 jaar is. Hiervoor heeft ..."
+        },
+        {
+          "title": "Hoe lang moet een school gemaakte examens bewaren?",
+          "source": "Rijksoverheid",
+          "url": "https://www.rijksoverheid.nl/vraag-en-antwoord/voortgezet-onderwijs/hoe-lang-moet-een-school-examenmateriaal-bewaren",
+          "publishedDate": "Wed, 30 Jul 2014 07:00:00 GMT",
+          "description": "Een school moet het werk van het centraal examen bewaren tot minimaal 6 maanden na de uitslag. Dit geldt ook voor de bijbehorende cijferlijst en de opgaven die de leerling gebruikte. Voor ..."
+        }
+      ]
+    },
+    {
+      "keyword": "wouter goes",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Goes eerlijk: 'Dat waren clubs waarmee ik anders wel in gesprek was gegaan'",
+          "source": "Voetbal Centraal",
+          "url": "https://www.voetbalcentraal.nl/nieuws/1739048/Goes-eerlijk:--Dat-waren-clubs-waarmee-ik-anders-wel-in-gesprek-was-gegaan-",
+          "publishedDate": "Tue, 25 Aug 2026 22:40:00 GMT",
+          "description": "Wouter Goes heeft niet de intentie om voor een club uit de traditionele topdrie van Nederland te gaan spelen. Dat vertelt de 22-jarige verdediger in een interview met Voetbal International . Ook gaat ..."
+        },
+        {
+          "title": "Goes eerlijk: 'Mooie clubs, maar niet mijn intentie om daar te gaan spelen'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/goes-eerlijk-mooie-clubs-maar-niet-mijn-intentie-om-daar-te-gaan-spelen/ar-AA2aW5RA",
+          "publishedDate": "Tue, 25 Aug 2026 22:27:00 GMT",
+          "description": "Wouter Goes heeft niet de intentie om voor een club uit de traditionele topdrie van Nederland te gaan spelen. Dat vertelt de 22-jarige verdediger in een interview met Voetbal International . Ook gaat ..."
+        },
+        {
+          "title": "Wouter Goes: 'Ik ben in balans nu'",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/pro/wouter-goes-ik-ben-in-balans-nu",
+          "publishedDate": "Tue, 25 Aug 2026 22:00:00 GMT",
+          "description": "Wouter Goes (22) is met zichzelf aan de slag gegaan, nadat zijn gedrag vorig jaar veel commotie opleverde. Een openhartig gesprek over zijn zoektocht naar een nieuwe modus, zijn carri&#232;replan, boeken v ..."
+        },
+        {
+          "title": "Wouter Goes blikt terug op clash met Zeefuik: 'Hij dacht: we zijn toch vrienden?'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/wouter-goes-blikt-terug-op-clash-met-zeefuik-hij-dacht-we-zijn-toch-vrienden/ar-AA2azL4l",
+          "publishedDate": "Thu, 20 Aug 2026 08:02:00 GMT",
+          "description": "Op de training van AZ zoekt Wouter Goes soms &#243;&#243;k de grens op, vertelt hij in de Cor Potcast - en niet al zijn teamgenoten kunnen dat waarderen. Zo kwam het bijvoorbeeld al een aantal keer tot een aanv ..."
+        },
+        {
+          "title": "‘Grote transfer voor Wouter Goes’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/grote-transfer-voor-wouter-goes/",
+          "publishedDate": "Tue, 18 Aug 2026 03:00:00 GMT",
+          "description": "AZ is uitstekend aan het nieuwe seizoen begonnen. De Alkmaarders boekten zaterdagavond een klinkende 1-4 overwinning op FC Utrecht en staan nu na twee speelronden bovenaan. Wouter Goes wordt daarbij g ..."
+        },
+        {
+          "title": "Wouter Goes: &quot;Weghorst heeft dat meer met mij dan ik met hem&quot;",
+          "source": "Twentefans.nl",
+          "url": "https://www.twentefans.nl/wouter-goes-weghorst-heeft-dat-meer-met-mij-dan-ik-met-hem/",
+          "publishedDate": "Fri, 14 Aug 2026 17:33:00 GMT",
+          "description": "Lees nu | Wouter Goes ligt regelmatig onder een vergrootglas bij de Nederlandse arbitrage. De verdediger van AZ doet er alles aan om zijn ..."
+        },
+        {
+          "title": "Goes heeft duidelijke afspraak met AZ over transfer: 'Dat is intern besproken'",
+          "source": "Voetbalprimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2120331/wouter-goes-spreekt-zich-uit-over-toekomst-en-ambities-met-az.html",
+          "publishedDate": "Fri, 07 Aug 2026 00:31:00 GMT",
+          "description": "Ondanks dat Wouter Goes onlangs zijn contract bij AZ verlengde tot medio 2030, verwacht de 22-jarige verdediger niet dat hij zijn verbintenis volledig uitdient in Alkmaar. De mandekker hoopt daarnaast ..."
+        },
+        {
+          "title": "Wouter Goes onthult transferafspraken met AZ: ‘Waarschijnlijk geen vier jaar’",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/goes-transferafspraken-az-contract-vertrek",
+          "publishedDate": "Thu, 06 Aug 2026 12:43:00 GMT",
+          "description": "Wouter Goes heeft met AZ afspraken gemaakt over een toekomstige transfer. De verdediger tekende tot 2030, maar verwacht eerder te vertrekken."
+        },
+        {
+          "title": "AZ breekt contract Goes open en verlengt tot medio 2030",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/az-breekt-contract-goes-open-en-verlengt-tot-medio-2030",
+          "publishedDate": "Tue, 04 Aug 2026 13:38:00 GMT",
+          "description": "AZ breekt contract Wouter Goes open en verlengt tot 2030. De 22-jarige verdediger, eigen jeugd, speelde 125 duels en won KNVB-beker en JC Schaal. Klik voor meer!"
+        },
+        {
+          "title": "Nieuws over Wouter Goes bij AZ: 'Groter compliment kun je als club niet krijgen'",
+          "source": "Voetbalprimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2119442/az-dolblij-met-contractverlenging-goes.html",
+          "publishedDate": "Tue, 04 Aug 2026 13:25:00 GMT",
+          "description": "Niels van Duinen is verheugd met de contractverlenging van Wouter Goes bij AZ. Dinsdagavond maakten de Alkmaarders bekend dat de 22-jarige verdediger tot medio 2030 heeft bijgetekend. De technisch dir ..."
+        }
+      ]
+    },
+    {
+      "keyword": "hek",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Kitten onder hek van Blijdorp doorgeschoven, politie onderzoekt strafbare dumping",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/plein-van-forum-school-ligt-er-op-eerste-dag-verlaten-bij-slechts-vier-kinderen-komen-opdagen~ad3330a8/",
-          "publishedDate": "Mon, 17 Aug 2026 08:06:00 GMT",
-          "description": "De Renaissanceschool in Almere is open. Van een feestelijke opening van het basisonderwijs van Forum voor Democratie was maandag nauwelijks sprake. Van de achttien aanmeldingen komen lang niet alle le ..."
+          "url": "https://www.ad.nl/rotterdam/kitten-onder-hek-van-blijdorp-doorgeschoven-politie-onderzoekt-strafbare-dumping~a0e2f444/",
+          "publishedDate": "Tue, 18 Aug 2026 00:36:00 GMT",
+          "description": "Vorige week donderdag (13 augustus) is er bij Diergaarde Blijdorp een kitten onder het hek doorgeschoven. Dat is volgens de woordvoerder van de dierentuin gezien op camerabeelden. De politie maakt er ..."
         },
         {
-          "title": "Tweede poging voor nieuwe middelbare school in Ranst stuit opnieuw op buurtprotest: &quot;Ook al zijn we zelf ouder en grootouder&quot;",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/24/opnieuw-protest-tegen-bouwaanvraag-nieuwe-middelbare-school-in-r/",
-          "publishedDate": "Mon, 24 Aug 2026 21:54:00 GMT",
-          "description": "In Ranst is er voor de tweede keer een omgevingsvergunning aangevraagd voor de bouw een nieuwe middelbare school. Niet meer in de Schawijkstraat, wel in de Kromstraat. Een aantal buurtbewoners protest ..."
+          "title": "Auto botst tegen hek na aanrijding in Amersfoort",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-amersfoort/auto-botst-tegen-hek-na-aanrijding-in-amersfoort~aaec58bf/",
+          "publishedDate": "Sat, 15 Aug 2026 01:44:00 GMT",
+          "description": "Twee auto's zijn zaterdag op elkaar gebotst in Amersfoort. Een auto kwam na de botsing tegen het hek langs de Heiligenbergerweg tot stilstand. De oorzaak van de botsing is niet bekend."
         },
         {
-          "title": "Historische art-decotegels van '#LikeMe'-school PTS Boom krijgen grondige restauratie voor 140.000 euro",
-          "source": "VRT on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/historische-art-decotegels-van-likeme-school-pts-boom-krijgen-grondige-restauratie-voor-140000-euro/ar-AA2ayxym",
-          "publishedDate": "Thu, 20 Aug 2026 03:44:47 GMT",
-          "description": "De Provinciale Technische School (PTS) in Boom krijgt een grondige opknapbeurt van haar historische wand- en vloertegels. De art-decoschool is bekend als het decor van de Ketnet-serie '#LikeMe'. De to ..."
+          "title": "Auto vliegt door hek en knalt tegen boom in bos",
+          "source": "GelreNieuws.nl",
+          "url": "https://www.gelrenieuws.nl/2026/08/22/video/auto-vliegt-door-hek-en-knalt-tegen-boom-in-bos.html",
+          "publishedDate": "Sat, 22 Aug 2026 11:05:00 GMT",
+          "description": "HOOG SOEREN - Op de N344 Amersfoortseweg in Hoog Soeren heeft zaterdagmiddag rond 16.00 uur een verkeersongeval plaatsgevonden. Een automobiliste verloor ter hoogte van de Kampsteeg om onbekende reden ..."
+        },
+        {
+          "title": "Hek met prikkeldraad voor de deur maakt Roland woest",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/brabant/hek-met-prikkeldraad-voor-de-deur-maakt-roland-woest~ab375185/",
+          "publishedDate": "Wed, 19 Aug 2026 20:17:00 GMT",
+          "description": "Een hoog bouwhek met prikkeldraad staat sinds enkele weken voor Roland Haas in de Koning Willem II-straat. Volgens aannemer Lithos is het hek noodzakelijk voor de veiligheid. Haas voelt zich beklemd: ..."
+        },
+        {
+          "title": "Achter het hoge hek wacht een verborgen wereld: Fort bij Rijnauwen verrast met natuur, geschiedenis en bijzondere verhalen",
+          "source": "Wijks Nieuws",
+          "url": "https://www.wijksnieuws.nl/lokaal/recreatie/1301811/achter-het-hoge-hek-wacht-een-verborgen-wereld-fort-bij-rijna",
+          "publishedDate": "Tue, 18 Aug 2026 02:35:00 GMT",
+          "description": "[BUNNIK] Wat gaat er schuil achter het hoge hek van Fort bij Rijnauwen? Wie deze zomer met een gids op pad gaat, ontdekt een verborgen wereld vol militaire bouwwerken, zeldzame flora en fauna &#233;n.."
+        },
+        {
+          "title": "Zo maak je een elektrisch hek/schrikdraad tegen slakken",
+          "source": "cnnbs",
+          "url": "https://www.cnnbs.nl/zo-maak-je-een-elektrisch-hek-schrikdraad-tegen-slakken/",
+          "publishedDate": "Mon, 03 Jun 2024 03:12:00 GMT",
+          "description": "Een niet al te strenge winter en een nat voorjaar is een recept voor slakkenplaag. Ook dit jaar hebben we er weer last van. Vooral zaailingen en jonge wietplanten kunnen er gemakkelijk ten prooi aan ..."
+        },
+        {
+          "title": "Buchenwald hek-bouwer Jack Bakker verdachte in fraudezaak",
+          "source": "Quotenet",
+          "url": "https://www.quotenet.nl/zakelijk/a29373/buchenwald-hek-bouwer-jack-bakker-verdachte-in-fraudezaak-29373/",
+          "publishedDate": "Sat, 24 Dec 2011 03:05:00 GMT",
+          "description": "Helaas moet Quote zo vlak voor Kerst n&#243;g een naar Nazi-nieuwtje brengen. Reden: Quote werd getipt wie het Holocaust-hek laat bouwen. En over dienst roestige reputatie. Job Smeets van Studio Job werd ..."
         }
       ]
     }
