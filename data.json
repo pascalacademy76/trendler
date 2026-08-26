@@ -1,252 +1,101 @@
 {
-  "fetchedAt": "2026-08-26T06:57:37.118Z",
+  "fetchedAt": "2026-08-26T07:45:45.304Z",
   "trends": [
     {
       "keyword": "dolly parton",
       "trafficLabel": "100K+",
-      "articles": [
-        {
-          "title": "Oprah eert Dolly Parton: niemand is zoals zij",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/oprah-eert-dolly-parton-niemand-is-zoals-zij",
-          "publishedDate": "Tue, 25 Aug 2026 11:36:00 GMT",
-          "description": "Oprah Winfrey heeft net als veel andere sterren verdrietig gereageerd op het overlijden van countrylegende Dolly Parton. De presentatrice blikt in een bericht op sociale media terug op een ontmoeting."
-        },
-        {
-          "title": "Dolly Parton overleden: reacties uit de VS, van Ricky Koole en Leo Blokhuis",
-          "source": "NPO Radio 1",
-          "url": "https://www.nporadio1.nl/fragmenten/nos-met-het-oog-op-morgen/01a03af5-a845-721f-92bf-a5f1b5a53876/2026-08-25-dolly-parton-overleden-reacties-uit-de-vs-van-ricky-koole-en-leo-blokhuis",
-          "publishedDate": "Mon, 24 Aug 2026 17:00:00 GMT",
-          "description": "Correspondent Rudy Bouma sprak in NOS Met het Oog op Morgen over de eerste reacties uit de VS op het overlijden van Dolly Parton. Ricky Koole en Leo Blokhuis stonden in de studio stil bij haar dood."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "airbus a330",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Krant: werknemers Airbus in Spanje gaan opnieuw staken",
-          "source": ".ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/geldzaken/nieuws/krant-werknemers-airbus-in-spanje-gaan-opnieuw-staken/ar-AA2agwED",
-          "publishedDate": "Mon, 17 Aug 2026 02:24:00 GMT",
-          "description": "MADRID (ANP/BLOOMBERG) - Spaanse werknemers van vliegtuigbouwer Airbus gaan vanaf 24 augustus opnieuw staken in een arbeidsconflict. Dat meldt de krant El Confidencial op basis van bronnen bij het bed ..."
+          "title": "As&#237; es el A330 MRTT, el exitoso avi&#243;n cisterna de Airbus en el que Espa&#241;a y Polonia invertir&#225;n 5.400 millones de euros",
+          "source": "Infodefensa",
+          "url": "https://www.infodefensa.com/texto-diario/mostrar/5993625/asi-a330-mrtt-exitoso-avion-cisterna-airbus-espana-polonia-invertiran-5400-millones-euros",
+          "publishedDate": "Tue, 25 Aug 2026 23:00:00 GMT",
+          "description": "Esto le permite transferir hasta 70 toneladas de combustible durante una misi&#243;n t&#237;pica de reabastecimiento a m&#225;s de 2.300 kil&#243;metros de su base de partida.&#160;Otra de sus caracter&#237;sticas m ..."
         },
         {
-          "title": "Video: Eerste A330 MRTT-vliegtuig van de Spaanse luchtmacht in dienst genomen",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/Buitenland/video-eerste-a330-mrtt-vliegtuig-van-de-spaanse-luchtmacht-in-dienst-genomen/ar-AA1CTolp",
-          "publishedDate": "Mon, 14 Apr 2025 06:30:00 GMT",
-          "description": "De Spaanse Lucht- en Ruimtemacht heeft officieel haar eerste Airbus A330 MRTT (Multi-Role Tanker Transport) ontvangen, die inmiddels operationeel is bij het 45e Smaldeel op de luchtmachtbasis Torrej&#243;n ..."
+          "title": "Susto en Tenerife Norte: un Airbus A330 de Plus Ultra frena en plena carrera de despegue y obliga a cerrar la pista",
+          "source": "La Raz&#243;n on MSN",
+          "url": "https://www.msn.com/es-es/noticias/other/susto-en-tenerife-norte-un-airbus-a330-de-plus-ultra-frena-en-plena-carrera-de-despegue-y-obliga-a-cerrar-la-pista/ar-AA2aOvkN",
+          "publishedDate": "Mon, 24 Aug 2026 05:10:14 GMT",
+          "description": "La aeronave, con destino a Venezuela, interrumpi&#243; la maniobra a las 12:55 del domingo y fue remolcada a la terminal ..."
         },
         {
-          "title": "KLM start in maart met ombouw Airbus A330-300 toestellen",
+          "title": "Бывший зек за штурвалом: как авиалайнер пролетел 120 км над океаном без двигателей",
+          "source": "Газета.Ru",
+          "url": "https://www.gazeta.ru/science/2026/08/24/23429395.shtml",
+          "publishedDate": "Mon, 24 Aug 2026 01:01:00 GMT",
+          "description": "В августе 2001 года над Азорскими островами произошло чудо. У Airbus A330 в полете отказали двигатели, но пилот сумел дотянуть 120 км до запасного аэродрома. Без нормального электроснабжения, автопило ..."
+        },
+        {
+          "title": "SWISS A330 enters retrofit for Senses interiors at HAECO",
+          "source": "Runway Girl Network",
+          "url": "https://runwaygirlnetwork.com/2026/08/swiss-a330-enters-retrofit-for-senses-interiors-at-haeco/",
+          "publishedDate": "Sun, 23 Aug 2026 16:59:00 GMT",
+          "description": "Swiss International Air Lines has started bringing its resplendent new Senses long-haul cabin products to its Airbus A330 twinjets. After launching Senses on new Airbus A350-900s late last year, the ..."
+        },
+        {
+          "title": "Malaysia Airlines bestelt 20 Airbus A330neo toestellen",
           "source": "insideflyer.nl",
-          "url": "https://insideflyer.nl/klm-start-in-maart-met-ombouw-airbus-a330-300-toestellen/",
-          "publishedDate": "Sun, 15 Dec 2024 23:00:00 GMT",
-          "description": "Voor sommige links naar producten en partners op deze website krijgen wij een affiliate commissie. KLM heeft afgelopen maand de ombouw van de Boeing 777-200ER vloot afgerond. Deze toestellen hebben ..."
+          "url": "https://insideflyer.nl/malaysia-airlines-bestelt-20-airbus-a330neo-toestellen/",
+          "publishedDate": "Fri, 04 Jul 2025 23:00:00 GMT",
+          "description": "Voor sommige links naar producten en partners op deze website krijgen wij een affiliate commissie. Tijdens het staatsbezoek van de Maleisische Minister President in Parijs is bekend gemaakt dat ..."
         },
         {
-          "title": "Maak kennis met het Belgische nieuwe tankvliegtuig: de Airbus 330 MRTT",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2020/11/06/maak-kennis-met-belgies-nieuwe-tankvliegtuig-de-airbus-330-mrtt/",
-          "publishedDate": "Tue, 10 Nov 2020 03:00:00 GMT",
-          "description": "Nog voor het einde van dit jaar zal een Belgisch toestel van het leger andere gevechtstoestellen in de lucht kunnen bijtanken. Ons land investeert samen met onder meer Nederland en Duitsland in negen ..."
+          "title": "Airbus A330 Engines: Which Do These Airliners Use &amp; Who Makes Them?",
+          "source": "SlashGear",
+          "url": "https://www.slashgear.com/1840623/airbus-a330-engine-which-used-who-makes-them-explained/",
+          "publishedDate": "Tue, 22 Apr 2025 05:49:00 GMT",
+          "description": "The Airbus A330 is an interestingly positioned aircraft in European aviation major Airbus' current lineup of passenger planes. Introduced in 1992 as a successor to Airbus' A300 series, the A330 ..."
         },
         {
-          "title": "Airbus A330neo donderdag voor het eerst de lucht in",
+          "title": "Airbus A330 Seating: The Airlines With The Best Cabins",
+          "source": "Simple Flying",
+          "url": "https://simpleflying.com/best-airbus-a330-cabins-guide/",
+          "publishedDate": "Tue, 19 Mar 2024 23:59:00 GMT",
+          "description": "Vyte is an aviation journalist with over four years of experience in the field. Before joining the Simple Flying team, she worked with various aviation media outlets and oversaw check-in operations at ..."
+        },
+        {
+          "title": "KLM vliegt jaren langer door met Airbus A330's",
           "source": "luchtvaartnieuws.nl",
-          "url": "https://www.luchtvaartnieuws.nl/nieuws/categorie/18/technologie/airbus-a330neo-donderdag-voor-het-eerst-de-lucht-in",
-          "publishedDate": "Thu, 19 Oct 2017 00:00:00 GMT",
-          "description": "TOULOUSE - De eerste Airbus A330neo staat aan de vooravond van haar luchtdoop. Het toestel, dat door toepassing van nieuwe motoren zuiniger moet zijn dan de huidige generatie A330’s, maakt donderdag ..."
+          "url": "https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/klm-vliegt-jaren-langer-door-met-airbus-a330s",
+          "publishedDate": "Thu, 27 Jul 2023 07:00:00 GMT",
+          "description": "SCHIPHOL - KLM heeft besloten om langer door te vliegen met de Airbus A330’s. In 2019 gaf de vorige CEO, Pieter Elbers, nog aan dat de toestellen uiterlijk in 2025 weg zouden zijn en dat KLM dan over ..."
         },
         {
-          "title": "Nieuwe stoelindeling KLM Airbus A330-200",
-          "source": "insideflyer.nl",
-          "url": "https://insideflyer.nl/nieuwe-stoelindeling-klm-airbus-a330-200/",
-          "publishedDate": "Mon, 24 Apr 2017 06:09:00 GMT",
-          "description": "De KLM Airbus A330-200 wordt voornamelijk ingezet naar de oostkust van Noord-Amerika, het Midden-Oosten en Afrika. Vooral naar Canada en de VS staat de vraag voor business class onder druk. Op ..."
+          "title": "Comparing The Airbus A330 To The Boeing 777",
+          "source": "Simple Flying",
+          "url": "https://simpleflying.com/airbus-a330-vs-boeing-777/",
+          "publishedDate": "Thu, 18 May 2023 19:00:00 GMT",
+          "description": "The Airbus A330-300 has a similar capacity to the Boeing 777-200. The two aircraft have a reasonably similar length, after all. However, there is a distinct difference between the two markets that the ..."
         },
         {
-          "title": "Airbus A330 MRTT kandidaat om KDC-10's te vervangen",
-          "source": "luchtvaartnieuws.nl",
-          "url": "https://www.luchtvaartnieuws.nl/nieuws/categorie/4/militair/airbus-a330-mrtt-kandidaat-om-kdc-10s-te-vervangen",
-          "publishedDate": "Fri, 19 Dec 2014 03:30:00 GMT",
-          "description": "DEN HAAG – De Airbus A330 MRTT is kandidaat om op termijn de KDC-10 te vervangen als tankvliegtuig bij de Koninklijke Luchtmacht. Nederland schaft de toestellen niet alleen aan, maar in samenwerking ..."
-        }
-      ]
-    },
-    {
-      "keyword": "bodø/glimt - nec",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "NEC kent bijzonder pijnlijke avond tegen Bod&#248;/Glimt: Champions League-sprookje definitief voorbij",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/nec-kent-bijzonder-pijnlijke-avond-tegen-bodoglimt-champions-league-sprookje-definitief-voorbij-2026082516244398099/",
-          "publishedDate": "Tue, 25 Aug 2026 15:54:00 GMT",
-          "description": "NEC had een ongekend wonder nodig om zich alsnog te plaatsen voor het hoofdtoernooi van de Champions League en kwam dan ook van een koude kermis thuis. Al binnen enkele minuten zag NEC hun droom in duigen vallen door een vroege rode kaart. Uiteindelijk verloren de Nijmegenaren met 3-0 van FK Bod&#248;/Glimt."
-        },
-        {
-          "title": "LIVE Bod&#248;/Glimt-NEC | Dramatisch begin NEC: rode kaart voor keeper Crettaz • Sierhuis meteen gewisseld • Verkeerde hymne in stadion",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/nec/live-bod-glimt-nec-dramatisch-begin-nec-rode-kaart-voor-keeper-crettaz-sierhuis-meteen-gewisseld-verkeerde-hymne-in-stadion~a397faef/",
-          "publishedDate": "Sun, 23 Aug 2026 05:07:00 GMT",
-          "description": "NEC hoopt vanavond (21.00 uur) op de poolcirkel een wonder te voltrekken door zich alsnog te plaatsen voor de groepsfase van de Champions League. De Nijmeegse club moet in de return tegen Bod&#248;/Glimt i"
+          "title": "Air Belgium neemt eerste Airbus A330neo in ontvangst",
+          "source": "upinthesky",
+          "url": "https://www.upinthesky.nl/2021/10/08/air-belgium-neemt-eerste-airbus-a330neo-in-ontvangst/",
+          "publishedDate": "Fri, 08 Oct 2021 06:28:00 GMT",
+          "description": "Air Belgium heeft de eerste van haar twee Airbus A330neo’s in ontvangst genomen. De eerste Airbus A330-900 waar Air Belgium mee gaat vliegen heeft in totaal 286 stoelen. Deze zijn verdeeld over drie ..."
         }
       ]
     },
     {
       "keyword": "n242",
       "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Vrachtwagenchauffeur bekneld na ernstig ongeluk op N242 bij Heerhugowaard",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-dijk-en-waard/vrachtwagenchauffeur-bekneld-na-ernstig-ongeluk-op-n242-bij-heerhugowaard~a283c069e/",
-          "publishedDate": "Tue, 25 Aug 2026 00:20:00 GMT",
-          "description": "Een vrachtwagenchauffeur is dinsdagochtend gewond geraakt bij een ernstig ongeluk op de Westerweg (N242) in Heerhugowaard. De vrachtwagen botste eerst op een personenauto en kwam daarna tegen een verk ..."
-        },
-        {
-          "title": "Dode en twee gewonden bij ernstig ongeluk N242 bij Alkmaar, hulpverleners gehinderd door omstanders",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/binnenland/dode-en-twee-gewonden-bij-ernstig-ongeluk-n242-bij-alkmaar-hulpverleners-gehinderd-door-omstanders/64491971.html",
-          "publishedDate": "Mon, 04 Jul 2022 10:39:00 GMT",
-          "description": "Bij het ernstige ongeval waren drie auto’s betrokken. E&#233;n persoon, een 21-jarige man uit Heerhugowaard, kwam daarbij om het leven. Een 27-jarige man uit Heerhugowaard werd zwaargewond vervoerd naar ..."
-        },
-        {
-          "title": "Brandweer bevrijdt zwaargewonde vrachtwagenchauffeur uit cabine op N242",
-          "source": "Transport Online",
-          "url": "https://www.transport-online.nl/135994/brandweer-bevrijdt-zwaargewonde-vrachtwagenchauffeur-uit-cabine-op-n242/",
-          "publishedDate": "Tue, 25 Aug 2026 02:50:00 GMT",
-          "description": "HEERHUGOWAARD – Een vrachtwagenchauffeur is dinsdagochtend zwaargewond geraakt bij een eenzijdig ongeval op de N242 (Westerweg) bij Heerhugowaard. De brandweer moest de chauffeur met zwaar gereedschap ..."
-        },
-        {
-          "title": "Vrachtwagenchauffeur bekneld en grote ravage na ernstig ongeval",
-          "source": "112 Nieuws Nederland",
-          "url": "https://112nieuws.net/2026/08/25/vrachtwagenchauffeur-bekneld-en-grote-ravage-na-ernstig-eenzijdig-ongeval/",
-          "publishedDate": "Mon, 24 Aug 2026 23:28:00 GMT",
-          "description": "Een vrachtwagenchauffeur is dinsdagochtend bekneld geraakt bij een zwaar eenzijdig ongeval op de N242 (Westerweg) bij Heerhugowaard. Het ongeval gebeurde rond 07.20 uur in de richting van Alkmaar. Ter ..."
-        },
-        {
-          "title": "Ernstig ongeluk op N242 in Heerhugowaard, vrachtwagenchauffeur raakt bekneld",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/362781/ernstig-ongeluk-op-n242-in-heerhugowaard-vrachtwagenchauffeur-raakt-bekneld",
-          "publishedDate": "Mon, 24 Aug 2026 22:53:00 GMT",
-          "description": "Vrachtwagenchauffeur bekneld na ongeluk N242 Heerhugowaard. Traumahelikopter opgeroepen, weg in beide richtingen dicht. Meer informatie volgt."
-        },
-        {
-          "title": "Spacende spookrijder (31) opgepakt bij Nieuwe Niedorp: 'Slingerde over N242'",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/362715/spacende-spookrijder-31-opgepakt-bij-nieuwe-niedorp-slingerde-over-n242",
-          "publishedDate": "Sat, 22 Aug 2026 02:28:00 GMT",
-          "description": "Automobilist (31) slingert over N242 bij Heerhugowaard, rijdt tegen verkeer in en botst tegen paaltjes. Onder invloed drugs aangehouden. Lees het hele verhaal."
-        },
-        {
-          "title": "Verkeer Noord-Holland: vertraging op de N242 richting Alkmaar in de ochtendspits van woensdag 19 augustus",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/regio/verkeer-noord-holland-vertraging-op-de-n242-richting-alkmaar-in-de-ochtendspits-van-woensdag-19-augustus/160206516.html",
-          "publishedDate": "Wed, 19 Aug 2026 02:05:00 GMT",
-          "description": "De ochtendspits van woensdag 19 augustus is rustig begonnen. Op de N242 staat 5 kilometer file. Op het spoor is er geen vertraging."
-        },
-        {
-          "title": "Focusflitser verplaatst van Heerhugowaard naar N242 in Alkmaar",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/regio/alkmaar/focusflitser-verplaatst-van-heerhugowaard-naar-n242-in-alkmaar/159811274.html",
-          "publishedDate": "Mon, 10 Aug 2026 02:41:00 GMT",
-          "description": "De focusflitser die eerder in Heerhugowaard stond, is verplaatst naar Alkmaar. De flitser staat nu langs de N242 ter hoogte van hectometerpaal 40,9, bij de afslag De Omval en in de richting van de Lee ..."
-        },
-        {
-          "title": "Asfaltreparaties N242 bij Alkmaar en Heerhugowaard",
-          "source": "AD",
-          "url": "https://www.ad.nl/alkmaar/asfaltreparaties-n242-bij-alkmaar-en-heerhugowaard~a5cdd54d/",
-          "publishedDate": "Fri, 13 Jun 2025 13:00:00 GMT",
-          "description": "De provincie Noord-Holland voert op dinsdagavond asfaltreparaties uit op de N242. Dit gebeurt bij de Leeghwaterbrug in Alkmaar en de Langebalkbrug in Heerhugowaard. De werkzaamheden starten om 20.00 ..."
-        },
-        {
-          "title": "Asfalteringswerkzaamheden: wanneer is de N242 afgesloten en moet je omrijden?",
-          "source": "rodi",
-          "url": "https://www.rodi.nl/dijkenwaard/nieuws/386299/asfalteringswerkzaamheden-wanneer-is-de-n242-afgesloten-en-mo",
-          "publishedDate": "Wed, 20 Mar 2024 05:30:00 GMT",
-          "description": "REGIO - De N242 krijgt vanaf de Bestevaerstraat tot aan de Nollenweg (N508) nieuw asfalt. Om de werkzaamheden veilig en met zo min mogelijk hinder voor het verkeer uit te voeren wordt in de avond en ..."
-        }
-      ]
+      "articles": []
+    },
+    {
+      "keyword": "bodø/glimt - nec",
+      "trafficLabel": "20K+",
+      "articles": []
     },
     {
       "keyword": "dolly parton dood",
       "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Dolly Parton leed voor haar dood kort aan kanker: 'Dappere strijd gevoerd'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/muziek/6407552/dolly-parton-leed-voor-haar-dood-kort-aan-kanker-dappere-strijd-gevoerd.html",
-          "publishedDate": "Tue, 25 Aug 2026 22:23:00 GMT",
-          "description": "Dolly Parton leed voor haar dood kort aan kanker. Dat heeft de familie van de dinsdag op tachtigjarige leeftijd overleden countryzangeres bevestigd. Om welke vorm van kanker het ging, is niet bekendge ..."
-        },
-        {
-          "title": "Familie: Dolly Parton leed kort aan kanker, afscheid in besloten kring",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/familie-dolly-parton-leed-kort-aan-kanker-afscheid-in-besloten-kring~a6337dd4/",
-          "publishedDate": "Tue, 25 Aug 2026 16:59:00 GMT",
-          "description": "Dolly Parton leed voor haar dood kort aan kanker. Dat heeft de familie van de &lt;a href=&quot;https://www.ad.nl/show/zangeres-dolly-parton-op-80-jarige-leeftijd-overleden~a19b9413/&quot; target=&quot;_blank&quot;&gt;dinsdag o ..."
-        },
-        {
-          "title": "Zangeres Dolly Parton (80) overleden, leed korte tijd aan kanker: ‘Ze heeft in het licht geleefd’",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/kunst-media/zangeres-dolly-parton-80-overleden-leed-korte-tijd-aan-kanker-ze-heeft-in-het-licht-geleefd~b84847ba/",
-          "publishedDate": "Tue, 25 Aug 2026 13:01:00 GMT",
-          "description": "De Amerikaanse zangeres Dolly Parton is op 80-jarige leeftijd overleden. Voor haar dood leed ze kort aan kanker."
-        },
-        {
-          "title": "Country-icoon Dolly Parton (9 to 5, Jolene) op 80-jarige leeftijd overleden",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628296-country-icoon-dolly-parton-9-to-5-jolene-op-80-jarige-leeftijd-overleden",
-          "publishedDate": "Tue, 25 Aug 2026 11:04:00 GMT",
-          "description": "De Amerikaanse country-artiest Dolly Parton is op 80-jarige leeftijd overleden. Dat heeft haar familie via haar Facebook- en Instagramaccount bekendgemaakt. Haar neef en hoofd beveiliging, Brian ..."
-        },
-        {
-          "title": "Zangeres Dolly Parton op 80-jarige leeftijd overleden",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/zangeres-dolly-parton-op-80-jarige-leeftijd-overleden~a19b9413/",
-          "publishedDate": "Tue, 25 Aug 2026 05:38:00 GMT",
-          "description": "Dolly Parton is overleden, dat meldt de familie van de 80-jarige zangeres op Facebook. De Amerikaanse artiest is wereldwijd bekend door haar hits I will always love you, 9 to 5 en Jolene."
-        },
-        {
-          "title": "Dolly Parton leed kort aan kanker, afscheid in besloten kring",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/algemeen/buitenland/artikelen/dolly-parton-kanker-afscheid-besloten-kring",
-          "publishedDate": "Tue, 25 Aug 2026 23:57:00 GMT",
-          "description": "Dolly Parton is op 80-jarige leeftijd overleden na een korte strijd tegen kanker. Haar familie kiest voor een afscheid in kleine kring en roept op tot herdenking."
-        },
-        {
-          "title": "Dolly Parton leed voor haar dood kort aan kanker",
-          "source": "vandaaginside",
-          "url": "https://www.vandaaginside.nl/media/celebrities/artikelen/dolly-parton-leed-voor-haar-dood-kort-aan-kanker",
-          "publishedDate": "Tue, 25 Aug 2026 23:57:00 GMT",
-          "description": "Dolly Parton leed voor haar dood kort aan kanker. Dat heeft de familie van de dinsdag op 80-jarige leeftijd overleden countryzangeres bevestigd. Om welke vorm van kanker het ging, is niet bekendgemaak ..."
-        },
-        {
-          "title": "TMZ: Dolly Parton werd kort voor dood opgenomen in ziekenhuis",
-          "source": "Nederlands Dagblad",
-          "url": "https://www.nd.nl/varia/varia/1328630/tmz-dolly-parton-werd-kort-voor-dood-opgenomen-in-ziekenhuis",
-          "publishedDate": "Tue, 25 Aug 2026 15:35:00 GMT",
-          "description": "Dolly Parton zou voor haar overlijden enkele dagen in het ziekenhuis hebben gelegen. Volgens TMZ werd ze vrijdag opgenomen in het Vanderbilt University Medical Center in Nashville vanwege ‘nier- en au ..."
-        },
-        {
-          "title": "Country Wilma kapot van verdriet om dood Dolly: 'Ze betekende alles'",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/entertainment/muziek/artikelen/country-wilma-overlijden-dolly-parton",
-          "publishedDate": "Tue, 25 Aug 2026 14:12:00 GMT",
-          "description": "Country Wilma reageert geraakt op het overlijden van Dolly Parton, haar grote voorbeeld en inspiratiebron, en brengt met Jolene een laatste eerbetoon."
-        },
-        {
-          "title": "Dolly Parton krijgt afscheid in intieme kring: zangeres wordt in Nashville begraven naast overleden echtgenoot Carl Dean",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/showbizz/dolly-parton-krijgt-afscheid-in-intieme-kring-zangeres-wordt-in-nashville-begraven-naast-overleden-echtgenoot-carl-dean~a0ee64df/",
-          "publishedDate": "Tue, 25 Aug 2026 08:02:00 GMT",
-          "description": "Het afscheid van Dolly Parton zal plaatsvinden in intieme kring. Dat gebeurt op verzoek van de zangeres zelf, heeft haar familie bekendgemaakt. Alleen directe familieleden zullen aanwezig zijn. Parton ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "salmonella eieren",
@@ -274,11 +123,18 @@
           "description": "De met salmonella besmette eieren die in Belgi&#235; hebben gezorgd voor zeker driehonderd zieken, zijn ook in Nederland verkocht. Bij onze zuiderburen wordt gesproken van de grootste salmonella-uitbraak o ..."
         },
         {
-          "title": "Salmonella: voor &#233;&#233;n keer geen bangmakerij?",
-          "source": "P-Magazine",
-          "url": "https://p-magazine.com/nl/articles/salmonella-voor-een-keer-geen-bangmakerij",
+          "title": "Salmonella-uitbraak: eieren teruggeroepen in Belgi&#235;. Controleer deze codes op de schaal",
+          "source": "Testaankoop",
+          "url": "https://www.test-aankoop.be/gezond/voeding/voedselveiligheid-en-additieven/nieuws/eieren-salmonella",
+          "publishedDate": "Wed, 26 Aug 2026 00:05:00 GMT",
+          "description": "Salmonella-uitbraak door eieren: controleer de vier betrokken codes op de schaal en lees wat je moet doen als je eieren met deze codes in huis hebt."
+        },
+        {
+          "title": "Meer dan 300 zieken door eieren met salmonella in Belgi&#235;",
+          "source": "FoodHolland",
+          "url": "https://www.foodholland.nl/nieuws/275483/",
           "publishedDate": "Tue, 25 Aug 2026 16:59:00 GMT",
-          "description": "Een bedorven ei ruik je: zwavel, dat is onmiskenbaar, en het gaat de vuilnisbak in. Salmonella is iets anders. Die zit soms in een ei dat er onberispelijk uitziet, van een kip die zelf niet ziek lijkt ..."
+          "description": "Ook in het buitenland zijn eieren teruggeroepen. De uitbraak in Belgi&#235; lijkt geen verband met een salmonellabesmetting die in het Verenigd Koninkrijk meer dan 200 mensen ziek maakte, maar dat wordt ..."
         },
         {
           "title": "Opletten als je deze codes op je eieren ziet: al minstens 300 mensen ziek na salmonellabesmetting",
@@ -293,13 +149,6 @@
           "url": "https://www.dagelijksestandaard.nl/economie/salmonella-eieren-nederland-nvwa-verkooppunten-codes-laerco",
           "publishedDate": "Tue, 25 Aug 2026 09:30:00 GMT",
           "description": "Belgische salmonella-eieren zijn ook in Nederland verkocht. De NVWA noemt de verkooppunten niet. Controleer daarom de code op je eieren."
-        },
-        {
-          "title": "Moet ik me zorgen maken over salmonella in mijn ei? Check hier om welke codes het gaat",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/gezond/moet-ik-me-zorgen-maken-over-salmonella-in-mijn-ei-check-hier-om-welke-codes-het-gaat~ae93ce0a/",
-          "publishedDate": "Tue, 25 Aug 2026 05:26:00 GMT",
-          "description": "Honderden Belgen zijn er inmiddels flink ziek van: eieren die zijn besmet met de bacterie salmonella. Ze zijn afkomstig van een bedrijf op zo’n twintig kilometer van de Nederlandse grens. Moeten we on ..."
         },
         {
           "title": "Grootste salmonella-uitbraak ooit in Belgi&#235;: 300 Belgen ziek, tientallen mensen in ziekenhuis en twee buitenlandse besmettingen - Check hier de codes van de eieren",
@@ -325,287 +174,24 @@
       ]
     },
     {
+      "keyword": "gianni infantino",
+      "trafficLabel": "10K+",
+      "articles": []
+    },
+    {
       "keyword": "dronkenschap",
       "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Sander K. (36) sneed het lichaam van 34-jarige sekswerker Arina in stukken: ’Gebeurde in totale dronkenschap en stress’",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/binnenland/sander-k.-36-sneed-het-lichaam-van-34-jarige-sekswerker-arina-in-stukken-gebeurde-in-totale-dronkenschap-en-stress/64333234.html",
-          "publishedDate": "Wed, 05 Jun 2024 10:23:00 GMT",
-          "description": "Amsterdam - Hij vond het eerst „eng” om het lichaam van de Oekra&#239;ense sekswerker Arina in stukken te snijden. Maar nadat hij eerst haar vingertoppen verwijderde en door het doucheputje spoelde, ..."
-        },
-        {
-          "title": "Dronken mannen zorgen voor overlast in Alphen: &#233;&#233;n aangehouden",
-          "source": "Alphens.nl",
-          "url": "https://www.alphens.nl/nieuws/dronken-mannen-zorgen-voor-overlast-in-alphen-een-aangehouden.html",
-          "publishedDate": "Tue, 25 Aug 2026 03:02:00 GMT",
-          "description": "Afgelopen zaterdag rond 15:00 uur viel een man bij een restaurant in het centrum enkele vrouwen lastig. Volgens de politie vertoonde hij zeer intimiderend gedrag. De ..."
-        },
-        {
-          "title": "Politie Sint-Niklaas voert extra controles in na incidenten aan station en Houtbriel",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/22/politie-sint-niklaas-gaat-extra-controleren-na-overlast-aan-stat/",
-          "publishedDate": "Sat, 22 Aug 2026 05:59:00 GMT",
-          "description": "De politie van Sint-Niklaas gaat extra controles doen in de buurt van het station en de Houtbriel. Donderdagavond zijn daar 4 personen gearresteerd voor openbare dronkenschap. Gisteravond was er nog e ..."
-        },
-        {
-          "title": "Een ruzie bij de ticketbalie op DFW Airport escaleerde in een takedown",
-          "source": "Beyond Walks on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/een-ruzie-bij-de-ticketbalie-op-dfw-airport-escaleerde-in-een-takedown/vi-AA2a0e11",
-          "publishedDate": "Wed, 12 Aug 2026 23:01:52 GMT",
-          "description": "Op 16 mei 2024 reageerde de politie van Dallas Fort Worth Airport nadat luchtvaartpersoneel had geweigerd een man een ticket te verkopen, omdat ze dachten dat hij dronken was. Agenten meldden dat ze a ..."
-        },
-        {
-          "title": "Bredene voert op 2 pleinen tijdelijk alcoholverbod in: &quot;Hinder voor bewoners en bezoekers werd te groot&quot;",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/12/bredene-voert-op-2-pleinen-tijdelijk-alcoholverbod-in/",
-          "publishedDate": "Wed, 12 Aug 2026 05:07:00 GMT",
-          "description": "Er geldt vanaf vandaag een tijdelijk alcoholverbod op en rond het Duinenplein en August Plovieplein in Bredene. De maatregel moet overlast voorkomen die het gevolg is van dronkenschap. Het alcoholverb ..."
-        },
-        {
-          "title": "Delft stelt na openbare dronkenschap en vechtpartijen wederom alcoholverbod in op en rond de Bikolaan",
-          "source": "AD",
-          "url": "https://www.ad.nl/delft/delft-stelt-na-openbare-dronkenschap-en-vechtpartijen-wederom-alcoholverbod-in-op-en-rond-de-bikolaan~a14a2856/",
-          "publishedDate": "Thu, 20 Nov 2025 19:12:00 GMT",
-          "description": "Op en rond de Bikolaan in Delft geldt vanaf begin volgende maand opnieuw een alcoholverbod. Dat heeft het stadsbestuur besloten na klachten van omwonenden en cijfers van de politie, waaruit blijkt dat ..."
-        },
-        {
-          "title": "Dronkenschap verboden in Texaanse caf&#233;s",
-          "source": "Standaard",
-          "url": "https://www.standaard.be/nieuws/dronkenschap-verboden-in-texaanse-cafes/44035910.html",
-          "publishedDate": "Mon, 24 Feb 2025 09:04:00 GMT",
-          "description": "Slecht nieuws voor caf&#233;klanten in de Amerikaanse staat Texas. Zij moeten voortaan op hun hoede zijn voor undercoveragenten. Er wordt namelijk controle gedaan in uitgaansgelegenheden. Bedoeling is om ..."
-        },
-        {
-          "title": "20 pinten gedronken, 3,4 promille in het bloed en toch niet veroordeeld voor dronkenschap: hoe kan dat?",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/binnenland/20-pinten-gedronken-34-promille-in-het-bloed-en-toch-niet-veroordeeld-voor-dronkenschap-hoe-kan-dat/40250889.html",
-          "publishedDate": "Thu, 29 Nov 2018 05:51:00 GMT",
-          "description": "De feiten: een tijd geleden hielden agenten in Knokke een bestuurder (29) tegen die met hoge snelheid door een rood licht was gereden. De agenten zetten hem aan de kant, maar konden geen uiterlijke ..."
-        },
-        {
-          "title": "Etiquette-expert: ‘Zegevieren met manieren op Koningsdag’",
-          "source": "NPO Radio 1",
-          "url": "https://www.nporadio1.nl/nieuws/achtergrond/fdc736b9-7c3c-4db4-9bdb-62c4629d7dcc/etiquette-expert-zegevieren-met-manieren-op-koningsdag",
-          "publishedDate": "Wed, 26 Apr 2017 10:50:00 GMT",
-          "description": "Nederland maakt zich op voor Koningsdag en Bevrijdingsdag. Maar wat zijn de gedragscodes op die dagen? Hoe eet je bijvoorbeeld een oranje tompouce? Wat is ‘gepaste dronkenschap’? En hoe laat mag de ..."
-        },
-        {
-          "title": "Het juridische onderscheid tussen dronkenschap en alcoholintoxicatie",
-          "source": "Knack",
-          "url": "https://trends.knack.be/geld/rechten/het-juridische-onderscheid-tussen-dronkenschap-en-alcoholintoxicatie/",
-          "publishedDate": "Wed, 20 Jul 2016 13:38:00 GMT",
-          "description": "Er is een juridisch onderscheid tussen alcoholintoxicatie en dronkenschap. Wat betekent dat? Een automobilist veroorzaakte een verkeersongeval waarbij een andere wagen werd beschadigd. Er werd ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "frontale botsing",
       "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Zeker 23 doden bij botsing tussen busje en vrachtwagen in Brazili&#235;",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627478-zeker-23-doden-bij-botsing-tussen-busje-en-vrachtwagen-in-brazilie",
-          "publishedDate": "Wed, 19 Aug 2026 04:38:00 GMT",
-          "description": "Vijf mensen raakten gewond. Het lijkt erop dat de vrachtwagen in de nacht op de verkeerde weghelft terechtkwam."
-        },
-        {
-          "title": "Twee gewonden bij frontale botsing tussen auto’s in Belfeld",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-venlo/twee-gewonden-bij-frontale-botsing-tussen-autos-in-belfeld~a28d5d4b/",
-          "publishedDate": "Tue, 18 Aug 2026 04:01:00 GMT",
-          "description": "Twee personenauto’s zijn dinsdagavond frontaal op elkaar gebotst op de Prins Hendrikstraat in Belfeld. Twee inzittenden raakten gewond en zijn met ambulances naar het ziekenhuis gebracht."
-        },
-        {
-          "title": "Ongeboren kindje overleeft frontale botsing niet: veroorzaker van ongeluk mag rijbewijs houden",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/binnenland/ongeboren-kindje-overleeft-frontale-botsing-niet-veroorzaker-van-ongeluk-mag-rijbewijs-houden~ad379b22/",
-          "publishedDate": "Tue, 25 Aug 2026 06:01:00 GMT",
-          "description": "Zeventien weken zwanger, op weg in haar Toyota Aygo. Dan komt een bedrijfswagen frontaal op haar af. De vrouw overleeft dat, haar ongeboren kindje niet. De veroorzaker van het ernstige ongeluk bij Has ..."
-        },
-        {
-          "title": "Zeven doden bij frontale botsing in noorden van Engeland",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/1160144-zeven-doden-bij-frontale-botsing-in-noorden-van-engeland",
-          "publishedDate": "Sat, 22 Aug 2026 08:08:00 GMT",
-          "description": "Bij een verkeersongeluk in Middlesbrough in het noorden van Engeland zijn zeven doden gevallen, onder wie twee politieagenten. Een personenauto met vijf inzittenden reed in de nacht van vrijdag op zat ..."
-        },
-        {
-          "title": "Dode bij frontale botsing tussen twee bromfietsers op Sir Winston Churchillweg",
-          "source": "Waterkant.net",
-          "url": "https://www.waterkant.net/suriname/2026/08/22/dode-bij-frontale-botsing-tussen-twee-bromfietsers-op-sir-winston-churchillweg/",
-          "publishedDate": "Sat, 22 Aug 2026 06:31:00 GMT",
-          "description": "De 62-jarige bromfietser Ramdjit Gopie is zaterdagmorgen om het leven gekomen bij een frontale aanrijding op de Sir Winston Churchillweg in Suriname."
-        },
-        {
-          "title": "Zeven doden bij frontale botsing na politieachtervolging in Engeland",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/zeven-doden-bij-frontale-botsing-na-politieachtervolging-in-engeland~aecef6bf/",
-          "publishedDate": "Fri, 21 Aug 2026 23:26:00 GMT",
-          "description": "Bij een zware frontale botsing in het noorden van Engeland zijn in de nacht van vrijdag op zaterdag zeven mensen om het leven gekomen. Onder de slachtoffers zijn twee politieagenten. Een auto met vijf ..."
-        },
-        {
-          "title": "Mede-inzittende auto overleden na frontale aanrijding op Martin Luther Kingweg",
-          "source": "Dagblad Suriname",
-          "url": "https://www.dbsuriname.com/2026/08/21/mede-inzittende-auto-overleden-na-frontale-aanrijding-op-martin-luther-kingweg/",
-          "publishedDate": "Fri, 21 Aug 2026 18:09:00 GMT",
-          "description": "Bij een ernstige aanrijding op de Martin Luther Kingweg, ter hoogte van Blauwmeer, is de mede-inzittende van een personenauto ter plaatse overleden. Twee ..."
-        },
-        {
-          "title": "22-jarige mede-inzittende overleden na frontale botsing bij inhaalmanoeuvre",
-          "source": "Waterkant.net",
-          "url": "https://www.waterkant.net/suriname/2026/08/22/22-jarige-mede-inzittende-overleden-na-frontale-botsing-bij-inhaalmanoeuvre/",
-          "publishedDate": "Fri, 21 Aug 2026 17:00:00 GMT",
-          "description": "De man die donderdagavond om het leven kwam bij een zware frontale aanrijding op de Martin Luther Kingweg in Suriname, is de 22-jarige mede-inzittende ..."
-        },
-        {
-          "title": "Frontale botsing Melkweg: &#233;&#233;n dode en &#233;&#233;n zwaargewonde",
-          "source": "de Ware Tijd",
-          "url": "https://dwtonline.com/frontale-botsing-melkweg-een-dode-en-een-zwaargewonde/",
-          "publishedDate": "Fri, 21 Aug 2026 05:39:00 GMT",
-          "description": "PARA — De 22-jarige A.S.D. is donderdagavond om het leven gekomen bij een ernstige aanrijding tussen een Toyota Crown en ..."
-        },
-        {
-          "title": "Zoeterwoudenaar (41) overleden na frontale botsing bij Hazerswoude-Dorp",
-          "source": "Sleutelstad",
-          "url": "https://sleutelstad.nl/2026/08/19/zoeterwoudenaar-41-overleden-na-frontale-botsing-bij-hazerswoude-dorp/",
-          "publishedDate": "Wed, 19 Aug 2026 04:47:00 GMT",
-          "description": "Een 41-jarige man uit Zoeterwoude is woensdagochtend om het leven gekomen bij een frontale botsing tussen een personenauto en een vrachtwagen op de N455 bij Hazerswoude-Dorp. De vrachtwagenchauffeur r ..."
-        }
-      ]
+      "articles": []
     },
     {
-      "keyword": "leerkracht",
+      "keyword": "viaduct",
       "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Cas Wolters bakt vlaai met bewoners van Lenculenhof in Maastricht",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/maastricht/cas-wolters-bakt-vlaai-met-bewoners-van-lenculenhof-in-maastricht~ac5664db/",
-          "publishedDate": "Sun, 23 Aug 2026 17:40:00 GMT",
-          "description": "Bakker, leerkracht en oud-deelnemer van Heel Holland Bakt Cas Wolters geeft een vlaaienmiddag met bewoners van Lenculenhof in Maastricht. Woensdag 26 augustus maakt hij daar met Suzanne Heuts een krui ..."
-        },
-        {
-          "title": "Directeur, leerkracht en vader getuigen over onrust in Franstalig onderwijs: &quot;Ik kan niet lijdzaam toekijken&quot;",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/21/getuigen-nieuw-schooljaar-franstalig-onderwijs/",
-          "publishedDate": "Sun, 23 Aug 2026 20:21:00 GMT",
-          "description": "&quot;De vakantie heeft de volle emmer een beetje doen verdampen, maar er is weinig nodig om die opnieuw te laten overlopen.&quot; Bij de start van het nieuwe schooljaar in het Franstalig onderwijs zijn er veel ..."
-        },
-        {
-          "title": "Leerkracht neergestoken tijdens schoolmusical in Nederland, 3 verdachten zijn opgepakt",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2025/07/17/nederland-steekpartij-schoolfeest/",
-          "publishedDate": "Wed, 16 Jul 2025 23:04:00 GMT",
-          "description": "In de Nederlandse gemeente Alblasserdam is een leerkracht neergestoken tijdens een musical van een lokale lagere school. De leerkracht zou tussenbeide zijn gekomen bij een ruzie onder enkele ..."
-        },
-        {
-          "title": "Leerkracht Sint-Guido-Instituut meermaals bedreigd door leerlingen",
-          "source": "BRUZZ",
-          "url": "https://www.bruzz.be/actua/samenleving/leerkracht-sint-guido-instituut-meermaals-bedreigd-door-leerlingen-2025-03-19",
-          "publishedDate": "Tue, 18 Mar 2025 17:00:00 GMT",
-          "description": "Leerkracht Gino De Cock is aangeslagen wanneer BRUZZ de man spreekt. &quot;Op het moment zelf besef je niet echt wat er gebeurt,&quot; zegt hij. &quot;Pas later dringt het tot je door.&quot; De feiten deden zich dinsdag ..."
-        },
-        {
-          "title": "Young Professionals met leerkracht Jan: “Leerlingen helpen groeien is mijn passie”",
-          "source": "Business AM",
-          "url": "https://businessam.be/young-professionals-leerkracht-jan/",
-          "publishedDate": "Fri, 06 Dec 2024 00:00:00 GMT",
-          "description": "De videoreeks Young Professionals van Newsmonkey.be geeft een unieke inkijk in het dagelijks leven van jonge professionals. In het onderwijs spelen leerkrachten een cruciale rol in het inspireren, ..."
-        },
-        {
-          "title": "Leerkracht zijn is geen bijbaan: Een pleidooi voor eerlijke beloning",
-          "source": "dbsuriname",
-          "url": "https://www.dbsuriname.com/2024/11/18/leerkracht-zijn-is-geen-bijbaan-een-pleidooi-voor-eerlijke-beloning/",
-          "publishedDate": "Mon, 18 Nov 2024 05:14:00 GMT",
-          "description": "In de hedendaagse samenleving lijkt het beroep van leerkracht vaak ondergewaardeerd te worden, zowel qua erkenning als beloning. Astrid, een toegewijde leerkracht, uit haar zorgen over de noodzaak om ..."
-        },
-        {
-          "title": "Je bent maar een leerkracht",
-          "source": "Star Nieuws",
-          "url": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/83134",
-          "publishedDate": "Sun, 06 Oct 2024 05:15:00 GMT",
-          "description": "Lesgeven is het mooiste vak ter wereld! Wanneer op 5 oktober (internationaal) wordt stilgestaan bij de Dag van de Leraar, is het onnodig te benadrukken welke cruciale rol leerkrachten hebben binnen de ..."
-        },
-        {
-          "title": "Alle studenten dependance Avondopleiding De Nieuwe Leerkracht in Nieuw Nickerie geslaagd",
-          "source": "dbsuriname",
-          "url": "https://www.dbsuriname.com/2024/08/14/alle-studenten-dependance-avondopleiding-de-nieuwe-leerkracht-in-nieuw-nickerie-geslaagd/",
-          "publishedDate": "Wed, 14 Aug 2024 06:15:00 GMT",
-          "description": "Alle studenten van de dependance van de Avondopleiding De Nieuwe Leerkracht (ADNL) in Nieuw Nickerie zijn geslaagd. Deze opleiding, voorheen bekend als de Avondopleiding voor de Onderwijzersakte, ..."
-        },
-        {
-          "title": "Leerkracht Brecht uit Melle vond de liefde &#233;n de job van z’n leven en wordt verrast op valentijn: “Voor de klas staan, is het mooiste beroep ter wereld”",
-          "source": "HLN",
-          "url": "https://www.hln.be/melle/leerkracht-brecht-uit-melle-vond-de-liefde-en-de-job-van-z-n-leven-en-wordt-verrast-op-valentijn-voor-de-klas-staan-is-het-mooiste-beroep-ter-wereld~a2ca4ad1/",
-          "publishedDate": "Tue, 14 Feb 2023 00:24:00 GMT",
-          "description": "In 2022 vond Brecht de Geyter de liefde dankzij het VTM-programma ‘Blind Getrouwd’. Maar z'n echtgenoot Dziubi Steenbergen is lang niet de enige die zijn hart verwarmt. Elke dag staat de sympathieke ..."
-        },
-        {
-          "title": "5 dingen die je moet weten als je verliefd wordt op je leerkracht.",
-          "source": "Newsmonkey",
-          "url": "https://newsmonkey.be/5-dingen-die-je-moet-weten-als-je-verliefd-wordt-op-je-leerkracht/",
-          "publishedDate": "Thu, 19 Apr 2018 22:14:00 GMT",
-          "description": "O jee, je bent verliefd op je leerkracht of docent. Wat nu? Ten eerste is het totaal niet raar om verliefd te zijn op een leraar, er zijn meerdere mensen die dit ervaren. Een recent onderzoek van de ..."
-        }
-      ]
-    },
-    {
-      "keyword": "ziggo zakelijk storing",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Storing bij zakelijke Ziggo-klanten, modem moet worden vervangen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628308-storing-bij-zakelijke-ziggo-klanten-modem-moet-worden-vervangen",
-          "publishedDate": "Tue, 25 Aug 2026 12:17:00 GMT",
-          "description": "Ziggo zegt extra monteurs in te zetten om de modems te vervangen. De provider kan niet vertellen waardoor het defect is ontstaan."
-        },
-        {
-          "title": "Ziggo opnieuw getroffen door storing: derde probleem in korte tijd",
-          "source": "Totaal TV",
-          "url": "https://www.totaaltv.nl/nieuws/ziggo-opnieuw-getroffen-door-storing-derde-probleem-in-korte-tijd/",
-          "publishedDate": "Tue, 25 Aug 2026 08:58:00 GMT",
-          "description": "Zakelijke Ziggo-klanten zitten sinds maandag zonder internet. Defecte modems moeten worden vervangen. Het is het derde probleem in korte tijd."
-        },
-        {
-          "title": "Zakelijke Ziggo-klanten hebben internetproblemen door modemstoring",
-          "source": "Tweakers",
-          "url": "https://tweakers.net/nieuws/251314/zakelijke-ziggo-klanten-hebben-internetproblemen-door-modemstoring.html",
-          "publishedDate": "Tue, 25 Aug 2026 03:23:00 GMT",
-          "description": "Zakelijke Ziggo-klanten melden dat ze door een storing sinds maandag geen internet meer hebben. Het lijkt om een storing in het voormalige UPC-gebied te gaan. Ziggo werkt aan een oplossing."
-        },
-        {
-          "title": "Deel van zakelijke Ziggo-klanten getroffen door storing",
-          "source": "Dutch IT Channel",
-          "url": "https://www.dutchitchannel.nl/news/758381/deel-van-zakelijke-ziggo-klanten-getroffen-door-storing",
-          "publishedDate": "Tue, 25 Aug 2026 02:30:00 GMT",
-          "description": "Zakelijke klanten van Ziggo kampen in sommige gevallen met een storing. Gebruikers melden dat alle lampjes op hun modem knipperen, en de modem geen verbinding maakt met internet."
-        },
-        {
-          "title": "Ziggo Zakelijk kampt al ruim een maand met storing in Wifi Back-up-dienst",
-          "source": "Dutch IT Channel",
-          "url": "https://www.dutchitchannel.nl/news/758220/ziggo-zakelijk-kampt-al-ruim-een-maand-met-storing-in-wifi-back-up-dienst",
-          "publishedDate": "Fri, 21 Aug 2026 23:00:00 GMT",
-          "description": "Ziggo Zakelijk kampt al ruim een maand met een storing met de Wifi Back-up-dienst. Dat bevestigt het bedrijf tegenover Tweakers. De dienst laat klanten verbinding maken met het netwerk van Vodafone ..."
-        },
-        {
-          "title": "Ziggo levert klanten al weken onvolledig aanbod",
-          "source": "Totaal TV",
-          "url": "https://www.totaaltv.nl/nieuws/ziggo-levert-zakelijke-klanten-al-weken-onvolledig-aanbod/",
-          "publishedDate": "Fri, 21 Aug 2026 03:22:00 GMT",
-          "description": "De Wifi Back-up van Ziggo Zakelijk werkt al weken niet. Klanten missen daardoor het mobiele vangnet bij een storing."
-        },
-        {
-          "title": "Ziggo Zakelijk heeft ruim een maand storing met Wifi Back-up via 4G",
-          "source": "Tweakers",
-          "url": "https://tweakers.net/nieuws/251206/ziggo-zakelijk-heeft-ruim-een-maand-storing-met-wifi-back-up-via-4g.html",
-          "publishedDate": "Fri, 21 Aug 2026 02:03:00 GMT",
-          "description": "Ziggo Zakelijk bevestigt een storing met de Wifi Back-up-dienst. Deze dienst laat klanten verbinding maken met Vodafones netwerk als Ziggo een storing op het vaste netwerk heeft. Die Vodafone-simkaart ..."
-        }
-      ]
+      "articles": []
     }
   ]
 }
