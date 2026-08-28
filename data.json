@@ -1,43 +1,57 @@
 {
-  "fetchedAt": "2026-08-27T18:01:02.656Z",
+  "fetchedAt": "2026-08-28T02:14:28.053Z",
   "trends": [
     {
       "keyword": "ajax - sion",
-      "trafficLabel": "20K+",
+      "trafficLabel": "50K+",
       "articles": [
         {
-          "title": "Twente op achterstand bij Qarabag, hoofdtoernooi ver weg • Ajax met Arokodare tegen Sion",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2628532-twente-op-achterstand-bij-qarabag-hoofdtoernooi-ver-weg-ajax-met-arokodare-tegen-sion",
-          "publishedDate": "Thu, 27 Aug 2026 08:34:00 GMT",
-          "description": "In dit liveblog volgen we de returns in de play-offs van de kwalificatie voor de Conference League:&#160;FK Qarabag - FC Twente en Ajax - FC Sion."
+          "title": "Ajax-spits Tolu krijgt bal met gelukje mee en schiet hard raak tegen Sion",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/329707/video/ajax-spits-tolu-krijgt-bal-met-gelukje-mee-en-schiet-hard-raak-tegen-sion.html",
+          "publishedDate": "Thu, 27 Aug 2026 00:07:00 GMT",
+          "description": "De nieuwe aanvaller van Ajax scoorde daarmee de 3-2 vlak voor rust in de voorronde van de Conference League. Al het Europees voetbal kijk je bij Ziggo Sport"
         },
         {
-          "title": "LIVE Conference League | Ajax met &#233;&#233;n basisdebutant tegen FC Sion",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/live-conference-league-ajax-en-fc-sion-strijden-om-plek-in-de-competitiefase",
-          "publishedDate": "Wed, 26 Aug 2026 22:15:00 GMT",
-          "description": "Bereikt Ajax de competitiefase van de Conference League? Volg de returnwedstrijd in Amsterdam van de play-off tegen FC Sion in dit liveblog van FCUpdate."
+          "title": "Highlights Ajax - FC Sion | Ticket voor hoofdtoernooi",
+          "source": "AFC Ajax",
+          "url": "https://www.ajax.nl/artikelen/highlights-ajax-fc-sion-ticket-voor-hoofdtoernooi/",
+          "publishedDate": "Wed, 26 Aug 2026 17:00:00 GMT",
+          "description": "Ajax heeft FC Sion verslagen in de play-offs voor de plaatsing voor de League Phase van de UEFA Conference League. In Amsterdam werd het 5-3."
         }
       ]
     },
     {
       "keyword": "qarabağ - twente",
-      "trafficLabel": "20K+",
+      "trafficLabel": "50K+",
       "articles": [
-        {
-          "title": "Duel FC Twente begint kwartier later door onweer",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/sport/artikel/5644818/duel-fc-twente-begint-kwartier-later-door-onweer",
-          "publishedDate": "Thu, 27 Aug 2026 09:04:00 GMT",
-          "description": "De wedstrijd tussen FK Qarabağ en FC Twente in de play-offs van de Conference League begint donderdag niet om 18.00 uur maar om 18.15 uur. De reden is dat het tijdens de warming-up onweerde in Bakoe i ..."
-        },
         {
           "title": "Ajax dicht bij hoofdtoernooi Conference League, FC Twente begint met nederlaag",
           "source": "RTL Nieuws &amp; Entertainment",
           "url": "https://www.rtl.nl/nieuws/sport/artikel/5641158/ajax-na-zege-op-sion-dicht-bij-hoofdtoernooi-conference-league",
           "publishedDate": "Thu, 20 Aug 2026 13:11:00 GMT",
           "description": "Ajax is dicht bij een plaats in het hoofdtoernooi van de Conference League. De Amsterdammers maakten in de play-offs na rust een achterstand tegen de Zwitserse club FC Sion ongedaan: 2-4. Volgende wee ..."
+        },
+        {
+          "title": "FC Twente na verlenging naar hoofdtoernooi Conference League",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/fc-twente-na-verlenging-naar-hoofdtoernooi-conference-league",
+          "publishedDate": "Thu, 27 Aug 2026 13:54:00 GMT",
+          "description": "BAKOE (ANP) - FC Twente heeft zich geplaatst voor het hoofdtoernooi van de Conference League. De Enschede&#235;rs wonnen in de play-offs in Azerbeidzjan na verlengin ..."
+        },
+        {
+          "title": "FC Twente flikt het tegen Qarabag en gaat de Conference League in",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/fc-twente-flikt-het-tegen-qarabag-en-gaat-de-conference-league-in",
+          "publishedDate": "Thu, 27 Aug 2026 13:50:00 GMT",
+          "description": "FC Twente heeft zich na een krankzinnige Europese avond in Bakoe langs Qarabag geknokt. De ploeg van John van den Brom leek na de 1-0 van Kady op weg naar uitschakeling, maar vocht zich in de slotfase ..."
+        },
+        {
+          "title": "FC Twente knokt zich via verlenging naar groepsfase UEFA Conference League",
+          "source": "news.bet365",
+          "url": "https://news.bet365.nl/nl-nl/article/fc-twente-knokt-zich-via-verlenging-naar-groepsfase-uefa-conference-league/2026082719051679293",
+          "publishedDate": "Thu, 27 Aug 2026 11:47:00 GMT",
+          "description": "FC Twente heeft zich daardoor geplaatst voor het hoofdtoernooi van de UEFA Conference League. De Enschede&#235;rs wonnen in de play-offs in Azerbeidzjan na verlenging met 4-1 van FK Qarabağ. FC Twente had ..."
         },
         {
           "title": "Warming-up stilgelegd: uitstel bij Qarabag - Twente",
@@ -76,24 +90,10 @@
         },
         {
           "title": "FC Twente verliest thuisduel met Qarabağ in Conference League",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/fc-twente-verliest-thuisduel-met-qarabag-in-conference-league",
-          "publishedDate": "Thu, 20 Aug 2026 14:59:00 GMT",
-          "description": "ENSCHEDE (ANP) - FC Twente heeft de eerste wedstrijd in de play-offs voor het hoofdtoernooi van de Conference League verloren. In het eigen stadion in Enschede ging de ploeg van coach John van den Bro ..."
-        },
-        {
-          "title": "Twente bijt zich stuk op Qarabag: Europese uitschakeling dreigt",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/twente-bijt-zich-stuk-op-qarabag-europese-uitschakeling-dreigt",
-          "publishedDate": "Thu, 20 Aug 2026 14:54:00 GMT",
-          "description": "FC Twente heeft de heenwedstrijd in de play-offs om een plek in de Conference League met 0-1 verloren van FK Qarabag, waardoor Europese uitschakeling dreigt voor de Tukkers."
-        },
-        {
-          "title": "FC Twente tegen Qarabağ FK met dezelfde spelers als tegen PEC",
           "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/fc-twente-tegen-qarabag-fk-met-dezelfde-spelers-als-tegen-pec",
-          "publishedDate": "Thu, 20 Aug 2026 12:04:00 GMT",
-          "description": "ENSCHEDE (ANP) - FC Twente begint de thuiswedstrijd tegen het Azerbeidzjaanse Qarabağ FK in de play-offs van de Conference League met dezelfde basisspelers als ..."
+          "url": "https://www.zeelandnet.nl/nieuws/fc-twente-verliest-thuisduel-met-qarabag-in-conference-league",
+          "publishedDate": "Thu, 20 Aug 2026 14:59:00 GMT",
+          "description": "ENSCHEDE (ANP) - FC Twente heeft de eerste wedstrijd in de play-offs voor het hoofdtoernooi van de Conference League verloren. In het eigen stadion in Enschede ..."
         }
       ]
     },
@@ -102,11 +102,11 @@
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Nederlandse vrouw (26) schreeuwt om hulp na val in Oostenrijkse bergen, en overlijdt enkele ogenblikken later",
+          "title": "Vakantie in Oostenrijk eindigt in drama: Nederlandse vader ziet 12-jarige zoon 30 meter naar beneden vallen",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/nederlandse-vrouw-26-schreeuwt-om-hulp-na-val-in-oostenrijkse-bergen-en-overlijdt-enkele-ogenblikken-later~a7b5b228/",
-          "publishedDate": "Wed, 26 Aug 2026 23:43:00 GMT",
-          "description": "Een 26-jarige Nederlandse vrouw is afgelopen vrijdag in Oostenrijk om het leven gekomen na een val in de bergen. Tijdens de afdaling van de Patteriol, een ruim 3000 meter hoge berg in Tirol, gleed ze ..."
+          "url": "https://www.ad.nl/buitenland/vakantie-in-oostenrijk-eindigt-in-drama-nederlandse-vader-ziet-12-jarige-zoon-30-meter-naar-beneden-vallen~a4895468/",
+          "publishedDate": "Wed, 19 Aug 2026 00:09:00 GMT",
+          "description": "Een 12-jarige Nederlandse jongen ligt zwaargewond op de intensive care in Oostenrijk na een metersdiepe val tijdens een bergwandeling in Tirol. De tiener stortte zondagochtend over steil en rotsachtig ..."
         },
         {
           "title": "Vliegtuigje neergestort in Attersee in Oostenrijk",
@@ -178,25 +178,11 @@
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Veel benzineauto's verkocht, maar elektrisch rijden rukt op",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628083-veel-benzineauto-s-verkocht-maar-elektrisch-rijden-rukt-op",
-          "publishedDate": "Sun, 23 Aug 2026 21:30:00 GMT",
-          "description": "Van volledig elektrische auto's en hybrides met een stekker werden er in totaal zo'n 260.000 verkocht. Ruim een kwart daarvan werd gekocht door de tien procent hoogste inkomens."
-        },
-        {
           "title": "Benzine en diesel worden iets goedkoper, maar olieprijs blijft gevoelig",
           "source": "NU.nl",
           "url": "https://www.nu.nl/economie/6405495/benzine-en-diesel-worden-iets-goedkoper-maar-olieprijs-blijft-gevoelig.html",
           "publishedDate": "Thu, 06 Aug 2026 05:20:00 GMT",
           "description": "Automobilisten betalen deze week weer iets minder aan de pomp. De prijs van een liter benzine is sinds maandag met ongeveer 5 cent gedaald en diesel is zo'n 6 cent goedkoper geworden. Dat blijkt uit c ..."
-        },
-        {
-          "title": "Tanken in Belgi&#235; vanaf morgen flink goedkoper: gat met Nederland wordt nog groter",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/auto/tanken-in-belgie-vanaf-morgen-flink-goedkoper-gat-met-nederland-wordt-nog-groter~a63eb518/",
-          "publishedDate": "Mon, 03 Aug 2026 20:08:00 GMT",
-          "description": "Tanken in Belgi&#235; wordt woensdag een stuk goedkoper. De prijzen aan de pomp dalen met meerdere centen, meldt de Federale Overheidsdienst Economie. Ook in Nederland dalen de prijzen van benzine en diese ..."
         },
         {
           "title": "Marktwaakhond zet prijsopbouw van benzine en diesel online: zoveel verdienen raffinaderijen per liter",
@@ -208,16 +194,16 @@
         {
           "title": "Benzine gaat straks minimaal 2,70 euro kosten, ook al zit alles mee",
           "source": "TopGear Nederland on MSN",
-          "url": "https://www.msn.com/nl-nl/auto/algemeen/benzine-gaat-straks-minimaal-2-70-euro-kosten-ook-al-zit-alles-mee/ar-AA2b3aLK",
+          "url": "https://www.msn.com/nl-nl/geldzaken/economie/benzine-gaat-straks-minimaal-2-70-euro-kosten-ook-al-zit-alles-mee/ar-AA2b3aLK",
           "publishedDate": "Wed, 26 Aug 2026 22:58:00 GMT",
           "description": "Vanaf 2028 komen hogere accijns en een nieuwe belasting boven op de huidige benzineprijs ..."
         },
         {
-          "title": "Olieprijs daalt meer dan twee procent onder de 90 dollar",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/economie/beetje-ademruimte-aan-de-pomp-benzine-wordt-6-cent-goedkoper-dieselprijs-daalt-met-meer-dan-9-cent~a634e96a/",
-          "publishedDate": "Mon, 24 Aug 2026 20:03:00 GMT",
-          "description": "Benzine of diesel tanken wordt woensdag een stuk goedkoper. Dat meldt de FOD Economie. Voor benzine 95 (E10) daalt de maximumprijs per liter met 9,1 eurocent, tot 1,866 euro. Voor benzine 98 (E5) gaat ..."
+          "title": "Benzine stijgt dinsdag naar hoogste prijs in drie maanden",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/economie/benzine-stijgt-dinsdag-naar-hoogste-prijs-in-drie-maanden/160415676.html",
+          "publishedDate": "Mon, 24 Aug 2026 00:49:00 GMT",
+          "description": "De maximumprijs van benzine gaat dinsdag omhoog. Wie benzine 95 (E10) tankt, betaalt dan tot 1,966 euro per liter. Dat is de hoogste prijs in drie maanden."
         },
         {
           "title": "PITSTOP VOOR BENZINE LEVERT $500.000 OP",
@@ -227,11 +213,32 @@
           "description": "Een echtpaar uit Michigan stopte onderweg van vakantie alleen om benzine te tanken. Nadat een klant voor hem krasloten kocht, besloot de 64 jarige man hetzelfde te doen. Thuis bleek &#233;&#233;n ticket 500.000 ..."
         },
         {
-          "title": "Benzineprijs onderweg naar nieuwe recordhoogte",
-          "source": "AutoWeek",
-          "url": "https://www.autoweek.nl/autonieuws/artikel/benzineprijs-nadert-nieuwe-recordhoogte-tanken-met-tranen/",
-          "publishedDate": "Thu, 23 Jul 2026 02:27:00 GMT",
-          "description": "De benzineprijs blijft stijgen. Als het zo doorgaat, bereikt de prijs van benzine deze week nog een nieuwe recordhoogte. De kans dat je in de komende dagen met zeiknatte ogen je tank volgooit, is aanz ..."
+          "title": "Slim laden elektrische auto bijna 7 keer goedkoper dan rijden op benzine",
+          "source": "Solar Magazine",
+          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i44553/slim-laden-elektrische-auto-bijna-7-keer-goedkoper-dan-rijden-op-benzine",
+          "publishedDate": "Wed, 19 Aug 2026 17:01:00 GMT",
+          "description": "Klanten van Tibber die elektrisch rijden betaalden in juli dankzij slim laden gemiddeld 2,76 euro per 100 kilometer, terwijl benzine 18,30 euro kostte. Een deel van de klanten van Tibber kon zelfs gra ..."
+        },
+        {
+          "title": "Benzine tanken wordt vrijdag duurder",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/economie/benzine-tanken-wordt-vrijdag-duurder/159966486.html",
+          "publishedDate": "Thu, 13 Aug 2026 03:14:00 GMT",
+          "description": "De maximumprijs van benzine gaat vrijdag omhoog. Wie benzine 95 (E10) tankt, betaalt dan maximaal 1,936 euro per liter. Dat meldt de federale overheidsdienst Economie donderdag."
+        },
+        {
+          "title": "Benzine in Belgi&#235; duurder, maar nog v&#233;&#233;l goedkoper dan in Nederland: dit is het verschil",
+          "source": "AD",
+          "url": "https://www.ad.nl/economie/benzine-in-belgie-duurder-maar-nog-veel-goedkoper-dan-in-nederland-dit-is-het-verschil~a811d05a/",
+          "publishedDate": "Wed, 12 Aug 2026 19:51:00 GMT",
+          "description": "De maximumprijs voor benzine in Belgi&#235; is vanaf vrijdag hoger. Voor een liter Euro95 (E10) mag dan maximaal 1,936 euro worden gerekend aan de Belgische pomp. Het gaat om een stijging van 7 cent per ..."
+        },
+        {
+          "title": "Benzine tanken wordt duurder - Europese gasprijs naar hoogste niveau in maanden",
+          "source": "HLN",
+          "url": "https://www.hln.be/economie/diesel-vanaf-morgen-duurder-prijs-stijgt-naar-hoogste-niveau-sinds-mei~a634e96a/",
+          "publishedDate": "Wed, 22 Jul 2026 16:59:00 GMT",
+          "description": "De maximumprijs van benzine gaat dinsdag omhoog. Wie benzine 95 (E10) tankt, betaalt dan tot 1,966 euro per liter. Dat is de hoogste prijs in drie maanden. De prijsstijging bedraagt 3 cent per liter, ..."
         },
         {
           "title": "Benzine en diesel in Duitsland fors duurder na einde accijnskorting",
@@ -247,150 +254,371 @@
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "“Voelen ons bekocht”: woede en frustratie overheersen bij Red Panthers nadat ze gelijkmaker discutabel afgekeurd zien worden",
+          "title": "Duitsland meldt “agressieve” Russische marine in Oostzee en versnelt jacht op verdachte schepen: “Van zeventien uur naar &#233;&#233;n uur”",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/ek-hockey/voelen-ons-bekocht-woede-en-frustratie-overheersen-bij-red-panthers-nadat-ze-gelijkmaker-discutabel-afgekeurd-zien-worden~a0725d81/",
-          "publishedDate": "Thu, 27 Aug 2026 03:50:00 GMT",
-          "description": "Puik gespeeld van de Red Panthers, maar geen stunt: een twijfelachtige afgekeurde goal ontnam Belgi&#235; het uitzicht op shoot-outs en zorgde voor een zure nasmaak. De Nederlandse hockeydames houden met e ..."
+          "url": "https://www.hln.be/buitenland/duitsland-meldt-agressieve-russische-marine-in-oostzee-en-versnelt-jacht-op-verdachte-schepen-van-zeventien-uur-naar-een-uur~a9799bde/",
+          "publishedDate": "Thu, 27 Aug 2026 17:00:00 GMT",
+          "description": "De Russische dreiging op zee blijft groot, vooral in de Oostzee. Daarvoor waarschuwt de hoogste Duitse marineofficier Jan Christian Kaack. Volgens hem gedraagt de Russische marine zich “agressief op z ..."
         },
         {
-          "title": "Reus Goliath krijgt gezelschap van collega uit Lier: “Maar alleen met Lierse grond onder de voeten”",
+          "title": "Donderdagmarkt blijft tijdens opbouw van Vredefeesten op Grote Markt",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/dendermonde/reus-goliath-krijgt-gezelschap-van-collega-uit-lier-maar-alleen-met-lierse-grond-onder-de-voeten~a9153250/",
-          "publishedDate": "Thu, 27 Aug 2026 03:40:00 GMT",
-          "description": "De vierhonderdste verjaardag van Gildereus Goliath vormt de rode draad door Katuit in Dendermonde. De traditionele reuzenommegang kon daarvoor rekenen op bezoek van Goliath-reuzen uit andere steden. E ..."
+          "url": "https://www.hln.be/sint-niklaas/donderdagmarkt-blijft-tijdens-opbouw-van-vredefeesten-op-grote-markt~a4ab878c/",
+          "publishedDate": "Thu, 27 Aug 2026 16:55:00 GMT",
+          "description": "De wekelijkse donderdagmarkt in Sint-Niklaas gaat op donderdag 3 september gewoon door op de Grote Markt. De opbouw van de Vredefeesten heeft geen invloed op de markt."
         },
         {
-          "title": "Dit staat prins Gabri&#235;l te wachten als eerste royal met betaalde job bij Defensie",
+          "title": "Luchtverkeersleiders te vroeg naar huis op dag van dodelijke crash op LaGuardia",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/royalty/dit-staat-prins-gabriel-te-wachten-als-eerste-royal-met-betaalde-job-bij-defensie~a733f377/",
-          "publishedDate": "Thu, 27 Aug 2026 03:09:00 GMT",
-          "description": "Geen paleisleven voor prins Gabri&#235;l (23). De oudste zoon van koning Filip (66) en koningin Mathilde (53) kiest voor een carri&#232;re als paracommando en wordt zo de eerste Belgische royal met een volwaard ..."
+          "url": "https://www.hln.be/buitenland/luchtverkeersleiders-te-vroeg-naar-huis-op-dag-van-dodelijke-crash-op-laguardia~aac77ff4/",
+          "publishedDate": "Thu, 27 Aug 2026 10:13:00 GMT",
+          "description": "Twee luchtverkeersleiders op de luchthaven LaGuardia in New York waren ongeveer een uur voor het einde van hun dienst naar huis gegaan, kort voor &lt;a href=&quot;https://www.hln.be/article/~ad89b263&quot; target= ..."
         },
         {
-          "title": "Stewardess krijgt borstkanker erkend als beroepsziekte na nachtwerk. Oncoloog: “Je verstoort biologische processen in elke cel van je lichaam”",
+          "title": "Canadese premier niet onder indruk van hernoemen Ontariomeer door Trump: “Amerika is aan het veranderen”",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/gezondheid/stewardess-krijgt-borstkanker-erkend-als-beroepsziekte-na-nachtwerk-oncoloog-je-verstoort-biologische-processen-in-elke-cel-van-je-lichaam~a618ae22/",
-          "publishedDate": "Thu, 27 Aug 2026 03:00:00 GMT",
-          "description": "Kan nachtwerk bijdragen aan kanker? In Frankrijk is de borstkanker van &lt;a href=&quot;https://www.hln.be/buitenland/borstkanker-van-stewardess-sophie-59-voor-het-eerst-erkend-als-beroepsziekte-in-frankrijk- ..."
+          "url": "https://www.hln.be/buitenland/canadese-premier-niet-onder-indruk-van-hernoemen-ontariomeer-door-trump-amerika-is-aan-het-veranderen~a79c6d94/",
+          "publishedDate": "Thu, 27 Aug 2026 09:31:00 GMT",
+          "description": "Canada en de Verenigde Staten onderhandelden afgelopen vrijdag in Washington over een handelsakkoord om dreigende Amerikaanse importheffingen van 50 procent op Canadese producten (zoals wijn, cement ..."
         },
         {
-          "title": "Ellen Callebout blijkt het moeilijkste publiek van Gert &amp; James: “Het moet echt al een goeie mop zijn voor ik kan lachen”",
+          "title": "Beveren Buiten krijgt primeur: Metejoor en Niels Destadsbader voor het eerst samen op podium",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/tv/ellen-callebout-blijkt-het-moeilijkste-publiek-van-gert-en-james-het-moet-echt-al-een-goeie-mop-zijn-voor-ik-kan-lachen~a0bebb31/",
-          "publishedDate": "Thu, 27 Aug 2026 02:45:00 GMT",
-          "description": "Gert Verhulst en James Cooke mogen dan wel de zalen doen vollopen met hun zomershow, het strengste publiek blijkt thuis te zitten. In ‘Zeg eens euh’ onthult presentator James Cooke dat Gert z’n echtge ..."
+          "url": "https://www.hln.be/beveren-kruibeke-zwijndrecht/beveren-buiten-krijgt-primeur-metejoor-en-niels-destadsbader-voor-het-eerst-samen-op-podium~a5c1b61c/",
+          "publishedDate": "Thu, 27 Aug 2026 09:20:00 GMT",
+          "description": "Metejoor en Niels Destadsbader stonden allebei al eerder op de Beverse Feesten, maar donderdagavond kregen bezoekers een primeur. De twee artiesten brachten voor het eerst samen een duet. De stevige r ..."
         },
         {
-          "title": "Europese voetbalbond bereidt klacht voor tegen Gianni Infantino wegens “crimineel mismanagement”",
+          "title": "Tweede fokprijskamp voor het schapenras Texelaar in Biobroeders: “Vorige editie bracht 90 stamboekdieren samen”",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/wk-voetbal/europese-voetbalbond-bereidt-klacht-voor-tegen-gianni-infantino-wegens-crimineel-mismanagement~acc7073e/",
-          "publishedDate": "Thu, 27 Aug 2026 00:58:00 GMT",
-          "description": "Het wordt steeds warmer onder de voeten van FIFA-voorzitter &lt;a href=&quot;https://hln.be/dossier/~d84633026-ebee-48ad-b5e5-a4f2e2c98b24&quot; target=&quot;_blank&quot;&gt;Gianni Infantino (56). Volg alles over de wereldvoet ..."
+          "url": "https://www.hln.be/sint-niklaas/tweede-fokprijskamp-voor-het-schapenras-texelaar-in-biobroeders-vorige-editie-bracht-90-stamboekdieren-samen~abf6ab4c/",
+          "publishedDate": "Thu, 27 Aug 2026 08:07:00 GMT",
+          "description": "De Broederschool Biotechnische &amp; Sport in Sint-Niklaas organiseert op zondag 13 september de 2de editie van de fokprijskamp voor het schapenras Texelaar. Vorig jaar bracht de 1ste editie een 90-tal st ..."
         },
         {
-          "title": "Dit kan je beleven tijdens Leuven Autovrij: Bike Plaza en Sport Esplanade",
+          "title": "Bliksem slaat in op boom in Sint-Truiden",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/leuven/dit-kan-je-beleven-tijdens-leuven-autovrij-bike-plaza-en-sport-esplanade~ab2b561f/",
-          "publishedDate": "Wed, 26 Aug 2026 22:00:00 GMT",
-          "description": "Het populaire evenement ‘King of the Ring’ staat weer op de agenda tijdens Leuven Autovrij, maar verspreid over de stad is er op 20 september nog veel meer te beleven."
+          "url": "https://www.hln.be/sint-truiden/bliksem-slaat-in-op-boom-in-sint-truiden~a2332e68/?slug_rd=1",
+          "publishedDate": "Thu, 27 Aug 2026 07:20:00 GMT",
+          "description": "In Sint-Truiden is donderdagavond tijdens het onweer de bliksem ingeslagen op een boom. De brandweer kwam ter plaatse na de melding."
         },
         {
-          "title": "Van minuut tot minuut: zo verliep de verwoestende stortvloed in Nepal. “We reden 3 kilometer in achteruit om te ontsnappen”",
+          "title": "Chauffeur (22) botst tegen geparkeerde auto &#233;n garage: “Aanzienlijke schade”",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/van-minuut-tot-minuut-zo-verliep-de-verwoestende-stortvloed-in-nepal-we-reden-3-kilometer-in-achteruit-om-te-ontsnappen~a4132a00/",
-          "publishedDate": "Wed, 26 Aug 2026 21:17:00 GMT",
-          "description": "Wat begon als een rustige ochtend hoog in de Himalaya, groeide in enkele uren uit tot een van de zwaarste natuurrampen wereldwijd in jaren. Een gigantische gletsjer stortte in en ontketende samen met ..."
+          "url": "https://www.hln.be/puurs-sint-amands/chauffeur-22-botst-tegen-geparkeerde-auto-en-garage-aanzienlijke-schade~a7188724/",
+          "publishedDate": "Thu, 27 Aug 2026 07:13:00 GMT",
+          "description": "Op de Dendermondsesteenweg in Liezele (Puurs-Sint-Amands) is donderdagavond een auto tegen zowel een geparkeerde wagen als een garage gebotst. Er is aanzienlijke schade. De chauffeur van het voertuig ..."
         },
         {
-          "title": "Brandon Mechele over CL-loting: &quot;Het is jammer voor Mignolet dat hij Liverpool niet meer meemaakt&quot;",
+          "title": "Gemeenten slaan de handen in elkaar voor zomersportdag voor 50-plussers aan zee",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/video/productie/brandon-mechele-over-cl-loting-14290724",
-          "publishedDate": "Wed, 26 Aug 2026 17:00:00 GMT",
-          "description": "Meld je aan voor de nieuwsbrief Wil je elke dag de Lunch nieuwsbrief van HLN ontvangen via e-mail?"
+          "url": "https://www.hln.be/kampenhout/gemeenten-slaan-de-handen-in-elkaar-voor-zomersportdag-voor-50-plussers-aan-zee~a8681feb/",
+          "publishedDate": "Thu, 27 Aug 2026 07:08:00 GMT",
+          "description": "Op donderdag 10 september vindt in Blankenberge de jaarlijkse zomersportdag voor 50-plussers plaats. De gemeenten Kampenhout, Boortmeerbeek, Haacht, Keerbergen, Steenokkerzeel, Tremelo en Zemst slaan ..."
         },
         {
-          "title": "Sommer blij met terugkeer naar Inter: &quot;Kijk ernaar uit om de jongens terug te zien&quot;",
+          "title": "“Mooie en stevige loting, maar onze ambitie blijft”: Club Brugge-voorzitter Bart Verhaeghe droomt nog steeds van kwartfinale in Champions League",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/video/productie/sommer-blij-met-terugkeer-naar-inter-14290610",
-          "publishedDate": "Wed, 26 Aug 2026 17:00:00 GMT",
-          "description": "Meld je aan voor de nieuwsbrief Wil je elke dag de Lunch nieuwsbrief van HLN ontvangen via e-mail?"
+          "url": "https://www.hln.be/champions-league/mooie-en-stevige-loting-maar-onze-ambitie-blijft-club-brugge-voorzitter-bart-verhaeghe-droomt-nog-steeds-van-kwartfinale-in-champions-league~a2b7526f/",
+          "publishedDate": "Thu, 27 Aug 2026 04:11:00 GMT",
+          "description": "En of voorzitter Bart Verhaeghe tevreden is met de &lt;a href=&quot;http://hln.be/champions-league&quot; target=&quot;_blank&quot;&gt;Champions League-loting van &lt;a href=&quot;http://hln.be/club-brugge&quot; target=&quot;_blank&quot;&gt;Club Brugge."
         }
       ]
     },
     {
-      "keyword": "champions league",
+      "keyword": "onweer",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "PSV loot Real en Atl&#233;tico Madrid, Feyenoord tegen Inter en Barcelona in Champions League",
+          "title": "Regen en onweer: een wisselvallig einde van een recordwarme zomer",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2628540-psv-loot-real-en-atletico-madrid-feyenoord-tegen-inter-en-barcelona-in-champions-league",
-          "publishedDate": "Thu, 27 Aug 2026 09:35:00 GMT",
-          "description": "PSV speelt in ieder geval een uitwedstrijd tegen Real Madrid. Feyenoord treft in De Kuip Inter en gaat op bezoek bij FC Barcelona."
+          "url": "https://nos.nl/artikel/2628536-regen-en-onweer-een-wisselvallig-einde-van-een-recordwarme-zomer",
+          "publishedDate": "Thu, 27 Aug 2026 09:23:00 GMT",
+          "description": "Vandaag werd het in het oosten en zuiden van ons land nog ruim 30 graden, maar het zal de laatste keer deze maand zijn dat het zo warm werd. De recordwarme zomer van 2026 zal eindigen met lagere tempe ..."
         },
         {
-          "title": "Teruglezen loting Champions League | PSV en Feyenoord loten relatief gunstig",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6407758/teruglezen-loting-champions-league-psv-en-feyenoord-loten-relatief-gunstig.html",
+          "title": "Stevige buien met onweer en regen in Groene Hart: ‘Kan echt flink uitpakken’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/montfoort/stevige-buien-met-onweer-en-regen-in-groene-hart-kan-echt-flink-uitpakken~ab5650d7/",
+          "publishedDate": "Thu, 27 Aug 2026 07:49:00 GMT",
+          "description": "In het Groene Hart worden donderdagavond en in de nacht naar vrijdag stevige buien verwacht met onweer en veel regen. Vrijdag overdag kunnen opnieuw flinke buien ontstaan. Het KNMI heeft code geel afg ..."
+        },
+        {
+          "title": "Het weerbericht voor donderdag 27 augustus: onweer op komst",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/het-weerbericht-voor-donderdag-27-augustus-onweer-op-komst~b6c05408e/",
+          "publishedDate": "Wed, 26 Aug 2026 07:41:00 GMT",
+          "description": "Een groot deel van deze donderdag verloopt droog, al kan gedurende de dag zeer lokaal een enkele onweersbui tot ontwikkeling komen. Door de temperaturen van 25 tot lokaal 30 graden langs de oostgrens, ..."
+        },
+        {
+          "title": "Onweer, hagel en windstoten op komst, evenementenorganisaties hopen dat het meevalt",
+          "source": "RTV Drenthe",
+          "url": "https://www.rtvdrenthe.nl/nieuws/18732073/onweer-hagel-en-windstoten-op-komst-evenementenorganisaties-hopen-dat-het-meevalt",
+          "publishedDate": "Thu, 27 Aug 2026 10:00:00 GMT",
+          "description": "Hagelstenen met een doorsnede van twee centimeter, onweersbuien met veel regen en windstoten tot 75 kilometer per uur. Het kan komende nacht en morgen lokaal behoorlijk tekeer gaan. Organisatoren van ..."
+        },
+        {
+          "title": "LIVE. Hier bevindt zich het (zware) onweer momenteel",
+          "source": "Nieuws365",
+          "url": "https://www.nieuws365.be/weer/live-hier-bevindt-zich-het-zware-onweer-momenteel",
           "publishedDate": "Thu, 27 Aug 2026 08:00:00 GMT",
-          "description": "Welkom in dit liveblog! Hier hield ik, Tim Siekman, je op de hoogte van de loting voor de competitiefase van de Champions League. PSV en Feyenoord kregen hun acht tegenstanders te horen."
+          "description": "Na een warme dag met temperaturen die lokaal richting 28 tot 30 graden klimmen, slaat het weer donderdagavond om. Het KMI heeft voor heel Belgi&#235; code geel voor onweer afgekondigd. De waarschuwing geld ..."
         },
         {
-          "title": "Feyenoord treft Barcelona, PSV krijgt Real Madrid in Champions League",
+          "title": "Onweer zorgt voor wateroverlast in Westhoek: brandweer moet handvol keren uitrukken",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/ieper/onweer-zorgt-voor-wateroverlast-in-westhoek-brandweer-moet-handvol-keren-uitrukken~ab0e167f/",
+          "publishedDate": "Thu, 27 Aug 2026 06:52:00 GMT",
+          "description": "Het onweer dat donderdagavond over de Westhoek trok, heeft op verschillende plaatsen voor beperkte wateroverlast gezorgd. Brandweer Westhoek moest een handvol keren uitrukken, al bleef grote schade ui ..."
+        },
+        {
+          "title": "“Zwaar onweer met hevige neerslag, hagel en felle rukwinden mogelijk”: KMI kondigt code geel in heel Belgi&#235; af",
+          "source": "De Standaard",
+          "url": "https://www.standaard.be/binnenland/zwaar-onweer-met-hevige-neerslag-hagel-en-felle-rukwinden-mogelijk-kmi-kondigt-code-geel-in-heel-belgie-af/160569445.html",
+          "publishedDate": "Thu, 27 Aug 2026 00:58:00 GMT",
+          "description": "Het KMI verwacht donderdagavond onweer in het hele land. “Er is kans op zwaar onweer met hevige neerslag, hagel en felle rukwinden”, klinkt het. Vanaf 17 uur geldt dan ook code geel onweer in het hele ..."
+        },
+        {
+          "title": "Code geel: het kan vandaag gaan spoken met hagel en onweer",
+          "source": "Omroep Gelderland",
+          "url": "https://www.gld.nl/nieuws/8512753/code-geel-het-kan-vandaag-gaan-spoken-met-hagel-en-onweer",
+          "publishedDate": "Wed, 26 Aug 2026 22:47:00 GMT",
+          "description": "Na een aantal zonnige en droge dagen slaat het weer deze donderdag om. Onweer, hagel en noodweer hangen in de lucht."
+        },
+        {
+          "title": "KNMI waarschuwt voor onweer en wateroverlast donderdagavond",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/knmi-waarschuwt-voor-onweer-en-wateroverlast-donderdagavond",
+          "publishedDate": "Wed, 26 Aug 2026 07:57:00 GMT",
+          "description": "DE BILT (ANP) - In een groot deel van Nederland kan het donderdagavond en in de nacht naar vrijdag onweren. Het KNMI waarschuwt voor buien met kans op hagel, wi ..."
+        },
+        {
+          "title": "Warm en vochtig weer met kans op buien en onweer",
+          "source": "Culturu",
+          "url": "https://www.culturu.com/nieuws/suriname/warm-en-vochtig-weer-met-kans-op-buien-en-onweer/",
+          "publishedDate": "Wed, 26 Aug 2026 04:54:00 GMT",
+          "description": "Suriname nieuws - Suriname krijgt vandaag te maken met warm en vochtig weer. De temperatuur kan oplopen tot ongeveer 33 graden Celsius. Door de hoge luchtvochtigheid kan ..."
+        }
+      ]
+    },
+    {
+      "keyword": "barcelona - ath. bilbao",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Reparto de puntos entre el Barcelona B y el Bilbao Ath. (2-2)",
+          "source": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/primera-rfef/grupo-1/20241222/1002375899/reparto-puntos-barcelona-b-bilbao-ath-2-2.html",
+          "publishedDate": "Sun, 22 Dec 2024 09:40:00 GMT",
+          "description": "El partido celebrado este domingo en el Estadio Johan Cruyff y que enfrent&#243; al Bar&#231;a y al Athletic finaliz&#243; con un empate a dos entre ambos contendientes. El Barcelona B lleg&#243; con la intenci&#243;n de ..."
+        },
+        {
+          "title": "FC Barcelona verspeelt twee punten in Bilbao en raakt De Jong en Pedri kwijt",
+          "source": "Tribal Football",
+          "url": "https://www.tribalfootball.com/article/voetbal-laliga-fc-barcelona-verspeelt-twee-punten-in-bilbao-en-raakt-de-jong-en-pedri-kwijt-7d33424f-cf7d-4974-ae74-b28105a10652",
+          "publishedDate": "Sun, 03 Mar 2024 06:16:00 GMT",
+          "description": "FC Barcelona heeft een dramatische avond beleefd bij Athletic Club in Bilbao. De Catalanen bleven op 0-0 steken en coach Xavi zag Frenkie de Jong en Pedri geblesseerd uitvallen. Barcelona profiteert ..."
+        },
+        {
+          "title": "Reparto de puntos entre el Bilbao Ath. y el Barcelona B (1-1)",
+          "source": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/primera-rfef/grupo-2/20230218/1001944614/reparto-puntos-bilbao-ath-barcelona-b-1-1.html",
+          "publishedDate": "Sat, 18 Feb 2023 12:10:00 GMT",
+          "description": "El Athletic y el Bar&#231;a empataron a uno en el encuentro celebrado este s&#225;bado en las instalaciones de Lezama. El Bilbao Ath. afront&#243; el partido con la intenci&#243;n de remontar su puntuaci&#243;n en la liga ..."
+        },
+        {
+          "title": "Barcelona vs. Athletic Bilbao",
+          "source": "La Rep&#250;blica",
+          "url": "https://larepublica.pe/deportes/2021/04/16/directv-sports-en-vivo-barcelona-vs-athletic-bilbao-online-gratis-por-internet-donde-ver-final-copa-del-rey-2021",
+          "publishedDate": "Sat, 17 Apr 2021 12:13:00 GMT",
+          "description": "DirecTV Sports EN VIVO: mira el minuto a minuto del Barcelona vs. Athletic Bilbao por final Copa del Rey VER Ath. Bilbao vs. Barcelona EN VIVO HOY juegan por la final Copa del Rey 2021 por la se&#241;al de ..."
+        },
+        {
+          "title": "ROJA DIRECTA TV: Barcelona vs. Ath. Bilbao EN VIVO ONLINE GRATIS por internet",
+          "source": "La Rep&#250;blica",
+          "url": "https://larepublica.pe/deportes/2021/01/17/roja-directa-tv-barcelona-vs-ath-bilbao-en-vivo-online-gratis-por-internet-atmp",
+          "publishedDate": "Sun, 17 Jan 2021 12:10:00 GMT",
+          "description": "Barcelona vs. Athletic Bilbao ser&#225; la final de la Supercopa de Espa&#241;a. Ambos equipos buscar&#225;n su primer t&#237;tulo en 2021. Para mantenerte informado con todos los detalles de este dif&#237;cil juego, con el ..."
+        },
+        {
+          "title": "En su casa Barcelona derrot&#243; a Ath. Bilbao 1 a 0",
+          "source": "TYC Sports",
+          "url": "https://www.tycsports.com/espana/la-liga/en-su-casa-barcelona-derroto-a-ath-bilbao-1-a-0-20200624.html",
+          "publishedDate": "Wed, 24 Jun 2020 07:01:00 GMT",
+          "description": "El local hizo el &#250;nico gol del partido a los 25 minutos del segundo tiempo, por medio de Ivan Rakitic. Despu&#233;s de recibir un pase de Lionel Messi, el volante remat&#243; al arco desde el &#225;rea grande y ..."
+        },
+        {
+          "title": "Ath Bilbao vs Barcelona: As&#237; quedaron los &#250;ltimos cinco partidos entre ambos",
+          "source": "Publimetro",
+          "url": "https://www.publimetro.com.mx/mx/deportes/2020/02/05/ath-bilbao-vs-barcelona-asi-quedaron-los-ultimos-cinco-partidos.html",
+          "publishedDate": "Wed, 05 Feb 2020 13:50:00 GMT",
+          "description": "Los dos equipos m&#225;s ganadores de la historia de la Copa del Rey se ven este jueves en cuartos de final: Athletic contra Barcelona. 05 de febrero 2020 a las 15:50 hrs. El Barcelona choca este jueves ..."
+        },
+        {
+          "title": "Ath. Bilbao 0 - 2 Barcelona. Messi y Paulinho dan los tres puntos al Bar&#231;a en San Mam&#233;s",
+          "source": "ondacero.es",
+          "url": "https://www.ondacero.es/podcast/programas/radioestadio/goles/ath-bilbao-0-2-barcelona-messi-paulinho-dan-tres-puntos-barca-san-mames_2017102859f4ec557ed1a8629ab1d7da.html",
+          "publishedDate": "Sat, 28 Oct 2017 13:45:00 GMT",
+          "description": "Con un gol de Messi en el minuto 36 de juego y otro de Paulinho en el 91, el Barcelona se lleva los tres puntos en el estadio de San Mam&#233;s tras lograr vencer al Athletic (0-2)."
+        },
+        {
+          "title": "Barcelona aplast&#243; al Ath. de Bilbao y piensa en la semifinal de copa",
+          "source": "El Tiempo",
+          "url": "https://www.eltiempo.com/deportes/futbol-internacional/barcelona-aplasto-al-ath-de-bilbao-y-piensa-en-la-semifinal-de-copa-37681",
+          "publishedDate": "Sat, 04 Feb 2017 04:21:00 GMT",
+          "description": "La versi&#243;n m&#225;s pragm&#225;tica del Barcelona super&#243; este s&#225;bado en el Camp Nou (3-0) a un Athletic Club de Bilbao sin punter&#237;a, que puso en aprietos a los locales en el primer tiempo. Los azulgranas ..."
+        },
+        {
+          "title": "Barcelona aplast&#243; al Ath. de Bilbao y piensa en la semifinal de copa",
+          "source": "El Tiempo",
+          "url": "https://www.eltiempo.com/archivo/documento/CMS-16809943",
+          "publishedDate": "Fri, 03 Feb 2017 16:18:00 GMT",
+          "description": "Con el env&#237;o de tus consultas, aceptas los T&#233;rminos y Condiciones del Chat disponibles en la parte superior. Recuerda que las respuestas generadas pueden presentar inexactitudes o bloqueos, de acuerdo ..."
+        }
+      ]
+    },
+    {
+      "keyword": "ameland",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "16 Duitse kinderen uit zee bij Ameland gered: 'Doodsangsten uitgestaan'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/binnenland/6407776/16-duitse-kinderen-uit-zee-bij-ameland-gered-doodsangsten-uitgestaan.html",
+          "publishedDate": "Thu, 27 Aug 2026 10:57:00 GMT",
+          "description": "De kustwacht heeft maandag zestien Duitse kinderen gered uit de zee bij Ameland. De kinderen kwamen plotseling in de problemen door een sterke stroming. Ze kwamen allemaal met de schrik vrij."
+        },
+        {
+          "title": "Afgelopen week 2 meldingen van de gemeente over onder meer bomenkap op Ameland",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/ameland/afgelopen-week-2-meldingen-van-de-gemeente-over-onder-meer-bomenkap-op-ameland~a0a631f0/",
+          "publishedDate": "Tue, 25 Aug 2026 19:02:00 GMT",
+          "description": "In de afgelopen week heeft de gemeente Ameland in totaal twee vergunningaanvragen verwerkt. Kijk in de lijst hieronder wat er in jouw buurt speelt."
+        },
+        {
+          "title": "Kind overleden na aanrijding door auto op Ameland",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/binnenland/6406851/kind-overleden-na-aanrijding-door-auto-op-ameland.html",
+          "publishedDate": "Wed, 19 Aug 2026 10:34:00 GMT",
+          "description": "Een kind is woensdagmiddag overleden na een aanrijding met een auto op Ameland. Het slachtoffer liep op de Trapweg in Hollum toen het door de auto werd geraakt."
+        },
+        {
+          "title": "Film geeft inkijkje in geheimzinnig Sunneklaasfeest Ameland",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2543854-film-geeft-inkijkje-in-geheimzinnig-sunneklaasfeest-ameland",
+          "publishedDate": "Sat, 09 Nov 2024 08:54:00 GMT",
+          "description": "Twee Friese documentairemakers geven voor het eerst een inkijkje in het geheimzinnige, eeuwenoude Sunneklaasfeest op Ameland. Ze spraken met 27 Amelanders en tonen beelden van de viering. Met de ..."
+        },
+        {
+          "title": "Strandwachten redden zestien kinderen uit zee bij Ameland",
           "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/sport/voetbal/artikelen/feyenoord-barcelona-psv-real-madrid-champions-league",
-          "publishedDate": "Thu, 27 Aug 2026 10:35:00 GMT",
-          "description": "Feyenoord en PSV weten tegen wie ze spelen in de Champions League. Feyenoord gaat onder meer naar FC Barcelona, PSV wacht een uitwedstrijd tegen Real Madrid."
+          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/16-kinderen-zee-ameland-doodsangsten-uitgestaan",
+          "publishedDate": "Thu, 27 Aug 2026 11:12:00 GMT",
+          "description": "Lifeguards op Ameland hebben 16 Duitse kinderen uit zee gered nadat zij door een sterke stroming werden gegrepen. De reddingsactie heeft een diepe indruk achtergelaten."
         },
         {
-          "title": "Prijzengeld Champions League: PSV en Feyenoord nu al zeker van vele miljoenen",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/algemeen/prijzengeld-champions-league-psv-en-feyenoord-nu-al-zeker-van-vele-miljoenen/ar-AA2b43nX",
-          "publishedDate": "Thu, 27 Aug 2026 10:29:53 GMT",
-          "description": "PSV en Feyenoord kennen hun tegenstanders in de competitiefase van de Champions League. Voordat de eerste bal gaat rollen zijn de Nederlandse topclubs al verzekerd van vele miljoenen in de koningsklas ..."
+          "title": "Kind overleden na verkeersongeval op Ameland",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1159858-kind-overleden-na-verkeersongeval-op-ameland",
+          "publishedDate": "Wed, 19 Aug 2026 10:12:00 GMT",
+          "description": "Een kind is woensdagmiddag door een verkeersongeval overleden in Hollum, een dorp op het eiland Ameland. Dat meldt de politie. Het kind, dat te voet was, werd aan de Trapweg geraakt door een auto. Med ..."
         },
         {
-          "title": "Champions League-loting geduid: hier moet Feyenoord punten pakken",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/champions-league-loting-geduid-hier-moet-feyenoord-punten-pakken/ar-AA2b3i6m",
-          "publishedDate": "Thu, 27 Aug 2026 10:12:51 GMT",
-          "description": "Waar moet Feyenoord de punten gaan pakken in de Champions League? De eerste edities met een competitiefase hebben geleerd dat clubs minimaal negen punten moeten verzamelen om door te stoten naar de tu ..."
+          "title": "Jongetje overleden na aanrijding op Ameland",
+          "source": "W&#226;ldNet",
+          "url": "https://www.waldnet.nl/wn/nieuws/85050/Jongetje_overleden_na_aanrijding_op_Ameland.html",
+          "publishedDate": "Wed, 19 Aug 2026 07:08:00 GMT",
+          "description": "Een jongetje van ongeveer zeven jaar is op Ameland om het leven gekomen bij een verkeersongeval. Het kind werd woensdag rond 13.30 uur op de Trapweg ..."
         },
         {
-          "title": "Feyenoord treft Bar&#231;a en Inter: pittige en prachtige affiches in Champions League",
-          "source": "Voetbalprimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2127974/champions-league-loting-feyenoord-treft-barca-en-inter.html",
-          "publishedDate": "Thu, 27 Aug 2026 10:02:00 GMT",
-          "description": "Feyenoord kent zijn tegenstanders in de competitiefase van de Champions League. Voor de Rotterdammers wachten enkele zware, maar prachtige affiches met tegenstanders als FC Barcelona en Internazionale ..."
+          "title": "Groep wadlopers gered van het wad bij Ameland",
+          "source": "MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Binnenland/groep-wadlopers-gered-van-het-wad-bij-ameland/ar-AA23nIkL",
+          "publishedDate": "Sun, 17 May 2026 00:04:00 GMT",
+          "description": "AMELAND (ANP) - Een groep van 28 wadlopers en vier gidsen is zondagochtend veilig aan land gebracht nadat ze op het wad bij Ameland in de problemen waren gekomen. Rond 08.30 uur zijn de laatste acht ..."
         },
         {
-          "title": "PSV tegen Madrileense clubs in Champions League, dubbel gevoel vanuit Pot 4",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/psv-tegen-madrileense-clubs-in-champions-league-dubbel-gevoel-vanuit-pot-4",
-          "publishedDate": "Thu, 27 Aug 2026 09:53:00 GMT",
-          "description": "PSV is donderdagavond tijdens de Champions League-loting in Monaco gekoppeld aan acht tegenstanders. Met een uitwedstrijd tegen Real Madrid begon de loting pittig voor de Eindhovenaren. Daarna kwam ui ..."
+          "title": "Van Heeckeren op Ameland heeft Beste Jaarrond Terras 2024",
+          "source": "entreemagazine.nl",
+          "url": "https://www.entreemagazine.nl/entreeawards/van-heeckeren-op-ameland-is-beste-jaarrond-terras-2024",
+          "publishedDate": "Mon, 02 Dec 2024 11:22:00 GMT",
+          "description": "In de categorie Beste Jaarrond Terras is Van Heeckeren op Ameland uitgeroepen tot winnaar. Eigenaar Harold van Workum is eveneens de eigenaar van Beachclub Sunset, Proeflokaal Rixt en het Van ..."
+        }
+      ]
+    },
+    {
+      "keyword": "spanje",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Zie je in Spanje een witte doek uit een rijdende auto steken...",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/auto/zie-je-in-spanje-een-witte-doek-uit-een-rijdende-auto-steken-dan-moet-je-direct-ruimte-maken~af0a8672/",
+          "publishedDate": "Wed, 26 Aug 2026 21:15:00 GMT",
+          "description": "Een witte doek die uit het raam van een rijdende auto wappert, kan in Spanje wijzen op een ernstige noodsituatie. Wie zo’n auto tegenkomt, moet weten wat het opvallende signaal betekent en hoe je moet ..."
         },
         {
-          "title": "LIVE loting Champions League | PSV wacht topduel met Real Madrid, Feyenoord tegen Barcelona, volg hier de loting",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/voetbal/live-loting-champions-league-psv-wacht-topduel-met-real-madrid-feyenoord-tegen-barcelona-volg-hier-de-loting~aab5d8af/",
-          "publishedDate": "Thu, 27 Aug 2026 02:38:00 GMT",
-          "description": "Fans van PSV en Feyenoord kijken er al een tijd vol spanning naar uit: aan wie worden ze gekoppeld in de competitiefase van de Champions League? Vanavond komt er duidelijkheid bij de loting in Monaco, ..."
+          "title": "Xavi maakt bij Oranje kennis met Nederlandse directheid: ‘Dat zouden ze in Spanje nooit doen’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/xavi-maakt-bij-oranje-kennis-met-nederlandse-directheid-dat-zouden-ze-in-spanje-nooit-doen~ac961fe9/",
+          "publishedDate": "Tue, 25 Aug 2026 23:32:00 GMT",
+          "description": "Xavi Hern&#225;ndez is officieel gepresenteerd als bondscoach van het Nederlands elftal. Tijdens zijn eerste persconferentie kreeg de Spanjaard meteen te maken met de Nederlandse directheid. Onze correspon ..."
         },
         {
-          "title": "Champions League-loting: tegen deze clubs spelen PSV en Feyenoord",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/champions-league-loting-tegen-deze-clubs-spelen-psv-en-feyenoord/",
-          "publishedDate": "Wed, 26 Aug 2026 22:04:00 GMT",
-          "description": "PSV en Feyenoord weten welke clubs ze treffen in de competitiefase van de Champions League. De Eindhovenaren moeten het tegen zowel Real als Atl&#233;tico ..."
+          "title": "Afgelopen maanden meer hittegerelateerde doden in Spanje en Duitsland",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627607-afgelopen-maanden-meer-hittegerelateerde-doden-in-spanje-en-duitsland",
+          "publishedDate": "Thu, 20 Aug 2026 09:06:00 GMT",
+          "description": "Net als in veel andere landen werden in Spanje de afgelopen tijd hitterecords verbroken. Zo was juli de heetste en droogste maand van Spanje sinds het begin van de metingen in 1961."
         },
         {
-          "title": "Dit zijn alle tegenstanders van Feyenoord in de Champions League",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/feyenoord-tegenstanders-loting-champions-league-2026-2027",
-          "publishedDate": "Wed, 26 Aug 2026 22:01:00 GMT",
-          "description": "Feyenoord kent zijn acht tegenstanders in de competitiefase van de Champions League. Bekijk de volledige loting en alle speeldata voor 2026/27."
+          "title": "Spanje kiest voor streng migratiebeleid, met crisis in Ceuta als kantelmoment",
+          "source": "De Standaard",
+          "url": "https://www.standaard.be/buitenland/spanje-kiest-voor-streng-migratiebeleid-met-crisis-in-ceuta-als-kantelmoment/160606164.html",
+          "publishedDate": "Thu, 27 Aug 2026 14:59:00 GMT",
+          "description": "De regering van Pedro S&#225;nchez wil binnen de 72 uur weten of vluchtelingen in aanmerking komen voor een asielaanvraag. Anders worden ze het land uitgezet. Door de situatie in Ceuta sluit Spanje plots a ..."
+        },
+        {
+          "title": "Marokko levert 95% van door Spanje ge&#239;mporteerde paprika's",
+          "source": "AGF.nl",
+          "url": "https://www.agf.nl/article/9866964/marokko-levert-95-van-door-spanje-geimporteerde-paprika-s/",
+          "publishedDate": "Thu, 27 Aug 2026 05:07:00 GMT",
+          "description": "Spanje importeerde in de eerste helft van dit jaar 83.340 ton paprika's, tegen een gemiddelde prijs van €1,51 per kilo. Marokko was goed voor 94,81% van dit volume, zo blijkt uit ..."
+        },
+        {
+          "title": "Vakbonden: duizenden medewerkers Airbus in Spanje staken weer",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/economie/vakbonden-duizenden-medewerkers-airbus-in-spanje-staken-weer",
+          "publishedDate": "Wed, 26 Aug 2026 07:07:00 GMT",
+          "description": "MADRID (ANP/RTR) - Duizenden medewerkers van Airbus in Spanje hebben deze week hun staking hervat. De werkonderbreking volgt nadat werknemers het meest recente loonbod en bemiddelingsvoorstel van de E ..."
+        },
+        {
+          "title": "Spanje gebruikt voor het eerst noodwet uit 2015 om crisis Ceuta aan te pakken",
+          "source": "INSpanje.nl",
+          "url": "https://inspanje.nl/ceuta-nationale-veiligheidswet-crisis/",
+          "publishedDate": "Wed, 26 Aug 2026 01:33:00 GMT",
+          "description": "Spanje past voor het eerst de veiligheidswet uit 2015 toe, voor de migratiecrisis in Ceuta. Elf ministeries werken nu samen ..."
+        },
+        {
+          "title": "Spanje vraagt EU om noodfinanciering voor migrantencrisis Ceuta",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/spanje-vraagt-eu-om-noodfinanciering-voor-migrantencrisis-ceuta",
+          "publishedDate": "Mon, 24 Aug 2026 13:08:00 GMT",
+          "description": "MADRID (ANP) - De Spaanse regering heeft een officieel verzoek ingediend bij de Europese Unie voor noodfinanciering om de migrantencrisis in Ceuta aan te pakken ..."
+        },
+        {
+          "title": "Spanje wil 500 meisjes uit Ceuta naar vasteland halen na meldingen geweld",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1159909-spanje-wil-500-meisjes-uit-ceuta-naar-vasteland-halen-na-meldingen-geweld",
+          "publishedDate": "Thu, 20 Aug 2026 02:09:00 GMT",
+          "description": "De Spaanse regering wil zo’n 500 minderjarige migranten versneld naar het vasteland overbrengen. Vanuit de oppositie, en de Europese Unie, klinkt juist dat alle migranten terug moeten naar Marokko."
+        },
+        {
+          "title": "Spanje of Mexico? Europa-Park reageert op klacht over themagebied",
+          "source": "Looopings",
+          "url": "https://www.looopings.nl/weblog/33868/Spanje-of-Mexico-Europa-Park-reageert-op-klacht-over-themagebied.html",
+          "publishedDate": "Tue, 18 Aug 2026 17:00:00 GMT",
+          "description": "Is dit Spanje of stiekem toch Mexico? Een Spaanse pretparkfan vindt dat Europa-Park zijn vaderland verkeerd neerzet. Hij diende bij het ..."
         }
       ]
     },
@@ -398,6 +626,13 @@
       "keyword": "charles ratelband",
       "trafficLabel": "10K+",
       "articles": [
+        {
+          "title": "Charles Ratelband droomde van windmolens. Zijn investeerders blijven met lege handen achter",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/duurzaamheid-economie/charles-ratelband-droomde-van-windmolens-zijn-investeerders-blijven-met-lege-handen-achter~b661b593/",
+          "publishedDate": "Thu, 27 Aug 2026 14:59:00 GMT",
+          "description": "Charles Ratelband is een grote dromer die Nederlandse beleggers verleidde om miljoenen te investeren in Duitse windmolens. Nu staan de opsporingsdiensten op zijn stoep op verdenking van miljoenenfraud ..."
+        },
         {
           "title": "'Inval bij zoon Emile Ratelband', verdacht van verduisteren 23 miljoen",
           "source": "RTL Nieuws &amp; Entertainment",
@@ -411,13 +646,6 @@
           "url": "https://nos.nl/artikel/2628479-zakenman-verdacht-van-miljoenenfraude-met-groene-beleggingen",
           "publishedDate": "Thu, 27 Aug 2026 03:27:00 GMT",
           "description": "De financi&#235;le opsporingsdienst (FIOD) is gisteren binnengevallen bij verschillende panden van ondernemer Charles Ratelband. Dat bevestigen bronnen tegen de NOS. De 46-jarige zoon van Emile Ratelband w ..."
-        },
-        {
-          "title": "Charles Ratelband (46) verdacht van verduisteren 23 miljoen euro",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/charles-ratelband-46-verdacht-van-verduisteren-23-miljoen-euro~a1660ac0/",
-          "publishedDate": "Wed, 26 Aug 2026 22:18:00 GMT",
-          "description": "De bekende Arnhemse ondernemer Charles Ratelband (46) wordt ervan verdacht 23 miljoen euro te hebben verduisterd door beleggers te misleiden. Woensdag deed de Fiscale inlichtingen- en opsporingsdienst ..."
         },
         {
           "title": "Rijschoolhouder verliest levenswerk, miljoenenfraude onderzocht en excuses om wapenfoto op 27 augustus",
@@ -455,246 +683,18 @@
           "description": "De FIOD deed woensdag een doorzoeking bij twee woningen en een bedrijfspand in het kader van een strafrechtelijk onderzoek naar een 46-jarige man uit Arnhem en zijn onderneming, die worden verdacht va ..."
         },
         {
-          "title": "Van windmolens tot sauna en massages: dit is het verhaal achter het verduisteren van 23 miljoen door Charles Ratelband",
+          "title": "FIOD onderzoekt beleggingsfraude met inleg van meer dan 23 miljoen, Charles Ratelband verdacht (UPDATE)",
+          "source": "Crimesite",
+          "url": "https://www.crimesite.nl/doorzoekingen-in-onderzoek-naar-beleggingsfraude-met-inleg-van-meer-dan-23-miljoen/",
+          "publishedDate": "Thu, 27 Aug 2026 00:43:00 GMT",
+          "description": "De FIOD heeft op woensdag 26 augustus doorzoekingen verricht in twee woningen en een bedrijfspand in Arnhem, Utrecht en de gemeente Renkum. Een 46-jarige man uit Arnhem en zijn beleggingsonderneming w ..."
+        },
+        {
+          "title": "Fiod verdenkt bekende Arnhemse ondernemer Charles Ratelband van verduisteren 23 miljoen",
           "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/arnhem/van-windmolens-tot-sauna-en-massages-dit-is-het-verhaal-achter-het-verduisteren-van-23-miljoen-door-charles-ratelband~ab2a0a42/",
-          "publishedDate": "Thu, 27 Aug 2026 01:00:00 GMT",
-          "description": "Al jarenlang zijn er grote vraagtekens over ondernemer Charles Ratelband, zoon van de bekende goeroe Emile. Nu blijkt dat de Fiscale inlichtingen- en opsporingsdienst (Fiod) de Arnhemmer verdenkt van ..."
-        },
-        {
-          "title": "Fiod zit achter veelbesproken Charles Ratelband aan: dit is wat we weten",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/arnhem/fiod-zit-achter-veelbesproken-charles-ratelband-aan-dit-is-wat-we-weten~ab2a0a42/",
-          "publishedDate": "Wed, 26 Aug 2026 23:12:00 GMT",
-          "description": "Al jarenlang zijn er grote vraagtekens over ondernemer Charles Ratelband, zoon van de bekende goeroe Emile. Nu blijkt dat de Fiscale inlichtingen- en opsporingsdienst (Fiod) de Arnhemmer verdenkt van ..."
-        }
-      ]
-    },
-    {
-      "keyword": "omroep",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "De Bauers terug op tv en wonen in eigen kunsttempel: dit mag je niet missen in Brabant",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6024833/de-bauers-terug-op-tv-en-wonen-in-eigen-kunsttempel-dit-mag-je-niet-missen",
-          "publishedDate": "Thu, 27 Aug 2026 10:15:00 GMT",
-          "description": "De Bauers komen terug op televisie als opa en oma, Frans woont in zijn zelfgemaakte 'Kleine Kunst Tempel' en Talpa heeft alle afleveringen van De Bondgenoten waarin Jelle D. voorkomt verwijderd. Deze ..."
-        },
-        {
-          "title": "Vught verplaatst in oktober compleet stationsgebouw bijna 14 meter in Vught",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6024824/vught-verplaatst-in-oktober-compleet-stationsgebouw-bijna-14-meter",
-          "publishedDate": "Thu, 27 Aug 2026 09:01:00 GMT",
-          "description": "Het monumentale stationsgebouw in Vught moet wijken voor de verdieping van het spoor in het dorp. In oktober verhuist het hele gebouw in &#233;&#233;n stuk bijna 14 meter verderop. Het weegt meer dan 700 ton en ..."
-        },
-        {
-          "title": "Stationsgebouw Vught van meer dan 700 ton schuift in oktober 14 meter opzij in Vught",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6024824/stationsgebouw-vught-van-meer-dan-700-ton-schuift-in-oktober-14-meter-opzij",
-          "publishedDate": "Thu, 27 Aug 2026 09:01:00 GMT",
-          "description": "Het monumentale stationsgebouw in Vught moet wijken voor de verdieping van het spoor in het dorp. In oktober verhuist het hele gebouw in &#233;&#233;n stuk bijna 14 meter verderop. Het weegt meer dan 700 ton en ..."
-        },
-        {
-          "title": "Vandaag om 16:25 • Aangepast vandaag om 16:52",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6024820/adema-fdf-gaat-met-facebookpost-alle-grenzen-over",
-          "publishedDate": "Thu, 27 Aug 2026 07:25:00 GMT",
-          "description": "Farmers Defence Force (FDF) is opnieuw over de grens gegaan, vindt commissaris van de Koning Ina Adema. De radicale boerenactiegroep is blij met het vertrek van PvdA-statenlid Kevin Hordijk uit de Pro ..."
-        },
-        {
-          "title": "Politie heeft handen vol aan mensen met onbegrepen gedrag, zeker in Brabant in Brabant",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6024790/politie-heeft-handen-vol-aan-mensen-met-onbegrepen-gedrag-zeker-in-brabant",
-          "publishedDate": "Thu, 27 Aug 2026 03:20:00 GMT",
-          "description": "In de regio Zeeland-West-Brabant moest de politie vorig jaar het vaakst in actie komen voor mensen met onbegrepen gedrag. Dat blijkt uit onderzoek van de Politieacademie in samenwerking met de nationa ..."
-        },
-        {
-          "title": "Hoe gehakt in deeg kan uitgroeien tot icoon van een provincie in Brabant",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6023476/hoe-gehakt-in-deeg-kan-uitgroeien-tot-icoon-van-een-provincie",
-          "publishedDate": "Thu, 27 Aug 2026 02:30:00 GMT",
-          "description": "Het worstenbroodje is allang meer dan een snelle hap. Het is een stukje Brabantse identiteit geworden. Maar hoe groeide een eenvoudige boerenhap uit tot een icoon van de provincie?"
-        },
-        {
-          "title": "Woonzorgcentrum Joris Zorg in Oirschot en verdachte Jelle D. (foto: Raymond Merkx)",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6024788/talpa-haalt-afleveringen-de-bondgenoten-met-jelle-d-van-streamingdiensten",
-          "publishedDate": "Thu, 27 Aug 2026 02:03:00 GMT",
-          "description": "Talpa heeft alle afleveringen van het tv-programma De Bondgenoten waarin Jelle D. te zien is, verwijderd van alle streamingdiensten. D. wordt verdacht van betrokkenheid bij de dood van twee hoogbejaar ..."
-        },
-        {
-          "title": "Inval op woonwagenkamp in Waalre: man (47) aangehouden voor vuurwapenbezit in Waalre",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6024655/inval-op-woonwagenkamp-in-waalre-man-47-aangehouden-voor-vuurwapenbezit",
-          "publishedDate": "Thu, 27 Aug 2026 00:51:00 GMT",
-          "description": "Bij de inval donderdagochtend op het woonwagenkamp in Waalre is een 47-jarige man opgepakt voor vuurwapenbezit. De inval vond plaats nadat er in februari vorig jaar een pistool werd gevonden in de Kru ..."
-        },
-        {
-          "title": "Opnieuw inval op woonwagenkamp in Waalre, onder meer auto's doorzocht in Waalre",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6024614/opnieuw-inval-op-woonwagenkamp-in-waalre-onder-meer-autos-doorzocht",
-          "publishedDate": "Wed, 26 Aug 2026 22:53:00 GMT",
-          "description": "Op het woonwagenkamp aan de Broekweg in Waalre heeft de politie&#160; donderdagochtend opnieuw een inval gedaan. Auto's zijn doorzocht en er zullen vandaag meer onderzoeken worden gedaan bij een woning."
-        },
-        {
-          "title": "Hoodfights Den Bosch is na groot vechtevenement niet meer welkom in Belgi&#235; in Brabant",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6024571/hoodfights-den-bosch-is-na-groot-vechtevenement-niet-meer-welkom-in-belgie",
-          "publishedDate": "Wed, 26 Aug 2026 21:15:00 GMT",
-          "description": "De omstreden vechtclub Hoodfights Den Bosch is niet meer welkom in de Belgische sporthal waar de organisatie de afgelopen maand trainde en vocht. Dat gebeurde na een groot internationaal evenement afg ..."
-        }
-      ]
-    },
-    {
-      "keyword": "helikopters boven rotterdam",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Rotterdam-Zuid in alle vroegte wakkergemaakt door militaire oefening: ’Is er een heftige bankoverval gaande ofzo?’",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/binnenland/rotterdam-zuid-in-alle-vroegte-wakkergemaakt-door-militaire-oefening-is-er-een-heftige-bankoverval-gaande-ofzo/160569803.html",
-          "publishedDate": "Thu, 27 Aug 2026 04:36:00 GMT",
-          "description": "Mensen in Rotterdam-Zuid zijn donderdagochtend vroeg onbedoeld wakkergemaakt door een militaire oefening met vijf gevechtshelikopters. Dat meldt de lokale omroep Rijnmond."
-        },
-        {
-          "title": "Laagvliegende helikopters boven Rotterdam: Defensie oefent gijzeling",
-          "source": "NOS",
-          "url": "https://nos.nl/video/2628482-laagvliegende-helikopters-boven-rotterdam-defensie-oefent-gijzeling",
-          "publishedDate": "Thu, 27 Aug 2026 03:52:00 GMT",
-          "description": "Acht helikopters, waaronder Chinooks, vlogen vanmorgen vroeg over Rotterdam. Defensie oefende een gijzelingssituatie, waarbij militairen werden gedropt. Dat zorgde voor ergernis; veel mensen werden ui ..."
-        },
-        {
-          "title": "Rotterdam schrikt wakker van nep-gijzeling: 'Werd uit bed getrild'",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5644657/rotterdam-militaire-oefening-defensie",
-          "publishedDate": "Thu, 27 Aug 2026 02:56:00 GMT",
-          "description": "Op de Maasvlakte en in Rotterdam-Zuid was in de vroege ochtend een militaire oefening, waarbij een gijzeling werd nagebootst. Dat merkten de omwonenden ook, blijkt uit wat mensen schrijven op sociale ..."
-        },
-        {
-          "title": "Grote oefening Defensie schudt Rotterdam wakker: 'Megaherrie'",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628472-grote-oefening-defensie-schudt-rotterdam-wakker-megaherrie",
-          "publishedDate": "Thu, 27 Aug 2026 02:26:00 GMT",
-          "description": "Met een grote anti-terreuroefening heeft de luchtmacht vanochtend Rotterdam wakker geschud. Om 06.00 uur vanochtend begon de luchtmacht met het nabootsen van een gijzeling. Er vlogen acht lawaaiige he ..."
-        },
-        {
-          "title": "‘Militaire helikopters ineens heel vroeg boven je huis: wen er maar aan’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/militaire-helikopters-ineens-heel-vroeg-boven-je-huis-wen-er-maar-aan~a5eb7139/",
-          "publishedDate": "Wed, 26 Aug 2026 23:00:00 GMT",
-          "description": "In de podcast Praat mee met AD bespreken we elke dag een kwestie. Vandaag: prima dat defensie oefent, maar burgers zouden er geen hinder van moeten ondervinden."
-        },
-        {
-          "title": "Waarom helikopters al rond 06.00 uur boven Rotterdam vlogen: ‘Daar kiezen we heel bewust voor’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/rotterdam/waarom-helikopters-al-rond-06-00-uur-boven-rotterdam-vlogen-daar-kiezen-we-heel-bewust-voor~a28bb728/",
-          "publishedDate": "Wed, 26 Aug 2026 21:19:00 GMT",
-          "description": "Veel Rotterdammers werden vanochtend vroeg opgeschrikt door laagvliegende militaire helikopters. Maar waarom z&#243; vroeg? Waarom boven een drukke stad? Waarom wordt de oefening niet van tevoren aangekond ..."
-        },
-        {
-          "title": "Rotterdam schrikt wakker van helikopters boven de stad: 'Ik word uit mijn bed getrild'",
-          "source": "vandaaginside",
-          "url": "https://www.vandaaginside.nl/nieuws/binnenland/artikelen/rotterdam-schrikt-wakker-van-helikopters-boven-de-stad-ik-word-uit-mijn-bed",
-          "publishedDate": "Thu, 27 Aug 2026 01:04:00 GMT",
-          "description": "Bewoners van Rotterdam-Zuid en Barendrecht zijn vannacht uit hun slaap gehaald door een militaire oefening. Rijnmond meldt dat er helikopters rondvlogen en militairen werden gedropt op een voormalig ..."
-        },
-        {
-          "title": "Dit is waarom gevechtshelikopters al om 05:00 uur boven de regio vlogen",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2245144/dit-is-waarom-gevechtshelikopters-al-om-05-00-uur-boven-de-regio-vlogen",
-          "publishedDate": "Wed, 26 Aug 2026 23:37:00 GMT",
-          "description": "Donderdagochtend vroeg werd de regio Rijnmond opgeschrikt door een militaire oefening met helikopters. Het ging om een anti-terreuroefening van de luchtmacht, waarbij onder meer een gijzeling werd nag ..."
-        },
-        {
-          "title": "Vijf gevechtshelikopters houden regio Rijnmond wakker: 'Door megaherrie uit bed getrild'",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2245132/vijf-gevechtshelikopters-houden-regio-rijnmond-wakker-door-megaherrie-uit-bed-getrild",
-          "publishedDate": "Wed, 26 Aug 2026 23:17:00 GMT",
-          "description": "Boven Rotterdam-Zuid en omgeving is donderdagochtend een militaire oefening bezig met vijf gevechtshelikopters. Het gaat om drie Apache-helikopters en twee Chinooks. De oefening begon rond 05.00 uur e ..."
-        },
-        {
-          "title": "Rotterdam schrikt wakker van militaire oefening: 'Word uit mijn bed getrild'",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/tech/social-media/artikelen/zuid-holland-rotterdam-militaire-oefening-defensie-helikopters",
-          "publishedDate": "Wed, 26 Aug 2026 23:06:00 GMT",
-          "description": "Rotterdam wordt donderdagochtend wakker geschud door een militaire oefening met helikopters. Op sociale media klagen omwonenden over het lawaai."
-        }
-      ]
-    },
-    {
-      "keyword": "yayoi kusama",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Tussen selfie en kosmos: Yayoi Kusama’s ‘Infinity mirror rooms’ legden de basis voor de moderne instagrammusea – maar gaan over iets heel anders",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/08/27/tussen-selfie-en-kosmos-yayoi-kusamas-infinity-mirror-rooms-legden-de-basis-voor-de-moderne-instagrammusea-maar-gaan-over-iets-heel-anders-a4925623",
-          "publishedDate": "Thu, 27 Aug 2026 08:59:00 GMT",
-          "description": "Infinity Mirror Rooms: Dit najaar presenteert het Stedelijk Museum Amsterdam een grote overzichtstentoonstelling van de Japanse kunstenaar Yayoi Kusama, die onlangs op 97-jarige leeftijd overleed. Het ..."
-        },
-        {
-          "title": "Yayoi Kusama (1929-2026) speelde een belangrijke rol in de seksuele revolutie in Nederland",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/kunst-media/yayoi-kusama-1929-2026-speelde-een-belangrijke-rol-in-de-seksuele-revolutie-in-nederland~bd55010e/",
-          "publishedDate": "Thu, 27 Aug 2026 05:03:00 GMT",
-          "description": "De Japanse Yayoi Kusama had een belangrijke invloed op de Amerikaanse popart en Europees minimalisme. Haar stippen, pompoenen en spiegelkamers zijn vrolijke publiekslievelingen, maar komen voort uit e ..."
-        },
-        {
-          "title": "Met haar oneindige stippenpatroon en betoverende spiegelkamers veroverde kunstenaar Yayoi Kusama (97) de wereld",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/08/27/met-haar-oneindige-stippenpatroon-en-betoverende-spiegelkamers-veroverde-kunstenaar-yayoi-kusama-97-de-wereld-a4927796",
-          "publishedDate": "Thu, 27 Aug 2026 01:55:00 GMT",
-          "description": "Yayoi Kusama (1929-2029) kunstenaar: De eindeloos herhalende stippen in het werk van de Japanse kunstenaar Yayoi Kusama groeiden uit tot een wereldmerk. Ze stralen vrolijkheid uit, maar hadden voor Ku ..."
-        },
-        {
-          "title": "Yayoi Kusama (1929-2026) schilderde miljoenen stippen om haar angsten te bezweren",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/cultuur-media/yayoi-kusama-1929-2026-schilderde-miljoenen-stippen-om-haar-angsten-te-bezweren~bd3db800/",
-          "publishedDate": "Thu, 27 Aug 2026 01:02:00 GMT",
-          "description": "De Japanse kunstenaar Yayoi Kusama, die de wereld veroverde met haar felgekleurde stippen, is overleden. Haar kunst leek vrolijk, maar haar hele leven vocht ze tegen angsten. ‘De enige methode die hel ..."
-        },
-        {
-          "title": "Stippenprinses Yayoi Kusama (97) was haar leven lang een buitenbeentje, maar kon toch de status van superster bereiken",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/buitenland/stippenprinses-yayoi-kusama-97-was-haar-leven-lang-een-buitenbeentje-maar-kon-toch-de-status-van-superster-bereiken/160586452.html",
-          "publishedDate": "Thu, 27 Aug 2026 09:09:00 GMT",
-          "description": "Zeventig jaar lang verhief Yayoi Kusama (97) stippen, pompoenen, fallussen en spiegels tot hogere kunst. De popart is een pionier kwijt, maar zonder de kunst had de Japanse, die haar halve leven in ee ..."
-        },
-        {
-          "title": "Werk van wijlen Yayoi Kusama komt naar het Stedelijk Museum Amsterdam",
-          "source": "FashionUnited",
-          "url": "https://fashionunited.be/nieuws/cultuur/werk-van-wijlen-yayoi-kusama-komt-naar-het-stedelijk-museum-amsterdam/2026082750321",
-          "publishedDate": "Thu, 27 Aug 2026 07:50:00 GMT",
-          "description": "Overzichtstentoonstelling van Yayoi Kusama's oeuvre in het Stedelijk Museum Amsterdam, van 11 september 2026 tot 17 januari 2027."
-        },
-        {
-          "title": "Kunstenaar Yayoi Kusama (97) overleden: achter de vrolijke stippen zat een leven vol hallucinaties en wanhoop",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/nieuws/kunstenaar-yayoi-kusama-97-overleden-achter-de-vrolijke-stippen-zat-een-leven-vol-hallucinaties-en-wanhoop~baf43197/",
-          "publishedDate": "Thu, 27 Aug 2026 02:45:00 GMT",
-          "description": "De hogepriesteres van de polkadots is niet meer. De stippen, pompoenen en spiegelkamers van de Japanse kunstenaar Yayoi Kusama, met haar felle rode pruik en haar stippentenue, werden wereldwijd gevier ..."
-        },
-        {
-          "title": "De vroege jaren van Yayoi Kusama, waarin alles begon",
-          "source": "Harper's Bazaar",
-          "url": "https://www.harpersbazaar.com/nl/cultuur-reizen/a73539857/yayoi-kusama-vroege-jaren/",
-          "publishedDate": "Thu, 27 Aug 2026 02:19:00 GMT",
-          "description": "Pas na haar zestigste verwierf de Japanse kunstenaar Yayoi Kusama internationale bekendheid. Haar succes kreeg een enorme slinger in de jaren zestig en zeventig; mede dankzij de vriendschappen die ze ..."
-        },
-        {
-          "title": "Yayoi Kusama overleden op 97-jarige leeftijd: De kunstenares die merksamenwerkingen opnieuw definieerde",
-          "source": "FashionUnited",
-          "url": "https://fashionunited.be/nieuws/mensen/yayoi-kusama-overleden-op-97-jarige-leeftijd-de-kunstenares-die-merksamenwerkingen-opnieuw-definieerde/2026082750305",
-          "publishedDate": "Thu, 27 Aug 2026 01:53:00 GMT",
-          "description": "Yayoi Kusama, de avant-gardekunstenares bekend om haar stippenmotieven en samenwerkingen met Louis Vuitton, is op 97-jarige leeftijd overleden."
-        },
-        {
-          "title": "Stedelijk Museum: expositie Yayoi Kusama 'postuum eerbetoon'",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/stedelijk-museum-expositie-yayoi-kusama-postuum-eerbetoon",
-          "publishedDate": "Thu, 27 Aug 2026 00:27:00 GMT",
-          "description": "Directeur Rein Wolfs van het Stedelijk Museum in Amsterdam noemt het overlijden van Yayoi Kusama &quot;buitengewoon treurig nieuws&quot;. De Japanse avant-gardekunstenares overleed al op 14 augustus in Tokio, m ..."
+          "url": "https://www.gelderlander.nl/arnhem/fiod-verdenkt-bekende-arnhemse-ondernemer-charles-ratelband-van-verduisteren-23-miljoen~a1660ac0/",
+          "publishedDate": "Wed, 26 Aug 2026 20:16:00 GMT",
+          "description": "Een 46-jarige man uit Arnhem wordt ervan verdacht 23 miljoen euro te hebben verduisterd door beleggers te misleiden. Woensdag deed de Fiscale inlichtingen- en opsporingsdienst (Fiod) daarom een inval ..."
         }
       ]
     }
