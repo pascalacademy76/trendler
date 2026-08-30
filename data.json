@@ -1,34 +1,85 @@
 {
-  "fetchedAt": "2026-08-30T02:55:43.064Z",
+  "fetchedAt": "2026-08-30T08:50:38.334Z",
   "trends": [
     {
       "keyword": "pec - nec",
-      "trafficLabel": "20K+",
-      "articles": []
-    },
-    {
-      "keyword": "sofyan amrabat",
-      "trafficLabel": "20K+",
+      "trafficLabel": "50K+",
       "articles": [
         {
-          "title": "Snelle plottwist: Sofyan Amrabat tekent op korte termijn bij Ajax",
-          "source": "FootballTransfers",
-          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/08/ajax-gaat-voor-sofyan-amrabat-na-contractontbinding-bij-fenerbahce",
-          "publishedDate": "Sat, 29 Aug 2026 13:30:00 GMT",
-          "description": "Ajax heeft de pijlen plots gericht op Sofyan Amrabat. De Amsterdammers hebben kunnen door diens contractontbinding bij Fenerbah&#231;e transfervrij toeslaan."
+          "title": "NEC klopt PEC in bijzonder duel met rentree scorende Schuurs &#233;n vier penalty's",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6407994/nec-klopt-pec-in-bijzonder-duel-met-rentree-scorende-schuurs-en-vier-penaltys.html",
+          "publishedDate": "Sat, 29 Aug 2026 15:55:00 GMT",
+          "description": "NEC heeft zaterdag PEC Zwolle verslagen in een bijzonder duel met vier penalty's. Tjaronn Chery schoot twee keer raak vanaf 11 meter, Koen Kostons scoorde &#233;n miste. Daarna scoorde Perr Schuurs meteen ..."
         },
         {
-          "title": "'Ik denk dat de fans van Ajax heel blij mogen zijn, Amrabat is een leuke aanwinst'",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/ik-denk-dat-de-fans-van-ajax-heel-blij-mogen-zijn-amrabat-is-een-leuke-aanwinst/ar-AA2bbktX?ocid=BingNewsVerp",
-          "publishedDate": "Sat, 29 Aug 2026 12:12:00 GMT",
-          "description": "Bram van Polen is positief over de aanstaande komst van Sofyan Amrabat naar Ajax. De voormalig verdediger ziet in de Marokkaanse middenvelder vooral een speler die de Amsterdammers al langere tijd mis"
+          "title": "Schuurs viert rentree met goal, NEC klopt PEC in duel met vier penalty's",
+          "source": "NOS",
+          "url": "https://nos.nl/video/2628863-schuurs-viert-rentree-met-goal-nec-klopt-pec-in-duel-met-vier-penalty-s",
+          "publishedDate": "Sat, 29 Aug 2026 14:37:00 GMT",
+          "description": "Bekijk de samenvatting van de wedstrijd tussen PEC Zwolle en NEC in de vierde speelronde van de eredivisie."
+        },
+        {
+          "title": "Schuurs scoort bij rentree na drie jaar blessureleed, vier penalty's bij zege NEC op PEC",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628861-schuurs-scoort-bij-rentree-na-drie-jaar-blessureleed-vier-penalty-s-bij-zege-nec-op-pec",
+          "publishedDate": "Sat, 29 Aug 2026 14:00:00 GMT",
+          "description": "In Zwolle wordt het 1-3 voor NEC. Op het veld en de tribune werden er heel wat tranen gelaten na de treffer van Perr Schuurs."
+        },
+        {
+          "title": "PEC maakt het NEC weer moeilijk: 'Telkens zit er meer in'",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/pec-maakt-het-nec-weer-moeilijk-telkens-zit-er-meer-in/ar-AA2bcbnI",
+          "publishedDate": "Sat, 29 Aug 2026 23:30:00 GMT",
+          "description": "Henry van der Vegt was zaterdag eigenlijk best tevreden over PEC Zwolle. Toch zag de trainer zijn ploeg op eigen veld verliezen van NEC . PEC zag twee goals afgekeurd worden vanwege buitenspel en in d ..."
+        },
+        {
+          "title": "Uitslag PEC Zwolle - NEC",
+          "source": "FOK!",
+          "url": "https://frontpage.fok.nl/nieuws/893674/1/1/50/uitslag-pec-zwolle-nec.html",
+          "publishedDate": "Sat, 29 Aug 2026 22:32:00 GMT",
+          "description": "NEC heeft de zware Europese weken afgesloten met een knappe zege in Zwolle. De Nijmegenaren wonnen met 1-3 van PEC Zwolle in een opmerkelijk duel met vier strafschoppen, twee afgekeurde Zwolse doelpun ..."
+        },
+        {
+          "title": "Chery en 'herintreder' Schuurs bezorgen NEC zege bij PEC Zwolle",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/chery-en-herintreder-schuurs-bezorgen-nec-zege-bij-pec-zwolle",
+          "publishedDate": "Sat, 29 Aug 2026 16:04:00 GMT",
+          "description": "ZWOLLE (ANP) - NEC heeft bij PEC Zwolle de tweede zege van het seizoen geboekt. De ploeg van coach Dick Schreuder won met 3-1, mede door een treffer van Perr Sc ..."
+        },
+        {
+          "title": "EREDIVISIE | NEC wint van PEC in wedstrijd met vier penalty's",
+          "source": "FR-Fans.nl",
+          "url": "https://www.fr-fans.nl/nieuws/78729/eredivisie-nec-wint-van-pec-in-wedstrijd-met-vier-penaltys/",
+          "publishedDate": "Sat, 29 Aug 2026 16:00:00 GMT",
+          "description": "Vandaag staan er drie wedstrijden gepland in de Eredivisie. Gisteren was er &#233;&#233;n wedstrijd, waar Fortuna Sittard verrassend wist te winnen uit bij FC Groningen met 2-3. Vandaag gaan we zien of AZ Alkma ..."
+        },
+        {
+          "title": "Zege op Heerenveen kwam PEC goed uit: “Willen stabieler worden”",
+          "source": "ForzaNEC.nl",
+          "url": "https://www.forzanec.nl/nieuws/zege-op-heerenveen-kwam-pec-goed-uit-willen-stabieler-worden/",
+          "publishedDate": "Sat, 29 Aug 2026 05:00:00 GMT",
+          "description": "PEC Zwolle ontvangt zaterdagavond NEC in het MAC&#179;PARK Stadion. De Zwollenaren begonnen het seizoen met twee nederlagen, maar herstelden zich vorige week uitstekend met een 0-2 overwinning op sc ..."
+        },
+        {
+          "title": "SUPERTIP: Livestream PEC Zwolle – NEC (Eredivisie 29-08-2026)",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/08/29/supertip-livestream-pec-zwolle-nec-eredivisie-29-08-2026/",
+          "publishedDate": "Fri, 28 Aug 2026 22:47:00 GMT",
+          "description": "Vandaag om 21.00 uur staat er weer een mooie wedstrijd op het programma in de Nederlandse Eredivisie. PEC Zwolle neemt het dan namelijk in eigen huis op tegen NEC. Beide elftallen zullen er alles aan ..."
+        },
+        {
+          "title": "PEC Zwolle vs. NEC Nijmegen voorspelling, tips en quotes | 29/08/2026",
+          "source": "Eurosport",
+          "url": "https://www.eurosport.nl/weddenschappen/voorspellingen/pec-zwolle-vs-nec-nijmegen-voorspelling-tips-en-quotes-29-08-2026/",
+          "publishedDate": "Fri, 28 Aug 2026 07:51:00 GMT",
+          "description": "PEC Zwolle ontvangt NEC Nijmegen zaterdag 29 augustus in het MAC&#179;PARK Stadion voor de vierde speelronde van de Eredivisie. Beide ploegen kennen een wisselvallige start van het seizoen, met PEC Zwolle ..."
         }
       ]
     },
     {
       "keyword": "noord-italië",
-      "trafficLabel": "20K+",
+      "trafficLabel": "50K+",
       "articles": [
         {
           "title": "Noord-Itali&#235; gaat op slot, reisverbod voor 16 miljoen Italianen",
@@ -60,10 +111,10 @@
         },
         {
           "title": "Tientallen gewonden door noodweer in Noord-Itali&#235;",
-          "source": "ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/Buitenland/tientallen-gewonden-door-noodweer-in-noord-itali%C3%AB/ar-AA2b9XHc",
-          "publishedDate": "Sat, 29 Aug 2026 05:57:00 GMT",
-          "description": "CREMONA (ANP) - Door hevig noodweer in grote delen van Noord-Itali&#235; zijn tientallen mensen gewond geraakt. Ook zorgden de extreme omstandigheden voor schade aan tientallen gebouwen en zeker 10.000 aut ..."
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1160842-tientallen-gewonden-door-noodweer-in-noord-italie",
+          "publishedDate": "Sat, 29 Aug 2026 05:49:00 GMT",
+          "description": "Door hevig noodweer in grote delen van Noord-Itali&#235; zijn tientallen mensen gewond geraakt. Ook zorgden de extreme omstandigheden voor schade aan tientallen gebouwen en zeker 10.000 auto’s. Daarover be ..."
         },
         {
           "title": "Euro 5-diesel naar Noord-Itali&#235;: vanaf 1 oktober maakt je bestemming ineens een groot verschil",
@@ -94,11 +145,31 @@
           "description": "Hagiar Pastore had zich haar 18de verjaardag wel anders voorgesteld. Donderdagochtend rond vier uur drong het water het huis binnen waar ze met haar ouders woont. Eerst nog relatief langzaam, maar ..."
         },
         {
-          "title": "Drie doden door noodweer in Noord-Itali&#235;",
-          "source": "HLN",
-          "url": "https://www.hln.be/weer-en-wetenschap/drie-doden-door-noodweer-in-noord-italie~aa809396/",
-          "publishedDate": "Fri, 14 Apr 2017 05:28:00 GMT",
-          "description": "In het noorden van Itali&#235; zijn na stevig onweer vanochtend drie mensen om het leven gekomen. Een visser werd door metershoge golven mee in zee gesleurd, twee anderen stierven toen een modderstroom hun ..."
+          "title": "Noord-Itali&#235; opnieuw getroffen door extreem weer: “Toen het water de trap opkroop, zijn we het dak op gevlucht”",
+          "source": "Gazet van Antwerpen",
+          "url": "https://www.gva.be/buitenland/noord-italie-opnieuw-getroffen-door-extreem-weer-toen-het-water-de-trap-opkroop-zijn-we-het-dak-op-gevlucht/37467250.html",
+          "publishedDate": "Sun, 22 Sep 2024 06:40:00 GMT",
+          "description": "Hagiar Pastore had zich haar achttiende verjaardag wel anders voorgesteld. Donderdagochtend omstreeks vier uur drong het water de gezinswoning binnen. Eerst nog relatief langzaam, maar rond elf uur ..."
+        }
+      ]
+    },
+    {
+      "keyword": "sofyan amrabat",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Union hoopt nog op Argentijnse winger, Sofyan Amrabat (ex-Club) trekt naar Ajax",
+          "source": "Gazet van Antwerpen",
+          "url": "https://www.gva.be/sport/voetbal/union-hoopt-nog-op-argentijnse-winger-sofyan-amrabat-ex-club-trekt-naar-ajax/154753914.html",
+          "publishedDate": "Sat, 29 Aug 2026 17:00:00 GMT",
+          "description": "De Jupiler Pro League is gestart, maar de transfermolen blijft op volle toeren draaien. Mis niets van al het transfernieuws via onze liveticker."
+        },
+        {
+          "title": "Jordi Cruijff verraste Sofyan Amrabat, die hij al eerder probeerde te halen",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/ajax-aanwinst-amrabat-verrast-door-telefoontje-cruijff-die-hem-ook-al-naar-barcelona-wilde-halen",
+          "publishedDate": "Sat, 29 Aug 2026 13:14:00 GMT",
+          "description": "Ajax-aanwinst Sofyan Amrabat onthult dat Jordi Cruijff hem eerder naar FC Barcelona probeerde te halen. De middenvelder was 'verrast' toen Cruijff hem in april polste voor een overstap naar Amsterdam."
         }
       ]
     },
@@ -135,13 +206,6 @@
           "description": "Go Ahead Eagles weet weer wat verliezen is. Na de uitstekende start van het seizoen, met zeven punten uit drie duels, ging de ploeg van Joseph Oosting in Alkmaar hard onderuit bij het nog foutloze AZ."
         },
         {
-          "title": "Overvol keepersbestand zet AZ voor lastige keuze met Rome-Jayden Owusu-Oduro",
-          "source": "FootballTransfers",
-          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/08/az-op-kruispunt-met-rome-jayden-owusu-oduro-door-overschot-aan-keepers",
-          "publishedDate": "Thu, 27 Aug 2026 05:14:00 GMT",
-          "description": "Bij AZ heeft men te maken met een overvol keepersbestand. De Alkmaarders lijken mede daardoor op een kruispunt te staan met Rome-Jayden Owusu-Oduro."
-        },
-        {
           "title": "LIVE | Forse nederlaag Go Ahead Eagles bij AZ, voorlopig de ongenaakbare koploper",
           "source": "De Stentor",
           "url": "https://www.destentor.nl/ga-eagles/live-forse-nederlaag-go-ahead-eagles-bij-az-voorlopig-de-ongenaakbare-koploper~a782ec7e/",
@@ -165,97 +229,36 @@
       ]
     },
     {
-      "keyword": "liverpool - forest",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Liverpool wint ondanks assist Gakpo opnieuw niet van angstgegner Forest",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6407959/liverpool-wint-ondanks-assist-gakpo-opnieuw-niet-van-angstgegner-forest.html",
-          "publishedDate": "Sat, 29 Aug 2026 08:27:00 GMT",
-          "description": "Liverpool heeft zaterdag opnieuw niet weten te winnen in de Premier League. Ondanks een assist van Cody Gakpo werd bij het thuisdebuut van trainer Andoni Iraola op Anfield met 1-2 verloren van angstge"
-        },
-        {
-          "title": "Belangrijke Gakpo-meeting aanstaande, Liverpool neemt toekomstbesluit",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/belangrijke-gakpo-meeting-aanstaande-liverpool-neemt-toekomstbesluit/ar-AA2ba826?ocid=BingNewsVerp",
-          "publishedDate": "Sat, 29 Aug 2026 03:24:00 GMT",
-          "description": "Liverpool gaat zich na de wedstrijd tegen Nottingham Forest van zaterdagmiddag buigen over de toekomst van Cody Gakpo. De kans bestaat nog steeds dat de Oranje-international Anfield in het slot van de"
-        }
-      ]
-    },
-    {
-      "keyword": "hockey finale dames",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Programma WK hockey 2026 | Nederlandse vrouwen naar finale, mannen spelen duel om brons: dit is wanneer",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/andere-sporten/programma-wk-hockey-2026-nederlandse-vrouwen-naar-finale-mannen-spelen-duel-om-brons-dit-is-wanneer~a556c496/",
-          "publishedDate": "Fri, 28 Aug 2026 07:12:00 GMT",
-          "description": "Voor het eerst in de geschiedenis organiseren Nederland en Belgi&#235; samen het WK hockey. Van 15 tot en met 30 augustus strijden mannen- en vrouwenteams om de wereldtitel in Amstelveen en het Belgische W ..."
-        },
-        {
-          "title": "WK hockey 2026",
-          "source": "NOS",
-          "url": "https://nos.nl/collectie/14020-wk-hockey-2026",
-          "publishedDate": "Tue, 18 Aug 2026 14:06:00 GMT",
-          "description": "Van 15 tot en met 30 augustus vinden de WK hockey (mannen en vrouwen) plaats in Nederland en Belgi&#235;. In deze collectie vind je het laatste nieuws, video's en de livestreams."
-        },
-        {
-          "title": "WK hockey: Geen vierde wereldtitel op rij voor hockeyvrouwen: 'Op de bluf verloren'",
-          "source": "RTV Utrecht",
-          "url": "https://www.rtvutrecht.nl/sport/4080634/wk-hockey-geen-vierde-wereldtitel-op-rij-voor-hockeyvrouwen-op-de-bluf-verloren",
-          "publishedDate": "Sat, 29 Aug 2026 10:34:00 GMT",
-          "description": "Het WK in eigen land is voor Oranje in een teleurstelling uitgelopen. Daags nadat de Nederlandse mannen in de halve finale waren uitgeschakeld verloren de dames in de finale na shoot-outs van Argentin ..."
-        },
-        {
-          "title": "Nederlandse hockeyvrouwen voor het eerst in 10 jaar geklopt: Argentini&#235; wint WK-finale in hol van de leeuw",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/2026/08/29/nederlandse-hockeyvrouwen-voor-het-eerst-in-10-jaar-geklopt-argentinie-wint-wk-finale-in-hol-van-de-leeuw~1788006867826/",
-          "publishedDate": "Sat, 29 Aug 2026 08:47:00 GMT",
-          "description": "Wat niemand voor mogelijk achtte, is gebeurd: gastland Nederland verloor voor eigen volk de finale van het WK hockey voor vrouwen na shoot-outs tegen Argentini&#235;. Sinds de verloren olympische finale ..."
-        },
-        {
-          "title": "Doelpuntloos gelijkspel op WK hockey tussen Belgi&#235; en Argentini&#235; bepaalt tegenstander Nederlandse vrouwen",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/hockey/nieuws/doelpuntloos-gelijkspel-op-wk-hockey-tussen-belgie-en-argentinie-bepaalt-tegenstander-nederlandse-vrouwen-2026082420112995293/",
-          "publishedDate": "Mon, 24 Aug 2026 15:27:00 GMT",
-          "description": "Door het gelijkspel eindigde Argentini&#235; als groepswinnaar in Groep F, met Belgi&#235; op de tweede plaats. Dat betekent dat de Belgen hun halve finale niet in eigen land mogen afwerken, maar moeten reizen ..."
-        }
-      ]
-    },
-    {
       "keyword": "clouseau",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
+        {
+          "title": "Nummers Clouseau zorgt voor flinke dosis jeugdsentiment bij Beste Zangers-kijkers: 'Terug in de tijd'",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5645782/nummers-clouseau-zorgt-voor-flinke-dosis-jeugdsentiment-bij-beste-zangers",
+          "publishedDate": "Sun, 30 Aug 2026 00:19:00 GMT",
+          "description": "Het nieuwe seizoen van 'Beste Zangers' is zaterdagavond afgetrapt met Koen (58) en Kris (61) Wauters van Clouseau in de hoofdrol. Yves Berendse (32) , Jeangu Macrooy (32), Bizzey (41), Desray (56), Fa ..."
+        },
+        {
+          "title": "Rapper Bizzey maakt indruk op Clouseau met eigen versie van ‘sexy’ Anne in Beste Zangers: ‘Fantastisch’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/rapper-bizzey-maakt-indruk-op-clouseau-met-eigen-versie-van-sexy-anne-in-beste-zangers-fantastisch~a67eb660/",
+          "publishedDate": "Sat, 29 Aug 2026 18:38:00 GMT",
+          "description": "Bizzey heeft zaterdagavond veel indruk gemaakt in de eerste aflevering van het nieuwe seizoen van Beste Zangers. De 37-jarige rapper stak Clouseau’s megahit Anne in een nieuw jasje en maakte er een wa ..."
+        },
+        {
+          "title": "Bizzey verrast Clouseau in Beste Zangers met eigen versie van Anne: 'Hard en sexy'",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5645184/bizzey-clouseau-beste-zangers-eigen-versie-van-anne",
+          "publishedDate": "Sat, 29 Aug 2026 13:21:00 GMT",
+          "description": "Het nieuwe seizoen van 'Beste Zangers' wordt afgetrapt met Koen (58) en Kris (61) Wauters van Clouseau in de hoofdrol. Bizzey (41) krijgt in de eerste aflevering de taak om een van hun nummers onder h ..."
+        },
         {
           "title": "Clouseau zorgt voor eerste topavond van Maanrock met overvolle Grote Markt",
           "source": "RTV",
           "url": "https://www.rtv.be/actualiteit-entertainment-en-ontspanning/clouseau-zorgt-voor-eerste-topavond-van-maanrock-met",
           "publishedDate": "Fri, 28 Aug 2026 23:52:00 GMT",
           "description": "De grote headliner van de eerste avond was Clouseau. De band van Koen en Kris Wauters is al meer dan 40 jaar een vaste waarde in de Nederlandstalige popmuziek en heeft een ijzersterke live-reputatie."
-        },
-        {
-          "title": "Maanrock kent beste vrijdag ooit, Grote Markt afgesloten tijdens Clouseau: “Deze dag was een schot in de roos”",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/regio/antwerpen/rivierenland/mechelen/maanrock-kent-beste-vrijdag-ooit-grote-markt-afgesloten-tijdens-clouseau-deze-dag-was-een-schot-in-de-roos/160673353.html",
-          "publishedDate": "Fri, 28 Aug 2026 18:30:00 GMT",
-          "description": "Clouseau deed de Grote Markt van Mechelen vrijdag letterlijk daveren tijdens de tweede dag van Maanrock. De gebroeders Wauters vuurden hit na hit af op een volgelopen plein. Ook op de andere podia, zo ..."
-        },
-        {
-          "title": "OPROEP. Nu Clouseau niet kan: wie willen jullie volgend jaar in Eeklo zien optreden voor 100 jaar Kaaiken?",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/eeklo/oproep-nu-clouseau-niet-kan-wie-willen-jullie-volgend-jaar-in-eeklo-zien-optreden-voor-100-jaar-kaaiken~ad2ded55/",
-          "publishedDate": "Thu, 27 Aug 2026 23:30:00 GMT",
-          "description": "De gebuurtedekenij Kaaiken in Eeklo bestaat volgend jaar 100 jaar en wil dat vieren met een feestjaar. Voor wie zouden jullie op de eerste rij staan? En vooral: waarom?"
-        },
-        {
-          "title": "“Anne, als ik jou zie wil ik niets anders meer dan schuren”: dit zijn de eerste beelden van ‘Beste zangers’ met Clouseau",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/tv/anne-als-ik-jou-zie-wil-ik-niets-anders-meer-dan-schuren-dit-zijn-de-eerste-beelden-van-beste-zangers-met-clouseau~ab039b70a/",
-          "publishedDate": "Sat, 22 Aug 2026 01:27:00 GMT",
-          "description": "Binnen exact &#233;&#233;n week is het zover. Op zaterdag 29 augustus gaat het negentiende seizoen van ‘Beste zangeres’, de Nederlandse versie van ‘Liefde voor muziek’, van start. Het wordt dit jaar een bijzond ..."
         },
         {
           "title": "Zanger en presentator Koen Wauters: ‘Vlamingen denken vaak te klein’",
@@ -265,6 +268,27 @@
           "description": "Op 4 september maakt Koen Wauters zijn rentree op de Nederlandse televisie. Samen met Chantal Janzen presenteert de frontman van Clouseau bij RTL4 de nieuwe Vlaams-Nederlandse talentenjacht Got Talent ..."
         },
         {
+          "title": "Clouseau is de geheime afsluiter van Lo For Life: Koen Wauters viert verjaardag op podium in Scherpenheuvel-Zichem",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/scherpenheuvel-zichem/clouseau-is-de-geheime-afsluiter-van-lo-for-life-koen-wauters-viert-verjaardag-op-podium-in-scherpenheuvel-zichem~afb90b9b/",
+          "publishedDate": "Sun, 09 Aug 2026 23:39:00 GMT",
+          "description": "Het geheim is eindelijk onthuld: niemand minder dan Clouseau is de grote afsluiter van het festival Lo For Life in Scherpenheuvel-Zichem. Op zaterdag 19 september maken Koen en Kris Wauters hun opwach ..."
+        },
+        {
+          "title": "Suzan &amp; Freek ontroeren en Clouseau laat Tienen ontploffen met 'full house': “Als we alles spelen, staan we hier om 4 uur nog!”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/tienen/suzan-en-freek-ontroeren-en-clouseau-laat-tienen-ontploffen-met-full-house-als-we-alles-spelen-staan-we-hier-om-4-uur-nog~af845828/",
+          "publishedDate": "Sun, 09 Aug 2026 18:40:00 GMT",
+          "description": "Een overvol festivalterrein, de geboorte van baby Sef en twee giganten van de Nederlandstalige muziek. Suikerrock sloot zijn traditionele ‘familiedag’ af met Nederlandstalige muziek in absolute feests ..."
+        },
+        {
+          "title": "&quot;We hebben Koen toen moeten overtuigen om terug te komen&quot;: 38 jaar na dat eerste grote optreden staat Clouseau opnieuw op Marktrock",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2025/08/22/clouseau-op-marktrock/",
+          "publishedDate": "Fri, 22 Aug 2025 11:04:00 GMT",
+          "description": "Clouseau maakt vanavond een comeback op het podium van Marktrock in Leuven. Voor de broers Wauters is het een bijzondere terugkeer, want in 1987 stonden ze daar voor het eerst op een groot podium. Het ..."
+        },
+        {
           "title": "‘Tien Om Te Zien’ viert 40 jaar Clouseau met speciale concertavond",
           "source": "Newsmonkey",
           "url": "https://newsmonkey.be/tien-om-te-zien-viert-40-jaar-clouseau-met-speciale-concertavond/",
@@ -272,32 +296,87 @@
           "description": "Nog twee maanden en Tien Om Te Zien keert terug. De Belgische kust bereidt zich voor op acht opeenvolgende feestavonden van maandag 15 tot donderdag 25 juli. Dit jaar wordt de slotavond extra ..."
         },
         {
-          "title": "Clouseau in ‘Liefde voor Muziek’: ‘Wij waren absoluut niet de papa’s van de bende’",
-          "source": "Flair",
-          "url": "https://www.flair.be/nl/talks/interviews/clouseau-liefde-voor-muziek/",
-          "publishedDate": "Wed, 03 Apr 2024 01:00:00 GMT",
-          "description": "Clouseau doet mee aan het tiende seizoen van ‘Liefde voor Muziek’. ‘We zouden eerlijk gezegd ontgoocheld zijn geweest als we er niet bij waren’, vertellen Koen en Kris Wauters. In ‘Liefde voor Muziek’ ..."
-        },
-        {
-          "title": "Clouseau keert terug naar het Sportpaleis: groep viert 40e verjaardag met 125e concert daar",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2023/11/15/clouseau-weer-in-het-sportpaleis/",
-          "publishedDate": "Wed, 15 Nov 2023 22:53:00 GMT",
-          "description": "Clouseau is in 1984 opgericht door Bob Savenberg. Broers Koen (56) en Kris Wauters (58) zijn als enige groepsleden 40 jaar lang aan boord gebleven. Na hun optreden op Pukkelpop afgelopen zomer, als ..."
-        },
-        {
           "title": "Verrassing op Pukkelpop: Koen en Kris Wauters van Clouseau zitten achter &quot;powerpopduo uit Finland&quot; Tarkastaja",
           "source": "vrt",
           "url": "https://www.vrt.be/vrtnws/nl/2023/08/19/tarkastaja-clouseau-pukkelpop/",
           "publishedDate": "Sat, 19 Aug 2023 04:04:00 GMT",
           "description": "Wie achter Tarkastaja zat, was onduidelijk. Hun gezichten verborgen ze achter maskers die leken weggelopen uit &quot;The masked singer&quot; en ook online was bitter weinig over de groep te vinden, officieel ..."
+        }
+      ]
+    },
+    {
+      "keyword": "pogacar",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Een vleugje humor kan niet ontbreken: Tadej Pogacar toont vanuit ziekenhuis en met bijpassend nummer hoe hij eraan toe is na zware val",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/wielrennen/een-vleugje-humor-kan-niet-ontbreken-tadej-pogacar-toont-vanuit-ziekenhuis-en-met-bijpassend-nummer-hoe-hij-eraan-toe-is-na-zware-val~a1dd3521/",
+          "publishedDate": "Sat, 29 Aug 2026 18:03:00 GMT",
+          "description": "Tadej Pogacar heeft voor het eerst van zich laten horen sinds die &lt;a href=&quot;https://www.ad.nl/vuelta/trieste-aftocht-in-vuelta-tadej-pogacar-breekt-sleutelbeen-en-loopt-hersenschudding-op-bij-harde-val ..."
         },
         {
-          "title": "De Jonge Wolven van Clouseau hebben hun veertiende Nederlandstalige plaat uit en wij spraken met Koen en Kris Wauters",
-          "source": "Newsmonkey",
-          "url": "https://newsmonkey.be/nieuwe-plaat-clouseau-interview-koen-en-kris-wauters/",
-          "publishedDate": "Thu, 31 Mar 2022 05:38:00 GMT",
-          "description": "Clouseau heeft met ‘Jonge Wolven’ een nieuwe plaat uit – nummer veertien in het Nederlands al – en we begrijpen waarom de plaat die titel draagt. Hoewel zowel Kris als Koen een relatiebreuk te ..."
+          "title": "Breuken in sleutelbeen en nek en hersenschudding voor Pogacar na val in Vuelta",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628849-breuken-in-sleutelbeen-en-nek-en-hersenschudding-voor-pogacar-na-val-in-vuelta",
+          "publishedDate": "Sat, 29 Aug 2026 12:22:00 GMT",
+          "description": "Tadej Pogacar heeft een hersenschudding, gedisloceerde sleutelbeenbreuk en een stabiele breuk in de onderste nekwervel opgelopen bij zijn val in de Ronde van Spanje."
+        },
+        {
+          "title": "Pogacar laat voor het eerst van zich horen na zware val",
+          "source": "Wielerkrant.be",
+          "url": "https://www.wielerkrant.be/nieuws/2026-08-30/pogacar-laat-voor-het-eerst-van-zich-horen-na-zware-val",
+          "publishedDate": "Sun, 30 Aug 2026 01:30:00 GMT",
+          "description": "De Vuelta verloor zaterdag zijn grote blikvanger. Tadej Pogacar kwam zwaar ten val en moest de strijd staken. Wout van Aert zag de crash van dichtbij en bleef zichtbaar onder de indruk."
+        },
+        {
+          "title": "Pogacar gaf 'bedrijfsgeheimen' zomaar prijs aan Lefevere: 'Hij had er geen seconde bij stilgestaan'",
+          "source": "Wieler Revue on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/wielrennen/pogacar-gaf-bedrijfsgeheimen-zomaar-prijs-aan-lefevere-hij-had-er-geen-seconde-bij-stilgestaan/ar-AA2bciu8",
+          "publishedDate": "Sun, 30 Aug 2026 01:16:00 GMT",
+          "description": "De oppermachtige wereldkampioen blijkt naast de koers soms verrassend na&#239;ef. Hoe een simpel saunabezoekje bijna leidde tot het uitlekken van zijn grootste technische geheimen."
+        },
+        {
+          "title": "Tadej Pogacar deelt foto vanuit ziekenhuis in Barcelona",
+          "source": "De Standaard",
+          "url": "https://www.standaard.be/sport/tadej-pogacar-deelt-foto-vanuit-ziekenhuis-in-barcelona/159729331.html",
+          "publishedDate": "Sun, 30 Aug 2026 00:47:00 GMT",
+          "description": "AA Gent gaat op bezoek bij het Portugese Braga, het Finse Kups en het Zwitserse FC Thun. In eigen huis neemt het team van Rik De Mil het op tegen Rode Ster Belgrado (Servi&#235;), SK Brann (Noorwegen) en ..."
+        },
+        {
+          "title": "&quot;Stayin' alive&quot;: Tadej Pogacar verlaat ziekenhuis op brancard, maar met glimlach op zijn gezicht",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/2026/08/30/-stayin-alive-tadej-pogacar-verlaat-ziekenhuis-op-brancard-maar-met-glimlach-op-zijn-gezicht~1788075001851/",
+          "publishedDate": "Sun, 30 Aug 2026 00:39:00 GMT",
+          "description": "Tadej Pogacar staat wellicht voor een lange revalidatie. De Sloveense wereldkampioen kwam zaterdag zwaar ten val in de Vuelta en brak onder meer een nekwervel. Zaterdagnacht verliet Pogacar het lokale ..."
+        },
+        {
+          "title": "Op bezoek bij Freddy Maertens, de man die ooit dertien (!) ritzeges won in &#233;&#233;n Vuelta: “Pogacar had mijn record mogen hebben”",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/sport/wielrennen/op-bezoek-bij-freddy-maertens-de-man-die-ooit-dertien-ritzeges-won-in-een-vuelta-pogacar-had-mijn-record-mogen-hebben/160595989.html",
+          "publishedDate": "Sat, 29 Aug 2026 20:01:00 GMT",
+          "description": "In de Vuelta won Tadej Pogacar na week &#233;&#233;n de helft van de ritten. Voor zijn opgave op zaterdag stond hij aan de leiding in het algemeen klassement en droeg hij de punten- en bollentrui. Dus vroegen w ..."
+        },
+        {
+          "title": "VIDEO. Tadej Pogacar deelt foto vanuit ziekenhuisbed: Sloveen kent zwaar verdict na opgave in Vuelta, was steen de oorzaak van valpartij?",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/sport/wielrennen/video.-tadej-pogacar-deelt-foto-vanuit-ziekenhuisbed-sloveen-kent-zwaar-verdict-na-opgave-in-vuelta-was-steen-de-oorzaak-van-valpartij/160691787.html",
+          "publishedDate": "Sat, 29 Aug 2026 13:47:00 GMT",
+          "description": "Tadej Pogacar (27) heeft de Vuelta verlaten na een zware valpartij. De rode trui ging als eerste van het pak zwaar onderuit en brak daarbij zijn linker sleutelbeen en een nekwervel. Mogelijk is een st ..."
+        },
+        {
+          "title": "Tadej Pogacar verliet ziekenhuis op brancard, geeft eerste teken van leven met disco-hit",
+          "source": "WielerFlits",
+          "url": "https://www.wielerflits.nl/nieuws/tadej-pogacar-verliet-ziekenhuis-op-brancard-geeft-eerste-teken-van-leven-met-disco-hit/",
+          "publishedDate": "Sat, 29 Aug 2026 13:12:00 GMT",
+          "description": "Video Tadej Pogacar heeft voor het eerst van zich laten horen na zijn val in de Vuelta a Espa&#241;a, waarbij hij een gebroken sleutelbeen, nekwervel en hersenschudding opliep. Op Instagram plaatste hij ee ..."
+        },
+        {
+          "title": "Klassementen Vuelta &#224; Espa&#241;a | Enric Mas nieuwe leider na opgave Tadej Pogacar, Wout van Aert in het groen",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/wielrennen/nieuws/klassementen-vuelta-a-espana-enric-mas-nieuwe-leider-na-opgave-tadej-pogacar-wout-van-aert-in-het-groen-2026082010323083366/",
+          "publishedDate": "Sat, 29 Aug 2026 11:10:00 GMT",
+          "description": "De Vuelta &#224; Espa&#241;a werd lange tijd gedomineerd door Tadej Pogacar. De Sloveen had geruime tijd de leiding in liefst drie klassementen, maar is die inmiddels allemaal kwijt. In etappe 8 sloeg het noodl ..."
         }
       ]
     },
@@ -305,13 +384,6 @@
       "keyword": "bondscoach",
       "trafficLabel": "10K+",
       "articles": [
-        {
-          "title": "Duitsland ontslaat Schopman als bondscoach hockeysters na teleurstellend WK",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/sport-overig/6407958/duitsland-ontslaat-schopman-als-bondscoach-hockeysters-na-teleurstellend-wk.html",
-          "publishedDate": "Sat, 29 Aug 2026 08:39:00 GMT",
-          "description": "Janneke Schopman is niet langer de bondscoach van de Duitse hockeyvrouwen. De Duitse hockeybond heeft zaterdag besloten de samenwerking met de voormalige Oranje-international te be&#235;indigen na het tele ..."
-        },
         {
           "title": "Schopman niet langer bondscoach Duitse hockeyvrouwen na teleurstellend WK",
           "source": "NOS",
@@ -327,6 +399,13 @@
           "description": "Op 24 september debuteert Xavi Hern&#225;ndez als bondscoach van Oranje, thuis tegen Duitsland. Hoe zien zijn eerste weken eruit? Waarmee gaat – en moet – hij meteen aan de slag?"
         },
         {
+          "title": "Spanjaard Xavi Hern&#225;ndez begint als bondscoach in de stoffige Nederlandse universiteit van het voetbal",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/sport/spanjaard-xavi-hernandez-begint-als-bondscoach-in-de-stoffige-nederlandse-universiteit-van-het-voetbal~b1e0c044/",
+          "publishedDate": "Tue, 25 Aug 2026 13:00:00 GMT",
+          "description": "Xavi Hern&#225;ndez is een winnaar. De nieuwe, Spaanse bondscoach (46) van Nederland wil succes behalen met voetbal dat het volk zou moeten bekoren."
+        },
+        {
           "title": "Xavi is begonnen als bondscoach van Oranje. ‘Ik kijk naar hoe je speelt, niet waar je speelt’",
           "source": "Trouw",
           "url": "https://www.trouw.nl/sport/xavi-is-begonnen-als-bondscoach-van-oranje-ik-kijk-naar-hoe-je-speelt-niet-waar-je-speelt~bd91218a/",
@@ -339,13 +418,6 @@
           "url": "https://www.ad.nl/voetbal/xavi-bij-eerste-persconferentie-als-bondscoach-van-oranje-derde-keus-na-guardiola-en-slot-toch-maar-mooi-op-podium~a9407b09/",
           "publishedDate": "Tue, 25 Aug 2026 08:15:00 GMT",
           "description": "Xavi Hern&#225;ndez sprak al met Virgil van Dijk en Frenkie de Jong en hij kent Jan Smit. De nieuwe bondscoach toonde zich open op zijn eerste ontmoeting met de Nederlandse pers. Jonge spelers mogen in de ..."
-        },
-        {
-          "title": "Van brood halen met een bal tot bondscoach: familieman Xavi ...",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/van-brood-halen-met-een-bal-tot-bondscoach-familieman-xavi-bleef-altijd-maar-20-kilometer-van-huis~af0d02b5/",
-          "publishedDate": "Tue, 25 Aug 2026 02:12:00 GMT",
-          "description": "Veertig jaar van zijn leven heeft zich afgespeeld op een streep van slechts 20 kilometer lang, de afstand tussen zijn geboorteplaats Terrassa en Barcelona. Xavi Hern&#225;ndez (46) wordt dinsdag gepresente ..."
         },
         {
           "title": "Bondscoach Ehren vindt dat hockeysters te weinig cre&#235;erden",
@@ -369,6 +441,13 @@
           "description": "Bondscoach Xavi Hern&#225;ndez moest dinsdag zijn allereerste persconferentie als trainer van het Nederlands elftal doen. De 46-jarige Spanjaard kreeg het woord en dat zorgde meteen voor een opmerkelijk ..."
         },
         {
+          "title": "'Gertjan Verbeek had bijna de nieuwe bondscoach van het Nederlands elftal aangesteld'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/gertjan-verbeek-kandidaat-directeur-topvoetbal-knvb-nigel-de-jong",
+          "publishedDate": "Mon, 24 Aug 2026 12:37:00 GMT",
+          "description": "Volgens Tijmen van Wissing was Gertjan Verbeek kandidaat voor de functie van directeur topvoetbal bij de KNVB. Uiteindelijk koos de bond voor Nigel de Jong, die deze zomer Xavi Hern&#225;ndez aanstelde."
+        },
+        {
           "title": "Veelbesproken Michael Reiziger komt met statement na soap rond bondscoach Oranje: 'Niet leuk'",
           "source": "Sportnieuws",
           "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/veelbesproken-michael-reiziger-komt-met-statement-na-soap-rond-bondscoach-oranje-niet-leuk-2026082413312902285/",
@@ -378,154 +457,153 @@
       ]
     },
     {
-      "keyword": "excelsior - sparta rotterdam",
-      "trafficLabel": "10K+",
+      "keyword": "empel",
+      "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Excelsior wint Rotterdamse derby tegen Sparta dankzij goal in blessuretijd",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6407971/excelsior-wint-rotterdamse-derby-tegen-sparta-dankzij-goal-in-blessuretijd.html",
-          "publishedDate": "Sat, 29 Aug 2026 11:25:00 GMT",
-          "description": "Excelsior heeft zaterdag dankzij een late goal de Rotterdamse derby tegen Sparta gewonnen. Invaller Nesto Groen bezorgde de thuisploeg in blessuretijd de zege: 2-1."
+          "title": "Veldrijdster Fem van Empel wint tweede wereldtitel op rij",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2024/02/03/veldrijdster-fem-van-empel-wint-tweede-wereldtitel-op-rij-a4189019",
+          "publishedDate": "Sat, 03 Feb 2024 06:47:00 GMT",
+          "description": "Fem van Empel heeft in het Tsjechische Tabor haar wereldtitel in het veldrijden geprolongeerd. De 21-jarige veldrijdster uit het Brabantse Den Dungen was als eerste weg na de start en breidde haar ..."
         },
         {
-          "title": "Beslissing valt opnieuw in blessuretijd: Excelsior boekt memorabele zege op Sparta in stadsderby",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/beslissing-valt-opnieuw-in-blessuretijd-excelsior-boekt-memorabele-zege-op-sparta-in-stadsderby~aa36c98f/",
-          "publishedDate": "Sat, 29 Aug 2026 03:09:00 GMT",
-          "description": "Een vermakelijk duel op Woudestein stevende lange tijd af op een gelijkspel, maar w&#233;&#233;r werd de Rotterdamse derby tussen Excelsior en Sparta beslist in de extra tijd. Een kopbal van invaller Nesto Groe ..."
+          "title": "Wereldkampioene Fem van Empel zet wielercarri&#232;re on hold na mentale strijd: &quot;Het voelt als tijd voor een nieuw hoofdstuk&quot;",
+          "source": "sporza.be",
+          "url": "https://sporza.be/nl/2025/12/19/wereldkampioene-fem-van-empel-zet-wielercarriere-on-hold-na-mentale-strijd-het-voelt-als-tijd-voor-een-nieuw-hoofdstuk~1766142723681/",
+          "publishedDate": "Fri, 19 Dec 2025 03:13:00 GMT",
+          "description": "Fem van Empel (23) stopt per direct, en voor onbepaalde duur, met wielrennen. Dat heeft haar team Visma-Lease a Bike vrijdag bekendgemaakt. De wereldkampioene veldrijden worstelt al een tijd met ..."
         },
         {
-          "title": "Excelsior wint Rotterdamse derby van Sparta",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/excelsior-wint-rotterdamse-derby-van-sparta",
-          "publishedDate": "Sat, 29 Aug 2026 11:54:00 GMT",
-          "description": "ROTTERDAM (ANP) - Excelsior heeft de Rotterdamse derby met Sparta gewonnen. De ploeg van coach Ruben den Uil versloeg de stadgenoot in eigen huis met 2-1. De van Feyenoord gehuurde aanvaller Aymen Sli ..."
+          "title": "Wielerkampioene Fem van Empel (23) stelt zich kwetsbaar op: 'Dat stond ik mezelf eerst nooit toe'",
+          "source": "sportnieuws",
+          "url": "https://sportnieuws.nl/wielrennen/nieuws/wielerkampioene-fem-van-empel-23-stelt-zich-kwetsbaar-op-dat-stond-ik-mezelf-eerst-nooit-toe-2025101613261026116/",
+          "publishedDate": "Thu, 16 Oct 2025 10:10:00 GMT",
+          "description": "Fem van Empel stapt deze winter weer op de fiets. De crossfiets welteverstaan. Drievoudig wereldkampioene veldrijden Van Empel kondigde onlangs nog haar afscheid aan als wegwielrenster. Daar beleefde ..."
         },
         {
-          "title": "Opvallend: Excelsior-smaakmaker hevig ge&#235;motioneerd na spectaculaire ontknoping",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/opvallend-irakli-yegoian-hevig-geemotioneerd-na-spectaculaire-ontknoping-bij-excelsior-sparta",
-          "publishedDate": "Sat, 29 Aug 2026 11:36:00 GMT",
-          "description": "Opvallend: Irakli Yegoian is hevig ge&#235;motioneerd, nadat hij met Excelsior in blessuretijd de winst heeft gegrepen in de stadsderby tegen Sparta (2-1)."
+          "title": "Fem van Empel legt na moeilijke maanden focus op veldrijden bij comeback: &quot;Ik had minder motivatie voor de weg&quot;",
+          "source": "sporza.be",
+          "url": "https://sporza.be/nl/2025/09/12/fem-van-empel-legt-na-moeilijke-maanden-focus-op-veldrijden-bij-comeback-ik-had-minder-motivatie-voor-de-weg~1757694383790/",
+          "publishedDate": "Fri, 12 Sep 2025 10:27:00 GMT",
+          "description": "Komende winter duikt Fem van Empel opnieuw het veld in. Dat maakte haar ploeg Visma-Lease a Bike bekend. De afgelopen maanden bleef het opvallend stil rond de Nederlandse, die maar twee wegkoersen ..."
         },
         {
-          "title": "Excelsior in extase na winnende goal in blessuretijd tegen stadgenoot Sparta Rotterdam",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/excelsior-in-extase-na-winnende-goal-in-blessuretijd-tegen-stadgenoot-sparta-rotterdam/bltd76ec06aa907bbdb",
-          "publishedDate": "Sat, 29 Aug 2026 11:25:00 GMT",
-          "description": "Na een vermakelijke openingsfase kwam Sparta als eerste ploeg dicht bij een doelpunt. Jens Toornstra gaf mee aan Shunsuke Mito, die voorgaf richting Milan Zonneveld. De spits kon door uitstekend ..."
+          "title": "En dat is drie! Van Empel pakt de wereldtitel in het veld na zenuwslopende strijd met Brand",
+          "source": "bd.nl",
+          "url": "https://www.bd.nl/wielrennen/en-dat-is-drie-van-empel-pakt-de-wereldtitel-in-het-veld-na-zenuwslopende-strijd-met-brand~a6a56dc5/",
+          "publishedDate": "Fri, 31 Jan 2025 23:46:00 GMT",
+          "description": "En dat is drie! Van Empel pakt de wereldtitel in het veld na zenuwslopende strijd met Brand Ze stak niet in haar beste vorm de afgelopen weken en was dus niet d&#233; topfavoriet, maar Fem van Empel had er ..."
         },
         {
-          "title": "Excelsior trekt n blessuretijd derbywinst naar zich toe",
-          "source": "waterwegsport",
-          "url": "https://www.waterwegsport.nl/excelsior-trekt-n-blessuretijd-derbywinst-naar-zich-toe/",
-          "publishedDate": "Sat, 29 Aug 2026 10:11:00 GMT",
-          "description": "Het is speelronde 4 van de Eredivisie en voor Sparta Rotterdam was het alweer de tweede stadsderby van het seizoen. De laatste wedstrijd voor het einde van de t ..."
-        },
-        {
-          "title": "Excelsior na beauty Sliti en late goal gelukkigste in Rotterdamse derby",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/excelsior-na-beauty-sliti-en-late-goal-gelukkigste-in-rotterdamse-derby/ar-AA2baFE9",
-          "publishedDate": "Sat, 29 Aug 2026 09:30:50 GMT",
-          "description": "Excelsior heeft zaterdagavond dankzij een late goal van invaller Nesto Groen een zege geboekt op stadgenoot Sparta Rotterdam. Aymen Sliti hielp de thuisploeg met een heerlijke uithaal aan de leiding, ..."
-        },
-        {
-          "title": "Ontlading in Kralingen: Excelsior wint in slotseconde van Sparta in vermakelijke derby",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2245869/ontlading-in-kralingen-excelsior-wint-in-slotseconde-van-sparta-in-vermakelijke-derby",
-          "publishedDate": "Sat, 29 Aug 2026 09:23:00 GMT",
-          "description": "In de Rotterdamse derby hebben Excelsior en Sparta elkaar lang in evenwicht gehouden, maar de Kralingers hebben in de absolute slotfase toch gewonnen. Door een treffer van invaller Nesto Groen, blijve ..."
-        },
-        {
-          "title": "Praat mee op VP: Excelsior - Sparta Rotterdam",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-excelsior-sparta-rotterdam/ar-AA2bb8Nw",
-          "publishedDate": "Sat, 29 Aug 2026 06:30:00 GMT",
-          "description": "Rotterdam maakt zich zaterdagmiddag op voor een stadsderby tussen Excelsior en Sparta. De wedstrijd begint om 16.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee ..."
-        },
-        {
-          "title": "Wie is favoriet in de Rotterdamse derby? ‘Sparta heeft meer stootkracht dan Excelsior’",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2245739/wie-is-favoriet-in-de-rotterdamse-derby-sparta-heeft-meer-stootkracht-dan-excelsior",
-          "publishedDate": "Fri, 28 Aug 2026 23:01:00 GMT",
-          "description": "Excelsior en Sparta staan zaterdag tegenover elkaar in de Rotterdamse derby. In FC Rijnmond kijken Harry van der Laan, Emile Schelvis en Dennis van Eersel vooruit: wie is favoriet en welke van de twee ..."
+          "title": "NU+ Van Empel ging voor Bayern M&#252;nchen, maar is nu ster bij WK veldrijden",
+          "source": "NU",
+          "url": "https://www.nu.nl/wielrennen/6248633/van-empel-ging-voor-bayern-munchen-maar-is-nu-ster-bij-wk-veldrijden.html",
+          "publishedDate": "Thu, 02 Feb 2023 21:08:00 GMT",
+          "description": "Het was de grote droom van Fem van Empel om ooit als voetballer voor Bayern M&#252;nchen te spelen. Drie jaar na het opgeven van haar voetbalcarri&#232;re is de Brabantse een ster in het veldrijden. Een profiel ..."
         }
       ]
     },
     {
-      "keyword": "pogacar",
-      "trafficLabel": "10K+",
+      "keyword": "cremona",
+      "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Breuken in sleutelbeen en nek en hersenschudding voor Pogacar na val in Vuelta",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628849-breuken-in-sleutelbeen-en-nek-en-hersenschudding-voor-pogacar-na-val-in-vuelta",
-          "publishedDate": "Sat, 29 Aug 2026 12:22:00 GMT",
-          "description": "Tadej Pogacar heeft een hersenschudding, gedisloceerde sleutelbeenbreuk en een stabiele breuk in de onderste nekwervel opgelopen bij zijn val in de Ronde van Spanje."
+          "title": "Tientallen gewonden door noodweer in Noord-Itali&#235;",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Buitenland/tientallen-gewonden-door-noodweer-in-noord-itali%C3%AB/ar-AA2b9XHc",
+          "publishedDate": "Sat, 29 Aug 2026 05:18:45 GMT",
+          "description": "CREMONA (ANP) - Door hevig noodweer in grote delen van Noord-Itali&#235; zijn tientallen mensen gewond geraakt. Ook zorgden de extreme omstandigheden voor schade aan tientallen gebouwen en zeker 10.000 aut ..."
         },
         {
-          "title": "Hoe wrang ook: door de zware val van Tadej Pogacar ligt de Vuelta weer helemaal open",
+          "title": "Heftig weer in Lombardije: de woede van de tornado teistert Cremona.",
+          "source": "Notizie.it",
+          "url": "https://www.notizie.it/nl/Slecht-weer-in-Lombardije--de-woede-van-de-tornado-in-Cremona./",
+          "publishedDate": "Sat, 29 Aug 2026 03:31:00 GMT",
+          "description": "Een tornado, vergezeld van hagel, trof Cremona en Lombardije, waarbij meer dan 40 mensen gewond raakten en gebouwen, auto's en groengebieden werden verwoest."
+        },
+        {
+          "title": "Een tornado treft Cremona en veroorzaakt instortingen en schade aan historische gebouwen.",
+          "source": "Notizie.it",
+          "url": "https://www.notizie.it/nl/Een-tornado-in-Cremona-heeft-geleid-tot-instorting-en-schade-aan-historische-gebouwen./",
+          "publishedDate": "Fri, 28 Aug 2026 13:33:00 GMT",
+          "description": "Op 28 augustus trof een tornado Cremona, waarbij de kathedraal en het stadhuis zwaar beschadigd raakten. Lees hoe de stad de noodsituatie het hoofd biedt."
+        }
+      ]
+    },
+    {
+      "keyword": "arne slot",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Spektakel in Newcastle met zes Nederlanders op het veld: Szoboszlai redt in 99ste minuut punt voor Liverpool",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/wielrennen/hoe-wrang-ook-door-de-zware-val-van-tadej-pogacar-ligt-de-vuelta-weer-helemaal-open~a60a5c57/",
-          "publishedDate": "Sat, 29 Aug 2026 04:02:00 GMT",
-          "description": "De Vuelta staat op zijn kop. De zware valpartij en opgave van Tadej Pogacar is voor hem een persoonlijk drama. Tegelijkertijd is de strijd om de rode trui plots weer spannend en onvoorspelbaar."
+          "url": "https://www.ad.nl/voetbal/spektakel-in-newcastle-met-zes-nederlanders-op-het-veld-szoboszlai-redt-in-99ste-minuut-punt-voor-liverpool~a4852b2b/",
+          "publishedDate": "Sun, 23 Aug 2026 04:16:00 GMT",
+          "description": "Liverpool is het nieuwe seizoen in de Premier League begonnen met een 2-2 gelijkspel bij Newcastle United. Bij het debuut van Andoni Iraola (de opvolger van Arne Slot) leek Liverpool te gaan verliezen ..."
         },
         {
-          "title": "Schade opgemeten: wie gingen er naast Tadej Pogacar nog meer tegen de grond?Schade opgemeten: wie gingen er naast Tadej Pogacar nog meer tegen de grond?Schade opgemeten: wie ...",
-          "source": "In de Leiderstrui",
-          "url": "https://www.indeleiderstrui.nl/wielrennen/schade-opgemeten-wie-gingen-er-naast-tadej-pogacar-nog-meer-tegen-de-grond",
-          "publishedDate": "Sat, 29 Aug 2026 14:25:00 GMT",
-          "description": "Tot slot nog een Belgische ploeg, met twee renners die erbij lagen in de laatste kilometer. Sprinter Kaden Groves viel op zijn kont en liep schaafwonden op. Busatto was er erger aan toe en kwam met ..."
+          "title": "Arne Slot reageert op onjuiste speculatie: ‘Nooit met KNVB gesproken over salaris en contractduur’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/wk-voetbal/arne-slot-reageert-op-onjuiste-speculatie-nooit-met-knvb-gesproken-over-salaris-en-contractduur~a3c2185c/",
+          "publishedDate": "Tue, 11 Aug 2026 00:00:00 GMT",
+          "description": "Arne Slot reageert voor het eerst zelf op de mislukte poging van de KNVB om hem als nieuwe bondscoach te strikken. De trainer die na zijn vertrek bij Liverpool zonder werk zit, ziet veel berichten in ..."
         },
         {
-          "title": "Vuelta a Espa&#241;a 2026: Wout van Aert gaat Tadej Pogacar missen in Vuelta - &quot;Vermoeidheid speelt soms een rol&quot;",
-          "source": "Eurosport",
-          "url": "https://www.eurosport.nl/wielrennen/vuelta-a-espana/2026/vuelta-a-espana-2026-wout-van-aert-gaat-tadej-pogacar-missen-in-vuelta-vermoeidheid-speelt-soms-een-rol_sto23332347/story.shtml",
-          "publishedDate": "Sat, 29 Aug 2026 12:30:00 GMT",
-          "description": "Wout van Aert zag zaterdag niet alleen een ploeggenoot tegen de grond gaan, maar met Tadej Pogacar ook een van de grootste blikvangers van deze Vuelta."
+          "title": "Arne Slot gespot: clubloze coach duikt op bij Eredivisie-wedstrijd van oude liefde",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/arne-slot-gespot-clubloze-coach-duikt-op-bij-eredivisie-wedstrijd-van-oude-liefde/ar-AA2bbdwf",
+          "publishedDate": "Sat, 29 Aug 2026 13:18:11 GMT",
+          "description": "Arne Slot zit zaterdagavond op de tribune bij het treffen tussen PEC Zwolle en NEC in het MAC3PARK stadion. Vlak voor rust komt de oefenmeester, die na zijn vertrek bij Liverpool clubloos is, in beeld ..."
         },
         {
-          "title": "Meerdere breuken bij Tadej Pogacar. Opereren nu nog niet mogelijk.",
-          "source": "WielerFlits on MSN",
-          "url": "https://www.msn.com/nl-be/gezondheid/algemeen/meerdere-breuken-bij-tadej-pogacar-opereren-nu-nog-niet-mogelijk/ar-AA2bbBYP",
-          "publishedDate": "Sat, 29 Aug 2026 11:56:51 GMT",
-          "description": "Tadej Pogacar heeft bij zijn val in de achtste etappe van de Vuelta a Espa&#241;a zijn linkersleutelbeen en een nekwervel gebroken. Ook heeft hij een hersenschudding opgelopen en is er sprake van diverse s ..."
+          "title": "‘Bliksemterugkeer Arne Slot’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/bliksemterugkeer-arne-slot/",
+          "publishedDate": "Sat, 29 Aug 2026 12:42:00 GMT",
+          "description": "Arne Slot werd in zijn eerste seizoen landskampioen met Liverpool, maar in zijn tweede seizoen viel het allemaal vies tegen. Heel Engeland heeft het over ..."
         },
         {
-          "title": "UAE-manager vreest voor schade bij Tadej Pogacar: “Veel last van zijn schouder”",
-          "source": "WielerFlits",
-          "url": "https://www.wielerflits.nl/nieuws/uae-manager-vreest-voor-schade-bij-tadej-pogacar-veel-last-van-zijn-schouder/",
-          "publishedDate": "Sat, 29 Aug 2026 11:55:00 GMT",
-          "description": "UAE-manager vreest schade aan Pogacars schouder na val in Vuelta. Lees meer over zijn herstel en luister naar Matx&#237;ns eerste reactie. Blijf op de hoogte!"
+          "title": "‘Arne Slot-schandaal op Anfield live op tv’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/arne-slot-schandaal-op-anfield-live-op-tv/",
+          "publishedDate": "Sat, 29 Aug 2026 08:35:00 GMT",
+          "description": "Andoni Iraola slaagt er vooralsnog niet in om het chagrijn op Anfield van zich af te schudden. Liverpool wist ook de tweede competitiewedstrijd onder de ..."
         },
         {
-          "title": "Dit is het nieuwe algemeen klassement van de Vuelta nu Pogacar er niet meer bij is",
-          "source": "Wieler Revue on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/dit-is-het-nieuwe-algemeen-klassement-van-de-vuelta-nu-pogacar-er-niet-meer-bij-is/ar-AA2baUXP",
-          "publishedDate": "Sat, 29 Aug 2026 11:20:00 GMT",
-          "description": "Tadej Pogacar is er niet meer bij in de Vuelta, en dat betekent dat het algemeen klassement er totaal anders uit ziet. Ontdek de nieuwe stand van zaken."
+          "title": "Arne Slot verrast Suzan en Freek bij Liverpool: 'Ik dacht: waar gaan we heen joh'",
+          "source": "Voetbalprimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2127207/arne-slot-verrast-suzan-en-freek-bij-liverpool.html",
+          "publishedDate": "Wed, 26 Aug 2026 15:01:00 GMT",
+          "description": "Blessuregevallen, transfers, interviews en wedstrijdverslagen; alles vind je in de nieuwslijst van VoetbalPrimeur. In de rubriek 'Buitenspel' houden we jullie &#243;&#243;k op de hoogte van de zaken die een te ..."
         },
         {
-          "title": "Klassementen Vuelta &#224; Espa&#241;a | Enric Mas nieuwe leider na opgave Tadej Pogacar, Wout van Aert in het groen",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/wielrennen/nieuws/klassementen-vuelta-a-espana-enric-mas-nieuwe-leider-na-opgave-tadej-pogacar-wout-van-aert-in-het-groen-2026082010323083366/",
-          "publishedDate": "Sat, 29 Aug 2026 11:10:00 GMT",
-          "description": "De Vuelta &#224; Espa&#241;a werd lange tijd gedomineerd door Tadej Pogacar. De Sloveen had geruime tijd de leiding in liefst drie klassementen, maar is die inmiddels allemaal kwijt. In etappe 8 sloeg het noodl ..."
+          "title": "Arne Slot verklaart besluit om Oranje af te wijzen met twee zinnen",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/07/arne-slot-verklaart-besluit-om-oranje-af-te-wijzen-met-twee-zinnen",
+          "publishedDate": "Thu, 30 Jul 2026 15:00:00 GMT",
+          "description": "Arne Slot bevestigt dat hij in het Europese clubvoetbal actief wil blijven. Daardoor moet de KNVB op zoek naar een andere opvolger van Ronald Koeman."
         },
         {
-          "title": "Chaos in de finale zorgt voor verrassende winnaar in onthoofde Vuelta-etappe na opgave Tadej Pogacar",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/wielrennen/nieuws/chaos-in-de-finale-zorgt-voor-verrassende-winnaar-in-onthoofde-vuelta-etappe-na-opgave-tadej-pogacar-2026082910135334380/",
-          "publishedDate": "Sat, 29 Aug 2026 10:55:00 GMT",
-          "description": "De achtste etappe van de Vuelta a Espa&#241;a eindigde zaterdag in een chaotische massasprint in Xeraco, waarin Bryan Coquard verrassend de sterkste bleek. De 34-jarige Fransman was net iets sneller dan Ma ..."
+          "title": "Arne Slot kan Nederlands elftal links laten liggen voor avontuur in Saoedi-Arabi&#235;",
+          "source": "footballtransfers",
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/sa-pro-league/2026/07/arne-slot-kan-lokroep-knvb-negeren-en-kiezen-voor-al-ahli",
+          "publishedDate": "Thu, 30 Jul 2026 07:29:00 GMT",
+          "description": "Dylan ter Laak is sinds 2022 actief in de voetbaljournalistiek en werkt sinds 2025 als redacteur bij FootballTransfers, waar hij schrijft over transfernieuws en achtergrondverhalen maakt. Maak ons je ..."
         },
         {
-          "title": "UPDATE. Tadej Pogacar loopt hersenschudding en breuken in het sleutelbeen &#233;n nekwervel op bij val in Vuelta",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/vuelta/update-tadej-pogacar-loopt-hersenschudding-en-breuken-in-het-sleutelbeen-en-nekwervel-op-bij-val-in-vuelta~a1dd3521/",
-          "publishedDate": "Sat, 29 Aug 2026 07:08:00 GMT",
-          "description": "Drama voor UAE Team Emirates-XRG en &lt;a href=&quot;https://hln.be/dossier/~dc0f22110-3c24-44de-bc9b-ba116b691715&quot; target=&quot;_blank&quot;&gt;Tadej Pogacar (27). De Sloveense leider in de &lt;a href=&quot;https://www.hln.be/vu ..."
+          "title": "Grijpt KNVB mis? Arne Slot ineens kandidaat bij steenrijke club",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/07/zorgelijk-nieuws-voor-knvb-en-komst-arne-slot",
+          "publishedDate": "Thu, 30 Jul 2026 07:19:00 GMT",
+          "description": "Arne Slot is in beeld om trainer van Al-Ahli te worden. Dat kan slecht nieuws betekenen voor Oranje, waar hij wordt genoemd als nieuwe bondscoach."
+        },
+        {
+          "title": "Arne Slot kan na ontslag bij Liverpool opnieuw aan de slag in Premier League",
+          "source": "footballtransfers",
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/uk-premier-league/2026/06/arne-slot-kan-na-ontslag-bij-liverpool-opnieuw-aan-de-slag-in-premier-league",
+          "publishedDate": "Thu, 04 Jun 2026 07:26:00 GMT",
+          "description": "Dylan ter Laak is sinds 2022 actief in de voetbaljournalistiek en werkt sinds 2025 als redacteur bij FootballTransfers, waar hij schrijft over transfernieuws en achtergrondverhalen maakt. Maak ons je ..."
         }
       ]
     }
