@@ -1,37 +1,58 @@
 {
-  "fetchedAt": "2026-09-01T11:53:08.236Z",
+  "fetchedAt": "2026-09-01T15:53:08.947Z",
   "trends": [
     {
       "keyword": "overasselt",
-      "trafficLabel": "20K+",
+      "trafficLabel": "50K+",
       "articles": [
         {
-          "title": "Politie-operatie in Overasselt nog steeds gaande, opnieuw drie verdachten opgepakt",
+          "title": "Politie waarschuwt voor ‘mogelijk gevaar’: inwoners Overasselt en Nederasselt moeten binnenblijven",
           "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/politie-operatie-in-overasselt-nog-steeds-gaande-opnieuw-drie-verdachten-opgepakt~b630ad65/",
+          "url": "https://www.volkskrant.nl/binnenland/politie-waarschuwt-voor-mogelijk-gevaar-inwoners-overasselt-en-nederasselt-moeten-binnenblijven~b630ad65/",
           "publishedDate": "Tue, 01 Sep 2026 01:49:00 GMT",
-          "description": "In het Gelderse dorp Overasselt is een grote politie-actie aan de gang, nadat vannacht een dode is gevallen bij een schietpartij. De politie heeft meerdere aanhoudingen verricht, twee agenten zijn gew ..."
+          "description": "In het Gelderse dorp Overasselt is een grote politie-actie gaande, nadat een groep mannen met automatische wapens vannacht een woonboerderij aanviel. Twee agenten zijn neergeschoten, maar buiten leven ..."
         },
         {
-          "title": "In beeld: veel politie in Overasselt, ‘groot aantal’ aanhoudingen verricht",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/in-beeld-veel-politie-in-overasselt-groot-aantal-aanhoudingen-verricht~b630ad65/",
-          "publishedDate": "Tue, 01 Sep 2026 01:49:00 GMT",
-          "description": "In het Gelderse dorp Overasselt is een grote politie-actie aan de gang, nadat vannacht een dode is gevallen bij een schietpartij. De politie heeft meerdere aanhoudingen verricht, twee agenten zijn ..."
-        },
-        {
-          "title": "Schietpartij in Overasselt gelinkt aan hoogopgelopen conflict over grote hoeveelheid coca&#239;ne van Bolle Jos",
+          "title": "LIVE schietpartij Overasselt | Doodgeschoten beveiliger is 51-jarige man uit Wijchen, politie arresteert 34 verdachten uit binnen- en buitenland",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/schietpartij-in-overasselt-gelinkt-aan-hoogopgelopen-conflict-over-grote-hoeveelheid-cocaine-van-bolle-jos~aaf5fcb9/",
-          "publishedDate": "Mon, 31 Aug 2026 21:45:00 GMT",
-          "description": "De schietpartij in het Gelderse Overasselt, waarbij dinsdagochtend een dode viel en twee politieagenten gewond raakten, wordt door diverse bronnen gelinkt aan ‘Bolle Jos’ Leijdekkers. Het conflict zou ..."
+          "url": "https://www.ad.nl/binnenland/live-schietpartij-overasselt-doodgeschoten-beveiliger-is-51-jarige-man-uit-wijchen-politie-arresteert-34-verdachten-uit-binnen-en-buitenland~a34cf39a/",
+          "publishedDate": "Tue, 01 Sep 2026 01:31:00 GMT",
+          "description": "Er is nog steeds sprake van ‘mogelijk gevaar’ in de omgeving van Overasselt, waar in de nacht van maandag op dinsdag een schietpartij plaatsvond. De politie vraagt inwoners zoveel mogelijk binnen te b ..."
         },
         {
-          "title": "Live Overasselt | Aanhoudingen bij politieacties op A73 en A76",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/misdaad/6408233/live-overasselt-aanhoudingen-bij-politieacties-op-a73-en-a76.html",
+          "title": "Politie arresteert 34 mensen van ‘internationaal gezelschap’ voor geweld in Overasselt",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/politie-arresteert-34-mensen-van-internationaal-gezelschap-voor-geweld-in-overasselt~acda8689/",
           "publishedDate": "Mon, 31 Aug 2026 20:41:00 GMT",
-          "description": "Hallo en welkom in dit liveblog. Hier houden we je op de hoogte van de laatste ontwikkelingen rond de grote politieactie in Overasselt, waar vannacht een schietpartij met veel betrokkenen plaatsvond."
+          "description": "De politie heeft 34 mensen aangehouden na het geweld dat dinsdag plaatsvond in het Gelderse Overasselt. Agenten hebben de personen op verschillende plaatsen aangehouden, onder meer net over de grens b ..."
+        },
+        {
+          "title": "Politie: nog steeds mogelijk gevaar na schietpartij in Overasselt",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/binnenland/politie-nog-steeds-mogelijk-gevaar-na-schietpartij-in-overasselt~be2ddfbf/",
+          "publishedDate": "Mon, 31 Aug 2026 20:08:00 GMT",
+          "description": "De politie vraagt inwoners zoveel mogelijk binnen te blijven en roept mensen op niet naar het gebied te komen als dat niet nodig is."
+        },
+        {
+          "title": "Persconferentie over Overasselt: 51-jarige man uit Wijchen overleden en 34 mensen aangehouden",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2629233-persconferentie-over-overasselt-51-jarige-man-uit-wijchen-overleden-en-34-mensen-aangehouden",
+          "publishedDate": "Mon, 31 Aug 2026 20:00:00 GMT",
+          "description": "Volg hier het laatste nieuws over een grote politieactie in Overasselt, waarbij een dode is gevallen en twee agenten gewond zijn geraakt."
+        },
+        {
+          "title": "Verslagever L&#233;on Mastik over de 'on-Nederlandse schietpartij in Overasselt",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/videos/verslagever-leon-mastik-over-de-on-nederlandse-schietpartij-in-overasselt",
+          "publishedDate": "Tue, 01 Sep 2026 08:19:00 GMT",
+          "description": "Bij een zeer gewelddadige schietpartij in Overasselt is dinsdagochtend een 51-jarige man uit Wijchen om het leven gekomen. Twee politieagenten raakten gewond, maar zijn buiten levensgevaar. Verslaggev ..."
+        },
+        {
+          "title": "Politie vraagt inwoners Overasselt binnen te blijven na schietpartij: 'mogelijk nog gevaar'",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/artikelen/overasselt-politie-inwoners-binnen-blijven-mogelijk-gevaar",
+          "publishedDate": "Tue, 01 Sep 2026 07:32:00 GMT",
+          "description": "De politie roept inwoners van Overasselt op binnen te blijven en niet naar het gebied te komen. Er is nog steeds sprake van &quot;mogelijk gevaar&quot; in de omgeving."
         },
         {
           "title": "Chaos, een dode en gewonde agenten in het Gelderse Overasselt: 'Mogelijk link Bolle Jos'",
@@ -41,39 +62,18 @@
           "description": "In de nacht van maandag op dinsdag is er een dode gevallen bij een schietpartij tussen twee groepen in Overasselt. Ook op dinsdagochtend is het nog niet rustig in het Gelderse dorp."
         },
         {
-          "title": "Overasselt opgeschrikt door geweld: dit weten we nu",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/crime/videos/overasselt-opgeschrikt-door-geweld-dit-weten-we-nu",
-          "publishedDate": "Tue, 01 Sep 2026 04:07:00 GMT",
-          "description": "Bij een schietpartij in de Gelderse plaats Overasselt is dinsdagochtend iemand om het leven gekomen. Twee politieagenten raakten gewond. Op beelden van De Telegraaf is te zien hoe een grote groep gewa ..."
+          "title": "Dit is Jan G., bewoner van het huis in Overasselt dat doelwit was van wildwestaanval",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/binnenland/dit-is-jan-g-bewoner-van-het-huis-in-overasselt-dat-doelwit-was-van-wildwestaanval~a845f52d/",
+          "publishedDate": "Tue, 01 Sep 2026 00:43:00 GMT",
+          "description": "Een verscheurde foto van h&#233;m. En daarna 25 kogels afgevuurd op de poort naar zijn oprijlaan. Bij het huis in Overasselt waar vannacht een beveiliger is doodgeschoten, ging het de voorbije jaren vaker ..."
         },
         {
-          "title": "Overasselt opgeschrikt door extreem geweld: dit weten we nu",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/crime/artikelen/gelderland-overasselt-schietpartij-dode-agenten-bolle-jos",
-          "publishedDate": "Tue, 01 Sep 2026 03:21:00 GMT",
-          "description": "Bij een schietpartij in Overasselt is een 41-jarige man omgekomen en raakten twee agenten gewond. Meer dan twintig gewapende mannen zouden een boerderij hebben bestormd. Mogelijk is er een link met de ..."
-        },
-        {
-          "title": "KIJK | Camera filmt flink aantal schoten in Overasselt",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/nijmegen/kijk-camera-filmt-flink-aantal-schoten-in-overasselt~a369668e/",
-          "publishedDate": "Mon, 31 Aug 2026 20:50:00 GMT",
-          "description": "Een enorme klopjacht is gaande in en om Overasselt na een melding van een inbraak. Een bewaker die bij een huis stond, is om het leven gekomen, zo melden bronnen aan De Gelderlander. Ook zijn er twee ..."
-        },
-        {
-          "title": "Dit is wat we weten over de schietpartij in Overasselt: enorme klopjacht, bewaker dood en woning ‘bekend adres’",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/heumen/dit-is-wat-we-weten-over-de-schietpartij-in-overasselt-enorme-klopjacht-bewaker-dood-en-woning-bekend-adres~a72924fa/",
-          "publishedDate": "Mon, 31 Aug 2026 20:45:00 GMT",
-          "description": "Een enorme klopjacht is gaande in en om Overasselt na een melding van een inbraak in het dorp bij Nijmegen. &lt;a href=&quot;https://www.gelderlander.nl/binnenland/live-overasselt-beveiliger-omgekomen-bij-sch ..."
-        },
-        {
-          "title": "Aanhoudingen op A73 en A76 na schietpartij Overasselt",
-          "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/aanhoudingen-op-a73-en-a76-na-schietpartij-overasselt",
-          "publishedDate": "Mon, 31 Aug 2026 16:10:00 GMT",
-          "description": "OVERASSELT (ANP) - Bij politieacties aan het einde van de ochtend op de snelwegen A73 en A76 zijn diverse aanhoudingen verricht. Die aanhoudingen houden verband ..."
+          "title": "Jan G. was doelwit van actie in Overasselt, zou hebben samengewerkt met Bolle Jos",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/binnenland/jan-g-was-doelwit-van-actie-in-overasselt-zou-hebben-samengewerkt-met-bolle-jos~aaf5fcb9/",
+          "publishedDate": "Tue, 01 Sep 2026 00:24:00 GMT",
+          "description": "De schietpartij in Overasselt, waarbij dinsdagochtend een dode viel en twee politieagenten gewond raakten, wordt door diverse bronnen gelinkt aan ‘Bolle Jos’ Leijdekkers. Het conflict zou gaan om vele ..."
         }
       ]
     },
@@ -91,395 +91,159 @@
       ]
     },
     {
-      "keyword": "barcelona - rayo",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "FC Barcelona wint onder toeziend oog van Gabriel Jesus ook van Rayo Vallecano",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6408194/fc-barcelona-wint-onder-toeziend-oog-van-gabriel-jesus-ook-van-rayo-vallecano.html",
-          "publishedDate": "Mon, 31 Aug 2026 16:31:00 GMT",
-          "description": "FC Barcelona heeft maandag ook de derde competitiewedstrijd van het seizoen gewonnen. De regerend landskampioen won mede door een prachtgoal van Lamine Yamal met 5-2 van Rayo Vallecano. De aanstaande ..."
-        },
-        {
-          "title": "Barcelona incasseert eerste tegentreffers, maar wint soepel van Rayo Vallecano",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2629194-barcelona-incasseert-eerste-tegentreffers-maar-wint-soepel-van-rayo-vallecano",
-          "publishedDate": "Mon, 31 Aug 2026 14:56:00 GMT",
-          "description": "Rayo nam brutaal de leiding via Sergio Camello, die hard en hoog binnenschoot. Het betekende de eerste tegentreffer voor Barcelona dit seizoen. De Catalanen hadden tien minuten later de orde al ..."
-        },
-        {
-          "title": "Spaanse media zeggen allemaal hetzelfde over peperdure aankoop Anthony Gordon na FC Barcelona - Rayo Vallecano",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/spaanse-media-zeggen-allemaal-hetzelfde-over-peperdure-aankoop-anthony-gordon-na-fc-barcelona-rayo-vallecano/bltb587e1e3b712fee1",
-          "publishedDate": "Tue, 01 Sep 2026 01:46:00 GMT",
-          "description": "Anthony Gordon begint zich razendsnel geliefd te maken bij Barcelona. De Engelsman speelde maandagavond een hoofdrol in het gewonnen duel met Rayo Vallecano (5-2) door de 3-1 af te dwingen en de 4-2 v ..."
-        },
-        {
-          "title": "Lamine Yamal en Raphinha helpen Barcelona aan ruime zege",
-          "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/lamine-yamal-en-raphinha-helpen-barcelona-aan-ruime-zege",
-          "publishedDate": "Mon, 31 Aug 2026 18:32:00 GMT",
-          "description": "BARCELONA (ANP) - Lamine Yamal en Raphinha hebben FC Barcelona aan een ruime zege op Rayo Vallecano geholpen. De aanvallers tekenden allebei voor twee doelpunte ..."
-        },
-        {
-          "title": "FC Barcelona maakt schitterende goals bij doelpuntrijke zege en pakt koppositie",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/fc-barcelona-maakt-schitterende-goals-bij-doelpuntrijke-zege-en-pakt-koppositie/ar-AA2biUj2",
-          "publishedDate": "Mon, 31 Aug 2026 14:54:00 GMT",
-          "description": "FC Barcelona is nog altijd foutloos in LaLiga. De Catalanen wonnen maandagavond ook hun derde duel van het seizoen: thuis tegen Rayo Vallecano eindigde een doelpuntrijk duel in 5-2."
-        },
-        {
-          "title": "Swingend Barcelona laat ondanks eerste tegengoals geen steek vallen tegen Rayo, Lamine Yamal trapt zich in stijl naar record",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/matches/voetbal/buitenland/spa/laliga-ea-sports/2026-2027/regulier/03/fc-barcelona-rayo-swingend-barcelona-laat-ondanks-eerste-tegengoals-geen-steek-vallen-tegen-rayo-lamine-yamal-trapt-zich-in-stijl-naar-record~1784028601509/",
-          "publishedDate": "Mon, 31 Aug 2026 14:33:00 GMT",
-          "description": "Na amper 12 minuten maakte Rayo al komaf met die vlekkeloze statistiek. Camello bracht de bezoekers op voorsprong in Camp Nou. 9 minuten en een miniremontada later was de scheve situatie alweer ..."
-        },
-        {
-          "title": "Raphinha en Lamine Yamal helpen Bar&#231;a voorbij Rayo en terug aan kop",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/raphinha-en-lamine-yamal-helpen-barca-voorbij-rayo-en-terug-aan-kop",
-          "publishedDate": "Mon, 31 Aug 2026 14:29:00 GMT",
-          "description": "Barcelona heeft maandagavond de koppositie in La Liga weer gegrepen. In Camp Nou was de formatie te sterk voor Rayo Vallecano en zo blijven de Catalanen foutloos in de Spaanse competitie. Het was in B ..."
-        },
-        {
-          "title": "Twee sterren staan op bij FC Barcelona: stunt Rayo blijft na zeven doelpunten uit",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/twee-sterren-staan-op-bij-fc-barcelona-stunt-rayo-blijft-na-zeven-doelpunten-uit/ar-AA2biZdN",
-          "publishedDate": "Mon, 31 Aug 2026 14:29:00 GMT",
-          "description": "FC Barcelona heeft in eigen huis afgerekend met Rayo Vallecano. De ploeg van Hansi Flick stond al na twaalf minuten op achterstand, maar kwam ook alweer snel langszij. Raphinha en Lamine Yamal waren m ..."
-        },
-        {
-          "title": "Praat mee op VP: FC Barcelona - Rayo Vallecano",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-fc-barcelona-rayo-vallecano/ar-AA2birOQ",
-          "publishedDate": "Mon, 31 Aug 2026 12:05:00 GMT",
-          "description": "FC Barcelona sluit maandagavond de derde speelronde van La Liga af tegen Rayo Vallecano. De wedstrijd begint om 21.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat m ..."
-        },
-        {
-          "title": "Barcelona vs. Rayo Vallecano voorspelling, tips en quotes | 31/08/2026",
-          "source": "Eurosport",
-          "url": "https://www.eurosport.nl/weddenschappen/voorspellingen/barcelona-vs-rayo-vallecano-voorspelling-tips-en-quotes-31-08-2026/",
-          "publishedDate": "Sun, 30 Aug 2026 12:24:00 GMT",
-          "description": "De laatste twee keer dat Barcelona gastheer was voor dit duel eindigden in 1-0 zeges, met Ronald Araujo die de winnende treffer kopte in maart 2026 en Lewandowski die een penalty benutte toen beide ..."
-        }
-      ]
-    },
-    {
-      "keyword": "elco brinkman",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Moderne CDA'er Brinkman werd toch niet de premier die Nederland de nieuwe eeuw in loodste",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2629147-moderne-cda-er-brinkman-werd-toch-niet-de-premier-die-nederland-de-nieuwe-eeuw-in-loodste",
-          "publishedDate": "Mon, 31 Aug 2026 08:32:00 GMT",
-          "description": "Brinkman werd al vroeg tot kroonprins bestempeld. Dat hij zich met harde rechtse taal tegen premier Lubbers keerde, werd hem fataal."
-        },
-        {
-          "title": "Bontenbal: Brinkman zette zich vol toewijding in voor Nederland",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/politiek/bontenbal-brinkman-zette-zich-vol-toewijding-in-voor-nederland-YCGZyp",
-          "publishedDate": "Mon, 31 Aug 2026 09:51:00 GMT",
-          "description": "DEN HAAG (ANP) - De maandag overleden CDA'er Elco Brinkman nam als partijleider, minister en volksvertegenwoordiger &quot;verantwoordelijkheid wanneer daar een beroep op hem werd gedaan&quot;, aldus CDA-leider."
-        }
-      ]
-    },
-    {
-      "keyword": "tanja koen",
+      "keyword": "begroting",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Eerste NCRV-omroepster en televisiepionier Tanja Koen (100) overleden",
+          "title": "Kabinet rekent op brede steun oppositie voor begroting, maar die is nog sceptisch",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2629182-eerste-ncrv-omroepster-en-televisiepionier-tanja-koen-100-overleden",
-          "publishedDate": "Mon, 31 Aug 2026 13:06:00 GMT",
-          "description": "In de beginjaren van de televisie presteerde ze vele programma's voor de NCRV. Volgens de omroep is een pionier van de Nederlandse televisie overleden."
+          "url": "https://nos.nl/artikel/2629171-kabinet-rekent-op-brede-steun-oppositie-voor-begroting-maar-die-is-nog-sceptisch",
+          "publishedDate": "Mon, 31 Aug 2026 11:48:00 GMT",
+          "description": "Volgens premier Jetten zitten er &quot;forse handreikingen&quot; in aan de oppositie. Welke, zal op Prinsjesdag blijken."
         },
         {
-          "title": "Eerste NCRV-omroepster Tanja Koen was in 1951 in &#233;&#233;n klap beroemd",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/08/31/eerste-ncrv-omroepster-tanja-koen-was-a4935535",
-          "publishedDate": "Mon, 31 Aug 2026 12:40:00 GMT",
-          "description": "Tanja Koen (1925-2026): In 1951 was Tanja Koen de eerste televisie-omroepster van de NCRV. Vorige week maandag overleed ze op 100-jarige leeftijd. Volgens de omroep was Koen „een van de laatste verteg ..."
+          "title": "Minderheidscoalitie voorkomt crisis met begroting zonder toezegging oppositie",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/politiek/minderheidscoalitie-voorkomt-crisis-met-begroting-zonder-toezegging-oppositie~b3efcc47/",
+          "publishedDate": "Mon, 31 Aug 2026 10:58:00 GMT",
+          "description": "De eerste begrotingsonderhandelingen van het minderheidskabinet-Jetten werden uiteindelijk een heuse miniformatie. De coalitie van D66, VVD en CDA heeft het zelf zover laten komen."
         },
         {
-          "title": "Eerste NCRV-televisieomroepster Tanja Koen (100) overleden",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/kunst-media/eerste-ncrv-televisieomroepster-tanja-koen-100-overleden~b1b8fb3f/",
-          "publishedDate": "Mon, 31 Aug 2026 10:19:00 GMT",
-          "description": "Tanja Koen, de eerste televisieomroepster van de NCRV, is vorige week maandag op 100-jarige leeftijd overleden. Dat heeft haar familie bekendgemaakt via de KRO-NCRV. De uitvaart heeft inmiddels in bes ..."
+          "title": "Belgische begroting: Zo willen de Franstalige oppositiepartijen 10 miljard euro besparen",
+          "source": "Business AM on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/belgische-begroting-zo-willen-de-franstalige-oppositiepartijen-10-miljard-euro-besparen/ar-AA2blcPk",
+          "publishedDate": "Tue, 01 Sep 2026 06:30:00 GMT",
+          "description": "Key takeaways Nu de federale regering deze week weer bijeenkomt, zal de aandacht vooral uitgaan naar de cruciale taak om de begroting in evenwicht te brengen. 10 miljard euro De regering-De Wever stre ..."
         },
         {
-          "title": "Televisiepionier en NCRV-omroepster Tanja Koen (100) overleden",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/artikel/5646294/eerste-ncrv-televisieomroepster-tanja-koen-100-overleden",
-          "publishedDate": "Mon, 31 Aug 2026 08:17:00 GMT",
-          "description": "Tanja Koen, de eerste televisieomroepster van de NCRV, is maandag 24 augustus op 100-jarige leeftijd overleden. Dat heeft de familie maandag bekendgemaakt via de KRO-NCRV. De uitvaart heeft inmiddels ..."
+          "title": "Coalitie haalt begrotingsdeadline, maar van opluchting is nog geen sprake",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/nieuws/politiek/96341318-191f-458f-8bb2-e1ed01b299e9/coalitie-haalt-begrotingsdeadline-maar-van-opluchting-is-nog-geen-sprake",
+          "publishedDate": "Tue, 01 Sep 2026 05:07:00 GMT",
+          "description": "Na lange dagen onderhandelen zijn D66, VVD en CDA eruit gekomen over de begroting. De onderhandelingen verliepen de afgelopen dagen stevig, met felle botsingen tussen de coalitiepartijen. &quot;Het leek so ..."
         },
         {
-          "title": "KRO-NCRV: Tanja Koen was meer dan een omroepster",
+          "title": "De coalitie is het eindelijk eens over de begroting, maar moet nu de oppositie nog overhalen",
+          "source": "Het Financieele Dagblad",
+          "url": "https://fd.nl/politiek/1610563/kabinet-kruipt-richting-akkoord-over-begroting-na-dagen-overleg",
+          "publishedDate": "Mon, 31 Aug 2026 14:21:00 GMT",
+          "description": "De drie coalitiepartijen zitten dicht bij een akkoord over de begroting voor volgend jaar, melden Haagse bronnen. Daarmee zou een kabinetscrisis van de baan zijn."
+        },
+        {
+          "title": "Jetten: forse handreikingen aan oppositie in begroting",
           "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/kro-ncrv-tanja-koen-was-meer-dan-een-omroepster",
-          "publishedDate": "Mon, 31 Aug 2026 10:19:00 GMT",
-          "description": "Tanja Koen was voor de NCRV een gezicht dat de omroep mede heeft vormgegeven. Dat laat directievoorzitter Arie Koornneef weten in een reactie op het overlijden van de eerste televisieomroepster van de ..."
+          "url": "https://nieuws.nl/politiek/jetten-forse-handreikingen-aan-oppositie-in-begroting-wPe97r",
+          "publishedDate": "Mon, 31 Aug 2026 14:03:00 GMT",
+          "description": "DEN HAAG (ANP) - De coalitie doet &quot;een aantal forse handreikingen&quot; aan de oppositie, zei premier Rob Jetten nadat de begroting is goedgekeurd door het kabinet. Hij denkt zo steun van rechts tot links."
         },
         {
-          "title": "Eerste NCRV-televisieomroepster Tanja Koen (100) overleden: 'Groot verlies'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/algemeen/nederland/artikelen/eerste-ncrv-televisieomroepster-tanja-koen-100-overleden-groot-verlies",
-          "publishedDate": "Mon, 31 Aug 2026 08:54:00 GMT",
-          "description": "Tanja Koen, de eerste NCRV-televisieomroepster, is op 100-jarige leeftijd overleden. Ze was een pionier in de Nederlandse televisie en liet een blijvende indruk achter."
+          "title": "Coalitiepartijen na dagen onderhandelen akkoord over begroting",
+          "source": "Nederlands Dagblad",
+          "url": "https://www.nd.nl/nieuws/politiek/1329335/coalitiepartijen-na-dagen-onderhandelen-akkoord-over-begroting",
+          "publishedDate": "Mon, 31 Aug 2026 11:21:00 GMT",
+          "description": "Coalitiepartijen D66, VVD en CDA zijn het na dagen onderhandelen eens geworden over de begroting, bevestigen ingewijden na berichtgeving van NU.nl en de NOS. Het akkoord moet nog worden goedgekeurd do ..."
         },
         {
-          "title": "Tanja Koen overleden",
-          "source": "Spreekbuis.nl",
-          "url": "https://www.spreekbuis.nl/tanja-koen-overleden/",
-          "publishedDate": "Mon, 31 Aug 2026 08:43:00 GMT",
-          "description": "Oud-NCRV-omroepster Tanja Koen is op 100-jarige leeftijd overleden. Koen overleed op maandag 24 augustus en is maandag in besloten kring begraven, meldt KRO-NCRV. Koen begon kort na de Tweede Wereldoo ..."
+          "title": "Stoffer na akkoord begroting: Troonrede lijkt al op voorhand achterhaald",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1161049-coalitiepartijen-na-dagen-onderhandelen-akkoord-over-begroting",
+          "publishedDate": "Mon, 31 Aug 2026 11:01:00 GMT",
+          "description": "Coalitiepartijen D66, VVD en CDA zijn het na dagen onderhandelen eens geworden over de begroting, bevestigen ingewijden."
+        },
+        {
+          "title": "Kabinet buigt zich over begroting na urenlang coalitieoverleg",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/algemeen/kabinet-buigt-zich-over-begroting-na-urenlang-coalitieoverleg",
+          "publishedDate": "Mon, 31 Aug 2026 10:31:00 GMT",
+          "description": "DEN HAAG (ANP) - Het kabinet begint maandagavond aan de begrotingsraad, het overleg over de financi&#235;le stukken die later op de dag naar de Raad van State moeten. De eerste bewindspersonen zijn voor he ..."
+        },
+        {
+          "title": "D66, VVD en CDA bereiken akkoord over begroting na wekenlang overleg",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/politiek/beleid/artikelen/kabinet-jetten-begrotingsakkoord-d66-vvd-cda",
+          "publishedDate": "Mon, 31 Aug 2026 09:19:00 GMT",
+          "description": "D66, VVD en CDA hebben na dagen onderhandelen een akkoord bereikt over de begroting. Oppositiepartijen zijn nog niet aangesloten, waardoor het kabinet nog geen meerderheid heeft in de Tweede en Eerste ..."
         }
       ]
     },
     {
-      "keyword": "simon adingra",
+      "keyword": "badr hari opgepakt",
+      "trafficLabel": "10K+",
+      "articles": []
+    },
+    {
+      "keyword": "koningin",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Ajax wil na Simon Adingra nog een linksbuiten halen, club kijkt ook naar verdediger Thilo Kehrer",
+          "title": "Hoe Mette-Marit, het meisje met het wilde verleden, t&#243;ch koningin van Noorwegen werd",
           "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/sport/voetbal/ajax-wil-na-simon-adingra-nog-een-linksbuiten-halen-club-kijkt-ook-naar-verdediger-thilo-kehrer/160796054.html",
-          "publishedDate": "Tue, 01 Sep 2026 02:30:00 GMT",
-          "description": "Ajax maakt serieus werk van de komst van Leo Salazar Hinojosa (19). Dat melden bronnen in Spanje. De linksbuiten van Espanyol B moet in Jong Ajax worden klaargestoomd voor het grote werk. De afronding ..."
+          "url": "https://www.telegraaf.nl/entertainment/royals/hoe-mette-marit-het-meisje-met-het-wilde-verleden-toch-koningin-van-noorwegen-werd/160655095.html",
+          "publishedDate": "Fri, 28 Aug 2026 12:30:00 GMT",
+          "description": "Toen Mette-Marit vrijdagmorgen wakker werd, was ze nog kroonprinses van Noorwegen. Om 06.35 uur veranderde alles. Op dat moment overleed koning Harald V in het Rikshospitalet in Oslo en werd zijn zoon ..."
         },
         {
-          "title": "Ajax dicht bij aantrekken 28-voudig Duits international; ook vervanger Godts bijna binnen",
-          "source": "ED.nl",
-          "url": "https://www.ed.nl/voetbal/ajax-dicht-bij-aantrekken-28-voudig-duits-international-ook-vervanger-godts-bijna-binnen~a4903809/",
-          "publishedDate": "Mon, 31 Aug 2026 19:26:00 GMT",
-          "description": "Thilo Kehrer is topkandidaat om in de laatste dagen van de transferperiode de defensie van Ajax te versterken. De gesprekken met AS Monaco over de huur van de 28-voudig Duits international verlopen po ..."
+          "title": "In Nederland moet je als koningin bovenal ‘een gewoon mens’ zijn",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/binnenland/in-nederland-moet-je-als-koningin-bovenal-een-gewoon-mens-zijn~b28f01e9/",
+          "publishedDate": "Mon, 24 Aug 2026 23:09:00 GMT",
+          "description": "Ze is weer terug, koningin M&#225;xima. In het openbare leven &#233;n in populariteit. In de ruim 25 jaar dat ze in het leven van de Nederlanders is, leerde M&#225;xima dure lessen, maar Nederland kan ook van haar l ..."
         },
         {
-          "title": "Ajax heeft ervaren 28-voudig Duits international bijna binnen",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/ajax-gaat-vol-voor-ervaren-28-voudig-duits-international/blte59e9787642f5211",
-          "publishedDate": "Tue, 01 Sep 2026 04:11:00 GMT",
-          "description": "De 29-jarige Kehrer staat momenteel onder contract bij AS Monaco, waar hij tijdens de eerste competitiewedstrijden genoegen moest nemen met een plek op de bank. Ajax voert positieve gesprekken met de ..."
+          "title": "Koning en koningin weer met alle dochters naar Prinsjesdag",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1161161-koning-en-koningin-weer-met-alle-dochters-naar-prinsjesdag",
+          "publishedDate": "Tue, 01 Sep 2026 07:42:00 GMT",
+          "description": "Koning Willem-Alexander en koningin M&#225;xima worden op Prinsjesdag weer vergezeld door hun drie dochters. De Rijksvoorlichtingsdienst laat weten dat prinses Amalia, prinses Alexia en prinses Ariane erbi ..."
         },
         {
-          "title": "Ajax-target Simon Adingra geeft garantie op dribbels en diepgang",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/ajax-target-simon-adingra-geeft-garantie-op-dribbels-en-diepgang/ar-AA2blaz7",
-          "publishedDate": "Tue, 01 Sep 2026 03:23:12 GMT",
-          "description": "Simon Adingra (24) moet bij Ajax de opvolger van Mika Godts worden . Tijd voor een analyse van de vleugelaanvaller, wiens ontwikkeling in de laatste twee jaar is gestagneerd."
+          "title": "Noorse koning Haakon legt eed af naast dochter, koningin Mette-Marit niet aanwezig",
+          "source": "De Standaard",
+          "url": "https://www.standaard.be/buitenland/noorse-koning-haakon-legt-eed-af-naast-dochter-koningin-mette-marit-niet-aanwezig/160740494.html",
+          "publishedDate": "Tue, 01 Sep 2026 06:24:00 GMT",
+          "description": "In zijn jonge jaren wilde hij surfer of winkeluitbater worden, maar als enige zoon van de Noorse koning Harald V wachtte Haakon een andere toekomst. De nieuwe vorst van Noorwegen zal de populariteit v ..."
         },
         {
-          "title": "Wie is Simon Adingra? De nieuwe buitenspeler van Ajax in een notendop",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/wie-is-simon-adingra-de-nieuwe-buitenspeler-van-ajax-in-een-notendop/vi-AA2bkk0Z",
-          "publishedDate": "Tue, 01 Sep 2026 03:12:20 GMT",
-          "description": "Van Schaik door het stof om ijsbaduitspraak: 'Het was iets te veel Wilco' Tentoonstelling ontwerper John Galliano in The Met gaat niet door Freek Rikkerink deelt levensles na de diagnose van kanker ..."
+          "title": "Koningin Mette-Marit mist plechtigheid van koning Haakon na medische tegenslag",
+          "source": "Newsmonkey on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/koningin-mette-marit-mist-plechtigheid-van-koning-haakon-na-medische-tegenslag/ar-AA2bkMkk",
+          "publishedDate": "Tue, 01 Sep 2026 03:29:00 GMT",
+          "description": "In het kort Door medische complicaties na een longtransplantatie kan koningin Mette-Marit (53) vanmiddag niet aanwezig zijn bij de be&#235;digingsceremonie van koning Haakon VIII (53). Het koninklijk palei ..."
         },
         {
-          "title": "Wie is Simon Adingra, beoogde vervanger van Mika Godts bij Ajax?",
-          "source": "VoetbalNieuws.nl",
-          "url": "https://www.voetbalnieuws.nl/nieuws/2130103/wie-is-simon-adingra-beoogde-vervanger-van-mika-godts-bij-ajax.html",
-          "publishedDate": "Tue, 01 Sep 2026 02:42:00 GMT",
-          "description": "Ajax wil Simon Adingra huren van Sunderland. Wie is de 24-jarige Ivoriaanse buitenspeler, wat zijn zijn kwaliteiten en waarom wil Ajax hem hebben?"
-        },
-        {
-          "title": "Ajax nadert 'stunt van jewelste': Verweij onthult financi&#235;le details",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/ajax-en-sunderland-naderen-akkoord-over-adingra-huur-met-optie-tot-koop",
-          "publishedDate": "Tue, 01 Sep 2026 00:42:00 GMT",
-          "description": "Ajax en Sunderland naderen een akkoord over de transfer van Simon Adingra. Mike Verweij onthult de financi&#235;le details van de deal."
-        },
-        {
-          "title": "Ajax dicht bij komst Simon Adingra met miljoenendeal voor huur van Sunderland",
-          "source": "FootballTransfers",
-          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/09/ajax-nadert-akkoord-over-huurtransfer-simon-adingra-met-sunderland",
-          "publishedDate": "Tue, 01 Sep 2026 00:36:00 GMT",
-          "description": "Ajax is hard op weg om de vacature op linksbuiten in te vullen met de komst van Simon Adingra. De Amsterdammers naderen een akkoord met Sunderland over huur met optie tot koop."
-        },
-        {
-          "title": "Wie is Simon Adingra? De Ivoriaanse vleugelflitser die Mika Godts moet opvolgen bij Ajax",
-          "source": "Voetbal4u",
-          "url": "https://www.voetbal4u.com/2026/09/01/wie-is-simon-adingra-de-ivoriaanse-vleugelflitser-die-mika-godts-moet-opvolgen-bij-ajax/",
-          "publishedDate": "Mon, 31 Aug 2026 20:55:00 GMT",
-          "description": "Ajax heeft in Simon Adingra een opvallende naam naar voren geschoven als opvolger van Mika Godts. De 24-jarige Ivoriaan moet in Amsterdam voor snelheid, diepgang en individuele actie zorgen op de link ..."
-        },
-        {
-          "title": "Ajax versterkt zich met Simon Adingra: ‘Koopoptie van zestien miljoen euro’",
-          "source": "Voetbal4u",
-          "url": "https://www.voetbal4u.com/2026/09/01/ajax-versterkt-zich-met-simon-adingra-koopoptie-van-zestien-miljoen-euro/",
-          "publishedDate": "Mon, 31 Aug 2026 20:21:00 GMT",
-          "description": "Ajax is momenteel zeer dicht bij het aantrekken van de Ivoriaanse linksbuiten Simon Adingra. De Amsterdammers willen hem voor een seizoen gaan huren van het Engelse Sunderland. Ze zouden tevens een op ..."
-        }
-      ]
-    },
-    {
-      "keyword": "thilo kehrer",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Thilo Kehrer (AS Monaco) onderweg naar Amsterdam voor keuring bij Ajax",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/sport/voetbal/thilo-kehrer-as-monaco-onderweg-naar-amsterdam-voor-keuring-bij-ajax/160804446.html",
-          "publishedDate": "Tue, 01 Sep 2026 04:23:00 GMT",
-          "description": "AS Monaco heeft Thilo Kehrer (29) toestemming gegeven om naar Amsterdam te reizen voor de medische keuring. Dat is vooruitlopend op een definitief akkoord tussen Ajax en de Franse topclub over de (ver ..."
-        },
-        {
-          "title": "Ajax wil na Simon Adingra nog een linksbuiten halen, club kijkt ook naar verdediger Thilo Kehrer",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/sport/voetbal/ajax-wil-na-simon-adingra-nog-een-linksbuiten-halen-club-kijkt-ook-naar-verdediger-thilo-kehrer/160796054.html",
-          "publishedDate": "Tue, 01 Sep 2026 02:30:00 GMT",
-          "description": "Ajax maakt serieus werk van de komst van Leo Salazar Hinojosa (19). Dat melden bronnen in Spanje. De linksbuiten van Espanyol B moet in Jong Ajax worden klaargestoomd voor het grote werk. De afronding ..."
-        },
-        {
-          "title": "Ajax heeft ervaren 28-voudig Duits international bijna binnen",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/ajax-gaat-vol-voor-ervaren-28-voudig-duits-international/blte59e9787642f5211",
-          "publishedDate": "Tue, 01 Sep 2026 04:11:00 GMT",
-          "description": "De 29-jarige Kehrer staat momenteel onder contract bij AS Monaco, waar hij tijdens de eerste competitiewedstrijden genoegen moest nemen met een plek op de bank. Ajax voert positieve gesprekken met de ..."
-        },
-        {
-          "title": "Ajax en AS Monaco in grote lijnen eens over huurdeal Kehrer; Duitser reist dinsdag naar Amsterdam",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/algemeen/ajax-en-as-monaco-in-grote-lijnen-eens-over-huurdeal-kehrer-duitser-reist-dinsdag-naar-amsterdam/ar-AA2bkFIn",
-          "publishedDate": "Tue, 01 Sep 2026 04:10:00 GMT",
-          "description": "Thilo Kehrer is bij Ajax topkandidaat om de defensie in de slotdagen van de zomerse transfermarkt te versterken. Dat meldt onder meer het Algemeen Dagblad dinsdagochtend. De krant meldt later op dinsd ..."
-        },
-        {
-          "title": "Dit is waarom Ajax goede zaken doet bij een transfer van Thilo Kehrer",
-          "source": "FootballTransfers",
-          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/09/ajax-doet-hierom-goede-zaken-bij-komst-thilo-kehrer-van-as-monaco",
-          "publishedDate": "Tue, 01 Sep 2026 03:25:00 GMT",
-          "description": "Ajax maakt momenteel werk van de komst van Thilo Kehrer. De Duitser van AS Monaco lijkt een waardevolle versterking te kunnen zijn voor de Amsterdammers."
-        },
-        {
-          "title": "Ajax denkt aan ervaren Kehrer als defensieve versterking",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/algemeen/ajax-denkt-aan-ervaren-kehrer-als-defensieve-versterking/ar-AA2bkwGh",
-          "publishedDate": "Tue, 01 Sep 2026 03:11:26 GMT",
-          "description": "Thilo Kehrer (29) is in beeld bij Ajax. De Amsterdammers onderzoeken de mogelijkheden tot een huurdeal met zijn club AS Monaco."
-        },
-        {
-          "title": "‘Ajax en AS Monaco bereiken akkoord over transfer van Thilo Kehrer (28)’",
-          "source": "Voetbal4u",
-          "url": "https://www.voetbal4u.com/2026/09/01/ajax-en-as-monaco-bereiken-akkoord-over-transfer-van-thilo-kehrer-28/",
-          "publishedDate": "Mon, 31 Aug 2026 21:23:00 GMT",
-          "description": "Ajax en AS Monaco zouden in hoofdlijnen een akkoord hebben bereikt over de transfer van Thilo Kehrer. Met dit nieuws pakt het 'Algemeen Dagblad' vandaag uit. De 28-jarige mandekker zou vandaag al naar ..."
-        },
-        {
-          "title": "Ajax dicht bij aantrekken 28-voudig Duits international; ook vervanger Godts bijna binnen",
+          "title": "Koningin Mette-Marit door complicaties na longtransplantatie afwezig bij eedaflegging van haar man Haakon",
           "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/voetbal/ajax-dicht-bij-aantrekken-28-voudig-duits-international-ook-vervanger-godts-bijna-binnen~a4903809/",
-          "publishedDate": "Mon, 31 Aug 2026 19:26:00 GMT",
-          "description": "Thilo Kehrer is topkandidaat om in de laatste dagen van de transferperiode de defensie van Ajax te versterken. De gesprekken met AS Monaco over de huur van de 28-voudig Duits international verlopen po ..."
+          "url": "https://www.bd.nl/show/koningin-mette-marit-door-complicaties-na-longtransplantatie-afwezig-bij-eedaflegging-van-haar-man-haakon~a8e4b949/",
+          "publishedDate": "Mon, 31 Aug 2026 20:12:00 GMT",
+          "description": "De Noorse koningin Mette-Marit is dinsdag niet aanwezig bij de aflegging van de eed van haar man koning Haakon voor het Noorse parlement. Volgens het Noorse hof heeft Mette-Marit last van complicaties ..."
         },
         {
-          "title": "Ajax heeft beet: topdoelwit landt dinsdag nog op Schiphol",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/ajax-heeft-beet-topdoelwit-landt-dinsdag-nog-op-schiphol/blt7d316156745ba721",
-          "publishedDate": "Mon, 31 Aug 2026 16:41:00 GMT",
-          "description": "Ajax en AS Monaco hebben overeenstemming bereikt over de huurtransfer van Thilo Kehrer. Volgens het Algemeen Dagblad en De Telegraaf vliegt de 28-voudig international van Duitsland dinsdag nog naar ..."
+          "title": "Paleis: Mette-Marit is koningin, Ingrid Alexandra kroonprinses",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/koningshuis/paleis-mette-marit-is-koningin-ingrid-alexandra-kroonprinses",
+          "publishedDate": "Fri, 28 Aug 2026 07:07:00 GMT",
+          "description": "Koningin Mette-Marit is officieel de naam van de nieuwe koningin van Noorwegen. Dat heeft het Noorse hof bekendgemaakt na het overlijden van koning Harald. Tegelijkertijd werd duidelijk dat haar docht ..."
         },
         {
-          "title": "Ajax bereikt akkoord: Kehrer op weg naar Amsterdam",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/ad-bevestigt-thilo-kehrer-topkandidaat-bij-ajax",
-          "publishedDate": "Mon, 31 Aug 2026 16:33:00 GMT",
-          "description": "Het Algemeen Dagblad bevestigt dat Duits international Thilo Kehrer 'topkandidaat' is om naar Ajax te komen. De centrale verdediger moet gehuurd worden van AS Moncao."
-        }
-      ]
-    },
-    {
-      "keyword": "anis hadj moussa",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Show Kijk Podcast Puzzel",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/anis-hadj-moussa-toont-weer-zijn-waarde-voor-feyenoord-we-weten-dat-het-hem-op-een-gegeven-moment-toch-lukt~af18ee2e/",
-          "publishedDate": "Sun, 30 Aug 2026 17:54:00 GMT",
-          "description": "Na Go Ahead Eagles pikte ook ADO Den Haag een punt mee uit de Kuip. Bij Feyenoord bleek eens te meer hoe afhankelijk de ploeg is van Anis Hadj Moussa. De Algerijn was voor de rust zwak, maar na rust n ..."
+          "title": "Nieuwe Noorse koning en koningin nemen deze namen aan",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/nieuwe-noorse-koning-en-koningin-nemen-deze-namen-aan~a9272d3b/?slug_rd=1",
+          "publishedDate": "Thu, 27 Aug 2026 22:16:00 GMT",
+          "description": "De offici&#235;le titel van de nieuwe Noorse koning is Haakon VIII. Dat maakte het nieuwe staatshoofd van Noorwegen vrijdag aan het begin van de middag bekend. De 53-jarige Haakon volgt zijn vader Harald o ..."
         },
         {
-          "title": "Voetbalpodcast | ‘Als Anis Hadj Moussa ook nog vertrekt is het gedaan met de creativiteit bij Feyenoord’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/voetbalpodcast-bizar-van-de-laatste-vier-uitgaande-transfers-bij-psv-zijn-er-drie-niet-doorgegaan~a42af5cd9/",
-          "publishedDate": "Sun, 30 Aug 2026 09:34:00 GMT",
-          "description": "FC Twente gaat Conference League spelen. Vandaag zit de club uit Enschede in pot 3 van de loting en weten ze wie de tegenstanders gaan worden. Het gebeurde na een spectaculaire comeback in Bakoe."
-        },
-        {
-          "title": "‘Groot nieuws over transfer Hadj Moussa’",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/groot-nieuws-over-transfer-hadj-moussa/",
-          "publishedDate": "Mon, 31 Aug 2026 12:44:00 GMT",
-          "description": "Steraanvallers Ayase Ueda en Anis Hadj Moussa bezorgden Feyenoord zondagmiddag een zwaarbevochten punt tegen ADO en Haag (2-2). De Japanner is inmiddels ..."
-        },
-        {
-          "title": "Feyenoord houdt adem in: ‘Als Hadj Moussa ook vertrekt is het gedaan met de creativiteit’",
-          "source": "Ditjes en Datjes",
-          "url": "https://www.ditjesendatjes.nl/feyenoord-houdt-adem-in-als-hadj-moussa-ook-vertrekt-is-het-gedaan-met-de-creativiteit",
-          "publishedDate": "Mon, 31 Aug 2026 04:47:00 GMT",
-          "description": "Feyenoord houdt Hadj Moussa vast, maar ziet topscorer Ueda vertrekken naar Lille. Hoe erg is het gesteld met de creativiteit in Rotterdam?"
-        },
-        {
-          "title": "Perez verbaasd over keuzes Feyenoord tegen ADO: 'Er is &#233;&#233;n man die je wil hebben'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/perez-verbaasd-over-keuzes-feyenoord-tegen-ado-er-is-een-man-die-je-wil-hebben",
-          "publishedDate": "Sun, 30 Aug 2026 16:37:00 GMT",
-          "description": "Kenneth Perez is onder de indruk van Anis Hadj-Moussa, maar verbaast zich over de keuzes van Feyenoord tegen ADO Den Haag. Volgens de analist had de bal in de slotfase veel vaker naar de Algerijn moet ..."
-        },
-        {
-          "title": "Van Bronckhorst vreest niet voor vertrek van Hadj Moussa",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/video/van-bronckhorst-vreest-niet-voor-vertrek-van-hadj-moussa",
-          "publishedDate": "Sun, 30 Aug 2026 10:49:00 GMT",
-          "description": "Giovanni van Bronckhorst denkt niet aan een vertrek van Anis Hadj Moussa. De trainer van Feyenoord wacht naar eigen zeggen af wat er in de laatste dagen van de transferperiode nog gebeurt."
-        },
-        {
-          "title": "Verdediger Read baalt van gebrek aan scherpte bij Feyenoord",
-          "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/verdediger-read-baalt-van-gebrek-aan-scherpte-bij-feyenoord",
-          "publishedDate": "Sun, 30 Aug 2026 10:22:00 GMT",
-          "description": "ROTTERDAM (ANP) - Givairo Read was zondag kritisch op de manier waarop Feyenoord aan de thuiswedstrijd tegen ADO Den Haag (2-2) begon. &quot;We waren gewoon niet sch ..."
-        },
-        {
-          "title": "Zelfs eigen Feyenoord-fans walgen van gebaartje Hadj Moussa",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/zelfs-eigen-feyenoord-fans-walgen-van-gebaartje-hadj-moussa/",
-          "publishedDate": "Sun, 30 Aug 2026 10:09:00 GMT",
-          "description": "Anis Hadj Moussa bakt er dit seizoen nog erg weinig van en ook tegen ADO Den Haag was het weer niet best. Toch scoorde de Algerijn, uit het niets. Dat ..."
-        },
-        {
-          "title": "Twintig miljoen voor Anis Hadj Moussa: ‘Blij zijn als je het krijgt’",
-          "source": "Voetbal4u",
-          "url": "https://www.voetbal4u.com/2026/08/23/twintig-miljoen-voor-anis-hadj-moussa-blij-zijn-als-je-dat-krijgt/",
-          "publishedDate": "Sat, 22 Aug 2026 20:45:00 GMT",
-          "description": "Sportjournalist Valentijn Driessen is niet bijster onder de indruk van Feyenoord. Hij heeft de middenvelders Gijvai Zechi&#235;l en&#160;Luciano Valente hoogzitten. maar heeft ook het &#233;&#233;n en ander op te merken ..."
-        },
-        {
-          "title": "Feyenoord haalt 'Anis Hadj Moussa 2.0' als Daniel Job wordt aangetrokken",
-          "source": "FootballTransfers",
-          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/08/feyenoord-koopt-met-daniel-job-zelfde-type-speler-als-anis-hadj-moussa",
-          "publishedDate": "Fri, 21 Aug 2026 11:24:00 GMT",
-          "description": "Feyenoord wordt in Noorwegen gelinkt aan Daniel Job, die bij Kongsvinger IL is gespot met de hoofdscout. De aanvaller lijkt een type als Anis Hadj Moussa."
+          "title": "Koningin M&#225;xima weet op Zandvoort ternauwernood koninklijke schuiver te voorkomen",
+          "source": "VK Magazine",
+          "url": "https://www.vkmag.com/magazine/koningin-maxima-weet-op-zandvoort-ternauwernood-koninklijke-schuiver-te-voorkomen",
+          "publishedDate": "Sun, 23 Aug 2026 12:58:00 GMT",
+          "description": "Voorlopig was het zondag de laatste keer dat de Formule 1 door de duinen van Zandvoort raasde. Bij zo'n afscheid mag natuurlijk ook wat koninklijk bezoek niet ontbreken. Koning Willem-Alexander, ..."
         }
       ]
     },
     {
       "keyword": "donny roelvink",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
-        {
-          "title": "Dries Roelvink haalt uit naar Olcay Gulsen na talkshowdiscussie met zoon Donny: 'Wilde niet luisteren'",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/artikel/5646607/dries-roelvink-haalt-uit-olcay-gulsen-interview-donny",
-          "publishedDate": "Tue, 01 Sep 2026 03:25:00 GMT",
-          "description": "Het interview van Donny Roelvink (28) bij 'Renze' heeft flink wat losgemaakt. Ook vader Dries (67) keek maandagavond mee en heeft daar een duidelijke mening over. In gesprek met De Telegraaf haalt hij ..."
-        },
         {
           "title": "In ‘Renze’ hoopte Olcay Gulsen dat Donny Roelvink feminist zou worden. Hij hoopte vooral dat zij haar mond zou houden",
           "source": "De Volkskrant",
@@ -493,6 +257,27 @@
           "url": "https://www.parool.nl/han-lips/het-was-jammer-dat-donny-roelvink-het-vocabulaire-niet-had-om-werkelijk-in-discussie-te-gaan-in-nieuwe-talkshow-renze~bcc9b12f/",
           "publishedDate": "Tue, 01 Sep 2026 02:22:00 GMT",
           "description": "In de rubriek Han Lips schrijven verschillende redacteuren van Het Parool elke dag over wat hun opvalt op tv. Vandaag: Renze."
+        },
+        {
+          "title": "Donny Roelvink en Olcay Gulsen botsen over relatiegrenzen: &quot;Er wordt gedaan alsof ik een aanrander ben&quot;",
+          "source": "FunX",
+          "url": "https://www.funx.nl/news/entertainment/3f475442-8648-489a-9cea-1b42734ccd14/donny-roelvink-en-olcay-gulsen-botsen-over-relatiegrenzen-er-wordt-gedaan-alsof-ik-een-aanrander-ben",
+          "publishedDate": "Tue, 01 Sep 2026 07:36:00 GMT",
+          "description": "De uitspraken van Donny Roelvink in de podcast Grensloos Gebabbel maakten de afgelopen weken veel los. Vooral zijn mening over vrouwen die met een mannelijke personal trainer sporten kreeg veel kritie ..."
+        },
+        {
+          "title": "Dries Roelvink neemt het op voor zoon Donny na talkshowdiscussie: 'Hij wilde het goed uitleggen'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/media/beetje-bijblijven/dries-roelvink-donny-talkshow/",
+          "publishedDate": "Tue, 01 Sep 2026 07:30:00 GMT",
+          "description": "Zo vertelde Donny dat hij zich ‘geen echte man’ zou voelen als zijn vriendin bij een mannelijke personal trainer zou sporten. Nu laat ook vader Dries Roelvink van zich horen. Hij neemt het op voor ..."
+        },
+        {
+          "title": "Samuel Welten vindt BLVD-ster Donny Roelvink soort Andrew Tate",
+          "source": "Mediacourant",
+          "url": "https://www.mediacourant.nl/2026/09/samuel-welten-vindt-blvd-ster-donny-roelvink-soort-andrew-tate/",
+          "publishedDate": "Tue, 01 Sep 2026 06:00:00 GMT",
+          "description": "Zanger Samuel Welten vergelijkt de controversi&#235;le RTL Boulevard-deskundige Donny Roelvink aan de desk van Shownieuws met de foute Andrew Tate. “Die is ook niet helemaal goed bij z’n paasei.” ..."
         },
         {
           "title": "Olcay Gulsen kritisch op Donny Roelvink in ‘Renze’: ‘Dat dwingende vind ik doodeng’",
@@ -516,13 +301,6 @@
           "description": "Donny Roelvink mocht maandagavond op de biechtstoel bij RENZE. De aanleiding? Zijn uitspraken over vrouwen met een mannelijke personal trainer. Volgens Donny ben je &quot;geen echte man&quot; als je dat accepte ..."
         },
         {
-          "title": "Olcay Gulsen schittert op tv, hakt Donny Roelvink in mootjes: ’Eng!’",
-          "source": "Mediacourant",
-          "url": "https://www.mediacourant.nl/2026/09/olcay-gulsen-schittert-op-tv-hakt-donny-roelvink-in-mootjes-eng/",
-          "publishedDate": "Tue, 01 Sep 2026 01:01:00 GMT",
-          "description": "Olcay Gulsen blijkt vooralsnog een schot in de roos als sidekick van de teruggekeerde Renze Klamer. Ze heeft Donny Roelvink gisteravond verbaal in mootjes gehakt. &quot;Het is heel eng gedachtegoed.&quot; ..."
-        },
-        {
           "title": "Donny Roelvink krijgt kritiek om uitspraken over vrouwen: 'Enge gedachtes'",
           "source": "LINDA.nl",
           "url": "https://www.linda.nl/media/fragment-gemist/donny-roelvink-kritiek-renze/",
@@ -530,24 +308,169 @@
           "description": "Donny benadrukt dat hij vooral sprak vanuit zijn eigen gevoel en grenzen binnen een relatie. Hij zou het zelf niet prettig vinden als zijn vriendin met een mannelijke personal trainer zou sporten."
         },
         {
-          "title": "Verhit debat met Donny Roelvink kleurt eerste uitzending Renze, talkshow matig van start",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/show/verhit-debat-met-donny-roelvink-kleurt-eerste-uitzending-renze-talkshow-matig-van-start~a7e95a0a/",
-          "publishedDate": "Mon, 31 Aug 2026 17:28:00 GMT",
-          "description": "Renze Klamer is weer terug op de late avond. De presentator zat maandagavond weer zoals vanouds aan de talkshowtafel en vooral influencer Donny Roelvink zorgde voor een verhit debat in Renze. Toch is ..."
+          "title": "‘Renze Klamer vroeg Donny Roelvink uit pure angst niets over islam’",
+          "source": "mediacourant",
+          "url": "https://www.mediacourant.nl/2026/09/renze-klamer-vroeg-donny-roelvink-uit-pure-angst-niets-over-islam/",
+          "publishedDate": "Mon, 31 Aug 2026 20:30:00 GMT",
+          "description": "Renze Klamer liet tijdens zijn veelbesproken interview met Donny Roelvink &#233;&#233;n opvallend onderwerp volledig onbesproken: zijn bekering tot de islam. Terwijl Donny uitgebreid werd bevraagd over zijn ..."
+        }
+      ]
+    },
+    {
+      "keyword": "adingra",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Ajax wil na Simon Adingra nog een linksbuiten halen, club kijkt ook naar verdediger Thilo Kehrer",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/voetbal/ajax-wil-na-simon-adingra-nog-een-linksbuiten-halen-club-kijkt-ook-naar-verdediger-thilo-kehrer/160796054.html",
+          "publishedDate": "Tue, 01 Sep 2026 02:30:00 GMT",
+          "description": "Ajax maakt serieus werk van de komst van Leo Salazar Hinojosa (19). Dat melden bronnen in Spanje. De linksbuiten van Espanyol B moet in Jong Ajax worden klaargestoomd voor het grote werk. De afronding ..."
         },
         {
-          "title": "Olcay Gulsen hoopt dat Donny Roelvink feminist wordt",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/olcay-gulsen-hoopt-dat-donny-roelvink-feminist-wordt",
-          "publishedDate": "Mon, 31 Aug 2026 16:21:00 GMT",
-          "description": "Olcay Gulsen hoopt dat Donny Roelvink het feminisme meer gaat promoten. De modeontwerper en ondernemer zou graag zien dat Roelvink onderschrijft dat &quot;vrouwen financieel onafhankelijk kunnen zijn&quot; en &quot; ..."
+          "title": "Hoofdrol bij Europese vernedering van Ajax en aanwezig op het WK: dit is de beoogde vervanger van Mika Godts",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/voetbal/hoofdrol-bij-europese-vernedering-van-ajax-en-aanwezig-op-het-wk-dit-is-de-beoogde-vervanger-van-mika-godts~ac4893e3/",
+          "publishedDate": "Tue, 01 Sep 2026 07:21:00 GMT",
+          "description": "Simon Adingra &lt;a href=&quot;https://www.ad.nl/voetbal/ajax-dicht-bij-aantrekken-28-voudig-duits-international-ook-vervanger-godts-bijna-binnen~a4903809/&quot; target=&quot;_blank&quot;&gt;moet de nieuwe buitenspeler van Aja ..."
+        },
+        {
+          "title": "Jordi Cruijff moet deze taken nog afvinken na afronding transfers Adingra en Kehrer",
+          "source": "FootballTransfers",
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/09/jordi-cruijff-moet-deze-taken-nog-afvinken-na-afronding-transfers-adingra-en-kehrer",
+          "publishedDate": "Tue, 01 Sep 2026 06:25:00 GMT",
+          "description": "Jordi Cruijff geeft gas bij Ajax tijdens de laatste uren op de transfermarkt. In Amsterdam lijken twee vacatures ingevuld te worden op korte termijn, maar dit moet er &#243;&#243;k nog gebeuren."
+        },
+        {
+          "title": "Adingra krijgt groen licht: aanvaller onderweg naar Amsterdam voor medische keuring",
+          "source": "Ajax Showtime on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/adingra-krijgt-groen-licht-aanvaller-onderweg-naar-amsterdam-voor-medische-keuring/ar-AA2blfe6",
+          "publishedDate": "Tue, 01 Sep 2026 06:15:00 GMT",
+          "description": "Simon Adingra is onderweg naar Amsterdam om medisch gekeurd te worden. Dat meldt De Telegraaf dinsdagmiddag. De aanvaller uit Ivoorkust komt zo goed als zeker op huurbasis over van Sunderland. In de h ..."
+        },
+        {
+          "title": "Ajax-target Simon Adingra geeft garantie op dribbels en diepgang",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/ajax-target-simon-adingra-geeft-garantie-op-dribbels-en-diepgang/ar-AA2blaz7",
+          "publishedDate": "Tue, 01 Sep 2026 03:23:12 GMT",
+          "description": "Simon Adingra (24) moet bij Ajax de opvolger van Mika Godts worden . Tijd voor een analyse van de vleugelaanvaller, wiens ontwikkeling in de laatste twee jaar is gestagneerd."
+        },
+        {
+          "title": "Wie is Simon Adingra? De nieuwe buitenspeler van Ajax in een notendop",
+          "source": "Voetbalprimeur",
+          "url": "https://www.voetbalprimeur.nl/videos/2130116/uitgelegd-wie-is-ajax-aanwinst-simon-adingra.html",
+          "publishedDate": "Tue, 01 Sep 2026 03:05:00 GMT",
+          "description": "Ajax lijkt zich spoedig te gaan versterken met Simon Adingra. De buitenspeler moet op huurbasis overkomen van Sunderland. De Amsterdammers zouden tevens een optie tot koop willen bedingen in de deal, ..."
+        },
+        {
+          "title": "Wie is Simon Adingra? De Ivoriaanse vleugelflitser die Mika Godts moet opvolgen bij Ajax",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/09/01/wie-is-simon-adingra-de-ivoriaanse-vleugelflitser-die-mika-godts-moet-opvolgen-bij-ajax/",
+          "publishedDate": "Tue, 01 Sep 2026 01:32:00 GMT",
+          "description": "Ajax heeft in Simon Adingra een opvallende naam naar voren geschoven als opvolger van Mika Godts. De 24-jarige Ivoriaan moet in Amsterdam voor snelheid, diepgang en individuele actie zorgen op de link ..."
+        },
+        {
+          "title": "Ajax versterkt zich met Simon Adingra: ‘Koopoptie van zestien miljoen euro’",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/09/01/ajax-versterkt-zich-met-simon-adingra-koopoptie-van-zestien-miljoen-euro/",
+          "publishedDate": "Mon, 31 Aug 2026 22:15:00 GMT",
+          "description": "Ajax is momenteel zeer dicht bij het aantrekken van de Ivoriaanse linksbuiten Simon Adingra. De Amsterdammers willen hem voor een seizoen gaan huren van het Engelse Sunderland. Ze zouden tevens een op ..."
+        },
+        {
+          "title": "Ajax dicht bij aantrekken 28-voudig Duits international; ook vervanger Godts bijna binnen",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/voetbal/ajax-dicht-bij-aantrekken-28-voudig-duits-international-ook-vervanger-godts-bijna-binnen~a4903809/",
+          "publishedDate": "Mon, 31 Aug 2026 21:39:00 GMT",
+          "description": "Thilo Kehrer is topkandidaat om in de laatste dagen van de transferperiode de defensie van Ajax te versterken. De gesprekken met AS Monaco over de huur van de 28-voudig Duits international verlopen po ..."
+        },
+        {
+          "title": "‘Ajax laat Simon Adingra afreizen voor medische keuring: huurdeal nadert’",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/ajax-simon-adingra-medische-keuring-huurdeal/",
+          "publishedDate": "Mon, 31 Aug 2026 19:16:00 GMT",
+          "description": "Simon Adingra is op weg naar Amsterdam voor zijn medische keuring bij Ajax. Sunderland heeft groen licht gegeven voor een huurtransfer van de Ivoriaanse flankaanvaller, die in de Johan Cruijff ArenA d ..."
+        }
+      ]
+    },
+    {
+      "keyword": "pierre van hooijdonk",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Pierre van Hooijdonk stopt als vaste analist bij NOS Sport",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/media/6408232/pierre-van-hooijdonk-stopt-als-vaste-analist-bij-nos-sport.html",
+          "publishedDate": "Tue, 01 Sep 2026 04:13:00 GMT",
+          "description": "Pierre van Hooijdonk stopt als vaste analist bij NOS Sport. De oud-international heeft tijdens gesprekken aan het einde van het vorige voetbalseizoen laten weten dat hij de samenwerking met de omroep ..."
+        },
+        {
+          "title": "Aanbieding voor €0,49/week",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/voetbal/pierre-van-hooijdonk-56-vertrekt-na-11-jaar-als-vaste-voetbalanalist-bij-de-nos/160797404.html",
+          "publishedDate": "Tue, 01 Sep 2026 02:44:00 GMT",
+          "description": "Pierre van Hooijdonk stopt als vaste analist bij NOS Sport. Dat heeft de NOS dinsdag gemeld. In een persbericht zegt de oud-voetballer te voelen dat het tijd is voor een nieuwe richting. „Ik ben met l ..."
+        },
+        {
+          "title": "Van Hooijdonk stopt per direct als analyticus bij NOS Sport",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2629235-van-hooijdonk-stopt-per-direct-als-analyticus-bij-nos-sport",
+          "publishedDate": "Tue, 01 Sep 2026 02:02:00 GMT",
+          "description": "Hij was sinds 2015 vaste gast in het inmiddels verdwenen tv-programma Studio Voetbal. Ook was hij vaste analyticus bij wedstrijden van het Nederlands elftal."
+        },
+        {
+          "title": "Pierre van Hooijdonk per direct weg bij NOS",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/pierre-van-hooijdonk-per-direct-weg-bij-nos/",
+          "publishedDate": "Tue, 01 Sep 2026 05:34:00 GMT",
+          "description": "Pierre van Hooijdonk is per direct gestopt als vaste analist bij de NOS. De oud-voetballer heeft zelf gekozen om andere uitdagingen aan te gaan in de ..."
+        },
+        {
+          "title": "Pierre van Hooijdonk (56) krijgt langverwachte duidelijkheid over toekomst bij de NOS",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/pierre-van-hooijdonk-56-krijgt-langverwachte-duidelijkheid-over-toekomst-bij-de-nos-2026090109314502782/",
+          "publishedDate": "Tue, 01 Sep 2026 04:35:00 GMT",
+          "description": "Het hing al een tijdje in de lucht, maar nu is het hoge woord eruit: Pierre van Hooijdonk stopt als analist bij de NOS. De oud-international van Oranje was sinds 2015 een van de vaste gezichten bij de ..."
+        },
+        {
+          "title": "Pierre van Hooijdonk stopt als vaste analyticus bij NOS Sport",
+          "source": "BredaVandaag",
+          "url": "https://www.bredavandaag.nl/algemeen/algemeen/481248/pierre-van-hooijdonk-stopt-als-vaste-analyticus-bij-nos-sport",
+          "publishedDate": "Tue, 01 Sep 2026 04:20:00 GMT",
+          "description": "BREDA - Pierre van Hooijdonk stopt als vaste analyticus bij NOS Sport. Dat heeft NOS Sport vandaag bekend gemaakt. Van Hooijdonk laat weten dat het tijd is voor ‘een nieuwe richting’."
+        },
+        {
+          "title": "Pierre van Hooijdonk stopt per direct als NOS-analist",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/pierre-van-hooijdonk-stopt-per-direct-als-nos-analist",
+          "publishedDate": "Tue, 01 Sep 2026 04:15:00 GMT",
+          "description": "Pierre van Hooijdonk stopt per direct als analist bij de NOS, een rol die hij onder meer vervulde rond wedstrijden van het Nederlands elftal."
+        },
+        {
+          "title": "Van Hooijdonk ruilt NOS-microfoon in voor nieuwe richting",
+          "source": "waterwegsport",
+          "url": "https://www.waterwegsport.nl/van-hooijdonk-ruilt-nos-microfoon-in-voor-nieuwe-richting/",
+          "publishedDate": "Tue, 01 Sep 2026 03:04:00 GMT",
+          "description": "ROTTERDAM – Pierre van Hooijdonk stopt per direct als vaste voetbalanalist bij de NOS. De oud-international was sinds 2015 verbonden aan Studio Voetbal en ana ..."
+        },
+        {
+          "title": "Van Hooijdonk niet langer vaste analyticus bij de NOS",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/van-hooijdonk-niet-langer-vaste-analyticus-bij-de-nos/ar-AA2bl3bI",
+          "publishedDate": "Tue, 01 Sep 2026 02:37:00 GMT",
+          "description": "Pierre van Hooijdonk is niet langer een van de vaste analytici van NOS Sport. De 46-voudig international van het Nederlands elftal heeft zelf aangegeven dat het tijd is voor andere dingen. Rafael van ..."
+        },
+        {
+          "title": "Samenwerking tussen NOS en huisanalist Van Hooijdonk per direct be&#235;indigd",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/samenwerking-tussen-nos-en-huisanalist-van-hooijdonk-per-direct-be%C3%ABindigd/ar-AA2bkz8j",
+          "publishedDate": "Tue, 01 Sep 2026 02:31:00 GMT",
+          "description": "Pierre van Hooijdonk stopt per direct als voetbalanalist bij de NOS. Dat maakt de omroep dinsdagochtend bekend. Van Hooijdonk (56) 'voelt dat het tijd is voor een andere richting'."
         }
       ]
     },
     {
       "keyword": "postcodeloterij",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "Youtuber begint burgerinitiatief om Postcodeloterij te stoppen: ‘Het is onethisch, mensen spelen mee uit angst’",
@@ -557,11 +480,25 @@
           "description": "De Postcodeloterij is de enige loterij in Nederland waarbij je kan weten of je had kunnen winnen. Het verklaart de populariteit: niemand wil zijn straat zien binnenlopen met een paar miljoen en zelf ..."
         },
         {
-          "title": "Prijzen postcodeloterij gemeente Beuningen augustus 2026",
-          "source": "beuningen.nieuws",
-          "url": "https://beuningen.nieuws.nl/nieuws/prijzen-postcodeloterij-gemeente-beuningen-augustus-2026",
-          "publishedDate": "Tue, 01 Sep 2026 01:40:00 GMT",
-          "description": "De uitslag van de trekking van de Postcodeloterij is weer bekend gemaakt. Deze keer zijn er in Beuningen weer enkele leuke prijzen gevallen. We geven een overzicht van de winnende postcodes in onze ge ..."
+          "title": "Postcode Loterij nieuwe partner van ZLM Tour",
+          "source": "WielerFlits",
+          "url": "https://www.wielerflits.nl/nieuws/postcode-loterij-nieuwe-partner-van-zlm-tour/",
+          "publishedDate": "Tue, 01 Sep 2026 07:17:00 GMT",
+          "description": "De ZLM Tour heeft een nieuwe partner weten te strikken: het gaat om een samenwerkingsverband met de Postcode Loterij. “Deze samenwerking brengt topsport dichter bij het publiek en draagt bij aan maats ..."
+        },
+        {
+          "title": "Prijzen Postcodeloterij gemeente Geertruidenberg augustus 2026",
+          "source": "geertruidenberg.nieuws",
+          "url": "https://geertruidenberg.nieuws.nl/nieuwsberichten/prijzen-postcodeloterij-gemeente-geertruidenberg-augustus-2026",
+          "publishedDate": "Tue, 01 Sep 2026 06:34:00 GMT",
+          "description": "De uitslagen van de trekking van de Postcodeloterij van augustus 2026 zijn weer bekend gemaakt. Deze keer zijn er in de gemeente Geertruidenberg weer enkele leuke prijzen gevallen. We geven een overzi ..."
+        },
+        {
+          "title": "Winnende postcodes postcodeloterij augustus 2026 gemeente ’s-Hertogenbosch",
+          "source": "den-bosch.nieuws",
+          "url": "https://den-bosch.nieuws.nl/nieuws/winnende-postcodes-postcodeloterij-augustus-2026-gemeente-s-hertogenbosch",
+          "publishedDate": "Tue, 01 Sep 2026 05:30:00 GMT",
+          "description": "De Postcodeloterij prijzen van de afgelopen maand augustus zijn weer bekend gemaakt! Heb jij ook een prijs gewonnen? Namens de redactie van harte gefeliciteerd. Check voor de zekerheid altijd je eigen ..."
         },
         {
           "title": "Prijzen Postcodeloterij Loon op Zand augustus 2026",
@@ -592,18 +529,11 @@
           "description": "De trekking van de Postcode Loterij van augustus 2026 heeft opnieuw prijzen opgeleverd voor deelnemers in Oosterhout."
         },
         {
-          "title": "Prijzen Postcodeloterij gemeente Geertruidenberg augustus 2026",
-          "source": "geertruidenberg.nieuws",
-          "url": "https://geertruidenberg.nieuws.nl/nieuwsberichten/prijzen-postcodeloterij-gemeente-geertruidenberg-augustus-2026",
-          "publishedDate": "Mon, 31 Aug 2026 16:34:00 GMT",
-          "description": "De uitslagen van de trekking van de Postcodeloterij van augustus 2026 zijn weer bekend gemaakt. Deze keer zijn er in de gemeente Geertruidenberg weer enkele leuke prijzen gevallen. We geven een overzi ..."
-        },
-        {
-          "title": "Winnende postcodes postcodeloterij augustus 2026 gemeente ’s-Hertogenbosch",
-          "source": "den-bosch.nieuws",
-          "url": "https://den-bosch.nieuws.nl/nieuws/winnende-postcodes-postcodeloterij-augustus-2026-gemeente-s-hertogenbosch",
-          "publishedDate": "Mon, 31 Aug 2026 15:30:00 GMT",
-          "description": "De Postcodeloterij prijzen van de afgelopen maand augustus zijn weer bekend gemaakt! Heb jij ook een prijs gewonnen? Namens de redactie van harte gefeliciteerd. Check voor de zekerheid altijd je eigen ..."
+          "title": "Prijzen Postcodeloterij gemeente Heusden juli 2026",
+          "source": "heusden.nieuws",
+          "url": "https://heusden.nieuws.nl/nieuws/prijzen-postcodeloterij-gemeente-heusden-juli-2026",
+          "publishedDate": "Sat, 01 Aug 2026 11:39:00 GMT",
+          "description": "De uitslagen van de trekking van de Postcodeloterij van juli 2026 zijn weer bekend gemaakt. Deze keer zijn er in de gemeente Heusden weer enkele leuke prijzen gevallen. We geven een overzicht van de w ..."
         },
         {
           "title": "Is jouw postcode in de prijzen gevallen? Bekijk de uitslag van de PostcodeLoterij Bonustrekking",
@@ -611,13 +541,47 @@
           "url": "https://oosterhout.nieuws.nl/nieuws/is-jouw-postcode-in-de-prijzen-gevallen-bekijk-de-uitslag-van-de-postcodeloterij-bonustrekking",
           "publishedDate": "Thu, 16 Jul 2026 23:34:00 GMT",
           "description": "De uitslagen van de speciale Bonustrekking van de Nationale Postcode Loterij zijn bekend. Naast de reguliere maandtrekking en de jaarlijkse 13e trekking maakten deelnemers deze maand ook kans op extra ..."
+        }
+      ]
+    },
+    {
+      "keyword": "ongeluk huissen",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Twee leerlingen gewond na botsing met vrachtwagen, chauffeur mogelijk onder invloed verdovende middelen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/lingewaard/twee-obc-leerlingen-zwaargewond-na-botsing-met-vrachtwagen-betrokkenen-spreken-van-levensgevaarlijke-kruising~a5e13898/",
+          "publishedDate": "Mon, 31 Aug 2026 22:52:00 GMT",
+          "description": "De twee slachtoffers van het verkeersongeval in Huissen van dinsdagmorgen zijn leerlingen van het OBC in Huissen. Dat laat de middelbare school weten in een bericht aan ouders. Betrokkenen spreken ove ..."
         },
         {
-          "title": "Postcodeloterij valt w&#233;&#233;r in dit dorp, derde keer in drie maanden",
-          "source": "AD",
-          "url": "https://www.ad.nl/papendrecht/postcodeloterij-valt-weer-in-dit-dorp-derde-keer-in-drie-maanden~a877473d/",
-          "publishedDate": "Tue, 05 Nov 2024 04:55:00 GMT",
-          "description": "De zes geluksvogels die meespelen met de winnende postcode winnen bedragen van 125.000 euro en 250.000 euro, afhankelijk van het aantal loten waarmee iemand meespeelt. Quinty Trustfull verraste de ..."
+          "title": "UPDATE: Minderjarige fietser zeer ernstig gewond na botsing met vrachtwagen",
+          "source": "GelreNieuws.nl",
+          "url": "https://www.gelrenieuws.nl/2026/09/01/video/update-minderjarige-fietser-zeer-ernstig-gewond-na-botsing-met-vrachtwagen.html",
+          "publishedDate": "Tue, 01 Sep 2026 06:04:00 GMT",
+          "description": "HUISSEN – Op de Polseweg in Huissen zijn dinsdagochtend twee minderjarige fietsers geschept door een vrachtwagen. E&#233;n van hen raakte zeer ernstig gewond en is naar het ziekenhuis gebracht. De andere f ..."
+        },
+        {
+          "title": "Ongeval met letsel op Polseweg in Huissen, traumahelikopter gealarmeerd",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/gelderland/gelderland-midden/huissen/55769864/p2000-politie-naar-polseweg-in-huissen-voor-ongeval-met-letsel.html",
+          "publishedDate": "Tue, 01 Sep 2026 01:08:00 GMT",
+          "description": "De hulpdiensten zijn dinsdagochtend uitgerukt voor een ongeval met letsel op de kruising de Polseweg en Karstraat in Huissen."
+        },
+        {
+          "title": "Jongen zwaargewond bij ongeval tussen fatbiker en vrachtauto, op zelfde kruising waar eerder dode viel",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/112-nieuws-lingewaard/jongen-zwaargewond-bij-ongeval-tussen-fatbiker-en-vrachtauto-op-zelfde-kruising-waar-eerder-dode-viel~afe47aea/",
+          "publishedDate": "Mon, 31 Aug 2026 19:25:00 GMT",
+          "description": "Bij een zwaar ongeluk in Huissen is zeker een persoon gewond geraakt. Volgens omstanders gaat het om een jongen op een fatbike, die onder een vrachtauto terechtkwam. Het ongeluk is op precies dezelfde ..."
+        },
+        {
+          "title": "Fatbiker zwaargewond bij ongeval met vrachtauto",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/video/productie/fatbiker-zwaargewond-bij-ongeval-met-vrachtauto-14337119",
+          "publishedDate": "Mon, 31 Aug 2026 17:00:00 GMT",
+          "description": "Bij een zwaar ongeluk in Huissen is een persoon zwaargewond geraakt. Volgens omstanders gaat het om een jongen op een fatbike, die onder een vrachtauto terechtkwam."
         }
       ]
     }
