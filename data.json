@@ -1,169 +1,86 @@
 {
-  "fetchedAt": "2026-09-02T02:19:18.482Z",
+  "fetchedAt": "2026-09-02T07:13:21.136Z",
   "trends": [
     {
-      "keyword": "overasselt",
-      "trafficLabel": "100K+",
-      "articles": [
-        {
-          "title": "Oproep om binnen te blijven in Overasselt vervallen na dag met 'on-Nederlands' geweld",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2629323-oproep-om-binnen-te-blijven-in-overasselt-vervallen-na-dag-met-on-nederlands-geweld",
-          "publishedDate": "Tue, 01 Sep 2026 14:48:00 GMT",
-          "description": "De oproep aan de inwoners van Overasselt om binnen te blijven, is ingetrokken. De politie zegt dat er geen aanwijzingen zijn dat zich nog verdachten in of rond het dorp schuilhouden."
-        },
-        {
-          "title": "Wildwesttaferelen in Overasselt lijken te wijzen op drugsgeweld",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/binnenland/wildwesttaferelen-in-overasselt-lijken-te-wijzen-op-drugsgeweld~ba511af2/",
-          "publishedDate": "Tue, 01 Sep 2026 12:47:00 GMT",
-          "description": "Het Gelderse dorp Overasselt werd het toneel van crimineel geweld, waarbij &#233;&#233;n dode viel. Er werden 34 verdachten opgepakt uit diverse landen."
-        },
-        {
-          "title": "In Overasselt doodgeschoten beveiliger is 51-jarige Berry: ‘Als je die beelden ziet... Hij duikt nog weg’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/in-overasselt-doodgeschoten-beveiliger-is-51-jarige-berry-als-je-die-beelden-ziet-hij-duikt-nog-weg~a47a0b78/",
-          "publishedDate": "Tue, 01 Sep 2026 04:37:00 GMT",
-          "description": "De 51-jarige beveiliger die dinsdagochtend in Overasselt is doodgeschoten, vertelde vorige week nog wel zin te hebben in de beveiligingsopdracht bij het huis aan de Ewijkseweg. „Ik ga daar slapend rij ..."
-        },
-        {
-          "title": "Oproep binnen te blijven in Overasselt en Nederasselt ingetrokken",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/algemeen/oproep-binnen-te-blijven-in-overasselt-en-nederasselt-ingetrokken",
-          "publishedDate": "Tue, 01 Sep 2026 16:18:00 GMT",
-          "description": "Politie trekt oproep in na schietpartij Overasselt/Nederasselt; geen verdachten meer in buurt. Extra toezicht vannacht, aanvullend onderzoek morgenochtend."
-        },
-        {
-          "title": "Ook in de nacht binnenblijfadvies voor Overasselt en Nederasselt",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/algemeen/ook-in-de-nacht-binnenblijfadvies-voor-overasselt-en-nederasselt",
-          "publishedDate": "Tue, 01 Sep 2026 16:03:00 GMT",
-          "description": "Politie raadt inwoners aan ’s nachts binnen te blijven na dodelijk geweld in Overasselt; 34 aanhoudingen, veel wapens gevonden, situatie nog onveilig."
-        },
-        {
-          "title": "'Paard loopt schotwond op bij schietpartij Overasselt'",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/milieu-gezondheid/dieren/artikelen/gelderland-overasselt-paard-schotwond-schietpartij",
-          "publishedDate": "Tue, 01 Sep 2026 13:50:00 GMT",
-          "description": "Een inwoner van Overasselt heeft dinsdag ontdekt dat haar paard gewond is geraakt bij het schietincident in Overasselt. Dat meldt Omroep Gelderland."
-        },
-        {
-          "title": "Politiewetenschapper over Overasselt: ‘Het lijkt erop dat de politie hier informatie heeft gemist’",
-          "source": "Nederlands Dagblad",
-          "url": "https://www.nd.nl/nieuws/nederland/1329483/politiewetenschapper-over-overasselt-het-lijkt-erop-dat-de-po",
-          "publishedDate": "Tue, 01 Sep 2026 12:30:00 GMT",
-          "description": "Ruim dertig mannen, deels voorzien van automatische wapens, vielen maandagnacht een woonboerderij aan in het Gelderse Overasselt. Uniek in Nederland, maar geen complete verrassing, zegt politiekenner ..."
-        },
-        {
-          "title": "Meer bekend over 'drugsoorlog' Overasselt: 34 personen opgepakt, inwoners gevraagd binnen te blijven",
-          "source": "Panorama on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/meer-bekend-over-drugsoorlog-overasselt-34-personen-opgepakt-inwoners-gevraagd-binnen-te-blijven/ar-AA2bmk69",
-          "publishedDate": "Tue, 01 Sep 2026 11:29:00 GMT",
-          "description": "Tijdens een persconferentie hebben het OM de burgemeester en de politie meer onthult over de geweldsexplosie in het Gelderse dorp."
-        },
-        {
-          "title": "Ongekend geweld zorgt voor schok in Overasselt: 34 aanhoudingen na doodschieten van beveiliger",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/redactie/2026/de-dag-van-overasselt/",
-          "publishedDate": "Tue, 01 Sep 2026 07:14:00 GMT",
-          "description": "Zo'n dertig onherkenbare mannen, velen met vuurwapens, en daarna een kogelregen. Overasselt beleeft een nacht met ongekend geweld. E&#233;n beveiliger (51) uit Wijchen, die een huis aan de Ewijkseweg bewaa ..."
-        },
-        {
-          "title": "Dit is Jan G., bewoner van het huis in Overasselt dat doelwit was van wildwestaanval",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/binnenland/dit-is-jan-g-bewoner-van-het-huis-in-overasselt-dat-doelwit-was-van-wildwestaanval~a845f52d/",
-          "publishedDate": "Tue, 01 Sep 2026 02:33:00 GMT",
-          "description": "Een verscheurde foto van h&#233;m. En 25 kogels afgevuurd op de poort naar zijn oprijlaan. Bij het huis in Overasselt waar in de nacht van maandag op dinsdag een beveiliger is doodgeschoten, ging het de vo ..."
-        }
-      ]
-    },
-    {
-      "keyword": "box 3 nieuws",
+      "keyword": "bolle jos",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Onduidelijkheid over box 3 blijft, coalitie wil wetsvoorstel vooruitschuiven",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2629305-onduidelijkheid-over-box-3-blijft-coalitie-wil-wetsvoorstel-vooruitschuiven",
-          "publishedDate": "Tue, 01 Sep 2026 09:49:00 GMT",
-          "description": "Er wordt al jaren gediscussieerd over hoe er belasting wordt geheven over vermogen. Tot nu toe komt de politiek er niet uit."
+          "title": "Broer van voortvluchtige 'Bolle Jos': 'Voel me een speelbal om hem uit te roken'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/misdaad/6408289/broer-van-voortvluchtige-bolle-jos-voel-me-een-speelbal-om-hem-uit-te-roken.html",
+          "publishedDate": "Tue, 01 Sep 2026 10:46:00 GMT",
+          "description": "De top van het Openbaar Ministerie heeft op het laatste moment een streep gezet door procesafspraken met de broer van 'Bolle Jos'. Dat bleek dinsdag op een inleidende zitting tegen de 51-jarige Harry ..."
         },
         {
-          "title": "Storm rond box 3-belasting hangt als donkere wolk boven Prinsjesdag-deal: keuzes kabinet hebben grote invloed",
+          "title": "Oproep binnen te blijven in Overasselt en Nederasselt ingetrokken, extra toezicht in het gebied blijft",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/oproep-binnen-te-blijven-in-overasselt-en-nederasselt-ingetrokken-extra-toezicht-in-het-gebied-blijft~b630ad65/",
+          "publishedDate": "Tue, 01 Sep 2026 01:49:00 GMT",
+          "description": "De oproep aan de inwoners van Overasselt en Nederasselt om binnen te blijven is ingetrokken, meldt de politie. De politie heeft dinsdagavond nog onderzoek uitgevoerd na de massale schietpartij."
+        },
+        {
+          "title": "Schietpartij Overasselt ontstaan door ’ge&#235;scaleerd drugsconflict’: ’Mogelijk gelieerd aan Bolle Jos’",
           "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/politiek/storm-rond-box-3-belasting-hangt-als-donkere-wolk-boven-prinsjesdag-deal-keuzes-kabinet-hebben-grote-invloed/160399568.html",
-          "publishedDate": "Sun, 23 Aug 2026 22:00:00 GMT",
-          "description": "De plannen waar staatssecretaris Eelco Eerenberg (Financi&#235;n) mee moet komen om de box 3-wetgeving te redden in de Eerste Kamer, hangen als een donkere wolk boven de onderhandelingen over de begroting."
+          "url": "https://www.telegraaf.nl/binnenland/schietpartij-overasselt-ontstaan-door-geescaleerd-drugsconflict-mogelijk-gelieerd-aan-bolle-jos/160789927.html",
+          "publishedDate": "Tue, 01 Sep 2026 01:22:00 GMT",
+          "description": "Een mogelijk drugsconflict, dat volgens bronnen gelieerd is aan de criminele organisatie van ’Bolle Jos’ Leijdekkers, is in Overasselt volledig ge&#235;scaleerd. Bij een nachtelijke schietpartij is een dod ..."
         },
         {
-          "title": "Eerste Kamer stelt stemming over box 3 voorlopig uit, nieuw voorstel beloofd",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2621107-eerste-kamer-stelt-stemming-over-box-3-voorlopig-uit-nieuw-voorstel-beloofd",
-          "publishedDate": "Tue, 30 Jun 2026 23:41:00 GMT",
-          "description": "Het blijft voorlopig nog onduidelijk hoe er vanaf 2028 belasting wordt geheven op spaargeld, beleggen en vastgoed, de zogeheten box 3-regeling. De politiek praat al jaren over een nieuwe wet en ..."
+          "title": "Jan G. was doelwit van actie in Overasselt, zou hebben samengewerkt met Bolle Jos",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/jan-g-was-doelwit-van-actie-in-overasselt-zou-hebben-samengewerkt-met-bolle-jos~aaf5fcb9/",
+          "publishedDate": "Tue, 01 Sep 2026 00:46:00 GMT",
+          "description": "De schietpartij in Overasselt, waarbij dinsdagochtend een dode viel en twee politieagenten gewond raakten, wordt door diverse bronnen gelinkt aan ‘Bolle Jos’ Leijdekkers. Het conflict zou gaan om vele ..."
         },
         {
-          "title": "Banken en IT-experts: wisselende wensen box 3 duur en tijdrovend",
-          "source": "Het Financieele Dagblad",
-          "url": "https://fd.nl/bedrijfsleven/1610705/banken-en-it-experts-wisselende-wensen-box-3-duur-en-tijdrovend",
-          "publishedDate": "Tue, 01 Sep 2026 15:30:00 GMT",
-          "description": "Banken zijn al jaren bezig met voorbereidingen voor de nieuwe box 3: de belasting op inkomen uit vermogen. In 2028 moeten zij er klaar voor zijn. Ondertussen wil de politiek het over een andere boeg g ..."
+          "title": "Schietpartij Overasselt draait om 812 kilo verdwenen coca&#239;ne — en een bewoner die zaken deed met Bolle Jos",
+          "source": "Welingelichte Kringen",
+          "url": "https://www.welingelichtekringen.nl/samenleving/schietpartij-overasselt-draait-om-812-kilo-verdwenen-cocaine-en-een-bewoner-die-zaken-deed-met-bolle-jos",
+          "publishedDate": "Wed, 02 Sep 2026 00:11:00 GMT",
+          "description": "De schietpartij die in de nacht van maandag op dinsdag het Gelderse Overasselt opschrikte, is volgens bronnen van Het Parool en De Telegraaf het gevolg van een conflict over 812 kilo verdwenen coca&#239;ne ..."
         },
         {
-          "title": "Prinsjesdag 2026: box 3 mogelijk on hold, lastenverzwaring voor hogere inkomens",
-          "source": "Taxence",
-          "url": "https://www.taxence.nl/nieuws/prinsjesdag-2026-box-3-mogelijk-on-hold-lastenverzwaring-voor-hogere-inkomens/",
-          "publishedDate": "Tue, 01 Sep 2026 08:40:00 GMT",
-          "description": "Uit de uitgelekte Prinsjesdagplannen blijkt dat het nieuwe box 3-stelsel voorlopig lijkt te worden geparkeerd in de Eerste Kamer. Tegelijkertijd draait het kabinet verschillende bezuinigingen op de ..."
+          "title": "Top OM zette streep door procesafspraken broer Bolle Jos",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/algemeen/top-om-zette-streep-door-procesafspraken-broer-bolle-jos",
+          "publishedDate": "Tue, 01 Sep 2026 08:33:00 GMT",
+          "description": "OM-top torpedeert deal met Harry L., broer van ‘Bolle Jos’. Zaak nu volledig behandeld; verdachte van witwassen van o.a. 15 miljoen euro. Lees meer."
         },
         {
-          "title": "Kabinet zet omstreden box 3-wet voorlopig in de ijskast",
-          "source": "Crypto Insiders",
-          "url": "https://www.crypto-insiders.nl/nieuws/overheid-en-regulatie/kabinet-zet-omstreden-box-3-wet-voorlopig-in-de-ijskast/",
-          "publishedDate": "Tue, 01 Sep 2026 05:58:00 GMT",
-          "description": "De nieuwe box 3-wet gaat voorlopig niet door. Daarmee blijft belasting over winst op crypto die je nog niet hebt verzilverd voorlopig van tafel."
+          "title": "Hoger beroep Belgische drugszaak waarin Bolle Jos is veroordeeld",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1161169-hoger-beroep-belgische-drugszaak-waarin-bolle-jos-is-veroordeeld",
+          "publishedDate": "Tue, 01 Sep 2026 08:21:00 GMT",
+          "description": "Een groot deel van de veroordeelden en het Openbaar Ministerie gaan in hoger beroep in de omvangrijke Belgische drugszaak Costa. Daarin werd voortvluchtige Nederlandse drugscrimineel Jos Leijdekkers, ..."
         },
         {
-          "title": "Wanneer betaal je belasting over crypto? Zo werkt box 3 voor jou",
-          "source": "Bitcoin Magazine",
-          "url": "https://bitcoinmagazine.nl/nieuws/wanneer-betaal-je-belasting-over-crypto-zo-werkt-box-3-voor-jou",
-          "publishedDate": "Sun, 30 Aug 2026 06:52:00 GMT",
-          "description": "Kennisgeving: Dit artikel bevat inzichten van onafhankelijke auteurs en valt buiten de redactionele verantwoordelijkheid van BitcoinMagazine.nl. De informatie is bedoeld ter educatie en reflectie. Dit ..."
+          "title": "Advocaat Bolle Jos reageert niet op mogelijke link met Overasselt",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1161154-advocaat-bolle-jos-reageert-niet-op-mogelijke-link-met-overasselt",
+          "publishedDate": "Tue, 01 Sep 2026 07:10:00 GMT",
+          "description": "Guy Weski, de advocaat van de voortvluchtige Jos Leijdekkers, reageerde dinsdag desgevraagd niet op berichten in verschillende media die zijn cli&#235;nt verbinden aan de schietpartij in het Gelderse Overa ..."
         },
         {
-          "title": "Box 3 gijzelt het begrotingsoverleg: VVD staat lijnrecht tegenover D66 en CDA",
-          "source": "Nederlands Dagblad",
-          "url": "https://www.nd.nl/nieuws/politiek/1329080/box-3-gijzelt-het-begrotingsoverleg-vvd-staat-lijnrecht-tegen",
-          "publishedDate": "Fri, 28 Aug 2026 20:00:00 GMT",
-          "description": "Minister Eelco Heinen van Financi&#235;n zag voor de ministerraad weer weinig wolkjes aan de lucht. Een paar weken geleden had het kabinet weliswaar gemeld dat de ministerraad op vrijdag 28 augustus akkoor ..."
+          "title": "Chaos, een dode en gewonde agenten in het Gelderse Overasselt: 'Mogelijk link Bolle Jos'",
+          "source": "Panorama on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/chaos-een-dode-en-gewonde-agenten-in-het-gelderse-overasselt-mogelijk-link-bolle-jos/ar-AA2bkSY9",
+          "publishedDate": "Tue, 01 Sep 2026 04:08:00 GMT",
+          "description": "In de nacht van maandag op dinsdag is er een dode gevallen bij een schietpartij tussen twee groepen in Overasselt. Ook op dinsdagochtend is het nog niet rustig in het Gelderse dorp."
         },
         {
-          "title": "Box 3 beperkt bewegingsruimte begroting",
-          "source": "Rendement Uitgeverij",
-          "url": "https://www.rendement.nl/inkomen-uit-sparen-en-beleggen/nieuws/box-3-beperkt-bewegingsruimte-begroting.html",
-          "publishedDate": "Tue, 25 Aug 2026 00:00:00 GMT",
-          "description": "Prinsjesdag staat voor de deur, en het minderheidskabinet moet al enigszins op eieren lopen om parlementaire meerderheden te smeden voor de begroting voor 2027. Maar de slepende discussie rondom box 3 ..."
-        },
-        {
-          "title": "Nieuwe box 3-regels kunnen AI-startups hard raken",
-          "source": "DutchCowboys",
-          "url": "https://www.dutchcowboys.nl/startups/nieuwe-box-3-regels-kunnen-ai-startups-hard-raken",
-          "publishedDate": "Wed, 15 Apr 2026 02:46:00 GMT",
-          "description": "Voor AI-startups en hun investeerders loopt groei vaak jaren vooruit op cash. De waarde van het bedrijf stijgt op papier, terwijl winst, dividend en verhandelbare aandelen nog ver weg zijn. Juist ..."
+          "title": "Update: beelden van ongeveer 30 gewapende, gemaskerde mannen over straat in Overasselt",
+          "source": "PowNed",
+          "url": "https://www.powned.tv/article/update-beelden-uit-overasselt-gepubliceerd-van-ongeveer-30-gewapende-gemaskerde-mannen-over-straat~6522/",
+          "publishedDate": "Mon, 31 Aug 2026 17:00:00 GMT",
+          "description": "De t*ring. Zoals dat heet 'bizarre beelden' uit Overasselt. Op beveiligingsbeelden die De Telegraaf vanochtend heeft gepubliceerd, is een groep van ongeveer dertig mannen te zien. Meerdere mannen ..."
         }
       ]
     },
     {
       "keyword": "mette-marit",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
-        {
-          "title": "Noorse koningin Mette-Marit kort in ziekenhuis na problemen door longoperatie",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/koningshuis/6408305/noorse-koningin-mette-marit-kort-in-ziekenhuis-na-problemen-door-longoperatie.html",
-          "publishedDate": "Tue, 01 Sep 2026 13:20:00 GMT",
-          "description": "De Noorse koningin Mette-Marit is dinsdag door haar man koning Haakon naar het Rikshospitalet in Oslo gebracht. Noorse media publiceerden foto's waarop te zien is hoe de 53-jarige koningin bij het zie ..."
-        },
         {
           "title": "Noorse koningin Mette-Marit naar ziekenhuis na complicaties longtransplantatie",
           "source": "NU.nl",
@@ -186,6 +103,13 @@
           "description": "Slechts enkele uren na zijn eedaflegging heeft de Noorse koning Haakon VIII zijn vrouw Mette-Marit dinsdag naar het ziekenhuis gebracht. Door haar gezondheidsproblemen kon Mette-Marit dinsdagvoormidda ..."
         },
         {
+          "title": "Nieuwe koning Haakon legt eed af in Noors parlement, vrouw Mette-Marit afwezig",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/entertainment/6408260/nieuwe-koning-haakon-legt-eed-af-in-noors-parlement-vrouw-mette-marit-afwezig.html",
+          "publishedDate": "Tue, 01 Sep 2026 08:21:00 GMT",
+          "description": "Haakon, de nieuwe koning van Noorwegen, heeft dinsdag de eed afgelegd ten overstaan van het Noorse parlement. In een korte toespraak verklaarde hij dat hij en zijn vrouw koningin Mette-Marit zich voll ..."
+        },
+        {
           "title": "Noorse koningin Mette-Marit naar ziekenhuis, gebracht door koning Haakon",
           "source": "Algemeen Dagblad",
           "url": "https://www.ad.nl/show/noorse-koningin-mette-marit-naar-ziekenhuis-gebracht-door-koning-haakon~acd7cd6d/",
@@ -200,18 +124,18 @@
           "description": "De nieuwe Noorse koning heeft voor het parlement de eed afgelegd. Haakon VIII volgt zijn vader op, koning Harald V, die afgelopen vrijdag overleed op 89-jarige leeftijd. De Noren hebben al ruim een ..."
         },
         {
+          "title": "Complicaties na longtransplantatie: Noorse koningin Mette-Marit onverwacht naar ziekenhuis",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/koningshuis/nieuws/complicaties-longtransplantatie-mette-marit/",
+          "publishedDate": "Tue, 01 Sep 2026 17:00:00 GMT",
+          "description": "De Noorse koningin Mette-Marit (53) kon dinsdag niet aanwezig zijn bij de be&#235;diging van haar man, koning Haakon, in het parlement. De koningin moest vanwege complicaties door haar longtransplantatie ..."
+        },
+        {
           "title": "Noorse koningin Mette-Marit weer uit ziekenhuis",
           "source": "Reformatorisch Dagblad",
           "url": "https://www.rd.nl/artikel/1161232-noorse-koningin-mette-marit-weer-uit-ziekenhuis",
           "publishedDate": "Tue, 01 Sep 2026 15:05:00 GMT",
           "description": "Koning Haakon heeft dinsdagavond zijn vrouw koningin Mette-Marit weer opgehaald uit het ziekenhuis, schrijven Noorse media. De koningin was daar enkele uren vanwege complicaties door haar longtranspla ..."
-        },
-        {
-          "title": "Noorse koningin Mette-Marit naar ziekenhuis",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/koningshuis/noorse-koningin-mette-marit-naar-ziekenhuis",
-          "publishedDate": "Tue, 01 Sep 2026 12:34:00 GMT",
-          "description": "Koningin Mette-Marit (53) is met complicaties na haar longtransplantatie opgenomen in het Rikshospitalet in Oslo en blijft vandaag onder observatie."
         },
         {
           "title": "Koning Haakon VIII legt eed af in Noors parlement, koningin Mette-Marit ontbreekt",
@@ -230,6 +154,82 @@
       ]
     },
     {
+      "keyword": "begroting",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Hoe denkt de oppositie over begroting kabinet?",
+          "source": "NOS",
+          "url": "https://nos.nl/nieuwsuur/video/2629319-hoe-denkt-de-oppositie-over-begroting-kabinet",
+          "publishedDate": "Tue, 01 Sep 2026 13:54:00 GMT",
+          "description": "Gister redde de coalitie zichzelf met een moeizaam tot stand gekomen akkoord, vandaag is de vraag of de oppositie de begroting voor volgend jaar gaat steunen."
+        },
+        {
+          "title": "Uitgelekte begroting moest oppositie verleiden, maar Jetten loopt een blauwtje",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/politiek/uitgelekte-begroting-moest-oppositie-verleiden-maar-jetten-loopt-een-blauwtje~ac5a37fb/",
+          "publishedDate": "Tue, 01 Sep 2026 03:37:00 GMT",
+          "description": "De plannen voor Prinsjesdag zijn alweer gelekt en wat blijkt: de poging om zo veel mogelijk oppositiepartijen te paaien is mislukt. Van Jesse Klaver tot Joost Eerdmans klinkt nog steeds een hard ‘nee, ..."
+        },
+        {
+          "title": "Minderheidscoalitie voorkomt crisis met begroting zonder toezegging oppositie",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/politiek/minderheidscoalitie-voorkomt-crisis-met-begroting-zonder-toezegging-oppositie~b3efcc47/",
+          "publishedDate": "Mon, 31 Aug 2026 10:58:00 GMT",
+          "description": "De eerste begrotingsonderhandelingen van het minderheidskabinet-Jetten werden uiteindelijk een heuse miniformatie. De coalitie van D66, VVD en CDA heeft het zelf zover laten komen."
+        },
+        {
+          "title": "Minderheidscoalitie op de valreep akkoord over begroting",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2629146-minderheidscoalitie-op-de-valreep-akkoord-over-begroting",
+          "publishedDate": "Mon, 31 Aug 2026 08:28:00 GMT",
+          "description": "De drie coalitiepartijen die onderhandelen over de begroting voor volgend jaar hebben op de valreep een akkoord bereikt. Dat zeggen bronnen in Den Haag. Sinds 18.00 uur zijn de ministers van het ..."
+        },
+        {
+          "title": "Nog geen deal begroting, coalitieleiders spreken maandag verder",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/nog-geen-deal-begroting-coalitieleiders-spreken-maandag-verder~a0c39307/",
+          "publishedDate": "Sun, 30 Aug 2026 17:46:00 GMT",
+          "description": "De leiders van D66, VVD en CDA zijn na ruim vijftien uur onderhandelen over de begroting het nog niet eens geworden over de begroting voor volgend jaar. Het overleg wordt volgens een woordvoerder van ..."
+        },
+        {
+          "title": "De coalitie is het eindelijk eens over de begroting, maar moet nu de oppositie nog overhalen",
+          "source": "Het Financieele Dagblad",
+          "url": "https://fd.nl/politiek/1610563/kabinet-kruipt-richting-akkoord-over-begroting-na-dagen-overleg",
+          "publishedDate": "Mon, 31 Aug 2026 14:21:00 GMT",
+          "description": "De drie coalitiepartijen zitten dicht bij een akkoord over de begroting voor volgend jaar, melden Haagse bronnen. Daarmee zou een kabinetscrisis van de baan zijn."
+        },
+        {
+          "title": "Jetten: forse handreikingen aan oppositie in begroting",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/politiek/jetten-forse-handreikingen-aan-oppositie-in-begroting-wPe97r",
+          "publishedDate": "Mon, 31 Aug 2026 14:03:00 GMT",
+          "description": "DEN HAAG (ANP) - De coalitie doet &quot;een aantal forse handreikingen&quot; aan de oppositie, zei premier Rob Jetten nadat de begroting is goedgekeurd door het kabinet. Hij denkt zo steun van rechts tot links."
+        },
+        {
+          "title": "D66, VVD en CDA bereiken akkoord over begroting na wekenlang overleg",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/politiek/beleid/artikelen/kabinet-jetten-begrotingsakkoord-d66-vvd-cda",
+          "publishedDate": "Mon, 31 Aug 2026 11:14:00 GMT",
+          "description": "D66, VVD en CDA hebben na dagen onderhandelen een akkoord bereikt over de begroting. Oppositiepartijen zijn nog niet aangesloten, waardoor het kabinet nog geen meerderheid heeft in de Tweede en Eerste ..."
+        },
+        {
+          "title": "Stoffer na akkoord begroting: Troonrede lijkt al op voorhand achterhaald",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1161049-coalitiepartijen-na-dagen-onderhandelen-akkoord-over-begroting",
+          "publishedDate": "Mon, 31 Aug 2026 11:01:00 GMT",
+          "description": "Coalitiepartijen D66, VVD en CDA zijn het na dagen onderhandelen eens geworden over de begroting, bevestigen ingewijden."
+        },
+        {
+          "title": "Kabinet buigt zich over begroting na urenlang coalitieoverleg",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/algemeen/kabinet-buigt-zich-over-begroting-na-urenlang-coalitieoverleg",
+          "publishedDate": "Mon, 31 Aug 2026 10:31:00 GMT",
+          "description": "DEN HAAG (ANP) - Het kabinet begint maandagavond aan de begrotingsraad, het overleg over de financi&#235;le stukken die later op de dag naar de Raad van State moeten. De eerste bewindspersonen zijn voor he ..."
+        }
+      ]
+    },
+    {
       "keyword": "badr hari",
       "trafficLabel": "10K+",
       "articles": [
@@ -241,6 +241,13 @@
           "description": "De 41-jarige kickbokser is opgepakt in Amsterdam. Het is niet de eerste keer dat Badr Hari in contact komt met de politie."
         },
         {
+          "title": "Badr Hari opgepakt op verdenking van bedreiging en belediging van zijn ex-vriendin",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/badr-hari-opgepakt-op-verdenking-van-bedreiging-en-belediging-van-zijn-ex-vriendin~bae188d0/",
+          "publishedDate": "Tue, 01 Sep 2026 05:36:00 GMT",
+          "description": "Kickbokser Badr Hari is dinsdagochtend opgepakt aan de Van Leijenberghlaan in Amsterdam-Buitenveldert. Hij wordt ervan verdacht zijn ex- vriendin, tevens moeder van zijn vijf kinderen, te hebben bedre ..."
+        },
+        {
           "title": "Kickbokser Badr Hari opgepakt op verdenking van bedreiging en belediging",
           "source": "NU.nl",
           "url": "https://www.nu.nl/sport-overig/6408240/kickbokser-badr-hari-opgepakt-op-verdenking-van-bedreiging-en-belediging.html",
@@ -248,11 +255,25 @@
           "description": "Kickbokser Badr Hari is dinsdagochtend aangehouden in Amsterdam. Hij wordt verdacht van bedreiging en belediging."
         },
         {
+          "title": "Badr Hari w&#233;&#233;r aangehouden: wist hij zelf allang dat het opnieuw mis zou gaan?",
+          "source": "Startpagina on MSN",
+          "url": "https://www.msn.com/nl-nl/criminaliteit/algemeen/badr-hari-w%C3%A9%C3%A9r-aangehouden-wist-hij-zelf-allang-dat-het-opnieuw-mis-zou-gaan/ar-AA2boZao",
+          "publishedDate": "Tue, 01 Sep 2026 23:17:46 GMT",
+          "description": "Badr Hari is opnieuw aangehouden. De 41-jarige kickbokslegende is dinsdagochtend op straat opgepakt in Amsterdam-Buitenveldert en wordt verdacht van bedreiging en belediging. De arrestatie komt terwij ..."
+        },
+        {
           "title": "Badr Hari opnieuw gearresteerd in Amsterdam, nog geen jaar na zaak rond ex",
           "source": "Bladna.nl",
           "url": "https://www.bladna.nl/badr-hari-opnieuw-opgepakt-amsterdam,72483.html",
           "publishedDate": "Tue, 01 Sep 2026 06:59:00 GMT",
           "description": "Badr Hari is dinsdagochtend opnieuw opgepakt in Amsterdam. De Nederlands-Marokkaanse kickbokser wordt verdacht van bedreiging en belediging. De arrestatie volgt minder dan een jaar na zijn definitieve ..."
+        },
+        {
+          "title": "Badr Hari opgepakt in Amsterdam, advocaat bevestigt aanhouding",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/artikelen/badr-hari-aangehouden-amsterdam-bedreiging-belediging",
+          "publishedDate": "Tue, 01 Sep 2026 05:43:00 GMT",
+          "description": "Kickbokser Badr Hari is dinsdagochtend aangehouden in Amsterdam op verdenking van bedreiging en belediging. Zijn advocaat bevestigt aan Shownieuws dat het om Hari gaat. De politie doet nog onderzoek n ..."
         },
         {
           "title": "Kickboksicoon Badr Hari (41) aangehouden in Amsterdam",
@@ -276,32 +297,11 @@
           "description": "Het is niet de eerste keer dat 41-jarige Badr Hari wordt opgepakt. In februari 2025 werd hij aangehouden op verdenking van het mishandelen van zijn ex-vriendin. Hij kreeg daarvoor een taakstraf van 24 ..."
         },
         {
-          "title": "Badr Hari opgepakt in Amsterdam, advocaat bevestigt aanhouding",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/crime/artikelen/badr-hari-aangehouden-amsterdam-bedreiging-belediging",
-          "publishedDate": "Tue, 01 Sep 2026 03:42:00 GMT",
-          "description": "Kickbokser Badr Hari is dinsdagochtend aangehouden in Amsterdam op verdenking van bedreiging en belediging. Zijn advocaat bevestigt aan Shownieuws dat het om Hari gaat. De politie doet nog onderzoek n ..."
-        },
-        {
           "title": "Badr Hari opgepakt in Amsterdam om bedreiging",
           "source": "Crimesite",
           "url": "https://www.crimesite.nl/badr-hari-opgepakt-in-amsterdam-om-bedreiging/",
           "publishedDate": "Tue, 01 Sep 2026 02:50:00 GMT",
           "description": "De 41-jarige oud-kickbokser Badr Hari is dinsdagochtend 1 september rond 09.00 aangehouden aan de Van Leijenberghlaan in Amsterdam-Buitenveldert. Hij wordt verdacht van bedreiging en belediging. De po ..."
-        },
-        {
-          "title": "Pro-kickbokser Badr Hari opnieuw opgepakt in Amsterdam, dit keer voor bedreiging en belediging",
-          "source": "VK Magazine",
-          "url": "https://www.vkmag.com/magazine/pro-kickbokser-badr-hari-opnieuw-opgepakt-in-amsterdam-dit-keer-voor-bedreiging-en-belediging",
-          "publishedDate": "Tue, 01 Sep 2026 02:43:00 GMT",
-          "description": "Ah, het is weer eens raak rond Badr Hari. De 41-jarige kickbokser is dinsdagochtend in Amsterdam aangehouden op verdenking van bedreiging en belediging. Dat meldt De Telegraaf op basis van eigen bronn ..."
-        },
-        {
-          "title": "'Badr Hari opgepakt in Amsterdam'",
-          "source": "vandaaginside",
-          "url": "https://www.vandaaginside.nl/media/bners/artikelen/badr-hari-opgepakt-in-amsterdam",
-          "publishedDate": "Tue, 01 Sep 2026 02:19:00 GMT",
-          "description": "Kickbokser Badr Hari is dinsdagochtend in Amsterdam opgepakt. Hij wordt verdacht van bedreiging en belediging. Verschillende bronnen bevestigen de aanhouding tegenover De Telegraaf, nadat het nieuws ..."
         }
       ]
     },
@@ -393,11 +393,18 @@
           "description": "Thilo Kehrer is topkandidaat om in de laatste dagen van de transferperiode de defensie van Ajax te versterken. De gesprekken met AS Monaco over de huur van de 28-voudig Duits international verlopen po ..."
         },
         {
-          "title": "'Kehrer is opbouwende leider, maar gaat niet compenseren voor Ajax-verdedigers'",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/kehrer-is-opbouwende-leider-maar-gaat-niet-compenseren-voor-ajax-verdedigers/ar-AA2bn93Z",
-          "publishedDate": "Tue, 01 Sep 2026 12:54:24 GMT",
-          "description": "Met Thilo Kehrer haalt Ajax een bijzonder veelzijdige verdediger in huis. Dat blijkt uit een analyse van Voetbal International, dat de 29-jarige Duitser onder meer een 'veelzijdig aangelegde opbouwspe ..."
+          "title": "'Ajax is nog niet uitgewinkeld; Cruijff loert op buitenkansje'",
+          "source": "Ajax1.nl",
+          "url": "https://www.ajax1.nl/ajax-is-nog-niet-uitgewinkeld-cruijff-loert-op-buitenkansje/",
+          "publishedDate": "Wed, 02 Sep 2026 00:13:00 GMT",
+          "description": "Lees nu | Ajax lijkt met Thilo Kehrer, Simon Adingra en Leo Salazar Hinojosa de selectie compleet te hebben, maar technisch directeur Jordi Cruijff ..."
+        },
+        {
+          "title": "Transferspektakel richting topper Ajax - PSV: 'Hoe snel kun je nieuwe spelers inpassen?'",
+          "source": "Ajax Showtime on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/transferspektakel-richting-topper-ajax-psv-hoe-snel-kun-je-nieuwe-spelers-inpassen/ar-AA2boRzH",
+          "publishedDate": "Tue, 01 Sep 2026 23:35:00 GMT",
+          "description": "Marciano Vink verwacht dat PSV op dit moment nog verder is dan Ajax. De analist, die als speler voor beide clubs speelde, ziet dat Ajax een flinke inhaalslag aan het maken is, maar of de Amsterdammers ..."
         },
         {
           "title": "Adingra geeft ja-woord aan Ajax, ook Kehrer onderweg",
@@ -435,18 +442,11 @@
           "description": "De voetbalkantine is de ideale plek om na de wedstrijd met je vrienden nog even lekker bij te praten en wat te drinken. De VP-Voetbalkantine is een offtopic rubriek waar elk onderwerp mag worden bespr ..."
         },
         {
-          "title": "Ajax heeft ervaren 28-voudig Duits international bijna binnen",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/ajax-gaat-vol-voor-ervaren-28-voudig-duits-international/blte59e9787642f5211",
-          "publishedDate": "Tue, 01 Sep 2026 04:11:00 GMT",
-          "description": "De 29-jarige Kehrer staat momenteel onder contract bij AS Monaco, waar hij tijdens de eerste competitiewedstrijden genoegen moest nemen met een plek op de bank. Ajax voert positieve gesprekken met de ..."
-        },
-        {
-          "title": "‘Jordi Cruijff strikt opnieuw Duitse routinier’",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/jordi-cruijff-strikt-opnieuw-duitse-routinier/",
-          "publishedDate": "Tue, 01 Sep 2026 03:42:00 GMT",
-          "description": "Ajax krijgt opnieuw een Duitse versterking. Thilo Kehrer lijkt de gewenste versterking voor de achterhoede te worden."
+          "title": "Ajax en AS Monaco in grote lijnen eens over huurdeal Kehrer; Duitser reist dinsdag naar Amsterdam",
+          "source": "Ajax Showtime on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/ajax-en-as-monaco-in-grote-lijnen-eens-over-huurdeal-kehrer-duitser-reist-dinsdag-naar-amsterdam/ar-AA2bkFIn",
+          "publishedDate": "Tue, 01 Sep 2026 04:10:00 GMT",
+          "description": "Thilo Kehrer is bij Ajax topkandidaat om de defensie in de slotdagen van de zomerse transfermarkt te versterken. Dat meldt onder meer het Algemeen Dagblad dinsdagochtend. De krant meldt later op dinsd ..."
         },
         {
           "title": "Dit is waarom Ajax goede zaken doet bij een transfer van Thilo Kehrer",
@@ -478,159 +478,209 @@
       ]
     },
     {
-      "keyword": "postcodeloterij",
-      "trafficLabel": "10K+",
+      "keyword": "aziatische hoornaar",
+      "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Youtuber begint burgerinitiatief om Postcodeloterij te stoppen: ‘Het is onethisch, mensen spelen mee uit angst’",
-          "source": "Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/youtuber-begint-burgerinitiatief-om-postcodeloterij-te-stoppen-het-is-onethisch-mensen-spelen-mee-uit-angst~b5e6d50e/",
-          "publishedDate": "Mon, 21 Apr 2025 04:59:00 GMT",
-          "description": "De Postcodeloterij is de enige loterij in Nederland waarbij je kan weten of je had kunnen winnen. Het verklaart de populariteit: niemand wil zijn straat zien binnenlopen met een paar miljoen en zelf ..."
+          "title": "Man in Belgi&#235; hersendood na aanval van geelpoothoornaars",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2629306-man-in-belgie-hersendood-na-aanval-van-geelpoothoornaars",
+          "publishedDate": "Tue, 01 Sep 2026 09:52:00 GMT",
+          "description": "In Belgi&#235; is een man hersendood verklaard nadat hij was gestoken door geelpoothoornaars, insecten die tot voor kort Aziatische hoornaars werden genoemd. Afgelopen week werd de 60-jarige Eddy De Mulder ..."
         },
         {
-          "title": "Prijzen Postcodeloterij gemeente Geertruidenberg augustus 2026",
-          "source": "geertruidenberg.nieuws",
-          "url": "https://geertruidenberg.nieuws.nl/nieuwsberichten/prijzen-postcodeloterij-gemeente-geertruidenberg-augustus-2026",
-          "publishedDate": "Tue, 01 Sep 2026 06:34:00 GMT",
-          "description": "De uitslagen van de trekking van de Postcodeloterij van augustus 2026 zijn weer bekend gemaakt. Deze keer zijn er in de gemeente Geertruidenberg weer enkele leuke prijzen gevallen. We geven een overzi ..."
+          "title": "Belgische man (60) die na aanval door Aziatische hoornaars hersendood was verklaard, is in ziekenhuis overleden",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/belgische-man-60-die-na-aanval-door-aziatische-hoornaars-hersendood-was-verklaard-is-in-ziekenhuis-overleden~a608732f/",
+          "publishedDate": "Tue, 01 Sep 2026 05:34:00 GMT",
+          "description": "Eddy De Mulder (60) uit het Oost-Vlaamse Ninove is in het ziekenhuis overleden, nadat hij eerder hersendood was verklaard. Dat laat zijn neef Guy weten aan Het Laatste Nieuws. De man belandde in een c ..."
         },
         {
-          "title": "Winnende postcodes postcodeloterij augustus 2026 gemeente ’s-Hertogenbosch",
-          "source": "den-bosch.nieuws",
-          "url": "https://den-bosch.nieuws.nl/nieuws/winnende-postcodes-postcodeloterij-augustus-2026-gemeente-s-hertogenbosch",
-          "publishedDate": "Tue, 01 Sep 2026 05:30:00 GMT",
-          "description": "De Postcodeloterij prijzen van de afgelopen maand augustus zijn weer bekend gemaakt! Heb jij ook een prijs gewonnen? Namens de redactie van harte gefeliciteerd. Check voor de zekerheid altijd je eigen ..."
+          "title": "Belgische Eddy (60) moet gereanimeerd worden na aanval van Aziatische hoornaars: 'Kans is klein dat hij nog wakker wordt'",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/belgische-eddy-60-moet-gereanimeerd-worden-na-aanval-van-aziatische-hoornaars-kans-is-klein-dat-hij-nog-wakker-wordt~ad55ab37/",
+          "publishedDate": "Sat, 29 Aug 2026 17:37:00 GMT",
+          "description": "Eddy Van Mulder (60) uit de Vlaamse stad Ninove wilde donderdagavond zijn pony eten geven toen er plots tientallen Aziatische hoornaars uit een nest boven een deuropening naar buiten vlogen. De man we ..."
         },
         {
-          "title": "Postcode Loterij nieuwe partner van ZLM Tour",
-          "source": "WielerFlits on MSN",
-          "url": "https://www.msn.com/nl-nl/algemeen/algemeen/postcode-loterij-nieuwe-partner-van-zlm-tour/ar-AA2blT1N",
-          "publishedDate": "Tue, 01 Sep 2026 05:17:44 GMT",
-          "description": "De ZLM Tour heeft een nieuwe partner weten te strikken: het gaat om een samenwerkingsverband met de Postcode Loterij. “Deze samenwerking brengt topsport dichter bij het publiek en draagt bij aan maats ..."
+          "title": "60-jarige man uit Ninove overleden na aanval door Aziatische hoornaars: ‘Het gaat om het eerste Belgische overlijden’",
+          "source": "De Morgen",
+          "url": "https://www.demorgen.be/nieuws/60-jarige-man-uit-ninove-overleden-na-aanval-door-aziatische-hoornaars-het-gaat-om-het-eerste-belgische-overlijden~b2703a90/",
+          "publishedDate": "Tue, 01 Sep 2026 13:39:00 GMT",
+          "description": "Een 60-jarige man is overleden nadat hij vorige week werd aangevallen door een nest Aziatische hoornaars. Dat meldt VRT NWS. Voor zover bekend gaat het om het eerste Belgische sterfgeval als gevolg va ..."
         },
         {
-          "title": "Uitslagen Postcode Loterij augustus 2026",
-          "source": "Dongen Nieuws",
-          "url": "https://dongen.nieuws.nl/nieuws/uitslagen-postcode-loterij-augustus-2026",
-          "publishedDate": "Tue, 01 Sep 2026 01:42:00 GMT",
-          "description": "Vandaag zijn de uitslagen van de trekking van de postcodeloterij van de maand augustus bekend gemaakt. Hieronder een overzicht van de winnende postcodes in Dongen, 's Gravenmoer en Klein-Dongen-Vaart."
+          "title": "Eddy (60) die na aanval door zwerm Aziatische hoornaars in coma raakte, is hersendood verklaard",
+          "source": "Gazet van Antwerpen",
+          "url": "https://www.gva.be/binnenland/eddy-60-die-na-aanval-door-zwerm-aziatische-hoornaars-in-coma-raakte-is-hersendood-verklaard/160795246.html",
+          "publishedDate": "Tue, 01 Sep 2026 11:48:00 GMT",
+          "description": "Eddy De Mulder (60) uit Ninove, die na een aanval door een nest Aziatische hoornaars in een coma raakte, is dinsdag hersendood verklaard."
         },
         {
-          "title": "Prijzen Postcodeloterij Loon op Zand augustus 2026",
-          "source": "loon-op-zand.nieuws",
-          "url": "https://loon-op-zand.nieuws.nl/nieuws/prijzen-postcodeloterij-loon-op-zand-augustus-2026",
-          "publishedDate": "Tue, 01 Sep 2026 01:24:00 GMT",
-          "description": "De Postcode Loterij prijzen van de afgelopen maand zijn weer bekend gemaakt! Heb jij gewonnen? Je ziet het hieronder! Deze uitslagen zijn onder voorbehoud van schrijffouten. Check voor de zekerheid al ..."
+          "title": "‘Wat je moet doen als je hoornaars ziet? Simpel: gaan lopen’",
+          "source": "De Morgen",
+          "url": "https://www.demorgen.be/nieuws/wat-je-moet-doen-als-je-hoornaars-ziet-simpel-gaan-lopen~b6266dce/",
+          "publishedDate": "Mon, 31 Aug 2026 11:56:00 GMT",
+          "description": "Europese hoornaars uit &#233;&#233;n nest staken dit weekend vijftien voorbijgangers in Kluisbergen, vijf van hen moesten naar het ziekenhuis. In Ninove raakte een man in coma na een steek van een Aziatische ho ..."
         },
         {
-          "title": "Prijzen Postcodeloterij Waalwijk augustus 2026",
-          "source": "Waalwijk Nieuws",
-          "url": "https://waalwijk.nieuws.nl/nieuws/prijzen-postcodeloterij-waalwijk-augustus-2026",
-          "publishedDate": "Tue, 01 Sep 2026 01:22:00 GMT",
-          "description": "De Postcodeloterij prijzen van de afgelopen maand zijn weer bekend gemaakt! Heb jij gewonnen? Je ziet het hieronder! Deze uitslagen zijn onder voorbehoud van schrijffouten. Check voor de zekerheid alt ..."
+          "title": "Groot nest Aziatische hoornaar op 20 meter hoogte verwijderd in Driebergen",
+          "source": "Nieuwsblad De Kaap",
+          "url": "https://www.nieuwsbladdekaap.nl/lokaal/dieren/1305168/groot-nest-aziatische-hoornaar-op-20-meter-hoogte-verwijderd-",
+          "publishedDate": "Mon, 31 Aug 2026 07:17:00 GMT",
+          "description": "[DRIEBERGEN] Met een speciale stofzuiger is woensdag 26 augustus een groot nest van de Aziatische hoornaar verwijderd uit een boom aan de Loolaan in Driebergen."
         },
         {
-          "title": "Winnende postcodes postcodeloterij augustus 2026 gemeente Breda",
-          "source": "roosendaal.nieuws",
-          "url": "https://roosendaal.nieuws.nl/nieuws/winnende-postcodes-postcodeloterij-augustus-2026-gemeente-breda",
-          "publishedDate": "Mon, 31 Aug 2026 23:45:00 GMT",
-          "description": "De Postcodeloterij prijzen van de afgelopen maand zijn weer bekend gemaakt! Heb jij gewonnen? Gefeliciteerd! Check voor de zekerheid altijd je eigen postcode op de website van de postcodeloterij. Als."
+          "title": "Wat als je gestoken bent door hoornaar? “Gif eruit zuigen? Dat kan niet”",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/natuur-en-wetenschap/wat-als-je-gestoken-bent-door-hoornaar-gif-eruit-zuigen-dat-kan-niet/160733823.html",
+          "publishedDate": "Mon, 31 Aug 2026 05:27:00 GMT",
+          "description": "In het Oost-Vlaamse Kluisbergen zijn meerdere mensen afgelopen weekend aangevallen door Europese hoornaars. Enkelen moesten voor verzorging naar het ziekenhuis. In Ninove is een man afgelopen donderda ..."
         },
         {
-          "title": "Uitslag Postcodeloterij augustus 2026: heb jij een prijs gewonnen?",
-          "source": "Oosterhout Nieuws",
-          "url": "https://oosterhout.nieuws.nl/nieuws/uitslag-postcodeloterij-augustus-2026-heb-jij-een-prijs-gewonnen",
-          "publishedDate": "Mon, 31 Aug 2026 23:44:00 GMT",
-          "description": "De trekking van de Postcode Loterij van augustus 2026 heeft opnieuw prijzen opgeleverd voor deelnemers in Oosterhout."
+          "title": "Aziatische hoornaar rukt op in Vlaanderen: zo herken je hem &#233;n dit moet je doen als hij je steekt",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/weer-en-wetenschap/aziatische-hoornaar-rukt-op-in-vlaanderen-zo-herken-je-hem-en-dit-moet-je-doen-als-hij-je-steekt~a3e4d8af/",
+          "publishedDate": "Sun, 30 Aug 2026 01:00:00 GMT",
+          "description": "In Kluisbergen werden afgelopen weekend enkele wandelaars en een wielertoerist gestoken door Aziatische hoornaars. De fietser moest zelfs naar het ziekenhuis, maar is intussen aan de beterhand. HLN-we ..."
         },
         {
-          "title": "Is jouw postcode in de prijzen gevallen? Bekijk de uitslag van de PostcodeLoterij Bonustrekking",
-          "source": "oosterhout.nieuws",
-          "url": "https://oosterhout.nieuws.nl/nieuws/is-jouw-postcode-in-de-prijzen-gevallen-bekijk-de-uitslag-van-de-postcodeloterij-bonustrekking",
-          "publishedDate": "Thu, 16 Jul 2026 23:34:00 GMT",
-          "description": "De uitslagen van de speciale Bonustrekking van de Nationale Postcode Loterij zijn bekend. Naast de reguliere maandtrekking en de jaarlijkse 13e trekking maakten deelnemers deze maand ook kans op extra ..."
+          "title": "Nest van Aziatische hoornaars ontdekt in Grote Waal: advies om ruim afstand te houden",
+          "source": "OnsWestfriesland",
+          "url": "https://onswestfriesland.nl/2026/gemeente-hoorn/nest-van-aziatische-hoornaars-ontdekt-in-grote-waal-advies-om-ruim-afstand-te-houden/",
+          "publishedDate": "Fri, 28 Aug 2026 11:45:00 GMT",
+          "description": "In de basis zijn ze niet agressiever dan een normale wesp, maar bij een nest kan de Aziatische hoornaar zeer agressief reageren."
+        }
+      ]
+    },
+    {
+      "keyword": "haarlem",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Haarlem opent regeling voor eerdere stroomaanvragen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/haarlem/haarlem-opent-regeling-voor-eerdere-stroomaanvragen~a3a8605b/",
+          "publishedDate": "Mon, 31 Aug 2026 17:00:00 GMT",
+          "description": "De gemeente Haarlem vraagt projectontwikkelaars, woningcorporaties en schoolbesturen om bouwprojecten eerder aan te melden voor capaciteit op het elektriciteitsnet. Aanmelden kan tot maandag 14 septem ..."
+        },
+        {
+          "title": "Splinter Chabot spreekt in Haarlem over identiteit en mentale gezondheid",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/haarlem/splinter-chabot-spreekt-in-haarlem-over-identiteit-en-mentale-gezondheid~a2be452f/",
+          "publishedDate": "Mon, 31 Aug 2026 06:50:00 GMT",
+          "description": "Schrijver en presentator Splinter Chabot geeft in Museum van de Geest in Haarlem een lezing over identiteit, kwetsbaarheid en mentale gezondheid. Donderdag 10 september begint de avond om 19.30 uur aa ..."
+        },
+        {
+          "title": "Reanimatie op Saeftinge in Haarlem, traumahelikopter gealarmeerd",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/noord-holland/kennemerland/haarlem/55773821/p2000-assistentie-bij-reanimatie-op-saeftinge-in-haarlem.html",
+          "publishedDate": "Tue, 01 Sep 2026 21:51:00 GMT",
+          "description": "De hulpdiensten zijn in de nacht van dinsdag op woensdag uitgerukt voor een reanimatie aan de Saeftinge in Haarlem. Ook een traumahelikopter is gealarmeerd."
+        },
+        {
+          "title": "Vrouw gewond bij woningbrand aan Gedempte Oude Gracht in Haarlem",
+          "source": "Haarlems Dagblad",
+          "url": "https://www.haarlemsdagblad.nl/regio/haarlem/vrouw-gewond-bij-woningbrand-aan-gedempte-oude-gracht-in-haarlem/160837917.html",
+          "publishedDate": "Tue, 01 Sep 2026 14:21:00 GMT",
+          "description": "In een woning aan de Gedempte Oude Gracht in het centrum van Haarlem is dinsdagavond brand uitgebroken. De brandmelding kwam rond 20.25 uur binnen. Brandweer, politie en ambulancedienst kwamen met spo ..."
+        },
+        {
+          "title": "Vermiste man (47) uit Haarlem overleden gevonden",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/vermissing/artikelen/noord-holland-haarlem-politie-zoekt-vermiste-man-47",
+          "publishedDate": "Tue, 01 Sep 2026 06:47:00 GMT",
+          "description": "De politie is op zoek naar de 47-jarige Patrick uit Haarlem. Hij is sinds zondagavond 30 augustus vermist en is te herkennen aan zijn grote, grijze baard."
+        },
+        {
+          "title": "Lichaam vermiste man uit Haarlem gevonden",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/363019/lichaam-vermiste-man-uit-haarlem-gevonden",
+          "publishedDate": "Tue, 01 Sep 2026 01:21:00 GMT",
+          "description": "Vermiste man (47) uit Haarlem overleden aangetroffen. Politie zocht met Veteranen Search Team in duinen bij Overveen. Familie en vrienden gecondoleerd."
+        },
+        {
+          "title": "Grote maquette van Haarlem nu in de koepel te zien: ‘Het plaatsen was doodeng’",
+          "source": "Haarlem105",
+          "url": "https://haarlem105.nl/grote-maquette-van-haarlem-nu-openbaar-in-de-koepel-te-zien/",
+          "publishedDate": "Mon, 31 Aug 2026 04:20:00 GMT",
+          "description": "De grote maquette van Haarlem is nu gratis te bekijken in de koepel gevangenis. Het is verticaal geplaatst vlakbij de ingang.De grote maquette van Haarlem is afgelopen week in de Koepel geplaatst. &quot;Do ..."
+        },
+        {
+          "title": "Oud-Katholieke kerk in Haarlem kiest vrouwelijke bisschop",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/362956/oud-katholieke-kerk-in-haarlem-kiest-vrouwelijke-bisschop",
+          "publishedDate": "Sun, 30 Aug 2026 20:02:00 GMT",
+          "description": "Erna Peijnenburg wordt eerste vrouwelijke bisschop van de Oud-Katholieke Kerk in bisdom Haarlem. Wijding op 10 oktober. Lees meer over de verkiezing."
+        },
+        {
+          "title": "Vleeshal getest als restaurant en club: ‘Haarlem heeft dit nodig’",
+          "source": "Haarlem105",
+          "url": "https://haarlem105.nl/vleeshal-getest-als-restaurant-en-club-haarlem-heeft-dit-nodig/",
+          "publishedDate": "Sat, 29 Aug 2026 23:00:00 GMT",
+          "description": "De Vleeshal aan de Grote Markt werd dit weekend omgetoverd tot een restaurant en club. Met het testevenement Momentum willen de organisatoren in samenwerking met de gemeente onderzoeken of het gebouw ..."
+        },
+        {
+          "title": "Motor gaat in vlammen op in Haarlem, politie doet onderzoek",
+          "source": "noordhollandsdagblad.nl",
+          "url": "https://www.noordhollandsdagblad.nl/regio/haarlem/motor-gaat-in-vlammen-op-in-haarlem-politie-doet-onderzoek/160680796.html",
+          "publishedDate": "Sat, 29 Aug 2026 00:37:00 GMT",
+          "description": "HaarlemEen motor is in de nacht van vrijdag op zaterdag uitgebrand in Haarlem. De politie doet onderzoek naar brandstichting en is op zoek naar getuigen. De brand brak rond 3:30 uur uit aan de ..."
         }
       ]
     },
     {
       "keyword": "prinsjesdag 2026 uitgelekt",
       "trafficLabel": "5K+",
-      "articles": []
-    },
-    {
-      "keyword": "brandstichting",
-      "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Mercedes volledig uitgebrand op parkeerplaats in Lith, politie onderzoekt brandstichting",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/oss/mercedes-volledig-uitgebrand-op-parkeerplaats-in-lith-politie-onderzoekt-brandstichting~a22744d6/?slug_rd=1",
-          "publishedDate": "Thu, 27 Aug 2026 15:18:00 GMT",
-          "description": "Een geparkeerde Mercedes is donderdagavond volledig uitgebrand op een parkeerplaats bij Maaspark Lithse Ham in Lith. De politie houdt rekening met brandstichting en onderzoekt de zaak."
+          "title": "Wat kan de dga verwachten op Prinsjesdag 2026?",
+          "source": "Rendement Uitgeverij",
+          "url": "https://www.rendement.nl/prinsjesdag/nieuws/wat-kan-de-dga-verwachten-op-prinsjesdag-2026.html",
+          "publishedDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+          "description": "Prinsjesdag valt vroeg dit jaar. Al op 15 september presenteert het kabinet de fiscale plannen voor 2027 en mogelijk ook alvast maatregelen voor de jaren daarna. Voor directeuren-grootaandeelhouders ( ..."
         },
         {
-          "title": "Brandstichting bij azc in aanbouw Valkenswaard",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628469-brandstichting-bij-azc-in-aanbouw-valkenswaard",
-          "publishedDate": "Thu, 27 Aug 2026 01:48:00 GMT",
-          "description": "Bij een toekomstige opvanglocatie voor alleenstaande minderjarige vluchtelingen in Valkenswaard is op twee plekken brandgesticht. Een aantal ramen sneuvelde, op de gevel is brandschade zichtbaar."
+          "title": "Prinsjesdag: wat we al weten en waarover nog onderhandeld wordt",
+          "source": "CMweb",
+          "url": "https://www.cmweb.nl/143070/prinsjesdag-wat-we-al-weten-en-waarover-nog-onderhandeld-wordt",
+          "publishedDate": "Thu, 27 Aug 2026 06:26:00 GMT",
+          "description": "Het kabinet presenteert op 15 september de Miljoenennota, de Rijksbegroting en het Belastingplan 2027. De definitieve plannen worden pas op Prinsjesdag bekendgemaakt, maar veel fiscale maatregelen zij ..."
         },
         {
-          "title": "Verdachte (39) blijft brandstichting in jeugdhuis Salamander ontkennen, maar wordt toch veroordeeld: “Niet herkenbaar op de camerabeelden”",
-          "source": "KW.be",
-          "url": "https://kw.be/nieuws/criminaliteit/rechtbank/verdachte-39-blijft-brandstichting-in-jeugdhuis-salamander-ontkennen-maar-wordt-toch-veroordeeld-niet-herkenbaar-op-de-camerabeelden/",
-          "publishedDate": "Mon, 31 Aug 2026 17:00:00 GMT",
-          "description": "De 39-jarige man uit Kortrijk die verdacht wordt van inbraak in en brandstichting bij jeugdhuis Salamander in Harelbeke maar bleef ontkennen dat hij e ..."
+          "title": "Prinsjesdag 2026: dit merken werkgevers in de schoonmaak",
+          "source": "Facto",
+          "url": "https://www.facto.nl/44798/prinsjesdag-2026-dit-merken-werkgevers-in-de-schoonmaak",
+          "publishedDate": "Thu, 27 Aug 2026 06:26:00 GMT",
+          "description": "Werkgevers krijgen in 2027 te maken met verschillende fiscale veranderingen. De definitieve voorstellen worden op Prinsjesdag bekendgemaakt."
         },
         {
-          "title": "Kortrijkzaan krijgt 3 jaar cel voor brandstichting jeugdhuis in Harelbeke",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/31/vonnis-brandstichting-jeugdhuis-harelbeke/",
-          "publishedDate": "Mon, 31 Aug 2026 03:53:00 GMT",
-          "description": "Een man van 38 uit Kortrijk moet 3 jaar naar de cel omdat hij inbrak en brand stichtte in een jeugdhuis in Harelbeke. Het jeugdhuis brandde in maart van dit jaar volledig uit. De man ontkende op zijn ..."
+          "title": "Webinar Prinsjesdag 2026: in &#233;&#233;n uur up-to-date",
+          "source": "Binnenlands Bestuur",
+          "url": "https://www.binnenlandsbestuur.nl/financien/bdo-accountants-en-adviseurs/webinar-prinsjesdag-2026-in-een-uur-up-to-date",
+          "publishedDate": "Tue, 25 Aug 2026 02:41:00 GMT",
+          "description": "Op Prinsjesdag presenteert het&#160;kabinet het Belastingplan voor 2027, met daarin de voorgenomen wijzigingen voor het komende jaar. Wat zijn de belangrijkste fiscale veranderingen en ontwikkelingen? Tijd ..."
         },
         {
-          "title": "Ontkennen had geen zin: dertiger krijgt drie jaar cel voor brandstichting in jeugdhuis",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/regio/west-vlaanderen/zuid-west-vlaanderen/harelbeke/ontkennen-had-geen-zin-dertiger-krijgt-drie-jaar-cel-voor-brandstichting-in-jeugdhuis/160741269.html",
-          "publishedDate": "Mon, 31 Aug 2026 02:27:00 GMT",
-          "description": "Een 38-jarige man uit Kortrijk moet drie jaar de cel in omdat hij inbrak en brandstichtte bij jeugdhuis De Salamander in Harelbeke. Het jeugdhuis brandde hierdoor volledig uit. Op zijn proces probeerd ..."
+          "title": "Wat gaat Prinsjesdag 2026 voor fiscaal nieuws brengen?",
+          "source": "Rendement Uitgeverij",
+          "url": "https://www.rendement.nl/prinsjesdag/nieuws/wat-gaat-prinsjesdag-2026-voor-fiscaal-nieuws-brengen.html",
+          "publishedDate": "Mon, 24 Aug 2026 00:00:00 GMT",
+          "description": "Op 15 september is het weer Prinsjesdag. Op deze dag worden de (fiscale) plannen voor volgend jaar en soms voor de jaren erna bekendgemaakt door het kabinet. Wat valt er allemaal te verwachten op Prin ..."
         },
         {
-          "title": "Politie onderzoekt mogelijke brandstichting bij auto",
-          "source": "GelreNieuws.nl",
-          "url": "https://www.gelrenieuws.nl/2026/08/31/video/politie-onderzoekt-mogelijke-brandstichting-bij.html",
-          "publishedDate": "Sun, 30 Aug 2026 23:54:00 GMT",
-          "description": "NIJMEGEN - Een hybride auto is zondagavond laat uitgebrand aan de Muiderslotstraat in Nijmegen. Bij aankomst van de brandweer sloegen de vlammen volgens buurtbewoners al hoog uit de motorkap. De brand ..."
+          "title": "Koopkrachtcijfers Prinsjesdag uitgelekt: zoveel ga jij er komend jaar op vooruit",
+          "source": "AD",
+          "url": "https://www.ad.nl/politiek/koopkrachtcijfers-prinsjesdag-uitgelekt-zoveel-ga-jij-er-komend-jaar-op-vooruit~ab34210b/",
+          "publishedDate": "Fri, 15 Sep 2023 01:24:00 GMT",
+          "description": "Dat melden Haagse bronnen over de plannen voor Prinsjesdag aan deze krant. Gemiddeld gaan Nederlanders er het komende jaar 1,8 procent op vooruit qua koopkracht. Gezinnen met kinderen 2,4 procent."
         },
         {
-          "title": "Vermoeden brandstichting bij Perim: Audi Quattro verwoest – update",
-          "source": "De Orkaan",
-          "url": "https://www.deorkaan.nl/vermoeden-brandstichting-bij-perim-audi-quattro-verwoest/",
-          "publishedDate": "Sun, 30 Aug 2026 11:45:00 GMT",
-          "description": "Op de parkeerplaats bij de flatgebouw de Perim (Peldersveld) in Zaandam-Oost is afgelopen nacht een Audi Quattro in vlammen opgegaan. De prijzige auto werd totaal verwoest. Op de plek op het parkeerte ..."
-        },
-        {
-          "title": "Autobrand op parkeerplaats in Zaandam, politie vermoedt brandstichting",
-          "source": "Noordhollands Dagblad",
-          "url": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/zaanstreek/autobrand-op-parkeerplaats-in-zaandam-politie-vermoedt-brandstichting/160710116.html",
-          "publishedDate": "Sun, 30 Aug 2026 10:07:00 GMT",
-          "description": "Een auto is in de nacht van zaterdag op zondag vermoedelijk in brand gestoken op een parkeerplaats aan de Perim in Zaandam."
-        },
-        {
-          "title": "Vier mannen bekennen schuld aan brandstichting op ambulances van Joodse liefdadigheidsorganisatie",
-          "source": "Newsmonkey",
-          "url": "https://newsmonkey.be/vier-mannen-bekennen-schuld-aan-brandstichting-op-ambulances-van-joodse-liefdadigheidsorganisatie/",
-          "publishedDate": "Fri, 28 Aug 2026 12:46:00 GMT",
-          "description": "In het kort Vier jonge mannen hebben schuld bekend aan een brandstichting op ambulances van een joodse liefdadigheidsorganisatie. Deze geco&#246;rdineerde ..."
-        },
-        {
-          "title": "Parket onderzoekt mogelijke brandstichting auto aan nachtwinkel in Hoogstraten",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/28/brandstichting-auto-hoogstraten/",
-          "publishedDate": "Fri, 28 Aug 2026 08:26:00 GMT",
-          "description": "Het Antwerps parket onderzoekt de mogelijke brandstichting van een auto in Hoogstraten. Die geparkeerde wagen is deze voormiddag volledig uitgebrand naast een huis achter een nachtwinkel. Niemand raak ..."
+          "title": "Prinsjesdag: koopkrachtcijfers uitgelekt",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/fragmenten/nos-met-het-oog-op-morgen/52215ca5-504f-4641-b134-40a672e7c898/2018-09-13-prinsjesdag-koopkrachtcijfers-uitgelekt",
+          "publishedDate": "Thu, 13 Sep 2018 16:00:00 GMT",
+          "description": "Vanmiddag lekten de koopkrachtcijfers voor volgend jaar voortijdig uit via de NOS. Eigenlijk moesten ze tot Prinsjesdag geheim blijven. Dat leidde tot veel irritatie bij de SP, dat eiste dat het ..."
         }
       ]
     }
