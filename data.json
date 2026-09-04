@@ -1,157 +1,20 @@
 {
-  "fetchedAt": "2026-09-03T22:28:02.504Z",
+  "fetchedAt": "2026-09-04T00:16:26.499Z",
   "trends": [
+    {
+      "keyword": "chatgpt",
+      "trafficLabel": "20K+",
+      "articles": []
+    },
     {
       "keyword": "rijnweg, hoorn",
       "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Jonge fietser (13) overleden na aanrijding in Hoorn",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5647491/jongen-13-overleden-aanrijding-fiets-auto-hoorn",
-          "publishedDate": "Thu, 03 Sep 2026 05:13:00 GMT",
-          "description": "Een 13-jarige jongen is overleden nadat hij gistermiddag al fietsend werd aangereden door een auto. De bestuurder reed niet onder invloed van alcohol of drugs, maar zijn rol bij het ongeluk wordt onde ..."
-        },
-        {
-          "title": "13-jarige fietser overleden na aanrijding met auto in Hoorn",
-          "source": "Transport Online",
-          "url": "https://www.transport-online.nl/137181/13-jarige-fietser-overleden-na-aanrijding-met-auto-in-hoorn/",
-          "publishedDate": "Thu, 03 Sep 2026 13:26:00 GMT",
-          "description": "HOORN - Een 13-jarige jongen uit Hoorn is overleden na een ernstig verkeersongeval op de Rijnweg in Hoorn. De jongen reed op een fiets en werd woensdagmiddag 2 september aangereden door een auto. Hij ..."
-        },
-        {
-          "title": "Fietser (13) overleden na aanrijding met auto in Hoorn",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/algemeen/fietser-13-overleden-na-aanrijding-met-auto-in-hoorn",
-          "publishedDate": "Thu, 03 Sep 2026 06:44:00 GMT",
-          "description": "13-jarige fietser overlijdt na aanrijding op Rijnweg in Hoorn. Politie onderzoekt oorzaak; bestuurder niet onder invloed. Let op in drukker verkeer."
-        },
-        {
-          "title": "13-jarige jongen overleden bij verkeersongeval in Hoorn",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/noord-holland/hoorn/160071-13-jarige-jongen-overleden-bij-verkeersongeval-in-hoorn.html",
-          "publishedDate": "Thu, 03 Sep 2026 06:11:00 GMT",
-          "description": "Op woensdag 2 september vond rond 14.30 uur een ernstig verkeersongeval plaats op de Rijnweg in Hoorn. Een fietser werd daar aangereden door een auto. De fietser, een 13-jarige jongen uit Hoorn, is he ..."
-        },
-        {
-          "title": "Jongen (13) overleden na aanrijding in Hoorn",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/noord-holland-hoorn-13-jarige-jongen-overleden-aanrijding-rijnweg",
-          "publishedDate": "Thu, 03 Sep 2026 05:32:00 GMT",
-          "description": "Een 13-jarige jongen uit Hoorn is overleden nadat hij op de Rijnweg werd aangereden door een auto. De politie onderzoekt hoe het ongeluk kon gebeuren."
-        },
-        {
-          "title": "Jongen (13) uit Hoorn overleden na aanrijding: politie onderzoekt toedracht",
-          "source": "OnsWestfriesland",
-          "url": "https://onswestfriesland.nl/2026/gemeente-hoorn/jongen-13-uit-hoorn-overleden-na-aanrijding-politie-onderzoekt-toedracht/",
-          "publishedDate": "Thu, 03 Sep 2026 04:34:00 GMT",
-          "description": "Na het ongeval kreeg de jongen medische hulp en werd hij per ambulance naar het ziekenhuis gebracht. Daar overleed hij later aan zijn verwondingen. De familie van de jongen wordt bijgestaan door een ..."
-        },
-        {
-          "title": "13-jarige Finn overleden na aanrijding met auto in Hoorn, op de fatale plek worden bloemen gelegd",
-          "source": "AD",
-          "url": "https://www.ad.nl/binnenland/13-jarige-finn-overleden-na-aanrijding-met-auto-in-hoorn-op-de-fatale-plek-worden-bloemen-gelegd~a184c197/",
-          "publishedDate": "Thu, 03 Sep 2026 00:05:00 GMT",
-          "description": "De 13-jarige Finn uit Hoorn is woensdag overleden nadat hij op de Rijnweg in zijn woonplaats werd aangereden door een auto. Het ernstige ongeluk gebeurde rond 14.30 uur. De jongen werd zwaargewond ..."
-        },
-        {
-          "title": "Ongeval met letsel op Verlengde Lageweg in Hoorn, traumahelikopter gealarmeerd",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/noord-holland/noord-holland-noord/hoorn/55775743/p2000-ambulance-met-spoed-naar-verlengde-lageweg-in-hoorn.html",
-          "publishedDate": "Wed, 02 Sep 2026 07:35:00 GMT",
-          "description": "De hulpdiensten zijn woensdagmiddag uitgerukt voor een zwaar ongeval met letsel op de kruising de Verlengde Lageweg en Rijnweg in Hoorn. Behalve een ambulance is ook een traumahelikopter gealarmeerd."
-        },
-        {
-          "title": "Jongen op fiets zwaargewond na aanrijding met auto; traumahelikopter ingezet",
-          "source": "112 Nieuws Nederland",
-          "url": "https://112nieuws.net/2026/09/02/jongen-op-fiets-zwaargewond-na-aanrijding-met-auto-traumahelikopter-ingezet/",
-          "publishedDate": "Wed, 02 Sep 2026 06:18:00 GMT",
-          "description": "Op de Rijnweg in Hoorn heeft woensdagmiddag een ernstig ongeval plaatsgevonden. Rond 14.35 uur werd een jongen op zijn fiets aangereden door een personenauto toen hij de weg wilde oversteken. Door de ..."
-        },
-        {
-          "title": "Gewonde bij aanrijding met auto, bestuurder aangehouden",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/363049/gewonde-bij-aanrijding-met-auto-bestuurder-aangehouden",
-          "publishedDate": "Wed, 02 Sep 2026 00:45:00 GMT",
-          "description": "Minderjarige aangereden op kruising Verlengde Lageweg-Rijnweg in Hoorn. Bestuurder aangehouden, traumahelikopter opgeroepen. Toestand slachtoffer onbekend."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "nienke plas",
       "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Nienke Plas en Resley Stjeward na achttien jaar uit elkaar: 'Verdrietig besluit'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/achterklap/6408482/nienke-plas-en-resley-stjeward-na-achttien-jaar-uit-elkaar-verdrietig-besluit.html",
-          "publishedDate": "Thu, 03 Sep 2026 03:32:00 GMT",
-          "description": "Nienke Plas en haar partner Resley Stjeward zijn na achttien jaar uit elkaar, hebben ze donderdag laten weten op Instagram. De twee hebben de &quot;verdrietige beslissing&quot; een aantal maanden geleden samen ..."
-        },
-        {
-          "title": "Nienke Plas maakt verdrietige breuk bekend",
-          "source": "Story",
-          "url": "https://www.story.nl/showbizz/nienke-plas-maakt-verdrietige-breuk-bekend~6873c52",
-          "publishedDate": "Thu, 03 Sep 2026 03:58:00 GMT",
-          "description": "Nienke Plas en Resley Stjeward zijn na jaren samen uit elkaar. Ze blijven als ouders van drie kinderen en zakenpartners nauw met elkaar verbonden."
-        },
-        {
-          "title": "Nienke Plas gaat scheiden van man Resley",
-          "source": "Ditjes en Datjes",
-          "url": "https://www.ditjesendatjes.nl/nienke-plas-gaat-scheiden-van-man-resley",
-          "publishedDate": "Thu, 03 Sep 2026 03:43:00 GMT",
-          "description": "Nienke Plas en haar man Resley Stjeward gaan scheiden. Na achttien jaar samen en zes jaar huwelijk hebben de twee besloten ieder hun eigen weg te gaan."
-        },
-        {
-          "title": "Nienke Plas en Resley Stjeward niet verder als 'liefdeskoppel'",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/nienke-plas-en-resley-stjeward-niet-verder-als-liefdeskoppel",
-          "publishedDate": "Thu, 03 Sep 2026 03:01:00 GMT",
-          "description": "Nienke Plas en haar partner Resley Stjeward zijn uit elkaar. Dat deelt de contentcreator en cabareti&#232;re donderdagochtend op Instagram. De twee laten weten een aantal maanden geleden het besluit te heb ..."
-        },
-        {
-          "title": "Nienke Plas en Resley na jaren uit elkaar: 'Een verdrietige beslissing'",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/entertainment/heftig/nienke-plas-resley-na-jaren-uit-elkaar/",
-          "publishedDate": "Thu, 03 Sep 2026 02:37:00 GMT",
-          "description": "Nienke Plas en haar partner Resley Stjeward zijn niet langer samen. Het stel heeft naar eigen zeggen al enkele maanden geleden besloten om hun relatie te be&#235;indigen. Dat maken ze donderdag bekend via ..."
-        },
-        {
-          "title": "Nienke Plas en man Resley zetten punt achter relatie",
-          "source": "Weekend Online",
-          "url": "https://www.weekend-online.nl/bners/nienke-plas-resley-stjeward/",
-          "publishedDate": "Thu, 03 Sep 2026 01:11:00 GMT",
-          "description": "Comedienne en actrice Nienke Plas en haar man Resley Stjeward gaan niet langer verder als liefdeskoppel. Dat maken ze bekend via Instagram."
-        },
-        {
-          "title": "Liefdesbreuk: Nienke Plas en haar man Resley na bijna 20 jaar uit elkaar",
-          "source": "FEM FEM (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/familie-en-relaties/huwelijk/liefdesbreuk-nienke-plas-en-haar-man-resley-na-bijna-20-jaar-uit-elkaar/ar-AA2btpJV",
-          "publishedDate": "Thu, 03 Sep 2026 01:05:34 GMT",
-          "description": "Nienke Plas is al jaren een bekend gezicht in de mediawereld en deelt enorm vaak video's van haar gezin online. Zij en haar man Resley vormen al enorm lang een bekend Nederlands koppel, maar toch komt ..."
-        },
-        {
-          "title": "Nienke Plas en man Resley Stjeward uit elkaar na bijna zes jaar huwelijk: 'We blijven met elkaar verbonden'",
-          "source": "Kek Mama on MSN",
-          "url": "https://www.msn.com/nl-nl/lifestyle/other/nienke-plas-en-man-resley-stjeward-uit-elkaar-na-bijna-zes-jaar-huwelijk-we-blijven-met-elkaar-verbonden/ar-AA2btuCK",
-          "publishedDate": "Thu, 03 Sep 2026 01:03:26 GMT",
-          "description": "Nienke Plas en haar man Resley Stjeward gaan uit elkaar. Het stel heeft na bijna zes jaar huwelijk besloten om niet langer als koppel verder te gaan. Dat maakt Nienke bekend op Instagram. Volgens de p ..."
-        },
-        {
-          "title": "Nienke Plas en man Resley zetten punt achter huwelijk: 'Verdrietige beslissing'",
-          "source": "RTL Boulevard (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/nienke-plas-en-man-resley-zetten-punt-achter-huwelijk-verdrietige-beslissing/ar-AA2btkk4",
-          "publishedDate": "Thu, 03 Sep 2026 00:55:33 GMT",
-          "description": "Nienke Plas (40) en haar man Resley Stjeward zetten na bijna zes jaar huwelijk een punt achter hun liefdesrelatie. Op Instagram maakt Nienke de breuk bekend en vertelt ze hoe zij samen tot deze moeili ..."
-        },
-        {
-          "title": "Nienke Plas en haar man Resley Stjeward zijn uit elkaar",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/nienke-plas-en-haar-man-resley-stjeward-zijn-uit-elkaar",
-          "publishedDate": "Thu, 03 Sep 2026 00:55:00 GMT",
-          "description": "Nienke Plas en Resley Stjeward zijn uit elkaar. Het stel, ouders van drie kinderen, deelt het verdrietige nieuws via Instagram."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "aangereden",
@@ -165,11 +28,11 @@
           "description": "Een fatbike met daarop twee meisjes is zondagavond voor het station in Leeuwarden aangereden door een auto. De bestuurder van de fatbike is met onbekende verwondingen overgebracht naar het ziekenhuis."
         },
         {
-          "title": "Jongen (13) overleden na aanrijding in Hoorn",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/noord-holland-hoorn-13-jarige-jongen-overleden-aanrijding-rijnweg",
-          "publishedDate": "Thu, 03 Sep 2026 05:32:00 GMT",
-          "description": "Een 13-jarige jongen uit Hoorn is overleden nadat hij op de Rijnweg werd aangereden door een auto. De politie onderzoekt hoe het ongeluk kon gebeuren."
+          "title": "Fietser aangereden in Zwolle, politie zoekt mogelijk doorgereden rode auto",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/zwolle/fietser-aangereden-in-zwolle-politie-zoekt-mogelijk-doorgereden-rode-auto~a9c1294f/",
+          "publishedDate": "Mon, 17 Aug 2026 18:59:00 GMT",
+          "description": "De politie is op zoek naar de automobilist die betrokken was bij een aanrijding in Zwolle. Daar lag gisterenmiddag een fietser gewond op een rotonde."
         },
         {
           "title": "Fietser aangereden door stadsbus bij oversteken busbaan in Almeerse Faunabuurt",
@@ -207,11 +70,11 @@
           "description": "ZEVENAAR - Op de Jan Mensstraat in Zevenaar is zaterdag vanmiddag een kind lichtgewond geraakt nadat het werd aangereden door een auto. Het kind is voor controle naar het ziekenhuis gebracht. De meldi ..."
         },
         {
-          "title": "Verdachte supermarktoverval aangereden tijdens vluchtpoging, man gewond naar ziekenhuis",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/362923/verdachte-supermarktoverval-aangereden-tijdens-vluchtpoging-man-gewond-naar-ziekenhuis",
-          "publishedDate": "Fri, 28 Aug 2026 17:00:00 GMT",
-          "description": "Twee supermarktovervallen met mes in Heemskerk binnen twee uur. Verdachte gewond na aanrijding tijdens vlucht, aangehouden. Politie onderzoekt link tussen zaken."
+          "title": "Ree aangereden door automobilist bij Garyp",
+          "source": "W&#226;ldNet",
+          "url": "https://www.waldnet.nl/wn/nieuws/85107/Ree_aangereden_door_automobilist_bij_Garyp.html",
+          "publishedDate": "Fri, 28 Aug 2026 02:16:00 GMT",
+          "description": "Op de Easterein in Garyp is vrijdagochtend een ree aangereden door een automobilist. De hulpdiensten werden om 6.20 uur opgeroepen voor het ..."
         },
         {
           "title": "In Albina aangereden e-biker overleden in Frans-Guyana",
@@ -219,6 +82,13 @@
           "url": "https://dwtonline.com/in-albina-aangereden-e-biker-overleden-in-frans-guyana/",
           "publishedDate": "Thu, 27 Aug 2026 20:03:00 GMT",
           "description": "ALBINA — De e-biker, die op 21 augustus betrokken is geweest bij een ernstige aanrijding met een personenauto op de ..."
+        },
+        {
+          "title": "Burgemeester van Como verbiedt fietsen in stadscentrum nadat hij zelf was aangereden door e-bike",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/21/burgemeester-como-fietsen-aanrijding/",
+          "publishedDate": "Fri, 21 Aug 2026 07:08:00 GMT",
+          "description": "In Como, in Noord-Itali&#235;, is het vanaf september in een groot deel van het historische stadscentrum verboden om te fietsen. De burgemeester werd vorige maand aangereden door een elektrische fiets en d ..."
         }
       ]
     },
@@ -226,13 +96,6 @@
       "keyword": "xavi hernández",
       "trafficLabel": "10K+",
       "articles": [
-        {
-          "title": "Dat Xavi Hern&#225;ndez, een Spanjaard, nu bondscoach is, zegt iets over de verruimde blik van de KNVB",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/sport/dat-xavi-hernandez-een-spanjaard-nu-bondscoach-is-zegt-iets-over-de-verruimde-blik-van-de-knvb~b99eb157/",
-          "publishedDate": "Wed, 26 Aug 2026 09:07:00 GMT",
-          "description": "De KNVB wil dat Oranje dominant, attractief voetbal laat zien, en als de bond daarom voor een passende coach over de grens moet kijken, dan zij dat zo. Die open houding neemt niet weg dat Xavi voor ee ..."
-        },
         {
           "title": "Xavi maakt bij Oranje kennis met Nederlandse directheid: ‘Dat zouden ze in Spanje nooit doen’",
           "source": "Algemeen Dagblad",
@@ -269,18 +132,18 @@
           "description": "Xavi Hern&#225;ndez maakt binnenkort zijn eerste selectie als bondscoach van het Nederlands elftal bekend. Voor &#233;&#233;n sterspeler lijkt het definitief over en ..."
         },
         {
+          "title": "Virgil van Dijk schept duidelijkheid over toekomst bij Nederlands elftal na komst Xavi Hern&#225;ndez",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/virgil-van-dijk-schept-duidelijkheid-over-toekomst-bij-nederlands-elftal-na-komst-xavi-hernandez-2026083112421771753/",
+          "publishedDate": "Mon, 31 Aug 2026 08:15:00 GMT",
+          "description": "Met het aanstellen van Xavi Hern&#225;ndez gaat Oranje een nieuw hoofdstuk aan. Veel mensen vragen zich af of Virgil van Dijk hier nog onderdeel van gaat zijn. Tegenover 'The Times' geeft hij zelf antwoord ..."
+        },
+        {
           "title": "‘Spectaculaire ontwikkeling’ valt op: ‘Voor bondscoach Xavi is dit geweldig’",
           "source": "FCUpdate.nl",
           "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/spectaculaire-ontwikkeling-valt-op-voor-bondscoach-xavi-is-dit-geweldig",
           "publishedDate": "Mon, 31 Aug 2026 02:15:00 GMT",
           "description": "Het zou zomaar eens kunnen dat Ro-Zangelo Daal in beeld komt bij Oranje-bondscoach Xavi Hern&#225;ndez. Dat is althans de verwachting van voormalig international Arie Haan. De buitenspeler van AZ is in ..."
-        },
-        {
-          "title": "Twijfel bij Van Bronckhorst: 'Misschien weet Xavi niet dat ik trainer van Feyenoord ben'",
-          "source": "Voetbalprimeur",
-          "url": "https://www.voetbalprimeur.nl/videos/2128728/van-bronckhorst-vertelt-over-gesprek-met-bondscoach-xavi.html",
-          "publishedDate": "Sat, 29 Aug 2026 00:34:00 GMT",
-          "description": "Giovanni van Bronckhorst heeft voorafgaand aan de presentatie van Xavi Hern&#225;ndez als nieuwe bondscoach van het Nederlands elftal contact gehad met de Spanjaard. De Feyenoord-trainer feliciteerde Hern&#225; ..."
         },
         {
           "title": "Oranje-fans hebben genoeg gezien en vellen oordeel over Xavi Hern&#225;ndez",
@@ -295,172 +158,106 @@
           "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/bondscoach-xavi-hernandez-spreekt-zich-uit-over-fundamentele-speler-frenkie-de-jong-bij-oranje-2026082513545993166/",
           "publishedDate": "Tue, 25 Aug 2026 10:43:00 GMT",
           "description": "Xavi Hern&#225; ndez zal als nieuwe bondscoach van het Nederlands elftal veel nieuwe spelers tegenkomen. Toch is er &#233;&#233;n naam die de oefenmeester goed kent: met Frenkie de Jong werkte hij al samen bij ..."
+        },
+        {
+          "title": "'Ajax heeft Xavi Hern&#225;ndez in beeld als opvolger van Francesco Farioli'",
+          "source": "footballtransfers",
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2025/03/ajax-transfernieuws-xavi-hernandez-in-beeld-als-opvolger-van-francesco-farioli",
+          "publishedDate": "Sun, 16 Mar 2025 05:46:00 GMT",
+          "description": "Willem Leijgraf is datajournalist bij FootballTransfers en specialiseert zich in analyses van spelersprestaties, transferwaardes en statistische ontwikkelingen binnen het voetbal. Maak ons je ..."
+        }
+      ]
+    },
+    {
+      "keyword": "dood",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Twee weken na gewelddadige dood staan vrienden stil bij Scott: ‘Hij zou zeggen: Huil niet zo’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/rotterdam/twee-weken-na-gewelddadige-dood-staan-vrienden-stil-bij-scott-hij-zou-zeggen-huil-niet-zo~a1d7c034/",
+          "publishedDate": "Wed, 02 Sep 2026 14:30:00 GMT",
+          "description": "Voor de woontoren in het Rotterdamse centrum waar de 38-jarige Scott jarenlang woonde, ligt woensdagavond een ware bloemenzee. Ruim twee weken nadat de Rotterdammer door geweld om het leven kwam, will ..."
+        },
+        {
+          "title": "Eindelijk is duidelijk wie er achter de dood van Tupac zat",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/eindelijk-is-duidelijk-wie-er-achter-de-dood-van-tupac-zat~b3429a4ee/",
+          "publishedDate": "Mon, 31 Aug 2026 23:24:00 GMT",
+          "description": "Na dertig jaar is er dan eindelijk iemand veroordeeld voor de moord op rapper Tupac Shakur, die lange tijd met mysterie omgeven was."
+        },
+        {
+          "title": "Annemarie is dood, maar in de galerie van Edwin leeft ze voort: ‘Ze is overal’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/rotterdam/annemarie-is-dood-maar-in-de-galerie-van-edwin-leeft-ze-voort-ze-is-overal~ae1bacaf/",
+          "publishedDate": "Sat, 29 Aug 2026 17:00:00 GMT",
+          "description": "Vorig jaar verloor hij de vrouw met wie hij twintig jaar samen was. Maar Edwin Vo&#251;te (57) voelt zich nog dagelijks verbonden met Annemarie. „Door hardop met haar te praten, houd ik haar levend.” ..."
+        },
+        {
+          "title": "Zorgmedewerker (26) Oirschot ook verdacht van betrokkenheid bij dood tweede pati&#235;nt",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628379-zorgmedewerker-26-oirschot-ook-verdacht-van-betrokkenheid-bij-dood-tweede-patient",
+          "publishedDate": "Wed, 26 Aug 2026 08:00:00 GMT",
+          "description": "Het gaat in beide gevallen om hoogbejaarde mannen die in een woonzorgcentrum van Joris Zorg in Oirschot verbleven."
+        },
+        {
+          "title": "Roemeense kraanmachinist verdacht van dood door schuld na fataal ongeval Rijssense bouwvakker",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/rijssen-holten/roemeense-kraanmachinist-verdacht-van-dood-door-schuld-na-fataal-ongeval-rijssense-bouwvakker~ab5a9cf0/",
+          "publishedDate": "Thu, 03 Sep 2026 04:45:00 GMT",
+          "description": "De Duitse justitie heeft een verdachte in beeld na het dodelijke bedrijfsongeval in Bernau bei Berlin, half augustus. Bij dat ongeval kwam een medewerker van het Rijssense bouwbedrijf Vastbouw om het ..."
+        },
+        {
+          "title": "'Medewerker zorgcentrum Oirschot langer vast om dood twee bewoners'",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/artikelen/noord-brabant-oirschot-jelle-d-verdachte-dood-bewoners-joris-zorg",
+          "publishedDate": "Wed, 02 Sep 2026 08:35:00 GMT",
+          "description": "Verpleger Jelle D. blijft 45 dagen langer vast. Hij wordt verdacht van betrokkenheid bij de dood van twee hoogbejaarde bewoners van woonzorgcentrum Joris Zorg in Oirschot."
+        },
+        {
+          "title": "17-jarige bromfietser dood na zware aanrijding aan de Van ’t Hogerhuysstraat",
+          "source": "Waterkant.net",
+          "url": "https://www.waterkant.net/suriname/2026/08/31/17-jarige-bromfietser-dood-na-zware-aanrijding-aan-de-van-t-hogerhuysstraat/",
+          "publishedDate": "Mon, 31 Aug 2026 14:00:00 GMT",
+          "description": "De 17-jarige bromfietser S.N. is vandaag overleden nadat hij eerder op de dag betrokken raakte bij een zware aanrijding op de Van ’t Hogerhuysstraat in ..."
+        },
+        {
+          "title": "Man dood aangetroffen op berm Hoogestraat",
+          "source": "Waterkant.net",
+          "url": "https://www.waterkant.net/suriname/2026/08/30/man-dood-aangetroffen-op-berm-hoogestraat/",
+          "publishedDate": "Sat, 29 Aug 2026 17:00:00 GMT",
+          "description": "Een man is zaterdagmiddag dood aangetroffen op de berm aan de Hoogestraat. Hij werd niet reagerend aangetroffen, waarna alarm werd geslagen. Een omstander ..."
+        },
+        {
+          "title": "Advocaat Mladić: verzoek om vrijlating kort voor dood afgewezen",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/advocaat-mladic-verzoek-om-vrijlating-kort-voor-dood-afgewezen",
+          "publishedDate": "Thu, 27 Aug 2026 10:06:00 GMT",
+          "description": "DEN HAAG (ANP) - Advocaten van de Bosnisch-Servische voormalig legerleider Ratko Mladić dienden in de dagen voor zijn dood een dringend verzoek in bij een VN-oo ..."
+        },
+        {
+          "title": "Het leven van Mladić (1942-2026) was al vroeg getekend door de dood",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1160642-het-leven-van-mladi-1942-2026-was-al-vroeg-getekend-door-de-dood",
+          "publishedDate": "Thu, 27 Aug 2026 01:06:00 GMT",
+          "description": "De donderdag overleden Servische generaal Ratko Mladić (1942-2026) zal worden herinnerd als de slager van de Balkan, die in 1995 direct verantwoordelijk was voor de genocide in Srebrenica. Maar de ..."
         }
       ]
     },
     {
       "keyword": "audi formule 1",
       "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Audi-directeur McNish: 'Nog niet alles is er, maar plan voor F1-titel ligt klaar'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/formule-1/6407599/audi-directeur-mcnish-nog-niet-alles-is-er-maar-plan-voor-f1-titel-ligt-klaar.html",
-          "publishedDate": "Thu, 27 Aug 2026 04:45:00 GMT",
-          "description": "Audi wil in 2030 om de wereldtitel strijden, maar kan de weg naar de Formule 1-top volgens sportief directeur Allan McNish niet alleen met geld versnellen. Een dubbele pitstop op Spa-Francorchamps lie ..."
-        },
-        {
-          "title": "Definitief: Audi vanaf 2026 in Formule 1",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/sport/autosport/definitief-audi-vanaf-2026-in-formule-1/64501362.html",
-          "publishedDate": "Fri, 26 Aug 2022 02:22:00 GMT",
-          "description": "Op een speciaal belegde persconferentie op Spa-Francorchamps stelt Audi’s ceo Markus Duesmann dat het een ‘perfecte timing’ is om deel te nemen. Mogelijk neemt Audi ook een meerderheidsaandeel in ..."
-        },
-        {
-          "title": "Waarom Audi wel wereldkampioen MOET worden in de Formule 1",
-          "source": "Autoblog.nl",
-          "url": "https://www.autoblog.nl/nieuws/waarom-audi-wel-wereldkampioen-moet-worden-in-de-formule-1",
-          "publishedDate": "Fri, 21 Aug 2026 06:30:00 GMT",
-          "description": "Het Formule 1-circus is geland in Zandvoort en deze keer is ook Audi van de partij. Nadat ze actief zijn geweest in talloze takken van de autosport hebben ze nu eindelijk de stap gemaakt naar de konin ..."
-        },
-        {
-          "title": "Audi ondersteunt Race Control en medische teams tijdens Formula 1 Heineken Dutch Grand Prix",
-          "source": "RaceXpress",
-          "url": "https://www.racexpress.nl/autosport-int-diversen/audi-ondersteunt-race-control-en-medische-teams-tijdens-formula-1-heineken-dutch-grand-prix/n/155590",
-          "publishedDate": "Fri, 21 Aug 2026 05:34:00 GMT",
-          "description": "Wanneer de Formula 1 Heineken Dutch Grand Prix dit weekend neerstrijkt op het circuit van Zandvoort, is Audi niet alleen met het Audi Revolut F1 Team op ..."
-        },
-        {
-          "title": "Dit is het design van Audi's Formule 1-auto voor 2026",
-          "source": "DutchCowboys",
-          "url": "https://www.dutchcowboys.nl/automotive/dit-is-het-design-van-audis-formule-1-auto-voor-2026",
-          "publishedDate": "Wed, 12 Nov 2025 13:36:00 GMT",
-          "description": "Nog 115 dagen voor de start van het allereerste Formule 1-seizoen gaf Audi in M&#252;nchen een exclusief voorproefje van wat komen gaat. In het Audi Brand Experience Center toonde het merk de R26 Concept: ..."
-        },
-        {
-          "title": "Audi laat Formule 1 auto zien",
-          "source": "auto",
-          "url": "https://www.autoblog.nl/nieuws/audi-laat-formule-1-auto-zien-3483647",
-          "publishedDate": "Tue, 18 Apr 2023 06:01:00 GMT",
-          "description": "Audi laat alvast wat van de Formule 1-auto zien. Dat niet alleen, ze zijn al bezig met de motor. Nog een paar jaartjes slapen, en dan is het zover. Dan hebben we een nieuw automerk in het Formule ..."
-        },
-        {
-          "title": "Dit is waarom Audi (eindelijk) de Formule 1 instapt",
-          "source": "Vroom",
-          "url": "https://www.vroom.be/nl/informatie/dit-is-waarom-audi-eindelijk-de-formule-1-instapt-24273",
-          "publishedDate": "Wed, 07 Sep 2022 01:35:00 GMT",
-          "description": "Spa-Francorchamps, 26 augustus 2022. De Duitse constructeur Audi, een van de merken van de Volkswagen-groep, heeft het mooiste circuit ter wereld uitgekozen om zijn intrede in de Formule 1 aan te ..."
-        },
-        {
-          "title": "Audi maakt in 2026 intrede in Formule 1: “Dit is het ideale moment”",
-          "source": "Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/sport/racesporten/formule-1/audi-maakt-in-2026-intrede-in-formule-1-dit-is-het-ideale-moment/39268540.html",
-          "publishedDate": "Fri, 26 Aug 2022 03:05:00 GMT",
-          "description": "Het is al enige tijd bekend dat zustermerken Porsche en Audi naar de Formule 1 willen. Het was echter wachten op een offici&#235;le bevestiging. Voor Audi is die nu gevallen, al kon Markus Duesmann – ..."
-        },
-        {
-          "title": "Audi per 2026 officieel in de Formule 1",
-          "source": "Autoweek",
-          "url": "https://www.autoweek.nl/autonieuws/artikel/audi-bevestigt-officieel-formule-1-deelname/",
-          "publishedDate": "Fri, 26 Aug 2022 01:21:00 GMT",
-          "description": "Het hoge woord is eruit: Audi treedt in 2026 toe tot de Formule 1. Het merk uit Ingolstadt maakt later dit jaar bekend met welk bestaand Formule 1-team het zijn krachten bundelt. Zeer waarschijnlijk ..."
-        },
-        {
-          "title": "Audi: 'In gesprek over Formule 1-deelname per 2026'",
-          "source": "Autoweek",
-          "url": "https://www.autoweek.nl/autonieuws/artikel/audi-in-gesprek-over-formule-1-deelname-per-2026/",
-          "publishedDate": "Mon, 13 Dec 2021 01:12:00 GMT",
-          "description": "Terwijl Nederland nog nageniet van de bizarre slotrace van het Formule 1-seizoen waarin Max Verstappen zijn eerste wereldtitel pakte, kijkt men bij Audi ook naar de sport. CEO Markus Duesmann laat ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "martijn krabbé",
       "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Martijn Krabb&#233; voelt zich veel energieker: 'Slik bepaalde medicijnen niet meer'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/achterklap/6408567/martijn-krabbe-voelt-zich-veel-energieker-slik-bepaalde-medicijnen-niet-meer.html",
-          "publishedDate": "Thu, 03 Sep 2026 12:24:00 GMT",
-          "description": "Het gaat naar omstandigheden goed met Martijn Krabb&#233;. De ongeneeslijk zieke presentator heeft veel meer energie dan een halfjaar geleden, vertelde hij donderdag in RTL Boulevard."
-        },
-        {
-          "title": "Martijn Krabb&#233; gestopt met sommige medicijnen en voelt zich veel energieker: ’Dat zie je ook wel’",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/entertainment/sterren/martijn-krabbe-gestopt-met-sommige-medicijnen-en-voelt-zich-veel-energieker-dat-zie-je-ook-wel/160952838.html",
-          "publishedDate": "Thu, 03 Sep 2026 11:00:00 GMT",
-          "description": "Het gaat naar omstandigheden goed met Martijn Krabb&#233;. De ongeneeslijk zieke presentator heeft veel meer energie dan een halfjaar geleden, vertelde hij donderdag."
-        },
-        {
-          "title": "Martijn Krabb&#233; voelt zich veel energieker: ‘Ik slik bepaalde medicijnen niet meer’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/martijn-krabbe-voelt-zich-veel-energieker-ik-slik-bepaalde-medicijnen-niet-meer~ad640564/",
-          "publishedDate": "Thu, 03 Sep 2026 06:22:00 GMT",
-          "description": "Het gaat goed met Martijn Krabb&#233; (58), vertelt hij donderdagavond in RTL Boulevard. De ongeneeslijk zieke presentator voelt zich energiek en slikt bepaalde medicijnen niet meer. Daardoor kan hij weer ..."
-        },
-        {
-          "title": "Martijn Krabb&#233; worstelt met empty-nestsyndroom nu kinderen uitvliegen",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/video/video/0fc226ec-be84-485c-b245-ac34d9ba0bab/martijn-krabbe-worstelt-met-empty",
-          "publishedDate": "Wed, 02 Sep 2026 17:00:00 GMT",
-          "description": "Martijn Krabb&#233; (58) heeft vier kinderen met zijn ex-vrouw Amanda Beekman: Bickel, Michelle, Jasmijn en Achilles. De vier vliegen langzaamaan uit en daar heeft de presentator het behoorlijk moeilijk me ..."
-        },
-        {
-          "title": "Martijn Krabb&#233; deelt gezondheidsupdate vanuit inspreek studio",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/video/01f4b126-29fa-4a9d-a33f-2774cb4bacbf/martijn-krabbe-deelt-gezondheidsupdate-vanuit",
-          "publishedDate": "Wed, 02 Sep 2026 17:00:00 GMT",
-          "description": "Martijn Krabb&#233; (58) is de vertrouwde stem van The Voice of Holland en daar mag inmiddels weer een titel aan worden toegevoegd: Race Across the World. Aran Bade ging bij hem langs. Ook geeft de present ..."
-        },
-        {
-          "title": "Martijn Krabb&#233; over zijn werk nu reizen niet meer gaat: 'Hier zit ik veel liever'",
-          "source": "TVgids.nl",
-          "url": "https://www.tvgids.nl/nieuws/sterren/martijn-krabbe-over-zijn-werk-nu-reizen-niet-meer-gaat-hier-zit-ik-veel-liever",
-          "publishedDate": "Thu, 03 Sep 2026 12:51:00 GMT",
-          "description": "Martijn Krabb&#233; is binnenkort weer veelvuldig te horen op tv. Hij is de voice-over van de realityserie van de familie Froger. Eerder werd al bekend dat hij ook als voice-over werkt bij het programma Ra ..."
-        },
-        {
-          "title": "Martijn Krabb&#233; voelt zich veel energieker",
-          "source": ".ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/nieuws/martijn-krabb%C3%A9-voelt-zich-veel-energieker/ar-AA2bvIh4",
-          "publishedDate": "Thu, 03 Sep 2026 09:49:41 GMT",
-          "description": "Het gaat naar omstandigheden goed met Martijn Krabb&#233;. De ongeneeslijk zieke presentator heeft veel meer energie dan een halfjaar geleden, vertelde hij donderdag in RTL Boulevard."
-        },
-        {
-          "title": "Alex van Keulen over KZK-vervanger Chantal Janzen: 'Totaal anders dan Martijn Krabb&#233;'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/alex-van-keulen-over-kzk-vervanger-chantal-janzen",
-          "publishedDate": "Thu, 03 Sep 2026 08:43:00 GMT",
-          "description": "Alex van Keulen vertelt in Weekend openhartig over de komst van Chantal Janzen bij Kopen Zonder Kijken en het gemis van Martijn Krabb&#233;: &quot;Het is totaal anders.&quot; ..."
-        },
-        {
-          "title": "Krabb&#233;: leuk om verbonden te blijven aan Race Across the World",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/krabbe-leuk-om-verbonden-te-blijven-aan-race-across-the-world",
-          "publishedDate": "Thu, 03 Sep 2026 08:18:00 GMT",
-          "description": "Martijn Krabb&#233; noemt het “heel leuk” dat hij verbonden blijft aan Race Across the World als voice-over. Door zijn ziekte werkt hij nu vanuit de studio."
-        },
-        {
-          "title": "Martijn Krabb&#233; over Race Across the World: 'Die reis zou ik niet meer kunnen'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/martijn-krabbe-over-race-across-the-world-die-reis-zou-ik-niet-meer-kunnen",
-          "publishedDate": "Thu, 03 Sep 2026 06:44:00 GMT",
-          "description": "&quot;Race Across the World komt terug en deze keer alleen met mijn voice-over&quot;, vertelt Martijn in gesprek met RTL Boulevard. &quot;De vorige keer mocht ik de hele wereld over reizen, maar dat kan nu helaas ni ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "seat",
       "trafficLabel": "5K+",
       "articles": [
-        {
-          "title": "El 'sorpasso' de Cupra amenaza con cerrar 76 a&#241;os de historia de Seat",
-          "source": "El Independiente on MSN",
-          "url": "https://www.msn.com/es-es/noticias/otras/el-sorpasso-de-cupra-amenaza-con-cerrar-76-a%C3%B1os-de-historia-de-seat/ar-AA2bwfRE",
-          "publishedDate": "Thu, 03 Sep 2026 13:39:30 GMT",
-          "description": "La decisi&#243;n no se tomar&#225; en Espa&#241;a, corresponder&#225; a la direcci&#243;n del Grupo Volkswagen en Alemania. De ella depender&#225;, de […] ..."
-        },
         {
           "title": "Loopt de weg dood voor Seat? Volkswagen kiest vol voor Cupra",
           "source": "Auto Review",
@@ -469,290 +266,53 @@
           "description": "Seat lijkt langzaam te verdwijnen als automerk. Volgens Duitse media wil Volkswagen uiterlijk eind 2029 stoppen met de traditionele Spaanse merknaam. De toekomst van de Spaanse tak van het concern zou ..."
         },
         {
-          "title": "Volkswagen estudia el adi&#243;s de Seat para apostar por Cupra: la marca espa&#241;ola podr&#237;a desaparecer en 2029",
-          "source": "Yahoo en Espa&#241;ol Vida y Estilo",
-          "url": "https://es-us.vida-estilo.yahoo.com/volkswagen-prepara-adios-seat-marca-140733746.html",
-          "publishedDate": "Thu, 03 Sep 2026 08:51:00 GMT",
-          "description": "Volkswagen podr&#237;a eliminar Seat antes de 2029 y trasladar parte de su negocio a Cupra, que aspira a alcanzar hasta 600.000 coches vendidos al a&#241;o."
+          "title": "'Volkswagen stopt in 2029 met Seat'",
+          "source": "De Tijd",
+          "url": "https://www.tijd.be/ondernemen/auto/volkswagen-stopt-in-2029-met-seat/10684537.html",
+          "publishedDate": "Thu, 03 Sep 2026 02:09:00 GMT",
+          "description": "Volkswagen is niet alleen van plan om vier Duitse fabrieken te sluiten, maar zou nu ook het mes in zijn merkenportfolio willen zetten. Van de Spaanse dochter Seat zou tegen 2029 de laatste auto van de ..."
         },
         {
-          "title": "Qui&#233;n est&#225; detr&#225;s de Seat, la marca que democratiz&#243; el coche en Espa&#241;a: su due&#241;o desde hace casi cuatro d&#233;cadas se plantea poner fin a la marca en 2029",
-          "source": "Infobae",
-          "url": "https://www.infobae.com/espana/2026/09/03/quien-esta-detras-de-seat-la-marca-que-democratizo-el-coche-en-espana-su-dueno-desde-hace-casi-cuatro-decadas-se-plantea-poner-fin-a-la-marca-en-2029/",
-          "publishedDate": "Thu, 03 Sep 2026 08:22:00 GMT",
-          "description": "El futuro inmediato de la marca depende ahora de la votaci&#243;n que el consejo de supervisi&#243;n tiene prevista para este viernes ..."
+          "title": "Tom Coronel kiest voor Comtoyou Cupra TCR (+ video)",
+          "source": "Autosport.be",
+          "url": "https://www.autosport.be/news/tom-coronel-kiest-voor-tweede-comtoyou-cupra.html",
+          "publishedDate": "Sat, 29 Aug 2026 17:00:00 GMT",
+          "description": "De geruchtentrommel met betrekking tot de toekomstplannen van Tom Coronel draaide op volle toeren de voorbije weken maar zoals u op Autosport.be reeds kon lezen, verruilt onze Noorderbuur het ene Belg ..."
         },
         {
-          "title": "Volkswagen planea poner fin a la marca Seat para centrarse en Cupra",
-          "source": "elDiario.es",
-          "url": "https://www.eldiario.es/motor/sector_y_mercado/volkswagen-planea-poner-marca-seat-centrarse-cupra_1_13484549.html",
-          "publishedDate": "Thu, 03 Sep 2026 07:56:00 GMT",
-          "description": "El grupo automovil&#237;stico prev&#233; poner fin a la venta de la marca Seat en 2029 como muy tarde, seg&#250;n la prensa alemana, para ahorrar costes simplificando la estructura y centr&#225;ndose en Cupra, unos plane ..."
+          "title": "Seat Arona",
+          "source": "Autoweek",
+          "url": "https://www.autoweek.nl/merken-modellen/seat/arona/",
+          "publishedDate": "Sun, 15 Feb 2026 16:00:00 GMT",
+          "description": "De Seat Arona is te koop met een 1,0-liter driecilinder met een vermogen van 95 of 115 pk. Verder is er een 1,5-liter TSI met 150 pk voor de Seat Arona die bovendien cilinderuitschakeling heeft. De ..."
         },
         {
-          "title": "El comit&#233; de Seat ve &quot;inaceptable&quot; que pueda desaparecer y llama a los gobiernos a evitarlo",
-          "source": "El Independiente on MSN",
-          "url": "https://www.msn.com/es-es/dinero/general/el-comit%C3%A9-de-seat-ve-inaceptable-que-pueda-desaparecer-y-llama-a-los-gobiernos-a-evitarlo/ar-AA2buq5q",
-          "publishedDate": "Thu, 03 Sep 2026 07:38:00 GMT",
-          "description": "El comit&#233; de empresa de Seat ha considerado &quot;inaceptable&quot; que la hist&#243;rica marca Seat pueda llegar a desaparecer y por […] ..."
+          "title": "Seat modellen",
+          "source": "autotijd",
+          "url": "https://autotijd.be/modellen/seat",
+          "publishedDate": "Mon, 03 Aug 2020 06:47:00 GMT",
+          "description": "Bekijk het compleet overzicht van alle nieuwe Seat modellen in 2026 en van oude modellen van dit merk. Vind nuttige informatie over elke generatie van een bepaalde Seat die in Belgi&#235; of elders in de ..."
         },
         {
-          "title": "&#191;SEAT desaparece? Esto sabemos de la decisi&#243;n de VW sobre el futuro de una de sus marcas",
-          "source": "El Financiero",
-          "url": "https://www.elfinanciero.com.mx/empresas/2026/09/03/seat-desaparece-esto-sabemos-de-la-decision-de-vw-sobre-el-futuro-de-una-de-sus-marcas/",
-          "publishedDate": "Thu, 03 Sep 2026 06:49:00 GMT",
-          "description": "&#191;Afectar&#225; a Cupra? La decisi&#243;n de si SEAT desaparece en 2029 podr&#237;a tomarse durante la reuni&#243;n del Consejo de VW, cuyos ejecutivos analizan un plan de reestructuraci&#243;n para Volkswagen."
+          "title": "Nieuwe Seat Arona 2026",
+          "source": "autotijd",
+          "url": "https://autotijd.be/modellen/seat/arona",
+          "publishedDate": "Fri, 30 Nov 2018 23:52:00 GMT",
+          "description": "Bekijk het ontwerp van de Seat Arona 2026 in detail via onderstaande foto's. Ontdek het exterieurdesign aan de voorzijde, achterzijde en zijkant en bestudeer het design van het dashboard en de rest ..."
         },
         {
-          "title": "Volkswagen plantea eliminar la hist&#243;rica marca espa&#241;ola Seat antes de 2030",
-          "source": "Vozp&#243;puli",
-          "url": "https://www.vozpopuli.com/motor/volkswagen-plantea-eliminar-la-historica-marca-espanola-seat-antes-de-2030.html",
-          "publishedDate": "Thu, 03 Sep 2026 06:21:00 GMT",
-          "description": "El gigante alem&#225;n del autom&#243;vil presentar&#225; la idea este viernes en la reuni&#243;n de su consejo de supervisi&#243;n del grupo ..."
-        },
-        {
-          "title": "SEAT podr&#237;a desaparecer en 2029 y Volkswagen apostar&#237;a por Cupra: WirtschaftsWoche",
-          "source": "El Economista",
-          "url": "https://www.eleconomista.com.mx/autos/seat-desaparecer-2029-volkswagen-apostaria-cupra-wirtschaftswoche-20260903-831697.html",
-          "publishedDate": "Thu, 03 Sep 2026 03:51:00 GMT",
-          "description": "Un documento interno que habr&#237;a sido revisado por el medio alem&#225;n WirtschaftsWoche plantear&#237;a retirar progresivamente a SEAT y concentrar la ..."
-        },
-        {
-          "title": "SEAT Le&#243;n",
-          "source": "Diariomotor",
-          "url": "https://www.diariomotor.com/coche/seat-leon/",
-          "publishedDate": "Mon, 29 Jul 2024 17:00:00 GMT",
-          "description": "El SEAT Le&#243;n es un compacto, del segmento C, fabricado por SEAT desde 1998. Actualmente se comercializa la cuarta generaci&#243;n, presentada en 2020. El SEAT Le&#243;n se caracteriza por ofrecer un dise&#241;o ..."
+          "title": "TEST- Zo maakt de Dacia Duster gehakt van Volkswagen T-Cross, Seat Arona en Kia Stonic",
+          "source": "autoreview",
+          "url": "https://www.autoreview.nl/seat",
+          "publishedDate": "Sat, 07 Oct 2017 08:07:00 GMT",
+          "description": "Seat heeft geen volledig elektrische auto’s in het gamma. De volledig elektrische auto’s gaan tegenwoordig onder de merknaam Cupra door het leven. Seat SUV Naast de bekendere conventionele modellen ..."
         }
       ]
     },
     {
-      "keyword": "gloria steinem",
-      "trafficLabel": "2K+",
-      "articles": [
-        {
-          "title": "Meer dan een halve eeuw streed Gloria Steinem (1934-2026) tegen het patriarchaat en voor rechtvaardigheid",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/meer-dan-een-halve-eeuw-streed-gloria-steinem-1934-2026-tegen-het-patriarchaat-en-voor-rechtvaardigheid~b4e07962/",
-          "publishedDate": "Thu, 03 Sep 2026 13:41:00 GMT",
-          "description": "Ze pleitte voor het recht op abortus en beschouwde het heterohuwelijk lange tijd als een gevangenis. Meer dan vijftig jaar lang gold Gloria Steinem als boegbeeld van het feminisme in de VS en daarbuit ..."
-        },
-        {
-          "title": "Amerikaanse feminist Gloria Steinem (92) overleden: 'De architect van de vrouwenemancipatie'",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/amerikaanse-feminist-gloria-steinem-92-overleden-de-architect-van-de-vrouwenemancipatie/ar-AA2bw1cU",
-          "publishedDate": "Thu, 03 Sep 2026 12:36:04 GMT",
-          "description": "Gloria Steinem, het gezicht van de Amerikaanse vrouwenbeweging, is op 92-jarige leeftijd overleden. Steinem was erg geliefd, onder meer oud-minister van Buitenlandse Zaken Hillary Clinton reageert bed ..."
-        },
-        {
-          "title": "Meghan rouwt om overlijden ’vriendin en mentor’ Gloria Steinem, deelt in eerbetoon nooit eerder vertoonde foto van prins Archie",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/entertainment/royals/meghan-rouwt-om-overlijden-vriendin-en-mentor-gloria-steinem-deelt-in-eerbetoon-nooit-eerder-vertoonde-foto-van-prins-archie/160946746.html",
-          "publishedDate": "Thu, 03 Sep 2026 09:10:00 GMT",
-          "description": "Meghan, de hertogin van Sussex, bedankt de overleden schrijver en feminist Gloria Steinem voor alles wat ze heeft betekend. Op Instagram noemt de echtgenote van prins Harry haar een „vriendin en mento ..."
-        },
-        {
-          "title": "Gloria Steinem (92), boegbeeld van de Amerikaanse vrouwenbeweging, overleden",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2629521-gloria-steinem-92-boegbeeld-van-de-amerikaanse-vrouwenbeweging-overleden",
-          "publishedDate": "Thu, 03 Sep 2026 06:55:00 GMT",
-          "description": "De Amerikaanse feminist, activist en journalist Gloria Steinem (92) is overleden. Zij was een van krachtigste en zichtbaarste voorvechters van de Amerikaanse vrouwenbeweging. Haar levensverhaal is in ..."
-        },
-        {
-          "title": "Activist en feminist Gloria Steinem (92) overleden, icoon in vrouwenbeweging",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/09/03/activist-en-feminist-gloria-steinem-92-overleden-icoon-in-vrouwenbeweging-a4935781",
-          "publishedDate": "Thu, 03 Sep 2026 06:46:00 GMT",
-          "description": "Gloria Steinem (1934-2026): Steinem was sinds de jaren zestig actief in de vrouwenbeweging. De Amerikaanse trok de discussie over vrouwenrechten altijd door naar die over rechten voor andere onderdruk ..."
-        },
-        {
-          "title": "Feministisch icoon Gloria Steinem overleden op 92-jarige leeftijd",
-          "source": "Newsmonkey on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/feministisch-icoon-gloria-steinem-overleden-op-92-jarige-leeftijd/ar-AA2bwfsS",
-          "publishedDate": "Thu, 03 Sep 2026 12:31:00 GMT",
-          "description": "In het kort Gloria Steinem, een legendarische figuur in de Amerikaanse strijd voor gendergelijkheid, is woensdag op 92-jarige leeftijd vredig overleden in haar woning in New York. Een bericht op haar ..."
-        },
-        {
-          "title": "Meghan rouwt om Gloria Steinem en deelt zeldzame foto van Archie",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/royalty/buitenlandse-royals/artikelen/meghan-rouwt-om-gloria-steinem-en-deelt-zeldzame-foto-van-archie",
-          "publishedDate": "Thu, 03 Sep 2026 11:39:00 GMT",
-          "description": "Meghan, de hertogin van Sussex, bedankt de overleden schrijver en feminist Gloria Steinem voor alles wat ze heeft betekend."
-        },
-        {
-          "title": "Gloria Steinem, feministisch icoon en activist, is op 92-jarige leeftijd overleden",
-          "source": "Vogue Nederland",
-          "url": "https://www.vogue.nl/cultuur/celebrity-cultuur/gloria-steinem-overleden/",
-          "publishedDate": "Thu, 03 Sep 2026 07:45:00 GMT",
-          "description": "Gloria Steinem, de beroemde journalist, schrijver, activist en feministische voorvechter, is op 92-jarige leeftijd overleden. Lees meer."
-        },
-        {
-          "title": "Feministisch icoon Gloria Steinem (92) overleden: dit is waarom zij generaties vrouwen inspireerde",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/buitenland/in-memoriam/gloria-steinem-overleden/",
-          "publishedDate": "Thu, 03 Sep 2026 06:07:00 GMT",
-          "description": "Gloria Steinem, een van de bekendste gezichten van de Amerikaanse vrouwenbeweging, is op 92-jarige leeftijd overleden. De journalist, schrijver en activist zette zich meer dan zestig jaar in voor de r ..."
-        },
-        {
-          "title": "Amerikaanse feminist Gloria Steinem (92) overleden",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/amerikaanse-feminist-gloria-steinem-92-overleden-Ac0slR",
-          "publishedDate": "Thu, 03 Sep 2026 05:51:00 GMT",
-          "description": "Amerikaanse feminist en schrijver Gloria Steinem (92) is overleden. Ze stierf thuis, omringd door naasten. Boegbeeld van tweede feministische golf en Obama-laureaat."
-        }
-      ]
-    },
-    {
-      "keyword": "luuk de jong",
-      "trafficLabel": "2K+",
-      "articles": [
-        {
-          "title": "Van Luuk de Jong tot Wijnaldum: deze spelers zijn nog transfervrij op te pikken",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6408467/van-luuk-de-jong-tot-wijnaldum-deze-spelers-zijn-nog-transfervrij-op-te-pikken.html",
-          "publishedDate": "Thu, 03 Sep 2026 08:11:00 GMT",
-          "description": "De transferperiode zit er in de meeste landen op, maar clubs kunnen zich nog versterken met transfervrije spelers. Onder anderen Luuk de Jong, Karim Benzema en Georginio Wijnaldum zijn clubloos."
-        },
-        {
-          "title": "Luuk de Jong keert uit het niets terug",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/luuk-de-jong-keert-uit-het-niets-terug/",
-          "publishedDate": "Thu, 03 Sep 2026 12:21:00 GMT",
-          "description": "Luuk de Jong stond in het afgelopen seizoen onder contract bij FC Porto, maar liep al vroeg een zware blessure op en verdween vervolgens van de ..."
-        },
-        {
-          "title": "De Telegraaf heeft nieuws over Luuk de Jong: 'In laatste fase van herstel &#233;n...'",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/de-telegraaf-heeft-nieuws-over-luuk-de-jong-in-laatste-fase-van-herstel-%C3%A9n/ar-AA2bvvvr",
-          "publishedDate": "Thu, 03 Sep 2026 10:04:44 GMT",
-          "description": "Luuk de Jong gaat nog een nieuw hoofdstuk toevoegen aan zijn voetbalcarri&#232;re. Dat is de verwachting van De Telegraaf . De 36-jarige spits liep halverwege vorig seizoen een kruisbandblessure op, waarva ..."
-        },
-        {
-          "title": "Luuk de Jong (36) nadert einde revalidatie en staat open voor nieuw avontuur",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/luuk-de-jong-36-nadert-einde-revalidatie-en-staat-open-voor-nieuw-avontuur",
-          "publishedDate": "Thu, 03 Sep 2026 09:45:00 GMT",
-          "description": "Luuk de Jong was donderdag even terug op vertrouwde grond. De 36-jarige aanvaller bracht een bezoek aan PSV, waarvoor hij verdeeld over twee periodes acht seizoenen uitkwam. Aan stoppen denkt De Jong ..."
-        },
-        {
-          "title": "Luuk de Jong even op bezoek bij PSV: spits wil na blessure door met zijn carri&#232;re",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/regiosport-eindhoven/luuk-de-jong-even-op-bezoek-bij-psv-spits-wil-na-blessure-door-met-zijn-carriere~afbfe37b/",
-          "publishedDate": "Thu, 03 Sep 2026 02:15:00 GMT",
-          "description": "Bij PSV was donderdag zesvoudig eredivisiekampioen Luuk de Jong (36) te gast. De spits onderhoudt op reguliere basis contacten met meerdere mensen bij de club en bracht een bezoek aan trainingscomplex ..."
-        },
-        {
-          "title": "Waarom een terugkeer van Luuk de Jong op dit moment geen optie is voor PSV",
-          "source": "FootballTransfers",
-          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/08/waarom-een-terugkeer-van-luuk-de-jong-op-dit-moment-geen-optie-is-voor-psv",
-          "publishedDate": "Tue, 25 Aug 2026 09:53:00 GMT",
-          "description": "Luuk de Jong is momenteel clubloos na zijn vertrek bij FC Porto, waar hij naast een blessure ook wegens persoonlijke redenen vertrok. Een terugkeer in Eindhoven lijkt echter, ondanks dat PSV een spits ..."
-        },
-        {
-          "title": "Luuk de Jong vertelt heel eerlijk wat hij van Xavi vindt",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/luuk-de-jong-vertelt-heel-eerlijk-wat-hij-van-xavi-vindt",
-          "publishedDate": "Thu, 13 Aug 2026 09:01:00 GMT",
-          "description": "Luuk de Jong spreekt zich uit over de aanstelling van Xavi als bondscoach van Oranje. De spits werkte eerder samen met de Spaanse trainer bij FC Barcelona."
-        },
-        {
-          "title": "Nog &#233;&#233;n keer Luuk, Luuk, Luuk! Clubicoon De Jong neemt afscheid door de voordeur",
-          "source": "AD",
-          "url": "https://www.ad.nl/eindhoven/nog-een-keer-luuk-luuk-luuk-clubicoon-de-jong-neemt-afscheid-door-de-voordeur~a7eb539a/",
-          "publishedDate": "Fri, 17 Oct 2025 23:30:00 GMT",
-          "description": "Niet zo gek want met 186 doelpunten in 338 wedstrijden, had De Jong een aanzienlijke bijdrage in de vijf kampioenschappen die hij in acht seizoenen met PSV wist te behalen. Mede dankzij een treffer ..."
-        },
-        {
-          "title": "Luuk de Jong verraste iedereen met stille transfer: ‘Nooit gedacht dat het geheim zou blijven’",
-          "source": "AD",
-          "url": "https://www.ad.nl/voetbal/luuk-de-jong-verraste-iedereen-met-stille-transfer-nooit-gedacht-dat-het-geheim-zou-blijven~a61d602c/",
-          "publishedDate": "Sun, 03 Aug 2025 16:54:00 GMT",
-          "description": "De Jong (34) werd de voorbije weken gelinkt aan clubs uit Itali&#235;, Spanje en Saoedi-Arabi&#235;, maar kiest er dus voor om zijn carri&#232;re te vervolgen bij Porto. Daar gaat hij spelen onder de Italiaans ..."
-        },
-        {
-          "title": "Luuk de Jong twijfelt: waarom de PSV-icoon nog niet bijtekent &#233;n de club niet langer op hem wacht",
-          "source": "ED",
-          "url": "https://www.ed.nl/psv/luuk-de-jong-twijfelt-waarom-de-psv-icoon-nog-niet-bijtekent-en-de-club-niet-langer-op-hem-wacht~a3698b4a/",
-          "publishedDate": "Mon, 14 Jul 2025 23:44:00 GMT",
-          "description": "Luuk de Jong bracht PSV nog geen twee maanden geleden met een enorm belangrijke goal tegen Sparta in extase. Mede dankzij zijn volharding wist PSV in mei het Rotterdamse verzet te breken en was de ..."
-        }
-      ]
-    },
-    {
-      "keyword": "el nino 2027",
-      "trafficLabel": "2K+",
-      "articles": [
-        {
-          "title": "VN slaat alarm om ‘gigantische’ El Ni&#241;o: wereld zit tot februari 2027 in ‘gevarenzone van extreem weer’",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/wereld/vn-slaat-alarm-om-gigantische-el-nino-wereld-zit-tot-februari-2027-in-gevarenzone-van-extreem-weer~b51e561b/",
-          "publishedDate": "Thu, 03 Sep 2026 08:45:00 GMT",
-          "description": "De wereld zit in een ‘gevarenzone van extreem weer’. De gevolgen van klimaatfenomeen El Ni&#241;o, die overal al voelbaar zijn, zullen de komende maanden ‘enorme proporties’ aannemen. Daarvoor waarschuwen ..."
-        },
-        {
-          "title": "‘Very’ strong El Nino emerging, to last till Feb 2027: WMO",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/india/very-strong-el-nino-emerging-to-last-till-feb-2027-wmo-10862433/",
-          "publishedDate": "Thu, 03 Sep 2026 15:07:00 GMT",
-          "description": "The World Meteorological Organization (WMO) on Thursday warned of an impending “very strong” El Nino that could last till February of next year and could alter temperature and rainfall patterns ..."
-        },
-        {
-          "title": "Super-El Ni&#241;o kan 2027 grootste in 1000 jaar worden, Nederland blijft voorlopig buiten schot",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/lifestyle/10609578/super-el-nino-kan-2027-grootste-in-1000-jaar-worden-nederland-blijft-voorlopig-buiten-schot",
-          "publishedDate": "Thu, 03 Sep 2026 11:00:00 GMT",
-          "description": "De super-El Ni&#241;o die eraan komt, wordt naar verwachting de grootste in minstens duizend jaar. In combinatie met de opwarming van de aarde vergroot het weerfenomeen de kans dat 2027 het warmste jaar oo ..."
-        },
-        {
-          "title": "Here’s What the ‘Super’ El Ni&#241;o Could Mean for Snowfall Across the US This Winter",
-          "source": "Gizmodo",
-          "url": "https://gizmodo.com/heres-what-the-super-el-nino-could-mean-for-snowfall-across-the-us-this-winter-2000806754",
-          "publishedDate": "Thu, 03 Sep 2026 09:15:00 GMT",
-          "description": "The strongest effects of El Ni&#241;o typically arrive in winter, and this unprecedented event could have a huge impact on snowfall patterns."
-        },
-        {
-          "title": "VN slaan alarm: extreme El Ni&#241;o gaat voor (nog meer) overstromingen en voedseltekorten zorgen",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/buitenland/klimaat/vn-waarschuwt-extreme-el-nino-2027/",
-          "publishedDate": "Thu, 03 Sep 2026 08:44:00 GMT",
-          "description": "De Verenigde Naties waarschuwen voor een extreem sterke El Ni&#241;o die de komende maanden voor recordtemperaturen, overstromingen, droogte en hittegolven kan zorgen. El Ni&#241;o, dat gemiddeld eens in de ..."
-        },
-        {
-          "title": "Al zeker tot begin 2027 extreem weer door ‘super’-El Ni&#241;o: gaan wij daar iets van merken?",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/weer-en-wetenschap/al-zeker-tot-begin-2027-extreem-weer-door-super-el-nino-gaan-wij-daar-iets-van-merken~a7fcd7f7/",
-          "publishedDate": "Thu, 03 Sep 2026 03:33:00 GMT",
-          "description": "Het gevreesde weerfenomeen El Ni&#241;o blijft maar &lt;a href=&quot;https://www.hln.be/weer-en-wetenschap/grote-kans-dat-extreme-weerseffecten-van-el-nino-zullen-aanhouden-tot-februari-2027~aff2bbaf/&quot;&gt;in kracht t ..."
-        },
-        {
-          "title": "Winter 2026/2027 Snowfall Predictions: New Data Shows a Strong Super El Ni&#241;o Snow Pattern",
-          "source": "Severe Weather Europe",
-          "url": "https://www.severe-weather.eu/long-range-2/winter-2026-2027-seasonal-models-first-snowfall-predictions-super-el-nino-united-states-canada-europe-fa/",
-          "publishedDate": "Thu, 03 Sep 2026 00:50:00 GMT",
-          "description": "First Winter 2026/2027 snowfall predictions are starting to show a strong Super El Ni&#241;o impact. Forecast data shows clear snowfall contrasts emerging across the United ..."
-        },
-        {
-          "title": "UN warns of 'supersized' El Nino as countries prepare for impact",
-          "source": "BBC on MSN",
-          "url": "https://www.msn.com/en-us/news/other/un-warns-of-supersized-el-nino-as-countries-prepare-for-impact/ar-AA2btcgf",
-          "publishedDate": "Wed, 02 Sep 2026 23:01:54 GMT",
-          "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies."
-        },
-        {
-          "title": "El Ni&#241;o is surging. Months of extreme heat could follow",
-          "source": "UN News",
-          "url": "https://news.un.org/en/story/2026/09/1168265",
-          "publishedDate": "Wed, 02 Sep 2026 23:01:00 GMT",
-          "description": "Fuelled by exceptionally warm Pacific waters, the El Ni&#241;o climate pattern is intensifying and has yet to peak. Forecasters are almost certain it will persist through February 2027 – with unusually ..."
-        },
-        {
-          "title": "It is near 100% certain that El Ni&#241;o will continue through February 2027, says WMO",
-          "source": "The Hindu BusinessLine",
-          "url": "https://www.thehindubusinessline.com/economy/agri-business/it-is-near-100-certainty-that-el-nino-will-continue-through-february-2027-says-wmo/article71422310.ece",
-          "publishedDate": "Wed, 02 Sep 2026 20:19:00 GMT",
-          "description": "The World Meteorological Organization’s (WMO) latest El Ni&#241;o/La Ni&#241;a update states that there’s nearly a 100 per cent chance that the El Ni&#241;o will extend through to February 2027 and escalate into a ..."
-        }
-      ]
+      "keyword": "vrachtauto",
+      "trafficLabel": "5K+",
+      "articles": []
     }
   ]
 }
