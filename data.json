@@ -1,105 +1,85 @@
 {
-  "fetchedAt": "2026-09-05T02:22:49.673Z",
+  "fetchedAt": "2026-09-05T07:02:05.311Z",
   "trends": [
     {
-      "keyword": "sparta rotterdam - pec",
+      "keyword": "roemenië",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "LIVE eredivisie | Sparta strijdt in eigen huis om kostbare punten tegen PEC Zwolle, debuut voor Brouwer en Hatenboer",
+          "title": "Tate-broers in Roemeni&#235; aangeklaagd voor handel in minderjarigen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2629688-tate-broers-in-roemenie-aangeklaagd-voor-handel-in-minderjarigen",
+          "publishedDate": "Fri, 04 Sep 2026 09:49:00 GMT",
+          "description": "Volgens Roemeense aanklagers ronselden de twee hun slachtoffers door ze te verleiden en te beweren dat ze een relatie of huwelijk wilden."
+        },
+        {
+          "title": "Russische drones vliegen Roemeni&#235; binnen: ‘De oorlog stopt niet bij de Donau’",
+          "source": "NOS",
+          "url": "https://nos.nl/nieuwsuur/artikel/2629630-russische-drones-vliegen-roemenie-binnen-de-oorlog-stopt-niet-bij-de-donau",
+          "publishedDate": "Fri, 04 Sep 2026 02:47:00 GMT",
+          "description": "NOS gebruikt Functionele en Analytische cookies voor website optimalisatie en statistieken."
+        },
+        {
+          "title": "Dode bij steekpartij in Hoogeveen is 45-jarige man uit Roemeni&#235;",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/live-eredivisie-sparta-strijdt-in-eigen-huis-om-kostbare-punten-tegen-pec-zwolle-debuut-voor-brouwer-en-hatenboer~a11bd405/",
-          "publishedDate": "Fri, 04 Sep 2026 03:06:00 GMT",
-          "description": "Sparta en PEC Zwolle staan na vier duels allebei om &#233;&#233;n overwinning. De clubs gaan in Rotterdam dan ook strijden om kostbare punten. Wie pakt de zege op het Kasteel? Volg het duel vanaf 20.00 uur hier"
+          "url": "https://www.ad.nl/112-nieuws-hoogeveen/dode-bij-steekpartij-in-hoogeveen-is-45-jarige-man-uit-roemenie~a7c688a0/",
+          "publishedDate": "Tue, 01 Sep 2026 21:02:00 GMT",
+          "description": "De man die woensdagavond is overleden na een mogelijke steekpartij in Hoogeveen is een 45-jarige man uit Roemeni&#235;. De twee verdachten (43 en 28) die zijn aangehouden hebben eveneens de Roemeense natio ..."
         },
         {
-          "title": "PEC Zwolle pakt punt bij Sparta Rotterdam • Van der Vegt blij met reactie van zijn ploeg",
+          "title": "Na Hongarije sluit ook Roemeni&#235; zijn kerncentrale vanwege de droogte",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/na-hongarije-sluit-ook-roemenie-zijn-kerncentrale-vanwege-de-droogte~b49b1a55/",
+          "publishedDate": "Mon, 10 Aug 2026 16:11:00 GMT",
+          "description": "De autoriteiten in Roemeni&#235; schakelen donderdag de enige kerncentrale van het land uit vanwege de lage waterstand van de rivier de Donau. Roemeni&#235; gebruikt het water van de rivier om de centrale te ..."
+        },
+        {
+          "title": "Europa heeft gewonnen in Roemeni&#235;, maar het land is diep verdeeld",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2025/05/27/europa-heeft-gewonnen-in-roemenie-maar-het-land-is-diep-verdeeld-a4894858",
+          "publishedDate": "Tue, 27 May 2025 10:05:00 GMT",
+          "description": "Ana Roman vindt het fijn in Comana, een dorp ten zuiden van Boekarest, aan de rand van het gelijknamige natuurgebied. Een stoffig kruispunt, een paar winkels, veel meer is het niet. Ana (25) houdt van ..."
+        },
+        {
+          "title": "Andrew Tate in Roemeni&#235; aangeklaagd voor mensenhandel, broer Tristan voor medeplichtigheid",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/buitenland/andrew-tate-in-roemenie-aangeklaagd-voor-mensenhandel-broer-tristan-voor-medeplichtigheid~a3ea3071/",
+          "publishedDate": "Thu, 03 Sep 2026 20:06:00 GMT",
+          "description": "Roemeense aanklagers hebben influencer Andrew Tate vrijdag officieel aangeklaagd voor mensenhandel in minderjarigen, witwassen, seks met een minderjarige en de be&#239;nvloeding van getuigen. Zijn broer Tr ..."
+        },
+        {
+          "title": "Dode en verdachten mogelijke steekpartij Hoogeveen zijn Roemeens",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1161414-dode-en-verdachten-mogelijke-steekpartij-hoogeveen-zijn-roemeens",
+          "publishedDate": "Thu, 03 Sep 2026 02:43:00 GMT",
+          "description": "De overleden man en de twee aangehouden verdachten van een vermoedelijke steekpartij in het Drentse Hoogeveen komen uit Roemeni&#235;. Dat maakte de politie donderdagochtend bekend. De overleden man was 45 ..."
+        },
+        {
+          "title": "Dode en verdachten vermoedelijke steekpartij Hoogeveen zijn Roemeens",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/artikelen/steekpartij-hoogeveen-dode-verdachten-roemenie",
+          "publishedDate": "Thu, 03 Sep 2026 01:43:00 GMT",
+          "description": "De dode en twee verdachten van een vermoedelijke steekpartij in Hoogeveen komen uit Roemeni&#235;. De mannen van 28 en 43 jaar zitten vast."
+        },
+        {
+          "title": "Louche bouwer verdween met bijna twee ton, nu staat het clubhuis van Tennisvereniging Heino er t&#243;ch",
           "source": "De Stentor",
-          "url": "https://www.destentor.nl/pec-zwolle/pec-zwolle-pakt-punt-bij-sparta-rotterdam-van-der-vegt-blij-met-reactie-van-zijn-ploeg~a6334ea8/",
-          "publishedDate": "Fri, 04 Sep 2026 06:30:00 GMT",
-          "description": "PEC Zwolle heeft vrijdagavond een punt gepakt bij Sparta. De Zwollenaren kwamen in een vermakelijk duel dankzij een mooie kopgoal van Koen Kostons terug van een 2-1 achterstand. Lees hieronder alles t"
-        }
-      ]
-    },
-    {
-      "keyword": "ruud gullit",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Grote domper voor voetballegende Ruud Gullit: bijzondere ontmoeting met Eva Jinek gaat niet door",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/grote-domper-voor-voetballegende-ruud-gullit-bijzondere-ontmoeting-met-eva-jinek-gaat-niet-door-2026090416020695045/",
-          "publishedDate": "Fri, 04 Sep 2026 11:27:00 GMT",
-          "description": "Voetbalicoon Ruud Gullit (64) had een heel bijzonder evenement in zijn agenda gezet. De voormalig topspits van onder meer AC Milan en Oranje zou vrijdag in Amsterdam een prestigieuze prijs krijgen."
+          "url": "https://www.destentor.nl/raalte/louche-bouwer-verdween-met-bijna-twee-ton-nu-staat-het-clubhuis-van-tennisvereniging-heino-er-toch~ad607639e/",
+          "publishedDate": "Wed, 02 Sep 2026 17:00:00 GMT",
+          "description": "Een louche bouwbedrijf uit Roemeni&#235; bracht Tennisvereniging Heino naar de rand van de afgrond. Zou het langverwachte clubhuis er ooit komen? Na veel vrijwilligerswerk en financi&#235;le garanties staat het ..."
         },
         {
-          "title": "Onduidelijk wanneer Europese prijs aan Gullit wordt uitgereikt",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/onduidelijk-wanneer-europese-prijs-aan-gullit-wordt-uitgereikt",
-          "publishedDate": "Fri, 04 Sep 2026 08:51:00 GMT",
-          "description": "European Cultural Forum stelt uit: onduidelijke reden, nieuwe datum en locatie volgen. Gullit en o.a. Iris van Herpen, Famke Janssen ontvangen prijs."
-        },
-        {
-          "title": "Cruijff en Gullit na inflatie: de 10 duurste Nederlandse transfers ooit",
-          "source": "Manners",
-          "url": "https://www.manners.nl/duurste-nederlandse-voetbaltransfer-inflatie-transfermarkt/",
-          "publishedDate": "Fri, 04 Sep 2026 05:35:00 GMT",
-          "description": "Voetbalfans kunnen weer rustig ademhalen: de transfermarkt is gesloten. Stress bij clubs en spelers is nu ook voorbij. Tijd om alle kikkers in de kruiwagen te krijgen en je volledig op het spelletje t ..."
-        },
-        {
-          "title": "Gullit legt functie neer: &quot;Marokkanen hier in Nederland kijken ook&quot;",
-          "source": "FeyenoordPings",
-          "url": "https://www.feyenoordpings.nl/gullit-legt-functie-neer-marokkanen-hier-in-nederland-kijken-ook/",
-          "publishedDate": "Thu, 03 Sep 2026 09:41:00 GMT",
-          "description": "Lees nu | Ruud Gullit is niet langer werkzaam voor het Qatarese BeIn Sports . Tijdens het WK 2026 was de oud-Feyenoorder analist aldaar. Gullit zegt ..."
-        },
-        {
-          "title": "Gullit bekritiseert Tolu Arokodare: &quot;Hoe is dat nou mogelijk?!&quot;",
-          "source": "Ajax1.nl",
-          "url": "https://www.ajax1.nl/gullit-bekritiseert-tolu-arokodare-hoe-is-dat-nou-mogelijk/",
-          "publishedDate": "Thu, 03 Sep 2026 09:00:00 GMT",
-          "description": "Lees nu | Ajax won afgelopen weekend met 0-4 op bezoek bij Telstar en Tolu Arokodare nam ook een treffer voor zijn rekening. Toch toonde Ruud Gullit ..."
-        },
-        {
-          "title": "Voetbalicoon Ruud Gullit straalt met grote liefde op rode loper tijdens premi&#232;re van serie over Marco van Basten",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/voetbalicoon-ruud-gullit-straalt-met-grote-liefde-op-rode-loper-tijdens-premiere-van-serie-over-marco-van-basten-2026090310095558471/",
-          "publishedDate": "Thu, 03 Sep 2026 06:16:00 GMT",
-          "description": "Woensdag ging de nieuwe serie 'Basta' over oud-topvoetballer Marco van Basten in premi&#232;re. Daar kon zijn goede vriend Ruud Gullit natuurlijk niet ontbreken. Gullit straalde op de rode loper met zijn ..."
-        },
-        {
-          "title": "Ruud Gullit hakt knoop door en houdt het voor gezien: 'Begon me op te breken'",
-          "source": "Voetbal Centraal",
-          "url": "https://www.voetbalcentraal.nl/nieuws/1748479/Ruud-Gullit-hakt-knoop-door-en-houdt-het-voor-gezien:--Begon-me-op-te-breken-",
-          "publishedDate": "Wed, 02 Sep 2026 03:25:00 GMT",
-          "description": "Ruud Gullit stopt met zijn werkzaamheden voor het Qatarese BeIn Sports . Tijdens het voorbije WK 2026 was Gullit &#233;&#233;n van de vaste voetbalanalisten bij de tv-zender. Hij is het vele reizen inmiddels be ..."
-        },
-        {
-          "title": "Ruud Gullit schrikt van Tolu Arokodare: 'Hoe is dit nou mogelijk?'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/ruud-gullit-tolu-arokodare-ajax-kritiek-anticiperen",
-          "publishedDate": "Tue, 01 Sep 2026 00:25:00 GMT",
-          "description": "Ruud Gullit ziet ondanks de doelpunten van Tolu Arokodare een duidelijk verbeterpunt. De Ajax-spits moet volgens hem beter anticiperen en zich vaker aanspeelbaar maken wanneer de lange bal dreigt."
-        },
-        {
-          "title": "Joelle Gullit maakt tv-debuut als deelnemer aan Bestemming X",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/joelle-gullit-maakt-tv-debuut-als-deelnemer-aan-bestemming-x",
-          "publishedDate": "Sun, 30 Aug 2026 00:30:00 GMT",
-          "description": "Influencer Joelle Gullit doet voor het eerst mee aan een tv-programma. De dochter van Ruud Gullit en Estelle Cruijff is vanaf zondag te zien als deelnemer in het tweede seizoen van het RTL-programma B ..."
-        },
-        {
-          "title": "Ruud Gullit schrikt: 'Dit kan je n&#243;&#243;it doen, het is niet ok&#233;'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/ruud-gullit-matteo-guendouzi-lyon-fenerbahce-kritiek",
-          "publishedDate": "Thu, 27 Aug 2026 10:48:00 GMT",
-          "description": "Ruud Gullit keurt het gedrag van Matt&#233;o Guendouzi tegen Olympique Lyon af. De middenvelder provoceerde het publiek en raakte betrokken bij meerdere incidenten. Volgens Gullit moet een speler zich alti ..."
+          "title": "E120028 - Verslag over de voortgang van Roemeni&#235; met het Co&#246;peratie- en Verificatiemechanisme",
+          "source": "Eerste",
+          "url": "https://www.eerstekamer.nl/eu/edossier/e120028_verslag_over_de_voortgang",
+          "publishedDate": "Sun, 29 Jun 2025 17:00:00 GMT",
+          "description": "Voorafgaand aan de toetreding van Roemeni&#235; tot de Europese Unie werd afgesproken dat de vooruitgang van Roemeni&#235; op gebied van justiti&#235;le hervormingen en corruptiebestrijding zou worden ondersteund en ..."
         }
       ]
     },
     {
       "keyword": "ipswich - liverpool",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
         {
           "title": "Gakpo excelleert na transfersoap met twee assists bij zege Liverpool op Ipswich",
@@ -116,11 +96,25 @@
           "description": "Liverpool heeft in de Premier League zijn eerste overwinning van het seizoen geboekt. Na twee gelijke spelen wist het bij Ipswich Town wel te winnen: 0-2."
         },
         {
+          "title": "Liverpool pakt eerste driepunter van seizoen tegen Ipswich, debuut Barcola",
+          "source": "Voetbalprimeur",
+          "url": "https://www.voetbalprimeur.be/nieuws/2131890/isak-slaat-twee-keer-toe-liverpool-eindelijk-op-dreef.html",
+          "publishedDate": "Fri, 04 Sep 2026 16:43:00 GMT",
+          "description": "Liverpool heeft zijn eerste zege van het Premier League-seizoen beet. Alexander Isak scoorde twee keer tegen Ipswich Town."
+        },
+        {
           "title": "Isak helpt Liverpool met dank aan Gakpo aan eerste competitiezege",
           "source": "ZeelandNet",
           "url": "https://www.zeelandnet.nl/nieuws/isak-helpt-liverpool-met-dank-aan-gakpo-aan-eerste-competitiezege",
           "publishedDate": "Fri, 04 Sep 2026 16:04:00 GMT",
           "description": "IPSWICH (ANP) - Alexander Isak heeft Liverpool na twee gelijke spelen aan de eerste zege van dit seizoen in de Premier League geholpen. De spits trof twee keer ..."
+        },
+        {
+          "title": "Cody Gakpo steelt de show bij Liverpool en zet miljoenenaankoop Bradley Barcola direct op scherp",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/cody-gakpo-steelt-de-show-bij-liverpool-en-zet-miljoenenaankoop-bradley-barcola-direct-op-scherp/blt0a64415e0174bded",
+          "publishedDate": "Fri, 04 Sep 2026 15:53:00 GMT",
+          "description": "Cody Gakpo heeft na een turbulente week vol transfergekte zijn voeten laten spreken. De aanvaller van Liverpool was tegen Ipswich Town met twee assists, allebei op Alexander Isak, van grote waarde. Th ..."
         },
         {
           "title": "Met twee doelpunten in de eerste tien minuten: Liverpool dankt Alexander Isak voor eerste zege van het seizoen",
@@ -137,23 +131,9 @@
           "description": "Liverpool heeft de eerste overwinning van het nieuwe Premier League-seizoen binnen. De ploeg won met 0-2 bij Ipswich Town en Cody Gakpo had met twee assists een belangrijk aandeel in de zege."
         },
         {
-          "title": "Prachtige assists Gakpo bezorgen Iraola eerste zege bij debuut Flemming en Barcola",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/prachtige-assists-gakpo-bezorgen-iraola-eerste-zege-bij-debuut-flemming-en-barcola",
-          "publishedDate": "Fri, 04 Sep 2026 13:52:00 GMT",
-          "description": "Na twee remises heeft Andoni Iraola in zijn derde competitiewedstrijd bij Liverpool de smaak van een overwinning geproefd. Liverpool deed vrijdagavond al binnen tien minuten zaken op het veld van Ipsw ..."
-        },
-        {
-          "title": "Liverpool-fans zien &#233;&#233;n Nederlander uitblinken tegen Ipswich: 'Cooking the league'",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/liverpool-fans-zien-%C3%A9%C3%A9n-nederlander-uitblinken-tegen-ipswich-cooking-the-league/ar-AA2bAmZ7",
-          "publishedDate": "Fri, 04 Sep 2026 12:48:41 GMT",
-          "description": "Cody Gakpo kende vrijdagavond een droomstart met Liverpool tegen Ipswich Town. De Nederlander leverde binnen twintig minuten twee assists en had daarmee een groot aandeel in de snelle 0-2 voorsprong."
-        },
-        {
           "title": "Praat mee op VP: Ipswich Town – Liverpool",
           "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-liverpool-start-met-van-dijk-en-gakpo-gravenberch-bankzitter/ar-AA2bBeUU",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-ipswich-town-liverpool/ar-AA2bBeUU",
           "publishedDate": "Fri, 04 Sep 2026 11:08:22 GMT",
           "description": "Liverpool gaat vrijdagavond op bezoek bij promovendus Ipswich Town in de Premier League. De wedstrijd begint om 21.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat m ..."
         },
@@ -175,7 +155,7 @@
     },
     {
       "keyword": "real betis - real madrid",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
         {
           "title": "Betis-spits Parrott dient Real Madrid eerste nederlaag toe, Mbapp&#233; mist penalty",
@@ -185,18 +165,11 @@
           "description": "Voormalig AZ-spits Troy Parrott schiet Real Betis in Sevilla langs Real Madrid, waar Denzel Dumfries na 65 minuten wordt gewisseld."
         },
         {
-          "title": "Grandioos: oud-AZ-spits Troy Parrott matchwinner tegen Real, Mbappe mist penalty",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/news/other/grandioos-oud-az-spits-troy-parrott-matchwinner-tegen-real-mbappe-mist-penalty/ar-AA2bB83e",
-          "publishedDate": "Fri, 04 Sep 2026 16:58:00 GMT",
-          "description": "Real Madrid heeft vrijdagavond haar foutloze competitiestart zien eindigen tegen Real Betis. De ploeg van Denzel Dumfries domineerde lange tijd en kreeg kans op kans, maar keek negen minuten voor tijd ..."
-        },
-        {
-          "title": "Real Madrid aast op vierde zege op rij en treft Real Betis: pak tot 100x je inleg!",
-          "source": "Voetbalprimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2131588/real-madrid-aast-op-vierde-zege-op-rij-en-treft-real-betis-pak-tot-100x-je-inleg.html",
-          "publishedDate": "Fri, 04 Sep 2026 16:58:00 GMT",
-          "description": "ADVERTORIAL - Real Madrid is tot op heden foutloos en treft Real Betis vrijdagavond. Tegen de ploeg uit Sevilla moet de vierde zege geboekt worden, en de Nederlandse blik zal daarbij gaan naar Denzel ..."
+          "title": "Mourinho begrijpt niets van nederlaag bij Real Betis: 'Ze kregen de jackpot'",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/video/mourinho-begrijpt-niets-van-nederlaag-bij-real-betis-ze-kregen-de-jackpot",
+          "publishedDate": "Fri, 04 Sep 2026 23:43:00 GMT",
+          "description": "Real Madrid-trainer Jos&#233; Mourinho kan moeilijk bevatten hoe zijn ploeg heeft verloren op bezoek bij Real Betis. Real domineerde de wedstrijd, maar Betis ging er uiteindelijk met 1-0 overwinning vandoo ..."
         },
         {
           "title": "Spits Parrott schiet Real Betis naar zege op Real Madrid",
@@ -216,7 +189,7 @@
           "title": "Parrott de held en Mbapp&#233; de schlemiel bij zege Betis op Real Madrid",
           "source": "Voetbal International on MSN",
           "url": "https://www.msn.com/nl-nl/sport/voetbal/parrott-de-held-en-mbapp%C3%A9-de-schlemiel-bij-zege-betis-op-real-madrid/ar-AA2bAy9d",
-          "publishedDate": "Fri, 04 Sep 2026 14:06:00 GMT",
+          "publishedDate": "Fri, 04 Sep 2026 14:05:00 GMT",
           "description": "Troy Parrott heeft Real Madrid vrijdagavond pijn gedaan. De oud-spits van AZ bezorgde Real Betis drie punten met het enige doelpunt van de wedstrijd. In zijn derde optreden voor Betis maakte hij zijn ..."
         },
         {
@@ -227,11 +200,11 @@
           "description": "Dolle slotfase tussen Real Betis en Real Madrid. De Koninklijke had het overwicht, maar verloor alsnog. In de laatste tien minuten slikte het een tegendoelpunt van Troy Parrott, werd een heerlijk ..."
         },
         {
-          "title": "Praat mee op VP: Real Betis – Real Madrid",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-real-betis-real-madrid/ar-AA2bBmUH",
-          "publishedDate": "Fri, 04 Sep 2026 11:39:14 GMT",
-          "description": "Real Betis en Real Madrid staan vrijdagavond tegenover elkaar in La Liga. De wedstrijd begint om 21.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+          "title": "Parrott straft Real Madrid af na gemiste kansen en penalty van Mbapp&#233;",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/parrott-straft-real-madrid-af-betis-mbappe-penalty/",
+          "publishedDate": "Fri, 04 Sep 2026 10:51:00 GMT",
+          "description": "Thibaut Courtois startte bij Real Madrid, dat zijn foutloze competitiestart ziet eindigen na een 1-0-nederlaag bij Real Betis."
         },
         {
           "title": "Waar en hoe laat wordt Real Betis - Real Madrid in LaLiga uitgezonden?",
@@ -246,6 +219,109 @@
           "url": "https://www.hln.be/primera-division/amper-werk-toch-geklopt-thibaut-courtois-gaat-met-real-madrid-onderuit-na-veel-geklungel-en-een-gemiste-strafschop~a8f5dc4c/",
           "publishedDate": "Fri, 04 Sep 2026 07:34:00 GMT",
           "description": "Slechts twee keer hoefde hij in actie te komen, Thibaut Courtois. Toch werd hij geklopt. Een zwak, maar vooral ineffici&#235;nt Real Madrid ging onderuit tegen Real Betis."
+        },
+        {
+          "title": "Doelpunt van Real Madrid tegen Betis kan 100x de inzet opleveren!",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/doelpunt-van-real-madrid-tegen-betis-kan-100x-de-inzet-opleveren",
+          "publishedDate": "Fri, 04 Sep 2026 02:15:00 GMT",
+          "description": "ADVERTORIAL – Na drie zeges op rij is het Real Madrid van Jos&#233; Mourinho vrijdagavond opnieuw aan zet in La Liga. De grote uitdager van Barcelona speelt uit tegen Real Betis, een gevaarlijke subtopper."
+        }
+      ]
+    },
+    {
+      "keyword": "sparta rotterdam - pec",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "LIVE eredivisie | Sparta strijdt in eigen huis om kostbare punten tegen PEC Zwolle, debuut voor Brouwer en Hatenboer",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/live-eredivisie-sparta-strijdt-in-eigen-huis-om-kostbare-punten-tegen-pec-zwolle-debuut-voor-brouwer-en-hatenboer~a11bd405/",
+          "publishedDate": "Fri, 04 Sep 2026 03:06:00 GMT",
+          "description": "Sparta en PEC Zwolle staan na vier duels allebei om &#233;&#233;n overwinning. De clubs gaan in Rotterdam dan ook strijden om kostbare punten. Wie pakt de zege op het Kasteel? Volg het duel vanaf 20.00 uur hier"
+        },
+        {
+          "title": "PEC Zwolle pakt punt bij Sparta Rotterdam • Van der Vegt blij met reactie van zijn ploeg",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/pec-zwolle/pec-zwolle-pakt-punt-bij-sparta-rotterdam-van-der-vegt-blij-met-reactie-van-zijn-ploeg~a6334ea8/",
+          "publishedDate": "Fri, 04 Sep 2026 06:31:00 GMT",
+          "description": "PEC Zwolle heeft vrijdagavond een punt gepakt bij Sparta. De Zwollenaren kwamen in een vermakelijk duel dankzij een mooie kopgoal van Koen Kostons terug van een 2-1 achterstand. Lees hieronder alles t"
+        }
+      ]
+    },
+    {
+      "keyword": "helikopter",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Nederlander (65) in ‘ernstige toestand’ per helikopter van berg gehaald na enorme reddingsoperatie in Kroati&#235;",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/nederlander-65-in-ernstige-toestand-per-helikopter-van-berg-gehaald-na-enorme-reddingsoperatie-in-kroatie~a9482fdc/",
+          "publishedDate": "Tue, 01 Sep 2026 00:52:00 GMT",
+          "description": "Een Nederlandse wandelaar is maandag in zeer ernstige toestand gered uit het Kroatische Biokovo-gebergte. De 65-jarige man zat zonder water op 1200 meter hoogte en was volledig uitgedroogd en gedesori ..."
+        },
+        {
+          "title": "Zeven toeristen omgekomen bij helikoptercrash in Kenia",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627551-zeven-toeristen-omgekomen-bij-helikoptercrash-in-kenia",
+          "publishedDate": "Wed, 19 Aug 2026 20:05:00 GMT",
+          "description": "Onder de doden zijn vijf Amerikanen en twee Ecuadorianen, het hoofd van de Ecuadoraanse inlichtingendienst en zijn vrouw."
+        },
+        {
+          "title": "Brits stel en piloot komen om bij helikoptercrash tijdens huwelijksreis",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/buitenland/artikel/5640258/brits-stel-piloot-helikoptercrash-huwelijksreis",
+          "publishedDate": "Tue, 18 Aug 2026 07:39:00 GMT",
+          "description": "Een Brits echtpaar is tijdens hun huwelijksreis bij een helikopterongeluk op het Griekse land Sifnos om het leven gekomen. Ook de Griekse piloot overleefde de crash niet."
+        },
+        {
+          "title": "Helikopter met Trump vloog te dicht in de buurt van passagiersvliegtuig",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/buitenland/helikopter-met-trump-vloog-te-dicht-in-de-buurt-van-passagiersvliegtuig/159657921.html",
+          "publishedDate": "Wed, 05 Aug 2026 11:38:00 GMT",
+          "description": "Een helikopter met de Amerikaanse president Donald Trump aan boord kwam dinsdag te dicht in de buurt van een passagiersvliegtuig. Dat vliegtuig was bezig met opstijgen van Ronald Reagan Washington Nat ..."
+        },
+        {
+          "title": "Politiehonden vinden verstopte verdachten in Krommenie",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/noord-holland/amsterdam/160082-politiehonden-vinden-verstopte-verdachten-in-krommenie.html",
+          "publishedDate": "Fri, 04 Sep 2026 06:06:00 GMT",
+          "description": "De politie hield op vrijdag 4 september 2026 twee verdachten aan voor een diefstal op de Mercuriusstraat. Bij de zoektocht zette de politie onder meer politiehonden en een helikopter in."
+        },
+        {
+          "title": "Oekra&#239;ense helikopter krijgt AI-systeem om Shahed-drones te bestrijden",
+          "source": "Carro e Motos",
+          "url": "https://carroemotos.com.br/oekraiense-helikopter-krijgt-ai-systeem-om-shahed-drones-te-bestrijden/",
+          "publishedDate": "Thu, 03 Sep 2026 10:05:00 GMT",
+          "description": "Het Oekra&#239;ense ministerie van Defensie heeft de Khyzhak al goedgekeurd voor gebruik door de strijdkrachten. Het wapen kan Sovjet-standaard 7,62 mm-munitie gebruiken of munitie die compatibel is met ..."
+        },
+        {
+          "title": "Man met Alfa Romeo-virus bouwt Giulia-helikopter van 3 ton",
+          "source": "Autoblog.nl on MSN",
+          "url": "https://www.msn.com/nl-nl/auto/algemeen/man-met-alfa-romeo-virus-bouwt-giulia-helikopter-van-3-ton/ar-AA2buMwg",
+          "publishedDate": "Thu, 03 Sep 2026 04:54:22 GMT",
+          "description": "Ze zeggen dat als je het Alfa Romeo-virus te pakken hebt je niet meer normaal kunt functioneren als petrolhead. Deze liefhebber is daar het levende bewijs van, want hij bouwde een helikopter met de Gi ..."
+        },
+        {
+          "title": "Luchtmacht vliegt met F-35's en helikopter over Zandvoort",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Binnenland/luchtmacht-vliegt-met-f-35s-en-helikopter-over-zandvoort/ar-AA2aKuE2",
+          "publishedDate": "Sun, 23 Aug 2026 08:31:00 GMT",
+          "description": "ZANDVOORT (ANP) - Vijf F-35-vliegtuigen en een Chinook zijn zondagmiddag over het circuit van Zandvoort gevlogen voorafgaand aan de Formule 1-race die daar plaatsvindt. Onder de Chinook hing een grote ..."
+        },
+        {
+          "title": "Helikopter van Defensie ontdekt beginnende bosbrand in Waalwijk",
+          "source": "Waalwijk Nieuws",
+          "url": "https://waalwijk.nieuws.nl/112/helikopter-van-defensie-ontdekt-beginnende-bosbrand-in-waalwijk",
+          "publishedDate": "Tue, 11 Aug 2026 09:32:00 GMT",
+          "description": "WAALWIJK – Aan de Mannenbeemdweg in Waalwijk is dinsdagmiddag 11 augustus brand ontstaan in een bosgebied. Een helikopter van Defensie ontdekte vanuit de lucht een flinke hoeveelheid rook en sloeg ala ..."
+        },
+        {
+          "title": "Inbreker opgepakt in Glabbeek na zoektocht met helikopter",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/05/inbreker-opgepakt-in-glabbeek-na-zoektocht-met-helikopter/",
+          "publishedDate": "Wed, 05 Aug 2026 05:49:00 GMT",
+          "description": "Vanmorgen sloegen 2 inbrekers op de vlucht na een inbraak in Tielt-Winge. Na een grote zoekactie met helikopter is nu een eerste verdachte opgepakt. De 2e verdachte wordt nog gezocht."
         }
       ]
     },
@@ -326,82 +402,6 @@
       ]
     },
     {
-      "keyword": "roemenië",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Tate-broers in Roemeni&#235; aangeklaagd voor handel in minderjarigen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2629688-tate-broers-in-roemenie-aangeklaagd-voor-handel-in-minderjarigen",
-          "publishedDate": "Fri, 04 Sep 2026 09:49:00 GMT",
-          "description": "Volgens Roemeense aanklagers ronselden de twee hun slachtoffers door ze te verleiden en te beweren dat ze een relatie of huwelijk wilden."
-        },
-        {
-          "title": "Russische drones vliegen Roemeni&#235; binnen: ‘De oorlog stopt niet bij de Donau’",
-          "source": "NOS",
-          "url": "https://nos.nl/nieuwsuur/artikel/2629630-russische-drones-vliegen-roemenie-binnen-de-oorlog-stopt-niet-bij-de-donau",
-          "publishedDate": "Fri, 04 Sep 2026 02:47:00 GMT",
-          "description": "NOS gebruikt Functionele en Analytische cookies voor website optimalisatie en statistieken."
-        },
-        {
-          "title": "Sport Show Kijk Podcast Puzzel",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/stichtse-vecht/na-jaren-in-roemenie-en-polen-voelt-alfred-mensah-zich-thuis-bij-fc-breukelen-al-mist-hij-soms-het-profgevoel~a9dab32f/",
-          "publishedDate": "Sat, 29 Aug 2026 20:08:00 GMT",
-          "description": "Alfred Mensah voetbalde als prof voor Almere City en clubs in Polen en Roemeni&#235;. Dit seizoen is hij speler bij FC Breukelen. „Ik mis het gevoel dat ik profvoetballer ben.” ..."
-        },
-        {
-          "title": "Na Hongarije sluit ook Roemeni&#235; zijn kerncentrale vanwege de droogte",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/na-hongarije-sluit-ook-roemenie-zijn-kerncentrale-vanwege-de-droogte~b49b1a55/",
-          "publishedDate": "Mon, 10 Aug 2026 16:11:00 GMT",
-          "description": "De autoriteiten in Roemeni&#235; schakelen donderdag de enige kerncentrale van het land uit vanwege de lage waterstand van de rivier de Donau. Roemeni&#235; gebruikt het water van de rivier om de centrale te ..."
-        },
-        {
-          "title": "Roemeni&#235; zet Russische consul het land uit en sluit consulaat, Poetin ‘op de hoogte’ van drone-inslag in Roemeense stad",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/05/29/roemenie-zet-russische-consul-het-land-uit-en-sluit-consulaat-poetin-op-de-hoogte-van-drone-inslag-in-roemeense-stad-a4928954",
-          "publishedDate": "Fri, 29 May 2026 06:14:00 GMT",
-          "description": "Roemeni&#235; heeft vrijdag besloten de Russische consul in de zuidoostelijke stad Constanta het land uit te zetten. Ook sluit het Russische consulaat in de stad aan de Zwarte Zee. Dat heeft de Roemeense ..."
-        },
-        {
-          "title": "Europa heeft gewonnen in Roemeni&#235;, maar het land is diep verdeeld",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2025/05/27/europa-heeft-gewonnen-in-roemenie-maar-het-land-is-diep-verdeeld-a4894858",
-          "publishedDate": "Tue, 27 May 2025 10:05:00 GMT",
-          "description": "Ana Roman vindt het fijn in Comana, een dorp ten zuiden van Boekarest, aan de rand van het gelijknamige natuurgebied. Een stoffig kruispunt, een paar winkels, veel meer is het niet. Ana (25) houdt van ..."
-        },
-        {
-          "title": "Roemeni&#235; kiest voor pro-Europese president: ‘Rusland, vergeet niet, Roemeni&#235; is niet van jou’",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/buitenland/roemenie-kiest-voor-pro-europese-president-rusland-vergeet-niet-roemenie-is-niet-van-jou~b9de03c5/",
-          "publishedDate": "Mon, 19 May 2025 10:57:00 GMT",
-          "description": "De nieuwe president van Roemeni&#235;, Nicusor Dan, voerde een opvallend bescheiden campagne. Maar pro-Europese Roemenen zitten juist te wachten op stabiliteit en redelijkheid, als antigif tegen ..."
-        },
-        {
-          "title": "Andrew Tate in Roemeni&#235; aangeklaagd voor mensenhandel, broer Tristan voor medeplichtigheid",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/buitenland/andrew-tate-in-roemenie-aangeklaagd-voor-mensenhandel-broer-tristan-voor-medeplichtigheid~a3ea3071/",
-          "publishedDate": "Thu, 03 Sep 2026 20:06:00 GMT",
-          "description": "Roemeense aanklagers hebben influencer Andrew Tate vrijdag officieel aangeklaagd voor mensenhandel in minderjarigen, witwassen, seks met een minderjarige en de be&#239;nvloeding van getuigen. Zijn broer Tr ..."
-        },
-        {
-          "title": "E120028 - Verslag over de voortgang van Roemeni&#235; met het Co&#246;peratie- en Verificatiemechanisme",
-          "source": "Eerste",
-          "url": "https://www.eerstekamer.nl/eu/edossier/e120028_verslag_over_de_voortgang",
-          "publishedDate": "Sun, 29 Jun 2025 17:00:00 GMT",
-          "description": "Voorafgaand aan de toetreding van Roemeni&#235; tot de Europese Unie werd afgesproken dat de vooruitgang van Roemeni&#235; op gebied van justiti&#235;le hervormingen en corruptiebestrijding zou worden ondersteund en ..."
-        },
-        {
-          "title": "In Roemeni&#235; is de hoop op een pro-Europese president nog niet weg",
-          "source": "Standaard",
-          "url": "https://www.standaard.be/buitenland/in-roemenie-is-de-hoop-op-een-pro-europese-president-nog-niet-weg/65494006.html",
-          "publishedDate": "Mon, 05 May 2025 17:00:00 GMT",
-          "description": "George Simion (38) van de nationalistische en reactionaire &#173;Alliantie voor de Unie van Roemenen (AUR), waarvan het acroniem ‘goud’ betekent, is nog niet de nieuwe president van Roemeni&#235;. Maar de kans ..."
-        }
-      ]
-    },
-    {
       "keyword": "lale gül",
       "trafficLabel": "10K+",
       "articles": [
@@ -441,6 +441,13 @@
           "description": "Talpa onthult: Lale G&#252;l, Mark Baanders en Jamie Vaes in vast panel van Buzz. Vanaf 7 september elke werkdag op NET5 met hot entertainment, virals en socials."
         },
         {
+          "title": "Lale G&#252;l in gesprek met Gijs Beukers",
+          "source": "Achterhoek Nieuws",
+          "url": "https://www.achterhoeknieuws.nl/nieuws/algemeen/556560/lale-gul-in-gesprek-met-gijs-beukers",
+          "publishedDate": "Sun, 30 Aug 2026 05:36:00 GMT",
+          "description": "Vijf jaar na haar spraakmakende debuut Ik ga leven is Lale G&#252;l uitgegroeid tot een van de meest besproken schrijvers van Nederland. Met haar geheel eigen stem wist ze honderdduizenden lezers te raken."
+        },
+        {
           "title": "Lale G&#252;l spreekt in Winterswijk over vrijheid, familie en geloof",
           "source": "De Gelderlander",
           "url": "https://www.gelderlander.nl/winterswijk/lale-gul-spreekt-in-winterswijk-over-vrijheid-familie-en-geloof~a7d52dca/",
@@ -455,13 +462,6 @@
           "description": "Schrijfster Lale G&#252;l gaat op 6 september in Winterswijk in gesprek over vrijheid en zelf keuzes maken, naar aanleiding van haar boeken."
         },
         {
-          "title": "Johan Derksen (77) is eruit en hakt knoop door over tv-toekomst",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/johan-derksen-77-is-eruit-en-hakt-knoop-door-over-tv-toekomst",
-          "publishedDate": "Mon, 24 Aug 2026 13:10:00 GMT",
-          "description": "Er is duidelijkheid over de tv-toekomst van Johan Derksen (77). Volgens Lale G&#252;l heeft de analist in zijn nieuwe boek laten weten dat hij tot zijn dood op televisie wil blijven."
-        },
-        {
           "title": "Derksen laat geen spaan heel van Lale G&#252;l: ‘De weg kwijt en haar carri&#232;re aan het verknallen’",
           "source": "FC Update",
           "url": "https://www.fcupdate.nl/voetbalnieuws/2026/05/derksen-laat-geen-spaan-heel-van-lale-gul-de-weg-kwijt-en-haar-carriere-aan-het-verknallen",
@@ -474,82 +474,6 @@
           "url": "https://panorama.nl/artikel/649504/lale-gul-boos-op-npo-verslaggever-die-haar-een-turks-wijf-noemde-praat-over-mij-alsof-ik-een-object-ben",
           "publishedDate": "Mon, 04 Aug 2025 01:53:00 GMT",
           "description": "Schrijfster Lale G&#252;l bijt flink van zich af, wanneer Ongehoord Nederland-verslaggever Jonathan Krispijn behoorlijke uitspraken doet over haar. In de uitzending van Nieuws van de Dag, van afgelopen ..."
-        }
-      ]
-    },
-    {
-      "keyword": "helikopter",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Nederlander (65) in ‘ernstige toestand’ per helikopter van berg gehaald na enorme reddingsoperatie in Kroati&#235;",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/nederlander-65-in-ernstige-toestand-per-helikopter-van-berg-gehaald-na-enorme-reddingsoperatie-in-kroatie~a9482fdc/",
-          "publishedDate": "Tue, 01 Sep 2026 00:52:00 GMT",
-          "description": "Een Nederlandse wandelaar is maandag in zeer ernstige toestand gered uit het Kroatische Biokovo-gebergte. De 65-jarige man zat zonder water op 1200 meter hoogte en was volledig uitgedroogd en gedesori ..."
-        },
-        {
-          "title": "Zeven toeristen omgekomen bij helikoptercrash in Kenia",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2627551-zeven-toeristen-omgekomen-bij-helikoptercrash-in-kenia",
-          "publishedDate": "Wed, 19 Aug 2026 20:05:00 GMT",
-          "description": "Onder de doden zijn vijf Amerikanen en twee Ecuadorianen, het hoofd van de Ecuadoraanse inlichtingendienst en zijn vrouw."
-        },
-        {
-          "title": "Helikopter met Trump vloog te dicht in de buurt van passagiersvliegtuig",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/buitenland/helikopter-met-trump-vloog-te-dicht-in-de-buurt-van-passagiersvliegtuig/159657921.html",
-          "publishedDate": "Wed, 05 Aug 2026 11:38:00 GMT",
-          "description": "Een helikopter met de Amerikaanse president Donald Trump aan boord kwam dinsdag te dicht in de buurt van een passagiersvliegtuig. Dat vliegtuig was bezig met opstijgen van Ronald Reagan Washington Nat ..."
-        },
-        {
-          "title": "Oekra&#239;ense helikopter krijgt AI-systeem om Shahed-drones te bestrijden",
-          "source": "Carro e Motos",
-          "url": "https://carroemotos.com.br/oekraiense-helikopter-krijgt-ai-systeem-om-shahed-drones-te-bestrijden/",
-          "publishedDate": "Thu, 03 Sep 2026 10:05:00 GMT",
-          "description": "Het Oekra&#239;ense ministerie van Defensie heeft de Khyzhak al goedgekeurd voor gebruik door de strijdkrachten. Het wapen kan Sovjet-standaard 7,62 mm-munitie gebruiken of munitie die compatibel is met ..."
-        },
-        {
-          "title": "Nederlandse met helikopter gered na hondenaanval in bergen van Azerbeidzjan",
-          "source": "nu",
-          "url": "https://nu.cw/2026/08/31/nederlandse-met-helikopter-gered-na-hondenaanval-in-bergen-van-azerbeidzjan/",
-          "publishedDate": "Mon, 31 Aug 2026 07:05:00 GMT",
-          "description": "De hulpdiensten in Azerbeidzjan hebben zaterdag een 47-jarige Nederlandse vrouw gered die tijdens een bergwandeling was aangevallen door een roedel honden. De vrouw liep open wonden op en is per ..."
-        },
-        {
-          "title": "MUG-helikopter mag € 6000 bijschrijven. Met dank aan 1000 porties pladijs in Nieuwpoort",
-          "source": "Het nieuws van West-Vlaanderen",
-          "url": "https://www.hetnieuwsvanwestvlaanderen.be/mug-helikopter-mag-e-6000-bijschrijven-met-dank-aan-1000-porties-pladijs-in-nieuwpoort/",
-          "publishedDate": "Sun, 23 Aug 2026 23:27:00 GMT",
-          "description": "MUG-helikopter mag € 6000 bijschrijven. Met dank aan 1000 porties pladijs in Nieuwpoort - Het nieuws van West-Vlaanderen ..."
-        },
-        {
-          "title": "Helikopter van Defensie ontdekt beginnende bosbrand in Waalwijk",
-          "source": "Waalwijk Nieuws",
-          "url": "https://waalwijk.nieuws.nl/112/helikopter-van-defensie-ontdekt-beginnende-bosbrand-in-waalwijk",
-          "publishedDate": "Tue, 11 Aug 2026 09:32:00 GMT",
-          "description": "WAALWIJK – Aan de Mannenbeemdweg in Waalwijk is dinsdagmiddag 11 augustus brand ontstaan in een bosgebied. Een helikopter van Defensie ontdekte vanuit de lucht een flinke hoeveelheid rook en sloeg ala ..."
-        },
-        {
-          "title": "Inbreker opgepakt in Glabbeek na zoektocht met helikopter",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/05/inbreker-opgepakt-in-glabbeek-na-zoektocht-met-helikopter/",
-          "publishedDate": "Wed, 05 Aug 2026 05:49:00 GMT",
-          "description": "Vanmorgen sloegen 2 inbrekers op de vlucht na een inbraak in Tielt-Winge. Na een grote zoekactie met helikopter is nu een eerste verdachte opgepakt. De 2e verdachte wordt nog gezocht."
-        },
-        {
-          "title": "Helikopteronderzoek levert 3D-beeld verzilting en ondergrond",
-          "source": "deltares",
-          "url": "https://www.deltares.nl/nieuws/onderzoek-met-helikopter-3d-beeld-verzilting-en-ondergrond",
-          "publishedDate": "Mon, 11 Aug 2025 00:00:00 GMT",
-          "description": "Waar is zoet of zout grondwater te vinden en op welke diepte? En waar zitten kleilagen die het onderliggende grondwater beschermen? Dit is belangrijke informatie voor provincies, waterbeheerders, ..."
-        },
-        {
-          "title": "Oekra&#239;ense kamikaze-drone Magura V5 brengt Russische helikopter tot zinken",
-          "source": "Business AM",
-          "url": "https://businessam.be/oekraiense-magura-v5-drone-brengt-russische-helikopter-tot-zinken/",
-          "publishedDate": "Tue, 31 Dec 2024 04:01:00 GMT",
-          "description": "HUR, de militaire inlichtingendienst van Oekra&#239;ne, heeft beelden vrijgegeven van het moment waarop een Oekra&#239;ense zeedrone met succes een Russische helikopter voor de kust van de Krim viseerde en ..."
         }
       ]
     },
@@ -607,6 +531,13 @@
           "description": "In een woning aan de Leharstraat in Eerbeek is vrijdagochtend het lichaam van een 12-jarige jongen aangetroffen. De politie gaat uit van een misdrijf en heeft ter plaatse een meerderjarige verdachte a ..."
         },
         {
+          "title": "KORT vrijdag: drie arrestaties na fatale steekpartij in Hoogeveen",
+          "source": "Crimesite",
+          "url": "https://www.crimesite.nl/kort-vrijdag-jongen-12-dood-gevonden-in-woning-eerbeek-verdachte-aangehouden/",
+          "publishedDate": "Fri, 04 Sep 2026 02:46:00 GMT",
+          "description": "In een woning aan de L&#233;harstraat in de Gelderse plaats Eerbeek is een 12-jarige jongen dood aangetroffen. In dezelfde woning is een meerderjarige verdachte aangehouden. De politie vermoedt dat de jong ..."
+        },
+        {
           "title": "Jongen (12) dood gevonden in woning Eerbeek, buurtbewoners in shock",
           "source": "Hart van Nederland",
           "url": "https://www.hartvannederland.nl/112/crime/artikelen/minderjarige-overleden-woning-leharstraat-verdachte-aangehouden",
@@ -619,13 +550,6 @@
           "url": "https://www.gld.nl/nieuws/8517976/12-jarige-jongen-dood-gevonden-in-woning-eerbeek-politie-gaat-uit-van-misdrijf",
           "publishedDate": "Fri, 04 Sep 2026 00:34:00 GMT",
           "description": "Een minderjarig persoon is vrijdagochtend dood gevonden in een woning aan de L&#233;harstraat in Eerbeek. Dat meldt de politie."
-        },
-        {
-          "title": "12-jarige jongen dood aangetroffen in woning in Eerbeek, volwassen verdachte uit dezelfde woning aangehouden",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/112-nieuws-brummen/12-jarige-jongen-dood-aangetroffen-in-woning-in-eerbeek-volwassen-verdachte-uit-dezelfde-woning-aangehouden~af470f8d/",
-          "publishedDate": "Fri, 04 Sep 2026 00:15:00 GMT",
-          "description": "In een woning aan de L&#233;harstraat in Eerbeek is vrijdagochtend een 12-jarige jongen dood aangetroffen. De politie gaat ervan uit dat de jongen door een misdrijf om het leven is gekomen. In dezelfde won ..."
         }
       ]
     },
@@ -653,6 +577,89 @@
           "url": "https://www.bnnvara.nl/artikelen/terry-was-negen-toen-zijn-vader-de-bak-in-moest",
           "publishedDate": "Thu, 13 Aug 2026 17:00:00 GMT",
           "description": "Van de ene op de andere dag je vader verliezen omdat hij voor acht jaar de gevangenis in gaat. Het overkwam Terry Akins (32) op negenjarige leeftijd. Hoe ging hij hier als kind mee om?."
+        },
+        {
+          "title": "Wordt het ooit weer mogelijk kinderen uit het buitenland te adopteren?",
+          "source": "BNNVARA",
+          "url": "https://www.bnnvara.nl/artikelen/wordt-het-ooit-weer-mogelijk-kinderen-uit-het-buitenland-te-adopteren",
+          "publishedDate": "Sat, 23 May 2026 17:01:00 GMT",
+          "description": "Sinds 2024 kunnen er geen nieuwe aanvragen of procedures voor adoptie uit het buitenland meer worden gestart, door misstanden in het systeem. Wordt het ooit weer mogelijk om kinderen uit het buitenlan ..."
+        }
+      ]
+    },
+    {
+      "keyword": "hélène hendriks",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "H&#233;l&#232;ne Hendriks reageert op kritiek: 'Dit mis ik zelf ook!'",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/video/helene-hendriks-reageert-op-kritiek-dit-mis-ik-zelf-ook/160995794.html",
+          "publishedDate": "Fri, 04 Sep 2026 07:43:00 GMT",
+          "description": "H&#233;l&#232;ne Hendriks keert terug met een nieuw seizoen van de Grote Staatsloterijshow. Het eerste seizoen kreeg de nodige kritiek, onder meer op de opzet van het programma. Verslaggever Max van den Broek s ..."
+        },
+        {
+          "title": "H&#233;l&#232;ne Hendriks ziet zichzelf niet zomaar Vandaag inside overnemen: ’Weinig bewegingsruimte’",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/entertainment/media/helene-hendriks-ziet-zichzelf-niet-zomaar-vandaag-inside-overnemen-weinig-bewegingsruimte/160903652.html",
+          "publishedDate": "Thu, 03 Sep 2026 02:30:00 GMT",
+          "description": "Al jaren wordt H&#233;l&#232;ne Hendriks genoemd als mogelijke opvolger van de tv-hit Vandaag inside, mocht het trio ooit besluiten te stoppen. Maar van een aanstaand afscheid wil de presentatrice niets weten."
+        },
+        {
+          "title": "Ongemak bij presentatrice H&#233;l&#232;ne Hendriks na nachtje met Merel Ek: 'We hebben ditmaal niet gedoucht'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/ongemak-bij-presentatrice-helene-hendriks-na-nachtje-met-merel-ek-we-hebben-ditmaal-niet-gedoucht-2026090420024112415/",
+          "publishedDate": "Fri, 04 Sep 2026 15:20:00 GMT",
+          "description": "Presentatrice H&#233;l&#232;ne Hendriks maakt de eigenaardigste dingen mee tijdens haar werk. Daar vertelde ze in de uitzending van Vandaag Inside op vrijdag over. Het verhaal begon met de situatie dat ze een ..."
+        },
+        {
+          "title": "‘H&#233;l&#232;ne Hendriks per direct weg bij Vandaag Inside’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/helene-hendriks-per-direct-weg-bij-vandaag-inside-3/",
+          "publishedDate": "Fri, 04 Sep 2026 11:38:00 GMT",
+          "description": "Op vrijdagavond was ze voor het eerst in het nieuwe seizoen van Vandaag Inside te zien als tafelgast, maar de toekomst van H&#233;l&#232;ne Hendriks bij de talkshow ..."
+        },
+        {
+          "title": "H&#233;l&#232;ne Hendriks en VI-trio bashen Robert ten Brink: ‘K*tverhaal!’",
+          "source": "Mediacourant",
+          "url": "https://www.mediacourant.nl/2026/09/helene-hendriks-en-vi-trio-bashen-robert-ten-brink-ktverhaal/",
+          "publishedDate": "Fri, 04 Sep 2026 11:00:00 GMT",
+          "description": "Robert ten Brink krijgt een flinke veeg uit de pan van H&#233;l&#232;ne Hendriks en de mannen van Vandaag Inside. Ze ergerden zich kapot aan zijn optreden bij Renze, waar hij maar bleef doorpraten. ‘Kutverhaal."
+        },
+        {
+          "title": "Wat weet H&#233;l&#232;ne Hendriks van ‘VI-topoverleg’ over Wilfred Genee?",
+          "source": "Mediacourant",
+          "url": "https://www.mediacourant.nl/2026/09/wat-weet-helene-hendriks-van-vi-topoverleg-over-wilfred-genee/",
+          "publishedDate": "Fri, 04 Sep 2026 09:30:00 GMT",
+          "description": "H&#233;l&#232;ne Hendriks zegt niets te weten van het vermeende topoverleg over de toekomst van Vandaag Inside. Toch blijft er iets vreemds hangen: waarom glipte Wilfred Genee na VI via de achteruitgang weg?"
+        },
+        {
+          "title": "H&#233;l&#232;ne Hendriks ziet einde Vandaag Inside naderen: 'Dat vlaggenschip gaat stranden'",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/h%C3%A9l%C3%A8ne-hendriks-ziet-einde-vandaag-inside-naderen-dat-vlaggenschip-gaat-stranden/ar-AA2bApgV",
+          "publishedDate": "Fri, 04 Sep 2026 09:12:10 GMT",
+          "description": "H&#233;l&#232;ne Hendriks verwacht niet dat ze zomaar de opvolger van Vandaag Inside wordt. Dat vertelt ze in gesprek met De Telegraaf. Al weken wordt er gespeculeerd over de toekomst van het programma."
+        },
+        {
+          "title": "H&#233;l&#232;ne Hendriks: 'We weten allemaal dat Vandaag Inside gaat stranden'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/h%C3%A9l%C3%A8ne-hendriks-we-weten-allemaal-dat-vandaag-inside-gaat-stranden/ar-AA2bzBzG",
+          "publishedDate": "Fri, 04 Sep 2026 07:07:11 GMT",
+          "description": "H&#233;l&#232;ne Hendriks is (nog) niet gepolst door Talpa om eventueel in de voetsporen te treden van Wilfred Genee bij het populaire Vandaag Inside. Er wordt al weken gespeculeerd over de toekomst van de talk ..."
+        },
+        {
+          "title": "H&#233;l&#232;ne Hendriks: 'Vandaag Inside gaat ooit stoppen. En als dat gebeurt...'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/helene-hendriks-vandaag-inside-wilfred-genee-talpa",
+          "publishedDate": "Thu, 03 Sep 2026 09:35:00 GMT",
+          "description": "H&#233;l&#232;ne Hendriks houdt er geen rekening mee dat ze Vandaag Inside gaat presenteren. De presentatrice is niet gepolst en heeft door haar werkzaamheden bij Ziggo Sport bovendien weinig ruimte."
+        },
+        {
+          "title": "Heeft H&#233;l&#232;ne Hendriks het volledig verprutst?",
+          "source": "Show24",
+          "url": "https://show24.nl/heeft-helene-hendriks-het-volledig-verprutst/",
+          "publishedDate": "Mon, 31 Aug 2026 20:00:00 GMT",
+          "description": "Heeft H&#233;l&#232;ne Hendriks het volledig verprutst? De populaire presentatrice heeft iets gedaan waar niemand begrip voor heeft. Wat is er aan de hand? Heeft H&#233;l&#232;ne Hendriks geld nodig? Een recente actie ..."
         }
       ]
     }
