@@ -1,26 +1,6 @@
 {
-  "fetchedAt": "2026-09-06T20:41:04.224Z",
+  "fetchedAt": "2026-09-06T22:37:21.364Z",
   "trends": [
-    {
-      "keyword": "heerenveen - az",
-      "trafficLabel": "50K+",
-      "articles": [
-        {
-          "title": "Even leek AZ onderuit te gaan tegen Heerenveen. Toch won de Alkmaarse club met 2-3",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/sport/even-leek-az-onderuit-te-gaan-tegen-heerenveen-toch-won-de-alkmaarse-club-met-2-3~b3510e5e/",
-          "publishedDate": "Sun, 06 Sep 2026 13:11:00 GMT",
-          "description": "Ondanks een lastige eerste helft is AZ na vijf wedstrijden nog ongeslagen. Deze zege geeft misschien nog wel meer moed en hoop op een bijzonder seizoen dan een eenvoudige overwinning."
-        },
-        {
-          "title": "AZ wint na moeizame comeback: 'Knap dat we hier weten te winnen'",
-          "source": "Voetbal Centraal",
-          "url": "https://www.voetbalcentraal.nl/nieuws/1753750/AZ-wint-na-moeizame-comeback:--Knap-dat-we-hier-weten-te-winnen-",
-          "publishedDate": "Sun, 06 Sep 2026 01:12:00 GMT",
-          "description": "Dave Kwakman is trots op de manier waarop AZ zich zondag terugknokte tegen SC Heerenveen. De Alkmaarders kwamen in Friesland twee keer op achterstand, maar draaiden het duel uiteindelijk om en wonnen"
-        }
-      ]
-    },
     {
       "keyword": "valencia - barcelona",
       "trafficLabel": "20K+",
@@ -47,6 +27,20 @@
           "description": "Barcelona wint 0-5 bij Valencia, blijft foutloos in La Liga (17-2 doelsaldo) en oogt klaar voor Feyenoord. Yamal twee keer, Pedri en Raphinha scoren."
         },
         {
+          "title": "FC Barcelona speelt Valencia compleet zoek in Mestalla; Rodri blesseert teamgenoot",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/fc-barcelona-speelt-valencia-compleet-zoek-in-mestalla-rodri-blesseert-teamgenoot/ar-AA2bFIlH",
+          "publishedDate": "Sun, 06 Sep 2026 11:17:00 GMT",
+          "description": "FC Barcelona heeft zondag een simpele overwinning geboekt op Valencia. De ploeg van trainer Hansi Flick leidde dankzij Lamine Yamal en Ferm&#237;n L&#243;pez al snel met 0-2 en kwam nadien niet meer in de probl ..."
+        },
+        {
+          "title": "Barcelona geeft Feyenoord waarschuwing af met ruime zege in Valencia",
+          "source": "FR12.nl on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/barcelona-geeft-feyenoord-waarschuwing-af-met-ruime-zege-in-valencia/ar-AA2bFQbK",
+          "publishedDate": "Sun, 06 Sep 2026 09:51:00 GMT",
+          "description": "FC Barcelona heeft enkele dagen voor de Champions League-wedstrijd tegen Feyenoord een duidelijk signaal afgegeven. De ploeg van trainer Hansi Flick won zondagmiddag met liefst 0-5 op bezoek bij Valen ..."
+        },
+        {
           "title": "Feyenoord kan borst natmaken voor CL-kraker: Barcelona wint eenvoudig van Valencia",
           "source": "Voetbal International",
           "url": "https://www.vi.nl/nieuws/feyenoord-kan-borst-natmaken-voor-cl-kraker-barcelona-wint-eenvoudig-van-valencia",
@@ -54,18 +48,18 @@
           "description": "Barcelona gaat zich met een goed gevoel voorbereiden op het Champions League-duel met Feyenoord. De ploeg van Hansi Flick maakte zondag gehakt van Valencia en blijft daarmee foutloos in La Liga. Lamin ..."
         },
         {
-          "title": "FC Barcelona speelt Valencia compleet zoek in Mestalla; Rodri blesseert teamgenoot",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/fc-barcelona-speelt-valencia-compleet-zoek-in-mestalla-rodri-blesseert-teamgenoot/ar-AA2bFIlH",
-          "publishedDate": "Sun, 06 Sep 2026 07:17:58 GMT",
-          "description": "FC Barcelona heeft zondag een simpele overwinning geboekt op Valencia. De ploeg van trainer Hansi Flick leidde dankzij Lamine Yamal en Ferm&#237;n L&#243;pez al snel met 0-2 en kwam nadien niet meer in de probl ..."
-        },
-        {
           "title": "Praat mee op VP: Rodri voor het eerst in de basis bij Bar&#231;a op bezoek bij Valencia",
           "source": "Voetbalprimeur on MSN",
           "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-rodri-voor-het-eerst-in-de-basis-bij-bar%C3%A7a-op-bezoek-bij-valencia/ar-AA2bFMkd",
           "publishedDate": "Sun, 06 Sep 2026 06:15:00 GMT",
           "description": "FC Barcelona wacht zondagmiddag een fraaie krachtmeting op bezoek bij Valencia. De wedstrijd begint om 16.15 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+        },
+        {
+          "title": "De Lange drie keer geklopt door Sinayoko: Paris FC wint in Marseille",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/vi-live-juve-en-milan-in-evenwicht-spanning-in-marseille",
+          "publishedDate": "Sat, 05 Sep 2026 22:15:00 GMT",
+          "description": "Zondag staan er vier wedstrijden in de Eredivisie op ons te wachten. Onder meer FC Twente en AZ komen in actie. Daarnaast speelt Chelsea in Engeland tegen koploper Arsenal en gaat Barcelona op bezoek ..."
         },
         {
           "title": "Valencia vs Barcelona Voorspelling, Tips en Odds | La Liga",
@@ -80,134 +74,178 @@
           "url": "https://news.bet365.nl/nl-nl/article/valencia-barcelona-opstellingen-nieuws-en-waar-je-kunt-kijken/2025020408453961388",
           "publishedDate": "Tue, 04 Feb 2025 01:09:00 GMT",
           "description": "Valencia en FC Barcelona nemen het donderdag tegen elkaar op in de kwartfinale van de Copa del Rey. Hier bespreken we alles wat je moet weten over de wedstrijd, waaronder de mogelijke opstellingen en ..."
-        },
-        {
-          "title": "Barcelona - Valencia",
-          "source": "FC Update",
-          "url": "https://www.fcupdate.nl/voetbalcompetities/spanje/laliga/programma-uitslagen/2024-2025/barcelona-valencia-26-01",
-          "publishedDate": "Sun, 26 Jan 2025 15:30:00 GMT",
-          "description": "Barcelona heeft Valencia met overtuigende cijfers verslagen in een eenzijdige wedstrijd die eindigde in een 7-1 overwinning voor de thuisploeg. De wedstrijd begon met een vroege treffer van Frenkie de ..."
-        }
-      ]
-    },
-    {
-      "keyword": "groningen - twente",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Scorende Weghorst 'had nog appeltje te schillen' met Groningen na Ajax-trauma",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6408834/scorende-weghorst-had-nog-appeltje-te-schillen-met-groningen-na-ajax-trauma.html",
-          "publishedDate": "Sat, 05 Sep 2026 18:41:00 GMT",
-          "description": "Wout Weghorst is blij met zijn doelpunt voor FC Twente tegen FC Groningen. De spits had naar eigen zeggen &quot;nog een appeltje te schillen&quot; met de Euroborg, het stadion waar hij met Ajax op dramatische w"
-        },
-        {
-          "title": "TERUGLEZEN • Vaessen vindt wat van Weghorst • Gemengde gevoelens bij FC Twente na punt in Groningen",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/fc-twente/teruglezen-vaessen-vindt-wat-van-weghorst-gemengde-gevoelens-bij-fc-twente-na-punt-in-groningen~a247fd49f/",
-          "publishedDate": "Fri, 04 Sep 2026 03:25:00 GMT",
-          "description": "FC Twente heeft zondagmiddag een punt overgehouden aan de uitwedstrijd bij FC Groningen (2-2). Het was voor de vijfde keer op rij dat beide ploegen in De Euroborg gelijkspeelden. Alle treffers vielen"
         }
       ]
     },
     {
       "keyword": "formule 1",
       "trafficLabel": "20K+",
-      "articles": []
-    },
-    {
-      "keyword": "charles leclerc",
-      "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Lewis Hamilton claims there are 'no rules' at Ferrari after clash with team-mate Charles Leclerc during Italian GP",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/f1/news/12040/13582222/lewis-hamilton-claims-there-are-no-rules-at-ferrari-after-clash-with-team-mate-charles-leclerc-during-italian-gp",
-          "publishedDate": "Sun, 06 Sep 2026 13:07:00 GMT",
-          "description": "Lewis Hamilton and Charles Leclerc made contact on the first lap of the Italian Grand Prix before the Brit ran onto the gravel and lost several positions; Hamilton fell 76 points behind championship l ..."
+          "title": "Formule 1-soap: Gasly raakt na drie maanden zijn podiumplek ...",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/formule-1/formule-1-soap-pierre-gasly-raakt-na-drie-maanden-zijn-podiumplek-in-monaco-toch-weer-kwijt-aan-isack-hadjar~a99e49504/",
+          "publishedDate": "Thu, 03 Sep 2026 21:15:00 GMT",
+          "description": "Over een achtbaan aan emoties gesproken: Alpine-coureur Pierre Gasly is na drie maanden t&#243;ch weer zijn podiumplek bij de Grand Prix van Monaco kwijtgeraakt. Isack Hadjar, teamgenoot van Max Verstappen ..."
         },
         {
-          "title": "Hamilton wil gedragsregels zwart-op-wit na incident met Leclerc",
-          "source": ".ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/other/hamilton-wil-gedragsregels-zwart-op-wit-na-incident-met-leclerc/ar-AA2bGq9R",
-          "publishedDate": "Sun, 06 Sep 2026 13:01:36 GMT",
-          "description": "MONZA (ANP/RTR) - Lewis Hamilton pleit voor schriftelijke gedragsregels bij Ferrari na de aanrijding met teamgenoot Charles Leclerc aan het begin van de Grote Prijs van Itali&#235;. Dat zei de zevenvoudig ..."
+          "title": "Hadjar mist door polsblessure ook Formule 1-race in Monza",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2629385-hadjar-mist-door-polsblessure-ook-formule-1-race-in-monza",
+          "publishedDate": "Wed, 02 Sep 2026 07:25:00 GMT",
+          "description": "Isack Hadjar, de teamgenoot van Max Verstappen bij Red Bull, miste anderhalve week geleden ook al de Grand Prix in Zandvoort. Hij wordt ook in Monza vervangen door Liam Lawson."
         },
         {
-          "title": "Charles Leclerc provides health update following huge Italian GP crash",
-          "source": "GPblog",
-          "url": "https://www.gpblog.com/en/news/charles-leclerc-provides-health-update-following-huge-italian-gp-crash",
-          "publishedDate": "Sun, 06 Sep 2026 10:57:00 GMT",
-          "description": "Ferrari's Charles Leclerc has provided details of his condition following a massive crash at Parabolica on Lap 2 of the Italian GP."
+          "title": "Formule 1-podcast | ‘Dit was de laatste grand prix van Max Verstappen op Nederlandse bodem’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/formule-1/formule-1-podcast-dit-was-de-laatste-grand-prix-van-max-verstappen-op-nederlandse-bodem~a222de3b/",
+          "publishedDate": "Sun, 23 Aug 2026 05:44:00 GMT",
+          "description": "Zandvoort ging eruit met een knal. Voor Max Verstappen dan. De Nederlander crashte in de eerste ronde op Zandvoort en daarmee kreeg de Dutch Grand Prix niet het gedroomde afscheid. Na zes jaar verdwij ..."
         },
         {
-          "title": "Leclerc schrikt na zware crash op Monza: &quot;Mijn rechteroog gaf me geen goed zicht&quot;",
-          "source": "F1 Maximaal Belgi&#235; on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/leclerc-schrikt-na-zware-crash-op-monza-mijn-rechteroog-gaf-me-geen-goed-zicht/ar-AA2bFSjD",
-          "publishedDate": "Sun, 06 Sep 2026 10:36:00 GMT",
-          "description": "Charles Leclerc heeft na zijn zware crash tijdens de Grand Prix van Itali&#235; voor enige ongerustheid gezorgd. De Ferrari-coureur ging hard van de baan bij de Parabolica en moest zijn thuisrace voor de t ..."
+          "title": "Formule 1-coureur in tranen na 'pijnlijke fout': &quot;Ik heb een enorme kans weggegooid&quot;",
+          "source": "F1 Maximaal on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/formule-1-coureur-in-tranen-na-pijnlijke-fout-ik-heb-een-enorme-kans-weggegooid/ar-AA2bGbuj",
+          "publishedDate": "Sun, 06 Sep 2026 13:54:00 GMT",
+          "description": "Franco Colapinto kon zijn emoties na de Grand Prix van Itali&#235; nauwelijks bedwingen. De Alpine-coureur finishte uiteindelijk als negende en pakte daarmee punten, maar wist dat er op Monza veel meer mog ..."
         },
         {
-          "title": "F1 fans spot worrying detail on Oscar Piastri's onboard before Charles Leclerc crash",
-          "source": "SPORTbible",
-          "url": "https://www.sportbible.com/formula-1/charles-leclerc/charles-leclerc-crash-formula-1-italian-gp-oscar-piastri-onboard-925475-20260906",
-          "publishedDate": "Sun, 06 Sep 2026 09:33:00 GMT",
-          "description": "Eagle-eyed fans believe they’ve spotted the cause of Charles Leclerc’s crash-out at the Italian Grand Prix. The red flag was brought out at Monza after just two laps, with the Ferrari driver crashing ..."
+          "title": "Formule 1-ster Max Verstappen kijkt naar Ajax-PSV: 'Ik hoop dat zij winnen'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/formule-1-ster-max-verstappen-kijkt-naar-ajax-psv-ik-hoop-dat-zij-winnen/ar-AA2bDcfi",
+          "publishedDate": "Sat, 05 Sep 2026 08:41:10 GMT",
+          "description": "Max Verstappen kijkt zaterdagavond met extra belangstelling naar de Eredivisie-topper tussen Ajax en PSV. De Formule 1-coureur is een uitgesproken fan van de Eindhovenaren en hoopt uiteraard op een ov ..."
         },
         {
-          "title": "Leclerc crasht zwaar op Monza: Ferrari-coureur uit wrak gehaald",
-          "source": "Formule1nieuws.nl",
-          "url": "https://formule1nieuws.nl/nieuws/leclerc-crasht-zwaar-op-monza-ferrari-coureur-uit-wrak-gehaald/",
-          "publishedDate": "Sun, 06 Sep 2026 08:26:00 GMT",
-          "description": "Charles Leclerc is tijdens de Grand Prix van Itali&#235; op Monza betrokken geraakt bij een zware crash. De Ferrari-coureur verloor in een gevecht met Oscar Piastri de controle over zijn wagen en sloeg ha ..."
+          "title": "George Russell is de snelste in laatste vrije oefenritten Formule 1-GP van Itali&#235;",
+          "source": "Gazet van Antwerpen",
+          "url": "https://www.gva.be/sport/racesporten/formule-1/george-russell-is-de-snelste-in-laatste-vrije-oefenritten-formule-1-gp-van-italie/161025876.html",
+          "publishedDate": "Sat, 05 Sep 2026 08:06:00 GMT",
+          "description": "George Russell (Mercedes) heeft zaterdag de snelste tijd neergezet in de derde en tevens laatste vrije oefenritten voor de Grote Prijs Formule 1 van Itali&#235;, dat is de dertiende WK-manche van het seizo ..."
         },
         {
-          "title": "Groot drama voor Ferrari tijdens 'eigen' GP van Itali&#235;: Charles Leclerc crasht hard en benadeelt teamgenoot",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/formule-1/nieuws/groot-drama-voor-ferrari-tijdens-eigen-gp-van-italie-charles-leclerc-crasht-hard-en-benadeelt-teamgenoot-2026090613151677635/",
-          "publishedDate": "Sun, 06 Sep 2026 08:15:00 GMT",
-          "description": "De GP van Itali&#235; is voor de thuisfans uitgedraaid op een drama. Waar er gehoopt werd op een mooie race van Ferrari, zorgde Charles Leclerc voor dubbel verdriet. Hij drukte eerst zelf teamgenoot Lewis ..."
+          "title": "Madrilenen verzetten zich tegen de eerste formule 1-race in hun stad sinds 1981",
+          "source": "De Morgen",
+          "url": "https://www.demorgen.be/niet-te-missen/madrilenen-verzetten-zich-tegen-de-eerste-formule-1-race-in-hun-stad-sinds-1981~b4e2bf52/",
+          "publishedDate": "Thu, 03 Sep 2026 20:00:00 GMT",
+          "description": "Madrid krijgt weer een formule 1-race, en wel volgende week. Maar niet iedereen in de Spaanse hoofdstad is daar zo happig op: verschillende actiegroepen proberen het event tegen te houden. ‘Totaal abs ..."
         },
         {
-          "title": "Charles Leclerc cerca una spiegazione al suo incidente: “Ho accelerato e l’ho persa, non so cosa sia successo”",
-          "source": "OA Sport",
-          "url": "https://www.oasport.it/2026/09/charles-leclerc-cerca-una-spiegazione-al-suo-incidente-ho-accelerato-e-lho-persa-non-so-cosa-sia-successo/",
-          "publishedDate": "Sun, 06 Sep 2026 07:10:00 GMT",
-          "description": "Charles Leclerc chiude nella maniera peggiore il suo&#160;Gran Premio d'Italia, tredicesimo appuntamento del Mondiale di Formula Uno 2026. Sul tracciato di ..."
+          "title": "LIVE Formule 1 | Wereldkampioen Lando Norris zet eigen raceteam op, volgend jaar debuut in juniorenklassen",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/formule-1/live-formule-1-wereldkampioen-lando-norris-zet-eigen-raceteam-op-volgend-jaar-debuut-in-juniorenklassen~afd17814/",
+          "publishedDate": "Wed, 02 Sep 2026 13:30:00 GMT",
+          "description": "De Formule 1 dendert door in deze periode. Er staan maar liefst elf races in de komende veertien weken gepland. Te beginnen bij de Grand Prix van Italie op het historische circuit van Monza. Volg alle ..."
         },
         {
-          "title": "Zware crash veroorzaakt opschudding in Monza: Charles Leclerc knalt in bandenmuur, rode vlag legt race stil",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/2026/09/06/zware-crash-veroorzaakt-opschudding-in-monza-charles-leclerc-knalt-in-bandenmuur-rode-vlag-legt-race-stil~1788700130841/",
-          "publishedDate": "Sun, 06 Sep 2026 06:20:00 GMT",
-          "description": "Uitgerekend in Itali&#235; vloog hij met zijn Ferrari in de muur. Charles Leclerc heeft de tifosi geen droomnamiddag kunnen bezorgen in Monza. In de derde ronde verloor de Monegask de controle over zijn ..."
+          "title": "Formule 1-leider Antonelli loopt iets uit na sprintrace",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/formule-1-leider-antonelli-loopt-iets-uit-na-sprintrace",
+          "publishedDate": "Sat, 22 Aug 2026 06:58:00 GMT",
+          "description": "ZANDVOORT (ANP) - Kampioenschapsleider Kimi Antonelli is na de sprintrace bij de Dutch Grand Prix in Zandvoort iets uitgelopen in de stand. De 19-jarige Italiaa ..."
         },
         {
-          "title": "VIDEO. Anticlimax voor Ferrari in GP van Itali&#235;: Charles Leclerc moet opgeven na zware crash",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/sport/racesporten/formule-1/video.-anticlimax-voor-ferrari-in-gp-van-italie-charles-leclerc-moet-opgeven-na-zware-crash/161048519.html",
-          "publishedDate": "Sun, 06 Sep 2026 06:12:00 GMT",
-          "description": "Stevige crash voor Charles Leclerc (28) in de GP van Itali&#235;. De coureur van Ferrari ging in het derde rondje op het circuit van Monza uit de bocht en kwam onzacht in aanraking met de bandenmuur. De im ..."
+          "title": "Dutch Grand Prix 2026: alle tijden van de Formule 1 in Zandvoort",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/sport/formule-1/artikelen/dutch-grand-prix-2026-tijden-zandvoort",
+          "publishedDate": "Fri, 21 Aug 2026 04:10:00 GMT",
+          "description": "Bekijk het volledige tijdschema van de Dutch Grand Prix 2026 in Zandvoort, met de vrije training, sprintkwalificatie, sprintrace, kwalificatie en race."
         }
       ]
     },
     {
-      "keyword": "telstar cambuur",
+      "keyword": "heerenveen - az",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "SC Cambuur geeft overwinning in Velsen-Zuid uit handen",
-          "source": "SC Cambuur",
-          "url": "https://cambuur.nl/nieuws/sc-cambuur-geeft-overwinning-in-velsen-zuid-uit-handen/",
-          "publishedDate": "Sun, 06 Sep 2026 10:07:00 GMT",
-          "description": "In het 70-jarige bestaan van de Eredivisie troffen Telstar en SC Cambuur elkaar nog nimmer op het hoogste niveau. In zekere zin was er dus vanmiddag sprake van een primeur. Maar zonder de voetbalroman"
+          "title": "Uitslagen Eredivisie | Koploper AZ blijft foutloos na zware middag in Heerenveen, Ronald Koeman Jr. scoort twee keer",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/eredivisie-voetbal/nieuws/uitslagen-eredivisie-koploper-az-blijft-foutloos-na-zware-middag-in-heerenveen-ronald-koeman-jr-scoort-twee-keer-2026090608163221753/",
+          "publishedDate": "Sun, 06 Sep 2026 11:45:00 GMT",
+          "description": "De Eredivisie kende zaterdag twee topduels in Ajax - PSV (1-3) en NEC - Feyenoord (1-3). Zondag werden er ook nog vier duels gespeeld. Koploper AZ bleef foutloos na een zwaarbevochten zege tegen Heere"
         },
         {
-          "title": "Scorende Koeman held voor Telstar tegen Cambuur, VAR pakt hoofdrol in krankzinnige slotfase",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/voetbal/live-eredivisie-cambuur-moet-alles-op-alles-zetten-om-voorsprong-te-verdedigen-tegen-tiental-van-telstar~af9be8ee/",
-          "publishedDate": "Sun, 06 Sep 2026 00:35:00 GMT",
-          "description": "Twee laagvliegers uit de Vriendenloterij eredivisie staan tegenover elkaar: Telstar en Cambuur. De punten van vandaag kunnen aan het eind van het seizoen heel belangrijk zijn in de strijd tegen degrad"
+          "title": "AZ wint na moeizame comeback: 'Knap dat we hier weten te winnen'",
+          "source": "Voetbal Centraal",
+          "url": "https://www.voetbalcentraal.nl/nieuws/1753750/AZ-wint-na-moeizame-comeback:--Knap-dat-we-hier-weten-te-winnen-",
+          "publishedDate": "Sun, 06 Sep 2026 01:12:00 GMT",
+          "description": "Dave Kwakman is trots op de manier waarop AZ zich zondag terugknokte tegen SC Heerenveen. De Alkmaarders kwamen in Friesland twee keer op achterstand, maar draaiden het duel uiteindelijk om en wonnen"
+        }
+      ]
+    },
+    {
+      "keyword": "sarah khalifa",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Egyptische televisie- en internetpersoonlijkheid ter dood veroordeeld wegens drugshandel",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/buitenland/egyptische-televisie-en-internetpersoonlijkheid-ter-dood-veroordeeld-wegens-drugshandel~bf4ddbb3/",
+          "publishedDate": "Sun, 06 Sep 2026 05:28:00 GMT",
+          "description": "Een mediapersoonlijkheid is door een Egyptische rechtbank ter dood veroordeeld voor haar rol in een drugsschandaal. Sarah Khalifa, een bekend televisiepresentator en zakenvrouw, werd met elf anderen v ..."
+        },
+        {
+          "title": "Egyptische tv-presentatrice met miljoenen volgers ter dood veroordeeld voor drugshandel",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/buitenland/egyptische-tv-presentatrice-met-miljoenen-volgers-ter-dood-veroordeeld-voor-drugshandel/161037576.html",
+          "publishedDate": "Sun, 06 Sep 2026 00:26:00 GMT",
+          "description": "De Egyptische justitie heeft een tv-presentatrice en elf andere personen ter dood veroordeeld wegens de productie en handel in verdovende middelen. Dat melden Egyptische media."
+        },
+        {
+          "title": "Populaire Egyptische tv-presentatrice (39) krijgt doodstraf om drugshandel, heeft miljoenen volgers",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/populaire-egyptische-tv-presentatrice-39-krijgt-doodstraf-om-drugshandel-heeft-miljoenen-volgers~a9127650/",
+          "publishedDate": "Sat, 05 Sep 2026 23:25:00 GMT",
+          "description": "De Egyptische tv-presentatrice Sarah Khalifa (39) is samen met elf anderen ter dood veroordeeld voor grootschalige drugshandel. De groep hield er twee drugslabs op na. Dat melden Egyptische media."
+        },
+        {
+          "title": "10 photos of Sarah Khalifa: 'Mission Impossible' presenter sentenced to death by Egyptian court",
+          "source": "International Business Times UK on MSN",
+          "url": "https://www.msn.com/en-gb/crime/general/10-photos-of-sarah-khalifa-mission-impossible-presenter-sentenced-to-death-by-egyptian-court/ar-AA2bGqFN",
+          "publishedDate": "Sun, 06 Sep 2026 15:20:45 GMT",
+          "description": "Egyptian television presenter Sarah Khalifa, the 39‑year‑old host of the crime programme Mission Impossible, has been sentenced to death by hanging by a Cairo criminal court after being convicted in a ..."
+        },
+        {
+          "title": "TV-presentatrice Sarah Khalifa ter dood veroordeeld in Egypte in zaak rond drugshandel",
+          "source": "Novelando on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/tv-presentatrice-sarah-khalifa-ter-dood-veroordeeld-in-egypte-in-zaak-rond-drugshandel/ar-AA2bFN1v",
+          "publishedDate": "Sun, 06 Sep 2026 08:21:10 GMT",
+          "description": "De Egyptische presentatrice, bekend van het programma “Mission Impossible”, werd samen met 11 andere verdachten veroordeeld; tegen de uitspraak van de rechtbank in Ca&#239;ro kan nog beroep worden aangetek ..."
+        },
+        {
+          "title": "TV presenter sentenced to death by hanging after being convicted of drugs charges",
+          "source": "AOL",
+          "url": "https://www.aol.com/articles/tv-presenter-sentenced-death-hanging-151200000.html",
+          "publishedDate": "Sun, 06 Sep 2026 08:14:00 GMT",
+          "description": "A popular Egyptian TV presenter and influencer was sentenced to death by hanging after being convicted of being involved in a drug trafficking ..."
+        },
+        {
+          "title": "TV-ster Sarah Khalifa krijgt doodstraf voor drugshandel",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/tv-ster-sarah-khalifa-krijgt-doodstraf-voor-drugshandel",
+          "publishedDate": "Sun, 06 Sep 2026 07:41:00 GMT",
+          "description": "Sarah Khalifa was geen onbekende in Egypte. De 39-jarige presentatrice verwierf bekendheid als gezicht van het programma „Mission difficile” op de commerci&#235;le zender Al-Mehwar. In het programma staan ..."
+        },
+        {
+          "title": "Egyptian TV host Sarah Khalifa among 12 sentenced to death in drugs case",
+          "source": "AOL",
+          "url": "https://www.aol.com/articles/egyptian-tv-host-sarah-khalifa-083638000.html",
+          "publishedDate": "Sun, 06 Sep 2026 07:05:00 GMT",
+          "description": "Egyptian television presenter Sarah Khalifa has been sentenced to death by hanging, along with 11 other defendants in a major drugs case, according to reports."
+        },
+        {
+          "title": "The downfall of Sarah Khalifa – from TV host to death row",
+          "source": "Egypt Independent",
+          "url": "https://www.egyptindependent.com/the-downfall-of-sarah-khalifa-from-tv-host-to-death-row/",
+          "publishedDate": "Sun, 06 Sep 2026 05:23:00 GMT",
+          "description": "Cairo Criminal Court, convened at the Fifth Settlement Court Complex, concluded the “Grand Drug Case” on Saturday September 5. The court sentenced Khalifa and 11 other defendants to death by hanging, ..."
+        },
+        {
+          "title": "Ogbonge TV presenter dey among di 12 pipo Egypt sentence to death for drugs case",
+          "source": "BBC",
+          "url": "https://www.bbc.com/pidgin/articles/c4gqr34r97ro",
+          "publishedDate": "Sun, 06 Sep 2026 03:19:00 GMT",
+          "description": "Court don sentence Egyptian television presenter Sarah Khalifa and 11 oda pipo to death by hanging afta court find dem guilty of drug charges. According to di state-owned al-Ahram newspaper, dem dey ..."
         }
       ]
     },
@@ -253,147 +291,216 @@
       ]
     },
     {
-      "keyword": "loek hartog",
+      "keyword": "fogo kaapverdie",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Nederlander Hartog stapt uit en redt mede-coureur uit brandende auto in race in China",
+          "title": "Kaapverdi&#235; rouwt na fatale busramp met tientallen doden, waaronder veel jongeren",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/buitenland/artikel/5648680/zeker-25-doden-bij-busongeluk-op-kaapverdie-veel-slachtoffers",
+          "publishedDate": "Sun, 06 Sep 2026 10:51:00 GMT",
+          "description": "Een drama op het Kaapverdische eiland Fogo gisteravond. Daar zijn bij een ernstig busongeluk zeker 25 mensen om het leven gekomen. Onder de slachtoffers zijn veel scholieren en tieners. De bus raakte ..."
+        },
+        {
+          "title": "Bus stort in ravijn in Kaapverdi&#235;: minstens 25 doden, onder wie veel scholieren",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2629907-nederlander-hartog-stapt-uit-en-redt-mede-coureur-uit-brandende-auto-in-race-in-china",
-          "publishedDate": "Sun, 06 Sep 2026 03:25:00 GMT",
-          "description": "Bij een zwaar ongeluk in China vliegt een auto in de brand. Terwijl de marshals niet meteen optreden, stapt Loek Hartog uit zijn auto om het leven van zijn rivaal te redden."
+          "url": "https://nos.nl/artikel/2629909-bus-stort-in-ravijn-in-kaapverdie-minstens-25-doden-onder-wie-veel-scholieren",
+          "publishedDate": "Sun, 06 Sep 2026 03:36:00 GMT",
+          "description": "De reddingswerkzaamheden worden bemoeilijkt doordat de bus in bergachtig gebied ligt. Het dodental loopt mogelijk nog op."
         },
         {
-          "title": "Nederlandse coureur redt collega uit brandende Ferrari: ‘Ik leef nog dankzij hem’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/formule-1/nederlandse-coureur-redt-collega-uit-brandende-ferrari-ik-leef-nog-dankzij-hem~a4829bd3/",
-          "publishedDate": "Sat, 05 Sep 2026 19:36:00 GMT",
-          "description": "De Nederlandse coureur Loek Hartog (23) heeft zaterdagavond het leven gered van zijn collega Ollie Millroy. Toen hij de Brit met een brandende Ferrari langs het circuit zag staan, bedacht hij zich gee ..."
+          "title": "Op de vlucht voor Pico de Fogo",
+          "source": "NOS",
+          "url": "https://nos.nl/op3/artikel/2006096-op-de-vlucht-voor-pico-de-fogo",
+          "publishedDate": "Thu, 27 Nov 2014 13:35:00 GMT",
+          "description": "Al een paar dagen zijn mensen op het eiland Fogo in Kaapverdi&#235; op de vlucht voor de lava van vulkaan Pico de Fogo. Begin deze week barstte die uit. Volgens de site earthquake-report(opent in nieuw ..."
         },
         {
-          "title": "Heldendaad coureur Loek gaat wereld over: 'Heb mijn leven aan je te danken'",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/het-beste-van-hart/persoonlijke-verhalen/artikelen/loek-hartog-redt-ollie-millroy-brandende-raceauto-china",
-          "publishedDate": "Sun, 06 Sep 2026 09:48:00 GMT",
-          "description": "De Nederlandse coureur Loek Hartog (23) redde Ollie Millroy uit zijn brandende raceauto na een zware crash in China. Millroy liep meerdere botbreuken en een geperforeerde long op en zegt zijn leven aa ..."
+          "title": "Bus in Kaapverdi&#235; rijdt in ravijn: minstens 25 doden",
+          "source": "VRT NWS on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/bus-in-kaapverdi%C3%AB-rijdt-in-ravijn-minstens-25-doden/ar-AA2bFfto",
+          "publishedDate": "Sun, 06 Sep 2026 06:26:57 GMT",
+          "description": "Op het Kaapverdische eiland Fogo zijn minstens 25 mensen om het leven gekomen door een ernstig busongeluk. Dat melden lokale media. Er zouden verschillende kinderen en jongeren aan boord hebben gezete ..."
         },
         {
-          "title": "Heldendaad coureur Loek gaat wereld over",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/het-beste-van-hart/persoonlijke-verhalen/videos/heldendaad-coureur-loek-gaat-wereld-over",
-          "publishedDate": "Sun, 06 Sep 2026 09:39:00 GMT",
-          "description": "Normaal gesproken trekt Max Verstappen tijdens een raceweekend de meeste aandacht van Nederlandse raceliefhebbers, maar nu zijn alle ogen gericht op Loek Hartog. En dan niet alleen in eigen land, maar ..."
+          "title": "Bus stort in ravijn in Kaapverdi&#235;: zeker achttien doden, waaronder veel kinderen",
+          "source": "nu",
+          "url": "https://nu.cw/2026/09/06/bus-stort-in-ravijn-in-kaapverdie-zeker-achttien-doden-waaronder-veel-kinderen/",
+          "publishedDate": "Sun, 06 Sep 2026 05:29:00 GMT",
+          "description": "Op het Kaapverdische eiland Fogo zijn zaterdag zeker achttien mensen om het leven gekomen nadat een bus in een ravijn is gestort. Onder de slachtoffers zijn veel kinderen. Meerdere anderen raakten gew ..."
         },
         {
-          "title": "Coureur redt collega uit brandende raceauto: 'Heb mijn leven aan &#233;&#233;n man te danken'",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/sport/5146582/coureur-redt-collega-uit-brandende-raceauto-heb-mijn-leven-aan-een-man-te-danken",
-          "publishedDate": "Sun, 06 Sep 2026 05:30:00 GMT",
-          "description": "De Nederlandse autocoureur Loek Hartog uit Hoogmade heeft zaterdag in een wedstrijd in het Chinese GT-kampioenschap in Shanghai een collega uit zijn brandende auto gered. De Brit Ollie Millroy zat na ..."
+          "title": "Bus stort in afgrond in Kaapverdi&#235;: minstens 25 doden",
+          "source": "Belga News Agency on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/bus-stort-in-afgrond-in-kaapverdi%C3%AB-minstens-25-doden/ar-AA2bEPuu",
+          "publishedDate": "Sun, 06 Sep 2026 02:00:37 GMT",
+          "description": "Op het Kaapverdische eiland Fogo zijn bij een ernstig busongeval 25 mensen om het leven gekomen. Dat blijkt uit berichten van lokale media. In de bus bevonden zich kinderen en jongeren die op uitstap ..."
         },
         {
-          "title": "'Ik leef nog en dat is aan &#233;&#233;n man te danken': Nederlandse coureur (23) groeit uit tot 'superheld'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/autosport/nieuws/ik-leef-nog-en-dat-is-aan-een-man-te-danken-nederlandse-coureur-23-groeit-uit-tot-superheld-2026090609490690135/",
-          "publishedDate": "Sun, 06 Sep 2026 04:49:00 GMT",
-          "description": "De Nederlandse autocoureur Loek Hartog is voor een collega uitgegroeid tot held. De Britse coureur Ollie Millroy overleefde een crash tijdens een race in China en dankt zijn overleven volledig aan de ..."
+          "title": "Waarom ligt hier een krater in het midden?",
+          "source": "MSN",
+          "url": "https://www.msn.com/nl-nl/openbare-veiligheid-en-noodsituaties/natuurrampen/waarom-ligt-hier-een-krater-in-het-midden/vi-AA28Xu72",
+          "publishedDate": "Tue, 28 Jul 2026 17:00:00 GMT",
+          "description": "Deze video laat Ch&#227; das Caldeiras op Fogo, Kaapverdi&#235; zien, een vulkanisch landschap in de grote caldera van Pico do Fogo, de hoogste berg van het land. Vanuit de lucht zie je een oude vulkaankrater ..."
         },
         {
-          "title": "Nederlandse coureur Loek Hartog stopt midden in race en redt collega uit brandende Ferrari",
-          "source": "VK Magazine",
-          "url": "https://www.vkmag.com/magazine/nederlandse-coureur-loek-hartog-stopt-midden-in-race-en-redt-collega-uit-brandende-ferrari",
-          "publishedDate": "Sun, 06 Sep 2026 02:45:00 GMT",
-          "description": "In plaats van zijn weg te vervolgen, zette Hartog zijn Porsche aan de kant, sprong eruit en rende richting de brandende Ferrari. Hij probeerde bij Millroy te komen, kreeg vervolgens een brandblusser ..."
-        },
-        {
-          "title": "GT-coureur dankt concurrent na vuurzee: 'Hij heeft mijn leven gered'",
-          "source": "Formule1nieuws.nl",
-          "url": "https://formule1nieuws.nl/nieuws/gt-coureur-dankt-concurrent-na-vuurzee-hij-heeft-mijn-leven-gered/",
-          "publishedDate": "Sun, 06 Sep 2026 01:52:00 GMT",
-          "description": "Racecoureur Ollie Millroy dankt zijn concurrent Loek Hartog voor het redden van zijn leven na een heftige crash in Shanghai. Hartog stopte zijn auto midden in de race om Millroy uit de brandende Ferra ..."
-        },
-        {
-          "title": "Sportscars: Loek Hartog verricht heldendaad in Shanghai",
-          "source": "Autosport.nl",
-          "url": "https://autosport.nl/klasse/nieuws/42171/sportscars-loek-hartog-verricht-heldendaad-in-shanghai",
-          "publishedDate": "Sun, 06 Sep 2026 00:44:00 GMT",
-          "description": "Het begrip held wordt nog wel eens wat inflationair gebruikt, maar als het dit weekend op iemand van toepassing is, dan is dat wel Loek Hartog! De ..."
+          "title": "Tienduizenden euro's voor vulkaanslachtoffers Fogo",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/124081/tienduizenden-euros-voor-vulkaanslachtoffers-fogo",
+          "publishedDate": "Sun, 28 Dec 2014 13:37:00 GMT",
+          "description": "ROTTERDAM - Nederlandse Kaapverdianen hebben voor duizenden euro's aan steun ingezameld voor de slachtoffers van de vulkaanuitbarsting op het Kaapverdische vulkaaneiland Fogo. Dat heeft het comit&#233; ..."
         }
       ]
     },
     {
-      "keyword": "sarah khalifa",
+      "keyword": "paard",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Egyptische televisie- en internetpersoonlijkheid ter dood veroordeeld wegens drugshandel",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/egyptische-televisie-en-internetpersoonlijkheid-ter-dood-veroordeeld-wegens-drugshandel~bf4ddbb3/",
-          "publishedDate": "Sun, 06 Sep 2026 05:28:00 GMT",
-          "description": "Een mediapersoonlijkheid is door een Egyptische rechtbank ter dood veroordeeld voor haar rol in een drugsschandaal. Sarah Khalifa, een bekend televisiepresentator en zakenvrouw, werd met elf anderen v ..."
+          "title": "Paard te water in Voorschoten",
+          "source": "centraalplus",
+          "url": "https://centraalplus.nl/2026/09/06/paard-te-water-in-voorschoten/",
+          "publishedDate": "Sun, 06 Sep 2026 14:33:00 GMT",
+          "description": "De brandweer heeft haar handen volgehad aan een paard dat zondag te water was geraakt aan de Multatulilaan in Voorschoten. Het dier stond in een weiland tegenover de Multatulilaan, rond 7.30 uur werd ..."
         },
         {
-          "title": "From TV fame to death row: Egyptian TV star gets death penalty in high-profile drug case; who is Sarah Khalifa?",
-          "source": "News24",
-          "url": "https://news24online.com/world/from-tv-fame-to-death-row-egyptian-tv-star-gets-death-penalty-in-high-profile-drug-case-who-is-sarah-khalifa/916893/",
-          "publishedDate": "Sun, 06 Sep 2026 10:40:00 GMT",
-          "description": "She denies the charges and plans to appeal, while prosecutors allege she was part of an organised network involved in manufacturing and distributing synthetic drugs."
+          "title": "Brandweer redt paard uit sloot",
+          "source": "Omroep West",
+          "url": "https://www.omroepwest.nl/112/5146597/brandweer-redt-paard-uit-sloot",
+          "publishedDate": "Sun, 06 Sep 2026 07:31:00 GMT",
+          "description": "De brandweer is zondagochtend in actie gekomen om een paard uit een sloot te halen in Voorschoten. Het dier stond in een weiland tegenover de Multatulilaan en belandde daar in het water."
         },
         {
-          "title": "Egyptian TV presenter sentenced to death on drug charges",
-          "source": "CNN on MSN",
-          "url": "https://www.msn.com/en-us/news/other/egyptian-tv-presenter-sentenced-to-death-on-drug-charges/ar-AA2bGke6",
-          "publishedDate": "Sun, 06 Sep 2026 08:56:38 GMT",
-          "description": "Egyptian TV presenter Sarah Khalifa was among 12 people sentenced to death for their alleged role in a drug trafficking network on Saturday, according to a state-owned Egyptian outlet."
+          "title": "Brandweer redt paard uit sloot in Voorschoten",
+          "source": "Sleutelstad",
+          "url": "https://sleutelstad.nl/2026/09/06/brandweer-redt-paard-uit-sloot-in-voorschoten/",
+          "publishedDate": "Sun, 06 Sep 2026 00:30:00 GMT",
+          "description": "De brandweer van Voorschoten is zondagochtend ruim twee uur bezig geweest om een paard uit een sloot te redden. Het dier stond in een weiland tegenover de Multatulilaan en werd rond 07.30 uur in het w ..."
         },
         {
-          "title": "TV-presentatrice Sarah Khalifa ter dood veroordeeld in Egypte in zaak rond drugshandel",
-          "source": "Novelando on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/tv-presentatrice-sarah-khalifa-ter-dood-veroordeeld-in-egypte-in-zaak-rond-drugshandel/ar-AA2bFN1v",
-          "publishedDate": "Sun, 06 Sep 2026 08:21:10 GMT",
-          "description": "De Egyptische presentatrice, bekend van het programma “Mission Impossible”, werd samen met 11 andere verdachten veroordeeld; tegen de uitspraak van de rechtbank in Ca&#239;ro kan nog beroep worden aangetek ..."
+          "title": "Paard komt ten val in trailer op carpoolplaats Bathmen",
+          "source": "Salland1",
+          "url": "https://www.salland1.nl/paard-komt-ten-val-in-trailer-op-carpoolplaats-bathmen/",
+          "publishedDate": "Sat, 05 Sep 2026 09:00:00 GMT",
+          "description": "Leestijd: &lt; 1 minuutOp de carpoolplaats langs de A1 bij Bathmen is zaterdagochtend een paard in een trailer ten val gekomen. Het dier kwam hierdoor in een achterwaartse houding te liggen. Hoe dit kon ..."
         },
         {
-          "title": "TV-ster Sarah Khalifa krijgt doodstraf voor drugshandel",
-          "source": "Ditjes en Datjes",
-          "url": "https://www.ditjesendatjes.nl/tv-ster-sarah-khalifa-krijgt-doodstraf-voor-drugshandel",
-          "publishedDate": "Sun, 06 Sep 2026 07:41:00 GMT",
-          "description": "Sarah Khalifa was geen onbekende in Egypte. De 39-jarige presentatrice verwierf bekendheid als gezicht van het programma „Mission difficile” op de commerci&#235;le zender Al-Mehwar. In het programma staan ..."
+          "title": "Hoe bewijs ik het eigendom van mijn paard? Een verrassend ingewikkelde vraag",
+          "source": "Horses",
+          "url": "https://www.horses.nl/juridisch/hoe-bewijs-ik-het-eigendom-van-mijn-paard-een-verrassend-ingewikkelde-vraag/",
+          "publishedDate": "Fri, 04 Sep 2026 00:53:00 GMT",
+          "description": "Wanneer iemand vraagt: ‘Van wie is dit paard?’, lijkt het antwoord eenvoudig. Het paard staat op een bepaalde stal, wordt dagelijks verzorgd en iemand ..."
         },
         {
-          "title": "Egyptian TV host Sarah Khalifa among 12 sentenced to death over drugs",
-          "source": "The Independent on MSN",
-          "url": "https://www.msn.com/en-gb/crime/general/egyptian-tv-host-sarah-khalifa-among-12-sentenced-to-death-over-drugs/ar-AA2bEWWZ",
-          "publishedDate": "Sun, 06 Sep 2026 07:05:31 GMT",
-          "description": "Egyptian TV host Sarah Khalifa among 12 sentenced to death in drugs case - Khalifa is best known for hosting ‘Mission Impossible’, a programme focused on crime and security ..."
+          "title": "Paard in regio Brecht besmet met westnijlvirus: “De beste bescherming is het voorkomen van muggenbeten”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/brecht/paard-in-regio-brecht-besmet-met-westnijlvirus-de-beste-bescherming-is-het-voorkomen-van-muggenbeten~a1e8a0ef/",
+          "publishedDate": "Thu, 03 Sep 2026 22:00:00 GMT",
+          "description": "Bij een paard in de regio rond het Antwerpse Brecht is het &lt;a href=&quot;https://www.hln.be/binnenland/hoe-gevaarlijk-is-het-westnijlvirus-en-zit-het-nu-overal-in-vlaanderen-steven-van-gucht-legt-uit~a6637 ..."
         },
         {
-          "title": "The downfall of Sarah Khalifa – from TV host to death row",
-          "source": "Egypt Independent",
-          "url": "https://www.egyptindependent.com/the-downfall-of-sarah-khalifa-from-tv-host-to-death-row/",
-          "publishedDate": "Sun, 06 Sep 2026 05:23:00 GMT",
-          "description": "Cairo Criminal Court, convened at the Fifth Settlement Court Complex, concluded the “Grand Drug Case” on Saturday September 5. The court sentenced Khalifa and 11 other defendants to death by hanging, ..."
+          "title": "KIJK. Toeriste wil uitgemergeld paard op Mallorca helpen, maar woedende koetsier keert zich tegen haar: “Duitse neonazi”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/kijk-toeriste-wil-uitgemergeld-paard-op-mallorca-helpen-maar-woedende-koetsier-keert-zich-tegen-haar-duitse-neonazi~add028fa/",
+          "publishedDate": "Wed, 02 Sep 2026 06:04:00 GMT",
+          "description": "Het begon met een eenvoudige vraag: of hij zijn paard wat water wilde geven. Even later kreeg de Duitse toeriste Xenia Denise (31) zelf de inhoud van een fles over zich heen. De beelden van de hoogopl ..."
         },
         {
-          "title": "Populaire tv-ster ter dood veroordeeld voor drugshandel in Egypte",
-          "source": "TCE on MSN",
-          "url": "https://www.msn.com/nl-nl/criminaliteit/algemeen/populaire-tv-ster-ter-dood-veroordeeld-voor-drugshandel-in-egypte/ar-AA2bESp6",
-          "publishedDate": "Sun, 06 Sep 2026 03:20:22 GMT",
-          "description": "De Egyptische justitie heeft zaterdag de populaire tv-presentatrice Sarah Khalifa en elf andere personen ter dood veroordeeld wegens het leiden van een criminele organisatie die synthetische drugs pro ..."
+          "title": "Verzonken paard met ruiter",
+          "source": "De Groene Amsterdammer",
+          "url": "https://www.groene.nl/artikel/verzonken-paard-met-ruiter",
+          "publishedDate": "Tue, 01 Sep 2026 17:00:00 GMT",
+          "description": "Valkhof is eindelijk weer open. Alles is uit de kast getrokken om er een fris en publieksvriendelijk stadsmuseum van te maken. Maakt het Nijmeegse museum zijn ambities waar?"
         },
         {
-          "title": "Ogbonge TV presenter dey among di 12 pipo Egypt sentence to death for drugs case",
-          "source": "BBC",
-          "url": "https://www.bbc.com/pidgin/articles/c4gqr34r97ro",
-          "publishedDate": "Sun, 06 Sep 2026 03:19:00 GMT",
-          "description": "Court don sentence Egyptian television presenter Sarah Khalifa and 11 oda pipo to death by hanging afta court find dem guilty of drug charges. According to di state-owned al-Ahram newspaper, dem dey ..."
+          "title": "Westnijlvirus vastgesteld bij vogels en paard: wat betekent dit voor de landbouw?",
+          "source": "VILT vzw",
+          "url": "https://vilt.be/nl/nieuws/westnijlvirus-vastgesteld-bij-vogels-en-paard-wat-betekent-dit-voor-de-landbouw",
+          "publishedDate": "Sun, 23 Aug 2026 17:00:00 GMT",
+          "description": "Een paard en enkele wilde vogels zijn besmet geraakt met het westnijlvirus. De virusziekte komt voor bij vogels en kan via muggen worden overgedragen op mensen en zoogdie ..."
         },
         {
-          "title": "Who Is Sarah Khalifa? Egyptian TV Presenter Sentenced To Death In Major Drug Case",
-          "source": "NDTV on MSN",
-          "url": "https://www.msn.com/en-in/news/other/who-is-sarah-khalifa-egyptian-tv-presenter-sentenced-to-death-in-major-drug-case/ar-AA2bEIav",
-          "publishedDate": "Sun, 06 Sep 2026 02:22:48 GMT",
-          "description": "She is best known for hosting Mission Impossible, a television programme focused on crime and security."
+          "title": "Menner overleden bij ongeval met paard en koets in Hellendoorn",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/1160050-menner-overleden-bij-ongeval-met-paard-en-koets-in-hellendoorn",
+          "publishedDate": "Fri, 21 Aug 2026 03:20:00 GMT",
+          "description": "Bij een ongeval met een paard en een koets aan de Ekkelweg in Hellendoorn is een man om het leven gekomen. Het gaat om de menner, meldt de politie. Een passagier, die ook op de koets zat, kon zich op ..."
+        }
+      ]
+    },
+    {
+      "keyword": "feest",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Schietpartij tijdens feest in partycentrum op de Rh&#244;neweg, een man gewond",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/schietpartij-tijdens-feest-in-partycentrum-op-de-rhoneweg-een-man-gewond~b47be5ef/",
+          "publishedDate": "Sun, 06 Sep 2026 01:22:00 GMT",
+          "description": "Bij een schietpartij tijdens een feest bij Rh&#244;ne Events op de Rh&#244;neweg in Nieuw-West is in de nacht van zaterdag op zondag een man gewond geraakt. Er is nog niemand aangehouden."
+        },
+        {
+          "title": "Schietincident tijdens feest in Amsterdam, man gewond geraakt",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2629880-schietincident-tijdens-feest-in-amsterdam-man-gewond-geraakt",
+          "publishedDate": "Sun, 06 Sep 2026 00:44:00 GMT",
+          "description": "De politie kreeg rond 04.00 uur een melding dat er was geschoten. Agenten troffen een man aan met een schotwond."
+        },
+        {
+          "title": "Feest in Monster verstierd door vreemde geur: ruim vijftig mensen opgevangen na klachten aan luchtwegen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-westland/feest-in-monster-verstierd-door-vreemde-geur-ruim-vijftig-mensen-opgevangen-na-klachten-aan-luchtwegen~ae89b25d/",
+          "publishedDate": "Sat, 05 Sep 2026 22:41:00 GMT",
+          "description": "Ruim 50 mensen hebben zaterdagavond bij een feest in een tuin aan de Madeweg in Monster last gekregen van hun luchtwegen door een hinderlijke geur. De aanwezigen werden opgevangen in zwembad De Boetze ..."
+        },
+        {
+          "title": "Schietpartij tijdens feest op de Rh&#244;neweg, een man gewond",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-amsterdam/schietpartij-tijdens-feest-op-de-rhoneweg-een-man-gewond~ae51e4f9/",
+          "publishedDate": "Sat, 05 Sep 2026 21:00:00 GMT",
+          "description": "Bij een schietpartij tijdens een feest op de Rh&#244;neweg in Nieuw-West is in de nacht van zaterdag op zondag een man gewond geraakt. Er is nog niemand aangehouden."
+        },
+        {
+          "title": "Man gewond bij schietpartij op feest in Sloterdijk",
+          "source": "AT5",
+          "url": "https://www.at5.nl/artikelen/239788/man-gewond-bij-schietpartij-op-feest-in-sloterdijk",
+          "publishedDate": "Sun, 06 Sep 2026 02:10:00 GMT",
+          "description": "Bij een schietpartij op een feest aan de Rh&#244;neweg in Sloterdijk is vannacht een man gewond geraakt. Er is nog niemand aangehouden. De melding over de schietpartij kwam rond 4.00 uur binnen. Hierop ..."
+        },
+        {
+          "title": "Man gewond bij schietpartij tijdens feest in Amsterdam",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/videos/man-gewond-bij-schietpartij-tijdens-feest-in-amsterdam",
+          "publishedDate": "Sat, 05 Sep 2026 23:27:00 GMT",
+          "description": "Een man is zondagochtend gewond geraakt bij een schietpartij tijdens een feest aan de Rh&#244;neweg in Amsterdam. Het slachtoffer is met spoed naar het ziekenhuis gebracht. De politie doet onderzoek en hee ..."
+        },
+        {
+          "title": "Jubileumeditie Zomercarnaval: een feest waar de eerste en de huidige miss Zomercarnaval elkaar ontmoeten",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/moerdijk/jubileumeditie-zomercarnaval-een-feest-waar-de-eerste-en-de-huidige-miss-zomercarnaval-elkaar-ontmoeten~a71b29ca/",
+          "publishedDate": "Fri, 04 Sep 2026 07:32:00 GMT",
+          "description": "Miss-verkiezingen houdt de organisatie van het jaarlijkse Zomercarnaval in Zevenbergschen Hoek niet meer. Maar een Miss Zomercarnaval is er nog steeds, de organisatie gaat zelf op zoek naar een geschi ..."
+        },
+        {
+          "title": "Negen dagen feest in dorp: 'Je kan beter gewoon gaan'",
+          "source": "Omroep West",
+          "url": "https://www.omroepwest.nl/cultuur/5140077/negen-dagen-feest-in-dorp-je-kan-beter-gewoon-gaan",
+          "publishedDate": "Sun, 23 Aug 2026 01:30:00 GMT",
+          "description": "Het is negen dagen lang &#233;&#233;n groot feest in Schipluiden. Zomerfeest Schipluiden, de jaarlijkse feestweek, viert dit jaar zijn 55ste editie en hoewel het weekend nog moet beginnen, is er in het dorp de ..."
+        },
+        {
+          "title": "Koningspaar viert feest op WK met Oranje &#233;n Cura&#231;ao: 'Heel bijzonder moment'",
+          "source": "NU",
+          "url": "https://www.nu.nl/wk-voetbal/6400173/koningspaar-viert-feest-op-wk-met-oranje-en-curacao-heel-bijzonder-moment.html",
+          "publishedDate": "Sat, 20 Jun 2026 15:15:00 GMT",
+          "description": "Ook daar viel feest te vieren, want de ploeg van bondscoach Dick Advocaat stuntte met een 0-0-gelijkspel. Dus enkele uren na het feest in de kleedkamer van Oranje, was het feest in de kleedkamer van ..."
+        },
+        {
+          "title": "De verjaardag van de universiteit door de eeuwen heen: feest met een randje",
+          "source": "Universiteit Utrecht",
+          "url": "https://www.uu.nl/achtergrond/de-verjaardag-van-de-universiteit-door-de-eeuwen-heen-feest-met-een-randje",
+          "publishedDate": "Wed, 18 Mar 2026 05:00:00 GMT",
+          "description": "Op 26 maart viert de Universiteit Utrecht haar verjaardag, de 390 ste dies natalis. Door de eeuwen heen pakten donkere wolken zich regelmatig samen boven de universiteit. Toch was er altijd ook wel ..."
         }
       ]
     },
@@ -402,11 +509,11 @@
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Vrachtvliegtuig schiet door, raakte daarbij meerdere voertuigen en vliegt en vliegt in brand",
+          "title": "Daghoroscoop 7 september: Resultaten kunnen tegenvallen, Vissen!",
           "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/video/vrachtvliegtuig-schiet-door-raakte-daarbij-meerdere-voertuigen-en-vliegt-en-vliegt-in-brand/161065882.html",
-          "publishedDate": "Sun, 06 Sep 2026 13:19:00 GMT",
-          "description": "Op beelden die na het incident rondgingen, is het grote vrachtvliegtuig buiten de landingsbaan te zien. Het vrachtvliegtuig is zondag aan het einde van een landingsbaan op Miami International Airport ..."
+          "url": "https://www.telegraaf.nl/vrouw/psyche/daghoroscoop-7-september-resultaten-kunnen-tegenvallen-vissen/160743681.html",
+          "publishedDate": "Sun, 06 Sep 2026 15:31:00 GMT",
+          "description": "Wil jij weten wat er vandaag voor jou in de sterren geschreven staat? Lees hier de daghoroscoop voor jouw sterrenbeeld."
         },
         {
           "title": "Wat betekent BDE? ’Die dikke Van Dale is al dik genoeg’",
@@ -470,6 +577,82 @@
           "url": "https://www.telegraaf.nl/sport/autosport/max-verstappen-wijst-verschil-met-mclaren-aan-kimi-antonelli-dacht-even-dat-zijn-kans-verkeken-was/161052748.html",
           "publishedDate": "Sun, 06 Sep 2026 08:17:00 GMT",
           "description": "De Grand Prix van Itali&#235; werd gedomineerd door Mercedes. Kimi Antonelli en George Russell werden &#233;&#233;n en twee in Monza, waar Max Verstappen knap meeging op het podium."
+        }
+      ]
+    },
+    {
+      "keyword": "veluwe",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Hoe gaat het op de Veluwe sinds de komst van de wolven? ‘Ze horen hier thuis’",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/cultuur-media/hoe-gaat-het-op-de-veluwe-sinds-de-komst-van-de-wolven-ze-horen-hier-thuis~b3b5b803/",
+          "publishedDate": "Mon, 24 Aug 2026 06:02:00 GMT",
+          "description": "Alle problemen die de Nederlandse natuur raken komen samen in de Veluwe, ziet Caspar Janssen. Wat voor gevolgen heeft de aanwezigheid van wolven voor de andere dieren? En hoe gaat het met het ecoherst ..."
+        },
+        {
+          "title": "Bezoekers knippen heide in Het Nationale Park De Hoge Veluwe bij Ede",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/ede/bezoekers-knippen-heide-in-het-nationale-park-de-hoge-veluwe-bij-ede~a75a523a/",
+          "publishedDate": "Tue, 18 Aug 2026 18:55:00 GMT",
+          "description": "Het Nationale Park De Hoge Veluwe laat bezoekers dit weekend bloeiende heide knippen op het Deelense Veld. Zaterdag 22 en zondag 23 augustus kan dat van 10.00 tot 16.00 uur op een terrein van ongeveer ..."
+        },
+        {
+          "title": "Actief bewegen en ontmoeten tijdens de Handbike Toertocht Noord-Veluwe",
+          "source": "De Puttenaer",
+          "url": "https://www.deputtenaer.nl/sport/overig/1306257/actief-bewegen-en-ontmoeten-tijdens-de-handbike-toertocht-noo",
+          "publishedDate": "Sun, 06 Sep 2026 07:00:00 GMT",
+          "description": "[REGIO] De buurtsportcoaches van Noord-Veluwe organiseren op zaterdag 19 september de Handbike Toertocht door het prachtige landschap van de Noord-Veluwe."
+        },
+        {
+          "title": "Laagvliegende militaire toestellen boven de Veluwe tijdens oefeningen van Luchtmobiele Brigade",
+          "source": "De Puttenaer",
+          "url": "https://www.deputtenaer.nl/lokaal/overig/1305977/laagvliegende-militaire-toestellen-boven-de-veluwe-tijdens-oe",
+          "publishedDate": "Sun, 06 Sep 2026 04:59:00 GMT",
+          "description": "[VELUWE] Laagvliegende militaire vliegtuigen gaan in de periode van 7 tot 18 september regelmatig worden gezien en gehoord boven de Veluwe. Dit gebeurt tijdens de internationale militaire oefening F.."
+        },
+        {
+          "title": "De mooiste wandelroutes voor de nazomer",
+          "source": "Weeronline",
+          "url": "https://www.weeronline.nl/nieuws/mooiste-wandelroutes-nazomer",
+          "publishedDate": "Sun, 06 Sep 2026 00:13:00 GMT",
+          "description": "Wandelen in de nazomer? Ontdek 5 mooie wandelroutes op de Veluwe, bij het Naardermeer, in Twente en op de Utrechtse Heuvelrug en check het wandelweer. | Weeronline ..."
+        },
+        {
+          "title": "Landgoederen in de luwte van de Veluwe",
+          "source": "Nature Today",
+          "url": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35760",
+          "publishedDate": "Sat, 05 Sep 2026 00:00:00 GMT",
+          "description": "Ten westen van Epe liggen twee landgoederen nog net op de bovenste flanken van de Veluwe. Het is er wat rustiger dan in de meer recreatieve natuurgebieden in de buurt. Reint-Jan van de Bunte begon hie ..."
+        },
+        {
+          "title": "Onderzoekers lokken wolf met levende schapen op de Veluwe: ‘Wij wisten hier niets van’",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/veluwe/onderzoekers-lokken-wolf-met-levende-schapen-op-de-veluwe-wij-wisten-hier-niets-van~a01528b70/",
+          "publishedDate": "Fri, 04 Sep 2026 22:00:00 GMT",
+          "description": "Er blijkt al maanden een lokkooi met schapen op de Hoge Veluwe te staan. Daarmee probeert Wageningen Universiteit wolven te vangen om ze vervolgens te zenderen."
+        },
+        {
+          "title": "PvdA/PRO bij Waterschap Vallei en Veluwe",
+          "source": "ede.nieuws",
+          "url": "https://ede.nieuws.nl/nieuws/pvda-fractie-waterschap-vallei-en-veluwe-wordt-pro",
+          "publishedDate": "Wed, 02 Sep 2026 03:56:00 GMT",
+          "description": "De waterschapsfractie van de PvdA bij Waterschap Vallei en Veluwe gaat verder als PRO. De PvdA deed in 2023 nog zelfstandig mee aan de waterschapsverkiezingen en zit met twee zetels in het Algemeen Be ..."
+        },
+        {
+          "title": "Wie zou er in vredesnaam een stukje Hoge Veluwe willen kopen? Nou, best veel mensen",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/rheden/wie-zou-er-in-vredesnaam-een-stukje-hoge-veluwe-willen-kopen-nou-best-veel-mensen~aef79b09/",
+          "publishedDate": "Tue, 01 Sep 2026 17:04:00 GMT",
+          "description": "De Hoge Veluwe verkoopt een aantal kleine stukjes natuur buiten de hekken van het park. Die kan iedereen kopen. Maar waarom zou je dat willen? Daar blijken best veel redenen voor te verzinnen."
+        },
+        {
+          "title": "Grote natuurbrand op de Hoge Veluwe bij Arnhem onder controle",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/brand/artikelen/natuurbrand-hoge-veluwe-arnhem",
+          "publishedDate": "Sat, 15 Aug 2026 01:19:00 GMT",
+          "description": "Op de Hoge Veluwe bij Arnhem is een grote natuurbrand onder controle. Vanwege de droogte schaalde de brandweer snel op. De oorzaak is nog onbekend."
         }
       ]
     }
