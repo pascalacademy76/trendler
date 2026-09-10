@@ -1,20 +1,121 @@
 {
-  "fetchedAt": "2026-09-09T23:44:10.031Z",
+  "fetchedAt": "2026-09-10T02:30:58.080Z",
   "trends": [
     {
       "keyword": "barcelona - feyenoord",
-      "trafficLabel": "50K+",
-      "articles": []
+      "trafficLabel": "100K+",
+      "articles": [
+        {
+          "title": "Feyenoord speelde soms aardig mee met FC Barcelona, maar is machteloos tegen de klasse van Raphinha en Lamine Yamal",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/09/09/feyenoord-speelde-soms-aardig-mee-met-fc-barcelona-maar-is-machteloos-tegen-de-klasse-van-raphinha-en-lamine-yamal-a4936261",
+          "publishedDate": "Wed, 09 Sep 2026 14:47:00 GMT",
+          "description": "Champions League: In Camp Nou zocht Feyenoord regelmatig de aanval, maar FC Barcelona profiteerde genadeloos zodra er even ruimte lag. Via schitterende goals en hoogstandjes liep het duel uit naar een"
+        },
+        {
+          "title": "Feyenoord voetbalt aardig mee, maar de cijfers spreken voor zich in Barcelona",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/feyenoord-speelt-aardig-mee-maar-de-cijfers-spreken-voor-zich-in-barcelona",
+          "publishedDate": "Wed, 09 Sep 2026 13:37:00 GMT",
+          "description": "Feyenoord verloor woensdagavond met 5-1 van FC Barcelona, maar maakte bij vlagen een goede indruk. De Rotterdammers kregen bovendien twee doelpunten van Nacho Ferri afgekeurd."
+        }
+      ]
     },
     {
       "keyword": "advertentie",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Limburgse bestuurders laten met paginagrote advertentie weten klaar te zijn met intimidatie",
+          "source": "Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/limburgse-bestuurders-laten-met-paginagrote-advertentie-weten-klaar-te-zijn-met-intimidatie~ba1ea487/",
+          "publishedDate": "Sat, 29 Nov 2025 03:28:00 GMT",
+          "description": "Met een paginagrote advertentie in De Limburger hebben Limburgse bestuurders zaterdag een gezamenlijk signaal afgegeven tegen de toenemende dreigementen en intimidatie waarmee zij worden ..."
+        },
+        {
+          "title": "Hoe een advertentie van Harry de Winter bijna drie maanden na zijn dood in de krant belandde",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2023/05/26/hoe-een-advertentie-van-harry-de-winter-bijna-drie-maanden-na-zijn-dood-in-de-krant-belandde-a4165745",
+          "publishedDate": "Fri, 26 May 2023 09:18:00 GMT",
+          "description": "Postume advertentie In een krantenadvertentie leverde de in maart overleden programmamaker Harry de Winter deze vrijdag kritiek op de staat Isra&#235;l. Hoe belandde zijn advertentie in de krant? ‘75 jaar ..."
+        },
+        {
+          "title": "Carnaval of anaal? Advertentie van Bruna zorgt voor een hoop ophef: ‘Ik moest heel goed kijken’",
+          "source": "ED",
+          "url": "https://www.ed.nl/tilburg/carnaval-of-anaal-advertentie-van-bruna-zorgt-voor-een-hoop-ophef-ik-moest-heel-goed-kijken~a9e97880/",
+          "publishedDate": "Wed, 04 Feb 2026 21:01:00 GMT",
+          "description": "Het was simpelweg de bedoeling om een verbouwing van de winkel aan te kondigen, met bovenaan de poster het woord ‘carnaval’. Maar de onschuldige poster van de Bruna in het Brabantse Rijen pakte ..."
+        },
+        {
+          "title": "Nieuwe Gap x Katseye advertentie ontketent online denimdebat na controversi&#235;le video van American Eagle",
+          "source": "HLN",
+          "url": "https://www.hln.be/mode-en-beauty/nieuwe-gap-x-katseye-advertentie-ontketent-online-denimdebat-na-controversiele-video-van-american-eagle~aad535ed/",
+          "publishedDate": "Mon, 25 Aug 2025 19:51:00 GMT",
+          "description": "Gap’s nieuwste advertentie, met de internationale meidengroep Katseye, is een hit op sociale media. De reclamevideo, waarin de groep danst op ‘Milkshake’ van Kelis, krijgt massaal veel aandacht en ..."
+        },
+        {
+          "title": "Kerkbesturen roepen regering in advertentie op tot actie in Gaza",
+          "source": "RD",
+          "url": "https://www.rd.nl/artikel/1117247-kerkbesturen-roepen-regering-in-advertentie-op-tot-actie-in-gaza",
+          "publishedDate": "Fri, 15 Aug 2025 00:09:00 GMT",
+          "description": "Kerkbesturen van tientallen protestantse kerken roepen de Nederlandse regering vrijdag met een advertentie in Trouw op om te stoppen met wapenleveranties aan Isra&#235;l en de Palestijnse staat te erkennen ..."
+        },
+        {
+          "title": "Advertentie in AD om uitspraken advocaat Spong over verkrachting",
+          "source": "zeelandnet",
+          "url": "https://www.zeelandnet.nl/nieuws/advertentie-in-ad-om-uitspraken-advocaat-spong-over-verkrachting",
+          "publishedDate": "Thu, 03 Apr 2025 04:57:00 GMT",
+          "description": "Vrouwen geven snel hun verzet op, stelt Spong. Volgens de advocaat zouden &quot;goed weerbare&quot; vrouwen het aantal verkrachtingen &quot;drastisch&quot; kunnen doen afnemen. De sc&#232;ne is door de VPRO los op Instagram ..."
+        },
+        {
+          "title": "Paginagrote advertentie Joop van den Ende: bescherm de media",
+          "source": "zeelandnet",
+          "url": "https://www.zeelandnet.nl/nieuws/paginagrote-advertentie-joop-van-den-ende-bescherm-de-media",
+          "publishedDate": "Sun, 16 Feb 2025 19:01:00 GMT",
+          "description": "DEN HAAG (ANP) - In een paginagrote advertentie in meerdere Nederlandse dagbladen roept Joop van den Ende de Nederlandse politiek op om onze media &quot;te beschermen tegen de manipulatie van Amerikaanse ..."
+        },
+        {
+          "title": "Zo grijp je aandacht met jouw advertentie",
+          "source": "adformatie.nl",
+          "url": "https://www.adformatie.nl/marketing/data-en-insights/zo-grijp-je-aandacht-met-jouw-advertentie",
+          "publishedDate": "Wed, 25 May 2022 07:00:00 GMT",
+          "description": "In het drukke medialandschap van vandaag worden consumenten voortdurend geconfronteerd met reclameverspreiding. Het resultaat? Een sterk concurrerende markt waarin de consument een enorme hoeveelheid ..."
+        },
+        {
+          "title": "AD-hoofdredacteur over paginagrote advertentie van medewerksters Talpa: 'De les is niet 'vrouwen praat''",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/nieuws/binnenland/09ec6daf-459c-497a-98d3-93c415be8e02/ad-hoofdredacteur-over-paginagrote-advertentie-van-medewerksters-talpa-de-les-is-niet-vrouwen-praat",
+          "publishedDate": "Fri, 21 Jan 2022 03:45:00 GMT",
+          "description": "&quot;Beste John, het ligt niet aan de vrouwen.&quot; Zo reageren Talpa-medewerksters met een paginagrote advertentie in het AD op uitspraken van John de Mol. Hoofdredacteur Rennie Rijpma van het AD vertelde er ..."
+        },
+        {
+          "title": "Reformatorisch Dagblad weigert homo-advertentie",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/nieuws/binnenland/b5238a83-717d-4712-807e-b70431a24d7c/reformatorisch-dagblad-weigert-homo-advertentie",
+          "publishedDate": "Tue, 08 May 2018 02:50:00 GMT",
+          "description": "Het Reformatorisch Dagblad en Jasper Klapwijk zijn met een gezamenlijke verklaring gekomen over de homo-advertentie die Klapwijk in de krant wilde plaatsen. De advertentie van twee mannen in een ..."
+        }
+      ]
     },
     {
       "keyword": "twente - telstar",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Twente wint moeizaam van Telstar na gemiste kansen en klimt naar vijfde plek",
+          "source": "Voetbalprimeur Netherlands on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/twente-wint-moeizaam-van-telstar-na-gemiste-kansen-en-klimt-naar-vijfde-plek/ar-AA2bTLbo",
+          "publishedDate": "Wed, 09 Sep 2026 16:59:00 GMT",
+          "description": "FC Twente heeft de inhaalwedstrijd tegen Telstar met 1-0 gewonnen. De ploeg uit Enschede cre&#235;erde veel kansen, maar wist die lange tijd niet te benutten. Uiteindelijk zorgde Sondre Orjasaeter voor de"
+        },
+        {
+          "title": "Telstar na lang tegenhouden achter tegen FC Twente • Koeman Jr. pakt strafschop",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/363287/telstar-na-lang-tegenhouden-achter-tegen-fc-twente-koeman-jr-pakt-strafschop",
+          "publishedDate": "Wed, 09 Sep 2026 03:06:00 GMT",
+          "description": "FC Twente ontvangt Telstar in de eredivisie in Enschede. Volg de wedstrijd live vanaf 18.45 uur. Lees hier het liveblog."
+        }
+      ]
     },
     {
       "keyword": "iphone duo",
@@ -28,18 +129,11 @@
           "description": "Samsung steekt de draak met Apple. Is dat wel helemaal terecht? Wij leggen de twee toestellen iPhone Duo en Galaxy Z Fold 8 naast elkaar."
         },
         {
-          "title": "iPhone Duo: Ontdek de innovaties van Apple's eerste opvouwbare smartphone",
-          "source": "Notizie.it",
-          "url": "https://www.notizie.it/nl/iPhone-Duo-ontdekt-de-innovaties-van-Apple%27s-eerste-opvouwbare-smartphone./",
-          "publishedDate": "Wed, 09 Sep 2026 15:26:00 GMT",
-          "description": "Apple ha presentato l'iPhone Duo, il suo primo smartphone pieghevole, con schermi da 5,4 e 7,6 pollici e una batteria che promette fino a 31 ore di riproduzione video ..."
-        },
-        {
-          "title": "Apple onthult iPhone Duo met opvouwbaar ontwerp en geavanceerde AI-functies",
-          "source": "MarketScreener",
-          "url": "https://nl.marketscreener.com/beursnieuws/apple-onthult-iphone-duo-met-opvouwbaar-ontwerp-en-geavanceerde-ai-functies-ce785bd9d08cf02c",
-          "publishedDate": "Wed, 09 Sep 2026 14:59:00 GMT",
-          "description": "Apple heeft de iPhone Duo gepresenteerd, de eerste opvouwbare iPhone. Geopend is het de dunste iPhone ooit, met een 7,6 inch binnenscherm dat een groot canvas biedt voor content, gaming ..."
+          "title": "Na negen jaar doet Apple eindelijk weer iets radicaals met de iPhone: de iPhone Duo",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/cultuur-media/wil-je-weten/iphone-duo-camera-scherm-prijskaartje/",
+          "publishedDate": "Wed, 09 Sep 2026 15:34:00 GMT",
+          "description": "Jarenlang was het een beetje hetzelfde liedje. Een nieuwe iPhone, een betere camera, een snellere chip, een iets langere batterijduur en, als we geluk hadden, een nieuwe kleur. Maar wie de iPhone 15, ..."
         },
         {
           "title": "Eindelijk officieel: dit is de iPhone Duo, Apple’s eerste opvouwbare iPhone (met een uniek ontwerp)",
@@ -49,11 +143,11 @@
           "description": "Na jaren van speculatie heeft Apple nu eindelijk de iPhone Duo onthuld. De eerste opvouwbare iPhone heeft een uniek ontwerp dat we nog niet bij veel andere opvouwbare smartphones gezien hebben."
         },
         {
-          "title": "Apple onthult eerste vouwbare iPhone en pakt meteen groots uit",
-          "source": "XGN.nl",
-          "url": "https://www.xgn.nl/nieuws/apple-onthult-eerste-vouwbare-iphone-en-pakt-meteen-groots-uit",
-          "publishedDate": "Wed, 09 Sep 2026 14:36:00 GMT",
-          "description": "Apple had vandaag opvallend nieuws: de eerste vouwbare iPhone is onderweg. Dit is alles wat je over de smartphone moet weten en wanneer hij uitkomt."
+          "title": "Apple onthult eerste vouwbare iPhone voor 1999 dollar",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/apple-onthult-eerste-vouwbare-iphone-voor-1999-dollar",
+          "publishedDate": "Wed, 09 Sep 2026 13:59:00 GMT",
+          "description": "CUPERTINO (ANP/RTR/BLOOMBERG) - Apple heeft woensdag zijn langverwachte, eerste opvouwbare iPhone onthuld. Daarmee betreedt het Amerikaanse techconcern een nich ..."
         },
         {
           "title": "iPhone Duo prijzen: zov&#233;&#233;l betaal je voor de duurste iPhone ooit",
@@ -70,18 +164,11 @@
           "description": "iPhone 18 Pro vanaf € 1.479, Pro Max vanaf € 1.629, iPhone Duo vanaf € 2.339. Bekijk alle Nederlandse adviesprijzen per opslagvariant, de pre-orderdata en wat er met de iPhone 17 gebeurde."
         },
         {
-          "title": "Apple onthult vouwbare iPhone Duo en iPhone 18 Pro-modellen met variabel diafragma",
-          "source": "TechRadar",
-          "url": "https://global.techradar.com/nl-be/phones/iphone/apple-onthult-vouwbare-iphone-duo-en-iphone-18-pro-modellen-met-variabel-diafragma",
-          "publishedDate": "Wed, 09 Sep 2026 12:37:00 GMT",
-          "description": "Het is weer september, dus een nieuw Apple-event kon natuurlijk niet ontbreken. Vandaag (9 september 2026) heeft Apple tijdens zijn 'Surprise and shine'-event weer nieuwe iPhones aangekondigd, plus ni ..."
-        },
-        {
-          "title": "Apple introduceert de iPhone Duo",
-          "source": "Dutch IT Channel",
-          "url": "https://www.dutchitchannel.nl/news/759719/apple-introduceert-de-iphone-duo",
-          "publishedDate": "Wed, 09 Sep 2026 12:26:00 GMT",
-          "description": "Met de iPhone Duo betreedt Apple een marktsegment waar concurrenten als Samsung en Google al enkele jaren actief zijn. Volgens Apple-topman John Ternus toont het nieuwe ontwerp wat er mogelijk is ..."
+          "title": "iPhone Duo officieel: van iPhone naar bijna-iPad voor €2339",
+          "source": "NieuweMobiel.NL",
+          "url": "https://www.nieuwemobiel.nl/nieuws/telefoons/iphone-duo-officieel-van-iphone-naar-bijna-ipad-voor-2339-euro",
+          "publishedDate": "Wed, 09 Sep 2026 12:17:00 GMT",
+          "description": "Apple presenteert zijn eerste opvouwbare iPhone: de iPhone Duo. Lees hier de Nederlandse prijzen, de specs en wanneer je hem kunt bestellen."
         },
         {
           "title": "iPhone Duo iPhone Duo",
@@ -89,95 +176,6 @@
           "url": "https://www.iphoned.nl/apple/iphone-duo/",
           "publishedDate": "Wed, 09 Sep 2026 12:06:00 GMT",
           "description": "De iPhone Duo is aangekondigd. Lees hier alle over het nieuwe toestel, wanneer hij verkrijgbaar is en hoeveel hij gaat kosten."
-        }
-      ]
-    },
-    {
-      "keyword": "faith landman",
-      "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "iphone 18 pro max",
-      "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "liverpool - atlético madrid",
-      "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "belastingdruk",
-      "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "apple duo",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "iPhone Duo: Ontdek de innovaties van Apple's eerste opvouwbare smartphone",
-          "source": "Notizie.it",
-          "url": "https://www.notizie.it/nl/iPhone-Duo-ontdekt-de-innovaties-van-Apple%27s-eerste-opvouwbare-smartphone./",
-          "publishedDate": "Wed, 09 Sep 2026 15:26:00 GMT",
-          "description": "Apple ha presentato l'iPhone Duo, il suo primo smartphone pieghevole, con schermi da 5,4 e 7,6 pollici e una batteria che promette fino a 31 ore di riproduzione video ..."
-        },
-        {
-          "title": "Apple onthult iPhone Duo met opvouwbaar ontwerp en geavanceerde AI-functies",
-          "source": "MarketScreener",
-          "url": "https://nl.marketscreener.com/beursnieuws/apple-onthult-iphone-duo-met-opvouwbaar-ontwerp-en-geavanceerde-ai-functies-ce785bd9d08cf02c",
-          "publishedDate": "Wed, 09 Sep 2026 14:59:00 GMT",
-          "description": "Apple heeft de iPhone Duo gepresenteerd, de eerste opvouwbare iPhone. Geopend is het de dunste iPhone ooit, met een 7,6 inch binnenscherm dat een groot canvas biedt voor content, gaming ..."
-        },
-        {
-          "title": "Eindelijk officieel: dit is de iPhone Duo, Apple’s eerste opvouwbare iPhone (met een uniek ontwerp)",
-          "source": "iCulture",
-          "url": "https://www.iculture.nl/nieuws/iphone-duo-officieel/",
-          "publishedDate": "Wed, 09 Sep 2026 14:47:00 GMT",
-          "description": "Na jaren van speculatie heeft Apple nu eindelijk de iPhone Duo onthuld. De eerste opvouwbare iPhone heeft een uniek ontwerp dat we nog niet bij veel andere opvouwbare smartphones gezien hebben."
-        },
-        {
-          "title": "Apple onthult eerste vouwbare iPhone en pakt meteen groots uit",
-          "source": "XGN.nl",
-          "url": "https://www.xgn.nl/nieuws/apple-onthult-eerste-vouwbare-iphone-en-pakt-meteen-groots-uit",
-          "publishedDate": "Wed, 09 Sep 2026 14:36:00 GMT",
-          "description": "Apple had vandaag opvallend nieuws: de eerste vouwbare iPhone is onderweg. Dit is alles wat je over de smartphone moet weten en wanneer hij uitkomt."
-        },
-        {
-          "title": "iPhone Duo prijzen: zov&#233;&#233;l betaal je voor de duurste iPhone ooit",
-          "source": "iPhoned",
-          "url": "https://www.iphoned.nl/nieuws/iphone-duo-prijzen/",
-          "publishedDate": "Wed, 09 Sep 2026 13:27:00 GMT",
-          "description": "Apple heeft de duurste iPhone ooit aangekondigd! Benieuwd wat je gaat betalen? Dit zijn de prijzen van de compleet nieuwe iPhone Duo."
-        },
-        {
-          "title": "Apple onthult vouwbare iPhone Duo en iPhone 18 Pro-modellen met variabel diafragma",
-          "source": "TechRadar",
-          "url": "https://global.techradar.com/nl-be/phones/iphone/apple-onthult-vouwbare-iphone-duo-en-iphone-18-pro-modellen-met-variabel-diafragma",
-          "publishedDate": "Wed, 09 Sep 2026 12:37:00 GMT",
-          "description": "Het is weer september, dus een nieuw Apple-event kon natuurlijk niet ontbreken. Vandaag (9 september 2026) heeft Apple tijdens zijn 'Surprise and shine'-event weer nieuwe iPhones aangekondigd, plus ni ..."
-        },
-        {
-          "title": "Apple introduceert de iPhone Duo",
-          "source": "Dutch IT Channel",
-          "url": "https://www.dutchitchannel.nl/news/759719/apple-introduceert-de-iphone-duo",
-          "publishedDate": "Wed, 09 Sep 2026 12:26:00 GMT",
-          "description": "Met de iPhone Duo betreedt Apple een marktsegment waar concurrenten als Samsung en Google al enkele jaren actief zijn. Volgens Apple-topman John Ternus toont het nieuwe ontwerp wat er mogelijk is ..."
-        },
-        {
-          "title": "iPhone Duo iPhone Duo",
-          "source": "iPhoned",
-          "url": "https://www.iphoned.nl/apple/iphone-duo/",
-          "publishedDate": "Wed, 09 Sep 2026 12:06:00 GMT",
-          "description": "De iPhone Duo is aangekondigd. Lees hier alle over het nieuwe toestel, wanneer hij verkrijgbaar is en hoeveel hij gaat kosten."
-        },
-        {
-          "title": "iPhone Duo is hier: Apples grootste iPhone-verandering in jaren",
-          "source": "Mashable Benelux",
-          "url": "https://nl.mashable.com/tech-2/13393/iphone-duo-is-hier-apples-grootste-iphone-verandering-in-jaren",
-          "publishedDate": "Wed, 09 Sep 2026 11:25:00 GMT",
-          "description": "Dichtgeklapt heeft de iPhone Duo ongeveer het formaat van een paspoort. Aan de buitenkant zit een 5,4-inch Super Retina XDR-display. Klap je hem open, dan verschijnt een 7,6-inch scherm: volgens Apple ..."
         },
         {
           "title": "iPhone Duo: Apple onthult eerste opvouwbare iPhone &#243;&#243;it",
@@ -185,13 +183,352 @@
           "url": "https://www.icreatemagazine.nl/nieuws/iphone-duo-officieel/",
           "publishedDate": "Wed, 09 Sep 2026 11:16:00 GMT",
           "description": "Het is officieel: Apple heeft de iPhone Duo onthuld. Daarmee is de eerste opvouwbare iPhone eindelijk een feit! Wat is de prijs, wanneer is de release en ..."
+        },
+        {
+          "title": "Nieuws: Apple onthult iPhone Duo, zijn eerste vouwbare iPhone",
+          "source": "gadgetgear",
+          "url": "https://www.gadgetgear.nl/2026/09/nieuws-apple-onthult-iphone-duo-zijn-eerste-vouwbare-iphone/",
+          "publishedDate": "Wed, 09 Sep 2026 11:09:00 GMT",
+          "description": "Apple heeft vanavond de iPhone Duo onthuld. Daarmee is na jaren van geruchten niet alleen de komst van Apple's eerste vouwbare iPhone officieel, maar weten we ook hoe hij heet. De iPhone Duo heeft een ..."
+        }
+      ]
+    },
+    {
+      "keyword": "liverpool - atlético madrid",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Comeback Liverpool tegen Atl&#233;tico, Arsenal wint in Napels • Titelhouder PSG haalt uit",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2630331-comeback-liverpool-tegen-atletico-arsenal-wint-in-napels-titelhouder-psg-haalt-uit",
+          "publishedDate": "Wed, 09 Sep 2026 10:21:00 GMT",
+          "description": "Volg in dit liveblog een midweekse dag in de eredivisie met een inhaalwedstrijd en het begin van de Champions League."
+        },
+        {
+          "title": "LIVE Champions League | Kylian Mbapp&#233; slaat meteen toe in kraker: Inter krijgt de kansen, maar Real Madrid leidt",
+          "source": "AD",
+          "url": "https://www.ad.nl/voetbal/live-champions-league-kylian-mbappe-slaat-meteen-toe-in-kraker-inter-krijgt-de-kansen-maar-real-madrid-leidt~a36a98e0/",
+          "publishedDate": "Mon, 07 Sep 2026 21:01:00 GMT",
+          "description": "De Champions League begint met een topwedstrijd: Real Madrid ontvangt Inter. Dat betekent ook een weerzien van Denzel Dumfries met zijn oude ploeg uit Milaan. Volg het hier live."
+        }
+      ]
+    },
+    {
+      "keyword": "faith landman",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Rico Verhoeven weer aan het daten na relatiebreuk",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/rico-verhoeven-weer-aan-het-daten-na-relatiebreuk/ar-AA2bSRlZ",
+          "publishedDate": "Wed, 09 Sep 2026 05:15:34 GMT",
+          "description": "Rico Verhoeven (37) lijkt na zijn breuk met Naomy van Beem (37) voorzichtig weer open te staan voor daten. Na berichtgeving van RealityFBI bevestigt het management van de kickbokser aan RTL Boulevard ..."
+        },
+        {
+          "title": "Rico Verhoeven lijkt opnieuw verliefd, wie is zijn vermeende nieuwe vriendin Faith Landman?",
+          "source": "Story",
+          "url": "https://www.story.nl/showbizz/rico-verhoeven-wie-is-nieuwe-liefde~b2f929b",
+          "publishedDate": "Wed, 09 Sep 2026 11:59:00 GMT",
+          "description": "Wie is Faith Landman, de vermeende nieuwe liefde van Rico Verhoeven? Alles over haar missverkiezingen, zoontje Ace en bijzondere carri&#232;re."
+        },
+        {
+          "title": "Nieuwe vriendin Rico Verhoeven pas net gescheiden",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/nieuwe-vriendin-rico-verhoeven-pas-net-gescheiden",
+          "publishedDate": "Wed, 09 Sep 2026 06:46:00 GMT",
+          "description": "Rico Verhoeven heeft na zijn breuk met Naomy opnieuw de liefde gevonden. De kickbokser is gespot met voormalig Miss Universe Nederland."
+        },
+        {
+          "title": "ZIEN: D&#233;ze 29-jarige schoonheid is het nieuwe afspraakje van Rico Verhoeven",
+          "source": "Panorama on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/zien-d%C3%A9ze-29-jarige-schoonheid-is-het-nieuwe-afspraakje-van-rico-verhoeven/ar-AA2bRUPc",
+          "publishedDate": "Wed, 09 Sep 2026 05:35:00 GMT",
+          "description": "Rico Verhoeven zit niet stil. De verlovingsring met Naomy van Beem is amper van de vinger, of de kickbokser is alweer opgedoken met een nieuwe schoonheid aan zijn zijde. Niemand minder dan voormalig M ..."
+        },
+        {
+          "title": "Rico Verhoeven laat er geen gras over groeien: zou daten met Miss Universe Netherlands 2024",
+          "source": "VK Magazine",
+          "url": "https://www.vkmag.com/magazine/rico-verhoeven-laat-er-geen-gras-over-groeien-zou-daten-met-miss-universe-netherlands-2024",
+          "publishedDate": "Wed, 09 Sep 2026 04:27:00 GMT",
+          "description": "Rico Verhoeven kreeg twee maanden geleden een behoorlijk tikje buiten de ring te verwerken. Na een relatie van ruim vijf jaar kwam er een einde aan zijn relatie met Naomy van Beem, met wie hij zelfs t ..."
+        },
+        {
+          "title": "Rico Verhoeven datet na relatiebreuk met voormalig Miss Universe Nederland Faith Landman",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/rico-verhoeven-datet-voormalig-miss-universe-nederland-faith-landman",
+          "publishedDate": "Wed, 09 Sep 2026 01:58:00 GMT",
+          "description": "Rico Verhoeven is aan het daten na zijn breuk met Naomy van Beem. Hij werd gespot met voormalig Miss Universe Nederland Faith Landman."
+        },
+        {
+          "title": "Slaat Rico Verhoeven Miss Universe aan de haak?",
+          "source": "Story",
+          "url": "https://www.story.nl/showbizz/rico-verhoeven-en-miss-universe~005bb903",
+          "publishedDate": "Wed, 09 Sep 2026 01:00:00 GMT",
+          "description": "Rico Verhoeven heeft na zijn breuk met Naomy van Beem opnieuw de liefde gevonden. Hij zou al enkele weken in het geheim daten met Faith Landman."
+        },
+        {
+          "title": "Faith Landman heeft enorm genoten van Miss Universe-verkiezing",
+          "source": "Nieuws",
+          "url": "https://nieuws.nl/entertainment/faith-landman-heeft-enorm-genoten-van-miss-universe-verkiezing",
+          "publishedDate": "Sun, 17 Nov 2024 22:50:00 GMT",
+          "description": "De Nederlandse Faith Landman kijkt met trots terug op haar deelname aan de internationale Miss Universe-verkiezing. Ze had het voor geen goud willen missen, schrijft ze op Instagram. &quot;Mijn avontuur ..."
+        }
+      ]
+    },
+    {
+      "keyword": "belastingdruk",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Belastingdruk is gedaald, maar niet voor iedereen",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/belastingdruk-is-gedaald-maar-niet-voor-iedereen/ar-AA2bRHZn",
+          "publishedDate": "Wed, 09 Sep 2026 02:47:00 GMT",
+          "description": "Veel Nederlandse huishoudens zijn een steeds kleiner percentage van hun inkomen kwijt aan inkomstenbelasting en premies voor de AOW, Anw en Wlz. Vooral tweeverdieners en gepensioneerden hebben een lag ..."
+        },
+        {
+          "title": "Huishoudens kleiner deel inkomen kwijt aan belasting, vooral gepensioneerden",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6409117/huishoudens-kleiner-deel-inkomen-kwijt-aan-belasting-vooral-gepensioneerden.html",
+          "publishedDate": "Wed, 09 Sep 2026 01:02:00 GMT",
+          "description": "Nederlandse huishoudens betaalden de afgelopen jaren gemiddeld een steeds kleiner deel van hun inkomen aan inkomstenbelasting en premies. De belastingdruk daalde het sterkst onder huishoudens met een ..."
+        },
+        {
+          "title": "Belastingdruk Nederlanders flink gedaald, maar niet voor iedereen",
+          "source": "Newsbit",
+          "url": "https://newsbit.nl/belastingdruk-nederlanders-flink-gedaald-maar-niet-voor-iedereen/",
+          "publishedDate": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "description": "De belastingdruk in Nederland is flink gedaald. Toch blijven er grote verschillen tussen inkomens en verschillende soorten huishoudens."
+        },
+        {
+          "title": "Belastingdruk voor huishoudens gedaald naar ruim twaalf procent",
+          "source": "Accountant",
+          "url": "https://www.accountant.nl/nieuws/2026/9/belastingdruk-voor-huishoudens-gedaald-naar-ruim-twaalf-procent/",
+          "publishedDate": "Wed, 09 Sep 2026 04:49:00 GMT",
+          "description": "Huishoudens betaalden in 2024 in doorsnee 12,3 procent van hun bruto huishoudensinkomen aan inkomstenbelasting en premies volksverzekeringen. In 2011 was dat nog 15,4 procent. Tweeverdieners en gepens ..."
+        },
+        {
+          "title": "Belastingdruk huishoudens een vijfde lager sinds 2011",
+          "source": "Het Financieele Dagblad",
+          "url": "https://fd.nl/samenleving/1611880/belastingdruk-huishoudens-een-vijfde-lager-sinds-2011",
+          "publishedDate": "Wed, 09 Sep 2026 03:13:00 GMT",
+          "description": "Een doorsnee Nederlands huishouden betaalde in 2024 12,3% van het bruto-inkomen aan belastingen en premies voor volksverzekeringen."
+        },
+        {
+          "title": "Belastingdruk huishoudens gedaald, zelfstandigen betalen juist meer",
+          "source": "Accountancy Vanmorgen",
+          "url": "https://www.accountancyvanmorgen.nl/2026/09/09/belastingdruk-huishoudens-gedaald-zelfstandigen-betalen-juist-meer/",
+          "publishedDate": "Wed, 09 Sep 2026 00:36:00 GMT",
+          "description": "Nederlandse huishoudens zijn een kleiner deel van hun bruto-inkomen kwijt aan inkomstenbelasting en premies volksverzekeringen dan ruim tien jaar geleden. Zelfstandigen vormen een uitzondering op de d ..."
+        },
+        {
+          "title": "Belastingdruk flink gedaald, maar niet iedereen profiteert: deze huishoudens betalen het meest",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/geld-carriere/belasting/2026/09/belastingdruk-gedaald-niet-iedereen-profiteert-deze-huishoudens-betalen-meest/",
+          "publishedDate": "Wed, 09 Sep 2026 00:09:00 GMT",
+          "description": "Nederlandse huishoudens zijn de afgelopen jaren een kleiner deel van hun bruto-inkomen kwijtgeraakt aan inkomstenbelasting en premies voor de volksverzekeringen."
+        },
+        {
+          "title": "Belastingdruk huishoudens gedaald van 15 naar 12 procent sinds 2011",
+          "source": "Centraal Bureau voor de Statistiek",
+          "url": "https://www.cbs.nl/nl-nl/nieuws/2026/37/belastingdruk-huishoudens-gedaald-van-15-naar-12-procent-sinds-2011",
+          "publishedDate": "Tue, 08 Sep 2026 23:30:00 GMT",
+          "description": "Huishoudens betaalden in 2024 in doorsnee 12,3 procent van het bruto huishoudensinkomen aan inkomstenbelasting en premies volksverzekeringen. In 2011 was dit nog 15,4 procent."
+        },
+        {
+          "title": "Belastingdruk huishoudens gedaald sinds 2011",
+          "source": "Taxence",
+          "url": "https://www.taxence.nl/nieuws/belastingdruk-huishoudens-gedaald-sinds-2011/",
+          "publishedDate": "Tue, 08 Sep 2026 21:36:00 GMT",
+          "description": "De belastingdruk van Nederlandse huishoudens is de afgelopen jaren afgenomen. In 2024 betaalden huishoudens in doorsnee 12,3 procent van hun bruto huishoudensinkomen aan inkomstenbelasting en premies ..."
+        }
+      ]
+    },
+    {
+      "keyword": "iphone 18 pro max",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "iPhone 18 Pro and 18 Pro Max Hands-On: Burgundy, Better Cameras, and More Performance",
+          "source": "AOL",
+          "url": "https://www.aol.com/articles/iphone-18-pro-18-pro-011029000.html",
+          "publishedDate": "Wed, 09 Sep 2026 17:00:00 GMT",
+          "description": "Physically, the iPhone 18 Pro and 18 Pro Max feel nearly identical to the iPhone 17 Pro and 17 Pro Max. There’s a new Burgundy color that replaces Cosmic Orange, but I don’t think I’m a fan of it."
+        },
+        {
+          "title": "Officieel aangekondigd: dit is de iPhone 18 Pro Max met nieuwe camerafuncties",
+          "source": "iCulture",
+          "url": "https://www.iculture.nl/nieuws/iphone-18-pro-max-officieel/",
+          "publishedDate": "Wed, 09 Sep 2026 13:36:00 GMT",
+          "description": "Het gros van de functies van de iPhone 18 Pro Max is gelijk aan die van de nieuwe iPhone 18 Pro. Het is allemaal aangekondigd tijdens het september event van Apple. Zelfde aluminium behuizing met ..."
+        },
+        {
+          "title": "iPhone 18 Pro (Max) offici&#235;le prijzen: zoveel kosten de nieuwe iPhones in 2026",
+          "source": "iPhoned",
+          "url": "https://www.iphoned.nl/nieuws/iphone-18-pro-iphone-18-pro-max-officiele-prijzen/",
+          "publishedDate": "Wed, 09 Sep 2026 13:20:00 GMT",
+          "description": "Apple heeft de iPhone 18 Pro en de iPhone 18 Pro Max aangekondigd! Dit zijn de offici&#235;le prijzen van de iPhone 18 Pro (Max)."
+        },
+        {
+          "title": "Apple geeft iPhone 18 Pro camera met variabel diafragma en verhoogt prijs",
+          "source": "Tweakers",
+          "url": "https://tweakers.net/nieuws/251958/apple-geeft-iphone-18-pro-camera-met-variabel-diafragma-en-verhoogt-prijs.html",
+          "publishedDate": "Wed, 09 Sep 2026 12:43:00 GMT",
+          "description": "Apple heeft de iPhone 18 Pro en Pro Max aangekondigd. De nieuwe smartphones hebben hogere adviesprijzen van 1199 en 1299 dollar. De grootste nieuwigheid zit in de camera met variabel diafragma."
+        },
+        {
+          "title": "Harga iPhone 18 Pro dan iPhone 18 Pro Max di Singapura serta Malaysia",
+          "source": "Kompas Tekno",
+          "url": "https://tekno.kompas.com/read/2026/09/10/09210067/harga-iphone-18-pro-dan-iphone-18-pro-max-di-singapura-serta-malaysia",
+          "publishedDate": "Wed, 09 Sep 2026 12:21:00 GMT",
+          "description": "Harga iPhone 18 Pro di Malaysia mulai sekitar Rp 23,9 juta, sedangkan di Singapura sekitar Rp 26,3 juta. Pre-order mulai 12 September."
+        },
+        {
+          "title": "Apple presenteert de iPhone 18 Pro (Max): dit zijn de 3 opvallendste vernieuwingen",
+          "source": "iPhoned",
+          "url": "https://www.iphoned.nl/nieuws/iphone-18-pro-max-officieel/",
+          "publishedDate": "Wed, 09 Sep 2026 12:08:00 GMT",
+          "description": "De iPhone 18 Pro (Max) is eindelijk officieel aangekondigd. Wij pikten de drie belangrijkste upgrades er voor je uit!"
+        },
+        {
+          "title": "iPhone 18 getest: is de nieuwste iPhone zijn geld waard?",
+          "source": "Panorama",
+          "url": "https://panorama.nl/artikel/695407/iphone-18-getest-is-de-nieuwste-iphone-zijn-geld-waard",
+          "publishedDate": "Wed, 09 Sep 2026 11:59:00 GMT",
+          "description": "Apple heeft met de iPhone 18 een nieuwe generatie smartphones gepresenteerd. Geen compleet nieuwe telefoon zoals we die nog nooit hebben gezien, maar wel een reeks verbeteringen die samen een behoorli ..."
+        },
+        {
+          "title": "Ảnh thực tế iPhone 18 Pro Max với bốn m&#224;u",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/anh-thuc-te-iphone-18-pro-max-voi-bon-mau-5118606.html",
+          "publishedDate": "Wed, 09 Sep 2026 11:47:00 GMT",
+          "description": "iPhone 18 Pro Max ra mắt với bốn m&#224;u, tăng dung lượng pin v&#224; tốc độ sạc c&#249;ng Dynamic Island nhỏ hơn so với thế hệ trước."
+        },
+        {
+          "title": "iPhone 18 Pro (Max) aangekondigd – en met een opvallende twist",
+          "source": "iCreate",
+          "url": "https://www.icreatemagazine.nl/nieuws/iphone-18-pro-max-aangekondigd/",
+          "publishedDate": "Wed, 09 Sep 2026 10:43:00 GMT",
+          "description": "De iPhone 18 Pro en iPhone 18 Pro Max zijn zojuist officieel aangekondigd tijdens een Apple-event. De luxemodellen hebben flink wat ..."
+        },
+        {
+          "title": "iPhone 18 Pro, 18 Pro Max India Prices Explained: 256GB to 2TB, Here’s What Every Variant Costs",
+          "source": "Gizbot",
+          "url": "https://www.gizbot.com/features/iphone-18-pro-pro-max-price-india-256gb-512gb-1tb-2tb-128439.html",
+          "publishedDate": "Wed, 09 Sep 2026 10:15:00 GMT",
+          "description": "Phone 18 Pro starts at Rs 1,64,900 in India, while the Pro Max starts at Rs 1,79,900. Here’s the price of every 256GB, 512GB, 1TB and 2TB variant."
+        }
+      ]
+    },
+    {
+      "keyword": "wateroverlast",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Code geel om zware onweersbuien, plaatselijk kans op wateroverlast",
+          "source": "RTL Nieuws (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/code-geel-om-zware-onweersbuien-plaatselijk-kans-op-wateroverlast/ar-AA2bh6ZV",
+          "publishedDate": "Sun, 30 Aug 2026 20:51:30 GMT",
+          "description": "Vandaag vallen er stevige regen- en onweersbuien in ons land. De zwaarste worden aan de kust verwacht. Voor de provincie Noord-Holland heeft het KNMI code geel afgegeven: daar kan plaatselijk flinke w ..."
+        },
+        {
+          "title": "Zware buien op komst: kans op wateroverlast en hagel morgenavond",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/weer/artikel/5644407/morgenavond-kans-op-wateroverlast-en-hagel-komen-pittige-buien-aan",
+          "publishedDate": "Wed, 26 Aug 2026 10:05:00 GMT",
+          "description": "Nederland krijgt morgenavond en -nacht te maken met 'pittige onweersbuien', zegt Maurice Middendorp van Buienradar. De buien beginnen in de zuidelijke provincies en trekken noordwaarts over het land."
+        },
+        {
+          "title": "Nieuw verdrag tussen Vlaanderen en Frankrijk moet wateroverlast in de Moeren voorkomen.",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/01/nieuw-verdrag-tussen-vlaanderen-en-frankrijk-moet-wateroverlast/",
+          "publishedDate": "Tue, 01 Sep 2026 11:57:00 GMT",
+          "description": "Vlaanderen en Frankrijk hebben een nieuw 'Moerenverdrag' gesloten. Dat regelt wat er moet gebeuren om wateroverlast de baas te kunnen. Als het water te hoog staat, zijn er nu duidelijke afspraken om d ..."
+        },
+        {
+          "title": "Wateroverlast door hevige regenval, wanneer doet u een melding?",
+          "source": "hollandskroon",
+          "url": "https://www.hollandskroon.nl/actueel/wateroverlast-door-hevige-regenval-wanneer-doet-u-een-melding/",
+          "publishedDate": "Tue, 01 Sep 2026 04:55:00 GMT",
+          "description": "Door de hevige regenval van de laatste dagen kan op verschillende plekken in de gemeente tijdelijk water op straat staan. In korte tijd valt er zoveel neerslag dat het ..."
+        },
+        {
+          "title": "Wateroverlast in panden Middelburg",
+          "source": "HVZeeland",
+          "url": "https://www.hvzeeland.nl/nieuws/70143-wateroverlast-in-panden-middelburg/",
+          "publishedDate": "Fri, 28 Aug 2026 13:52:00 GMT",
+          "description": "MIDDELBURG - De brandweer is gisterenavond twee keer ingezet voor een wateroverlastmelding in panden in Middelburg."
+        },
+        {
+          "title": "Overheid houdt rekening met zowel droogte als wateroverlast",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Binnenland/overheid-houdt-rekening-met-zowel-droogte-als-wateroverlast/ar-AA2b2z94",
+          "publishedDate": "Thu, 27 Aug 2026 07:24:00 GMT",
+          "description": "DEN HAAG (ANP) - Naast een watertekort houden overheden nu ook rekening met wateroverlast die kan ontstaan als gevolg van de regen die de komende dagen wordt verwacht. Dat meldt het ministerie van Inf ..."
+        },
+        {
+          "title": "Wateroverlast bij viaduct tussen Spaubeek en Geleen nog steeds niet verholpen: ‘Mogelijk moet er een nieuwe weg of tunnel komen’",
+          "source": "De Limburger",
+          "url": "https://www.limburger.nl/regio/beek/spaubeek/wateroverlast-bij-viaduct-tussen-spaubeek-en-geleen-nog-steeds-niet-verholpen-mogelijk-moet-er-een-nieuwe-weg-of-tunnel-komen/159677642.html",
+          "publishedDate": "Fri, 07 Aug 2026 02:58:00 GMT",
+          "description": "De nieuw ge&#239;nstalleerde pompinstallatie die de wateroverlast bij het viaduct tussen Spaubeek en Geleen moet verhelpen, doet nog niet wat ‘ie moet doen. Vorige maand stond het wegdek weer vol water. On ..."
+        },
+        {
+          "title": "Nieuwe brandweerpompen krijgen plaatsje in kazerne van post Ledegem: “Goed nieuws in strijd tegen wateroverlast”",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/regio/west-vlaanderen/midwest/ledegem/nieuwe-brandweerpompen-krijgen-plaatsje-in-kazerne-van-post-ledegem-goed-nieuws-in-strijd-tegen-wateroverlast/53163944.html",
+          "publishedDate": "Fri, 04 Apr 2025 07:23:00 GMT",
+          "description": "In de strijd tegen wateroverlast wapent de hulpverleningszone Fluvia zich door 10.000 euro te investeren in nieuwe vuilwaterpompen en zes waadpakken per brandweerpost. De “vuilwaterpompen” krijgen een ..."
+        },
+        {
+          "title": "Grootschalige aanpak wateroverlast Limburg stap dichterbij door nieuwe maatregelen",
+          "source": "AD",
+          "url": "https://www.ad.nl/maastricht/grootschalige-aanpak-wateroverlast-limburg-stap-dichterbij-door-nieuwe-maatregelen~a69762a7/",
+          "publishedDate": "Tue, 30 May 2023 22:00:00 GMT",
+          "description": "De maatregelen moeten Limburgers beter tegen wateroverlast beschermen. In dit plan ‘Gericht aan de slag’ staat hoe onder meer de Geul, Roer en Geleenbeek veiliger gemaakt worden. Dat zijn de rivieren ..."
+        },
+        {
+          "title": "Uitleg over wateroverlast na bizarre regenbui valt bij bewoners verkeerd: ‘Komt niet door klimaat’",
+          "source": "AD",
+          "url": "https://www.ad.nl/delft/uitleg-over-wateroverlast-na-bizarre-regenbui-valt-bij-bewoners-verkeerd-komt-niet-door-klimaat~afe5c507/",
+          "publishedDate": "Tue, 14 Feb 2023 19:00:00 GMT",
+          "description": "Alles verliep volgens het draaiboek tijdens de enorme hoosbui die de stad op 15 augustus vorig jaar binnen no time blank zette. Hoe het dan toch mis kon gaan? De regenbui was niet voorspeld, de ..."
         }
       ]
     },
     {
       "keyword": "22 jarige miss oostenrijk overleden",
       "trafficLabel": "5K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Miss Oostenrijk op 22-jarige leeftijd overleden",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/achterklap/6409106/miss-oostenrijk-op-22-jarige-leeftijd-overleden.html",
+          "publishedDate": "Tue, 08 Sep 2026 17:25:00 GMT",
+          "description": "Lucia Sisic, de regerende Miss Oostenrijk, is dinsdag op 22-jarige leeftijd overleden, meldt de organisatie achter de Oostenrijkse schoonheidsverkiezingen op Instagram. Over haar doodsoorzaak is niets ..."
+        },
+        {
+          "title": "Miss Oostenrijk Lucia Sisic sterft op 22-jarige leeftijd",
+          "source": "Newsweek on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/miss-oostenrijk-lucia-sisic-sterft-op-22-jarige-leeftijd/ar-AA2bTp1m",
+          "publishedDate": "Wed, 09 Sep 2026 12:02:10 GMT",
+          "description": "Sisic sprak in het openbaar en plaatste berichten over haar hartklepafwijking. Ze had sinds haar kindertijd zeven hartoperaties ondergaan."
+        },
+        {
+          "title": "Miss Oostenrijk Lucia Sisic op 22-jarige leeftijd overleden",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/buitenland/nieuws/miss-oostenrijk-lucia-sisic-overleden/",
+          "publishedDate": "Wed, 09 Sep 2026 01:55:00 GMT",
+          "description": "Lucia Sisic, die in 2024 werd gekroond tot Miss Oostenrijk, is op 22-jarige leeftijd overleden. Haar doodsoorzaak is nog niet bekendgemaakt. Sisic leed sinds haar geboorte aan een hartklepaandoening ..."
+        },
+        {
+          "title": "Miss Oostenrijk overleden op 22-jarige leeftijd: “Prachtige jonge vrouw”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/showbizz/miss-oostenrijk-overleden-op-22-jarige-leeftijd-prachtige-jonge-vrouw~a404ee74/",
+          "publishedDate": "Tue, 08 Sep 2026 02:30:00 GMT",
+          "description": "Regerend Miss Oostenrijk, Lucia Sisic, is op 22-jarige leeftijd overleden. Dat melden verschillende Oostenrijkse media, waaronder ‘Die Presse’. Een offici&#235;le doodsoorzaak is nog niet bekendgemaakt maa ..."
+        }
+      ]
     }
   ]
 }
