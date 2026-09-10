@@ -1,355 +1,23 @@
 {
-  "fetchedAt": "2026-09-10T16:49:14.803Z",
+  "fetchedAt": "2026-09-10T19:24:39.884Z",
   "trends": [
     {
-      "keyword": "iphone 17 pro",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "iPhone 18 Pro vs iPhone 17 Pro: z&#243; groot zijn de prijsverschillen",
-          "source": "iPhoned",
-          "url": "https://www.iphoned.nl/koopadvies/iphone-18-pro-17-pro-prijsverschillen/",
-          "publishedDate": "Thu, 10 Sep 2026 06:03:00 GMT",
-          "description": "Apple heeft de iPhone 18 Pro gepresenteerd, maar is de nieuwe Pro-iPhone zijn hogere prijs waard, of kun je beter voor de iPhone 17 Pro gaan?"
-        },
-        {
-          "title": "iPhone 17 Pro vs iPhone 18 Pro: dit zijn de 5 grootste verschillen die je moet weten",
-          "source": "TechRadar",
-          "url": "https://global.techradar.com/nl-nl/phones/iphone/iphone-17-pro-vs-iphone-18-pro-dit-zijn-de-5-grootste-verschillen-die-je-moet-weten",
-          "publishedDate": "Thu, 10 Sep 2026 01:28:00 GMT",
-          "description": "De iPhone 17 Pro hield het in Apple's eigen videoweergavetest 33 uur vol, terwijl de iPhone 18 Pro 36 uur haalt. Daarmee zit hij op hetzelfde niveau als de iPhone 17 Pro Max. Ter vergelijking: de ..."
-        },
-        {
-          "title": "iPhone 18 Pro en iPhone Duo: dit zijn de Nederlandse prijzen",
-          "source": "providers",
-          "url": "https://www.providers.nl/nieuws/iphone-18-pro-prijzen-pre-order-nederland/",
-          "publishedDate": "Wed, 09 Sep 2026 13:22:00 GMT",
-          "description": "iPhone 18 Pro vanaf € 1.479, Pro Max vanaf € 1.629, iPhone Duo vanaf € 2.339. Bekijk alle Nederlandse adviesprijzen per opslagvariant, de pre-orderdata en wat er met de iPhone 17 gebeurde."
-        },
-        {
-          "title": "iPhone 18 Pro (Max) aangekondigd – en met een opvallende twist",
-          "source": "iCreate",
-          "url": "https://www.icreatemagazine.nl/nieuws/iphone-18-pro-max-aangekondigd/",
-          "publishedDate": "Wed, 09 Sep 2026 10:43:00 GMT",
-          "description": "De iPhone 18 Pro en iPhone 18 Pro Max zijn zojuist officieel aangekondigd tijdens een Apple-event. De luxemodellen hebben flink wat ..."
-        },
-        {
-          "title": "iPhone Air vs iPhone 17 Pro: kies je voor dun of pro?",
-          "source": "iCulture",
-          "url": "https://www.iculture.nl/nieuws/iphone-air-vs-iphone-17-pro/",
-          "publishedDate": "Thu, 18 Sep 2025 04:47:00 GMT",
-          "description": "En over formaat gesproken: de iPhone Air heeft zijn naam niet voor niets. Het is de dunste iPhone ooit, met een dikte van iets meer dan 5,6mm. De iPhone 17 Pro is een stuk dikker, namelijk 8,75mm. Dat ..."
-        },
-        {
-          "title": "iPhone 17 Pro vs iPhone 16 Pro: hoe groot is de vooruitgang (en welke moet je kiezen)?",
-          "source": "iCulture",
-          "url": "https://www.iculture.nl/nieuws/iphone-17-pro-vs-iphone-16-pro/",
-          "publishedDate": "Fri, 12 Sep 2025 06:38:00 GMT",
-          "description": "De iPhone 17 Pro is de opvolger van de iPhone 16 Pro uit 2024, maar wat zijn nu eigenlijk de verschillen? En is het nog slim om nu nog de iPhone 16 Pro in huis te halen? Lees hier alles wat je moet we ..."
-        }
-      ]
-    },
-    {
-      "keyword": "brandstof",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Fabel of echt? Doet Ryanair bewust te weinig brandstof in vliegtuigen?",
-          "source": "Nieuws365",
-          "url": "https://www.nieuws365.be/buitenland/fabel-of-echt-doet-ryanair-bewust-te-weinig-brandstof-in-vliegtuigen",
-          "publishedDate": "Sat, 05 Sep 2026 12:00:00 GMT",
-          "description": "Het is een verhaal dat geregeld opduikt wanneer het over budgetmaatschappijen gaat: goedkope luchtvaartmaatschappijen zouden zo veel mogelijk gewicht willen besparen en daarom hun vliegtuigen met nauw ..."
-        },
-        {
-          "title": "Levenskosten in het Verenigd Koninkrijk: inflatie, brandstof en de impact op gezinnen",
-          "source": "Notizie.it",
-          "url": "https://www.notizie.it/nl/Levensonderhoudskosten-in-het-VK--brandstofinflatie-en-de-impact-daarvan-op-gezinnen/",
-          "publishedDate": "Thu, 13 Aug 2026 07:25:00 GMT",
-          "description": "Andy Burnham gaat op onderzoek uit om de kostencrisis in het Verenigd Koninkrijk te begrijpen. Hij ontdekt hoe inflatie en stijgende brandstofprijzen gezinnen treffen, met name gezinnen met een laag i ..."
-        },
-        {
-          "title": "Brandstof weer iets goedkoper door dalende olieprijzen",
-          "source": "NU",
-          "url": "https://www.nu.nl/economie/6404610/brandstof-weer-iets-goedkoper-door-dalende-olieprijzen.html",
-          "publishedDate": "Tue, 28 Jul 2026 04:01:00 GMT",
-          "description": "Tanken is dinsdag weer iets goedkoper geworden aan de Nederlandse pomp. Dat komt doordat de olieprijzen maandag flink daalden nadat de VS en Iran waren gestopt met onderlinge aanvallen. Voor een liter ..."
-        },
-        {
-          "title": "Btw‑verlaging op brandstof in Spanje, maar toch stijgen prijzen bij 1 op de 4 pompen",
-          "source": "inspanje.nl",
-          "url": "https://inspanje.nl/btw-verlaging-brandstof-niet-merkbaar/",
-          "publishedDate": "Tue, 24 Mar 2026 00:50:00 GMT",
-          "description": "De Spaanse regering besloot op 20 maart de btw op benzine en diesel te verlagen van 21% naar 10%, aangevuld met een lagere accijns. De maatregel moest de stijgende brandstofprijzen — onder meer door ..."
-        },
-        {
-          "title": "Ben je een F1 fan? Volg GPFans.",
-          "source": "gpfans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/1029331/f1-gpfans-special-brandstof-grote-rol-elektrificatie-formule-1/",
-          "publishedDate": "Sat, 07 Sep 2024 14:43:00 GMT",
-          "description": "Brandstof speelt een enorme rol in de Formule 1. Oliemaatschappijen werken dag en nacht op volle kracht om zoveel mogelijk te onderzoeken en te testen wat resulteert in de beste prestaties met de ..."
-        },
-        {
-          "title": "Uitleg - Wat zijn raketten met vaste brandstof en waarom ontwikkelt Noord-Korea ze?",
-          "source": "nl.marketscreener",
-          "url": "https://nl.marketscreener.com/beursnieuws/laatste/Uitleg-Wat-zijn-raketten-met-vaste-brandstof-en-waarom-ontwikkelt-Noord-Korea-ze-44325042/",
-          "publishedDate": "Wed, 12 Jul 2023 23:22:00 GMT",
-          "description": "De intercontinentale ballistische raket Hwasong-18 (ICBM) van Noord-Korea, die woensdag voor de tweede keer werd gelanceerd, maakt gebruik van vaste-brandstoftechnologie, waardoor hij zonder veel ..."
-        },
-        {
-          "title": "Hoe werkt een F1-motor? Vermogen, brandstof, MGU-H en meer",
-          "source": "Motorsport",
-          "url": "https://nl.motorsport.com/f1/news/hoe-werkt-f1-motor-vermogen-brandstof-mgu-h-meer/7273363/",
-          "publishedDate": "Wed, 15 Feb 2023 17:50:00 GMT",
-          "description": "Weet jij hoeveel vermogen een Formule 1-power unit levert, hoe energie wordt opgeslagen en hoeveel onderdelen teams gedurende een seizoen mogen vervangen? Motorsport.com zet het voor je op een rijtje."
-        },
-        {
-          "title": "CO2-neutrale brandstof maakt dure elektrische auto overbodig",
-          "source": "Auto55",
-          "url": "https://www.auto55.be/nieuws/34532-co2-neutrale-brandstof-maakt-dure-elektrische-auto-overbodig",
-          "publishedDate": "Thu, 29 Dec 2022 16:00:00 GMT",
-          "description": "Als het van Europa afhangt, dan kan je vanaf 2035 alleen nog maar een elektrische auto kopen. Eender voor wat je je auto wil of moet gebruiken. Omwille van de druk die zo’n geforceerde omschakeling ..."
-        },
-        {
-          "title": "Groene ammoniak: de weinig bekende uitstootvrije brandstof die zal boomen in de toekomst",
-          "source": "Business AM",
-          "url": "https://businessam.be/groene-ammoniak-uitstootvrije-brandstof/",
-          "publishedDate": "Tue, 12 Jul 2022 01:41:00 GMT",
-          "description": "Groene ammoniak groeit snel uit als een alternatieve vorm van emissievrije brandstof en krijgt steeds meer aandacht van energiereuzen zoals ExxonMobil. Groene ammoniak is een serieuze kanshebber om in ..."
-        },
-        {
-          "title": "Waterstof als schone brandstof dichterbij met nieuw TNO waterstoflab",
-          "source": "TNO",
-          "url": "https://www.tno.nl/nl/newsroom/2021/02/waterstof-schone-brandstof-dichterbij/",
-          "publishedDate": "Tue, 02 Feb 2021 15:00:00 GMT",
-          "description": "Het Innovation Centre for Sustainable Powertrains (ICSP) van TNO in Helmond, zet stevig in op het toepassen van waterstof. Op woensdag 3 februari is de eerste grote hoeveelheid van dit schone gas ..."
-        }
-      ]
-    },
-    {
-      "keyword": "vrachtauto",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Nog steeds hebben veel Nederlanders geen idee van de gevaren van de dode hoek",
-          "source": "TTM.nl",
-          "url": "https://www.ttm.nl/management/wetregelgeving/nog-steeds-hebben-veel-nederlanders-geen-idee-van-de-gevaren-van-de-dode-hoek/179104/",
-          "publishedDate": "Thu, 10 Sep 2026 01:00:00 GMT",
-          "description": "82 procent van de Nederlanders denkt veilig te handelen rondom een stilstaande vrachtauto. Slechts 32 procent kiest in de praktijk de veilige plek."
-        },
-        {
-          "title": "Vrachtauto vol schroot kantelt in Kampen: ravage op rotonde",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/video/productie/vrachtauto-vol-schroot-kantelt-in-kampen-ravage-op-rotonde-14388087",
-          "publishedDate": "Mon, 07 Sep 2026 11:00:00 GMT",
-          "description": "Een vrachtauto met schroot is rond 18.00 uur gekanteld op een rotonde in Kampen. De ravage was groot. Waardoor het voeruig kantelde, is nog niet duidelijk."
-        },
-        {
-          "title": "Fraikin zet stap om meer aanwezig te zijn in NL",
-          "source": "TTM.nl",
-          "url": "https://www.ttm.nl/fleet/fleetmanagement/fraikin-zet-stap-om-meer-aanwezig-te-zijn-in-nl/178951/",
-          "publishedDate": "Mon, 07 Sep 2026 01:10:00 GMT",
-          "description": "Fraikin, actief in operationele leasing en fleetmanagement van bestel- en vrachtauto's, versterkt zijn aanwezigheid in Nederland. Met de aanstelling van ..."
-        },
-        {
-          "title": "Meisje zwaargewond bij ongeval tussen fatbiker en vrachtauto, op zelfde kruising waar eerder dode viel",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/112-nieuws-lingewaard/meisje-zwaargewond-bij-ongeval-tussen-fatbiker-en-vrachtauto-op-zelfde-kruising-waar-eerder-dode-viel~afe47aea/",
-          "publishedDate": "Mon, 31 Aug 2026 23:08:00 GMT",
-          "description": "Bij een zwaar ongeluk in Huissen is een persoon zwaargewond geraakt. Het gaat om een meisje op een fatbike, die onder een vrachtauto terechtkwam. Het ongeluk is op precies dezelfde plek als waar vier ..."
-        },
-        {
-          "title": "Nederland bij koplopers elektrische vrachtauto's",
-          "source": "groentennieuws",
-          "url": "https://www.groentennieuws.nl/article/9861165/nederland-bij-koplopers-elektrische-vrachtauto-s/",
-          "publishedDate": "Wed, 12 Aug 2026 04:33:00 GMT",
-          "description": "Nederland behoort samen met Duitsland en Frankrijk tot de belangrijkste groeimarkten voor elektrische vrachtauto's in Europa. Volgens cijfers van de Europese fabrikantenorganisatie ACEA steeg het ..."
-        },
-        {
-          "title": "Vrachtauto met klapband botst tegen andere vrachtauto op A73 bij Belfeld, weg in beide richtingen dicht",
-          "source": "AD",
-          "url": "https://www.ad.nl/112-nieuws-venlo/vrachtauto-met-klapband-botst-tegen-andere-vrachtauto-op-a73-bij-belfeld-weg-in-beide-richtingen-dicht~aab0bce1/",
-          "publishedDate": "Thu, 14 Aug 2025 23:58:00 GMT",
-          "description": "Op de A73 tussen Belfeld en knooppunt Tiglia heeft vrijdagmiddag een ongeluk plaatsgevonden. Een vrachtauto kreeg een klapband en botste tegen een andere vrachtauto aan. Door het ongeluk is de weg in ..."
-        },
-        {
-          "title": "Nederland verdubbelt registratie elektrische vrachtauto’s, diesel sterk gedaald",
-          "source": "groentennieuws",
-          "url": "https://www.groentennieuws.nl/article/9754833/nederland-verdubbelt-registratie-elektrische-vrachtauto-s-diesel-sterk-gedaald/",
-          "publishedDate": "Tue, 12 Aug 2025 04:24:00 GMT",
-          "description": "Over de eerste helft van 2025 zijn er in Nederland 978 nieuwe elektrische vrachtauto's geregistreerd. Dat is bijna een verdubbeling ten opzichte van dezelfde periode in 2024. Tegenover deze groeimarkt ..."
-        },
-        {
-          "title": "Aantal elektrische vrachtwagens sinds 2022 verzevenvoudigd",
-          "source": "CBS",
-          "url": "https://www.cbs.nl/nl-nl/nieuws/2025/18/aantal-elektrische-vrachtwagens-sinds-2022-verzevenvoudigd",
-          "publishedDate": "Wed, 30 Apr 2025 23:30:00 GMT",
-          "description": "Op 1 januari 2024 waren er ruim 141 duizend vrachtwagens en trekkers voor oplegger op diesel, 98 procent van het totaal aantal vrachtvoertuigen van bedrijven in Nederland. Vrachtauto’s hebben een ..."
-        },
-        {
-          "title": "Meerdere doden bij ongeluk vrachtauto in Nieuw-Beijerland",
-          "source": "RD",
-          "url": "https://www.rd.nl/artikel/988040-meerdere-doden-bij-ongeluk-vrachtauto-in-nieuw-beijerland",
-          "publishedDate": "Sat, 27 Aug 2022 09:54:00 GMT",
-          "description": "In het Zuid-Hollandse Nieuw-Beijerland zijn zaterdagavond meerdere mensen om het leven gekomen toen een vrachtauto even na 18.00 uur van de dijk reed en aanwezigen op een buurtfeest raakte. Behalve ..."
-        },
-        {
-          "title": "Nederlandse vrachtauto’s vervoerden meeste gewicht ooit in 2021",
-          "source": "CBS",
-          "url": "https://www.cbs.nl/nl-nl/nieuws/2022/15/nederlandse-vrachtauto-s-vervoerden-meeste-gewicht-ooit-in-2021",
-          "publishedDate": "Thu, 14 Apr 2022 15:00:00 GMT",
-          "description": "&#169; CBS In 2021 vervoerden Nederlandse vrachtauto’s 702 miljoen ton goederen, 2,6 procent meer dan in 2020. Dit is het hoogste gewicht ooit gemeten. Alleen in 2007 ..."
-        }
-      ]
-    },
-    {
-      "keyword": "iphone",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Apple verbaast met torenhoge prijs voor opvouwbare iPhone: modellen te koop vanaf 2339 euro",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/tech/apple-verbaast-met-torenhoge-prijs-voor-opvouwbare-iphone-modellen-te-koop-vanaf-2339-euro~a7f8bcb5/",
-          "publishedDate": "Wed, 09 Sep 2026 05:44:00 GMT",
-          "description": "Een iPhone die je kunt uitvouwen tot een soort minicomputer: Apple probeert er de gunst van de gadgetliefhebber mee te winnen, zo blijkt woensdag tijdens de productlancering van het bedrijf. Of Apple ..."
-        },
-        {
-          "title": "Apple verhoogt prijzen van alle iPhones na voorstelling eerste vouwbare toestel: 100 tot 350 euro duurder",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/10/apple-prijsverhoging-iphone/",
-          "publishedDate": "Thu, 10 Sep 2026 07:46:00 GMT",
-          "description": "Het Amerikaanse technologiebedrijf Apple heeft in de marge van de voorstelling van de nieuwe iPhone-toestellen een algemene prijsverhoging doorgevoerd bij alle oudere modellen. De prijs van het 'budge ..."
-        },
-        {
-          "title": "iPhone Duo vs Samsung Galaxy Z Fold 8: welke vouwtelefoon wint de strijd?",
-          "source": "Android Planet",
-          "url": "https://www.androidplanet.nl/koopadvies/iphone-duo-vs-samsung-galaxy-z-fold8/",
-          "publishedDate": "Thu, 10 Sep 2026 07:33:00 GMT",
-          "description": "De iPhone Duo neemt het op tegen Samsung, dat al jaren heer en meester is op het gebied van vouwbare telefoons."
-        },
-        {
-          "title": "Waarom het variabele diafragma de grootste camera-upgrade van de iPhone 18 Pro is",
-          "source": "TechRadar",
-          "url": "https://global.techradar.com/nl-nl/phones/iphone/waarom-het-variabele-diafragma-de-grootste-camera-upgrade-van-de-iphone-18-pro-is",
-          "publishedDate": "Thu, 10 Sep 2026 06:22:00 GMT",
-          "description": "Wel valt op dat het mechanische diafragma van de iPhone 18 Pro en Pro Max begint bij f/1.48 en kan worden gesloten tot f/4. Daarmee kan er ook meer licht binnenkomen dan bij eerdere iPhones. Volgens ..."
-        },
-        {
-          "title": "Vouwbare Duo maakt de Pro's plots saai",
-          "source": "Tweakers",
-          "url": "https://tweakers.net/reviews/15270/apple-iphone-18-pro-pro-max-en-duo-vouwbare-duo-maakt-de-pros-plots-saai.html",
-          "publishedDate": "Thu, 10 Sep 2026 04:00:00 GMT",
-          "description": "Apple heeft tijdens zijn presentatie de eerste vouwbare iPhone laten zien: de iPhone Duo. Daarnaast zijn er twee nieuwe Pro-modellen."
-        },
-        {
-          "title": "iPhone 17 Pro vs iPhone 18 Pro: dit zijn de 5 grootste verschillen die je moet weten",
-          "source": "TechRadar",
-          "url": "https://global.techradar.com/nl-nl/phones/iphone/iphone-17-pro-vs-iphone-18-pro-dit-zijn-de-5-grootste-verschillen-die-je-moet-weten",
-          "publishedDate": "Thu, 10 Sep 2026 01:28:00 GMT",
-          "description": "De iPhone 17 Pro hield het in Apple's eigen videoweergavetest 33 uur vol, terwijl de iPhone 18 Pro 36 uur haalt. Daarmee zit hij op hetzelfde niveau als de iPhone 17 Pro Max. Ter vergelijking: de ..."
-        },
-        {
-          "title": "Apple presenteert de iPhone 18 Pro (Max): dit zijn de 3 opvallendste vernieuwingen",
-          "source": "iPhoned",
-          "url": "https://www.iphoned.nl/nieuws/iphone-18-pro-max-officieel/",
-          "publishedDate": "Wed, 09 Sep 2026 12:08:00 GMT",
-          "description": "De iPhone 18 Pro (Max) is eindelijk officieel aangekondigd. Wij pikten de drie belangrijkste upgrades er voor je uit!"
-        },
-        {
-          "title": "iPhone Duo iPhone Duo",
-          "source": "iPhoned",
-          "url": "https://www.iphoned.nl/apple/iphone-duo/",
-          "publishedDate": "Wed, 09 Sep 2026 12:06:00 GMT",
-          "description": "De iPhone Duo is aangekondigd. Lees hier alle over het nieuwe toestel, wanneer hij verkrijgbaar is en hoeveel hij gaat kosten."
-        },
-        {
-          "title": "iPhone 18 getest: is de nieuwste iPhone zijn geld waard?",
-          "source": "Panorama",
-          "url": "https://panorama.nl/artikel/695407/iphone-18-getest-is-de-nieuwste-iphone-zijn-geld-waard",
-          "publishedDate": "Wed, 09 Sep 2026 11:59:00 GMT",
-          "description": "Apple heeft met de iPhone 18 een nieuwe generatie smartphones gepresenteerd. Geen compleet nieuwe telefoon zoals we die nog nooit hebben gezien, maar wel een reeks verbeteringen die samen een behoorli ..."
-        },
-        {
-          "title": "iPhone 18 Pro aangekondigd: verfijningen voor de pro’s in een nieuw kleurtje",
-          "source": "iCulture",
-          "url": "https://www.iculture.nl/nieuws/iphone-18-pro-officieel/",
-          "publishedDate": "Wed, 09 Sep 2026 02:33:00 GMT",
-          "description": "De iPhone 18 Pro is eindelijk aangekondigd. Apple's nieuwste iPhone voor pro's biedt vooral verfijningen voor de camera, prestaties en batterijduur. En dat allemaal in een nieuw kleurtje."
-        }
-      ]
-    },
-    {
       "keyword": "psv - sjachtar",
-      "trafficLabel": "10K+",
+      "trafficLabel": "50K+",
       "articles": [
         {
-          "title": "Wanner en Kostic starten bij PSV tegen Sjachtar • Van Nistelrooij junior matchwinner PSV -19",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2630474-wanner-en-kostic-starten-bij-psv-tegen-sjachtar-van-nistelrooij-junior-matchwinner-psv-19",
-          "publishedDate": "Thu, 10 Sep 2026 08:30:00 GMT",
-          "description": "In dit liveblog volgen we de laatste zes wedstrijden in de eerste speelronde van de Champions League, met onder meer PSV - Sjachtar Donetsk."
-        },
-        {
-          "title": "Tegenstander van PSV moet schuilen als luchtalarm klinkt: ‘Wedstrijden duren soms vier tot vijf uur’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/tegenstander-van-psv-moet-schuilen-als-luchtalarm-klinkt-wedstrijden-duren-soms-vier-tot-vijf-uur~ae0ba46f/",
-          "publishedDate": "Wed, 09 Sep 2026 22:31:00 GMT",
-          "description": "PSV speelt donderdag tegen het ontheemde Sjachtar Donetsk, dat geen eigen stadion meer heeft en in Oekra&#239;ne competitieduels speelt die soms uren stilliggen - uit nood. Reden? Russische dreiging."
-        },
-        {
-          "title": "Pepi over vorig duel met Sjachtar: 'Een van de beste momenten in mijn PSV-tijd'",
-          "source": "NOS",
-          "url": "https://nos.nl/video/2630394-pepi-over-vorig-duel-met-sjachtar-een-van-de-beste-momenten-in-mijn-psv-tijd",
-          "publishedDate": "Wed, 09 Sep 2026 21:08:00 GMT",
-          "description": "In november 2024 won PSV na een 0-2 achterstand met 3-2 van Sjachtar Donetsk. Ricardo Pepi maakte in blessuretijd het winnende doelpunt."
-        },
-        {
-          "title": "Voetballen tot het luchtalarm weer luidt: bij Sjachtar Donetsk duurt een wedstrijd soms wel vijf uur",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/sport/voetballen-tot-het-luchtalarm-weer-luidt-bij-sjachtar-donetsk-duurt-een-wedstrijd-soms-wel-vijf-uur~be0ba46f/",
-          "publishedDate": "Wed, 09 Sep 2026 20:00:00 GMT",
-          "description": "PSV speelt donderdag tegen het ontheemde Sjachtar Donetsk, dat geen eigen stadion meer heeft en in Oekra&#239;ne competitieduels speelt die soms uren stilliggen vanwege Russische dreiging."
-        },
-        {
-          "title": "MULTILIVE: Lukaku op de bank bij Fenerbah&#231;e, PSV krijgt Sjachtar Donjetsk over de vloer",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/2026/09/10/multilive-lukaku-op-de-bank-bij-fenerbahce-psv-krijgt-sjachtar-donjetsk-over-de-vloer~1789052991160/",
-          "publishedDate": "Thu, 10 Sep 2026 08:41:00 GMT",
-          "description": "Op de 3e Champions League-avond van deze week speelt Romelu Lukaku met Fenerbah&#231;e tegen een AS Roma in vorm. Ook Rode Duivels Bakayoko en Vandevoordt komen in actie met Leipzig en moeten Champions Lea ..."
-        },
-        {
-          "title": "Liam van Nistelrooij (18) helpt PSV-talenten aan zege op Sjachtar Donetsk in Youth League",
-          "source": "Provinciale Zeeuwse Courant",
-          "url": "https://www.pzc.nl/voetbal/liam-van-nistelrooij-18-helpt-psv-talenten-aan-zege-op-sjachtar-donetsk-in-youth-league~a60014c2/",
-          "publishedDate": "Thu, 10 Sep 2026 00:52:00 GMT",
-          "description": "De oudste talenten van PSV zijn goed gestart in de jeugdversie van het Champions League-toernooi. PSV onder 19 won in de strijd om de UEFA Youth League van de leeftijdsgenoten van het stugge Shakhtar ..."
-        },
-        {
-          "title": "Liam van Nistelrooij (18) geeft talenten van PSV zetje naar drie punten in jeugdversie Champions League",
+          "title": "LIVE | PSV zoekt na bliksemsnelle gelijkmaker naar de voorsprong, Flamingo komt voor Kostic",
           "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/regiosport-eindhoven/liam-van-nistelrooij-18-geeft-talenten-van-psv-zetje-naar-drie-punten-in-jeugdversie-champions-league~a60014c2/?slug_rd=1",
-          "publishedDate": "Wed, 09 Sep 2026 23:55:00 GMT",
-          "description": "De oudste talenten van PSV zijn goed gestart in de jeugdversie van het Champions League-toernooi. PSV onder 19 won in de strijd om de UEFA Youth League van de leeftijdsgenoten van het stugge Shakhtar ..."
+          "url": "https://www.bd.nl/eindhoven/live-psv-zoekt-na-bliksemsnelle-gelijkmaker-naar-de-voorsprong-flamingo-komt-voor-kostic~adb5c69f/",
+          "publishedDate": "Thu, 10 Sep 2026 04:11:00 GMT",
+          "description": "Eindelijk gaat het &#233;cht beginnen: landskampioen PSV keert officieel terug in de Champions League. De ploeg van trainer Peter Bosz start het nieuwe seizoen in het miljardenbal thuis, tegen Sjachtar Don"
         },
         {
-          "title": "LIVE Youth League | PSV onder 19 kreeg grote kansen, maar heeft het nu lastig tegen Sjachtar",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/voetbal/live-psv-onder-19-trapt-youth-league-af-tegen-sjachtar-drie-zoons-van-oud-profs-in-de-basis~a60014c2/",
-          "publishedDate": "Wed, 09 Sep 2026 23:29:00 GMT",
-          "description": "Als voorprogramma op het hoofdgerecht van 18.45 uur, speelt PSV onder 19 ook al tegen Sjachtar Donetsk. In de Youth League willen de jonge Eindhovenaren het goede voorbeeld geven. Om 14.00 uur is de a ..."
-        },
-        {
-          "title": "Kostić vervangt bij PSV geschorste Mauro, ook basisplaats Wanner",
+          "title": "PSV speelt bij start Champions League teleurstellend gelijk",
           "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/kostic-vervangt-bij-psv-geschorste-mauro-ook-basisplaats-wanner",
-          "publishedDate": "Wed, 09 Sep 2026 21:08:00 GMT",
-          "description": "In PSV–Sjachtar vervangt Kostić de geschorste Mauro J&#250;nior; Wanner start basis na wissel tegen Ajax. Aftrap 18.45 uur in het Philips Stadion. Klik voor details!"
-        },
-        {
-          "title": "PSV - Shakhtar op tv: hoe laat en waar wordt de CL-wedstrijd uitgezonden?",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/psv-shakhtar-donetsk-op-tv-hoe-laat-en-waar-wordt-de-cl-wedstrijd-uitgezonden",
-          "publishedDate": "Wed, 09 Sep 2026 20:55:00 GMT",
-          "description": "PSV - Shakhtar Donetsk op tv: ontdek hoe laat de Champions League-wedstrijd begint, waar je het duel live kunt kijken en wie de scheidsrechter is."
+          "url": "https://nieuws.nl/voetbal/psv-speelt-bij-start-champions-league-teleurstellend-gelijk",
+          "publishedDate": "Wed, 09 Sep 2026 23:43:00 GMT",
+          "description": "PSV speelt in Eindhoven 1-1 tegen Sjachtar Donetsk. Mendoza scoort vlak voor rust, Dest maakt vroeg na rust gelijk. PSV mist winst; uit bij RB Leipzig volgt."
         }
       ]
     },
@@ -365,6 +33,13 @@
           "description": "Het westnijlvirus, nieuw in Nederland, heeft opnieuw twee levens ge&#235;ist. De tol van de uitbraak van het muggenvirus komt daarmee op drie slachtoffers. Ze raakten vrijwel zeker in Nederland besmet met ..."
         },
         {
+          "title": "Drie doden door westnijlvirus in Nederland, aantal besmettingen opgelopen naar achttien",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/09/10/drie-doden-door-westnijlvirus-in-nederland-aantal-besmettingen-opgelopen-naar-achttien-a4936321",
+          "publishedDate": "Thu, 10 Sep 2026 05:33:00 GMT",
+          "description": "Muggen: De besmettingen kwamen vooral aan het licht nadat pati&#235;nten in het ziekenhuis waren opgenomen met klachten, al ervaren de meeste mensen met het virus helemaal geen klachten. Het westnijlvirus ..."
+        },
+        {
           "title": "RIVM: dodental westnijlvirus stijgt naar drie, aantal besmettingen verdubbeld",
           "source": "Het Parool",
           "url": "https://www.parool.nl/nederland/rivm-dodental-westnijlvirus-stijgt-naar-drie-aantal-besmettingen-verdubbeld~b7d5c9d3/",
@@ -372,16 +47,30 @@
           "description": "Nog eens twee mensen in Nederland zijn overleden aan het westnijlvirus, meldt het RIVM. Sinds vorige week heeft het instituut negen nieuwe besmettingen geteld. Het totaal aantal besmettingen staat hie ..."
         },
         {
-          "title": "Drie doden door westnijlvirus in Nederland, aantal besmettingen verdubbeld",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/gezondheid/6409265/drie-doden-door-westnijlvirus-in-nederland-aantal-besmettingen-verdubbeld.html",
-          "publishedDate": "Thu, 10 Sep 2026 04:18:00 GMT",
-          "description": "Een derde persoon is overleden aan het westnijlvirus, blijkt uit de wekelijkse cijfers van het RIVM. De afgelopen week kwamen er negen nieuwe besmettingen bij, waardoor het totaal aantal besmettingen ..."
+          "title": "Westnijlvirus vastgesteld bij 25 paarden en zestigtal vogels",
+          "source": "Landbouwleven",
+          "url": "https://www.landbouwleven.be/26163/article/2026-09-10/westnijlvirus-vastgesteld-bij-25-paarden-en-zestigtal-vogels",
+          "publishedDate": "Thu, 10 Sep 2026 11:03:00 GMT",
+          "description": "Er zijn in Belgi&#235; al 25 gevallen van het westnijlvirus vastgesteld bij paarden sinds de eerste besmetting begin augustus. Ook bij een zestigtal vogels is het virus al geconstateerd. Dat zegt het Feder ..."
         },
         {
-          "title": "Heienoordse stal slaat alarm om westnijlvirus: 'Gisteren moesten we een paard laten inslapen'",
+          "title": "Westnijlvirus vastgesteld bij mensen en dieren in Gelderland: actuele situatie",
+          "source": "112Barneveld",
+          "url": "https://112barneveld.nl/westnijlvirus-vastgesteld-bij-mensen-en-dieren-in-gelderland-actuele-situatie/",
+          "publishedDate": "Thu, 10 Sep 2026 10:45:00 GMT",
+          "description": "Westnijlvirus vastgesteld bij mensen en dieren in Gelderland. Nieuwe besmettingen gemeld, ook dieren getroffen. Lees de actuele situatie hier."
+        },
+        {
+          "title": "Westnijlvirus in Gelderland vastgesteld bij mensen, paarden en vogels",
+          "source": "112Ede",
+          "url": "https://112ede.nl/westnijlvirus-gelderland-mensen-paarden-vogels/",
+          "publishedDate": "Thu, 10 Sep 2026 10:45:00 GMT",
+          "description": "Het westnijlvirus is vastgesteld bij mensen, paarden en vogels in Gelderland en andere provincies. Drie mensen overleden in 2026."
+        },
+        {
+          "title": "Heinenoordse stal slaat alarm om westnijlvirus: 'Gisteren moesten we een paard laten inslapen'",
           "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2252007/heienoordse-stal-slaat-alarm-om-westnijlvirus-gisteren-moesten-we-een-paard-laten-inslapen",
+          "url": "https://www.rijnmond.nl/nieuws/2252007/heinenoordse-stal-slaat-alarm-om-westnijlvirus-gisteren-moesten-we-een-paard-laten-inslapen",
           "publishedDate": "Thu, 10 Sep 2026 09:02:00 GMT",
           "description": "Het westnijlvirus grijpt steeds meer om zich heen. Niet alleen bij mensen, maar ook onder dieren: bij de Nederlandse Voedsel- en Warenautoriteit (NVWA) zijn inmiddels 58 meldingen van besmette paarden ..."
         },
@@ -400,32 +89,11 @@
           "description": "Sinds september zijn negen nieuwe pati&#235;nten met het westnijlvirus gemeld, waardoor het totaal op achttien komt."
         },
         {
-          "title": "Dodental westnijlvirus stijgt naar 3, aantal besmettingen verdubbeld, meldt RIVM",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/binnenland/dodental-westnijlvirus-stijgt-naar-3-aantal-besmettingen-verdubbeld-meldt-rivm~ab80b5de/",
-          "publishedDate": "Wed, 09 Sep 2026 21:19:00 GMT",
-          "description": "Drie mensen in Nederland zijn overleden door het westnijlvirus. Het aantal besmettingen is gestegen van 9 naar 18 meldt het RIVM."
-        },
-        {
-          "title": "Westnijlvirus vastgesteld bij 25 paarden en zestigtal vogels",
-          "source": "Landbouwleven",
-          "url": "https://www.landbouwleven.be/26163/article/2026-09-10/westnijlvirus-vastgesteld-bij-25-paarden-en-zestigtal-vogels",
-          "publishedDate": "Wed, 09 Sep 2026 21:01:00 GMT",
-          "description": "Er zijn in Belgi&#235; al 25 gevallen van het westnijlvirus vastgesteld bij paarden sinds de eerste besmetting begin augustus. Ook bij een zestigtal vogels is het virus al geconstateerd. Dat zegt het Feder ..."
-        },
-        {
-          "title": "Westnijlvirus vastgesteld bij mensen en dieren in Gelderland: actuele situatie",
-          "source": "112Barneveld",
-          "url": "https://112barneveld.nl/westnijlvirus-vastgesteld-bij-mensen-en-dieren-in-gelderland-actuele-situatie/",
-          "publishedDate": "Wed, 09 Sep 2026 20:46:00 GMT",
-          "description": "Westnijlvirus vastgesteld bij mensen en dieren in Gelderland. Nieuwe besmettingen gemeld, ook dieren getroffen. Lees de actuele situatie hier."
-        },
-        {
-          "title": "Westnijlvirus in Gelderland vastgesteld bij mensen, paarden en vogels",
-          "source": "112Ede",
-          "url": "https://112ede.nl/westnijlvirus-gelderland-mensen-paarden-vogels/",
-          "publishedDate": "Wed, 09 Sep 2026 20:46:00 GMT",
-          "description": "Het westnijlvirus is vastgesteld bij mensen, paarden en vogels in Gelderland en andere provincies. Drie mensen overleden in 2026."
+          "title": "Dodental westnijlvirus stijgt naar drie, aantal besmettingen verdubbeld",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/milieu-gezondheid/zorg/artikelen/westnijlvirus-negen-nieuwe-patienten",
+          "publishedDate": "Thu, 10 Sep 2026 02:16:00 GMT",
+          "description": "Sinds 3 september zijn negen nieuwe pati&#235;nten met het westnijlvirus gemeld. In 2026 zijn nu achttien pati&#235;nten gemeld en drie overleden."
         }
       ]
     },
@@ -506,22 +174,98 @@
       ]
     },
     {
-      "keyword": "fatbike",
+      "keyword": "b&amp;b vol liefde de reünie",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Farhan (18) overleed bij ongeluk tussen fatbike en vrachtwagen, school in rouw: ‘We zijn geschokt’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/gouda/farhan-18-overleed-bij-ongeluk-tussen-fatbike-en-vrachtwagen-school-in-rouw-we-zijn-geschokt~ad63b3a1/",
-          "publishedDate": "Thu, 10 Sep 2026 01:25:00 GMT",
-          "description": "De 18-jarige Farhan die dinsdagochtend een verkeersongeluk kreeg op de Nieuwe Gouwe O.Z. in Gouda, was student op MBO Rijnland. Dat bevestigt een woordvoerder van de school. De jongen reed op een fatb ..."
+          "title": "De re&#252;nie van 'B&amp;B Vol Liefde' is een feit: d&#237;t zijn de stellen die nog bij elkaar zijn",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/entertainment/bbijpraten/reunie-bb-vol-liefde-stellen-bij-elkaar/",
+          "publishedDate": "Thu, 10 Sep 2026 09:26:00 GMT",
+          "description": "Het was weer een bewogen seizoen van B&amp;B Vol Liefde. Er werd gespeculeerd, er werden polletjes gemaakt en er werd gehoopt op liefde voor de ene kandidaat en een goede therapiesessie voor de andere.&#160; A ..."
         },
+        {
+          "title": "B&amp;B Vol Liefde-Paul beleeft ongemakkelijk moment met Marjo: 'Dit wordt pijnlijk'",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/tv/reality/artikelen/paul-en-marjo-ongemakkelijk-moment-reunie-bb-vol-liefde",
+          "publishedDate": "Thu, 10 Sep 2026 08:45:00 GMT",
+          "description": "Paul en Marjo kregen in B&amp;B Vol Liefde een tweede kans op de liefde. Tijdens de re&#252;nie wordt duidelijk hoe het nu &#233;cht tussen de twee zit."
+        },
+        {
+          "title": "Re&#252;nie B&amp;B Vol Liefde 2026: dit zijn alle onthullingen",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/reality/reunie-b-en-b-vol-liefde-2026-alle-onthullingen-reality",
+          "publishedDate": "Thu, 10 Sep 2026 03:41:00 GMT",
+          "description": "It's a wrap: B&amp;B Vol Liefde 2026 zit erop. RTL4-kijkers zien vanavond het laatste deel van de re&#252;nie maar op Videoland hebben veel mensen al gezien hoe het afloopt tussen Timothy en Michael. En heeft ..."
+        },
+        {
+          "title": "Wie zijn er nog samen? Dit is de relatiestatus van alle B&amp;B Vol Liefde-deelnemers",
+          "source": "Girlscene",
+          "url": "https://www.girlscene.nl/b-b-vol-liefde-reunie-koppels-nog-samen/",
+          "publishedDate": "Thu, 10 Sep 2026 03:39:00 GMT",
+          "description": "De B&amp;B Vol Liefde-re&#252;nie zit erop! Welke koppels zijn nog samen en bij wie is de liefde voorbij? Dit is de relatiestatus van alle deelnemers."
+        },
+        {
+          "title": "BenB Vol Liefde-Thomas terug bij Anna na mislukte romance met Mexx",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/benb-vol-liefde-thomas-terug-bij-anna-na-mislukte-romance-met-mexx",
+          "publishedDate": "Wed, 09 Sep 2026 23:45:00 GMT",
+          "description": "Thomas zorgde tijdens de re&#252;nie van B&amp;B Vol Liefde voor flink wat gefronste wenkbrauwen. Na de breuk met Mexx ging hij terug naar Anna."
+        },
+        {
+          "title": "B&amp;B Vol Liefde-Timothy en Micha&#235;l bevestigen relatie tijdens re&#252;nie: 'Vreugdetranen'",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/tv/reality/artikelen/bb-vol-liefde-timothy-michael-bevestigen-relatie-reunie-tranen",
+          "publishedDate": "Wed, 09 Sep 2026 13:18:00 GMT",
+          "description": "Het is een ontroerende re&#252;nie voor Timothy en Micha&#235;l uit B&amp;B Vol Liefde! Hun liefde bloeide op Ibiza, nu delen ze aan het einde van de rit hun emoties en vreugdetranen."
+        },
+        {
+          "title": "Om deze tijd staat de re&#252;nie van B&amp;B Vol Liefde op Videoland",
+          "source": "showbizznetwork",
+          "url": "https://showbizznetwork.nl/nieuws/artikel/77221/om-deze-tijd-staat-de-reunie-van-b-en-b-vol-liefde-op-videoland",
+          "publishedDate": "Wed, 09 Sep 2026 06:01:00 GMT",
+          "description": "Het datingavontuur van B&amp;B Vol Liefde zit erop. In de re&#252;nie blikt Leonie ter Braak samen met de B&amp;B-eigenaren terug op het afgelopen seizoen. Ook ..."
+        },
+        {
+          "title": "D&#237;t is wanneer je de re&#252;nie van 'B&amp;B Vol Liefde' 2026 kunt kijken (en dat wil je)",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/entertainment/wil-je-weten/bb-vol-liefde-2026-reunie/",
+          "publishedDate": "Wed, 09 Sep 2026 04:55:00 GMT",
+          "description": "Op woensdag 9 september is de laatste reguliere aflevering van B&amp;B Vol Liefde 2026 op televisie te zien. De Videoland-kijker kon de laatste al op 2 september bekijken."
+        },
+        {
+          "title": "Zo laat moet je klaarzitten voor de re&#252;nie van B&amp;B Vol Liefde op Videoland",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/reality/zo-laat-moet-je-klaarzitten-reunie-b-en-b-vol-liefde-videoland",
+          "publishedDate": "Wed, 09 Sep 2026 03:10:00 GMT",
+          "description": "Na een zomer vol liefde horen we vandaag eindelijk wie van de stellen uit B&amp;B Vol Liefde 2026 nog bij elkaar zijn. Alleen hoe laat verschijnt die re&#252;nie nu precies bij Videoland?"
+        },
+        {
+          "title": "Dit is wanneer de re&#252;nie van B&amp;B vol liefde te zien is",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/show/dit-is-wanneer-de-reunie-van-b-b-vol-liefde-te-zien-is~a3bbbf86/",
+          "publishedDate": "Wed, 10 Sep 2025 05:19:00 GMT",
+          "description": "Het liefdesavontuur van de singles in B&amp;B vol liefde zit erop. Bij wie schoot cupido raak? Dat wordt donderdagavond duidelijk in de re&#252;nie-aflevering. Hier lees je wanneer de uitzending te zien is. In ..."
+        }
+      ]
+    },
+    {
+      "keyword": "fatbike",
+      "trafficLabel": "10K+",
+      "articles": [
         {
           "title": "Fatbike die op dichte spoorwegovergang knalt zorgt voor verbazing: ‘Als je de beelden ziet... Het gaat maar net goed’",
           "source": "Algemeen Dagblad",
           "url": "https://www.ad.nl/binnenland/fatbike-die-op-dichte-spoorwegovergang-knalt-zorgt-voor-verbazing-als-je-de-beelden-ziet-het-gaat-maar-net-goed~a3a75010/",
           "publishedDate": "Wed, 09 Sep 2026 21:23:00 GMT",
           "description": "Twee jongeren zijn dinsdag met de schrik vrijgekomen na een botsing op een spoorwegovergang in Alkmaar. Op dashcambeelden is te zien hoe ze met hun fatbike hard tegen een spoorboom knallen, terwijl ee ..."
+        },
+        {
+          "title": "Nieuwe school in Gouda geeft overstappers gratis fatbike of laptop, gemeenteraad vraagt uitleg",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/gouda/nieuwe-school-in-gouda-geeft-overstappers-gratis-fatbike-of-laptop-gemeenteraad-vraagt-uitleg~a6ab0ab1/",
+          "publishedDate": "Sun, 06 Sep 2026 01:00:00 GMT",
+          "description": "De plannen van het Novum Saeculum Lyceum om overstappende leerlingen een &lt;a href=&quot;https://www.ad.nl/binnenland/nieuwe-islamitische-school-vindt-opmerkelijke-manier-om-leerlingen-te-werven-ze-krijgen-e ..."
         },
         {
           "title": "Gevolgen opvoeren e- of fatbike jeugd &#233;n ouders ingewreven",
@@ -582,84 +326,8 @@
       ]
     },
     {
-      "keyword": "amsterdam",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Aanrijding tussen fietser en vrachtwagen in Amsterdam-Osdorp: fietser gewond naar ziekenhuis",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/aanrijding-tussen-fietser-en-vrachtwagen-in-amsterdam-osdorp-fietser-gewond-naar-ziekenhuis~b5449010/",
-          "publishedDate": "Thu, 10 Sep 2026 06:52:00 GMT",
-          "description": "Aan de Ookmeerweg in Amsterdam Nieuw-West zijn donderdagmiddag een fietser en een vrachtwagen in botsing gekomen. De fietser raakte gewond."
-        },
-        {
-          "title": "Interne documenten bevestigen: gemeente Amsterdam wil 2500 banen schrappen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2630444-interne-documenten-bevestigen-gemeente-amsterdam-wil-2500-banen-schrappen",
-          "publishedDate": "Thu, 10 Sep 2026 05:27:00 GMT",
-          "description": "Bij het Ingenieursbureau van de gemeente, de dienst Verkeer &amp; Openbare Ruimte moeten honderden banen verdwijnen, maar ook andere diensten worden niet ontzien."
-        },
-        {
-          "title": "Kaalslag binnen ambtenarij: hier wil gemeente Amsterdam 2500 banen schrappen",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/kaalslag-binnen-ambtenarij-hier-wil-gemeente-amsterdam-2500-banen-schrappen~b464234d/",
-          "publishedDate": "Thu, 10 Sep 2026 02:27:00 GMT",
-          "description": "Interne stukken laten zien hoe de gemeente Amsterdam 2500 van de ruim 22.000 fte wil schrappen in het ambtelijk apparaat. Zo moet de GGD Amsterdam een plan maken om 127 fte te bezuinigen. Wethouder He ..."
-        },
-        {
-          "title": "Zet deze pop-up in je agenda: Martan opent tijdelijk een shop in Amsterdam",
-          "source": "ELLE",
-          "url": "https://www.elle.com/nl/mode/mode-nieuws/a73665511/martan-pop-up-amsterdam-2026/",
-          "publishedDate": "Thu, 10 Sep 2026 09:02:00 GMT",
-          "description": "De nieuwe AW'26-collectie is hier voor het eerst offline te shoppen, naast bijzondere interieurstukken, kunst en items uit eerdere collecties."
-        },
-        {
-          "title": "Gemeente Amsterdam wil voor 2030 fors banen schrappen",
-          "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/gemeente-amsterdam-wil-voor-2030-fors-banen-schrappen",
-          "publishedDate": "Thu, 10 Sep 2026 05:02:00 GMT",
-          "description": "AMSTERDAM (ANP) - Amsterdam wil 2500 voltijdsbanen schrappen voor 2030, schrijft wethouder Hendrik Jan Biemond aan de gemeenteraad op basis van gemaakte afsprak ..."
-        },
-        {
-          "title": "Breda staat tweede op de wereldlijst van groenste steden, Amsterdam blijft ver achter",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/natuur-en-milieu/breda-staat-tweede-op-de-wereldlijst-van-groenste-steden-amsterdam-blijft-ver-achter",
-          "publishedDate": "Wed, 09 Sep 2026 23:30:00 GMT",
-          "description": "Loop op een hete zomerdag door Breda en daarna door een Amsterdamse woonstraat, en u voelt binnen tien minuten verschil. Dat verschil zit niet in het aantal parken, en zelfs niet in het totale aantal."
-        },
-        {
-          "title": "Amsterdam wil 2.500 ambtenarenbanen schrappen, gedwongen ontslagen niet uitgesloten",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/363300/amsterdam-wil-2500-ambtenarenbanen-schrappen-gedwongen-ontslagen-niet-uitgesloten",
-          "publishedDate": "Wed, 09 Sep 2026 19:49:00 GMT",
-          "description": "Gemeente Amsterdam schrapt 2500 banen, vooral bij Verkeer en Openbare Ruimte, Ingenieursbureau en GGD. Ontslagen niet uitgesloten. Lees het volledige overzicht."
-        },
-        {
-          "title": "Lichaam te water geraakte man Amsterdam gevonden",
-          "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/lichaam-te-water-geraakte-man-amsterdam-gevonden",
-          "publishedDate": "Wed, 09 Sep 2026 17:57:00 GMT",
-          "description": "AMSTERDAM (ANP) - Een 47-jarige man uit Amsterdam is woensdag overleden nadat hij van een plezierjacht viel op het IJ. Na een grote zoekactie met duikers is het ..."
-        },
-        {
-          "title": "SLM vlucht PY994 naar Amsterdam geannuleerd wegens technisch probleem",
-          "source": "Waterkant.net",
-          "url": "https://www.waterkant.net/suriname/2026/09/10/slm-vlucht-py994-naar-amsterdam-geannuleerd-wegens-technisch-probleem/",
-          "publishedDate": "Wed, 09 Sep 2026 17:00:00 GMT",
-          "description": "In Suriname is de SLM vlucht PY994 van Paramaribo naar Amsterdam woensdagavond 9 september 2026 geannuleerd vanwege een technisch probleem. De passagiers ..."
-        },
-        {
-          "title": "De Grannies van Amsterdam vallen internationaal in de prijzen",
-          "source": "MAX Vandaag",
-          "url": "https://www.maxvandaag.nl/sessies/themas/media-cultuur/de-grannies-van-amsterdam-vallen-internationaal-in-de-prijzen/",
-          "publishedDate": "Wed, 09 Sep 2026 10:00:00 GMT",
-          "description": "De Grannies van Amsterdam is tijdens het EBU Formats Forum 2026 uitgeroepen tot Format of the Year. Het programma, geprodueerd door de Beeldbrigade in samenwerking met Omroep MAX werd bekroond door ve ..."
-        }
-      ]
-    },
-    {
-      "keyword": "b&amp;b vol liefde de reünie",
-      "trafficLabel": "10K+",
+      "keyword": "b&amp;b vol liefde reunie fred",
+      "trafficLabel": "5K+",
       "articles": [
         {
           "title": "De re&#252;nie van 'B&amp;B Vol Liefde' is een feit: d&#237;t zijn de stellen die nog bij elkaar zijn",
@@ -667,34 +335,6 @@
           "url": "https://www.linda.nl/entertainment/bbijpraten/reunie-bb-vol-liefde-stellen-bij-elkaar/",
           "publishedDate": "Thu, 10 Sep 2026 09:26:00 GMT",
           "description": "Het was weer een bewogen seizoen van B&amp;B Vol Liefde. Er werd gespeculeerd, er werden polletjes gemaakt en er werd gehoopt op liefde voor de ene kandidaat en een goede therapiesessie voor de andere.&#160; A ..."
-        },
-        {
-          "title": "B&amp;B Vol Liefde-Paul beleeft ongemakkelijk moment met Marjo: 'Dit wordt pijnlijk'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/tv/reality/artikelen/paul-en-marjo-ongemakkelijk-moment-reunie-bb-vol-liefde",
-          "publishedDate": "Thu, 10 Sep 2026 08:45:00 GMT",
-          "description": "Paul en Marjo kregen in B&amp;B Vol Liefde een tweede kans op de liefde. Tijdens de re&#252;nie wordt duidelijk hoe het nu &#233;cht tussen de twee zit."
-        },
-        {
-          "title": "B&amp;B Vol Liefde-Iris confronteert Jiry tijdens re&#252;nie: 'Donderslag bij heldere hemel'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/bb-vol-liefde-iris-confronteert-jiry-tijdens-reunie-donderslag-bij-heldere",
-          "publishedDate": "Thu, 10 Sep 2026 08:10:00 GMT",
-          "description": "Ontdek de spannende re&#252;nie tussen Iris en Jiry uit B&amp;B Vol Liefde. Ze bespreken hun emoties, twijfels en de onduidelijkheden na hun bijzondere momenten. Mis het niet!"
-        },
-        {
-          "title": "Is het nog iets geworden tussen Paul en Marjo uit 'B&amp;B Vol Liefde'? Dit zeggen ze op de re&#252;nie",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/entertainment/fragment-gemist/paul-marjo-bb-vol-liefde-update-reunie/",
-          "publishedDate": "Thu, 10 Sep 2026 04:26:00 GMT",
-          "description": "Dat Marjo indruk maakte op Paul&#160;werd pas &#233;cht duidelijk nadat ze uit eigen beweging naar Nederland was teruggekeerd. Ze wilde thuis ontdekken of ze Paul daadwerkelijk zou missen, maar haar vertrek dee ..."
-        },
-        {
-          "title": "Thomas uit B&amp;B Vol Liefde krijgt er na de re&#252;nie flink van langs online",
-          "source": "TVgids.nl",
-          "url": "https://www.tvgids.nl/nieuws/reality/thomas-b-en-b-vol-liefde-onthullingen-reunie-mexx-anna-lynn",
-          "publishedDate": "Thu, 10 Sep 2026 03:55:00 GMT",
-          "description": "Thomas uit B&amp;B Vol Liefde kan de komende tijd beter even niet kijken op X. Na de onthullingen in de re&#252;nie zijn mensen namelijk niet bepaald aardig."
         },
         {
           "title": "Re&#252;nie B&amp;B Vol Liefde 2026: dit zijn alle onthullingen",
@@ -711,18 +351,39 @@
           "description": "De B&amp;B Vol Liefde-re&#252;nie zit erop! Welke koppels zijn nog samen en bij wie is de liefde voorbij? Dit is de relatiestatus van alle deelnemers."
         },
         {
-          "title": "Om deze tijd staat de re&#252;nie van B&amp;B Vol Liefde op Videoland",
-          "source": "showbizznetwork",
-          "url": "https://showbizznetwork.nl/nieuws/artikel/77221/om-deze-tijd-staat-de-reunie-van-b-en-b-vol-liefde-op-videoland",
-          "publishedDate": "Wed, 09 Sep 2026 06:01:00 GMT",
-          "description": "Het datingavontuur van B&amp;B Vol Liefde zit erop. In de re&#252;nie blikt Leonie ter Braak samen met de B&amp;B-eigenaren terug op het afgelopen seizoen. Ook ..."
+          "title": "Hebben Doete en Fred nog contact gehad na 'B&amp;B Vol Liefde'? Re&#252;nie geeft duidelijkheid",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/entertainment/fragment-gemist/fred-doete-bb-vol-liefde-reunie/",
+          "publishedDate": "Thu, 10 Sep 2026 01:01:00 GMT",
+          "description": "Wie hoopte dat er na B&amp;B Vol Liefde nog een vervolg zou komen op het stripverhaal van Fred en Doete, kunnen we meteen uit die de droom helpen. Ze zijn geen setje geworden. Tijdens de re&#252;nie blijkt bov ..."
         },
         {
-          "title": "Noo! Deze veelbesproken B&amp;B Vol Liefde-deelnemer zal niet aanwezig zijn bij de re&#252;nie",
-          "source": "Cosmopolitan",
-          "url": "https://www.cosmopolitan.com/nl/entertainment/a73528452/bb-vol-liefde-deelnemer-niet-aanwezig-reunie/",
-          "publishedDate": "Wed, 26 Aug 2026 02:06:00 GMT",
-          "description": "Het seizoen van B&amp;B Vol Liefde kan mij eigenlijk niet lang genoeg duren, maar ik heb vooral ook heel erg veel zin in de re&#252;nie. Ik ben altijd razend benieuwd welke koppels uiteindelijk nog samen zijn."
+          "title": "Doete uit B&amp;B vol liefde gaf Fred een koekje van eigen deeg",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/show/doete-uit-benb-vol-liefde-gaf-fred-een-koekje-van-eigen-deeg~a018a349/",
+          "publishedDate": "Wed, 09 Sep 2026 06:05:00 GMT",
+          "description": "Fred uit B&amp;B vol liefde hoopte op spektakel. De ultieme apotheose. Maar in plaats daarvan kreeg hij een briljant koekje van eigen deeg."
+        },
+        {
+          "title": "Zo laat moet je klaarzitten voor de re&#252;nie van B&amp;B Vol Liefde op Videoland",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/reality/zo-laat-moet-je-klaarzitten-reunie-b-en-b-vol-liefde-videoland",
+          "publishedDate": "Wed, 09 Sep 2026 03:10:00 GMT",
+          "description": "Na een zomer vol liefde horen we vandaag eindelijk wie van de stellen uit B&amp;B Vol Liefde 2026 nog bij elkaar zijn. Alleen hoe laat verschijnt die re&#252;nie nu precies bij Videoland?"
+        },
+        {
+          "title": "Fred baalt van Ellen in B&amp;B Vol Liefde: 'Ze heeft me nergens in verrast'",
+          "source": "MSN",
+          "url": "https://www.msn.com/nl-nl/lifestyle/other/fred-baalt-van-ellen-in-b-b-vol-liefde-ze-heeft-me-nergens-in-verrast/ar-AA2aDnsh",
+          "publishedDate": "Fri, 21 Aug 2026 02:03:00 GMT",
+          "description": "Het B&amp;B Vol Liefde-avontuur van de kunstenaar Fred op Bonaire blijft de gemoederen flink bezighouden. De 67-jarige B&amp;B-eigenaar bruist van de energie, maar lijkt tot nu toe maar lastig een vrouw te ..."
+        },
+        {
+          "title": "Fred uit B&amp;B vol liefde was zo klaar met Ceciel, dat ze niet eens de tijd kreeg om zich voor te bereiden op de terugreis",
+          "source": "AD",
+          "url": "https://www.ad.nl/show/fred-uit-benb-vol-liefde-was-zo-klaar-met-ceciel-dat-ze-niet-eens-de-tijd-kreeg-om-zich-voor-te-bereiden-op-de-terugreis~a11ac55b/",
+          "publishedDate": "Tue, 21 Jul 2026 06:25:00 GMT",
+          "description": "Waar Fred uit B&amp;B Vol Liefde dinsdagavond een blokkade voelde, zat ik met plaatsvervangende schaamte voor de buis. Het lag er natuurlijk dik bovenop dat dit niks ging worden. Ceciel had zich maandag ..."
         },
         {
           "title": "Dit is wanneer de re&#252;nie van B&amp;B vol liefde te zien is",
@@ -730,6 +391,289 @@
           "url": "https://www.destentor.nl/show/dit-is-wanneer-de-reunie-van-b-b-vol-liefde-te-zien-is~a3bbbf86/",
           "publishedDate": "Wed, 10 Sep 2025 05:19:00 GMT",
           "description": "Het liefdesavontuur van de singles in B&amp;B vol liefde zit erop. Bij wie schoot cupido raak? Dat wordt donderdagavond duidelijk in de re&#252;nie-aflevering. Hier lees je wanneer de uitzending te zien is. In ..."
+        },
+        {
+          "title": "Opnames voor B&amp;amp;B Vol Liefde in Utrecht: zien we Renske, Lieske en Rayisa &#243;&#243;k terug bij re&#252;nie?",
+          "source": "AD",
+          "url": "https://www.ad.nl/utrecht/opnames-voor-b-b-vol-liefde-in-utrecht-zien-we-renske-lieske-en-rayisa-ook-terug-bij-reunie~a0a832b2/",
+          "publishedDate": "Wed, 27 Aug 2025 00:47:00 GMT",
+          "description": "Hoe vergaat het de kandidaten en singles die meedoen met B&amp;B vol liefde, nu het televisieprogramma al wekenlang draait en miljoenen Nederlanders meeleven in hun zoektocht naar de ware? Vandaag moet er ..."
+        }
+      ]
+    },
+    {
+      "keyword": "mayor of kingstown",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Taylor Sheridan &amp; Jeremy Renner’s Mayor of Kingstown Just Found a New Streaming Home",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/taylor-sheridan-jeremy-renner-mayor-140000064.html",
+          "publishedDate": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "description": "Taylor Sheridan and Jeremy Renner’s hit crime thriller just landed a major new streaming deal that could change everything. The Mayor of Kingstown creators secured a surprising new home for the ..."
+        },
+        {
+          "title": "Taylor Sheridan’s ‘Mayor of Kingstown’ sets Netflix release date ahead of season 5 premiere",
+          "source": "MEAWW on MSN",
+          "url": "https://www.msn.com/en-us/news/other/taylor-sheridan-s-mayor-of-kingstown-sets-netflix-release-date-ahead-of-season-5-premiere/ar-AA2bRIUB",
+          "publishedDate": "Wed, 09 Sep 2026 04:07:23 GMT",
+          "description": "‘Mayor of Kingstown’ is heading to Netflix, giving fans another way to watch Jeremy Renner lead Taylor Sheridan’s hit drama."
+        },
+        {
+          "title": "Taylor Sheridan’s 4-Part Crime Thriller Is Officially Coming to Netflix",
+          "source": "Collider",
+          "url": "https://collider.com/taylor-sheridan-mayor-of-kingstown-netflix-release-date/",
+          "publishedDate": "Wed, 09 Sep 2026 00:00:00 GMT",
+          "description": "Taylor Sheridan's crime thriller Mayor of Kingstown has officially set its Netflix premiere date ahead of its final season. Find out more here."
+        },
+        {
+          "title": "Taylor Sheridan's 'Mayor of Kingstown’ Is Moving to Netflix — Here’s When",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/taylor-sheridans-mayor-kingstown-moving-233212090.html",
+          "publishedDate": "Tue, 08 Sep 2026 16:32:00 GMT",
+          "description": "The Jeremy Renner-led series, which is set to conclude with its final season soon, will find an additional streaming home in the coming weeks."
+        },
+        {
+          "title": "Jeremy Renner’s ‘Mayor of Kingstown’ Is Breaking Free From Paramount+ and Coming to Netflix, Here’s When",
+          "source": "Fiction Horizon",
+          "url": "https://fictionhorizon.com/jeremy-renners-mayor-of-kingstown-is-breaking-free-from-paramount-and-coming-to-netflix-heres-when/",
+          "publishedDate": "Tue, 08 Sep 2026 06:01:00 GMT",
+          "description": "Jeremy Renner’s gritty crime drama Mayor of Kingstown is about to reach a much bigger audience. After spending years behind the Paramount+ paywall, the series ..."
+        },
+        {
+          "title": "Taylor Sheridan’s ‘Mayor of Kingstown’ Sets Netflix Release Date",
+          "source": "What's on Netflix",
+          "url": "https://www.whats-on-netflix.com/news/mayor-of-kingstown-netflix-release-date/",
+          "publishedDate": "Tue, 08 Sep 2026 00:51:00 GMT",
+          "description": "Multiple seasons of the hard-hitting Michigan-set drama are scheduled to arrive on Netflix in the US and globally."
+        },
+        {
+          "title": "Mayor of Kingstown to end with season 5",
+          "source": "TVLine on MSN",
+          "url": "https://www.msn.com/en-us/entertainment/tv/mayor-of-kingstown-to-end-with-season-5/ar-AA2bz67B",
+          "publishedDate": "Fri, 04 Sep 2026 03:00:00 GMT",
+          "description": "Jeremy Renner's Paramount+ series is coming to an end. Get details!"
+        },
+        {
+          "title": "All About “Mayor of Kingstown ”Season 5",
+          "source": "AOL",
+          "url": "https://www.aol.com/articles/mayor-kingstown-season-5-220000000.html",
+          "publishedDate": "Tue, 14 Jul 2026 15:00:00 GMT",
+          "description": "Mayor of Kingstown will come to an end with season 5. In January 2026, Paramount+ announced that the crime thriller series — starring Jeremy Renner and Edie Falco — had been renewed for a fifth and ..."
+        },
+        {
+          "title": "All About Mayor of Kingstown Season 5",
+          "source": "People",
+          "url": "https://people.com/mayor-of-kingstown-season-5-everything-to-know-12017217",
+          "publishedDate": "Tue, 14 Jul 2026 15:00:00 GMT",
+          "description": "From the cast to the plot, here’s everything to know about the Jeremy Renner-led series Kelly Allen is a contributing writer at PEOPLE. Her work has also appeared in Architectural Digest, Wallpaper*, ..."
+        },
+        {
+          "title": "All About “Mayor of Kingstown ”Season 5",
+          "source": "Yahoo News Singapore",
+          "url": "https://sg.news.yahoo.com/mayor-kingstown-season-5-220000426.html",
+          "publishedDate": "Tue, 14 Jul 2026 08:00:00 GMT",
+          "description": "Add Yahoo as a preferred source to see more of our stories on Google. Production has officially wrapped on season 5, which will see an FBI agent named Russell Hardy (David Morse) arrive in Kingstown, ..."
+        }
+      ]
+    },
+    {
+      "keyword": "nisha tara",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Nisha Tara en Lieske geven langverwachte update over liefde na B&amp;B Vol Liefde",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/nisha-tara-en-lieske-geven-langverwachte-update-over-liefde-na-b-b-vol-liefde/ar-AA2bTC70",
+          "publishedDate": "Wed, 09 Sep 2026 12:57:19 GMT",
+          "description": "Kijkers van 'B&amp;B Vol Liefde' moesten halverwege het seizoen afscheid nemen van Nisha Tara nemen nadat ze de liefde vond bij Lieske. Tijdens de re&#252;nie-aflevering geven zijn antwoord op de vraag of ze n ..."
+        },
+        {
+          "title": "B&amp;B vol liefde: wannabe-miljonair Timothy laat pantser zakken, vuile onderbroeken als liefdesonderpand",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/entertainment/media/bb-vol-liefde-wannabe-miljonair-timothy-laat-pantser-zakken-vuile-onderbroeken-als-liefdesonderpand/159571817.html",
+          "publishedDate": "Tue, 04 Aug 2026 15:24:00 GMT",
+          "description": "Aan de tenen van een wannabe-miljonair of aan een dood paard trekken? B&amp;B vol liefde aflevering 10 zit vol twijfels en een overal doorheen fladderende vrouw met het Pippi Langkoussyndroom."
+        },
+        {
+          "title": "De re&#252;nie van 'B&amp;B Vol Liefde' is een feit: d&#237;t zijn de stellen die nog bij elkaar zijn",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/entertainment/bbijpraten/reunie-bb-vol-liefde-stellen-bij-elkaar/",
+          "publishedDate": "Thu, 10 Sep 2026 09:26:00 GMT",
+          "description": "Het was weer een bewogen seizoen van B&amp;B Vol Liefde. Er werd gespeculeerd, er werden polletjes gemaakt en er werd gehoopt op liefde voor de ene kandidaat en een goede therapiesessie voor de andere.&#160; A ..."
+        },
+        {
+          "title": "Nisha Tara en Lieske geven tijdens B&amp;B Vol Liefde-re&#252;nie duidelijkheid over hun relatie",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/tv/reality/artikelen/nisha-tara-en-lieske-bb-vol-liefde-reunie",
+          "publishedDate": "Thu, 10 Sep 2026 03:46:00 GMT",
+          "description": "Nisha Tara en Lieske uit B&amp;B Vol Liefde geven tijdens de langverwachte re&#252;nie duidelijkheid over hun relatie. De twee blijken nog altijd gelukkig samen."
+        },
+        {
+          "title": "Nisha Tara en Lieske geven langverwachte update over gevoelens na 'B&amp;B Vol Liefde'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/entertainment/fragment-gemist/nisha-tara-lieske-update-relatie-bb-vol-liefde/",
+          "publishedDate": "Thu, 10 Sep 2026 03:39:00 GMT",
+          "description": "Nisha Tara en Lieske leken in B&amp;B Vol Liefde z&#243; verliefd, dat het bijna onmogelijk zou zijn als ze niet langer samen waren. Het was dan ook geen verrassing dat dat nog steeds zo is. Tijdens de re&#252;nie ..."
+        },
+        {
+          "title": "Nisha Tara en Lieske geven antwoord: Zijn ze nog samen?",
+          "source": "LoveReality",
+          "url": "https://lovereality.nl/nisha-tara-en-lieske-geven-antwoord-zijn-ze-nog-samen/",
+          "publishedDate": "Wed, 09 Sep 2026 15:03:00 GMT",
+          "description": "Na een vreemde en vooral korte reis door het Franse land was het helemaal raak voor Nisha Tara. Ze raakte op slag verliefd op Lieske, al waren er bij veel kijkers vraagtekens hoe ‘op slag’ dit daadwer ..."
+        },
+        {
+          "title": "Zien! Nisha Tara uit B&amp;B Vol Liefde verruilt haar grijze lokken voor d&#233;ze haarkleur",
+          "source": "Girlscene on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/zien-nisha-tara-uit-b-b-vol-liefde-verruilt-haar-grijze-lokken-voor-d%C3%A9ze-haarkleur/ar-AA2bRBnT",
+          "publishedDate": "Tue, 08 Sep 2026 23:53:00 GMT",
+          "description": "We kennen Nisha Tara natuurlijk van haar signature grijze lokken, maar wat blijkt nu? De B&amp;B-eigenaresse heeft haar iconische coupe ingeruild voor een compleet nieuwe haarkleur! Je snapt het al: deze ..."
+        },
+        {
+          "title": "Jutta geeft inkijkje in haar leven en Nisha Tara plukt zich een ongeluk",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/show/yvon-bezoekt-pasgeboren-boer-zoekt-vrouw-baby-en-maxime-heeft-kuiken-op-haar-hoofd~acd03c0c/?slug_rd=1",
+          "publishedDate": "Sun, 16 Aug 2026 03:58:00 GMT",
+          "description": "Korte updates van de sterren op sociale media: wij smullen ervan. In de rubriek Showbytes struint de showredactie het web voor je af voor de gekste, mooiste en opvallendste posts van bekende Nederland ..."
+        },
+        {
+          "title": "Wat B&amp;B Vol Liefde-Nisha Tara doet, is volgens een oud-deelnemer absoluut verboden",
+          "source": "Cosmopolitan",
+          "url": "https://www.cosmopolitan.com/nl/entertainment/a73373252/bb-vol-liefde-nisha-tara-verboden/",
+          "publishedDate": "Fri, 07 Aug 2026 01:30:00 GMT",
+          "description": "Voor deelnemer Nisha Tara zit het liefdesavontuur er al op. Misschien denk je nu: ‘Huh, hoe kan dat? We zijn pas halverwege het seizoen.’ Dat klopt. In totaal hadden zich voor Nisha Tara drie vrouwen ..."
+        },
+        {
+          "title": "Onherkenbaar: z&#243; zag B&amp;B Vol Liefde 2026 deelnemer-Nisha Tara eruit zonder grijs haar",
+          "source": "Cosmopolitan",
+          "url": "https://www.cosmopolitan.com/nl/entertainment/a73291799/bb-vol-liefde-2026-nisha-tara-vroeger/",
+          "publishedDate": "Wed, 29 Jul 2026 02:22:00 GMT",
+          "description": "Let op! Dit artikel kan mogelijk spoilers bevatten als je B&amp;B Vol Liefde niet vooruitkijkt op Videoland. We zitten pas in de tweede week van B&amp;B Vol Liefde, maar er zijn al zeker een aantal deelnemers ..."
+        }
+      ]
+    },
+    {
+      "keyword": "kleinkind",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Minister: omgangsrecht grootouder-kleinkind moet laagdrempeliger",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2524268-minister-omgangsrecht-grootouder-kleinkind-moet-laagdrempeliger",
+          "publishedDate": "Wed, 12 Jun 2024 12:20:00 GMT",
+          "description": "Voor opa's en oma's wordt het mogelijk makkelijker om hun kleinkind te zien als ouders daar niet aan meewerken. Voor een voorstel van minister Weerwind voor Rechtsbescherming lijkt zich een ..."
+        },
+        {
+          "title": "Sparen voor je kleinkind, wat zijn de mogelijkheden?",
+          "source": "bnnvara",
+          "url": "https://www.bnnvara.nl/kassa/artikelen/sparen-voor-je-kleinkind-wat-zijn-de-mogelijkheden",
+          "publishedDate": "Fri, 23 Sep 2016 17:00:00 GMT",
+          "description": "Veel opa’s en oma’s openen een spaarrekening voor een kleinkind. Maar bedenk goed of je dat op naam van het kind doet, of op je eigen naam. Spaarrekening op naam van het kleinkind Als je een ..."
+        },
+        {
+          "title": "Dit zijn door het hele jaar heen leuke tuinklussen om met uw (klein)kind te doen",
+          "source": "MAX Vandaag",
+          "url": "https://www.maxvandaag.nl/sessies/themas/huis-tuin-hobby/dit-zijn-door-het-hele-jaar-heen-leuke-tuinklussen-om-met-uw-kleinkind-te-doen/",
+          "publishedDate": "Sat, 29 Aug 2026 17:00:00 GMT",
+          "description": "Wat zijn leuke, eenvoudige en praktische tuinklussen om met (klein)kinderen te doen? In dit artikel geven we een paar leuke tips."
+        },
+        {
+          "title": "Grootouders geven jaarlijks bijna €500 uit per kleinkind: “Kan je ze echt te v&#233;&#233;l verwennen?”",
+          "source": "HLN",
+          "url": "https://www.hln.be/binnenland/grootouders-geven-jaarlijks-bijna-500-uit-per-kleinkind-kan-je-ze-echt-te-veel-verwennen~a6bda993/",
+          "publishedDate": "Thu, 04 Dec 2025 17:42:00 GMT",
+          "description": "December is een dure maand, ook voor grootouders. Want kleinkinderen, die popelen om te zien wat opa en oma in hun schoentje voor de Sint of hun sok voor kerst droppen. Gemiddeld geven Vlaamse ..."
+        },
+        {
+          "title": "Investeren in de financi&#235;le toekomst van je kleinkind: dit zijn je opties",
+          "source": "IEX",
+          "url": "https://www.iex.nl/Artikel/828105/Investeren-in-de-financiele-toekomst-van-je-kleinkind-dit-zijn-je-opties.aspx",
+          "publishedDate": "Thu, 31 Jul 2025 03:30:00 GMT",
+          "description": "Wil je iets betekenen voor de financi&#235;le toekomst van je kleinkind? Dat hoeft niet ingewikkeld te zijn. Leendert Schipper, financieel planner en senior relatiemanager Private Banking bij Triodos Bank, ..."
+        },
+        {
+          "title": "Zo laat u kleinkind erven zonder zorgen",
+          "source": "Tijd",
+          "url": "https://www.tijd.be/netto/erfenis/zo-laat-u-kleinkind-erven-zonder-zorgen/9942669.html",
+          "publishedDate": "Sun, 15 Oct 2017 23:49:00 GMT",
+          "description": "De Vlaamse regering straft grootouders die hun kleinkinderen rechtstreeks laten erven niet langer fiscaal af. Maar er zijn betere opties dan zo’n erfenissprong om een kleinkind geld na te laten, ..."
+        }
+      ]
+    },
+    {
+      "keyword": "luchtvaart",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Wetenschappers waarschuwen de Tweede Kamer: de luchtvaart kan zich niet uit klimaatcrisis innoveren",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2021/06/22/luchtvaart-kan-zich-niet-uit-de-klimaatcrisis-innoveren-a4048383",
+          "publishedDate": "Tue, 22 Jun 2021 13:51:00 GMT",
+          "description": "Rapport wetenschappers Alleen door veel minder te vliegen kan de luchtvaart aan de klimaatdoelen voldoen, schrijven twee wetenschappers aan de Tweede Kamer. Deze donderdag praat de Kamer voor het ..."
+        },
+        {
+          "title": "Hoe belangrijk is de luchtvaart &#233;cht? Niemand weet het",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/economie/hoe-belangrijk-is-de-luchtvaart-echt-niemand-weet-het~bd3fc0c9/",
+          "publishedDate": "Tue, 07 Jul 2020 02:52:00 GMT",
+          "description": "Het is weer begonnen. Een paar maanden was het stil rond Schiphol, bijna stil. In april verwerkte de luchthaven per dag zo’n 140 vluchten, tegen 1400 vorig jaar rond die tijd. De lucht bleef blauw – ..."
+        },
+        {
+          "title": "Defensie en luchtvaart geven Duitse machinebouw weer meer speling",
+          "source": "Vraag &amp; Aanbod",
+          "url": "https://www.vraagenaanbod.nl/defensie-en-luchtvaart-geven-duitse-machinebouw-weer-meer-speling/",
+          "publishedDate": "Thu, 10 Sep 2026 00:35:00 GMT",
+          "description": "De Duitse werktuigmachine-industrie begint voorzichtig uit het dal te klimmen. Voor het tweede kwartaal op rij groeit de orderinstroom met dubbele ..."
+        },
+        {
+          "title": "VNV: ‘Oneerlijke concurrentie uit Midden-Oosten schaadt de Nederlandse luchtvaart’",
+          "source": "Luchtvaartnieuws",
+          "url": "https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/vnv-oneerlijke-concurrentie-uit-midden-oosten-schaadt-de-nederlandse-luchtvaart",
+          "publishedDate": "Tue, 08 Sep 2026 01:30:00 GMT",
+          "description": "De European Cockpit Association (ECA) maakt zich opnieuw sterk voor de Europese luchtvaart. In aanloop naar een ontmoeting tussen de Duitse regering en de president van de Verenigde Arabische Emiraten ..."
+        },
+        {
+          "title": "SLM zet World Atlantic in voor meer stabiliteit op regionale vluchten",
+          "source": "Culturu",
+          "url": "https://www.culturu.com/nieuws/suriname/slm-zet-world-atlantic-in-voor-meer-stabiliteit-op-regionale-vluchten/",
+          "publishedDate": "Mon, 07 Sep 2026 19:02:00 GMT",
+          "description": "De Surinaamse Luchtvaart Maatschappij (SLM) heeft World Atlantic ingeschakeld om de betrouwbaarheid van haar regionale vluchten te verbeteren. De maatregel komt na een periode van vertragingen en oper ..."
+        },
+        {
+          "title": "Europees agentschap voor de veiligheid van de luchtvaart beperkt waarschuwing voor luchtruim Golfregio",
+          "source": "MarketScreener",
+          "url": "https://nl.marketscreener.com/beursnieuws/europees-agentschap-voor-de-luchtvaartveiligheid-beperkt-waarschuwing-voor-luchtruim-boven-de-golf-ce7858dcde81f421",
+          "publishedDate": "Mon, 31 Aug 2026 06:39:00 GMT",
+          "description": "Het Agentschap van de Europese Unie voor de veiligheid van de luchtvaart heeft maandag de waarschuwing aan luchtvaartmaatschappijen verlengd tot en met 30 september. De waarschuwing betreft ..."
+        },
+        {
+          "title": "ETS voor luchtvaart: Raad en Parlement sluiten voorlopig akkoord over vermindering luchtvaart&#173;emissies",
+          "source": "consilium.europa",
+          "url": "https://www.consilium.europa.eu/nl/press/press-releases/2022/12/07/ets-aviation-council-and-parliament-strike-provisional-deal-to-reduce-flight-emissions/",
+          "publishedDate": "Wed, 07 Dec 2022 09:30:00 GMT",
+          "description": "De Raad en het Parlement hebben een voorlopig politiek akkoord bereikt om de regels van het EU-emissie&#173;handels&#173;systeem voor de luchtvaartsector te herzien. Door dit akkoord draagt de luchtvaart bij ..."
+        },
+        {
+          "title": "Nauwelijks beweging in de luchtvaart in mei",
+          "source": "CBS",
+          "url": "https://www.cbs.nl/nl-nl/nieuws/2020/27/nauwelijks-beweging-in-de-luchtvaart-in-mei",
+          "publishedDate": "Sun, 28 Jun 2020 15:00:00 GMT",
+          "description": "maand Vluchten (% verandering t.o.v. een jaar geleden) Passagiers (% verandering t.o.v. een jaar geleden) Goederen (% verandering t.o.v. een jaar geleden) In mei 2020 was het effect van de in maart ..."
+        },
+        {
+          "title": "Omzet luchtvaart bijna 14 procent lager in eerste kwartaal",
+          "source": "CBS",
+          "url": "https://www.cbs.nl/nl-nl/nieuws/2020/24/omzet-luchtvaart-bijna-14-procent-lager-in-eerste-kwartaal",
+          "publishedDate": "Wed, 10 Jun 2020 15:00:00 GMT",
+          "description": "&#169; Hollandse Hoogte / Nederlandse Freelancers De omzet in de transportsector daalde in het eerste kwartaal van 2020 met 1,5 procent ten opzichte van dezelfde periode ..."
+        },
+        {
+          "title": "Luchtvaart: nieuws, trends &amp; analyses",
+          "source": "De Tijd",
+          "url": "https://www.tijd.be/ondernemen/luchtvaart.html",
+          "publishedDate": "Sat, 06 Sep 2014 19:57:00 GMT",
+          "description": "Op de site van de Vlaamse zakenkrant De Tijd vindt u naast financieel, politiek, economisch en zakennieuws ook het meest volledige aanbod over de luchtvaartsector."
         }
       ]
     }
