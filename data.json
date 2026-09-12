@@ -1,79 +1,99 @@
 {
-  "fetchedAt": "2026-09-12T02:32:47.327Z",
+  "fetchedAt": "2026-09-12T07:32:55.667Z",
   "trends": [
     {
       "keyword": "az - willem ii",
+      "trafficLabel": "50K+",
+      "articles": [
+        {
+          "title": "AZ is foutloze status kwijt: Willem II pakt dankzij late goal een punt in Alkmaar",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/az-is-foutloze-status-kwijt-willem-ii-pakt-dankzij-late-goal-een-punt-in-alkmaar~ada54eb9/",
+          "publishedDate": "Fri, 11 Sep 2026 06:34:00 GMT",
+          "description": "AZ heeft vrijdagavond geen vervolg kunnen geven aan de foutloze start in de VriendenLoterij Eredivisie. In het eigen huis liepen de Alkmaarders tegen Willem II averij op door een late tegentreffer: 1-"
+        },
+        {
+          "title": "‘Geen polonaise’ bij knokkend Willem II na stuntje bij AZ: ‘Dit moet de ondergrens zijn qua strijd’",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/tilburg/geen-polonaise-bij-knokkend-willem-ii-na-stuntje-bij-az-dit-moet-de-ondergrens-zijn-qua-strijd~a7e37fc7/",
+          "publishedDate": "Fri, 11 Sep 2026 16:59:00 GMT",
+          "description": "Het plan dat Willem II-trainer John Stegeman had uitgedokterd voor het uitduel met AZ werkte vrijdagavond perfect. Het leverde hem en zijn spelers bij de koploper zowaar een punt op: 1-1. Wat dat plan"
+        }
+      ]
+    },
+    {
+      "keyword": "alpen",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "AZ moet vrezen voor koppositie in Eredivisie na misstap tegen Willem II",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6409480/az-moet-vrezen-voor-koppositie-in-eredivisie-na-misstap-tegen-willem-ii.html",
-          "publishedDate": "Fri, 11 Sep 2026 14:52:00 GMT",
-          "description": "AZ moet vrezen dat het na dit weekend geen koploper meer is van de Eredivisie. De Alkmaarders leden in de thuiswedstrijd vrijdagavond hun eerste puntenverlies van dit seizoen (1-1)."
+          "title": "Geoloog waarschuwt: Ook de Alpen zijn kwetsbaar voor verwoestende berglawines",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/duurzaamheid-economie/geoloog-waarschuwt-ook-de-alpen-zijn-kwetsbaar-voor-verwoestende-berglawines~bf6e1b53/",
+          "publishedDate": "Sat, 29 Aug 2026 09:33:00 GMT",
+          "description": "Een ramp zoals in Nepal kan ook in de Alpen plaatsvinden, zegt geoloog Jan Wijbrans. ‘De kans dat we dit soort gebeurtenissen vaker gaan meemaken is re&#235;el, bijvoorbeeld door extreme regenval.’ ..."
         },
         {
-          "title": "Koploper AZ verspeelt tegen Willem II voor het eerst punten dit seizoen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2630634-koploper-az-verspeelt-tegen-willem-ii-voor-het-eerst-punten-dit-seizoen",
-          "publishedDate": "Fri, 11 Sep 2026 13:04:00 GMT",
-          "description": "Koploper AZ is op eigen veld tegen het eerste puntenverlies van dit eredivisieseizoen aangelopen door 1-1 gelijk te spelen tegen Willem II. Devin Haen maakte het openingsdoelpunt van Jordy Clasie ..."
+          "title": "Weekendverwachting: grote verschillen tussen zaterdag en zondag",
+          "source": "weerplaza",
+          "url": "https://www.weerplaza.nl/regenradar/europa/alpen/",
+          "publishedDate": "Wed, 09 Sep 2026 17:00:00 GMT",
+          "description": "Na een behoorlijk warme maandag krijgen we de komende tijd heel ander weer. In de kustgebieden kan het soms zelfs onstuimig worden. Naast de actuele waarnemingen met radarbeelden van het afgelopen uur ..."
         },
         {
-          "title": "Koploper AZ verspeelt punten tegen Willem II • PSV kan op gelijke hoogte komen",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2630544-koploper-az-verspeelt-punten-tegen-willem-ii-psv-kan-op-gelijke-hoogte-komen",
-          "publishedDate": "Fri, 11 Sep 2026 09:42:00 GMT",
-          "description": "Speelronde zes van de eredivisie staat alweer op het programma en koploper AZ komt vanavond al in actie tegen Willem II. Alles over de zesde speelronde vind je in dit liveblog."
+          "title": "Tot 25 centimeter sneeuw op Oostenrijkse gletsjers komende 24 uur",
+          "source": "Snowplaza",
+          "url": "https://www.snowplaza.nl/weblog/tot-25-centimeter-sneeuw-op-oostenrijkse-gletsjers-komende-24-uur/",
+          "publishedDate": "Tue, 08 Sep 2026 15:00:00 GMT",
+          "description": "Er gaat sneeuw vallen op de gletsjer in de Alpen. Tot 25 centimeter maar liefst in een korte tijd. Ook geldt code geel voor regen."
         },
         {
-          "title": "AZ lijdt tegen Willem II eerste puntenverlies in Eredivisie",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/az-lijdt-tegen-willem-ii-eerste-puntenverlies-in-eredivisie",
-          "publishedDate": "Fri, 11 Sep 2026 15:25:00 GMT",
-          "description": "AZ speelt 1-1 tegen promovendus Willem II en lijdt eerste puntenverlies dit Eredivisieseizoen. AZ blijft koploper met 16 punten. Lees hoe het duel verliep."
+          "title": "Van nazomer naar een paar vlokken sneeuw op hoge hoogte: koufront op komst",
+          "source": "Skiinformatie.nl",
+          "url": "https://skiinformatie.nl/van-nazomer-naar-een-paar-vlokken-sneeuw-koufront-bereikt-woensdag-de-alpen/",
+          "publishedDate": "Tue, 08 Sep 2026 01:55:00 GMT",
+          "description": "Na een aantal zeer warme septemberdagen staat het weer in de Alpen op het punt om te slaan. Vanaf woensdag 9 september trekken koudere lucht, regen en ..."
         },
         {
-          "title": "Koploper AZ lijdt totaal onverwachts eerste puntverlies",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/koploper-az-lijdt-totaal-onverwachts-eerste-puntverlies",
-          "publishedDate": "Fri, 11 Sep 2026 14:51:00 GMT",
-          "description": "AZ heeft vrijdagavond verrassend puntenverlies geleden in de Eredivisie. De koploper gaf tegen Willem II een voorsprong uit handen en speelde met 1-1 gelijk."
+          "title": "Weekendverwachting: grote verschillen tussen zaterdag en zondag",
+          "source": "weerplaza",
+          "url": "https://www.weerplaza.nl/onweerradar/europa/alpen/",
+          "publishedDate": "Sun, 06 Sep 2026 17:00:00 GMT",
+          "description": "Na een behoorlijk warme maandag krijgen we de komende tijd heel ander weer. In de kustgebieden kan het soms zelfs onstuimig worden."
         },
         {
-          "title": "Praat mee op VP: AZ – Willem II",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-az-willem-ii/ar-AA2c2kUH",
-          "publishedDate": "Fri, 11 Sep 2026 13:25:36 GMT",
-          "description": "AZ en Willem II trappen vrijdagavond de nieuwe Eredivisie-speelronde af in Alkmaar. De wedstrijd begint om 20.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+          "title": "Weersomslag op komst: vanaf woensdag mogelijk eerste sneeuw in de Alpen",
+          "source": "Skiinformatie.nl",
+          "url": "https://skiinformatie.nl/weersomslag-op-komst-vanaf-woensdag-mogelijk-eerste-sneeuw-in-de-alpen/",
+          "publishedDate": "Thu, 03 Sep 2026 04:01:00 GMT",
+          "description": "Na een paar zomerse dagen met lokaal zelfs 33 graden slaat het weer volgende week volledig om. Volgens weerexpert Dominik Jung van Wetternet stroomt vanaf ..."
         },
         {
-          "title": "AZ niet langer foutloos in de Eredivisie: Willem II verrast en pakt een punt",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/az-niet-langer-foutloos-in-de-eredivisie-willem-ii-verrast-en-pakt-een-punt/ar-AA2c2TXr",
-          "publishedDate": "Fri, 11 Sep 2026 13:00:19 GMT",
-          "description": "AZ heeft voor het eerst dit seizoen punten verspeeld. De ploeg van Leeroy Echteld wist vrijdagavond in eigen huis niet van Willem II te winnen: 1-1. Jordy Clasie en Devin Haen maakten de treffers in A ..."
+          "title": "Wildkamperen in de Alpen: regels per land &amp; tips",
+          "source": "indebergen",
+          "url": "https://www.indebergen.nl/weblog/9672-wildkamperen-alpen-regels-per-land-tips/",
+          "publishedDate": "Tue, 11 Aug 2026 15:00:00 GMT",
+          "description": "Wildkamperen in de Alpen staat bij veel bergwandelaars en camperreizigers bovenaan de bucketlist. Toch kan die droom op 2000 meter hoogte snel veranderen in een dure nachtmerrie. De handhaving in ..."
         },
         {
-          "title": "AZ lijdt eerste puntverlies tegen Willem II",
-          "source": "AZFanpage",
-          "url": "https://www.azfanpage.nl/41907-2",
-          "publishedDate": "Fri, 11 Sep 2026 12:56:00 GMT",
-          "description": "AZ lijdt eerste puntverlies tegen Willem II — Lees het volledige wedstrijdverslag met analyse, doelpunten en statistieken."
+          "title": "Recordhoeveelheid sneeuw verwacht in Alpen: ski&#235;rs halen opnieuw latten boven",
+          "source": "Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/recordhoeveelheid-sneeuw-verwacht-in-alpen-skiers-halen-opnieuw-latten-boven/151541686.html",
+          "publishedDate": "Wed, 13 May 2026 06:00:00 GMT",
+          "description": "25 graden. Zo warm was het vorig weekend in de Alpen. De zomer leek in gang gezet, maar de skilatten kunnen dit weekend weer uit de kast worden gehaald. In de Franse, Italiaanse, Oostenrijkse en ..."
         },
         {
-          "title": "Live Eredivisie | AZ lijdt tegen Willem II eerste puntenverlies van het seizoen",
-          "source": "NU",
-          "url": "https://www.nu.nl/voetbal/6409465/live-eredivisie-az-lijdt-tegen-willem-ii-eerste-puntenverlies-van-het-seizoen.html",
-          "publishedDate": "Fri, 11 Sep 2026 09:58:00 GMT",
-          "description": "Goedenavond en welkom in dit liveblog. Mijn naam is Mitch Marinus en ik hou je op de hoogte van de Eredivisie-wedstrijd tussen AZ en Willem II. Veel plezier! Ongeloof op het gezicht van Mexx Meerdink."
+          "title": "83 doden en 5 vermisten in 1 maand in Italiaanse Alpen: &quot;Sociale media niet voldoende als voorbereiding op bergwandelen&quot;",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2025/08/01/italiaanse-alpen-berggids-onervaren-bergsport-doden/",
+          "publishedDate": "Fri, 01 Aug 2025 00:08:00 GMT",
+          "description": "Afgelopen maand gebeurden er gemiddeld 3 dodelijke ongevallen per dag in de Italiaanse Alpen. De trieste cijfers tonen aan hoe steeds meer mensen onvoorbereid beginnen aan bergsport. Dat merkt erkende ..."
         },
         {
-          "title": "Willem II knokt en countert zich naar een ‘stuntpunt’ bij koploper AZ",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/tilburg/willem-ii-knokt-en-countert-zich-naar-een-stuntpunt-bij-koploper-az~aa2f01ed/",
-          "publishedDate": "Fri, 11 Sep 2026 09:36:00 GMT",
-          "description": "Een ‘stuntpunt’, zo mag het gelijkspel van Willem II bij AZ absoluut genoemd worden. De Tilburgers knokten bij de (tot gisteravond nog foutloze) koploper voor wat ze waard waren en sleepten in de slot ..."
+          "title": "VRT NWS op pad met Belgische glaciologen in de Alpen: &quot;Gletsjers smelten sneller dan verwacht en dat gaan we ook bij ons voelen&quot;",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2023/10/03/gletsjers-klimaat-alpen/",
+          "publishedDate": "Tue, 03 Oct 2023 09:37:00 GMT",
+          "description": "Stijgijzers, klimgordel en piolet worden bovengehaald bij het betreden van de Rh&#244;negletsjer. Het is niet echt noodzakelijk, want de gletsjer ligt er goed bij, maar het blijft een verraderlijke ..."
         }
       ]
     },
@@ -82,11 +102,25 @@
       "trafficLabel": "20K+",
       "articles": [
         {
+          "title": "Berita dan Informasi Bali Terkini dan Terbaru Hari ini - detikcom",
+          "source": "Detik News",
+          "url": "https://www.detik.com/tag/bali",
+          "publishedDate": "Fri, 11 Sep 2026 21:30:00 GMT",
+          "description": "Pantau prakiraan cuaca Bali 12 September 2026. Cuaca berawan di semua kabupaten, suhu 17-31&#176;C. Tetap waspada dan cek update terkini! Turis Prancis berinisial NHB ketahuan mengutil makanan dari sebuah ..."
+        },
+        {
           "title": "Kalender Bali Jumat 11 September 2026, Cek Ala Ayuning Dewasa Hari Ini",
           "source": "detikcom",
           "url": "https://www.detik.com/bali/berita/d-8657270/kalender-bali-jumat-11-september-2026-cek-ala-ayuning-dewasa-hari-ini",
           "publishedDate": "Thu, 10 Sep 2026 20:30:00 GMT",
           "description": "Simak ala ayuning dewasa untuk Jumat, 11 September 2026 menurut kalender Bali. Temukan hari baik dan buruk untuk berbagai aktivitas adat dan ritual."
+        },
+        {
+          "title": "Ribuan Lilin Menyala di Bali, 70 Negara Serukan Perdamaian",
+          "source": "BeritaSatu",
+          "url": "https://www.beritasatu.com/bali/3024913/ribuan-lilin-menyala-di-bali-70-negara-serukan-perdamaian",
+          "publishedDate": "Mon, 07 Sep 2026 04:22:00 GMT",
+          "description": "Upacara Refleksi Universal Tri Hita Karana 2026 di Bali serukan perdamaian global lewat perpaduan filosofi lokal dan penyalaan ribuan lilin."
         },
         {
           "title": "The controversial, but growing, Israeli presence in Bali",
@@ -110,77 +144,31 @@
           "description": "Schildpadden, een makaak en andere wilde dieren worden onder slechte omstandigheden gehouden bij 'schildpaddenopvang' Bali Fantasi Benoa Bay."
         },
         {
-          "title": "Ontdek de veelzijdigheid van Indonesi&#235; met een groepsreis Bali",
-          "source": "ANWB",
-          "url": "https://www.anwb.nl/vakantie/indonesie/bali/rondreis",
-          "publishedDate": "Wed, 09 Dec 2015 16:32:00 GMT",
-          "description": "Bali is meer dan strand alleen. Tijdens een afwisselende groepsreis op Bali maak je kennis met de vriendelijke bevolking, ontdek je eeuwenoude tradities en geniet je van het vele natuurschoon. Onze ..."
+          "title": "Bali bans two Dutch expats over run club accused of excluding locals",
+          "source": "NL Times",
+          "url": "https://nltimes.nl/2026/07/26/bali-bans-two-dutch-expats-run-club-accused-excluding-locals",
+          "publishedDate": "Sun, 26 Jul 2026 11:05:00 GMT",
+          "description": "Bali’s Immigration Department has banned two Dutch expats from the island, ABC News Australia reports. The pair are accused of running a club called Entourage Bali, which allegedly excluded local ..."
         },
         {
-          "title": "Droomstranden, tempels en cultuur",
-          "source": "ANWB",
-          "url": "https://www.anwb.nl/vakantie/indonesie/bali",
-          "publishedDate": "Wed, 15 Apr 2015 14:09:00 GMT",
-          "description": "Een vakantie op Bali is synoniem voor ontspanning aan paradijselijke stranden. Naast de hagelwitte zandstranden biedt Bali nog veel meer. Maak kennis met de hindoe&#239;stische tempels, uitgestrekte ..."
+          "title": "Investasi di Bali Belum Merata, Terpusat di Wilayah Selatan",
+          "source": "bali.bisnis",
+          "url": "https://bali.bisnis.com/read/20260609/538/1979574/investasi-di-bali-belum-merata-terpusat-di-wilayah-selatan",
+          "publishedDate": "Tue, 09 Jun 2026 07:08:00 GMT",
+          "description": "Bisnis.com, DENPASAR – Investasi di Bali masih terkonsentrasi di wilayah Bali Selatan atau di Kota Denpasar, Kabupaten Badung, Gianyar, dan Tabanan. Bank Indonesia mencatat sepanjang 2025, realisasi ..."
+        },
+        {
+          "title": "Bali rocked by spate of murder cases – is Indonesian island more dangerous now?",
+          "source": "scmp.com",
+          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3348805/bali-rocked-spate-murder-cases-indonesian-island-more-dangerous-now",
+          "publishedDate": "Thu, 02 Apr 2026 11:30:00 GMT",
+          "description": "Bali’s reputation as a carefree tropical escape has been shaken by a string of brutal crimes, including the kidnapping and dismemberment of a Ukrainian man and the fatal stabbing of a Dutch visitor."
         }
       ]
-    },
-    {
-      "keyword": "rob mos",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Montferlands raadslid achter het stuur bij dodelijk busongeval in Zwitserland",
-          "source": "Achterhoek Nieuws",
-          "url": "https://www.achterhoeknieuws.nl/nieuws/algemeen/557970/montferlands-raadslid-achter-het-stuur-bij-dodelijk-busongeva",
-          "publishedDate": "Fri, 11 Sep 2026 05:25:00 GMT",
-          "description": "MONTFERLAND – Rob Mos, raadslid voor de lokale partij Helder in Montferland, zat achter het stuur van de bus die donderdag betrokken raakte bij een ernstig ongeval in Zwitserland."
-        },
-        {
-          "title": "Raadslid Montferland zat achter stuur van bus bij ongeluk met vijf doden",
-          "source": "Omroep Gelderland",
-          "url": "https://www.gld.nl/nieuws/8521214/raadslid-montferland-zat-achter-stuur-van-bus-bij-ongeluk-met-vijf-doden",
-          "publishedDate": "Fri, 11 Sep 2026 01:52:00 GMT",
-          "description": "Rob Mos, een bekende lokale politicus in Montferland, is de buschauffeur van het busongeluk in Zwiterserland. Bij dat ongeluk kwamen donderdag vijf mensen om het leven en raakten er veertig gewond."
-        },
-        {
-          "title": "Meer informatie over dodelijk busongeluk in Zwitserland: ‘Hij zou over de richel zijn gevallen’",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/montferland/meer-informatie-over-dodelijk-busongeluk-in-zwitserland-hij-zou-over-de-richel-zijn-gevallen~a99036a0/",
-          "publishedDate": "Thu, 10 Sep 2026 20:12:00 GMT",
-          "description": "Een tragisch busongeluk in Zwitserland heeft aan vijf mensen het leven gekost. Veertig anderen raakten gewond. Voorzitter Ron Stigter van de politieke partij Helder hoorde donderdagavond dat zijn part ..."
-        },
-        {
-          "title": "Lokaal bekende Gelderse politicus was chauffeur bij dodelijk busongeluk in Zwitserland",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/binnenland/lokaal-bekende-gelderse-politicus-was-chauffeur-bij-dodelijk-busongeluk-in-zwitserland~a2a5f9f6/",
-          "publishedDate": "Thu, 10 Sep 2026 18:46:00 GMT",
-          "description": "‎De lokaal bekende politicus Rob Mos is betrokken bij het busongeval van donderdagmiddag in Zwitserland. Hij was de chauffeur. Bij het ongeluk kwamen meerdere mensen om het leven. Het Montferlandse ..."
-        },
-        {
-          "title": "Lokale politicus uit Montferland betrokken bij busongeluk, ondervraagd door Zwitserse politie",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/winterswijk/lokale-politicus-uit-montferland-betrokken-bij-busongeluk-ondervraagd-door-zwitserse-politie~a2a5f9f6/",
-          "publishedDate": "Thu, 10 Sep 2026 17:21:00 GMT",
-          "description": "‎De lokaal bekende politicus Rob Mos is betrokken bij het busongeval van donderdagmiddag in Zwitserland. Daarbij kwamen meerdere mensen om het leven."
-        },
-        {
-          "title": "Rob kreeg een nier van zijn goede vriendin Astrid: ‘Ik heb het leven terug’",
-          "source": "AD",
-          "url": "https://www.ad.nl/montferland/rob-kreeg-een-nier-van-zijn-goede-vriendin-astrid-ik-heb-het-leven-terug~a50cb279/",
-          "publishedDate": "Sun, 16 Jul 2023 04:00:00 GMT",
-          "description": "Twee keer is Rob Mos de afgelopen weken ontslagen: als wethouder van Montferland en uit het ziekenhuis. Hij kreeg een nier van zijn goede vriendin Astrid Mons. Ze was vier jaar lang zijn buurvrouw, is ..."
-        }
-      ]
-    },
-    {
-      "keyword": "formuleracing",
-      "trafficLabel": "20K+",
-      "articles": []
     },
     {
       "keyword": "prinses astrid van noorwegen",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
         {
           "title": "Noorse prinses Astrid (94) twee dagen na uitvaart van broer Harald overleden",
@@ -204,11 +192,18 @@
           "description": "De Noorse prinses Astrid is overleden. Dat laat het Noorse hof vrijdag weten via Instagram. Prinses Astrid is 94 jaar geworden."
         },
         {
+          "title": "Noorse prinses Astrid (94) overleden, slechts twee dagen na uitvaart broer Harald",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/noorse-prinses-astrid-94-overleden-slechts-twee-dagen-na-uitvaart-broer-harald~ad6d76e2/",
+          "publishedDate": "Fri, 11 Sep 2026 02:02:00 GMT",
+          "description": "De Noorse prinses Astrid (94) is vrijdag overleden. Dat maakt het Noorse hof bekend. Het is slechts twee dagen na de uitvaart van haar broer Harald. Daar was ze bij aanwezig."
+        },
+        {
           "title": "Noorse prinses Astrid was „grenzeloos loyaal”",
           "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/prinses-astrid-94-zus-van-harald-overleden",
+          "url": "https://www.rd.nl/artikel/noorse-prinses-astrid-was-grenzeloos-loyaal",
           "publishedDate": "Fri, 11 Sep 2026 13:32:00 GMT",
-          "description": "De Noorse prinses Astrid is vrijdag op 94-jarige leeftijd overleden. Dat meldt het Noorse hof. Astrid was de oudere zus van de onlangs overleden koning Harald. „Zijne Majesteit de Koning heeft met ..."
+          "description": "De Noorse prinses Astrid is op 94-jarige leeftijd overleden. Zij krijgt net als haar broer, koning Harald, een staatsbegrafenis."
         },
         {
           "title": "Parlementsvoorzitter bedankt Astrid voor uitzonderlijke bijdrage",
@@ -244,19 +239,17 @@
           "url": "https://www.msn.com/nl-be/nieuws/other/noorse-prinses-astrid-94-overleden-2-dagen-na-begrafenis-van-haar-broer-koning-harald/ar-AA2c1OJN",
           "publishedDate": "Fri, 11 Sep 2026 07:17:08 GMT",
           "description": "In Noorwegen is prinses Astrid (94) overleden. Astrid is de zus van koning Harald, die in augustus overleed en woensdag is begraven. Ze was toen voor het laatst in het openbaar te zien. Toen haar moed ..."
-        },
-        {
-          "title": "Prinses Astrid van Noorwegen overlijdt op 94-jarige leeftijd",
-          "source": "Newsmonkey on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/prinses-astrid-van-noorwegen-overlijdt-op-94-jarige-leeftijd/ar-AA2c1R41",
-          "publishedDate": "Fri, 11 Sep 2026 07:02:00 GMT",
-          "description": "In het kort Prinses Astrid overleden Het Noorse koningshuis heeft bekendgemaakt dat prinses Astrid op 94-jarige leeftijd is overleden. Volgens offici&#235;le verklaringen is ze vrijdag vredig heengegaan. R ..."
         }
       ]
     },
     {
+      "keyword": "formuleracing",
+      "trafficLabel": "20K+",
+      "articles": []
+    },
+    {
       "keyword": "dienstplicht",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "Tommy Vaskimo (21) uit Zoetermeer moest in Finland in dienst en leerde er: stop met klagen",
@@ -266,18 +259,18 @@
           "description": "De Fin Tommy Vaskimo groeide op in Nederland, maar werd opgeroepen voor de Finse militaire dienst. De dienstplicht, ook in Nederland weer ter discussie, maakte veiligheid en vrijheid concreter, vindt ..."
         },
         {
-          "title": "Ultraorthodox verzet tegen dienstplicht: belangrijk verkiezingsthema in Isra&#235;l",
-          "source": "NOS",
-          "url": "https://nos.nl/nieuwsuur/artikel/2628896-ultraorthodox-verzet-tegen-dienstplicht-belangrijk-verkiezingsthema-in-israel",
-          "publishedDate": "Sun, 30 Aug 2026 01:59:00 GMT",
-          "description": "Een van de belangrijkste verkiezingsthema's is Isra&#235;l is de positie van de ultraorthodoxe joden. Al jaren vormen zij een splijtzwam in de Isra&#235;lische samenleving omdat ze militaire diensplicht weigere ..."
-        },
-        {
           "title": "Steeds meer Europese landen voeren de dienstplicht weer in. ‘Wij hebben geen moeite om mensen te vinden die het leger in willen’",
           "source": "Trouw",
           "url": "https://www.trouw.nl/buitenland/steeds-meer-europese-landen-voeren-de-dienstplicht-weer-in-wij-hebben-geen-moeite-om-mensen-te-vinden-die-het-leger-in-willen~bc65d20a0/",
           "publishedDate": "Thu, 13 Nov 2025 14:09:00 GMT",
           "description": "Een toenemend aantal Europese landen voert vanwege de Russische dreiging weer een vorm van dienstplicht in. ‘Je stuurt eerst de getrainde troepen om te vechten, maar je moet ook een tweede echelon ..."
+        },
+        {
+          "title": "Defensie werkt aan nieuwe dienstplicht: enqu&#234;te en keuring mogelijk verplicht",
+          "source": "RTV Focus Zwolle",
+          "url": "https://www.rtvfocuszwolle.nl/dienstplicht-jongeren-verplicht-keuring-dienmodel-defensie/",
+          "publishedDate": "Fri, 11 Sep 2026 11:20:00 GMT",
+          "description": "De dienstplicht gaat mogelijk veranderen. Jongeren kunnen verplicht worden tot een enqu&#234;te, gesprek en keuring. Opkomst blijft voorlopig vrijwillig."
         },
         {
           "title": "Dienstplicht gaat op de schop: dit staat jongeren te wachten",
@@ -332,7 +325,7 @@
     },
     {
       "keyword": "daniel arends",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "Cabaretier Dani&#235;l Arends legt werk tijdelijk neer na hartinfarct",
@@ -407,230 +400,181 @@
       ]
     },
     {
-      "keyword": "arve tellefsen",
-      "trafficLabel": "5K+",
+      "keyword": "mireille en kasper",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Prinsesse Astrid er d&#248;d",
-          "source": "Dagbladet",
-          "url": "https://www.dagbladet.no/kjendis/eksperter-reagerer-hadde-utvilsomt-et-knust-hjerte/85142309",
-          "publishedDate": "Fri, 11 Sep 2026 11:04:00 GMT",
-          "description": "14 dager etter at lillebror kong Harald d&#248;de, sovnet prinsesse Astrid inn. &#171;Nesten umenneskelig&#187;, blir det sagt om timingen."
+          "title": "Heeft Mireille haar nieuwe kasteelheer gevonden in B&amp;B Vol Liefde?",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5646215/zo-eindigt-het-liefdesavontuur-van-mireille-bb-vol-liefde",
+          "publishedDate": "Mon, 31 Aug 2026 06:41:00 GMT",
+          "description": "Mireille hoopte in 'B&amp;B Vol Liefde' een bourgondische man met humor te vinden die haar leven kan aanvullen. Vier mannen meldden zich deze zomer bij haar. Nu is het tijd voor de hamvraag: heeft Mireill ..."
         },
         {
-          "title": "Violist zegt sorry voor telefoonalarm tijdens uitvaart Harald",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/koningshuis/violist-zegt-sorry-voor-telefoonalarm-tijdens-uitvaart-harald",
-          "publishedDate": "Fri, 11 Sep 2026 10:04:00 GMT",
-          "description": "Noorse violist Arve Tellefsen (89) zegt sorry nadat zijn telefoonalarm klonk tijdens de minuut stilte bij de uitvaart van koning Harald. Wat ging er mis?"
+          "title": "Wat een verfrissing is Kasper uit B&amp;B vol liefde",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/wat-een-verfrissing-is-kasper-uit-benb-vol-liefde~a4f166c8/",
+          "publishedDate": "Mon, 24 Aug 2026 06:32:00 GMT",
+          "description": "Twinkelende oogjes en voorzichtig geflirt: bij Mireille in Frankrijk gebeurde er iets dankzij de komst van een nieuwe man."
         },
         {
-          "title": "Erkender efter begravelses-br&#248;ler: Det var mig",
-          "source": "Ekstra Bladet",
-          "url": "https://ekstrabladet.dk/underholdning/kongelige/udenlandskekongelige/erkender-efter-begravelses-broeler-det-var-mig/11287004",
-          "publishedDate": "Fri, 11 Sep 2026 09:59:00 GMT",
-          "description": "Begravelsen af kong Harald var netop begyndt i Oslo Domkirke med et minuts stilhed, da en mobilalarm rungede i kirken. Over for norske nettavisen.no bekr&#230;fter den 89-&#229;rige violinist Arve Tellefsen, at ..."
+          "title": "Mireille klapt uit de school: ‘Toen de camera’s weg waren, zag ik ineens een heel andere Kasper’",
+          "source": "LoveReality",
+          "url": "https://lovereality.nl/mireille-klapt-uit-de-school-toen-de-cameras-weg-waren-zag-ik-ineens-een-heel-andere-kasper/",
+          "publishedDate": "Fri, 11 Sep 2026 02:39:00 GMT",
+          "description": "Kasper groeide tijdens B&amp;B Vol Liefde uit tot ‘de huisvriend’ van Mireille, maar er is een flinke kink in de kabel gekomen. Mireille doet in een interview met De Telegraaf een boekje open, na de re&#252;ni ..."
         },
         {
-          "title": "Mobilen ringte i kong Haralds gravferd. N&#229; beklager den kjente fiolinisten.",
-          "source": "Bergens Tidende",
-          "url": "https://www.bt.no/innenriks/i/n1KjlJ/kong-haralds-gravferd-arve-tellefsen-beklager-mobilalarm",
-          "publishedDate": "Fri, 11 Sep 2026 09:17:00 GMT",
-          "description": "&#171;Hele&#187; Norge sto stille da klokkene ringte, idet kong Haralds gravferd startet onsdag. Samtidig gikk en mobilalarm som et ekko i kirkerommet. N&#229; st&#229;r Arve Tellefsen frem som den &#171;skyldige&#187;."
+          "title": "‘Oorlog achter de schermen’ bij B&amp;B Vol Liefde-re&#252;nie: ruzie tussen twee deelnemers",
+          "source": "lovereality",
+          "url": "https://lovereality.nl/oorlog-achter-de-schermen-bij-bb-vol-liefde-reunie-ruzie-tussen-twee-deelnemers/",
+          "publishedDate": "Fri, 11 Sep 2026 00:49:00 GMT",
+          "description": "De Priv&#233; is ter oren gekomen dat het flink hommeles was backstage. Dick legt uit waarom: “Ik ontdekte later dat Kasper mij achter mijn rug om zwart heeft gemaakt bij Mireille.” Middels RTL ontkent ..."
         },
         {
-          "title": "Innr&#248;mmer at det var hans telefon som ringte under kong Haralds gravferd",
-          "source": "TV 2",
-          "url": "https://www.tv2.no/nyheter/innrommer-at-det-var-hans-telefon-som-ringte-under-kong-haralds-gravferd/19218819/",
-          "publishedDate": "Fri, 11 Sep 2026 09:07:00 GMT",
-          "description": "Mens det var ett minutts stillhet for kong Harald klokken 13.00, i forbindelse med hans gravferd onsdag 9. september, ringte &#233;n telefon i fullsatte Oslo domkirke. N&#229; innr&#248;mmer fiolinist Arve Tellefsen ..."
-        },
-        {
-          "title": "Domkirke-telefonen: - Det var meg",
-          "source": "Se og H&#248;r",
-          "url": "https://www.seher.no/kjendis/domkirke-telefonen-det-var-meg/85142472",
-          "publishedDate": "Fri, 11 Sep 2026 09:05:00 GMT",
-          "description": "Stillheten ble brutt da en mobilalarm gikk av under kong Haralds gravferd. Arve Tellefsen innr&#248;mmer at han sto bak."
-        },
-        {
-          "title": "Alarmen gikk under gravferden: – Det var meg",
-          "source": "Dagbladet",
-          "url": "https://www.dagbladet.no/kjendis/alarmen-gikk-under-gravferden-det-var-meg/85142377",
-          "publishedDate": "Fri, 11 Sep 2026 08:55:00 GMT",
-          "description": "Stillheten ble brutt da en mobilalarm gikk av under kong Haralds gravferd. Arve Tellefsen innr&#248;mmer at han sto bak."
-        },
-        {
-          "title": "Hans telefon ringede i kirken: Nu st&#229;r han frem og undskylder",
-          "source": "SE og H&#216;R",
-          "url": "https://www.seoghoer.dk/kongelige/hans-telefon-ringede-i-kirken-nu-staar-han-frem-og-undskylder",
-          "publishedDate": "Fri, 11 Sep 2026 07:35:00 GMT",
-          "description": "Mange bem&#230;rkede, at en telefon pludselig larmede i kirken, da hele Norge holdt et minuts stilhed for kong Harald. Nu undskylder &quot;bagmanden&quot; ..."
-        },
-        {
-          "title": "Arve, 89, erk&#228;nner alarmmissen p&#229; begravningen",
-          "source": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/OkJAMA/arve-89-erkanner-alarmmissen-pa-begravningen",
-          "publishedDate": "Fri, 11 Sep 2026 07:02:00 GMT",
-          "description": "Mitt under den tysta minuten p&#229; kung Haralds begravning ekade pl&#246;tsligt ett v&#228;lbekant ljud. ”DRRRRUUUU! DRRRRUUUU! DRRRRUUUU”. Nu erk&#228;nner 89-&#229;riga Arve att hans mobil &#228;r boven i det pinsamma ljuddram ..."
-        },
-        {
-          "title": "Arve Tellefsens telefon ringte i kong Haralds gravferd",
-          "source": "Adresseavisen",
-          "url": "https://www.adressa.no/kultur/i/0pxEP2/arve-tellefsens-telefon-ringte-i-kong-haralds-gravferd",
-          "publishedDate": "Fri, 11 Sep 2026 05:05:00 GMT",
-          "description": "Den verdenskjente fiolinisten Arve Tellefsen (89) beklager for at det var alarmen p&#229; telefonen hans som ringte under ett minutts stillhet i kong Haralds gravferd."
+          "title": "Mireille uit B&amp;B vol liefde werd een stuk minder sympathiek nadat ze Dick zo kleineerde",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/mireille-uit-benb-vol-liefde-werd-een-stuk-minder-sympathiek-nadat-ze-dick-zo-kleineerde~a8d63c79/",
+          "publishedDate": "Mon, 07 Sep 2026 06:03:00 GMT",
+          "description": "Ik vond deze kandidaat in B&amp;B vol liefde best leuk, maar na deze actie bleek ze toch een stuk minder sympathiek te zijn."
         }
       ]
     },
     {
-      "keyword": "emmen - de graafschap",
-      "trafficLabel": "5K+",
+      "keyword": "boeing 767",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Er zit een engeltje op de lat in Emmen; De Graafschap juicht voor het eerst",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/doetinchem/er-zit-een-engeltje-op-de-lat-in-emmen-de-graafschap-juicht-voor-het-eerst~a8eaecff/",
-          "publishedDate": "Fri, 11 Sep 2026 15:05:00 GMT",
-          "description": "De Graafschap heeft voor het eerst dit seizoen kunnen juichen. In Emmen werd gebroken met de aanvallende speelstijl en het leverde meteen de volle buit op: 1-2."
+          "title": "Vrachtvliegtuig schiet door op landingsbaan Miami, zeker vijf doden",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/vrachtvliegtuig-schiet-door-op-landingsbaan-miami-zeker-vijf-doden~b5d0d010/",
+          "publishedDate": "Sun, 06 Sep 2026 16:56:00 GMT",
+          "description": "Een vrachtvliegtuig van Amazon Prime Air, een Boeing 767, is zondagmiddag bij de landing op Miami International Airport doorgeschoten en van de baan gegleden. Het vliegtuig raakte daarbij meerdere voe ..."
         },
         {
-          "title": "De Graafschap vecht zich naar de winst in Emmen",
-          "source": "REGIO8",
-          "url": "https://www.regio8.nl/nieuws/de-graafschap-vecht-zich-naar-de-winst-in-emmen",
-          "publishedDate": "Fri, 11 Sep 2026 16:45:00 GMT",
-          "description": "De Graafschap heeft met 1-2 gewonnen van FC Emmen. Het was een zwaarbevochten winst op de Oude Meerdijk, maar met name door een sterke teamspirit konden de drie punten uiteindelijk worden veiliggestel ..."
+          "title": "Nieuwe data uit zwarte doos laat zien wat piloten Amazon-vliegtuig in laatste seconden probeerden",
+          "source": "VK Magazine",
+          "url": "https://www.vkmag.com/magazine/nieuwe-data-uit-zwarte-doos-laat-zien-wat-piloten-amazon-vliegtuig-in-laatste-seconden-probeerden",
+          "publishedDate": "Wed, 09 Sep 2026 01:59:00 GMT",
+          "description": "Er wordt steeds meer duidelijk over de Boeing 767 van Amazon Prime Air die zondag op de luchthaven van Miami van de baan schoot. Daarbij kwamen vijf mensen op de grond om het leven. Onderzoekers ..."
         },
         {
-          "title": "Praat mee op VP: FC Emmen – De Graafschap",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-fc-emmen-de-graafschap/ar-AA2c2JbZ",
-          "publishedDate": "Fri, 11 Sep 2026 16:44:00 GMT",
-          "description": "FC Emmen en De Graafschap treffen elkaar vrijdagavond in de Keuken Kampioen Divisie. De wedstrijd begint om 20.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+          "title": "Amazon Prime Air-vliegtuigcrash in Miami: Wat gebeurde er op 6 september 2026?",
+          "source": "Notizie.it",
+          "url": "https://www.notizie.it/nl/Vliegtuigongeluk-met-Amazon-Prime-Air-in-Miami%3A-Wat-gebeurde-er-op-6-september-2026/",
+          "publishedDate": "Mon, 07 Sep 2026 07:28:00 GMT",
+          "description": "Un Boeing 767 cargo di Amazon Prime Air &#232; uscito di pista all'aeroporto internazionale di Miami il 6 settembre 2026, causando un grave incidente con cinque vittime e numerosi feriti."
         },
         {
-          "title": "Hekkensluiter De Graafschap bezorgt FC Emmen eerste thuisnederlaag",
-          "source": "ZO!34",
-          "url": "https://www.zo34.nl/nieuws/14401/hekkensluiter-de-graafschap-bezorgt-fc-emmen-eerste-thuisnederlaag/",
-          "publishedDate": "Fri, 11 Sep 2026 14:52:00 GMT",
-          "description": "FC Emmen heeft vrijdagavond voor het eerst dit seizoen in eigen huis verloren. Hekkensluiter De Graafschap was ..."
+          "title": "Belgisch tintje aan verongelukte Boeing 767: nog veel onduidelijk over oorzaak",
+          "source": "Luchtvaartnieuws",
+          "url": "https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/belgisch-tintje-aan-verongelukte-boeing-767-nog-veel-onduidelijk-over-oorzaak",
+          "publishedDate": "Mon, 07 Sep 2026 05:48:00 GMT",
+          "description": "Er is nog veel onduidelijk over de toedracht van het vliegongeluk met een Boeing 767 van Amazon Prime Air in Miami. Het toestel schoot zondagmiddag (lokale tijd) tijdens de landing van de baan op Miam ..."
         },
         {
-          "title": "Gemiste kansen breken Emmen op tegen De Graafschap",
-          "source": "RTV Drenthe",
-          "url": "https://www.rtvdrenthe.nl/sport/18774301/gemiste-kansen-breken-emmen-op-tegen-de-graafschap",
-          "publishedDate": "Fri, 11 Sep 2026 14:05:00 GMT",
-          "description": "Op eigen veld lieten de Emmenaren hun kansen onbenut, waarna De Graafschap er met de drie punten vandoor ging: 2-1."
+          "title": "Vliegtuig schiet door na landing bij luchthaven Miami: vijf doden en vijf gewonden",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/buitenland/vliegtuig-schiet-door-na-landing-bij-luchthaven-miami-vijf-doden-en-vijf-gewonden~aa605cbc/",
+          "publishedDate": "Sun, 06 Sep 2026 15:42:00 GMT",
+          "description": "Een vrachtvliegtuig van Amazon Prime Air, een Boeing 767, is zondagmiddag lokale tijd tijdens de landing op Miami International Airport doorgeschoten en op een nabijgelegen weg terechtgekomen. Het vli ..."
         },
         {
-          "title": "FC Emmen ongelukkig onderuit tegen De Graafschap",
-          "source": "FC Emmen",
-          "url": "https://fcemmen.nl/fc-emmen-ongelukkig-onderuit-tegen-de-graafschap/",
-          "publishedDate": "Fri, 11 Sep 2026 13:06:00 GMT",
-          "description": "FC Emmen heeft vrijdagavond met 1-2 verloren van De Graafschap. De Graafschap kwam via Julian Kania op voorsprong, waarna Jack […] ..."
+          "title": "Boeing 767 van Amazon Prime Air schiet door landingsbaan op luchthaven Miami",
+          "source": "MarketScreener",
+          "url": "https://nl.marketscreener.com/beursnieuws/boeing-767-van-amazon-prime-air-schiet-door-landingsbaan-op-luchthaven-miami-ce785bdbdd8df727",
+          "publishedDate": "Sun, 06 Sep 2026 14:34:00 GMT",
+          "description": "Een vrachtvlucht van Amazon Prime Air is zondag doorgeschoten op een landingsbaan van Miami International Airport. Het incident leidde tot de sluiting van alle start- en landingsbanen en taxibanen, en ..."
         },
         {
-          "title": "Lees terug: FC Emmen na een verhitte slotfase met 2-1 onderuit tegen De Graafschap",
-          "source": "RTV Drenthe",
-          "url": "https://www.rtvdrenthe.nl/sport/18773536/fc-emmen-na-een-verhitte-slotfase-met-2-1-onderuit-tegen-de-graafschap",
-          "publishedDate": "Fri, 11 Sep 2026 12:54:00 GMT",
-          "description": "FC Emmen kijkt na een uur spelen tegen een 2-1 achterstand aan, na een voltreffer van De Graafschap-middenvelder Donny Warmerdam De Emmenaren dringen na rust aan, maar tot een tweede doelpunt leidt da ..."
+          "title": "Austrian Airlines neemt versneld afscheid van Boeing 767: mogelijk dit jaar nog",
+          "source": "Luchtvaartnieuws",
+          "url": "https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/austrian-airlines-neemt-versneld-afscheid-van-boeing-767-mogelijk-dit-jaar-nog",
+          "publishedDate": "Tue, 14 Oct 2025 07:10:00 GMT",
+          "description": "Austrian Airlines neemt naar verwachting in december dit jaar al afscheid van de laatste Boeing 767-300ER’s. De Oostenrijkse luchtvaartmaatschappij heeft momenteel nog drie exemplaren van het type in ..."
         },
         {
-          "title": "Eindelijk kan De Graafschap echt juichen, eerste zege in Drenthe",
-          "source": "Omroep Gelderland",
-          "url": "https://www.gld.nl/sport/8521493/eindelijk-kan-de-graafschap-echt-juichen-eerste-zege-in-drenthe",
-          "publishedDate": "Fri, 11 Sep 2026 09:12:00 GMT",
-          "description": "De Graafschap heeft de onderste regionen van de Keuken Kampioen Divisie eindelijk verlaten. De ploeg van trainer Duivenvoorden won verrassend bij de nummer drie FC Emmen. Donny Warmerdam groeide in de ..."
-        },
-        {
-          "title": "TERUGLEZEN | De Graafschap boekt eerste zege van het seizoen, opluchting is groot",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/de-graafschap/teruglezen-de-graafschap-boekt-eerste-zege-van-het-seizoen-opluchting-is-groot~aa56b055/",
-          "publishedDate": "Fri, 11 Sep 2026 06:06:00 GMT",
-          "description": "De Graafschap uit Doetinchem heeft de eerste zege van het seizoen binnen. Op bezoek bij FC Emmen won de formatie van trainer Thomas Duivenvoorde vrijdagavond met 1-2. Julian Kania (0-1) en Donny ..."
-        },
-        {
-          "title": "Voorbeschouwing | FC Emmen – De Graafschap",
-          "source": "FC Emmen",
-          "url": "https://fcemmen.nl/vbsemmgra2627/",
-          "publishedDate": "Thu, 10 Sep 2026 06:25:00 GMT",
-          "description": "Vier overwinningen uit de eerste vijf competitiewedstrijden. FC Emmen is uitstekend begonnen aan het nieuwe seizoen en boekte afgelopen vrijdag […] ..."
+          "title": "TUI blijft voorlopig doorvliegen met Boeing 767",
+          "source": "insideflyer.nl",
+          "url": "https://insideflyer.nl/tui-blijft-voorlopig-doorvliegen-met-boeing-767/",
+          "publishedDate": "Fri, 05 Jan 2024 02:59:00 GMT",
+          "description": "In eerste instantie zou TUI haar enige resterende Boeing 767 afgelopen maand met pensioen sturen. TUI laat echter aan InsideFlyer weten de 767 nog tot ten minste de komende zomer in te blijven zetten."
         }
       ]
     },
     {
-      "keyword": "zverev",
-      "trafficLabel": "5K+",
+      "keyword": "b&amp;b vol liefde",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Zverev verslaat Khachanov en haalt op US Open derde Grand Slam-finale op rij",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/tennis/6409487/zverev-verslaat-khachanov-en-haalt-op-us-open-derde-grand-slam-finale-op-rij.html",
-          "publishedDate": "Fri, 11 Sep 2026 17:23:00 GMT",
-          "description": "Alexander Zverev heeft vrijdag ten koste van Karen Khachanov de finale van de US Open bereikt. Het wordt derde keer op rij dat de Duitser in de eindstrijd van een Grand Slam-toernooi staat."
-        },
-        {
-          "title": "Zverev bereikt bij US Open derde grandslamfinale op rij met winst op Chatsjanov",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2630656-zverev-bereikt-bij-us-open-derde-grandslamfinale-op-rij-met-winst-op-chatsjanov",
-          "publishedDate": "Fri, 11 Sep 2026 16:59:00 GMT",
-          "description": "De Duitse nummer &#233;&#233;n van de plaatsingslijst is in de halve eindstrijd te sterk voor de Rus Karen Chatsjanov: 6-3, 7-6 (7), 7-6 (6)."
-        },
-        {
-          "title": "LIVE US Open | Alexander Zverev voor tweede keer naar finale in New York: Duitser verslaat Karen Khachanov",
+          "title": "‘We zijn erg verliefd’: deze koppels uit B&amp;B vol liefde zijn nog steeds samen",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/tennis/live-us-open-alexander-zverev-voor-tweede-keer-naar-finale-in-new-york-duitser-verslaat-karen-khachanov~a32e16c8/",
-          "publishedDate": "Fri, 11 Sep 2026 08:22:00 GMT",
-          "description": "De US Open, het laatste grandslamtoernooi van het jaar, is losgebarsten. Door de afwezigheid van de nummer &#233;&#233;n van de wereld, Jannik Sinner, ligt de strijd om de titel bij de mannen volledig open. Vol ..."
+          "url": "https://www.ad.nl/show/we-zijn-erg-verliefd-deze-koppels-uit-benb-vol-liefde-zijn-nog-steeds-samen~a0c3276d/",
+          "publishedDate": "Thu, 10 Sep 2026 06:30:00 GMT",
+          "description": "Het zit erop: negen weken B&amp;B vol liefde. Wie zijn er nog samen en wie gooiden de handdoek in de ring? Dat werd donderdagavond duidelijk tijdens de re&#252;nie-uitzending. Een overzicht. Let op: wil je de ..."
         },
         {
-          "title": "Zverev klopt Van de Zandschulp ondanks latertje: 'Tot 3.30 uur Alcaraz gekeken'",
+          "title": "‘Hork’ Fred krijgt de volle laag in B&amp;B vol liefde, oud-deelnemers weten hoe hard dat aankomt",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/hork-fred-krijgt-de-volle-laag-in-benb-vol-liefde-oud-deelnemers-weten-hoe-hard-dat-aankomt~a6c16530/",
+          "publishedDate": "Mon, 17 Aug 2026 21:39:00 GMT",
+          "description": "Ze doen mee voor de liefde, maar gaan de geschiedenis in als tv-hork. De kritiek op Fred uit B&amp;B vol liefde is niet mals. Hoe ga je daarmee om? ‘Lomperiken’ uit eerdere seizoenen, Albert, Hans en Jaco ..."
+        },
+        {
+          "title": "RTL laakt online haat richting 'vrouwonvriendelijke narcist' Fred uit B&amp;B Vol liefde",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/tennis/6409244/zverev-klopt-van-de-zandschulp-ondanks-latertje-tot-330-uur-alcaraz-gekeken.html",
-          "publishedDate": "Thu, 10 Sep 2026 01:06:00 GMT",
-          "description": "Alexander Zverev heeft niet de ideale voorbereiding gehad op zijn kwartfinale tegen Botic van de Zandschulp. De 29-jarige Duitser had tot diep in de nacht naar de wedstrijd van Ben Shelton tegen Carlo ..."
+          "url": "https://www.nu.nl/media/6406010/rtl-laakt-online-haat-richting-vrouwonvriendelijke-narcist-fred-uit-bb-vol-liefde.html",
+          "publishedDate": "Tue, 11 Aug 2026 11:35:00 GMT",
+          "description": "RTL is niet te spreken over de vloedgolf aan negatieve reacties die B&amp;B-eigenaar Fred uit het huidige seizoen van B&amp;B Vol liefde over zich heen krijgt. Hij gedraagt zich volgens kijkers vrouwonvriende ..."
         },
         {
-          "title": "Geen historische halve finale US Open: Van de Zandschulp kan niet stunten tegen Zverev",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/sport/geen-historische-halve-finale-us-open-van-de-zandschulp-kan-niet-stunten-tegen-zverev~bce912b0/",
-          "publishedDate": "Thu, 10 Sep 2026 00:22:00 GMT",
-          "description": "Botic van de Zandschulp hoopte voor het eerst in zijn tenniscarri&#232;re de halve finale van een grandslamtoernooi te bereiken, maar wist in de US Open niet te stunten tegen de nummer 1 van de plaatsingsl ..."
+          "title": "B&amp;B Vol Liefde-Caroline (67) geeft Arie een nieuwe kans: 'Wat niet is, kan nog komen'",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2252423/b-en-b-vol-liefde-caroline-67-geeft-arie-een-nieuwe-kans-wat-niet-is-kan-nog-komen",
+          "publishedDate": "Fri, 11 Sep 2026 12:03:00 GMT",
+          "description": "De Rotterdamse Caroline Kist ging in het afgelopen seizoen van het tv-programma B&amp;B Vol Liefde op zoek naar een nieuwe partner. In het Spaanse Estepona ontmoette ze hondenliefhebber Arie. &quot;Een schat v ..."
         },
         {
-          "title": "Van de Zandschulp strandt in kwartfinale US Open, kan niet stunten tegen Zverev",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2630390-van-de-zandschulp-strandt-in-kwartfinale-us-open-kan-niet-stunten-tegen-zverev",
-          "publishedDate": "Wed, 09 Sep 2026 19:23:00 GMT",
-          "description": "Botic van de Zandschulp verliest in New York van de als eerste geplaatste Alexander Zverev met 2-6, 5-7, 1-6. Hij mist in de tweede set een setpoint."
+          "title": "B&amp;B Vol Liefde Fred heeft t&#243;ch de liefde gevonden: ‘E&#233;n e-mail veranderde alles’",
+          "source": "Girlscene on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/b-b-vol-liefde-fred-heeft-t%C3%B3ch-de-liefde-gevonden-e%C3%A9n-e-mail-veranderde-alles/ar-AA2c0kir",
+          "publishedDate": "Fri, 11 Sep 2026 03:48:00 GMT",
+          "description": "De afgelopen weken zat de helft van Nederland giechelend en soms met de handen voor de ogen op de bank. Want w&#225;t een televisie kregen we weer voorgeschoteld in B&amp;B Vol Liefde. Tussen alle botsende kar ..."
         },
         {
-          "title": "Alexander Zverev bereikt in New York zijn derde grandslamfinale van het seizoen",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/matches/tennis/2026-09/alexander-zverev-karen-khachanov-alexander-zverev-bereikt-in-new-york-zijn-derde-grandslamfinale-van-het-seizoen~1789022561793/",
-          "publishedDate": "Fri, 11 Sep 2026 16:59:00 GMT",
-          "description": "Alexander Zverev (ATP-2) is de eerste finalist op de US Open. De winnaar van Roland Garros en de verliezende finalist van Wimbledon rekende in zijn halve finale af met Karen Chatsjanov. De Rus klopte ..."
+          "title": "T&#243;ch een vreugdeplasje: Fred uit 'B&amp;B Vol Liefde' is alsnog verliefd geworden",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/entertainment/wat-goeeeed/fred-uit-bb-vol-liefde-verliefd/",
+          "publishedDate": "Thu, 10 Sep 2026 17:00:00 GMT",
+          "description": "Al tijdens de uitzendingen van B&amp;B Vol Liefde krijgt Fred een ‘mooie, intense mail’. ‘Van een theatermaakster’, zo vertelt hij tegenover het AD. ‘We gingen kilometers schrijven en hebben elkaar een ..."
         },
         {
-          "title": "Zverev plaatst zich op US Open voor derde grandslamfinale op rij",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/sport/zverev-plaatst-zich-op-us-open-voor-derde-grandslamfinale-op-rij",
-          "publishedDate": "Fri, 11 Sep 2026 16:36:00 GMT",
-          "description": "Alexander Zverev verslaat Karen Chatsjanov in drie sets (6-3, 7-6, 7-6) en bereikt op de US Open zijn derde grandslamfinale op rij. Tegenstander: Tiafoe of Shelton."
+          "title": "'Dit is het mooiste fragment van dit seizoen van B&amp;B Vol Liefde'",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/reality/mooiste-fragment-van-seizoen-b-en-b-vol-liefde-2026-reality",
+          "publishedDate": "Wed, 09 Sep 2026 05:12:00 GMT",
+          "description": "Vanavond is het voor de Videoland kijkers dan eindelijk zover: de re&#252;nie van B&amp;B Vol Liefde. En nu het seizoen bijna afgelopen is was het een mooi moment voor Renze Klamer om in zijn talkshow even ter ..."
         },
         {
-          "title": "Coach Botic van de Zandschulp onder de indruk van Alexander Zverev: 'Hij werd op de operatietafel gelegd'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/tennis/nieuws/coach-botic-van-de-zandschulp-onder-de-indruk-van-alexander-zverev-hij-werd-op-de-operatietafel-gelegd-2026091107204173600/",
-          "publishedDate": "Fri, 11 Sep 2026 02:25:00 GMT",
-          "description": "Botic van de Zandschulp haalde een knappe kwartfinale op de US Open, waarin de Duitser Alexander Zverev helaas net een maatje te groot voor hem was. Daags na de uitschakeling laat zijn trainer, Raemon ..."
+          "title": "D&#237;t is tot wanneer 'B&amp;B Vol Liefde' op tv te zien is (en wanneer je de re&#252;nie kan bekijken)",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/entertainment/goed-om-te-weten/datum-reunie-einde-bb-vol-liefde-2026/",
+          "publishedDate": "Thu, 03 Sep 2026 00:25:00 GMT",
+          "description": "De laatste reguliere aflevering is op woensdag 9 september te zien op RTL 4. Wie via Videoland kijkt, loopt zoals altijd voor op de tv-kijkers. De streamingdienst biedt de afleveringen namelijk tot ..."
         },
         {
-          "title": "Tennisdroom ten einde voor Botic van de Zandschulp op US Open: Nederlander uitgeschakeld door Alexander Zverev",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/tennis/nieuws/tennisdroom-ten-einde-voor-botic-van-de-zandschulp-op-us-open-nederlander-uitgeschakeld-door-alexander-zverev-2026091004043183863/",
-          "publishedDate": "Wed, 09 Sep 2026 23:08:00 GMT",
-          "description": "Botic van de Zandschulp is er niet in geslaagd de halve finale te bereiken van de US Open. De 30-jarige Nederlander moest de zege in New York in drie sets laten aan de als eerste geplaatste Duitser ..."
+          "title": "B&amp;B vol liefde-deelneemster Marian durft niet terug naar Portugal: ‘Opgelicht voor 120.000 euro’",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/show/b-b-vol-liefde-deelneemster-marian-durft-niet-terug-naar-portugal-opgelicht-voor-120-000-euro~aba61408/?slug_rd=1",
+          "publishedDate": "Fri, 25 Aug 2023 12:10:00 GMT",
+          "description": "B&amp;B vol liefde-deelneemster Marian durft niet terug naar Portugal: ‘Opgelicht voor 120.000 euro’ Marian uit B&amp;B vol liefde durft niet terug te keren naar Portugal, waar ze haar bed en breakfast runt."
+        },
+        {
+          "title": "Ster B&amp;B vol liefde-lieveling blijft rijzen: Olof maakt acteerdebuut in speelfilm",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/show/ster-b-b-vol-liefde-lieveling-blijft-rijzen-olof-maakt-acteerdebuut-in-speelfilm~a1529df7/?slug_rd=1",
+          "publishedDate": "Wed, 23 Aug 2023 04:45:00 GMT",
+          "description": "De populariteit van de sympathieke Olof Ormeling lijkt niet te stoppen. De 75-jarige gepensioneerd scheepswerktuigkundige wordt overspoeld met fanmail, maar gaat nu ook zijn acteerdebuut maken. Samen ..."
         }
       ]
     }
