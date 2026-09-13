@@ -1,99 +1,43 @@
 {
-  "fetchedAt": "2026-09-13T20:05:31.611Z",
+  "fetchedAt": "2026-09-13T22:30:15.737Z",
   "trends": [
+    {
+      "keyword": "psv - sparta rotterdam",
+      "trafficLabel": "100K+",
+      "articles": [
+        {
+          "title": "PSV'er steelt de show in Eredivisie: hattrick maakt enorme blunder ongedaan tegen Sparta",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/psver-steelt-de-show-in-eredivisie-hattrick-maakt-enorme-blunder-ongedaan-tegen-sparta-2026091319565157182/",
+          "publishedDate": "Sun, 13 Sep 2026 14:57:00 GMT",
+          "description": "PSV heeft de koppositie in de Eredivisie veroverd na een thuisoverwinning tegen Sparta Rotterdam. In het Philips Stadion werd het 4-1 voor de landskampioen, mede dankzij een hattrick van Sven Mijnans"
+        },
+        {
+          "title": "LIVE: Sparta dringt aan maar krijgt derde treffer tegen in Eindhoven (3-1)",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2252920/live-sparta-dringt-aan-maar-krijgt-derde-treffer-tegen-in-eindhoven-3-1",
+          "publishedDate": "Sun, 13 Sep 2026 09:58:00 GMT",
+          "description": "Sparta neemt het vanavond in Eindhoven op tegen de titelhouder. De ploeg van Rogier Meijer verloor vorig weekend de Rotterdamse derby van de Kralingers en zal het ook tegen PSV niet makkelijk hebben."
+        }
+      ]
+    },
     {
       "keyword": "pec - feyenoord",
       "trafficLabel": "100K+",
       "articles": [
         {
-          "title": "Viergever laakt inzet van PEC tegen Feyenoord: 'We werden in alles afgetroefd'",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/viergever-laakt-inzet-van-pec-tegen-feyenoord-we-werden-in-alles-afgetroefd/ar-AA2c8aoL",
-          "publishedDate": "Sun, 13 Sep 2026 11:23:58 GMT",
-          "description": "Trainer Henry van der Vegt en aanvoerder Nick Viergever zijn geschrokken van het spel dat PEC Zwolle zondag liet zien tegen Feyenoord. De Zwollenaren werden volgens Viergever op alle fronten afgetroef"
-        },
-        {
-          "title": "Wervelwind Feyenoord speelt Slotbal in Zwolle: ‘Ik denk dat hij vandaag ook genoten heeft’",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/hoeksche-waard/wervelwind-feyenoord-speelt-slotbal-in-zwolle-ik-denk-dat-hij-vandaag-ook-genoten-heeft~a360b801/",
-          "publishedDate": "Sun, 13 Sep 2026 04:45:00 GMT",
-          "description": "Feyenoord ging als een wervelwind tekeer tegen PEC Zwolle. Trainer Giovanni van Bronckhorst vond de typering Slotbal een compliment. De trainer zag nog niet eerder een elftal van hem zo swingend en ov"
-        }
-      ]
-    },
-    {
-      "keyword": "psv - sparta rotterdam",
-      "trafficLabel": "50K+",
-      "articles": [
-        {
-          "title": "PSV neemt koppositie over van AZ na zege op Sparta en drie goals Mijnans",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2630890-psv-neemt-koppositie-over-van-az-na-zege-op-sparta-en-drie-goals-mijnans",
-          "publishedDate": "Sun, 13 Sep 2026 12:51:00 GMT",
-          "description": "PSV is de nieuwe koploper van de eredivisie. De regerend kampioen won mede dankzij drie goals van Sven Mijnans van Sparta Rotterdam (4-1), waardoor de Eindhovenaren AZ passeerden."
-        },
-        {
-          "title": "Sven Mijnans schittert met fraaie hattrick voor koploper PSV tegen zijn oude club Sparta",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/live-eredivisie-psv-begonnen-tegen-sparta-hoe-pakt-keuze-van-peter-bosz-uit~ab7a1453/",
-          "publishedDate": "Sun, 13 Sep 2026 05:57:00 GMT",
-          "description": "PSV begon het seizoen met een nederlaag tegen AZ (Johan Cruijff Schaal) en een gelijkspel tegen Fortuna Sittard, maar daarna kregen de Eindhovenaren het op de rit. Vanavond komt Sparta op bezoek. Volg ..."
-        },
-        {
-          "title": "LIVE eredivisie | PSV verslaat Sparta, hattrick van Sven Mijnans tegen zijn oude club",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/live-eredivisie-psv-draait-het-om-tegen-sparta-van-bommel-toegezongen-tijdens-warmlopen~ab7a1453/",
-          "publishedDate": "Sun, 13 Sep 2026 05:46:00 GMT",
-          "description": "PSV begon het seizoen met een nederlaag tegen AZ (Johan Cruijff Schaal) en een gelijkspel tegen Fortuna Sittard, maar daarna kregen de Eindhovenaren het op de rit. Vanavond komt Sparta op bezoek. Volg ..."
-        },
-        {
           "title": "PSV aan kop na zesde speelronde • Zevenklapper Feyenoord • Eerste zege FC Utrecht",
           "source": "NOS",
           "url": "https://nos.nl/liveblog/2630804-psv-aan-kop-na-zesde-speelronde-zevenklapper-feyenoord-eerste-zege-fc-utrecht",
-          "publishedDate": "Sun, 13 Sep 2026 02:47:00 GMT",
+          "publishedDate": "Sun, 13 Sep 2026 11:56:00 GMT",
           "description": "PSV is de nieuwe koploper van de eredivisie. De regerend kampioen won mede dankzij drie goals van Sven Mijnans van Sparta Rotterdam (4-1), waardoor de Eindhovenaren AZ passeerden."
         },
         {
-          "title": "PSV klopt Sparta dankzij hattrick Mijnans en neemt koppositie over van AZ",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6409635/psv-klopt-sparta-dankzij-hattrick-mijnans-en-neemt-koppositie-over-van-az.html",
-          "publishedDate": "Sun, 13 Sep 2026 00:55:00 GMT",
-          "description": "PSV heeft zondag de koppositie in de Eredivisie overgenomen van AZ. De ploeg van trainer Peter Bosz won met 4-1 van Sparta Rotterdam. Sven Mijnans was met drie goals de man van de avond."
-        },
-        {
-          "title": "Hattrick Mijnans velt oude liefde Sparta: gerouleerd PSV wint en is koploper",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/hattrick-mijnans-velt-oude-liefde-sparta-gerouleerd-psv-wint-en-is-koploper/ar-AA2c8WdP",
-          "publishedDate": "Sun, 13 Sep 2026 12:51:37 GMT",
-          "description": "Na het gelijkspel in de Champions League tegen Shakhtar Donetsk heeft een flink gewijzigd PSV in eigen huis weten te winnen van Sparta Rotterdam. De Eindhovenaren kwamen opnieuw op achterstand, maar s ..."
-        },
-        {
-          "title": "Mijnans helpt PSV met drie goals langs Sparta en naar koppositie",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/mijnans-helpt-psv-met-drie-goals-langs-sparta-en-naar-koppositie",
-          "publishedDate": "Sun, 13 Sep 2026 12:50:00 GMT",
-          "description": "PSV heeft zondagavond in de Eredivisie de koppositie veroverd. Voor het eerst gaan de Eindhovenaren dit seizoen aan kop. Dat gebeurde na een zege op Sparta Rotterdam. Met dank aan &#233;&#233;n uitblinker: Sven ..."
-        },
-        {
-          "title": "LIVE: Sparta krijgt vierde doelpunt tegen van Oud-Spartaan in Eindhoven (4-1)",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2252920/live-sparta-krijgt-vierde-doelpunt-tegen-van-oud-spartaan-in-eindhoven-4-1",
-          "publishedDate": "Sun, 13 Sep 2026 09:58:00 GMT",
-          "description": "Sparta neemt het vanavond in Eindhoven op tegen de titelhouder. De ploeg van Rogier Meijer verloor vorig weekend de Rotterdamse derby van de Kralingers en zal het ook tegen PSV niet makkelijk hebben."
-        },
-        {
-          "title": "Bosz rouleert bij PSV en laat Bouhamdi starten",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/bosz-rouleert-bij-psv-en-laat-bouhamdi-starten/ar-AA2c8ke8",
-          "publishedDate": "Sun, 13 Sep 2026 09:55:00 GMT",
-          "description": "PSV kan zaterdagavond de koppositie in de Eredivisie veroveren. Dan moeten de Eindhovenaren w&#233;l afrekenen met Sparta Rotterdam. In de basisopstelling koos trainer Peter Bosz voor een paar opvallende n ..."
-        },
-        {
-          "title": "Praat mee op VP: Bosz wijzigt opstelling PSV flink voor duel met Sparta",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-bosz-wijzigt-opstelling-psv-flink-voor-duel-met-sparta/ar-AA2c85eo",
-          "publishedDate": "Sun, 13 Sep 2026 09:46:00 GMT",
-          "description": "PSV ontvangt zondagavond Sparta Rotterdam in het Philips Stadion. De wedstrijd begint om 20.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+          "title": "IJzersterk Feyenoord vernedert PEC Zwolle en boekt een van grootste uitzeges ooit",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/feyenoord-vernedert-pec-zwolle-met-zevenklapper",
+          "publishedDate": "Sun, 13 Sep 2026 11:36:00 GMT",
+          "description": "Feyenoord maakt gehakt van PEC Zwolle en wint met liefst 0-7. Ferri, Hadj Moussa en debutant Zinhagel drukken hun stempel op de zevenklapper."
         }
       ]
     },
@@ -102,150 +46,74 @@
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Man in Belgi&#235; hersendood na aanval van geelpoothoornaars",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2629306-man-in-belgie-hersendood-na-aanval-van-geelpoothoornaars",
-          "publishedDate": "Tue, 01 Sep 2026 09:52:00 GMT",
-          "description": "In Belgi&#235; is een man hersendood verklaard nadat hij was gestoken door geelpoothoornaars, insecten die tot voor kort Aziatische hoornaars werden genoemd. Afgelopen week werd de 60-jarige Eddy De Mulder ..."
+          "title": "‘Transferblunder komt Ajax h&#233;&#233;l duur te staan’",
+          "source": "soccernews",
+          "url": "https://www.soccernews.nl/news/transferblunder-komt-ajax-heel-duur-te-staan/",
+          "publishedDate": "Sun, 13 Sep 2026 09:33:00 GMT",
+          "description": "Ajax besloot deze zomer om tijdelijk afscheid te nemen van aanvaller Don-Angelo Konadu, die op huurbasis is gestald bij Lommel SK uit Belgi&#235;. Die club beschikt over een koopoptie, dus de kans is ..."
         },
         {
-          "title": "Oprichter van buskruitfabriek Wetteren krijgt 15 jaar na diefstal nieuw borstbeeld",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/13/oprichter-buskruitfabriek-wetteren-krijgt-11-jaar-na-diefstal-ni/",
-          "publishedDate": "Sun, 13 Sep 2026 09:31:00 GMT",
-          "description": "Jan-Frans Cooppal is in ere hersteld in Wetteren: er prijkt een nieuw borstbeeld van de industrieel in de laan die naar hem genoemd is. Vijftien jaar geleden werd het originele beeld gestolen. Cooppal ..."
+          "title": "Kan Belgi&#235; de knock-outfase nog halen? Alle scenario’s uitgelegd",
+          "source": "Squawka Football",
+          "url": "https://www.squawka.com/nl/features/kan-belgie-de-knock-outfase-nog-halen-alle-scenarios-uitgelegd/",
+          "publishedDate": "Mon, 22 Jun 2026 04:21:00 GMT",
+          "description": "Belgi&#235; staat na twee duels op slechts twee punten en is niet langer baas over eigen lot. Het gelijkspel tegen Iran, met een man minder na de rode kaart van Nathan Ngoy, en de gelijktijdige 3-1 ..."
         },
         {
-          "title": "Van Bommel meteen onder vuur in Belgi&#235;: ‘Eerste missie gefaald, onaanvaardbaar’",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/van-bommel-onder-vuur-belgie-courtois-eerste-missie-gefaald",
-          "publishedDate": "Fri, 11 Sep 2026 23:54:00 GMT",
-          "description": "Mark van Bommel krijgt al voor zijn debuut als bondscoach van Belgi&#235; stevige kritiek. Philippe Albert vindt dat hij heeft gefaald in de kwestie rond Thibaut Courtois."
+          "title": "Huismerk Golden Power van Aldi Belgi&#235; start Europese veroveringstocht",
+          "source": "retaildetail",
+          "url": "https://www.retaildetail.be/nl/news/food/huismerk-golden-power-van-aldi-belgie-start-europese-veroveringstocht/",
+          "publishedDate": "Tue, 21 Oct 2025 02:32:00 GMT",
+          "description": "Golden Power, het succesvolle huismerk voor energiedrankjes dat Aldi Belgi&#235; in 2002 lanceerde, krijgt tegen eind dit jaar ook een uitrol in andere Europese landen waar Aldi Nord actief is. De ..."
         },
         {
-          "title": "Belgi&#235; moet overvolle gevangenissen aanpakken, boete dreigt",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/buitenland/belgie-moet-overvolle-gevangenissen-aanpakken-boete-dreigt",
-          "publishedDate": "Fri, 11 Sep 2026 03:12:00 GMT",
-          "description": "Rechtbank Gent eist aanpak overbevolking gevangenissen. Bij uitblijven actie volgt dwangsom van €500 per dag per gedetineerde, max €45 miljoen. Klik voor meer."
+          "title": "Asiel en migratie: 5 kerncijfers die Belgi&#235; en Europa in 2025 zullen be&#239;nvloeden",
+          "source": "Knack",
+          "url": "https://trends.knack.be/partners/asiel-en-migratie-5-kerncijfers-die-belgie-en-europa-in-2025-zullen-beinvloeden/",
+          "publishedDate": "Tue, 26 Aug 2025 03:51:00 GMT",
+          "description": "Opvangcrisis, oorlog in Oekra&#239;ne, strijd tegen irreguliere migratie… Hier enkele cijfers die aantonen wat er in 2024 is veranderd en wat Belgi&#235; in 2025 uitvoert. Het Europees Migratienetwerk (EMN), ..."
         },
         {
-          "title": "Waarom is er in Nederland een wooncrisis, en in Belgi&#235; niet? ‘Er zijn hier vooral veel regels over wat je n&#237;&#233;t mag doen’",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/geld-carriere/woningmarkt/2026/09/waarom-nederland-wooncrisis-belgie-niet-echt/",
-          "publishedDate": "Wed, 09 Sep 2026 03:22:00 GMT",
-          "description": "Ook in Belgi&#235; wonen steeds meer mensen alleen en neemt de vraag naar woningen toe. Toch heeft het land een veel grotere woningvoorraad per inwoner. Daardoor is er meer ruimte op de woningmarkt en ..."
+          "title": "Nederland subsidieert groene waterstof, Belgi&#235; incasseert gratis het klimaatvoordeel",
+          "source": "ewmagazine",
+          "url": "https://www.ewmagazine.nl/economie/news/2025/07/subsidie-groene-waterstof-belgie-1492224/",
+          "publishedDate": "Wed, 30 Jul 2025 07:44:00 GMT",
+          "description": "De Nederlandse overheid steekt honderden miljoenen euro’s subsidies in de productie van ‘groene waterstof’, die voor een deel in Belgi&#235; tot CO 2-reductie leidt. Nederland moet in 2030 zijn CO ..."
         },
         {
-          "title": "Domper voor Van Bommel: superster Belgi&#235; stelt zich niet beschikbaar",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/domper-voor-van-bommel-courtois-niet-beschikbaar-voor-de-nations-league",
-          "publishedDate": "Wed, 09 Sep 2026 01:45:00 GMT",
-          "description": "Een domper voor Mark van Bommel, de nieuwe bondscoach van Belgi&#235;: superster Thibaut Courtois stelt zich niet beschikbaar voor de wedstrijden in de Nations League."
+          "title": "Belgi&#235; groeit tot bijna 11,83 miljoen inwoners: migratie stuwt bevolking, verschillen in bevolkingsdichtheid blijven groot",
+          "source": "Newsmonkey",
+          "url": "https://newsmonkey.be/belgie-groeit-inwoners-migratie/",
+          "publishedDate": "Sun, 15 Jun 2025 19:02:00 GMT",
+          "description": "Op 1 januari 2025 telde Belgi&#235; 11.825.551 inwoners. Dat zijn er bijna 62.000 meer dan een jaar eerder, een stijging van 0,52 procent. De toename is vooral te danken aan migratie, want zonder die ..."
         },
         {
-          "title": "A4 tussen Belgi&#235; en Bergen op Zoom heel weekend dicht: zo moet je omrijden",
-          "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/a4-tussen-belgie-en-bergen-op-zoom-heel-weekend-dicht-zo-moet-je-omrijden",
-          "publishedDate": "Sat, 05 Sep 2026 09:00:00 GMT",
-          "description": "BERGEN OP ZOOM - Wie in het weekend van 11 tot en met 14 september over de A4 tussen Belgi&#235; en Bergen op Zoom moet, doet er goed aan vooraf de route te checken."
+          "title": "De cloud komt naar Belgi&#235;: Microsoft lanceert lokale datacenters in de herfst van 2025",
+          "source": "Microsoft",
+          "url": "https://news.microsoft.com/source/emea/2025/03/de-cloud-komt-naar-belgie-microsoft-lanceert-lokale-datacenters-in-de-herfst-van-2025/?lang=nl",
+          "publishedDate": "Wed, 12 Mar 2025 01:00:00 GMT",
+          "description": "Brussel, 12 maart, 2025 – Microsoft kondigt vandaag zijn cloud-uitbreiding in Belgi&#235; aan. Dit is een belangrijke mijlpaal in het Digital AmBEtion-initiatief. Verderbouwend op het bedrijf zijn ..."
         },
         {
-          "title": "Belgi&#235; gaat voorop in stijging Europese melkaanvoer",
-          "source": "veeteelt",
-          "url": "https://veeteelt.nl/zuivel/belgie-gaat-voorop-stijging-europese-melkaanvoer",
-          "publishedDate": "Thu, 03 Sep 2026 17:00:00 GMT",
-          "description": "Belgische melkveehouders hebben er flink de vaart in met melk produceren. Over de eerste zes maanden van 2026 nam de melkaanvoer in Belgi&#235; toe met 8,8 procent."
+          "title": "Belgi&#235; staat met lege handen op belangrijke biodiversiteits-COP in Colombia: &quot;Spijtig signaal van ons land&quot;",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2024/10/18/biodiversiteit-belgie-geen-plan-voor-cop16/",
+          "publishedDate": "Fri, 18 Oct 2024 21:04:00 GMT",
+          "description": "Belgi&#235; is met lege handen - zonder officieel plan van aanpak - aangekomen in Colombia voor een nochtans belangrijke VN-conferentie over biodiversiteit. COP16 begint maandag, maar Belgi&#235; heeft zijn ..."
         },
         {
-          "title": "Marokkaanse oud-karatekampioen riskeert levenslang in Belgi&#235; voor dood 3-jarige zoon",
-          "source": "MAROKKO.nl",
-          "url": "https://nieuws.marokko.nl/116841/marokkaanse-oud-karatekampioen-riskeert-levenslang-in-belgie-voor-dood-3-jarige-zoon/",
-          "publishedDate": "Thu, 03 Sep 2026 15:13:00 GMT",
-          "description": "De Marokkaanse oud-karatekampioen Mohammed Taoussi (32) riskeert in Belgi&#235; levenslang voor de dood van zijn 3-jarige zoon Wassim. Justitie verdenkt hem van zware mishandeling, uithongering en het onth ..."
+          "title": "Kan Belgi&#235; na een dramatisch WK zich met deze selectie revancheren op het EK?",
+          "source": "footballtransfers",
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/eu-european-championship/2024/04/opstelling-en-selectie-belgie-ek-2024",
+          "publishedDate": "Tue, 18 Jun 2024 07:14:00 GMT",
+          "description": "Willem Leijgraf is datajournalist bij FootballTransfers en specialiseert zich in analyses van spelersprestaties, transferwaardes en statistische ontwikkelingen binnen het voetbal. Maak ons je ..."
         },
         {
-          "title": "Belgi&#235; kampte met heetste zomer ooit",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/buitenland/belgie-kampte-met-heetste-zomer-ooit",
-          "publishedDate": "Tue, 01 Sep 2026 06:26:00 GMT",
-          "description": "Zomer 2026 was de heetste ooit in Belgi&#235;: 20,3&#176;C gemiddeld, 3 hittegolven, hoogste oversterfte in Europa in juni en grote natuurbrand in de Hoge Venen. Klik voor cijfers en ..."
-        }
-      ]
-    },
-    {
-      "keyword": "man utd - manchester city",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Rooney says INEOS have let Carrick down after ‘toothless’ Man Utd defeat to Man City",
-          "source": "Football365 on MSN",
-          "url": "https://www.msn.com/en-gb/general/general/rooney-says-ineos-have-let-carrick-down-after-toothless-man-utd-defeat-to-man-city/ar-AA2c8YN0",
-          "publishedDate": "Sun, 13 Sep 2026 13:02:00 GMT",
-          "description": "Wayne Rooney has hit out at Man United's &quot;toothless&quot; display in their defeat to Man City on Sunday and claims INEOS have let Carrick down."
-        },
-        {
-          "title": "Man City make Premier League history with victory over Man Utd while Erling Haaland breaks major record",
-          "source": "SPORTbible",
-          "url": "https://www.sportbible.com/football/football-news/man-city/erling-haaland-man-utd-manchester-united-premier-league-history-record-845923-20260913",
-          "publishedDate": "Sun, 13 Sep 2026 13:01:00 GMT",
-          "description": "Manchester City's perfect start sets Premier League record after Erling Haaland's controversial goal makes history."
-        },
-        {
-          "title": "Haaland scores controversial winner for 10-man City at Man Utd",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmdx50vd2v2yt?page=12",
-          "publishedDate": "Sun, 13 Sep 2026 11:45:00 GMT",
-          "description": "Erling Haaland scores controversial winner for Man City against Man Utd as the 10-man visitors maintain their perfect start."
-        },
-        {
-          "title": "Man Utd 0-1 Man City: What Maresca said",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/czjz0797mrzo",
-          "publishedDate": "Sun, 13 Sep 2026 11:33:00 GMT",
-          "description": "Iliman Ndiaye is the first Manchester City substitute on record (since 2003-04) to attempt 5+ dribbles (6) and win 5+ fouls (5) in a Premier League game, and first overall in the competition since ..."
-        },
-        {
-          "title": "Man Utd 0-1 Man City: Five Things Learned As Controversial Haaland Goal The Difference Maker (Premier League)",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/man-utd-0-1-man-180907572.html",
-          "publishedDate": "Sun, 13 Sep 2026 11:09:00 GMT",
-          "description": "A resilient 10-man City silenced Old Trafford after VAR validated Erling Haaland’s disputed strike, leaving Michael Carrick’s side to rue wasted opportunities and a toothless attacking display."
-        },
-        {
-          "title": "Haaland bezorgt tien man van City zege op United in verhitte Manchester Derby",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/haaland-bezorgt-tien-man-van-city-zege-op-united-in-verhitte-manchester-derby/ar-AA2c7ZZT",
-          "publishedDate": "Sun, 13 Sep 2026 10:26:55 GMT",
-          "description": "Manchester City heeft zondagavond de 199ste Manchester Derby op knappe wijze naar zich toe getrokken. De ploeg van Enzo Maresca stond door een oliedomme rode kaart van Phil Foden na 23 minuten met tie ..."
-        },
-        {
-          "title": "Manchester is blauw: tiental Man City verslaat Man United dankzij Haaland",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/manchester-is-blauw-tiental-man-city-verslaat-man-united-dankzij-haaland/ar-AA2c7XKg",
-          "publishedDate": "Sun, 13 Sep 2026 10:24:08 GMT",
-          "description": "Manchester kleurt blauw door de 0-1-overwinning van Manchester City tegen aartsrivaal Manchester United. The Citizens wisten ondanks een vroege rode kaart voor Phil Foden alsnog te winnen. Erling Haal ..."
-        },
-        {
-          "title": "Premier League Soccer: Stream Man United vs. Man City Live From Anywhere",
-          "source": "CNET",
-          "url": "https://www.cnet.com/culture/sports/premier-league-soccer-stream-man-united-vs-man-city-live-from-anywhere/",
-          "publishedDate": "Sun, 13 Sep 2026 06:30:00 GMT",
-          "description": "Sling TV’s Blue plan includes USA Network, making it a great option for those wanting to watch Premier League action. It starts at $46 a month (depending on where you live and whether you get local ..."
-        },
-        {
-          "title": "Manchester Derby op komst: kies Man Utd of Man City voor 50x je inleg!",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/manchester-derby-op-komst-kies-man-utd-of-man-city-voor-50x-je-inleg",
-          "publishedDate": "Sun, 13 Sep 2026 01:00:00 GMT",
-          "description": "ADVERTORIAL – In de vierde speelronde van de Premier League staat er een alleraardigst potje op het programma. Op Old Trafford wordt de eerste Manchester Derby van het seizoen gespeeld: Manchester Uni ..."
-        },
-        {
-          "title": "Wayne Rooney sends &#163;150m transfer message to INEOS after Man Utd’s loss to Man City",
-          "source": "TEAMtalk",
-          "url": "https://www.teamtalk.com/manchester-united/wayne-rooney-150m-transfer-message-ineos-man-utds-loss-man-city",
-          "publishedDate": "Sat, 12 Sep 2026 23:54:00 GMT",
-          "description": "Referee Michael Oliver sent off Phil Foden in the 23rd minute after kicking out at Man Utd captain Bruno Fernandes, although many argued that the Portuguese fouled him first. And on the hour mark, Man ..."
+          "title": "Kandidate Miss Belgi&#235; en naaktmodel uit wedstrijd gezet: “Naaktfoto's tijdens wedstrijd zijn niet toegelaten”",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2023/08/17/miss-belgie-kandidate/",
+          "publishedDate": "Fri, 18 Aug 2023 21:00:00 GMT",
+          "description": "Een van de kandidates om Miss Belgi&#235; 2024 te worden, is uit de nationale schoonheidswedstrijd gezet. Dat bevestigt de organisatie aan onze redactie. Het gaat om een kandidate die werkt als ..."
         }
       ]
     },
@@ -275,9 +143,16 @@
           "description": "VALENCIA (ANP) - FC Barcelona heeft zondag de uitwedstrijd tegen Levante met 4-2 gewonnen. Daarmee is de ploeg van trainer Hansi Flick nog altijd foutloos in de competitie. Uit de eerste vijf wedstrij ..."
         },
         {
+          "title": "Late comeback Levante blijft onvoltooid: FC Barcelona zet zegereeks voort",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/late-comeback-levante-blijft-onvoltooid-fc-barcelona-zet-zegereeks-voort/bltee434e176ee3b68c",
+          "publishedDate": "Sun, 13 Sep 2026 11:18:00 GMT",
+          "description": "Na een klein uur leek Levante de aansluitingstreffer te maken. Victor Garc&#237;a speelde doelman Juan Garc&#237;a met een fraaie kap uit en legde de bal breed op Ivan Romero, die de bal niet in een vrijwel ..."
+        },
+        {
           "title": "Bar&#231;a maakt het nog even spannend, maar wint vier dagen na Feyenoord-zege opnieuw",
           "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/bar%C3%A7a-maakt-het-nog-even-spannend-maar-wint-vier-dagen-na-feyenoord-zege-opnieuw/ar-AA2c8eVQ",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/bar%C3%A7a-maakt-het-nog-even-spannend-maar-wint-vier-dagen-na-feyenoord-zege-opnieuw/ar-AA2c8eVQ",
           "publishedDate": "Sun, 13 Sep 2026 09:20:12 GMT",
           "description": "FC Barcelona heeft vier dagen na de zege op Feyenoord opnieuw een overwinning geboekt, al was deze een stukje minder probleemloos. De Catalanen leken aanvankelijk een gemakkelijke middag tegemoet te g ..."
         },
@@ -296,11 +171,11 @@
           "description": "Na 4 speeldagen in La Liga wist Barcelona al maar liefst 17 keer de netten te doen trillen. Met de midweekse Champions League-match tegen Feyenoord - waar de Rotterdammers ook 5 goals om de oren ..."
         },
         {
-          "title": "Late comeback Levante blijft onvoltooid: FC Barcelona zet zegereeks voort",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/late-comeback-levante-blijft-onvoltooid-fc-barcelona-zet-zegereeks-voort/ar-AA2c7Na9",
-          "publishedDate": "Sun, 13 Sep 2026 07:19:54 GMT",
-          "description": "FC Barcelona heeft de overwinning op Feyenoord (5-1) in de Champions League een goed vervolg gegeven. De Catalanen maakten een einde aan de ongeslagen thuisreeks van acht wedstrijden van Levante en wo ..."
+          "title": "Praat mee op VP: Bar&#231;a na 5-1 tegen Feyenoord op bezoek bij Levante",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-bar%C3%A7a-na-5-1-tegen-feyenoord-op-bezoek-bij-levante/ar-AA2c8ghd",
+          "publishedDate": "Sun, 13 Sep 2026 06:10:00 GMT",
+          "description": "FC Barcelona gaat zondagmiddag op bezoek bij Levante in La Liga. De wedstrijd begint om 16.15 uur. Volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
         },
         {
           "title": "FC Barcelona blijft scoren en winnen: doelsaldo van 26-6 na zes wedstrijden",
@@ -315,13 +190,82 @@
           "url": "https://www.eurosport.nl/weddenschappen/voorspellingen/levante-vs-barcelona-voorspelling-tips-en-odds-13-09-26/",
           "publishedDate": "Fri, 11 Sep 2026 07:57:00 GMT",
           "description": "Barcelona reist zondag af naar Valencia voor een duel met Levante op speelronde vijf van La Liga 2026/27. De Catalanen, die dit seizoen nog ongeslagen zijn in alle competities, mikken op hun vijfde co ..."
+        }
+      ]
+    },
+    {
+      "keyword": "man utd - manchester city",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Enorme blunder bij Man United - Man City: scheidsrechtersorganisatie maakt excuses",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/pro-ref-fout-haaland-goal-manchester-united-city",
+          "publishedDate": "Sun, 13 Sep 2026 15:28:00 GMT",
+          "description": "Pro Ref erkent dat de VAR een beoordelingsfout maakte bij de winnende goal van Erling Haaland tegen Manchester United. De club is persoonlijk ge&#239;nformeerd."
         },
         {
-          "title": "Levante - FC Barcelona in LaLiga: blessures, opstellingen, voorspellingen, h2h, tv-gids, odds en meer",
-          "source": "news.bet365",
-          "url": "https://news.bet365.nl/nl-nl/article/levante-fc-barcelona-in-laliga-blessures-opstellingen-voorspellingen-h2h-tv-gids-odds-en-meer/2026091009324285223",
-          "publishedDate": "Fri, 11 Sep 2026 07:13:00 GMT",
-          "description": "FC Barcelona blijft maar monsterlijke zeges boeken. Ook in de UEFA Champions League was het raak tegen Feyenoord. Terug in de vaderlandse competitie staat Levante-uit op het programma. Weer een dikke ..."
+          "title": "Haaland schiet tien man Manchester City naar zege op United",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/haaland-schiet-tien-man-manchester-city-naar-zege-op-united",
+          "publishedDate": "Sun, 13 Sep 2026 13:25:00 GMT",
+          "description": "MANCHESTER (ANP) - Manchester City heeft de stadsderby tegen Manchester United met 1-0 gewonnen. Erling Haaland maakte op Old Trafford in de 60e minuut de winnende goal. Manchester City speelde driekw ..."
+        },
+        {
+          "title": "Manchester City heeft maar tien man nodig tegen Manchester United en blijft foutloos",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/manchester-city-heeft-maar-tien-man-nodig-tegen-manchester-united-en-blijft-foutloos",
+          "publishedDate": "Sun, 13 Sep 2026 12:35:00 GMT",
+          "description": "City begon het sterkst en kreeg al snel een mogelijkheid via Enzo Fern&#225;ndez, wiens schot via Harry Maguire naast ging. United groeide daarna in de wedstrijd. Lisandro Mart&#237;nez testte Gianluigi ..."
+        },
+        {
+          "title": "Woede en verbijstering bij United over 'buitenspelgoal' City: 'Onrecht'",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/woede-en-verbijstering-bij-united-over-buitenspelgoal-city-onrecht",
+          "publishedDate": "Sun, 13 Sep 2026 12:24:00 GMT",
+          "description": "Manager Michael Carrick en Lisandro Martinez vinden dat Manchester United zondag onrecht is aangedaan tegen aartsrivaal Manchester City. The Citizens stonden na 23 minuten met tien man op het veld, ma ..."
+        },
+        {
+          "title": "Controversieel rood in 23e minuut stopt City niet: Haaland beslist Manchester derby, Lammens en Tielemans druipen af",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/matches/voetbal/buitenland/eng/premier-league/2026-2027/regulier/04/manchester-united-manchester-city-controversieel-rood-in-23e-minuut-stopt-city-niet-haaland-beslist-manchester-derby-lammens-en-tielemans-druipen-af~1783495685140/",
+          "publishedDate": "Sun, 13 Sep 2026 10:30:00 GMT",
+          "description": "Manchester kleurt hemelsblauw. Een tienkoppig City heeft de volle buit meegenomen op Old Trafford. Al vroeg in de eerste helft kwamen de bezoekers met een man minder te staan na dom rood voor Foden."
+        },
+        {
+          "title": "Haaland bezorgt tien man van City zege op United in verhitte Manchester Derby",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/haaland-bezorgt-tien-man-van-city-zege-op-united-in-verhitte-manchester-derby/ar-AA2c7ZZT",
+          "publishedDate": "Sun, 13 Sep 2026 10:26:55 GMT",
+          "description": "Manchester City heeft zondagavond de 199ste Manchester Derby op knappe wijze naar zich toe getrokken. De ploeg van Enzo Maresca stond door een oliedomme rode kaart van Phil Foden na 23 minuten met tie ..."
+        },
+        {
+          "title": "Manchester is blauw: tiental Man City verslaat Man United dankzij Haaland",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/manchester-is-blauw-tiental-man-city-verslaat-man-united-dankzij-haaland/ar-AA2c7XKg",
+          "publishedDate": "Sun, 13 Sep 2026 10:24:08 GMT",
+          "description": "Manchester kleurt blauw door de 0-1-overwinning van Manchester City tegen aartsrivaal Manchester United. The Citizens wisten ondanks een vroege rode kaart voor Phil Foden alsnog te winnen. Erling Haal ..."
+        },
+        {
+          "title": "Praat mee op VP: City door met tien tegen Man United na rode kaart Foden",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-city-door-met-tien-tegen-man-united-na-rode-kaart-foden/ar-AA2c8gEY",
+          "publishedDate": "Sun, 13 Sep 2026 08:59:50 GMT",
+          "description": "Manchester maakt zich zondagmiddag op voor de eerste stadsderby van het seizoen. Manchester United ontvangt aartsrivaal Manchester City op Old Trafford. De wedstrijd begint om 17.30 uur. Volg de wedst ..."
+        },
+        {
+          "title": "Erling Haaland loodst Manchester City in zwakke derby voorbij de buren van United met onzichtbare Youri Tielemans",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/premier-league/live-aftrap-op-old-trafford-winnen-youri-tielemans-en-senne-lammens-met-manchester-united-van-stadsrivaal-city~ada164420/",
+          "publishedDate": "Sun, 13 Sep 2026 04:30:00 GMT",
+          "description": "Zondag neemt het Manchester United van Youri Tielemans en Senne Lammens het op tegen Manchester City. Wie wint de altijd beladen derby?"
+        },
+        {
+          "title": "Erling Haaland helpt tien van Manchester City aan zege op United na rode kaart Phil Foden",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/voetbal/erling-haaland-helpt-tien-van-manchester-city-aan-zege-op-united-na-rode-kaart-phil-foden~a59c58b2/?slug_rd=1",
+          "publishedDate": "Sun, 13 Sep 2026 03:42:00 GMT",
+          "description": "Manchester City heeft zondag de 199ste derby van Manchester gewonnen. Op Old Trafford maakte Erling Haaland na een uur spelen de winnende goal voor City, dat ruim zeventig minuten met een man minder s ..."
         }
       ]
     },
@@ -406,94 +350,18 @@
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Lando Norris geprezen om duidelijke reactie op Coca-Cola-verzoek na Spaanse GP: &quot;Hoogtepunt van de Madring&quot;",
-          "source": "motorsport.com on MSN",
-          "url": "https://www.msn.com/nl-nl/algemeen/algemeen/lando-norris-geprezen-om-duidelijke-reactie-op-coca-cola-verzoek-na-spaanse-gp-hoogtepunt-van-de-madring/ar-AA2c7SC6",
-          "publishedDate": "Sun, 13 Sep 2026 10:07:42 GMT",
-          "description": "Lando Norris kreeg lof van Formule 1-fans nadat hij een verzoek om een blikje Coca-Cola weg te zetten in de cooldown room resoluut afwees"
-        },
-        {
-          "title": "Norris verliest cruciale trainingstijd door versnellingsbak-drama Madrid",
+          "title": "Verstappen onthult verdedigingstruc tegen Norris: 'Gewoon midden houden'",
           "source": "Formule1nieuws.nl",
-          "url": "https://formule1nieuws.nl/nieuws/norris-verliest-cruciale-trainingstijd-door-versnellingsbak-drama-madrid/",
-          "publishedDate": "Fri, 11 Sep 2026 10:32:00 GMT",
-          "description": "Lando Norris moest tijdens de tweede vrije training voor de Grote Prijs van Spanje voortijdig terugkeren naar de garage na een versnellingsbakprobleem. De McLaren-coureur voltooide slechts twee instal"
-        }
-      ]
-    },
-    {
-      "keyword": "heerenveen - telstar",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Tactisch schaakspel tussen Heerenveen en Telstar eindigt in remise",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2630841-tactisch-schaakspel-tussen-heerenveen-en-telstar-eindigt-in-remise",
-          "publishedDate": "Sun, 13 Sep 2026 07:42:00 GMT",
-          "description": "In een wedstrijd die met name in de eerste helft maar matig kan boeien, slaagt geen van beide ploegen erin tot scoren te komen: 0-0."
+          "url": "https://formule1nieuws.nl/nieuws/verstappen-onthult-verdedigingstruc-tegen-norris-gewoon-midden-houden/",
+          "publishedDate": "Sun, 13 Sep 2026 10:22:00 GMT",
+          "description": "Max Verstappen legde na de Grote Prijs van Spanje uit hoe hij erin slaagde Lando Norris achter zich te houden in de slotfase. De Nederlander profiteerde van een ongelukkig moment voor de McLaren-coure"
         },
         {
-          "title": "Heerenveen speelt gelijk tegen Telstar; Witte leeuwen neemt punt mee terug naar Velsen",
-          "source": "Haarlem Nieuws",
-          "url": "https://haarlem.nieuws.nl/sporten/heerenveen-speelt-gelijk-tegen-telstar-witte-leeuwen-neemt-punt-mee-terug-naar-velsen",
-          "publishedDate": "Sun, 13 Sep 2026 09:55:00 GMT",
-          "description": "HEERENVEEN (ANP) - Sc Heerenveen is er in de Eredivisie opnieuw niet in geslaagd te winnen. De Friezen speelden voor eigen publiek gelijk tegen Telstar: 0-0. Heerenveen won dit seizoen pas &#233;&#233;n keer, r ..."
-        },
-        {
-          "title": "Sc Heerenveen speelt in tegenvallend duel gelijk tegen Telstar",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/sc-heerenveen-speelt-in-tegenvallend-duel-gelijk-tegen-telstar",
-          "publishedDate": "Sun, 13 Sep 2026 09:48:00 GMT",
-          "description": "Sc Heerenveen speelt thuis 0-0 tegen Telstar. Vente mist grote kansen, Koeman redt. Na 6 duels staan de Friezen 11e met 6 punten; Telstar 13e met 5."
-        },
-        {
-          "title": "sc Heerenveen stelt teleur met doelpuntloos gelijkspel tegen Telstar in eigen huis",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/sc-heerenveen-stelt-teleur-met-doelpuntloos-gelijkspel-tegen-telstar-in-eigen-huis/ar-AA2c8bwV",
-          "publishedDate": "Sun, 13 Sep 2026 09:27:00 GMT",
-          "description": "Sc Heerenveen en Telstar hebben zondag een doelpuntloze middag gekend in het Abe Lenstra Stadion. Geen van beide ploegen kwam in iets meer dan negentig minuten voetbal tot scoren, en dus worden de pun ..."
-        },
-        {
-          "title": "Onmachtig SC Heerenveen kan geen vuist maken tegen Telstar in zouteloos duel",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/onmachtig-sc-heerenveen-kan-geen-vuist-maken-tegen-telstar-in-zouteloos-duel/ar-AA2c8923",
-          "publishedDate": "Sun, 13 Sep 2026 07:34:37 GMT",
-          "description": "In een povere wedstrijd in het Abe Lenstra Stadion is geen winnaar uit de bus gekomen. SC Heerenveen kreeg de kansen, maar de ploeg van Robin Veldman miste de stootkracht om het duel open te breken. T ..."
-        },
-        {
-          "title": "Heerenveen laat kansen liggen en komt tegen Telstar niet verder dan een gelijkspel",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/heerenveen-laat-kansen-liggen-en-komt-tegen-telstar-niet-verder-dan-een-gelijkspel/ar-AA2c7xIS",
-          "publishedDate": "Sun, 13 Sep 2026 07:25:00 GMT",
-          "description": "Heerenveen en Telstar hebben zondagmiddag de punten gedeeld. Heerenveen kreeg de grootste kansen op de overwinning, maar wist die niet te benutten. In Friesland bleef het 0-0."
-        },
-        {
-          "title": "SC Heerenveen bijt zich stuk op Telstar en weet weer niet te winnen",
-          "source": "FeanOnline",
-          "url": "https://www.feanonline.nl/sc-heerenveen-bijt-zich-stuk-op-telstar-en-weet-weer-niet-te-winnen/",
-          "publishedDate": "Sun, 13 Sep 2026 07:25:00 GMT",
-          "description": "Lees nu | SC Heerenveen heeft zondagmiddag gelijkgespeeld tegen Telstar. Het duel in het Abe Lenstra Stadion eindigde in 0-0."
-        },
-        {
-          "title": "Jurjus in basis bij Volendam • Telstar pakt zwaarbevochten punt tegen Heerenveen",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/363375/jurjus-in-basis-bij-volendam-telstar-pakt-zwaarbevochten-punt-tegen-heerenveen",
-          "publishedDate": "Sun, 13 Sep 2026 07:25:00 GMT",
-          "description": "Heerenveen ontvangt Telstar, Volendam speelt tegen Den Bosch: volg beide eredivisie- en eerstedivisieduels live in ons liveblog. Lees alle ontwikkelingen."
-        },
-        {
-          "title": "Wat kan Telstar op bezoek bij Heerenveen? Volg het hier live",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/363375/wat-kan-telstar-op-bezoek-bij-heerenveen-volg-het-hier-live",
-          "publishedDate": "Sun, 13 Sep 2026 05:24:00 GMT",
-          "description": "Heerenveen ontvangt Telstar, Volendam speelt tegen Den Bosch: volg beide eredivisie- en eerstedivisieduels live in ons liveblog. Lees alle ontwikkelingen."
-        },
-        {
-          "title": "Opstelling SC Heerenveen bekend: basisplek voor Levi Smans",
-          "source": "FeanOnline",
-          "url": "https://www.feanonline.nl/opstelling-sc-heerenveen-bekend-43/",
-          "publishedDate": "Sun, 13 Sep 2026 04:11:00 GMT",
-          "description": "Lees nu | SC Heerenveen krijgt vanmiddag bezoek van Telstar. Trainer Robin Veldman kiest voor de volgende basisopstelling."
+          "title": "Verstappen verschalkt Norris in strategisch spel voor P2, Antonelli wint eerste race op Madring",
+          "source": "GPblog on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/verstappen-verschalkt-norris-in-strategisch-spel-voor-p2-antonelli-wint-eerste-race-op-madring/ar-AA2c8ec1?ocid=BingNewsVerp",
+          "publishedDate": "Sun, 13 Sep 2026 07:39:00 GMT",
+          "description": "Kimi Antonelli heeft de eerste Grand Prix op de Madring gewonnen. De Italiaan wint back-to-back na de Grand Prix van Itali&#235;. Op het podium wordt hij vergezeld door Lando Norris en Max Verstappen. De B"
         }
       ]
     },
@@ -502,11 +370,32 @@
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "F1 stand 2025: Verstappen zet kleine stap naar Norris en Piastri na Singapore",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-be/sport/other/f1-stand-2025-sprintzege-verstappen-verandert-weinig-aan-tussenstand/ar-AA1BugRT",
-          "publishedDate": "Mon, 01 Dec 2025 15:59:00 GMT",
-          "description": "Voor het derde weekend op rij heeft Lando Norris het gat naar kampioenschapsleider en McLaren-teamgenoot verkleind. Hij kwam in Singapore als derde over de streep, waardoor hij nu nog maar 22 punten ..."
+          "title": "WK-stand F1 2026 na GP Spanje: Antonelli doet gouden zaken",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/wk-stand-f1-2026-na-gp-spanje-antonelli-doet-gouden-zaken/ar-AA2c7Z7o",
+          "publishedDate": "Sun, 13 Sep 2026 07:45:00 GMT",
+          "description": "Kimi Antonelli is met zijn GP-zege in Spanje verder uitgelopen op de concurrentie. De Mercedes-coureur deed gouden zaken."
+        },
+        {
+          "title": "WK-stand F1 2026: Kimi Antonelli blijft onstuitbaar aan kop",
+          "source": "Motorsport.com",
+          "url": "https://nl.motorsport.com/f1/news/wk-stand-f1-2026-kimi-antonelli-blijft-onstuitbaar-aan-kop/10853066/",
+          "publishedDate": "Sun, 06 Sep 2026 01:31:00 GMT",
+          "description": "Na zijn overwinning op eigen bodem in de Grand Prix van Itali&#235; is Kimi Antonelli bovenaan uitgelopen. Bekijk de stand in het coureurs- en constructeurskampioenschap na de 13e ronde van het F1-seizoen, ..."
+        },
+        {
+          "title": "&quot;Ik bleef SM maar vergeten!&quot; – Tsunoda's vermakelijke anekdote over de nieuwe F1-auto's in Monza",
+          "source": "motorsport.com on MSN",
+          "url": "https://www.msn.com/nl-be/sport/other/ik-bleef-sm-maar-vergeten-tsunodas-vermakelijke-anekdote-over-de-nieuwe-f1-autos-in-monza/ar-AA2bCUYA",
+          "publishedDate": "Sat, 05 Sep 2026 03:02:51 GMT",
+          "description": "Yuki Tsunoda heeft tot dusver een zeer sterke indruk achtergelaten als invaller bij Racing Bulls, al zegt hij in Itali&#235; pas echt te ondervinden hoe anders en hoe complex de F1-auto’s van dit jaar zijn ..."
+        },
+        {
+          "title": "F1 Stand Vandaag: Piastri neemt WK-leiding over, Verstappen jaagt op Norris",
+          "source": "gpfans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1047523/f1-stand-na-grand-prix-saoedi-arabie-max-verstappen-derde-in-wk/",
+          "publishedDate": "Sun, 20 Apr 2025 14:38:00 GMT",
+          "description": "De F1-stand 2025 is vandaag weer flink op de schop gegaan als gevolg van de Grand Prix van Saoedi-Arabi&#235;. Lando Norris is niet langer de WK-leider en heeft zijn positie moeten afstaan aan ..."
         },
         {
           "title": "F1 Stand: Dit is de WK-stand na de zege van Norris in Melbourne",
@@ -514,75 +403,165 @@
           "url": "https://www.msn.com/nl-nl/sport/motorsport/f1-stand-dit-is-de-wk-stand-na-de-zege-van-norris-in-melbourne/ar-AA1B0M4B",
           "publishedDate": "Sun, 16 Mar 2025 00:04:00 GMT",
           "description": "Vandaag is de stand in het WK van de F1 dat Lando Norris aan kop gaat met 25 punten. De McLaren-coureur won de Grand Prix van Australi&#235; en gaat daardoor aan kop in het klassement van 2025. Max ..."
+        },
+        {
+          "title": "F1-stand coureurs | Verstappen loopt verder uit na zege, Norris naar P2",
+          "source": "gpblog",
+          "url": "https://www.gpblog.com/nl/nieuws/f1-stand-coureurs-na-gp-spanje-2024.html",
+          "publishedDate": "Sun, 23 Jun 2024 09:30:00 GMT",
+          "description": "Nicole Mulder is eindredacteur bij GPblog en specialist in Formule 1 en MotoGP. Met haar jarenlange ervaring en permanente FIA-accreditatie bij Grands Prix wereldwijd brengt ze betrouwbare ..."
         }
       ]
     },
     {
-      "keyword": "john van &#39;t schip",
+      "keyword": "racingnews365",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Ferrari tast in het duister na uitvalbeurt Hamilton",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.nl/ferrari-tast-in-het-duister-na-uitvalbeurt-hamilton",
+          "publishedDate": "Sun, 13 Sep 2026 13:30:00 GMT",
+          "description": "Lewis Hamilton zat in een kansrijke positie om een podium te pakken in Madrid, maar al snel ging het mis voor de Ferrari-coureur. Het team weet nog niet waar het precies aan lag, stelt teambaas Fred V ..."
+        },
+        {
+          "title": "Norris verliest geduld: &quot;Jij hebt de race niet gekeken&quot;",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.nl/norris-verliest-geduld-jij-hebt-de-race-niet-gekeken",
+          "publishedDate": "Sun, 13 Sep 2026 13:00:00 GMT",
+          "description": "Lando Norris zag zijn leidende positie in de Grand Prix van Spanje in rook opgaan door de timing van de virtuele safety car. Een vraag na afloop over dat moment kon de Brit niet helemaal waarderen."
+        },
+        {
+          "title": "Verstappen corrigeert reporter na 'heel goed' resultaat",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.nl/verstappen-corrigeert-reporter-na-heel-goed-resultaat",
+          "publishedDate": "Sun, 13 Sep 2026 12:30:00 GMT",
+          "description": "Max Verstappen eindigde op de tweede plaats tijdens de Grand Prix van Spanje. De Nederlander blijft na afloop realistisch over de snelheid van Red Bull."
+        },
+        {
+          "title": "Antonelli bleef verbaasd achter door Verstappen",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.nl/antonelli-bleef-verbaasd-achter-door-verstappen",
+          "publishedDate": "Sun, 13 Sep 2026 12:00:00 GMT",
+          "description": "Max Verstappen liet ook Kimi Antonelli voorbij in de openingsfase van de Grand Prix van Spanje. Het verbaasde de Italiaan."
+        },
+        {
+          "title": "Verstappen overtreft verwachtingen met ijzersterk podium",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.nl/verstappen-overtreft-verwachtingen-met-ijzersterk-podium",
+          "publishedDate": "Sun, 13 Sep 2026 11:58:00 GMT",
+          "description": "Max Verstappen eindigde op de tweede plaats tijdens de Grand Prix van Spanje in Madrid. Na een frustrerende openingsfase reed de Nederlander een sterke race en evenaarde hij zijn beste resultaat van h ..."
+        },
+        {
+          "title": "Red Bull-teambaas zeer optimistisch na razendsnelle race Verstappen",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.nl/red-bull-teambaas-zeer-optimistisch-na-razendsnelle-race-verstappen",
+          "publishedDate": "Sun, 13 Sep 2026 11:29:00 GMT",
+          "description": "Hoewel de GP van Spanje niet volledig vlekkeloos verliep voor Max Verstappen, is Red Bull-teambaas Laurent Mekies toch ontzettend tevreden met het resultaat."
+        },
+        {
+          "title": "Lawson raakt te gewend aan Red Bull: &quot;Teruggaan wordt lastig&quot;",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.nl/lawson-raakt-te-gewend-aan-red-bull-teruggaan-wordt-lastig",
+          "publishedDate": "Sun, 13 Sep 2026 11:00:00 GMT",
+          "description": "Liam Lawson heeft op de Madring zijn derde invalbeurt op rij namens Red Bull Racing afgewerkt. Het leverde zijn tweede puntenfinish op in de Red Bull-kleuren, al is het nog maar de vraag of hij in Bak ..."
+        },
+        {
+          "title": "Verstappen: &quot;Dan had ik schade gehad!&quot;",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.nl/verstappen-dan-had-ik-schade-gehad",
+          "publishedDate": "Sun, 13 Sep 2026 10:30:00 GMT",
+          "description": "Max Verstappen en Lewis Hamilton lagen even in de clinch bij de start van de Grand Prix van Spanje. Verstappen geeft aan dat hij bewust uitweek."
+        },
+        {
+          "title": "Norris slaat terug na opmerkelijk ‘cola’-incident",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.nl/norris-slaat-terug-na-opmerkelijk-cola-incident",
+          "publishedDate": "Sun, 13 Sep 2026 10:00:00 GMT",
+          "description": "Lando Norris was sowieso al gefrustreerd na de misgelopen overwinning op de Madring. Een opmerkelijke vraag over een blikje Coca Cola maakte het er dan ook niet beter op voor de Brit."
+        },
+        {
+          "title": "Red Bull grapt over frustraties Verstappen: &quot;We verwachtten geen bedankmailtje!&quot;",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.nl/red-bull-grapt-over-frustraties-verstappen-we-verwachtten-geen-bedankmailtje",
+          "publishedDate": "Sun, 13 Sep 2026 09:10:00 GMT",
+          "description": "Max Verstappen evenaarde zijn beste seizoensresultaat in Spanje door als tweede over de streep te komen. Laurent Mekies prijst de coureur."
+        }
+      ]
+    },
+    {
+      "keyword": "energiecontract",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "John van 't Schip",
+          "title": "Gas is in drie jaar tijd niet zo duur geweest: 'Controleer je energiecontract'",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/tag/john-van-t-schip",
-          "publishedDate": "Fri, 04 Sep 2026 17:00:00 GMT",
-          "description": "Nieuws en video's over John van 't Schip. Betrouwbaar, gratis en snel op NU.nl, de grootste nieuwssite van Nederland."
+          "url": "https://www.nu.nl/economie/6409421/gas-is-in-drie-jaar-tijd-niet-zo-duur-geweest-controleer-je-energiecontract.html",
+          "publishedDate": "Fri, 11 Sep 2026 07:04:00 GMT",
+          "description": "Met de herfst op komst raadt de Autoriteit Consument &amp; Markt (ACM) aan om je energiecontract te controleren. De gasprijzen zijn in drie jaar tijd niet zo hoog geweest. Daardoor wordt ook elektriciteit ..."
         },
         {
-          "title": "Van 't Schip weg bij Ajax ondanks lopend contract: 'Gaan goed uit elkaar'",
+          "title": "Duur gas en dure stroom werken steeds meer door in energierekening",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2544132-van-t-schip-weg-bij-ajax-ondanks-lopend-contract-gaan-goed-uit-elkaar",
-          "publishedDate": "Mon, 11 Nov 2024 09:47:00 GMT",
-          "description": "John van 't Schip vertrekt bij Ajax. Vorig jaar nam hij als interim-trainer het roer over van de ontslagen Maurice Steijn en leidde hij Ajax naar de vijfde plaats. Daarna zou hij tot en met juni 2025 ..."
+          "url": "https://nos.nl/artikel/2630562-duur-gas-en-dure-stroom-werken-steeds-meer-door-in-energierekening",
+          "publishedDate": "Fri, 11 Sep 2026 03:44:00 GMT",
+          "description": "De gasprijs is op het hoogste niveau in ruim drie jaar tijd. Dat zien steeds meer Nederlanders terug op de energierekening."
         },
         {
-          "title": "Definitieve breuk tussen John van ’t Schip en Ajax: ‘Niet geworden wat we er beiden van verwacht hadden’",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/sport/definitieve-breuk-tussen-john-van-t-schip-en-ajax-niet-geworden-wat-we-er-beiden-van-verwacht-hadden~b0614372/",
-          "publishedDate": "Mon, 11 Nov 2024 09:20:00 GMT",
-          "description": "John van ’t Schip vertrekt definitief bij Ajax. De 60-jarige oud-speler stond vorig jaar voor de groep als interim-hoofdtrainer en zou na de komst van Francesco Farioli een functie in het technisch ..."
+          "title": "Gasprijs stijgt tot boven 1,70 euro: stoken wordt deze winter peperduur",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/nederland/gasprijs-stijgt-tot-boven-1-70-euro-stoken-wordt-deze-winter-peperduur~bc901db4/",
+          "publishedDate": "Thu, 10 Sep 2026 05:45:00 GMT",
+          "description": "Huishoudens die nu een energiecontract afsluiten, schrikken zich rot: de gasprijs is bij de eerste aanbieders door de grens van 1,70 euro per kubieke meter gebroken. Dat is 55 cent duurder dan in janu ..."
         },
         {
-          "title": "John van ’t Schip is een van de weinigen die Marco van Basten op z’n plek kan zetten",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/sport/john-van-t-schip-is-een-van-de-weinigen-die-marco-van-basten-op-z-n-plek-kan-zetten~bdf03d8c/",
-          "publishedDate": "Tue, 29 Oct 2024 09:00:00 GMT",
-          "description": "Met ingehouden humor vertelde Van ’t Schip maandag over het contact tussen hem en Van Basten over zijn leerling-spits Brobbey. Voorzichtig opperde Wytse van der Goot of ze zelf de zaak konden ..."
+          "title": "Gasprijs boven 1,70 euro: stoken wordt peperduur",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/economie/gasprijs-boven-1-70-euro-stoken-wordt-peperduur~ac901db4/",
+          "publishedDate": "Wed, 09 Sep 2026 05:54:00 GMT",
+          "description": "Huishoudens die nu een energiecontract afsluiten, schrikken zich rot: de gasprijs is bij de eerste aanbieders door de grens van 1,70 euro gebroken. Dat is 55 cent duurder dan in januari van dit jaar, ..."
         },
         {
-          "title": "Van 't Schip dacht niet aan opstappen: 'We moeten blijven proberen te voetballen'",
+          "title": "Salderingsregeling verdwijnt: dit energiecontract past het beste bij jouw gas- en stroomverbruik",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/geld/salderingsregeling-verdwijnt-dit-energiecontract-past-het-beste-bij-jouw-gas-en-stroomverbruik~a2ee2724/",
+          "publishedDate": "Sun, 06 Sep 2026 22:48:00 GMT",
+          "description": "Je vaste energiecontract loopt deze winter af, terwijl de gasmarkt grillig blijft en op 1 januari 2027 de salderingsregeling stopt. Kies je opnieuw voor zekerheid of is een dynamisch contract slimmer?"
+        },
+        {
+          "title": "Gasprijs, leverkosten en salderen: onzekerheid over energierekening houdt aan",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2516488-van-t-schip-dacht-niet-aan-opstappen-we-moeten-blijven-proberen-te-voetballen",
-          "publishedDate": "Fri, 12 Apr 2024 07:34:00 GMT",
-          "description": "John van 't Schip heeft er &quot;geen moment over nagedacht' om op te stappen als trainer van Ajax. Onder zijn leiding ging de club vorig weekend met 6-0 onderuit tegen Feyenoord, de grootste nederlaag van ..."
+          "url": "https://nos.nl/artikel/2629134-gasprijs-leverkosten-en-salderen-onzekerheid-over-energierekening-houdt-aan",
+          "publishedDate": "Mon, 31 Aug 2026 09:19:00 GMT",
+          "description": "NOS gebruikt Functionele en Analytische cookies voor website optimalisatie en statistieken. Wie nu een nieuw vast energiecontract wil afsluiten, kan behoorlijk schrikken van de prijzen. Sinds de oorlo ..."
         },
         {
-          "title": "Estelle van 't Schip (33) deelt zwangerschap, maar &#233;&#233;n emotioneel detail raakt de hele familie",
-          "source": "Story",
-          "url": "https://www.story.nl/showbizz/estelle-van-t-schip-zwanger~02520e6",
-          "publishedDate": "Sun, 13 Sep 2026 10:17:00 GMT",
-          "description": "Estelle van 't Schip is zwanger van haar eerste kindje. De familie is dolblij, maar achter de vreugde schuilt een emotioneel verhaal."
+          "title": "Energieleveranciers moeten van ACM stoppen met 'nepvergelijkers'",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/geldzaken/nieuws/energieleveranciers-moeten-van-acm-stoppen-met-nepvergelijkers/ar-AA2c1Dez",
+          "publishedDate": "Fri, 11 Sep 2026 06:21:00 GMT",
+          "description": "DEN HAAG (ANP) - Energieleveranciers mogen geen telefonische verkopers meer inzetten die zich ten onrechte voordoen als onafhankelijke energievergelijkers. Dat heeft de Autoriteit Consument &amp; Markt (A ..."
         },
         {
-          "title": "Estelle van 't Schip verwacht eerste kindje",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/estelle-van-t-schip-verwacht-eerste-kindje",
-          "publishedDate": "Sun, 13 Sep 2026 03:38:00 GMT",
-          "description": "Mooi nieuws voor Estelle van 't Schip (33) en haar vriend Sam Heringa: het stel verwacht hun eerste kindje. De dochter van John van 't Schip maakt het heugelijke nieuws bekend via Instagram."
+          "title": "Jongeren laten goedkope stroom vaker links liggen",
+          "source": "Solar365",
+          "url": "https://www.solar365.nl/nieuws/jongeren-laten-goedkope-stroom-vaker-links-liggen-67ACACB2.html",
+          "publishedDate": "Thu, 10 Sep 2026 17:00:00 GMT",
+          "description": "Bijna de helft van de Nederlanders houdt geen rekening met daluren of lage stroomprijzen bij het gebruik van apparaten als de wasmachine, droger en vaatwasser. Vooral jongeren blijken zich daar weinig ..."
         },
         {
-          "title": "John van ’t Schip (62), kersvers bondscoach van Kazachstan, waagt nieuwe poging en wil € 2 miljoen voor Gooische villa",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-nl/algemeen/algemeen/john-van-t-schip-62-kersvers-bondscoach-van-kazachstan-waagt-nieuwe-poging-en-wil-2-miljoen-voor-gooische-villa/ar-AA2ahk5w",
-          "publishedDate": "Mon, 17 Aug 2026 02:48:00 GMT",
-          "description": "John van ’t Schip is begonnen aan een nieuw hoofdstuk in zijn trainersloopbaan. De 62-jarige oud-international werd begin augustus officieel gepresenteerd als bondscoach van Kazachstan en bereidt zich ..."
+          "title": "Nieuw energiecontract nodig? Kosten van stoken stijgt tot ‘extreme proporties’",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/geld-carriere/2026/09/nieuw-energie-contract-stoken-peperduur/",
+          "publishedDate": "Thu, 10 Sep 2026 00:00:00 GMT",
+          "description": "Dat is maar liefst 55 cent duurder dan in januari van dit jaar, toen het in Nederland erg koud was. Nieuw energiecontract afsluiten De stijgende gasprijzen lijken voorlopig nog niet af te remmen. Ook ..."
         },
         {
-          "title": "Van 't Schip heeft begrip voor supporters die bus opwachtten: &quot;Zij leven voor Ajax&quot;",
-          "source": "AT5",
-          "url": "https://www.at5.nl/artikelen/226104/van-t-schip-heeft-begrip-voor-supporters-die-bus-opwachtten-zij-leven-voor-ajax",
-          "publishedDate": "Fri, 12 Apr 2024 10:28:00 GMT",
-          "description": "De tragedie van Ajax bereikte afgelopen zondag voor de zoveelste keer een dieptepunt dat nog flink nadreunt. In aanloop naar Ajax - FC Twente komende zondag spraken we erover met trainer John van 't ..."
+          "title": "Innova Energie belooft iedereen met zonnepanelen dat thuisbatterij zich in 5 jaar terugverdient, anders geld terug",
+          "source": "Solar Magazine",
+          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i44732/innova-energie-belooft-iedereen-met-zonnepanelen-dat-thuisbatterij-zich-in-5-jaar-terugverdient-anders-geld-terug",
+          "publishedDate": "Wed, 09 Sep 2026 17:00:00 GMT",
+          "description": "Innova Energie introduceert een AEG-thuisbatterij van 4,8 kilowattuur met terugverdiengarantie van 5 jaar voor huishoudens met zonnepanelen. Met de salderingsregeling die eindigt wil het bedrijf zeker ..."
         }
       ]
     }
