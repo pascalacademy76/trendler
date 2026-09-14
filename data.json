@@ -1,26 +1,6 @@
 {
-  "fetchedAt": "2026-09-14T10:51:01.805Z",
+  "fetchedAt": "2026-09-14T16:43:26.732Z",
   "trends": [
-    {
-      "keyword": "pec - feyenoord",
-      "trafficLabel": "100K+",
-      "articles": [
-        {
-          "title": "Statistici draaien plots 180 graden over doelpunt van Feyenoord tegen PEC Zwolle",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/opta-draait-binnen-uur-goal-nacho-ferri-hattrick-feyenoord",
-          "publishedDate": "Sun, 13 Sep 2026 15:20:00 GMT",
-          "description": "Opta draait binnen een uur volledig bij over de openingsgoal van Feyenoord tegen PEC Zwolle. Nacho Ferri krijgt de treffer alsnog op zijn naam."
-        },
-        {
-          "title": "‘Feyenoord maakt analytici he-le-maal gek’",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/feyenoord-maakt-analytici-he-le-maal-gek/",
-          "publishedDate": "Sun, 13 Sep 2026 12:10:00 GMT",
-          "description": "Feyenoord wervelde zondag over PEC Zwolle heen. Analisten Marciano Vink en Kenneth Perez zijn helemaal lyrisch."
-        }
-      ]
-    },
     {
       "keyword": "psv - sparta rotterdam",
       "trafficLabel": "100K+",
@@ -42,6 +22,82 @@
       ]
     },
     {
+      "keyword": "phishing",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Grote toename phishing-meldingen in Nederland: vervijfvoudiging in jaar tijd",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/tech/grote-toename-phishing-meldingen-in-nederland-vervijfvoudiging-in-jaar-tijd~bd99c3e9/",
+          "publishedDate": "Sun, 06 Sep 2026 06:01:00 GMT",
+          "description": "Het aantal meldingen over phishing is in een jaar tijd vervijfvoudigd. Fraudeurs maken onder andere flink misbruik van gelekte data van Booking.com. Consumenten lijden daardoor schade."
+        },
+        {
+          "title": "Bijna tien keer zoveel meldingen over phishingmails rond boekingssites",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6408754/bijna-tien-keer-zoveel-meldingen-over-phishingmails-rond-boekingssites.html",
+          "publishedDate": "Sat, 05 Sep 2026 10:03:00 GMT",
+          "description": "De Fraudehelpdesk heeft in het afgelopen half jaar een forse stijging van het aantal nepmails rond online boekingsplatforms vastgesteld. Er komen voornamelijk veel meldingen over phishing rond Booking ..."
+        },
+        {
+          "title": "Email-aanvallen genereren phishing-pagina’s rechtstreeks in de browser om detectie te omzeilen",
+          "source": "Emerce",
+          "url": "https://www.emerce.nl/wire/emailaanvallen-genereren-phishingpaginas-rechtstreeks-browser-om-detectie-omzeilen",
+          "publishedDate": "Thu, 10 Sep 2026 02:40:00 GMT",
+          "description": "Aanvallers misbruiken legitieme Microsoft-diensten om phishing-pagina’s te genereren zonder traditionele webserver Amsterdam, 10 september 2026 – Uit onderzoek van Barracuda […] ..."
+        },
+        {
+          "title": "Vijf keer zoveel phishingmeldingen dit jaar, zegt Fraudehelpdesk",
+          "source": "AG Connect",
+          "url": "https://www.agconnect.nl/maatschappij/security/vijf-keer-zoveel-phishingmeldingen-dit-jaar",
+          "publishedDate": "Mon, 07 Sep 2026 07:00:00 GMT",
+          "description": "De Fraudehelpdeks kreeg in de eerste helft van 2026 ruim 15.000 meldingen van phishing. Vorig jaar waren dat er 2.800. Ruim 90% van de meldingen over phishing via boekingssites heeft betrekking op Boo ..."
+        },
+        {
+          "title": "Aantal meldingen van phishing in een jaar tijd vervijfvoudigd, oorzaak ligt mogelijk bij datalekken",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/lifestyle/tech/2026/09/aantal-meldingen-van-phishing-in-een-jaar-tijd-vervijfvoudigd-oorzaak-ligt-mogelijk-bij-datalekken/",
+          "publishedDate": "Sun, 06 Sep 2026 23:06:00 GMT",
+          "description": "Het aantal meldingen van phishing (online fraude) is in een jaar tijd vervijfvoudigd, meldt de Fraudehelpdesk. De oorzaak daarvan ligt mogelijk in een aantal datalekken waar grote bedrijven mee te mak ..."
+        },
+        {
+          "title": "Meldingen phishing vervijfvoudigd in eerste helft 2026, benadering fraudeurs steeds persoonlijker en geloofwaardiger",
+          "source": "Emerce",
+          "url": "https://www.emerce.nl/wire/meldingen-phishing-vervijfvoudigd-eerste-helft-2026-benadering-fraudeurs-steeds-persoonlijker-geloofwaardiger",
+          "publishedDate": "Sun, 06 Sep 2026 01:39:00 GMT",
+          "description": "Fraudeurs beschikken over steeds meer persoonsgegevens en weten slachtoffers via steeds meer kanalen te bereiken. Dat blijkt uit de meldingen […] ..."
+        },
+        {
+          "title": "Forse stijging phishing rond boekingssites, ziet Fraudehelpdesk",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/forse-stijging-phishing-rond-boekingssites-ziet-fraudehelpdesk",
+          "publishedDate": "Sat, 05 Sep 2026 09:15:00 GMT",
+          "description": "APELDOORN (ANP) - In het afgelopen halfjaar is een forse stijging te zien van phishing rond onlineboekingsplatformen, met name rond Booking.com. Dat constateert ..."
+        },
+        {
+          "title": "Belfius voor strafrechter omdat het phishingslachtoffer niet terugbetaalde",
+          "source": "VRT on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/belfius-voor-strafrechter-omdat-het-phishingslachtoffer-niet-terugbetaalde/ar-AA2bCxvu",
+          "publishedDate": "Sat, 05 Sep 2026 01:05:17 GMT",
+          "description": "De bank Belfius moet zich in november voor de strafrechter verantwoorden omdat ze een slachtoffer van phishing niet onmiddellijk had terugbetaald. Dat schrijven De Tijd en L'Echo en het bericht werd b ..."
+        },
+        {
+          "title": "Test Aankoop vraagt meer transparantie over rampzalig hoge phishing cijfers",
+          "source": "Testaankoop",
+          "url": "https://www.test-aankoop.be/hightech/phishing/pers/hoge-cijfers-phishing",
+          "publishedDate": "Wed, 02 Sep 2026 06:55:00 GMT",
+          "description": "Test Aankoop heeft nota genomen van de vandaag door Febelfin gepubliceerde cijfers over phishinggevallen, cijfers die ronduit rampzalig zijn."
+        },
+        {
+          "title": "Help, ik ben slachtoffer van phishing! Wat moet ik nu doen?",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/06/05/phishing-stappenplan-wat-doen/",
+          "publishedDate": "Fri, 05 Jun 2026 21:58:00 GMT",
+          "description": "Als je slachtoffer van phishing bent, is het essentieel dat je zo snel mogelijk contact opneemt met de fraudedienst van jouw bank. Het is ook belangrijk dat je aangifte doet bij de politie, zodat ..."
+        }
+      ]
+    },
+    {
       "keyword": "john van &#39;t schip",
       "trafficLabel": "20K+",
       "articles": [
@@ -58,6 +114,20 @@
           "url": "https://www.parool.nl/sport/john-van-t-schip-is-een-van-de-weinigen-die-marco-van-basten-op-z-n-plek-kan-zetten~bdf03d8c/",
           "publishedDate": "Tue, 29 Oct 2024 09:00:00 GMT",
           "description": "Met ingehouden humor vertelde Van ’t Schip maandag over het contact tussen hem en Van Basten over zijn leerling-spits Brobbey. Voorzichtig opperde Wytse van der Goot of ze zelf de zaak konden ..."
+        },
+        {
+          "title": "Van 't Schip dacht niet aan opstappen: 'We moeten blijven proberen te voetballen'",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2516488-van-t-schip-dacht-niet-aan-opstappen-we-moeten-blijven-proberen-te-voetballen",
+          "publishedDate": "Fri, 12 Apr 2024 07:34:00 GMT",
+          "description": "John van 't Schip heeft er &quot;geen moment over nagedacht' om op te stappen als trainer van Ajax. Onder zijn leiding ging de club vorig weekend met 6-0 onderuit tegen Feyenoord, de grootste nederlaag van ..."
+        },
+        {
+          "title": "John van 't Schip vindt bijna drie jaar na overlijden Dani&#235;lle nieuwe liefde",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/john-van-t-schip-vindt-bijna-drie-jaar-na-overlijden-danielle-nieuwe-liefde",
+          "publishedDate": "Mon, 14 Sep 2026 02:58:00 GMT",
+          "description": "John van 't Schip vindt na het verlies van Dani&#235;lle nieuwe liefde in Natasha. Ondertussen wordt hij opa, want zijn dochter Estelle is zwanger van een meisje."
         },
         {
           "title": "John van 't Schip (62) heeft heuglijk nieuws: 'We hebben het heel leuk samen!'",
@@ -86,365 +156,96 @@
           "url": "https://www.msn.com/nl-nl/algemeen/algemeen/john-van-t-schip-62-kersvers-bondscoach-van-kazachstan-waagt-nieuwe-poging-en-wil-2-miljoen-voor-gooische-villa/ar-AA2ahk5w",
           "publishedDate": "Mon, 17 Aug 2026 02:48:00 GMT",
           "description": "John van ’t Schip is begonnen aan een nieuw hoofdstuk in zijn trainersloopbaan. De 62-jarige oud-international werd begin augustus officieel gepresenteerd als bondscoach van Kazachstan en bereidt zich ..."
-        },
-        {
-          "title": "John van 't Schip wordt bondscoach Kazachstan",
-          "source": "Vi",
-          "url": "https://www.vi.nl/nieuws/john-van-t-schip-wordt-bondscoach-kazachstan",
-          "publishedDate": "Fri, 07 Aug 2026 04:47:00 GMT",
-          "description": "John van 't Schip heeft een nieuwe functie te pakken. De 62-jarige trainer wordt de nieuwe bondscoach van Kazachstan. Dat maakte de Kazachstaanse bond KFF vrijdagochtend bekend. Van 't Schip was ..."
         }
       ]
     },
     {
-      "keyword": "kimi antonelli",
+      "keyword": "jacotte brokken",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Russell denkt niet meer aan F1-titel: 'Realistisch gezien doe ik niet mee'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/formule-1/6409637/russell-denkt-niet-meer-aan-f1-titel-realistisch-gezien-doe-ik-niet-mee.html",
-          "publishedDate": "Sun, 13 Sep 2026 23:02:00 GMT",
-          "description": "George Russell heeft de wereldtitel uit zijn hoofd gezet na een moeizaam weekend in Madrid. De Mercedes-coureur werd slechts vijfde in de Grand Prix van Spanje, terwijl teamgenoot Kimi Antonelli de le ..."
+          "title": "Jacotte Brokken waarschuwt voor flinke weersverandering vanaf woensdag",
+          "source": "Redactie24",
+          "url": "https://www.redactie24.be/natuur-en-weer/jacotte-brokken-waarschuwt-voor-flinke-weersverandering-vanaf-woensdag-193584",
+          "publishedDate": "Sun, 13 Sep 2026 08:29:00 GMT",
+          "description": "Het weer maakt de komende week een duidelijke omslag. Maandag start de week nog grijs en lokaal mistig, waarna dinsdag opnieuw zomers warm en zonnig weer wordt verwacht. Vanaf woensdag gaat de tempera ..."
         },
         {
-          "title": "Norris vindt dat hij zege GP Spanje verdiende, winnaar Antonelli geeft hem gelijk",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/formule-1/6409626/norris-vindt-dat-hij-zege-gp-spanje-verdiende-winnaar-antonelli-geeft-hem-gelijk.html",
-          "publishedDate": "Sun, 13 Sep 2026 12:57:00 GMT",
-          "description": "Lando Norris vindt dat hij eigenlijk verdiende om de Grand Prix van Spanje te winnen. De McLaren-coureur had pech met de timing van de virtualsafetycar. Winnaar Kimi Antonelli geeft zijn concurrent ge ..."
+          "title": "Jacotte Brokken kondigt echte zomerdag aan: &quot;Nadien keldert de temperatuur&quot;",
+          "source": "Nieuws365",
+          "url": "https://www.nieuws365.be/weer/jacotte-brokken-kondigt-echte-zomerdag-aan-nadien-keldert-de-temperatuur",
+          "publishedDate": "Sun, 13 Sep 2026 01:59:00 GMT",
+          "description": "Wie de komende dagen op stabiel nazomerweer hoopt, zal nog even geduld moeten hebben. Volgens VRT-weervrouw Jacotte Brokken krijgen we eerst vooral veel wolken, regen en buien over ons heen. Toch zit."
         },
         {
-          "title": "Kimi Antonelli wint ook in Madrid, Max Verstappen eindigt als tweede",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/sport/kimi-antonelli-wint-ook-in-madrid-max-verstappen-eindigt-als-tweede~b51afd36/",
-          "publishedDate": "Sun, 13 Sep 2026 12:35:00 GMT",
-          "description": "Voor zijn achtste overwinning dit jaar moest Kimi Antonelli vooral geduld hebben. Max Verstappen eindigde na hem als tweede."
+          "title": "Nepnieuws over zwangerschap Jacotte Brokken verspreidt zich razendsnel: &quot;Zelfs mijn moeder twijfelde&quot;",
+          "source": "MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/facebookpaginas-verspreiden-nepnieuws-over-zwangerschap-van-weervrouw-jacotte-brokken-zelfs-mijn-moeder-twijfelde/ar-AA29WIIe",
+          "publishedDate": "Wed, 12 Aug 2026 09:33:00 GMT",
+          "description": "&quot;Geen gynaecoloog wist het, maar het internet is er 100 procent zeker van: ik ben zwanger van een tweeling&quot;, lacht VRT NWS-weervrouw Jacotte Brokken. &quot;Dat ik een tweeling verwacht, klopt natuurlijk ..."
         },
         {
-          "title": "Stand Formule 1 | Kimi Antonelli pakt weer volle buit en loopt opnieuw flink uit in strijd om kampioenschap",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/formule-1/stand-formule-1-kimi-antonelli-pakt-weer-volle-buit-en-loopt-opnieuw-flink-uit-in-strijd-om-kampioenschap~a8a75660/",
-          "publishedDate": "Sun, 13 Sep 2026 01:25:00 GMT",
-          "description": "Kimi Antonelli is weer flink uitgelopen in de stand. Door pech bij Lando Norris &lt;a href=&quot;https://www.ad.nl/formule-1/max-verstappen-voor-tweede-weekend-op-rij-naar-het-podium-pech-lando-norris-helpt-k ..."
+          "title": "Jacotte Brokken heeft last van pediofobie: “Als kind kreeg ik een crisis in het Modemuseum”",
+          "source": "HBvL",
+          "url": "https://www.hbvl.be/media-en-cultuur/bv-en-co/jacotte-brokken-heeft-last-van-pediofobie-als-kind-kreeg-ik-een-crisis-in-het-modemuseum/102873606.html",
+          "publishedDate": "Wed, 05 Nov 2025 12:13:00 GMT",
+          "description": "Jacotte Brokken hees zich voor The masked singer in het pak van Chateau. Een hele opdracht voor de weervrouw, want door haar deelname werd ze geregeld geconfronteerd met een grote angst: paspoppen."
         },
         {
-          "title": "Kimi Antonelli ontvangt belangrijk advies vanuit Max Verstappen: 'Hij moet...'",
-          "source": "GP33",
-          "url": "https://gp33.nl/f1-nieuws/kimi-antonelli-ontvangt-belangrijk-advies-vanuit-max-verstappen-hij-moet",
-          "publishedDate": "Mon, 14 Sep 2026 02:27:00 GMT",
-          "description": "Het 2026 F1-kampioenschap kan Kimi Antonelli bijna niet meer ontglippen. Tijdens de Grand Prix van Spanje bewees de jonge Italiaan nogmaals dat hij dit jaar alles op orde heeft en werd duidelijk dat h ..."
+          "title": "Jacotte Brokken ontmaskerd in ‘The Masked Singer’: “Het eerste dat mijn mama zei? ‘Die Ch&#226;teau kan absoluut niet zingen’”",
+          "source": "HLN",
+          "url": "https://www.hln.be/showbizz/jacotte-brokken-ontmaskerd-in-the-masked-singer-het-eerste-dat-mijn-mama-zei-die-chateau-kan-absoluut-niet-zingen~a86615d3/",
+          "publishedDate": "Fri, 24 Oct 2025 18:09:00 GMT",
+          "description": "Na het flitsbezoek van Viktor Verhulst was het vrijdagavond Ch&#226;teau die haar masker moest afzetten in ‘The Masked Singer’. Weervrouw Jacotte Brokken (32) bleek in het kasteel te zitten. Een pak met ..."
         },
         {
-          "title": "Doornbos wijst Verstappen als schuldige aan: &quot;Hij had het gelijk moeten doen&quot;",
-          "source": "F1 Maximaal on MSN",
-          "url": "https://www.msn.com/nl-nl/algemeen/algemeen/doornbos-wijst-verstappen-als-schuldige-aan-hij-had-het-gelijk-moeten-doen/ar-AA2caZNJ",
-          "publishedDate": "Mon, 14 Sep 2026 01:50:00 GMT",
-          "description": "Robert Doornbos vindt dat Max Verstappen het gevecht met Lewis Hamilton bij de start van de Grand Prix van Spanje anders had moeten aanpakken. De Nederlander bleef in de eerste bocht aan de buitenkant ..."
+          "title": "Weervrouw Jacotte Brokken presenteert nu ook wetenschapsprogramma ‘Knappe koppen’: “Op mijn lijf geschreven”",
+          "source": "Gazet van Antwerpen",
+          "url": "https://www.gva.be/media-en-cultuur/tv-en-radio/weervrouw-jacotte-brokken-presenteert-nu-ook-wetenschapsprogramma-knappe-koppen-op-mijn-lijf-geschreven/37627106.html",
+          "publishedDate": "Mon, 18 Nov 2024 19:00:00 GMT",
+          "description": "De eerste aflevering van Knappe koppen gaat woensdag van start met een beklijvende cold case over de moord op Ingrid Caeckaert, waarbij forensisch onderzoeker Sofie Claerhout in de kijker staat. Het ..."
         },
         {
-          "title": "'Kostbaar' moment van Kimi Antonelli met vader gaat viraal na zege in GP van Spanje",
-          "source": "Motorsport.com on MSN",
-          "url": "https://www.msn.com/nl-be/sport/other/kostbaar-moment-van-kimi-antonelli-met-vader-gaat-viraal-na-zege-in-gp-van-spanje/ar-AA2caxLd",
-          "publishedDate": "Mon, 14 Sep 2026 01:01:33 GMT",
-          "description": "Kimi Antonelli deelde een hartverwarmend moment met zijn vader, Marco, nadat hij zijn achtste F1-overwinning had behaald tijdens de Grand Prix van Spanje ..."
+          "title": "Jacotte Brokken presenteert omstreden VRT-programma ‘Knappe koppen’",
+          "source": "Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/cnt/dmf20241105_92416438",
+          "publishedDate": "Mon, 04 Nov 2024 15:59:00 GMT",
+          "description": "VRT-weervrouw Jacotte Brokken presenteert eind deze maand ‘Knappe koppen’, de docureeks die tot een rel leidde op de Reyerslaan. De Vlaamse regering zou het omstreden programma hebben besteld. Vanaf ..."
         },
         {
-          "title": "Formule 1: Kimi Antonelli zegeviert ook op stratencircuit Madrid - verslaat Verstappen en pechvogel Norris",
-          "source": "Eurosport",
-          "url": "https://www.eurosport.nl/formule-1/gp-spanje/2026/formule-1-kimi-antonelli-zegeviert-ook-op-stratencircuit-madrid-verslaat-verstappen-en-pechvogel-norris_sto23336996/story.shtml",
-          "publishedDate": "Sun, 13 Sep 2026 09:46:00 GMT",
-          "description": "Kimi Antonelli wint de Grand Prix van Madrid. Hij pakte zijn achtste zege van het seizoen. Max Verstappen werd tweede, Norris verloor tijd door pech met de VSC."
+          "title": "Jacotte Brokken: ‘Ik heb de impact van de bekendheid geweldig onderschat’",
+          "source": "humo.be",
+          "url": "https://www.humo.be/nieuws/jacotte-brokken-ik-heb-de-impact-van-de-bekendheid-geweldig-onderschat~b38b1dce/",
+          "publishedDate": "Fri, 01 Nov 2024 05:00:00 GMT",
+          "description": "We ontmoeten Jacotte Brokken in een idyllisch ogend koffiehuisje in het Bospark in Lokeren. Een symbolische locatie, zo blijkt. Drie jaar geleden, in volle pandemie, gaf ze hier in bescheiden kring ..."
         },
         {
-          "title": "Verstappen tweede in race op nieuw Spaans circuit",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/sport/formule-1/max-verstappen/artikelen/verstappen-tweede-in-race-op-nieuws-spaans-circuit",
-          "publishedDate": "Sun, 13 Sep 2026 07:51:00 GMT",
-          "description": "Max Verstappen is in de Formule race van Spanje twee geworden. Kimi Antonelli wist op het circuit van Madring te winnen."
+          "title": "Jacotte Brokken: ‘Als ik me minder sterk voel, komt de haat op sociale media hard binnen’",
+          "source": "humo.be",
+          "url": "https://www.humo.be/tv/jacotte-brokken-als-ik-me-minder-sterk-voel-komt-de-haat-op-sociale-media-hard-binnen~bc1e856e/",
+          "publishedDate": "Mon, 16 Sep 2024 05:00:00 GMT",
+          "description": "BROKKEN &#171;In de kleuterklas was het vooral fysiek. Ik kwam ooit thuis van een verjaardagsfeestje met allemaal schrammen op mijn gezicht: een ander kind had keihard met een autootje op mijn gezicht ..."
         },
         {
-          "title": "Antonelli zet kandidatuur voor wereldtitel nog meer in de verf in Madrid, safetycar nekt Norris",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/matches/formule-1/2026-09/grote-prijs-van-spanje-antonelli-zet-kandidatuur-voor-wereldtitel-nog-meer-in-de-verf-in-madrid-safetycar-nekt-norris~1780904630716/",
-          "publishedDate": "Sun, 13 Sep 2026 07:40:00 GMT",
-          "description": "Lando Norris kende een vlekkeloze start in de Grote Prijs van Spanje, de polesitter behield zonder problemen de leiding. Achter hem verliep de openingsfase minder netjes. Zowel Kimi Antonelli als Max ..."
-        }
-      ]
-    },
-    {
-      "keyword": "gasprijs",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Stijgende olieprijs duwt Europese gasprijs door het dak: hoogste in jaren",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6409154/stijgende-olieprijs-duwt-europese-gasprijs-door-het-dak-hoogste-in-jaren.html",
-          "publishedDate": "Wed, 09 Sep 2026 04:49:00 GMT",
-          "description": "De prijs van een vat Brent-olie, de maatstaf voor olie uit Europa en het Midden-Oosten, is woensdagochtend gestegen naar meer dan 100 dollar. Daardoor is ook de Europese gasprijs op het hoogste niveau ..."
-        },
-        {
-          "title": "Europese gasprijs hoger door toenemend geweld Midden-Oosten",
-          "source": "Nederlands Dagblad",
-          "url": "https://www.nd.nl/varia/varia/1331062/europese-gasprijs-hoger-door-toenemend-geweld-midden-oosten",
-          "publishedDate": "Mon, 14 Sep 2026 00:29:00 GMT",
-          "description": "De Europese gasprijs steeg maandagochtend op de toonaangevende gasbeurs in Amsterdam in navolging van de hogere olieprijzen. De prijs klom bijna 5 procent tot meer dan 83 euro per megawattuur. Vorige ..."
-        },
-        {
-          "title": "111 keer omhoog, 4 keer omlaag: zo bewogen alle 17 energieleveranciers hun gasprijs in een week",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/samenleving/111-keer-omhoog-4-keer-omlaag-zo-bewogen-alle-17-energieleveranciers-hun-gasprijs-in-een-week",
-          "publishedDate": "Sun, 13 Sep 2026 22:16:00 GMT",
-          "description": "Alle 17 energieleveranciers in de Keuze.nl-vergelijker pasten afgelopen week hun gastarief aan. De balans: 111 keer ging een gasprijs omhoog, slechts 4 keer omlaag. Het stookseizoen begint volgende ma ..."
-        },
-        {
-          "title": "Energie-update: Gasprijs meer dan twee keer zo hoog als v&#243;&#243;r uitbreken van Iranoorlog",
-          "source": "BPnieuws.nl",
-          "url": "https://www.bpnieuws.nl/article/9872645/energie-update-gasprijs-meer-dan-twee-keer-zo-hoog-als-voor-uitbreken-van-iranoorlog/",
-          "publishedDate": "Sun, 13 Sep 2026 14:28:00 GMT",
-          "description": "Maandagochtend staat er overal een dikke 80 euro per megawattuur op borden bij gasbeurs TTF. Via de Title Transfer Facility wordt meer dan 80 keer het Nederlandse gasverbruik verhandeld."
-        },
-        {
-          "title": "Gasprijs naar hoogste niveau in ruim drie jaar, ACM waarschuwt voor onzekere energiemarkt",
-          "source": "Transport Online",
-          "url": "https://www.transport-online.nl/138056/gasprijs-naar-hoogste-niveau-in-ruim-drie-jaar-acm-waarschuwt-voor-onzekere-energiemarkt/",
-          "publishedDate": "Fri, 11 Sep 2026 07:31:00 GMT",
-          "description": "DEN HAAG – De gasprijs op de groothandelsmarkt is de afgelopen maand sterk gestegen. Begin augustus lag de prijs nog rond de 58 euro per megawattuur (MWh), inmiddels bedraagt deze circa 80 euro per MW ..."
-        },
-        {
-          "title": "Diesel voor het eerst meer dan 6 dollar per gallon in VS - Europese gasprijs op hoogste peil sinds eind 2022",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/economie/diesel-voor-het-eerst-meer-dan-6-dollar-per-gallon-in-vs-europese-gasprijs-op-hoogste-peil-sinds-eind-2022~a634e96a/",
-          "publishedDate": "Thu, 10 Sep 2026 20:00:00 GMT",
-          "description": "Vorige week had diesel in de VS al de recordprijs van 2022, na de Russische invasie van Oekra&#239;ne, verbroken. Sindsdien steeg de prijs verder en vrijdag ging het gemiddelde voor het eerst boven de 6 ..."
-        },
-        {
-          "title": "Energie-update: Gasprijs tikt 80 euro aan op TTF-markt, benzineprijs daalt licht",
-          "source": "GroentenNieuws",
-          "url": "https://www.groentennieuws.nl/article/9871773/energie-update-gasprijs-tikt-80-euro-aan-op-ttf-markt-benzineprijs-daalt-licht/",
-          "publishedDate": "Thu, 10 Sep 2026 04:33:00 GMT",
-          "description": "Donderdagochtend is de TTF-gasprijs voor het frontmaandcontract gestegen tot 80 euro per megawattuur. Analisten wijzen een stijging van de olieprijs aan als een van de oorzaken voor ..."
-        },
-        {
-          "title": "Gasprijs blijft records breken: zo hard stijgen energiecontracten mee",
-          "source": "Keuze.nl",
-          "url": "https://www.keuze.nl/nieuws/gasprijs-blijft-records-breken-energiecontracten-stijgen-mee",
-          "publishedDate": "Thu, 10 Sep 2026 00:16:00 GMT",
-          "description": "De gasprijs tikt de € 80,- per MWh aan, de hoogste stand sinds 2022. Zoveel duurder werden energiecontracten o.b.v. onze prijsdata + wat te doen."
-        },
-        {
-          "title": "Energie-update: Nederland gaat stijgende gasprijs niet beteugelen",
-          "source": "GroentenNieuws",
-          "url": "https://www.groentennieuws.nl/article/9870384/energie-update-nederland-gaat-stijgende-gasprijs-niet-beteugelen/",
-          "publishedDate": "Mon, 07 Sep 2026 04:03:00 GMT",
-          "description": "Een stevig windje drukte de elektriciteitsprijzen de afgelopen tijd omlaag, vooral op zaterdag. Maandag komt de EPEX-dagprijs echter toch weer op 150 euro per megawattuur uit. De ..."
-        },
-        {
-          "title": "Klimaatminister van Veldhoven waarschuwt voor hogere gasprijs: 'En er komt geen prijsgarantie vanuit de overheid'",
-          "source": "WNL",
-          "url": "https://wnl.tv/2026/09/06/klimaatminister-van-veldhoven-waarschuwt-voor-hogere-gasprijs-en-er-komt-geen-prijsgarantie",
-          "publishedDate": "Sun, 06 Sep 2026 05:45:00 GMT",
-          "description": "WNL plaatst Functionele cookies, om deze website naar behoren te laten functioneren en Analytische cookies waarmee wij het gebruik van de website kunnen meten. Deze cookies gebruiken geen persoonsgege ..."
-        }
-      ]
-    },
-    {
-      "keyword": "phishing",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Grote toename phishing-meldingen in Nederland: vervijfvoudiging in jaar tijd",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/tech/grote-toename-phishing-meldingen-in-nederland-vervijfvoudiging-in-jaar-tijd~bd99c3e9/",
-          "publishedDate": "Sun, 06 Sep 2026 06:01:00 GMT",
-          "description": "Het aantal meldingen over phishing is in een jaar tijd vervijfvoudigd. Fraudeurs maken onder andere flink misbruik van gelekte data van Booking.com. Consumenten lijden daardoor schade."
-        },
-        {
-          "title": "Bijna tien keer zoveel meldingen over phishingmails rond boekingssites",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6408754/bijna-tien-keer-zoveel-meldingen-over-phishingmails-rond-boekingssites.html",
-          "publishedDate": "Sat, 05 Sep 2026 10:03:00 GMT",
-          "description": "De Fraudehelpdesk heeft in het afgelopen half jaar een forse stijging van het aantal nepmails rond online boekingsplatforms vastgesteld. Er komen voornamelijk veel meldingen over phishing rond Booking ..."
-        },
-        {
-          "title": "Pas op voor deze slimme phishingtruc: de nepsite verschijnt pas in je eigen browser",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/samenleving/pas-op-voor-deze-slimme-phishingtruc-de-nepsite-verschijnt-pas-in-je-eigen-browser",
-          "publishedDate": "Thu, 10 Sep 2026 22:18:00 GMT",
-          "description": "Een phishingmail met een bijlage die op een agenda-uitnodiging lijkt, kan je naar een vervalst inlogscherm leiden dat pas &#237;n je eigen browser wordt opgebouwd. Onderzoekers van Barracuda waarschuwen vo ..."
-        },
-        {
-          "title": "Email-aanvallen genereren phishing-pagina’s rechtstreeks in de browser om detectie te omzeilen",
-          "source": "Emerce",
-          "url": "https://www.emerce.nl/wire/emailaanvallen-genereren-phishingpaginas-rechtstreeks-browser-om-detectie-omzeilen",
-          "publishedDate": "Thu, 10 Sep 2026 02:40:00 GMT",
-          "description": "Aanvallers misbruiken legitieme Microsoft-diensten om phishing-pagina’s te genereren zonder traditionele webserver Amsterdam, 10 september 2026 – Uit onderzoek van Barracuda […] ..."
-        },
-        {
-          "title": "Vijf keer zoveel phishingmeldingen dit jaar, zegt Fraudehelpdesk",
-          "source": "AG Connect",
-          "url": "https://www.agconnect.nl/maatschappij/security/vijf-keer-zoveel-phishingmeldingen-dit-jaar",
-          "publishedDate": "Mon, 07 Sep 2026 07:00:00 GMT",
-          "description": "De Fraudehelpdeks kreeg in de eerste helft van 2026 ruim 15.000 meldingen van phishing. Vorig jaar waren dat er 2.800. Ruim 90% van de meldingen over phishing via boekingssites heeft betrekking op Boo ..."
-        },
-        {
-          "title": "Aantal meldingen van phishing in een jaar tijd vervijfvoudigd, oorzaak ligt mogelijk bij datalekken",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/lifestyle/tech/2026/09/aantal-meldingen-van-phishing-in-een-jaar-tijd-vervijfvoudigd-oorzaak-ligt-mogelijk-bij-datalekken/",
-          "publishedDate": "Sun, 06 Sep 2026 23:06:00 GMT",
-          "description": "Het aantal meldingen van phishing (online fraude) is in een jaar tijd vervijfvoudigd, meldt de Fraudehelpdesk. De oorzaak daarvan ligt mogelijk in een aantal datalekken waar grote bedrijven mee te mak ..."
-        },
-        {
-          "title": "Fraudehelpdesk ziet forse stijging phishing rond boekingssites",
-          "source": "Accountant",
-          "url": "https://www.accountant.nl/nieuws/2026/9/fraudehelpdesk-ziet-forse-stijging-phishing-rond-boekingssites/",
-          "publishedDate": "Sun, 06 Sep 2026 17:00:00 GMT",
-          "description": "Het afgelopen halfjaar is het aantal gevallen van phishing rond boekingsplatforms sterk gestegen, met name rond Booking.com. Dat meldt de Fraudehelpdesk, die veel meer meldingen krijgt van fraude waar ..."
-        },
-        {
-          "title": "Meldingen phishing vervijfvoudigd in eerste helft 2026, benadering fraudeurs steeds persoonlijker en geloofwaardiger",
-          "source": "Emerce",
-          "url": "https://www.emerce.nl/wire/meldingen-phishing-vervijfvoudigd-eerste-helft-2026-benadering-fraudeurs-steeds-persoonlijker-geloofwaardiger",
-          "publishedDate": "Sun, 06 Sep 2026 01:39:00 GMT",
-          "description": "Fraudeurs beschikken over steeds meer persoonsgegevens en weten slachtoffers via steeds meer kanalen te bereiken. Dat blijkt uit de meldingen […] ..."
-        },
-        {
-          "title": "Forse stijging phishing rond boekingssites, ziet Fraudehelpdesk",
-          "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/forse-stijging-phishing-rond-boekingssites-ziet-fraudehelpdesk",
-          "publishedDate": "Sat, 05 Sep 2026 09:15:00 GMT",
-          "description": "APELDOORN (ANP) - In het afgelopen halfjaar is een forse stijging te zien van phishing rond onlineboekingsplatformen, met name rond Booking.com. Dat constateert ..."
-        },
-        {
-          "title": "Belfius voor strafrechter omdat het phishingslachtoffer niet terugbetaalde",
-          "source": "VRT on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/belfius-voor-strafrechter-omdat-het-phishingslachtoffer-niet-terugbetaalde/ar-AA2bCxvu",
-          "publishedDate": "Sat, 05 Sep 2026 01:05:17 GMT",
-          "description": "De bank Belfius moet zich in november voor de strafrechter verantwoorden omdat ze een slachtoffer van phishing niet onmiddellijk had terugbetaald. Dat schrijven De Tijd en L'Echo en het bericht werd b ..."
-        }
-      ]
-    },
-    {
-      "keyword": "stranger things",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Stranger Things: Tales From ’85 Season 2 UAE streaming guide: release date and Netflix price",
-          "source": "Tbreak",
-          "url": "https://tbreak.com/stranger-things-tales-from-85-season-2-uae-streaming-guide-release-date-and-netflix-price/",
-          "publishedDate": "Sun, 13 Sep 2026 13:00:00 GMT",
-          "description": "Tales From '85 Season 2 UAE on Netflix from 17 September 2026, with eight episodes and plans from AED 35 monthly."
-        },
-        {
-          "title": "Stranger Things officially returns to Netflix this week with 10 new episodes",
-          "source": "Polygon on MSN",
-          "url": "https://www.msn.com/en-us/news/other/stranger-things-officially-returns-to-netflix-this-week-with-10-new-episodes/ar-AA2c7ZHb",
-          "publishedDate": "Sun, 13 Sep 2026 09:27:00 GMT",
-          "description": "The Party is back for another adventure. Here's everything you need to know about Stranger Things: Tales From '85 season 2."
-        },
-        {
-          "title": "Nog maar 4 nachtjes slapen en dan volgt eindelijk deze gigantisch grote terugkeer op Netflix",
-          "source": "SerieTotaal",
-          "url": "https://www.serietotaal.nl/nieuws/45152/nog-maar-4-nachtjes-slapen-en-dan-volgt-eindelijk-deze-gigantisch-grote-terugkeer-op-netflix",
-          "publishedDate": "Sun, 13 Sep 2026 09:26:00 GMT",
-          "description": "Nog maar 4 dagen wachten, dan komt eindelijk seizoen 2 van Stranger Things: Tales from '85 naar Netflix. Van alle titels op de releasekalender is dit veruit de meest verwachte."
-        },
-        {
-          "title": "Stranger Things officially returns next week with 10 new episodes",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/stranger-things-new-episodes-season-2-tales-from-85-release-date/",
-          "publishedDate": "Sun, 13 Sep 2026 03:21:00 GMT",
-          "description": "With Stranger Things ending its 42-episode run on Dec. 31, 2025, it isn't surprising that the show got a spinoff. The series has proven tremendously popular, with its third season setting the record ..."
-        },
-        {
-          "title": "The only Stranger Things: Tales From '85 Season 1 recap you need before the next chapter",
-          "source": "Soap Central",
-          "url": "https://www.soapcentral.com/shows/the-stranger-things-tales-from-85-season-1-recap-need-next-chapter",
-          "publishedDate": "Sat, 12 Sep 2026 07:52:00 GMT",
-          "description": "Tales From '85 are eagerly waiting for the premiere of Season 2 after the members of Hawkins Investigators Club won over the monster Queen and ultimately saved Hawkins."
-        },
-        {
-          "title": "10 Years Later, I Finally Watched Stranger Things Season 1 &amp; Here’s My Raw (&amp; Probably Controversial) Take",
-          "source": "ComicBook.com",
-          "url": "https://comicbook.com/tv-shows/feature/10-years-later-i-finally-watched-stranger-things-season-1-heres-my-raw-probably-controversial-take/",
-          "publishedDate": "Fri, 11 Sep 2026 14:00:00 GMT",
-          "description": "I finally watched Stranger Things nearly a decade later, and Season 1 wasn't quite what I expected from a nostalgic kids adventure."
-        },
-        {
-          "title": "Vergeet 'Stranger Things': deze Netflix-serie met 10,4 miljard views is uitgegroeid tot een wereldwijd fenomeen",
-          "source": "SerieTotaal",
-          "url": "https://www.serietotaal.nl/nieuws/45045/vergeet-stranger-things-deze-netflix-serie-met-104-miljard-views-is-uitgegroeid-tot-een-wereldwijd-fenomeen",
-          "publishedDate": "Tue, 08 Sep 2026 05:57:00 GMT",
-          "description": "Outer Banks is uitgegroeid tot veel meer dan een tienerserie: waar Netflix vooral bekendstaat om hits als Stranger Things, bouwde deze reeks inmiddels haar eigen, minstens zo grote cultureel imperium ..."
-        },
-        {
-          "title": "'Stranger Things' Gets Official New Release Next Month",
-          "source": "Collider",
-          "url": "https://collider.com/netflix-stranger-things-season-5-complete-scripts-july-2026/",
-          "publishedDate": "Thu, 11 Jun 2026 23:37:00 GMT",
-          "description": "It’s no secret that Netflix has had a huge year in 2026, and one of the first massive projects to emerge from the shadows for the streamer was War Machine. The sci-fi epic stars Reacher veteran Alan ..."
-        },
-        {
-          "title": "Will there be a Stranger Things 6? Here's why it's ending with season 5",
-          "source": "Captial",
-          "url": "https://www.capitalfm.com/news/stranger-things-season-6-ending-spin-off/",
-          "publishedDate": "Sun, 11 Jan 2026 03:16:00 GMT",
-          "description": "Is Stranger Things over? Here's why it's ending and how the Stranger Things universe will continue with a brand new spin-off. Will there be another season of Stranger Things? When they said 'one last ..."
-        },
-        {
-          "title": "Every STRANGER THINGS Main Character and Their Ending",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/every-stranger-things-main-character-082417214.html",
-          "publishedDate": "Thu, 01 Jan 2026 00:24:00 GMT",
-          "description": "In Mike's vision of Dustin's future, which we get during the ending scene of Stranger Things, Mike shares that Dustin will go off to study at a university (only a day's drive away from Hawkins), and ..."
-        }
-      ]
-    },
-    {
-      "keyword": "bruidegom",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Man komt om het leven op weg naar eigen huwelijk",
-          "source": "Waterkant.net",
-          "url": "https://www.waterkant.net/suriname/2026/09/14/man-komt-om-het-leven-op-weg-naar-eigen-huwelijk/",
-          "publishedDate": "Sun, 13 Sep 2026 17:00:00 GMT",
-          "description": "Een man is zaterdagmiddag 12 september om het leven gekomen bij een verkeersongeval in Libin, in de Belgische provincie Luxemburg. Tragisch genoeg was hij ..."
-        },
-        {
-          "title": "Man in Belgi&#235; overleden op weg naar eigen bruiloft, getuige verliest controle over het stuur",
-          "source": "WaarMaarRaar.nl",
-          "url": "https://www.waarmaarraar.nl/pages/re/131668/Man_in_Belgi%C3%AB_overleden_op_weg_naar_eigen_bruiloft,_getuige_verliest_controle_over_het_stuur.html",
-          "publishedDate": "Sun, 13 Sep 2026 06:39:00 GMT",
-          "description": "Een tragisch verkeersongeluk in het Belgische Libin gisteren. Een man is daar om het leven gekomen die als bruidegom onderweg was naar zijn eigen huwelijk. De auto werd bestuurd door de getuige van de ..."
-        },
-        {
-          "title": "Bruidegom sterft bij ongeval op weg naar de kerk",
-          "source": "VRT NWS on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/bruidegom-sterft-bij-ongeval-op-weg-naar-de-kerk/ar-AA2c7nkm",
-          "publishedDate": "Sun, 13 Sep 2026 06:30:00 GMT",
-          "description": "Een man is gisterenmiddag om het leven gekomen bij een verkeersongeval in Libin, in de provincie Luxemburg. Dat meldt het parket. Het slachtoffer was op weg naar zijn kerkelijk huwelijk, toen zijn get ..."
-        },
-        {
-          "title": "Bruidegom sterft op weg naar eigen huwelijk",
-          "source": "TCE on MSN",
-          "url": "https://www.msn.com/nl-nl/lifestyle/other/bruidegom-sterft-op-weg-naar-eigen-huwelijk/ar-AA2c7jKx",
-          "publishedDate": "Sun, 13 Sep 2026 02:50:35 GMT",
-          "description": "Een man is zaterdagmiddag om het leven gekomen bij een verkeersongeval in Libin, in de Belgische provincie Luxemburg. Het slachtoffer was onderweg naar zijn eigen bruiloft toen de auto, bestuurd door ..."
-        },
-        {
-          "title": "Bruid en bruidegom sterven op eigen trouwfeest na complete catastrofe",
-          "source": "redactie24",
-          "url": "https://www.redactie24.be/overig-buitenland/bruid-en-bruidegom-sterven-op-eigen-trouwfeest-na-complete-catastrofe-159790",
-          "publishedDate": "Tue, 26 Sep 2023 22:58:00 GMT",
-          "description": "Wat een prachtige dag had moeten worden, is uitgedraaid op een complete nachtmerrie. Zeker 114 mensen kwamen om het leven tijdens een huwelijksfeest. Het drama speelde zich af in Irak, net buiten de ..."
+          "title": "Jacotte Brokken werd zwaar gepest op school: “Er is nog steeds een stem die zegt: ‘Ze haten je’”",
+          "source": "HLN",
+          "url": "https://www.hln.be/bv/jacotte-brokken-werd-zwaar-gepest-op-school-er-is-nog-steeds-een-stem-die-zegt-ze-haten-je~a1cacea5/",
+          "publishedDate": "Sun, 15 Sep 2024 19:57:00 GMT",
+          "description": "Jacotte Brokken (31) komt met een gloednieuwe podcast. In ‘Niemand vindt je leuk’ vertelt de VRT-weervrouw openhartig over haar jeugd, waarin ze zwaar werd gepest. Dit doet ze ter gelegenheid van de ..."
         }
       ]
     },
     {
       "keyword": "christian horner",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
+        {
+          "title": "Foto’s: vrouw van ex-Red Bull-teambaas was vroeger een Spice Girl",
+          "source": "MAN MAN on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/foto-s-vrouw-van-ex-red-bull-teambaas-was-vroeger-een-spice-girl/ar-AA2cbYS3",
+          "publishedDate": "Mon, 14 Sep 2026 08:34:56 GMT",
+          "description": "Spice up your life? Red Bull Racing-teambaas Christian Horner is fan. Geri Halliwell is namelijk de vrouw van Christian Horner en oud Spice Girl."
+        },
         {
           "title": "Red Bull woest op Christian Horner na onthulling over autobiografie: 'Respectloos'",
           "source": "GP33",
@@ -465,13 +266,6 @@
           "url": "https://www.gpblog.com/nl/christian-horner",
           "publishedDate": "Thu, 10 Sep 2026 17:00:00 GMT",
           "description": "2025 wordt voor Horner zowel op professioneel als persoonlijk gebied een ontzettend belangrijk jaar. Na het mislopen van de constructeurstitel in 2024 is de teambaas erop gebrand om deze komend jaar ..."
-        },
-        {
-          "title": "Coulthard hoorde bizar detail van Red Bull-medewerker: &quot;Dat was juist in het voordeel&quot;",
-          "source": "F1 Maximaal",
-          "url": "https://www.f1maximaal.nl/christian-horner",
-          "publishedDate": "Tue, 01 Sep 2026 17:00:00 GMT",
-          "description": "In al het kabaal, rivaliteit en commotie van de Formule 1, zijn het de coureurs die in de schijnwerpers staan, en bij overwinningen door de media worden geroemd voor hun kwaliteiten. Toch komt er bij ..."
         },
         {
           "title": "Coulthard over Mekies en Verstappen: 'Goede chemie helpt Red Bull door transitie'",
@@ -518,78 +312,382 @@
       ]
     },
     {
-      "keyword": "jacotte brokken",
+      "keyword": "napels",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "De lieveling van Napels: het doodskopje met de oren",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2022/03/22/de-lieveling-van-napels-doodskopje-met-de-oren-a4104261",
+          "publishedDate": "Tue, 22 Mar 2022 14:32:00 GMT",
+          "description": "Bijgeloof In Napels mengen geloof en bijgeloof zich tot een volkse religie. Dat dit niet zomaar folklore is, ontdekten vier jonge kunsthistorici in de ondergrondse begraafplaats van een onlangs ..."
+        },
+        {
+          "title": "Gezin-De Bruyne laat Manchester los: Napels vraagt tijd",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/gezin-de-bruyne-manchester-napels-vraagt-tijd/",
+          "publishedDate": "Sat, 12 Sep 2026 05:52:00 GMT",
+          "description": "Mich&#232;le Lacroix beschrijft de omschakeling van Manchester naar Napels als een ingrijpende periode voor haar gezin."
+        },
+        {
+          "title": "Kevin De Bruyne kan in Napels zelfs niet meer naar de supermarkt: “We kunnen niks samen doen”",
+          "source": "P-Magazine",
+          "url": "https://p-magazine.com/nl/articles/kevin-de-bruyne-ervaart-in-napoli-een-opvallende-keerzijde",
+          "publishedDate": "Sat, 12 Sep 2026 03:42:00 GMT",
+          "description": "Kevin De Bruyne speelt ruim een jaar voor Napoli. Wat velen onderschatten, is het feit dat het voor zijn naasten een enorme aanpassing is om ineens van ..."
+        },
+        {
+          "title": "Arteta schrapt comfort bij Arsenal: zege in Napels sterkt zijn overtuiging",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/arteta-arsenal-comfort-zege-napels/",
+          "publishedDate": "Fri, 11 Sep 2026 10:32:00 GMT",
+          "description": "De Arsenal-coach zet maaltijden en routines bewust onder druk, zodat zijn ploeg onverwachte problemen beter opvangt."
+        },
+        {
+          "title": "Arsenal urenlang vertraagd op vliegveld, Timber reist wel mee naar Napels",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/arsenal-urenlang-vertraagd-op-vliegveld-timber-reist-wel-mee-naar-napels",
+          "publishedDate": "Tue, 08 Sep 2026 16:43:00 GMT",
+          "description": "Arsenal had dinsdag grote moeite om in Napels te komen. De selectie van Mikel Arteta, m&#233;t Jurri&#235;n Timber, liep bij Luton Airport zoveel vertraging op dat de persconferentie werd afgelast."
+        },
+        {
+          "title": "Twee Belgische toeristen (18) overvallen op straat in Napels, &#233;&#233;n van hen met mes in buik gestoken",
+          "source": "Het Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/twee-belgische-toeristen-18-overvallen-op-straat-in-napels-een-van-hen-met-mes-in-buik-gestoken/160853366.html",
+          "publishedDate": "Wed, 02 Sep 2026 05:20:00 GMT",
+          "description": "Twee jonge Belgische toeristen zijn in Napels bestolen en aangevallen door criminelen. De daders sloegen op de vlucht en de slachtoffers werden met verwondingen naar het ziekenhuis gebracht. Dat schri ..."
+        },
+        {
+          "title": "Circa dertig gewonden bij botsing veerboot met kade in Napels",
+          "source": "RD",
+          "url": "https://www.rd.nl/artikel/circa-dertig-gewonden-bij-botsing-veerboot-met-kade-in-napels",
+          "publishedDate": "Fri, 19 Apr 2024 05:47:00 GMT",
+          "description": "Circa dertig gewonden bij botsing veerboot met kade in Napels Bij een botsing van een veerboot uit Capri tegen een kade in het centrum van Napels zijn ongeveer dertig mensen gewond geraakt. De snelle ..."
+        },
+        {
+          "title": "Op ontdekkingstocht door Napels ten tijde van corona",
+          "source": "reishonger",
+          "url": "https://www.reishonger.nl/do-as-the-locals-do/op-ontdekkingstocht-door-napels-ten-tijde-van-corona/",
+          "publishedDate": "Tue, 12 May 2020 21:16:00 GMT",
+          "description": "Hoewel je misschien het tegendeel zou verwachten, zijn Jo&#235;l en Iris geen Italofielen. “Wij zijn geen Itali&#235;-fans zoals velen soms denken”, aldus Iris. “Wij zijn gek op Napels. Natuurlijk is Itali&#235; ..."
+        },
+        {
+          "title": "8 hoogtepunten van het prachtige Napels op een rijtje",
+          "source": "marieclaire",
+          "url": "https://marieclaire.nl/artikel/29991/napels-citytrip-italie",
+          "publishedDate": "Sun, 29 Apr 2018 08:00:00 GMT",
+          "description": "Vanaf het centrum is het een stukje lopen, maar dit kleine, romantische restaurantje is de wandeling meer dan waard. Je zit in een soort huiskamer – alsof je teruggaat in de tijd en in de jaren ..."
+        },
+        {
+          "title": "De bitterzoete liefde tussen Maradona en maffiastad Napels",
+          "source": "VICE",
+          "url": "https://www.vice.com/nl/article/de-bitterzoete-liefde-tussen-maradona-en-maffiastad-napels/",
+          "publishedDate": "Fri, 17 Feb 2017 03:53:00 GMT",
+          "description": "Maar er is natuurlijk een voorbeeld dat deze logica aan de kaak stelt: het verhaal van Diego Maradona en de stad Napels. Napels, het ongewenste kindje onder de Italiaanse steden. Maradona, de rebelse ..."
+        }
+      ]
+    },
+    {
+      "keyword": "gasprijs",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Jacotte Brokken waarschuwt voor flinke weersverandering vanaf woensdag",
-          "source": "Redactie24",
-          "url": "https://www.redactie24.be/natuur-en-weer/jacotte-brokken-waarschuwt-voor-flinke-weersverandering-vanaf-woensdag-193584",
-          "publishedDate": "Sun, 13 Sep 2026 08:29:00 GMT",
-          "description": "Het weer maakt de komende week een duidelijke omslag. Maandag start de week nog grijs en lokaal mistig, waarna dinsdag opnieuw zomers warm en zonnig weer wordt verwacht. Vanaf woensdag gaat de tempera ..."
+          "title": "Stijgende olieprijs duwt Europese gasprijs door het dak: hoogste in jaren",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6409154/stijgende-olieprijs-duwt-europese-gasprijs-door-het-dak-hoogste-in-jaren.html",
+          "publishedDate": "Wed, 09 Sep 2026 04:49:00 GMT",
+          "description": "De prijs van een vat Brent-olie, de maatstaf voor olie uit Europa en het Midden-Oosten, is woensdagochtend gestegen naar meer dan 100 dollar. Daardoor is ook de Europese gasprijs op het hoogste niveau ..."
         },
         {
-          "title": "Jacotte Brokken kondigt echte zomerdag aan: &quot;Nadien keldert de temperatuur&quot;",
-          "source": "Nieuws365",
-          "url": "https://www.nieuws365.be/weer/jacotte-brokken-kondigt-echte-zomerdag-aan-nadien-keldert-de-temperatuur",
-          "publishedDate": "Sun, 13 Sep 2026 01:59:00 GMT",
-          "description": "Wie de komende dagen op stabiel nazomerweer hoopt, zal nog even geduld moeten hebben. Volgens VRT-weervrouw Jacotte Brokken krijgen we eerst vooral veel wolken, regen en buien over ons heen. Toch zit."
+          "title": "Energie-update: Gasprijs meer dan twee keer zo hoog als v&#243;&#243;r uitbreken van Iranoorlog",
+          "source": "BPnieuws.nl",
+          "url": "https://www.bpnieuws.nl/article/9872645/energie-update-gasprijs-meer-dan-twee-keer-zo-hoog-als-voor-uitbreken-van-iranoorlog/",
+          "publishedDate": "Mon, 14 Sep 2026 04:28:00 GMT",
+          "description": "Maandagochtend staat er overal een dikke 80 euro per megawattuur op borden bij gasbeurs TTF. Via de Title Transfer Facility wordt meer dan 80 keer het Nederlandse gasverbruik verhandeld."
         },
         {
-          "title": "Nepnieuws over zwangerschap Jacotte Brokken verspreidt zich razendsnel: &quot;Zelfs mijn moeder twijfelde&quot;",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/facebookpaginas-verspreiden-nepnieuws-over-zwangerschap-van-weervrouw-jacotte-brokken-zelfs-mijn-moeder-twijfelde/ar-AA29WIIe",
-          "publishedDate": "Wed, 12 Aug 2026 09:33:00 GMT",
-          "description": "&quot;Geen gynaecoloog wist het, maar het internet is er 100 procent zeker van: ik ben zwanger van een tweeling&quot;, lacht VRT NWS-weervrouw Jacotte Brokken. &quot;Dat ik een tweeling verwacht, klopt natuurlijk ..."
+          "title": "Europese gasprijs hoger door toenemend geweld Midden-Oosten",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/algemeen/algemeen/europese-gasprijs-hoger-door-toenemend-geweld-midden-oosten/ar-AA2c9TaI",
+          "publishedDate": "Mon, 14 Sep 2026 02:30:00 GMT",
+          "description": "AMSTERDAM (ANP) - De Europese gasprijs steeg maandagochtend op de toonaangevende gasbeurs in Amsterdam in navolging van de hogere olieprijzen. De prijs klom bijna 5 procent tot meer dan 83 euro per me ..."
         },
         {
-          "title": "Weervrouw Jacotte Brokken gaat viraal nadat ze 'six seven' in haar weerbericht smokkelt",
-          "source": "HBvL",
-          "url": "https://www.hbvl.be/media-en-cultuur/bv-en-co/weervrouw-jacotte-brokken-gaat-viraal-nadat-ze-six-seven-in-haar-weerbericht-smokkelt/107508104.html",
-          "publishedDate": "Mon, 24 Nov 2025 16:00:00 GMT",
-          "description": "VRT-weervrouw Jacotte Brokken (32) is viraal gegaan. En dat door te zeggen dat het “six seven” graden wordt. Wie jonge kinderen heeft, kent het ongetwijfeld. Zoon of dochter doet een specifiek ..."
+          "title": "111 keer omhoog, 4 keer omlaag: zo bewogen alle 17 energieleveranciers hun gasprijs in een week",
+          "source": "Welingelichte Kringen",
+          "url": "https://www.welingelichtekringen.nl/samenleving/111-keer-omhoog-4-keer-omlaag-zo-bewogen-alle-17-energieleveranciers-hun-gasprijs-in-een-week",
+          "publishedDate": "Sun, 13 Sep 2026 22:16:00 GMT",
+          "description": "Alle 17 energieleveranciers in de Keuze.nl-vergelijker pasten afgelopen week hun gastarief aan. De balans: 111 keer ging een gasprijs omhoog, slechts 4 keer omlaag. Het stookseizoen begint volgende ma ..."
         },
         {
-          "title": "Jacotte Brokken heeft last van pediofobie: “Als kind kreeg ik een crisis in het Modemuseum”",
-          "source": "HBvL",
-          "url": "https://www.hbvl.be/media-en-cultuur/bv-en-co/jacotte-brokken-heeft-last-van-pediofobie-als-kind-kreeg-ik-een-crisis-in-het-modemuseum/102873606.html",
-          "publishedDate": "Wed, 05 Nov 2025 12:13:00 GMT",
-          "description": "Jacotte Brokken hees zich voor The masked singer in het pak van Chateau. Een hele opdracht voor de weervrouw, want door haar deelname werd ze geregeld geconfronteerd met een grote angst: paspoppen."
+          "title": "Gasprijs naar hoogste niveau in ruim drie jaar, ACM waarschuwt voor onzekere energiemarkt",
+          "source": "Transport Online",
+          "url": "https://www.transport-online.nl/138056/gasprijs-naar-hoogste-niveau-in-ruim-drie-jaar-acm-waarschuwt-voor-onzekere-energiemarkt/",
+          "publishedDate": "Fri, 11 Sep 2026 07:31:00 GMT",
+          "description": "DEN HAAG – De gasprijs op de groothandelsmarkt is de afgelopen maand sterk gestegen. Begin augustus lag de prijs nog rond de 58 euro per megawattuur (MWh), inmiddels bedraagt deze circa 80 euro per MW ..."
         },
         {
-          "title": "Jacotte Brokken ontmaskerd in ‘The Masked Singer’: “Het eerste dat mijn mama zei? ‘Die Ch&#226;teau kan absoluut niet zingen’”",
-          "source": "HLN",
-          "url": "https://www.hln.be/showbizz/jacotte-brokken-ontmaskerd-in-the-masked-singer-het-eerste-dat-mijn-mama-zei-die-chateau-kan-absoluut-niet-zingen~a86615d3/",
-          "publishedDate": "Fri, 24 Oct 2025 18:09:00 GMT",
-          "description": "Na het flitsbezoek van Viktor Verhulst was het vrijdagavond Ch&#226;teau die haar masker moest afzetten in ‘The Masked Singer’. Weervrouw Jacotte Brokken (32) bleek in het kasteel te zitten. Een pak met ..."
+          "title": "Energie-update: Gasprijs tikt 80 euro aan op TTF-markt, benzineprijs daalt licht",
+          "source": "GroentenNieuws",
+          "url": "https://www.groentennieuws.nl/article/9871773/energie-update-gasprijs-tikt-80-euro-aan-op-ttf-markt-benzineprijs-daalt-licht/",
+          "publishedDate": "Thu, 10 Sep 2026 04:33:00 GMT",
+          "description": "Donderdagochtend is de TTF-gasprijs voor het frontmaandcontract gestegen tot 80 euro per megawattuur. Analisten wijzen een stijging van de olieprijs aan als een van de oorzaken voor ..."
         },
         {
-          "title": "Weervrouw Jacotte Brokken presenteert nu ook wetenschapsprogramma ‘Knappe koppen’: “Op mijn lijf geschreven”",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/media-en-cultuur/tv-en-radio/weervrouw-jacotte-brokken-presenteert-nu-ook-wetenschapsprogramma-knappe-koppen-op-mijn-lijf-geschreven/37627106.html",
-          "publishedDate": "Mon, 18 Nov 2024 19:00:00 GMT",
-          "description": "De eerste aflevering van Knappe koppen gaat woensdag van start met een beklijvende cold case over de moord op Ingrid Caeckaert, waarbij forensisch onderzoeker Sofie Claerhout in de kijker staat. Het ..."
+          "title": "Gasprijs blijft records breken: zo hard stijgen energiecontracten mee",
+          "source": "Keuze.nl",
+          "url": "https://www.keuze.nl/nieuws/gasprijs-blijft-records-breken-energiecontracten-stijgen-mee",
+          "publishedDate": "Thu, 10 Sep 2026 00:16:00 GMT",
+          "description": "De gasprijs tikt de € 80,- per MWh aan, de hoogste stand sinds 2022. Zoveel duurder werden energiecontracten o.b.v. onze prijsdata + wat te doen."
         },
         {
-          "title": "Jacotte Brokken presenteert omstreden VRT-programma ‘Knappe koppen’",
-          "source": "Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/cnt/dmf20241105_92416438",
-          "publishedDate": "Mon, 04 Nov 2024 15:59:00 GMT",
-          "description": "VRT-weervrouw Jacotte Brokken presenteert eind deze maand ‘Knappe koppen’, de docureeks die tot een rel leidde op de Reyerslaan. De Vlaamse regering zou het omstreden programma hebben besteld. Vanaf ..."
+          "title": "Energie-update: Nederland gaat stijgende gasprijs niet beteugelen",
+          "source": "GroentenNieuws",
+          "url": "https://www.groentennieuws.nl/article/9870384/energie-update-nederland-gaat-stijgende-gasprijs-niet-beteugelen/",
+          "publishedDate": "Mon, 07 Sep 2026 04:03:00 GMT",
+          "description": "Een stevig windje drukte de elektriciteitsprijzen de afgelopen tijd omlaag, vooral op zaterdag. Maandag komt de EPEX-dagprijs echter toch weer op 150 euro per megawattuur uit. De ..."
         },
         {
-          "title": "Jacotte Brokken: ‘Ik heb de impact van de bekendheid geweldig onderschat’",
-          "source": "humo.be",
-          "url": "https://www.humo.be/nieuws/jacotte-brokken-ik-heb-de-impact-van-de-bekendheid-geweldig-onderschat~b38b1dce/",
-          "publishedDate": "Fri, 01 Nov 2024 05:00:00 GMT",
-          "description": "We ontmoeten Jacotte Brokken in een idyllisch ogend koffiehuisje in het Bospark in Lokeren. Een symbolische locatie, zo blijkt. Drie jaar geleden, in volle pandemie, gaf ze hier in bescheiden kring ..."
+          "title": "Gasprijs gaat deze winter waarschijnlijk sterk stijgen, ‘zet contract langer vast’",
+          "source": "BNR Nieuwsradio",
+          "url": "https://www.bnr.nl/nieuws/economie/10609748/gasprijs-gaat-deze-winter-waarschijnlijk-sterk-stijgen-zet-contract-langer-vast",
+          "publishedDate": "Mon, 07 Sep 2026 00:15:00 GMT",
+          "description": "‘Het is tegenstrijdig: het vuldoel terugschroeven, terwijl je weet dat er waarschijnlijk in de winter met een hoge gasvraag tekorten gaan komen.’ ..."
         },
         {
-          "title": "Jacotte Brokken: ‘Als ik me minder sterk voel, komt de haat op sociale media hard binnen’",
-          "source": "humo.be",
-          "url": "https://www.humo.be/tv/jacotte-brokken-als-ik-me-minder-sterk-voel-komt-de-haat-op-sociale-media-hard-binnen~bc1e856e/",
-          "publishedDate": "Mon, 16 Sep 2024 05:00:00 GMT",
-          "description": "BROKKEN &#171;In de kleuterklas was het vooral fysiek. Ik kwam ooit thuis van een verjaardagsfeestje met allemaal schrammen op mijn gezicht: een ander kind had keihard met een autootje op mijn gezicht ..."
+          "title": "Klimaatminister van Veldhoven waarschuwt voor hogere gasprijs: 'En er komt geen prijsgarantie vanuit de overheid'",
+          "source": "WNL",
+          "url": "https://wnl.tv/2026/09/06/klimaatminister-van-veldhoven-waarschuwt-voor-hogere-gasprijs-en-er-komt-geen-prijsgarantie",
+          "publishedDate": "Sun, 06 Sep 2026 05:45:00 GMT",
+          "description": "WNL plaatst Functionele cookies, om deze website naar behoren te laten functioneren en Analytische cookies waarmee wij het gebruik van de website kunnen meten. Deze cookies gebruiken geen persoonsgege ..."
+        }
+      ]
+    },
+    {
+      "keyword": "hayden panettiere",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Peta deelt laatste beelden van Hayden Panettiere, opgenomen twee weken voor haar dood",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/entertainment/sterren/peta-deelt-laatste-beelden-van-hayden-panettiere-opgenomen-twee-weken-voor-haar-dood/160224803.html",
+          "publishedDate": "Wed, 19 Aug 2026 06:43:00 GMT",
+          "description": "Hayden Panettiere heeft twee weken voor haar overlijden nog een video opgenomen voor dierenwelzijnsorganisatie Peta, waarin ze protesteert tegen dierenparken zoals SeaWorld. De organisatie heeft de be ..."
+        },
+        {
+          "title": "Huiselijk geweld, arrestaties en drankproblemen: dit was de turbulente relatie tussen Brian Hickerson en Hayden Panettiere",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/entertainment/sterren/huiselijk-geweld-arrestaties-en-drankproblemen-dit-was-de-turbulente-relatie-tussen-brian-hickerson-en-hayden-panettiere/160207541.html",
+          "publishedDate": "Wed, 19 Aug 2026 06:06:00 GMT",
+          "description": "Na het plotselinge overlijden van actrice Hayden Panettiere op 36-jarige leeftijd zijn alle schijnwerpers gericht op Brian Hickerson. Maar wie is de acteur met wie Panettiere jarenlang een turbulente ..."
+        },
+        {
+          "title": "Actrice Hayden Panettiere werd vlak voor haar dood nog vergeefs gereanimeerd",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/actrice-hayden-panettiere-werd-vlak-voor-haar-dood-nog-vergeefs-gereanimeerd~a4b46085/",
+          "publishedDate": "Mon, 17 Aug 2026 00:46:00 GMT",
+          "description": "De Amerikaanse actrice Hayden Panettiere is vlak voor haar overlijden nog gereanimeerd door ambulancemedewerkers. Dat bevestigt de politie, die nog onderzoek doet, onder meer aan vakblad Variety. Verd ..."
+        },
+        {
+          "title": "Actrice Hayden Panettiere (36) overleden, doodsoorzaak onbekend",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627206-actrice-hayden-panettiere-36-overleden-doodsoorzaak-onbekend",
+          "publishedDate": "Sun, 16 Aug 2026 23:21:00 GMT",
+          "description": "De Amerikaanse actrice Hayden Panettiere is op 36-jarige leeftijd overleden. Dat heeft haar familie bekendgemaakt in een verklaring. Over de doodsoorzaak is niets gemeld. Panettiere was onder meer bek ..."
+        },
+        {
+          "title": "TMZ: vervuilde pijnstiller werd Hayden Panettiere mogelijk fataal",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/nieuws/tmz-vervuilde-pijnstiller-werd-hayden-panettiere-mogelijk-fataal/ar-AA2cc1eU",
+          "publishedDate": "Mon, 14 Sep 2026 07:39:34 GMT",
+          "description": "De Amerikaanse actrice Hayden Panettiere overleed in augustus mogelijk als gevolg van een pijnstiller die was vervuild met fentanyl, meldt entertainmentwebsite TMZ op basis van bronnen met directe ken ..."
+        },
+        {
+          "title": "Courteney Cox prijst overleden actrice Hayden Panettiere",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/nieuws/courteney-cox-prijst-overleden-actrice-hayden-panettiere/ar-AA2c9XSZ",
+          "publishedDate": "Sun, 13 Sep 2026 23:24:57 GMT",
+          "description": "Courteney Cox vond Hayden Panettiere, die in augustus op 36-jarige leeftijd overleed, een &quot;ontzettend goede actrice&quot;, zo vertelt ze in een interview met Entertainment Weekly. Cox werkte voor het eerst ..."
+        },
+        {
+          "title": "Nieuwe details over dood Hayden Panettiere (36): “Een vervuilde pijnstiller werd haar fataal”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/celebrities/nieuwe-details-over-dood-hayden-panettiere-36-een-vervuilde-pijnstiller-werd-haar-fataal~ac13b807/",
+          "publishedDate": "Sun, 13 Sep 2026 21:20:00 GMT",
+          "description": "Er is mogelijk meer duidelijkheid over de dood van Hayden Panettiere. De Amerikaanse actrice zou op de dag van haar &lt;a href=&quot;https://www.hln.be/celebrities/hayden-panettiere-bekend-van-scream-en-heroe ..."
+        },
+        {
+          "title": "Oproep naar hulpdiensten onthult mogelijke overdosis voor overlijden Hayden Panettiere (36): reanimatie mocht niet meer baten",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/celebrities/oproep-naar-hulpdiensten-onthult-mogelijke-overdosis-voor-overlijden-hayden-panettiere-36-reanimatie-mocht-niet-meer-baten~acc12ec0/",
+          "publishedDate": "Tue, 18 Aug 2026 00:51:00 GMT",
+          "description": "Hulpverleners hebben de Amerikaanse actrice Hayden Panettiere &lt;a href=&quot;https://www.hln.be/celebrities/hayden-panettiere-bekend-van-scream-en-heroes-op-36-jarige-leeftijd-overleden-hulpverleners-sprake ..."
+        },
+        {
+          "title": "Celebrities brengen massaal een eerbetoon aan de overleden actrice Hayden Panettiere",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/lifestyle/lifestyle-nieuws/a73459744/hayden-panettiere-celebrities-eerbetoon/",
+          "publishedDate": "Mon, 17 Aug 2026 23:49:00 GMT",
+          "description": "Nashville-actrice Hayden Panettiere is op zondag 16 augustus overleden. Haar vader maakte het nieuws bekend in een verklaring: 'Ze was een ongelooflijk lichtpunt en een natuurkracht die onmetelijke ..."
+        },
+        {
+          "title": "Amerikaanse actrice Hayden Panettiere is op 36-jarige leeftijd overleden",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/lifestyle/lifestyle-nieuws/a73448989/amerikaanse-actrice-hayden-panettiere-overleden/",
+          "publishedDate": "Mon, 17 Aug 2026 00:50:00 GMT",
+          "description": "Amerikaanse actrice Hayden Panettiere is op slechts 36-jarige leeftijd overleden, deelde haar vertegenwoordiger met ABC News. Panettiere was vooral bekend van haar rollen in tv-series als Nashville en ..."
+        }
+      ]
+    },
+    {
+      "keyword": "yves bissouma",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "‘Ajax toont interesse in Yves Bissouma: ervaring krijgt voorrang in Amsterdam’",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/ajax-interesse-yves-bissouma-ervaring-amsterdam/",
+          "publishedDate": "Mon, 14 Sep 2026 08:41:00 GMT",
+          "description": "Ajax bekijkt de transfervrije Yves Bissouma als middenveldversterking, al moet de Malinese international nog volledig topfit raken."
+        },
+        {
+          "title": "‘Jordi Cruijff gaat nog eens voor stunttransfer’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/jordi-cruijff-gaat-nog-eens-voor-stunttransfer/",
+          "publishedDate": "Mon, 14 Sep 2026 07:20:00 GMT",
+          "description": "Jordi Cruijff lijkt nog een transfer te willen realiseren. De technisch directeur mikt nog op een transfervrije middenvelder."
+        },
+        {
+          "title": "Jordi Cruijff wil stunten met komst Yves Bissouma naar Ajax",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/ajax-jordi-cruijff-yves-bissouma-transfer",
+          "publishedDate": "Mon, 14 Sep 2026 07:04:00 GMT",
+          "description": "Ajax wil volgens bronnen proberen Yves Bissouma transfervrij vast te leggen. De middenvelder werd eind augustus al met de Amsterdammers in verband gebracht."
+        },
+        {
+          "title": "Ajax denkt aan transfervrije Bissouma",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/ajax-denkt-aan-transfervrije-bissouma/ar-AA2cbm6Q",
+          "publishedDate": "Mon, 14 Sep 2026 05:45:00 GMT",
+          "description": "Ajax probeert twee weken na het sluiten van de transferwindow toch nog een nieuwe middenvelder te halen. De transfervrije Yves Bissouma (30) is in beeld."
+        },
+        {
+          "title": "Ajax-fans staan versteld: 'Meteen &#233;&#233;n van de beste van de Eredivisie'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/ajax-fans-staan-versteld-meteen-%C3%A9%C3%A9n-van-de-beste-van-de-eredivisie/ar-AA2cbgWI",
+          "publishedDate": "Mon, 14 Sep 2026 05:26:16 GMT",
+          "description": "Ajax-fans zijn compleet verrast door het nieuws dat Yves Bissouma in beeld is. Jordi Cruijff hoopt te stunten met de komst van de dertigjarige middenvelder, die transfervrij is na zijn vertrek bij Tot ..."
+        },
+        {
+          "title": "Ajax nog niet uitgewinkeld: 'Jordi Cruijff wil opnieuw stunten'",
+          "source": "vandaaginside",
+          "url": "https://www.vandaaginside.nl/sport/binnenlands-voetbal/ajax/artikelen/ajax-nog-niet-uitgewinkeld-jordi-cruijff-wil-opnieuw-stunten",
+          "publishedDate": "Mon, 14 Sep 2026 05:02:00 GMT",
+          "description": "De transfermarkt is inmiddels gesloten, maar Ajax lijkt nog altijd niet klaar op de transfermarkt. Volgens De Telegraaf heeft technisch directeur Jordi Cruijff zijn zinnen gezet op een opvallende deal ..."
+        },
+        {
+          "title": "Cruijff is niet uitgeraasd: Ajax gaat voor komst van Yves Bissouma",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/cruijff-is-niet-uitgeraasd-ajax-gaat-voor-komst-van-yves-bissouma/ar-AA2cbobm",
+          "publishedDate": "Mon, 14 Sep 2026 04:59:25 GMT",
+          "description": "Jordi Cruijff wil toch nog een keer toeslaan op de transfermarkt met Ajax. De technisch directeur wil stunten met de komst van Yves Bissouma, die transfervrij is na zijn vertrek bij Tottenham Hotspur ..."
+        },
+        {
+          "title": "Ajax nog niet klaar op de transfermarkt: ‘Jordi Cruijff meldt zich bij Yves Bissouma (30)’",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/09/14/ajax-nog-niet-klaar-op-de-transfermarkt-jordi-cruijff-meldt-zich-bij-yves-bissouma-30/",
+          "publishedDate": "Mon, 14 Sep 2026 02:36:00 GMT",
+          "description": "Ajax is nog altijd niet helemaal klaar op de transfermarkt. Hoewel de transferperiode inmiddels officieel is gesloten, blijft de Amsterdamse club kijken naar mogelijkheden om de selectie verder te ver ..."
+        },
+        {
+          "title": "Ajax wil Yves Bissouma transfervrij halen: wat kan de middenvelder toevoegen?",
+          "source": "FootballTransfers",
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/09/is-yves-bissouma-de-versterking-op-het-middenveld-die-michel-zoekt",
+          "publishedDate": "Sun, 13 Sep 2026 21:01:00 GMT",
+          "description": "Ajax zou op de transfervrije markt uit zijn gekomen bij Yves Bissouma als aanwinst voor op het middenveld. M&#237;chel S&#225;nchez stelde al dat hij een ervaring in die linie toe wilde voegen, maar wat zegt de ..."
+        },
+        {
+          "title": "‘Juventus praat met Yves Bissouma na vertrek bij Tottenham’",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/juventus-praat-met-yves-bissouma/",
+          "publishedDate": "Mon, 31 Aug 2026 07:33:00 GMT",
+          "description": "Volgens La Gazzetta dello Sport is Juventus momenteel in gesprek met Bissouma over een mogelijk dienstverband. De 29-jarige Ivoriaan kwam vorig seizoen nog uit voor Tottenham Hotspur, maar zijn ..."
+        }
+      ]
+    },
+    {
+      "keyword": "school",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Loting voor middelbare school in Amsterdam is een oneerlijk systeem, zegt deze UvA-onderzoeker: ‘Liegen over je voorkeur kan lonen’",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/loting-voor-middelbare-school-in-amsterdam-is-een-oneerlijk-systeem-zegt-deze-uva-onderzoeker-liegen-over-je-voorkeur-kan-lonen~b23d962de/",
+          "publishedDate": "Wed, 09 Sep 2026 20:00:00 GMT",
+          "description": "In Amsterdam worden achtstegroepers via loting geplaatst op een middelbare school. Deze Centrale Loting en Matching werkt strategisch kiezen in de hand, en dat is oneerlijk, stelt Mayesha Tasnim (35), ..."
+        },
+        {
+          "title": "Steeds vaker spanning tussen ouders en school, vooral over passende plek zorgleerling",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/steeds-vaker-spanning-tussen-ouders-en-school-vooral-over-passende-plek-zorgleerling",
+          "publishedDate": "Sat, 12 Sep 2026 06:35:00 GMT",
+          "description": "Volgens Gerdien Lassche van de Reformatorische Oudervereniging zijn veel conflicten tussen school en ouders te voorkomen."
+        },
+        {
+          "title": "Jaloers op de jeugd van mijn eigen kind: ‘Wij hadden nauwelijks plezier op school’",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/lezerscolumn/2026/09/lezerscolumn-school-jaloers-op-de-jeugd-van-mijn-eigen-kind/",
+          "publishedDate": "Thu, 10 Sep 2026 01:00:00 GMT",
+          "description": "De rentree van school heeft altijd effect gehad op mijn leven. Het was voor mij nooit zomaar het begin van een nieuw schooljaar, maar altijd een periode ..."
+        },
+        {
+          "title": "Kinderen durven door racistische beledigingen niet naar school, stelt Hart voor Den Haag",
+          "source": "Waterkant.net",
+          "url": "https://www.waterkant.net/suriname/2026/09/10/kinderen-durven-door-racistische-beledigingen-niet-naar-school-stelt-hart-voor-den-haag/",
+          "publishedDate": "Thu, 10 Sep 2026 00:00:00 GMT",
+          "description": "Surinaams-Hindoestaanse leerlingen op Haagse scholen worden vanwege hun afkomst uitgescholden en gepest, waarbij sommige kinderen volgens hun ouders niet ..."
+        },
+        {
+          "title": "Met sloep over het Amsterdamse IJ naar school tijdens ov-staking",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/met-sloep-over-het-amsterdamse-ij-naar-school-tijdens-ov-staking",
+          "publishedDate": "Wed, 09 Sep 2026 02:45:00 GMT",
+          "description": "Om tijdens de landelijke ov-staking toch op tijd op school te komen, zijn kinderen vanuit Amsterdam-Noord met een sloep over het IJ gevaren. Fons van de Kar meerde om 08.15 uur met een handjevol kinde ..."
+        },
+        {
+          "title": "School Almere dicht om ‘onveilige situatie’: politie sluit misdrijf uit",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/almere/school-almere-dicht-om-onveilige-situatie-politie-sluit-misdrijf-uit~a7a54ca8/",
+          "publishedDate": "Tue, 08 Sep 2026 01:41:00 GMT",
+          "description": "Een school voor voortgezet speciaal onderwijs in Almere is dinsdag gesloten door de directie. De reden zou een ‘onveilige, risicovolle situatie’ zijn. Wat er precies gaande is, is niet duidelijk. Volg ..."
+        },
+        {
+          "title": "Middelbare school cancelt trip nadat 72 scholieren laveloos door Praag wandelen",
+          "source": "PowNed",
+          "url": "https://www.powned.tv/article/middelbare-school-cancelt-trip-nadat-72-scholieren-laveloos-door-praag-wandelen~6540/",
+          "publishedDate": "Wed, 02 Sep 2026 17:00:00 GMT",
+          "description": "De vijfdeklassers van het H.N. Werkman Stadslyceum waren deze week in Praag voor zoals dat pedagogisch verantwoord heet 'culturele en sociale activiteiten'. Vooraf was duidelijk afgesproken dat drinke ..."
+        },
+        {
+          "title": "Word jij een Student op School?",
+          "source": "Universiteit Utrecht",
+          "url": "https://www.uu.nl/onderwijs/student-op-school",
+          "publishedDate": "Tue, 23 Jun 2026 06:46:00 GMT",
+          "description": "Heb jij een hart voor onderwijs en lijkt het je leuk om na de zomervakantie aan de slag te gaan op een middelbare school in de regio Utrecht? Meld je dan aan voor de Student op School Studentenpool ..."
+        },
+        {
+          "title": "Mag een school voor voortgezet onderwijs mijn kind schorsen of van school sturen?",
+          "source": "Rijksoverheid",
+          "url": "https://www.rijksoverheid.nl/vraag-en-antwoord/voortgezet-onderwijs/mag-een-school-voor-voortgezet-onderwijs-mijn-kind-schorsen-of-van-school-sturen",
+          "publishedDate": "Thu, 31 Jul 2014 00:31:00 GMT",
+          "description": "Een middelbare school mag uw kind maximaal een week schorsen. Uw kind heeft dan tijdelijk geen toegang tot de school of tot bepaalde lessen. Een school mag uw kind ook van school sturen. Schorsen en ..."
+        },
+        {
+          "title": "Hoe lang moet een school gemaakte examens bewaren?",
+          "source": "Rijksoverheid",
+          "url": "https://www.rijksoverheid.nl/vraag-en-antwoord/voortgezet-onderwijs/hoe-lang-moet-een-school-examenmateriaal-bewaren",
+          "publishedDate": "Wed, 30 Jul 2014 07:00:00 GMT",
+          "description": "Een school moet het werk van het centraal examen bewaren tot minimaal 6 maanden na de uitslag. Dit geldt ook voor de bijbehorende cijferlijst en de opgaven die de leerling gebruikte. Voor ..."
         }
       ]
     }
