@@ -1,43 +1,30 @@
 {
-  "fetchedAt": "2026-09-14T16:43:26.732Z",
+  "fetchedAt": "2026-09-14T20:42:29.708Z",
   "trends": [
-    {
-      "keyword": "psv - sparta rotterdam",
-      "trafficLabel": "100K+",
-      "articles": [
-        {
-          "title": "PSV aan kop na zesde speelronde • Zevenklapper Feyenoord • Eerste zege FC Utrecht",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2630804-psv-aan-kop-na-zesde-speelronde-zevenklapper-feyenoord-eerste-zege-fc-utrecht",
-          "publishedDate": "Sun, 13 Sep 2026 11:56:00 GMT",
-          "description": "PSV is de nieuwe koploper van de eredivisie. De regerend kampioen won mede dankzij drie goals van Sven Mijnans van Sparta Rotterdam (4-1), waardoor de Eindhovenaren AZ passeerden."
-        },
-        {
-          "title": "PSV'er steelt de show in Eredivisie: hattrick maakt enorme blunder ongedaan tegen Sparta",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/psver-steelt-de-show-in-eredivisie-hattrick-maakt-enorme-blunder-ongedaan-tegen-sparta-2026091319565157182/",
-          "publishedDate": "Sun, 13 Sep 2026 14:57:00 GMT",
-          "description": "PSV heeft de koppositie in de Eredivisie veroverd na een thuisoverwinning tegen Sparta Rotterdam. In het Philips Stadion werd het 4-1 voor de landskampioen, mede dankzij een hattrick van Sven Mijnans"
-        }
-      ]
-    },
     {
       "keyword": "phishing",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Grote toename phishing-meldingen in Nederland: vervijfvoudiging in jaar tijd",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/tech/grote-toename-phishing-meldingen-in-nederland-vervijfvoudiging-in-jaar-tijd~bd99c3e9/",
-          "publishedDate": "Sun, 06 Sep 2026 06:01:00 GMT",
-          "description": "Het aantal meldingen over phishing is in een jaar tijd vervijfvoudigd. Fraudeurs maken onder andere flink misbruik van gelekte data van Booking.com. Consumenten lijden daardoor schade."
+          "title": "Microsoft waarschuwt voor telefonische phishingaanvallen over passkeys",
+          "source": "Security.NL",
+          "url": "https://www.security.nl/posting/952963/Microsoft+waarschuwt+voor+telefonische+phishingaanvallen+over+passkeys",
+          "publishedDate": "Mon, 14 Sep 2026 09:46:00 GMT",
+          "description": "Microsoft waarschuwt organisaties voor telefonische phishingaanvallen waarbij personeel op hun priv&#233;nummer wordt gebeld door aanvallers. Eerder kwam ook Google met een soortgelijke waarschuwing. Bij d ..."
         },
         {
-          "title": "Bijna tien keer zoveel meldingen over phishingmails rond boekingssites",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6408754/bijna-tien-keer-zoveel-meldingen-over-phishingmails-rond-boekingssites.html",
-          "publishedDate": "Sat, 05 Sep 2026 10:03:00 GMT",
-          "description": "De Fraudehelpdesk heeft in het afgelopen half jaar een forse stijging van het aantal nepmails rond online boekingsplatforms vastgesteld. Er komen voornamelijk veel meldingen over phishing rond Booking ..."
+          "title": "Pas op voor deze slimme phishingtruc: de nepsite verschijnt pas in je eigen browser",
+          "source": "Welingelichte Kringen",
+          "url": "https://www.welingelichtekringen.nl/samenleving/pas-op-voor-deze-slimme-phishingtruc-de-nepsite-verschijnt-pas-in-je-eigen-browser",
+          "publishedDate": "Thu, 10 Sep 2026 22:18:00 GMT",
+          "description": "Een phishingmail met een bijlage die op een agenda-uitnodiging lijkt, kan je naar een vervalst inlogscherm leiden dat pas &#237;n je eigen browser wordt opgebouwd. Onderzoekers van Barracuda waarschuwen vo ..."
+        },
+        {
+          "title": "Trezor waarschuwt gebruikers voor phishing na datalek e-mailprovider",
+          "source": "Blockchain Stories",
+          "url": "https://www.blockchainstories.com/nieuws/trezor-waarschuwt-gebruikers-voor-phishing-na-datalek-e-mailprovider/",
+          "publishedDate": "Thu, 10 Sep 2026 06:28:00 GMT",
+          "description": "Trezor waarschuwt gebruikers voor een phishing e-mail na een inbreuk bij hun externe e-mailprovider. Klik op geen enkele link in de valse beveiligingsmail."
         },
         {
           "title": "Email-aanvallen genereren phishing-pagina’s rechtstreeks in de browser om detectie te omzeilen",
@@ -47,11 +34,32 @@
           "description": "Aanvallers misbruiken legitieme Microsoft-diensten om phishing-pagina’s te genereren zonder traditionele webserver Amsterdam, 10 september 2026 – Uit onderzoek van Barracuda […] ..."
         },
         {
+          "title": "Ruim 40.000 meldingen van phishing per dag: hoe bescherm jij je ertegen? En wat doen de banken?",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/mijn-geld/ruim-40-000-meldingen-van-phishing-per-dag-hoe-bescherm-jij-je-ertegen-en-wat-doen-de-banken~acf7b0cd/",
+          "publishedDate": "Wed, 09 Sep 2026 21:52:00 GMT",
+          "description": "Phishing is alomtegenwoordig. Oplichters gebruiken almaar overtuigendere en creatievere - lees: driestere - technieken om je geld te ontfutselen. Denk maar aan robotstemmen die jou opbellen om een zog ..."
+        },
+        {
           "title": "Vijf keer zoveel phishingmeldingen dit jaar, zegt Fraudehelpdesk",
           "source": "AG Connect",
           "url": "https://www.agconnect.nl/maatschappij/security/vijf-keer-zoveel-phishingmeldingen-dit-jaar",
           "publishedDate": "Mon, 07 Sep 2026 07:00:00 GMT",
           "description": "De Fraudehelpdeks kreeg in de eerste helft van 2026 ruim 15.000 meldingen van phishing. Vorig jaar waren dat er 2.800. Ruim 90% van de meldingen over phishing via boekingssites heeft betrekking op Boo ..."
+        },
+        {
+          "title": "Phishing verschuift meer naar e-mail en WhatsApp",
+          "source": "Dutch IT Channel",
+          "url": "https://www.dutchitchannel.nl/research/759446/phishing-verschuift-meer-naar-e-mail-en-whatsapp",
+          "publishedDate": "Mon, 07 Sep 2026 05:39:00 GMT",
+          "description": "Oplichters passen hun methodes voortdurend aan. Het aandeel van e-mail binnen de phishingmeldingen steeg van 30 procent in de eerste helft van 2025 naar 59 procent in de eerste helft van 2026."
+        },
+        {
+          "title": "Meldingen phishing vervijfvoudigd in eerste helft 2026, benadering fraudeurs steeds persoonlijker en geloofwaardiger",
+          "source": "Persberichten.com",
+          "url": "https://www.persberichten.com/persbericht/115377/meldingen-phishing-vervijfvoudigd-in-eerste-helft-2026-benadering-fraudeurs-steeds-persoonlijker-en-geloofwaardiger",
+          "publishedDate": "Mon, 07 Sep 2026 02:10:00 GMT",
+          "description": "Verifieer Controleer informatie altijd via een vertrouwde bron voordat u een betaling doet of gegevens deelt."
         },
         {
           "title": "Aantal meldingen van phishing in een jaar tijd vervijfvoudigd, oorzaak ligt mogelijk bij datalekken",
@@ -61,177 +69,87 @@
           "description": "Het aantal meldingen van phishing (online fraude) is in een jaar tijd vervijfvoudigd, meldt de Fraudehelpdesk. De oorzaak daarvan ligt mogelijk in een aantal datalekken waar grote bedrijven mee te mak ..."
         },
         {
-          "title": "Meldingen phishing vervijfvoudigd in eerste helft 2026, benadering fraudeurs steeds persoonlijker en geloofwaardiger",
-          "source": "Emerce",
-          "url": "https://www.emerce.nl/wire/meldingen-phishing-vervijfvoudigd-eerste-helft-2026-benadering-fraudeurs-steeds-persoonlijker-geloofwaardiger",
-          "publishedDate": "Sun, 06 Sep 2026 01:39:00 GMT",
-          "description": "Fraudeurs beschikken over steeds meer persoonsgegevens en weten slachtoffers via steeds meer kanalen te bereiken. Dat blijkt uit de meldingen […] ..."
-        },
-        {
-          "title": "Forse stijging phishing rond boekingssites, ziet Fraudehelpdesk",
-          "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/forse-stijging-phishing-rond-boekingssites-ziet-fraudehelpdesk",
-          "publishedDate": "Sat, 05 Sep 2026 09:15:00 GMT",
-          "description": "APELDOORN (ANP) - In het afgelopen halfjaar is een forse stijging te zien van phishing rond onlineboekingsplatformen, met name rond Booking.com. Dat constateert ..."
-        },
-        {
-          "title": "Belfius voor strafrechter omdat het phishingslachtoffer niet terugbetaalde",
-          "source": "VRT on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/belfius-voor-strafrechter-omdat-het-phishingslachtoffer-niet-terugbetaalde/ar-AA2bCxvu",
-          "publishedDate": "Sat, 05 Sep 2026 01:05:17 GMT",
-          "description": "De bank Belfius moet zich in november voor de strafrechter verantwoorden omdat ze een slachtoffer van phishing niet onmiddellijk had terugbetaald. Dat schrijven De Tijd en L'Echo en het bericht werd b ..."
-        },
-        {
           "title": "Test Aankoop vraagt meer transparantie over rampzalig hoge phishing cijfers",
           "source": "Testaankoop",
           "url": "https://www.test-aankoop.be/hightech/phishing/pers/hoge-cijfers-phishing",
           "publishedDate": "Wed, 02 Sep 2026 06:55:00 GMT",
           "description": "Test Aankoop heeft nota genomen van de vandaag door Febelfin gepubliceerde cijfers over phishinggevallen, cijfers die ronduit rampzalig zijn."
-        },
-        {
-          "title": "Help, ik ben slachtoffer van phishing! Wat moet ik nu doen?",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/06/05/phishing-stappenplan-wat-doen/",
-          "publishedDate": "Fri, 05 Jun 2026 21:58:00 GMT",
-          "description": "Als je slachtoffer van phishing bent, is het essentieel dat je zo snel mogelijk contact opneemt met de fraudedienst van jouw bank. Het is ook belangrijk dat je aangifte doet bij de politie, zodat ..."
         }
       ]
     },
     {
-      "keyword": "john van &#39;t schip",
-      "trafficLabel": "20K+",
+      "keyword": "rob de nijs",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Definitieve breuk tussen John van ’t Schip en Ajax: ‘Niet geworden wat we er beiden van verwacht hadden’",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/sport/definitieve-breuk-tussen-john-van-t-schip-en-ajax-niet-geworden-wat-we-er-beiden-van-verwacht-hadden~b0614372/",
-          "publishedDate": "Mon, 11 Nov 2024 09:20:00 GMT",
-          "description": "John van ’t Schip vertrekt definitief bij Ajax. De 60-jarige oud-speler stond vorig jaar voor de groep als interim-hoofdtrainer en zou na de komst van Francesco Farioli een functie in het technisch ..."
+          "title": "Zoon Rob de Nijs verwelkomt zoon en vernoemt hem naar overleden vader",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/zoon-rob-de-nijs-verwelkomt-zoon-en-vernoemt-hem-naar-overleden-vader/ar-AA2cc9sw",
+          "publishedDate": "Mon, 14 Sep 2026 09:36:10 GMT",
+          "description": "De familie De Nijs heeft er een nieuwe generatie bij. Robbert de Nijs (43) en zijn vrouw Sharon zijn ouders geworden van zoon Oliver Robert de Nijs. Met zijn tweede naam is de baby vernoemd naar Rob d ..."
         },
         {
-          "title": "John van ’t Schip is een van de weinigen die Marco van Basten op z’n plek kan zetten",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/sport/john-van-t-schip-is-een-van-de-weinigen-die-marco-van-basten-op-z-n-plek-kan-zetten~bdf03d8c/",
-          "publishedDate": "Tue, 29 Oct 2024 09:00:00 GMT",
-          "description": "Met ingehouden humor vertelde Van ’t Schip maandag over het contact tussen hem en Van Basten over zijn leerling-spits Brobbey. Voorzichtig opperde Wytse van der Goot of ze zelf de zaak konden ..."
-        },
-        {
-          "title": "Van 't Schip dacht niet aan opstappen: 'We moeten blijven proberen te voetballen'",
+          "title": "Rob de Nijs wordt gemist, als persoon en als artiest",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2516488-van-t-schip-dacht-niet-aan-opstappen-we-moeten-blijven-proberen-te-voetballen",
-          "publishedDate": "Fri, 12 Apr 2024 07:34:00 GMT",
-          "description": "John van 't Schip heeft er &quot;geen moment over nagedacht' om op te stappen als trainer van Ajax. Onder zijn leiding ging de club vorig weekend met 6-0 onderuit tegen Feyenoord, de grootste nederlaag van ..."
+          "url": "https://nos.nl/artikel/2560112-rob-de-nijs-wordt-gemist-als-persoon-en-als-artiest",
+          "publishedDate": "Mon, 17 Mar 2025 11:41:00 GMT",
+          "description": "Het overlijden van Rob de Nijs maakt zoals te verwachten valt bij zo'n geliefde artiest veel los. In 2000 zei de zanger en acteur in een interview(opent in nieuw ..."
         },
         {
-          "title": "John van 't Schip vindt bijna drie jaar na overlijden Dani&#235;lle nieuwe liefde",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/john-van-t-schip-vindt-bijna-drie-jaar-na-overlijden-danielle-nieuwe-liefde",
-          "publishedDate": "Mon, 14 Sep 2026 02:58:00 GMT",
-          "description": "John van 't Schip vindt na het verlies van Dani&#235;lle nieuwe liefde in Natasha. Ondertussen wordt hij opa, want zijn dochter Estelle is zwanger van een meisje."
+          "title": "Rob de Nijs was gelukkig als hij op het podium stond",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2560077-rob-de-nijs-was-gelukkig-als-hij-op-het-podium-stond",
+          "publishedDate": "Mon, 17 Mar 2025 09:28:00 GMT",
+          "description": "Rob de Nijs, die gisteren op 82-jarige leeftijd is overleden, was die nette jongen met dat spleetje tussen zijn tanden, die doorbrak met dat keurige liedje Ritme van de regen. Maar met nummers als ..."
         },
         {
-          "title": "John van 't Schip (62) heeft heuglijk nieuws: 'We hebben het heel leuk samen!'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/john-van-t-schip-heeft-heuglijk-nieuws-we-hebben-het-leuk-samen",
-          "publishedDate": "Sun, 13 Sep 2026 14:29:00 GMT",
-          "description": "John van 't Schip heeft opnieuw geluk in de liefde. De bondscoach van Kazachstan heeft sinds juli een relatie met Natasha (50), zo vertelt zij aan Priv&#233;."
+          "title": "Rob de Nijs (1942-2025), een van Nederlands grootste zangers, streefde altijd naar perfectie: ‘Wat hij zingt, dat voel je ook’",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/opening/rob-de-nijs-1942-2025-een-van-nederlands-grootste-zangers-streefde-altijd-naar-perfectie-wat-hij-zingt-dat-voel-je-ook~b359edc4/",
+          "publishedDate": "Mon, 17 Mar 2025 07:06:00 GMT",
+          "description": "Als zijn vrouw Jet hem voor zijn allerlaatste concert in een rolstoel het podium opduwt, ziet Rob de Nijs er breekbaar uit. Maar dan zet zijn trouwe band het lied Pur Sang in en wordt de zanger ..."
         },
         {
-          "title": "Toptrainer John van 't Schip na overlijden van Dani&#235;lle weer verliefd: 'We kennen elkaar al veel langer'",
-          "source": "sportnieuws",
-          "url": "https://sportnieuws.nl/boulevard/nieuws/toptrainer-john-van-t-schip-na-overlijden-van-danielle-weer-verliefd-we-kennen-elkaar-al-veel-langer-2026091318251438451/",
-          "publishedDate": "Sun, 13 Sep 2026 13:43:00 GMT",
-          "description": "Het zijn mooie tijden voor John van 't Schip. De voetbaltrainer wordt over een aantal maanden opa. Dat maakte zijn dochter Estelle zondag bekend. Maar er was meer nieuws binnen de familie, want de ..."
+          "title": "Bijzondere vernoeming: zoon Robbert de Nijs draagt naam van opa Rob de Nijs",
+          "source": "Weekblad Party",
+          "url": "https://weekbladparty.nl/bijzondere-vernoeming-zoon-robbert-de-nijs-draagt-naam-van-opa-rob-de-nijs/",
+          "publishedDate": "Mon, 14 Sep 2026 12:46:00 GMT",
+          "description": "Mooi babynieuws voor Robbert de Nijs en zijn partner Sharon. De zoon van de in 2025 overleden zanger Rob de Nijs heeft een zoontje gekregen."
         },
         {
-          "title": "Estelle van 't Schip verwacht eerste kindje",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/estelle-van-t-schip-verwacht-eerste-kindje",
-          "publishedDate": "Sun, 13 Sep 2026 03:38:00 GMT",
-          "description": "Mooi nieuws voor Estelle van 't Schip (33) en haar vriend Sam Heringa: het stel verwacht hun eerste kindje. De dochter van John van 't Schip maakt het heugelijke nieuws bekend via Instagram."
+          "title": "Belinda Meuldijk noemt geboorte kleinzoon 'cadeau'",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/familie-en-relaties/ouderschap/belinda-meuldijk-noemt-geboorte-kleinzoon-cadeau/ar-AA2cdd4c",
+          "publishedDate": "Mon, 14 Sep 2026 10:57:26 GMT",
+          "description": "Belinda Meuldijk is blij met de geboorte van haar eerste kleinkind. Voorafgaand aan de Dutch Songwriters Wall of Fame-ceremonie in Beeld &amp; Geluid in Hilversum noemde ze het &quot;een cadeau&quot;."
         },
         {
-          "title": "John van ’t Schip (62), kersvers bondscoach van Kazachstan, waagt nieuwe poging en wil € 2 miljoen voor Gooische villa",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-nl/algemeen/algemeen/john-van-t-schip-62-kersvers-bondscoach-van-kazachstan-waagt-nieuwe-poging-en-wil-2-miljoen-voor-gooische-villa/ar-AA2ahk5w",
-          "publishedDate": "Mon, 17 Aug 2026 02:48:00 GMT",
-          "description": "John van ’t Schip is begonnen aan een nieuw hoofdstuk in zijn trainersloopbaan. De 62-jarige oud-international werd begin augustus officieel gepresenteerd als bondscoach van Kazachstan en bereidt zich ..."
-        }
-      ]
-    },
-    {
-      "keyword": "jacotte brokken",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Jacotte Brokken waarschuwt voor flinke weersverandering vanaf woensdag",
-          "source": "Redactie24",
-          "url": "https://www.redactie24.be/natuur-en-weer/jacotte-brokken-waarschuwt-voor-flinke-weersverandering-vanaf-woensdag-193584",
-          "publishedDate": "Sun, 13 Sep 2026 08:29:00 GMT",
-          "description": "Het weer maakt de komende week een duidelijke omslag. Maandag start de week nog grijs en lokaal mistig, waarna dinsdag opnieuw zomers warm en zonnig weer wordt verwacht. Vanaf woensdag gaat de tempera ..."
+          "title": "Pijnlijke uitspraak Rob de Nijs duikt op tijdens felle strijd",
+          "source": "Story",
+          "url": "https://www.story.nl/showbizz/uitspraak-rob-de-nijs-duikt-op~6d12913",
+          "publishedDate": "Wed, 09 Sep 2026 11:30:00 GMT",
+          "description": "Ruim een jaar na zijn dood is er veel onrust rond Rob de Nijs. Zijn eerdere woorden over zijn eigen einde krijgen daardoor een wrange, nieuwe betekenis."
         },
         {
-          "title": "Jacotte Brokken kondigt echte zomerdag aan: &quot;Nadien keldert de temperatuur&quot;",
-          "source": "Nieuws365",
-          "url": "https://www.nieuws365.be/weer/jacotte-brokken-kondigt-echte-zomerdag-aan-nadien-keldert-de-temperatuur",
-          "publishedDate": "Sun, 13 Sep 2026 01:59:00 GMT",
-          "description": "Wie de komende dagen op stabiel nazomerweer hoopt, zal nog even geduld moeten hebben. Volgens VRT-weervrouw Jacotte Brokken krijgen we eerst vooral veel wolken, regen en buien over ons heen. Toch zit."
+          "title": "Knallende ruzie Jet de Nijs met fanclub",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/knallende-ruzie-jet-de-nijs-met-fanclub",
+          "publishedDate": "Wed, 02 Sep 2026 05:20:00 GMT",
+          "description": "Het rommelt flink rond de nalatenschap van Rob de Nijs. Weduwe Jet lag al overhoop met zijn voormalige manager Frank Jansen."
         },
         {
-          "title": "Nepnieuws over zwangerschap Jacotte Brokken verspreidt zich razendsnel: &quot;Zelfs mijn moeder twijfelde&quot;",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/facebookpaginas-verspreiden-nepnieuws-over-zwangerschap-van-weervrouw-jacotte-brokken-zelfs-mijn-moeder-twijfelde/ar-AA29WIIe",
-          "publishedDate": "Wed, 12 Aug 2026 09:33:00 GMT",
-          "description": "&quot;Geen gynaecoloog wist het, maar het internet is er 100 procent zeker van: ik ben zwanger van een tweeling&quot;, lacht VRT NWS-weervrouw Jacotte Brokken. &quot;Dat ik een tweeling verwacht, klopt natuurlijk ..."
+          "title": "Weduwe Rob de Nijs keert zijn fanclub de rug toe",
+          "source": "Story",
+          "url": "https://www.story.nl/showbizz/weduwe-rob-de-nijs-keert-fanclub-rug-toe~a15b2f4",
+          "publishedDate": "Wed, 02 Sep 2026 01:00:00 GMT",
+          "description": "Jet, weduwe van Rob de Nijs, was vol lof over Facebook-fanclub van haar zingende echtgenoot. Wat is er voorgevallen dat Jet plotseling de fanclub heeft verlaten?"
         },
         {
-          "title": "Jacotte Brokken heeft last van pediofobie: “Als kind kreeg ik een crisis in het Modemuseum”",
-          "source": "HBvL",
-          "url": "https://www.hbvl.be/media-en-cultuur/bv-en-co/jacotte-brokken-heeft-last-van-pediofobie-als-kind-kreeg-ik-een-crisis-in-het-modemuseum/102873606.html",
-          "publishedDate": "Wed, 05 Nov 2025 12:13:00 GMT",
-          "description": "Jacotte Brokken hees zich voor The masked singer in het pak van Chateau. Een hele opdracht voor de weervrouw, want door haar deelname werd ze geregeld geconfronteerd met een grote angst: paspoppen."
-        },
-        {
-          "title": "Jacotte Brokken ontmaskerd in ‘The Masked Singer’: “Het eerste dat mijn mama zei? ‘Die Ch&#226;teau kan absoluut niet zingen’”",
-          "source": "HLN",
-          "url": "https://www.hln.be/showbizz/jacotte-brokken-ontmaskerd-in-the-masked-singer-het-eerste-dat-mijn-mama-zei-die-chateau-kan-absoluut-niet-zingen~a86615d3/",
-          "publishedDate": "Fri, 24 Oct 2025 18:09:00 GMT",
-          "description": "Na het flitsbezoek van Viktor Verhulst was het vrijdagavond Ch&#226;teau die haar masker moest afzetten in ‘The Masked Singer’. Weervrouw Jacotte Brokken (32) bleek in het kasteel te zitten. Een pak met ..."
-        },
-        {
-          "title": "Weervrouw Jacotte Brokken presenteert nu ook wetenschapsprogramma ‘Knappe koppen’: “Op mijn lijf geschreven”",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/media-en-cultuur/tv-en-radio/weervrouw-jacotte-brokken-presenteert-nu-ook-wetenschapsprogramma-knappe-koppen-op-mijn-lijf-geschreven/37627106.html",
-          "publishedDate": "Mon, 18 Nov 2024 19:00:00 GMT",
-          "description": "De eerste aflevering van Knappe koppen gaat woensdag van start met een beklijvende cold case over de moord op Ingrid Caeckaert, waarbij forensisch onderzoeker Sofie Claerhout in de kijker staat. Het ..."
-        },
-        {
-          "title": "Jacotte Brokken presenteert omstreden VRT-programma ‘Knappe koppen’",
-          "source": "Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/cnt/dmf20241105_92416438",
-          "publishedDate": "Mon, 04 Nov 2024 15:59:00 GMT",
-          "description": "VRT-weervrouw Jacotte Brokken presenteert eind deze maand ‘Knappe koppen’, de docureeks die tot een rel leidde op de Reyerslaan. De Vlaamse regering zou het omstreden programma hebben besteld. Vanaf ..."
-        },
-        {
-          "title": "Jacotte Brokken: ‘Ik heb de impact van de bekendheid geweldig onderschat’",
-          "source": "humo.be",
-          "url": "https://www.humo.be/nieuws/jacotte-brokken-ik-heb-de-impact-van-de-bekendheid-geweldig-onderschat~b38b1dce/",
-          "publishedDate": "Fri, 01 Nov 2024 05:00:00 GMT",
-          "description": "We ontmoeten Jacotte Brokken in een idyllisch ogend koffiehuisje in het Bospark in Lokeren. Een symbolische locatie, zo blijkt. Drie jaar geleden, in volle pandemie, gaf ze hier in bescheiden kring ..."
-        },
-        {
-          "title": "Jacotte Brokken: ‘Als ik me minder sterk voel, komt de haat op sociale media hard binnen’",
-          "source": "humo.be",
-          "url": "https://www.humo.be/tv/jacotte-brokken-als-ik-me-minder-sterk-voel-komt-de-haat-op-sociale-media-hard-binnen~bc1e856e/",
-          "publishedDate": "Mon, 16 Sep 2024 05:00:00 GMT",
-          "description": "BROKKEN &#171;In de kleuterklas was het vooral fysiek. Ik kwam ooit thuis van een verjaardagsfeestje met allemaal schrammen op mijn gezicht: een ander kind had keihard met een autootje op mijn gezicht ..."
-        },
-        {
-          "title": "Jacotte Brokken werd zwaar gepest op school: “Er is nog steeds een stem die zegt: ‘Ze haten je’”",
-          "source": "HLN",
-          "url": "https://www.hln.be/bv/jacotte-brokken-werd-zwaar-gepest-op-school-er-is-nog-steeds-een-stem-die-zegt-ze-haten-je~a1cacea5/",
-          "publishedDate": "Sun, 15 Sep 2024 19:57:00 GMT",
-          "description": "Jacotte Brokken (31) komt met een gloednieuwe podcast. In ‘Niemand vindt je leuk’ vertelt de VRT-weervrouw openhartig over haar jeugd, waarin ze zwaar werd gepest. Dit doet ze ter gelegenheid van de ..."
+          "title": "Overlijden Rob de Nijs klap voor de Nederlandse muziek: ‘Ik zou geen zanger weten die zo goed was als hij’",
+          "source": "AD",
+          "url": "https://www.ad.nl/show/overlijden-rob-de-nijs-klap-voor-de-nederlandse-muziek-ik-zou-geen-zanger-weten-die-zo-goed-was-als-hij~a7796e79/",
+          "publishedDate": "Mon, 17 Mar 2025 03:25:00 GMT",
+          "description": "Het overlijden van Rob de Nijs maandag maakt veel los in de Nederlandse muziekwereld. Zangeres Willeke Alberti is bijvoorbeeld te aangeslagen om te kunnen reageren. Duidelijk is dat De Nijs gemist zal ..."
         }
       ]
     },
@@ -268,18 +186,18 @@
           "description": "2025 wordt voor Horner zowel op professioneel als persoonlijk gebied een ontzettend belangrijk jaar. Na het mislopen van de constructeurstitel in 2024 is de teambaas erop gebrand om deze komend jaar ..."
         },
         {
-          "title": "Coulthard over Mekies en Verstappen: 'Goede chemie helpt Red Bull door transitie'",
-          "source": "Formule1nieuws.nl",
-          "url": "https://formule1nieuws.nl/nieuws/coulthard-over-mekies-en-verstappen-goede-chemie-helpt-red-bull-door-transitie/",
-          "publishedDate": "Mon, 31 Aug 2026 01:33:00 GMT",
-          "description": "Red Bull doorstaat een ongekende personeelsexodus, maar de samenwerking tussen teambaas Laurent Mekies en Max Verstappen zorgt voor stabiliteit. David Coulthard ziet hoe de Fransman zijn eigen stempel ..."
+          "title": "Coulthard hoorde bizar detail van Red Bull-medewerker: &quot;Dat was juist in het voordeel&quot;",
+          "source": "F1 Maximaal",
+          "url": "https://www.f1maximaal.nl/christian-horner",
+          "publishedDate": "Tue, 01 Sep 2026 17:00:00 GMT",
+          "description": "In al het kabaal, rivaliteit en commotie van de Formule 1, zijn het de coureurs die in de schijnwerpers staan, en bij overwinningen door de media worden geroemd voor hun kwaliteiten. Toch komt er bij ..."
         },
         {
           "title": "Horner officieel vertrokken bij Red Bull F1-team na regeling",
           "source": "Motorsport",
           "url": "https://nl.motorsport.com/f1/news/christian-horner-officieel-vertrokken-red-bull-f1-regeling/10761644/",
           "publishedDate": "Sun, 21 Sep 2025 22:57:00 GMT",
-          "description": "George Russell geeft F1-titel 2026 bijna op: “Ik denk niet dat ik meedoe om de titel” De 51-jarige Brit werd na de Grand Prix van Groot-Brittanni&#235; in juli al uit zijn functie als teambaas ontheven, ..."
+          "description": "Christian Horner heeft officieel afscheid genomen van Red Bulls Formule 1-organisatie, nadat hij een regeling over zijn vertrek heeft getroffen met het Oostenrijkse concern. De 51-jarige Brit werd na ..."
         },
         {
           "title": "Christian Horner keert mogelijk sneller dan verwacht terug in de Formule 1.",
@@ -321,6 +239,13 @@
           "url": "https://www.nrc.nl/nieuws/2022/03/22/de-lieveling-van-napels-doodskopje-met-de-oren-a4104261",
           "publishedDate": "Tue, 22 Mar 2022 14:32:00 GMT",
           "description": "Bijgeloof In Napels mengen geloof en bijgeloof zich tot een volkse religie. Dat dit niet zomaar folklore is, ontdekten vier jonge kunsthistorici in de ondergrondse begraafplaats van een onlangs ..."
+        },
+        {
+          "title": "Nederlander (36) weigert drinken af te rekenen in horecazaak Napels en ontploft: ‘Kom naar buiten!’",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/buitenland/nederlander-36-weigert-drinken-af-te-rekenen-in-horecazaak-napels-en-ontploft-kom-naar-buiten~a5b9b5c0/",
+          "publishedDate": "Sun, 13 Sep 2026 19:10:00 GMT",
+          "description": "Een 36-jarige Nederlander is in Napels opgepakt na een gewelddadige confrontatie bij een horecazaak. De man weigerde af te rekenen voor een paar blikjes Red Bull en flesjes water. Toen de eigenaar hem ..."
         },
         {
           "title": "Gezin-De Bruyne laat Manchester los: Napels vraagt tijd",
@@ -377,19 +302,12 @@
           "url": "https://marieclaire.nl/artikel/29991/napels-citytrip-italie",
           "publishedDate": "Sun, 29 Apr 2018 08:00:00 GMT",
           "description": "Vanaf het centrum is het een stukje lopen, maar dit kleine, romantische restaurantje is de wandeling meer dan waard. Je zit in een soort huiskamer – alsof je teruggaat in de tijd en in de jaren ..."
-        },
-        {
-          "title": "De bitterzoete liefde tussen Maradona en maffiastad Napels",
-          "source": "VICE",
-          "url": "https://www.vice.com/nl/article/de-bitterzoete-liefde-tussen-maradona-en-maffiastad-napels/",
-          "publishedDate": "Fri, 17 Feb 2017 03:53:00 GMT",
-          "description": "Maar er is natuurlijk een voorbeeld dat deze logica aan de kaak stelt: het verhaal van Diego Maradona en de stad Napels. Napels, het ongewenste kindje onder de Italiaanse steden. Maradona, de rebelse ..."
         }
       ]
     },
     {
       "keyword": "gasprijs",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "Stijgende olieprijs duwt Europese gasprijs door het dak: hoogste in jaren",
@@ -397,6 +315,13 @@
           "url": "https://www.nu.nl/economie/6409154/stijgende-olieprijs-duwt-europese-gasprijs-door-het-dak-hoogste-in-jaren.html",
           "publishedDate": "Wed, 09 Sep 2026 04:49:00 GMT",
           "description": "De prijs van een vat Brent-olie, de maatstaf voor olie uit Europa en het Midden-Oosten, is woensdagochtend gestegen naar meer dan 100 dollar. Daardoor is ook de Europese gasprijs op het hoogste niveau ..."
+        },
+        {
+          "title": "Gasprijs gaat door het dak, gasloze huishoudens lachen het laatst: &quot;15.000 euro bespaard&quot;",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/363416/gasprijs-gaat-door-het-dak-gasloze-huishoudens-lachen-het-laatst-15000-euro-bespaard",
+          "publishedDate": "Mon, 14 Sep 2026 09:45:00 GMT",
+          "description": "Energierekening stijgt 20 procent, maar Dirk Jan en Cecile uit Middenbeemster besparen dankzij gasvrij wonen al tien jaar duizenden euro's. Lees hun verhaal."
         },
         {
           "title": "Energie-update: Gasprijs meer dan twee keer zo hoog als v&#243;&#243;r uitbreken van Iranoorlog",
@@ -448,18 +373,239 @@
           "description": "Een stevig windje drukte de elektriciteitsprijzen de afgelopen tijd omlaag, vooral op zaterdag. Maandag komt de EPEX-dagprijs echter toch weer op 150 euro per megawattuur uit. De ..."
         },
         {
-          "title": "Gasprijs gaat deze winter waarschijnlijk sterk stijgen, ‘zet contract langer vast’",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/economie/10609748/gasprijs-gaat-deze-winter-waarschijnlijk-sterk-stijgen-zet-contract-langer-vast",
-          "publishedDate": "Mon, 07 Sep 2026 00:15:00 GMT",
-          "description": "‘Het is tegenstrijdig: het vuldoel terugschroeven, terwijl je weet dat er waarschijnlijk in de winter met een hoge gasvraag tekorten gaan komen.’ ..."
-        },
-        {
           "title": "Klimaatminister van Veldhoven waarschuwt voor hogere gasprijs: 'En er komt geen prijsgarantie vanuit de overheid'",
           "source": "WNL",
           "url": "https://wnl.tv/2026/09/06/klimaatminister-van-veldhoven-waarschuwt-voor-hogere-gasprijs-en-er-komt-geen-prijsgarantie",
           "publishedDate": "Sun, 06 Sep 2026 05:45:00 GMT",
           "description": "WNL plaatst Functionele cookies, om deze website naar behoren te laten functioneren en Analytische cookies waarmee wij het gebruik van de website kunnen meten. Deze cookies gebruiken geen persoonsgege ..."
+        }
+      ]
+    },
+    {
+      "keyword": "yves bissouma",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Ajax krijgt direct antwoord van Yves Bissouma (30)",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/ajax-krijgt-direct-antwoord-van-yves-bissouma-30/blt7aa392d8b0a6dc5b",
+          "publishedDate": "Mon, 14 Sep 2026 13:27:00 GMT",
+          "description": "Ajax heeft goede hoop dat het Yves Bissouma naar Amsterdam kan halen, zo meldt De Telegraaf. Volgens Mike Verweij is er weliswaar flinke concurrentie vanuit de Europese topvijfcompetities, maar lijkt ..."
+        },
+        {
+          "title": "Razendsnelle ontwikkelingen: Bissouma hard op weg naar Ajax",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/razendsnelle-ontwikkelingen-bissouma-hard-op-weg-naar-ajax/ar-AA2ccW9R",
+          "publishedDate": "Mon, 14 Sep 2026 13:03:00 GMT",
+          "description": "De ontwikkelingen volgen elkaar in rap tempo op. Waar De Telegraaf eerder op de maandagavond wist te melden dat Ajax 'goede hoop' heeft op de komst van Yves Bissouma, meldt ESPN dat de Amsterdammers ' ..."
+        },
+        {
+          "title": "Ajax heeft ondanks stevige concurrentie 'goede hoop' op komst Bissouma",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/ajax-heeft-ondanks-stevige-concurrentie-goede-hoop-op-komst-bissouma/ar-AA2ccEsb",
+          "publishedDate": "Mon, 14 Sep 2026 11:30:18 GMT",
+          "description": "Ajax heeft ondanks concurrentie uit de top-vijf-competities, goede hoop om Yves Bissouma binnen te halen, zo meldt De Telegraaf maandagavond. De dertigjarige middenvelder liep uit zijn contract bij To ..."
+        },
+        {
+          "title": "Ajax wil Yves Bissouma transfervrij halen: wat kan de middenvelder toevoegen?",
+          "source": "FootballTransfers",
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/09/is-yves-bissouma-de-versterking-op-het-middenveld-die-michel-zoekt",
+          "publishedDate": "Mon, 14 Sep 2026 11:01:00 GMT",
+          "description": "Ajax zou op de transfervrije markt uit zijn gekomen bij Yves Bissouma als aanwinst voor op het middenveld. M&#237;chel S&#225;nchez stelde al dat hij een ervaring in die linie toe wilde voegen, maar wat zegt de ..."
+        },
+        {
+          "title": "Hoe Bissouma 'iets speciaals' kan toevoegen bij Ajax",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/pro/hoe-bissouma-iets-speciaals-kan-toevoegen-bij-ajax",
+          "publishedDate": "Mon, 14 Sep 2026 11:01:00 GMT",
+          "description": "Na een tamelijk spectaculaire transferzomer met elf nieuwe spelers, is Ajax toch nog niet klaar. Technisch directeur Jordi Cruijff wil de transfervrije Yves Bissouma (30) naar Amsterdam halen. Waarom ..."
+        },
+        {
+          "title": "‘Ajax toont interesse in Yves Bissouma: ervaring krijgt voorrang in Amsterdam’",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/ajax-interesse-yves-bissouma-ervaring-amsterdam/",
+          "publishedDate": "Mon, 14 Sep 2026 08:41:00 GMT",
+          "description": "Ajax bekijkt de transfervrije Yves Bissouma als middenveldversterking, al moet de Malinese international nog volledig topfit raken."
+        },
+        {
+          "title": "Ervaren transfervrije middenvelder Yves Bissouma op weg naar Ajax",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/voetbal/ervaren-transfervrije-middenvelder-yves-bissouma-op-weg-naar-ajax~ad833ddc/",
+          "publishedDate": "Mon, 14 Sep 2026 05:49:00 GMT",
+          "description": "Ajax is hard op weg Yves Bissouma vast te leggen. De onderhandelingen met de transfervrije middenvelder bevinden zich in een vergevorderd stadium."
+        },
+        {
+          "title": "Ajax nog niet uitgewinkeld: 'Jordi Cruijff wil opnieuw stunten'",
+          "source": "vandaaginside",
+          "url": "https://www.vandaaginside.nl/sport/binnenlands-voetbal/ajax/artikelen/ajax-nog-niet-uitgewinkeld-jordi-cruijff-wil-opnieuw-stunten",
+          "publishedDate": "Mon, 14 Sep 2026 05:02:00 GMT",
+          "description": "De transfermarkt is inmiddels gesloten, maar Ajax lijkt nog altijd niet klaar op de transfermarkt. Volgens De Telegraaf heeft technisch directeur Jordi Cruijff zijn zinnen gezet op een opvallende deal ..."
+        },
+        {
+          "title": "Ajax nog niet klaar op de transfermarkt: ‘Jordi Cruijff meldt zich bij Yves Bissouma (30)’",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/09/14/ajax-nog-niet-klaar-op-de-transfermarkt-jordi-cruijff-meldt-zich-bij-yves-bissouma-30/",
+          "publishedDate": "Mon, 14 Sep 2026 04:10:00 GMT",
+          "description": "Ajax is nog altijd niet helemaal klaar op de transfermarkt. Hoewel de transferperiode inmiddels officieel is gesloten, blijft de Amsterdamse club kijken naar mogelijkheden om de selectie verder te ver ..."
+        },
+        {
+          "title": "Jordi Cruijff slaat slag: Yves Bissouma op weg naar Ajax",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/jordi-cruijff-slaat-slag-yves-bissouma-op-weg-naar-ajax",
+          "publishedDate": "Mon, 14 Sep 2026 01:02:00 GMT",
+          "description": "Ajax wil volgens bronnen proberen Yves Bissouma transfervrij vast te leggen. De middenvelder werd eind augustus al met de Amsterdammers in verband gebracht."
+        }
+      ]
+    },
+    {
+      "keyword": "oasis",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Oasis komt in juli naar Amsterdam met twee shows tijdens nieuwe tournee",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/muziek/6409738/oasis-komt-in-juli-naar-amsterdam-met-twee-shows-tijdens-nieuwe-tournee.html",
+          "publishedDate": "Mon, 14 Sep 2026 11:01:00 GMT",
+          "description": "Oasis treedt in juli 2027 op in de Johan Cruijff ArenA, delen de broers Liam en Noel Gallagher maandag op Instagram. De optredens zijn onderdeel van het tweede deel van de re&#252;nietour. Ook staan er sho ..."
+        },
+        {
+          "title": "Oasis volgend jaar juli twee keer naar Johan Cruijff Arena",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/kunst-media/oasis-volgend-jaar-juli-twee-keer-naar-johan-cruijff-arena~b5ce8827/",
+          "publishedDate": "Mon, 14 Sep 2026 10:25:00 GMT",
+          "description": "De Britse rockband Oasis speelt op 16 en 17 juli volgend jaar in de Johan Cruijff Arena. De optredens horen bij het tweede deel van de re&#252;nietournee van de broers Liam en Noel Gallagher."
+        },
+        {
+          "title": "Band Oasis kondigt nieuwe tour aan, ook optredens in Amsterdam",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2630985-band-oasis-kondigt-nieuwe-tour-aan-ook-optredens-in-amsterdam",
+          "publishedDate": "Mon, 14 Sep 2026 08:54:00 GMT",
+          "description": "In totaal heeft de band 38 optredens aangekondigd, van mei tot september 2027. De meeste concerten staan gepland in grote stadions in onder meer Manchester, M&#252;nchen, Parijs en Boston. Fans kunnen zich ..."
+        },
+        {
+          "title": "Oasis na 18 jaar terug in Nederland: twee shows in Amsterdam tijdens nieuwe tournee",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/oasis-na-18-jaar-terug-in-nederland-twee-shows-in-amsterdam-tijdens-nieuwe-tournee~a17f16b3/",
+          "publishedDate": "Mon, 14 Sep 2026 02:02:00 GMT",
+          "description": "Het zat er al een tijdje aan te komen, maar inmiddels is het ook officieel. Liam (53) en Noel Gallagher (59) gaan volgend jaar opnieuw op tournee met hun band Oasis. De twee broers, die hun nieuwe tou ..."
+        },
+        {
+          "title": "Oasis 2027 tour: Knebworth, Manchester en Glasgow bevestigd",
+          "source": "amigoearuba.com",
+          "url": "https://amigoearuba.com/oasis-2027-tour-knebworth-manchester-en-glasgow-bevestigd/",
+          "publishedDate": "Mon, 14 Sep 2026 11:27:00 GMT",
+          "description": "Oasis keert in de zomer van 2027 terug met een tweede tourneeleg, inclusief vier nachten in Knebworth, elf shows in Manchester en vijf concerten in Glasgow."
+        },
+        {
+          "title": "Oasis twee keer te zien in Johan Cruijff ArenA in juli 2027",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/oasis-twee-keer-te-zien-in-johan-cruijff-arena-in-juli-2027",
+          "publishedDate": "Mon, 14 Sep 2026 10:40:00 GMT",
+          "description": "Oasis geeft op 16 en 17 juli 2027 twee shows in de Johan Cruijff ArenA. De Britse band gaat volgend jaar opnieuw touren met Oasis Live '27, melden ze in een persbericht. In totaal heeft Oasis 38 lives ..."
+        },
+        {
+          "title": "Oasis kondigt wereldtour aan: Belgi&#235; niet op de kalender, Nederland en Frankrijk wel",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/14/oasis-nieuwe-tour/",
+          "publishedDate": "Mon, 14 Sep 2026 08:19:00 GMT",
+          "description": "De Britse band Oasis zal voor het eerst sinds 2009 opnieuw optreden op het Europese vasteland. Vorig jaar legden de broers-Gallagher hun jarenlange vete bij en traden ze al op in het Verenigd Koninkri ..."
+        },
+        {
+          "title": "Nieuwe Europese tournee voor Oasis in 2027 met twee concerten in Johan Cruijff Arena",
+          "source": "Podiuminfo",
+          "url": "https://www.podiuminfo.nl/news/59325/Nieuwe-Europese-tournee-voor-Oasis-in-2027-met-twee-concerten-in-Johan-Cruijff-Arena/",
+          "publishedDate": "Mon, 14 Sep 2026 07:54:00 GMT",
+          "description": "Oasis trekt in de zomer van 2027 naar het Europese vasteland voor een reeks grote stadionconcerten. De band rond de broers Noel en Liam Gallagher ..."
+        },
+        {
+          "title": "Oasis naar Johan Cruijff Arena",
+          "source": "Maxazine",
+          "url": "https://www.maxazine.nl/2026/09/14/oasis-naar-johan-cruijff-arena/",
+          "publishedDate": "Mon, 14 Sep 2026 06:43:00 GMT",
+          "description": "De geruchten gingen al een tijdje, maar vandaag maakte de band Oasis bekend dat ze volgend jaar weer door Europa gaan touren. Hierbij zullen ze ook optreden in de Johan Cruijff Arena in Amsterdam. Het ..."
+        },
+        {
+          "title": "Oasis kondigt nieuwe tournee aan: geen concert in Belgi&#235;, in deze steden kan je ze wel zien",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/muziek/oasis-kondigt-nieuwe-tournee-aan-geen-concert-in-belgie-in-deze-steden-kan-je-ze-wel-zien~a17f16b3/",
+          "publishedDate": "Mon, 14 Sep 2026 02:14:00 GMT",
+          "description": "Het zat er al een tijdje aan te komen, maar inmiddels is het ook officieel. Liam (53) en Noel Gallagher (59) gaan volgend jaar opnieuw op tournee met hun band Oasis. De twee broers, die hun nieuwe tou ..."
+        }
+      ]
+    },
+    {
+      "keyword": "prinsjesdag 2026",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Op Prinsjesdag zijn er petitfourtjes bij de PVV",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/09/14/op-prinsjesdag-zijn-er-petitfourtjes-bij-de-pvv-a4936602",
+          "publishedDate": "Mon, 14 Sep 2026 12:50:00 GMT",
+          "description": "Het nichtje van 50Plus-Tweede Kamerlid Corrie van Brenk – Alisa, 16 jaar – wil op de foto met Jimmy Dijk van de SP. En deze Prinsjesdag kan dat, ze gaat als gast van Van Brenk mee naar de Troonrede. C ..."
+        },
+        {
+          "title": "Prinsjesdag 2026 in Den Haag: deze straten gaan dicht en zo kom je w&#233;l in de binnenstad",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/den-haag/prinsjesdag-2026-in-den-haag-deze-straten-gaan-dicht-en-zo-kom-je-wel-in-de-binnenstad~adc37a8b/",
+          "publishedDate": "Thu, 10 Sep 2026 05:00:00 GMT",
+          "description": "Den Haag maakt zich op voor Prinsjesdag 2026. Op dinsdag 15 september rijdt de Glazen Koets door de stad. Dat betekent: veel mensen op de been en omleidingen. Welke straten gaan dicht en kun je nog we ..."
+        },
+        {
+          "title": "Prinsjesdag in Den Haag: alles over het programma, afgesloten wegen en parkeren",
+          "source": "Omroep West",
+          "url": "https://www.omroepwest.nl/cultuur/5147516/prinsjesdag-in-den-haag-alles-over-het-programma-afgesloten-wegen-en-parkeren",
+          "publishedDate": "Mon, 14 Sep 2026 01:00:00 GMT",
+          "description": "Van de rijtoer en de balkonsc&#232;ne tot afgesloten wegen en parkeergarages: elke derde dinsdag van september zorgt Prinsjesdag weer voor een hoop leven in de brouwerij in Den Haag. In dit artikel lees je ..."
+        },
+        {
+          "title": "Prinsjesdag 2026: Dit zijn route Glazen Koets en omleidingen",
+          "source": "Den Haag FM",
+          "url": "https://www.denhaagfm.nl/dhfm/5148111/prinsjesdag-2026-dit-zijn-route-glazen-koets-en-omleidingen",
+          "publishedDate": "Sun, 13 Sep 2026 23:00:00 GMT",
+          "description": "Een glimp van de koning en koningin opvangen of op tijd op je werk komen: Prinsjesdag vraagt voor allebei wat voorbereiding. De Glazen Koets rijdt dinsdag 15 september door de binnenstad. Den Haag FM ..."
+        },
+        {
+          "title": "Prinsjesdag 2026: dit betekent het gelekte begrotingsakkoord voor klimaat en stikstof",
+          "source": "Duurzaamnieuws.nl",
+          "url": "https://www.duurzaamnieuws.nl/prinsjesdag-2026-dit-betekent-het-gelekte-begrotingsakkoord-voor-klimaat-en-stikstof/",
+          "publishedDate": "Sun, 13 Sep 2026 02:04:00 GMT",
+          "description": "Dinsdag 15 september is het weer Prinsjesdag. Zoals wel vaker liggen delen van de Miljoenennota al op straat, nadat RTL Nieuws de stukken voor de begroting van 2027 in handen kreeg. Voor het klimaatbe ..."
+        },
+        {
+          "title": "Prinsjesdag 2026: koopkrachtcijfers gelekt, hogere arbeidskorting, toch in de min",
+          "source": "Salaris Vanmorgen",
+          "url": "https://www.salarisvanmorgen.nl/2026/09/12/prinsjesdag-2026-koopkrachtcijfers-gelekt-hogere-arbeidskorting-toch-in-de-min/",
+          "publishedDate": "Sat, 12 Sep 2026 01:06:00 GMT",
+          "description": "Werkenden krijgen meer arbeidskorting in 2027, maar toch gaan ze er op achteruit met 0,2 procent, zo blijkt uit gelekte koopkrachtcijfers."
+        },
+        {
+          "title": "Prinsjesdag 2026: dit kunnen ondernemers verwachten",
+          "source": "De Zaak",
+          "url": "https://www.dezaak.nl/juridisch/wet-regelgeving/prinsjesdag-2026-dit-kunnen-ondernemers-verwachten/",
+          "publishedDate": "Tue, 08 Sep 2026 22:59:00 GMT",
+          "description": "Op dinsdag 15 september is het Prinsjesdag. Dan presenteert het kabinet het Belastingplan 2027. Voor ondernemers zitten daar naar verwachting flinke veranderingen tussen. Van een hogere energie-invest ..."
+        },
+        {
+          "title": "Prinsjesdag 2026",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/thema/prinsjesdag-2026",
+          "publishedDate": "Mon, 07 Sep 2026 09:36:00 GMT",
+          "description": "Op dinsdag 15 september 2026 is het Prinsjesdag. Koning Willem-Alexander spreekt de Troonrede uit en het kabinet presenteert de plannen en begroting voor het komende jaar. Hier houden we je op de ..."
+        },
+        {
+          "title": "Prinsjesdag: Dit kan HR verwachten, maar plannen 2027 onzeker",
+          "source": "Personeelsnet",
+          "url": "https://www.personeelsnet.nl/bericht/prinsjesdag-dit-kan-hr-verwachten-maar-plannen-2027-onzeker",
+          "publishedDate": "Mon, 07 Sep 2026 06:24:00 GMT",
+          "description": "Het kabinet presenteert volgende week dinsdag op Prinsjesdag een begroting waarin de verlaging van het maximumdagloon niet doorgaat en de halvering van de maximale WW-duur wordt uitgesteld. Belangrijk ..."
+        },
+        {
+          "title": "Plannen Prinsjesdag 2026 voor de loonheffingen",
+          "source": "Rendement Uitgeverij",
+          "url": "https://www.rendement.nl/prinsjesdag/nieuws/plannen-prinsjesdag-2026-voor-de-loonheffingen.html",
+          "publishedDate": "Mon, 07 Sep 2026 00:45:00 GMT",
+          "description": "Welke plannen voor de loonheffingen kunnen werkgevers op Prinsjesdag 2026 verwachten? Er is al het &#233;&#233;n en ander bekend, zoals afschaffing van de korting voor producten uit eigen bedrijf en verhoging v ..."
         }
       ]
     },
@@ -503,6 +649,13 @@
           "description": "De Amerikaanse actrice Hayden Panettiere overleed in augustus mogelijk als gevolg van een pijnstiller die was vervuild met fentanyl, meldt entertainmentwebsite TMZ op basis van bronnen met directe ken ..."
         },
         {
+          "title": "Beelden tonen hoe ex-vriend van overleden actrice Hayden Panettiere op straat wordt gezet na ruzie op caf&#233;",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/celebrities/beelden-tonen-hoe-ex-vriend-van-overleden-actrice-hayden-panettiere-op-straat-wordt-gezet-na-ruzie-op-cafe~a5106960/",
+          "publishedDate": "Mon, 14 Sep 2026 03:59:00 GMT",
+          "description": "Brian Hickerson (37), de ex-vriend van Hayden Panettiere, heeft het afgelopen weekend bont gemaakt in een caf&#233;. Op beelden is onder meer te zien hoe Hickerson zich agressief gedraagt. Het nieuws komt ..."
+        },
+        {
           "title": "Courteney Cox prijst overleden actrice Hayden Panettiere",
           "source": ".ANP on MSN",
           "url": "https://www.msn.com/nl-nl/entertainment/nieuws/courteney-cox-prijst-overleden-actrice-hayden-panettiere/ar-AA2c9XSZ",
@@ -515,13 +668,6 @@
           "url": "https://www.hln.be/celebrities/nieuwe-details-over-dood-hayden-panettiere-36-een-vervuilde-pijnstiller-werd-haar-fataal~ac13b807/",
           "publishedDate": "Sun, 13 Sep 2026 21:20:00 GMT",
           "description": "Er is mogelijk meer duidelijkheid over de dood van Hayden Panettiere. De Amerikaanse actrice zou op de dag van haar &lt;a href=&quot;https://www.hln.be/celebrities/hayden-panettiere-bekend-van-scream-en-heroe ..."
-        },
-        {
-          "title": "Oproep naar hulpdiensten onthult mogelijke overdosis voor overlijden Hayden Panettiere (36): reanimatie mocht niet meer baten",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/celebrities/oproep-naar-hulpdiensten-onthult-mogelijke-overdosis-voor-overlijden-hayden-panettiere-36-reanimatie-mocht-niet-meer-baten~acc12ec0/",
-          "publishedDate": "Tue, 18 Aug 2026 00:51:00 GMT",
-          "description": "Hulpverleners hebben de Amerikaanse actrice Hayden Panettiere &lt;a href=&quot;https://www.hln.be/celebrities/hayden-panettiere-bekend-van-scream-en-heroes-op-36-jarige-leeftijd-overleden-hulpverleners-sprake ..."
         },
         {
           "title": "Celebrities brengen massaal een eerbetoon aan de overleden actrice Hayden Panettiere",
@@ -540,154 +686,78 @@
       ]
     },
     {
-      "keyword": "yves bissouma",
-      "trafficLabel": "5K+",
+      "keyword": "ferry doedens",
+      "trafficLabel": "2K+",
       "articles": [
         {
-          "title": "‘Ajax toont interesse in Yves Bissouma: ervaring krijgt voorrang in Amsterdam’",
-          "source": "voetbalfocus",
-          "url": "https://voetbalfocus.be/ajax-interesse-yves-bissouma-ervaring-amsterdam/",
-          "publishedDate": "Mon, 14 Sep 2026 08:41:00 GMT",
-          "description": "Ajax bekijkt de transfervrije Yves Bissouma als middenveldversterking, al moet de Malinese international nog volledig topfit raken."
+          "title": "Belastingdienst legt beslag op huis Ferry Doedens vanwege schulden",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/achterklap/6409745/belastingdienst-legt-beslag-op-huis-ferry-doedens-vanwege-schulden.html",
+          "publishedDate": "Mon, 14 Sep 2026 12:30:00 GMT",
+          "description": "De Belastingdienst heeft beslag gelegd op het huis van Ferry Doedens, meldt RTL Boulevard donderdag. De ster, bekend van Goede Tijden, Slechte Tijden, kampt al langere tijd met verslavingsproblemen en ..."
         },
         {
-          "title": "‘Jordi Cruijff gaat nog eens voor stunttransfer’",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/jordi-cruijff-gaat-nog-eens-voor-stunttransfer/",
-          "publishedDate": "Mon, 14 Sep 2026 07:20:00 GMT",
-          "description": "Jordi Cruijff lijkt nog een transfer te willen realiseren. De technisch directeur mikt nog op een transfervrije middenvelder."
+          "title": "Belastingdienst legt beslag op het huis van Ferry Doedens",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/belastingdienst-legt-beslag-op-het-huis-van-ferry-doedens/ar-AA2ccbSi",
+          "publishedDate": "Mon, 14 Sep 2026 09:06:54 GMT",
+          "description": "De financi&#235;le problemen van Ferry Doedens (36) zijn nog groter dan gedacht. De Belastingdienst heeft beslag gelegd op het huis van acteur. Dat blijkt uit onderzoek van RTL Boulevard."
         },
         {
-          "title": "Jordi Cruijff wil stunten met komst Yves Bissouma naar Ajax",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/ajax-jordi-cruijff-yves-bissouma-transfer",
-          "publishedDate": "Mon, 14 Sep 2026 07:04:00 GMT",
-          "description": "Ajax wil volgens bronnen proberen Yves Bissouma transfervrij vast te leggen. De middenvelder werd eind augustus al met de Amsterdammers in verband gebracht."
+          "title": "'Ernstige situatie' rond Ferry Doedens na beslaglegging woning: 'Flinke klap'",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/video/35dbdd0b-233d-47a3-b83c-e222cfc864e0/ernstige-situatie-rond-ferry-doedens-na",
+          "publishedDate": "Sun, 13 Sep 2026 17:00:00 GMT",
+          "description": "In de documentaire 'Ferry Lost' is te zien hoe Ferry Doedens (36) zijn leven op de rit probeert te krijgen. Zijn verslaving aan onder meer crypto en oplopende schulden zorgen voor grote zorgen bij zij ..."
         },
         {
-          "title": "Ajax denkt aan transfervrije Bissouma",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/ajax-denkt-aan-transfervrije-bissouma/ar-AA2cbm6Q",
-          "publishedDate": "Mon, 14 Sep 2026 05:45:00 GMT",
-          "description": "Ajax probeert twee weken na het sluiten van de transferwindow toch nog een nieuwe middenvelder te halen. De transfervrije Yves Bissouma (30) is in beeld."
+          "title": "Acteur Ferry Doedens diep in de financi&#235;le problemen: woning onder beslag",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/sterren/acteur-ferry-doedens-diep-in-de-financiele-problemen-woning-onder-beslag",
+          "publishedDate": "Mon, 14 Sep 2026 13:15:00 GMT",
+          "description": "Ferry Doedens heeft flinke geldproblemen blijkt uit onderzoek van RTL Boulevard. De Belastingdienst heeft (executoriaal) beslag gelegd op het huis van de (voormalig GTST-)acteur."
         },
         {
-          "title": "Ajax-fans staan versteld: 'Meteen &#233;&#233;n van de beste van de Eredivisie'",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/ajax-fans-staan-versteld-meteen-%C3%A9%C3%A9n-van-de-beste-van-de-eredivisie/ar-AA2cbgWI",
-          "publishedDate": "Mon, 14 Sep 2026 05:26:16 GMT",
-          "description": "Ajax-fans zijn compleet verrast door het nieuws dat Yves Bissouma in beeld is. Jordi Cruijff hoopt te stunten met de komst van de dertigjarige middenvelder, die transfervrij is na zijn vertrek bij Tot ..."
+          "title": "Zorgen om Ferry Doedens nemen toe: Belastingdienst legt beslag op woning",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/belastingdienst-beslag-woning-ferry-doedens-veiling",
+          "publishedDate": "Mon, 14 Sep 2026 10:19:00 GMT",
+          "description": "De zorgen om Ferry Doedens nemen toe. Nadat bekend werd dat de Vereniging van Eigenaren beslag legt op zijn woning, doet de Belastingdienst dat nu ook."
         },
         {
-          "title": "Ajax nog niet uitgewinkeld: 'Jordi Cruijff wil opnieuw stunten'",
-          "source": "vandaaginside",
-          "url": "https://www.vandaaginside.nl/sport/binnenlands-voetbal/ajax/artikelen/ajax-nog-niet-uitgewinkeld-jordi-cruijff-wil-opnieuw-stunten",
-          "publishedDate": "Mon, 14 Sep 2026 05:02:00 GMT",
-          "description": "De transfermarkt is inmiddels gesloten, maar Ajax lijkt nog altijd niet klaar op de transfermarkt. Volgens De Telegraaf heeft technisch directeur Jordi Cruijff zijn zinnen gezet op een opvallende deal ..."
+          "title": "Buren zijn Ferry Doedens zat: dreigen hem op straat te zetten",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/buren-zijn-ferry-doedens-zat-dreigen-hem-op-straat-te-zetten",
+          "publishedDate": "Mon, 07 Sep 2026 03:28:00 GMT",
+          "description": "Nieuwe problemen voor Ferry Doedens. De Vereniging van Eigenaren zou al langere tijd op geld van de voormalig GTST-acteur wachten."
         },
         {
-          "title": "Cruijff is niet uitgeraasd: Ajax gaat voor komst van Yves Bissouma",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/cruijff-is-niet-uitgeraasd-ajax-gaat-voor-komst-van-yves-bissouma/ar-AA2cbobm",
-          "publishedDate": "Mon, 14 Sep 2026 04:59:25 GMT",
-          "description": "Jordi Cruijff wil toch nog een keer toeslaan op de transfermarkt met Ajax. De technisch directeur wil stunten met de komst van Yves Bissouma, die transfervrij is na zijn vertrek bij Tottenham Hotspur ..."
+          "title": "Ferry Doedens toch in beroep tegen boete, vanwege onduidelijkheid over rijbewijs",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/ferry-doedens-toch-in-beroep-tegen-boete-vanwege-onduidelijkheid-over-rijbewijs~ab0e5439/",
+          "publishedDate": "Wed, 03 Jun 2026 01:35:00 GMT",
+          "description": "Ferry Doedens heeft toch hoger beroep aangetekend tegen de boete van 800 euro die hij op 13 mei kreeg wegens rijden onder invloed van drugs. Zijn advocaat Kerem Canatan zegt dat het beroep vooral is a ..."
         },
         {
-          "title": "Ajax nog niet klaar op de transfermarkt: ‘Jordi Cruijff meldt zich bij Yves Bissouma (30)’",
-          "source": "Voetbal4u",
-          "url": "https://www.voetbal4u.com/2026/09/14/ajax-nog-niet-klaar-op-de-transfermarkt-jordi-cruijff-meldt-zich-bij-yves-bissouma-30/",
-          "publishedDate": "Mon, 14 Sep 2026 02:36:00 GMT",
-          "description": "Ajax is nog altijd niet helemaal klaar op de transfermarkt. Hoewel de transferperiode inmiddels officieel is gesloten, blijft de Amsterdamse club kijken naar mogelijkheden om de selectie verder te ver ..."
+          "title": "Ferry Doedens moet zijn taakstraf even onderbreken om w&#233;&#233;r voor de rechter te verschijnen",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/show/ferry-doedens-moet-zijn-taakstraf-even-onderbreken-om-weer-voor-de-rechter-te-verschijnen~a6ec5ec2/?slug_rd=1",
+          "publishedDate": "Mon, 11 May 2026 17:33:00 GMT",
+          "description": "Doedens werd in 2024 drie keer betrapt met drugs op achter het stuur. Voor de eerste twee keer stond hij in februari 2025 al terecht. Voor de derde keer dat hij werd betrapt, in juni 2024 in ..."
         },
         {
-          "title": "Ajax wil Yves Bissouma transfervrij halen: wat kan de middenvelder toevoegen?",
-          "source": "FootballTransfers",
-          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/09/is-yves-bissouma-de-versterking-op-het-middenveld-die-michel-zoekt",
-          "publishedDate": "Sun, 13 Sep 2026 21:01:00 GMT",
-          "description": "Ajax zou op de transfervrije markt uit zijn gekomen bij Yves Bissouma als aanwinst voor op het middenveld. M&#237;chel S&#225;nchez stelde al dat hij een ervaring in die linie toe wilde voegen, maar wat zegt de ..."
+          "title": "NU+ Ferry Doedens ontkent verslaving in docu: 'Je maakt het groter dan het is'",
+          "source": "NU",
+          "url": "https://www.nu.nl/media/6386291/ferry-doedens-ontkent-verslaving-in-docu-je-maakt-het-groter-dan-het-is.html",
+          "publishedDate": "Mon, 16 Feb 2026 08:28:00 GMT",
+          "description": "De documentaire Ferry Lost maakt duidelijk hoe onstuimig het leven van acteur Ferry Doedens de afgelopen jaren was. Voor de docureeks volgde een cameraploeg hem twee jaar lang. Daarin worstelt Doedens ..."
         },
         {
-          "title": "‘Juventus praat met Yves Bissouma na vertrek bij Tottenham’",
-          "source": "voetbalfocus",
-          "url": "https://voetbalfocus.be/juventus-praat-met-yves-bissouma/",
-          "publishedDate": "Mon, 31 Aug 2026 07:33:00 GMT",
-          "description": "Volgens La Gazzetta dello Sport is Juventus momenteel in gesprek met Bissouma over een mogelijk dienstverband. De 29-jarige Ivoriaan kwam vorig seizoen nog uit voor Tottenham Hotspur, maar zijn ..."
-        }
-      ]
-    },
-    {
-      "keyword": "school",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Loting voor middelbare school in Amsterdam is een oneerlijk systeem, zegt deze UvA-onderzoeker: ‘Liegen over je voorkeur kan lonen’",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/loting-voor-middelbare-school-in-amsterdam-is-een-oneerlijk-systeem-zegt-deze-uva-onderzoeker-liegen-over-je-voorkeur-kan-lonen~b23d962de/",
-          "publishedDate": "Wed, 09 Sep 2026 20:00:00 GMT",
-          "description": "In Amsterdam worden achtstegroepers via loting geplaatst op een middelbare school. Deze Centrale Loting en Matching werkt strategisch kiezen in de hand, en dat is oneerlijk, stelt Mayesha Tasnim (35), ..."
-        },
-        {
-          "title": "Steeds vaker spanning tussen ouders en school, vooral over passende plek zorgleerling",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/steeds-vaker-spanning-tussen-ouders-en-school-vooral-over-passende-plek-zorgleerling",
-          "publishedDate": "Sat, 12 Sep 2026 06:35:00 GMT",
-          "description": "Volgens Gerdien Lassche van de Reformatorische Oudervereniging zijn veel conflicten tussen school en ouders te voorkomen."
-        },
-        {
-          "title": "Jaloers op de jeugd van mijn eigen kind: ‘Wij hadden nauwelijks plezier op school’",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/lezerscolumn/2026/09/lezerscolumn-school-jaloers-op-de-jeugd-van-mijn-eigen-kind/",
-          "publishedDate": "Thu, 10 Sep 2026 01:00:00 GMT",
-          "description": "De rentree van school heeft altijd effect gehad op mijn leven. Het was voor mij nooit zomaar het begin van een nieuw schooljaar, maar altijd een periode ..."
-        },
-        {
-          "title": "Kinderen durven door racistische beledigingen niet naar school, stelt Hart voor Den Haag",
-          "source": "Waterkant.net",
-          "url": "https://www.waterkant.net/suriname/2026/09/10/kinderen-durven-door-racistische-beledigingen-niet-naar-school-stelt-hart-voor-den-haag/",
-          "publishedDate": "Thu, 10 Sep 2026 00:00:00 GMT",
-          "description": "Surinaams-Hindoestaanse leerlingen op Haagse scholen worden vanwege hun afkomst uitgescholden en gepest, waarbij sommige kinderen volgens hun ouders niet ..."
-        },
-        {
-          "title": "Met sloep over het Amsterdamse IJ naar school tijdens ov-staking",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/met-sloep-over-het-amsterdamse-ij-naar-school-tijdens-ov-staking",
-          "publishedDate": "Wed, 09 Sep 2026 02:45:00 GMT",
-          "description": "Om tijdens de landelijke ov-staking toch op tijd op school te komen, zijn kinderen vanuit Amsterdam-Noord met een sloep over het IJ gevaren. Fons van de Kar meerde om 08.15 uur met een handjevol kinde ..."
-        },
-        {
-          "title": "School Almere dicht om ‘onveilige situatie’: politie sluit misdrijf uit",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/almere/school-almere-dicht-om-onveilige-situatie-politie-sluit-misdrijf-uit~a7a54ca8/",
-          "publishedDate": "Tue, 08 Sep 2026 01:41:00 GMT",
-          "description": "Een school voor voortgezet speciaal onderwijs in Almere is dinsdag gesloten door de directie. De reden zou een ‘onveilige, risicovolle situatie’ zijn. Wat er precies gaande is, is niet duidelijk. Volg ..."
-        },
-        {
-          "title": "Middelbare school cancelt trip nadat 72 scholieren laveloos door Praag wandelen",
-          "source": "PowNed",
-          "url": "https://www.powned.tv/article/middelbare-school-cancelt-trip-nadat-72-scholieren-laveloos-door-praag-wandelen~6540/",
-          "publishedDate": "Wed, 02 Sep 2026 17:00:00 GMT",
-          "description": "De vijfdeklassers van het H.N. Werkman Stadslyceum waren deze week in Praag voor zoals dat pedagogisch verantwoord heet 'culturele en sociale activiteiten'. Vooraf was duidelijk afgesproken dat drinke ..."
-        },
-        {
-          "title": "Word jij een Student op School?",
-          "source": "Universiteit Utrecht",
-          "url": "https://www.uu.nl/onderwijs/student-op-school",
-          "publishedDate": "Tue, 23 Jun 2026 06:46:00 GMT",
-          "description": "Heb jij een hart voor onderwijs en lijkt het je leuk om na de zomervakantie aan de slag te gaan op een middelbare school in de regio Utrecht? Meld je dan aan voor de Student op School Studentenpool ..."
-        },
-        {
-          "title": "Mag een school voor voortgezet onderwijs mijn kind schorsen of van school sturen?",
-          "source": "Rijksoverheid",
-          "url": "https://www.rijksoverheid.nl/vraag-en-antwoord/voortgezet-onderwijs/mag-een-school-voor-voortgezet-onderwijs-mijn-kind-schorsen-of-van-school-sturen",
-          "publishedDate": "Thu, 31 Jul 2014 00:31:00 GMT",
-          "description": "Een middelbare school mag uw kind maximaal een week schorsen. Uw kind heeft dan tijdelijk geen toegang tot de school of tot bepaalde lessen. Een school mag uw kind ook van school sturen. Schorsen en ..."
-        },
-        {
-          "title": "Hoe lang moet een school gemaakte examens bewaren?",
-          "source": "Rijksoverheid",
-          "url": "https://www.rijksoverheid.nl/vraag-en-antwoord/voortgezet-onderwijs/hoe-lang-moet-een-school-examenmateriaal-bewaren",
-          "publishedDate": "Wed, 30 Jul 2014 07:00:00 GMT",
-          "description": "Een school moet het werk van het centraal examen bewaren tot minimaal 6 maanden na de uitslag. Dit geldt ook voor de bijbehorende cijferlijst en de opgaven die de leerling gebruikte. Voor ..."
+          "title": "Gaat een documentaire over Ferry Doedens te ver? Een reality-tv-psycholoog geeft antwoord",
+          "source": "Cosmopolitan",
+          "url": "https://www.cosmopolitan.com/nl/entertainment/a70343017/ferry-doedens-documentaire-kritiek-trailer/",
+          "publishedDate": "Fri, 13 Feb 2026 03:54:00 GMT",
+          "description": "De trailer van de nieuwe documentaire over Ferry Doedens is nog maar net uit, en online wordt er al volop over gepraat. Veel kijkers noemen de beelden 'heftig', 'ongemakkelijk' en zelfs 'shocking'."
         }
       ]
     }
