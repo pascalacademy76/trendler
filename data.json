@@ -1,321 +1,10 @@
 {
-  "fetchedAt": "2026-09-15T02:50:41.093Z",
+  "fetchedAt": "2026-09-15T08:16:42.829Z",
   "trends": [
     {
-      "keyword": "phishing",
+      "keyword": "verkeersboete",
       "trafficLabel": "20K+",
       "articles": [
-        {
-          "title": "Bijna tien keer zoveel meldingen over phishingmails rond boekingssites",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6408754/bijna-tien-keer-zoveel-meldingen-over-phishingmails-rond-boekingssites.html",
-          "publishedDate": "Sat, 05 Sep 2026 10:03:00 GMT",
-          "description": "De Fraudehelpdesk heeft in het afgelopen half jaar een forse stijging van het aantal nepmails rond online boekingsplatforms vastgesteld. Er komen voornamelijk veel meldingen over phishing rond Booking ..."
-        },
-        {
-          "title": "Microsoft waarschuwt voor telefonische phishingaanvallen over passkeys",
-          "source": "Security.NL",
-          "url": "https://www.security.nl/posting/952963/Microsoft+waarschuwt+voor+telefonische+phishingaanvallen+over+passkeys",
-          "publishedDate": "Mon, 14 Sep 2026 09:46:00 GMT",
-          "description": "Microsoft waarschuwt organisaties voor telefonische phishingaanvallen waarbij personeel op hun priv&#233;nummer wordt gebeld door aanvallers. Eerder kwam ook Google met een soortgelijke waarschuwing. Bij d ..."
-        },
-        {
-          "title": "Pas op voor deze slimme phishingtruc: de nepsite verschijnt pas in je eigen browser",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/samenleving/pas-op-voor-deze-slimme-phishingtruc-de-nepsite-verschijnt-pas-in-je-eigen-browser",
-          "publishedDate": "Thu, 10 Sep 2026 22:18:00 GMT",
-          "description": "Een phishingmail met een bijlage die op een agenda-uitnodiging lijkt, kan je naar een vervalst inlogscherm leiden dat pas &#237;n je eigen browser wordt opgebouwd. Onderzoekers van Barracuda waarschuwen vo ..."
-        },
-        {
-          "title": "Trezor waarschuwt gebruikers voor phishing na datalek e-mailprovider",
-          "source": "Blockchain Stories",
-          "url": "https://www.blockchainstories.com/nieuws/trezor-waarschuwt-gebruikers-voor-phishing-na-datalek-e-mailprovider/",
-          "publishedDate": "Thu, 10 Sep 2026 06:28:00 GMT",
-          "description": "Trezor waarschuwt gebruikers voor een phishing e-mail na een inbreuk bij hun externe e-mailprovider. Klik op geen enkele link in de valse beveiligingsmail."
-        },
-        {
-          "title": "Email-aanvallen genereren phishing-pagina’s rechtstreeks in de browser om detectie te omzeilen",
-          "source": "Emerce",
-          "url": "https://www.emerce.nl/wire/emailaanvallen-genereren-phishingpaginas-rechtstreeks-browser-om-detectie-omzeilen",
-          "publishedDate": "Thu, 10 Sep 2026 02:40:00 GMT",
-          "description": "Aanvallers misbruiken legitieme Microsoft-diensten om phishing-pagina’s te genereren zonder traditionele webserver Amsterdam, 10 september 2026 – Uit onderzoek van Barracuda […] ..."
-        },
-        {
-          "title": "Ruim 40.000 meldingen van phishing per dag: hoe bescherm jij je ertegen? En wat doen de banken?",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/mijn-geld/ruim-40-000-meldingen-van-phishing-per-dag-hoe-bescherm-jij-je-ertegen-en-wat-doen-de-banken~acf7b0cd/",
-          "publishedDate": "Wed, 09 Sep 2026 21:52:00 GMT",
-          "description": "Phishing is alomtegenwoordig. Oplichters gebruiken almaar overtuigendere en creatievere - lees: driestere - technieken om je geld te ontfutselen. Denk maar aan robotstemmen die jou opbellen om een zog ..."
-        },
-        {
-          "title": "Vijf keer zoveel phishingmeldingen dit jaar, zegt Fraudehelpdesk",
-          "source": "AG Connect",
-          "url": "https://www.agconnect.nl/maatschappij/security/vijf-keer-zoveel-phishingmeldingen-dit-jaar",
-          "publishedDate": "Mon, 07 Sep 2026 07:00:00 GMT",
-          "description": "De Fraudehelpdeks kreeg in de eerste helft van 2026 ruim 15.000 meldingen van phishing. Vorig jaar waren dat er 2.800. Ruim 90% van de meldingen over phishing via boekingssites heeft betrekking op Boo ..."
-        },
-        {
-          "title": "Phishing verschuift meer naar e-mail en WhatsApp",
-          "source": "Dutch IT Channel",
-          "url": "https://www.dutchitchannel.nl/research/759446/phishing-verschuift-meer-naar-e-mail-en-whatsapp",
-          "publishedDate": "Mon, 07 Sep 2026 05:39:00 GMT",
-          "description": "Oplichters passen hun methodes voortdurend aan. Het aandeel van e-mail binnen de phishingmeldingen steeg van 30 procent in de eerste helft van 2025 naar 59 procent in de eerste helft van 2026."
-        },
-        {
-          "title": "Meldingen phishing vervijfvoudigd in eerste helft 2026, benadering fraudeurs steeds persoonlijker en geloofwaardiger",
-          "source": "Persberichten.com",
-          "url": "https://www.persberichten.com/persbericht/115377/meldingen-phishing-vervijfvoudigd-in-eerste-helft-2026-benadering-fraudeurs-steeds-persoonlijker-en-geloofwaardiger",
-          "publishedDate": "Mon, 07 Sep 2026 02:10:00 GMT",
-          "description": "Verifieer Controleer informatie altijd via een vertrouwde bron voordat u een betaling doet of gegevens deelt."
-        },
-        {
-          "title": "Aantal meldingen van phishing in een jaar tijd vervijfvoudigd, oorzaak ligt mogelijk bij datalekken",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/lifestyle/tech/2026/09/aantal-meldingen-van-phishing-in-een-jaar-tijd-vervijfvoudigd-oorzaak-ligt-mogelijk-bij-datalekken/",
-          "publishedDate": "Sun, 06 Sep 2026 23:06:00 GMT",
-          "description": "Het aantal meldingen van phishing (online fraude) is in een jaar tijd vervijfvoudigd, meldt de Fraudehelpdesk. De oorzaak daarvan ligt mogelijk in een aantal datalekken waar grote bedrijven mee te mak ..."
-        }
-      ]
-    },
-    {
-      "keyword": "rob de nijs",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Zoon Rob de Nijs verwelkomt zoon en vernoemt hem naar overleden vader",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/zoon-rob-de-nijs-verwelkomt-zoon-en-vernoemt-hem-naar-overleden-vader/ar-AA2cc9sw",
-          "publishedDate": "Mon, 14 Sep 2026 09:36:10 GMT",
-          "description": "De familie De Nijs heeft er een nieuwe generatie bij. Robbert de Nijs (43) en zijn vrouw Sharon zijn ouders geworden van zoon Oliver Robert de Nijs. Met zijn tweede naam is de baby vernoemd naar Rob d ..."
-        },
-        {
-          "title": "Rob de Nijs wordt gemist, als persoon en als artiest",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2560112-rob-de-nijs-wordt-gemist-als-persoon-en-als-artiest",
-          "publishedDate": "Mon, 17 Mar 2025 11:41:00 GMT",
-          "description": "Het overlijden van Rob de Nijs maakt zoals te verwachten valt bij zo'n geliefde artiest veel los. In 2000 zei de zanger en acteur in een interview(opent in nieuw ..."
-        },
-        {
-          "title": "Rob de Nijs (1942-2025), een van Nederlands grootste zangers, streefde altijd naar perfectie: ‘Wat hij zingt, dat voel je ook’",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/opening/rob-de-nijs-1942-2025-een-van-nederlands-grootste-zangers-streefde-altijd-naar-perfectie-wat-hij-zingt-dat-voel-je-ook~b359edc4/",
-          "publishedDate": "Mon, 17 Mar 2025 07:06:00 GMT",
-          "description": "Als zijn vrouw Jet hem voor zijn allerlaatste concert in een rolstoel het podium opduwt, ziet Rob de Nijs er breekbaar uit. Maar dan zet zijn trouwe band het lied Pur Sang in en wordt de zanger ..."
-        },
-        {
-          "title": "Belinda Meuldijk wil niet zeggen of ze op bezoek mag bij pasgeboren kleinzoon",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/belinda-meuldijk-babynieuws-robbert-de-nijs-rob-zoon",
-          "publishedDate": "Mon, 14 Sep 2026 13:58:00 GMT",
-          "description": "Belinda Meuldijk is blij met de geboorte van haar eerste kleinkind. Voorafgaand aan de Dutch Songwriters Wall of Fame-ceremonie in Beeld &amp; Geluid in Hilversum noemde ze het &quot;een cadeau&quot;."
-        },
-        {
-          "title": "Bijzondere vernoeming: zoon Robbert de Nijs draagt naam van opa Rob de Nijs",
-          "source": "Weekblad Party",
-          "url": "https://weekbladparty.nl/bijzondere-vernoeming-zoon-robbert-de-nijs-draagt-naam-van-opa-rob-de-nijs/",
-          "publishedDate": "Mon, 14 Sep 2026 12:46:00 GMT",
-          "description": "Mooi babynieuws voor Robbert de Nijs en zijn partner Sharon. De zoon van de in 2025 overleden zanger Rob de Nijs heeft een zoontje gekregen."
-        },
-        {
-          "title": "Pijnlijke uitspraak Rob de Nijs duikt op tijdens felle strijd",
-          "source": "Story",
-          "url": "https://www.story.nl/showbizz/uitspraak-rob-de-nijs-duikt-op~6d12913",
-          "publishedDate": "Wed, 09 Sep 2026 11:30:00 GMT",
-          "description": "Ruim een jaar na zijn dood is er veel onrust rond Rob de Nijs. Zijn eerdere woorden over zijn eigen einde krijgen daardoor een wrange, nieuwe betekenis."
-        },
-        {
-          "title": "Knallende ruzie Jet de Nijs met fanclub",
-          "source": "Ditjes en Datjes",
-          "url": "https://www.ditjesendatjes.nl/knallende-ruzie-jet-de-nijs-met-fanclub",
-          "publishedDate": "Wed, 02 Sep 2026 05:20:00 GMT",
-          "description": "Het rommelt flink rond de nalatenschap van Rob de Nijs. Weduwe Jet lag al overhoop met zijn voormalige manager Frank Jansen."
-        },
-        {
-          "title": "Weduwe Rob de Nijs keert zijn fanclub de rug toe",
-          "source": "Story",
-          "url": "https://www.story.nl/showbizz/weduwe-rob-de-nijs-keert-fanclub-rug-toe~a15b2f4",
-          "publishedDate": "Wed, 02 Sep 2026 01:00:00 GMT",
-          "description": "Jet, weduwe van Rob de Nijs, was vol lof over Facebook-fanclub van haar zingende echtgenoot. Wat is er voorgevallen dat Jet plotseling de fanclub heeft verlaten?"
-        },
-        {
-          "title": "Overlijden Rob de Nijs klap voor de Nederlandse muziek: ‘Ik zou geen zanger weten die zo goed was als hij’",
-          "source": "AD",
-          "url": "https://www.ad.nl/show/overlijden-rob-de-nijs-klap-voor-de-nederlandse-muziek-ik-zou-geen-zanger-weten-die-zo-goed-was-als-hij~a7796e79/",
-          "publishedDate": "Mon, 17 Mar 2025 03:25:00 GMT",
-          "description": "Het overlijden van Rob de Nijs maandag maakt veel los in de Nederlandse muziekwereld. Zangeres Willeke Alberti is bijvoorbeeld te aangeslagen om te kunnen reageren. Duidelijk is dat De Nijs gemist zal ..."
-        },
-        {
-          "title": "Rob de Nijs liet zich niet kisten door zijn ziekte: ‘Zo’n mooi leven gehad, dat laat ik niet verpesten door het laatste stukkie’",
-          "source": "AD",
-          "url": "https://www.ad.nl/show/rob-de-nijs-liet-zich-niet-kisten-door-zijn-ziekte-zo-n-mooi-leven-gehad-dat-laat-ik-niet-verpesten-door-het-laatste-stukkie~a253927d/",
-          "publishedDate": "Mon, 17 Mar 2025 01:07:00 GMT",
-          "description": "De Nijs, bij wie in 2019 de ziekte van Parkinson wordt geconstateerd, denkt in de jaren daarna goed na over wat hij niet wil. De regie kwijtraken hoort bij de dingen die hij verafschuwt. Daarbij hoort ..."
-        }
-      ]
-    },
-    {
-      "keyword": "napels",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "De lieveling van Napels: het doodskopje met de oren",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2022/03/22/de-lieveling-van-napels-doodskopje-met-de-oren-a4104261",
-          "publishedDate": "Tue, 22 Mar 2022 14:32:00 GMT",
-          "description": "Bijgeloof In Napels mengen geloof en bijgeloof zich tot een volkse religie. Dat dit niet zomaar folklore is, ontdekten vier jonge kunsthistorici in de ondergrondse begraafplaats van een onlangs ..."
-        },
-        {
-          "title": "Nederlander (36) weigert drinken af te rekenen in horecazaak Napels en ontploft: ‘Kom naar buiten!’",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/buitenland/nederlander-36-weigert-drinken-af-te-rekenen-in-horecazaak-napels-en-ontploft-kom-naar-buiten~a5b9b5c0/",
-          "publishedDate": "Sun, 13 Sep 2026 19:10:00 GMT",
-          "description": "Een 36-jarige Nederlander is in Napels opgepakt na een gewelddadige confrontatie bij een horecazaak. De man weigerde af te rekenen voor een paar blikjes Red Bull en flesjes water. Toen de eigenaar hem ..."
-        },
-        {
-          "title": "Gezin-De Bruyne laat Manchester los: Napels vraagt tijd",
-          "source": "voetbalfocus",
-          "url": "https://voetbalfocus.be/gezin-de-bruyne-manchester-napels-vraagt-tijd/",
-          "publishedDate": "Sat, 12 Sep 2026 05:52:00 GMT",
-          "description": "Mich&#232;le Lacroix beschrijft de omschakeling van Manchester naar Napels als een ingrijpende periode voor haar gezin."
-        },
-        {
-          "title": "Kevin De Bruyne kan in Napels zelfs niet meer naar de supermarkt: “We kunnen niks samen doen”",
-          "source": "P-Magazine",
-          "url": "https://p-magazine.com/nl/articles/kevin-de-bruyne-ervaart-in-napoli-een-opvallende-keerzijde",
-          "publishedDate": "Sat, 12 Sep 2026 03:42:00 GMT",
-          "description": "Kevin De Bruyne speelt ruim een jaar voor Napoli. Wat velen onderschatten, is het feit dat het voor zijn naasten een enorme aanpassing is om ineens van ..."
-        },
-        {
-          "title": "Arteta schrapt comfort bij Arsenal: zege in Napels sterkt zijn overtuiging",
-          "source": "voetbalfocus",
-          "url": "https://voetbalfocus.be/arteta-arsenal-comfort-zege-napels/",
-          "publishedDate": "Fri, 11 Sep 2026 10:32:00 GMT",
-          "description": "De Arsenal-coach zet maaltijden en routines bewust onder druk, zodat zijn ploeg onverwachte problemen beter opvangt."
-        },
-        {
-          "title": "Arsenal urenlang vertraagd op vliegveld, Timber reist wel mee naar Napels",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/arsenal-urenlang-vertraagd-op-vliegveld-timber-reist-wel-mee-naar-napels",
-          "publishedDate": "Tue, 08 Sep 2026 16:43:00 GMT",
-          "description": "Arsenal had dinsdag grote moeite om in Napels te komen. De selectie van Mikel Arteta, m&#233;t Jurri&#235;n Timber, liep bij Luton Airport zoveel vertraging op dat de persconferentie werd afgelast."
-        },
-        {
-          "title": "Twee Belgische toeristen (18) overvallen op straat in Napels, &#233;&#233;n van hen met mes in buik gestoken",
-          "source": "Het Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/buitenland/twee-belgische-toeristen-18-overvallen-op-straat-in-napels-een-van-hen-met-mes-in-buik-gestoken/160853366.html",
-          "publishedDate": "Wed, 02 Sep 2026 05:20:00 GMT",
-          "description": "Twee jonge Belgische toeristen zijn in Napels bestolen en aangevallen door criminelen. De daders sloegen op de vlucht en de slachtoffers werden met verwondingen naar het ziekenhuis gebracht. Dat schri ..."
-        },
-        {
-          "title": "Circa dertig gewonden bij botsing veerboot met kade in Napels",
-          "source": "RD",
-          "url": "https://www.rd.nl/artikel/circa-dertig-gewonden-bij-botsing-veerboot-met-kade-in-napels",
-          "publishedDate": "Fri, 19 Apr 2024 05:47:00 GMT",
-          "description": "Circa dertig gewonden bij botsing veerboot met kade in Napels Bij een botsing van een veerboot uit Capri tegen een kade in het centrum van Napels zijn ongeveer dertig mensen gewond geraakt. De snelle ..."
-        },
-        {
-          "title": "Op ontdekkingstocht door Napels ten tijde van corona",
-          "source": "reishonger",
-          "url": "https://www.reishonger.nl/do-as-the-locals-do/op-ontdekkingstocht-door-napels-ten-tijde-van-corona/",
-          "publishedDate": "Tue, 12 May 2020 21:16:00 GMT",
-          "description": "Hoewel je misschien het tegendeel zou verwachten, zijn Jo&#235;l en Iris geen Italofielen. “Wij zijn geen Itali&#235;-fans zoals velen soms denken”, aldus Iris. “Wij zijn gek op Napels. Natuurlijk is Itali&#235; ..."
-        },
-        {
-          "title": "8 hoogtepunten van het prachtige Napels op een rijtje",
-          "source": "marieclaire",
-          "url": "https://marieclaire.nl/artikel/29991/napels-citytrip-italie",
-          "publishedDate": "Sun, 29 Apr 2018 08:00:00 GMT",
-          "description": "Vanaf het centrum is het een stukje lopen, maar dit kleine, romantische restaurantje is de wandeling meer dan waard. Je zit in een soort huiskamer – alsof je teruggaat in de tijd en in de jaren ..."
-        }
-      ]
-    },
-    {
-      "keyword": "christian horner",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Foto’s: vrouw van ex-Red Bull-teambaas was vroeger een Spice Girl",
-          "source": "MAN MAN on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/foto-s-vrouw-van-ex-red-bull-teambaas-was-vroeger-een-spice-girl/ar-AA2cbYS3",
-          "publishedDate": "Mon, 14 Sep 2026 08:34:56 GMT",
-          "description": "Spice up your life? Red Bull Racing-teambaas Christian Horner is fan. Geri Halliwell is namelijk de vrouw van Christian Horner en oud Spice Girl."
-        },
-        {
-          "title": "Red Bull woest op Christian Horner na onthulling over autobiografie: 'Respectloos'",
-          "source": "GP33",
-          "url": "https://gp33.nl/f1-nieuws/red-bull-woest-op-christian-horner-na-onthulling-over-autobiografie-respectloos",
-          "publishedDate": "Mon, 14 Sep 2026 01:29:00 GMT",
-          "description": "Volgens Red Bull Racing heeft Christian Horner er bewust voor gekozen om zijn autobiografie uit te brengen op de overlijdensdatum van Dietrich Mateschitz, de medeoprichter van Red Bull. Dit wordt door ..."
-        },
-        {
-          "title": "Ontslagen oud-teambaas van Max Verstappen zorgt opnieuw voor onrust: Red Bull boos om 'provocerende' actie",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/formule-1/nieuws/ontslagen-oud-teambaas-van-max-verstappen-zorgt-opnieuw-voor-onrust-red-bull-boos-om-provocerende-actie-2026091205392523445/",
-          "publishedDate": "Sat, 12 Sep 2026 00:55:00 GMT",
-          "description": "Daarmee kan het boek voor behoorlijk wat opschudding zorgen. Horner maakte vrijwel de volledige succesvolle periode van Red Bull in de Formule 1 mee. Onder zijn leiding won het team meerdere ..."
-        },
-        {
-          "title": "Coulthard hoorde bizar detail van Red Bull-medewerker: &quot;Dat was juist in het voordeel&quot;",
-          "source": "F1 Maximaal",
-          "url": "https://www.f1maximaal.nl/christian-horner",
-          "publishedDate": "Tue, 01 Sep 2026 17:00:00 GMT",
-          "description": "In al het kabaal, rivaliteit en commotie van de Formule 1, zijn het de coureurs die in de schijnwerpers staan, en bij overwinningen door de media worden geroemd voor hun kwaliteiten. Toch komt er bij ..."
-        },
-        {
-          "title": "Horner officieel vertrokken bij Red Bull F1-team na regeling",
-          "source": "Motorsport",
-          "url": "https://nl.motorsport.com/f1/news/christian-horner-officieel-vertrokken-red-bull-f1-regeling/10761644/",
-          "publishedDate": "Sun, 21 Sep 2025 22:57:00 GMT",
-          "description": "Christian Horner heeft officieel afscheid genomen van Red Bulls Formule 1-organisatie, nadat hij een regeling over zijn vertrek heeft getroffen met het Oostenrijkse concern. De 51-jarige Brit werd na ..."
-        },
-        {
-          "title": "Christian Horner keert mogelijk sneller dan verwacht terug in de Formule 1.",
-          "source": "gpfans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/1057104/christian-horner-in-gesprek-met-f1team-van-cadillac/",
-          "publishedDate": "Sun, 27 Jul 2025 07:22:00 GMT",
-          "description": "Christian Horner (51) keert mogelijk sneller dan verwacht terug in de Formule 1. De Britse teambaas werd kortgeleden ontslagen bij Red Bull Racing, maar wordt sindsdien al weer gelinkt aan diverse ..."
-        },
-        {
-          "title": "Christian Horner na twintig jaar weggestuurd bij Red Bull Racing",
-          "source": "gpblog.com",
-          "url": "https://www.gpblog.com/nl/breaking-news/christian-horner-na-twintig-jaar-weggestuurd-bij-red-bull-racing",
-          "publishedDate": "Wed, 09 Jul 2025 05:15:00 GMT",
-          "description": "Tim Kraaij is hoofdredacteur van GPblog.com en Formule 1-analist. Dankzij zijn permanente FIA-accreditatie en directe toegang tot de paddock brengt hij diepgaande, datagedreven analyses en duiding van ..."
-        },
-        {
-          "title": "BREAKING: 'Christian Horner na ruim 20 jaar ontslagen als teambaas bij Red Bull Racing'",
-          "source": "gpfans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/1055434/breaking-christian-horner-na-ruim-20-jaar-ontslagen-als-teambaas-bij-red-bull-racing/",
-          "publishedDate": "Wed, 09 Jul 2025 04:24:00 GMT",
-          "description": "Groot nieuws vanuit het kamp van Red Bull Racing: Christian Horner is na ruim twintig jaar ontslagen als teambaas. Dat melden verschillende media zojuist op social media, waaronder ..."
-        },
-        {
-          "title": "Officieel: Red Bull Racing ontslaat F1-teambaas Christian Horner",
-          "source": "Motorsport",
-          "url": "https://nl.motorsport.com/f1/news/officieel-red-bull-racing-ontslaat-f1-teambaas-christian-horner/10740704/",
-          "publishedDate": "Tue, 08 Jul 2025 19:45:00 GMT",
-          "description": "Het tijdperk van Christian Horner bij Red Bull Racing is ten einde. De teambaas en CEO van de formatie is ontslagen en wordt per direct vervangen door Laurent Mekies. De Britse Grand Prix op ..."
-        },
-        {
-          "title": "Christian Horner gaat in op aanbod vanuit Ferrari",
-          "source": "gp33",
-          "url": "https://gp33.nl/f1-nieuws/christian-horner-gaat-in-op-aanbod-vanuit-ferrari",
-          "publishedDate": "Fri, 30 May 2025 09:31:00 GMT",
-          "description": "Afgelopen week kwam Bild met het bericht dat Christian Horner onlangs is benaderd door Ferrari, voor een mogelijke overstap naar het Italiaanse team als nieuwe teambaas van Charles Leclerc en Lewis ..."
-        }
-      ]
-    },
-    {
-      "keyword": "verkeersboete",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Hoge Raad buigt zich over driedubbele boetes. ‘De overheid is een gruwelijke schuldeiser’",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/binnenland/hoge-raad-buigt-zich-over-driedubbele-boetes-de-overheid-is-een-gruwelijke-schuldeiser~b9663fa2/",
-          "publishedDate": "Mon, 06 Oct 2025 03:52:00 GMT",
-          "description": "Het waren soms kleine boetes: 31 euro voor 4 kilometer te hard rijden buiten de bebouwde kom, of 36 euro voor 5 kilometer te hard. Maar ook een keer 150 euro voor rijden zonder gordel. Een ..."
-        },
         {
           "title": "Hoge Raad buigt zich over hoge aanmaningen verkeersboetes",
           "source": "NOS",
@@ -366,93 +55,169 @@
           "description": "Het aantal boetes lag daarmee hoger dan in 2022. Ook het totale boetebedrag kwam hoger uit dan in dat jaar. Landelijk stuurde het CJIB afgelopen jaar 8,5 miljoen acceptgiro's voor verkeersboetes, net ..."
         },
         {
-          "title": "Niet meer verkeersboetes in Venlo, maar wel een hogere totaalopbrengst",
-          "source": "AD",
-          "url": "https://www.ad.nl/venlo/niet-meer-verkeersboetes-in-venlo-maar-wel-een-hogere-totaalopbrengst~a2dea8a5/",
-          "publishedDate": "Thu, 07 Mar 2024 00:05:00 GMT",
-          "description": "Het aantal boetes lag daarmee ongeveer even hoog als in 2022. Het totale boetebedrag kwam juist hoger uit dan in dat jaar. Landelijk stuurde het CJIB afgelopen jaar 8,5 miljoen acceptgiro's voor ..."
+          "title": "Europese verkeersboete voortaan op deurmat",
+          "source": "NU",
+          "url": "https://www.nu.nl/economie/3621170/europese-verkeersboete-voortaan-op-deurmat.html",
+          "publishedDate": "Wed, 06 Nov 2013 02:01:00 GMT",
+          "description": "Wie in een willekeurig land van de Europese Unie een verkeersovertreding begaat, vindt vanaf donderdag gewoon thuis een boete op de mat. Er zit keurig een toelichting in de eigen taal bij. De ..."
         }
       ]
     },
     {
-      "keyword": "ferry doedens",
-      "trafficLabel": "5K+",
+      "keyword": "ns",
+      "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Belastingdienst legt beslag op huis Ferry Doedens vanwege schulden",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/achterklap/6409745/belastingdienst-legt-beslag-op-huis-ferry-doedens-vanwege-schulden.html",
-          "publishedDate": "Mon, 14 Sep 2026 12:30:00 GMT",
-          "description": "De Belastingdienst heeft beslag gelegd op het huis van Ferry Doedens, meldt RTL Boulevard donderdag. De ster, bekend van Goede Tijden, Slechte Tijden, kampt al langere tijd met verslavingsproblemen en ..."
+          "title": "NS-stations leeg door landelijke 24-uursstaking, grote drukte op de weg blijft vooralsnog uit",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/binnenland/ns-stations-leeg-door-landelijke-24-uursstaking-grote-drukte-op-de-weg-blijft-vooralsnog-uit~bf780ace/",
+          "publishedDate": "Wed, 09 Sep 2026 01:17:00 GMT",
+          "description": "De NS-stations zijn leeg woensdagochtend vroeg vanwege de landelijke 24-uursstaking. De ANWB ziet ondanks de staking in het openbaar vervoer een ‘vrij gemiddelde spits voor een woensdagochtend’."
         },
         {
-          "title": "Belastingdienst legt beslag op het huis van Ferry Doedens",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/belastingdienst-legt-beslag-op-het-huis-van-ferry-doedens/ar-AA2ccbSi",
-          "publishedDate": "Mon, 14 Sep 2026 09:06:54 GMT",
-          "description": "De financi&#235;le problemen van Ferry Doedens (36) zijn nog groter dan gedacht. De Belastingdienst heeft beslag gelegd op het huis van acteur. Dat blijkt uit onderzoek van RTL Boulevard."
+          "title": "Woensdag hele dag geen NS-treinen door landelijke ov-staking, Schiphol wel beperkt bereikbaar",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/woensdag-hele-dag-geen-ns-treinen-door-landelijke-ov-staking-schiphol-wel-beperkt-bereikbaar~af779931/",
+          "publishedDate": "Thu, 03 Sep 2026 07:45:00 GMT",
+          "description": "Woensdag 9 september rijden er de hele dag geen NS-treinen in Nederland door de landelijke 24 uursstaking in het openbaar vervoer. Alleen luchthaven Schiphol blijft beperkt bereikbaar, heeft NS bekend ..."
         },
         {
-          "title": "'Ernstige situatie' rond Ferry Doedens na beslaglegging woning: 'Flinke klap'",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/video/35dbdd0b-233d-47a3-b83c-e222cfc864e0/ernstige-situatie-rond-ferry-doedens-na",
-          "publishedDate": "Sun, 13 Sep 2026 17:00:00 GMT",
-          "description": "In de documentaire 'Ferry Lost' is te zien hoe Ferry Doedens (36) zijn leven op de rit probeert te krijgen. Zijn verslaving aan onder meer crypto en oplopende schulden zorgen voor grote zorgen bij zij ..."
+          "title": "NS ziet af van verbod op plaatsen van tas op stoel",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/ns-ziet-af-van-verbod-op-plaatsen-van-tas-op-stoel~bf6e547b/",
+          "publishedDate": "Wed, 19 Aug 2026 12:42:00 GMT",
+          "description": "De NS gaat reizigers toch niet verbieden een stoel met een tas bezet te houden. Het spoorwegbedrijf gaat wel in de huisregels opnemen dat reizigers met hun bagage geen zitplaats ‘onnodig’ bezet mogen ..."
         },
         {
-          "title": "Acteur Ferry Doedens diep in de financi&#235;le problemen: woning onder beslag",
-          "source": "TVgids.nl",
-          "url": "https://www.tvgids.nl/nieuws/sterren/acteur-ferry-doedens-diep-in-de-financiele-problemen-woning-onder-beslag",
-          "publishedDate": "Mon, 14 Sep 2026 13:15:00 GMT",
-          "description": "Ferry Doedens heeft flinke geldproblemen blijkt uit onderzoek van RTL Boulevard. De Belastingdienst heeft (executoriaal) beslag gelegd op het huis van de (voormalig GTST-)acteur."
+          "title": "NS-reisplanner niet goed bereikbaar tijdens storing op spoor",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/ns-reisplanner-niet-goed-bereikbaar-tijdens-storing-op-spoor",
+          "publishedDate": "Tue, 15 Sep 2026 00:29:00 GMT",
+          "description": "De reisplanner van de NS kampt dinsdagochtend met problemen. De planner is niet goed bereikbaar, bevestigt een woordvoerder van de spoorvervoerder. Mogelijk heeft dat te maken met overbelasting door d ..."
         },
         {
-          "title": "Zorgen om Ferry Doedens nemen toe: Belastingdienst legt beslag op woning",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/belastingdienst-beslag-woning-ferry-doedens-veiling",
-          "publishedDate": "Mon, 14 Sep 2026 10:19:00 GMT",
-          "description": "De zorgen om Ferry Doedens nemen toe. Nadat bekend werd dat de Vereniging van Eigenaren beslag legt op zijn woning, doet de Belastingdienst dat nu ook."
+          "title": "Plannen Arriva voor treinen naar Parijs mogen doorgaan – geen negatieve gevolgen voor NS",
+          "source": "Treinreiziger.nl",
+          "url": "https://www.treinreiziger.nl/plannen-arriva-voor-treinen-naar-parijs-mogen-doorgaan-geen-negatieve-gevolgen-voor-ns/",
+          "publishedDate": "Fri, 11 Sep 2026 04:21:00 GMT",
+          "description": "De geplande treindiensten van Arriva van Den Haag en Amersfoort naar Parijs zitten de bestaande NS diensten niet in de weg en mogen doorgaan. Dat is de uit ..."
         },
         {
-          "title": "Buren zijn Ferry Doedens zat: dreigen hem op straat te zetten",
-          "source": "Ditjes en Datjes",
-          "url": "https://www.ditjesendatjes.nl/buren-zijn-ferry-doedens-zat-dreigen-hem-op-straat-te-zetten",
-          "publishedDate": "Mon, 07 Sep 2026 03:28:00 GMT",
-          "description": "Nieuwe problemen voor Ferry Doedens. De Vereniging van Eigenaren zou al langere tijd op geld van de voormalig GTST-acteur wachten."
+          "title": "NS-stations leeg door landelijke 24-uursstaking",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/algemeen/ns-stations-leeg-door-landelijke-24-uursstaking",
+          "publishedDate": "Wed, 09 Sep 2026 00:38:00 GMT",
+          "description": "Woensdag liggen treinen landelijk stil: NS-stations leeg, Utrecht en Amsterdam uitgestorven. Schiphol beperkt bereikbaar. Staking tot donderdagochtend."
         },
         {
-          "title": "Ferry Doedens toch in beroep tegen boete, vanwege onduidelijkheid over rijbewijs",
+          "title": "Persoonlijke ellende achter staking NS-personeel: ‘Alles wat ik heb opgebouwd, kan weg zijn’",
           "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/show/ferry-doedens-toch-in-beroep-tegen-boete-vanwege-onduidelijkheid-over-rijbewijs~ab0e5439/",
-          "publishedDate": "Wed, 03 Jun 2026 01:35:00 GMT",
-          "description": "Ferry Doedens heeft toch hoger beroep aangetekend tegen de boete van 800 euro die hij op 13 mei kreeg wegens rijden onder invloed van drugs. Zijn advocaat Kerem Canatan zegt dat het beroep vooral is a ..."
+          "url": "https://www.bndestem.nl/roosendaal/persoonlijke-ellende-achter-staking-ns-personeel-alles-wat-ik-heb-opgebouwd-kan-weg-zijn~a313ce1d/",
+          "publishedDate": "Wed, 09 Sep 2026 00:18:00 GMT",
+          "description": "Ook in Roosendaal staakt woensdag het ov-personeel. Wel kwamen NS-medewerkers bij het station samen om te barbecue&#235;n en te kaarten, maar vooral om de plannen te bespreken waar ze zo fel tegen zijn."
         },
         {
-          "title": "Ferry Doedens moet zijn taakstraf even onderbreken om w&#233;&#233;r voor de rechter te verschijnen",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/show/ferry-doedens-moet-zijn-taakstraf-even-onderbreken-om-weer-voor-de-rechter-te-verschijnen~a6ec5ec2/?slug_rd=1",
-          "publishedDate": "Mon, 11 May 2026 17:33:00 GMT",
-          "description": "Doedens werd in 2024 drie keer betrapt met drugs op achter het stuur. Voor de eerste twee keer stond hij in februari 2025 al terecht. Voor de derde keer dat hij werd betrapt, in juni 2024 in ..."
+          "title": "Morgen ligt het OV 24 uur plat: NS schrapt stilletjes de stakingscompensatie",
+          "source": "Welingelichte Kringen",
+          "url": "https://www.welingelichtekringen.nl/samenleving/morgen-ligt-het-ov-24-uur-plat-ns-schrapt-stilletjes-de-stakingscompensatie",
+          "publishedDate": "Tue, 08 Sep 2026 10:13:00 GMT",
+          "description": "Reizigers moeten zich woensdag opmaken voor een landelijke OV-staking die het trein-, bus-, tram- en metroverkeer vrijwel volledig raakt. Bij NS rijden van woensdag 9 september 02.00 uur tot donderdag ..."
         },
         {
-          "title": "NU+ Ferry Doedens ontkent verslaving in docu: 'Je maakt het groter dan het is'",
-          "source": "NU",
-          "url": "https://www.nu.nl/media/6386291/ferry-doedens-ontkent-verslaving-in-docu-je-maakt-het-groter-dan-het-is.html",
-          "publishedDate": "Mon, 16 Feb 2026 08:28:00 GMT",
-          "description": "De documentaire Ferry Lost maakt duidelijk hoe onstuimig het leven van acteur Ferry Doedens de afgelopen jaren was. Voor de docureeks volgde een cameraploeg hem twee jaar lang. Daarin worstelt Doedens ..."
+          "title": "Woensdag hele dag geen NS-treinen door landelijke ov-staking",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/algemeen/woensdag-hele-dag-geen-ns-treinen-door-landelijke-ov-staking",
+          "publishedDate": "Thu, 03 Sep 2026 09:38:00 GMT",
+          "description": "Woensdag 9 sept rijden er geen NS-treinen door een 24-uurs ov-staking. Schiphol blijft beperkt bereikbaar. Donderdag mogelijk weer normaal; check reisinformatie."
         },
         {
-          "title": "Gaat een documentaire over Ferry Doedens te ver? Een reality-tv-psycholoog geeft antwoord",
-          "source": "Cosmopolitan",
-          "url": "https://www.cosmopolitan.com/nl/entertainment/a70343017/ferry-doedens-documentaire-kritiek-trailer/",
-          "publishedDate": "Fri, 13 Feb 2026 03:54:00 GMT",
-          "description": "De trailer van de nieuwe documentaire over Ferry Doedens is nog maar net uit, en online wordt er al volop over gepraat. Veel kijkers noemen de beelden 'heftig', 'ongemakkelijk' en zelfs 'shocking'."
+          "title": "NS vraagt onderzoek aan naar GoVolta-diensten – drempel voor binnenlandse ritten",
+          "source": "Treinreiziger.nl",
+          "url": "https://www.treinreiziger.nl/ns-vraagt-onderzoek-aan-naar-govolta-diensten-drempel-voor-binnenlandse-ritten/",
+          "publishedDate": "Thu, 03 Sep 2026 08:51:00 GMT",
+          "description": "NS heeft de Autoriteit Consument en Markt (ACM) gevraagd te onderzoeken wat de plannen van GoVolta voor binnenlands vervoer betekenen door de treindiensten ..."
+        }
+      ]
+    },
+    {
+      "keyword": "rob de nijs",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Zoon Rob de Nijs verwelkomt zoon en vernoemt hem naar overleden vader",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/zoon-rob-de-nijs-verwelkomt-zoon-en-vernoemt-hem-naar-overleden-vader/ar-AA2cc9sw",
+          "publishedDate": "Mon, 14 Sep 2026 09:36:10 GMT",
+          "description": "De familie De Nijs heeft er een nieuwe generatie bij. Robbert de Nijs (43) en zijn vrouw Sharon zijn ouders geworden van zoon Oliver Robert de Nijs. Met zijn tweede naam is de baby vernoemd naar Rob d ..."
+        },
+        {
+          "title": "Rob de Nijs wordt gemist, als persoon en als artiest",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2560112-rob-de-nijs-wordt-gemist-als-persoon-en-als-artiest",
+          "publishedDate": "Mon, 17 Mar 2025 11:41:00 GMT",
+          "description": "Het overlijden van Rob de Nijs maakt zoals te verwachten valt bij zo'n geliefde artiest veel los. In 2000 zei de zanger en acteur in een interview(opent in nieuw ..."
+        },
+        {
+          "title": "Rob de Nijs (1942-2025), een van Nederlands grootste zangers, streefde altijd naar perfectie: ‘Wat hij zingt, dat voel je ook’",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/opening/rob-de-nijs-1942-2025-een-van-nederlands-grootste-zangers-streefde-altijd-naar-perfectie-wat-hij-zingt-dat-voel-je-ook~b359edc4/",
+          "publishedDate": "Mon, 17 Mar 2025 07:06:00 GMT",
+          "description": "Als zijn vrouw Jet hem voor zijn allerlaatste concert in een rolstoel het podium opduwt, ziet Rob de Nijs er breekbaar uit. Maar dan zet zijn trouwe band het lied Pur Sang in en wordt de zanger ..."
+        },
+        {
+          "title": "Belinda Meuldijk wil niet zeggen of ze op bezoek mag bij pasgeboren kleinzoon",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/belinda-meuldijk-babynieuws-robbert-de-nijs-rob-zoon",
+          "publishedDate": "Mon, 14 Sep 2026 13:58:00 GMT",
+          "description": "Belinda Meuldijk is blij met de geboorte van haar eerste kleinkind. Voorafgaand aan de Dutch Songwriters Wall of Fame-ceremonie in Beeld &amp; Geluid in Hilversum noemde ze het &quot;een cadeau&quot;."
+        },
+        {
+          "title": "Zoon van Rob de Nijs is vader geworden en vernoemt baby naar zijn overleden vader",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/mini/baby/babynieuws/familie-de-nijs-zoon-vader-geworden/",
+          "publishedDate": "Mon, 14 Sep 2026 12:48:00 GMT",
+          "description": "De zanger overleed in maart 2025 op 82-jarige leeftijd aan de gevolgen van de ziekte van Parkinson. Hij liet zijn vrouw Jet en drie zoons achter. Robbert is de oudste zoon en werd geboren tijdens zijn ..."
+        },
+        {
+          "title": "Bijzondere vernoeming: zoon Robbert de Nijs draagt naam van opa Rob de Nijs",
+          "source": "Weekblad Party",
+          "url": "https://weekbladparty.nl/bijzondere-vernoeming-zoon-robbert-de-nijs-draagt-naam-van-opa-rob-de-nijs/",
+          "publishedDate": "Mon, 14 Sep 2026 12:46:00 GMT",
+          "description": "Mooi babynieuws voor Robbert de Nijs en zijn partner Sharon. De zoon van de in 2025 overleden zanger Rob de Nijs heeft een zoontje gekregen."
+        },
+        {
+          "title": "Pijnlijke uitspraak Rob de Nijs duikt op tijdens felle strijd",
+          "source": "Story",
+          "url": "https://www.story.nl/showbizz/uitspraak-rob-de-nijs-duikt-op~6d12913",
+          "publishedDate": "Wed, 09 Sep 2026 11:30:00 GMT",
+          "description": "Ruim een jaar na zijn dood is er veel onrust rond Rob de Nijs. Zijn eerdere woorden over zijn eigen einde krijgen daardoor een wrange, nieuwe betekenis."
+        },
+        {
+          "title": "Knallende ruzie Jet de Nijs met fanclub",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/knallende-ruzie-jet-de-nijs-met-fanclub",
+          "publishedDate": "Wed, 02 Sep 2026 05:20:00 GMT",
+          "description": "Het rommelt flink rond de nalatenschap van Rob de Nijs. Weduwe Jet lag al overhoop met zijn voormalige manager Frank Jansen."
+        },
+        {
+          "title": "Weduwe Rob de Nijs keert zijn fanclub de rug toe",
+          "source": "Story",
+          "url": "https://www.story.nl/showbizz/weduwe-rob-de-nijs-keert-fanclub-rug-toe~a15b2f4",
+          "publishedDate": "Wed, 02 Sep 2026 01:00:00 GMT",
+          "description": "Jet, weduwe van Rob de Nijs, was vol lof over Facebook-fanclub van haar zingende echtgenoot. Wat is er voorgevallen dat Jet plotseling de fanclub heeft verlaten?"
+        },
+        {
+          "title": "Overlijden Rob de Nijs klap voor de Nederlandse muziek: ‘Ik zou geen zanger weten die zo goed was als hij’",
+          "source": "AD",
+          "url": "https://www.ad.nl/show/overlijden-rob-de-nijs-klap-voor-de-nederlandse-muziek-ik-zou-geen-zanger-weten-die-zo-goed-was-als-hij~a7796e79/",
+          "publishedDate": "Mon, 17 Mar 2025 03:25:00 GMT",
+          "description": "Het overlijden van Rob de Nijs maandag maakt veel los in de Nederlandse muziekwereld. Zangeres Willeke Alberti is bijvoorbeeld te aangeslagen om te kunnen reageren. Duidelijk is dat De Nijs gemist zal ..."
         }
       ]
     },
     {
       "keyword": "gasprijs",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "Stijgende olieprijs duwt Europese gasprijs door het dak: hoogste in jaren",
@@ -460,20 +225,6 @@
           "url": "https://www.nu.nl/economie/6409154/stijgende-olieprijs-duwt-europese-gasprijs-door-het-dak-hoogste-in-jaren.html",
           "publishedDate": "Wed, 09 Sep 2026 04:49:00 GMT",
           "description": "De prijs van een vat Brent-olie, de maatstaf voor olie uit Europa en het Midden-Oosten, is woensdagochtend gestegen naar meer dan 100 dollar. Daardoor is ook de Europese gasprijs op het hoogste niveau ..."
-        },
-        {
-          "title": "Gasprijs gaat door het dak, gasloze huishoudens lachen het laatst: &quot;15.000 euro bespaard&quot;",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/363416/gasprijs-gaat-door-het-dak-gasloze-huishoudens-lachen-het-laatst-15000-euro-bespaard",
-          "publishedDate": "Mon, 14 Sep 2026 09:45:00 GMT",
-          "description": "Energierekening stijgt 20 procent, maar Dirk Jan en Cecile uit Middenbeemster besparen dankzij gasvrij wonen al tien jaar duizenden euro's. Lees hun verhaal."
-        },
-        {
-          "title": "Energie-update: Gasprijs meer dan twee keer zo hoog als v&#243;&#243;r uitbreken van Iranoorlog",
-          "source": "BPnieuws.nl",
-          "url": "https://www.bpnieuws.nl/article/9872645/energie-update-gasprijs-meer-dan-twee-keer-zo-hoog-als-voor-uitbreken-van-iranoorlog/",
-          "publishedDate": "Mon, 14 Sep 2026 04:28:00 GMT",
-          "description": "Maandagochtend staat er overal een dikke 80 euro per megawattuur op borden bij gasbeurs TTF. Via de Title Transfer Facility wordt meer dan 80 keer het Nederlandse gasverbruik verhandeld."
         },
         {
           "title": "Europese gasprijs hoger door toenemend geweld Midden-Oosten",
@@ -504,6 +255,13 @@
           "description": "Donderdagochtend is de TTF-gasprijs voor het frontmaandcontract gestegen tot 80 euro per megawattuur. Analisten wijzen een stijging van de olieprijs aan als een van de oorzaken voor ..."
         },
         {
+          "title": "Hoge gasprijs zet aan tot actie: veel vraag naar isolatiemateriaal, haardhout en airco’s",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/den-bosch/hoge-gasprijs-zet-aan-tot-actie-veel-vraag-naar-isolatiemateriaal-haardhout-en-aircos~aff7483b/",
+          "publishedDate": "Thu, 10 Sep 2026 01:37:00 GMT",
+          "description": "De hoge gasprijs zorgt voor vragen, zeker nu het langzaam richting herfst gaat. Het huis beter isoleren, een elektrisch alternatief zoeken of de houtkachel wat vaker laten branden? „Geld bepaalt wanne ..."
+        },
+        {
           "title": "Gasprijs blijft records breken: zo hard stijgen energiecontracten mee",
           "source": "Keuze.nl",
           "url": "https://www.keuze.nl/nieuws/gasprijs-blijft-records-breken-energiecontracten-stijgen-mee",
@@ -518,169 +276,24 @@
           "description": "Een stevig windje drukte de elektriciteitsprijzen de afgelopen tijd omlaag, vooral op zaterdag. Maandag komt de EPEX-dagprijs echter toch weer op 150 euro per megawattuur uit. De ..."
         },
         {
-          "title": "Klimaatminister van Veldhoven waarschuwt voor hogere gasprijs: 'En er komt geen prijsgarantie vanuit de overheid'",
-          "source": "WNL",
-          "url": "https://wnl.tv/2026/09/06/klimaatminister-van-veldhoven-waarschuwt-voor-hogere-gasprijs-en-er-komt-geen-prijsgarantie",
-          "publishedDate": "Sun, 06 Sep 2026 05:45:00 GMT",
-          "description": "WNL plaatst Functionele cookies, om deze website naar behoren te laten functioneren en Analytische cookies waarmee wij het gebruik van de website kunnen meten. Deze cookies gebruiken geen persoonsgege ..."
-        }
-      ]
-    },
-    {
-      "keyword": "louisa janssen",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Schoonmoeder Louisa Janssen overleden na ziekbed: 'Veel te jong'",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/artikel/5651617/schoonmoeder-louisa-janssen-overleden-na-ziekte",
-          "publishedDate": "Mon, 14 Sep 2026 04:56:00 GMT",
-          "description": "Rowan Janssen (41), de man van realityster Louisa Janssen (41), heeft afscheid moeten nemen van zijn moeder. Zij overleed zondagavond op 62-jarige leeftijd, maakt Rowan bekend op Instagram. In juni ve ..."
+          "title": "Gasprijs gaat deze winter waarschijnlijk sterk stijgen, ‘zet contract langer vast’",
+          "source": "BNR Nieuwsradio",
+          "url": "https://www.bnr.nl/nieuws/economie/10609748/gasprijs-gaat-deze-winter-waarschijnlijk-sterk-stijgen-zet-contract-langer-vast",
+          "publishedDate": "Mon, 07 Sep 2026 00:15:00 GMT",
+          "description": "‘Het is tegenstrijdig: het vuldoel terugschroeven, terwijl je weet dat er waarschijnlijk in de winter met een hoge gasvraag tekorten gaan komen.’ ..."
         },
         {
-          "title": "Louisa Janssen en Michella Kox na ruzie samen in het theater: 'Volgend jaar gaan we gewoon door'",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/video/543e35bb-58a8-49d7-9e3c-4375a486f760/louisa-janssen-en-michella-kox-na-ruzie-samen",
-          "publishedDate": "Wed, 09 Sep 2026 17:00:00 GMT",
-          "description": "Michella Kox (46) en Louisa Janssen (41) hebben flink wat ruzies en verzoeningen achter de rug, maar inmiddels zijn de dames weer dikke vriendinnen en slaan ze vanavond de handen opnieuw ineen. Met ee ..."
-        },
-        {
-          "title": "Dit is de reden achter vriendschapsbreuk Louisa Janssen en Michella Kox",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/dit-is-de-reden-achter-vriendschapsbreuk-louisa-janssen-en-michella-kox/ar-AA2bzZ0N",
-          "publishedDate": "Fri, 04 Sep 2026 08:08:38 GMT",
-          "description": "Michella Kox (46) en Louisa Janssen (41) zijn inmiddels weer dikke vriendinnen, maar lange tijd was de sfeer tussen de twee allesbehalve gezellig. In de RTL Boulevard-rubriek Realitea vertellen ze voo ..."
-        },
-        {
-          "title": "Louisa Janssen gilt het uit na onverwachte actie: ‘OMG!’",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/video/louisa-janssen-gilt-het-uit-na-onverwachte-actie-omg/64222594.html",
-          "publishedDate": "Tue, 25 Jul 2023 14:41:00 GMT",
-          "description": "Ze worden nu al de nieuwe Geer en Goor genoemd: realitysterren Louisa Janssen en Michella Kox, die voor hun serie op Videoland allerlei beroepen uittesten. Zo lopen ze in de nieuwste aflevering mee ..."
-        },
-        {
-          "title": "Lees verder onder de advertentie",
-          "source": "Story",
-          "url": "https://www.story.nl/showbizz/groot-verdriet-louisa-janssen-rowans-moeder-overleden~3d129f5e",
-          "publishedDate": "Mon, 14 Sep 2026 05:43:00 GMT",
-          "description": "Resie, de moeder van realityster Rowan en schoonmoeder van realityster Louisa Janssen is op 62-jarige leeftijd overleden. Resie leed aan uitgezaaide kanker."
-        },
-        {
-          "title": "Louisa Janssen en Rowan rouwen om overleden moeder: 'Rust zacht'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/louisa-janssen-en-rowan-rouwen-om-overleden-moeder-rust-zacht",
-          "publishedDate": "Mon, 14 Sep 2026 05:33:00 GMT",
-          "description": "Louisa Janssen en Rowan rouwen om Rowans moeder die is overleden aan kanker. Ze vertellen over hun emotionele afscheid en herinneringen op hun Instagram."
-        },
-        {
-          "title": "Na ruzie slaan Louisa Janssen en Michella Kox de handen weer ineen: 'Vriendschap weer teruggevonden'",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/nieuws/na-ruzie-slaan-louisa-janssen-en-michella-kox-de-handen-weer-ineen-vriendschap-weer-teruggevonden/ar-AA28SSdV",
-          "publishedDate": "Tue, 28 Jul 2026 10:09:00 GMT",
-          "description": "Na een jarenlange breuk is het weer koek en ei tussen Michella Kox (46) en Louisa Janssen (41). Op Instagram maken de realitysterren bekend dat ze zelfs samen het theater in gaan. &quot;Hoe kan dat beter ..."
-        },
-        {
-          "title": "Louisa Janssen",
-          "source": "Limburger",
-          "url": "https://www.limburger.nl/tag/louisa-janssen/",
-          "publishedDate": "Thu, 04 Jun 2026 08:00:00 GMT",
-          "description": "PremiumAndr&#233; bouwt aan eigen ‘Rieu de Janeiro’, weer jungledrama voor Louisa Janssen en Luv-collega’s kunnen bloed Patty drinken: dit zijn de verse roddels! Andr&#233; Rieu bouwt niet alleen muzikaal aan ..."
-        },
-        {
-          "title": "Louisa Janssen, Sem van Dijk en boer Ayoub in Boxing Influencers",
-          "source": "Nieuws",
-          "url": "https://nieuws.nl/entertainment/louisa-janssen-sem-van-dijk-en-boer-ayoub-in-boxing-influencers",
-          "publishedDate": "Tue, 15 Oct 2024 06:23:00 GMT",
-          "description": "Ook Louisa Janssen, Sem van Dijk en boer Ayoub doen mee aan de nieuwe editie van Boxing Influencers. Dat heeft streamingdienst Videoland dinsdag aangekondigd. Louisa Janssen komt in actie tegen ..."
-        },
-        {
-          "title": "Kinky Annebel deed bij Venlose Louisa Janssen de stoppen doorslaan",
-          "source": "Limburger",
-          "url": "https://www.limburger.nl/media-cultuur/show/kinky-annebel-deed-bij-venlose-louisa-janssen-de-stoppen-doorslaan/22261092.html",
-          "publishedDate": "Thu, 16 Feb 2023 12:16:00 GMT",
-          "description": "Gaat Sonja ‘botox’ Bakker Madonna achterna? Waarom zingt Glennis Grace een toontje lager in het verzorgingshuis? En de ware reden waarom onze Venlose Louisa Janssen uit de jungle werd gezet! Dit zijn ..."
-        }
-      ]
-    },
-    {
-      "keyword": "jong utrecht - jong ajax",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Jong Ajax-speler furieus na 'kutavond': 'Meer heb ik niet te zeggen...'",
-          "source": "Voetbal Centraal",
-          "url": "https://www.voetbalcentraal.nl/nieuws/1762526/Jong-Ajax-speler-furieus-na--kutavond-:--Meer-heb-ik-niet-te-zeggen...-",
-          "publishedDate": "Mon, 14 Sep 2026 16:38:00 GMT",
-          "description": "Jong Ajax beleefde een blamage van jewelste in het duel met Jong Utrecht. De Amsterdammers verloren maandagavond met 6-1 van de Domstedelingen. 'Een kutavond', aldus Ajax-rechtsback Ryan van de Pavert ..."
-        },
-        {
-          "title": "‘W&#233;&#233;r trainerswissel bij Ajax’",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/weer-trainerswissel-bij-ajax/",
-          "publishedDate": "Mon, 14 Sep 2026 15:25:00 GMT",
-          "description": "Sneuvelt er opnieuw een trainer in Amsterdam? Jong Ajax heeft maandagavond een blamerende nederlaag geleden op bezoek bij Jong FC Utrecht (6-1) en dat ..."
-        },
-        {
-          "title": "Jong FC Utrecht slacht Jong Ajax met bizarre cijfers, Bro debuteert bij Jong PSV",
-          "source": "Voetbal Centraal",
-          "url": "https://www.voetbalcentraal.nl/nieuws/1762496/Jong-FC-Utrecht-slacht-Jong-Ajax-met-bizarre-cijfers,-Bro-debuteert-bij-Jong-PSV",
-          "publishedDate": "Mon, 14 Sep 2026 13:10:00 GMT",
-          "description": "Jong Ajax heeft maandagavond een pijnlijke afstraffing gekregen in de Keuken Kampioen Divisie. Op bezoek bij Jong FC Utrecht ging de ploeg van trainer Carlos Garcia met 6-1 onderuit. Bij Jong PSV - Jo ..."
-        },
-        {
-          "title": "Stuntelend Jong Ajax vernederd in Utrecht, PSV-debuut voor Bro Hansen",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/stuntelend-jong-ajax-vernederd-in-utrecht-psv-debuut-voor-bro-hansen",
-          "publishedDate": "Mon, 14 Sep 2026 12:57:00 GMT",
-          "description": "Jong FC Utrecht heeft maandag met zeer ruime cijfers gewonnen van Jong Ajax. De ploeg van Mark Otten stond bij rust al met 3-0 voor, waarbij het de eerste twee goals cadeau had gekregen, en maakte er ..."
-        },
-        {
-          "title": "Live 20.00 uur | Jong FC Utrecht - Jong Ajax (4-0)",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/live-20-00-uur-jong-fc-utrecht-jong-ajax-4-0/ar-AA2c9J5W",
-          "publishedDate": "Mon, 14 Sep 2026 12:20:00 GMT",
-          "description": "Dit is het livetopic voor de competitiewedstrijd tussen Jong FC Utrecht en Jong Ajax. Beide ploegen treffen elkaar om 20.00 uur op Sportcomplex Zoudenbalch. Het duel is maandagavond live te zien via E ..."
-        },
-        {
-          "title": "De talenten van Jong FC Utrecht om in de gaten te houden dit seizoen",
-          "source": "FootballTransfers",
-          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-keuken-kampioen-divisie/2026/09/talenten-van-jong-fc-utrecht-om-in-de-gaten-te-houden-dit-seizoen",
-          "publishedDate": "Mon, 14 Sep 2026 12:02:00 GMT",
-          "description": "Terwijl FC Utrecht zoekende is in de Eredivisie, is ook Jong FC Utrecht niet heel goed aan het seizoen in de KKD begonnen. Toch lopen er in de jeugd van de club uit Utrecht genoeg talenten om in de ga ..."
-        },
-        {
-          "title": "Praat mee op VP: Jong FC Utrecht - Jong Ajax",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-jong-fc-utrecht-jong-ajax/ar-AA2ccSD2",
-          "publishedDate": "Mon, 14 Sep 2026 10:00:00 GMT",
-          "description": "De beloften van FC Utrecht en Ajax staan maandagavond tegenover elkaar in de Keuken Kampioen Divisie. De wedstrijd begint om 20.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrime ..."
-        },
-        {
-          "title": "Blamage Jong Ajax tegen hekkensluiter Jong Utrecht, keeper Joeri Heerkens de schlemiel",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/voetbal/blamage-jong-ajax-tegen-hekkensluiter-jong-utrecht-keeper-joeri-heerkens-de-schlemiel~aaf04ce9/",
-          "publishedDate": "Mon, 14 Sep 2026 06:34:00 GMT",
-          "description": "Jong Ajax heeft zich maandagavond te kijk gezet in de Keuken Kampioen Divisie. De talenten gingen op bezoek bij hekkensluiter Jong FC Utrecht maar liefst met 6-1 onderuit."
-        },
-        {
-          "title": "Sport Kort week 38: Jong FC Utrecht klopt Jong Ajax met 6-1 | Dertig plaatsen winst Van de Zandschulp",
-          "source": "RTV Utrecht",
-          "url": "https://www.rtvutrecht.nl/sport/4091071/sport-kort-week-38-jong-fc-utrecht-klopt-jong-ajax-met-6-1-dertig-plaatsen-winst-van-de-zandschulp",
-          "publishedDate": "Mon, 14 Sep 2026 06:23:00 GMT",
-          "description": "Provincie Utrecht - In dit overzicht houden we het laatste nieuws bij van sporters en sportteams uit de provincie Utrecht."
-        },
-        {
-          "title": "Jong Ajax hard onderuit bij Jong FC Utrecht",
-          "source": "AFC Ajax",
-          "url": "https://www.ajax.nl/artikelen/jong-ajax-hard-onderuit-bij-jong-fc-utrecht/",
-          "publishedDate": "Sun, 13 Sep 2026 17:00:00 GMT",
-          "description": "Jong Ajax heeft maandagavond verloren op bezoek bij Jong FC Utrecht. De ploeg van Carlos Garc&#237;a ging met 6-1 onderuit op Sportcomplex Zoudenbalch."
+          "title": "Gasprijs naar hoogste punt in 3 jaar, Europa vreest dure winter",
+          "source": "Newsbit",
+          "url": "https://newsbit.nl/gasprijs-naar-hoogste-punt-in-3-jaar-europa-vreest-dure-winter/",
+          "publishedDate": "Wed, 02 Sep 2026 13:29:00 GMT",
+          "description": "Europese gasprijzen stijgen naar het hoogste niveau in drie jaar. Lage voorraden en spanningen rond Iran vergroten de zorgen over de winter."
         }
       ]
     },
     {
       "keyword": "oasis",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "Oasis komt in juli naar Amsterdam met twee shows tijdens nieuwe tournee",
@@ -690,11 +303,18 @@
           "description": "Oasis treedt in juli 2027 op in de Johan Cruijff ArenA, delen de broers Liam en Noel Gallagher maandag op Instagram. De optredens zijn onderdeel van het tweede deel van de re&#252;nietour. Ook staan er sho ..."
         },
         {
-          "title": "Oasis volgend jaar juli twee keer naar Johan Cruijff Arena",
+          "title": "Oasis staat volgend jaar juli twee keer in de Johan Cruijff Arena",
           "source": "Het Parool",
-          "url": "https://www.parool.nl/kunst-media/oasis-volgend-jaar-juli-twee-keer-naar-johan-cruijff-arena~b5ce8827/",
+          "url": "https://www.parool.nl/kunst-media/oasis-staat-volgend-jaar-juli-twee-keer-in-de-johan-cruijff-arena~b5ce8827/",
           "publishedDate": "Mon, 14 Sep 2026 10:25:00 GMT",
           "description": "De Britse rockband Oasis speelt op 16 en 17 juli volgend jaar in de Johan Cruijff Arena. De optredens horen bij het tweede deel van de re&#252;nietournee van de broers Liam en Noel Gallagher."
+        },
+        {
+          "title": "Band Oasis kondigt nieuwe tour aan, ook optredens in Amsterdam",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2630985-band-oasis-kondigt-nieuwe-tour-aan-ook-optredens-in-amsterdam",
+          "publishedDate": "Mon, 14 Sep 2026 08:54:00 GMT",
+          "description": "In totaal heeft de band 38 optredens aangekondigd, van mei tot september 2027. De meeste concerten staan gepland in grote stadions in onder meer Manchester, M&#252;nchen, Parijs en Boston. Fans kunnen zich ..."
         },
         {
           "title": "Oasis na 18 jaar terug in Nederland: twee shows in Amsterdam tijdens nieuwe tournee",
@@ -704,11 +324,18 @@
           "description": "Het zat er al een tijdje aan te komen, maar inmiddels is het ook officieel. Liam (53) en Noel Gallagher (59) gaan volgend jaar opnieuw op tournee met hun band Oasis. De twee broers, die hun nieuwe tou ..."
         },
         {
-          "title": "Oasis 2027 tour: Knebworth, Manchester en Glasgow bevestigd",
-          "source": "amigoearuba.com",
-          "url": "https://amigoearuba.com/oasis-2027-tour-knebworth-manchester-en-glasgow-bevestigd/",
-          "publishedDate": "Mon, 14 Sep 2026 11:27:00 GMT",
-          "description": "Oasis keert in de zomer van 2027 terug met een tweede tourneeleg, inclusief vier nachten in Knebworth, elf shows in Manchester en vijf concerten in Glasgow."
+          "title": "Oasis in juli 2027 voor twee concerten naar de Arena",
+          "source": "OOR",
+          "url": "https://oor.nl/news/oasis-in-juli-2027-voor-twee-concerten-naar-de-arena/",
+          "publishedDate": "Tue, 15 Sep 2026 01:00:00 GMT",
+          "description": "Na de teasers is er nu de bevestiging: Oasis komt in 2027 naar Amsterdam. De band kondigde maandag Oasis Live ’27 aan, een tournee van 38 shows door Europa, het Verenigd Koninkrijk en de Verenigde Sta ..."
+        },
+        {
+          "title": "Oasis keert Belgi&#235; de rug toe: deze plekken krijgen wel bezoek van de Gallagher-broers",
+          "source": "P-Magazine",
+          "url": "https://p-magazine.com/nl/articles/oasis-keert-belgie-de-rug-toe-deze-plekken-krijgen-wel-bezoek-van-de-gallagher-broers",
+          "publishedDate": "Mon, 14 Sep 2026 16:59:00 GMT",
+          "description": "Het zat er al een tijdje aan te komen, maar nu is het eindelijk officieel: Liam (53) en Noel Gallagher (59) trekken volgend jaar opnieuw de wereld rond met ..."
         },
         {
           "title": "Oasis twee keer te zien in Johan Cruijff ArenA in juli 2027",
@@ -732,25 +359,391 @@
           "description": "De kogel is door de kerk: Oasis staat op 16 en 17 juli volgend jaar in de Johan Cruijff Arena. Dat heeft de Britse band bekendgemaakt. Eerder hintten de broers Liam en Noel Gallagher, bekend van hits ..."
         },
         {
-          "title": "Nieuwe Europese tournee voor Oasis in 2027 met twee concerten in Johan Cruijff Arena",
-          "source": "Podiuminfo",
-          "url": "https://www.podiuminfo.nl/news/59325/Nieuwe-Europese-tournee-voor-Oasis-in-2027-met-twee-concerten-in-Johan-Cruijff-Arena/",
-          "publishedDate": "Mon, 14 Sep 2026 07:54:00 GMT",
-          "description": "Oasis trekt in de zomer van 2027 naar het Europese vasteland voor een reeks grote stadionconcerten. De band rond de broers Noel en Liam Gallagher ..."
-        },
-        {
-          "title": "Oasis naar Johan Cruijff Arena",
-          "source": "Maxazine",
-          "url": "https://www.maxazine.nl/2026/09/14/oasis-naar-johan-cruijff-arena/",
-          "publishedDate": "Mon, 14 Sep 2026 06:43:00 GMT",
-          "description": "De geruchten gingen al een tijdje, maar vandaag maakte de band Oasis bekend dat ze volgend jaar weer door Europa gaan touren. Hierbij zullen ze ook optreden in de Johan Cruijff Arena in Amsterdam. Het ..."
-        },
-        {
           "title": "Oasis kondigt nieuwe tournee aan: geen concert in Belgi&#235;, in deze steden kan je ze wel zien",
           "source": "Het Laatste Nieuws",
           "url": "https://www.hln.be/muziek/oasis-kondigt-nieuwe-tournee-aan-geen-concert-in-belgie-in-deze-steden-kan-je-ze-wel-zien~a17f16b3/",
           "publishedDate": "Mon, 14 Sep 2026 02:14:00 GMT",
           "description": "Het zat er al een tijdje aan te komen, maar inmiddels is het ook officieel. Liam (53) en Noel Gallagher (59) gaan volgend jaar opnieuw op tournee met hun band Oasis. De twee broers, die hun nieuwe tou ..."
+        }
+      ]
+    },
+    {
+      "keyword": "yves bissouma",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Ervaren transfervrije middenvelder Yves Bissouma op weg naar Ajax",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/ajax/ervaren-transfervrije-middenvelder-yves-bissouma-op-weg-naar-ajax~bd833ddc/",
+          "publishedDate": "Mon, 14 Sep 2026 14:53:00 GMT",
+          "description": "Ajax is hard op weg om Yves Bissouma vast te leggen. De onderhandelingen met de transfervrije middenvelder bevinden zich in een vergevorderd stadium."
+        },
+        {
+          "title": "Bissouma is buitenkansje waar M&#237;chel op hoopte: 'Wilde er nog een multi-inzetbare middenvelder bij'",
+          "source": "Ajax Showtime",
+          "url": "https://www.ajaxshowtime.com/opinie/bissouma-is-buitenkansje-waar-michel-op-hoopte-wilde-er-nog-een-multi-inzetbare-middenvelder-bij",
+          "publishedDate": "Tue, 15 Sep 2026 01:15:00 GMT",
+          "description": "Yves Bissouma moet M&#237;chel S&#225;nchez nog meer opties gaan geven op het middenveld. Dat is de conclusie die men trekt in de AD-voetbalpodcast. Willem II-watcher Dolf van Aert ziet in de middenvelder een a ..."
+        },
+        {
+          "title": "'Met Bissouma haal je problemen, hij zit meer aan het lachgas dan dat hij traint'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/met-bissouma-haal-je-problemen-hij-zit-meer-aan-het-lachgas-dan-dat-hij-traint/ar-AA2cfgOE",
+          "publishedDate": "Tue, 15 Sep 2026 00:10:03 GMT",
+          "description": "Volgens Valentijn Driessen kan Ajax Yves Bissouma beter niet binnenhalen. Dat laat eerstgenoemde weten aan tafel bij Vandaag Inside . Volgens het laatste nieuws is de transfervrije middenvelder hard o ..."
+        },
+        {
+          "title": "'Bissouma kan bijzondere verschijning worden in de Eredivisie'",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/video/bissouma-kan-bijzondere-verschijning-worden-in-de-eredivisie",
+          "publishedDate": "Mon, 14 Sep 2026 22:30:00 GMT",
+          "description": "In deze aflevering van VI ZSM bespreken Bart Kruyt en Bart Frouws de interesse van Ajax in Yves Bissouma. De voormalig speler van Tottenham Hotspur is transfervrij en kan daardoor ook na het sluiten v ..."
+        },
+        {
+          "title": "Yves Bissouma naar Ajax: ‘Zit meer aan het lachgas, dan dat hij op het trainingsveld staat’",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/09/15/yves-bissouma-naar-ajax-zit-meer-aan-het-lachgas-dan-dat-hij-op-trainingsveld-staat/",
+          "publishedDate": "Mon, 14 Sep 2026 17:41:00 GMT",
+          "description": "Gisteren werd bekend dat Ajax nog in de markt is voor Yves Bissouma. Sportjournalist Valentijn Driessen zou het slechte zaak vinden als de Amsterdammers hem binnen halen. Dit heeft hij gisteren laten ..."
+        },
+        {
+          "title": "Jordi Cruijff slaat slag: Yves Bissouma op weg naar Ajax",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/jordi-cruijff-slaat-slag-yves-bissouma-op-weg-naar-ajax",
+          "publishedDate": "Mon, 14 Sep 2026 15:02:00 GMT",
+          "description": "Ajax wil volgens bronnen proberen Yves Bissouma transfervrij vast te leggen. De middenvelder werd eind augustus al met de Amsterdammers in verband gebracht."
+        },
+        {
+          "title": "Ajax krijgt direct antwoord van Yves Bissouma (30)",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/ajax-krijgt-direct-antwoord-van-yves-bissouma-30/blt7aa392d8b0a6dc5b",
+          "publishedDate": "Mon, 14 Sep 2026 13:27:00 GMT",
+          "description": "Ajax heeft goede hoop dat het Yves Bissouma naar Amsterdam kan halen, zo meldt De Telegraaf. Volgens Mike Verweij is er weliswaar flinke concurrentie vanuit de Europese topvijfcompetities, maar lijkt ..."
+        },
+        {
+          "title": "Razendsnelle ontwikkelingen: Bissouma hard op weg naar Ajax",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/razendsnelle-ontwikkelingen-bissouma-hard-op-weg-naar-ajax/ar-AA2ccW9R",
+          "publishedDate": "Mon, 14 Sep 2026 13:03:00 GMT",
+          "description": "De ontwikkelingen volgen elkaar in rap tempo op. Waar De Telegraaf eerder op de maandagavond wist te melden dat Ajax 'goede hoop' heeft op de komst van Yves Bissouma, meldt ESPN dat de Amsterdammers ' ..."
+        },
+        {
+          "title": "Ajax wil Yves Bissouma transfervrij halen: wat kan de middenvelder toevoegen?",
+          "source": "FootballTransfers",
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/09/is-yves-bissouma-de-versterking-op-het-middenveld-die-michel-zoekt",
+          "publishedDate": "Mon, 14 Sep 2026 11:12:00 GMT",
+          "description": "Ajax zou op de transfervrije markt uit zijn gekomen bij Yves Bissouma als aanwinst voor op het middenveld. M&#237;chel S&#225;nchez stelde al dat hij een ervaring in die linie toe wilde voegen, maar wat zegt de ..."
+        },
+        {
+          "title": "‘Ajax toont interesse in Yves Bissouma: ervaring krijgt voorrang in Amsterdam’",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/ajax-interesse-yves-bissouma-ervaring-amsterdam/",
+          "publishedDate": "Mon, 14 Sep 2026 08:41:00 GMT",
+          "description": "Ajax bekijkt de transfervrije Yves Bissouma als middenveldversterking, al moet de Malinese international nog volledig topfit raken."
+        }
+      ]
+    },
+    {
+      "keyword": "alfredo goeloe",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "De politie zag Alfredo (51) ten onrechte aan voor een fietsendief. Hij overleed bij zijn arrestatie",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/09/14/de-politie-zag-alfredo-51-ten-onrechte-aan-voor-een-fietsendief-hij-overleed-bij-zijn-arrestatie-a4936597",
+          "publishedDate": "Mon, 14 Sep 2026 15:25:00 GMT",
+          "description": "Politiegeweld: De politie bevestigt tegenover NRC dat de 51-jarige Rotterdammer die afgelopen weekend overleed bij een hardhandige arrestatie onschuldig was. Hij reed niet rond op een gestolen fiets."
+        },
+        {
+          "title": "Gevoelens van onrecht overheersen na dodelijke arrestatie van Alfredo Goeloe",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/gevoelens-van-onrecht-overheersen-na-dodelijke-arrestatie-van-alfredo-goeloe~bb6ae899/",
+          "publishedDate": "Mon, 14 Sep 2026 14:31:00 GMT",
+          "description": "In Rotterdam is maandagavond een stille tocht georganiseerd voor de 51-jarige man die zaterdag om het leven kwam bij zijn arrestatie. We bellen met verslaggever Remco Andersen, die ter plekke is."
+        },
+        {
+          "title": "Stille tocht voor Alfredo Goeloe die overleed na arrestatie; na afloop onrustig",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2631007-stille-tocht-voor-alfredo-goeloe-die-overleed-na-arrestatie-na-afloop-onrustig",
+          "publishedDate": "Mon, 14 Sep 2026 12:57:00 GMT",
+          "description": "Vanavond vond in Rotterdam-Zuid een stille tocht plaats ter nagedachtenis aan Goeloe. Hij overleed zaterdagavond kort nadat hij door de politie was aangehouden."
+        },
+        {
+          "title": "Zwangere Charnelle wacht op Alfredo bij hun babyshower, maar hij overlijdt vlakbij bij arrestatie",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/rotterdam/zwangere-charnelle-wacht-op-alfredo-bij-hun-babyshower-maar-hij-overlijdt-vlakbij-bij-arrestatie~ae5179af4/",
+          "publishedDate": "Mon, 14 Sep 2026 09:55:00 GMT",
+          "description": "De 51-jarige Alfredo Goeloe, die zaterdagavond overleed tijdens zijn arrestatie, kwam net bij de babyshower van zijn ongeboren kind vandaan. Volgens zijn zwangere vriendin had hij niets met een fatbik ..."
+        },
+        {
+          "title": "Stille tocht voor overleden Alfredo Goeloe na fatbike-incident eindigt met stenen en vuurwerk richting ME",
+          "source": "VK Magazine",
+          "url": "https://www.vkmag.com/magazine/stille-tocht-voor-overleden-alfredo-goeloe-na-fatbike-incident-eindigt-met-stenen-en-vuurwerk-richting-me",
+          "publishedDate": "Tue, 15 Sep 2026 00:31:00 GMT",
+          "description": "Afgelopen weekend schreven we over de 51-jarige Alfredo Goeloe uit Rotterdam, die zaterdagavond overleed nadat hij tijdens een aanhouding door de politie onwel was geworden. Beelden van die aanhouding ..."
+        },
+        {
+          "title": "Familie Alfredo Goeloe wil vervolging agenten na fatale arrestatie in Rotterdam",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/het-beste-van-hart/persoonlijke-verhalen/artikelen/rotterdam-alfredo-goeloe-aangifte-agenten-arrestatie",
+          "publishedDate": "Mon, 14 Sep 2026 23:44:00 GMT",
+          "description": "De oudste dochter van Alfredo Goeloe (51), die zaterdag overleed na een arrestatie in Rotterdam, gaat aangifte doen tegen de betrokken agenten. De familie wil dat wordt onderzocht of sprake is geweest ..."
+        },
+        {
+          "title": "Oudste dochter Alfredo wil dat agenten vervolgd worden",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/oudste-dochter-alfredo-wil-dat-agenten-vervolgd-worden",
+          "publishedDate": "Mon, 14 Sep 2026 16:19:00 GMT",
+          "description": "De oudste dochter van de overleden Rotterdammer Alfredo Goeloe (51) gaat aangifte doen tegen de agenten die betrokken waren bij zijn arrestatie. Zij wil dat de agenten vervolgd worden, zei haar advoca ..."
+        },
+        {
+          "title": "Beelden tonen fatale arrestatie van Alfredo (51) nadat hij babyshower verlaat om medicatie te halen: “Help, ik heb suikerziekte!”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/beelden-tonen-fatale-arrestatie-van-alfredo-51-nadat-hij-babyshower-verlaat-om-medicatie-te-halen-help-ik-heb-suikerziekte~a65bf484/",
+          "publishedDate": "Mon, 14 Sep 2026 15:47:00 GMT",
+          "description": "In de Nederlandse stad Rotterdam is ophef ontstaan nadat een 51-jarige man overleed bij zijn arrestatie. Alfredo Goeloe (51) had net even de babyshower van zijn ongeboren kind verlaten, toen agenten h ..."
+        },
+        {
+          "title": "Slachtoffer politiegweld woonde eerder op Cura&#231;ao",
+          "source": "Curacao.nu",
+          "url": "https://www.curacao.nu/nieuws/nieuws-uit-nederland/95016/slachtoffer-politiegweld-woonde-eerder-op-curacao",
+          "publishedDate": "Mon, 14 Sep 2026 15:17:00 GMT",
+          "description": "WILLEMSTAD/ROTTERDAM – De 51-jarige Juan Alfredo Goeloe, die zaterdagavond in Rotterdam overleed na een gewelddadige politieaanhouding, heeft een Cura&#231;aose connectie."
+        },
+        {
+          "title": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem",
+          "publishedDate": "Mon, 14 Sep 2026 07:37:00 GMT",
+          "description": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straa ..."
+        }
+      ]
+    },
+    {
+      "keyword": "schaatsen",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Jutta Leerdam slaat komende schaatsseizoen over: ‘Maar met pensioen gaan? Dat klinkt te definitief’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/schaatsen/jutta-leerdam-slaat-komende-schaatsseizoen-over-maar-met-pensioen-gaan-dat-klinkt-te-definitief~ae813aef/",
+          "publishedDate": "Mon, 14 Sep 2026 15:56:00 GMT",
+          "description": "Jutta Leerdam is komend seizoen niet te zien op het ijs. De olympisch kampioene slaat het hele schaatsseizoen over, laat ze weten op haar eigen YouTube-kanaal. „Ga ik met pensioen? E&#233;n ding is zeker: ..."
+        },
+        {
+          "title": "Schaatsen moet Jutta Leerdam (tijdelijk) missen: 'Impact door persoonlijkheid'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/schaatsen/6409756/schaatsen-moet-jutta-leerdam-tijdelijk-missen-impact-door-persoonlijkheid.html",
+          "publishedDate": "Mon, 14 Sep 2026 15:02:00 GMT",
+          "description": "Jutta Leerdam meldde maandag in een video van twaalf minuten op haar nieuwe YouTube-kanaal dat ze in ieder geval komend seizoen niet gaat schaatsen. De (tijdelijke) afscheidsboodschap was zoals haar h ..."
+        },
+        {
+          "title": "Jutta Leerdam komt dit seizoen niet in actie: 'Maar pensioen klinkt te definitief'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/schaatsen/6404563/jutta-leerdam-komt-dit-seizoen-niet-in-actie-maar-pensioen-klinkt-te-definitief.html",
+          "publishedDate": "Mon, 14 Sep 2026 11:47:00 GMT",
+          "description": "Jutta Leerdam komt dit schaatsseizoen niet in actie. De 27-jarige Zuid-Hollandse, die in februari voor het eerst olympisch goud in Milaan veroverde, wil nog niet definitief een punt achter haar loopba ..."
+        },
+        {
+          "title": "Erben Wennemars vertelt waarom hij na 17 jaar stopte bij de NOS: ‘Ik moest spitsroeden lopen’",
+          "source": "AD",
+          "url": "https://www.ad.nl/schaatsen/erben-wennemars-vertelt-waarom-hij-na-17-jaar-stopte-bij-de-nos-ik-moest-spitsroeden-lopen~ab604e64/",
+          "publishedDate": "Mon, 14 Sep 2026 17:19:00 GMT",
+          "description": "Na een samenwerking van 17 jaar besloten Erben Wennemars en de NOS afgelopen mei uit elkaar gaan, een maand voor zijn herseninfarct. Als schaatsanalist was zijn rol door de successen van zoon Joep ond ..."
+        },
+        {
+          "title": "Jutta Leerdam schaatst dit seizoen niet, maar stopt nog niet definitief",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/sport/wil-je-weten/jutta-leerdam-schaatst-dit-seizoen-niet-maar-stopt-nog-niet-definitief/",
+          "publishedDate": "Mon, 14 Sep 2026 13:56:00 GMT",
+          "description": "Jutta Leerdam (27) laat komend schaatsseizoen aan zich voorbijgaan. Ze sluit een comeback niet uit, maar voorlopig geniet ze van haar vrijheid, onder meer met verloofde Jake Paul. Dat is op Nu.nl te ..."
+        },
+        {
+          "title": "Olympisch goud binnen, schaatsen uit: Jutta Leerdam drukt voorlopig op de pauzeknop",
+          "source": "VK Magazine",
+          "url": "https://www.vkmag.com/magazine/olympisch-goud-binnen-schaatsen-uit-jutta-leerdam-drukt-voorlopig-op-de-pauzeknop",
+          "publishedDate": "Mon, 14 Sep 2026 10:45:00 GMT",
+          "description": "Jarenlang stond zo’n beetje alles in het leven van Jutta Leerdam in het teken van een paar minuten op het ijs. Trainen, herstellen, eten, nog meer trainen en ondertussen proberen om iedereen achter je ..."
+        },
+        {
+          "title": "Olympisch schaatskampioene Leerdam dit seizoen niet in actie",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/olympisch-schaatskampioene-leerdam-dit-seizoen-niet-in-actie/ar-AA2cc7lN",
+          "publishedDate": "Mon, 14 Sep 2026 10:05:48 GMT",
+          "description": "HEERENVEEN (ANP) - Schaatsster Jutta Leerdam komt dit seizoen niet in actie op de ijsbaan. Dat heeft de olympisch kampioene op de 1000 meter maandag bekendgemaakt via haar eigen YouTubekanaal. De 27-j ..."
+        },
+        {
+          "title": "Schaatsen in Nieuwkoop: meer dan een sport, een traditie!",
+          "source": "Alphens.nl",
+          "url": "https://www.alphens.nl/nieuws/schaatsen-in-nieuwkoop-meer-dan-een-sport-een-traditie.html",
+          "publishedDate": "Fri, 11 Sep 2026 02:31:00 GMT",
+          "description": "Daarom is STG NiNo een campagne gestart om de schaatssport in Nederland, en vooral in Nieuwkoop en omgeving, extra onder de aandacht te brengen. Want schaatsen is er ..."
+        },
+        {
+          "title": "Schaatsen met kerst: hier wordt vandaag al geschaatst op natuurijs",
+          "source": "bd.nl",
+          "url": "https://www.bd.nl/maasdriel/schaatsen-met-kerst-hier-wordt-vandaag-al-geschaatst-op-natuurijs~ab603ce7/",
+          "publishedDate": "Wed, 24 Dec 2025 18:58:00 GMT",
+          "description": "Het was even spannend, maar het harde werk van Stichting IJsbaan Kerkdriel werd beloond: splinternieuwe ijsbaan ‘De Griend’ is aangelegd en klaar om tussen 10.00 uur tot 14.00 uur op te schaatsen. Wat ..."
+        },
+        {
+          "title": "Wie haalt de schaatsen nog echt uit het vet?",
+          "source": "RTV Drenthe",
+          "url": "https://www.rtvdrenthe.nl/nieuws/17231939/wie-haalt-de-schaatsen-nog-echt-uit-het-vet",
+          "publishedDate": "Sat, 15 Feb 2025 00:00:00 GMT",
+          "description": "Als het koufront een beetje wil doorzetten, dan kunnen in het weekend of maandag misschien wel de schaatsen uit het vet. Een mooie oude uitdrukking, de schaatsen uit het vet halen. Maar worden ..."
+        }
+      ]
+    },
+    {
+      "keyword": "ferry doedens",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Belastingdienst legt beslag op huis Ferry Doedens vanwege schulden",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/achterklap/6409745/belastingdienst-legt-beslag-op-huis-ferry-doedens-vanwege-schulden.html",
+          "publishedDate": "Mon, 14 Sep 2026 12:30:00 GMT",
+          "description": "De Belastingdienst heeft beslag gelegd op het huis van Ferry Doedens, meldt RTL Boulevard donderdag. De ster, bekend van Goede Tijden, Slechte Tijden, kampt al langere tijd met verslavingsproblemen en ..."
+        },
+        {
+          "title": "Belastingdienst legt beslag op het huis van Ferry Doedens",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/belastingdienst-legt-beslag-op-het-huis-van-ferry-doedens/ar-AA2ccbSi",
+          "publishedDate": "Mon, 14 Sep 2026 09:06:54 GMT",
+          "description": "De financi&#235;le problemen van Ferry Doedens (36) zijn nog groter dan gedacht. De Belastingdienst heeft beslag gelegd op het huis van acteur. Dat blijkt uit onderzoek van RTL Boulevard."
+        },
+        {
+          "title": "'Ernstige situatie' rond Ferry Doedens na beslaglegging woning: 'Flinke klap'",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/video/35dbdd0b-233d-47a3-b83c-e222cfc864e0/ernstige-situatie-rond-ferry-doedens-na",
+          "publishedDate": "Sun, 13 Sep 2026 17:00:00 GMT",
+          "description": "In de documentaire 'Ferry Lost' is te zien hoe Ferry Doedens (36) zijn leven op de rit probeert te krijgen. Zijn verslaving aan onder meer crypto en oplopende schulden zorgen voor grote zorgen bij zij ..."
+        },
+        {
+          "title": "Raakt Ferry Doedens zijn huis kwijt? 'Nu echt beslag gelegd op woning'",
+          "source": "Panorama on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/raakt-ferry-doedens-zijn-huis-kwijt-nu-echt-beslag-gelegd-op-woning/ar-AA2cfhg3",
+          "publishedDate": "Tue, 15 Sep 2026 01:00:00 GMT",
+          "description": "De tegenslagen stapelen zich op voor Ferry Doedens. Volgens onderzoek van RTL Boulevard heeft de Belastingdienst beslag gelegd op zijn huis."
+        },
+        {
+          "title": "Acteur Ferry Doedens diep in de financi&#235;le problemen: woning onder beslag",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/sterren/acteur-ferry-doedens-diep-in-de-financiele-problemen-woning-onder-beslag",
+          "publishedDate": "Mon, 14 Sep 2026 13:15:00 GMT",
+          "description": "Ferry Doedens heeft flinke geldproblemen blijkt uit onderzoek van RTL Boulevard. De Belastingdienst heeft (executoriaal) beslag gelegd op het huis van de (voormalig GTST-)acteur."
+        },
+        {
+          "title": "Ferry Doedens verbijstert met beslag op huis: ‘Eerst rock bottom’",
+          "source": "mediacourant",
+          "url": "https://www.mediacourant.nl/2026/09/ferry-doedens-verbijstert-met-beslag-op-huis-eerst-rock-bottom/",
+          "publishedDate": "Mon, 14 Sep 2026 13:00:00 GMT",
+          "description": "Het gaat opnieuw behoorlijk mis met Ferry Doedens. De voormalig GTST-acteur kampt al langere tijd met verslavings- en financi&#235;le problemen en nu blijkt uit onderzoek van RTL Boulevard dat de ..."
+        },
+        {
+          "title": "Zorgen om Ferry Doedens nemen toe: Belastingdienst legt beslag op woning",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/belastingdienst-beslag-woning-ferry-doedens-veiling",
+          "publishedDate": "Mon, 14 Sep 2026 10:19:00 GMT",
+          "description": "De zorgen om Ferry Doedens nemen toe. Nadat bekend werd dat de Vereniging van Eigenaren beslag legt op zijn woning, doet de Belastingdienst dat nu ook."
+        },
+        {
+          "title": "Buren zijn Ferry Doedens zat: dreigen hem op straat te zetten",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/buren-zijn-ferry-doedens-zat-dreigen-hem-op-straat-te-zetten",
+          "publishedDate": "Mon, 07 Sep 2026 03:28:00 GMT",
+          "description": "Nieuwe problemen voor Ferry Doedens. De Vereniging van Eigenaren zou al langere tijd op geld van de voormalig GTST-acteur wachten."
+        },
+        {
+          "title": "Ferry Doedens toch in beroep tegen boete, vanwege onduidelijkheid over rijbewijs",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/ferry-doedens-toch-in-beroep-tegen-boete-vanwege-onduidelijkheid-over-rijbewijs~ab0e5439/",
+          "publishedDate": "Wed, 03 Jun 2026 01:35:00 GMT",
+          "description": "Ferry Doedens heeft toch hoger beroep aangetekend tegen de boete van 800 euro die hij op 13 mei kreeg wegens rijden onder invloed van drugs. Zijn advocaat Kerem Canatan zegt dat het beroep vooral is a ..."
+        },
+        {
+          "title": "Ferry Doedens moet zijn taakstraf even onderbreken om w&#233;&#233;r voor de rechter te verschijnen",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/show/ferry-doedens-moet-zijn-taakstraf-even-onderbreken-om-weer-voor-de-rechter-te-verschijnen~a6ec5ec2/?slug_rd=1",
+          "publishedDate": "Mon, 11 May 2026 17:33:00 GMT",
+          "description": "Doedens werd in 2024 drie keer betrapt met drugs op achter het stuur. Voor de eerste twee keer stond hij in februari 2025 al terecht. Voor de derde keer dat hij werd betrapt, in juni 2024 in ..."
+        }
+      ]
+    },
+    {
+      "keyword": "harry van sussex",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Harry en Meghan ‘verrast’ door brief van koning Charles over hun status",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/harry-en-meghan-verrast-door-brief-van-koning-charles-over-hun-status~a0391c6b/",
+          "publishedDate": "Mon, 07 Sep 2026 22:00:00 GMT",
+          "description": "Prins Harry en zijn vrouw Meghan zijn ‘verrast’ door een brief die namens koning Charles is verstuurd, waarin wordt verduidelijkt dat zij ook na hun terugkeer naar het Verenigd Koninkrijk geen werkend ..."
+        },
+        {
+          "title": "'Prins Harry en Meghan verhuizen deze maand terug naar Verenigd Koninkrijk'",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627549-prins-harry-en-meghan-verhuizen-deze-maand-terug-naar-verenigd-koninkrijk",
+          "publishedDate": "Wed, 19 Aug 2026 18:05:00 GMT",
+          "description": "De hertog en hertogin van Sussex vertrokken in 2020 uit het Verenigd Koninkrijk en wonen sindsdien in de Amerikaanse staat Californi&#235;."
+        },
+        {
+          "title": "Prins Harry en Meghan verhuizen terug naar Londen, na jarenlange onrust binnen koninklijke familie",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/prins-harry-en-meghan-verhuizen-terug-naar-londen-na-jarenlange-onrust-binnen-koninklijke-familie~a3b0a5a4/",
+          "publishedDate": "Wed, 19 Aug 2026 15:09:00 GMT",
+          "description": "Harry en Meghan, de hertog en hertogin van Sussex, zijn van plan deze maand vanuit de Verenigde Staten terug te verhuizen naar het Verenigd Koninkrijk, zo meldt de The Daily Telegraph en The Sun."
+        },
+        {
+          "title": "Beveiliging prins Harry opnieuw onder de loep na terugkeer naar VK",
+          "source": "RTL Boulevard (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/beveiliging-prins-harry-opnieuw-onder-de-loep-na-terugkeer-naar-vk/ar-AA2cd97J",
+          "publishedDate": "Mon, 14 Sep 2026 12:03:31 GMT",
+          "description": "De beveiliging van prins Harry (41) in het Verenigd Koninkrijk wordt opnieuw beoordeeld, nu hij met zijn gezin naar zijn vaderland is terugverhuisd. Dat melden verschillende Britse media, waaronder IT ..."
+        },
+        {
+          "title": "Harry en Meghan wisselen kinderen vanwege veiligheid alweer van school",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/show/harry-en-meghan-wisselen-kinderen-vanwege-veiligheid-alweer-van-school~a3e2e73a/",
+          "publishedDate": "Mon, 14 Sep 2026 08:50:00 GMT",
+          "description": "De Britse prins Harry en zijn vrouw Meghan hebben hun kinderen Archie en Lilibet vlak na het begin van het nieuwe schooljaar alweer van school gewisseld. Dat schrijft onder meer Sky News. Het besluit ..."
+        },
+        {
+          "title": "Harry, Meghan en hun kinderen genieten van hun nieuwe leven in Verenigd Koninkrijk",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/harry-meghan-en-hun-kinderen-genieten-van-hun-nieuwe-leven-in-verenigd-koninkrijk~ac4f77339/",
+          "publishedDate": "Sun, 13 Sep 2026 18:14:00 GMT",
+          "description": "Meghan (45), de vrouw van de Britse prins Harry (41), lijkt blij te zijn met hun terugkeer naar het Verenigd Koninkrijk. Op Instagram deelt Meghan een filmpje met een hartje en de Britse vlag. In de v ..."
+        },
+        {
+          "title": "Prins William en prinses Catherine overrompeld door de terugkeer van prins Harry en Meghan Markle",
+          "source": "Weekend Online",
+          "url": "https://www.weekend-online.nl/buitenland/prins-william-prinses-catherine-harry-meghan-markle/",
+          "publishedDate": "Sat, 12 Sep 2026 05:59:00 GMT",
+          "description": "De terugkeer van prins Harry en Meghan Markle zou hard zijn aangekomen bij prins William en prinses Catherine."
+        },
+        {
+          "title": "Prioriteit van Meghan en Harry in het VK",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/lifestyle/lifestyle-nieuws/a73680340/meghan-markle-prins-harry-focus-brief-koning-charles/",
+          "publishedDate": "Thu, 10 Sep 2026 22:52:00 GMT",
+          "description": "Een bron gaf details over waar het stel zich op richt nu ze zich in hun nieuwe huis in het Verenigd Koninkrijk vestigen."
+        },
+        {
+          "title": "BBC: Prins Harry en Meghan arriveren woensdag in VK",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/bbc-prins-harry-en-meghan-arriveren-woensdag-in-vk",
+          "publishedDate": "Wed, 26 Aug 2026 06:46:00 GMT",
+          "description": "Prins Harry en zijn vrouw Meghan maken woensdag hun veelbesproken terugkeer naar het Verenigd Koninkrijk, zo meldt de BBC. Onlangs werd bekend dat de hertog en hertogin van Sussex van plan zijn om met ..."
+        },
+        {
+          "title": "Prins Harry en Meghan aangekomen in Verenigd Koninkrijk, kinderen binnenkort naar Britse school",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/show/prins-harry-en-meghan-aangekomen-in-verenigd-koninkrijk-kinderen-binnenkort-naar-britse-school~aa17eb01/",
+          "publishedDate": "Tue, 25 Aug 2026 22:33:00 GMT",
+          "description": "Harry en Meghan, de hertog en hertogin van Sussex, zijn woensdag gearriveerd in het Verenigd Koninkrijk. Dat melden verschillende Britse media. Het stel en hun kinderen arriveerden rond het middaguur ..."
         }
       ]
     }
