@@ -1,106 +1,98 @@
 {
-  "fetchedAt": "2026-09-17T20:26:57.898Z",
+  "fetchedAt": "2026-09-17T22:58:36.379Z",
   "trends": [
     {
       "keyword": "juventus - nec",
-      "trafficLabel": "20K+",
+      "trafficLabel": "50K+",
       "articles": [
         {
-          "title": "Kan NEC iets terugdoen tegen Juventus? • Drie tegengoals in eerste helft",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2631421-kan-nec-iets-terugdoen-tegen-juventus-drie-tegengoals-in-eerste-helft",
-          "publishedDate": "Thu, 17 Sep 2026 10:09:00 GMT",
-          "description": "Een dramatische eerste helft voor NEC, dat drie tegentreffers kreeg. Een lange bal van eigen helft kwam bij spits Gonz&#225;lez terecht, waarna Polster mis zat. Daarna kreeg Alajbegovic alle ruimte om te schieten en de strafschop tegen was ook niet nodig."
+          "title": "NEC hard onderuit bij Juventus in Europa League na vroege fout doelman Polster",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6410141/nec-hard-onderuit-bij-juventus-in-europa-league-na-vroege-fout-doelman-polster.html",
+          "publishedDate": "Thu, 17 Sep 2026 15:51:00 GMT",
+          "description": "NEC is donderdag met een forse nederlaag aan het Europa League-seizoen begonnen. De ploeg van trainer Dick Schreuder ging na een vroege fout van doelman Nikolas Polster uiteindelijk met 5-0 onderuit b ..."
         },
         {
-          "title": "LIVE Europa League | NEC krijgt opnieuw deksel op de neus, Juventus verdubbelt voorsprong dankzij kiezelhard schot",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/voetbal/live-europa-league-nec-krijgt-opnieuw-deksel-op-de-neus-juventus-verdubbelt-voorsprong-dankzij-kiezelhard-schot~a023637a/",
-          "publishedDate": "Thu, 17 Sep 2026 05:25:00 GMT",
-          "description": "Een mooie, maar loodzware start van het Europa League-avontuur voor NEC: de Nijmegenaren gaan vanavond op bezoek bij de Italiaanse grootmacht Juventus. Zit er een stunt in? Volg het hier vanaf 21.00 u"
+          "title": "NEC verliest met 5-0 van Juventus • Stunt in Noorwegen: Portugese tweedeklasser wint",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2631421-nec-verliest-met-5-0-van-juventus-stunt-in-noorwegen-portugese-tweedeklasser-wint",
+          "publishedDate": "Thu, 17 Sep 2026 10:09:00 GMT",
+          "description": "De club van Teun Koopmeiners begon het seizoen met zeges op het bescheiden Frosinone (0-1) en Parma (2-0). Toch verraadde het puntenverlies tegen AC Milan (1-1 in Turijn) en Sassuolo (3-2 nederlaag) ..."
+        },
+        {
+          "title": "Teruglezen Europa League | Reacties na flinke nederlaag NEC tegen Juventus",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6410128/teruglezen-europa-league-reacties-na-flinke-nederlaag-nec-tegen-juventus.html",
+          "publishedDate": "Thu, 17 Sep 2026 09:19:00 GMT",
+          "description": "Goedenavond en welkom bij dit liveblog! Wij houden je op de hoogte van al het Europa League-voetbal van deze donderdagavond. Veel plezier!"
+        },
+        {
+          "title": "Zorgen bij Juventus voor duel met NEC, maar Spalletti raakt niet in de war",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2631380-zorgen-bij-juventus-voor-duel-met-nec-maar-spalletti-raakt-niet-in-de-war",
+          "publishedDate": "Thu, 17 Sep 2026 05:13:00 GMT",
+          "description": "De roemruchte club hoopt donderdagavond in de Europa League tegen NEC een kleine (identiteits)crisis af te wenden."
+        },
+        {
+          "title": "NEC blameert zichzelf bij terugkeer in Europa: Juventus paar maten te groot",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/nec-blameert-zichzelf-bij-terugkeer-in-europa-juventus-paar-maten-te-groot-2026091713560712504/",
+          "publishedDate": "Thu, 17 Sep 2026 15:52:00 GMT",
+          "description": "De terugkeer van NEC op het Europese toneel is ge&#235;indigd in een grote deceptie. Juventus had geen kind aan de club uit Nijmegen en won eenvoudig: het werd 5-0 in Turijn. Al binnen het eerste halfuur w ..."
+        },
+        {
+          "title": "NEC-speler wordt getrakteerd op fluitconcert van supporters Juventus",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/schuurs-uitgefloten-juventus-nec-torino",
+          "publishedDate": "Thu, 17 Sep 2026 15:32:00 GMT",
+          "description": "Perr Schuurs krijgt bij zijn invalbeurt tegen Juventus een fluitconcert van de fans. De NEC-verdediger wordt herinnerd aan zijn verleden bij Torino."
+        },
+        {
+          "title": "Zo vernietigde Juventus de mandekking van NEC",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/zo-vernietigde-juventus-de-mandekking-van-nec/ar-AA2cs8Aw",
+          "publishedDate": "Thu, 17 Sep 2026 14:16:47 GMT",
+          "description": "Juventus is een maat te groot gebleken voor NEC in het openingsduel van de Europa League-competitiefase: 5-0. Tactische analyse van een wedstrijd waarin Juventus handig gebruikmaakt van de radicale ta ..."
+        },
+        {
+          "title": "Teruglezen | Zo verliep de wedstrijd tussen Juventus en NEC in de Europa League",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/live-europa-league-nec-begonnen-aan-wedstrijd-tegen-juventus",
+          "publishedDate": "Thu, 17 Sep 2026 13:59:00 GMT",
+          "description": "NEC opent het Europa League-avontuur met een fraai &#233;n zwaar affiche, uit bij Juventus. Mis niets en volg de wedstrijd in dit liveblog van FCUpdate."
+        },
+        {
+          "title": "Rampzalige rentree NEC: Juventus straft foutenfestival genadeloos af",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/rampzalige-rentree-nec-juventus-straft-foutenfestival-genadeloos-af",
+          "publishedDate": "Thu, 17 Sep 2026 13:52:00 GMT",
+          "description": "NEC is donderdagavond bij de start van de competitiefase van de Europa League kansloos onderuitgegaan tegen Juventus. De Oude Dame was al na ruim een half uur klaar met de Nijmegenaren, die met name i ..."
+        },
+        {
+          "title": "Kansloze avond in Turijn: na&#239;ef NEC met grote cijfers onderuit tegen Juventus",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/voetbal/kansloze-avond-in-turijn-naief-nec-met-grote-cijfers-onderuit-tegen-juventus~a023637a/",
+          "publishedDate": "Thu, 17 Sep 2026 06:57:00 GMT",
+          "description": "NEC beleefde een pijnlijke en met name kansloze avond in Turijn. In de eerste helft was het leed al geschied voor de ploeg van Dick Schreuder. Mede door de na&#239;eve verdediging van de Nijmegenaren liep ..."
         }
       ]
     },
     {
       "keyword": "verpleeghuis",
       "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Ouderen in verpleeghuizen moeten vaak kort na aankomst weer verhuizen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2630313-ouderen-in-verpleeghuizen-moeten-vaak-kort-na-aankomst-weer-verhuizen",
-          "publishedDate": "Wed, 09 Sep 2026 04:51:00 GMT",
-          "description": "Uit onderzoek blijkt dat 36 op de 100 verpleeghuisbewoners weer moeten verhuizen, vaak ook in de eerste vier maanden na aankomst."
-        },
-        {
-          "title": "Ouderen moeten steeds verhuizen in hun laatste levensfase: ‘Dat is ingrijpend en emotioneel’",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/nederland/ouderen-moeten-steeds-verhuizen-in-hun-laatste-levensfase-dat-is-ingrijpend-en-emotioneel~b7d23e4f/",
-          "publishedDate": "Wed, 09 Sep 2026 00:48:00 GMT",
-          "description": "Veel ouderen die in een verpleeghuis terechtkomen, moeten bijna meteen alweer verhuizen. Voor het eerst wordt uit een groot landelijk onderzoek duidelijk hoe senioren in de laatste fase van hun leven ..."
-        },
-        {
-          "title": "Verpleeghuis ’t Huys te Hoecke knapt afdelingen op voor veiligere woon- en werkomgeving",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/hoeksche-waard/verpleeghuis-t-huys-te-hoecke-knapt-afdelingen-op-voor-veiligere-woon-en-werkomgeving~ac799c92/",
-          "publishedDate": "Sun, 06 Sep 2026 19:01:00 GMT",
-          "description": "Het Puttershoekse verpleeghuis ’t Huys te Hoecke brengt de komende periode verbeteringen aan op verschillende afdelingen, waardoor een veiligere woon- en werkomgeving zal ontstaan."
-        },
-        {
-          "title": "RIVM: ouderen gaan later naar verpleeghuis, voor zwaardere zorg en voor kortere tijd",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/rivm-ouderen-gaan-later-naar-verpleeghuis-voor-zwaardere-zorg-en-voor-kortere-tijd~b6ce0fefc/",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 GMT",
-          "description": "De vraag naar ouderenzorg stijgt, maar verschuift steeds meer van de verpleeghuizen naar thuis. Ouderen gaan pas naar een zorginstelling als ze zwaardere zorg nodig hebben. Daar verblijven ze minder l ..."
-        },
-        {
-          "title": "Partner in verpleeghuis? Meer AOW kan duur uitpakken",
-          "source": "De Dagelijkse Standaard",
-          "url": "https://www.dagelijksestandaard.nl/economie/partner-verpleeghuis-hogere-aow-eigen-bijdrage",
-          "publishedDate": "Sun, 13 Sep 2026 05:31:00 GMT",
-          "description": "Een hogere AOW als je partner in een verpleeghuis woont, kan ook hogere zorgkosten opleveren. Dit moet je weten voordat je een keuze maakt."
-        },
-        {
-          "title": "Alzheimer Nederland: voorkom dat kwetsbare ouderen opnieuw moeten verhuizen",
-          "source": "Nationale Zorggids",
-          "url": "https://www.nationalezorggids.nl/ouderenzorg/alzheimer-nederland-voorkom-dat-kwetsbare-ouderen-opnieuw-moeten-verhuizen/",
-          "publishedDate": "Tue, 08 Sep 2026 17:01:00 GMT",
-          "description": "Uit nieuw onderzoek van Maastricht University blijkt dat ouderen vaak binnen vier maanden na hun verhuizing naar een verpleeghuis w&#233;&#233;r moeten verhuizen. Zo’n eerste ..."
-        },
-        {
-          "title": "Poll | Ouderenzorg moet zich niet vastklampen aan verpleeghuis",
-          "source": "Zorgvisie",
-          "url": "https://www.zorgvisie.nl/poll-ouderenzorg-moet-zich-niet-vastklampen-aan-verpleeghuis/",
-          "publishedDate": "Mon, 07 Sep 2026 06:18:00 GMT",
-          "description": "Zorgvisie-poll | De ouderenzorg moet zich niet vastklampen aan het verpleeghuis. Laat in de poll van deze week weten wat je ervan vindt ..."
-        },
-        {
-          "title": "Wat zijn mijn rechten bij een verpleeghuis?",
-          "source": "Consumentenbond",
-          "url": "https://www.consumentenbond.nl/juridisch-advies/zorg-zorgverzekering/klacht-verpleeghuis",
-          "publishedDate": "Wed, 08 Jul 2026 04:08:00 GMT",
-          "description": "Als je in een verpleeghuis gaat wonen, teken je een zorgovereenkomst. Daarin staan onder meer je rechten. Er staat bijvoorbeeld in dat de zorgaanbieder aansprakelijk is voor schade die de cli&#235;nt lijdt ..."
-        },
-        {
-          "title": "Video: wat moet ik regelen bij een verhuizing naar een verpleeghuis?",
-          "source": "Rijksoverheid",
-          "url": "https://www.rijksoverheid.nl/documenten/videos/2025/03/03/video-naar-verpleeghuis",
-          "publishedDate": "Sun, 02 Mar 2025 16:00:00 GMT",
-          "description": "U of uw naaste verhuist naar een verpleeghuis. Daarvoor moet u een aantal zaken regelen en weten. U heeft bijvoorbeeld een indicatie nodig van het Centrum Indicatiestelling Zorg (CIZ). Weten wat u nog ..."
-        },
-        {
-          "title": "Inspectie: als zorg in orde is, maakt vorm verpleeghuis niet uit",
-          "source": "RD",
-          "url": "https://www.rd.nl/artikel/inspectie-als-zorg-in-orde-is-maakt-vorm-verpleeghuis-niet-uit",
-          "publishedDate": "Fri, 08 Mar 2024 01:43:00 GMT",
-          "description": "De Inspectie Gezondheidszorg en Jeugd (IGJ) maakt zich geen zorgen over de opkomst van commerci&#235;le verpleeghuizen in Nederland. „Het maakt ons niet uit wat de bedrijfsvorm of de organisatievorm van ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "arne slot",
       "trafficLabel": "20K+",
       "articles": [
+        {
+          "title": "Rondleiding: dit is de luxe miljoenenvilla in Nederland van voetbalcoach Arne Slot",
+          "source": "MAN MAN on MSN",
+          "url": "https://www.msn.com/nl-nl/lifestyle/other/rondleiding-dit-is-de-luxe-miljoenenvilla-in-nederland-van-voetbalcoach-arne-slot/ar-AA1Kr1zO",
+          "publishedDate": "Thu, 17 Sep 2026 03:57:54 GMT",
+          "description": "Een mooie promotie betekent vaak een flink salaris; dat geldt ook voor Arne Slot, die na Feyenoord en nu bij Liverpool een herenhuis in Zwolle kocht."
+        },
         {
           "title": "‘Arne Slot per direct terug in de Premier League’",
           "source": "Soccernews.nl",
@@ -151,25 +143,18 @@
           "description": "Dylan ter Laak is sinds 2022 actief in de voetbaljournalistiek en werkt sinds 2025 als redacteur bij FootballTransfers, waar hij schrijft over transfernieuws en achtergrondverhalen maakt. Maak ons je ..."
         },
         {
+          "title": "Arne Slot spreekt zich tegenover Hans Kraay junior uit over bondscoachschap bij Nederland",
+          "source": "meemetoranje",
+          "url": "https://www.meemetoranje.nl/nederlands-elftal/nieuws/arne-slot-spreekt-zich-tegenover-hans-kraay-junior-uit-over-bondscoachschap-bij-nederland/",
+          "publishedDate": "Mon, 06 Jul 2026 06:24:00 GMT",
+          "description": "De KNVB heeft gesprekken gevoerd met Arne Slot. De oud-trainer van onder meer Feyenoord en Liverpool wordt gezien als een serieuze kandidaat om Ronald Koeman op te volgen als bondscoach. Vlak voor het ..."
+        },
+        {
           "title": "'KNVB voert gesprekken met Arne Slot over bondscoachschap'",
           "source": "footballtransfers",
           "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/07/knvb-voert-gesprekken-met-arne-slot-over-bondscoachschap-nederland",
           "publishedDate": "Mon, 06 Jul 2026 05:42:00 GMT",
           "description": "Na de vroege uitschakeling op het WK 2026 kondigde Ronald Koeman zijn afscheid als bondscoach van Oranje aan. Inmiddels is de KNVB naarstig op zoek naar een opvolger en volgens Florian Plettenberg van ..."
-        },
-        {
-          "title": "Arne Slot spreekt zich voor het eerst uit over vertrek bij Liverpool: 'Het is een fantastische tijd geweest'",
-          "source": "sportnieuws",
-          "url": "https://sportnieuws.nl/buitenlands-voetbal/nieuws/arne-slot-spreekt-zich-voor-het-eerst-uit-over-vertrek-bij-liverpool-het-is-een-fantastische-tijd-geweest-2026053012172898449/",
-          "publishedDate": "Sat, 30 May 2026 07:16:00 GMT",
-          "description": "Arne Slot kijkt vol positivisme terug op zijn tijd bij Liverpool. De 47-jarige Nederlander was twee jaar lang trainer van de Engelse topclub. Zaterdag besloten hij en Liverpool in onderling overleg ..."
-        },
-        {
-          "title": "Feyenoord en Liverpool bevestigen akkoord over Arne Slot",
-          "source": "feyenoord",
-          "url": "https://www.feyenoord.com/nl/news/feyenoord-en-liverpool-bevestigen-akkoord-over-arne-slot-200524",
-          "publishedDate": "Mon, 20 May 2024 10:53:00 GMT",
-          "description": "Feyenoord en Liverpool FC bevestigen officieel de overstap van Arne Slot. De 45-jarige hoofdtrainer, die sinds de zomer van 2021 bij Feyenoord werkzaam is, treedt per 1 juni in dienst bij de ..."
         }
       ]
     },
@@ -199,20 +184,6 @@
           "description": "Ren&#233; Froger heeft bekendgemaakt dat bij hem myositis is vastgesteld, een auto-immuunziekte waarbij het afweersysteem de eigen spieren aanvalt. De zanger kampt al bijna twee jaar met lichamelijke ..."
         },
         {
-          "title": "Rene Froger onthult heftige ziekte: &quot;Mijn lichaam vraagt nu om rust&quot;",
-          "source": "Mannenzaken",
-          "url": "https://mannenzaken.nl/nieuws/rene-froger-onthult-heftige-ziekte-mijn-lichaam-vraagt-nu-om-rust",
-          "publishedDate": "Thu, 17 Sep 2026 08:31:00 GMT",
-          "description": "Ren&#233; Froger heeft jarenlang geprobeerd om zijn drukke artiestenleven gewoon voort te zetten, terwijl zijn lichaam steeds duidelijker aangaf dat er iets niet goed zat. De 65-jarige zanger kampte al lan ..."
-        },
-        {
-          "title": "Zanger Ren&#233; Froger doet stap terug wegens auto-immuunziekte",
-          "source": "Beau Monde",
-          "url": "https://beaumonde.nl/artikel/696083/rene-froger-neemt-rust-auto-immuunziekte-myositis",
-          "publishedDate": "Thu, 17 Sep 2026 08:00:00 GMT",
-          "description": "Zanger Ren&#233; Froger doet voorlopig een stap terug vanwege de auto-immuunziekte myositis. Wat is er precies aan de hand met zijn gezondheid?"
-        },
-        {
           "title": "Ren&#233; Froger legt werk tijdelijk neer om auto-immuunziekte",
           "source": "Nieuws.nl",
           "url": "https://nieuws.nl/entertainment/rene-froger-legt-werk-tijdelijk-neer-om-auto-immuunziekte",
@@ -234,11 +205,25 @@
           "description": "Ren&#233; Froger heeft bekendgemaakt dat bij hem myositis is vastgesteld, een auto-immuunziekte waarbij het afweersysteem de spieren aanvalt."
         },
         {
+          "title": "Ren&#233; Froger heeft auto-immuunziekte, is dit einde carri&#232;re?",
+          "source": "Startpagina on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/ren%C3%A9-froger-heeft-auto-immuunziekte-is-dit-einde-carri%C3%A8re/ar-AA2cqOZI",
+          "publishedDate": "Thu, 17 Sep 2026 05:21:43 GMT",
+          "description": "Ren&#233; Froger neemt de komende tijd meer rust nadat bij hem myositis is vastgesteld. In een verklaring op Instagram laat de zanger weten dat hij al bijna 2 jaar lichamelijke klachten heeft. Zijn gezondh ..."
+        },
+        {
           "title": "Ren&#233; Froger kampt met auto-immuunziekte waarbij het afweersysteem de spieren aanvalt",
           "source": "vandaaginside",
           "url": "https://www.vandaaginside.nl/media/bners/artikelen/rene-froger-kampt-met-auto-immuunziekte-waarbij-het-afweersysteem-de-spiere",
           "publishedDate": "Thu, 17 Sep 2026 05:14:00 GMT",
           "description": "Ren&#233; Froger heeft op Instagram bekendgemaakt dat bij hem myositis is vastgesteld. Dit is een auto-immuunziekte waarbij het afweersysteem de spieren aanvalt. De zanger kampt al bijna twee jaar met lich ..."
+        },
+        {
+          "title": "Ren&#233; Froger kampt met auto-immuunziekte",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/rene-froger-auto-immuunziekte-ziek",
+          "publishedDate": "Thu, 17 Sep 2026 05:05:00 GMT",
+          "description": "Ren&#233; Froger kampt met een auto-immuunziekte. Dat heeft de zanger donderdag bekendgemaakt in een uitgebreid persbericht."
         },
         {
           "title": "Nederlandse zanger Ren&#233; Froger (65) heeft auto-immuunziekte: “Merk dat ik niet kan brengen wat mensen van mij verwachten”",
@@ -305,6 +290,137 @@
       ]
     },
     {
+      "keyword": "dader",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Rechter Tineke van de Grampel zag altijd de mens achter de dader. ‘Ze zijn niet fout, wat ze doen is fout’",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/binnenland/rechter-tineke-van-de-grampel-zag-altijd-de-mens-achter-de-dader-ze-zijn-niet-fout-wat-ze-doen-is-fout~bde76d96/",
+          "publishedDate": "Wed, 02 Sep 2026 23:01:00 GMT",
+          "description": "Tineke van de Grampel staat bekend als de Rotterdamse strafrechter die doorvraagt. Die wil weten wat een dader bezielt. Haar laatste grote zaak was die van oud-advocaat Inez Weski. Het gaf haar op de ..."
+        },
+        {
+          "title": "Biden: dader aanslag New Orleans ‘liet zich inspireren door IS’, FBI zoekt handlangers, dodental stijgt naar vijftien",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/wereld/biden-dader-aanslag-new-orleans-liet-zich-inspireren-door-is-fbi-zoekt-handlangers-dodental-stijgt-naar-vijftien~b641785d/",
+          "publishedDate": "Wed, 01 Jan 2025 11:27:00 GMT",
+          "description": "De autoriteiten in het Amerikaanse New Orleans melden dat zeker vijftien mensen om het leven zijn gekomen toen een man in de nieuwjaarsnacht met een pick-uptruck inreed op een menigte. De bestuurder ..."
+        },
+        {
+          "title": "Zorgsysteem faalde rondom dader van dodelijke steekpartij Robert Scottstraat: ‘Hij kon mensen gemakkelijk om de tuin leiden’",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/amsterdam/zorgsysteem-faalde-rondom-dader-van-dodelijke-steekpartij-robert-scottstraat-hij-kon-mensen-gemakkelijk-om-de-tuin-leiden~b8666b56/",
+          "publishedDate": "Thu, 17 Oct 2024 09:37:00 GMT",
+          "description": "Het zorgsysteem is tekortgeschoten in de jaren voorafgaand aan de dodelijke steekpartij in de Robert Scottstraat in Amsterdam-West in 2023. Het verwarde gedrag en de overlast van dader Nuri Tolga &#214;."
+        },
+        {
+          "title": "Zware vechtpartij aan station Geel: 16-jarige loopt hoofdwonde en neusbreuk op, dader wordt opgespoord",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/16/vechtpartij-station-geel-neusbreuk-jongeren/",
+          "publishedDate": "Wed, 16 Sep 2026 10:50:00 GMT",
+          "description": "Dinsdagnamiddag zijn 2 jongeren met elkaar slaags geraakt aan het station in Geel. Daarbij liep 1 van hen een zware hoofdwonde en een neusbreuk op. Hij is ook nog geschopt toen hij al op de grond lag."
+        },
+        {
+          "title": "Dader van de aanslag in Parijs in 2022 veroordeeld tot zeven jaar gevangenisstraf voor een eerdere gewelddaad",
+          "source": "Koerdisch Nieuws",
+          "url": "https://www.koerdischnieuws.nl/artikel/dader-van-de-aanslag-in-parijs-in-2022-veroordeeld-tot-zeven-jaar-gevangenisstraf-voor-een-eerdere-gewelddaad",
+          "publishedDate": "Tue, 15 Sep 2026 17:00:00 GMT",
+          "description": "De dader van de aanslag in december 2022 op het Koerdische gemeenschapscentrum in Parijs is veroordeeld tot zeven jaar gevangenisstraf voor een eerdere gewelddaad. Een rechtbank in Parijs heeft de ..."
+        },
+        {
+          "title": "Buschauffeur De Lijn bedreigd na een discussie in bus in Ichtegem, politie zoekt dader",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/15/busschauffeur-bedreigd-op-bus-ichtegem/",
+          "publishedDate": "Tue, 15 Sep 2026 05:27:00 GMT",
+          "description": "Een 55-jarige buschauffeur van De Lijn is gisteravond geslagen en bedreigd met een mes na een discussie met een reiziger in Ichtegem. De aanleiding zou een verhitte discussie over een vervoersbewijs z ..."
+        },
+        {
+          "title": "Dader dodelijke steekpartij (34) in Willebroek aangehouden voor moord",
+          "source": "RTV",
+          "url": "https://www.rtv.be/actualiteit-en-nieuws/dader-dodelijke-steekpartij-34-willebroek-aangehouden-voor-moord",
+          "publishedDate": "Thu, 10 Sep 2026 17:00:00 GMT",
+          "description": "De 34-jarige dader van de steekpartij waarbij de 30-jarige David Malingi overleed, is aangehouden door de onderzoeksrechter op verdenking van moord. Intussen is nog altijd niet duidelijk waarom hij he ..."
+        },
+        {
+          "title": "‘Dader is doodgeschoten’: complotden&#173;kers maken overuren na schietpar&#173;tij rond Donald Trump",
+          "source": "bd.nl",
+          "url": "https://www.bd.nl/buitenland/dader-is-doodgeschoten-complotdenkers-maken-overuren-na-schietpartij-rond-donald-trump~a75b2942/?slug_rd=1",
+          "publishedDate": "Sun, 26 Apr 2026 18:22:00 GMT",
+          "description": "Alleen al op X werden meer dan 300.000 berichten geplaatst met de term ‘staged’. Andere socialemediagebruikers wezen – zoals vaker, zonder enig bewijs – naar Isra&#235;lische groeperingen die aan de ..."
+        },
+        {
+          "title": "Einzelg&#228;nger en kluizenaar: eerste details over dader van schietpartij Zweden",
+          "source": "PZC",
+          "url": "https://www.pzc.nl/buitenland/einzelganger-en-kluizenaar-eerste-details-over-dader-van-schietpartij-zweden~a09d3eb8/?slug_rd=1",
+          "publishedDate": "Tue, 04 Feb 2025 18:58:00 GMT",
+          "description": "De dader, volgens de politie een man van een jaar of 35 wiens levenloze lichaam ook werd gevonden in de Risbergska-school, woonde alleen in een appartement in het centrum van &#214;rebro. Hij leefde als ..."
+        },
+        {
+          "title": "Belgische jongen (14) in levensgevaar na zinloos geweld: ‘Hij was aan het praten met vriendin van dader’",
+          "source": "ED",
+          "url": "https://www.ed.nl/buitenland/belgische-jongen-14-in-levensgevaar-na-zinloos-geweld-hij-was-aan-het-praten-met-vriendin-van-dader~a32a192b/",
+          "publishedDate": "Fri, 06 Dec 2024 21:29:00 GMT",
+          "description": "In het centrum van Zelzate is een 14-jarige leerling vrijdag na schooltijd in elkaar geslagen door een 16-jarige scholier. ,,Mijn zoon was aan het praten met de vriendin van de dader. Dat was voor hem ..."
+        }
+      ]
+    },
+    {
+      "keyword": "manchester city - norwich city",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Manchester City met B-elftal overtuigend langs Norwich in League Cup",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2631439-manchester-city-met-b-elftal-overtuigend-langs-norwich-in-league-cup",
+          "publishedDate": "Thu, 17 Sep 2026 13:27:00 GMT",
+          "description": "Manchester City heeft zich door een simpele 5-0 zege op Norwich City geplaatst voor de achtste finales van de League Cup. De 17-jarige Floyd Samba maakte twee goals."
+        },
+        {
+          "title": "Titelhouder Manchester City in League Cup ruim langs Norwich City",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/sport/artikel/5653033/titelhouder-manchester-city-league-cup-ruim-langs-norwich-city",
+          "publishedDate": "Thu, 17 Sep 2026 13:26:00 GMT",
+          "description": "Manchester City staat in de vierde ronde van de League Cup. De titelhouder was veel te sterk voor Norwich City, dat in Engeland op het tweede niveau speelt. Het werd 5-0."
+        },
+        {
+          "title": "Manchester City kent probleemloze avond bij debuut van Ger&#243;nimo Rulli",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/manchester-city-kent-probleemloze-avond-bij-debuut-van-geronimo-rulli/blt96f0d3e66b88d6ea",
+          "publishedDate": "Thu, 17 Sep 2026 15:19:00 GMT",
+          "description": "Bij Manchester City bleven veel grote namen donderdagavond op de bank. Trainer Enzo Maresca startte met de pas zeventienjarige Floyd Samba in de punt van de aanval. Hij werd geflankeerd door Allan en ..."
+        },
+        {
+          "title": "Realitycheck voor Philippe Clement: B-ploeg van Manchester City kegelt Norwich kansloos uit League Cup",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/matches/voetbal/buitenland/eng/carabao-cup/2026-2027/3e-ronde/01/manchester-city-norwich-city-realitycheck-voor-philippe-clement-b-ploeg-van-manchester-city-kegelt-norwich-kansloos-uit-league-cup~1787780828039/",
+          "publishedDate": "Thu, 17 Sep 2026 13:31:00 GMT",
+          "description": "Geen stunt voor Philippe Clement. De Belgische coach botste met zijn Norwich op de sterkere B-ploeg van Manchester City in de League Cup. Met heel wat jeugdig geweld aan de aftrap toonde de thuisploeg ..."
+        },
+        {
+          "title": "Sensationele Man City-debutant (17) steelt de show tegen Norwich in League Cup",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/sensationele-man-city-debutant-17-steelt-de-show-tegen-norwich-in-league-cup/ar-AA2cspnD",
+          "publishedDate": "Thu, 17 Sep 2026 13:26:08 GMT",
+          "description": "Manchester City heeft donderdagavond in de derde ronde van de League Cup met speels gemak afgerekend met Norwich City. De ploeg van Enzo Maresca was vanaf het eerste fluitsignaal de baas op het veld e ..."
+        },
+        {
+          "title": "Man City mede dankzij droomdebuut probleemloos naar volgende ronde League Cup",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/man-city-mede-dankzij-droomdebuut-probleemloos-naar-volgende-ronde-league-cup/ar-AA2cs3gM",
+          "publishedDate": "Thu, 17 Sep 2026 13:23:17 GMT",
+          "description": "Manchester City heeft zich als zestiende en laatste ploeg geplaatst voor de vierde ronde van de League Cup. De B-garnituur van manager Enzo Maresca rekende probleemloos af met Norwich City, met een ho ..."
+        },
+        {
+          "title": "Praat mee op VP: Manchester City – Norwich City",
+          "source": "Voetbalprimeur Netherlands on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-manchester-city-norwich-city/ar-AA2cs7vA",
+          "publishedDate": "Thu, 17 Sep 2026 11:00:00 GMT",
+          "description": "Manchester City en Norwich City strijden donderdagavond om een plek in de vierde ronde van de EFL Cup. De wedstrijd begint om 20.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrim ..."
+        }
+      ]
+    },
+    {
       "keyword": "selectie nederlands elftal",
       "trafficLabel": "5K+",
       "articles": [
@@ -319,7 +435,7 @@
           "title": "Valentijn Driessen: 'Als hij fit is, is hij misschien toch weer bruikbaar voor het Nederlands elftal'",
           "source": "Voetbalzone on MSN",
           "url": "https://www.msn.com/nl-nl/nieuws/overig/stopt-virgil-van-dijk-bij-het-nederlands-elftal-valentijn-driessen-doet-voorspelling/ar-AA2crXFg",
-          "publishedDate": "Thu, 17 Sep 2026 10:08:40 GMT",
+          "publishedDate": "Thu, 17 Sep 2026 14:07:00 GMT",
           "description": "Vrijdag maakt bondscoach Xavi de selectie van het Nederlands elftal bekend voor de komende interlandperiode. Valentijn Driessen verwacht dat Virgil van Dijk er ‘gewoon’ bijzit. Ook denkt de journalist ..."
         },
         {
@@ -441,239 +557,66 @@
           "description": "Een alleenstaande met een bruto-inkomen van €55.000 of een stel dat samen €65.000 verdient, komt voor geen enkele toeslag meer in aanmerking. Geen zorgtoeslag, geen huurtoeslag, en een kindgebonden bu ..."
         },
         {
-          "title": "Zorg-, huur- en kindgebonden toeslag over 2025 nog aan te vragen",
-          "source": "De Dagelijkse Standaard",
-          "url": "https://www.dagelijksestandaard.nl/economie/toeslag-2025-aanvragen-zorgtoeslag-huurtoeslag-31-december",
-          "publishedDate": "Thu, 03 Sep 2026 05:30:00 GMT",
-          "description": "Zorgtoeslag, huurtoeslag en kindgebonden budget over 2025 kunnen nog tot en met 31 december 2026 worden aangevraagd."
-        }
-      ]
-    },
-    {
-      "keyword": "ongeluk zwaag",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Dode bij zwaar ongeluk N307, auto belandt op de kop",
-          "source": "RTL Nieuws (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/dode-bij-zwaar-ongeluk-n307-auto-belandt-op-de-kop/ar-AA2cqbCi",
-          "publishedDate": "Wed, 16 Sep 2026 13:32:00 GMT",
-          "description": "Bij een ernstig ongeluk op de N307 bij het Noord-Hollandse Zwaag is een persoon om het leven gekomen. Het lijkt er volgens de politie op dat een auto met een vrachtwagen in botsing is gekomen, maar he ..."
-        },
-        {
-          "title": "Dode en meerdere gewonden na botsing tussen auto en vrachtwagen op N307 bij Zwaag",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-hoorn/dode-en-meerdere-gewonden-na-botsing-tussen-auto-en-vrachtwagen-op-n307-bij-zwaag~a36eb399/",
-          "publishedDate": "Wed, 16 Sep 2026 06:57:00 GMT",
-          "description": "Bij een ernstig ongeval op de N307 bij Zwaag is woensdagavond een persoon om het leven gekomen. Meerdere personen raakten gewond. Dat meldt een woordvoerder van de politie."
-        },
-        {
-          "title": "Tweede persoon overleden na ongeluk met gevaarlijke stoffen in Zwaag",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/binnenland/6408671/tweede-persoon-overleden-na-ongeluk-met-gevaarlijke-stoffen-in-zwaag.html",
-          "publishedDate": "Fri, 04 Sep 2026 14:26:00 GMT",
-          "description": "Bij het ongeluk met gevaarlijke stoffen op een bedrijventerrein in het Noord-Hollandse Zwaag is vrijdag een tweede persoon overleden. Het eerste slachtoffer overleed eerder op de dag."
-        },
-        {
-          "title": "Bestuurder aangehouden na dodelijk ongeval op N307 bij Zwaag",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/dodelijk-ongeval-n307-zwaag-bestuurder-aangehouden",
-          "publishedDate": "Thu, 17 Sep 2026 05:45:00 GMT",
-          "description": "Een bestuurder is aangehouden na het dodelijke ongeval op de N307 bij Zwaag. Een 39-jarige vrouw kwam om het leven en drie anderen raakten gewond."
-        },
-        {
-          "title": "Overleden slachtoffer ongeluk op N307 is 39-jarige vrouw, bestuurder aangehouden",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/363514/overleden-slachtoffer-ongeluk-op-n307-is-39-jarige-vrouw-bestuurder-aangehouden",
-          "publishedDate": "Thu, 17 Sep 2026 05:10:00 GMT",
-          "description": "Vrouw (39) overleden na botsing auto en vrachtwagen op N307 bij Zwaag. Bestuurder aangehouden, drie inzittenden gewond naar ziekenhuis. Politie onderzoekt toedracht ongeval."
-        },
-        {
-          "title": "Bestuurder aangehouden na ernstig ongeval met dode en drie gewonden in Zwaag",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/binnenland/bestuurder-aangehouden-na-ernstig-ongeval-met-dode-en-drie-gewonden-in-zwaag~a25eabe8/",
-          "publishedDate": "Wed, 16 Sep 2026 22:38:00 GMT",
-          "description": "Bij een dodelijk ongeluk op de N307 in Zwaag heeft de politie woensdagavond de bestuurder van de auto aangehouden. Een 39-jarige vrouw is omgekomen bij het ongeluk, waarbij een auto en een vrachtwagen ..."
-        },
-        {
-          "title": "Bestuurder aangehouden na dodelijk verkeersongeval N307 Zwaag",
-          "source": "politie.nl",
-          "url": "https://www.politie.nl/nieuws/2026/september/17/bestuurder-aangehouden-na-dodelijk-verkeersongeval-n307-zwaag.html",
-          "publishedDate": "Wed, 16 Sep 2026 17:00:00 GMT",
-          "description": "Bij het verkeersongeval op de N307 in Zwaag is woensdagavond &#233;&#233;n persoon om het leven gekomen. Drie andere inzittenden raakten gewond en zijn naar het ziekenhuis gebracht. De bestuurder is aangehouden ..."
-        },
-        {
-          "title": "Dodelijk ongeluk op N307 bij Zwaag",
-          "source": "strandweer",
-          "url": "https://www.strandweer.nu/noord-holland/dodelijk-ongeluk-op-n307-bij-zwaag/",
-          "publishedDate": "Wed, 16 Sep 2026 16:59:00 GMT",
-          "description": "Zwaag 17.09.2026 -&#160;Bij een ernstig verkeersongeval op de N307 (Westfrisiaweg) ter hoogte van Zwaag is woensdagavond &#233;&#233;n persoon om het leven gekomen. Bij ..."
-        },
-        {
-          "title": "Ongeval met letsel op N307 in Zwaag, traumahelikopter gealarmeerd",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/noord-holland/noord-holland-noord/zwaag/55839260/p2000-ambulance-naar-n307-in-zwaag-voor-ongeval-met-letsel.html",
-          "publishedDate": "Wed, 16 Sep 2026 14:24:00 GMT",
-          "description": "De hulpdiensten zijn woensdagavond uitgerukt voor een zwaar ongeval met letsel aan de N307 in Zwaag. Behalve een ambulance is ook een traumahelikopter gealarmeerd."
-        },
-        {
-          "title": "Dode en meerdere gewonden bij ongeluk op N307 bij Zwaag",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/noord-holland-zwaag-dodelijk-ongeluk-n307-meerdere-gewonden",
-          "publishedDate": "Wed, 16 Sep 2026 13:32:00 GMT",
-          "description": "Bij een ongeluk op de N307 bij Zwaag is een persoon om het leven gekomen. Ook zijn er meerdere gewonden. De weg is deels in beide richtingen afgesloten, inclusief de afslag A7 richting Enkhuizen. De p ..."
-        }
-      ]
-    },
-    {
-      "keyword": "dader",
-      "trafficLabel": "2K+",
-      "articles": [
-        {
-          "title": "Gewonde bij steekpartij in centrum Leeuwarden, dader voortvluchtig",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-leeuwarden/gewonde-bij-steekpartij-in-centrum-leeuwarden-dader-voortvluchtig~a4466c55/",
-          "publishedDate": "Fri, 21 Aug 2026 06:46:00 GMT",
-          "description": "In het centrum van Leeuwarden is vrijdagavond een persoon gewond geraakt door een steekincident. Het slachtoffer is met de ambulance overgebracht naar het ziekenhuis. Er is nog niemand opgepakt."
-        },
-        {
-          "title": "Biden: dader aanslag New Orleans ‘liet zich inspireren door IS’, FBI zoekt handlangers, dodental stijgt naar vijftien",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/wereld/biden-dader-aanslag-new-orleans-liet-zich-inspireren-door-is-fbi-zoekt-handlangers-dodental-stijgt-naar-vijftien~b641785d/",
-          "publishedDate": "Wed, 01 Jan 2025 11:27:00 GMT",
-          "description": "De autoriteiten in het Amerikaanse New Orleans melden dat zeker vijftien mensen om het leven zijn gekomen toen een man in de nieuwjaarsnacht met een pick-uptruck inreed op een menigte. De bestuurder ..."
-        },
-        {
-          "title": "Zorgsysteem faalde rondom dader van dodelijke steekpartij Robert Scottstraat: ‘Hij kon mensen gemakkelijk om de tuin leiden’",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/amsterdam/zorgsysteem-faalde-rondom-dader-van-dodelijke-steekpartij-robert-scottstraat-hij-kon-mensen-gemakkelijk-om-de-tuin-leiden~b8666b56/",
-          "publishedDate": "Thu, 17 Oct 2024 09:37:00 GMT",
-          "description": "Het zorgsysteem is tekortgeschoten in de jaren voorafgaand aan de dodelijke steekpartij in de Robert Scottstraat in Amsterdam-West in 2023. Het verwarde gedrag en de overlast van dader Nuri Tolga &#214;."
-        },
-        {
-          "title": "Zware vechtpartij aan station Geel: 16-jarige loopt hoofdwonde en neusbreuk op, dader wordt opgespoord",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/16/vechtpartij-station-geel-neusbreuk-jongeren/",
-          "publishedDate": "Wed, 16 Sep 2026 10:50:00 GMT",
-          "description": "Dinsdagnamiddag zijn 2 jongeren met elkaar slaags geraakt aan het station in Geel. Daarbij liep 1 van hen een zware hoofdwonde en een neusbreuk op. Hij is ook nog geschopt toen hij al op de grond lag."
-        },
-        {
-          "title": "Dader van de aanslag in Parijs in 2022 veroordeeld tot zeven jaar gevangenisstraf voor een eerdere gewelddaad",
-          "source": "Koerdisch Nieuws",
-          "url": "https://www.koerdischnieuws.nl/artikel/dader-van-de-aanslag-in-parijs-in-2022-veroordeeld-tot-zeven-jaar-gevangenisstraf-voor-een-eerdere-gewelddaad",
-          "publishedDate": "Tue, 15 Sep 2026 17:00:00 GMT",
-          "description": "De dader van de aanslag in december 2022 op het Koerdische gemeenschapscentrum in Parijs is veroordeeld tot zeven jaar gevangenisstraf voor een eerdere gewelddaad. Een rechtbank in Parijs heeft de ..."
-        },
-        {
-          "title": "Buschauffeur De Lijn bedreigd na een discussie in bus in Ichtegem, politie zoekt dader",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/15/busschauffeur-bedreigd-op-bus-ichtegem/",
-          "publishedDate": "Tue, 15 Sep 2026 05:27:00 GMT",
-          "description": "Een 55-jarige buschauffeur van De Lijn is gisteravond geslagen en bedreigd met een mes na een discussie met een reiziger in Ichtegem. De aanleiding zou een verhitte discussie over een vervoersbewijs z ..."
-        },
-        {
-          "title": "Dader dodelijke steekpartij (34) in Willebroek aangehouden voor moord",
-          "source": "RTV",
-          "url": "https://www.rtv.be/actualiteit-en-nieuws/dader-dodelijke-steekpartij-34-willebroek-aangehouden-voor-moord",
-          "publishedDate": "Thu, 10 Sep 2026 17:00:00 GMT",
-          "description": "De 34-jarige dader van de steekpartij waarbij de 30-jarige David Malingi overleed, is aangehouden door de onderzoeksrechter op verdenking van moord. Intussen is nog altijd niet duidelijk waarom hij he ..."
-        },
-        {
-          "title": "‘Dader is doodgeschoten’: complotden&#173;kers maken overuren na schietpar&#173;tij rond Donald Trump",
-          "source": "bd.nl",
-          "url": "https://www.bd.nl/buitenland/dader-is-doodgeschoten-complotdenkers-maken-overuren-na-schietpartij-rond-donald-trump~a75b2942/?slug_rd=1",
-          "publishedDate": "Sun, 26 Apr 2026 18:22:00 GMT",
-          "description": "Alleen al op X werden meer dan 300.000 berichten geplaatst met de term ‘staged’. Andere socialemediagebruikers wezen – zoals vaker, zonder enig bewijs – naar Isra&#235;lische groeperingen die aan de ..."
-        },
-        {
-          "title": "Einzelg&#228;nger en kluizenaar: eerste details over dader van schietpartij Zweden",
-          "source": "PZC",
-          "url": "https://www.pzc.nl/buitenland/einzelganger-en-kluizenaar-eerste-details-over-dader-van-schietpartij-zweden~a09d3eb8/?slug_rd=1",
-          "publishedDate": "Tue, 04 Feb 2025 18:58:00 GMT",
-          "description": "De dader, volgens de politie een man van een jaar of 35 wiens levenloze lichaam ook werd gevonden in de Risbergska-school, woonde alleen in een appartement in het centrum van &#214;rebro. Hij leefde als ..."
-        },
-        {
-          "title": "Belgische jongen (14) in levensgevaar na zinloos geweld: ‘Hij was aan het praten met vriendin van dader’",
-          "source": "ED",
-          "url": "https://www.ed.nl/buitenland/belgische-jongen-14-in-levensgevaar-na-zinloos-geweld-hij-was-aan-het-praten-met-vriendin-van-dader~a32a192b/",
-          "publishedDate": "Fri, 06 Dec 2024 21:29:00 GMT",
-          "description": "In het centrum van Zelzate is een 14-jarige leerling vrijdag na schooltijd in elkaar geslagen door een 16-jarige scholier. ,,Mijn zoon was aan het praten met de vriendin van de dader. Dat was voor hem ..."
-        }
-      ]
-    },
-    {
-      "keyword": "manchester city - norwich city",
-      "trafficLabel": "2K+",
-      "articles": [
-        {
-          "title": "Manchester City 5-0 Norwich: 17-year-old Samba shines in EFL Cup",
-          "source": "101 Great Goals",
-          "url": "https://www.101greatgoals.com/news/manchester-city-5-0-norwich-17-year-old-samba-shines-in-efl-cup/",
-          "publishedDate": "Thu, 17 Sep 2026 13:19:00 GMT",
-          "description": "Holders Manchester City set up a fourth-round EFL Cup tie with Brighton after a superb debut from teenager Floyd Samba helped them sweep past Norwich. The 17-year-old, son of former Blackburn defender ..."
-        },
-        {
-          "title": "Man City vs Norwich LIVE score updates with Floyd Samba double plus Rayan Cherki and Allan goals",
-          "source": "Manchester Evening News",
-          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-vs-norwich-live-34633609",
-          "publishedDate": "Thu, 17 Sep 2026 13:02:00 GMT",
-          "description": "While City are favourites, they will be wary of the Championship club's strengths. The Canaries have had a mixed start to the campaign with three wins and four defeats from their opening seven league ..."
-        },
-        {
-          "title": "Manchester City seeks opener against Norwich City in Carabao Cup clash",
-          "source": "Crypto Briefing",
-          "url": "https://cryptobriefing.com/manchester-city-norwich-carabao-cup/",
-          "publishedDate": "Thu, 17 Sep 2026 11:58:00 GMT",
-          "description": "Manchester City made 10 changes for their Carabao Cup third-round clash with Norwich City at the Etihad, debuting Rulli, Allan, and Samba."
-        },
-        {
-          "title": "Manchester City kent probleemloze avond bij debuut van Ger&#243;nimo Rulli",
+          "title": "Zorgtoeslag? Aan d&#233;ze voorwaarden moet je voldoen voor een bijdrage in 2026",
           "source": "MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/manchester-city-kent-probleemloze-avond-bij-debuut-van-ger%C3%B3nimo-rulli/ar-AA2cs8mA",
-          "publishedDate": "Thu, 17 Sep 2026 11:19:00 GMT",
-          "description": "Manchester City heeft zich donderdagavond geplaatst voor de volgende ronde van de Carabao Cup. De ploeg wist in eigen huis met 5-0 af te rekenen met Championship-club Norwich City. Bij Manchester City ..."
+          "url": "https://www.msn.com/nl-nl/geldzaken/nieuws/zorgtoeslag-aan-d%C3%A9ze-voorwaarden-moet-je-voldoen-voor-een-bijdrage-in-2026/ar-AA1TISWv",
+          "publishedDate": "Wed, 07 Jan 2026 00:35:00 GMT",
+          "description": "Zorgtoeslag is voor veel Nederlandse gezinnen een welkome, financi&#235;le steun. Het is een bijdrage van de overheid om zorgkosten betaalbaar te houden. Maar het recht op zorgtoeslag is niet ..."
+        }
+      ]
+    },
+    {
+      "keyword": "zwarte zee",
+      "trafficLabel": "2K+",
+      "articles": [
+        {
+          "title": "Oekra&#239;ne schakelt twee fregatten in Zwarte Zee uit in strijd tegen gevaar van Russische kruisraketten",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/buitenland/oekraine-schakelt-twee-fregatten-in-zwarte-zee-uit-in-strijd-tegen-gevaar-van-russische-kruisraketten~b07dd4e5/",
+          "publishedDate": "Thu, 17 Sep 2026 10:59:00 GMT",
+          "description": "Oekra&#239;ne heeft het afgelopen halfjaar een succesvolle serie aanvallen uitgevoerd om het gevaar van Russische kruisraketten te verminderen. Bij deze campagne werden twee fregatten in de haven van Novor ..."
         },
         {
-          "title": "Why Is Erling Haaland Not Playing Today for Manchester City vs. Norwich City?",
-          "source": "Athlon Sports on MSN",
-          "url": "https://www.msn.com/en-us/news/other/why-is-erling-haaland-not-playing-today-for-manchester-city-vs-norwich-city/ar-AA2crKCH",
-          "publishedDate": "Thu, 17 Sep 2026 11:17:00 GMT",
-          "description": "Erling Haaland is unavailable for Manchester City's Round 3 match against Norwich City today."
+          "title": "Russische militaire opbouw drijft spanning op rond Zwarte Zee",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/russische-militaire-opbouw-drijft-spanning-op-rond-zwarte-zee~b59f00bc/",
+          "publishedDate": "Sun, 18 Apr 2021 15:14:00 GMT",
+          "description": "De spanning op en rond de Zwarte Zee loopt op. De Britse krant Sunday Times meldde zondag dat het Verenigd Koninkrijk twee marineschepen naar de Zwarte Zee stuurt. Volgens de krant gaat het om een ..."
         },
         {
-          "title": "Praat mee op VP: Manchester City – Norwich City",
-          "source": "Voetbalprimeur Netherlands on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-manchester-city-norwich-city/ar-AA2cs7vA",
-          "publishedDate": "Thu, 17 Sep 2026 11:00:00 GMT",
-          "description": "Manchester City en Norwich City strijden donderdagavond om een plek in de vierde ronde van de EFL Cup. De wedstrijd begint om 20.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrim ..."
+          "title": "Zwarte Zee brandpunt in rivaliteit Rusland en Westen",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/wereld/zwarte-zee-brandpunt-in-rivaliteit-rusland-en-westen~b8edd7bd/",
+          "publishedDate": "Sun, 18 Apr 2021 12:16:00 GMT",
+          "description": "De Zwarte Zee is een brandpunt aan het worden in de rivaliteit tussen Rusland en het Westen. De Russische troepenopbouw baart de westerse bondgenoten grote zorgen. De spanning op en rond de Zwarte Zee ..."
         },
         {
-          "title": "Manchester City vs Norwich City LIVE streaming, TV channel, kick-off time &amp; where to watch Carabao Cup 2026-27",
-          "source": "Khel Now",
-          "url": "https://khelnow.com/football/manchester-city-vs-norwich-city-where-to-watch-carabao-cup-202609",
-          "publishedDate": "Thu, 17 Sep 2026 10:30:00 GMT",
-          "description": "Manchester City are set to battle it out against Norwich City for their third-round fixture of the EFL Cup 2026-27. Know where to watch."
+          "title": "Zelensky waarschuwt dat blokkade van de Zwarte Zee wereldwijd voedseltekort dreigt te veroorzaken",
+          "source": "Business AM on MSN",
+          "url": "https://www.msn.com/nl-be/politiek/internationale-relaties/zelensky-waarschuwt-dat-blokkade-van-de-zwarte-zee-wereldwijd-voedseltekort-dreigt-te-veroorzaken/ar-AA2c8YYp",
+          "publishedDate": "Sun, 13 Sep 2026 13:30:00 GMT",
+          "description": "Key takeaways Tijdens de top van de Yalta European Strategy 2026 waarschuwde president Volodymyr Zelensky dat de Russische beperkingen op de scheepvaartroutes in de Zwarte Zee het gevaar van een werel ..."
         },
         {
-          "title": "Manchester City vs Norwich City, EFL 2026-27 Free Live Streaming Online",
-          "source": "LatestLY",
-          "url": "https://www.latestly.com/sports/football/manchester-city-vs-norwich-city-efl-2026-27-free-live-streaming-online-7608667.html",
-          "publishedDate": "Thu, 17 Sep 2026 10:30:00 GMT",
-          "description": "Catch all the action as Manchester City takes on Norwich City in the EFL Cup 2026-27 Third Round today, September 17, 2026, at the Etihad Stadium. Fans in the UK can watch on Sky Sports and ITVX, ..."
+          "title": "Russisch olie-exportknooppunt aan Zwarte Zee stilgelegd na Oekra&#239;ense droneaanvallen",
+          "source": "Business AM",
+          "url": "https://businessam.be/russisch-olie-exportknooppunt-aan-zwarte-zee-stilgelegd-na-oekraiense-droneaanvallen/",
+          "publishedDate": "Sun, 26 Jul 2026 05:01:00 GMT",
+          "description": "Key takeaways Oekra&#239;ense droneaanvallen hebben geleid tot de sluiting van het belangrijkste Russische olie-exportknooppunt aan de Zwarte Zee. Operatie MoLoChKa heeft bijna 200 schepen van de Russische ..."
         },
         {
-          "title": "Manchester City and Norwich City have confirmed their starting lineups ahead of tonight’s Carabao Cup tie",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/manchester-city-norwich-city-confirmed-172000330.html",
-          "publishedDate": "Thu, 17 Sep 2026 10:20:00 GMT",
-          "description": "Manchester City and Norwich City have confirmed their starting lineups ahead of tonight’s third-round Carabao Cup tie at the Etihad Stadium. Enzo Maresca’s side will begin their Carabao Cup ..."
+          "title": "Heeft Rusland Zwarte Zee echt verloren? Oud-commandant legt uit of Zelensky’s claim klopt",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/buitenland/heeft-rusland-zwarte-zee-echt-verloren-oud-commandant-legt-uit-of-zelenskys-claim-klopt~acf52b0f/?slug_rd=1",
+          "publishedDate": "Sat, 04 Jul 2026 22:14:00 GMT",
+          "description": "‘Rusland is de Zwarte Zee kwijt’, schrijft Zelensky. Hij verwijst onder meer naar de bevrijding van het strategisch belangrijke Slangeneiland in juni 2022, en de aanhoudende aanvallen op de Russische ..."
         },
         {
-          "title": "Man City v Norwich: where to watch, line-ups, League Cup match | OneFootball",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/man-city-v-norwich-where-to-watch-line-ups-league-cup-match-43478440",
-          "publishedDate": "Thu, 17 Sep 2026 09:54:00 GMT",
-          "description": "Manchester City vs Norwich face off this Thursday (17) at 3:30 p.m. (Bras&#237;lia time) at the Etihad Stadium in Manchester, in the third round of the 2026/27 ..."
+          "title": "Poetins geheime bunkercomplex onder gigantisch paleis aan Zwarte Zee onthuld: zo ziet het eruit",
+          "source": "ED",
+          "url": "https://www.ed.nl/buitenland/poetins-geheime-bunkercomplex-onder-gigantisch-paleis-aan-zwarte-zee-onthuld-zo-ziet-het-eruit~a8ea6f28/",
+          "publishedDate": "Fri, 19 May 2023 05:07:00 GMT",
+          "description": "Poetins luxepaleis aan de Zwarte Zee geeft steeds meer geheimen prijs. Nu liggen ook de plannen van het reusachtige ondergrondse tunnelcomplex op straat door jarenlange onoplettendheid van het ..."
         }
       ]
     }
