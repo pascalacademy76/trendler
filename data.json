@@ -1,72 +1,92 @@
 {
-  "fetchedAt": "2026-09-18T18:46:44.597Z",
+  "fetchedAt": "2026-09-18T21:22:24.763Z",
   "trends": [
+    {
+      "keyword": "groningen - pec",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Groningen op 3-0 tegen armzalig PEC • Fraai eerbetoon fans aan familie Koeman",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2631463-groningen-op-3-0-tegen-armzalig-pec-fraai-eerbetoon-fans-aan-familie-koeman",
+          "publishedDate": "Thu, 17 Sep 2026 22:57:00 GMT",
+          "description": "&quot;Schaam je kapot, schaam je kapot&quot;, klinkt het vanuit het uitvak in de Euroborg. De meegereisde fans in Zwolle hoopten op een wederopstanding na de blamage tegen Feyenoord, maar dat zit er vandaag niet in. Tegelijk zien we zorgelijke blikken op de bank van ..."
+        },
+        {
+          "title": "FC Groningen wint overtuigend en eert overleden Bartina Koeman (65)",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/fc-groningen-wint-overtuigend-en-eert-overleden-bartina-koeman-65",
+          "publishedDate": "Fri, 18 Sep 2026 00:36:00 GMT",
+          "description": "FC Groningen-fans hebben tijdens de wedstrijd tegen PEC Zwolle een fraai eerbetoon gebracht aan de overleden Bartina Koeman (65)."
+        }
+      ]
+    },
     {
       "keyword": "het laatste nieuws",
       "trafficLabel": "20K+",
       "articles": [
+        {
+          "title": "Wintermagie keert terug naar Grote Markt in Tienen, maar wat afgeslankt: “Budgettair en organisatorisch ingegrepen”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/tienen/wintermagie-keert-terug-naar-grote-markt-in-tienen-maar-wat-afgeslankt-budgettair-en-organisatorisch-ingegrepen~afecbadd/",
+          "publishedDate": "Fri, 18 Sep 2026 11:12:00 GMT",
+          "description": "Wintermagie keert ook dit jaar terug naar de Tiense binnenstad, al pakt het stadsbestuur het van 27 november tot en met 30 december net wat anders aan. De formule wordt compacter en budgetvriendelijke ..."
+        },
+        {
+          "title": "3.355 sociale woningen op de helling in Vlaanderen: Machelen weigert er 67 te bouwen",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/machelen/3-355-sociale-woningen-op-de-helling-in-vlaanderen-machelen-weigert-er-67-te-bouwen~a6290253/",
+          "publishedDate": "Fri, 18 Sep 2026 11:00:00 GMT",
+          "description": "Liefst 44 Vlaamse gemeenten hebben een gehele of gedeeltelijke vrijstelling aangevraagd van hun sociale woonplicht. Dat schrijft ‘De Morgen’. Daardoor dreigen tot 3.355 geplande sociale huurwoningen e ..."
+        },
+        {
+          "title": "3.355 sociale woningen op de helling in Vlaanderen: Sint-Genesius-Rode weigert er 120 te bouwen",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/sint-genesius-rode/3-355-sociale-woningen-op-de-helling-in-vlaanderen-sint-genesius-rode-weigert-er-120-te-bouwen~a09de520/",
+          "publishedDate": "Fri, 18 Sep 2026 11:00:00 GMT",
+          "description": "Liefst 44 Vlaamse gemeenten hebben een gehele of gedeeltelijke vrijstelling aangevraagd van hun sociale woonplicht. Dat schrijft ‘De Morgen’. Daardoor dreigen tot 3.355 geplande sociale huurwoningen e ..."
+        },
+        {
+          "title": "Rom&#233;o Lavia komt niet van de bank tijdens pijnlijke nederlaag van Chelsea op bezoek bij Brentford",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/rode-duivels/romeo-lavia-komt-niet-van-de-bank-tijdens-pijnlijke-nederlaag-van-chelsea-op-bezoek-bij-brentford~a844765a/",
+          "publishedDate": "Fri, 18 Sep 2026 07:09:00 GMT",
+          "description": "De &lt;a href=&quot;https://www.hln.be/dossier/rode-duivels~d70ac7b3f-12b9-4935-9b41-5120cca15905/&quot; target=&quot;_blank&quot;&gt;Rode Duivels zijn ook in het buitenland weer aan het nieuwe seizoen begonnen. Hieronder verz ..."
+        },
+        {
+          "title": "Met dank aan good old Christian Burgess: AA Gent klopt stug Standard en is opnieuw alleen leider",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/jupiler-pro-league/met-dank-aan-good-old-christian-burgess-aa-gent-klopt-stug-standard-en-is-opnieuw-alleen-leider~a39d9e94/",
+          "publishedDate": "Fri, 18 Sep 2026 06:55:00 GMT",
+          "description": "Met dank aan good old Christian Burgess. AA Gent versloeg na een moeilijke match Standard en duikt met een wervelende 19 op 21 de interlandbreak in. Een (zware) blessure voor Bashir Ngom als enig minp ..."
+        },
+        {
+          "title": "Emoties lopen hoog op in ‘Got Talent’: Soundos ontroerd door debutante Noortje en Marc-Marie gebruikt harde woorden",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/tv/emoties-lopen-hoog-op-in-got-talent-soundos-ontroerd-door-debutante-noortje-en-marc-marie-gebruikt-harde-woorden~a5ae8ec2/",
+          "publishedDate": "Fri, 18 Sep 2026 06:45:00 GMT",
+          "description": "De derde auditieshow van ‘Got Talent’ schakelt opnieuw een versnelling hoger. Van bekende gezichten uit het verleden tot verrassende dance-acts en een ontroerend hoogtepunt. De emoties lopen hoog op b ..."
+        },
+        {
+          "title": "Verkeersdruk groter dan verwacht in Geluwse Voorhoek: doorgang in Guido Gezellestraat gaat weer open",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/wervik/verkeersdruk-groter-dan-verwacht-in-geluwse-voorhoek-doorgang-in-guido-gezellestraat-gaat-weer-open~aa3fa3f1/",
+          "publishedDate": "Fri, 18 Sep 2026 06:40:00 GMT",
+          "description": "Teneinde de verkeersdruk in de Voorhoek te verlichten, besloot het Wervikse stadsbestuur een tijdelijke maatregel in het leven te roepen. De afgesloten doorgang aan de Guido Gezellestraat wordt opnieu ..."
+        },
+        {
+          "title": "Vermoedelijke seriemoordenaar opgepakt in Brazili&#235;: verdachte was vermomd als vrouw en had een baby bij zich",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/vermoedelijke-seriemoordenaar-opgepakt-in-brazilie-verdachte-was-vermomd-als-vrouw-en-had-een-baby-bij-zich~a227dff1/",
+          "publishedDate": "Fri, 18 Sep 2026 05:53:00 GMT",
+          "description": "De Braziliaanse politie heeft zondag, na een klopjacht van dertig uur, een vermoedelijke seriemoordenaar opgepakt. De man was vermomd als vrouw en had een baby bij zich. Hij wordt verdacht van betrokk ..."
+        },
         {
           "title": "Betonstort met 70 vrachtwagens zorgt maandag voor verkeershinder rond bouwproject Alcedo",
           "source": "Het Laatste Nieuws",
           "url": "https://www.hln.be/denderleeuw/betonstort-met-70-vrachtwagens-zorgt-maandag-voor-verkeershinder-rond-bouwproject-alcedo~adeb6babd/",
           "publishedDate": "Fri, 18 Sep 2026 04:40:00 GMT",
           "description": "Op maandag 21 september zal er tijdelijke verkeershinder zijn in de omgeving van het bouwproject van Alcedo. Die dag vindt tussen 6 en 16 uur een betonstort plaats, waarvoor 70 vrachtwagens worden ver ..."
-        },
-        {
-          "title": "Ryanair-topman biedt dan toch zijn excuses aan nadat hij concurrenten “duur vliegende verkrachters” noemde",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/ryanair-topman-biedt-dan-toch-zijn-excuses-aan-nadat-hij-concurrenten-duur-vliegende-verkrachters-noemde~af6690d0/",
-          "publishedDate": "Fri, 18 Sep 2026 04:05:00 GMT",
-          "description": "De CEO van de Ierse luchtvaartmaatschappij Ryanair, Michael O’Leary, heeft zich alsnog ge&#235;xcuseerd voor zijn vergelijking tussen andere luchtvaartmaatschappijen en verkrachters. Zijn uitspraken leidde ..."
-        },
-        {
-          "title": "Ian &amp; Isabelle uit ‘Blind getrouwd’ breiden hun gezinnetje uit en wat is Erik Van Looy hier aan het doen?",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/bv/ian-en-isabelle-uit-blind-getrouwd-breiden-hun-gezinnetje-uit-en-wat-is-erik-van-looy-hier-aan-het-doen~ab6ae230/",
-          "publishedDate": "Fri, 18 Sep 2026 04:02:00 GMT",
-          "description": "The show must go on, want de showbizzwereld staat nooit stil. Wat jouw favoriete BV’s de laatste 24 uur hebben uitgespookt, ontdek je hier in onze nieuwsstream."
-        },
-        {
-          "title": "LIVE. Matties Volckaert aan de aftrap bij AA Gent, twee wijzigingen bij Standard",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/jupiler-pro-league/live-matties-volckaert-aan-de-aftrap-bij-aa-gent-twee-wijzigingen-bij-standard~a39d9e94/",
-          "publishedDate": "Fri, 18 Sep 2026 04:01:00 GMT",
-          "description": "Vrijdagavond trappen AA Gent en Standard de zevende speeldag in de Jupiler Pro League op gang. Blijven de Buffalo’s ongeslagen, of dienen de Rouches hen een eerste nederlaag toe?"
-        },
-        {
-          "title": "LIVE. Vincent Kompany en Bayern zonder sterkhouder in Oktoberfest-wedstrijd",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/bundesliga/live-vincent-kompany-en-bayern-zonder-sterkhouder-in-oktoberfest-wedstrijd~a64f9094/",
-          "publishedDate": "Fri, 18 Sep 2026 03:47:00 GMT",
-          "description": "&lt;a href=&quot;https://hln.be/dossier/~dfe019e5c-6cee-47c0-b50c-85715784a30e&quot; target=&quot;_blank&quot;&gt;Vincent Kompany (40) en Bayern M&#252;nchen openen op vrijdag de vierde speeldag in de Bundesliga met een thuisduel t ..."
-        },
-        {
-          "title": "Beste resultaten voor Vlaams Belang sinds verkiezingen, partij loopt verder uit op N-VA",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/binnenland/beste-resultaten-voor-vlaams-belang-sinds-verkiezingen-partij-loopt-verder-uit-op-n-va~ab25ef00/",
-          "publishedDate": "Fri, 18 Sep 2026 03:34:00 GMT",
-          "description": "Mochten het vandaag verkiezingen zijn, dan zou Vlaams Belang met 27,8 procent als winnaar uit de bus komen. Dat blijkt uit de Grote Peiling van HLN, VTM NIEUWS, RTL en ‘Le Soir’. CD&amp;V springt weer ove ..."
-        },
-        {
-          "title": "“Geen enkele speler was vorig seizoen beter dan ik”: geen collectieve prijs gepakt, maar Kylian Mbapp&#233; vindt dat hij de Ballon d’Or verdient",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/voetbal/geen-enkele-speler-was-vorig-seizoen-beter-dan-ik-geen-collectieve-prijs-gepakt-maar-kylian-mbappe-vindt-dat-hij-de-ballon-dor-verdient~a7a1623e/",
-          "publishedDate": "Fri, 18 Sep 2026 03:32:00 GMT",
-          "description": "26 oktober is het zover, dan weten we wie tot beste voetballer van de planeet verkozen wordt en de Ballon d’Or wint. Kylian Mbapp&#233; (27) ziet maar &#233;&#233;n absolute topfavoriet: hijzelf. “Ik geloof dat gesc ..."
-        },
-        {
-          "title": "“Ik spreek de waarheid”: broer van prinses Diana blijft bij explosieve claim over koning Charles",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/royalty/ik-spreek-de-waarheid-broer-van-prinses-diana-blijft-bij-explosieve-claim-over-koning-charles~a206cd31/",
-          "publishedDate": "Fri, 18 Sep 2026 03:27:00 GMT",
-          "description": "Charles Spencer (62), de broer van prinses Diana, heeft in een exclusief interview met BBC verteld dat hij de waarheid spreekt over het telefoongesprek dat hij had met koning Charles kort na het overl ..."
-        },
-        {
-          "title": "KIJK. Plots maakt poedelnaakte Marc Coucke reclame voor Pairi Daiza: “Mama, dit ben ik niet”",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/tv/kijk-plots-maakt-poedelnaakte-marc-coucke-reclame-voor-pairi-daiza-mama-dit-ben-ik-niet~a073ff29/",
-          "publishedDate": "Fri, 18 Sep 2026 03:06:00 GMT",
-          "description": "Opvallend moment in ‘Happy Hour’ vrijdagavond. Ruben Van Gucht (39) had een verrassing in petto voor Marc Coucke (61). De sportjournalist liet met AI een reclamespot maken die ge&#239;nspireerd was op de p ..."
         },
         {
           "title": "Metejoor schreef nieuwste K3-single, maar maakte het de dames extra moeilijk: “Wat we doen is nog nooit gebeurd in de K3-geschiedenis”",
@@ -154,206 +174,6 @@
       ]
     },
     {
-      "keyword": "liza plat",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Paparazzo spot mega-puincontainer bij nieuwe woning ex Jan Smit",
-          "source": "Mediacourant",
-          "url": "https://www.mediacourant.nl/2026/09/paparazzo-spot-mega-puincontainer-bij-nieuwe-woning-ex-jan-smit/",
-          "publishedDate": "Fri, 18 Sep 2026 08:30:00 GMT",
-          "description": "Liza Plat begint haar nieuwe leven na Jan Smit tussen de bouwvakkers. Haar nieuwe woning in Volendam wordt compleet gestript en een paparazzo van Priv&#233; spot nu een enorme puincontainer voor de deur."
-        },
-        {
-          "title": "Foto's: Liza Plat is de knappe ex-vrouw van zanger Jan Smit",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/zien-dit-is-de-vrouw-van-jan-smit-van-wie-hij-na-14-jaar-huwelijk-gaat-scheiden/ar-AA1J3sGP",
-          "publishedDate": "Tue, 11 Aug 2026 03:52:00 GMT",
-          "description": "Slecht nieuws uit Volendam: zanger Jan Smit en zijn vrouw Liza Plat zetten na veertien jaar een punt achter hun huwelijk. Het management van de zanger heeft bevestigd dat het stel uit elkaar gaat."
-        },
-        {
-          "title": "Jan Smit doorbreekt stilte na nieuws over scheiding: 'Gaat elke dag beetje beter'",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/show/jan-smit-doorbreekt-stilte-na-nieuws-over-scheiding-gaat-elke-dag-beetje-beter~a68d44d2/",
-          "publishedDate": "Sat, 21 Mar 2026 01:19:00 GMT",
-          "description": "Jan Smit heeft zaterdag voor het eerst van zich laten horen nadat bekend werd dat zijn huwelijk met Liza Plat is geklapt. Volgens de 40-jarige zanger ‘gaat het elke dag een beetje beter’, al noemt hij ..."
-        },
-        {
-          "title": "Jan Smit en vrouw Liza Plat zetten na 14 jaar punt achter hun huwelijk",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/show/jan-smit-en-vrouw-liza-plat-zetten-na-14-jaar-punt-achter-hun-huwelijk~a109573e/",
-          "publishedDate": "Fri, 13 Mar 2026 02:50:00 GMT",
-          "description": "Jan Smit (40) en zijn vrouw Liza Plat (44) gaan scheiden. Dat bevestigt het management van de zanger vrijdag tegenover RTL Boulevard. Het stel was veertien jaar getrouwd. Een reden voor de breuk is ..."
-        },
-        {
-          "title": "Kerkelijk huwelijk gaat aan Jan en Liza voorbij",
-          "source": "AD",
-          "url": "https://www.ad.nl/sterren/kerkelijk-huwelijk-gaat-aan-jan-en-liza-voorbij~a7c5b1f3/",
-          "publishedDate": "Fri, 19 Feb 2016 16:04:00 GMT",
-          "description": ",,Zij is met haar vorige partner getrouwd in de rooms-katholieke kerk in Volendam. Die offici&#235;le kerkelijke echtverbintenis kan alleen via een ingewikkelde, langdurige procedure worden ontbonden."
-        },
-        {
-          "title": "Het sprookje is voorbij: het liefdesverhaal van Jan Smit en Liza Plat in vogelvlucht",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/nieuws/het-liefdesverhaal-van-jan-smit-en-liza-plat-in-vogelvlucht/ar-AA1YzzPE",
-          "publishedDate": "Thu, 10 Nov 2011 16:00:00 GMT",
-          "description": "Het liefdesverhaal van Jan Smit (40) en Liza Plat (42) las als een sprookje. Tot nu, de manager van de zanger heeft aan RTL Boulevard bevestigd dat Jan en Liza gaan scheiden. Hieronder een overzicht ..."
-        }
-      ]
-    },
-    {
-      "keyword": "oplichting",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Criminelen misbruiken naam Cees Geel voor oplichting, familie doet aangifte: ‘Onbeschrijflijk pijnlijk’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/criminelen-misbruiken-naam-cees-geel-voor-oplichting-familie-doet-aangifte-onbeschrijflijk-pijnlijk~aa883115/",
-          "publishedDate": "Thu, 17 Sep 2026 23:58:00 GMT",
-          "description": "De familie van de onlangs overleden acteur Cees Geel heeft aangifte gedaan van identiteitsfraude. Op internet circuleert momenteel een frauduleus artikel waarin de naam, de nagedachtenis en gefingeerd ..."
-        },
-        {
-          "title": "'Ontvoering, beschieting, oplichting: deel verdachten Overasselt heeft crimineel verleden'",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2630094-ontvoering-beschieting-oplichting-deel-verdachten-overasselt-heeft-crimineel-verleden",
-          "publishedDate": "Mon, 07 Sep 2026 10:54:00 GMT",
-          "description": "Een aantal verdachten van de geweldsexplosie in Overasselt is eerder veroordeeld voor vuurwapengeweld, ontvoeringen en mishandeling."
-        },
-        {
-          "title": "Vrouw opgesloten na grootschalige online oplichting",
-          "source": "de Ware Tijd",
-          "url": "https://dwtonline.com/vrouw-opgesloten-na-grootschalige-online-oplichting/",
-          "publishedDate": "Fri, 18 Sep 2026 05:33:00 GMT",
-          "description": "PARAMARIBO — J.V. werd woensdag op haar werkplek aan de Nieuw Weergevondenweg in de boeien geslagen door medewerkers van de ..."
-        },
-        {
-          "title": "Vrouw vast voor oplichting bij online verkoop mobiele telefoons",
-          "source": "Starnieuws",
-          "url": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/93951",
-          "publishedDate": "Fri, 18 Sep 2026 03:03:00 GMT",
-          "description": "De politie heeft woensdag de verdachte J.V. aangehouden in een onderzoek naar de vermeende oplichting van personen die via Facebook mobiele telefoons ..."
-        },
-        {
-          "title": "Aanhoudingen voor oplichting met vervalste cryptovaluta bij verkoop Rolex-horloges",
-          "source": "strandweer",
-          "url": "https://www.strandweer.nu/binnenland/aanhoudingen-voor-oplichting-met-vervalste-cryptovaluta-bij-verkoop-rolex-horloges/",
-          "publishedDate": "Fri, 18 Sep 2026 00:40:00 GMT",
-          "description": "Almelo 18.09.2026 - De politie Oost-Nederland heeft woensdag 9 september twee mannen aangehouden die worden verdacht van oplichting met vervalste ..."
-        },
-        {
-          "title": "Koppel vast wegens online oplichting",
-          "source": "de Ware Tijd",
-          "url": "https://dwtonline.com/koppel-vast-wegens-online-oplichting/",
-          "publishedDate": "Fri, 11 Sep 2026 22:06:00 GMT",
-          "description": "PARAMARIBO — Oplichting, verduistering, medeplegen en medeplichtigheid daaraan. Van die strafbare feiten worden J.M. en zijn vriendin A.M. verdacht. Beiden ..."
-        },
-        {
-          "title": "Drie oplichters aangehouden in onderzoek naar nepagenten",
-          "source": "politie.nl",
-          "url": "https://www.politie.nl/nieuws/2026/september/11/09-drie-oplichters-aangehouden-in-onderzoek-naar-nepagenten.html",
-          "publishedDate": "Thu, 10 Sep 2026 17:00:00 GMT",
-          "description": "In onderzoek door de recherche in Helmond, werden drie verdachten aangehouden die vermoedelijk oplichtingsacties op touw zetten, slachtoffers telefonisch benaderden en nepagenten aanstuurden. Zij word ..."
-        },
-        {
-          "title": "Seniorenplatform Steenwijkerland houdt informatieavond over oplichting",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/steenwijkerland/seniorenplatform-steenwijkerland-houdt-informatieavond-over-oplichting~a69ed722/",
-          "publishedDate": "Thu, 10 Sep 2026 10:30:00 GMT",
-          "description": "Het Seniorenplatform Steenwijkerland (SPS) organiseert op woensdag 23 september een informatieavond over veiligheid en oplichting."
-        },
-        {
-          "title": "Informatieavond over oplichting in Almkerk",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/altena/informatieavond-over-oplichting-in-almkerk~a26c91e3/",
-          "publishedDate": "Tue, 08 Sep 2026 21:57:00 GMT",
-          "description": "Seniorenorganisatie Actief60Plus houdt in Almkerk een informatieavond over oplichtingspraktijken. De bijeenkomst is op donderdag 24 september om 19.30 uur in de Ontmoeting aan de Voorstraat 16, achter ..."
-        },
-        {
-          "title": "Politie waarschuwt voor oplichting met nepkamers in Eindhoven in Eindhoven",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6026244/politie-waarschuwt-voor-oplichting-met-nepkamers-in-eindhoven",
-          "publishedDate": "Mon, 07 Sep 2026 02:18:00 GMT",
-          "description": "De politie trekt aan de bel over oplichting met appartementen en kamers in Eindhoven. Via sociale media worden deze woningen vaak voor veel te lage prijzen aangeboden om woningzoekenden in de val te l ..."
-        }
-      ]
-    },
-    {
-      "keyword": "groningen - pec",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Live voetbal | Tussenstanden bij FC Groningen-PEC Zwolle en acht KKD-duels",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6410237/live-voetbal-tussenstanden-bij-fc-groningen-pec-zwolle-en-acht-kkd-duels.html",
-          "publishedDate": "Thu, 17 Sep 2026 22:58:00 GMT",
-          "description": "FC Groningen en PEC Zwolle trappen vrijdagavond de zevende speelronde van dit Eredivisie-seizoen af. In de Keuken Kampioen Divisie staan acht wedstrijden op het programma. Bekijk hier de tussenstanden ..."
-        },
-        {
-          "title": "EREDIVISIE | FC Groningen neemt het op tegen PEC Zwolle",
-          "source": "FR-Fans.nl",
-          "url": "https://www.fr-fans.nl/nieuws/79105/eredivisie-fc-groningen-neemt-het-op-tegen-pec-zwolle",
-          "publishedDate": "Fri, 18 Sep 2026 11:45:00 GMT",
-          "description": "Vandaag wordt er afgetrapt voor speelronde zeven in de Eredivisie. Feyenoord speelt zondag de competitiewedstrijd tegen FC Utrecht, maar het is vandaag eerst de beurt aan FC Groningen en PEC Zwolle."
-        },
-        {
-          "title": "Live 20.00 uur | FC Groningen - PEC Zwolle (0-0)",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/live-20-00-uur-fc-groningen-pec-zwolle-0-0/ar-AA2cvkq2",
-          "publishedDate": "Fri, 18 Sep 2026 11:00:00 GMT",
-          "description": "Vrijdagavond wordt er niet alleen gevoetbald in de Keuken Kampioen Divisie, ook in de hoogste divisie van het land gaat de bal weer rollen. FC Groningen en PEC Zwolle openen vrijdagavond speelronde ze ..."
-        },
-        {
-          "title": "Praat mee op VP: FC Groningen – PEC Zwolle",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-fc-groningen-pec-zwolle/ar-AA2cvAoQ",
-          "publishedDate": "Fri, 18 Sep 2026 10:55:06 GMT",
-          "description": "FC Groningen en PEC Zwolle openen vrijdagavond de zevende speelronde van de Eredivisie. De wedstrijd begint om 20.00 uur. Volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat me ..."
-        },
-        {
-          "title": "Opstelling FC Groningen bekend: Land en Hateboer beginnen niet",
-          "source": "FCGFans",
-          "url": "https://www.fcgfans.nl/opstelling-fc-groningen-bekend-land-en-hateboer-beginnen-niet/",
-          "publishedDate": "Fri, 18 Sep 2026 10:12:00 GMT",
-          "description": "Lees nu | FC Groningen begint vrijdagavond met een gewijzigde basisopstelling aan het Eredivisie-duel met PEC Zwolle. Trainer Dick Lukkien heeft ..."
-        },
-        {
-          "title": "Lukkien: 'Obsessieve trainer' staat mogelijk voor razendsnelle FC Groningen-rentree",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/lukkien-haalt-obsessieve-trainer-hateboer-direct-bij-wedstrijdselectie-fc-groningen",
-          "publishedDate": "Fri, 18 Sep 2026 08:00:00 GMT",
-          "description": "Hans Hateboer maakt mogelijk vrijdagavond al zijn offici&#235;le rentree voor FC Groningen. Ondanks een gebrek aan wedstrijdritme zit hij in de wedstrijdselectie voor het duel met PEC Zwolle."
-        },
-        {
-          "title": "LIVE eredivisie | PEC Zwolle wordt sterker, maar kijkt wel tegen achterstand aan in Groningen",
-          "source": "AD",
-          "url": "https://www.ad.nl/voetbal/live-eredivisie-pec-zwolle-wordt-sterker-maar-kijkt-wel-tegen-achterstand-aan-in-groningen~aa73f748/",
-          "publishedDate": "Fri, 18 Sep 2026 04:35:00 GMT",
-          "description": "PEC Zwolle ging afgelopen weekend met 0-7 onderuit tegen Feyenoord en zal zich dus willen herpakken. De ploeg van Henry van der Vegt gaat vanavond op bezoek bij FC Groningen. Volg het hier vanaf 20.00 ..."
-        },
-        {
-          "title": "SUPERTIP: Livestream FC Groningen – PEC Zwolle (Eredivisie 18-09-2026)",
-          "source": "Voetbal4u",
-          "url": "https://www.voetbal4u.com/2026/09/18/supertip-livestream-fc-groningen-pec-zwolle-eredivisie-18-09-2026/",
-          "publishedDate": "Fri, 18 Sep 2026 03:28:00 GMT",
-          "description": "Vanavond om 20.00 uur staat er weer een mooie wedstrijd op de kalender in de Nederlandse Eredivisie. FC Groningen neemt het dan namelijk in eigen huis op tegen PEC Zwolle. Beide elftallen zullen volle ..."
-        },
-        {
-          "title": "FC Groningen in sfeer van bier en bradwurst tegen PEC Zwolle",
-          "source": "Groninger Internet Courant",
-          "url": "https://www.gic.nl/sport/fc-groningen-in-sfeer-van-bier-en-bradwurst-tegen-pec-zwolle",
-          "publishedDate": "Fri, 18 Sep 2026 03:25:00 GMT",
-          "description": "FC Groningen opent speelronde zeven in de Eredivisie met een thuisduel tegen PEC Zwolle. De wedstrijd in de Euroborg staat naast de mogelijke rentree van Hans Hateboer in het teken van Oktoberfest."
-        },
-        {
-          "title": "FC Groningen neemt in rust duel PEC afscheid van zestal spelers",
-          "source": "FCGFans",
-          "url": "https://www.fcgfans.nl/fc-groningen-neemt-in-rust-duel-pec-afscheid-van-zestal-spelers/",
-          "publishedDate": "Fri, 18 Sep 2026 01:55:00 GMT",
-          "description": "Lees nu | FC Groningen speelt op vrijdagavond in een uitverkocht Euroborg tegen PEC Zwolle. De wedstrijd start om 20:00 uur en maakt in de rust ..."
-        }
-      ]
-    },
-    {
       "keyword": "camiel eurlings",
       "trafficLabel": "10K+",
       "articles": [
@@ -363,20 +183,6 @@
           "url": "https://www.parool.nl/amsterdam/powerbank-van-slapende-oud-klm-baas-camiel-eurlings-vat-vlam-tijdens-vlucht-die-rechtsomkeert-maakt-naar-schiphol~bb199151/",
           "publishedDate": "Fri, 18 Sep 2026 05:03:00 GMT",
           "description": "Een vlucht van KLM naar Cura&#231;ao is donderdagavond teruggekeerd naar Schiphol nadat een powerbank aan boord in brand was geraakt. Volgens NU.nl gaat het om de powerbank van voormalige KLM-baas Camiel E ..."
-        },
-        {
-          "title": "Powerbank die vlam vatte in vliegtuig is van oud-KLM-topman Camiel Eurlings",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5653207/powerbank-die-vlam-vatte-vliegtuig-van-oud-klm-topman-camiel",
-          "publishedDate": "Fri, 18 Sep 2026 02:54:00 GMT",
-          "description": "De powerbank die gisteren vlam vatte aan boord van een KLM-vliegtuig, is van de voormalig president-directeur van KLM Camiel Eurlings. Dat bevestigen meerdere bronnen aan boord van het toestel en met ..."
-        },
-        {
-          "title": "Waarom powerbanks in een vliegtuig niet zo'n goed idee zijn",
-          "source": "L1 Nieuws",
-          "url": "https://www.l1nieuws.nl/nieuws/3235953/waarom-powerbanks-in-een-vliegtuig-niet-zon-goed-idee-zijn",
-          "publishedDate": "Fri, 18 Sep 2026 11:27:00 GMT",
-          "description": "Vlucht KL735 was donderdag een paar uur onderweg van Amsterdam naar Cura&#231;ao, toen in de businessclass de powerbank van oud-KLM-directeur Camiel Eurlings vlamvatte. Er ontstond een kleine brand bij een ..."
         },
         {
           "title": "Ontplofte powerbank in KLM-toestel was van Camiel Eurlings",
@@ -421,11 +227,25 @@
           "description": "Voormalig KLM-baas Camiel Eurlings kan nog niet inhoudelijk reageren op het brandje dat onstond aan boord van een vlucht naar Cura&#231;ao. Eurlings was een van de passagiers."
         },
         {
+          "title": "“Powerbank van oud-directeur KLM ontploft tijdens opladen aan boord”: toestel van KLM maakt rechtsomkeer",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/powerbank-van-oud-directeur-klm-ontploft-tijdens-opladen-aan-boord-toestel-van-klm-maakt-rechtsomkeer~a1dc4f38/",
+          "publishedDate": "Fri, 18 Sep 2026 00:40:00 GMT",
+          "description": "KLM doet onderzoek naar een incident op een vlucht van Amsterdam naar Cura&#231;ao, waarbij een powerbank aan boord in brand vloog. De brand zou veroorzaakt zijn door een “oud-directeur” die in de business ..."
+        },
+        {
           "title": "‘Powerbank Camiel Eurlings ontploft in KLM-vliegtuig, oud-directeur viel in slaap’",
           "source": "Brabants Dagblad",
           "url": "https://www.bd.nl/binnenland/powerbank-camiel-eurlings-ontploft-in-klm-vliegtuig-oud-directeur-viel-in-slaap~a1dc4f38/",
           "publishedDate": "Thu, 17 Sep 2026 22:13:00 GMT",
           "description": "KLM doet onderzoek naar een incident op een vlucht van Amsterdam naar Cura&#231;ao, waarbij een powerbank aan boord in brand vloog. De brand zou veroorzaakt zijn door een ‘oud-directeur’ die in de business ..."
+        },
+        {
+          "title": "Powerbank Camiel Eurlings ontploft, KLM-vlucht naar Cura&#231;ao terug naar Schiphol",
+          "source": "PowNed",
+          "url": "https://www.powned.tv/article/powerbank-vliegt-in-brand-klm-vlucht-naar-curacao-terug-naar-schipholl~6657/",
+          "publishedDate": "Thu, 17 Sep 2026 17:00:00 GMT",
+          "description": "De Boeing 777 vloog boven de Atlantische Oceaan toen het misging. Het cabinepersoneel kreeg de brand volgens KLM snel onder controle, maar uit voorzorg besloot de maatschappij terug te vliegen. Het to ..."
         }
       ]
     },
@@ -448,13 +268,6 @@
           "description": "De 15 -jarige tiener die afgelopen juni haar ouders om het leven bracht in het Groningse Meerstad, heeft alleen gehandeld. Het meisje is niet aangespoord door anderen, blijkt uit onderzoek van de poli ..."
         },
         {
-          "title": "15-jarige uit Meerstad verdacht van moord op ouders, 'zeer uitzonderlijke' zaak begint",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/15-jarige-uit-meerstad-verdacht-van-moord-op-ouders-zeer-uitzonderlijke-zaak-begint/ar-AA2ctgOm",
-          "publishedDate": "Thu, 17 Sep 2026 20:56:58 GMT",
-          "description": "Een 15-jarige staat vandaag tijdens een eerste pro-formazitting voor de kinderrechter op verdenking van moord op beide ouders. Het Groningse echtpaar Johan en Mathilda, beiden 53 jaar, werd op 18 juni ..."
-        },
-        {
           "title": "Nieuwe ontwikkelingen in zaak-Meerstad: meisje (15) bracht eigen ouders om het leven",
           "source": "Panorama on MSN",
           "url": "https://www.msn.com/nl-nl/nieuws/overig/nieuwe-ontwikkelingen-in-zaak-meerstad-meisje-15-bracht-eigen-ouders-om-het-leven/ar-AA2cuZbf",
@@ -469,11 +282,18 @@
           "description": "Het 15-jarige meisje dat in juni haar beide ouders (53) zou hebben vermoord in het Groningse Meerstad blijft negentig dagen langer vastzitten. Dat heeft de rechtbank in Groningen bepaald. Vandaag was ..."
         },
         {
+          "title": "15-jarig meisje uit Meerstad langer vast vanwege moord op ouders (update)",
+          "source": "112Groningen",
+          "url": "https://112groningen.nl/436275/groningen/15-jarig-meisje-uit-meerstad-voor-het-eerst-in-rechtbank-vanwege-moord-op-ouders/",
+          "publishedDate": "Fri, 18 Sep 2026 07:12:00 GMT",
+          "description": "Meerstad - De strafzaak tegen het 15-jarige meisje uit Meerstad dat wordt verdacht van de moord op haar ouders Johan en Matilda, beiden 53 jaar oud is vrijd ..."
+        },
+        {
           "title": "Meisje (15) verdacht van moord op ouders 90 dagen langer vast",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/algemeen/meisje-15-verdacht-van-moord-op-ouders-90-dagen-langer-vast",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/meisje-15-verdacht-van-moord-op-ouders-90-dagen-langer-vast",
           "publishedDate": "Fri, 18 Sep 2026 05:19:00 GMT",
-          "description": "GRONINGEN (ANP) - Het 15-jarige meisje dat in juni haar beide ouders (53) zou hebben vermoord in het Groningse Meerstad blijft negentig dagen langer vastzitten. Dat heeft de rechtbank in Groningen bep ..."
+          "description": "Het 15-jarige meisje dat in juni haar beide ouders (53) zou hebben vermoord in het Groningse Meerstad blijft negentig dagen langer vastzitten. Dat heeft de rechtbank in Groningen bepaald, op de eerste ..."
         },
         {
           "title": "Verdachte (15) van moord op ouders in Meerstad handelde alleen",
@@ -483,11 +303,11 @@
           "description": "Het vijftienjarige meisje uit Meerstad dat ervan wordt verdacht haar ouders te hebben vermoord, handelde volgens het OM alleen. Er is geen betrokkenheid vanuit een zogenoemde Com-groep vastgesteld."
         },
         {
-          "title": "15-jarig meisje uit Meerstad langer vast vanwege moord op ouders (update)",
-          "source": "112Groningen",
-          "url": "https://112groningen.nl/436275/groningen/15-jarig-meisje-uit-meerstad-voor-het-eerst-in-rechtbank-vanwege-moord-op-ouders/",
-          "publishedDate": "Fri, 18 Sep 2026 05:11:00 GMT",
-          "description": "Meerstad - De strafzaak tegen het 15-jarige meisje uit Meerstad dat wordt verdacht van de moord op haar ouders Johan en Matilda, beiden 53 jaar oud is vrijd ..."
+          "title": "OM ziet geen rol COM-groep bij dubbele moord in Meerstad",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/rechtszaak/artikelen/com-groep-meerstad-dood-ouders",
+          "publishedDate": "Fri, 18 Sep 2026 03:36:00 GMT",
+          "description": "Het OM ziet geen betrokkenheid van een COM-groep bij de dood van de ouders van het meisje (15) uit Meerstad. Ook was volgens het OM niemand anders betrokken."
         },
         {
           "title": "Kind (15) dat verdacht wordt van doden beide ouders in Meerstad voor de rechter",
@@ -609,7 +429,7 @@
         {
           "title": "Poetin laat 6.000 mensen verhongeren in belegerde Oekra&#239;ense stad",
           "source": "TCE on MSN",
-          "url": "https://www.msn.com/nl-nl/openbare-veiligheid-en-noodsituaties/gezondheid-en-veiligheid-waarschuwingen/poetin-laat-6-000-mensen-verhongeren-in-belegerde-oekra%C3%AFense-stad/ar-AA2cvmo3",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/poetin-laat-6000-mensen-verhongeren-in-belegerde-oekra%C3%AFense-stad/ar-AA2cvmo3",
           "publishedDate": "Fri, 18 Sep 2026 06:40:05 GMT",
           "description": "In de Oekra&#239;ense stad Olesjky, in het door Rusland bezette deel van de regio Cherson, dreigt een ernstige humanitaire crisis. Volgens de Oekra&#239;ense mensenrechtencommissaris Dmytro Lubinets zitten in d ..."
         },
@@ -641,13 +461,6 @@
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Fred over B&amp;B-avontuur: 'Ga nooit meer af op een filmpje'",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/video/productie/fred-van-b-b-vol-liefde-meest-besproken-man-briljant-14405225",
-          "publishedDate": "Wed, 09 Sep 2026 17:00:00 GMT",
-          "description": "In een exclusief interview vertelt Fred Ros over zijn B&amp;B Vol Liefde-avontuur. Hoe is het nu in de liefde, met de kippenverkoop en heeft Fred spijt van zijn uitspraken?"
-        },
-        {
           "title": "Vriendin B&amp;B Vol Liefde-Fred spreekt voor het eerst: 'Hij is ontzettend empathisch'",
           "source": "Shownieuws",
           "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/vriendin-bb-vol-liefde-fred-spreekt-voor-het-eerst-hij-is-empathisch",
@@ -655,10 +468,10 @@
           "description": "Fred Ros, bekend van B&amp;B Vol Liefde, heeft de liefde gevonden! Zijn nieuwe vriendin vertelt over haar kijk op hem en de kritiek die hij ontving."
         },
         {
-          "title": "Nieuwe vriendin van Fred uit B&amp;B vol liefde over negatieve reacties: ‘Heel naar’",
+          "title": "Mysterieuze vriendin van Fred uit B&amp;B vol liefde vertelt: ‘Hij is ontzettend empathisch’",
           "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/show/nieuwe-vriendin-van-fred-uit-benb-vol-liefde-over-negatieve-reacties-heel-naar~a8048f66/",
-          "publishedDate": "Fri, 18 Sep 2026 00:01:00 GMT",
+          "url": "https://www.bndestem.nl/show/mysterieuze-vriendin-van-fred-uit-benb-vol-liefde-vertelt-hij-is-ontzettend-empathisch~a8048f66/",
+          "publishedDate": "Fri, 18 Sep 2026 01:53:00 GMT",
           "description": "B&amp;B vol liefde leverde hem geen partner op, maar Fred Ros uit Bonaire werd na de opnames w&#233;l verliefd. De nieuwe dame in zijn leven spreekt vol lof over hem in de podcast Mischa!."
         },
         {
@@ -709,6 +522,165 @@
           "url": "https://www.bd.nl/brabant/fred-van-benb-vol-liefde-maakt-bronzen-beelden-van-vissen-en-verkoopt-ze-voor-reuzenbedragen~acdf6687/",
           "publishedDate": "Sat, 05 Sep 2026 18:28:00 GMT",
           "description": "Fred Ros maakt de tongen los in het nieuwste seizoen van B&amp;B Vol Liefde. Naast het runnen van gastverblijven op Bonaire, is hij ook kunstenaar. En zijn werk is niet bepaald goedkoop. Bronzen beeldjes ..."
+        },
+        {
+          "title": "Fred uit B&amp;B Vol Liefde was jaren geleden al op tv te zien bij Matthijs van Nieuwkerk",
+          "source": "rtl",
+          "url": "https://www.rtl.nl/boulevard/artikel/5633605/fred-bb-vol-liefde-matthijs-van-nieuwkerk-interview-tv",
+          "publishedDate": "Thu, 30 Jul 2026 11:05:00 GMT",
+          "description": "Fred is dit seizoen de eerste deelnemer uit de geschiedenis van B&amp;B Vol Liefde die meedoet vanaf Bonaire. De 67-jarige B&amp;B-eigenaar hoopt daar na zijn scheiding opnieuw de liefde te vinden, maar naast ..."
+        }
+      ]
+    },
+    {
+      "keyword": "bayern - union berlin",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Bayern viert vroeg Oktoberfest met record Kane, hattrick Olise en Saibari's eerste",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2631583-bayern-viert-vroeg-oktoberfest-met-record-kane-hattrick-olise-en-saibari-s-eerste",
+          "publishedDate": "Fri, 18 Sep 2026 13:48:00 GMT",
+          "description": "Bayern M&#252;nchen wint met 7-0 van Union Berlin in een duel vol mijlpalen: Harry Kane breekt een stokoud record, Michael Olise noteert een hattrick en Ismael Saibari maakt zijn eerste voor Bayern."
+        },
+        {
+          "title": "Saibari scoort bij monsterzege Bayern M&#252;nchen, Chelsea hard onderuit bij Brentford",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/saibari-scoort-bij-monsterzege-bayern-munchen-chelsea-hard-onderuit-bij-brentford~a6b308d2/",
+          "publishedDate": "Fri, 18 Sep 2026 07:02:00 GMT",
+          "description": "Chelsea heeft vrijdagavond een pijnlijke nederlaag geleden in de Premier League. Het team van Xabi Alonso ging even verderop in het westen van Londen met 3-0 onderuit bij Brentford, dat nog nooit won ..."
+        },
+        {
+          "title": "Bayern M&#252;nchen boekt monsterzege dankij hattrick Olise, jubileumgoal Kane en eerste goal Saibari",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/bayern-munchen-boekt-monsterzege-dankij-hattrick-olise-jubileumgoal-kane-en-eerste-goal-saibari~a6b308d2/",
+          "publishedDate": "Fri, 18 Sep 2026 06:41:00 GMT",
+          "description": "Bayern M&#252;nchen heeft vrijdagavond een ruime zege geboekt op Union Berlin. Het werd 7-0 in de Allianz Arena, waar de van PSV overgekomen Ismael Saibari zijn eerste goal maakte voor de Duitse recordkamp ..."
+        },
+        {
+          "title": "Zelfspot bij Union na sof: 'Kon die 19-jarige Bar&#231;a-blaag zijn mond niet houden?'",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/zelfspot-bij-union-na-sof-kon-die-19-jarige-bar%C3%A7a-blaag-zijn-mond-niet-houden/ar-AA2cwnxp",
+          "publishedDate": "Fri, 18 Sep 2026 13:59:00 GMT",
+          "description": "De socialmedia-afdeling van Union Berlin toonde vrijdagavond aan over de nodige zelfspot te beschikken. De Bundesliga-club werd van de mat geveegd door Bayern M&#252;nchen. Union kon het niet laten om te r ..."
+        },
+        {
+          "title": "7-0! Met parels van hattrickheld Olise en record voor Kane haalt Bayern M&#252;nchen genadeloos uit tegen Union Berlin",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/matches/voetbal/buitenland/dui/bundesliga/2026-2027/regulier/04/bayern-munchen-fc-union-berlin-7-0-met-parels-van-hattrickheld-olise-en-record-voor-kane-haalt-bayern-munchen-genadeloos-uit-tegen-union-berlin~1784130241123/",
+          "publishedDate": "Fri, 18 Sep 2026 13:30:00 GMT",
+          "description": "Het Oktoberfest is al twee weken eerder begonnen in M&#252;nchen. Het Bayern van Vincent Kompany maakte er vanavond een galamatch van tegen een weerloos Union Berlin. Harry Kane was de blikvanger met zijn ..."
+        },
+        {
+          "title": "Bayern M&#252;nchen walst over Union Berlin heen: Harry Kane scoort honderdste doelpunt",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/bayern-m%C3%BCnchen-walst-over-union-berlin-heen-harry-kane-scoort-honderdste-doelpunt/ar-AA2cwOu8",
+          "publishedDate": "Fri, 18 Sep 2026 13:26:58 GMT",
+          "description": "Bayern M&#252;nchen heeft vrijdagavond een ruime zege geboekt thuis tegen Union Berlin. De ploeg van Vincent Kompany walste over de ploeg uit Berlijn heen en won door onder anderen Harry Kane's honderdste ..."
+        },
+        {
+          "title": "Praat mee op VP: Saibari op de bank bij Bayern M&#252;nchen tegen Union Berlin",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-saibari-op-de-bank-bij-bayern-m%C3%BCnchen-tegen-union-berlin/ar-AA2cw4Z8",
+          "publishedDate": "Fri, 18 Sep 2026 11:05:00 GMT",
+          "description": "Bayern M&#252;nchen en Union Berlin trappen vrijdagavond de vierde speelronde van de Bundesliga af. De wedstrijd begint om 20.30 uur. Volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en p ..."
+        },
+        {
+          "title": "Zevenklapper op Oktoberfest: historische goal Harry Kane en hattrick Michael Olise maken feestavond voor Vincent Kompany compleet",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/bundesliga/zevenklapper-op-oktoberfest-historische-goal-harry-kane-en-hattrick-michael-olise-maken-feestavond-voor-vincent-kompany-compleet~a64f9094/",
+          "publishedDate": "Fri, 18 Sep 2026 06:46:00 GMT",
+          "description": "Bayern M&#252;nchen heeft vrijdagavond keihard uitgehaald tegen Union Berlin. De ploeg van &lt;a href=&quot;https://www.hln.be/dossier/vincent-kompany~dfe019e5c-6cee-47c0-b50c-85715784a30e/&quot; target=&quot;_blank&quot;&gt;Vincen ..."
+        },
+        {
+          "title": "Kompany ziet Bayern M&#252;nchen Union Berlin met 7-0 wegspelen",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/kompany-bayern-munchen-union-berlin-7-0/",
+          "publishedDate": "Fri, 18 Sep 2026 01:43:00 GMT",
+          "description": "Bayern M&#252;nchen heeft Union Berlin op 18 september met zware 7-0-cijfers verslagen in de Bundesliga. De ploeg van Vincent Kompany had 35 minuten nodig om de score te openen, maar maakte vervolgens kort ..."
+        },
+        {
+          "title": "Bayern M&#252;nchen haalt uit tegen Union Berlin, Saibari scoort",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/bayern-munchen-haalt-uit-tegen-union-berlin-saibari-scoort",
+          "publishedDate": "Fri, 18 Sep 2026 01:26:00 GMT",
+          "description": "M&#220;NCHEN (ANP) - Bayern M&#252;nchen heeft ook de derde thuiswedstrijd van dit seizoen met ruime cijfers gewonnen. De regerend landskampioen versloeg Union Berlin in ..."
+        }
+      ]
+    },
+    {
+      "keyword": "brentford - chelsea",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Buitenland: Hato krijgt kans op revanche met Chelsea tegen Brentford",
+          "source": "Ajax Showtime on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/buitenland-hato-krijgt-kans-op-revanche-met-chelsea-tegen-brentford/ar-AA2ctjE5",
+          "publishedDate": "Fri, 18 Sep 2026 14:00:00 GMT",
+          "description": "Ook dit weekend komen er weer de nodige oud-Ajacieden in actie op de Europese velden. In verschillende buitenlandse competities staan wedstrijden op het programma, waarin meerdere spelers met een verl ..."
+        },
+        {
+          "title": "Chelsea zonder Belgen verliest van Brentford met scorende Thiago",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/chelsea-zonder-belgen-verliest-van-brentford-met-scorende-thiago/ar-AA2cwkLl",
+          "publishedDate": "Fri, 18 Sep 2026 13:57:12 GMT",
+          "description": "Chelsea heeft vrijdagavond zijn tweede nederlaag van dit Premier League-seizoen geleden. The Blues lieten zich bij Brentford aftroeven: 3-0. De ploeg van Xabi Alonso heeft nu drie wedstrijden op rij n ..."
+        },
+        {
+          "title": "Tandeloos Chelsea verliest voor het eerst in 88 jaar van West-Londense buurman",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/tandeloos-chelsea-verliest-voor-het-eerst-in-88-jaar-van-west-londense-buurman/ar-AA2cx192",
+          "publishedDate": "Fri, 18 Sep 2026 13:53:34 GMT",
+          "description": "Chelsea gaat met een kater de interlandpauze in. De ploeg van Xabi Alonso maakte een buitengewoon fletse indruk op bezoek bij Brentford, dat een historische en ruime zege boekte op de buurman: 3-0."
+        },
+        {
+          "title": "Op welke zender kijk je Brentford – Chelsea live?",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-brentford-chelsea-live/",
+          "publishedDate": "Fri, 18 Sep 2026 11:43:00 GMT",
+          "description": "In de Premier League staan Brentford en Chelsea tegenover elkaar. In de SN TV-gids zie je op welke zender dit duel te zien is."
+        },
+        {
+          "title": "Praat mee op VP: Brentford – Chelsea",
+          "source": "Voetbalprimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2135915/praat-mee-op-vp-brentford-chelsea.html",
+          "publishedDate": "Fri, 18 Sep 2026 11:21:00 GMT",
+          "description": "Brentford en Chelsea staan vrijdagavond tegenover elkaar in een Londense derby in de Premier League. De wedstrijd begint om 21.00 uur. Volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeu ..."
+        },
+        {
+          "title": "Chelsea zet matige start onder Xabi Alonso voort; Henderson massaal uitgefloten",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/chelsea-zet-matige-start-onder-xabi-alonso-voort-henderson-massaal-uitgefloten/blta31ecc90848e2d94",
+          "publishedDate": "Fri, 18 Sep 2026 01:54:00 GMT",
+          "description": "Chelsea heeft vrijdagavond geen goede zaken gedaan in de Premier League. De ploeg van Xabi Alonso ging met 3-0 onderuit bij Brentford en blijft steken op 7 punten na 5 duels. Brentford staat na de ..."
+        },
+        {
+          "title": "LIVE | Bayern ontvangt Union Berlin, Chelsea gaat op bezoek bij Brentford",
+          "source": "Provinciale Zeeuwse Courant",
+          "url": "https://www.pzc.nl/voetbal/live-bayern-ontvangt-union-berlin-chelsea-gaat-op-bezoek-bij-brentford~a6b308d2/",
+          "publishedDate": "Thu, 17 Sep 2026 23:00:00 GMT",
+          "description": "Twee topclubs in actie vanavond. Bayern M&#252;nchen speelt om 20.30 uur thuis tegen Union Berlin, Chelsea gaat om 21.00 uur op bezoek bij Brentford. Volg de hoogtepunten hier live."
+        },
+        {
+          "title": "'Brentford gunt Henderson (36) opzienbarende move naar Chelsea'",
+          "source": "Vi",
+          "url": "https://www.vi.nl/nieuws/brentford-gunt-henderson-36-opzienbarende-move-naar-chelsea",
+          "publishedDate": "Mon, 27 Jul 2026 12:43:00 GMT",
+          "description": "Jordan Henderson (36) staat mogelijk voor een verrassende move. De controleur van Brentford wordt namelijk begeerd door Chelsea, dat hem transfervrij kan overnemen van de stadgenoot. Dat meldt onder ..."
+        },
+        {
+          "title": "Brentford redt een verloren punt dan toch nog in 93e minuut, Chelsea laat leidersplaats liggen na rollercoaster",
+          "source": "sporza.be",
+          "url": "https://sporza.be/nl/matches/voetbal/buitenland/eng/premier-league/2025-2026/regulier/04/brentford-chelsea-brentford-redt-een-verloren-punt-dan-toch-nog-in-93e-minuut-chelsea-laat-leidersplaats-liggen-na-rollercoaster~1750776784193/",
+          "publishedDate": "Sat, 13 Sep 2025 14:00:00 GMT",
+          "description": "73' - Verv. Mathias Jensen door Rico Henry 73' - Verv. Igor Thiago door Dango Ouattara 79' - Verv. Jo&#227;o Pedro door Alejandro Garnacho 82' - Geel - Ethan Pinnock 83' - Verv. Ethan Pinnock door ..."
+        },
+        {
+          "title": "Praat mee op VP: Brentford - Chelsea",
+          "source": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/1690395/praat-mee-op-vp-brentford-chelsea.html",
+          "publishedDate": "Mon, 08 Sep 2025 14:01:00 GMT",
+          "description": "Brentford FC neemt het op tegen Chelsea FC in de Premier League. De wedstrijd begint om 21.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee! Een lekker affiche ..."
         }
       ]
     }
