@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T22:58:36.379Z",
+  "fetchedAt": "2026-09-18T01:06:06.588Z",
   "trends": [
     {
       "keyword": "juventus - nec",
@@ -27,11 +27,18 @@
           "description": "Goedenavond en welkom bij dit liveblog! Wij houden je op de hoogte van al het Europa League-voetbal van deze donderdagavond. Veel plezier!"
         },
         {
-          "title": "Zorgen bij Juventus voor duel met NEC, maar Spalletti raakt niet in de war",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2631380-zorgen-bij-juventus-voor-duel-met-nec-maar-spalletti-raakt-niet-in-de-war",
-          "publishedDate": "Thu, 17 Sep 2026 05:13:00 GMT",
-          "description": "De roemruchte club hoopt donderdagavond in de Europa League tegen NEC een kleine (identiteits)crisis af te wenden."
+          "title": "Juventus deelt NEC zware 5-0-nederlaag uit in Europa League",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/juventus-nec-zware-nederlaag-europa-league/",
+          "publishedDate": "Thu, 17 Sep 2026 16:24:00 GMT",
+          "description": "NEC is zijn League Phase in de Europa League met een zware nederlaag begonnen. Juventus had donderdag al voor de rust een ruime voorsprong beet en won uiteindelijk met 5-0. Philippe Sandler, ex- RSC ..."
+        },
+        {
+          "title": "Teruglezen | Zo verliep de wedstrijd tussen Juventus en NEC in de Europa League",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/live-europa-league-nec-begonnen-aan-wedstrijd-tegen-juventus",
+          "publishedDate": "Thu, 17 Sep 2026 16:00:00 GMT",
+          "description": "NEC opent het Europa League-avontuur met een fraai &#233;n zwaar affiche, uit bij Juventus. Mis niets en volg de wedstrijd in dit liveblog van FCUpdate."
         },
         {
           "title": "NEC blameert zichzelf bij terugkeer in Europa: Juventus paar maten te groot",
@@ -55,13 +62,6 @@
           "description": "Juventus is een maat te groot gebleken voor NEC in het openingsduel van de Europa League-competitiefase: 5-0. Tactische analyse van een wedstrijd waarin Juventus handig gebruikmaakt van de radicale ta ..."
         },
         {
-          "title": "Teruglezen | Zo verliep de wedstrijd tussen Juventus en NEC in de Europa League",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/live-europa-league-nec-begonnen-aan-wedstrijd-tegen-juventus",
-          "publishedDate": "Thu, 17 Sep 2026 13:59:00 GMT",
-          "description": "NEC opent het Europa League-avontuur met een fraai &#233;n zwaar affiche, uit bij Juventus. Mis niets en volg de wedstrijd in dit liveblog van FCUpdate."
-        },
-        {
           "title": "Rampzalige rentree NEC: Juventus straft foutenfestival genadeloos af",
           "source": "Voetbal International",
           "url": "https://www.vi.nl/nieuws/rampzalige-rentree-nec-juventus-straft-foutenfestival-genadeloos-af",
@@ -80,7 +80,78 @@
     {
       "keyword": "verpleeghuis",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Ouderen in verpleeghuizen moeten vaak kort na aankomst weer verhuizen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2630313-ouderen-in-verpleeghuizen-moeten-vaak-kort-na-aankomst-weer-verhuizen",
+          "publishedDate": "Wed, 09 Sep 2026 04:51:00 GMT",
+          "description": "Uit onderzoek blijkt dat 36 op de 100 verpleeghuisbewoners weer moeten verhuizen, vaak ook in de eerste vier maanden na aankomst."
+        },
+        {
+          "title": "Ouderen moeten steeds verhuizen in hun laatste levensfase: ‘Dat is ingrijpend en emotioneel’",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/nederland/ouderen-moeten-steeds-verhuizen-in-hun-laatste-levensfase-dat-is-ingrijpend-en-emotioneel~b7d23e4f/",
+          "publishedDate": "Wed, 09 Sep 2026 00:48:00 GMT",
+          "description": "Veel ouderen die in een verpleeghuis terechtkomen, moeten bijna meteen alweer verhuizen. Voor het eerst wordt uit een groot landelijk onderzoek duidelijk hoe senioren in de laatste fase van hun leven ..."
+        },
+        {
+          "title": "Verpleeghuis ’t Huys te Hoecke knapt afdelingen op voor veiligere woon- en werkomgeving",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/hoeksche-waard/verpleeghuis-t-huys-te-hoecke-knapt-afdelingen-op-voor-veiligere-woon-en-werkomgeving~ac799c92/",
+          "publishedDate": "Sun, 06 Sep 2026 19:01:00 GMT",
+          "description": "Het Puttershoekse verpleeghuis ’t Huys te Hoecke brengt de komende periode verbeteringen aan op verschillende afdelingen, waardoor een veiligere woon- en werkomgeving zal ontstaan."
+        },
+        {
+          "title": "RIVM: ouderen gaan later naar verpleeghuis, voor zwaardere zorg en voor kortere tijd",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/rivm-ouderen-gaan-later-naar-verpleeghuis-voor-zwaardere-zorg-en-voor-kortere-tijd~b6ce0fefc/",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+          "description": "De vraag naar ouderenzorg stijgt, maar verschuift steeds meer van de verpleeghuizen naar thuis. Ouderen gaan pas naar een zorginstelling als ze zwaardere zorg nodig hebben. Daar verblijven ze minder l ..."
+        },
+        {
+          "title": "Ouderenzorgorganisatie Silverein wil verpleeghuis in voormalig pand Meander in Baarn",
+          "source": "Nationale Zorggids",
+          "url": "https://www.nationalezorggids.nl/ouderenzorg/ouderenzorgorganisatie-silverein-wil-verpleeghuis-in-voormalig-pand-meander-in-baarn/",
+          "publishedDate": "Wed, 16 Sep 2026 01:30:00 GMT",
+          "description": "Sinds 21 augustus staat het voormalige pand van het Meander Ziekenhuis in Baarn leeg. Ouderenzorgorganisatie Silverein wil het pand wel intrekken, maar de gemeente ..."
+        },
+        {
+          "title": "Partner in verpleeghuis? Meer AOW kan duur uitpakken",
+          "source": "De Dagelijkse Standaard",
+          "url": "https://www.dagelijksestandaard.nl/economie/partner-verpleeghuis-hogere-aow-eigen-bijdrage",
+          "publishedDate": "Sun, 13 Sep 2026 05:31:00 GMT",
+          "description": "Een hogere AOW als je partner in een verpleeghuis woont, kan ook hogere zorgkosten opleveren. Dit moet je weten voordat je een keuze maakt."
+        },
+        {
+          "title": "Alzheimer Nederland: voorkom dat kwetsbare ouderen opnieuw moeten verhuizen",
+          "source": "Nationale Zorggids",
+          "url": "https://www.nationalezorggids.nl/ouderenzorg/alzheimer-nederland-voorkom-dat-kwetsbare-ouderen-opnieuw-moeten-verhuizen/",
+          "publishedDate": "Tue, 08 Sep 2026 17:01:00 GMT",
+          "description": "Uit nieuw onderzoek van Maastricht University blijkt dat ouderen vaak binnen vier maanden na hun verhuizing naar een verpleeghuis w&#233;&#233;r moeten verhuizen. Zo’n eerste ..."
+        },
+        {
+          "title": "Poll | Ouderenzorg moet zich niet vastklampen aan verpleeghuis",
+          "source": "Zorgvisie",
+          "url": "https://www.zorgvisie.nl/poll-ouderenzorg-moet-zich-niet-vastklampen-aan-verpleeghuis/",
+          "publishedDate": "Mon, 07 Sep 2026 06:18:00 GMT",
+          "description": "Zorgvisie-poll | De ouderenzorg moet zich niet vastklampen aan het verpleeghuis. Laat in de poll van deze week weten wat je ervan vindt ..."
+        },
+        {
+          "title": "Wat zijn mijn rechten bij een verpleeghuis?",
+          "source": "Consumentenbond",
+          "url": "https://www.consumentenbond.nl/juridisch-advies/zorg-zorgverzekering/klacht-verpleeghuis",
+          "publishedDate": "Wed, 08 Jul 2026 04:08:00 GMT",
+          "description": "Als je in een verpleeghuis gaat wonen, teken je een zorgovereenkomst. Daarin staan onder meer je rechten. Er staat bijvoorbeeld in dat de zorgaanbieder aansprakelijk is voor schade die de cli&#235;nt lijdt ..."
+        },
+        {
+          "title": "Video: wat moet ik regelen bij een verhuizing naar een verpleeghuis?",
+          "source": "Rijksoverheid",
+          "url": "https://www.rijksoverheid.nl/documenten/videos/2025/03/03/video-naar-verpleeghuis",
+          "publishedDate": "Sun, 02 Mar 2025 16:00:00 GMT",
+          "description": "U of uw naaste verhuist naar een verpleeghuis. Daarvoor moet u een aantal zaken regelen en weten. U heeft bijvoorbeeld een indicatie nodig van het Centrum Indicatiestelling Zorg (CIZ). Weten wat u nog ..."
+        }
+      ]
     },
     {
       "keyword": "arne slot",
@@ -136,11 +207,11 @@
           "description": "Arne Slot reageert voor het eerst zelf op de mislukte poging van de KNVB om hem als nieuwe bondscoach te strikken. De trainer die na zijn vertrek bij Liverpool zonder werk zit, ziet veel berichten in ..."
         },
         {
-          "title": "Arne Slot kan Nederlands elftal links laten liggen voor avontuur in Saoedi-Arabi&#235;",
-          "source": "footballtransfers",
-          "url": "https://www.footballtransfers.com/nl/transfernieuws/sa-pro-league/2026/07/arne-slot-kan-lokroep-knvb-negeren-en-kiezen-voor-al-ahli",
-          "publishedDate": "Thu, 30 Jul 2026 07:29:00 GMT",
-          "description": "Dylan ter Laak is sinds 2022 actief in de voetbaljournalistiek en werkt sinds 2025 als redacteur bij FootballTransfers, waar hij schrijft over transfernieuws en achtergrondverhalen maakt. Maak ons je ..."
+          "title": "Arne Slot heeft dramatisch nieuws voor KNVB in zoektocht naar nieuwe bondscoach Oranje",
+          "source": "sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/arne-slot-heeft-dramatisch-nieuws-voor-knvb-in-zoektocht-naar-nieuwe-bondscoach-oranje-2026073018590479185/",
+          "publishedDate": "Thu, 30 Jul 2026 13:59:00 GMT",
+          "description": "Arne Slot wordt niet de nieuwe bondscoach van het Nederlands elftal. Ondanks dat de KNVB in de vrije coach de droomkandidaat ziet om Ronald Koeman op te volgen, heeft de bij Liverpool ontslagen ..."
         },
         {
           "title": "Arne Slot spreekt zich tegenover Hans Kraay junior uit over bondscoachschap bij Nederland",
@@ -150,11 +221,11 @@
           "description": "De KNVB heeft gesprekken gevoerd met Arne Slot. De oud-trainer van onder meer Feyenoord en Liverpool wordt gezien als een serieuze kandidaat om Ronald Koeman op te volgen als bondscoach. Vlak voor het ..."
         },
         {
-          "title": "'KNVB voert gesprekken met Arne Slot over bondscoachschap'",
+          "title": "Arne Slot krijgt miljoenenbedrag mee na ontslag bij Liverpool",
           "source": "footballtransfers",
-          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/07/knvb-voert-gesprekken-met-arne-slot-over-bondscoachschap-nederland",
-          "publishedDate": "Mon, 06 Jul 2026 05:42:00 GMT",
-          "description": "Na de vroege uitschakeling op het WK 2026 kondigde Ronald Koeman zijn afscheid als bondscoach van Oranje aan. Inmiddels is de KNVB naarstig op zoek naar een opvolger en volgens Florian Plettenberg van ..."
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/uk-premier-league/2026/05/arne-slot-krijgt-miljoenenbedrag-mee-na-ontslag-bij-liverpool",
+          "publishedDate": "Sat, 30 May 2026 09:18:00 GMT",
+          "description": "Zaterdag kwam naar buiten dat Arne Slot toch ontslagen is als trainer van Liverpool. De oefenmeester wordt ondertussen al volop gelinkt aan een nieuwe klus bij AC Milan. Slot heeft qua financi&#235;n ..."
         }
       ]
     },
@@ -184,6 +255,20 @@
           "description": "Ren&#233; Froger heeft bekendgemaakt dat bij hem myositis is vastgesteld, een auto-immuunziekte waarbij het afweersysteem de eigen spieren aanvalt. De zanger kampt al bijna twee jaar met lichamelijke ..."
         },
         {
+          "title": "Rene Froger onthult heftige ziekte: &quot;Mijn lichaam vraagt nu om rust&quot;",
+          "source": "Mannenzaken",
+          "url": "https://mannenzaken.nl/nieuws/rene-froger-onthult-heftige-ziekte-mijn-lichaam-vraagt-nu-om-rust",
+          "publishedDate": "Thu, 17 Sep 2026 08:31:00 GMT",
+          "description": "Ren&#233; Froger heeft jarenlang geprobeerd om zijn drukke artiestenleven gewoon voort te zetten, terwijl zijn lichaam steeds duidelijker aangaf dat er iets niet goed zat. De 65-jarige zanger kampte al lan ..."
+        },
+        {
+          "title": "Zanger Ren&#233; Froger doet stap terug wegens auto-immuunziekte",
+          "source": "Beau Monde",
+          "url": "https://beaumonde.nl/artikel/696083/rene-froger-neemt-rust-auto-immuunziekte-myositis",
+          "publishedDate": "Thu, 17 Sep 2026 08:00:00 GMT",
+          "description": "Zanger Ren&#233; Froger doet voorlopig een stap terug vanwege de auto-immuunziekte myositis. Wat is er precies aan de hand met zijn gezondheid?"
+        },
+        {
           "title": "Ren&#233; Froger legt werk tijdelijk neer om auto-immuunziekte",
           "source": "Nieuws.nl",
           "url": "https://nieuws.nl/entertainment/rene-froger-legt-werk-tijdelijk-neer-om-auto-immuunziekte",
@@ -205,25 +290,11 @@
           "description": "Ren&#233; Froger heeft bekendgemaakt dat bij hem myositis is vastgesteld, een auto-immuunziekte waarbij het afweersysteem de spieren aanvalt."
         },
         {
-          "title": "Ren&#233; Froger heeft auto-immuunziekte, is dit einde carri&#232;re?",
-          "source": "Startpagina on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/ren%C3%A9-froger-heeft-auto-immuunziekte-is-dit-einde-carri%C3%A8re/ar-AA2cqOZI",
-          "publishedDate": "Thu, 17 Sep 2026 05:21:43 GMT",
-          "description": "Ren&#233; Froger neemt de komende tijd meer rust nadat bij hem myositis is vastgesteld. In een verklaring op Instagram laat de zanger weten dat hij al bijna 2 jaar lichamelijke klachten heeft. Zijn gezondh ..."
-        },
-        {
           "title": "Ren&#233; Froger kampt met auto-immuunziekte waarbij het afweersysteem de spieren aanvalt",
           "source": "vandaaginside",
           "url": "https://www.vandaaginside.nl/media/bners/artikelen/rene-froger-kampt-met-auto-immuunziekte-waarbij-het-afweersysteem-de-spiere",
           "publishedDate": "Thu, 17 Sep 2026 05:14:00 GMT",
           "description": "Ren&#233; Froger heeft op Instagram bekendgemaakt dat bij hem myositis is vastgesteld. Dit is een auto-immuunziekte waarbij het afweersysteem de spieren aanvalt. De zanger kampt al bijna twee jaar met lich ..."
-        },
-        {
-          "title": "Ren&#233; Froger kampt met auto-immuunziekte",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/rene-froger-auto-immuunziekte-ziek",
-          "publishedDate": "Thu, 17 Sep 2026 05:05:00 GMT",
-          "description": "Ren&#233; Froger kampt met een auto-immuunziekte. Dat heeft de zanger donderdag bekendgemaakt in een uitgebreid persbericht."
         },
         {
           "title": "Nederlandse zanger Ren&#233; Froger (65) heeft auto-immuunziekte: “Merk dat ik niet kan brengen wat mensen van mij verwachten”",
@@ -366,61 +437,6 @@
       ]
     },
     {
-      "keyword": "manchester city - norwich city",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Manchester City met B-elftal overtuigend langs Norwich in League Cup",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2631439-manchester-city-met-b-elftal-overtuigend-langs-norwich-in-league-cup",
-          "publishedDate": "Thu, 17 Sep 2026 13:27:00 GMT",
-          "description": "Manchester City heeft zich door een simpele 5-0 zege op Norwich City geplaatst voor de achtste finales van de League Cup. De 17-jarige Floyd Samba maakte twee goals."
-        },
-        {
-          "title": "Titelhouder Manchester City in League Cup ruim langs Norwich City",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/sport/artikel/5653033/titelhouder-manchester-city-league-cup-ruim-langs-norwich-city",
-          "publishedDate": "Thu, 17 Sep 2026 13:26:00 GMT",
-          "description": "Manchester City staat in de vierde ronde van de League Cup. De titelhouder was veel te sterk voor Norwich City, dat in Engeland op het tweede niveau speelt. Het werd 5-0."
-        },
-        {
-          "title": "Manchester City kent probleemloze avond bij debuut van Ger&#243;nimo Rulli",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/manchester-city-kent-probleemloze-avond-bij-debuut-van-geronimo-rulli/blt96f0d3e66b88d6ea",
-          "publishedDate": "Thu, 17 Sep 2026 15:19:00 GMT",
-          "description": "Bij Manchester City bleven veel grote namen donderdagavond op de bank. Trainer Enzo Maresca startte met de pas zeventienjarige Floyd Samba in de punt van de aanval. Hij werd geflankeerd door Allan en ..."
-        },
-        {
-          "title": "Realitycheck voor Philippe Clement: B-ploeg van Manchester City kegelt Norwich kansloos uit League Cup",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/matches/voetbal/buitenland/eng/carabao-cup/2026-2027/3e-ronde/01/manchester-city-norwich-city-realitycheck-voor-philippe-clement-b-ploeg-van-manchester-city-kegelt-norwich-kansloos-uit-league-cup~1787780828039/",
-          "publishedDate": "Thu, 17 Sep 2026 13:31:00 GMT",
-          "description": "Geen stunt voor Philippe Clement. De Belgische coach botste met zijn Norwich op de sterkere B-ploeg van Manchester City in de League Cup. Met heel wat jeugdig geweld aan de aftrap toonde de thuisploeg ..."
-        },
-        {
-          "title": "Sensationele Man City-debutant (17) steelt de show tegen Norwich in League Cup",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/sensationele-man-city-debutant-17-steelt-de-show-tegen-norwich-in-league-cup/ar-AA2cspnD",
-          "publishedDate": "Thu, 17 Sep 2026 13:26:08 GMT",
-          "description": "Manchester City heeft donderdagavond in de derde ronde van de League Cup met speels gemak afgerekend met Norwich City. De ploeg van Enzo Maresca was vanaf het eerste fluitsignaal de baas op het veld e ..."
-        },
-        {
-          "title": "Man City mede dankzij droomdebuut probleemloos naar volgende ronde League Cup",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/man-city-mede-dankzij-droomdebuut-probleemloos-naar-volgende-ronde-league-cup/ar-AA2cs3gM",
-          "publishedDate": "Thu, 17 Sep 2026 13:23:17 GMT",
-          "description": "Manchester City heeft zich als zestiende en laatste ploeg geplaatst voor de vierde ronde van de League Cup. De B-garnituur van manager Enzo Maresca rekende probleemloos af met Norwich City, met een ho ..."
-        },
-        {
-          "title": "Praat mee op VP: Manchester City – Norwich City",
-          "source": "Voetbalprimeur Netherlands on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-manchester-city-norwich-city/ar-AA2cs7vA",
-          "publishedDate": "Thu, 17 Sep 2026 11:00:00 GMT",
-          "description": "Manchester City en Norwich City strijden donderdagavond om een plek in de vierde ronde van de EFL Cup. De wedstrijd begint om 20.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrim ..."
-        }
-      ]
-    },
-    {
       "keyword": "selectie nederlands elftal",
       "trafficLabel": "5K+",
       "articles": [
@@ -490,6 +506,54 @@
       ]
     },
     {
+      "keyword": "manchester city - norwich city",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Manchester City met B-elftal overtuigend langs Norwich in League Cup",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2631439-manchester-city-met-b-elftal-overtuigend-langs-norwich-in-league-cup",
+          "publishedDate": "Thu, 17 Sep 2026 13:27:00 GMT",
+          "description": "Manchester City heeft zich door een simpele 5-0 zege op Norwich City geplaatst voor de achtste finales van de League Cup. De 17-jarige Floyd Samba maakte twee goals."
+        },
+        {
+          "title": "Titelhouder Manchester City in League Cup ruim langs Norwich City",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/titelhouder-manchester-city-in-league-cup-ruim-langs-norwich-city",
+          "publishedDate": "Thu, 17 Sep 2026 15:26:00 GMT",
+          "description": "MANCHESTER (ANP) - Manchester City staat in de vierde ronde van de League Cup. De titelhouder was veel te sterk voor Norwich City, dat in Engeland op het tweede ..."
+        },
+        {
+          "title": "Realitycheck voor Philippe Clement: B-ploeg van Manchester City kegelt Norwich kansloos uit League Cup",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/matches/voetbal/buitenland/eng/carabao-cup/2026-2027/3e-ronde/01/manchester-city-norwich-city-realitycheck-voor-philippe-clement-b-ploeg-van-manchester-city-kegelt-norwich-kansloos-uit-league-cup~1787780828039/",
+          "publishedDate": "Thu, 17 Sep 2026 13:31:00 GMT",
+          "description": "Geen stunt voor Philippe Clement. De Belgische coach botste met zijn Norwich op de sterkere B-ploeg van Manchester City in de League Cup. Met heel wat jeugdig geweld aan de aftrap toonde de thuisploeg ..."
+        },
+        {
+          "title": "Sensationele Man City-debutant (17) steelt de show tegen Norwich in League Cup",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/sensationele-man-city-debutant-17-steelt-de-show-tegen-norwich-in-league-cup/ar-AA2cspnD",
+          "publishedDate": "Thu, 17 Sep 2026 13:26:08 GMT",
+          "description": "Manchester City heeft donderdagavond in de derde ronde van de League Cup met speels gemak afgerekend met Norwich City. De ploeg van Enzo Maresca was vanaf het eerste fluitsignaal de baas op het veld e ..."
+        },
+        {
+          "title": "Manchester City kent probleemloze avond bij debuut van Ger&#243;nimo Rulli",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/manchester-city-kent-probleemloze-avond-bij-debuut-van-ger%C3%B3nimo-rulli/ar-AA2cs8mA",
+          "publishedDate": "Thu, 17 Sep 2026 11:19:04 GMT",
+          "description": "Manchester City heeft zich donderdagavond geplaatst voor de volgende ronde van de Carabao Cup. De ploeg wist in eigen huis met 5-0 af te rekenen met Championship-club Norwich City. Bij Manchester City ..."
+        },
+        {
+          "title": "Praat mee op VP: Manchester City – Norwich City",
+          "source": "Voetbalprimeur Netherlands on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-manchester-city-norwich-city/ar-AA2cs7vA",
+          "publishedDate": "Thu, 17 Sep 2026 11:00:00 GMT",
+          "description": "Manchester City en Norwich City strijden donderdagavond om een plek in de vierde ronde van de EFL Cup. De wedstrijd begint om 20.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrim ..."
+        }
+      ]
+    },
+    {
       "keyword": "zorgtoeslag",
       "trafficLabel": "5K+",
       "articles": [
@@ -522,18 +586,18 @@
           "description": "De zorgpremie stijgt in 2027 naar gemiddeld 2.029 euro per jaar. Bekijk wat er verandert aan het eigen risico, de zorgtoeslag en vaccinaties."
         },
         {
-          "title": "Wilt u DDS vaker zien?",
-          "source": "De Dagelijkse Standaard",
-          "url": "https://www.dagelijksestandaard.nl/economie/zorgtoeslag-2027-vermogensgrens-spaargeld-kindgebonden-budget",
-          "publishedDate": "Wed, 16 Sep 2026 10:30:00 GMT",
-          "description": "Het kabinet wil de vermogensgrens voor zorgtoeslag en kindgebonden budget in 2027 verlagen. Voor deze spaarders kan dat geld kosten."
-        },
-        {
           "title": "Zorgtoeslag stijgt in 2027: zoveel krijg je erbij",
           "source": "Zorgwijzer",
           "url": "https://www.zorgwijzer.nl/zorgverzekering-2027/zorgtoeslag-stijgt-in-2027-zoveel-krijg-je-erbij",
           "publishedDate": "Wed, 16 Sep 2026 00:11:00 GMT",
           "description": "De zorgtoeslag gaat in 2027 flink omhoog. Een alleenstaande met een minimumloon krijgt volgend jaar € 140 zorgtoeslag per maand, € 11 meer dan in 2026. Met een toeslagpartner loopt het maximum op van ..."
+        },
+        {
+          "title": "Wilt u DDS vaker zien?",
+          "source": "De Dagelijkse Standaard",
+          "url": "https://www.dagelijksestandaard.nl/economie/zorgtoeslag-2027-140-euro-per-maand-alleenstaanden",
+          "publishedDate": "Tue, 15 Sep 2026 21:55:00 GMT",
+          "description": "De maximale zorgtoeslag voor alleenstaanden stijgt volgens de raming naar €140 in 2027. Dit betekent dat voor je premie en je eigen zorgkosten."
         },
         {
           "title": "Zorgtoeslag terugbetalen? Je bent niet de enige (en dit is de reden)",
@@ -566,57 +630,78 @@
       ]
     },
     {
-      "keyword": "zwarte zee",
-      "trafficLabel": "2K+",
+      "keyword": "red bull racing",
+      "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Oekra&#239;ne schakelt twee fregatten in Zwarte Zee uit in strijd tegen gevaar van Russische kruisraketten",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/oekraine-schakelt-twee-fregatten-in-zwarte-zee-uit-in-strijd-tegen-gevaar-van-russische-kruisraketten~b07dd4e5/",
-          "publishedDate": "Thu, 17 Sep 2026 10:59:00 GMT",
-          "description": "Oekra&#239;ne heeft het afgelopen halfjaar een succesvolle serie aanvallen uitgevoerd om het gevaar van Russische kruisraketten te verminderen. Bij deze campagne werden twee fregatten in de haven van Novor ..."
+          "title": "Red Bull pikt elfjarige zoon van Kimi R&#228;ikk&#246;nen op voor juniorenprogramma",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/formule-1/6409158/red-bull-pikt-elfjarige-zoon-van-kimi-raikkonen-op-voor-juniorenprogramma.html",
+          "publishedDate": "Wed, 09 Sep 2026 05:23:00 GMT",
+          "description": "Red Bull Racing heeft de elfjarige zoon van Kimi R&#228;ikk&#246;nen vastgelegd voor het juniorenprogramma, maakt het team van Max Verstappen woensdag bekend. Robin R&#228;ikk&#246;nen is een begenadigd karttalent."
         },
         {
-          "title": "Russische militaire opbouw drijft spanning op rond Zwarte Zee",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/buitenland/russische-militaire-opbouw-drijft-spanning-op-rond-zwarte-zee~b59f00bc/",
-          "publishedDate": "Sun, 18 Apr 2021 15:14:00 GMT",
-          "description": "De spanning op en rond de Zwarte Zee loopt op. De Britse krant Sunday Times meldde zondag dat het Verenigd Koninkrijk twee marineschepen naar de Zwarte Zee stuurt. Volgens de krant gaat het om een ..."
+          "title": "Red Bull is niet de snelste maar mag de motor niet upgraden, hoe zit dat?",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2629876-red-bull-is-niet-de-snelste-maar-mag-de-motor-niet-upgraden-hoe-zit-dat",
+          "publishedDate": "Sun, 06 Sep 2026 01:09:00 GMT",
+          "description": "Het team van Verstappen heeft volgens metingen van autosportbond FIA opnieuw de beste verbrandingsmotor. Alleen Red Bull mag de motor daarom niet verbeteren en de concurrentie verbetert vooral het ele ..."
         },
         {
-          "title": "Zwarte Zee brandpunt in rivaliteit Rusland en Westen",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/wereld/zwarte-zee-brandpunt-in-rivaliteit-rusland-en-westen~b8edd7bd/",
-          "publishedDate": "Sun, 18 Apr 2021 12:16:00 GMT",
-          "description": "De Zwarte Zee is een brandpunt aan het worden in de rivaliteit tussen Rusland en het Westen. De Russische troepenopbouw baart de westerse bondgenoten grote zorgen. De spanning op en rond de Zwarte Zee ..."
+          "title": "Verstappen blijft Red Bull trouw: 'Team is als een tweede familie voor me'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/formule-1/6406900/verstappen-blijft-red-bull-trouw-team-is-als-een-tweede-familie-voor-me.html",
+          "publishedDate": "Thu, 20 Aug 2026 03:05:00 GMT",
+          "description": "Max Verstappen blijft Red Bull Racing trouw en hij &quot;kijkt uit naar het volgende hoofdstuk&quot; in de Formule 1. De viervoudig wereldkampioen maakte donderdagochtend bekend dat hij zeker tot eind 2030 bij ..."
         },
         {
-          "title": "Zelensky waarschuwt dat blokkade van de Zwarte Zee wereldwijd voedseltekort dreigt te veroorzaken",
-          "source": "Business AM on MSN",
-          "url": "https://www.msn.com/nl-be/politiek/internationale-relaties/zelensky-waarschuwt-dat-blokkade-van-de-zwarte-zee-wereldwijd-voedseltekort-dreigt-te-veroorzaken/ar-AA2c8YYp",
-          "publishedDate": "Sun, 13 Sep 2026 13:30:00 GMT",
-          "description": "Key takeaways Tijdens de top van de Yalta European Strategy 2026 waarschuwde president Volodymyr Zelensky dat de Russische beperkingen op de scheepvaartroutes in de Zwarte Zee het gevaar van een werel ..."
+          "title": "Verstappen verlengt contract bij Red Bull Racing en ligt nu vast tot en met 2030",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627565-verstappen-verlengt-contract-bij-red-bull-racing-en-ligt-nu-vast-tot-en-met-2030",
+          "publishedDate": "Thu, 20 Aug 2026 02:03:00 GMT",
+          "description": "Formule 1-coureur Max Verstappen heeft zijn contract bij Red Bull verlengd tot en met 2030. Zijn vorige verbintenis liep tot en met 2028. Hiermee maakt de Nederlander een einde aan de geruchten over ..."
         },
         {
-          "title": "Russisch olie-exportknooppunt aan Zwarte Zee stilgelegd na Oekra&#239;ense droneaanvallen",
-          "source": "Business AM",
-          "url": "https://businessam.be/russisch-olie-exportknooppunt-aan-zwarte-zee-stilgelegd-na-oekraiense-droneaanvallen/",
-          "publishedDate": "Sun, 26 Jul 2026 05:01:00 GMT",
-          "description": "Key takeaways Oekra&#239;ense droneaanvallen hebben geleid tot de sluiting van het belangrijkste Russische olie-exportknooppunt aan de Zwarte Zee. Operatie MoLoChKa heeft bijna 200 schepen van de Russische ..."
+          "title": "Red Bull hakt knoop dan door: Hadjar of Lawson naast Verstappen in Baku?",
+          "source": "GPblog on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/red-bull-hakt-knoop-dan-door-hadjar-of-lawson-naast-verstappen-in-baku/ar-AA2cro4Q",
+          "publishedDate": "Thu, 17 Sep 2026 11:01:00 GMT",
+          "description": "Red Bull Racing beslist begin volgende week of Isack Hadjar fit genoeg is om deel te nemen aan de Grand Prix van Azerbeidzjan. Indien dat niet het geval is, zal Liam Lawson opnieuw de teamgenoot van M ..."
         },
         {
-          "title": "Heeft Rusland Zwarte Zee echt verloren? Oud-commandant legt uit of Zelensky’s claim klopt",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/buitenland/heeft-rusland-zwarte-zee-echt-verloren-oud-commandant-legt-uit-of-zelenskys-claim-klopt~acf52b0f/?slug_rd=1",
-          "publishedDate": "Sat, 04 Jul 2026 22:14:00 GMT",
-          "description": "‘Rusland is de Zwarte Zee kwijt’, schrijft Zelensky. Hij verwijst onder meer naar de bevrijding van het strategisch belangrijke Slangeneiland in juni 2022, en de aanhoudende aanvallen op de Russische ..."
+          "title": "Oud-monteur Verstappen: 'Red Bull lijkt Max' auto opnieuw na Zandvoort beter te begrijpen'",
+          "source": "GPblog on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/motorsport/oud-monteur-verstappen-red-bull-lijkt-max-auto-opnieuw-na-zandvoort-beter-te-begrijpen/ar-AA2cmkHN",
+          "publishedDate": "Tue, 15 Sep 2026 08:23:00 GMT",
+          "description": "Red Bull Racing lijkt sinds Zandvoort opnieuw een belangrijke stap te hebben gezet met de auto van Max Verstappen. Voormalig Red Bull-monteur Calum Nicholas ziet duidelijke signalen dat er iets is ver ..."
         },
         {
-          "title": "Poetins geheime bunkercomplex onder gigantisch paleis aan Zwarte Zee onthuld: zo ziet het eruit",
-          "source": "ED",
-          "url": "https://www.ed.nl/buitenland/poetins-geheime-bunkercomplex-onder-gigantisch-paleis-aan-zwarte-zee-onthuld-zo-ziet-het-eruit~a8ea6f28/",
-          "publishedDate": "Fri, 19 May 2023 05:07:00 GMT",
-          "description": "Poetins luxepaleis aan de Zwarte Zee geeft steeds meer geheimen prijs. Nu liggen ook de plannen van het reusachtige ondergrondse tunnelcomplex op straat door jarenlange onoplettendheid van het ..."
+          "title": "Red Bull Racing scheurde met een Formule 1-auto door de metro: wat vond de coureur achter het stuur ervan?",
+          "source": "RaceXpress",
+          "url": "https://www.racexpress.nl/formule-1/red-bull-racing-scheurde-met-een-formule-1-auto-door-de-metro-wat-vond-de-coureur-achter-het-stuur-ervan/n/156155",
+          "publishedDate": "Fri, 11 Sep 2026 00:20:00 GMT",
+          "description": "Red Bull geeft je vleugels! De PR-stunts van Red Bull, de werkgever van Max Verstappen, zijn ongekend! Van de hoogtes van de Himalaya tot de oevers van de ..."
+        },
+        {
+          "title": "Laurent Mekies deelt grote hint over toekomst van Isack Hadjar bij Red Bull Racing",
+          "source": "GP33",
+          "url": "https://gp33.nl/f1-nieuws/laurent-mekies-deelt-grote-hint-over-toekomst-van-isack-hadjar-bij-red-bull-racing",
+          "publishedDate": "Wed, 02 Sep 2026 12:01:00 GMT",
+          "description": "De Red Bull-coureur heeft in de laatste zes races punten weten te scoren. Het is onder andere door deze consistentie dat Hadjar achtste staat in het rijderskampioenschap. Tot op heden scoorde hij 68 ..."
+        },
+        {
+          "title": "Bayer ziet Racing Bulls eigen plek vinden: &quot;We zijn geen kopie van Red Bull Racing&quot;",
+          "source": "F1 Maximaal",
+          "url": "https://www.f1maximaal.nl/interview/bayer-ziet-racing-bulls-eigen-plek-vinden-we-zijn-geen-kopie-van-red-bull-racing",
+          "publishedDate": "Sun, 12 Jul 2026 01:01:00 GMT",
+          "description": "Peter Bayer is inmiddels drie jaar actief in zijn rol bij Racing Bulls. De CEO begon in 2023 in Oostenrijk aan zijn periode bij het team en ziet dat er sindsdien grote stappen zijn gezet. Niet alleen ..."
+        },
+        {
+          "title": "Zo heeft Red Bull Racing 'broertje' Racing Bulls in de F1 geholpen",
+          "source": "gpblog",
+          "url": "https://www.gpblog.com/nl/nieuws/zo-heeft-red-bull-racing-broertje-racing-bulls-in-de-f1-geholpen",
+          "publishedDate": "Mon, 12 May 2025 11:20:00 GMT",
+          "description": "Ludo van Denderen is autosportjournalist bij GPblog en specialist in Formule 1 en internationale raceklassen. Met dank aan Red Bull Racing heeft Racing Bulls de prestaties weten te verbeteren. Nu is ..."
         }
       ]
     }
