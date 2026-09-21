@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T22:05:29.397Z",
+  "fetchedAt": "2026-09-21T00:21:36.156Z",
   "trends": [
     {
       "keyword": "twente psv",
@@ -86,131 +86,88 @@
     {
       "keyword": "blikseminslag",
       "trafficLabel": "2K+",
-      "articles": [
-        {
-          "title": "Meterkast vliegt in brand na vermoedelijke blikseminslag in Dordrecht",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-dordrecht/meterkast-vliegt-in-brand-na-vermoedelijke-blikseminslag-in-dordrecht~aac4c7ef/",
-          "publishedDate": "Thu, 27 Aug 2026 23:43:00 GMT",
-          "description": "Een mogelijke blikseminslag heeft vrijdagmiddag de meterkast van een woning aan de Huygensstraat in Dordrecht in brand gezet. Er was op dat moment niemand thuis."
-        },
-        {
-          "title": "Treinen rijden weer na blikseminslag Vleuten",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2570460-treinen-rijden-weer-na-blikseminslag-vleuten",
-          "publishedDate": "Mon, 09 Jun 2025 09:08:00 GMT",
-          "description": "Blikseminslagen hebben vannacht geleid tot een woningbrand en problemen op het spoor in Utrecht. Twee woningen raakten onbewoonbaar. De treindienst tussen Utrecht Centraal en Woerden raakte langdurig ..."
-        },
-        {
-          "title": "Storingen op het spoor door blikseminslag voorbij",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/amsterdam/storingen-op-het-spoor-door-blikseminslag-voorbij~b58872cf/",
-          "publishedDate": "Sun, 07 May 2023 11:15:00 GMT",
-          "description": "Zo reden door een blikseminslag enige tijd minder treinen van en naar Amsterdam Centraal. De NS meldde iets voor 18.30 uur dat de storing voorbij is, maar dat reizigers nog wel rekening moeten houden ..."
-        },
-        {
-          "title": "Romeinse inscriptie over nachtelijke blikseminslag gevonden bij Villa van Hadrianus",
-          "source": "Historiek",
-          "url": "https://historiek.net/inscriptie-bliksemritueel-villa-hadrianus/185888/",
-          "publishedDate": "Tue, 15 Sep 2026 00:06:00 GMT",
-          "description": "Bij de Villa van Hadrianus in Tivoli is een Romeinse inscriptie gevonden die verwijst naar een nachtelijke blikseminslag en de god Summanus."
-        },
-        {
-          "title": "Blikseminslag doodt moeder en dochter in Florida",
-          "source": "Newsmonkey on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/blikseminslag-doodt-moeder-en-dochter-in-florida/ar-AA2aWrSR",
-          "publishedDate": "Wed, 26 Aug 2026 01:36:00 GMT",
-          "description": "In het kort Een verwoestende blikseminslag in Margate, Florida, heeft het leven gekost aan Kenya Glasgow en haar tweejarige dochter, Kennedi. Het tweetal werd afgelopen zondag rond 14.30 uur bewustelo ..."
-        },
-        {
-          "title": "Amerikaanse wandelaar op Etna overleden na blikseminslag",
-          "source": "Nederlands Dagblad",
-          "url": "https://www.nd.nl/varia/varia/1327688/amerikaanse-wandelaar-op-etna-overleden-na-blikseminslag",
-          "publishedDate": "Mon, 17 Aug 2026 04:01:00 GMT",
-          "description": "In Sicili&#235; is een Amerikaanse wandelaar om het leven gekomen die op de vulkaan de Etna door de bliksem werd getroffen. Volgens de krant La Sicilia liep hij tijdens een zware storm in een verboden ..."
-        },
-        {
-          "title": "Twee jongeren uit Belgi&#235; zijn &quot;stabiel en bij bewustzijn&quot; na blikseminslag in Frankrijk",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/05/bliksem-belgische-jongeren-frankrijk/",
-          "publishedDate": "Wed, 05 Aug 2026 03:53:00 GMT",
-          "description": "De 2 jongeren uit Belgi&#235; die door een blikseminslag zijn getroffen in de Pyrenee&#235;n in Frankrijk zijn &quot;stabiel en bij bewustzijn&quot;. Dat laat het parket van Tarbes weten aan VRT NWS. &quot;Ze verkeren niet in ..."
-        },
-        {
-          "title": "Blikseminslag bij Concert at SEA zorgt voor technische problemen",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/Binnenland/blikseminslag-bij-concert-at-sea-zorgt-voor-technische-problemen/ar-AA26G84n",
-          "publishedDate": "Sat, 27 Jun 2026 05:53:00 GMT",
-          "description": "BROUWERSDAM (ANP) - Door een blikseminslag bij het terrein van Concert at SEA zijn zaterdag aan het begin van de middag technische problemen ontstaan, meldt de organisatie. Bezoekers van Concert at ..."
-        },
-        {
-          "title": "Blikseminslag zorgde voor ravage van takken op snelweg: ‘Unieke situatie’",
-          "source": "AD",
-          "url": "https://www.ad.nl/papendrecht/blikseminslag-zorgde-voor-ravage-van-takken-op-snelweg-unieke-situatie~ad183f75/",
-          "publishedDate": "Tue, 09 Jun 2026 00:39:00 GMT",
-          "description": "Rond 18.00 uur verschenen de eerste rode kruizen op de matrixborden boven de weg. Aanvankelijk ging alleen de rijbaan richting het oosten dicht, maar vervolgens moest ook de rijbaan richting Rotterdam ..."
-        },
-        {
-          "title": "Blikseminslag met oorverdovende knal verwoest dak van Helmonds huis, buurt helpt bewoner naar buiten",
-          "source": "ED",
-          "url": "https://www.ed.nl/helmond/blikseminslag-met-oorverdovende-knal-verwoest-dak-van-helmonds-huis-buurt-helpt-bewoner-naar-buiten~a28a4ad9/",
-          "publishedDate": "Thu, 08 Sep 2022 06:43:00 GMT",
-          "description": "HELMOND - Een keiharde knal, alle lichten in de straat die uitvallen en vervolgens een brandlucht: een blikseminslag zorgde in de Honoriusstraat in Helmond donderdagavond voor spannende momenten. Het ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "amedspor",
       "trafficLabel": "2K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Amedspor Başkanı Nahit Eren'den hakem s&#246;zleri! &quot;Lider olduk ama i&#231;imiz rahat değil&quot;",
+          "source": "TGRT Haber",
+          "url": "https://www.tgrthaber.com/spor/amedspor-baskani-nahit-erenden-hakem-sozleri-lider-olduk-ama-icimiz-rahat-degil-3360496",
+          "publishedDate": "Sun, 20 Sep 2026 17:19:00 GMT",
+          "description": "Amedspor, Trendyol S&#252;per Lig'in 6. haftasında sahasında ağırladığı Beşiktaş'ı 3-2 mağlup ederek puanını 13'e y&#252;kseltti ve milli araya averajla lider girdi. M&#252;cadelenin ardından a&#231;ıklamalarda bulunan A ..."
+        },
+        {
+          "title": "Amedspor - Beşiktaş ma&#231; sonucu: 3-2 (Geniş &#246;zeti ve golleri)",
+          "source": "Gazete Vatan",
+          "url": "https://www.gazetevatan.com/sehirler/diyarbakir/amedspor-besiktas-mac-sonucu-3-2-genis-ozeti-ve-golleri-2409516",
+          "publishedDate": "Sun, 20 Sep 2026 15:15:00 GMT",
+          "description": "Trendyol S&#252;per Lig'in 6. haftasında Amedspor evinde Beşiktaş ile karşılaştı. M&#252;cadele ev sahibi ekibin 3-2'lik &#252;st&#252;nl&#252;ğ&#252; ile tamamlandı. B&#246;ylece Amedspor, S&#252;per Lig'in yeni lideri oldu."
+        },
+        {
+          "title": "Beşiktaş Amedspor ma&#231; &#246;zeti ve golleri! (&#214;ZET) Beşiktaş Amedspor ma&#231;ı ka&#231; ka&#231; bitti, golleri kim attı?",
+          "source": "Haberler.com",
+          "url": "https://www.haberler.com/haber/besiktas-amedspor-mac-ozeti-ve-golleri-ozet-20255865-haberi/",
+          "publishedDate": "Sun, 20 Sep 2026 15:02:00 GMT",
+          "description": "Beşiktaş Amedspor ma&#231; &#246;zeti izle! Trendyol S&#252;per Lig'in 6. haftasında Amed Sportif Faaliyetler ile Beşiktaş karşı karşıya geldi. B&#252;y&#252;k bir heyecana sahne olan zorlu m&#252;cadelede iki takım da sahadan gal ..."
+        },
+        {
+          "title": "Evinde Beşiktaş'ı yenen Amedspor liderliğe y&#252;kseldi! Kartal uzaktan vuruldu: Amedspor: 3 Beşiktaş: 2",
+          "source": "Milli Gazete",
+          "url": "https://www.milligazete.com.tr/zirve-dugumu-diyarbakirda-cozuldu-besiktasi-3-2-maglup-eden-amedspor-super-ligde-lider-oldu",
+          "publishedDate": "Sun, 20 Sep 2026 14:26:00 GMT",
+          "description": "Trendyol S&#252;per Lig'in 6. haftasında nefesler tutuldu. Tarihinde ilk kez Amedspor deplasmanına &#231;ıkan Beşiktaş, sahadan eli boş d&#246;nd&#252;. Zirve hesaplarını baştan yazan zorlu m&#252;cadelenin kazananı Amedspor ..."
+        },
+        {
+          "title": "Beşiktaş Amedspor CANLI İZLE! Amedspor Beşiktaş ma&#231;ı hangi kanalda, canlı nereden izlenir?",
+          "source": "Haberler.com",
+          "url": "https://www.haberler.com/haber/besiktas-amedspor-canli-izle-amedspor-besiktas-20255648-haberi/",
+          "publishedDate": "Sun, 20 Sep 2026 12:40:00 GMT",
+          "description": "Beşiktaş Amedspor canlı izle! Trendyol S&#252;per Lig'in 6. haftasında Amedspor ile Beşiktaş, Diyarbakır Stadyumu'nda karşı karşıya geliyor. 20 Eyl&#252;l 2026 Pazar g&#252;n&#252; saat 20:00'de başlayacak olan bu kritik ..."
+        },
+        {
+          "title": "Amedspor BJK ma&#231; sonucu ve goller bilgisi: S&#252;per Lig 6.hafta Amedspor BJK ma&#231;ı ka&#231; ka&#231; bitti?",
+          "source": "Habert&#252;rk",
+          "url": "https://www.haberturk.com/bilgi/foto/amedspor-bjk-maci-canli-izle-amedspor-bjk-maci-canli-nasil-ve-nereden-izlenir-ne-zaman-hangi-kanalda-yayinlanacak-3913821",
+          "publishedDate": "Sun, 20 Sep 2026 11:23:00 GMT",
+          "description": "Futbol severler Amedspor BJK ma&#231;ı canlı izlemek i&#231;in yayın bilgisi araştırmasına başladı. Trendyol S&#252;per Lig'in 6. haftasında iki takım Diyarbakır Stadı'nda kozlarını paylaşacak. VAR hakemliğini Guill ..."
+        },
+        {
+          "title": "Amedspor liderliğe y&#252;kseldi! Hakemlere sert s&#246;zler",
+          "source": "Yeni Akit",
+          "url": "https://www.yeniakit.com.tr/haber/amedspor-liderlige-yukseldi-hakemlere-sert-sozler-2023926.html",
+          "publishedDate": "Sun, 20 Sep 2026 05:42:00 GMT",
+          "description": "Amed Sportif Faaliyetler’in Beşiktaş’ı 3-2 mağlup ettiği karşılaşmanın ardından kul&#252;p başkanı Nahit Eren, hakem y&#246;netimine tepki g&#246;sterdi. &#214;zellikle 14 dakikalık uzatma s&#252;resini eleştiren Eren, T&#252;rkiy ..."
+        },
+        {
+          "title": "Amedspor'un galibiyeti Diyarbakır'da kutlandı",
+          "source": "Habererk",
+          "url": "https://www.habererk.com/haber/amedspor-un-galibiyeti-diyarbakir-da-kutlandi_351914/",
+          "publishedDate": "Sun, 20 Sep 2026 05:38:00 GMT",
+          "description": "Amedspor'un Beşiktaş'ı 3-2 yenerek liderliğe y&#252;kselmesi, Diyarbakır'da b&#252;y&#252;k bir coşkuyla kutlandı. Taraftarlar, gece ge&#231; saatlere kadar s&#252;ren kutlamalarda bir araya geldi."
+        },
+        {
+          "title": "Eğil’den Y&#252;kselen Ses: Amedspor ve Eğil Barikat",
+          "source": "Amida Haber",
+          "url": "https://amidahaber.com/yazarlar/omer-torlak/egilden-yukselen-ses-amedspor-ve-egil-barikat-2125",
+          "publishedDate": "Sun, 20 Sep 2026 05:15:00 GMT",
+          "description": "Amedspor’u yalnızca bir futbol kul&#252;b&#252; olarak g&#246;rmek, onun halk i&#231;indeki anlamını eksik okumaktır. &#199;&#252;nk&#252; Amedspor, doksan dakikadan ve ..."
+        },
+        {
+          "title": "Vincenzo Italiano'dan Amedspor Ma&#231;ı Sonrası Hakem A&#231;ıklaması: Başrolde Değildi!",
+          "source": "abcgazetesi",
+          "url": "https://abcgazetesi.com.tr/spor/vincenzo-italianodan-amedspor-maci-sonrasi-hakem-aciklamasi-basrolde-degildi-872203",
+          "publishedDate": "Sun, 20 Sep 2026 04:12:00 GMT",
+          "description": "Amedspor karşısında alınan mağlubiyetin ardından değerlendirmelerde bulunan Vincenzo Italiano, rakibin performansını &#246;verken takımının ilk yarıdaki oyununu el.."
+        }
+      ]
     },
     {
       "keyword": "stand eredivisie",
       "trafficLabel": "2K+",
-      "articles": [
-        {
-          "title": "STAND | Feyenoord klimt naar tweede plek, AZ nieuwe koploper",
-          "source": "FR-Fans.nl",
-          "url": "https://www.fr-fans.nl/nieuws/79137/stand-feyenoord-klimt-naar-tweede-plek-az-nieuwe-koploper",
-          "publishedDate": "Sun, 20 Sep 2026 11:37:00 GMT",
-          "description": "Feyenoord heeft uitstekende zaken gedaan in de zevende speelronde van de Eredivisie. De Rotterdammers wonnen zondagmiddag met 5-0 van FC Utrecht en klimmen daardoor naar de tweede plaats op de ranglij ..."
-        },
-        {
-          "title": "PSV in mineur, AZ juicht: dit is de stand in Eredivisie 2026/2027",
-          "source": "voetbalnieuws",
-          "url": "https://www.voetbalnieuws.nl/nieuws/2121234/psv-en-twente-verslikken-zich-dit-is-de-stand-in-de-eredivisie-2026-2027-vn.html",
-          "publishedDate": "Sun, 20 Sep 2026 07:49:00 GMT",
-          "description": "De Eredivisie is eindelijk van start en met veel nieuwe namen gaan de topclubs weer voor de landstitel. Pakt PSV de vierde titel op rij, is Ajax terug of gaat Giovanni van Bronckhorst w&#233;&#233;r voor de ..."
-        },
-        {
-          "title": "STAND | Alle clubs weer op zes gespeelde wedstrijden",
-          "source": "FR-Fans.nl",
-          "url": "https://www.fr-fans.nl/nieuws/79040/stand-alle-clubs-weer-op-zes-gespeelde-wedstrijden",
-          "publishedDate": "Tue, 15 Sep 2026 15:00:00 GMT",
-          "description": "Feyenoord heeft de zesde speelronde van de Eredivisie afgesloten met een enorme overwinning. De Rotterdammers waren zondagmiddag met liefst 0-7 te sterk voor PEC Zwolle en komen daardoor op veertien p ..."
-        },
-        {
-          "title": "Stand Eredivisie: Feyenoord op derde plek na monsterzege",
-          "source": "FR12.nl on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/stand-eredivisie-feyenoord-op-derde-plek-na-monsterzege/ar-AA2c8Z3Q",
-          "publishedDate": "Sun, 13 Sep 2026 12:48:00 GMT",
-          "description": "Feyenoord heeft zondag uitstekende zaken gedaan in de Eredivisie. De Rotterdammers wonnen met liefst 0-7 van PEC Zwolle en zijn daardoor opgeklommen naar de derde plaats. Volgend weekend wacht met FC ..."
-        },
-        {
-          "title": "Programma, stand en topscorers eredivisie | Eerste puntenverlies voor koploper AZ: dit is de voorsprong op PSV, Feyenoord en Ajax",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/voetbal/programma-stand-en-topscorers-eredivisie-bekijk-hier-het-schema-voor-de-eerste-speelronde~a5ebff08/",
-          "publishedDate": "Fri, 11 Sep 2026 08:25:00 GMT",
-          "description": "SC Cambuur en Excelsior trapten op vrijdag 7 augustus het nieuwe eredivisieseizoen af. Bekijk in dit artikel het complete programma, met daaronder de ranglijst en alle statistieken tijdens het seizoen ..."
-        },
-        {
-          "title": "Stand Eredivisie: Feyenoord opnieuw teleurstellend, PSV en AZ imponeren",
-          "source": "FR12.nl on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/stand-eredivisie-feyenoord-opnieuw-teleurstellend-psv-en-az-imponeren/ar-AA2bdZgW",
-          "publishedDate": "Sun, 30 Aug 2026 12:53:00 GMT",
-          "description": "De vierde speelronde van de Eredivisie zit op en leverde opnieuw genoeg gespreksstof op. PSV haalde vernietigend uit in Utrecht, koploper AZ bleef foutloos en Feyenoord kwam thuis niet verder dan een ..."
-        }
-      ]
+      "articles": []
     },
     {
       "keyword": "man city",
@@ -218,80 +175,9 @@
       "articles": []
     },
     {
-      "keyword": "keuringsdienst van waarde",
-      "trafficLabel": "1K+",
-      "articles": [
-        {
-          "title": "Bij een blinde proeverij weet chef-kok Alain Caron niet alle volle producten van de halfvolle te onderscheiden",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/han-lips/bij-een-blinde-proeverij-weet-chef-kok-alain-caron-niet-alle-volle-producten-van-de-halfvolle-te-onderscheiden~b085fe6c/",
-          "publishedDate": "Sun, 20 Sep 2026 06:36:00 GMT",
-          "description": "In de rubriek Han Lips schrijven verschillende redacteuren van Het Parool elke dag over wat hun opvalt op tv. Vandaag: Keuringsdienst van waarde."
-        },
-        {
-          "title": "‘Keuringsdienst van waarde’ duikt in de hamindustrie en botst ook hier op de Hollandse handelsgeest",
-          "source": "Volkskrant",
-          "url": "https://www.volkskrant.nl/columns-van-de-dag/keuringsdienst-van-waarde-duikt-in-de-hamindustrie-en-botst-ook-hier-op-de-hollandse-handelsgeest~b4c96a11/",
-          "publishedDate": "Tue, 16 Jan 2024 03:55:00 GMT",
-          "description": "Een teken aan de wand van de voedingsindustrie: de Keuringsdienst van Waarde was nergens in Nederland welkom om te bekijken hoe de rauwe ham wordt gemaakt die in overvloed vanuit de supermarktschappen ..."
-        },
-        {
-          "title": "Nieuw seizoen Keuringsdienst van waarde",
-          "source": "broadcastmagazine",
-          "url": "https://www.broadcastmagazine.nl/televisie-audio/televisie/nieuw-seizoen-keuringsdienst-van-waarde-2/",
-          "publishedDate": "Wed, 16 Sep 2026 21:59:00 GMT",
-          "description": "Keuringsdienst van waarde vult het glas en bijt zich opnieuw vast in het schap. Want daar ligt ham die misschien nog niet rijp is voor zijn naam, olijfolie ..."
-        },
-        {
-          "title": "Nieuw seizoen 'Keuringsdienst van Waarde': van ranzige extra vierge tot kromme noten",
-          "source": "TVvisie",
-          "url": "https://tvvisie.be/nieuws/nederland/nieuw-seizoen-keuringsdienst-van-waarde-van-ranzige-extra-vierge-tot-kromme-noten_142382/",
-          "publishedDate": "Wed, 16 Sep 2026 17:00:00 GMT",
-          "description": "Halfvol. Het klinkt hoopvol. Supermarkten zijn er dol op. Halfvolle melk, halfvolle yoghurt, halfvolle mayonaise. Zelfs roomboter heeft tegenwoordig een halfbroertje. Maar als iets halfvol is, wat is ..."
-        },
-        {
-          "title": "Keuringsdienst van waarde",
-          "source": "NPO",
-          "url": "https://npo.nl/start/serie/keuringsdienst-van-waarde/afleveringen/seizoen-2026",
-          "publishedDate": "Tue, 28 Apr 2026 16:03:00 GMT",
-          "description": "Klopt het wat fabrikanten claimen en wat ze ons in reclames verkopen? De verslaggevers van de Keuringsdienst nemen de telefoon ter hand en duiken in de wondere wereld van ons voedsel."
-        },
-        {
-          "title": "Ook Keuringsdienst van waarde en Andere Tijden slachtoffer van bezuinigingen",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/show/ook-keuringsdienst-van-waarde-en-andere-tijden-slachtoffer-van-bezuinigingen~a5617cfc/",
-          "publishedDate": "Tue, 13 May 2025 00:12:00 GMT",
-          "description": "De televisieprogramma’s Keuringsdienst van waarde, Onderweg naar liefde (KRO-NCRV) en Andere Tijden (NTR) zijn de volgende slachtoffers van de bezuinigingsoperatie van de omroepen en de NPO. Zo gaat ..."
-        },
-        {
-          "title": "Presentator Keuringsdienst van waarde over onrust rond babyhapjes: ‘Zelf ook in shock’",
-          "source": "AD",
-          "url": "https://www.ad.nl/show/presentator-keuringsdienst-van-waarde-over-onrust-rond-babyhapjes-zelf-ook-in-shock~a2428f64/",
-          "publishedDate": "Mon, 03 Feb 2025 21:55:00 GMT",
-          "description": "Ja, zelfs na zestien jaar Keuringsdienst van waarde valt bij presentatrice Marijn Frank (42) nog regelmatig haar mond open van verbazing en ongeloof. Neem nou laatst die uitzending over babyvoeding."
-        },
-        {
-          "title": "Keuringsdienst van Waarde-gezicht Maarten Remmers: ‘Het programma kan nog 25 seizoenen door’",
-          "source": "AD",
-          "url": "https://www.ad.nl/show/keuringsdienst-van-waarde-gezicht-maarten-remmers-het-programma-kan-nog-25-seizoenen-door~ab53a231/",
-          "publishedDate": "Sun, 22 Sep 2024 23:46:00 GMT",
-          "description": "Dure olijfolie die eigenlijk van slechte kwaliteit is, zwendel met airfryer-frietjes of sojasaus die kankerverwekkende stoffen bevat... In Keuringsdienst van Waarde kwamen we het de laatste jaren ..."
-        },
-        {
-          "title": "Vanavond op tv: Keuringsdienst van Waarde, Beste Zangers en Mr. Frank Visser doet uitspraak",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/show/vanavond-op-tv-keuringsdienst-van-waarde-beste-zangers-en-mr-frank-visser-doet-uitspraak~af2829dd/",
-          "publishedDate": "Wed, 22 Sep 2021 23:59:00 GMT",
-          "description": "Het belangrijkste nieuws uit de andere kant van de wereld is meestal maar een voetnoot in het dagelijkse journaal. Journalist Bram Vermeulen vindt dat onterecht en gaat in Frontlinie op pad om deze ..."
-        },
-        {
-          "title": "Keuringsdienst van Waarde is teruggaan naar de verwondering",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/show/keuringsdienst-van-waarde-is-teruggaan-naar-de-verwondering~a2c3a31a/",
-          "publishedDate": "Thu, 12 Jan 2017 16:00:00 GMT",
-          "description": "Heeft het programma weer hetzelfde recept als de voorgaande jaren? ,,Ja, alleen de ingredi&#235;nten veranderen, maar we blijven bij dezelfde mix van verbazing, verwondering en humor op zoek naar de ..."
-        }
-      ]
+      "keyword": "psv",
+      "trafficLabel": "2K+",
+      "articles": []
     },
     {
       "keyword": "benzineprijs duitsland",
@@ -299,62 +185,12 @@
       "articles": []
     },
     {
-      "keyword": "oekraïne rusland",
+      "keyword": "keuringsdienst van waarde",
       "trafficLabel": "1K+",
-      "articles": [
-        {
-          "title": "Russische aanvallen op Oekra&#239;ne eisen steeds meer burgerdoden",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/russische-aanvallen-op-oekraine-eisen-steeds-meer-burgerdoden~b18b7bbc/",
-          "publishedDate": "Sun, 20 Sep 2026 12:58:00 GMT",
-          "description": "Het Russisch oorlogsgeweld in Oekra&#239;ne eist steeds meer slachtoffers onder de bevolking. In de eerste acht maanden van dit jaar vielen onder Oekra&#239;ense burgers al meer doden en gewonden dan in heel 20 ..."
-        },
-        {
-          "title": "Grootschalige Oekra&#239;ense drone-aanval treft Rusland op de laatste dag van parlementsverkiezingen",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/09/20/grootschalige-oekraiense-drone-aanval-treft-rusland-op-de-laatste-dag-van-de-parlementsverkiezingen-a4937107",
-          "publishedDate": "Sun, 20 Sep 2026 05:19:00 GMT",
-          "description": "Een grootschalige Oekra&#239;ense droneaanval op Moskou en de omliggende regio doodde twee mensen, tijdens de nacht v&#243;&#243;r de laatste dag van de Russische parlementaire verkiezingen. Dat meldden Russische au ..."
-        },
-        {
-          "title": "Oekra&#239;ne schakelt twee fregatten in Zwarte Zee uit in strijd tegen gevaar van Russische kruisraketten",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/oekraine-schakelt-twee-fregatten-in-zwarte-zee-uit-in-strijd-tegen-gevaar-van-russische-kruisraketten~b07dd4e5/",
-          "publishedDate": "Thu, 17 Sep 2026 22:00:00 GMT",
-          "description": "Oekra&#239;ne heeft het afgelopen halfjaar een succesvolle serie aanvallen uitgevoerd om het gevaar van Russische kruisraketten te verminderen. Bij deze campagne werden twee fregatten in de haven van Novor ..."
-        },
-        {
-          "title": "Oekra&#239;ne stuurt 1.600 drones richting Rusland ondanks oproep van Trump: ‘Het is een risico dat Zelensky bijna m&#243;&#233;t nemen’",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/oorlog-in-oekraine/oekraine-stuurt-1-600-drones-richting-rusland-ondanks-oproep-van-trump-het-is-een-risico-dat-zelensky-bijna-moet-nemen~befaa9b3/",
-          "publishedDate": "Sun, 20 Sep 2026 12:01:00 GMT",
-          "description": "Donald Trump vroeg Oekra&#239;ne vorige week nog uitdrukkelijk om Russische dieselinstallaties met rust te laten. Zes dagen later stuurde het land 1.600 drones richting Rusland. Kiev beschikt over steeds m ..."
-        },
-        {
-          "title": "Live Oorlog Oekra&#239;ne | Rusland: meer dan duizend cyberaanvallen op verkiezingen",
-          "source": "Provinciale Zeeuwse Courant",
-          "url": "https://www.pzc.nl/buitenland/live-oorlog-oekraine-rusland-meer-dan-duizend-cyberaanvallen-op-verkiezingen~adfb97be/",
-          "publishedDate": "Sun, 20 Sep 2026 05:04:00 GMT",
-          "description": "Rusland meldt dat de afgelopen dagen grootschalige cyberaanvallen zijn uitgevoerd die gericht waren op de parlementsverkiezingen in het land. De verkiezingsinfrastructuur kreeg te maken met meer dan d ..."
-        },
-        {
-          "title": "Live Oorlog Oekra&#239;ne | Doden in Oekra&#239;ne en Rusland na aanvallen over en weer, drie mensen in Kyiv omgekomen",
-          "source": "ED",
-          "url": "https://www.ed.nl/buitenland/live-oorlog-oekraine-duitse-journalist-kan-6-jaar-in-russisch-strafkamp-terechtkomen-door-vraag-aan-zelensky~adfb97be/",
-          "publishedDate": "Sat, 19 Sep 2026 19:50:00 GMT",
-          "description": "De burgemeester van Moskou heeft de droneaanval in de nacht van zaterdag op zondag omschreven als de 'grootste ooit' op de Russische hoofdstad. Ook zei hij dat de aanval verband houdt met de ..."
-        },
-        {
-          "title": "Live Oorlog Oekra&#239;ne | Doden in Oekra&#239;ne en Rusland na aanvallen over en weer, drie mensen in Kyiv omgekomen",
-          "source": "PZC",
-          "url": "https://www.pzc.nl/buitenland/live-oorlog-oekraine-dokter-dood-ontmaskerd-de-gevangenisarts-die-oekraiense-krijgsgevangenen-martelde~adfb97be/",
-          "publishedDate": "Tue, 04 Aug 2026 17:00:00 GMT",
-          "description": "Rusland meldt dat de afgelopen dagen grootschalige cyberaanvallen zijn uitgevoerd die gericht waren op de parlementsverkiezingen in het land. De verkiezingsinfrastructuur kreeg te maken met meer dan ..."
-        }
-      ]
+      "articles": []
     },
     {
-      "keyword": "postcodeloterij",
+      "keyword": "oekraïne rusland",
       "trafficLabel": "1K+",
       "articles": []
     }
