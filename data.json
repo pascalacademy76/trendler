@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T20:43:43.786Z",
+  "fetchedAt": "2026-09-22T23:24:15.581Z",
   "trends": [
     {
       "keyword": "hyves",
@@ -62,48 +62,280 @@
           "description": "Hyves is terug van weggeweest. Het sociale medium verdween in 2013, maar is sinds dinsdag weer online. Bij oud-gebruikers zorgt dat voor een stukje nostalgie, zoals bij Renske Donkers. Zij vond dankzi ..."
         },
         {
+          "title": "Hyves keert na dertien jaar terug als sociaal netwerk",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/lifestyle/tech/2026/09/hyves-terug-als-sociaal-netwerk-br/",
+          "publishedDate": "Tue, 22 Sep 2026 02:47:00 GMT",
+          "description": "&quot;Hyves is na dertien jaar terug, nu zonder verslavende algoritmes, met duizenden aanmeldingen op de eerste dag.&quot; ..."
+        },
+        {
           "title": "Hyves is terug na 13 jaar – en je kunt n&#250; een account aanmaken",
           "source": "iPhoned",
           "url": "https://www.iphoned.nl/tips/hyves-is-terug/",
           "publishedDate": "Tue, 22 Sep 2026 01:58:00 GMT",
           "description": "Hyves is na 13 jaar terug van weggeweest – je kunt per direct opnieuw een account aanmaken en ontdekken wat er nog van is overgebleven."
-        },
-        {
-          "title": "Hyves is terug van weggeweest: dit kun je er weer mee",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/tech/nieuws/artikelen/hyves-terug-krabbels-dansende-banaan-sociaal-netwerk",
-          "publishedDate": "Mon, 21 Sep 2026 21:10:00 GMT",
-          "description": "Hyves is terug van weggeweest. Precies 22 jaar na de geboorte van het Nederlandse sociale netwerk blaast Mediahuis Nederland het platform nieuw leven in. Veel bekende functies uit de hoogtijdagen kere ..."
         }
       ]
     },
     {
       "keyword": "temperatuur",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Pianist Wibi Soerjadi be&#235;indigt optreden in Tilburg vroegtijdig vanwege hoge temperatuur",
+          "source": "ED.nl",
+          "url": "https://www.ed.nl/tilburg/pianist-wibi-soerjadi-beeindigt-optreden-in-tilburg-vroegtijdig-vanwege-hoge-temperatuur~a93d5ab5/",
+          "publishedDate": "Sat, 19 Sep 2026 22:35:00 GMT",
+          "description": "Wibi Soerjadi heeft zijn optreden in Concertzaal Tilburg zaterdagavond vroegtijdig be&#235;indigd. Volgens de pianist werkte het klimaatsysteem in de zaal door een technisch defect ‘niet naar behoren’."
+        },
+        {
+          "title": "Zomer 2026 is de warmste ooit gemeten in Nederland",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628446-zomer-2026-is-de-warmste-ooit-gemeten-in-nederland",
+          "publishedDate": "Thu, 27 Aug 2026 00:00:00 GMT",
+          "description": "NOS gebruikt Functionele en Analytische cookies voor website optimalisatie en statistieken."
+        },
+        {
+          "title": "Hittemeetnet Nijkerk: warmste dag was 38,0 graden",
+          "source": "Nijkerk Nieuws",
+          "url": "https://nijkerk.nieuws.nl/nieuws/hittemeetnet-nijkerk-warmste-dag-was-380-graden",
+          "publishedDate": "Tue, 22 Sep 2026 10:38:00 GMT",
+          "description": "Het hittemeetnet van Nijkerk laat zien waar hittestress het grootst is. De warmste dag was 38,0 graden, gemeten in de wijk Paasbos."
+        },
+        {
+          "title": "Temperatuur gaat volgende week flink stijgen: kans op wel 25 graden",
+          "source": "nu",
+          "url": "https://nu.cw/2026/09/18/temperatuur-gaat-volgende-week-flink-stijgen-kans-op-wel-25-graden/",
+          "publishedDate": "Fri, 18 Sep 2026 06:25:00 GMT",
+          "description": "In het weekend krijgen we te maken met wisselvallig weer. Er zijn droge periodes met af en toe zon, maar er kunnen ook flinke regenbuien vallen. Volgende week wordt het warmer. In het zuiden kan de te ..."
+        },
+        {
+          "title": "Draagbare temperatuur- en vochtigheidsmeter: Gebruiksklare modules",
+          "source": "Elektor Magazine",
+          "url": "https://www.elektormagazine.nl/articles/draagbare-temperatuur-en-vochtigheidsmeter",
+          "publishedDate": "Mon, 14 Sep 2026 16:59:00 GMT",
+          "description": "Bouw op een eenvoudige manier moderne elektronica: combineer kant-en-klare modules met een beetje bedrading en software om een compleet nieuw apparaat te m ..."
+        },
+        {
+          "title": "Sensor meet temperatuur midden in lithium-ioncel",
+          "source": "Engineers Online",
+          "url": "https://www.engineersonline.nl/sensor-meet-temperatuur-midden-in-lithium-ioncel/",
+          "publishedDate": "Mon, 14 Sep 2026 04:29:00 GMT",
+          "description": "Bij zware belasting kan een lithium-ioncel aan de binnekant aanzienlijk warmer zijn dan de buitenkant doet vermoeden. Juist die kerntemperatuur blijft voor batterijmanagementsystemen grotendeels buite ..."
+        },
+        {
+          "title": "Vanaf welke temperatuur zet je in september best de verwarming aan?",
+          "source": "Redactie24",
+          "url": "https://www.redactie24.be/overig/vanaf-welke-temperatuur-zet-je-september-best-de-verwarming-aan-193562",
+          "publishedDate": "Sat, 12 Sep 2026 12:30:00 GMT",
+          "description": "September is zo’n maand waarin je soms niet goed weet wat je met de verwarming moet doen. Overdag kan het nog aangenaam zijn, terwijl je ’s avonds plots naar een trui grijpt. Zeker na enkele regenacht ..."
+        },
+        {
+          "title": "Zinderende hitte vandaag: temperatuur voelt lokaal als 43 graden",
+          "source": "Culturu",
+          "url": "https://www.culturu.com/nieuws/suriname/zinderende-hitte-vandaag-temperatuur-voelt-lokaal-als-43-graden/",
+          "publishedDate": "Wed, 09 Sep 2026 09:24:00 GMT",
+          "description": "In Paramaribo loopt de temperatuur op tot ongeveer 33 graden, maar door de vochtige lucht kan het aanvoelen als 37 graden. In het binnenland wordt het nog warmer. Daar kan de gevoelstemperatuur lokaal ..."
+        },
+        {
+          "title": "Slimme koortsthermometers om je temperatuur te meten",
+          "source": "iCulture",
+          "url": "https://www.iculture.nl/gids/slimme-thermometers/",
+          "publishedDate": "Tue, 08 Sep 2026 17:01:00 GMT",
+          "description": "Wil je je temperatuur in de gaten houden, dan kun je een gewone thermometer gebruiken. Maar met een slimme thermometer kun je ook nog de temperatuur over langere tijd bijhouden en de data ..."
+        },
+        {
+          "title": "Noordzee warmer dan ooit: temperatuur van 21,5 graden breekt record",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/milieu-gezondheid/natuur/artikelen/noordzee-recordtemperatuur-21-5-graden",
+          "publishedDate": "Wed, 19 Aug 2026 09:03:00 GMT",
+          "description": "De Noordzee was afgelopen weekend gemiddeld 21,5 graden, de hoogste temperatuur sinds de metingen begonnen. Volgens het KNMI speelt klimaatverandering mee."
+        }
+      ]
     },
     {
       "keyword": "het parool",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Na elf jaar is deze prestigieuze toneelprijs weer doorgegeven van acteur op acteur",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/kunst-media/na-elf-jaar-is-deze-prestigieuze-toneelprijs-weer-doorgegeven-van-acteur-op-acteur~b910695b/",
+          "publishedDate": "Tue, 22 Sep 2026 15:00:00 GMT",
+          "description": "De Amsterdamse acteur Bram Suijker heeft de Albert van Dalsumring gekregen, een van de meest prestigieuze onderscheidingen in de Nederlandse toneelwereld. Hij ontving de ring dinsdagavond van de vorig ..."
+        },
+        {
+          "title": "Straks voor een tientje van Hengelo naar Amsterdam: GoVolta mag nu ook binnenlandse ritten aanbieden",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/nederland/straks-voor-een-tientje-van-hengelo-naar-amsterdam-govolta-mag-nu-ook-binnenlandse-ritten-aanbieden~b96a6cc4/",
+          "publishedDate": "Tue, 22 Sep 2026 14:35:00 GMT",
+          "description": "Treinreizigers kunnen binnenkort voor een tientje met de trein van Hengelo naar Amsterdam &#233;n terug. Prijsvechter GoVolta heeft toestemming gekregen binnenlandse reizen te verzorgen."
+        },
+        {
+          "title": "Tweede Kamer zet streep door verbod op vissen met weerhaakjes",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/nederland/tweede-kamer-zet-streep-door-verbod-op-vissen-met-weerhaakjes~bc9cbeb0/",
+          "publishedDate": "Tue, 22 Sep 2026 13:32:00 GMT",
+          "description": "Een landelijk verbod op het vissen met weerhaakjes is van de baan. Het voorstel hiertoe van de Partij voor de Dieren (PvdD) is dinsdag verworpen in de Tweede Kamer. De PvdD hoopte met het amendement o ..."
+        },
+        {
+          "title": "Dat er met kunst geld wordt opgehaald voor goede doelen is van alle tijden, waarom werkt dat zo goed? ‘Het blijft me verbazen hoe intrinsiek gemotiveerd kunstenaars zijn’",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/ps/dat-er-met-kunst-geld-wordt-opgehaald-voor-goede-doelen-is-van-alle-tijden-waarom-werkt-dat-zo-goed-het-blijft-me-verbazen-hoe-intrinsiek-gemotiveerd-kunstenaars-zijn~bc10089e/",
+          "publishedDate": "Tue, 22 Sep 2026 13:00:00 GMT",
+          "description": "Van een gala waar kunst van Streetart Frankey geveild wordt tot een muziekevenement van War Child waar artiesten als Typhoon en Rond&#233; optreden: dit najaar zijn er weer meerdere fundraisers voor goede ..."
+        },
+        {
+          "title": "Van een muziekevenement in de A’DAM Toren tot een gala met kunstveiling in de Ziggo Dome: goede doelen werken graag samen met kunstenaars – dit is waarom",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/ps/van-een-muziekevenement-in-de-a-dam-toren-tot-een-gala-met-kunstveiling-in-de-ziggo-dome-goede-doelen-werken-graag-samen-met-kunstenaars-dit-is-waarom~bc10089e/",
+          "publishedDate": "Tue, 22 Sep 2026 13:00:00 GMT",
+          "description": "Van een gala waar kunst van Streetart Frankey geveild wordt tot een muziekevenement van War Child waar artiesten als Typhoon en Rond&#233; optreden: dit najaar zijn er weer meerdere fundraisers voor goede ..."
+        },
+        {
+          "title": "Bij open podium Wrijving delen Amsterdammers persoonlijke seksverhalen: ‘Je mag zijn zoals je bent: eerlijk en rauw, en kwetsbaar’",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/ps/bij-open-podium-wrijving-delen-amsterdammers-persoonlijke-seksverhalen-je-mag-zijn-zoals-je-bent-eerlijk-en-rauw-en-kwetsbaar~b9bb76d2/",
+          "publishedDate": "Tue, 22 Sep 2026 12:49:00 GMT",
+          "description": "Open en eerlijk over seks praten? Wrijving bewijst dat daar behoefte aan is: avonden met een open podium waar mensen hun persoonlijke sekservaringen delen. Na uitverkochte edities in Utrecht breidde W ..."
+        },
+        {
+          "title": "NS weert campagne Wakker Dier op stations vanwege ‘te controversi&#235;le’ boodschap",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/nederland/ns-weert-campagne-wakker-dier-op-stations-vanwege-te-controversiele-boodschap~b622bd76/",
+          "publishedDate": "Tue, 22 Sep 2026 12:26:00 GMT",
+          "description": "De boodschap van Wakker Dier om &#233;&#233;n dag geen dieren te eten, is volgens NS te controversieel om op stations en perrons te laten zien. De dierenwelzijnsorganisatie sleept NS nu voor de rechter en wijst ..."
+        },
+        {
+          "title": "Gemeente Amsterdam faalt in re-integreren zieke werknemers: UWV legde 90 loonsancties op sinds 2023",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/gemeente-amsterdam-faalt-in-re-integreren-zieke-werknemers-uwv-legde-90-loonsancties-op-sinds-2023~b6b9e352/",
+          "publishedDate": "Tue, 22 Sep 2026 11:28:00 GMT",
+          "description": "De gemeente Amsterdam faalt in haar aanpak van de re-integratie van langdurig zieke werknemers. Sinds 2023 heeft de gemeente hiervoor zeker 90 loonsancties opgelegd gekregen van het UWV. Dat kost de g ..."
+        },
+        {
+          "title": "AIVD en NCTV waarschuwen voor normalisering extreemrechtse idee&#235;n, ook in de politiek: ‘Gevolgen voor de veiligheid’",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/nederland/aivd-en-nctv-waarschuwen-voor-normalisering-extreemrechtse-ideeen-ook-in-de-politiek-gevolgen-voor-de-veiligheid~bf8d9efc/",
+          "publishedDate": "Tue, 22 Sep 2026 11:11:00 GMT",
+          "description": "Rechts-extremisten proberen hun denkbeelden acceptabel te maken voor een grotere groep mensen door hiervan een ‘zachtere versie’ te presenteren. Daarvoor waarschuwen de Algemene Inlichtingen- en Veili ..."
+        },
+        {
+          "title": "Waarom zit er zoveel pfas in Amsterdams drinkwater en wat is eraan te doen?",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/waarom-zit-er-zoveel-pfas-in-amsterdams-drinkwater-en-wat-is-eraan-te-doen~b9e89b266/",
+          "publishedDate": "Tue, 22 Sep 2026 10:31:00 GMT",
+          "description": "In Amsterdams drinkwater zit meer dan twee keer zoveel pfas als het RIVM adviseert. Hoe komen die chemische stoffen in ons water? Deskundige Gerard Stroomberg legt uit: ‘Bijna 90 procent van de pfas i ..."
+        }
+      ]
+    },
+    {
+      "keyword": "john van &#39;t schip",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Van 't Schip belandde via vriend in Kazachstan: 'Sta altijd open voor avontuur'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6409968/van-t-schip-belandde-via-vriend-in-kazachstan-sta-altijd-open-voor-avontuur.html",
+          "publishedDate": "Mon, 21 Sep 2026 23:01:00 GMT",
+          "description": "John van 't Schip voegt als bondscoach van Kazachstan een kleurrijk hoofdstuk toe aan zijn trainerscarri&#232;re. De 62-jarige coach werkt de komende maanden vanuit Astana toe naar een goede Nations League ..."
+        },
+        {
+          "title": "John van 't Schip (62) openhartig over bijzonder besluit na overlijden Dani&#235;lle: 'Ik kom niet verder'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/john-van-t-schip-62-openhartig-over-bijzonder-besluit-na-overlijden-danielle-ik-kom-niet-verder-2026092205020264082/",
+          "publishedDate": "Tue, 22 Sep 2026 00:32:00 GMT",
+          "description": "John van 't Schip heeft een aantal turbulente jaren achter de rug. Bijna drie jaar geleden verloor hij Dani&#235;lle, zijn grote liefde, aan de gevolgen van kanker. De gevolgen waren groot in het leven van ..."
+        },
+        {
+          "title": "John van 't Schip openhartig over overlijden Dani&#235;lle (55): 'John, &#233;&#233;n ding...'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/john-van-t-schip-openhartig-over-overlijden-danielle-een-ding",
+          "publishedDate": "Mon, 21 Sep 2026 22:55:00 GMT",
+          "description": "John van 't Schip vertelt in podcast Ekiz &amp; Oei over het advies van zijn overleden vrouw Dani&#235;lle Oonk rondom zijn interim-aanstelling bij Ajax."
+        },
+        {
+          "title": "FOTO'S: John van 't Schip verkoopt villa met winst van vijf ton",
+          "source": "Ajax1.nl",
+          "url": "https://www.ajax1.nl/fotos-john-van-t-schip-verkoopt-villa-met-winst-van-vijf-ton/",
+          "publishedDate": "Wed, 16 Sep 2026 11:37:00 GMT",
+          "description": "Lees nu | De website Bekende Buren meldt dat voormalig Ajax- en FC Twente-trainer John van 't Schip goede zaken op de woningmarkt heeft gedaan."
+        },
+        {
+          "title": "John van 't Schip vindt bijna drie jaar na overlijden Dani&#235;lle nieuwe liefde",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/john-van-t-schip-vindt-bijna-drie-jaar-na-overlijden-danielle-nieuwe-liefde",
+          "publishedDate": "Mon, 14 Sep 2026 04:58:00 GMT",
+          "description": "John van 't Schip vindt na het verlies van Dani&#235;lle nieuwe liefde in Natasha. Ondertussen wordt hij opa, want zijn dochter Estelle is zwanger van een meisje."
+        },
+        {
+          "title": "John van 't Schip weer gelukkig in de liefde: 'We hebben het heel leuk samen'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/media/goed-nieuws/john-van-t-schip-nieuwe-liefde/",
+          "publishedDate": "Sun, 13 Sep 2026 17:00:00 GMT",
+          "description": "John van ’t Schip is weer gelukkig in de liefde. De voetbaltrainer nam in 2023 afscheid van zijn overleden vrouw Dani&#235;lle. Sinds deze zomer heeft hij een relatie met Natasha. “We kennen elkaar al veel ..."
+        },
+        {
+          "title": "John van 't Schip (62) heeft heuglijk nieuws: 'We hebben het heel leuk samen!'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/john-van-t-schip-heeft-heuglijk-nieuws-we-hebben-het-leuk-samen",
+          "publishedDate": "Sun, 13 Sep 2026 14:29:00 GMT",
+          "description": "John van 't Schip heeft opnieuw geluk in de liefde. De bondscoach van Kazachstan heeft sinds juli een relatie met Natasha (50), zo vertelt zij aan Priv&#233;."
+        },
+        {
+          "title": "Toptrainer John van 't Schip na overlijden van Dani&#235;lle weer verliefd: 'We kennen elkaar al veel langer'",
+          "source": "sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/toptrainer-john-van-t-schip-na-overlijden-van-danielle-weer-verliefd-we-kennen-elkaar-al-veel-langer-2026091318251438451/",
+          "publishedDate": "Sun, 13 Sep 2026 13:43:00 GMT",
+          "description": "Het zijn mooie tijden voor John van 't Schip. De voetbaltrainer wordt over een aantal maanden opa. Dat maakte zijn dochter Estelle zondag bekend. Maar er was meer nieuws binnen de familie, want de ..."
+        },
+        {
+          "title": "John van 't Schip wordt bondscoach Kazachstan",
+          "source": "Vi",
+          "url": "https://www.vi.nl/nieuws/john-van-t-schip-wordt-bondscoach-kazachstan",
+          "publishedDate": "Fri, 07 Aug 2026 04:47:00 GMT",
+          "description": "John van 't Schip heeft een nieuwe functie te pakken. De 62-jarige trainer wordt de nieuwe bondscoach van Kazachstan. Dat maakte de Kazachstaanse bond KFF vrijdagochtend bekend. Van 't Schip was ..."
+        },
+        {
+          "title": "Van 't Schip voelde niets voor door Ajax aangeboden functie",
+          "source": "Vi",
+          "url": "https://www.vi.nl/nieuws/waarom-john-van-t-schip-vertrok-bij-ajax",
+          "publishedDate": "Sun, 21 Sep 2025 03:48:00 GMT",
+          "description": "John van 't Schip kijkt met gemengde gevoelens terug op zijn periode als interim-trainer van Ajax. Hij werd na het vertrek van Maurice Steijn op tijdelijke basis aangesteld en zou daarna een functie ..."
+        }
+      ]
     },
     {
       "keyword": "hayden panettiere",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Actrice Hayden Panettiere overleed aan combinatie van drugs en medicijnen",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/achterklap/6410638/actrice-hayden-panettiere-overleed-aan-combinatie-van-drugs-en-medicijnen.html",
-          "publishedDate": "Tue, 22 Sep 2026 10:43:00 GMT",
-          "description": "De Amerikaanse actrice Hayden Panettiere is overleden aan de gevolgen van het gebruik van de pijnstiller fentanyl en verschillende andere medicijnen. Dat heeft de lijkschouwer in Greenville County in ..."
+          "title": "Actrice Hayden Panettiere (36) overleed aan fentanyl-overdosis",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2632096-actrice-hayden-panettiere-36-overleed-aan-fentanyl-overdosis",
+          "publishedDate": "Tue, 22 Sep 2026 12:00:00 GMT",
+          "description": "Volgens het nu afgeronde autopsierapport nam de actrice per ongeluk een overdosis van de pijnstiller. Ze schreef eerder in haar memoires al dat ze jeugdtrauma's verdrong met drugs en alcohol."
         },
         {
-          "title": "Tragische doodsoorzaak van geliefde 'Scream'- en 'Heroes'-ster Hayden Panettiere (36) bekendgemaakt",
-          "source": "FilmTotaal",
-          "url": "https://www.filmtotaal.nl/nieuws/135183",
-          "publishedDate": "Tue, 22 Sep 2026 13:31:00 GMT",
-          "description": "Vijf weken geleden werd de entertainmentwereld opgeschrikt door de plotselinge dood van Hayden Panettiere op 36-jarige leeftijd. Ze acteerde al sinds ze een klein meisje was en speelde in grote titels ..."
+          "title": "Actrice Hayden Panettiere overleed door combinatie van drugs en medicijnen",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/actrice-hayden-panettiere-overleed-door-combinatie-van-drugs-en-medicijnen/ar-AA2cKZ65",
+          "publishedDate": "Tue, 22 Sep 2026 08:24:25 GMT",
+          "description": "Actrice Hayden Panettiere is overleden aan de gevolgen van het gebruik van de pijnstiller fentanyl en verschillende andere medicijnen. Dat heeft de lijkschouwer in Greenville County in de Amerikaanse ..."
+        },
+        {
+          "title": "Actrice Hayden Panettiere werd vlak voor haar dood nog vergeefs gereanimeerd",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/actrice-hayden-panettiere-werd-vlak-voor-haar-dood-nog-vergeefs-gereanimeerd~a4b46085/",
+          "publishedDate": "Mon, 17 Aug 2026 00:46:00 GMT",
+          "description": "De Amerikaanse actrice Hayden Panettiere is vlak voor haar overlijden nog gereanimeerd door ambulancemedewerkers. Dat bevestigt de politie, die nog onderzoek doet, onder meer aan vakblad Variety. Verd ..."
+        },
+        {
+          "title": "Actrice Hayden Panettiere (36) overleden, doodsoorzaak onbekend",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2627206-actrice-hayden-panettiere-36-overleden-doodsoorzaak-onbekend",
+          "publishedDate": "Sun, 16 Aug 2026 23:21:00 GMT",
+          "description": "De Amerikaanse actrice Hayden Panettiere is op 36-jarige leeftijd overleden. Dat heeft haar familie bekendgemaakt in een verklaring. Over de doodsoorzaak is niets gemeld. Panettiere was onder meer ..."
         },
         {
           "title": "Doodsoorzaak Hayden Panettiere bevestigd als onopzettelijke overdosis",
@@ -120,32 +352,11 @@
           "description": "Een maand na het overlijden van actrice Hayden Panettiere is de doodsoorzaak bekend. Volgens de autopsie stierf ze aan een overdosis medicijnen, waaronder de gevaarlijke pijnstiller fentanyl. Volgens ..."
         },
         {
-          "title": "Scream-actrice Hayden Panettiere overleed door drugs en medicijnen",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/algemeen/buitenland/artikelen/scream-actrice-hayden-panettiere-overleed-door-drugs-en-medicijnen",
-          "publishedDate": "Tue, 22 Sep 2026 10:24:00 GMT",
-          "description": "Actrice Hayden Panettiere overleed op 36-jarige leeftijd door een fatale combinatie van fentanyl en andere medicijnen. Haar overlijden werd als een ongeluk vastgesteld."
-        },
-        {
-          "title": "Hayden Panettiere overleed aan combinatie van drugs en medicijnen",
-          "source": ".ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/nieuws/hayden-panettiere-overleed-aan-combinatie-van-drugs-en-medicijnen/ar-AA2cLxqk",
-          "publishedDate": "Tue, 22 Sep 2026 08:24:25 GMT",
-          "description": "Actrice Hayden Panettiere is overleden aan de gevolgen van het gebruik van de pijnstiller fentanyl en verschillende andere medicijnen. Dat heeft de lijkschouwer in Greenville County in de Amerikaanse ..."
-        },
-        {
           "title": "Doodsoorzaak Hayden Panettiere bekend: actrice stierf na accidentele overdosis met fentanyl en andere drugs",
           "source": "Het Laatste Nieuws",
           "url": "https://www.hln.be/celebrities/doodsoorzaak-hayden-panettiere-bekend-actrice-stierf-na-accidentele-overdosis-met-fentanyl-en-andere-drugs~ad52068b/",
-          "publishedDate": "Tue, 22 Sep 2026 00:51:00 GMT",
+          "publishedDate": "Tue, 22 Sep 2026 02:07:00 GMT",
           "description": "De doodsoorzaak van Hayden Panettiere is bekend. De Amerikaanse actrice is overleden aan de toxische effecten van een combinatie van verschillende drugs, waaronder fentanyl. Volgens de gerechtsarts in ..."
-        },
-        {
-          "title": "Nieuwe details over dood Hayden Panettiere: &#233;&#233;n pil kan haar fataal zijn geworden",
-          "source": "P-Magazine",
-          "url": "https://p-magazine.com/nl/articles/rapport-maakt-mogelijke-doodsoorzaak-hayden-panettiere-bekend",
-          "publishedDate": "Mon, 14 Sep 2026 05:08:00 GMT",
-          "description": "Volgens een nieuw rapport zou Hayden Panettiere op de dag van haar overlijden een pil hebben ingenomen die was vermengd met fentanyl. De geliefde Amerikaanse ..."
         },
         {
           "title": "Courteney Cox prijst overleden actrice Hayden Panettiere",
@@ -160,162 +371,19 @@
           "url": "https://www.shownieuws.nl/algemeen/buitenland/artikelen/actrice-hayden-panettiere-36-overleden",
           "publishedDate": "Mon, 17 Aug 2026 16:35:00 GMT",
           "description": "Hayden stond al op zeer jonge leeftijd voor de camera en groeide uiteindelijk uit tot een bekend gezicht in Hollywood. Haar grote internationale doorbraak kwam in 2006 dankzij de populaire ..."
-        }
-      ]
-    },
-    {
-      "keyword": "hyrox",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Vrouw verliest baan na Hyrox tijdens ziekmelding, baas krijgt gelijk van rechter",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/opmerkelijk/6410658/vrouw-verliest-baan-na-hyrox-tijdens-ziekmelding-baas-krijgt-gelijk-van-rechter.html",
-          "publishedDate": "Tue, 22 Sep 2026 00:35:00 GMT",
-          "description": "Een medewerker van een makelaarskantoor in Tilburg werd terecht op staande voet ontslagen nadat ze mee had gedaan aan een Hyrox-wedstrijd, oordeelt de kantonrechter. De vrouw had zich ziek gemeld, omd ..."
         },
         {
-          "title": "Ontslag na Hyrox-deelname met ziekte van Pfeiffer",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/ontslag-na-hyrox-deelname-met-ziekte-van-pfeiffer/ar-AA2cIiwM",
-          "publishedDate": "Mon, 21 Sep 2026 22:11:57 GMT",
-          "description": "Niet werken vanwege stressgerelateerde vermoeidheid, de ziekte van Pfeiffer en een keelontsteking zal bij alle werkgevers op begrip kunnen rekenen. Het wordt alleen ingewikkeld als dezelfde medewerker ..."
-        },
-        {
-          "title": "Medewerkster doet mee aan loodzware Hyrox terwijl ze ziek thuiszit en wordt op staande voet ontslagen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/medewerkster-doet-mee-aan-loodzware-hyrox-terwijl-ze-ziek-thuiszit-en-wordt-op-staande-voet-ontslagen~a02bc043/",
-          "publishedDate": "Mon, 21 Sep 2026 21:20:00 GMT",
-          "description": "Een maand thuis vanwege de ziekte van Pfeiffer en een zware keelontsteking, maar ondertussen wel deelnemen aan een loodzware Hyrox, een internationale fitnesscompetitie waarbij hardlopen wordt gecombi ..."
-        },
-        {
-          "title": "Hyrox-atlete biedt excuses aan voor afmaken race nadat ze in broek had gepoept",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/sport/6410102/hyrox-atlete-biedt-excuses-aan-voor-afmaken-race-nadat-ze-in-broek-had-gepoept.html",
-          "publishedDate": "Thu, 17 Sep 2026 08:27:00 GMT",
-          "description": "Hyrox-atlete Joanna Wietrzyk heeft sorry gezegd voor haar optreden in een race in Peking afgelopen zaterdag. De Australische atlete maakte de race af terwijl ze in haar broek had gepoept en kreeg daar ..."
-        },
-        {
-          "title": "Hyrox-deelnemer die zichzelf onderpoepte bij wedstrijd laat van zich horen: ‘Heb spijt van mijn beslissing’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/hyrox-deelnemer-die-zichzelf-onderpoepte-bij-wedstrijd-laat-van-zich-horen-heb-spijt-van-mijn-beslissing~a2ab73cc/",
-          "publishedDate": "Thu, 17 Sep 2026 04:37:00 GMT",
-          "description": "De Australische atlete Joanna Wietrzyk heeft donderdag in een statement haar excuses aangeboden voor het incident bij haar Hyrox-wedstrijd. De wereldkampioene ging zaterdag in Peking door met haar wed ..."
-        },
-        {
-          "title": "Excuses Hyrox-atlete na onsmakelijk incident vallen verkeerd: 'Dat klopt niet helemaal'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/boulevard/nieuws/excuses-hyrox-atlete-na-onsmakelijk-incident-vallen-verkeerd-dat-klopt-niet-helemaal-2026092210345823987/",
-          "publishedDate": "Tue, 22 Sep 2026 07:00:00 GMT",
-          "description": "Joanna Wietrzyk belandde afgelopen week plotseling in een mediastorm nadat beelden van haar Hyrox de hele wereld overgingen. De Australische liet tijdens de wedstrijd haar ontlasting lopen en maakte e ..."
-        },
-        {
-          "title": "Ontslag op staande voet terecht voor ziekgemelde werknemer die meedoet aan Hyrox",
-          "source": "Salaris Vanmorgen",
-          "url": "https://www.salarisvanmorgen.nl/2026/09/21/ontslag-op-staande-voet-terecht-voor-ziekgemelde-werknemer-die-meedoet-aan-hyrox/",
-          "publishedDate": "Mon, 21 Sep 2026 01:12:00 GMT",
-          "description": "De werknemer meldt zich ziek vanwege spanningen op de werkvloer en geeft later aan Pfeiffer te hebben. Toch doet zij mee aan een Hyrox. Dit leidt tot ontslag op staande voet."
-        },
-        {
-          "title": "Het is razend populair, maar voor wat staat het woord Hyrox nu eigenlijk?",
-          "source": "Newsmonkey",
-          "url": "https://newsmonkey.be/het-is-razend-populair-maar-voor-wat-staat-het-woord-hyrox-nu-eigenlijk/",
-          "publishedDate": "Sun, 20 Sep 2026 10:16:00 GMT",
-          "description": "In het kort Hyrox staat de laatste dagen enorm in de belangstelling door een voorval in Peking. Onlangs is zo ook de echte betekenis van het woord viraal ..."
-        },
-        {
-          "title": "HYROX-atlete biedt excuses aan na poepincident",
-          "source": "vandaaginside",
-          "url": "https://www.vandaaginside.nl/sport/overige-sporten/artikelen/hyrox-atlete-biedt-excuses-aan-na-poepincident",
-          "publishedDate": "Thu, 17 Sep 2026 09:21:00 GMT",
-          "description": "HYROX-atlete Joanna Wietrzyk ging afgelopen week viraal, nadat ze tijdens een wedstrijd haar ontlasting niet binnen kon houden. Desondanks finishte de race en won ze zelfs. Nu komt Wietrzyk terug op h ..."
-        },
-        {
-          "title": "“Ik had andere keuze moeten maken”: Hyrox-atlete die wedstrijd won met besmeurde benen maakt bocht van 180 graden",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/meer-sport/ik-had-andere-keuze-moeten-maken-hyrox-atlete-die-wedstrijd-won-met-besmeurde-benen-maakt-bocht-van-180-graden~aef8d846/",
-          "publishedDate": "Thu, 17 Sep 2026 01:35:00 GMT",
-          "description": "Joanna Wietrzyk, de 24-jarige Australische Hyrox-atlete die wereldwijd in de schijnwerpers kwam nadat ze met besmeurde benen een wedstrijd won in Peking, heeft haar excuses aangeboden. Meer nog: ze st ..."
-        }
-      ]
-    },
-    {
-      "keyword": "familie ben saunders",
-      "trafficLabel": "5K+",
-      "articles": []
-    },
-    {
-      "keyword": "red bull racing rb14",
-      "trafficLabel": "2K+",
-      "articles": [
-        {
-          "title": "Max Verstappens RB14 heeft nu nog camouflagekleuren",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2218188-max-verstappens-rb14-heeft-nu-nog-camouflagekleuren",
-          "publishedDate": "Mon, 19 Feb 2018 01:43:00 GMT",
-          "description": "Red Bull Racing heeft de auto voor het nieuwe Formule 1-seizoen gepresenteerd. De RB14 van Max Verstappen en z'n Australische teamgenoot Daniel Ricciardo oogt voorlopig heel anders dan vorig jaar."
-        },
-        {
-          "title": "Zware crash Verstappen met RB14 in Baku na hard gevecht met teamgenoot",
-          "source": "GPblog on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/motorsport/zware-crash-verstappen-met-rb14-in-baku-na-hard-gevecht-met-teamgenoot/ar-AA2cKSzV",
-          "publishedDate": "Tue, 22 Sep 2026 07:01:00 GMT",
-          "description": "Tweemaal wist Max Verstappen in Azerbeidzjan te winnen, maar twee andere races van de Nederlander door de straten roepen wellicht meer herinneringen bij F1-fans op. In 2021 leek Verstappen bijvoorbeel ..."
-        },
-        {
-          "title": "De auto’s van Max Verstappen",
-          "source": "GPToday.net",
-          "url": "https://www.gptoday.net/nl/coureurs/max-verstappen/formule-1-autos",
-          "publishedDate": "Sat, 19 Sep 2026 01:39:00 GMT",
-          "description": "Bent u ook benieuwd in welke Formule 1 auto’s Max Verstappen allemaal heeft gereden of waar hij priv&#233; in rijdt? Op GPtoday leest u er meer over."
-        },
-        {
-          "title": "Experience the Legacy of Max Verstappen and Daniel Ricciardo at The Bay, Ecoworld with Oracle Red Bull Racing RB14 Display and Immersive Gaming Activations",
-          "source": "Mena FN",
-          "url": "https://menafn.com/1111465496/Experience-the-Legacy-of-Max-Verstappen-and-Daniel-Ricciardo-at-The-Bay-Ecoworld-with-Oracle-Red-Bull-Racing-RB14-Display-and-Immersive-Gaming-Activations",
-          "publishedDate": "Wed, 29 Jul 2026 21:35:00 GMT",
-          "description": "Bengaluru, July 29, 2026: The Bay, Ecoworld brought the thrill of Formula 1 and motorsport-inspired gaming to Bengaluru through a series of immersive Red Bull experiences, giving employees a unique ..."
-        },
-        {
-          "title": "Watch Red Bull Racing’s Road Trip USA: Part One",
-          "source": "レッドブル",
-          "url": "https://www.redbull.com/th-th/red-bull-racing-road-trip-usa-part-1",
-          "publishedDate": "Mon, 05 Jul 2021 05:30:00 GMT",
-          "description": "With lots of discussion around a second US race being added to the Formula 1 schedule in the next couple of years, the Aston Martin Red Bull Racing team decided to take in the sights and sounds of ..."
-        },
-        {
-          "title": "Red Bull presenteert met de RB14 de wagen van Max Verstappen",
-          "source": "AD",
-          "url": "https://www.ad.nl/formule-1/red-bull-presenteert-met-de-rb14-de-wagen-van-max-verstappen~a6e02b7c/",
-          "publishedDate": "Mon, 19 Feb 2018 02:09:00 GMT",
-          "description": "De RB14, of zoals de wagen officieel heet TAG Heuer Aston Martin Red Bull Racing - TAG Heuer RB14, werd vanochtend digitaal gelanceerd. De wagen, met de werktitel an appetite for disruption (een ..."
-        },
-        {
-          "title": "Red Bull presenteert met de RB14 de wagen van Max Verstappen",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/sport/red-bull-presenteert-met-de-rb14-de-wagen-van-max-verstappen~a6e02b7c/",
-          "publishedDate": "Mon, 19 Feb 2018 02:01:00 GMT",
-          "description": "Precies een week voor de start van de eerste wintertest heeft Aston Martin Red Bull Racing haar nieuwe bolide gepresenteerd. De RB14, die Max Verstappen meer geluk moet brengen dan de RB13 van vorig ..."
-        },
-        {
-          "title": "Red Bull presenteert volgende week de nieuwe 'RB14'",
-          "source": "ED",
-          "url": "https://www.ed.nl/formule-1/red-bull-presenteert-volgende-week-de-nieuwe-rb14~a88b90f6/",
-          "publishedDate": "Mon, 12 Feb 2018 02:25:00 GMT",
-          "description": "Voor Red Bull Racing &#233;n Verstappen is het te hopen dat deze auto w&#233;l met Mercedes en Ferrari kan strijden om de wereldtitel in de Formule 1. Vorig jaar werd de renstal derde in het wereldkampioenschap ..."
-        },
-        {
-          "title": "Red Bull Racing meets Soapbox",
-          "source": "レッドブル",
-          "url": "https://www.redbull.com/th-th/videos/red-bull-racing-meets-soapbox",
-          "publishedDate": "Sun, 14 Jul 2013 14:59:00 GMT",
-          "description": "Fast laps like you've never seen before – take flight with a drone that matches F1 car speeds of 300kph-plus. Daniel Ricciardo drives the Aston Martin-Red Bull Racing RB14 as the 2018 car debuts at ..."
+          "title": "Actrice Hayden Panettiere op 36-jarige leeftijd overleden",
+          "source": "Cosmopolitan",
+          "url": "https://www.cosmopolitan.com/nl/entertainment/a73448435/hayden-panettiere-overleden/",
+          "publishedDate": "Sun, 16 Aug 2026 22:52:00 GMT",
+          "description": "Actrice Hayden Panettiere is zondag 16 augustus 2026 overleden. Ze werd slechts 36 jaar. Haar vertegenwoordiger bevestigde het verdrietige nieuws aan ABC News. Een doodsoorzaak is vooralsnog niet ..."
         }
       ]
     },
     {
       "keyword": "n.e.c.",
-      "trafficLabel": "2K+",
+      "trafficLabel": "5K+",
       "articles": [
         {
           "title": "Koopmeiners geniet van moment in de Eredivisie: 'Onze vriendinnen zijn goed met elkaar'",
@@ -390,133 +458,299 @@
       ]
     },
     {
-      "keyword": "kiki boreel",
-      "trafficLabel": "2K+",
+      "keyword": "pfas kaart nederland",
+      "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Kiki Boreel",
-          "source": "Volkskrant",
-          "url": "https://www.volkskrant.nl/auteur/kiki-boreel/",
-          "publishedDate": "Thu, 27 Nov 2025 09:00:00 GMT",
-          "description": "De bodypositivity-beweging probeert terecht het spectrum van lichaamstypen te verbreden. Maar zolang we het debat opsluiten in het lichaam, blijft waarde gekoppeld aan uiterlijk. En dat belemmert ..."
+          "title": "In Noord- en Zuid-Holland komt meer PFAS uit de kraan dan in rest van Nederland",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2632030-in-noord-en-zuid-holland-komt-meer-pfas-uit-de-kraan-dan-in-rest-van-nederland",
+          "publishedDate": "Tue, 22 Sep 2026 04:19:00 GMT",
+          "description": "Milieuorganisatie Greenpeace heeft regionale verschillen in kaart gebracht. In Noord- en Zuid-Holland werd het meeste PFAS gevonden."
         },
         {
-          "title": "Misleidende ‘van-voor’-prijzen, opgeklopte aanbiedingen en nep-schaarste: Black Friday roept steeds meer afkeer op",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2024/11/27/misleidende-van-voor-prijzen-opgeklopte-aanbiedingen-en-nep-schaarste-black-friday-roept-steeds-meer-afkeer-op-a4874628",
-          "publishedDate": "Wed, 27 Nov 2024 04:21:00 GMT",
-          "description": "Consumptie Juist op Black Friday zouden we er ons bewust van moeten zijn dat niemand op zijn sterfbed denkt aan die ene designerhandtas, schrijft Kiki Boreel. Vanaf het schermpje in mijn hand ..."
+          "title": "Greenpeace waarschuwt voor PFAS in kraanwater in Zeist: 'Code 'donkerrood' voor een deel van de gemeente'",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/zeist/greenpeace-waarschuwt-voor-pfas-in-kraanwater-in-zeist-code-donkerrood-voor-een-deel-van-de-gemeente~a57bac67/",
+          "publishedDate": "Tue, 22 Sep 2026 03:02:00 GMT",
+          "description": "Het kraanwater in delen van de gemeente Zeist bevat meer PFAS dan het RIVM gezond vindt, of zit tegen die grens aan. Voor een deel van de gemeente geldt code 'donkerrood', concludeert Greenpeace op ba ..."
         },
         {
-          "title": "Seizoen 28 aflevering 2/35Uitdager: Kiki Boreel",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/tv-gids/npo-1/uitzending/aflevering/6f65b6d6-dcfe-4c60-86dc-6a413d20c77f",
-          "publishedDate": "Tue, 22 Sep 2026 05:30:00 GMT",
-          "description": "Quiz (2026) waarin bekende Nederlanders het tegen elkaar opnemen, gepresenteerd door Herman van der Zandt, die wordt bijgestaan door juryvoorzitter Paulien Cornelisse Meld je aan voor de nieuwsbrief ..."
+          "title": "Bij veel Nederlanders stromen te veel chemische stoffen uit de kraan",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/binnenland/6410470/bij-veel-nederlanders-stromen-te-veel-chemische-stoffen-uit-de-kraan.html",
+          "publishedDate": "Mon, 21 Sep 2026 23:00:00 GMT",
+          "description": "In een groot deel van Noord- en Zuid-Holland zit meer pfas in het drinkwater dan het RIVM aanvaardbaar vindt. In sommige steden is dat zelfs twee tot drie keer zoveel. Het drinkwater blijft wel veilig ..."
         },
         {
-          "title": "Jongstof: Kiki Boreel, model en modeactivist",
-          "source": "NPO Radio 1",
-          "url": "https://www.nporadio1.nl/podcasts/kunststof/139496/jongstof-kiki-boreel-model-en-modeactivist",
-          "publishedDate": "Thu, 23 Apr 2026 17:00:00 GMT",
-          "description": "Wat doe je als je werkt in een van de meest vervuilende industrie&#235;n ter wereld? Model en modeactivist Kiki Boreel besloot het roer om te gooien. Ze stopte met het werken voor fast fashion merken en ..."
+          "title": "Waterbedrijven gaan PFAS in kraanwater te lijf, maar 'probleem moet bij de bron aangepakt'",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/363671/waterbedrijven-gaan-pfas-in-kraanwater-te-lijf-maar-probleem-moet-bij-de-bron-aangepakt",
+          "publishedDate": "Tue, 22 Sep 2026 10:15:00 GMT",
+          "description": "Veel PFAS in kraanwater Noord-Holland: Greenpeace brengt regio's met hoogste concentratie in kaart. Kabinet moet actie ondernemen. Lees het hele verhaal."
         },
         {
-          "title": "‘Bij elk t-shirtje zie ik verloren grondstoffen.’ Hoe model Kiki Boreel een mode-activist werd",
-          "source": "Nederlands Dagblad",
-          "url": "https://www.nd.nl/nieuws/klimaat/1275322/bij-elk-t-shirtje-zie-ik-verloren-grondstoffen-hoe-model-kiki",
-          "publishedDate": "Mon, 21 Jul 2025 03:29:00 GMT",
-          "description": "Waar liggen je wortels en hoe hebben die jouw leven bepaald? In de serie Geworteld reflecteren ge&#239;nterviewden hierop. Toen Kiki Boreel (29) als model werkte voor grote webshops, moest ze zich soms wel ..."
+          "title": "Verhoogde concentratie PFAS in Dronten, komt volgens Vitens door vermenging water uit Veluwemeer",
+          "source": "Omroep Flevoland",
+          "url": "https://www.omroepflevoland.nl/nieuws/524735/verhoogde-concentratie-pfas-in-dronten-komt-volgens-vitens-door-vermenging-water-uit-veluwemeer",
+          "publishedDate": "Tue, 22 Sep 2026 08:34:00 GMT",
+          "description": "Is het kraanwater in de gemeente Dronten wel veilig om te drinken? Als je de kaart van Greenpeace moet geloven, zit Dronten boven de norm voor de hoeveelheid PFAS in drinkwater. Drinkwaterbedrijf Vite ..."
         },
         {
-          "title": "Van topmodel naar klimaatactiviste: dit is Kiki Boreel",
-          "source": "NPO Radio 1",
-          "url": "https://www.nporadio1.nl/nieuws/binnenland/7e4563f0-7239-4818-9402-f73c394f3bda/van-topmodel-naar-klimaatactiviste-dit-is-kiki-boreel",
-          "publishedDate": "Sun, 25 Aug 2024 05:03:00 GMT",
-          "description": "De kledingindustrie is enorm vervuilend. &quot;Dat doet de kledingindustrie heel knap, die is vervuilend op alle manieren waarop je vervuilend kan zijn&quot;, zegt Boreel. En het vervuilende karakter wordt ook ..."
+          "title": "Opvallend veel PFAS in kraanwater Zuid-Holland: 'We kunnen er eigenlijk niet aan ontkomen'",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2257341/opvallend-veel-pfas-in-kraanwater-zuid-holland-we-kunnen-er-eigenlijk-niet-aan-ontkomen",
+          "publishedDate": "Tue, 22 Sep 2026 05:33:00 GMT",
+          "description": "In ongeveer een derde van het Nederlandse drinkwater zit meer PFAS dan volgens het RIVM wenselijk is. Vooral in Zuid-Holland en Noord-Holland zijn de niveaus opvallend hoog. Dat blijkt uit een PFAS-ka ..."
         },
         {
-          "title": "Hergebruik trend in modewereld: &quot;Goed en marketingtechnisch slimme boodschap&quot;",
-          "source": "AT5",
-          "url": "https://www.at5.nl/artikelen/216624/hergebruik-trend-in-modewereld-goed-en-marketingtechnisch-slimme-boodschap",
-          "publishedDate": "Thu, 01 Sep 2022 11:36:00 GMT",
-          "description": "Steeds meer modeontwerpers doen aan 'upcycling': een term in de modewereld die wil zeggen dat je van een oud stuk stof een nieuw kledingstuk maakt. Ook tijdens de Amsterdam Fashion Week is het een ..."
+          "title": "'Hoge PFAS-waarden in kraanwater West-Nederland'",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/milieu-gezondheid/zorg/artikelen/noord-holland-kraanwater-pfas-rivm-advies",
+          "publishedDate": "Tue, 22 Sep 2026 03:27:00 GMT",
+          "description": "Kraanwater in grote delen van West-Nederland bevat meer PFAS dan het RIVM adviseert. Vooral in Noord-Holland zijn de waarden hoog. Toch blijven de metingen ruim binnen de wettelijke norm en is kraanwa ..."
         },
         {
-          "title": "Model en activist Kiki Boreel: ‘Ik ben niet meer geloofwaardig als ik voor Zara werk’",
-          "source": "Het Financieele Dagblad",
-          "url": "https://fd.nl/samenleving/1447448/model-en-activist-kiki-boreel-ik-ben-niet-meer-geloofwaardig-als-ik-voor-zara-werk",
-          "publishedDate": "Tue, 09 Aug 2022 21:00:00 GMT",
-          "description": "U heeft browser notificaties voor fd.nl eerder geweigerd. Ga naar browser instellingen en sta browser notificaties toe voor fd.nl. De precieze handelingen zijn afhankelijk van uw browser."
+          "title": "Minister eens met Greenpeace: Vermindering PFAS in kraanwater noodzakelijk",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/minister-eens-met-greenpeace-vermindering-pfas-in-kraanwater-noodzakelijk",
+          "publishedDate": "Tue, 22 Sep 2026 03:23:00 GMT",
+          "description": "De hoeveelheid PFAS in het drinkwater valt overal nog wel ruim binnen de wettelijke norm. Op Europees niveau is geregeld dat er maximaal 100 nanogram PFAS in een liter drinkwater mag zitten. Dat is ..."
+        },
+        {
+          "title": "Meer PFAS in kraanwater dan geadviseerd: vooral in deze delen van Nederland zijn de waarden hoog",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/09/meer-pfas-in-kraanwater-dan-geadviseerd-vooral-in-deze-delen-van-nederland-zijn-de-waarden-hoog/",
+          "publishedDate": "Mon, 21 Sep 2026 23:21:00 GMT",
+          "description": "Greenpeace analyseerde gegevens van de tien Nederlandse drinkwaterbedrijven en concludeert dat bij ruim een derde van de Nederlanders meer PFAS in het kraanwater zit dan de advieswaarde van het Rijksi ..."
+        },
+        {
+          "title": "Kraanwater Noord- en Zuid-Holland bevat hoogste PFAS-waardes",
+          "source": "Duurzaam Ondernemen",
+          "url": "https://www.duurzaam-ondernemen.nl/pfas-in-kraanwater-het-is-bizar-dat-er-gif-in-ons-kraanwater-zit/",
+          "publishedDate": "Mon, 21 Sep 2026 22:38:00 GMT",
+          "description": "Het kraanwater van ruim een derde van de Nederlandse bevolking bevat meer PFAS dan de advieswaarde van het Rijksinstituut voor Volksgezondheid en Milieu (RIVM). In het westen wordt deze gezondheidswaa ..."
         }
       ]
     },
     {
-      "keyword": "brian brobbey",
-      "trafficLabel": "2K+",
+      "keyword": "hyrox",
+      "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "LIVE | Brian Brobbey de man in vorm, Oranje en Arsenal voorzichtig met Jurri&#235;n Timber",
+          "title": "Vrouw verliest baan na Hyrox tijdens ziekmelding, baas krijgt gelijk van rechter",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/opmerkelijk/6410658/vrouw-verliest-baan-na-hyrox-tijdens-ziekmelding-baas-krijgt-gelijk-van-rechter.html",
+          "publishedDate": "Tue, 22 Sep 2026 14:35:00 GMT",
+          "description": "Een medewerker van een makelaarskantoor in Tilburg werd terecht op staande voet ontslagen nadat ze mee had gedaan aan een Hyrox-wedstrijd, oordeelt de kantonrechter. De vrouw had zich ziek gemeld, omd ..."
+        },
+        {
+          "title": "Ontslag na Hyrox-deelname met ziekte van Pfeiffer",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/ontslag-na-hyrox-deelname-met-ziekte-van-pfeiffer/ar-AA2cIiwM",
+          "publishedDate": "Mon, 21 Sep 2026 22:11:57 GMT",
+          "description": "Niet werken vanwege stressgerelateerde vermoeidheid, de ziekte van Pfeiffer en een keelontsteking zal bij alle werkgevers op begrip kunnen rekenen. Het wordt alleen ingewikkeld als dezelfde medewerker ..."
+        },
+        {
+          "title": "Medewerkster doet mee aan loodzware Hyrox terwijl ze ziek thuiszit en wordt op staande voet ontslagen",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/live-brian-brobbey-de-man-in-vorm-oranje-en-arsenal-voorzichtig-met-jurrien-timber~a71d1f3a/",
-          "publishedDate": "Mon, 21 Sep 2026 22:08:00 GMT",
-          "description": "Oranje begint donderdag tegen Duitsland aan de eerste van vier Nations Leagueduels. Volg het laatste nieuws over het Nederlands elftal hier."
+          "url": "https://www.ad.nl/binnenland/medewerkster-doet-mee-aan-loodzware-hyrox-terwijl-ze-ziek-thuiszit-en-wordt-op-staande-voet-ontslagen~a02bc043/",
+          "publishedDate": "Mon, 21 Sep 2026 21:20:00 GMT",
+          "description": "Een maand thuis vanwege de ziekte van Pfeiffer en een zware keelontsteking, maar ondertussen wel deelnemen aan een loodzware Hyrox, een internationale fitnesscompetitie waarbij hardlopen wordt gecombi ..."
         },
         {
-          "title": "Brobbey schittert met hattrick tegen Manchester City, nieuwe domper United",
+          "title": "Hyrox-atlete biedt excuses aan voor afmaken race nadat ze in broek had gepoept",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/sport/6410102/hyrox-atlete-biedt-excuses-aan-voor-afmaken-race-nadat-ze-in-broek-had-gepoept.html",
+          "publishedDate": "Thu, 17 Sep 2026 08:27:00 GMT",
+          "description": "Hyrox-atlete Joanna Wietrzyk heeft sorry gezegd voor haar optreden in een race in Peking afgelopen zaterdag. De Australische atlete maakte de race af terwijl ze in haar broek had gepoept en kreeg daar ..."
+        },
+        {
+          "title": "Hyrox-deelnemer die zichzelf onderpoepte bij wedstrijd laat van zich horen: ‘Heb spijt van mijn beslissing’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/hyrox-deelnemer-die-zichzelf-onderpoepte-bij-wedstrijd-laat-van-zich-horen-heb-spijt-van-mijn-beslissing~a2ab73cc/",
+          "publishedDate": "Thu, 17 Sep 2026 04:37:00 GMT",
+          "description": "De Australische atlete Joanna Wietrzyk heeft donderdag in een statement haar excuses aangeboden voor het incident bij haar Hyrox-wedstrijd. De wereldkampioene ging zaterdag in Peking door met haar wed ..."
+        },
+        {
+          "title": "Excuses Hyrox-atlete na onsmakelijk incident vallen verkeerd: 'Dat klopt niet helemaal'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/excuses-hyrox-atlete-na-onsmakelijk-incident-vallen-verkeerd-dat-klopt-niet-helemaal-2026092210345823987/",
+          "publishedDate": "Tue, 22 Sep 2026 07:00:00 GMT",
+          "description": "Joanna Wietrzyk belandde afgelopen week plotseling in een mediastorm nadat beelden van haar Hyrox de hele wereld overgingen. De Australische liet tijdens de wedstrijd haar ontlasting lopen en maakte e ..."
+        },
+        {
+          "title": "Ontslag op staande voet terecht voor ziekgemelde werknemer die meedoet aan Hyrox",
+          "source": "Salaris Vanmorgen",
+          "url": "https://www.salarisvanmorgen.nl/2026/09/21/ontslag-op-staande-voet-terecht-voor-ziekgemelde-werknemer-die-meedoet-aan-hyrox/",
+          "publishedDate": "Mon, 21 Sep 2026 01:12:00 GMT",
+          "description": "De werknemer meldt zich ziek vanwege spanningen op de werkvloer en geeft later aan Pfeiffer te hebben. Toch doet zij mee aan een Hyrox. Dit leidt tot ontslag op staande voet."
+        },
+        {
+          "title": "Het is razend populair, maar voor wat staat het woord Hyrox nu eigenlijk?",
+          "source": "Newsmonkey",
+          "url": "https://newsmonkey.be/het-is-razend-populair-maar-voor-wat-staat-het-woord-hyrox-nu-eigenlijk/",
+          "publishedDate": "Sun, 20 Sep 2026 10:16:00 GMT",
+          "description": "In het kort Hyrox staat de laatste dagen enorm in de belangstelling door een voorval in Peking. Onlangs is zo ook de echte betekenis van het woord viraal ..."
+        },
+        {
+          "title": "HYROX-atlete biedt excuses aan na poepincident",
+          "source": "vandaaginside",
+          "url": "https://www.vandaaginside.nl/sport/overige-sporten/artikelen/hyrox-atlete-biedt-excuses-aan-na-poepincident",
+          "publishedDate": "Thu, 17 Sep 2026 09:21:00 GMT",
+          "description": "HYROX-atlete Joanna Wietrzyk ging afgelopen week viraal, nadat ze tijdens een wedstrijd haar ontlasting niet binnen kon houden. Desondanks finishte de race en won ze zelfs. Nu komt Wietrzyk terug op h ..."
+        },
+        {
+          "title": "Verbijstering bij Naomi van As na onsmakelijk Hyrox-incident: ‘Ik wist niet wat ik zag’",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/verbijstering-bij-naomi-van-as-na-onsmakelijk-hyrox-incident-ik-wist-niet-wat-ik-zag-2026091411463486937/",
+          "publishedDate": "Mon, 14 Sep 2026 07:54:00 GMT",
+          "description": "Hyrox is sinds enkele jaren razend populair. De combinatie van hardlopen en functionele krachtoefeningen wordt wereldwijd beoefend. Dat leverde tijdens een wedstrijd in China nogal opmerkelijke ..."
+        }
+      ]
+    },
+    {
+      "keyword": "familie ben saunders",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Familie Ben Saunders niet aanwezig bij uitvaart: 'Zwaarste beslissing'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/muziek/6410622/familie-ben-saunders-niet-aanwezig-bij-uitvaart-zwaarste-beslissing.html",
+          "publishedDate": "Tue, 22 Sep 2026 09:01:00 GMT",
+          "description": "Zanger Dean Saunders en zijn familie zijn woensdag niet aanwezig bij de uitvaart van Ben Saunders. Dat laten ze dinsdag weten in een verklaring op Instagram. Het is &quot;de zwaarste beslissing&quot; die de fam ..."
+        },
+        {
+          "title": "Familie Ben Saunders besluit niet aanwezig te zijn bij zijn uitvaart, Dean haalt uit op sociale media",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/familie-ben-saunders-besluit-niet-aanwezig-te-zijn-bij-zijn-uitvaart-dean-haalt-uit-op-sociale-media~a33e725a/",
+          "publishedDate": "Tue, 22 Sep 2026 03:46:00 GMT",
+          "description": "De familie van Ben Saunders heeft ‘na lang en intensief overleg’ besloten om woensdag niet aanwezig te zijn bij zijn uitvaart. Dat laat zijn broer Dean Saunders dinsdagmiddag weten in een verklaring."
+        },
+        {
+          "title": "Van de hoofdredactie | We brachten de feiten rond Ben Saunders, natuurlijk schuurde dat",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/blog/6410188/we-brachten-de-feiten-rond-ben-saunders-natuurlijk-schuurde-dat.html",
+          "publishedDate": "Sun, 20 Sep 2026 03:39:00 GMT",
+          "description": "De hoofdredactie van NU.nl vertelt wekelijks over wat zich op de redactie afspeelt. Deze week: over het overlijden van een prominent figuur en onze berichtgeving daarover."
+        },
+        {
+          "title": "Dean Saunders laat zich op Facebook uit over afscheid Ben Saunders: 'Spijker op z'n kop'",
+          "source": "vandaaginside",
+          "url": "https://www.vandaaginside.nl/media/bners/artikelen/dean-saunders-laat-zich-op-facebook-uit-over-afscheid-ben-saunders-spijker",
+          "publishedDate": "Tue, 22 Sep 2026 11:39:00 GMT",
+          "description": "De familie van Ben Saunders is woensdag niet aanwezig bij de uitvaart van de zanger, liet zijn broer Dean Saunders dinsdag weten via Instagram. De reden is niet duidelijk, maar op Facebook laat Dean S ..."
+        },
+        {
+          "title": "Broer Dean Saunders en ouders niet naar uitvaart Ben: ‘Juist uit liefde voor Ben’",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/binnenland/nieuws/ben-saunders-uitvaart/",
+          "publishedDate": "Tue, 22 Sep 2026 10:08:00 GMT",
+          "description": "Dinsdag werd bekend dat de uitvaart van de vorige week overleden zanger Ben Saunders in besloten kring plaatsvindt. Maar zijn familie is daar gedeeltelijk niet bij. Broer Dean Saunders laat op sociale ..."
+        },
+        {
+          "title": "Familie Ben Saunders neemt aangrijpend besluit rond uitvaart: ‘Uit liefde voor Ben’",
+          "source": "Weekblad Party",
+          "url": "https://weekbladparty.nl/familie-ben-saunders-neemt-aangrijpend-besluit-rond-uitvaart-uit-liefde-voor-ben/",
+          "publishedDate": "Tue, 22 Sep 2026 09:28:00 GMT",
+          "description": "De familie van Ben Saunders zal niet aanwezig zijn bij de uitvaart van de zanger. Dat heeft zijn broer Dean Saunders bekendgemaakt ..."
+        },
+        {
+          "title": "Uitvaart Ben Saunders vindt in besloten kring plaats",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/media/nieuws/uitvaart-ben-saunders/",
+          "publishedDate": "Tue, 22 Sep 2026 08:17:00 GMT",
+          "description": "De uitvaart van de vorige week overleden zanger Ben Saunders (43) vindt plaats in besloten kring. Alleen genodigden zijn welkom bij het afscheid. Dat meldt uitvaartverzorger Monuta namens de familie."
+        },
+        {
+          "title": "Familie Ben Saunders besluit niet aanwezig te zijn bij zijn uitvaart: ‘Deze keuze doet ontzettend veel pijn’",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/arnhem/familie-ben-saunders-besluit-niet-aanwezig-te-zijn-bij-zijn-uitvaart-deze-keuze-doet-ontzettend-veel-pijn~a33e725a/",
+          "publishedDate": "Tue, 22 Sep 2026 01:28:00 GMT",
+          "description": "De familie van Ben Saunders heeft ‘na lang en intensief overleg’ besloten om woensdag niet aanwezig te zijn bij zijn uitvaart. Dat laat zijn broer Dean Saunders dinsdagmiddag weten in een verklaring."
+        },
+        {
+          "title": "Fans kunnen zaterdag afscheid nemen van Ben Saunders",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/fans-kunnen-zaterdag-afscheid-nemen-van-ben-saunders",
+          "publishedDate": "Wed, 16 Sep 2026 15:21:00 GMT",
+          "description": "De familie van de overleden zanger Ben Saunders biedt fans zaterdag de mogelijkheid om afscheid van hem te nemen. Dat meldt zijn vriendin Janita op Instagram. Tussen 18.00 en 20.00 uur kunnen mensen t ..."
+        },
+        {
+          "title": "Familie bevestigt overlijden Ben Saunders (43): 'Nog nooit zo'n pijn ervaren'",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/gelderland-elst-ben-saunders-overleden-the-voice",
+          "publishedDate": "Wed, 16 Sep 2026 00:16:00 GMT",
+          "description": "Zanger en tatoeageartiest Ben Saunders is op 43-jarige leeftijd overleden. Zijn broer Dean maakte het verdrietige nieuws bekend. Saunders won in 2011 als eerste deelnemer The Voice of Holland."
+        }
+      ]
+    },
+    {
+      "keyword": "münchen",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Medewerker (52) Oktoberfest M&#252;nchen overleden na ongeval met kermisattractie",
+          "source": "ED.nl",
+          "url": "https://www.ed.nl/buitenland/medewerker-52-oktoberfest-munchen-overleden-na-ongeval-met-kermisattractie~a25b6672/",
+          "publishedDate": "Mon, 21 Sep 2026 17:35:00 GMT",
+          "description": "Een medewerker van een kermisattractie op het Oktoberfest in het Duitse M&#252;nchen is maandagavond overleden, nadat hij ernstig gewond was geraakt bij vermoedelijk een arbeidsongeval. De autoriteiten heb ..."
+        },
+        {
+          "title": "Medewerker Oktoberfest omgekomen bij ongeluk met gondel-attractie",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2631787-brobbey-schittert-met-hattrick-tegen-manchester-city-nieuwe-domper-united",
-          "publishedDate": "Sun, 20 Sep 2026 08:05:00 GMT",
-          "description": "Ondanks de drie doelpunten van Brian Brobbey verliest Sunderland met 5-3 van Manchester City, dat nu koploper is in de Premier League."
+          "url": "https://nos.nl/artikel/2631980-medewerker-oktoberfest-omgekomen-bij-ongeluk-met-gondel-attractie",
+          "publishedDate": "Mon, 21 Sep 2026 16:52:00 GMT",
+          "description": "Een medewerker van het Oktoberfest in M&#252;nchen is overleden na een ongeluk met een kermisattractie, meldt de politie van de Zuid-Duitse stad. Het gaat om een 52-jarige Servi&#235;r."
         },
         {
-          "title": "Brobbey voelt dat hij groeit als spits: 'Ik begreep de 10 die ik kreeg wel'",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/brobbey-voelt-dat-hij-groeit-als-spits-ik-begreep-de-10-die-ik-kreeg-wel/ar-AA2cMadd",
-          "publishedDate": "Tue, 22 Sep 2026 13:15:00 GMT",
-          "description": "Brian Brobbey voelt dat hij een completere spits aan het worden is, zo blijkt in een interview met ESPN. De aanvaller is op het voetbalveld meer dan ooit bezig met zijn directe omgeving en dat helpt h ..."
+          "title": "Bayern na moeizaam begin ruim langs Bod&#248;/Glimt, spectaculaire zeges Como en Lens",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2630494-bayern-na-moeizaam-begin-ruim-langs-bodo-glimt-spectaculaire-zeges-como-en-lens",
+          "publishedDate": "Thu, 10 Sep 2026 13:44:00 GMT",
+          "description": "Bayern M&#252;nchen komt moeizaam op gang tegen Bod&#248;/Glimt, maar wint met 5-0. Como verslaat RB Leipzig met 4-1 en Lens slaat in de slotfase bij Slavia Praag toe. Manchester United rekent af met debutant S ..."
         },
         {
-          "title": "Brian Brobbey wisselt om opmerkelijke reden van shirt tijdens wedstrijd",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/brobbey-wisselt-om-opmerkelijke-reden-van-shirt-tegen-mancjhester-city",
-          "publishedDate": "Tue, 22 Sep 2026 12:56:00 GMT",
-          "description": "Brian Brobbey wisselde tegen Manchester City opvallend van shirt. De Sunderland-spits koos na rust voor korte mouwen, mogelijk omdat R&#250;ben Dias hem in de eerste helft regelmatig bij zijn mouwen vastpa ..."
-        },
-        {
-          "title": "'Popeye Brobbey' klaar voor Duitsland: 'Hij schudt ze af als legopoppetjes'",
+          "title": "Kane looft hardwerkende Saibari na eerste goal voor Bayern",
           "source": "Voetbal International",
-          "url": "https://www.vi.nl/video/popeye-brobbey-klaar-voor-duitsland-hij-schudt-ze-af-als-legopoppetjes",
-          "publishedDate": "Tue, 22 Sep 2026 07:30:00 GMT",
-          "description": "Brian Brobbey was afgelopen zondag niet te stoppen. Manchester City-verdediger R&#250;ben Dias kreeg maar geen grip op hem. Dit keer was hij niet alleen belangrijk met zijn duels, maar ook met zijn doelpun ..."
+          "url": "https://www.vi.nl/video/kane-looft-hardwerkende-saibari-na-eerste-goal-voor-bayern",
+          "publishedDate": "Sat, 19 Sep 2026 06:35:00 GMT",
+          "description": "In de monsterzege op Union Berlin maakte voormalig PSV'er Ismael Saibari zijn eerste doelpunt in dienst van Bayern M&#252;nchen, topschutter Harry Kane ziet dat als een beloning voor al het harde werk dat ..."
         },
         {
-          "title": "Brobbey komt vol vertrouwen aan bij Oranje: 'Begreep wel dat ik een 10 kreeg'",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/brobbey-komt-vol-vertrouwen-aan-bij-oranje-begreep-wel-dat-ik-een-10-kreeg/ar-AA2cKlAr",
-          "publishedDate": "Tue, 22 Sep 2026 06:37:04 GMT",
-          "description": "Brian Brobbey blaakt van het zelfvertrouwen en mag dat in de komende weken laten zien bij het Nederlands elftal. De spits van Sunderland zag drie concurrenten in de spitspositie wegvallen en lijkt de ..."
+          "title": "Onverstoorbare Olise scoort meer dan Kane: nu wacht laagvlieger Union",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/onverstoorbare-olise-scoort-meer-dan-kane-nu-wacht-laagvlieger-union",
+          "publishedDate": "Fri, 18 Sep 2026 05:00:00 GMT",
+          "description": "ADVERTORIAL - Bayern M&#252;nchen neemt het vrijdag in de Bundesliga in eigen huis op tegen Union Berlin (aftrap om 20.30 uur). Der Rekordmeister is niet foutloos aan het seizoen begonnen, maar laat bij vl ..."
         },
         {
-          "title": "'Bij Ajax was Brobbey al na een uur op'",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/brobbey-maakt-ware-transformatie-door-bij-ajax-was-hij-al-na-een-uur-op/blta4c9376db42a5228",
-          "publishedDate": "Tue, 22 Sep 2026 05:30:00 GMT",
-          "description": "''Brian is niet per se fitter of sterker geworden'', benadrukt Woerst in gesprek met ESPN. ''Mensen zien het als extra fitheid - of dat hij sterker of volwassener is - maar hij is ook veel effici&#235;nter ..."
+          "title": "NS-Dokumentationszentrum M&#252;nchen",
+          "source": "muenchen",
+          "url": "https://www.muenchen.de/sehenswuerdigkeiten/museen/ns-dokumentationszentrum-muenchen",
+          "publishedDate": "Thu, 09 Jul 2026 04:22:00 GMT",
+          "description": "Das NS-Dokumentationszentrum M&#252;nchen erinnert am historischen Ort an die Verbrechen der NS-Diktatur und vermittelt die Geschichte des Nationalsozialismus mit Blick auf die Gegenwart und Zukunft. In ..."
         },
         {
-          "title": "Brian Brobbey nu veel effici&#235;nter: ‘Was bij Ajax na 60 minuten leeg’",
-          "source": "Voetbal4u",
-          "url": "https://www.voetbal4u.com/2026/09/22/brian-brobbey-nu-veel-efficienter-was-bij-ajax-na-60-minuten-leeg/",
-          "publishedDate": "Tue, 22 Sep 2026 00:30:00 GMT",
-          "description": "Vorig seizoen maakte Brian Brobbey de overstap van Ajax naar Sunderland. En sinds zijn overgang naar de club uit de Premier League is spits veel effici&#235;nter gaan spelen. Dit laat zijn Patrick Woerst t ..."
+          "title": "M&#252;nchen-Mythen: Irrt&#252;mer und andere Wahrheiten &#252;ber die Stadt",
+          "source": "Abendzeitung",
+          "url": "https://www.abendzeitung-muenchen.de/muenchen/muenchen-mythen-irrtuemer-und-andere-wahrheiten-ueber-die-stadt-art-795257",
+          "publishedDate": "Sat, 24 Dec 2022 06:55:00 GMT",
+          "description": "M&#252;nchen - Das Helle, die Brezn, der Englische Garten, die Schickeria, das Oktoberfest, der FC Bayern, die Bierg&#228;rten: Daf&#252;r und f&#252;r einiges anderes ist M&#252;nchen (welt-)bekannt. Doch um die Stadt ranken ..."
         },
         {
-          "title": "BBC deelt 10 uit aan Nederlandse Premier League-ster: 'Hij was verbluffend'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/brian-brobbey-engelse-media-hattrick-manchester-city-drogba",
-          "publishedDate": "Mon, 21 Sep 2026 02:41:00 GMT",
-          "description": "Brian Brobbey oogst enorme lof na zijn hattrick tegen Manchester City. The Athletic, BBC en Sky Sports prijzen de spits."
+          "title": "Citytrip M&#252;nchen: 9x bezienswaardigheden, hotel en tips",
+          "source": "reisleven",
+          "url": "https://reisleven.nl/citytrip-munchen-bezienswaardigheden-tips",
+          "publishedDate": "Thu, 15 Dec 2022 12:30:00 GMT",
+          "description": "M&#252;nchen is een stad die zich in ieder seizoen perfect leent voor een citytrip. Het is dichtbij, er is veel te zien, de stad heeft een rijke cultuur en geschiedenis, je hebt er Oktoberfest en er zijn ..."
+        },
+        {
+          "title": "M&#252;nchen: Lage, Geschichte, Wirtschaft und Politik von Stadt und Landkreis",
+          "source": "Merkur",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/muenchen-stadt-geschichte-lage-wirtschaft-fussball-sehenswuerdigkeiten-politik-90243682.html",
+          "publishedDate": "Tue, 29 Mar 2022 06:48:00 GMT",
+          "description": "M&#252;nchen – alle Infos zu der Lage, der Geschichte, der Wirtschaft und den Sehensw&#252;rdigkeiten der bayerischen Landeshauptstadt, die zugleich Sitz des umliegenden Landkreises M&#252;nchens ist. M&#252;nchen ist ..."
         }
       ]
     }
