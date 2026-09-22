@@ -1,113 +1,72 @@
 {
-  "fetchedAt": "2026-09-22T08:08:02.038Z",
+  "fetchedAt": "2026-09-22T13:32:08.325Z",
   "trends": [
     {
-      "keyword": "chatgpt",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Canadese provincie klaagt OpenAI aan om rol bij dodelijke schietpartij",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2631983-canadese-provincie-klaagt-openai-aan-om-rol-bij-dodelijke-schietpartij",
-          "publishedDate": "Mon, 21 Sep 2026 20:35:00 GMT",
-          "description": "Op 10 februari schoot de 18-jarige Jesse van Rootselaar acht mensen dood in de Canadese provincie, onder wie haar moeder en stiefbroer. Ze plande de aanslag met behulp van chatbot ChatGPT."
-        },
-        {
-          "title": "Groningse techondernemer gaat strijd aan met ChatGPT: 'Fuck it, ik bouw zelf wel iets'",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/binnenland/video/e502e83a-19ab-47a4-a0fb-515d9e7e81f2/groningse-jantine-34-bouwt-ai-chatbot",
-          "publishedDate": "Mon, 21 Sep 2026 17:00:00 GMT",
-          "description": "Amerikaanse AI-partijen zoals ChatGPT en Claude zijn oppermachtig. Europa speelt amper een rol. Jantine kon dat niet langer aanzien. Ze bouwde een Nederlands alternatief."
-        },
-        {
-          "title": "AI-topmannen waarschuwen: AI dreigt ons de baas te worden",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2630799-ai-topmannen-waarschuwen-ai-dreigt-ons-de-baas-te-worden",
-          "publishedDate": "Sun, 13 Sep 2026 04:08:00 GMT",
-          "description": "Met die waarschuwing komt de topman van Anthropic in een essay. Hij krijgt bijval van onder meer Elon Musk en OpenAI (ChatGPT)."
-        },
-        {
-          "title": "900 miljoen actieve gebruikers, maar niemand wil betalen: ‘inferieure’ gratis versie van ChatGPT krijgt advertenties",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/tech/900-miljoen-actieve-gebruikers-maar-niemand-wil-betalen-inferieure-gratis-versie-van-chatgpt-krijgt-advertenties~add3fec3/?slug_rd=1",
-          "publishedDate": "Fri, 21 Aug 2026 22:59:00 GMT",
-          "description": "ChatGPT krijgt advertenties. Vraag je de chatbot naar tips voor bijvoorbeeld een vakantie naar Rome? Dan kun je daar vanaf volgende week zomaar een pakketreis aangeboden krijgen. Moet wel, want OpenAI ..."
-        },
-        {
-          "title": "Nederlandse ChatGPT-gebruikers krijgen vanaf volgende week advertenties",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6406821/nederlandse-chatgpt-gebruikers-krijgen-vanaf-volgende-week-advertenties.html",
-          "publishedDate": "Wed, 19 Aug 2026 07:41:00 GMT",
-          "description": "OpenAI gaat vanaf volgende week advertenties tonen aan Nederlandse ChatGPT-gebruikers. Het bedrijf rolt de advertenties uit in 31 Europese landen, waaronder Nederland."
-        },
-        {
-          "title": "Ethische hackers breken binnen 72 uur in bij ChatGPT-maker OpenAI",
-          "source": "Belga on MSN",
-          "url": "https://www.msn.com/nl-be/financien/nieuws/ethische-hackers-breken-binnen-72-uur-in-bij-chatgpt-maker-openai/ar-AA2cuwWf",
-          "publishedDate": "Fri, 18 Sep 2026 05:00:00 GMT",
-          "description": "Ethische hackers wisten onlangs in te breken bij OpenAI, het bedrijf achter chatbot ChatGPT. Onderzoekers van het beveiligingsplatform Hacktron ontdekten twee kritieke kwetsbaarheden en wisten binnen ..."
-        },
-        {
-          "title": "Een op de drie Engelstalige internetpagina’s laatste jaren geschreven met ChatGPT of andere chatbots",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/tech-ai/een-op-de-drie-engelstalige-internetpagina-s-laatste-jaren-geschreven-met-chatgpt-of-andere-chatbots~ba014a3a/",
-          "publishedDate": "Mon, 14 Sep 2026 09:19:00 GMT",
-          "description": "Steeds meer teksten op internet zijn geschreven met behulp van kunstmatige intelligentie. Ruim een derde van de Engelstalige webpagina’s die na de lancering van ChatGPT online kwamen, bevat duidelijke ..."
-        },
-        {
-          "title": "Ontmoet ChatGPT-6 Astra: een supercomputer voor slechts $20",
-          "source": "BeInCrypto",
-          "url": "https://nl.beincrypto.com/openai-chatgpt-6-astra-agi-lancering/",
-          "publishedDate": "Thu, 03 Sep 2026 13:20:00 GMT",
-          "description": "OpenAI lanceerde GPT-6 Astra, het meest geavanceerde ChatGPT-model tot nu toe. Dit is wat het kan, hoe het zich verhoudt tot eerdere modellen en wat Plus-gebruikers krijgen voor $20."
-        },
-        {
-          "title": "Geschrapte vijfuurslimiet keert terug voor ChatGPT Plus-abonnees",
-          "source": "Tweakers",
-          "url": "https://tweakers.net/nieuws/251348/geschrapte-vijfuurslimiet-keert-terug-voor-chatgpt-plus-abonnees.html",
-          "publishedDate": "Tue, 25 Aug 2026 18:22:00 GMT",
-          "description": "OpenAI stelt voor Plus-abonnees weer een vijfuurslimiet in voor het gebruik van zijn AI-agent ChatGPT Work en programmeertool Codex. Dat gebeurt vanaf dinsdag, schrijft Thibault Sottiaux, hoofd van Co ..."
-        },
-        {
-          "title": "ChatGPT gebruiken? Vanaf volgende week toont chatbot ook in Belgi&#235; reclame",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/19/chatgpt-reclame/",
-          "publishedDate": "Wed, 19 Aug 2026 05:04:00 GMT",
-          "description": "Begin dit jaar rolde OpenAI reclame in ChatGPT al uit in de Verenigde Staten, waarna nog 8 andere markten volgden. Gebruikers krijgen de advertenties alleen te zien bij de gratis versie of de ..."
-        }
-      ]
-    },
-    {
       "keyword": "hyves",
-      "trafficLabel": "5K+",
+      "trafficLabel": "20K+",
       "articles": [
+        {
+          "title": "Hyves is terug: krabbels, dansende bananen en geen verslavende algoritmes",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/tech/6410543/sociaal-netwerk-hyves-22-jaar-na-oprichting-terug-gezelligheid-is-de-basis.html",
+          "publishedDate": "Tue, 22 Sep 2026 01:12:00 GMT",
+          "description": "Het platform Hyves is 22 jaar na de oprichting van het sociale netwerk weer terug. Volgens eigenaar Mediahuis is er een behoefte aan sociale media met &quot;minder opdringerige advertenties, geen verslaven ..."
+        },
         {
           "title": "Pimp je profiel en 'krabbel' elkaar: Hyves maakt na 13 jaar een comeback",
           "source": "NOS",
           "url": "https://nos.nl/artikel/2631990-pimp-je-profiel-en-krabbel-elkaar-hyves-maakt-na-13-jaar-een-comeback",
-          "publishedDate": "Mon, 21 Sep 2026 17:00:00 GMT",
+          "publishedDate": "Mon, 21 Sep 2026 23:03:00 GMT",
           "description": "Hyves, ooit de grootste en populairste socialenetwerksite van Nederland, keert na 13 jaar terug. Mediahuis Nederland, krantenuitgever van onder meer NRC en De Telegraaf, brengt de voor velen nostalgis ..."
         },
         {
-          "title": "Een dansende banaan, elkaar krabbelen: Hyves is terug",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/09/22/een-dansende-banaan-elkaar-krabbelen-hyves-is-terug-a4937239",
-          "publishedDate": "Mon, 21 Sep 2026 12:11:00 GMT",
-          "description": "Het is een trip down memory lane voor velen: Hyves, het Nederlandse socialemediaplatform waar ooit ieder&#233;&#233;n op leek te zitten. Na dertien jaar is het weer terug. Hyves roept voor velen nostalgie op: d ..."
+          "title": "Hyves is terug: zo zet je het nostalgische sociale netwerk als app op je smartphone",
+          "source": "Androidworld",
+          "url": "https://androidworld.nl/tips/hyves-is-terug-zo-zet-je-het-nostalgische-sociale-netwerk-als-app-op-je-smartphone/",
+          "publishedDate": "Tue, 22 Sep 2026 04:58:00 GMT",
+          "description": "Hyves is terug! Deze keer echt en je kunt nu een eigen account maken. Een offici&#235;le app is er nog niet, maar op deze manier toch een beetje."
         },
         {
-          "title": "In de pers: Hyves is terug na dertien jaar &amp; Nederland loopt megaproject van datacenterbedrijf mis",
-          "source": "Quote",
-          "url": "https://www.quotenet.nl/zakelijk/a73829944/hyves-terug-nederland-dansende-banaan/",
-          "publishedDate": "Tue, 22 Sep 2026 00:13:00 GMT",
-          "description": "Verder in ons nieuwsoverzicht: Quote 500-familie Van Wanrooij doet haar hele belang in bouwbedrijf Heijmans in de verkoop en Hanos-baas annex Quote 500-lid Jan van der Horst verkrijgt mogelijk een vis ..."
+          "title": "Krabbels en dansende banaan zijn terug: ooit zo’n 80.000 Hyves accounts in Zwolle",
+          "source": "RTV Focus Zwolle",
+          "url": "https://www.rtvfocuszwolle.nl/hyves-terug-sociaal-netwerk-aanmelden-mediahuis/",
+          "publishedDate": "Tue, 22 Sep 2026 02:46:00 GMT",
+          "description": "Hyves is na bijna dertien jaar terug. Krabbels, WieWatWaar en de dansende banaan keren terug, maar nieuwe gebruikers worden maar mondjesmaat toegelaten."
         },
         {
-          "title": "Hyves keert terug, maar richt zich niet alleen op nostalgische oud-gebruikers",
-          "source": "Het Financieele Dagblad",
-          "url": "https://fd.nl/bedrijfsleven/1612862/hyves-keert-terug-maar-richt-zich-niet-alleen-op-nostalgische-oud-gebruikers",
-          "publishedDate": "Tue, 22 Sep 2026 00:02:00 GMT",
-          "description": "U heeft browser notificaties voor fd.nl eerder geweigerd. Ga naar browser instellingen en sta browser notificaties toe voor fd.nl. De precieze handelingen zijn afhankelijk van uw browser."
+          "title": "Hyves is terug na 13 jaar – en je kunt n&#250; een account aanmaken",
+          "source": "iPhoned",
+          "url": "https://www.iphoned.nl/tips/hyves-is-terug/",
+          "publishedDate": "Tue, 22 Sep 2026 01:58:00 GMT",
+          "description": "Hyves is na 13 jaar terug van weggeweest – je kunt per direct opnieuw een account aanmaken en ontdekken wat er nog van is overgebleven."
+        },
+        {
+          "title": "Hyves keert na dertien jaar terug als sociaal netwerk",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/economie/hyves-keert-na-dertien-jaar-terug-als-sociaal-netwerk",
+          "publishedDate": "Tue, 22 Sep 2026 01:17:00 GMT",
+          "description": "AMSTERDAM (ANP) - Hyves is na dertien jaar terug als sociaal netwerk. Eigenaar Mediahuis, bekend van kranten als De Telegraaf en De Limburger, denkt dat er in Nederland behoefte is aan een alternatief ..."
+        },
+        {
+          "title": "Hyves blijkt niet uitgekrabbeld en keert na dertien jaar terug",
+          "source": "Tweakers",
+          "url": "https://tweakers.net/nieuws/252432/hyves-blijkt-niet-uitgekrabbeld-en-keert-na-dertien-jaar-terug.html",
+          "publishedDate": "Tue, 22 Sep 2026 01:14:00 GMT",
+          "description": "Dertien jaar na het einde van Hyves is het weer mogelijk om te krabbelen. Eigenaar Mediahuis brengt de Nederlandse socialenetwerksite terug, naar eigen zeggen omdat er behoefte is aan een Europees soc ..."
+        },
+        {
+          "title": "Hyves is terug, maar kun je ook met je oude profiel inloggen?",
+          "source": "JFK",
+          "url": "https://jfk.men/news/hyves-is-terug-in-nederland-wat-is-er-nieuw-app-2026/",
+          "publishedDate": "Tue, 22 Sep 2026 01:01:00 GMT",
+          "description": "Hyves is terug, maar kun je ook met je oude profiel inloggen? Ontdek hier wat er allemaal nieuw is. Niet iedereen kan zich direct aanmelden."
+        },
+        {
+          "title": "Instagram, Facebook, Snapchat en TikTok zitten in het verdomhoekje, daar speelt Hyves slim op in",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/binnenland/instagram-facebook-snapchat-en-tiktok-zitten-in-het-verdomhoekje-daar-speelt-hyves-slim-op-in~aa280eb3/",
+          "publishedDate": "Mon, 21 Sep 2026 22:39:00 GMT",
+          "description": "Hyves? Dat was een schim uit het verleden, een sociaal netwerk van voordat we massaal op Facebook overstapten. De tijden zijn veranderd. De &lt;a href=&quot;https://www.ad.nl/tech/hyves-is-terug-en-wil-de-con ..."
         },
         {
           "title": "Hyves is terug van weggeweest: dit kun je er weer mee",
@@ -115,600 +74,669 @@
           "url": "https://www.hartvannederland.nl/tech/nieuws/artikelen/hyves-terug-krabbels-dansende-banaan-sociaal-netwerk",
           "publishedDate": "Mon, 21 Sep 2026 21:10:00 GMT",
           "description": "Hyves is terug van weggeweest. Precies 22 jaar na de geboorte van het Nederlandse sociale netwerk blaast Mediahuis Nederland het platform nieuw leven in. Veel bekende functies uit de hoogtijdagen kere ..."
-        },
-        {
-          "title": "Hyves is na 13 jaar terug en millennials worden nostalgisch: dit is waarom je brein zo naar vroeger verlangt",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/lifestyle/tech/2026/09/hyves-is-terug-millennials-terugverlangen-digitale-jeugd/",
-          "publishedDate": "Mon, 21 Sep 2026 17:00:00 GMT",
-          "description": "Hyves is terug! En geef toe: bij ‘krabbelen’, glitterplaatjes en de dansende banaan voel je meteen &#237;&#233;ts. Maar waarom verlangen millennials zo massaal terug naar hun digitale jeugd? Experts leggen uit ..."
-        },
-        {
-          "title": "Hyves is na dertien jaar terug: binnen enkele uren staan duizenden Nederlanders in de rij",
-          "source": "RTV Focus Zwolle",
-          "url": "https://www.rtvfocuszwolle.nl/hyves-terug-sociaal-netwerk-aanmelden-mediahuis/",
-          "publishedDate": "Mon, 21 Sep 2026 12:46:00 GMT",
-          "description": "Hyves is na bijna dertien jaar terug. Krabbels, WieWatWaar en de dansende banaan keren terug, maar nieuwe gebruikers worden maar mondjesmaat toegelaten."
-        },
-        {
-          "title": "Radio-dj Barry Paf volgt Jan Paparazzi op als gezicht van Hyves",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/radio-dj-barry-paf-volgt-jan-paparazzi-op-als-gezicht-van-hyves",
-          "publishedDate": "Mon, 21 Sep 2026 12:29:00 GMT",
-          "description": "Het gezicht van radio-dj Barry Paf is voortaan op het teruggekeerde onlineplatform Hyves te zien bij profielen zonder foto. Dat meldt radiozender 100% NL dinsdag. In het verleden was die rol weggelegd ..."
-        },
-        {
-          "title": "Krabbelen maar: het oude Hyves is terug (ook met een eigen app)",
-          "source": "iCulture",
-          "url": "https://www.iculture.nl/nieuws/hyves-sociaal-netwerk-terug/",
-          "publishedDate": "Mon, 21 Sep 2026 12:14:00 GMT",
-          "description": "Groot nieuws van eigen bodem: het geliefde Nederlandse sociale netwerk Hyves is weer terug. Exact 22 jaar na de oprichting kun je weer krabbelen, dansende banenen versturen en meer."
-        },
-        {
-          "title": "Hyves is terug na 13 jaar – en je kunt n&#250; een account aanmaken",
-          "source": "iPhoned",
-          "url": "https://www.iphoned.nl/tips/hyves-is-terug/",
-          "publishedDate": "Mon, 21 Sep 2026 11:59:00 GMT",
-          "description": "Hyves is na 13 jaar terug van weggeweest – je kunt per direct opnieuw een account aanmaken en ontdekken wat er nog van is overgebleven."
         }
       ]
     },
     {
-      "keyword": "paulien cornelisse",
+      "keyword": "het parool",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Tijdens WorldPride 38 meldingen van fysiek geweld: mensen bespuugd, bekogeld en geschopt",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/tijdens-worldpride-38-meldingen-van-fysiek-geweld-mensen-bespuugd-bekogeld-en-geschopt~bc1d0d7a/",
+          "publishedDate": "Tue, 22 Sep 2026 05:53:00 GMT",
+          "description": "De meeste meldingen die bij het meldpunt Rita werden gedaan rond de WorldPride in Amsterdam gingen over uitschelden en beledigen. In 38 meldingen beschreven mensen hoe ze werden bespuugd, bekogeld of ..."
+        },
+        {
+          "title": "Brussel wil stroom goedkope producten indammen en dus worden pakketjes van buiten de EU weer duurder",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/wereld/brussel-wil-stroom-goedkope-producten-indammen-en-dus-worden-pakketjes-van-buiten-de-eu-weer-duurder~bc2f55fa/",
+          "publishedDate": "Tue, 22 Sep 2026 05:49:00 GMT",
+          "description": "Consumenten die een pakketje van buiten de Europese Unie bestellen, moeten vanaf november een afhandelingsvergoeding van 2 euro betalen. De vergoeding komt boven op de taks van 3 euro die sinds deze z ..."
+        },
+        {
+          "title": "Warme lucht komt naar Nederland: zeldzame temperaturen mogelijk voor begin oktober",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/nederland/warme-lucht-komt-naar-nederland-zeldzame-temperaturen-mogelijk-voor-begin-oktober~bf3f2477/",
+          "publishedDate": "Tue, 22 Sep 2026 05:08:00 GMT",
+          "description": "Volgende week is er kans op zeldzaam warm herfstweer aan het begin van oktober. Door de aanvoer van warme lucht vanuit het zuiden kunnen de temperaturen in Nederland flink stijgen, met in het zuiden z ..."
+        },
+        {
+          "title": "Met drie kandidaten van kleur bij ‘De slimste mens’ kwamen de toetsenbordridders meteen in actie",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/han-lips/met-drie-kandidaten-van-kleur-bij-de-slimste-mens-kwamen-de-toetsenbordridders-meteen-in-actie~b5b1b873/",
+          "publishedDate": "Tue, 22 Sep 2026 00:41:00 GMT",
+          "description": "In de rubriek Han Lips schrijven verschillende redacteuren van Het Parool elke dag over wat hun opvalt op tv. Vandaag: De slimste mens."
+        },
+        {
+          "title": "Kraanwater in Amsterdam bevat ruim twee keer zoveel pfas als het RIVM adviseert",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/kraanwater-in-amsterdam-bevat-ruim-twee-keer-zoveel-pfas-als-het-rivm-adviseert~ba7332bc/",
+          "publishedDate": "Tue, 22 Sep 2026 00:41:00 GMT",
+          "description": "In een groot deel van Zuid-Holland en Noord-Holland bevat het drinkwater meer pfas dan het RIVM adviseert. In Amsterdam ligt de concentratie zelfs meer dan twee keer zo hoog als de advieswaarde. Toch ..."
+        },
+        {
+          "title": "Weduwnaar Ivo (74) ontvangt 4138 euro per maand en denkt na over wat hij nalaat: ‘Mijn dochters hebben het al goed’",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/eind-van-de-maand/weduwnaar-ivo-74-ontvangt-4138-euro-per-maand-en-denkt-na-over-wat-hij-nalaat-mijn-dochters-hebben-het-al-goed~b6d33ac8/",
+          "publishedDate": "Mon, 21 Sep 2026 19:59:00 GMT",
+          "description": "Ivo Steinebach is een gepensioneerde weduwnaar. Hij komt rond van 4138 euro per maand. Zijn appartement is afbetaald en hij vraagt zich af of zijn dochters het wel moeten erven. ‘Ze hebben het niet no ..."
+        },
+        {
+          "title": "Eddy Posthuma de Boer fotografeerde meer dan een halve eeuw lang fietsers in Amsterdam",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/ps/eddy-posthuma-de-boer-fotografeerde-meer-dan-een-halve-eeuw-lang-fietsers-in-amsterdam~b2871ef1/",
+          "publishedDate": "Mon, 21 Sep 2026 19:59:00 GMT",
+          "description": "De fietsfoto’s van Eddy Posthuma de Boer (1931-2021) vertellen het verhaal van de Amsterdamse fietser, maar ook dat van de ontwikkeling van de stad. In het boek Amsterdam: City of Bikes wordt de ‘homo ..."
+        },
+        {
+          "title": "Charismatische leiders op uiterst links en rechts profiteren van de groeiende polarisatie in Duitsland",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/wereld/charismatische-leiders-op-uiterst-links-en-rechts-profiteren-van-de-groeiende-polarisatie-in-duitsland~bee3a766/",
+          "publishedDate": "Mon, 21 Sep 2026 19:59:00 GMT",
+          "description": "Bondskanselier Friedrich Merz ligt onder vuur na opnieuw twee verkiezingsnederlagen. Ook Duitsland ontkomt niet aan de internationale trend: het politieke centrum verschrompelt en charismatische leide ..."
+        },
+        {
+          "title": "Gezondheidsraad tegen structureel invoeren 13 wekenecho",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/nederland/gezondheidsraad-tegen-structureel-invoeren-13-wekenecho~b30e3092/",
+          "publishedDate": "Mon, 21 Sep 2026 18:04:00 GMT",
+          "description": "De Gezondheidsraad adviseert tegen het structureel invoeren van de 13 wekenecho, een prenatale screening die bedoeld is om ernstige afwijkingen onder ongeboren kinderen op te sporen. Uit onderzoek van ..."
+        },
+        {
+          "title": "schrijft drie keer per week een column voor Het Parool",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/columns-opinie/opeens-werd-ze-doodziek-ze-had-van-een-bos-bloemen-gegeten-en-die-kunnen-dus-giftig-zijn-ja-wist-ik-veel~b1111822/",
+          "publishedDate": "Mon, 21 Sep 2026 18:00:00 GMT",
+          "description": "Ik was een grote dierenwinkel binnengelopen om boodschappen te doen voor mijn poes. Dat kan ze namelijk niet zelf. Gelukkig maar, want als ze dat w&#233;l kon zou ze honderd zakjes ‘liquid snack’ uit de sc ..."
+        }
+      ]
+    },
+    {
+      "keyword": "john van &#39;t schip",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Van 't Schip belandde via vriend in Kazachstan: 'Sta altijd open voor avontuur'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6409968/van-t-schip-belandde-via-vriend-in-kazachstan-sta-altijd-open-voor-avontuur.html",
+          "publishedDate": "Mon, 21 Sep 2026 23:01:00 GMT",
+          "description": "John van 't Schip voegt als bondscoach van Kazachstan een kleurrijk hoofdstuk toe aan zijn trainerscarri&#232;re. De 62-jarige coach werkt de komende maanden vanuit Astana toe naar een goede Nations League ..."
+        },
+        {
+          "title": "John van 't Schip (62) openhartig over bijzonder besluit na overlijden Dani&#235;lle: 'Ik kom niet verder'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/john-van-t-schip-62-openhartig-over-bijzonder-besluit-na-overlijden-danielle-ik-kom-niet-verder-2026092205020264082/",
+          "publishedDate": "Tue, 22 Sep 2026 00:32:00 GMT",
+          "description": "John van 't Schip heeft een aantal turbulente jaren achter de rug. Bijna drie jaar geleden verloor hij Dani&#235;lle, zijn grote liefde, aan de gevolgen van kanker. De gevolgen waren groot in het leven van ..."
+        },
+        {
+          "title": "John van 't Schip openhartig over overlijden Dani&#235;lle (55): 'John, &#233;&#233;n ding...'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/john-van-t-schip-openhartig-over-overlijden-danielle-een-ding",
+          "publishedDate": "Mon, 21 Sep 2026 22:55:00 GMT",
+          "description": "John van 't Schip vertelt in podcast Ekiz &amp; Oei over het advies van zijn overleden vrouw Dani&#235;lle Oonk rondom zijn interim-aanstelling bij Ajax."
+        },
+        {
+          "title": "FOTO'S: John van 't Schip verkoopt villa met winst van vijf ton",
+          "source": "Ajax1.nl",
+          "url": "https://www.ajax1.nl/fotos-john-van-t-schip-verkoopt-villa-met-winst-van-vijf-ton/",
+          "publishedDate": "Wed, 16 Sep 2026 11:37:00 GMT",
+          "description": "Lees nu | De website Bekende Buren meldt dat voormalig Ajax- en FC Twente-trainer John van 't Schip goede zaken op de woningmarkt heeft gedaan."
+        },
+        {
+          "title": "John van 't Schip vindt bijna drie jaar na overlijden Dani&#235;lle nieuwe liefde",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/john-van-t-schip-vindt-bijna-drie-jaar-na-overlijden-danielle-nieuwe-liefde",
+          "publishedDate": "Mon, 14 Sep 2026 04:58:00 GMT",
+          "description": "John van 't Schip vindt na het verlies van Dani&#235;lle nieuwe liefde in Natasha. Ondertussen wordt hij opa, want zijn dochter Estelle is zwanger van een meisje."
+        },
+        {
+          "title": "John van 't Schip weer gelukkig in de liefde: 'We hebben het heel leuk samen'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/media/goed-nieuws/john-van-t-schip-nieuwe-liefde/",
+          "publishedDate": "Sun, 13 Sep 2026 17:00:00 GMT",
+          "description": "John van ’t Schip is weer gelukkig in de liefde. De voetbaltrainer nam in 2023 afscheid van zijn overleden vrouw Dani&#235;lle. Sinds deze zomer heeft hij een relatie met Natasha. “We kennen elkaar al veel ..."
+        },
+        {
+          "title": "John van 't Schip (62) heeft heuglijk nieuws: 'We hebben het heel leuk samen!'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/john-van-t-schip-heeft-heuglijk-nieuws-we-hebben-het-leuk-samen",
+          "publishedDate": "Sun, 13 Sep 2026 14:29:00 GMT",
+          "description": "John van 't Schip heeft opnieuw geluk in de liefde. De bondscoach van Kazachstan heeft sinds juli een relatie met Natasha (50), zo vertelt zij aan Priv&#233;."
+        },
+        {
+          "title": "Toptrainer John van 't Schip na overlijden van Dani&#235;lle weer verliefd: 'We kennen elkaar al veel langer'",
+          "source": "sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/toptrainer-john-van-t-schip-na-overlijden-van-danielle-weer-verliefd-we-kennen-elkaar-al-veel-langer-2026091318251438451/",
+          "publishedDate": "Sun, 13 Sep 2026 13:43:00 GMT",
+          "description": "Het zijn mooie tijden voor John van 't Schip. De voetbaltrainer wordt over een aantal maanden opa. Dat maakte zijn dochter Estelle zondag bekend. Maar er was meer nieuws binnen de familie, want de ..."
+        },
+        {
+          "title": "John van 't Schip wordt bondscoach Kazachstan",
+          "source": "Vi",
+          "url": "https://www.vi.nl/nieuws/john-van-t-schip-wordt-bondscoach-kazachstan",
+          "publishedDate": "Fri, 07 Aug 2026 04:47:00 GMT",
+          "description": "John van 't Schip heeft een nieuwe functie te pakken. De 62-jarige trainer wordt de nieuwe bondscoach van Kazachstan. Dat maakte de Kazachstaanse bond KFF vrijdagochtend bekend. Van 't Schip was ..."
+        },
+        {
+          "title": "Van 't Schip voelde niets voor door Ajax aangeboden functie",
+          "source": "Vi",
+          "url": "https://www.vi.nl/nieuws/waarom-john-van-t-schip-vertrok-bij-ajax",
+          "publishedDate": "Sun, 21 Sep 2025 03:48:00 GMT",
+          "description": "John van 't Schip kijkt met gemengde gevoelens terug op zijn periode als interim-trainer van Ajax. Hij werd na het vertrek van Maurice Steijn op tijdelijke basis aangesteld en zou daarna een functie ..."
+        }
+      ]
+    },
+    {
+      "keyword": "temperatuur",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Paulien Cornelisse draagt mutsje in De slimste mens na chemotherapie: 'Een pruik wilde ik absoluut niet'",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/artikel/5654588/paulien-cornelisse-draagt-mutsje-de-slimste-mens-na-chemotherapie",
-          "publishedDate": "Mon, 21 Sep 2026 12:49:00 GMT",
-          "description": "Een nieuw seizoen van 'De slimste mens' is maandag van start gegaan en daarmee zijn presentator Herman van der Zandt (52) en jurylid Paulien Cornelisse (50) weer van de partij. Paulien ziet er dit sei ..."
+          "title": "Temperatuur gaat volgende week flink stijgen: kans op wel 25 graden",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/binnenland/6410184/temperatuur-gaat-volgende-week-flink-stijgen-kans-op-wel-25-graden.html",
+          "publishedDate": "Fri, 18 Sep 2026 04:26:00 GMT",
+          "description": "In het weekend krijgen we te maken met wisselvallig weer. Er zijn droge periodes met af en toe zon, maar er kunnen ook flinke regenbuien vallen. Volgende week wordt het warmer. In het zuiden kan de te ..."
         },
         {
-          "title": "Paulien Cornelisse duikt op met blauw mutsje in De slimste mens: ‘Pruik wilde ik absoluut niet’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/paulien-cornelisse-duikt-op-met-blauw-mutsje-in-de-slimste-mens-pruik-wilde-ik-absoluut-niet~aa880fe2/",
-          "publishedDate": "Mon, 21 Sep 2026 05:47:00 GMT",
-          "description": "Presentator Herman van der Zandt draaide er maandagavond niet omheen toen hij de eenkoppige jury van De slimste mens voorstelde bij de start van een gloednieuw seizoen: „Vallen we maar meteen met de d ..."
+          "title": "Zomer 2026 is de warmste ooit gemeten in Nederland",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628446-zomer-2026-is-de-warmste-ooit-gemeten-in-nederland",
+          "publishedDate": "Thu, 27 Aug 2026 00:00:00 GMT",
+          "description": "NOS gebruikt Functionele en Analytische cookies voor website optimalisatie en statistieken."
         },
         {
-          "title": "Paulien Cornelisse vertelt in 'De slimste mens' openhartig over ziekte: 'Wil geen pruik'",
-          "source": "vandaaginside",
-          "url": "https://www.vandaaginside.nl/media/tv-programmas/artikelen/paulien-cornelisse-vertelt-in-de-slimste-mens-openhartig-over-ziekte-wil-ge",
-          "publishedDate": "Tue, 22 Sep 2026 00:13:00 GMT",
-          "description": "Paulien Cornelisse (50) heeft in de eerste uitzending van het nieuwe seizoen van De slimste mens een update gegeven over haar gezondheid. Bij het jurylid werd in 2024 kanker vastgesteld. Zie video ..."
+          "title": "Weer Hoeksche Waard: droge dinsdag met zon en 20 graden",
+          "source": "Hoeksche Waard Nieuws",
+          "url": "https://www.hoekschnieuws.nl/weer-hoeksche-waard-dinsdag-22-september/",
+          "publishedDate": "Mon, 21 Sep 2026 16:20:00 GMT",
+          "description": "Dinsdag 22 september blijft het in de Hoeksche Waard waarschijnlijk droog. De zon laat zich geregeld zien en het wordt ongeveer 20 graden ..."
         },
         {
-          "title": "Paulien Cornelisse verschijnt met blauw mutsje in 'De Slimste Mens': 'Goed om het even te benoemen'",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/media/nieuws/paulien-cornelisse-de-slimse-mens/",
-          "publishedDate": "Mon, 21 Sep 2026 17:00:00 GMT",
-          "description": "“Het is goed om het even te benoemen”, antwoordde ze. In augustus 2024 maakte ze bekend dat ze kanker heeft. Als gevolg daarvan moest ze haar theatertournee voor haar voorstelling Komma annuleren, ..."
+          "title": "Draagbare temperatuur- en vochtigheidsmeter: Gebruiksklare modules",
+          "source": "Elektor Magazine",
+          "url": "https://www.elektormagazine.nl/articles/draagbare-temperatuur-en-vochtigheidsmeter",
+          "publishedDate": "Mon, 14 Sep 2026 16:59:00 GMT",
+          "description": "Bouw op een eenvoudige manier moderne elektronica: combineer kant-en-klare modules met een beetje bedrading en software om een compleet nieuw apparaat te m ..."
         },
         {
-          "title": "Paulien Cornelisse open over gezondheid in De Slimste Mens: 'Blijdschap overheerst'",
-          "source": "TVgids.nl",
-          "url": "https://www.tvgids.nl/nieuws/actueel/paulien-cornelisse-open-over-gezondheid-in-de-slimste-mens-blijdschap-overheerst",
-          "publishedDate": "Mon, 21 Sep 2026 16:16:00 GMT",
-          "description": "Het was een bijzondere start van het nieuwe seizoen van De Slimste Mens vanavond bij NPO1: Paulien Cornelisse vertelde open over haar gezondheid aan presentator Herman van der Zandt. 'Onwijze blijdsch ..."
+          "title": "Zinderende hitte vandaag: temperatuur voelt lokaal als 43 graden",
+          "source": "Culturu",
+          "url": "https://www.culturu.com/nieuws/suriname/zinderende-hitte-vandaag-temperatuur-voelt-lokaal-als-43-graden/",
+          "publishedDate": "Wed, 09 Sep 2026 09:24:00 GMT",
+          "description": "In Paramaribo loopt de temperatuur op tot ongeveer 33 graden, maar door de vochtige lucht kan het aanvoelen als 37 graden. In het binnenland wordt het nog warmer. Daar kan de gevoelstemperatuur lokaal ..."
         },
         {
-          "title": "Paulien Cornelisse vertelt in De slimste mens over haar ziekte: 'Wil geen pruik'",
-          "source": "NU",
-          "url": "https://www.nu.nl/media/6410532/paulien-cornelisse-vertelt-in-de-slimste-mens-over-haar-ziekte-wil-geen-pruik.html",
-          "publishedDate": "Mon, 21 Sep 2026 15:19:00 GMT",
-          "description": "Paulien Cornelisse heeft maandag in de eerste aflevering van het nieuwe seizoen van De slimste mens verteld hoe het met haar gaat. Ze droeg een blauw mutsje, omdat ze door de behandeling tegen kanker ..."
+          "title": "Slimme koortsthermometers om je temperatuur te meten",
+          "source": "iCulture",
+          "url": "https://www.iculture.nl/gids/slimme-thermometers/",
+          "publishedDate": "Tue, 08 Sep 2026 17:01:00 GMT",
+          "description": "Wil je je temperatuur in de gaten houden, dan kun je een gewone thermometer gebruiken. Maar met een slimme thermometer kun je ook nog de temperatuur over langere tijd bijhouden en de data ..."
         },
         {
-          "title": "Paulien Cornelisse vertelt in De slimste mens over gevolgen van chemotherapie",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/tv/spelprogrammas/artikelen/paulien-cornelisse-chemotherapie-de-slimste-mens",
-          "publishedDate": "Mon, 21 Sep 2026 13:26:00 GMT",
-          "description": "Paulien Cornelisse vertelt in De slimste mens waarom ze dit seizoen een mutsje draagt. De schrijfster en tv-maker verloor door chemotherapie haar haar."
+          "title": "‘Timmerflotte wordt IKEA’s eerste temperatuur- en luchtvochtigheidssensor met Thread’",
+          "source": "iCulture",
+          "url": "https://www.iculture.nl/nieuws/ikea-timmerflotte-thread-sensor-temperatuur/",
+          "publishedDate": "Wed, 27 Aug 2025 01:49:00 GMT",
+          "description": "Recent is bij de FCC een nieuw product van IKEA opgedoken: de Timmerflotte. Dit puckvormige apparaat is een draadloze sensor die de temperatuur en luchtvochtigheid in huis meet. Het is IKEA's eerste ..."
         },
         {
-          "title": "Paulien Cornelisse openhartig over chemotherapie: ‘Het wisselt een beetje per dag’",
-          "source": "Weekblad Party",
-          "url": "https://weekbladparty.nl/paulien-cornelisse-openhartig-over-chemotherapie-het-wisselt-een-beetje-per-dag/",
-          "publishedDate": "Mon, 21 Sep 2026 13:00:00 GMT",
-          "description": "Paulien Cornelisse is na een ingrijpende periode terug in De slimste mens. Bij de schrijfster en tv-maker werd in 2024 kanker vastgesteld."
-        },
-        {
-          "title": "Seizoen 28 aflevering 1/35Uitdagers: Kefah Allush, Wina Ricardo en Nienke van Dijk",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/tv-gids/npo-1/uitzending/aflevering/a74b0c62-2968-40c5-beea-939b162a9583",
-          "publishedDate": "Sun, 20 Sep 2026 17:00:00 GMT",
-          "description": "Quiz (2026) waarin bekende Nederlanders het tegen elkaar opnemen, gepresenteerd door Herman van der Zandt, die wordt bijgestaan door juryvoorzitter Paulien Cornelisse Op alle artikelen, foto's en vide ..."
-        },
-        {
-          "title": "Paulien Cornelisse volgt Maarten van Rossem op als jurylid van De slimste mens",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/show/paulien-cornelisse-volgt-maarten-van-rossem-op-als-jurylid-van-de-slimste-mens~a8d6338a/",
-          "publishedDate": "Mon, 21 Apr 2025 23:30:00 GMT",
-          "description": "Paulien Cornelisse (49) gaat straks samen met presentator Herman van der Zandt (50) het nieuwe duo vormen van De slimste mens. De winterreeks (van 2024 op 2025) was de laatste onder leiding van ..."
+          "title": "Centraal Nederland Temperatuur",
+          "source": "knmi",
+          "url": "https://www.knmi.nl/kennis-en-datacentrum/uitleg/centraal-nederland-temperatuur",
+          "publishedDate": "Thu, 14 Jan 2016 03:30:00 GMT",
+          "description": "De Centraal Nederland Temperatuur biedt een beschrijving van de temperatuur. Metingen uit het verleden zijn hierdoor vergelijkbaar met de huidige. Hoe de temperatuur in Nederland veranderd is, weten ..."
         }
       ]
     },
     {
-      "keyword": "google",
+      "keyword": "münchen",
       "trafficLabel": "2K+",
       "articles": [
         {
-          "title": "Google doet grootste Europese investering ooit in Fins AI-datacenter",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6409146/google-doet-grootste-europese-investering-ooit-in-fins-ai-datacenter.html",
-          "publishedDate": "Wed, 09 Sep 2026 04:29:00 GMT",
-          "description": "Google investeert 13 miljard euro in nieuwe AI-datacenters en digitale infrastructuur in Finland. Het is de grootste investering die Google ooit in Europa heeft gedaan, meldt moederbedrijf Alphabet."
+          "title": "Kermismedewerker overlijdt na ongeluk met attractie Oktoberfest M&#252;nchen",
+          "source": "RTL Nieuws (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/kermismedewerker-overlijdt-na-ongeluk-met-attractie-oktoberfest-m%C3%BCnchen/ar-AA2cHV7o",
+          "publishedDate": "Mon, 21 Sep 2026 18:46:10 GMT",
+          "description": "In het Duitse M&#252;nchen is maandagavond een 52-jarige medewerker van een kermisattractie van het Oktoberfest om het leven gekomen. De man werkte volgens de S&#252;ddeutsche Zeitung bij de Hangover, een vrije ..."
         },
         {
-          "title": "Google rolls out first Fitbit Air firmware update [U]",
-          "source": "9to5google.com",
-          "url": "https://9to5google.com/2026/07/23/first-fitbit-air-update/",
-          "publishedDate": "Thu, 23 Jul 2026 14:05:00 GMT",
-          "description": "Following two big Google Health app updates, the Fitbit Air is getting its first post-launch firmware update. Update 7/23: Google today published a blog post about firmware version 253.2 with full ..."
+          "title": "Medewerker (52) Oktoberfest M&#252;nchen overleden na ongeval met kermisattractie",
+          "source": "ED.nl",
+          "url": "https://www.ed.nl/buitenland/medewerker-52-oktoberfest-munchen-overleden-na-ongeval-met-kermisattractie~a25b6672/",
+          "publishedDate": "Mon, 21 Sep 2026 17:35:00 GMT",
+          "description": "Een medewerker van een kermisattractie op het Oktoberfest in het Duitse M&#252;nchen is maandagavond overleden, nadat hij ernstig gewond was geraakt bij vermoedelijk een arbeidsongeval. De autoriteiten heb ..."
         },
         {
-          "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-          "publishedDate": "Fri, 12 Jun 2026 02:34:00 GMT",
-          "description": "Google loves telling us all the ways people are using its generative AI products to build new things, grow businesses, and save the world. Supposedly. Of course, people are also using AI for crime."
+          "title": "Man overleden nadat gondel van vrijevaltoren op hem neerkomt op Oktoberfest",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2631980-man-overleden-nadat-gondel-van-vrijevaltoren-op-hem-neerkomt-op-oktoberfest",
+          "publishedDate": "Mon, 21 Sep 2026 16:52:00 GMT",
+          "description": "Een medewerker van het Oktoberfest in M&#252;nchen is overleden na een ongeluk met een kermisattractie, meldt de politie van de Zuid-Duitse stad. Het gaat om een 52-jarige Servi&#235;r."
         },
         {
-          "title": "Google I/O 2026 live updates: See the latest reveals, including Gemini, Android XR, more",
-          "source": "Mashable",
-          "url": "https://mashable.com/live/google-io-2026-live-updates",
-          "publishedDate": "Tue, 19 May 2026 12:41:00 GMT",
-          "description": "Google kicks off developer conference season with Google I/O 2026 on Tuesday, May 19. You can watch the keynote livestream starting at 10:00 a.m. PT or tune into the Mashable and CNET live viewing ..."
+          "title": "Bayern na moeizaam begin ruim langs Bod&#248;/Glimt, spectaculaire zeges Como en Lens",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2630494-bayern-na-moeizaam-begin-ruim-langs-bodo-glimt-spectaculaire-zeges-como-en-lens",
+          "publishedDate": "Thu, 10 Sep 2026 13:44:00 GMT",
+          "description": "Bayern M&#252;nchen komt moeizaam op gang tegen Bod&#248;/Glimt, maar wint met 5-0. Como verslaat RB Leipzig met 4-1 en Lens slaat in de slotfase bij Slavia Praag toe. Manchester United rekent af met debutant S ..."
         },
         {
-          "title": "Google Announces €5.5 Billion Investment in Germany, including AI Infrastructure, through 2029",
-          "source": "googlecloudpresscorner",
-          "url": "https://www.googlecloudpresscorner.com/2025-11-11-Google-Announces-EUR5-5-Billion-Investment-in-Germany,-including-AI-Infrastructure,-through-2029",
-          "publishedDate": "Mon, 10 Nov 2025 16:00:00 GMT",
-          "description": "Today Google announced the construction of a new data center in Dietzenbach. When the facility is complete, it will strengthen the company’s cloud regions in Germany, which are part of the global ..."
+          "title": "Hoge verwachtingen in Duitse media van 'voorspellende' Saibari",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/hoge-verwachtingen-in-duitse-media-van-voorspellende-saibari",
+          "publishedDate": "Tue, 22 Sep 2026 04:05:00 GMT",
+          "description": "Ismael Saibari had al drie assists achter zijn naam bij Bayern M&#252;nchen, vlak voor de interlandperiode maakte hij ook zijn eerste doelpunt in de Bundesliga. Het schept verwachtingen in de Duitse pers."
+        },
+        {
+          "title": "Medewerker kermisattractie Oktoberfest omgekomen bij ongeluk",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/openbare-veiligheid-en-noodsituaties/gezondheid-en-veiligheid-waarschuwingen/medewerker-kermisattractie-oktoberfest-omgekomen-bij-ongeluk/ar-AA2cI1Yw",
+          "publishedDate": "Mon, 21 Sep 2026 19:55:00 GMT",
+          "description": "M&#220;NCHEN (ANP/DPA) - In het Duitse M&#252;nchen is maandagavond een 52-jarige medewerker van een kermisattractie van het Oktoberfest om het leven gekomen. De man werkte volgens de S&#252;ddeutsche Zeitung bij de ..."
+        },
+        {
+          "title": "Bayern wil koppositie overnemen: pak tot 100x je inleg bij zege op Union!",
+          "source": "Voetbalprimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2137136/bayern-wil-koppositie-overnemen-pak-tot-100x-je-inleg-bij-zege-op-union.html",
+          "publishedDate": "Fri, 18 Sep 2026 08:00:00 GMT",
+          "description": "ADVERTORIAL - Bayern M&#252;nchen gaat ook dit seizoen als absolute topfavoriet richting de Bundesliga-titel, maar de sterrenploeg van Vincent Kompany kan niet inzakken. Er werd al gelijkgespeeld en nu sta ..."
+        },
+        {
+          "title": "Onverstoorbare Olise scoort meer dan Kane: nu wacht laagvlieger Union",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/onverstoorbare-olise-scoort-meer-dan-kane-nu-wacht-laagvlieger-union",
+          "publishedDate": "Fri, 18 Sep 2026 05:00:00 GMT",
+          "description": "ADVERTORIAL - Bayern M&#252;nchen neemt het vrijdag in de Bundesliga in eigen huis op tegen Union Berlin (aftrap om 20.30 uur). Der Rekordmeister is niet foutloos aan het seizoen begonnen, maar laat bij vl ..."
+        },
+        {
+          "title": "Duitse media zijn eensgezind over Ismael Saibari bij Bayern M&#252;nchen",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/duitse-pers-saibari-bayern-elversberg-nieuwe-rol",
+          "publishedDate": "Mon, 14 Sep 2026 08:33:00 GMT",
+          "description": "Ismael Saibari maakt indruk bij Bayern M&#252;nchen in een nieuwe rol vanaf links. Duitse media delen hoge cijfers uit na de zege op Elversberg."
+        },
+        {
+          "title": "Rio Ferdinand ziet maar &#233;&#233;n kandidaat voor de Ballon d'Or: 'Kom op, wie anders?'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/rio-ferdinand-harry-kane-verdient-de-ballon-dor-wie-anders",
+          "publishedDate": "Sat, 12 Sep 2026 06:17:00 GMT",
+          "description": "Rio Ferdinand ziet maar &#233;&#233;n kandidaat voor de Ballon d'Or 2026: Harry Kane. &quot;Kom op man, wie anders?&quot;, vraagt de oud-topverdediger zich af."
         }
       ]
     },
     {
-      "keyword": "21 september",
+      "keyword": "brian brobbey",
+      "trafficLabel": "2K+",
+      "articles": [
+        {
+          "title": "Brobbey schittert met hattrick tegen Manchester City, nieuwe domper United",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2631787-brobbey-schittert-met-hattrick-tegen-manchester-city-nieuwe-domper-united",
+          "publishedDate": "Sun, 20 Sep 2026 08:05:00 GMT",
+          "description": "Ondanks de drie doelpunten van Brian Brobbey verliest Sunderland met 5-3 van Manchester City, dat nu koploper is in de Premier League."
+        },
+        {
+          "title": "Brian Brobbey na goals tegen Manchester City: ‘Ik stond lang droog, dus ik ben blij met deze hattrick’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/brian-brobbey-na-goals-tegen-manchester-city-ik-stond-lang-droog-dus-ik-ben-blij-met-deze-hattrick~ac0273a0/",
+          "publishedDate": "Sun, 20 Sep 2026 02:52:00 GMT",
+          "description": "Brian Brobbey zal zich maandag met vertrouwen melden in Zeist. De 24-jarige spits uit Amsterdam scoorde in de eerste helft twee keer namens Sunderland in de uitwedstrijd bij Manchester City. In de twe ..."
+        },
+        {
+          "title": "Brobbey hoopt topvorm bij Sunderland mee te nemen naar Oranje",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/brobbey-hoopt-topvorm-bij-sunderland-mee-te-nemen-naar-oranje",
+          "publishedDate": "Tue, 22 Sep 2026 06:27:00 GMT",
+          "description": "ZEIST (ANP) - Brian Brobbey wil zich de komende weken manifesteren als de eerste spits van Oranje. Met zijn drie doelpunten in de uitwedstrijd tegen Manchester ..."
+        },
+        {
+          "title": "'Bij Ajax was Brobbey al na een uur op'",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/brobbey-maakt-ware-transformatie-door-bij-ajax-was-hij-al-na-een-uur-op/blta4c9376db42a5228",
+          "publishedDate": "Tue, 22 Sep 2026 05:30:00 GMT",
+          "description": "''Brian is niet per se fitter of sterker geworden'', benadrukt Woerst in gesprek met ESPN. ''Mensen zien het als extra fitheid - of dat hij sterker of volwassener is - maar hij is ook veel effici&#235;nter ..."
+        },
+        {
+          "title": "Duitsland is in de ban van Oranje-sensatie: 'Pas op, Klopp!'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/duitsland-is-in-de-ban-van-oranje-sensatie-pas-op-klopp",
+          "publishedDate": "Tue, 22 Sep 2026 04:35:00 GMT",
+          "description": "J&#252;rgen Klopp krijgt in Duitse media een duidelijke waarschuwing voor Brian Brobbey. De Oranje-spits maakte indruk met een hattrick tegen Manchester City."
+        },
+        {
+          "title": "‘Droomtransfer Brobbey naar kampioen’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/droomtransfer-brobbey-naar-kampioen/",
+          "publishedDate": "Tue, 22 Sep 2026 03:27:00 GMT",
+          "description": "Brian Brobbey heeft een mooi weekend achter de rug, met niet &#233;&#233;n, niet twee, maar drie doelpunten tegen Manchester City namens Sunderland. En inmiddels ..."
+        },
+        {
+          "title": "LIVE | Brian Brobbey de man in vorm, Oranje en Arsenal voorzichtig met Jurri&#235;n Timber",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/voetbal/live-brian-brobbey-de-man-in-vorm-oranje-en-arsenal-voorzichtig-met-jurrien-timber~a71d1f3a/",
+          "publishedDate": "Tue, 22 Sep 2026 03:15:00 GMT",
+          "description": "Oranje begint donderdag tegen Duitsland aan de eerste van vier Nations Leagueduels. Volg het laatste nieuws over het Nederlands elftal hier."
+        },
+        {
+          "title": "‘Oranje-drama voor Brian Brobbey’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/oranje-drama-voor-brian-brobbey/",
+          "publishedDate": "Mon, 21 Sep 2026 14:41:00 GMT",
+          "description": "Het is twijfelachtig of Brian Brobbey de nieuwe aanvalsleider van Oranje gaat worden. Mogelijk kiest bondscoach Xavi Hern&#225;ndez in de nabije toekomst zelfs ..."
+        },
+        {
+          "title": "BBC deelt 10 uit aan Nederlandse Premier League-ster: 'Hij was verbluffend'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/brian-brobbey-engelse-media-hattrick-manchester-city-drogba",
+          "publishedDate": "Mon, 21 Sep 2026 02:41:00 GMT",
+          "description": "Brian Brobbey oogst enorme lof na zijn hattrick tegen Manchester City. The Athletic, BBC en Sky Sports prijzen de spits."
+        }
+      ]
+    },
+    {
+      "keyword": "hyrox",
+      "trafficLabel": "2K+",
+      "articles": [
+        {
+          "title": "Ontslag na Hyrox-deelname met ziekte van Pfeiffer",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/ontslag-na-hyrox-deelname-met-ziekte-van-pfeiffer/ar-AA2cIiwM",
+          "publishedDate": "Mon, 21 Sep 2026 22:11:57 GMT",
+          "description": "Niet werken vanwege stressgerelateerde vermoeidheid, de ziekte van Pfeiffer en een keelontsteking zal bij alle werkgevers op begrip kunnen rekenen. Het wordt alleen ingewikkeld als dezelfde medewerker ..."
+        },
+        {
+          "title": "Medewerkster doet mee aan loodzware Hyrox terwijl ze ziek thuiszit en wordt op staande voet ontslagen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/medewerkster-doet-mee-aan-loodzware-hyrox-terwijl-ze-ziek-thuiszit-en-wordt-op-staande-voet-ontslagen~a02bc043/",
+          "publishedDate": "Mon, 21 Sep 2026 21:20:00 GMT",
+          "description": "Een maand thuis vanwege de ziekte van Pfeiffer en een zware keelontsteking, maar ondertussen wel deelnemen aan een loodzware Hyrox, een internationale fitnesscompetitie waarbij hardlopen wordt gecombi ..."
+        },
+        {
+          "title": "Hyrox-atlete biedt excuses aan voor afmaken race nadat ze in broek had gepoept",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/sport/6410102/hyrox-atlete-biedt-excuses-aan-voor-afmaken-race-nadat-ze-in-broek-had-gepoept.html",
+          "publishedDate": "Thu, 17 Sep 2026 08:27:00 GMT",
+          "description": "Hyrox-atlete Joanna Wietrzyk heeft sorry gezegd voor haar optreden in een race in Peking afgelopen zaterdag. De Australische atlete maakte de race af terwijl ze in haar broek had gepoept en kreeg daar ..."
+        },
+        {
+          "title": "Hyrox-deelnemer die zichzelf onderpoepte bij wedstrijd laat van zich horen: ‘Heb spijt van mijn beslissing’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/hyrox-deelnemer-die-zichzelf-onderpoepte-bij-wedstrijd-laat-van-zich-horen-heb-spijt-van-mijn-beslissing~a2ab73cc/",
+          "publishedDate": "Thu, 17 Sep 2026 04:37:00 GMT",
+          "description": "De Australische atlete Joanna Wietrzyk heeft donderdag in een statement haar excuses aangeboden voor het incident bij haar Hyrox-wedstrijd. De wereldkampioene ging zaterdag in Peking door met haar wed ..."
+        },
+        {
+          "title": "Hyrox biedt excuses aan omdat atlete die in broek poepte race mocht afmaken",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6409755/hyrox-biedt-excuses-aan-omdat-atlete-die-in-broek-poepte-race-mocht-afmaken.html",
+          "publishedDate": "Mon, 14 Sep 2026 14:53:00 GMT",
+          "description": "Het internationale fitnessmerk Hyrox heeft excuses aangeboden na een incident met atlete Joanna Wietrzyk. Ze bevuilde zichzelf halverwege een wedstrijd in Peking. Wietrzyk mocht daarna de race afmaken ..."
+        },
+        {
+          "title": "Excuses Hyrox-atlete na onsmakelijk incident vallen verkeerd: 'Dat klopt niet helemaal'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/excuses-hyrox-atlete-na-onsmakelijk-incident-vallen-verkeerd-dat-klopt-niet-helemaal-2026092210345823987/",
+          "publishedDate": "Mon, 21 Sep 2026 17:00:00 GMT",
+          "description": "Joanna Wietrzyk belandde afgelopen week plotseling in een mediastorm nadat beelden van haar Hyrox de hele wereld overgingen. De Australische liet tijdens de wedstrijd haar ontlasting lopen en maakte e ..."
+        },
+        {
+          "title": "Ontslag op staande voet terecht voor ziekgemelde werknemer die meedoet aan Hyrox",
+          "source": "Salaris Vanmorgen",
+          "url": "https://www.salarisvanmorgen.nl/2026/09/21/ontslag-op-staande-voet-terecht-voor-ziekgemelde-werknemer-die-meedoet-aan-hyrox/",
+          "publishedDate": "Mon, 21 Sep 2026 01:12:00 GMT",
+          "description": "De werknemer meldt zich ziek vanwege spanningen op de werkvloer en geeft later aan Pfeiffer te hebben. Toch doet zij mee aan een Hyrox. Dit leidt tot ontslag op staande voet."
+        },
+        {
+          "title": "Het is razend populair, maar voor wat staat het woord Hyrox nu eigenlijk?",
+          "source": "Newsmonkey",
+          "url": "https://newsmonkey.be/het-is-razend-populair-maar-voor-wat-staat-het-woord-hyrox-nu-eigenlijk/",
+          "publishedDate": "Sun, 20 Sep 2026 10:16:00 GMT",
+          "description": "In het kort Hyrox staat de laatste dagen enorm in de belangstelling door een voorval in Peking. Onlangs is zo ook de echte betekenis van het woord viraal ..."
+        },
+        {
+          "title": "HYROX-atlete biedt excuses aan na poepincident",
+          "source": "vandaaginside",
+          "url": "https://www.vandaaginside.nl/sport/overige-sporten/artikelen/hyrox-atlete-biedt-excuses-aan-na-poepincident",
+          "publishedDate": "Thu, 17 Sep 2026 09:21:00 GMT",
+          "description": "HYROX-atlete Joanna Wietrzyk ging afgelopen week viraal, nadat ze tijdens een wedstrijd haar ontlasting niet binnen kon houden. Desondanks finishte de race en won ze zelfs. Nu komt Wietrzyk terug op h ..."
+        },
+        {
+          "title": "Australische atlete wint Hyrox ondanks diarree-aanval, organisatie door het stof na ophef",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/sport/meen-je-niet/hyrox-biedt-excuses-aan-voor-deelneemster-die-zichzelf-onderpoepte/",
+          "publishedDate": "Tue, 15 Sep 2026 04:30:00 GMT",
+          "description": "Atlete Joanna Wietrzyk heeft heel wat losgemaakt. Ze kreeg een diarree-aanval halverwege een Hyrox-evenement in Peking, maar maakte desondanks haar race af. De organisatie van het evenement biedt na ..."
+        }
+      ]
+    },
+    {
+      "keyword": "bondscoach",
       "trafficLabel": "1K+",
       "articles": [
         {
-          "title": "Het weerbericht voor maandag 21 september: droge dag met zonnige perioden",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/het-weerbericht-voor-maandag-21-september-droge-dag-met-zonnige-perioden~b33eefe4/",
-          "publishedDate": "Sun, 20 Sep 2026 08:33:00 GMT",
-          "description": "De week begint maandag met zonnige perioden en overal droog weer. In de middag ontstaan stapelwolken. De temperatuur komt ’s middags uit tussen 18 en 21 graden, met de hoogste waarden in het zuiden."
-        },
-        {
-          "title": "Herfst start bijna nooit op 21 september: 'Eerstvolgende keer pas in 2092'",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/natuur/5151028/herfst-start-bijna-nooit-op-21-september-eerstvolgende-keer-pas-in-2092",
-          "publishedDate": "Mon, 21 Sep 2026 13:00:00 GMT",
-          "description": "Denk jij dat de herfst vandaag begonnen is? Dan heb je het mis, want die start officieel pas woensdag. De herfst begint zelfs bijna nooit op 21 september, vertelt Omroep West-weerman Huub Mizee. 'De v ..."
-        },
-        {
-          "title": "Waarom de herfst niet altijd begint op 21 september: “Er zijn twee manieren om seizoenen in te delen”",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/buitenland/waarom-de-herfst-niet-altijd-begint-op-21-september-er-zijn-twee-manieren-om-seizoenen-in-te-delen~aa3fc37c/",
-          "publishedDate": "Mon, 21 Sep 2026 00:50:00 GMT",
-          "description": "De herfst start op 21 september. Althans, dat is wat velen van ons hebben geleerd. Maar klopt dat eigenlijk wel? “Het is een misverstand dat nog heel vaak de ronde doet”, zegt Martijn Peters. Dit jaar ..."
-        },
-        {
-          "title": "Weekendtips: deze dingen doe je in Delft (19 – 21 september)",
-          "source": "stadsbladutrecht.nl",
-          "url": "https://indebuurt.nl/delft/doen/weekendtips-deze-dingen-doe-je-in-delft-19-21-september~332270/",
-          "publishedDate": "Mon, 05 Jan 2026 02:00:00 GMT",
-          "description": "Op zaterdag 20 september, van 10.00 tot 16.00 uur, staat het overdekte winkelcentrum De Hoven Passage vol met meer dan veertig creatieve hobbyisten tijdens de Creamarkt. Bewonder handgemaakte ..."
-        },
-        {
-          "title": "Weekendtips: dit kun je doen in Amsterdam (19 - 21 september)",
-          "source": "stadsbladutrecht.nl",
-          "url": "https://indebuurt.nl/amsterdam/doen/weekendtips-dit-kun-je-doen-in-amsterdam-19-21-september~432260/",
-          "publishedDate": "Sun, 04 Jan 2026 23:51:00 GMT",
-          "description": "Zin om eropuit te gaan dit weekend? In Amsterdam barst het van de leuke markten, festivals en feestjes. Van braderie&#235;n in de buurt tot dansen tot in de late uurtjes: er is voor ieder wat wils. Dit ..."
-        },
-        {
-          "title": "Autovrije zondag 21 september. Met ruim programma en aangepaste verkeersmaatregelen",
-          "source": "goeiedag",
-          "url": "https://goeiedag.be/regio/2025/09/autovrije-zondag-21-september-ruim-programma-en-aangepaste-verkeersmaatregelen/",
-          "publishedDate": "Tue, 16 Sep 2025 04:29:00 GMT",
-          "description": "REGIO - Op 21 september vindt opnieuw de autovrije zondag plaats. Van 09.00 tot 19.00 uur worden in Asse-centrum straten verkeersvrij gemaakt. Er vinden die dag ook heel wat activiteiten en ..."
-        },
-        {
-          "title": "21 september: Internationale Dag van de Vrede",
-          "source": "vrede",
-          "url": "https://vrede.be/nl/nieuws/21-september-internationale-dag-van-de-vrede-1",
-          "publishedDate": "Wed, 20 Sep 2023 17:00:00 GMT",
-          "description": "127 Belgische steden en gemeenten willen dat ons land “afziet van nieuwe kernbommen op ons grondgebied en dat de federale regering een actieve rol speelt in het internationaal nucleair ..."
-        },
-        {
-          "title": "21 september: Internationale Dag van de Vrede",
-          "source": "vrede",
-          "url": "https://vrede.be/nl/nieuws/21-september-internationale-dag-van-de-vrede",
-          "publishedDate": "Tue, 20 Sep 2022 17:01:00 GMT",
-          "description": "142 Belgische steden en gemeenten willen dat ons land “afziet van nieuwe kernbommen op ons grondgebied en het VN-Verdrag inzake het Verbod op Kernwapens (TPNW) ondertekent”. Om deze boodschap kracht ..."
-        },
-        {
-          "title": "21 september: Internationale Dag van de Vrede",
-          "source": "dbsuriname",
-          "url": "https://www.dbsuriname.com/2020/09/20/21-september-internationale-dag-van-de-vrede/",
-          "publishedDate": "Sun, 20 Sep 2020 13:24:00 GMT",
-          "description": "Echte vrede is innerlijke stilte, waarin positieve gedachten, zuivere gevoelens en goede wensen een plaats hebben. Vrede brengt tevredenheid, geluk, liefde, gelukzaligheid, tolerantie en andere ..."
-        },
-        {
-          "title": "21 september: Internationale Dag tegen Alzheimer en Internationale Dag van de Vrede",
-          "source": "Nieuws",
-          "url": "https://dongen.nieuws.nl/nieuws/21-september-internationale-dag-alzheimer-en-internationale-dag-vrede",
-          "publishedDate": "Fri, 21 Sep 2018 08:38:00 GMT",
-          "description": "Wereldwijd wordt er door het jaar heen op bijna elke dag wel stilgestaan bij een bijzondere gebeurtenis, een persoon, een ziekte of een activiteit. We kennen natuurlijk allemaal Moederdag, dierendag ..."
-        }
-      ]
-    },
-    {
-      "keyword": "kefah allush",
-      "trafficLabel": "500+",
-      "articles": [
-        {
-          "title": "Alles over Kefah Allush uit De Slimste Mens",
-          "source": "JFK",
-          "url": "https://jfk.men/entertainment/kefah-allush-de-slimste-mens/",
-          "publishedDate": "Sun, 20 Sep 2026 10:02:00 GMT",
-          "description": "Een nieuw seizoen van De Slimste Mens is weer begonnen. Maar wie zijn al die deelnemers? Deze keer: Kefah Allush."
-        },
-        {
-          "title": "Kefah Allush deelt levensverhaal in Vlaardingen tijdens Landelijke Vredesweek",
-          "source": "AD",
-          "url": "https://www.ad.nl/vlaardingen/kefah-allush-deelt-levensverhaal-in-vlaardingen-tijdens-landelijke-vredesweek~aa7d8d2e/",
-          "publishedDate": "Mon, 14 Sep 2026 21:33:00 GMT",
-          "description": "Journalist en programmamaker Kefah Allush is te gast tijdens een avond die Bibliotheek De Plataan Vlaardingen Centrum samen met PAX Ambassadestad van Vrede organiseert. Hij zal donderdag 24 september ..."
-        },
-        {
-          "title": "Documentairereeks (2026) waarin Kefah Allush uitzoekt hoe ingrijpend anders Nederland er mogelijk over 100 jaar uitziet",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/tv-gids/npo-1/uitzending/aflevering/20ba00a3-0c7a-46d9-905f-0dfd5f4cac1f",
-          "publishedDate": "Mon, 14 Sep 2026 16:39:00 GMT",
-          "description": "We weten inmiddels hoe Nederland eruitziet na een zeespiegelstijging van bijna vijf meter en hoe er wordt omgegaan met het water. Maar hoe gaat men niet alleen leven, maar ook samenleven in 2126? Mind ..."
-        },
-        {
-          "title": "Lezing van tv-maker Kefah Allush",
-          "source": "Rodi.nl",
-          "url": "https://www.rodi.nl/vlaardingen/nieuws/119335/lezing-van-tv-maker-kefah-allush",
-          "publishedDate": "Fri, 11 Sep 2026 07:02:00 GMT",
-          "description": "Op donderdagavond 24 september verwelkomt de Bibliotheek de Plataan, vestiging Vlaardingen Centrum, tv-maker, journalist en auteur Kefah Allush. In het kader van de Landelijke Vredesweek gaat hij in ..."
-        },
-        {
-          "title": "Kefah Allush, Claudia de Breij en ‘Sjamadriaan’ ter Braack in De slimste mens",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/show/kefah-allush-claudia-de-breij-en-sjamadriaan-ter-braack-in-de-slimste-mens~a3a281a6/",
-          "publishedDate": "Sun, 06 Sep 2026 18:30:00 GMT",
-          "description": "Presentator Kefah Allush, cabaretier Claudia de Breij en wetenschapsjournalist Adriaan ter Braack die online bekend is als Sjamadriaan, zijn de meest in het oog springende namen in het deelnemersveld ..."
-        },
-        {
-          "title": "De Kist",
-          "source": "NPO",
-          "url": "https://npo.nl/start/serie/de-kist/afleveringen/seizoen-0_1",
-          "publishedDate": "Wed, 11 Feb 2026 16:00:00 GMT",
-          "description": "Kefah Allush praat met BN'ers over leven en dood. Dit leidt tot gesprekken over wat waardevol is hier op aarde en prikkelt zowel gasten als kijkers om na te denken over het leven na de dood."
-        },
-        {
-          "title": "Kefah Allush volgt de voetsporen van christelijke wegbereiders",
-          "source": "tvvisie",
-          "url": "https://tvvisie.nl/nieuws/nederland/24december2023/kefah-allush-volgt-de-voetsporen-van-christelijke-wegbereiders_126230/",
-          "publishedDate": "Sat, 23 Dec 2023 16:00:00 GMT",
-          "description": "Wat begon als een obscure sekte in het Romeinse Rijk werd uiteindelijk de grootste godsdienst van Europa: het christendom. Hoe kwam dit geloof in alle uithoeken van Europa terecht? In de nieuwe ..."
-        },
-        {
-          "title": "Kefah Allush in de voetsporen van ‘de vrouwen van Jezus’",
-          "source": "cvandaag",
-          "url": "https://cvandaag.nl/88550-kefah-allush-in-de-voetsporen-van-de-vrouwen-van-jezus",
-          "publishedDate": "Wed, 01 Dec 2021 16:00:00 GMT",
-          "description": "In aanloop naar kerst treedt Kefah Allush in de voetsporen van vier vrouwen die een belangrijke rol hebben gespeeld in de verspreiding van het christelijk geloof. Het nieuwe EO-programma ‘De vrouwen ..."
-        },
-        {
-          "title": "‘Hoe verspreidden ze de boodschap?’: Kefah Allush treedt in voetsporen apostelen",
-          "source": "kn",
-          "url": "https://www.kn.nl/nieuws/hoe-verspreidden-ze-de-boodschap-kefah-allush-treedt-in-voetsporen-apostelen/",
-          "publishedDate": "Tue, 09 Jun 2020 01:40:00 GMT",
-          "description": "In een nieuwe serie onderzoekt EO-presentator Kefah Allush de snelle verspreiding van het christendom in de eerste eeuwen van zijn bestaan. De serie Jezus van Nazareth verovert de wereld, die vanaf ..."
-        },
-        {
-          "title": "Jezus van Nazareth",
-          "source": "npo",
-          "url": "https://npo.nl/start/serie/jezus-van-nazareth/afleveringen/seizoen-1",
-          "publishedDate": "Mon, 10 Dec 2018 00:30:00 GMT",
-          "description": "Kefah Allush onderzoekt het leven van Jezus en kruipt in de huid van de volgelingen van Jezus. Hoe kan het dat de boodschap van &#233;&#233;n man de hele wereld veroverde? Omroepen ..."
-        }
-      ]
-    },
-    {
-      "keyword": "bitcoin koers",
-      "trafficLabel": "500+",
-      "articles": [
-        {
-          "title": "Bitcoin schiet naar $87.000 op golf van Wall Street-optimisme",
-          "source": "Bitcoin Koers",
-          "url": "https://www.bitcoinkoers.org/nieuws/28-bitcoin-nieuws/4669-bitcoin-schiet-naar-87-000-op-golf-van-wall-street-optimisme",
-          "publishedDate": "Tue, 22 Sep 2026 00:28:00 GMT",
-          "description": "Na opnieuw een enorme koerssprong aan het begin van de week, is het duidelijk dat de Bitcoin-trein is vertrokken en op niemand wacht."
-        },
-        {
-          "title": "Bitcoin schiet kort boven $87.000: kan BTC aandelenmarkt weer bijhouden?",
-          "source": "BLOX",
-          "url": "https://nieuws.btcdirect.eu/bitcoin-schiet-kort-boven-87-000-kan-btc-aandelenmarkt-weer-bijhouden/",
-          "publishedDate": "Mon, 21 Sep 2026 17:00:00 GMT",
-          "description": "De Bitcoin koers knalde gisteravond kort boven het niveau van 87.000 dollar uit. Kan Bitcoin de aandelenmarkt nu eindelijk weer bijhouden?"
-        },
-        {
-          "title": "Bitcoin stijgt boven 85.000 dollar na een week met amper netto-instroom in fondsen",
-          "source": "De Belegger",
-          "url": "https://www.debelegger.nl/post/bitcoin-stijgt-boven-85-000-dollar-na-een-week-met-amper-netto-instroom-in-fondsen",
-          "publishedDate": "Mon, 21 Sep 2026 13:29:00 GMT",
-          "description": "Amerikaanse bitcoinfondsen trokken in twee dagen $592,5 miljoen aan, maar over de hele week slechts $6,1 miljoen. Wat zegt dat over de rally en de mogelijke prijzen tot 2029?Amerikaanse bitcoinfondsen ..."
-        },
-        {
-          "title": "Crypto Radar: Bitcoin op hoogste koers in maanden, altcoins stijgen harder",
-          "source": "Crypto Insiders",
-          "url": "https://www.crypto-insiders.nl/marktupdates/crypto-radar-bitcoin-op-hoogste-koers-in-maanden-altcoins-stijgen-harder/",
-          "publishedDate": "Mon, 21 Sep 2026 09:09:00 GMT",
-          "description": "Het is een groene dag op de markt. De cryptomarkt groeit met ongeveer 5 procent. Bitcoin, ethereum, XRP en solana schieten sterk omhoog."
-        },
-        {
-          "title": "AI kan Bitcoin koers naar $250.000 sturen, voorspelt miljardair Tim Draper",
-          "source": "Newsbit",
-          "url": "https://newsbit.nl/ai-kan-bitcoin-koers-naar-250-000-sturen-voorspelt-miljardair-tim-draper/",
-          "publishedDate": "Mon, 21 Sep 2026 08:29:00 GMT",
-          "description": "Tim Draper voorspelt dat Bitcoin binnen twee jaar naar 250.000 dollar stijgt. De miljardair ziet kunstmatige intelligentie als mogelijke nieuwe aanjager."
-        },
-        {
-          "title": "Bitcoin-koers overschrijdt 84.000 dollar nu analisten de bearmarkt voor be&#235;indigd verklaren",
-          "source": "Bitcoin.com News",
-          "url": "https://news.bitcoin.com/nl/market-updates/bitcoin-koers-overschrijdt-84000-dollar-nu-analisten-de-bearmarkt-voor-beeindigd-verklaren/",
-          "publishedDate": "Mon, 21 Sep 2026 02:30:00 GMT",
-          "description": "De koers van Bitcoin schoot omhoog tot boven de 84.000 dollar en bereikte daarmee weer het 50-weeks voortschrijdend gemiddelde. Alex Thorn en Ted Pillows geven hun mening nu er voor 212 miljoen dollar ..."
-        },
-        {
-          "title": "Bitcoin koers stijgt naar $85.250 door enorme short squeeze",
-          "source": "Bitcoin Koers",
-          "url": "https://www.bitcoinkoers.org/crypto-blog/4667-bitcoin-koers-stijgt-naar-85-250-door-enorme-short-squeeze",
-          "publishedDate": "Mon, 21 Sep 2026 02:22:00 GMT",
-          "description": "Een belangrijke aanjager van de plotselinge stijging is een zogenoemde short squeeze. Uit gegevens van CoinGlass blijkt dat binnen &#233;&#233;n uur voor ongeveer $313 miljoen aan cryptoposities werd ..."
-        },
-        {
-          "title": "Bitcoin koers boekt belangrijke overwinning en NEAR stijgt 26%",
-          "source": "Crypto Insiders",
-          "url": "https://www.crypto-insiders.nl/nieuws/bitcoin/bitcoin-koers-boekt-belangrijke-overwinning-en-near-stijgt-26/",
-          "publishedDate": "Mon, 21 Sep 2026 00:46:00 GMT",
-          "description": "Bitcoin heeft een prima weekend achter de rug en sloot vannacht de week af op het hoogste niveau in vier maanden. Belangrijker nog: de bitcoin ..."
-        },
-        {
-          "title": "Bitcoin koers rond $80.000 met verhoogd risico op terugval",
-          "source": "Blockchain Stories",
-          "url": "https://www.blockchainstories.com/nieuws/bitcoin-koers-rond-80000-met-verhoogd-risico-op-terugval/",
-          "publishedDate": "Sun, 20 Sep 2026 08:23:00 GMT",
-          "description": "Bitcoin handelt zaterdag rond de $80.300, een daling van 1,1% in de afgelopen 24 uur. Analist CrypNuevo ziet meerdere signalen die wijzen op een verhoogd risico van een terugval op de korte termijn. H ..."
-        },
-        {
-          "title": "Bitcoin stijgt 6 procent en is meer dan 70.000 euro waard, zelfs slecht nieuws krijgt koers niet klein",
-          "source": "BLOX",
-          "url": "https://nieuws.btcdirect.eu/bitcoin-stijging-niet-kapot-week/",
-          "publishedDate": "Sat, 19 Sep 2026 03:01:00 GMT",
-          "description": "Bitcoin stijgt ruim 6 procent in een week en houdt opvallend goed stand, ondanks een hogere Amerikaanse rente en onzekerheid rond nieuwe cryptowetgeving."
-        }
-      ]
-    },
-    {
-      "keyword": "mobland",
-      "trafficLabel": "500+",
-      "articles": [
-        {
-          "title": "MobLand: misdaadserie van SkyShowtime verlengd met tweede seizoen",
-          "source": "bnnvara",
-          "url": "https://www.bnnvara.nl/varagids/artikelen/mobland-misdaadserie-van-skyshowtime-verlengd-met-tweede-seizoen",
-          "publishedDate": "Sun, 22 Jun 2025 16:59:00 GMT",
-          "description": "De misdaadserie van producent Guy Ritchie (The Gentlemen) volgt een fixer (Tom Hardy) die in Londen werkte voor een crimineel echtpaar (Pierce Brosnan en Helen Mirren). De Amerikaanse vod-dienst ..."
-        },
-        {
-          "title": "‘MobLand’ is vintage Guy Ritchie – met grijze haren",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2025/06/17/mobland-is-vintage-guy-ritchie-met-grijze-haren-a4897205",
-          "publishedDate": "Tue, 17 Jun 2025 03:54:00 GMT",
-          "description": "Misdaadserie Met ‘MobLand’ keert Guy Ritchie terug naar zijn vertrouwde misdaadgenre. De serie mist zijn oude branie, maar wordt gedragen door een topcast en Ritchies onmiskenbare stijl. De Britse ..."
-        },
-        {
-          "title": "Tom Hardy zit opnieuw diep in de problemen in het tweede seizoen van MobLand",
-          "source": "FHM",
-          "url": "https://fhm.nl/films/tom-hardy-zit-opnieuw-diep-in-de-problemen-in-het-tweede-seizoen-van-mobland",
-          "publishedDate": "Mon, 21 Sep 2026 09:00:00 GMT",
-          "description": "Tom Hardy, Pierce Brosnan en Helen Mirren keren terug voor het tweede seizoen van&#160;MobLand. De succesvolle misdaadserie van Guy Ritchie gaat verder waar het eerste seizoen ophield en de Harrigan-famili ..."
-        },
-        {
-          "title": "Tom Hardy over zijn personage in SkyShowtime-misdaadserie 'MobLand': &quot;Het mysterie is belangrijker&quot;",
-          "source": "SerieTotaal",
-          "url": "https://www.serietotaal.nl/nieuws/45224/tom-hardy-over-zijn-personage-in-skyshowtime-misdaadserie-mobland-het-mysterie-is-belangrijker",
-          "publishedDate": "Sat, 19 Sep 2026 09:17:00 GMT",
-          "description": "Tom Hardy speelt in MobLand van Paramount een van de meest ondoorgrondelijke personages van de misdaadserie. Harry Da Souza is de betrouwbare probleemoplosser van de familie Harrigan, maar over zijn v ..."
-        },
-        {
-          "title": "Mobland seizoen 2 preview: de Harrigans zijn keihard terug",
-          "source": "DutchCowboys",
-          "url": "https://www.dutchcowboys.nl/entertainment/mobland-seizoen-2-preview-de-harrigans-zijn-keihard-terug",
-          "publishedDate": "Fri, 18 Sep 2026 15:50:00 GMT",
-          "description": "De accenten zijn heerlijk, de grappen en grollen zijn goed getimed en de serie ziet er overal weer heel goed uit. Zo is de eerste aflevering van seizoen 2 van Mobland."
-        },
-        {
-          "title": "N&#228;r sl&#228;pps s&#228;song 2 av ”MobLand” i Sverige?",
-          "source": "MovieZine on MSN",
-          "url": "https://www.msn.com/sv-se/noje/film/n%C3%A4r-sl%C3%A4pps-s%C3%A4song-2-av-mobland-i-sverige/ar-AA2ctYaX",
-          "publishedDate": "Fri, 18 Sep 2026 00:05:00 GMT",
-          "description": "Den just nu b&#228;sta gangsterserie vi har sl&#228;pper efter m&#229;nga om och men sin andra s&#228;song, med Tom Hardy i spetsen. Gangsterserier blir ofta bra, men s&#228;llan s&#229; bra som n&#228;r Guy Ritchie &#228;r involverad. Har ..."
-        },
-        {
-          "title": "Pierce Brosnan om tv-br&#229;ket: Storm i vattenglas",
-          "source": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nojesbladet/tv/a/K87PoG/stjarnan-om-tv-braket-storm-i-vattenglas",
-          "publishedDate": "Fri, 11 Sep 2026 01:56:00 GMT",
-          "description": "Pierce Brosnan kommenterar nu uppgifterna om br&#229;ken som h&#246;ll p&#229; att f&#229; Tom Hardy sparkad fr&#229;n tv-serien ”Mobland”. – &#196;sch, det var en storm i ett vattenglas, s&#228;ger Brosnan till Deadline p&#229; galapremi&#228;r ..."
-        },
-        {
-          "title": "MobLand streamen of downloaden",
-          "source": "filmvandaag",
-          "url": "https://www.filmvandaag.nl/serie/15105-mobland/online-kijken",
-          "publishedDate": "Fri, 04 Sep 2026 05:05:00 GMT",
-          "description": "Wil je MobLand (2025– ) kijken? Op deze pagina vind je het overzicht van waar je MobLand kunt streamen, huren, kopen of downloaden via streamingdiensten in Nederland. De serie is nu te zien op ..."
-        },
-        {
-          "title": "MobLand seizoen 2 krijgt eerste trailer en releasedatum, ondanks eerdere onzekerheid rond Tom Hardy",
-          "source": "nl.ign",
-          "url": "https://nl.ign.com/mobland/165687/mobland-seizoen-2-krijgt-eerste-trailer-en-releasedatum-ondanks-eerdere-onzekerheid-rond-tom-hardy",
-          "publishedDate": "Fri, 10 Jul 2026 08:16:00 GMT",
-          "description": "MobLand seizoen 2 heeft zijn eerste trailer gekregen. Daarnaast heeft Paramount+ bevestigd dat de misdaadserie vanaf 18 september te zien is. In Nederland komt de serie iets later uit, hier kunnen we ..."
-        },
-        {
-          "title": "H&#228;rliga nyheter – grymma ”MobLand” &#229;terv&#228;nder med s&#228;song 2",
-          "source": "moviezine",
-          "url": "https://www.moviezine.se/nyheter/harliga-nyheter-grymma-mobland-atervander-med-sasong-2",
-          "publishedDate": "Mon, 23 Jun 2025 08:28:00 GMT",
-          "description": "H&#228;r i Sverige f&#229;r vi just nu avnjuta Guy Ritchies nya gangsterserie ”MobLand” p&#229; SkyShowtime. Serien hade premi&#228;r redan i mars i USA, men i v&#229;rt avl&#229;nga land var det premi&#228;r f&#246;r f&#246;rst n&#229;gra veckor ..."
-        }
-      ]
-    },
-    {
-      "keyword": "brand tata steel",
-      "trafficLabel": "500+",
-      "articles": [
-        {
-          "title": "Kortstondige brand bij Tata Steel veroorzaakt grote rookpluim",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/09/21/kortstondige-brand-bij-tata-steel-veroorzaakt-grote-rookpluim-a4937208",
-          "publishedDate": "Mon, 21 Sep 2026 10:14:00 GMT",
-          "description": "Maandagmiddag heeft er kort een zeer grote brand gewoed op het terrein van Tata Steel in IJmuiden. Dat bevestigt een woordvoerder van het staalbedrijf na een bericht van de Veiligheidsregio Kennemerla ..."
-        },
-        {
-          "title": "Korte brand op terrein van Tata Steel zorgt voor dikke rookwolken",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/binnenland/6410503/korte-brand-op-terrein-van-tata-steel-zorgt-voor-dikke-rookwolken.html",
-          "publishedDate": "Mon, 21 Sep 2026 10:11:00 GMT",
-          "description": "Een transportband op het terrein van Tata Steel heeft maandagmiddag even in brand gestaan. Rookwolken trokken over Velsen."
-        },
-        {
-          "title": "Zeer grote brand op terrein Tata Steel",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/nederland/zeer-grote-brand-op-terrein-tata-steel~bd9e6acf/",
-          "publishedDate": "Mon, 21 Sep 2026 09:55:00 GMT",
-          "description": "Op het terrein van Tata Steel in IJmuiden woedt maandagmiddag een zeer grote brand. Dat meldt de veiligheidsregio. Het gaat om een brand bij een transportband. De brand veroorzaakt veel rook."
-        },
-        {
-          "title": "Brand bij Tata Steel onder controle",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/brand-bij-tata-steel-onder-controle~b4634f34/",
-          "publishedDate": "Mon, 21 Sep 2026 07:52:00 GMT",
-          "description": "Op het terrein van Tata Steel in IJmuiden heeft vanmiddag kort een grote brand gewoed. Daarbij kwam veel rook vrij. Volgens Tata is het vuur inmiddels onder controle en zijn er geen gewonden of ..."
-        },
-        {
-          "title": "Zeer grote brand op terrein Tata Steel: zwarte rookpluim zichtbaar in wijde omgeving",
-          "source": "Rodi.nl",
-          "url": "https://www.rodi.nl/beverwijk/112-nieuws/506825/zeer-grote-brand-op-terrein-tata-steel-zwarte-rookpluim-zichtbaar-in-wijde-omgeving-update-",
-          "publishedDate": "Mon, 21 Sep 2026 11:56:00 GMT",
-          "description": "VELSEN-NOORD - Bij Tata Steel is maandagmiddag 21 september een grote buitenbrand uitgebroken. De brandweer heeft opgeschaald van middelbrand naar zeer grote brand. Boven het terrein is een forse ..."
-        },
-        {
-          "title": "Korte brand met veel rookontwikkeling bij Tata Steel",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/a/korte-brand-met-veel-rookontwikkeling-bij-tata-steel",
-          "publishedDate": "Mon, 21 Sep 2026 10:04:00 GMT",
-          "description": "Op het terrein van Tata Steel in IJmuiden heeft maandagmiddag een grote brand gewoed, waar veel rook vanaf kwam. Tata zelf laat weten dat het vuur na zo’n veertig minuten blussen onder controle was. Z ..."
-        },
-        {
-          "title": "Forse rookontwikkeling bij zeer grote brand Tata Steel",
-          "source": "strandweer",
-          "url": "https://www.strandweer.nu/noord-holland/forse-rookontwikkeling-bij-zeer-grote-brand-tata-steel/",
-          "publishedDate": "Mon, 21 Sep 2026 09:19:00 GMT",
-          "description": "Velsen-Noord 21.09.2026 - Bij Tata Steel in Velsen-Noord is maandagmiddag even voor half 5 een buitenbrand uitgebroken. Op de webcam van Strandweer.nu in ..."
-        },
-        {
-          "title": "Zwarte rookwolken boven Tata Steel door grote brand",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/nieuws-politiek/10610749/zwarte-rookwolken-boven-tata-steel-door-grote-brand",
-          "publishedDate": "Mon, 21 Sep 2026 07:58:00 GMT",
-          "description": "Op het terrein van Tata Steel in IJmuiden is een grote brand uitgebroken. De brand zorgt voor grote zwarte rookwolken boven het terrein. Het zou gaan om een brand op een transportband."
-        },
-        {
-          "title": "Veel rook bij zeer grote brand bij Tata Steel in IJmuiden",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/brand/artikelen/noord-holland-ijmuiden-zeer-grote-brand-tata-steel-rook",
-          "publishedDate": "Mon, 21 Sep 2026 07:50:00 GMT",
-          "description": "Op het terrein van Tata Steel in IJmuiden is maandagmiddag een zeer grote brand uitgebroken. Volgens de veiligheidsregio staat een transportband in brand."
-        },
-        {
-          "title": "Grote brand bij Tata Steel, transportband in de fik",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/363631/grote-brand-bij-tata-steel-transportband-in-de-fik",
-          "publishedDate": "Mon, 21 Sep 2026 07:48:00 GMT",
-          "description": "Grote brand bij Tata Steel: transportband staat in brand. Veel rook, omgeving geadviseerd ramen en deuren te sluiten. Oorzaak onbekend. Updates volgen."
-        }
-      ]
-    },
-    {
-      "keyword": "jesse van rootselaar",
-      "trafficLabel": "200+",
-      "articles": [
-        {
-          "title": "Canadese provincie klaagt OpenAI aan om rol bij dodelijke schietpartij",
+          "title": "Advocaat met frisse energie terug bij Cura&#231;ao en looft Xavi als bondscoach Oranje",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2631983-canadese-provincie-klaagt-openai-aan-om-rol-bij-dodelijke-schietpartij",
-          "publishedDate": "Mon, 21 Sep 2026 20:35:00 GMT",
-          "description": "Op 10 februari schoot de 18-jarige Jesse van Rootselaar acht mensen dood in de Canadese provincie, onder wie haar moeder en stiefbroer. Ze plande de aanslag met behulp van chatbot ChatGPT."
+          "url": "https://nos.nl/artikel/2631978-advocaat-met-frisse-energie-terug-bij-curacao-en-looft-xavi-als-bondscoach-oranje",
+          "publishedDate": "Mon, 21 Sep 2026 15:13:00 GMT",
+          "description": "De selectie van Advocaat, die onlangs besloot om tot medio 2027 bij Cura&#231;ao te blijven, speelt achtereenvolgens tegen Costa Rica (uit, 25 september), Nicaragua (thuis, 28 september) en een dubbele ..."
         },
         {
-          "title": "British Columbia klaagt OpenAI aan vanwege schietpartij op school in Tumbler Ridge",
-          "source": "MarketScreener",
-          "url": "https://nl.marketscreener.com/beursnieuws/british-columbia-klaagt-openai-aan-vanwege-schietpartij-op-school-in-tumbler-ridge-ce785adbd089f32d",
-          "publishedDate": "Mon, 21 Sep 2026 17:02:00 GMT",
-          "description": "British Columbia heeft OpenAI maandag in Californi&#235; aangeklaagd. De provincie stelt dat een schietpartij op een lokale school voorkomen had kunnen worden als het bedrijf de wetshandhavingsinstanties.."
+          "title": "Mbapp&#233; looft nieuwe bondscoach Zidane: 'Spelen onder hem is iets uit een film'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6410498/mbappe-looft-nieuwe-bondscoach-zidane-spelen-onder-hem-is-iets-uit-een-film.html",
+          "publishedDate": "Mon, 21 Sep 2026 09:52:00 GMT",
+          "description": "Kylian Mbapp&#233; heeft zich bij de start van Zin&#233;dine Zidane bij de Franse nationale ploeg lovend uitgelaten over de nieuwe bondscoach. De sterspeler van Real Madrid koestert warme herinneringen aan de F ..."
         },
         {
-          "title": "Deze foto’s tonen niet de dader van schietpartij in Canada",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/02/12/factcheck-schietpartij-canada/",
-          "publishedDate": "Fri, 13 Feb 2026 01:47:00 GMT",
-          "description": "Na de schietpartij in het Canadese Tumbler Ridge, duiken online talloze beelden op die de dader zouden tonen. Er zitten echte foto's bij van de dader. Maar sommige foto's tonen ook iemand die niets ..."
+          "title": "Xavi’s vuurdoop als bondscoach tegen Duitsland nadert. ‘Tactisch moeten we veel werk verzetten’",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/sport/xavi-s-vuurdoop-als-bondscoach-tegen-duitsland-nadert-tactisch-moeten-we-veel-werk-verzetten~b1718e41/",
+          "publishedDate": "Mon, 21 Sep 2026 09:24:00 GMT",
+          "description": "Xavi heeft zijn eerste selectie als bondscoach van het Nederlands elftal toegelicht. Nu wachten vier zware wedstrijden in de Nations League en een verbouwing van het elftal. ‘De enige belofte die ik k ..."
         },
         {
-          "title": "De politie stond de voorbije jaren al meermaals aan haar deur: wat we al weten over Canadese schoolschutter Jesse Van Rootselaar (18)",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/buitenland/de-politie-stond-de-voorbije-jaren-al-meermaals-aan-haar-deur-wat-we-al-weten-over-canadese-schoolschutter-jesse-van-rootselaar-18/131510839.html",
-          "publishedDate": "Thu, 12 Feb 2026 07:56:00 GMT",
-          "description": "Wat bezielde Jesse Van Rootselaar om eerst haar moeder en stiefbroertje te vermoorden, en vervolgens zes kinderen en een leerkracht dood te schieten in een school in het Canadese plaatsje Tumbler ..."
+          "title": "Hier kijk je naar Nederland - Duitsland en het debuut van bondscoach Xavi",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/hier-kijk-je-naar-nederland-duitsland-en-het-debuut-van-bondscoach-xavi/ar-AA2cKKi5",
+          "publishedDate": "Tue, 22 Sep 2026 05:59:57 GMT",
+          "description": "De interland Nederland - Duitsland betekent het debuut van Xavi Hern&#225;ndez als bondscoach van Oranje, VI zet de details rondom de uitzending van de Nations League-interland op een rijtje."
         },
         {
-          "title": "Naam van transseksueel die kinderen dood schoot in Canada vrijgegeven",
-          "source": "Fok",
-          "url": "https://frontpage.fok.nl/nieuws/888944/1/1/50/naam-van-transseksueel-die-kinderen-dood-schoot-in-canada-vrijgegeven.html",
-          "publishedDate": "Thu, 12 Feb 2026 00:26:00 GMT",
-          "description": "De Canadese politie heeft de identiteit beverstigd van de persoon die In het Canadese dorp Tumbler Ridge, zo’n 1.100 kilometer ten noordoosten van Vancouver, acht mensen dood schoot, onder wie zes ..."
+          "title": "Wie we daar hebben: bondscoach Red Flames komt kijkje nemen op training Duivels, die enkel Trossard missen",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/2026/09/22/wie-we-daar-hebben-bondscoach-red-flames-komt-kijkje-nemen-op-t~1790073130939/",
+          "publishedDate": "Tue, 22 Sep 2026 04:35:00 GMT",
+          "description": "De Rode Duivels draaien nu helemaal warm. Met Mark van Bommel opnieuw op het veld werkten de Belgen een tweede training af in Tubeke. Enkel Leandro Trossard moest met blessureperikelen afhaken. Er was ..."
         },
         {
-          "title": "Sport Showbizz Nina Regio Kijk Puzzel Podcast",
-          "source": "HLN",
-          "url": "https://www.hln.be/buitenland/dit-is-de-transvrouw-18-die-in-canada-haar-moeder-en-leerlingen-doodschoot-jesse-zat-vaak-alleen-in-een-hoekje~aff83423/",
-          "publishedDate": "Thu, 12 Feb 2026 00:26:00 GMT",
-          "description": "De eerste foto’s duiken op van Jesse Van Rootselaar, de 18-jarige trans vrouw die zes mensen doodschoot op een Canadese school in Tumbler Ridge. Naast een lerares (39) overleefden ook drie meisjes ..."
+          "title": "Bondscoach Dick Advocaat (bijna 79) van Cura&#231;ao laat zich uit over schrijnende priv&#233;situatie",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/bondscoach-dick-advocaat-bijna-79-van-curacao-laat-zich-uit-over-schrijnende-privesituatie-2026092122083819015/",
+          "publishedDate": "Mon, 21 Sep 2026 17:22:00 GMT",
+          "description": "Dick Advocaat is begonnen aan zijn laatste jaar als bondscoach van Cura&#231;ao. De Nederlandse toptrainer (78) beleefde op het WK voetbal een droom door met het Nederlandse eiland te debuteren en zelfs ..."
         },
         {
-          "title": "Politie maakt identiteit verdachte schietpartij Canada bekend: 18-jarige Jesse Van Rootselaar, dodental op negen",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/snelnieuws/politie-maakt-identiteit-verdachte-schietpartij-canada-bekend-18-jarige-jesse-van-rootselaar-dodental-op-negen~bd4411e8/",
-          "publishedDate": "Wed, 11 Feb 2026 13:26:00 GMT",
-          "description": "De politie heeft de identiteit van de dader van de schietincidenten in het Canadese dorp Tumbler Ridge bekendgemaakt. Het gaat om de 18-jarige Jesse Van Rootselaar. De autoriteiten hebben het dodental ..."
+          "title": "Eerste training van bondscoach Mark van Bommel levert opvallend oordeel over Mika Godts op",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/eerste-training-van-bondscoach-mark-van-bommel-levert-opvallend-oordeel-over-mika-godts-op/blt6e09d25ea8073f6a",
+          "publishedDate": "Mon, 21 Sep 2026 17:04:00 GMT",
+          "description": "Waar Xavi maandag dan echt begon aan zijn klus als bondscoach van het Nederlands elftal, heeft Mark van Bommel ook zijn eerste training bij de Belgische nationale ploeg erop zitten. Belgische media za ..."
         },
         {
-          "title": "Politie noemt 18-jarige als verdachte van schietpartij in Canada, dodental bijgesteld naar negen",
-          "source": "Standaard",
-          "url": "https://www.standaard.be/buitenland/politie-noemt-18-jarige-als-verdachte-van-schietpartij-in-canada-dodental-bijgesteld-naar-negen/130966323.html",
-          "publishedDate": "Wed, 11 Feb 2026 08:25:00 GMT",
-          "description": "Bij een van de dodelijkste schietpartijen ooit in Canada zijn al negen mensen om het leven gekomen. Volgens de lokale politie zou de dader een 18-jarige trans vrouw zijn, Jesse Van Rootselaar."
+          "title": "Bondscoach Xavi Hern&#225;ndez spreekt zich uit over absentie Memphis Depay (32): 'Dat vond ik het moeilijkste'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/bondscoach-xavi-hernandez-spreekt-zich-uit-over-absentie-memphis-depay-32-dat-vond-ik-het-moeilijkste-2026092108360460235/",
+          "publishedDate": "Mon, 21 Sep 2026 04:09:00 GMT",
+          "description": "Memphis Depay is &#233;&#233;n van de opvallende afwezigen in de selectie van het Nederlands elftal. Maandagochtend geeft bondscoach Xavi Hern&#225;ndez tekst en uitleg over het ontbreken van de topscorer aller tijd ..."
+        },
+        {
+          "title": "Bondscoach Serge Pauwels deelt ludiek steekje uit aan Remco Evenepoel",
+          "source": "Wielerflits Nederland on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/bondscoach-serge-pauwels-deelt-ludiek-steekje-uit-aan-remco-evenepoel/ar-AA2cFmYP",
+          "publishedDate": "Mon, 21 Sep 2026 01:52:00 GMT",
+          "description": "Voor de vierde keer op rij heeft Remco Evenepoel zondagavond de wereldtitel in het tijdrijden gepakt, bondscoach Serge Pauwels kwam nadien op het feestje van de Belgen met een speech vol lof, maar hij ..."
+        },
+        {
+          "title": "Bondscoach Ten Dam overweegt andere WK-voorbereiding wielrensters",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/bondscoach-ten-dam-overweegt-andere-wk-voorbereiding-wielrensters",
+          "publishedDate": "Sun, 20 Sep 2026 12:52:00 GMT",
+          "description": "MONTREAL (ANP) - Bondscoach Laurens ten Dam overweegt zich met de wielrensters in de toekomst intensiever voor te bereiden op de wereldkampioenschappen. Dat zei ..."
+        }
+      ]
+    },
+    {
+      "keyword": "ongeluk huissen",
+      "trafficLabel": "1K+",
+      "articles": [
+        {
+          "title": "Fietser overleden na ongeluk met vrachtwagen in Huissen, fiets stuk verderop gevonden",
+          "source": "RTL Nieuws (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/fietser-overleden-na-ongeluk-met-vrachtwagen-in-huissen-fiets-stuk-verderop-gevonden/ar-AA2cGUHE",
+          "publishedDate": "Mon, 21 Sep 2026 11:16:08 GMT",
+          "description": "In Huissen is vanmiddag een fietser overleden die werd aangereden door een vrachtwagen. Dat meldt de politie. De bestuurder van de vrachtwagen was doorgereden, maar meldde zich later wel bij de politi ..."
+        },
+        {
+          "title": "Dodelijk ongeval, Rob Jetten in Gelderland en jarenlange celstraf op 21 september",
+          "source": "Omroep Gelderland",
+          "url": "https://www.gld.nl/nieuws/8526978/dodelijk-ongeval-rob-jetten-in-gelderland-en-jarenlange-celstraf-op-21-september",
+          "publishedDate": "Mon, 21 Sep 2026 13:14:00 GMT",
+          "description": "Een fietser overlijdt na een botsing met een vrachtwagen in Huissen, premier Rob Jetten bezoekt Harderwijk en 't Harde en Vitesse krijgt na ruim twee jaar weer een technisch directeur. Ook neemt de dr ..."
+        },
+        {
+          "title": "Fietser overleden na aanrijding, fiets ruim twee kilometer verderop gevonden",
+          "source": "GelreNieuws.nl",
+          "url": "https://www.gelrenieuws.nl/2026/09/21/video/fietser-overleden-na-aanrijding-fiets-ruim-twee-kilometer-verderop-gevonden.html",
+          "publishedDate": "Mon, 21 Sep 2026 12:14:00 GMT",
+          "description": "HUISSEN – Op de kruising van de Karstraat en de Polseweg in Huissen heeft maandagmiddag rond 15:00 uur een ernstig ongeval plaatsgevonden. Een vrachtwagen kwam daar in botsing met een fietser. De fiet ..."
+        },
+        {
+          "title": "Fietser overleden na ongeluk met vrachtwagen in Huissen",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/fietser-overleden-na-ongeluk-met-vrachtwagen-in-huissen",
+          "publishedDate": "Mon, 21 Sep 2026 11:33:00 GMT",
+          "description": "De fietser die maandagmiddag ernstig gewond raakte bij een ongeluk met een vrachtwagen in Huissen is overleden. Dat meldt de politie."
+        },
+        {
+          "title": "Fietser overleden na dodelijk ongeval met vrachtwagen in Huissen",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/ongeluk/videos/fietser-overleden-na-dodelijk-ongeval-met-vrachtwagen-in-huissen",
+          "publishedDate": "Mon, 21 Sep 2026 11:08:00 GMT",
+          "description": "Een fietser is maandag overleden na een ernstig ongeluk met een vrachtwagen in Huissen. Toen agenten op de plek van het ongeval aankwamen, was de vrachtwagen niet meer aanwezig. De chauffeur heeft zic ..."
+        },
+        {
+          "title": "Fietser overleden na ongeval, fiets twee kilometer verderop gevonden",
+          "source": "Omroep Gelderland",
+          "url": "https://www.gld.nl/nieuws/8526931/fietser-overleden-na-ongeval-fiets-twee-kilometer-verderop-gevonden",
+          "publishedDate": "Mon, 21 Sep 2026 09:02:00 GMT",
+          "description": "De fietser die maandagmiddag ernstig gewond raakte bij een botsing met een vrachtwagen in Huissen, is aan de verwondingen overleden. Dat meldt de politie."
+        },
+        {
+          "title": "Fietser overleden bij ongeval met vrachtwagen in Huissen, doorgereden chauffeur meldt zich bij politie",
+          "source": "Transport Online",
+          "url": "https://www.transport-online.nl/139159/fietser-overleden-bij-ongeval-met-vrachtwagen-in-huissen-doorgereden-chauffeur-meldt-zich-bij-politie/",
+          "publishedDate": "Mon, 21 Sep 2026 09:02:00 GMT",
+          "description": "HUISSEN – Bij een ongeval met een vrachtwagen op de kruising van de Gochsestraat en de Karstraat in Huissen is maandagmiddag een fietser om het leven gekomen. De vrachtwagenchauffeur reed na de aanrij ..."
+        },
+        {
+          "title": "Fietser overleden na ongeluk met vrachtwagen in Huissen, chauffeur rijd door",
+          "source": "stedendriehoek",
+          "url": "https://www.stedendriehoek.nl/stedendriehoek/112/fietser-overleden-na-ongeluk-met-vrachtwagen-in-huissen-chauffeur-rijd-door/",
+          "publishedDate": "Mon, 21 Sep 2026 07:14:00 GMT",
+          "description": "HUISSEN – Op de kruising van de Gochsestraat en Karstraat in Huissen is maandagmiddag een fietser om het leven gekomen ..."
+        },
+        {
+          "title": "Ongeval met letsel in Huissen",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/112-nieuws-lingewaard/ongeval-met-letsel-in-huissen~a58ed1ae/",
+          "publishedDate": "Sun, 20 Sep 2026 23:02:00 GMT",
+          "description": "De brandweer is de afgelopen 30 dagen 16 keer naar Huissen gestuurd. De ambulance werd in die periode 82 keer gealarmeerd. Meer artikelen over de inzet van de hulpdiensten lees je in onze sectie 112 ..."
+        },
+        {
+          "title": "Weer een dodelijk ongeval met een vrachtwagen in Huissen, slachtoffer is vrouw uit Angeren: dit weten we nu",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/lingewaard/weer-een-dodelijk-ongeval-met-een-vrachtwagen-in-huissen-slachtoffer-is-vrouw-uit-angeren-dit-weten-we-nu~ac720893/",
+          "publishedDate": "Sun, 20 Sep 2026 22:18:00 GMT",
+          "description": "Opnieuw ging het maandagmiddag gruwelijk mis bij een berucht kruispunt in Huissen. Een&lt;a href=&quot;https://www.gelderlander.nl/lingewaard/fietser-komt-om-het-leven-bij-botsing-met-vrachtwagen-in-huissen~a ..."
+        }
+      ]
+    },
+    {
+      "keyword": "ryan gravenberch",
+      "trafficLabel": "1K+",
+      "articles": [
+        {
+          "title": "Ryan Gravenberch wacht in spanning selectie Oranje af: ‘Nee, ik heb nog geen zomervakantie geboekt’",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/sport/ryan-gravenberch-wacht-in-spanning-selectie-oranje-af-nee-ik-heb-nog-geen-zomervakantie-geboekt~b9ae3cac/",
+          "publishedDate": "Tue, 28 May 2024 07:27:00 GMT",
+          "description": "Ryan Gravenberch wacht in spanning selectie Oranje af: ‘Nee, ik heb nog geen zomervakantie geboekt’ Ryan Gravenberch afgelopen maandag in Zeist, op een training van Oranje. ‘Toch wel verrassend dat ik ..."
+        },
+        {
+          "title": "Ryan Gravenberch na debuutseizoen bij Bayern M&#252;nchen: ’Niet nog zo’n jaar’",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/voetbal/ryan-gravenberch-na-debuutseizoen-bij-bayern-munchen-niet-nog-zo-n-jaar/64204181.html",
+          "publishedDate": "Tue, 13 Jun 2023 23:00:00 GMT",
+          "description": "Gravenberch had in die moeilijke tijd steun aan zijn ’Ajax-maatjes’ Noussair Mazraoui en Daley Blind, maar bovenal aan zijn ouders. „Mijn vader en moeder zijn met mij meeverhuisd naar Duitsland”, legt ..."
+        },
+        {
+          "title": "Rondleiding: Ryan Gravenberch verhuurt dit appartement in Amsterdam Oud-West",
+          "source": "MAN MAN on MSN",
+          "url": "https://www.msn.com/nl-nl/geldzaken/algemeen/rondleiding-ryan-gravenberch-verhuurt-dit-appartement-in-amsterdam-oud-west/ar-AA1OLDf0",
+          "publishedDate": "Tue, 22 Sep 2026 05:17:53 GMT",
+          "description": "Ontdek dit volledig gemeubileerde appartement dat Ryan Gravenberch verhuurt met luxe afwerking, ruime kamers en een moderne keuken."
+        },
+        {
+          "title": "‘Liverpool ontploft door Ryan Gravenberch’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/liverpool-ontploft-door-ryan-gravenberch/",
+          "publishedDate": "Mon, 21 Sep 2026 12:31:00 GMT",
+          "description": "Er dreigt een serieuze rel bij Liverpool. Clubicoon Jamie Carragher denkt dat Ryan Gravenberch voor een tweedeling zorgt op Anfield door momenteel de bank ..."
+        },
+        {
+          "title": "‘Xavi gooit WK-sterspeler uit Oranje’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/xavi-gooit-wk-sterspeler-uit-oranje/",
+          "publishedDate": "Sat, 12 Sep 2026 15:03:00 GMT",
+          "description": "Wie was op het wereldkampioenschap van 2026 d&#233; sterspeler van het Nederlands elftal? Crysencio Summerville en Brian Brobbey deden het naar behoren, Jan ..."
+        },
+        {
+          "title": "Ryan Gravenberch ziet waarde drastisch dalen na dramatisch verlopen WK",
+          "source": "footballtransfers",
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/uk-premier-league/2026/08/ryan-gravenberch-ziet-bij-liverpool-waarde-drastisch-dalen",
+          "publishedDate": "Thu, 13 Aug 2026 10:15:00 GMT",
+          "description": "Dylan ter Laak is sinds 2022 actief in de voetbaljournalistiek en werkt sinds 2025 als redacteur bij FootballTransfers, waar hij schrijft over transfernieuws en achtergrondverhalen maakt. Maak ons je ..."
+        },
+        {
+          "title": "Ryan Gravenberch verlengt contract: 'Deal van 100 miljoen euro'",
+          "source": "FC Update",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/03/ryan-gravenberch-verbindt-toekomst-voor-lange-termijn-aan-liverpool",
+          "publishedDate": "Sat, 07 Mar 2026 08:06:00 GMT",
+          "description": "Ryan Gravenberch heeft zijn contract bij Liverpool verlengd. De 23-jarige middenvelder is nu tot medio 2032 verbonden aan de Premier League-topclub. Daarmee spreekt Liverpool nadrukkelijk het ..."
+        },
+        {
+          "title": "Derbyheld van Liverpool onbetaalbaar: Ryan Gravenberch stijgt gigantisch in waarde",
+          "source": "footballtransfers",
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/uk-premier-league/2025/09/derbyheld-van-liverpool-onbetaalbaar-ryan-gravenberch-stijgt-gigantisch-in-waarde",
+          "publishedDate": "Thu, 18 Sep 2025 07:37:00 GMT",
+          "description": "Ryan Gravenberch heeft zich zaterdag onsterfelijk gemaakt bij Liverpool met een doelpunt en assist tegen Everton. De middenvelder wordt ook bedolven onder de complimenten. Zijn transferwaarde is in ..."
+        },
+        {
+          "title": "Ryan Gravenberch opent eigen sportveldje in Liverpool",
+          "source": "jeugdjournaal",
+          "url": "https://jeugdjournaal.nl/l/2568324",
+          "publishedDate": "Thu, 22 May 2025 12:13:00 GMT",
+          "description": "Ryan Gravenberch speelt bij &#233;&#233;n van de beste clubs ter wereld: Liverpool. En in die Engelse stad heeft de voetballer ook een eigen sportveld geopend. Zo kunnen we iets teruggeven aan de mensen hier."
+        },
+        {
+          "title": "De titel van Ryan Gravenberch: ‘Dit maakt hem heel trots’",
+          "source": "Ajax Showtime",
+          "url": "https://www.ajaxshowtime.com/hoofdnieuws/de-titel-van-ryan-gravenberch-dit-maakt-hem-heel-trots",
+          "publishedDate": "Mon, 03 May 2021 14:10:00 GMT",
+          "description": "Blijf op de hoogte van het laatste Ajax Showtime-nieuws door ons als favoriete bron in Google in te stellen. Dat het seizoen 2020/2021 een belangrijk jaar in de carri&#232;re van Ryan Gravenberch wordt, ..."
         }
       ]
     }
