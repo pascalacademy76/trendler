@@ -1,292 +1,237 @@
 {
-  "fetchedAt": "2026-09-23T07:07:39.894Z",
+  "fetchedAt": "2026-09-23T12:51:03.523Z",
   "trends": [
     {
-      "keyword": "hayden panettiere",
-      "trafficLabel": "10K+",
+      "keyword": "nieuws",
+      "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Actrice Hayden Panettiere (36) overleed aan fentanyl-overdosis",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2632096-actrice-hayden-panettiere-36-overleed-aan-fentanyl-overdosis",
-          "publishedDate": "Tue, 22 Sep 2026 12:00:00 GMT",
-          "description": "Volgens het nu afgeronde autopsierapport nam de actrice per ongeluk een overdosis van de pijnstiller. Ze schreef eerder in haar memoires al dat ze jeugdtrauma's verdrong met drugs en alcohol."
-        },
-        {
-          "title": "Actrice Hayden Panettiere overleed door combinatie van drugs en medicijnen",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/actrice-hayden-panettiere-overleed-door-combinatie-van-drugs-en-medicijnen/ar-AA2cKZ65",
-          "publishedDate": "Tue, 22 Sep 2026 08:24:25 GMT",
-          "description": "Actrice Hayden Panettiere is overleden aan de gevolgen van het gebruik van de pijnstiller fentanyl en verschillende andere medicijnen. Dat heeft de lijkschouwer in Greenville County in de Amerikaanse ..."
-        },
-        {
-          "title": "Actrice Hayden Panettiere werd vlak voor haar dood nog vergeefs gereanimeerd",
+          "title": "‘Zakkenrollerseizoen is geopend’ en toch is er goed nieuws voor bezoekers van de Utrechtse binnenstad",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/actrice-hayden-panettiere-werd-vlak-voor-haar-dood-nog-vergeefs-gereanimeerd~a4b46085/",
-          "publishedDate": "Mon, 17 Aug 2026 00:46:00 GMT",
-          "description": "De Amerikaanse actrice Hayden Panettiere is vlak voor haar overlijden nog gereanimeerd door ambulancemedewerkers. Dat bevestigt de politie, die nog onderzoek doet, onder meer aan vakblad Variety. Verd ..."
+          "url": "https://www.ad.nl/utrecht/zakkenrollerseizoen-is-geopend-en-toch-is-er-goed-nieuws-voor-bezoekers-van-de-utrechtse-binnenstad~a1dac22c/",
+          "publishedDate": "Mon, 21 Sep 2026 17:57:00 GMT",
+          "description": "Goed nieuws voor bezoekers van de Utrechtse binnenstad: de kans dat je portemonnee of telefoon gestolen wordt tijdens een bezoekje aan het centrum is een stuk kleiner dan vorig jaar. Het aantal incide ..."
         },
         {
-          "title": "Actrice Hayden Panettiere (36) overleden, doodsoorzaak onbekend",
+          "title": "Het nieuws van vrijdag 4 september 2026",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/09/04/",
+          "publishedDate": "Thu, 03 Sep 2026 17:00:00 GMT",
+          "description": "In Oktober, Oktober is ‘woud-eenzaamheid’ een positief gevoel: de jonge Oktober woont veilig en gelukkig met haar vader in het bos, volgens het ritme van de natuur. Als de omstandigheden veranderen, ..."
+        },
+        {
+          "title": "Laatste Nieuws",
+          "source": "sportnieuws",
+          "url": "https://sportnieuws.nl/laatste-nieuws/",
+          "publishedDate": "Wed, 23 Sep 2026 03:02:00 GMT",
+          "description": "Isack Hadjar is weer helemaal terug op de grid en dat wordt ook beloond. De teamgenoot van Max Verstappen moest enkele races toekijken vanwege een slepende blessure, maar doet komend weekend weer mee."
+        },
+        {
+          "title": "Ibe Hautekiet komt met groot nieuws",
+          "source": "Voetbalkrant.com",
+          "url": "https://www.voetbalkrant.com/nieuws/2026-09-23/ibe-hautekiet-komt-met-groot-nieuws",
+          "publishedDate": "Wed, 23 Sep 2026 03:00:00 GMT",
+          "description": "Ibe Hautekiet heeft zich verloofd met zijn partner Immie. De verdediger van Standard de Li&#232;ge deelde op Instagram enkele beelden van zijn huwelijksaanzoek in Bordeaux, waar het koppel zichtbaar ge&#235;mot ..."
+        },
+        {
+          "title": "112-nieuws: Vrachtwagen botst op andere vrachtwagen op N366 bij Nieuwe Pekela",
+          "source": "RTV Noord",
+          "url": "https://www.rtvnoord.nl/112/1439633/112-nieuws-vrachtwagen-botst-op-andere-vrachtwagen-op-n366-bij-nieuwe-pekela",
+          "publishedDate": "Wed, 23 Sep 2026 02:40:00 GMT",
+          "description": "In dit 112-blog houden we je deze woensdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven."
+        },
+        {
+          "title": "112-nieuws: Traumahelikopter ingezet bij ernstig ongeval op N361 tussen Stad en Adorp",
+          "source": "RTV Noord",
+          "url": "https://www.rtvnoord.nl/112/1439405/112-nieuws-traumahelikopter-ingezet-bij-ernstig-ongeval-op-n361-tussen-stad-en-adorp",
+          "publishedDate": "Tue, 22 Sep 2026 19:29:00 GMT",
+          "description": "In dit 112-blog houden we je deze dinsdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven."
+        },
+        {
+          "title": "Slecht nieuws voor het verkeer: belangrijke grensroute dit weekend afgesloten door werk aan Duitse brug",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/buitenland/slecht-nieuws-voor-het-verkeer-belangrijke-grensroute-dit-weekend-afgesloten-door-werk-aan-duitse-brug~aec53a42/",
+          "publishedDate": "Fri, 18 Sep 2026 02:31:00 GMT",
+          "description": "Slecht nieuws voor het verkeer in de Duitse grensstreek. Een van de belangrijkste bruggen over de Rijn is dit weekend afgesloten. Dat kan betekenen dat je een flink stuk moet omrijden."
+        },
+        {
+          "title": "Grondstoffen stijgen hard: slecht nieuws voor inflatie &#233;n rente",
+          "source": "IEX.nl",
+          "url": "https://www.iex.nl/artikel/877969/Grondstoffen-stijgen-hard-slecht-nieuws-voor-inflatie-en-rente.aspx",
+          "publishedDate": "Fri, 18 Sep 2026 02:13:00 GMT",
+          "description": "Grondstoffen breken uit en beleven technisch een krachtige opleving. Dat is slecht nieuws voor inflatie &#233;n rente. Is het einde van de rentestijging nog niet in zicht?"
+        },
+        {
+          "title": "N&#243;g meer goed nieuws voor John van 't Schip, die financi&#235;le klapper maakt",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/john-van-t-schip-maakt-ruim-half-miljoen-winst-met-verkoop-fraaie-villa",
+          "publishedDate": "Tue, 15 Sep 2026 03:11:00 GMT",
+          "description": "N&#243;g meer goed nieuws voor John van 't Schip: de bondscoach van Kazachstan, die deze week een nieuwe liefde vond, heeft zijn villa met een winst van meer dan een half miljoen euro verkocht."
+        },
+        {
+          "title": "Veelbesproken beuk Ruben van Bommel tijdens Ajax - PSV ook in Belgi&#235; groot nieuws: 'Onbegrijpelijk'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/eredivisie-voetbal/nieuws/veelbesproken-beuk-ruben-van-bommel-tijdens-ajax-psv-ook-in-belgie-groot-nieuws-onbegrijpelijk-2026090610231783991/",
+          "publishedDate": "Sun, 06 Sep 2026 05:23:00 GMT",
+          "description": "De harde beuk van Ruben van Bommel op Aaron Bouwman tijdens Ajax - PSV zaterdagavond is ook in Belgi&#235; groot nieuws. De vleugelaanvaller van de regerend landskampioen is immers de zoon van Mark van ..."
+        }
+      ]
+    },
+    {
+      "keyword": "az - nec",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Gelijkspel bij NEC - Go Ahead Eagles • Zege Twente op PSV, AZ koploper en Feyenoord blijft scoren",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2627206-actrice-hayden-panettiere-36-overleden-doodsoorzaak-onbekend",
-          "publishedDate": "Sun, 16 Aug 2026 23:21:00 GMT",
-          "description": "De Amerikaanse actrice Hayden Panettiere is op 36-jarige leeftijd overleden. Dat heeft haar familie bekendgemaakt in een verklaring. Over de doodsoorzaak is niets gemeld. Panettiere was onder meer ..."
+          "url": "https://nos.nl/liveblog/2631732-gelijkspel-bij-nec-go-ahead-eagles-zege-twente-op-psv-az-koploper-en-feyenoord-blijft-scoren",
+          "publishedDate": "Sun, 20 Sep 2026 02:29:00 GMT",
+          "description": "In dit liveblog alles over de voetbalzondag in speelronde 7 van de eredivisie, met vandaag de top drie in actie."
         },
         {
-          "title": "Doodsoorzaak Hayden Panettiere bevestigd als onopzettelijke overdosis",
-          "source": "Newsmonkey on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/doodsoorzaak-hayden-panettiere-bevestigd-als-onopzettelijke-overdosis/ar-AA2cLLyp",
-          "publishedDate": "Tue, 22 Sep 2026 12:31:00 GMT",
-          "description": "In het kort Het kantoor van de lijkschouwer van Greenville County in South Carolina heeft de autopsieresultaten vrijgegeven, waaruit blijkt dat Hayden Panettiere is overleden door een dodelijke combin ..."
+          "title": "NEC en AZ treffen beide Juventus en Benfica, Ajax loot Atalanta en Twente treft Freiburg",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2628640-nec-en-az-treffen-beide-juventus-en-benfica-ajax-loot-atalanta-en-twente-treft-freiburg",
+          "publishedDate": "Fri, 28 Aug 2026 06:58:00 GMT",
+          "description": "De loting voor de competitiefase van de Europa League en Conference League is geweest, maar de exacte speeldata is nog niet bekend."
         },
         {
-          "title": "Actrice Hayden Panettiere stierf aan accidentele overdosis, blijkt uit autopsie",
-          "source": "VRT on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/actrice-hayden-panettiere-stierf-aan-accidentele-overdosis-blijkt-uit-autopsie/ar-AA2cLrBd",
-          "publishedDate": "Tue, 22 Sep 2026 11:22:03 GMT",
-          "description": "Een maand na het overlijden van actrice Hayden Panettiere is de doodsoorzaak bekend. Volgens de autopsie stierf ze aan een overdosis medicijnen, waaronder de gevaarlijke pijnstiller fentanyl. Volgens ..."
-        },
-        {
-          "title": "Doodsoorzaak Hayden Panettiere bekend: actrice stierf na accidentele overdosis met fentanyl en andere drugs",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/celebrities/doodsoorzaak-hayden-panettiere-bekend-actrice-stierf-na-accidentele-overdosis-met-fentanyl-en-andere-drugs~ad52068b/",
-          "publishedDate": "Tue, 22 Sep 2026 02:07:00 GMT",
-          "description": "De doodsoorzaak van Hayden Panettiere is bekend. De Amerikaanse actrice is overleden aan de toxische effecten van een combinatie van verschillende drugs, waaronder fentanyl. Volgens de gerechtsarts in ..."
-        },
-        {
-          "title": "Actrice Hayden Panettiere (36) overleden",
-          "source": "shownieuws",
-          "url": "https://www.shownieuws.nl/algemeen/buitenland/artikelen/actrice-hayden-panettiere-36-overleden",
-          "publishedDate": "Mon, 17 Aug 2026 16:35:00 GMT",
-          "description": "Hayden stond al op zeer jonge leeftijd voor de camera en groeide uiteindelijk uit tot een bekend gezicht in Hollywood. Haar grote internationale doorbraak kwam in 2006 dankzij de populaire ..."
-        },
-        {
-          "title": "Actrice Hayden Panettiere op 36-jarige leeftijd overleden",
-          "source": "Cosmopolitan",
-          "url": "https://www.cosmopolitan.com/nl/entertainment/a73448435/hayden-panettiere-overleden/",
-          "publishedDate": "Sun, 16 Aug 2026 22:52:00 GMT",
-          "description": "Actrice Hayden Panettiere is zondag 16 augustus 2026 overleden. Ze werd slechts 36 jaar. Haar vertegenwoordiger bevestigde het verdrietige nieuws aan ABC News. Een doodsoorzaak is vooralsnog niet ..."
-        },
-        {
-          "title": "Hayden Panettiere, bekend van ‘Scream’ en ‘Heroes’, op 36-jarige leeftijd overleden, hulpverleners spraken over mogelijke overdosis",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/celebrities/hayden-panettiere-bekend-van-scream-en-heroes-op-36-jarige-leeftijd-overleden-hulpverleners-spraken-over-mogelijke-overdosis~a02bc3ce/",
-          "publishedDate": "Sun, 16 Aug 2026 20:41:00 GMT",
-          "description": "Hayden Panettiere is op 36-jarige leeftijd overleden. Haar vertegenwoordiger heeft haar overlijden bevestigd aan ABC News. Over de doodsoorzaak is nog niets bekendgemaakt, maar inmiddels zijn er wel a ..."
-        }
-      ]
-    },
-    {
-      "keyword": "omroep west",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Kabouterbos opnieuw aan gort geslagen, Gerda is er helemaal kapot van",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/misdaad/5151334/kabouterbos-opnieuw-aan-gort-geslagen-gerda-is-er-helemaal-kapot-van",
-          "publishedDate": "Tue, 22 Sep 2026 21:30:00 GMT",
-          "description": "Het kabouterbos in Alphen aan den Rijn is w&#233;&#233;r vernield. Voor de derde keer in twee maanden hebben vandalen de kabouters en huisjes verwoest. Gerda Bonninga, die de afgelopen maanden keer op keer zag ..."
-        },
-        {
-          "title": "Drietal ontkent ontvoering na mislukte autodeal: 'Hij kon bij elk stoplicht uitstappen'",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/misdaad/5151495/drietal-ontkent-ontvoering-na-mislukte-autodeal-hij-kon-bij-elk-stoplicht-uitstappen",
-          "publishedDate": "Tue, 22 Sep 2026 21:16:00 GMT",
-          "description": "Belandde een man uit Leiden in 2021 in de nachtmerrie van een ontvoering? Of is hij een fantast, zoals de advocaten van zijn vermeende belagers suggereren? 'Deze man is verslaafd aan lachgas en verwar ..."
-        },
-        {
-          "title": "'Houd je bek!', winkeliers ervaren overlast van hardrijdende fietsers en fatbikers",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/verkeer/5151462/houd-je-bek-winkeliers-ervaren-overlast-van-hardrijdende-fietsers-en-fatbikers",
-          "publishedDate": "Tue, 22 Sep 2026 21:00:00 GMT",
-          "description": "'Drama', noemt Loraine Grotenhuis de situatie in winkelcentrum de Herenhof in Alphen aan den Rijn. Grotenhuis werkt bij een van de winkels en ziet hoe veel jongeren op hun fiets en fatbike door het ce ..."
-        },
-        {
-          "title": "Fietsers en fatbikers 'jassen' door winkelcentrum: 'Je krijgt vaak een grote bek terug'",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/verkeer/5151462/fietsers-en-fatbikers-jassen-door-winkelcentrum-je-krijgt-vaak-een-grote-bek-terug",
-          "publishedDate": "Tue, 22 Sep 2026 21:00:00 GMT",
-          "description": "'Drama', noemt Loraine Grotenhuis de situatie in winkelcentrum de Herenhof in Alphen aan den Rijn. Grotenhuis werkt bij een van de winkels en ziet hoe veel jongeren op hun fiets en fatbike door het ce ..."
-        },
-        {
-          "title": "Den Haag slaat alarm over criminele zorgaanbieders: 'Dweilen met de kraan open'",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/politiek/5151503/den-haag-slaat-alarm-over-criminele-zorgaanbieders-dweilen-met-de-kraan-open",
-          "publishedDate": "Tue, 22 Sep 2026 13:31:00 GMT",
-          "description": "De gemeente Den Haag wil dat het Rijk met maatregelen komt tegen malafide zorgaanbieders en criminele netwerken in de stad, meldt het ANP. 'De aanpak van zorgfraude is hard nodig', schrijven de drie g ..."
-        },
-        {
-          "title": "VV Noordwijk en VVSB plaatsen zich voor hoofdtoernooi KNVB Beker",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/sport/5151270/vv-noordwijk-en-vvsb-plaatsen-zich-voor-hoofdtoernooi-knvb-beker",
-          "publishedDate": "Tue, 22 Sep 2026 12:56:00 GMT",
-          "description": "VV Noordwijk heeft zich geplaatst voor het hoofdtoernooi van de KNVB Beker. In de tweede kwalificatieronde werd thuis met 1-0 gewonnen van het Friese LAC Frisia. Ook VVSB zit vrijdagavond in de ballet ..."
-        },
-        {
-          "title": "90-jarige vrouw wordt opgelicht door nepagenten en raakt sieraden van overleden man kwijt",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/misdaad/5151493/90-jarige-vrouw-wordt-opgelicht-door-nepagenten-en-raakt-sieraden-van-overleden-man-kwijt",
-          "publishedDate": "Tue, 22 Sep 2026 12:10:00 GMT",
-          "description": "Een 21-jarige Amsterdammer zou meerdere oudere vrouwen in Gouda en Reeuwijk hebben opgelicht. Door middel van zogenoemde 'politiemedewerkerfraude' werden onder andere sieraden buitgemaakt. Het OM eist ..."
-        },
-        {
-          "title": "Komst 8000 woningen weer dichterbij: ook minister trekt beroep tegen bouw nieuw dorp in",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/politiek/5151440/komst-8000-woningen-weer-dichterbij-ook-minister-trekt-beroep-tegen-bouw-nieuw-dorp-in",
-          "publishedDate": "Tue, 22 Sep 2026 11:00:00 GMT",
-          "description": "De achtduizend nieuwe woningen in de Zuidplaspolder komen opnieuw dichterbij. Minister Vincent Karremens van Infrastructuur en Waterstaat verzet zich niet langer tegen de bouw van het nieuwe dorp, mel ..."
-        },
-        {
-          "title": "Politie dringend op zoek naar vermiste vrouw",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/112/5151473/politie-dringend-op-zoek-naar-vermiste-vrouw",
-          "publishedDate": "Tue, 22 Sep 2026 08:12:00 GMT",
-          "description": "In Delft wordt al bijna anderhalve week een vrouw vermist. De politie maakt zich zorgen en slaat daarom dinsdag alarm met haar naam en foto."
-        },
-        {
-          "title": "Zak met water en zand in gezicht van trambestuurder gegooid",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/misdaad/5151337/zak-met-water-en-zand-in-gezicht-van-trambestuurder-gegooid",
-          "publishedDate": "Tue, 22 Sep 2026 08:00:00 GMT",
-          "description": "Een groep jongeren van 10 tot 18 jaar zorgt voor overlast in de omgeving van de Nieboerweg in Den Haag. De politie zegt dat ze met stenen, stokken, ijsballonnen en waterballonnen gooien. Een voorwerp ..."
-        }
-      ]
-    },
-    {
-      "keyword": "n.e.c.",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Koopmeiners geniet van moment in de Eredivisie: 'Onze vriendinnen zijn goed met elkaar'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/koopmeiners-geniet-van-rentree-schuurs-onze-vriendinnen-zijn-goed-met-elkaar",
-          "publishedDate": "Fri, 18 Sep 2026 01:03:00 GMT",
-          "description": "Teun Koopmeiners geniet van de rentree van Perr Schuurs bij N.E.C. De Juventus-speler kent de verdediger uit hun gezamenlijke periode in Itali&#235;, waar ook hun vriendinnen bevriend raakten."
-        },
-        {
-          "title": "Feyenoord wint zonder Hadj Moussa van N.E.C. na heerlijke tweede helft",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/feyenoord-wint-zonder-hadj-moussa-van-nec-na-heerlijke-tweede-helft",
-          "publishedDate": "Sat, 05 Sep 2026 11:24:00 GMT",
-          "description": "Feyenoord heeft zaterdagmiddag met 1-3 gewonnen op bezoek bij NEC. Na een kleurloze eerste helft barstte het duel na rust volledig los."
-        },
-        {
-          "title": "LIVE • N.E.C. - Feyenoord 1-3 [FT]",
-          "source": "1908.nl",
-          "url": "https://1908.nl/artikelen/live-feyenoord-zaterdagmiddag-op-bezoek-bij-nec",
-          "publishedDate": "Sat, 05 Sep 2026 09:30:00 GMT",
-          "description": "Feyenoord vervolgt de VriendenLoterij Eredivisie zaterdagmiddag met een uitwedstrijd tegen N.E.C. De ploeg van Giovanni van Bronckhorst trapt om 16.30 uur af in het Goffertstadion en hoopt na het punt ..."
-        },
-        {
-          "title": "Ajax - N.E.C.",
-          "source": "johancruijffarena",
-          "url": "https://www.johancruijffarena.nl/kalender/451504-ajax-nec/",
-          "publishedDate": "Mon, 22 Jun 2026 05:44:00 GMT",
-          "description": "Wij zijn trots! De Johan Cruijff ArenA is officieel B Corp™ gecertificeerd. Een internationale erkenning voor organisaties die aantoonbaar positieve impact maken op mens, maatschappij en planeet."
-        },
-        {
-          "title": "Feyenoord - N.E.C.",
-          "source": "feyenoord",
-          "url": "https://www.feyenoord.com/nl/tickets/kaartverkoopinformatie/feyenoord-n.e.c.",
-          "publishedDate": "Sat, 22 Nov 2025 16:00:00 GMT",
-          "description": "Toegang tot jouw tickets Feyenoord heeft de toegangsmogelijkheden tot de wedstrijden verruimd. Seizoenkaarten en losse tickets zijn nu ook beschikbaar in de ticketshop. Op deze pagina vind je alle ..."
-        },
-        {
-          "title": "Uitgelicht: N.E.C. wervelend van start",
-          "source": "eredivisie.nl",
-          "url": "https://eredivisie.nl/nieuws/uitgelicht-n-e-c-wervelend-van-start/",
-          "publishedDate": "Fri, 15 Aug 2025 00:14:00 GMT",
-          "description": "De komst van Dick Schreuder luidt een nieuw tijdperk in voor N.E.C. Na vijf seizoenen onder Rogier Meijer was de roep om aanvallender voetbal groot. In speelronde 1 kregen de fans direct waar ze op ..."
-        },
-        {
-          "title": "Nexperia nieuwe hoofdsponsor N.E.C.",
-          "source": "sponsorreport",
-          "url": "https://www.sponsorreport.nl/sportnexperia-nieuwe-hoofdsponsor-n-e-c/",
-          "publishedDate": "Fri, 17 May 2024 08:00:00 GMT",
-          "description": "Nexperia, een halfgeleiderfabrikant met het hoofdkantoor in Nijmegen, prijkt de komende drie seizoenen op de borst van het N.E.C.-shirt. KlokGroep neemt voortijdig afscheid van de voorkant van het ..."
-        },
-        {
-          "title": "Liveblog • N.E.C. - Feyenoord • 2 - 3 [FT]",
-          "source": "1908",
-          "url": "https://1908.nl/artikelen/liveblog-nec-feyenoord-aftrap-1430",
-          "publishedDate": "Sun, 12 May 2024 08:21:00 GMT",
-          "description": "In speelronde 33 van dit eredivisieseizoen staat de replay van de bekerfinale op het programma. Deze keer is het treffen in Nijmegen en staat er een stuk minder op het spel voor de Rotterdammers. Voor ..."
-        },
-        {
-          "title": "Uitgelicht: N.E.C. in topvorm op jacht naar records",
-          "source": "eredivisie.nl",
-          "url": "https://eredivisie.nl/nieuws/uitgelicht-nec-in-topvorm-op-jacht-naar-records/",
-          "publishedDate": "Tue, 05 Dec 2023 16:00:00 GMT",
-          "description": "Het was een drukke transferwinter voor N.E.C., dat onder meer Magnus Mattsson, Elayis Tavsan en Sai van Wermeskerken kwijtraakte, maar wel enkele nieuwe krachten mocht verwelkomen in Tjaronn Chery, ..."
-        },
-        {
-          "title": "N.E.C. sluit partnership met Hornbach",
-          "source": "sponsorreport",
-          "url": "https://www.sponsorreport.nl/sportn-e-c-sluit-partnership-met-hornbach/",
-          "publishedDate": "Sat, 25 Feb 2023 01:15:00 GMT",
-          "description": "N.E.C. heeft een partnerovereenkomst getekend met Projectbouwmarkt HORNBACH. Daarnaast is de bouw van HORNBACH Nijmegen in volle gang. De samenwerking tussen de Projectbouwmarkt en N.E.C. loopt tot en ..."
-        }
-      ]
-    },
-    {
-      "keyword": "temperatuur",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Warme lucht komt naar Nederland: zeldzame temperaturen mogelijk voor begin oktober",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/nederland/warme-lucht-komt-naar-nederland-zeldzame-temperaturen-mogelijk-voor-begin-oktober~bf3f2477/",
-          "publishedDate": "Tue, 22 Sep 2026 05:08:00 GMT",
-          "description": "Volgende week is er kans op zeldzaam warm herfstweer aan het begin van oktober. Door de aanvoer van warme lucht vanuit het zuiden kunnen de temperaturen in Nederland flink stijgen, met in het zuiden z ..."
-        },
-        {
-          "title": "Temperatuur gaat volgende week flink stijgen: kans op wel 25 graden",
+          "title": "AZ en NEC treffen allebei grootmachten Juventus en Benfica in Europa League",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/binnenland/6410184/temperatuur-gaat-volgende-week-flink-stijgen-kans-op-wel-25-graden.html",
-          "publishedDate": "Fri, 18 Sep 2026 04:26:00 GMT",
-          "description": "In het weekend krijgen we te maken met wisselvallig weer. Er zijn droge periodes met af en toe zon, maar er kunnen ook flinke regenbuien vallen. Volgende week wordt het warmer. In het zuiden kan de te ..."
+          "url": "https://www.nu.nl/voetbal/6407862/az-en-nec-treffen-allebei-grootmachten-juventus-en-benfica-in-europa-league.html",
+          "publishedDate": "Fri, 28 Aug 2026 06:32:00 GMT",
+          "description": "AZ en NEC zijn vrijdag bij de loting voor de competitiefase van de Europa League gekoppeld aan Juventus en Benfica. AZ ontvangt de Italiaanse recordkampioen, terwijl NEC de Portugese topclub op bezoek ..."
         },
         {
-          "title": "Zomer 2026 is de warmste ooit gemeten in Nederland",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628446-zomer-2026-is-de-warmste-ooit-gemeten-in-nederland",
-          "publishedDate": "Thu, 27 Aug 2026 00:00:00 GMT",
-          "description": "NOS gebruikt Functionele en Analytische cookies voor website optimalisatie en statistieken."
+          "title": "Deze teams kunnen Ajax, AZ, NEC en FC Twente vandaag loten in Europa",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6407800/deze-teams-kunnen-ajax-az-nec-en-fc-twente-vandaag-loten-in-europa.html",
+          "publishedDate": "Fri, 28 Aug 2026 00:01:00 GMT",
+          "description": "Na de Champions League-loting van PSV en Feyenoord is het een dag later de beurt aan de Europa League en de Conference League. Dit zijn de mogelijke tegenstanders van AZ, NEC, Ajax en FC Twente."
         },
         {
-          "title": "Nazomerse temperaturen in aantocht: kwik loopt verder op",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/weer/weerbericht/artikelen/zacht-herfstweer-woensdag-22-graden",
-          "publishedDate": "Wed, 23 Sep 2026 00:07:00 GMT",
-          "description": "Het herfstweer blijft zacht. Woensdag wordt het lokaal 22 graden en ook na het weekend loopt de temperatuur verder op, met geregeld ruimte voor zon."
+          "title": "Krakers voor AZ en NEC in de Europa League: beide clubs treffen Benfica &#233;n Juventus",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/krakers-voor-az-en-nec-in-de-europa-league-beide-clubs-treffen-benfica-en-juventus~af056047/",
+          "publishedDate": "Thu, 27 Aug 2026 22:27:00 GMT",
+          "description": "De tegenstanders van AZ en NEC zijn bekend in de competitiefase van de Europa League. De Nederlandse clubs treffen de onderstaande acht tegenstanders, met allebei krakers tegen zowel Benfica als Juven ..."
         },
         {
-          "title": "Draagbare temperatuur- en vochtigheidsmeter: Gebruiksklare modules",
-          "source": "Elektor Magazine",
-          "url": "https://www.elektormagazine.nl/articles/draagbare-temperatuur-en-vochtigheidsmeter",
-          "publishedDate": "Mon, 14 Sep 2026 16:59:00 GMT",
-          "description": "Bouw op een eenvoudige manier moderne elektronica: combineer kant-en-klare modules met een beetje bedrading en software om een compleet nieuw apparaat te m ..."
+          "title": "Bizar: NEC verliest vriendschappelijke wedstrijd met 9-0 (!)",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/bizar-nec-verliest-vriendschappelijke-wedstrijd-met-9-0",
+          "publishedDate": "Tue, 22 Sep 2026 13:35:00 GMT",
+          "description": "NEC heeft een oefenwedstrijd achter gesloten deuren tegen AZ met liefst 9-0 verloren. De ploeg van Dick Schreuder speelde zonder spelers uit de hoofdmacht en kreeg in een duel van 120 minuten negen go ..."
         },
         {
-          "title": "Slimme koortsthermometers om je temperatuur te meten",
-          "source": "iCulture",
-          "url": "https://www.iculture.nl/gids/slimme-thermometers/",
-          "publishedDate": "Tue, 08 Sep 2026 17:01:00 GMT",
-          "description": "Wil je je temperatuur in de gaten houden, dan kun je een gewone thermometer gebruiken. Maar met een slimme thermometer kun je ook nog de temperatuur over langere tijd bijhouden en de data ..."
+          "title": "Kasius keert terug bij AZ tijdens grote oefenzege op Jong NEC",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/kasius-keert-terug-bij-az-tijdens-grote-oefenzege-op-jong-nec/ar-AA2cLST2",
+          "publishedDate": "Tue, 22 Sep 2026 12:24:48 GMT",
+          "description": "Denso Kasius heeft voor het eerst sinds eind juli weer minuten gemaakt in het shirt van AZ. De rechtsback was zelfs tweemaal trefzeker tijdens een grote oefenzege in 120 minuten voetbal op Jong NEC: 9 ..."
         },
         {
-          "title": "Centraal Nederland Temperatuur",
-          "source": "knmi",
-          "url": "https://www.knmi.nl/kennis-en-datacentrum/uitleg/centraal-nederland-temperatuur",
-          "publishedDate": "Thu, 14 Jan 2016 03:30:00 GMT",
-          "description": "De Centraal Nederland Temperatuur biedt een beschrijving van de temperatuur. Metingen uit het verleden zijn hierdoor vergelijkbaar met de huidige. Hoe de temperatuur in Nederland veranderd is, weten ..."
+          "title": "AZ wint met 9-0 van NEC en ziet Kasius rentree maken na blessure",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/az-wint-met-9-0-van-nec-en-ziet-kasius-rentree-maken-na-blessure/ar-AA2cLbNp",
+          "publishedDate": "Tue, 22 Sep 2026 12:05:00 GMT",
+          "description": "AZ heeft dinsdag een grote oefenzege geboekt op NEC. De Alkmaarders waren in 120 minuten voetbal met liefst 9-0 te sterk voor de Eredivisie-concurrent, meldt Voetbal International. Bovendien maakte De ..."
+        },
+        {
+          "title": "Rondje Europa: terugblikken op pijnlijke avond NEC in Turijn",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/rondje-europa-terugblikken-op-pijnlijke-avond-nec-in-turijn",
+          "publishedDate": "Fri, 18 Sep 2026 04:59:00 GMT",
+          "description": "De eerste speelronde van de Europa League leverde geen punten op voor de Nederlandse afvaardiging. In navolging van AZ verloor ook NEC zijn eerste wedstrijd. In Rondje Europa blikken we terug op de af ..."
+        },
+        {
+          "title": "Europees speelschema AZ, NEC, Ajax en Twente bekend",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/europees-speelschema-az-nec-ajax-en-twente-bekend",
+          "publishedDate": "Sat, 29 Aug 2026 14:30:00 GMT",
+          "description": "Het speelschema van de competitiefase van de Europa League en de Conference League is bekend. Op deze datums komen AZ, NEC, Ajax en FC Twente in actie: ..."
+        }
+      ]
+    },
+    {
+      "keyword": "ronald koeman jr",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Steun voor Koeman jr. raakt heel Telstar: 'Heb hele minuut naar Ronald gekeken'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6410387/steun-voor-koeman-jr-raakt-heel-telstar-heb-hele-minuut-naar-ronald-gekeken.html",
+          "publishedDate": "Sun, 20 Sep 2026 11:26:00 GMT",
+          "description": "Enkele dagen na het overlijden van zijn moeder Bartina stond Telstar-keeper Ronald Koeman jr. onder de lat bij de uitwedstrijd tegen AZ. Het leidde tot een emotionele middag in het AFAS Stadion, na ee ..."
+        },
+        {
+          "title": "In beeld | Ronald Koeman junior in tranen bij eerbetoon aan moeder Bartina",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6410376/ronald-koeman-junior-in-tranen-bij-eerbetoon-aan-moeder-bartina.html",
+          "publishedDate": "Sun, 20 Sep 2026 08:37:00 GMT",
+          "description": "Het publiek, de spelers en de stafleden stonden zondag bij AZ-Telstar stil bij het overlijden van Bartina Koeman. Telstar-doelman Ronald Koeman junior was zichtbaar ge&#235;motioneerd tijdens het eerbetoon ..."
+        },
+        {
+          "title": "‘Steenrijke transfer voor Ronald Koeman junior’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/steenrijke-transfer-voor-ronald-koeman-junior/",
+          "publishedDate": "Wed, 23 Sep 2026 05:23:00 GMT",
+          "description": "Johan Derksen dat Ronald Koeman en zijn zoon voor het grote geld zouden kiezen als die mogelijkheid zich zou aandienen."
+        },
+        {
+          "title": "Buitenlandse media schrijven massaal over overleden Bartina Koeman (65)",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/buitenlandse-media-schrijven-massaal-over-overleden-bartina-koeman",
+          "publishedDate": "Mon, 21 Sep 2026 09:45:00 GMT",
+          "description": "Het emotionele eerbetoon aan Bartina Koeman bij Telstar - AZ maakt wereldwijd diepe indruk op toonaangevende buitenlandse media."
+        },
+        {
+          "title": "Buitenlandse media vol lof over indrukwekkend eerbetoon aan Bartina Koeman",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/buitenlandse-media-vol-lof-over-indrukwekkend-eerbetoon-aan-bartina-koeman-2026092111595377225/",
+          "publishedDate": "Mon, 21 Sep 2026 07:36:00 GMT",
+          "description": "Tijdens het duel tussen Telstar en AZ werd zondag op indrukwekkende wijze stilgestaan bij het overlijden van Bartina Koeman. Telstar-doelman Ronald Koeman Jr. kon zijn tranen niet bedwingen en de ..."
+        },
+        {
+          "title": "Lof voor Ronald Koeman Jr na eerbetoon aan overleden moeder Bartina: 'Dat is enorm ingrijpend'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/eredivisie-voetbal/nieuws/lof-voor-ronald-koeman-jr-na-eerbetoon-aan-overleden-moeder-bartina-dat-is-enorm-ingrijpend-2026092021100880659/",
+          "publishedDate": "Sun, 20 Sep 2026 23:00:00 GMT",
+          "description": "Het overlijden van Bartina Koeman, de vrouw van voetbalicoon Ronald, kwam deze week keihard aan in de voetbalwereld. Hun zoon Ronald Jr stond zondag alweer op het veld als keeper van Telstar en barstt ..."
+        },
+        {
+          "title": "Indrukwekkend: Ronald Koeman jr. emotioneel door eerbetoon aan overleden moeder",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/lifestyle/other/indrukwekkend-ronald-koeman-jr-emotioneel-door-eerbetoon-aan-overleden-moeder/ar-AA2cEcrh",
+          "publishedDate": "Sun, 20 Sep 2026 21:00:00 GMT",
+          "description": "In de twaalfde minuut van AZ-Telstar werd zondag stilgestaan bij het overlijden van Bartina Koeman. Het publiek, de spelers en stafleden eerden de moeder van Telstar-doelman Ronald Koeman junior, die ..."
+        },
+        {
+          "title": "Telstar geeft Koeman Jr. alle ruimte: 'Voor mij is hij de Man van de Wedstrijd'",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/telstar-geeft-koeman-jr-alle-ruimte-hij-wilde-koste-wat-het-kost-spelen",
+          "publishedDate": "Sun, 20 Sep 2026 16:40:00 GMT",
+          "description": "Ronald Koeman Jr. verloor afgelopen week zijn moeder, maar twijfelde geen moment of hij tegen AZ zou spelen. Dat vertelde Henk Brugge, de trainer van Telstar, die een inkijkje gaf in hoe de emotionele ..."
+        },
+        {
+          "title": "Ronald Koeman jr. in tranen na schitterend eerbetoon voor overleden moeder",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/koeman-eerbetoon-az-telstar-bartina",
+          "publishedDate": "Sun, 20 Sep 2026 08:10:00 GMT",
+          "description": "AZ en Telstar hebben zondag stilgestaan bij het overlijden van Bartina Koeman, de moeder van Telstar-doelman Ronald Koeman junior. In de twaalfde minuut volgde een indrukwekkend gezamenlijk eerbetoon ..."
+        },
+        {
+          "title": "Kippenvel in Alkmaar: doelman Ronald Koeman jr. barst in tranen uit na emotioneel eerbetoon voor overleden moeder",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/2026/09/20/kippenvel-in-alkmaar-doelman-ronald-koeman-jr-barst-in-tranen-uit-na-emotioneel-eerbetoon-voor-overleden-moeder~1789913241634/",
+          "publishedDate": "Sun, 20 Sep 2026 07:12:00 GMT",
+          "description": "Voetbal werd zondagmiddag plots bijzaak in het AFAS Stadion. Tijdens de wedstrijd tussen AZ en Telstar brachten spelers en supporters een pakkend eerbetoon aan de overleden Bartina Koeman. Haar zoon, ..."
         }
       ]
     },
     {
       "keyword": "red bull racing rb14",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "Max Verstappens RB14 heeft nu nog camouflagekleuren",
@@ -354,382 +299,444 @@
       ]
     },
     {
-      "keyword": "hyrox",
-      "trafficLabel": "5K+",
+      "keyword": "hayden panettiere",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Ontslag na Hyrox-deelname met ziekte van Pfeiffer",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/ontslag-na-hyrox-deelname-met-ziekte-van-pfeiffer/ar-AA2cIiwM",
-          "publishedDate": "Mon, 21 Sep 2026 22:11:57 GMT",
-          "description": "Niet werken vanwege stressgerelateerde vermoeidheid, de ziekte van Pfeiffer en een keelontsteking zal bij alle werkgevers op begrip kunnen rekenen. Het wordt alleen ingewikkeld als dezelfde medewerker ..."
-        },
-        {
-          "title": "Medewerkster doet mee aan loodzware Hyrox terwijl ze ziek thuiszit en wordt op staande voet ontslagen",
+          "title": "Actrice Hayden Panettiere (36) overleed aan combinatie van drugs en medicijnen",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/medewerkster-doet-mee-aan-loodzware-hyrox-terwijl-ze-ziek-thuiszit-en-wordt-op-staande-voet-ontslagen~a02bc043/",
-          "publishedDate": "Mon, 21 Sep 2026 21:20:00 GMT",
-          "description": "Een maand thuis vanwege de ziekte van Pfeiffer en een zware keelontsteking, maar ondertussen wel deelnemen aan een loodzware Hyrox, een internationale fitnesscompetitie waarbij hardlopen wordt gecombi ..."
+          "url": "https://www.ad.nl/show/actrice-hayden-panettiere-36-overleed-aan-combinatie-van-drugs-en-medicijnen~a695c64f/",
+          "publishedDate": "Tue, 22 Sep 2026 18:12:00 GMT",
+          "description": "Actrice Hayden Panettiere is overleden aan de gevolgen van het gebruik van de pijnstiller fentanyl en verschillende andere medicijnen. Dat heeft de lijkschouwer in Greenville County in de Amerikaanse ..."
         },
         {
-          "title": "Hyrox-atlete biedt excuses aan voor afmaken race nadat ze in broek had gepoept",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/sport/6410102/hyrox-atlete-biedt-excuses-aan-voor-afmaken-race-nadat-ze-in-broek-had-gepoept.html",
-          "publishedDate": "Thu, 17 Sep 2026 08:27:00 GMT",
-          "description": "Hyrox-atlete Joanna Wietrzyk heeft sorry gezegd voor haar optreden in een race in Peking afgelopen zaterdag. De Australische atlete maakte de race af terwijl ze in haar broek had gepoept en kreeg daar ..."
-        },
-        {
-          "title": "Hyrox-deelnemer die zichzelf onderpoepte bij wedstrijd laat van zich horen: ‘Heb spijt van mijn beslissing’",
+          "title": "Actrice Hayden Panettiere werd vlak voor haar dood nog vergeefs gereanimeerd",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/hyrox-deelnemer-die-zichzelf-onderpoepte-bij-wedstrijd-laat-van-zich-horen-heb-spijt-van-mijn-beslissing~a2ab73cc/",
-          "publishedDate": "Thu, 17 Sep 2026 04:37:00 GMT",
-          "description": "De Australische atlete Joanna Wietrzyk heeft donderdag in een statement haar excuses aangeboden voor het incident bij haar Hyrox-wedstrijd. De wereldkampioene ging zaterdag in Peking door met haar wed ..."
+          "url": "https://www.ad.nl/show/actrice-hayden-panettiere-werd-vlak-voor-haar-dood-nog-vergeefs-gereanimeerd~a4b46085/",
+          "publishedDate": "Mon, 17 Aug 2026 00:46:00 GMT",
+          "description": "De Amerikaanse actrice Hayden Panettiere is vlak voor haar overlijden nog gereanimeerd door ambulancemedewerkers. Dat bevestigt de politie, die nog onderzoek doet, onder meer aan vakblad Variety. Verd ..."
         },
         {
-          "title": "Hyrox biedt excuses aan omdat atlete die in broek poepte race mocht afmaken",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/buitenland/6409755/hyrox-biedt-excuses-aan-omdat-atlete-die-in-broek-poepte-race-mocht-afmaken.html",
-          "publishedDate": "Mon, 14 Sep 2026 14:53:00 GMT",
-          "description": "Het internationale fitnessmerk Hyrox heeft excuses aangeboden na een incident met atlete Joanna Wietrzyk. Ze bevuilde zichzelf halverwege een wedstrijd in Peking. Wietrzyk mocht daarna de race afmaken ..."
+          "title": "Doodsoorzaak Hayden Panettiere (36) bekend: actrice overleed aan overdosis fentanyl en andere drugs",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/media/update/hayden-panettiere-doodsoorzaak/",
+          "publishedDate": "Wed, 23 Sep 2026 00:44:00 GMT",
+          "description": "Actrice Hayden Panettiere is overleden aan de gevolgen van het gebruik van de pijnstiller fentanyl en verschillende andere medicijnen. Haar overlijden is aangemerkt als een ongeluk. Dat heeft de ..."
         },
         {
-          "title": "Vrouw verliest baan na Hyrox tijdens ziekmelding, baas krijgt gelijk van rechter",
-          "source": "nu",
-          "url": "https://nu.cw/2026/09/22/vrouw-verliest-baan-na-hyrox-tijdens-ziekmelding-baas-krijgt-gelijk-van-rechter/",
-          "publishedDate": "Tue, 22 Sep 2026 16:35:00 GMT",
-          "description": "Een medewerker van een makelaarskantoor in Tilburg werd terecht op staande voet ontslagen nadat ze mee had gedaan aan een Hyrox-wedstrijd, oordeelt de kantonrechter. De vrouw had zich ziek gemeld, omd ..."
+          "title": "Doodsoorzaak van actrice Hayden Panettiere (36) officieel bekendgemaakt",
+          "source": "FilmVandaag.nl on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/doodsoorzaak-van-actrice-hayden-panettiere-36-officieel-bekendgemaakt/ar-AA2cNTNr",
+          "publishedDate": "Wed, 23 Sep 2026 00:20:00 GMT",
+          "description": "Iets langer dan een maand geleden overleed Hayden Panettiere op 36-jarige leeftijd. Op een paar details na was niet bekend waar de jonge ..."
         },
         {
-          "title": "Excuses Hyrox-atlete na onsmakelijk incident vallen verkeerd: 'Dat klopt niet helemaal'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/boulevard/nieuws/excuses-hyrox-atlete-na-onsmakelijk-incident-vallen-verkeerd-dat-klopt-niet-helemaal-2026092210345823987/",
-          "publishedDate": "Tue, 22 Sep 2026 07:00:00 GMT",
-          "description": "Joanna Wietrzyk belandde afgelopen week plotseling in een mediastorm nadat beelden van haar Hyrox de hele wereld overgingen. De Australische liet tijdens de wedstrijd haar ontlasting lopen en maakte e ..."
+          "title": "Doodsoorzaak Hayden Panettiere bevestigd als onopzettelijke overdosis",
+          "source": "Newsmonkey on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/doodsoorzaak-hayden-panettiere-bevestigd-als-onopzettelijke-overdosis/ar-AA2cLLyp",
+          "publishedDate": "Tue, 22 Sep 2026 12:31:00 GMT",
+          "description": "In het kort Het kantoor van de lijkschouwer van Greenville County in South Carolina heeft de autopsieresultaten vrijgegeven, waaruit blijkt dat Hayden Panettiere is overleden door een dodelijke combin ..."
         },
         {
-          "title": "Ontslag op staande voet terecht voor ziekgemelde werknemer die meedoet aan Hyrox",
-          "source": "Salaris Vanmorgen",
-          "url": "https://www.salarisvanmorgen.nl/2026/09/21/ontslag-op-staande-voet-terecht-voor-ziekgemelde-werknemer-die-meedoet-aan-hyrox/",
-          "publishedDate": "Mon, 21 Sep 2026 01:12:00 GMT",
-          "description": "De werknemer meldt zich ziek vanwege spanningen op de werkvloer en geeft later aan Pfeiffer te hebben. Toch doet zij mee aan een Hyrox. Dit leidt tot ontslag op staande voet."
+          "title": "Actrice Hayden Panettiere stierf aan accidentele overdosis, blijkt uit autopsie",
+          "source": "VRT on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/actrice-hayden-panettiere-stierf-aan-accidentele-overdosis-blijkt-uit-autopsie/ar-AA2cLrBd",
+          "publishedDate": "Tue, 22 Sep 2026 11:22:03 GMT",
+          "description": "Een maand na het overlijden van actrice Hayden Panettiere is de doodsoorzaak bekend. Volgens de autopsie stierf ze aan een overdosis medicijnen, waaronder de gevaarlijke pijnstiller fentanyl. Volgens ..."
         },
         {
-          "title": "Het is razend populair, maar voor wat staat het woord Hyrox nu eigenlijk?",
-          "source": "Newsmonkey",
-          "url": "https://newsmonkey.be/het-is-razend-populair-maar-voor-wat-staat-het-woord-hyrox-nu-eigenlijk/",
-          "publishedDate": "Sun, 20 Sep 2026 10:16:00 GMT",
-          "description": "In het kort Hyrox staat de laatste dagen enorm in de belangstelling door een voorval in Peking. Onlangs is zo ook de echte betekenis van het woord viraal ..."
+          "title": "Doodsoorzaak Hayden Panettiere bekend: actrice stierf na accidentele overdosis met fentanyl en andere drugs",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/celebrities/doodsoorzaak-hayden-panettiere-bekend-actrice-stierf-na-accidentele-overdosis-met-fentanyl-en-andere-drugs~ad52068b/",
+          "publishedDate": "Tue, 22 Sep 2026 02:07:00 GMT",
+          "description": "De doodsoorzaak van Hayden Panettiere is bekend. De Amerikaanse actrice is overleden aan de toxische effecten van een combinatie van verschillende drugs, waaronder fentanyl. Volgens de gerechtsarts in ..."
         },
         {
-          "title": "Hyrox herziet protocollen na ophef rond atlete die zichzelf onderpoepte tijdens wedstrijd",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/sport/hyrox-herziet-protocollen-na-ophef-rond-atlete-die-zichzelf-onderpoepte-tijdens-wedstrijd~a261af3ca/",
-          "publishedDate": "Mon, 14 Sep 2026 22:51:00 GMT",
-          "description": "De organisatie van Hyrox gaat haar procedures aanpassen na de controverse rond de Australische atlete Joanna Wietrzyk (22). De wereldkampioene werkte zaterdag in het Chinese Peking haar wedstrijd af n ..."
+          "title": "Courteney Cox prijst overleden actrice Hayden Panettiere",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/nieuws/courteney-cox-prijst-overleden-actrice-hayden-panettiere/ar-AA2c9XSZ",
+          "publishedDate": "Sun, 13 Sep 2026 23:24:57 GMT",
+          "description": "Courteney Cox vond Hayden Panettiere, die in augustus op 36-jarige leeftijd overleed, een &quot;ontzettend goede actrice&quot;, zo vertelt ze in een interview met Entertainment Weekly. Cox werkte voor het eerst ..."
+        },
+        {
+          "title": "Oproep naar hulpdiensten onthult mogelijke overdosis voor overlijden Hayden Panettiere (36): reanimatie mocht niet meer baten",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/celebrities/oproep-naar-hulpdiensten-onthult-mogelijke-overdosis-voor-overlijden-hayden-panettiere-36-reanimatie-mocht-niet-meer-baten~acc12ec0/",
+          "publishedDate": "Tue, 18 Aug 2026 00:51:00 GMT",
+          "description": "Hulpverleners hebben de Amerikaanse actrice Hayden Panettiere &lt;a href=&quot;https://www.hln.be/celebrities/hayden-panettiere-bekend-van-scream-en-heroes-op-36-jarige-leeftijd-overleden-hulpverleners-sprake ..."
+        },
+        {
+          "title": "Actrice Hayden Panettiere (36) overleden",
+          "source": "shownieuws",
+          "url": "https://www.shownieuws.nl/algemeen/buitenland/artikelen/actrice-hayden-panettiere-36-overleden",
+          "publishedDate": "Mon, 17 Aug 2026 16:35:00 GMT",
+          "description": "Hayden stond al op zeer jonge leeftijd voor de camera en groeide uiteindelijk uit tot een bekend gezicht in Hollywood. Haar grote internationale doorbraak kwam in 2006 dankzij de populaire ..."
         }
       ]
     },
     {
-      "keyword": "nieuws",
+      "keyword": "herman van der zandt",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Paulien Cornelisse duikt op met blauw mutsje in De slimste mens: ‘Pruik wilde ik absoluut niet’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/paulien-cornelisse-duikt-op-met-blauw-mutsje-in-de-slimste-mens-pruik-wilde-ik-absoluut-niet~aa880fe2/",
+          "publishedDate": "Mon, 21 Sep 2026 05:47:00 GMT",
+          "description": "Presentator Herman van der Zandt draaide er maandagavond niet omheen toen hij de eenkoppige jury van De slimste mens voorstelde bij de start van een gloednieuw seizoen: „Vallen we maar meteen met de d ..."
+        },
+        {
+          "title": "Herman van der Zandt maakte muts voor Paulien Cornelisse na haar chemotherapie: 'Is gejat in Itali&#235;'",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/video/22147e83-f788-4558-b324-c71a418f61ee/herman-van-der-zandt-maakte-muts-voor-paulien",
+          "publishedDate": "Sat, 19 Sep 2026 17:00:00 GMT",
+          "description": "De open deuren worden weer geopend en het collectieve geheugen wordt op de proef gesteld, want vanaf maandag start een nieuw seizoen van 'De Slimste Mens'."
+        },
+        {
+          "title": "Herman van der Zandt",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/tag/herman-van-der-zandt",
+          "publishedDate": "Mon, 14 Sep 2026 16:59:00 GMT",
+          "description": "Nieuws en video's over Herman van der Zandt. Betrouwbaar, gratis en snel op NU.nl, de grootste nieuwssite van Nederland."
+        },
+        {
+          "title": "Paulien Cornelisse en Herman van der Zandt over De slimste mens: ‘Dat licht oncomfortabele zoek ik normaal niet op, maar nu…’",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/kunst-media/paulien-cornelisse-en-herman-van-der-zandt-over-de-slimste-mens-dat-licht-oncomfortabele-zoek-ik-normaal-niet-op-maar-nu~be4fbde2/",
+          "publishedDate": "Sat, 30 Aug 2025 00:00:00 GMT",
+          "description": "Juryvoorzittter Paulien Cornelisse en presentator Herman van der Zandt van De slimste mens.Bron KRO-NCRV Herman van der Zandt en Paulien Cornelisse zijn vanaf maandag het nieuwe duo van de ..."
+        },
+        {
+          "title": "Paulien Cornelisse (50) deelt opvallende nieuwe look in De Slimste Mens na kankerdiagnose: ‘Voelt niet helemaal als mezelf’",
+          "source": "Story",
+          "url": "https://www.story.nl/tv/slimste-mens-paulien-cornelisse-kanker~a880fe2",
+          "publishedDate": "Tue, 22 Sep 2026 08:05:00 GMT",
+          "description": "Paulien Cornelisse verschijnt met opvallende hoofddeksels in De Slimste Mens waar ze plaats van Maarten van Rossum als jurylid inneemt ondanks kankerdiagnose."
+        },
+        {
+          "title": "Paulien Cornelisse verschijnt met blauw mutsje in 'De Slimste Mens': 'Goed om het even te benoemen'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/media/nieuws/paulien-cornelisse-de-slimse-mens/",
+          "publishedDate": "Tue, 22 Sep 2026 00:45:00 GMT",
+          "description": "“Het is goed om het even te benoemen”, antwoordde ze. In augustus 2024 maakte ze bekend dat ze kanker heeft. Als gevolg daarvan moest ze haar theatertournee voor haar voorstelling Komma annuleren, ..."
+        },
+        {
+          "title": "Herman van der Zandt raakt gefrustreerd in De slimste mens en vangt bot bij Paulien Cornelisse",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/herman-van-der-zandt-raakt-gefrustreerd-in-de-slimste-mens-en-vangt-bot-bij-paulien-cornelisse~a9639763/",
+          "publishedDate": "Wed, 01 Oct 2025 06:05:00 GMT",
+          "description": "Herman van der Zandt raakt gefrustreerd als iemand begint over de sushirol ‘California roll’. Van der Zandt, die meent dat de benaming van de binnenstebuiten-rol niet op zijn Engels moet worden ..."
+        },
+        {
+          "title": "Herman van der Zandt zag de balans werk-priv&#233; ongezond worden: ‘Ik dacht: ik mis wel veel’",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/show/herman-van-der-zandt-zag-de-balans-werk-prive-ongezond-worden-ik-dacht-ik-mis-wel-veel~abfdd948/",
+          "publishedDate": "Tue, 01 Apr 2025 21:00:00 GMT",
+          "description": "Zelden laat Herman van der Zandt (50) zich interviewen. ‘Niet interessant genoeg om hele krantenpagina’s mee te vullen’, vindt hij zelf. Dat valt wel mee. De presentator die woensdagavond De Re&#252;nie ..."
+        }
+      ]
+    },
+    {
+      "keyword": "kelly piquet",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "‘Zakkenrollerseizoen is geopend’ en toch is er goed nieuws voor bezoekers van de Utrechtse binnenstad",
+          "title": "Kelly Piquet deelt zeldzame foto’s van dochter Penelope (7) na ‘moeilijke maand’",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/utrecht/zakkenrollerseizoen-is-geopend-en-toch-is-er-goed-nieuws-voor-bezoekers-van-de-utrechtse-binnenstad~a1dac22c/",
-          "publishedDate": "Mon, 21 Sep 2026 17:57:00 GMT",
-          "description": "Goed nieuws voor bezoekers van de Utrechtse binnenstad: de kans dat je portemonnee of telefoon gestolen wordt tijdens een bezoekje aan het centrum is een stuk kleiner dan vorig jaar. Het aantal incide ..."
+          "url": "https://www.ad.nl/show/kelly-piquet-deelt-zeldzame-fotos-van-dochter-penelope-7-na-moeilijke-maand~af73c0ff/",
+          "publishedDate": "Fri, 28 Aug 2026 18:51:00 GMT",
+          "description": "Model en influencer Kelly Piquet (37) gaat viraal met een opvallend bericht over haar dochter Penelope (7). De vriendin van Formule 1-coureur Max Verstappen deelt vrolijke foto’s van een moeder-dochte ..."
         },
         {
-          "title": "Aftellen naar eerste selectie van Xavi • Heeft bondscoach verrassingen in petto?",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2631463-aftellen-naar-eerste-selectie-van-xavi-heeft-bondscoach-verrassingen-in-petto",
-          "publishedDate": "Fri, 18 Sep 2026 00:57:00 GMT",
-          "description": "In dit liveblog volgen we alles rondom de eerste selectie van het Nederlands elftal van de nieuwe bondscoach Xavi Hern&#225;ndez."
+          "title": "Max Verstappen dolgelukkig: Piquet kondigt eerste zoontje aan",
+          "source": "GPblog on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/max-verstappen-dolgelukkig-piquet-kondigt-eerste-zoontje-aan/ar-AA2cLoNk",
+          "publishedDate": "Tue, 22 Sep 2026 11:22:00 GMT",
+          "description": "Heugelijk nieuws! Max Verstappen mag zich vanaf nu de oom noemen van Otto Suarez Piquet, de nieuwste telg uit de Piquet-familie. De geboorte van de baby is aangekondigd door vader Daniel Suarez, NASCA ..."
         },
         {
-          "title": "Ilse DeLange verrast door Qmusic met Top 40-nieuws: 'Echt bizar'",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/video/productie/ilse-delange-verrast-door-qmusic-met-top-40-nieuws-echt-bizar-14452342",
-          "publishedDate": "Thu, 17 Sep 2026 17:00:00 GMT",
-          "description": "Qmusic-dj Domien Verschuuren ging bij Ilse DeLange langs om haar te verrassen met het nieuws dat So Incredible opnieuw in de Top 40 staat."
+          "title": "Kelly Piquet haalt hard uit na kritiek op moederschap: 'Vreemd dat dit moet'",
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1090508/kelly-piquet-haalt-hard-uit-na-kritiek-op-moederschap-vreemd-dat-dit-moet/",
+          "publishedDate": "Mon, 21 Sep 2026 03:16:00 GMT",
+          "description": "Kelly Piquet heeft op Instagram hard uitgehaald naar een volger die openlijk kritiek leverde op haar rol als moeder. De 37-jarige partner van viervoudig Formule 1-wereldkampioen Max Verstappen deelde ..."
         },
         {
-          "title": "Het nieuws van vrijdag 4 september 2026",
+          "title": "Feest in huize Verstappen na geweldige debuutzege van Piquet",
+          "source": "GPblog on MSN",
+          "url": "https://www.msn.com/nl-nl/algemeen/algemeen/feest-in-huize-verstappen-na-geweldige-debuutzege-van-piquet/ar-AA2cCllh",
+          "publishedDate": "Sun, 20 Sep 2026 05:03:00 GMT",
+          "description": "Feest bij de families Verstapen en Piquet. Nelson Piquet Jr., de broer van Kelly Piquet en daarmee de zwager van Max Verstappen, heeft in het Italiaanse Vallelunga een indrukwekkende overwinning geboe ..."
+        },
+        {
+          "title": "Kelly Piquet showt lingerie op de tribune en geeft haar volgers een pikant inkijkje",
+          "source": "Mannenzaken",
+          "url": "https://mannenzaken.nl/nieuws/kelly-piquet-showt-lingerie-op-de-tribune-en-geeft-haar-volgers-een-pikant-inkijkje",
+          "publishedDate": "Thu, 17 Sep 2026 00:00:00 GMT",
+          "description": "Kelly Piquet is voor haar werk regelmatig op de meest bijzondere plekken ter wereld te vinden en deze keer heeft ze haar koffers gepakt voor New York. De vriendin van Max Verstappen brengt een kort be ..."
+        },
+        {
+          "title": "Kelly Piquet (vriendin Max Verstappen) trekt bekijks tijdens opvallend uitstapje in New York",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/kelly-piquet-vriendin-max-verstappen-trekt-bekijks-tijdens-opvallend-uitstapje-in-new-york-2026091409134849616/",
+          "publishedDate": "Mon, 14 Sep 2026 04:20:00 GMT",
+          "description": "Kelly Piquet heeft een bijzonder sportweekend achter de rug. Terwijl Max Verstappen in Madrid achter het stuur van zijn Red Bull kroop, zat zijn geliefde duizenden kilometers verderop op de tribune ..."
+        },
+        {
+          "title": "Kelly Piquet komt met opmerkelijk eerbetoon aan vriend Max Verstappen terwijl Penelope de show steelt",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/formule-1/nieuws/kelly-piquet-komt-met-opmerkelijk-eerbetoon-aan-vriend-max-verstappen-terwijl-penelope-de-show-steelt-2026090706003869911/",
+          "publishedDate": "Mon, 07 Sep 2026 01:17:00 GMT",
+          "description": "Kelly Piquet maakte weer eens van dichtbij mee hoe haar vriend Max Verstappen tot een goed resultaat kwam in de Formule 1. Het Braziliaans-Duitse topmodel was het hele raceweekend aanwezig tijdens de ..."
+        },
+        {
+          "title": "Kelly Piquet deelt nieuwe vakantiefoto's vanaf Sardini&#235;",
+          "source": "gpblog.com",
+          "url": "https://www.gpblog.com/nl/lifestyle/kelly-piquet-deelt-nieuwe-vakantiefotos-vanaf-sardinie",
+          "publishedDate": "Mon, 17 Aug 2026 04:01:00 GMT",
+          "description": "Kelly Piquet heeft nieuwe vakantiefoto's gedeeld op haar Instagramkanaal. Te zien is hoe ze op, waarschijnlijk, het jacht van Max Verstappen poseert. Gedurende de hele zomerstop deelt Piquet al ..."
+        },
+        {
+          "title": "Kelly Piquet trekt duidelijke grens: 'Dat is het enige waar ik een probleem mee heb'",
+          "source": "gpblog.com",
+          "url": "https://www.gpblog.com/nl/nieuws/kelly-piquet-trekt-duidelijke-grens-dat-is-het-enige-waar-ik-een-probleem-mee-heb",
+          "publishedDate": "Fri, 10 Jul 2026 04:02:00 GMT",
+          "description": "Nicole Mulder is eindredacteur bij GPblog en specialist in Formule 1 en MotoGP. Met haar jarenlange ervaring en permanente FIA-accreditatie bij Grands Prix wereldwijd brengt ze betrouwbare ..."
+        },
+        {
+          "title": "Kelly Piquet openhartig over relatie met Verstappen: 'Dat zegt hij altijd tegen mij'",
+          "source": "gpfans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1087487/kelly-piquet-openhartig-over-relatie-met-verstappen-dat-zegt-hij-altijd-tegen-mij/",
+          "publishedDate": "Thu, 09 Jul 2026 05:28:00 GMT",
+          "description": "Kelly Piquet, de vriendin van Max Verstappen, onthult dat het drukke schema van de viervoudig wereldkampioen het hele gezin natuurlijk om de nodige flexibiliteit vraagt, maar dat dit andersom soms ook ..."
+        }
+      ]
+    },
+    {
+      "keyword": "gerrit hiemstra",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Gerrit Hiemstra stopt als weerman NOS Journaal",
           "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/09/04/",
-          "publishedDate": "Thu, 03 Sep 2026 17:00:00 GMT",
-          "description": "In Oktober, Oktober is ‘woud-eenzaamheid’ een positief gevoel: de jonge Oktober woont veilig en gelukkig met haar vader in het bos, volgens het ritme van de natuur. Als de omstandigheden veranderen, ..."
+          "url": "https://www.nrc.nl/nieuws/2023/05/22/gerrit-hiemstra-stopt-als-weerman-nos-journaal-a4165236",
+          "publishedDate": "Mon, 22 May 2023 04:58:00 GMT",
+          "description": "Meteoroloog Tot september blijft Hiemstra het weer presenteren bij het NOS Journaal, in die tijd wordt een opvolger gezocht. Meteoroloog Gerrit Hiemstra stopt na 24 jaar als weerman bij het NOS ..."
         },
         {
-          "title": "112-nieuws maandag 21 september: Motorrijder zeer ernstig gewond bij Meerstad • Brand in slaapkamer rijtjeshuis Veendam",
-          "source": "RTV Noord",
-          "url": "https://www.rtvnoord.nl/112/1439166/112-nieuws-maandag-21-september-motorrijder-zeer-ernstig-gewond-bij-meerstad-brand-in-slaapkamer-rijtjeshuis-veendam",
-          "publishedDate": "Mon, 21 Sep 2026 15:35:00 GMT",
-          "description": "In dit 112-blog houden we je deze maandag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven."
+          "title": "Gerrit Hiemstra deelt ongemakkelijke waarheid in Zeeland: ‘Allemaal afscheid nemen van gehaktballen en karbonades’",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/binnenland/gerrit-hiemstra-deelt-ongemakkelijke-waarheid-in-zeeland-allemaal-afscheid-nemen-van-gehaktballen-en-karbonades~ae09fc66/",
+          "publishedDate": "Tue, 22 Sep 2026 17:41:00 GMT",
+          "description": "„Wie is er al van het gas af? Wie rijdt er elektrisch? Wie gaat er niet meer met het vliegtuig op vakantie?” Gerrit Hiemstra ziet hoe maar een paar handen in de volle zaal de lucht in gaan. „We moeten ..."
         },
         {
-          "title": "Grondstoffen stijgen hard: slecht nieuws voor inflatie &#233;n rente",
-          "source": "IEX.nl",
-          "url": "https://www.iex.nl/artikel/877969/Grondstoffen-stijgen-hard-slecht-nieuws-voor-inflatie-en-rente.aspx",
-          "publishedDate": "Fri, 18 Sep 2026 02:13:00 GMT",
-          "description": "Grondstoffen breken uit en beleven technisch een krachtige opleving. Dat is slecht nieuws voor inflatie &#233;n rente. Is het einde van de rentestijging nog niet in zicht?"
-        },
-        {
-          "title": "112-nieuws dinsdag 15 september: Man aangehouden na geweldsincident Scheemda • Persoon te water na omslaan boot op Lauwersmeer",
-          "source": "RTV Noord",
-          "url": "https://www.rtvnoord.nl/112/1437942/112-nieuws-dinsdag-15-september-man-aangehouden-na-geweldsincident-scheemda-persoon-te-water-na-omslaan-boot-op-lauwersmeer",
-          "publishedDate": "Tue, 15 Sep 2026 16:10:00 GMT",
-          "description": "In dit 112-blog houden we je deze dinsdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven."
-        },
-        {
-          "title": "N&#243;g meer goed nieuws voor John van 't Schip, die financi&#235;le klapper maakt",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/john-van-t-schip-maakt-ruim-half-miljoen-winst-met-verkoop-fraaie-villa",
-          "publishedDate": "Tue, 15 Sep 2026 03:11:00 GMT",
-          "description": "N&#243;g meer goed nieuws voor John van 't Schip: de bondscoach van Kazachstan, die deze week een nieuwe liefde vond, heeft zijn villa met een winst van meer dan een half miljoen euro verkocht."
-        },
-        {
-          "title": "Bredase oud-timmerman schittert nu in RTL Nieuws en NOS Journaal: ‘Dat blijft bijzonder’",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/breda/bredase-oud-timmerman-schittert-nu-in-rtl-nieuws-en-nos-journaal-dat-blijft-bijzonder~afa8292a/",
-          "publishedDate": "Fri, 11 Sep 2026 20:48:00 GMT",
-          "description": "In veertien jaar tijd stuurde Henk Voermans zo’n 75.000 weerfoto’s naar de NOS, RTL en SBS. Daardoor is de Bredanaar nu een bekendheid. Nou ja, qua naam. Op pad met een fenomeen. „Dit plaatje is zeker ..."
-        },
-        {
-          "title": "Veelbesproken beuk Ruben van Bommel tijdens Ajax - PSV ook in Belgi&#235; groot nieuws: 'Onbegrijpelijk'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/eredivisie-voetbal/nieuws/veelbesproken-beuk-ruben-van-bommel-tijdens-ajax-psv-ook-in-belgie-groot-nieuws-onbegrijpelijk-2026090610231783991/",
-          "publishedDate": "Sun, 06 Sep 2026 05:23:00 GMT",
-          "description": "De harde beuk van Ruben van Bommel op Aaron Bouwman tijdens Ajax - PSV zaterdagavond is ook in Belgi&#235; groot nieuws. De vleugelaanvaller van de regerend landskampioen is immers de zoon van Mark van ..."
-        }
-      ]
-    },
-    {
-      "keyword": "pfas kaart nederland",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "In Noord- en Zuid-Holland komt meer PFAS uit de kraan dan in rest van Nederland",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2632030-in-noord-en-zuid-holland-komt-meer-pfas-uit-de-kraan-dan-in-rest-van-nederland",
-          "publishedDate": "Tue, 22 Sep 2026 04:19:00 GMT",
-          "description": "Milieuorganisatie Greenpeace heeft regionale verschillen in kaart gebracht. In Noord- en Zuid-Holland werd het meeste PFAS gevonden."
-        },
-        {
-          "title": "Greenpeace waarschuwt voor PFAS in kraanwater in Zandvoort: 'Code 'donkerrood' voor de hele gemeente'",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/zandvoort/greenpeace-waarschuwt-voor-pfas-in-kraanwater-in-zandvoort-code-donkerrood-voor-de-hele-gemeente~a430f2e9/",
-          "publishedDate": "Tue, 22 Sep 2026 01:36:00 GMT",
-          "description": "Het kraanwater in de gemeente Zandvoort bevat meer PFAS dan het RIVM gezond vindt. Voor de hele gemeente geldt code 'donkerrood', concludeert Greenpeace op basis van cijfers van de drinkwaterbedrijven ..."
-        },
-        {
-          "title": "Bij veel Nederlanders stromen te veel chemische stoffen uit de kraan",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/binnenland/6410470/bij-veel-nederlanders-stromen-te-veel-chemische-stoffen-uit-de-kraan.html",
-          "publishedDate": "Mon, 21 Sep 2026 23:00:00 GMT",
-          "description": "In een groot deel van Noord- en Zuid-Holland zit meer pfas in het drinkwater dan het RIVM aanvaardbaar vindt. In sommige steden is dat zelfs twee tot drie keer zoveel. Het drinkwater blijft wel veilig ..."
-        },
-        {
-          "title": "Waterbedrijven gaan PFAS in kraanwater te lijf, maar 'probleem moet bij de bron aangepakt'",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/363671/waterbedrijven-gaan-pfas-in-kraanwater-te-lijf-maar-probleem-moet-bij-de-bron-aangepakt",
-          "publishedDate": "Tue, 22 Sep 2026 10:15:00 GMT",
-          "description": "Veel PFAS in kraanwater Noord-Holland: Greenpeace brengt regio's met hoogste concentratie in kaart. Kabinet moet actie ondernemen. Lees het hele verhaal."
-        },
-        {
-          "title": "Verhoogde concentratie PFAS in drinkwater Dronten komt volgens Vitens door vermenging water uit Veluwemeer",
-          "source": "Omroep Flevoland",
-          "url": "https://www.omroepflevoland.nl/nieuws/524735/verhoogde-concentratie-pfas-in-dronten-komt-volgens-vitens-door-vermenging-water-uit-veluwemeer",
-          "publishedDate": "Tue, 22 Sep 2026 08:34:00 GMT",
-          "description": "Is het kraanwater in de gemeente Dronten wel veilig om te drinken? Als je de kaart van Greenpeace moet geloven, zit Dronten boven de norm voor de hoeveelheid PFAS in drinkwater. Drinkwaterbedrijf Vite ..."
-        },
-        {
-          "title": "Opvallend veel PFAS in kraanwater Zuid-Holland: 'We kunnen er eigenlijk niet aan ontkomen'",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2257341/opvallend-veel-pfas-in-kraanwater-zuid-holland-we-kunnen-er-eigenlijk-niet-aan-ontkomen",
-          "publishedDate": "Tue, 22 Sep 2026 05:33:00 GMT",
-          "description": "In ongeveer een derde van het Nederlandse drinkwater zit meer PFAS dan volgens het RIVM wenselijk is. Vooral in Zuid-Holland en Noord-Holland zijn de niveaus opvallend hoog. Dat blijkt uit een PFAS-ka ..."
-        },
-        {
-          "title": "Minister eens met Greenpeace: Vermindering PFAS in kraanwater noodzakelijk",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/minister-eens-met-greenpeace-vermindering-pfas-in-kraanwater-noodzakelijk",
-          "publishedDate": "Tue, 22 Sep 2026 03:23:00 GMT",
-          "description": "De hoeveelheid PFAS in het drinkwater valt overal nog wel ruim binnen de wettelijke norm. Op Europees niveau is geregeld dat er maximaal 100 nanogram PFAS in een liter drinkwater mag zitten. Dat is ..."
-        },
-        {
-          "title": "Noord-Hollands drinkwater ongezonder dan je denkt",
-          "source": "groot-waterland.nl",
-          "url": "https://groot-waterland.nl/2026/09/22/noord-hollands-drinkwater-ongezonder-dan-je-denkt/",
-          "publishedDate": "Tue, 22 Sep 2026 01:43:00 GMT",
-          "description": "Het kraanwater in bijna heel Noord-Holland bevat te veel PFAS. Dat blijkt uit onderzoek van Greenpeace. Op de kaart die is gemaakt bij de data kleurt bijna heel Noord-Holland rood. Toch is er volgens ..."
-        },
-        {
-          "title": "Meer PFAS in kraanwater dan geadviseerd: vooral in deze delen van Nederland zijn de waarden hoog",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/09/meer-pfas-in-kraanwater-dan-geadviseerd-vooral-in-deze-delen-van-nederland-zijn-de-waarden-hoog/",
-          "publishedDate": "Mon, 21 Sep 2026 23:21:00 GMT",
-          "description": "Greenpeace analyseerde gegevens van de tien Nederlandse drinkwaterbedrijven en concludeert dat bij ruim een derde van de Nederlanders meer PFAS in het kraanwater zit dan de advieswaarde van het Rijksi ..."
-        },
-        {
-          "title": "Kraanwater Noord- en Zuid-Holland bevat hoogste PFAS-waardes",
-          "source": "Duurzaam Ondernemen",
-          "url": "https://www.duurzaam-ondernemen.nl/pfas-in-kraanwater-het-is-bizar-dat-er-gif-in-ons-kraanwater-zit/",
-          "publishedDate": "Mon, 21 Sep 2026 22:38:00 GMT",
-          "description": "Het kraanwater van ruim een derde van de Nederlandse bevolking bevat meer PFAS dan de advieswaarde van het Rijksinstituut voor Volksgezondheid en Milieu (RIVM). In het westen wordt deze gezondheidswaa ..."
-        }
-      ]
-    },
-    {
-      "keyword": "familie ben saunders",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Familie Ben Saunders niet aanwezig bij uitvaart: 'Zwaarste beslissing'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/muziek/6410622/familie-ben-saunders-niet-aanwezig-bij-uitvaart-zwaarste-beslissing.html",
-          "publishedDate": "Tue, 22 Sep 2026 09:01:00 GMT",
-          "description": "Zanger Dean Saunders en zijn familie zijn woensdag niet aanwezig bij de uitvaart van Ben Saunders. Dat laten ze dinsdag weten in een verklaring op Instagram. Het is &quot;de zwaarste beslissing&quot; die de fam ..."
-        },
-        {
-          "title": "Familie Ben Saunders besluit niet aanwezig te zijn bij zijn uitvaart, Dean haalt uit op sociale media",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/familie-ben-saunders-besluit-niet-aanwezig-te-zijn-bij-zijn-uitvaart-dean-haalt-uit-op-sociale-media~a33e725a/",
-          "publishedDate": "Tue, 22 Sep 2026 03:46:00 GMT",
-          "description": "De familie van Ben Saunders heeft ‘na lang en intensief overleg’ besloten om woensdag niet aanwezig te zijn bij zijn uitvaart. Dat laat zijn broer Dean Saunders dinsdagmiddag weten in een verklaring."
-        },
-        {
-          "title": "Van de hoofdredactie | We brachten de feiten rond Ben Saunders, natuurlijk schuurde dat",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/blog/6410188/we-brachten-de-feiten-rond-ben-saunders-natuurlijk-schuurde-dat.html",
-          "publishedDate": "Sun, 20 Sep 2026 03:39:00 GMT",
-          "description": "De hoofdredactie van NU.nl vertelt wekelijks over wat zich op de redactie afspeelt. Deze week: over het overlijden van een prominent figuur en onze berichtgeving daarover."
-        },
-        {
-          "title": "Dean Saunders haalt uit naar uitvaartverzorger van broer Ben Saunders: 'Wat een lachertje dit'",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/media/schokkend/dean-saunders-reactie-uitvaart-ben-saunders/",
-          "publishedDate": "Tue, 22 Sep 2026 17:00:00 GMT",
-          "description": "De uitvaart van Ben Saunders (43) vindt woensdag plaats in besloten kring. Zijn broer Dean en ouders zullen daar niet bij aanwezig zijn, maakten zij dinsdag bekend. Waarom ze die ingrijpende beslissin ..."
-        },
-        {
-          "title": "Dean Saunders laat zich op Facebook uit over afscheid Ben Saunders: 'Spijker op z'n kop'",
-          "source": "vandaaginside",
-          "url": "https://www.vandaaginside.nl/media/bners/artikelen/dean-saunders-laat-zich-op-facebook-uit-over-afscheid-ben-saunders-spijker",
-          "publishedDate": "Tue, 22 Sep 2026 11:39:00 GMT",
-          "description": "De familie van Ben Saunders is woensdag niet aanwezig bij de uitvaart van de zanger, liet zijn broer Dean Saunders dinsdag weten via Instagram. De reden is niet duidelijk, maar op Facebook laat Dean S ..."
-        },
-        {
-          "title": "Broer Dean Saunders en ouders niet naar uitvaart Ben: ‘Juist uit liefde voor Ben’",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/binnenland/nieuws/ben-saunders-uitvaart/",
-          "publishedDate": "Tue, 22 Sep 2026 10:08:00 GMT",
-          "description": "Dinsdag werd bekend dat de uitvaart van de vorige week overleden zanger Ben Saunders in besloten kring plaatsvindt. Maar zijn familie is daar gedeeltelijk niet bij. Broer Dean Saunders laat op sociale ..."
-        },
-        {
-          "title": "Familie Ben Saunders neemt aangrijpend besluit rond uitvaart: ‘Uit liefde voor Ben’",
-          "source": "Weekblad Party",
-          "url": "https://weekbladparty.nl/familie-ben-saunders-neemt-aangrijpend-besluit-rond-uitvaart-uit-liefde-voor-ben/",
-          "publishedDate": "Tue, 22 Sep 2026 09:28:00 GMT",
-          "description": "De familie van Ben Saunders zal niet aanwezig zijn bij de uitvaart van de zanger. Dat heeft zijn broer Dean Saunders bekendgemaakt ..."
-        },
-        {
-          "title": "Dean Saunders: familie niet aanwezig bij uitvaart Ben Saunders",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/dean-saunders-familie-niet-aanwezig-bij-uitvaart-ben-saunders",
-          "publishedDate": "Tue, 22 Sep 2026 09:01:00 GMT",
-          "description": "De familie van Ben Saunders is woensdag niet aanwezig bij de uitvaart van de zanger. Dat laat zijn broer Dean weten via Instagram. De reden is niet duidelijk. &quot;Met heel veel verdriet in ons hart hebbe ..."
-        },
-        {
-          "title": "Familie Ben Saunders besluit niet aanwezig te zijn bij zijn uitvaart: ‘Deze keuze doet ontzettend veel pijn’",
+          "title": "Gerrit Hiemstra deelt ongemakkelijke waarheid: ‘We zijn ons klimaat ontzettend aan het verkloten’",
           "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/arnhem/familie-ben-saunders-besluit-niet-aanwezig-te-zijn-bij-zijn-uitvaart-deze-keuze-doet-ontzettend-veel-pijn~a33e725a/",
-          "publishedDate": "Tue, 22 Sep 2026 01:28:00 GMT",
-          "description": "De familie van Ben Saunders heeft ‘na lang en intensief overleg’ besloten om woensdag niet aanwezig te zijn bij zijn uitvaart. Dat laat zijn broer Dean Saunders dinsdagmiddag weten in een verklaring."
+          "url": "https://www.gelderlander.nl/binnenland/gerrit-hiemstra-deelt-ongemakkelijke-waarheid-we-zijn-ons-klimaat-ontzettend-aan-het-verkloten~ae09fc66/",
+          "publishedDate": "Tue, 22 Sep 2026 17:20:00 GMT",
+          "description": "„Wie is er al van het gas af? Wie rijdt er elektrisch? Wie gaat er niet meer met het vliegtuig op vakantie?” Gerrit Hiemstra keek tijdens een bijeenkomst in Zeeland met lede ogen toe hoe een beperkt a ..."
         },
         {
-          "title": "Fans kunnen zaterdag afscheid nemen van Ben Saunders",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/fans-kunnen-zaterdag-afscheid-nemen-van-ben-saunders",
-          "publishedDate": "Wed, 16 Sep 2026 15:21:00 GMT",
-          "description": "De familie van de overleden zanger Ben Saunders biedt fans zaterdag de mogelijkheid om afscheid van hem te nemen. Dat meldt zijn vriendin Janita op Instagram. Tussen 18.00 en 20.00 uur kunnen mensen t ..."
+          "title": "Gerrit Hiemstra: 'Met klimaatbeleid vooruitschuiven maak je &#243;&#243;k een keuze'",
+          "source": "change.inc",
+          "url": "https://www.change.inc/transities/bouw-transitie/gerrit-hiemstra-met-klimaatbeleid-vooruitschuiven-maak-je-ook-een-keuze",
+          "publishedDate": "Thu, 06 Nov 2025 00:30:00 GMT",
+          "description": "‘Mensen realiseren zich pas dat ze in actie moeten komen, als ze direct met gevaren worden geconfronteerd. Dat is een eeuwenoud principe. Er is een mooi spreekwoord voor: als het kalf verdronken is, ..."
+        },
+        {
+          "title": "Over Gerrit Hiemstra (Vermogen, Huis, Dochter..)",
+          "source": "faqt.nl",
+          "url": "https://faqt.nl/gerrit-hiemstra/",
+          "publishedDate": "Sun, 09 Feb 2025 03:02:00 GMT",
+          "description": "Zo’n 25 jaar lang is Gerrit Hiemstra op televisie geweest als weerman van de NOS en toch weten we vrijwel niets over zijn priv&#233;leven. Dit geeft maar aan hoe beschermend hij is over zijn persoonlijke ..."
+        },
+        {
+          "title": "LIVEBLOG. Allerlaatste keer Gerrit Hiemstra",
+          "source": "GeenStijl",
+          "url": "https://www.geenstijl.nl/5172544/liveblog-allerlaatste-keer-gerrit-hiemstra",
+          "publishedDate": "Thu, 14 Sep 2023 13:00:00 GMT",
+          "description": "En dan laten we ons nu ondersneeuwen door het JOURNAAL voor de allerlaatste keer Gerrit Hiemstra op televisie. Eerst hadden we Jan Pelleboer. Toen zwoeren we trouw aan John Bernard. Daarna kregen we ..."
+        },
+        {
+          "title": "Gerrit Hiemstra vond 25 jaar als NOS-weerman ‘bijzonder eervol’",
+          "source": "RD",
+          "url": "https://www.rd.nl/a/1034468-gerrit-hiemstra-vond-25-jaar-als-nos-weerman-bijzonder-eervol",
+          "publishedDate": "Thu, 14 Sep 2023 11:51:00 GMT",
+          "description": "Gerrit Hiemstra vond het „bijzonder eervol” dat hij bijna 25 jaar als weerman voor het NOS Journaal mocht werken. „Dit was het dan, mijn laatste weerbericht voor het NOS Journaal”, zo sloot hij ..."
+        },
+        {
+          "title": "Afzwaaiend weerman Gerrit Hiemstra wil de wereld veranderen: ‘We steken onze kop in het zand’’",
+          "source": "AD",
+          "url": "https://www.ad.nl/mezza/afzwaaiend-weerman-gerrit-hiemstra-wil-de-wereld-veranderen-we-steken-onze-kop-in-het-zand~a023f87d/",
+          "publishedDate": "Sat, 09 Sep 2023 05:49:00 GMT",
+          "description": "In het Friese dorp waar weerman Gerrit Hiemstra (62) opgroeide was de wereld klein. Vakanties werden niet gevierd, want altijd moesten de koeien gemolken. Nu neemt hij zijn ontslag bij de NOS om zich ..."
+        },
+        {
+          "title": "Gerrit Hiemstra stopt na bijna 25 jaar als weerman bij de NOS",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/gerrit-hiemstra-stopt-na-bijna-25-jaar-als-weerman-bij-de-nos~ae22d137/",
+          "publishedDate": "Mon, 22 May 2023 06:54:00 GMT",
+          "description": "Gerrit Hiemstra stopt na bijna 25 jaar als weerman voor de NOS. In september doet hij voor het laatst de weersverwachting, maakte de NOS maandag bekend. De 61-jarige Hiemstra maakte in 1998 zijn ..."
+        },
+        {
+          "title": "Gerrit Hiemstra, weerman die de ‘drammer’ in zichzelf bevrijdde, verwacht dat de Noordpool ooit ijsvrij zal zijn",
+          "source": "Limburger",
+          "url": "https://www.limburger.nl/ece-incoming/gerrit-hiemstra-weerman-die-de-drammer-in-zichzelf-bevrijdde-verwacht-dat-de-noordpool-ooit-ijsvrij-zal-zijn/22199921.html",
+          "publishedDate": "Sat, 14 Aug 2021 07:01:00 GMT",
+          "description": "Voor weerman en meteoroloog Gerrit Hiemstra was het verschijnen, deze week, van het IPCC-rapport over de klimaatverandering weer een mijlpaal. En opnieuw trekt hij van leer tegen ontkenners. Dat ..."
         }
       ]
     },
     {
-      "keyword": "az - nec",
+      "keyword": "uitkeringsfraude",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Papendrecht ontdekt woonfraude en mogelijke uitkeringsfraude tijdens grote controle in meerdere wijken",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/papendrecht/papendrecht-ontdekt-woonfraude-en-mogelijke-uitkeringsfraude-tijdens-grote-controle-in-meerdere-wijken~ab988fc6/",
+          "publishedDate": "Wed, 12 Aug 2026 21:00:00 GMT",
+          "description": "Handhavers hebben dinsdag in Papendrecht 27 niet-ingeschreven personen aangetroffen bij een woningcontrole. De gemeente bezocht met andere instanties verschillende woningen en vond bij vier op de vijf ..."
+        },
+        {
+          "title": "Rekenkamer Rotterdam: gebruik algoritmes leidde mogelijk tot vooringenomenheid",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2021/04/15/rekenkamer-rotterdam-gebruik-algoritmes-leidde-mogelijk-tot-vooringenomenheid-a4039927",
+          "publishedDate": "Thu, 15 Apr 2021 05:23:00 GMT",
+          "description": "Algoritmes De door de gemeente Rotterdam gebruikte algoritmes bij de bestrijding van uitkeringsfraude hebben kunnen leiden tot vooringenomenheid, oordeelt de Rekenkamer. Het gebruik van algoritmes om ..."
+        },
+        {
+          "title": "Harde aanpak uitkeringsfraude werkt niet",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/binnenland/harde-aanpak-uitkeringsfraude-werkt-niet/64876698.html",
+          "publishedDate": "Thu, 28 Jun 2018 00:40:00 GMT",
+          "description": "Een harde aanpak is veel minder effectief dan vaak wordt gedacht en leidt tot een verslechtering van het contact tussen uitkeringsgerechtigden en uitvoeringsinstanties. Bovendien blijkt dat de meeste ..."
+        },
+        {
+          "title": "Twee aanhoudingen voor uitkeringsfraude",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/nieuws/twee-aanhoudingen-voor-uitkeringsfraude~b52ef7cf/",
+          "publishedDate": "Thu, 14 Feb 2013 03:57:00 GMT",
+          "description": "De vrouw ontving sinds haar man overleed een nabestaandenuitering. De inspectiedienst vermoedt dat ze in 2005 ging samenwonen, maar dat niet meldde omdat het van invloed was op de hoogte van de ..."
+        },
+        {
+          "title": "Illegaal sekswerk, drugs en uitkeringsfraude ontdekt bij grote controle op prostitutie in Brabant",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/breda/illegaal-sekswerk-drugs-en-uitkeringsfraude-ontdekt-bij-grote-controle-op-prostitutie-in-brabant~a70dc336/",
+          "publishedDate": "Mon, 29 Sep 2025 00:00:00 GMT",
+          "description": "65 sekswerkers zijn gecontroleerd tijdens een grote controle op illegale prostitutie en mensenhandel, vorige week in Midden- en West-Brabant. Er werd een te jonge sekswerker aangetroffen, net als ..."
+        },
+        {
+          "title": "Uitkeringsfraude aangepakt: ‘Vroeger kreeg iemand die misstap maakte direct het stempel fraudeur’",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/roosendaal/uitkeringsfraude-aangepakt-vroeger-kreeg-iemand-die-misstap-maakte-direct-het-stempel-fraudeur~ad8e3d3e/",
+          "publishedDate": "Sun, 13 Apr 2025 17:57:00 GMT",
+          "description": "ROOSENDAAL − De kliklijn die mensen kunnen gebruiken om anoniem uitkeringsfraude te melden, wint aan populariteit, ook in West-Brabant. Maar is dat nog wel legitiem na de Toeslagenaffaire? ,,Wie ..."
+        },
+        {
+          "title": "Permanente bewoning en uitkeringsfraude op Mierlo's recreatiepark (niet Wolfsven)",
+          "source": "ED",
+          "url": "https://www.ed.nl/112-nieuws-geldrop-mierlo/permanente-bewoning-en-uitkeringsfraude-op-mierlo-s-recreatiepark-niet-wolfsven~a161c5cc/",
+          "publishedDate": "Tue, 21 Mar 2023 05:22:00 GMT",
+          "description": "MIERLO - Permanente bewoning waar dat niet mag, uitkeringsfraude en foute opslag van gasflessen, olievaten en ontvetter. In totaal zijn dinsdag acht overtredingen geconstateerd op een recreatiepark in ..."
+        },
+        {
+          "title": "Hennepkwekerij leidt politie naar uitkeringsfraude van Veenendaler (55)",
+          "source": "AD",
+          "url": "https://www.ad.nl/utrecht/hennepkwekerij-leidt-politie-naar-uitkeringsfraude-van-veenendaler-55~a5ee4e6a/",
+          "publishedDate": "Mon, 03 Jan 2022 11:08:00 GMT",
+          "description": "De zaak kwam aan het licht toen de politie een hennepkwekerij bij de man in huis aantrof. Volgens de Veenendaler had hij al 30 jaar vijf hennepplanten voor eigen gebruik, maar werd hij aangesproken ..."
+        },
+        {
+          "title": "Uitkeringsfraude gebeurde onbewust: vrijspraak",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/nijmegen/uitkeringsfraude-gebeurde-onbewust-vrijspraak~a40905d4/",
+          "publishedDate": "Sun, 12 Mar 2017 20:25:00 GMT",
+          "description": "De vrouw zou volgens de ten laste legging 12 jaar te veel bijstand hebben ontvangen, omdat ze een gezamenlijk huishouden voerden. De 61-jarige, haar huurder, zou daarvan hebben geprofiteerd. Tijdens ..."
+        },
+        {
+          "title": "Aanpak uitkeringsfraude verschilt sterk per stad",
+          "source": "NU",
+          "url": "https://www.nu.nl/economie/4095939/aanpak-uitkeringsfraude-verschilt-sterk-per-stad.html",
+          "publishedDate": "Sun, 26 Jul 2015 17:00:00 GMT",
+          "description": "In Rotterdam werden er tussen 2013 en 2014 2678 boetes opgelegd. De Maasstad is daarmee koploper. Den Haag volgt met 1150 boetes. Amsterdam en Utrecht staan met respectievelijk 467 en 429 boetes op de ..."
+        }
+      ]
+    },
+    {
+      "keyword": "vriendin",
       "trafficLabel": "2K+",
       "articles": [
         {
-          "title": "Gelijkspel bij NEC - Go Ahead Eagles • Zege Twente op PSV, AZ koploper en Feyenoord blijft scoren",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2631732-gelijkspel-bij-nec-go-ahead-eagles-zege-twente-op-psv-az-koploper-en-feyenoord-blijft-scoren",
-          "publishedDate": "Sun, 20 Sep 2026 02:29:00 GMT",
-          "description": "In dit liveblog alles over de voetbalzondag in speelronde 7 van de eredivisie, met vandaag de top drie in actie."
-        },
-        {
-          "title": "Europa League | AZ tegen Brian Brobbey en zware start voor NEC: zo laat komen de Nederlandse clubs in actie",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/europa-league-az-tegen-brian-brobbey-en-zware-start-voor-nec-zo-laat-komen-de-nederlandse-clubs-in-actie~ad7216de/",
-          "publishedDate": "Mon, 14 Sep 2026 14:00:00 GMT",
-          "description": "Na een midweek Champions League gaat deze week ook de Europa League van start. Over 2 speeldagen zullen er 18 duels worden gespeeld, waaronder die van AZ, NEC en verschillende topploegen. Dit is het c ..."
-        },
-        {
-          "title": "NEC en AZ treffen beide Juventus en Benfica, Ajax loot Atalanta en Twente treft Freiburg",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2628640-nec-en-az-treffen-beide-juventus-en-benfica-ajax-loot-atalanta-en-twente-treft-freiburg",
-          "publishedDate": "Fri, 28 Aug 2026 06:58:00 GMT",
-          "description": "De loting voor de competitiefase van de Europa League en Conference League is geweest, maar de exacte speeldata is nog niet bekend."
-        },
-        {
-          "title": "AZ en NEC treffen allebei grootmachten Juventus en Benfica in Europa League",
+          "title": "Vriendin Ben Saunders wil zijn nieuwe muziek delen: 'Met passie aan gewerkt'",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6407862/az-en-nec-treffen-allebei-grootmachten-juventus-en-benfica-in-europa-league.html",
-          "publishedDate": "Fri, 28 Aug 2026 06:32:00 GMT",
-          "description": "AZ en NEC zijn vrijdag bij de loting voor de competitiefase van de Europa League gekoppeld aan Juventus en Benfica. AZ ontvangt de Italiaanse recordkampioen, terwijl NEC de Portugese topclub op bezoek ..."
+          "url": "https://www.nu.nl/muziek/6410427/vriendin-ben-saunders-wil-zijn-nieuwe-muziek-delen-met-passie-aan-gewerkt.html",
+          "publishedDate": "Mon, 21 Sep 2026 02:26:00 GMT",
+          "description": "Janita Engels, de vriendin van de vorige week overleden Ben Saunders, wil de laatste muziek van de zanger uitbrengen. Volgens haar heeft Saunders met passie aan de nieuwe nummers gewerkt. Ze zit naar ..."
         },
         {
-          "title": "Bizar: NEC verliest vriendschappelijke wedstrijd met 9-0 (!)",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/bizar-nec-verliest-vriendschappelijke-wedstrijd-met-9-0",
-          "publishedDate": "Tue, 22 Sep 2026 13:35:00 GMT",
-          "description": "NEC heeft een oefenwedstrijd achter gesloten deuren tegen AZ met liefst 9-0 verloren. De ploeg van Dick Schreuder speelde zonder spelers uit de hoofdmacht en kreeg in een duel van 120 minuten negen go ..."
+          "title": "Opinie: ‘Mijn vriendin wil samenwonen, maar ik kan mijn huisgenoot niet zomaar op straat schoppen’",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/columns-opinie/opinie-mijn-vriendin-wil-samenwonen-maar-ik-kan-mijn-huisgenoot-niet-zomaar-op-straat-schoppen~bc4ffac5/",
+          "publishedDate": "Fri, 18 Sep 2026 19:59:00 GMT",
+          "description": "Paroollezer Abel Thijssen heeft een dilemma: hij en zijn vriendin willen samenwonen, maar zijn huisgenoot is niet van plan om daar ruimte voor te maken – en een andere plek is geen optie. In deze inge ..."
         },
         {
-          "title": "Kasius keert terug bij AZ tijdens grote oefenzege op Jong NEC",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/kasius-keert-terug-bij-az-tijdens-grote-oefenzege-op-jong-nec/ar-AA2cLST2",
-          "publishedDate": "Tue, 22 Sep 2026 12:24:48 GMT",
-          "description": "Denso Kasius heeft voor het eerst sinds eind juli weer minuten gemaakt in het shirt van AZ. De rechtsback was zelfs tweemaal trefzeker tijdens een grote oefenzege in 120 minuten voetbal op Jong NEC: 9 ..."
+          "title": "Tijdens de wake voor mijn overleden vriendin is iedereen heel even gelijk",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/tijdens-de-wake-voor-mijn-overleden-vriendin-is-iedereen-heel-even-gelijk~bb0783856/",
+          "publishedDate": "Fri, 18 Sep 2026 13:00:00 GMT",
+          "description": "In tegenstelling tot Nederland, waar het dagen duurt voordat iemand wordt begraven, gaat het in Mexico snel. De eerste 24 uur na het overlijden staan in het teken van de wake. Een lichaam wordt ..."
         },
         {
-          "title": "AZ wint met 9-0 van NEC en ziet Kasius rentree maken na blessure",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/az-wint-met-9-0-van-nec-en-ziet-kasius-rentree-maken-na-blessure/ar-AA2cLbNp",
-          "publishedDate": "Tue, 22 Sep 2026 12:05:00 GMT",
-          "description": "AZ heeft dinsdag een grote oefenzege geboekt op NEC. De Alkmaarders waren in 120 minuten voetbal met liefst 9-0 te sterk voor de Eredivisie-concurrent, meldt Voetbal International. Bovendien maakte De ..."
+          "title": "Vriendin van Ben Saunders reageert op overlijden: 'Onbeschrijfelijk groot gat'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/muziek/6410015/vriendin-van-ben-saunders-reageert-op-overlijden-onbeschrijfelijk-groot-gat.html",
+          "publishedDate": "Thu, 17 Sep 2026 01:17:00 GMT",
+          "description": "De vriendin van Ben Saunders, Janita Engels, heeft woensdagavond voor het eerst gereageerd op zijn overlijden. &quot;Dit verlies slaat een onbeschrijfelijk groot gat in ons leven&quot;, schrijft ze. Engels deel ..."
         },
         {
-          "title": "Rondje Europa: terugblikken op pijnlijke avond NEC in Turijn",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/rondje-europa-terugblikken-op-pijnlijke-avond-nec-in-turijn",
-          "publishedDate": "Fri, 18 Sep 2026 04:59:00 GMT",
-          "description": "De eerste speelronde van de Europa League leverde geen punten op voor de Nederlandse afvaardiging. In navolging van AZ verloor ook NEC zijn eerste wedstrijd. In Rondje Europa blikken we terug op de af ..."
+          "title": "Vriendin Ben Saunders reageert voor het eerst op zijn overlijden: ‘Verlies slaat een groot gat in ons leven’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/vriendin-ben-saunders-reageert-voor-het-eerst-op-zijn-overlijden-verlies-slaat-een-groot-gat-in-ons-leven~acc88409/",
+          "publishedDate": "Wed, 16 Sep 2026 19:45:00 GMT",
+          "description": "De vriendin van Ben Saunders, Janita Engels, en zijn bonusdochter Nikia hebben woensdagavond voor het eerst gereageerd &lt;a href=&quot;https://www.ad.nl/show/gevonden-lichaam-in-recreatieplas-is-van-zanger-b ..."
         },
         {
-          "title": "Europees speelschema AZ, NEC, Ajax en Twente bekend",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/europees-speelschema-az-nec-ajax-en-twente-bekend",
-          "publishedDate": "Sat, 29 Aug 2026 14:30:00 GMT",
-          "description": "Het speelschema van de competitiefase van de Europa League en de Conference League is bekend. Op deze datums komen AZ, NEC, Ajax en FC Twente in actie: ..."
+          "title": "De Bondgenoten-Ian duidelijk over afspraken met vriendin: 'Ze vertrouwt Joshlyn niet'",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/tv/reality/artikelen/bondgenoten-ian-over-afspraken-met-vriendin",
+          "publishedDate": "Tue, 22 Sep 2026 08:22:00 GMT",
+          "description": "Na het bezoek van zijn familie en vriendin twijfelt Ian uit De Bondgenoten over zijn avontuur. Zijn contact met Joshlyn zorgt thuis voor spanningen."
         },
         {
-          "title": "Alles over Europa League-loting AZ en NEC: waar, wanneer en wie",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/alles-over-europa-league-loting-az-en-nec-waar-wanneer-en-wie/ar-AA2aVJwj",
-          "publishedDate": "Fri, 28 Aug 2026 01:15:00 GMT",
-          "description": "Na een zomer wachten is het eindelijk tijd voor AZ om de loting voor de Europa League aan te horen. De bekerwinnaar gaat vrijdag samen met NEC de koker in. In dit artikel lees je alles wat je moet wet ..."
+          "title": "Vriendin Janita deelt nieuws over Ben Saunders en roept artiesten op geen liedjes over hem uit te brengen",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/binnenland/vriendin-janita-deelt-nieuws-over-ben-saunders-en-roept-artiesten-op-geen-liedjes-over-hem-uit-te-brengen~a5061c75/",
+          "publishedDate": "Sun, 20 Sep 2026 00:45:00 GMT",
+          "description": "Binnenkort komt er nieuwe muziek van Ben Saunders uit. Dat heeft zijn vriendin Janita zondag via social media bekend gemaakt. Ze doet tevens een beroep op artiesten die liedjes ter nagedachtenis over ..."
+        },
+        {
+          "title": "Vriendin van 'B&amp;B Vol Liefde'-Fred vertelt voor het eerst over hun relatie: 'Hij is een heel fijn mens'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/nieuws/beetje-bijblijven/vriendin-bb-vol-liefde-fred-relatie/",
+          "publishedDate": "Sat, 19 Sep 2026 05:20:00 GMT",
+          "description": "Fred uit B&amp;B Vol Liefde was naarstig op zoek naar de vrouw met wie hij “de laatste tweehonderd maanden” van zijn leven zou delen. In het programma is hem dat niet gelukt, maar daarbuiten wel, zo verte ..."
+        },
+        {
+          "title": "Vriendin Ian woedend; volgende relatie staat op knappen",
+          "source": "LoveReality",
+          "url": "https://lovereality.nl/vriendin-ian-woedend-volgende-relatie-staat-op-knappen/",
+          "publishedDate": "Fri, 18 Sep 2026 11:28:00 GMT",
+          "description": "Het bezoek van de familie van Ian is volledig anders verlopen dan hij graag had gezien. Waar hij het constant over zijn vriendin heeft en dat hij haar vreselijk mist, is zij namelijk heel erg verdriet ..."
+        },
+        {
+          "title": "Mysterieuze vriendin van Fred uit B&amp;B vol liefde vertelt: ‘Hij is ontzettend empathisch’",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/mysterieuze-vriendin-van-fred-uit-benb-vol-liefde-vertelt-hij-is-ontzettend-empathisch~a8048f66/",
+          "publishedDate": "Fri, 18 Sep 2026 01:53:00 GMT",
+          "description": "B&amp;B vol liefde leverde hem geen partner op, maar Fred Ros uit Bonaire werd na de opnames w&#233;l verliefd. De nieuwe dame in zijn leven spreekt vol lof over hem in de podcast Mischa!."
         }
       ]
     }
