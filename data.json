@@ -1,312 +1,327 @@
 {
-  "fetchedAt": "2026-09-26T10:01:49.646Z",
+  "fetchedAt": "2026-09-26T14:37:36.985Z",
   "trends": [
     {
-      "keyword": "grand prix van azerbeidzjan",
+      "keyword": "marcel blijd",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Grand Prix Azerbeidzjan om 13.00 uur • Verstappen start op P8, Russell vanaf poleposition",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2632580-grand-prix-azerbeidzjan-om-13-00-uur-verstappen-start-op-p8-russell-vanaf-poleposition",
-          "publishedDate": "Fri, 25 Sep 2026 14:06:00 GMT",
-          "description": "In dit liveblog volgen we de Grand Prix van Azerbeidzjan in Bakoe. Max Verstappen start vanaf de achtste plek."
+          "title": "Bloemen bij terras waar gevangenisbewaarder werd doodgeschoten: ‘Marcel was de liefste neef die je je kon wensen’",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/bloemen-bij-terras-waar-gevangenisbewaarder-werd-doodgeschoten-marcel-was-de-liefste-neef-die-je-je-kon-wensen~bd851676/",
+          "publishedDate": "Fri, 25 Sep 2026 18:09:00 GMT",
+          "description": "Op de plek op de NDSM-kade waar vrijdagmiddag gevangenismedewerker Marcel Blijd (45) werd doodgeschoten, wordt zaterdag stilgestaan bij zijn dood. Mensen leggen bloemen neer, pinken een traantje weg e ..."
         },
         {
-          "title": "Bekijk de startopstelling voor de GP van Azerbeidzjan met Verstappen op plek 8",
+          "title": "Man doodgeschoten op vol terras in Noord, slachtoffer was medewerker gevangenis Zaanstad",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/man-doodgeschoten-op-vol-terras-in-noord-slachtoffer-was-medewerker-gevangenis-zaanstad~b5be9015/",
+          "publishedDate": "Fri, 25 Sep 2026 11:40:00 GMT",
+          "description": "De man die vrijdagmiddag werd doodgeschoten op een terras aan de NDSM-kade in Noord, is een gevangenisbewaarder van de penitentiaire inrichting Zaanstad. Volgens ingewijden zat de aangehouden verdacht ..."
+        },
+        {
+          "title": "Dit weten we over dodelijke schietpartij Amsterdam: ‘Verdachte zat in gevangenis waar slachtoffer werkte’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/dit-weten-we-over-dodelijke-schietpartij-amsterdam-verdachte-zat-in-gevangenis-waar-slachtoffer-werkte~a5923279/",
+          "publishedDate": "Thu, 24 Sep 2026 18:16:00 GMT",
+          "description": "De man die vrijdag werd doodgeschoten op de Amsterdamse NDSM-kade is een medewerker van Penitentiaire Inrichting Zaanstad. Het slachtoffer is afdelingshoofd Marcel Blijd, bevestigen bronnen na bericht ..."
+        },
+        {
+          "title": "Neef van op NDSM-kade doodgeschoten Marcel: &quot;Ik weet dat het zo is, maar geloof het niet&quot;",
+          "source": "AT5",
+          "url": "https://www.at5.nl/artikelen/240104/neef-van-op-ndsm-kade-doodgeschoten-marcel-ik-weet-dat-het-zo-is-maar-geloof-het-niet",
+          "publishedDate": "Sat, 26 Sep 2026 04:31:00 GMT",
+          "description": "Marcel Blijd (DJI-medewerker) doodgeschoten op terras NDSM-kade Amsterdam-Noord na woordenwisseling. Verdachte aangehouden. Familie legt bloemen neer."
+        },
+        {
+          "title": "Man shot dead in packed bar in Amsterdam was prison warden",
+          "source": "DutchNews.nl",
+          "url": "https://www.dutchnews.nl/2026/09/man-shot-dead-in-packed-bar-in-amsterdam-was-prison-warden/",
+          "publishedDate": "Sat, 26 Sep 2026 04:16:00 GMT",
+          "description": "A man who was shot dead on a packed terrace in Amsterdam on Friday afternoon was a warden at a local prison, Dutch media have confirmed. Marcel Blijd was killed at point-blank range as he sat outside ..."
+        },
+        {
+          "title": "Update NDSM-schietpartij: Slachtoffer is afdelingshoofd PI Zaanstad Marcel Blijd",
+          "source": "Cedar News",
+          "url": "https://cedarnews.net/nederlands/1007119/update-ndsm-schietpartij-slachtoffer-is-afdelingshoofd-pi-zaanstad/",
+          "publishedDate": "Fri, 25 Sep 2026 17:49:00 GMT",
+          "description": "Het slachtoffer van de dodelijke schietpartij op het terras aan de NDSM-kade is Marcel Blijd, afdelingshoofd van PI Zaanstad."
+        },
+        {
+          "title": "Doodgeschoten persoon Amsterdam is medewerker gevangenis Zaanstad",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/doodgeschoten-persoon-amsterdam-is-medewerker-gevangenis-zaanstad",
+          "publishedDate": "Fri, 25 Sep 2026 15:38:00 GMT",
+          "description": "De man die vrijdag werd doodgeschoten op de NDSM-kade in Amsterdam-Noord is een medewerker van Justitieel Complex Zaanstad. Dat bevestigt een woordvoerder van de Dienst Justiti&#235;le Inrichtingen."
+        },
+        {
+          "title": "Surinaams-Nederlandse gevangenbewaarder doodgeschoten in Amsterdam",
+          "source": "de Ware Tijd",
+          "url": "https://dwtonline.com/surinaams-nederlandse-gevangenbewaarder-doodgeschoten-in-amsterdam/",
+          "publishedDate": "Fri, 25 Sep 2026 15:01:00 GMT",
+          "description": "AMSTERDAM — Op een zeer drukbezocht terras in Amsterdam is vrijdagmiddag de Surinaams-Nederlandse gevangenbewaarder Marcel Blijd doodgeschoten. Naar verluidt is ..."
+        },
+        {
+          "title": "Update NDSM-schietpartij: Slachtoffer is afdelingshoofd PI Zaanstad Marcel Blijd, schutter is ex-gedetineerde",
+          "source": "moordplekken",
+          "url": "https://www.moordplekken.nl/nieuws/update-schietpartij-ndsm-kade-amsterdam-marcel-blijd-pi-zaanstad-verdachte-ex-gedetineerde",
+          "publishedDate": "Fri, 25 Sep 2026 14:58:00 GMT",
+          "description": "Wat begon als een ruzie over een loslopende hond, eindigde vrijdagochtend in een gruwelijke moord. Blijd zat op een vol terras nabij de pont-aanmeerplek toen hij in conflict raakte met een ..."
+        },
+        {
+          "title": "Gevangenisbewaarder Marcel: ‘Een gedetineerde probeerde mij te wurgen’",
+          "source": "metronieuws",
+          "url": "https://www.metronieuws.nl/geld-carriere/arbeidsmarkt/2024/04/gevangenisbewaarder-marcel-een-gedetineerde-probeerde-mij-te-wurgen/",
+          "publishedDate": "Thu, 18 Apr 2024 01:01:00 GMT",
+          "description": "Marcel Blijd was getuige van ontsnappingspogingen. Hij bewaakte de grootste criminelen. Daarnaast heeft in zijn werk dagelijks te maken met agressie: als bewaarder is niets hem vreemd."
+        }
+      ]
+    },
+    {
+      "keyword": "gp azerbeidzjan 2026",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Live F1 | Reacties na tweede plaats Verstappen in enerverende GP Azerbeidzjan",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/formule-1/6411010/bekijk-de-startopstelling-voor-de-gp-van-azerbeidzjan-met-verstappen-op-plek-8.html",
-          "publishedDate": "Fri, 25 Sep 2026 10:01:00 GMT",
-          "description": "Max Verstappen begint zaterdag vanaf de achtste plek aan de Grand Prix van Azerbeidzjan. Bekijk hier de startopstelling."
+          "url": "https://www.nu.nl/formule-1/6411072/live-f1-verstappen-op-derde-plek-onder-druk-van-hadjar-russell-leidt.html",
+          "publishedDate": "Sat, 26 Sep 2026 03:08:00 GMT",
+          "description": "Goedemiddag en welkom in dit liveblog. Hier houd ik (Laurine Slingerland) je op de hoogte van alle ontwikkelingen bij de Grand Prix van Azerbeidzjan. Veel plezier!"
         },
         {
-          "title": "Verstappen zakt opeens weg en start GP Azerbeidzjan als achtste: 'Was er even klaar mee'",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2632487-verstappen-zakt-opeens-weg-en-start-gp-azerbeidzjan-als-achtste-was-er-even-klaar-mee",
-          "publishedDate": "Fri, 25 Sep 2026 06:21:00 GMT",
-          "description": "De Nederlander van Red Bull komt niet in de buurt van de snelste tijd van George Russell, nadat hij in de eerste twee kwalificatiesessies nog tweede was geworden."
-        },
-        {
-          "title": "Max Verstappen LIVE-TIMING: Volg de inhaalrace van Verstappen vanuit een mindere startpositie!",
-          "source": "RaceXpress",
-          "url": "https://www.racexpress.nl/formule-1/max-verstappen-live-timing-volg-de-inhaalrace-van-verstappen-vanuit-een-mindere-startpositie/n/156618",
-          "publishedDate": "Sat, 26 Sep 2026 02:29:00 GMT",
-          "description": "Max Verstappen LIVE-TIMING Baku! De hoogste klasse in de motorsport is in Bakoe voor de F1 Grand Prix van Azerbeidzjan! En vandaag, zaterdag 26 ..."
-        },
-        {
-          "title": "FIA onthult enorme verrassing over de auto van Max Verstappen voor de GP van Azerbeidzjan",
-          "source": "GP33",
-          "url": "https://gp33.nl/f1-nieuws/fia-onthult-enorme-verrassing-over-de-auto-van-max-verstappen-voor-de-gp-van-azerbeidzjan",
-          "publishedDate": "Sat, 26 Sep 2026 02:25:00 GMT",
-          "description": "Max Verstappen rijdt de Grand Prix van Azerbeidzjan met een compleet vervangen motor, nadat de kwalificatie van vrijdag onthulde dat de auto van de Nederlander met forse problemen kampte op het rechte ..."
-        },
-        {
-          "title": "Cadillac F1 Team: &quot;Veelbelovend tempo laten zien en optimaal gebruikgemaakt van de upgrades, maar...&quot;",
-          "source": "RaceXpress",
-          "url": "https://www.racexpress.nl/formule-1/cadillac-f1-team-veelbelovend-tempo-laten-zien-en-optimaal-gebruikgemaakt-van-de-upgrades-maar/n/156601",
-          "publishedDate": "Sat, 26 Sep 2026 02:11:00 GMT",
-          "description": "Het Cadillac Formula 1&#174; Team kwalificeerde zich voor de Grand Prix van Azerbeidzjan van zaterdag met Checo P&#233;rez op P20 en teamgenoot Valtteri Bottas op ..."
-        },
-        {
-          "title": "George Russell maakt Max Verstappen gek en onthult hulp van Isack Hadjar in Azerbeidzjan",
-          "source": "GP33",
-          "url": "https://gp33.nl/f1-nieuws/george-russell-maakt-max-verstappen-gek-en-onthult-hulp-van-isack-hadjar-in-azerbeidzjan",
-          "publishedDate": "Fri, 25 Sep 2026 17:01:00 GMT",
-          "description": "George Russell is geholpen door Isack Hadjar tijdens de kwalificatie voor de Grand Prix van Azerbeidzjan. Dat heeft de Brit onthuld in de persconferentie van vrijdag, nadat hij op dominante wijze de p ..."
-        },
-        {
-          "title": "De F1 Grand Prix van Azerbeidzjan 2026 gratis live kijken",
-          "source": "Cybernews",
-          "url": "https://cybernews.com/nl/online-kijken/f1-azerbeidzjan-gratis-live-kijken-2026-09-26/",
-          "publishedDate": "Fri, 25 Sep 2026 16:00:00 GMT",
-          "description": "Kijk de F1 GP van Azerbeidzjan 2026 live en gratis op zaterdag 26 september met een VPN. Omzeil geoblokkades en mis niets van de race op het stratencircuit van Baku."
-        },
-        {
-          "title": "Noodingreep bij Max Verstappen voor GP Azerbeidzjan krijgt vervelend staartje: 'Het is natuurlijk heel zonde'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/formule-1/nieuws/noodingreep-bij-max-verstappen-voor-gp-azerbeidzjan-krijgt-vervelend-staartje-het-is-natuurlijk-heel-zonde-2026092607524255489/",
-          "publishedDate": "Fri, 25 Sep 2026 13:24:00 GMT",
-          "description": "Max Verstappen ging met hoge verwachtingen de kwalificatie in Bakoe in. Hij was de snelste in de laatste vrije training, Red Bull had een nieuw updatepakket meegenomen en poleposition leek eindelijk b ..."
-        },
-        {
-          "title": "Grand Prix van Azerbeidzjan 2026: data, tijden, waar je kan kijken, circuit, weer en odds",
-          "source": "news.bet365",
-          "url": "https://news.bet365.nl/nl-nl/article/grand-prix-van-azerbeidzjan-2026-data-tijden-waar-je-kan-kijken-circuit-weer-en-odds/2026092302123023175",
-          "publishedDate": "Tue, 22 Sep 2026 20:32:00 GMT",
-          "description": "Vrijdag koelt het iets af naar een graad of 26 overdag, met een nachtelijk minimum rond de 19 graden tijdens de derde vrije training en de kwalificatie. De neerslagkans loopt op naar ongeveer 10 ..."
+          "title": "Formule 1: Max Verstappen komt net tekort voor eerste overwinning 2026 – George Russell zegeviert in Azerbeidzjan",
+          "source": "Eurosport",
+          "url": "https://www.eurosport.nl/formule-1/gp-azerbeidzjan/2026/formule-1-max-verstappen-komt-net-tekort-voor-eerste-overwinning-2026-george-russell-zegeviert-in-azerbeidzjan_sto23340517/story.shtml",
+          "publishedDate": "Fri, 25 Sep 2026 17:57:00 GMT",
+          "description": "Max Verstappen finisht nipt als tweede in de Grand Prix van Azerbeidzjan, net achter George Russell. Na een crash neutraliseerde de safetycar de race."
         }
       ]
     },
     {
-      "keyword": "notaris",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Huis verkocht, notaris klaar, maar dan blijkt: er staat maar 55 procent van het geld op de rekening",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/wonen/huis-verkocht-notaris-klaar-maar-dan-blijkt-er-staat-maar-55-procent-van-het-geld-op-de-rekening~a99d86c0/",
-          "publishedDate": "Thu, 24 Sep 2026 19:07:00 GMT",
-          "description": "Eindelijk lijkt het vervallen huis in Amsterdam-Noord door de makelaar verkocht te zijn. Een professioneel bedrijf gaat het helemaal opknappen, maar laat het net voor de overdracht financieel afweten."
-        },
-        {
-          "title": "Zorgcaf&#233; Norg nodigt notaris uit",
-          "source": "De Krant Nieuws",
-          "url": "https://www.dekrantnieuws.nl/actueel/actueel/105499/zorgcafe-norg-nodigt-notaris-uit",
-          "publishedDate": "Fri, 25 Sep 2026 07:04:00 GMT",
-          "description": "NORG – In het Zorgcaf&#233; in Norg is op maandag 5 oktober een bijeenkomst waar notaris Bert Rijks uit Roden ingaat op de vraag ‘Wat en hoe te regelen, als ik het later zelf niet meer kan’."
-        },
-        {
-          "title": "Notaris geeft uitleg tijdens gratis infosessie over erven en schenken in Wetteren",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/wetteren/notaris-geeft-uitleg-tijdens-gratis-infosessie-over-erven-en-schenken-in-wetteren~acd83eab/",
-          "publishedDate": "Thu, 24 Sep 2026 19:38:00 GMT",
-          "description": "Woon-Plus en LDC De Koffiebranderij organiseren op woensdag 7 oktober een gratis infosessie rond het thema 'Erven en Schenken'. Een notaris geeft er heldere tekst en uitleg over de complexe wetgeving ..."
-        },
-        {
-          "title": "Notaris kwam na overname in financi&#235;le problemen en zet vraagtekens bij rol accountant",
-          "source": "AccountantWeek.nl",
-          "url": "https://accountantweek.nl/artikel/notaris-kwam-na-overname-in-financiele-problemen-en-zet-vraagtekens-bij-rol-accountant/",
-          "publishedDate": "Mon, 21 Sep 2026 06:47:00 GMT",
-          "description": "Het overgenomen notariskantoor in het oosten van het land blijkt te zijn ‘leeggetrokken’ door zijn voorganger. De nieuwe notaris komt daardoor in financi&#235;le problemen. De rol van de accountant van het ..."
-        },
-        {
-          "title": "Notaris vraagt zich na overname kantoor af wiens belangen de accountant diende",
-          "source": "Accountancy Vanmorgen",
-          "url": "https://www.accountancyvanmorgen.nl/2026/09/21/notaris-vraagt-zich-na-overname-kantoor-af-wiens-belangen-de-accountant-diende/",
-          "publishedDate": "Mon, 21 Sep 2026 01:34:00 GMT",
-          "description": "Na de overname van een notariskantoor in het oosten van het land komt de koper al snel in de financi&#235;le problemen. Heeft de accountant van het kantoor hem wel goed ge&#239;nformeerd of speelt hier een bela ..."
-        },
-        {
-          "title": "Column Notaris Timmers: Trouwen zonder samenwonen: kan dat?",
-          "source": "blikopnoordwijkerhout",
-          "url": "https://www.blikopnoordwijkerhout.nl/item/42442-column-notaris-timmers-trouwen-zonder-samenwonen-kan-dat",
-          "publishedDate": "Sat, 19 Sep 2026 06:13:00 GMT",
-          "description": "Column Notaris Timmers:&#160;Vorige maand zat er een man tegenover mij aan mijn bureau. Zijn vrouw was een paar jaar geleden overleden en inmiddels had hij iemand nieuw leren kennen. Toen hij... over haar ..."
-        },
-        {
-          "title": "Notaris rekent onverwacht extra",
-          "source": "De Dagelijkse Standaard",
-          "url": "https://www.dagelijksestandaard.nl/economie/notariskosten-onverwachte-extra-kosten-offerte",
-          "publishedDate": "Sat, 12 Sep 2026 08:30:00 GMT",
-          "description": "Bijna &#233;&#233;n op de tien deelnemers aan een Radar-onderzoek kreeg onverwachte notariskosten. Controleer de offerte, het meerwerk en de rekening."
-        },
-        {
-          "title": "Osse notaris Barbara van Kampen (55) overleden",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/oss/osse-notaris-barbara-van-kampen-55-overleden~a04b2166/",
-          "publishedDate": "Wed, 09 Sep 2026 21:09:00 GMT",
-          "description": "Notaris Barbara van Kampen uit Oss is op 55-jarige leeftijd overleden na een kort ziekbed. De in Uden geboren Van Kampen was een bekend en gewaardeerd gezicht in Oss, waar haar notariskantoor is geves ..."
-        },
-        {
-          "title": "Baaten nieuwe notaris",
-          "source": "Antilliaans Dagblad",
-          "url": "https://antilliaansdagblad.com/artikel/curacao/26330-baaten-nieuwe-notaris",
-          "publishedDate": "Wed, 14 Sep 2022 19:49:00 GMT",
-          "description": "Van een onzer verslaggeversWillemstad - Cornelia ‘Corinne’ Thesseling-Baaten is benoemd tot notaris op Cura&#231;ao. Zij was al waarnemer van de standplaats van voormalig notaris Kleinmoedig; nu heeft de ..."
-        },
-        {
-          "title": "Notaris Myron Hu-A-Ng dient ontslag in",
-          "source": "Antilliaans Dagblad",
-          "url": "https://antilliaansdagblad.com/artikel/curacao/26252-notaris-myron-hu-a-ng-dient-ontslag-in",
-          "publishedDate": "Thu, 01 Sep 2022 04:09:00 GMT",
-          "description": "Naar verluidt heeft hij ook een einddatum later dit jaar gemeld; per 1 oktober aanstaande. Dit verneemt het Antilliaans Dagblad uit diverse welingelichte bronnen. Op vragen hierover van deze krant ..."
-        }
-      ]
-    },
-    {
-      "keyword": "turkije - frankrijk",
-      "trafficLabel": "20K+",
-      "articles": []
-    },
-    {
-      "keyword": "sint annen",
+      "keyword": "spoedeisende hulp",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Automobilist overleden na heftige botsing met vrachtwagen op N46 bij Sint Annen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-groningen/automobilist-overleden-na-heftige-botsing-met-vrachtwagen-op-n46-bij-sint-annen~ae706871/",
-          "publishedDate": "Thu, 24 Sep 2026 21:43:00 GMT",
-          "description": "Bij een zeer ernstig verkeersongeval op de N46 (Eemshavenweg) ter hoogte van Sint Annen is een automobilist om het leven gekomen. Veel hulpverleners kwamen snel in actie, maar hulp kon niet meer baten ..."
+          "title": "Regenwater dat bij de spoedeisende hulp naar binnen stroomt en ambulances blokkeert. Nieuwe data laten zien: hoosbuien worden ‘groot probleem’",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/09/07/regenwater-dat-bij-de-spoedeisende-hulp-naar-binnen-stroomt-en-ambulances-blokkeert-nieuwe-data-laten-zien-hoosbuien-worden-groot-probleem-a4935788",
+          "publishedDate": "Mon, 07 Sep 2026 10:55:00 GMT",
+          "description": "Wateroverlast: Door klimaatverandering krijgt Nederland steeds zwaardere buien te verduren. NRC onderzocht hoe hoog het water kan komen te staan in de omgeving van de eerste hulp, ziekenhuizen, zorgin ..."
         },
         {
-          "title": "Slachtoffer verkeersongeval op Eemshavenweg bij Sint Annen is 44-jarige Stadjer (update)",
-          "source": "OOG Groningen",
-          "url": "https://www.oogtv.nl/2026/09/zeer-ernstig-verkeersongeval-op-eemshavenweg-bij-sint-annen/",
-          "publishedDate": "Fri, 25 Sep 2026 13:55:00 GMT",
-          "description": "Op de N46 bij Sint Annen zijn vrijdagochtend een vrachtwagen en een personenauto op elkaar gebotst. Dat kostte de bestuurder van de auto het leven.Verschillende hulpdiensten kwamen naar de plek va ..."
+          "title": "Landelijke actie op Spoedeisende Hulp: artsen onderzoeken impact van vapen en roken op acute zorg",
+          "source": "Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/landelijke-actie-op-spoedeisende-hulp-artsen-onderzoeken-impact-van-vapen-en-roken-op-acute-zorg~b98da0c2/",
+          "publishedDate": "Wed, 12 Nov 2025 09:38:00 GMT",
+          "description": "Landelijke actie op Spoedeisende Hulp: artsen onderzoeken impact van vapen en roken op acute zorg Steeds vaker belanden jongeren met ernstige longklachten op de spoedeisende hulp. Om duidelijk te ..."
         },
         {
-          "title": "Verkeersslachtoffer ongeluk N46 is 44-jarige man uit Groningen",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/verkeersslachtoffer-ongeluk-n46-is-44-jarige-man-uit-groningen",
-          "publishedDate": "Fri, 25 Sep 2026 13:20:00 GMT",
-          "description": "Het dodelijke slachtoffer van een ongeluk op de N46 bij Sint Annen in de provincie Groningen is een 44-jarige man uit de stad Groningen. Dat meldt de politie vrijdagavond. De man was de bestuurder van ..."
+          "title": "Spoedeisende hulp VUmc vanaf volgende week ’s nachts dicht: te weinig personeel",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/amsterdam/spoedeisende-hulp-vumc-vanaf-volgende-week-s-nachts-dicht-te-weinig-personeel~b78d6ad9/",
+          "publishedDate": "Mon, 17 Jul 2023 07:06:00 GMT",
+          "description": "De spoedeisende hulp van het VUmc gaat vanaf volgende week ’s nachts dicht, door een gebrek aan personeel. Uiterlijk in mei 2024 verdwijnt de post helemaal. Vanaf 24 juli kunnen mensen met een ..."
         },
         {
-          "title": "Ongeval Eemshavenweg eist dodelijk slachtoffer",
-          "source": "omroephethogeland",
-          "url": "https://omroephethogeland.nl/2026/09/25/ongeval-eemshavenweg-eist-dodelijk-slachtoffer/",
-          "publishedDate": "Fri, 25 Sep 2026 08:58:00 GMT",
-          "description": "Bij het ongeluk vrijdagmorgen op de N46 (Eemshavenweg) bij Sint Annen, is een persoon om het leven gekomen. Het gaat om de bestuurder van een auto met aanhanger. Een week geleden gebeurde er ook al ee ..."
+          "title": "Arts slaat alarm: na een zelfdodingpoging krijgen mensen op de spoedeisende hulp te harde behandeling",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/gezond/arts-slaat-alarm-na-een-zelfdodingpoging-krijgen-mensen-op-de-spoedeisende-hulp-te-harde-behandeling~a9317401/",
+          "publishedDate": "Fri, 25 Sep 2026 17:23:00 GMT",
+          "description": "Mensen die na een zelfmoordpoging op de spoedeisende hulp terechtkomen, krijgen vaak geen nazorg en worden met een beetje pech ook nog met de nek aangekeken. Dat zegt arts David Baden. Er wordt zelfs ..."
         },
         {
-          "title": "Dode bij auto-ongeluk N46 Sint Annen, weg afgesloten",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/dode-bij-auto-ongeluk-n46-sint-annen-weg-afgesloten",
-          "publishedDate": "Fri, 25 Sep 2026 06:18:00 GMT",
-          "description": "Bij een ernstig auto-ongeluk op de N46 bij Sint Annen (Groningen) is vrijdagochtend een persoon overleden. De bestuurder van een personenauto met aanhangwagen kwam in botsing met een vrachtwagen en ov ..."
+          "title": "Amphia eerste ziekenhuis in Nederland met beeldtriage op de spoedeisende hulp",
+          "source": "BredaVandaag",
+          "url": "https://www.bredavandaag.nl/algemeen/algemeen/481948/amphia-eerste-ziekenhuis-in-nederland-met-beeldtriage-op-de-s",
+          "publishedDate": "Sat, 19 Sep 2026 08:00:00 GMT",
+          "description": "BREDA - Amphia is het eerste ziekenhuis in Nederland dat op de Spoedeisende Hulp (SEH) werkt met beeldtriage via Sendi. Met deze digitale oplossing kunnen pati&#235;nten veilig een foto, video of aanvull.."
         },
         {
-          "title": "Dode bij frontale botsing tussen vrachtwagen en auto N46 Sint Annen(b",
-          "source": "meternieuws",
-          "url": "https://www.meternieuws.nl/dode-bij-frontale-botsing-tussen-vrachtwagen-en-auto-n46-sint-annenb/",
-          "publishedDate": "Fri, 25 Sep 2026 05:52:00 GMT",
-          "description": "Dodelijk ongeluk met vrachtwagen en auto op N46 bij Annen SINT ANNEN - Op de N46 bij Sint-Annen is vrijdagochtend een dodelijk ongeluk gebeurd. Een vrachtwagen en een auto met aanhanger kwamen met elk ..."
+          "title": "Gevolgen van spoedeisende hulp sluitingen, lijken beperkt",
+          "source": "Blik op nieuws",
+          "url": "https://www.blikopnieuws.nl/gezondheid/311003/gevolgen-van-spoedeisende-hulp-sluitingen-lijken-beperkt.html",
+          "publishedDate": "Thu, 17 Sep 2026 07:34:00 GMT",
+          "description": "Na de sluiting van een spoedeisende hulp (SEH) daalde het aantal SEH-bezoeken van inwoners uit het verzorgingsgebied met 4,3%. Deze lichte daling suggereert dat de meeste inwoners waarschijnlijk konde ..."
         },
         {
-          "title": "Automobilist (44) overleden bij ernstig ongeluk met vrachtwagen op N46",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/automobilist-overleden-ongeluk-vrachtwagen-n46",
-          "publishedDate": "Fri, 25 Sep 2026 04:29:00 GMT",
-          "description": "Automobilist overleden bij een ernstig ongeluk met een vrachtwagen op de N46 bij Sint Annen. De weg blijft naar verwachting tot 17.00 uur afgesloten."
-        },
-        {
-          "title": "112 Sint Annen: actueel overzicht 112 meldingen vandaag",
-          "source": "Alarmeringen",
-          "url": "https://alarmeringen.nl/groningen/sint-annen/",
-          "publishedDate": "Fri, 25 Sep 2026 01:46:00 GMT",
-          "description": "Het actuele overzicht van 112 meldingen en 112 nieuws uit Sint Annen van vandaag afkomstig van de brandweer, ambulance, traumahelikopter, politie en andere 112 hulpdiensten."
-        },
-        {
-          "title": "Home Groningen 112 Sint Annen Dodelijk ongeval tussen vrachtwagen en auto",
-          "source": "Hardnieuws",
-          "url": "https://www.hardnieuws.nl/groningen/sint-annen/dodelijk-ongeval-tussen-vrachtwagen-en-auto-eemshavenweg-n46-sint-annen-75116.html",
-          "publishedDate": "Thu, 24 Sep 2026 23:41:00 GMT",
-          "description": "SINT ANNEN - Vrijdagmorgen 25 september vlak na 08.40 uur heeft een ongeval plaatsgevonden op de Eemshavenweg - N46 bij Sint Annen. Al binnen 3 minuten werd ..."
-        },
-        {
-          "title": "Zeer ernstig ongeval In Sint Annen(video)",
-          "source": "meternieuws",
-          "url": "https://www.meternieuws.nl/zeer-ernstig-ongeval-in-sint-annenvideo/",
-          "publishedDate": "Fri, 18 Sep 2026 18:32:00 GMT",
-          "description": "SINT ANNEN - Vrijdagavond heeft een zeer ernstig ongeval plaatsgevonden waarbij drie voertuigen zijn betrokken op de N46 ter hoogte van Sint Annen. Meerdere personen raakten ernstig gewond. Hulpdienst ..."
-        }
-      ]
-    },
-    {
-      "keyword": "verstikking",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Kind (3) overleden na verslikken in boterham: juist zacht eten kan gevaarlijk zijn",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5655427/kind-3-overlijdt-na-verslikken-boterham-juist-zacht-eten",
-          "publishedDate": "Fri, 25 Sep 2026 03:20:00 GMT",
-          "description": "Een 3-jarig jongetje is gisteren overleden in het Belgische Antwerpen, nadat hij zich had verslikt in een boterham tijdens de lunch op een kleuterschool. In Nederland overlijden gemiddeld 7 jonge kind ..."
-        },
-        {
-          "title": "Arbeider gedood in het Colosseum, Meloni eist duidelijkheid: studenten en vakbonden demonstreren.",
-          "source": "Notizie.it",
-          "url": "https://www.notizie.it/nl/Een-6-jarig-jongetje-in-Altino-is-tijdens-het-eten-van-een-tussendoortje-overleden-door-verstikking./",
-          "publishedDate": "Thu, 24 Sep 2026 00:33:00 GMT",
-          "description": "Een zesjarige jongen is woensdagmiddag laat in Altino overleden nadat een insectenbeet in zijn keel terecht was gekomen. Zijn ouders, de hulpdiensten ..."
-        },
-        {
-          "title": "Taxisector voert actie in Brussel na ‘tien jaar verstikking door multinationals’",
-          "source": "BRUZZ",
-          "url": "https://www.bruzz.be/actua/mobiliteit/taxisector-voert-actie-brussel-na-tien-jaar-verstikking-door-multinationals-2026-09-18",
-          "publishedDate": "Thu, 17 Sep 2026 17:00:00 GMT",
-          "description": "De taxisector voert vrijdag actie tegen &quot;tien jaar verstikking&quot; als gevolg van de concurrentie met multinationals zoals Uber."
-        },
-        {
-          "title": "Baby van 11 maanden overleden na vermoedelijke verstikking in woning",
-          "source": "Waterkant",
-          "url": "https://www.waterkant.net/suriname/2026/09/10/baby-van-11-maanden-overleden-na-vermoedelijke-verstikking-in-woning/",
-          "publishedDate": "Thu, 10 Sep 2026 10:00:00 GMT",
-          "description": "Een baby van 11 maanden is donderdag overleden in een woning aan de Ormosiastraat in Suriname. Volgens de eerste informatie zou de zuigeling vermoedelijk door verstikking om het leven zijn gekomen. De ..."
-        },
-        {
-          "title": "Baby overleden door verstikking",
-          "source": "SR Nieuws",
-          "url": "https://www.srnieuws.com/baby-overleden-door-verstikking",
-          "publishedDate": "Thu, 09 Jul 2026 16:01:00 GMT",
-          "description": "Een baby van anderhalve maand oud, B.A., is maandag 6 juli overleden in Suriname. De moeder verklaarde dat zij het kind na het geven van borstvoeding bij zich in bed in slaap was gevallen. Toen zij ..."
-        },
-        {
-          "title": "Trump wil doodstraf uitbreiden: vuurpeloton, elektrocutie of verstikking met gas",
-          "source": "SR Nieuws",
-          "url": "https://www.srnieuws.com/trump-wil-doodstraf-uitbreiden-vuurpeloton-elektrocutie-of-verstikking-met-gas",
-          "publishedDate": "Fri, 24 Apr 2026 20:17:00 GMT",
-          "description": "Het Amerikaanse ministerie van Justitie wil de doodstraf op federaal niveau uitbreiden en het ook mogelijk maken om die uit te voeren met een vuurpeloton, door elektrocutie of verstikking met een gas."
-        },
-        {
-          "title": "Van blokkade naar verstikking: VS-oorlog tegen Cuba gaat zijn meest brute fase in",
-          "source": "dewereldmorgen.be",
-          "url": "https://www.dewereldmorgen.be/artikel/2026/02/05/van-blokkade-naar-verstikking-vs-oorlog-tegen-cuba-gaat-zijn-meest-brute-fase-in",
-          "publishedDate": "Thu, 05 Feb 2026 09:41:00 GMT",
-          "description": "Een doelbewuste strategie van totale economische verstikking Dit gaat niet langer over het isoleren of indammen van het Cubaanse volk ten opzichte van de rest van het halfrond, het is een doelbewuste ..."
-        },
-        {
-          "title": "Hersenletsel of verstikking: wetsdokters lijnrecht tegenover elkaar in zaak-Chovanec",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2024/01/25/wetsdokters-lijnrecht-tegenover-elkaar-zaak-dood-jozef-chovanec/",
-          "publishedDate": "Fri, 26 Jan 2024 01:50:00 GMT",
-          "description": "Ook vandaag werd er in de raadkamer van Charleroi nog een hele dag achter gesloten deuren gepleit over de zaak-Jozef Chovanec. Uitzonderlijk werden er twee dagen uitgetrokken voor de pleidooien. Of ..."
-        },
-        {
-          "title": "‘Schudden is schaden’ en meer levensreddende tips bij verstikking van je baby",
+          "title": "Steeds meer mensen met overdosis op spoedeisende hulp in Utrecht, ziekenhuizen slaan handen ineen",
           "source": "AD",
-          "url": "https://www.ad.nl/gezin/schudden-is-schaden-en-meer-levensreddende-tips-bij-verstikking-van-je-baby~a617005e/",
-          "publishedDate": "Wed, 20 Oct 2021 22:59:00 GMT",
-          "description": "Een ongeluk zit in een klein hoekje. Dat is zeker zo als er kleine kinderen en dito stukjes speelgoed in de buurt zijn. Maar ook een nootje of een onschuldig stukje vlees of brood kunnen soms kwalijke ..."
+          "url": "https://www.ad.nl/utrecht/steeds-meer-mensen-met-overdosis-op-spoedeisende-hulp-in-utrecht-ziekenhuizen-slaan-handen-ineen~a40a64fe/",
+          "publishedDate": "Wed, 15 Oct 2025 22:00:00 GMT",
+          "description": "Artsen maken zich zorgen over het aantal mensen dat met vergiftigingsverschijnselen op de spoedeisende hulp in Utrecht komt. Door alcohol, drugs of medicijnen komen mensen regelmatig bewusteloos ..."
         },
         {
-          "title": "1-jarig kind door verstikking overleden",
-          "source": "Star Nieuws",
-          "url": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/66693/",
-          "publishedDate": "Fri, 24 Sep 2021 10:38:00 GMT",
-          "description": "Sion Tamka (1 jaar) is op donderdag vermoedelijk bij aankomst op de Spoed Eisende Hulp (SEH) van het Academisch Ziekenhuis Paramaribo door verstikking komen te overlijden. De politie kreeg een melding ..."
+          "title": "Meer jongeren onder zestien jaar door vuurwerk op spoedeisende hulp: ’Impact van lokaal verbod is beperkt’",
+          "source": "telegraaf.nl",
+          "url": "https://www.telegraaf.nl/binnenland/meer-jongeren-onder-zestien-jaar-door-vuurwerk-op-spoedeisende-hulp-impact-van-lokaal-verbod-is-beperkt/68025721.html",
+          "publishedDate": "Mon, 06 Jan 2025 10:00:00 GMT",
+          "description": "Afgelopen jaarwisseling zijn 1162 vuurwerkslachtoffers op de spoedeisende hulp (SEH) of bij een huisartsenspoedpost geholpen. Dat waren er tijdens oud en nieuw 2023-2024 nog 1212. „De getallen zijn ..."
+        },
+        {
+          "title": "Spoedeisende hulp St. Antonius op scherp tijdens schaatsperiode: ‘Het zou sneu zijn als gips ineens op is’",
+          "source": "AD",
+          "url": "https://www.ad.nl/utrecht/spoedeisende-hulp-st-antonius-op-scherp-tijdens-schaatsperiode-het-zou-sneu-zijn-als-gips-ineens-op-is~a1a903ef/",
+          "publishedDate": "Wed, 10 Jan 2024 02:42:00 GMT",
+          "description": "Ai, pats. Die scheur in het ijs zag je even over het hoofd. Je zal niet de enige zijn die met een botbreuk op de spoedeisende hulp terecht komt. Het St. Antonius Ziekenhuis in Utrecht en Nieuwegein ..."
+        },
+        {
+          "title": "SEH-artsen vragen ﻿bij politici om heldere visie ﻿spoedeisende hulp",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/nieuws/binnenland/3db3ee7b-add3-4a19-977b-0838fde324c7/seh-artsen-vragen-bij-politici-om-heldere-visie-spoedeisende-hulp",
+          "publishedDate": "Fri, 10 Nov 2023 09:00:00 GMT",
+          "description": "Verschillende spoedafdelingen in Nederland worden gesloten, tot ongenoegen van spoedeisende hulp artsen (SEH-artsen). Daarom doen ze een dringende oproep aan politieke partijen om duidelijk te zijn ..."
+        }
+      ]
+    },
+    {
+      "keyword": "val van paard",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Vrouw die zondag ten val kwam met haar paard overleden aan verwondingen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-heerlen/vrouw-die-zondag-ten-val-kwam-met-haar-paard-overleden-aan-verwondingen~a29d69fc/",
+          "publishedDate": "Mon, 07 Sep 2026 23:34:00 GMT",
+          "description": "De vrouw die zondagochtend ten val kwam met haar paard in Voerendaal is aan haar verwondingen overleden, zo laat een woordvoerder van de politie weten. Over de identiteit van de vrouw is niet bekend g ..."
+        },
+        {
+          "title": "Meisje zwaargewond na val van paard, traumahelikopter opgeroepen",
+          "source": "GelreNieuws.nl",
+          "url": "https://www.gelrenieuws.nl/2026/09/meisje-zwaargewond-na-val-van-paard-traumahelikopter-opgeroepen.html",
+          "publishedDate": "Fri, 25 Sep 2026 14:35:00 GMT",
+          "description": "HALLE – Een meisje is vrijdagavond zwaargewond geraakt bij een val van een paard aan de Halseweg in Halle. Twee ambulances en de politie kwamen ter plaatse om hulp te verlenen. Aanvankelijk werd ook e ..."
+        },
+        {
+          "title": "Brand bij Hello TV • zwaargewonde bij val van paard",
+          "source": "Omroep Gelderland",
+          "url": "https://www.gld.nl/nieuws/8528128/brand-bij-hello-tv-zwaargewonde-bij-val-van-paard",
+          "publishedDate": "Fri, 25 Sep 2026 11:13:00 GMT",
+          "description": "Het actuele 112-nieuws uit Gelderland van deze dag bundelen we in een liveblog. Je leest en ziet hier een overzicht van ongelukken, branden, vermissingen en misdrijven in onze provincie."
+        },
+        {
+          "title": "Zwaargewonde bij val van paard • aanrijding",
+          "source": "Omroep Gelderland",
+          "url": "https://www.gld.nl/nieuws/8528128/zwaargewonde-bij-val-van-paard-aanrijding",
+          "publishedDate": "Fri, 25 Sep 2026 10:45:00 GMT",
+          "description": "Het actuele 112-nieuws uit Gelderland van deze dag bundelen we in een liveblog. Je leest en ziet hier een overzicht van ongelukken, branden, vermissingen en misdrijven in onze provincie."
+        },
+        {
+          "title": "Nederlandse prinses Amalia toont in Aken voor het eerst duidelijk litteken van valpartij met paard Mojito",
+          "source": "HLN",
+          "url": "https://www.hln.be/royalty/nederlandse-prinses-amalia-toont-in-aken-voor-het-eerst-duidelijk-litteken-van-valpartij-met-paard-mojito~a7d9b4ce/",
+          "publishedDate": "Tue, 11 Aug 2026 17:52:00 GMT",
+          "description": "Prinses Amalia (22) heeft dinsdagavond in Aken het litteken op haar linkerbovenarm getoond dat ze overhield aan een zware val van haar paard vorig jaar. De oudste dochter van de Nederlandse koning ..."
+        },
+        {
+          "title": "Ruiter ernstig gewond na val van paard",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/ede/ruiter-ernstig-gewond-na-val-van-paard~a56697c7/",
+          "publishedDate": "Fri, 05 Sep 2025 21:26:00 GMT",
+          "description": "Zaterdagochtend is een ruiter ernstig gewond geraakt na een val van een paard op een bospad in Wekerom. Er kwam onder andere een traumahelikopter ter plaatse. Rond 10.30 uur ging het mis aan de Hoge ..."
+        },
+        {
+          "title": "Prinses Amalia breekt bovenarm na val van paard en moet onder het mes",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/prinses-amalia-breekt-bovenarm-na-val-van-paard-en-moet-onder-het-mes~a7609baa/",
+          "publishedDate": "Tue, 10 Jun 2025 01:53:00 GMT",
+          "description": "Prinses Amalia is dinsdag van haar paard gevallen en heeft daarbij haar bovenarm gebroken. Dat maakt de RVD bekend. De 21-jarige Amalia moet voor de breuk onder het mes in het UMC Utrecht. De RVD laat ..."
+        },
+        {
+          "title": "Nieuws Sport Kijk Podcast Feelgood Puzzel",
+          "source": "ED",
+          "url": "https://www.ed.nl/tilburg/na-val-van-paard-ontdekte-linda-31-borstkan-ker-nu-zamelt-de-tilburgse-ruim-2500-euro-in-voor-het-goede-doel~a2210e4a/?slug_rd=1",
+          "publishedDate": "Wed, 02 Apr 2025 02:30:00 GMT",
+          "description": "Na val van paard ontdekte Linda (31) borstkan&#173;ker, nu zamelt de Tilburgse ruim 2500 euro in voor het goede doel TILBURG - Haar lange blonde haren verliezen vond ze het allerergste, maar verder kon ..."
+        },
+        {
+          "title": "Amazone (65) zwaargewond na val van paard",
+          "source": "AD",
+          "url": "https://www.ad.nl/doetinchem/amazone-65-zwaargewond-na-val-van-paard~a03fd75e/?slug_rd=1",
+          "publishedDate": "Thu, 20 Aug 2020 16:41:00 GMT",
+          "description": "ZELHEM - Een 65-jarige vrouw is donderdagavond zwaargewond geraakt toen ze ter hoogte van de golfbaan aan de Blekweg, tussen Hengelo en Varssel, van haar paard viel. Rond 20.00 uur ging het mis toen ..."
+        },
+        {
+          "title": "Duits meisje (13) naar ziekenhuis na val van paard op strand Domburg",
+          "source": "PZC",
+          "url": "https://www.pzc.nl/zeeuws-vlaanderen/duits-meisje-13-naar-ziekenhuis-na-val-van-paard-op-strand-domburg~a8e8073b/",
+          "publishedDate": "Wed, 17 Jul 2019 08:09:00 GMT",
+          "description": "DOMBURG - Na een val van haar paard op het strand van Domburg werd een Duits meisje van dertien woensdagmorgen per ambulance naar het ziekenhuis van Goes gebracht. Na controle bleek ze geen ..."
+        }
+      ]
+    },
+    {
+      "keyword": "a76",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Dode bij nachtelijk ongeluk op A76, slachtoffer mogelijk geraakt door meerdere voertuigen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2632576-dode-bij-nachtelijk-ongeluk-op-a76-slachtoffer-mogelijk-geraakt-door-meerdere-voertuigen",
+          "publishedDate": "Sat, 26 Sep 2026 00:55:00 GMT",
+          "description": "Het slachtoffer is geraakt door meerdere auto's, meldt de politie. Het is nog onbekend wat de toedracht is van het ongeluk."
+        },
+        {
+          "title": "A76 richting Aken gaat dicht voor nachtelijk onderhoud in Zuid-Limburg",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voerendaal/a76-richting-aken-gaat-dicht-voor-nachtelijk-onderhoud-in-zuid-limburg~a225495f/",
+          "publishedDate": "Thu, 17 Sep 2026 23:39:00 GMT",
+          "description": "Rijkswaterstaat voert onderhoud uit aan rijkswegen in Zuid-Limburg en sluit daarvoor een deel van de A76 af. De afsluiting geldt van woensdag 23 september 20.00 uur tot donderdag 24 september 06.00 uu ..."
+        },
+        {
+          "title": "Persoon omgekomen bij verkeersongeval op A76 bij Schinnen",
+          "source": "Blik op nieuws",
+          "url": "https://www.blikopnieuws.nl/nieuws/311078/persoon-omgekomen-bij-verkeersongeval-op-a76-bij-schinnen.html",
+          "publishedDate": "Sat, 26 Sep 2026 06:32:00 GMT",
+          "description": "In de nacht van vrijdag op zaterdag kreeg de politie rond 03:00 uur een melding van een verkeersongeval op de A76 ter hoogte van Schinnen. 'Hierbij is een persoon om het leven gekomen', zo meldt de ..."
+        },
+        {
+          "title": "Dode bij ongeval op A76 in Limburg, slachtoffer meermaals door auto’s geraakt",
+          "source": "nu",
+          "url": "https://nu.cw/2026/09/26/dode-bij-ongeval-op-a76-in-limburg-slachtoffer-meermaals-door-autos-geraakt/",
+          "publishedDate": "Sat, 26 Sep 2026 00:32:00 GMT",
+          "description": "Op de A76 tussen Heerlen en Geleen is in de nacht van vrijdag op zaterdag ter hoogte van Schinnen een persoon om het leven gekomen."
+        },
+        {
+          "title": "Persoon overleden bij aanrijding door meerdere voertuigen op A76",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/limburg-schinnen-a76-dodelijk-ongeval-meerdere-voertuigen",
+          "publishedDate": "Fri, 25 Sep 2026 22:29:00 GMT",
+          "description": "Op de A76 bij Schinnen is in de nacht van vrijdag op zaterdag een persoon overleden nadat het slachtoffer door meerdere voertuigen werd geraakt. De politie onderzoekt wat er precies is gebeurd en heef ..."
+        },
+        {
+          "title": "Persoon overleden op A76 bij Schinnen",
+          "source": "politie.nl",
+          "url": "https://www.politie.nl/nieuws/2026/september/26/persoon-overleden-op-de-a76-bij-schinnen.html",
+          "publishedDate": "Thu, 24 Sep 2026 17:00:00 GMT",
+          "description": "Zaterdag 26 september kregen we rond 3:00 uur een melding van een verkeersongeval op de A76 ter hoogte van Schinnen. Hierbij is een persoon om het leven gekomen."
+        },
+        {
+          "title": "Ongeval met letsel op A76 in Geleen",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/limburg/limburg-zuid/geleen/55825304/p2000-politie-naar-a76-in-geleen-voor-ongeval-met-letsel.html",
+          "publishedDate": "Sun, 13 Sep 2026 12:13:00 GMT",
+          "description": "Geleen is een plaats in de provincie Limburg en valt onder de P2000-regio Limburg Zuid. De hulpdiensten in Geleen reageren onder meer op 112 meldingen die bij deze veiligheidsregio binnenkomen. Via ..."
+        },
+        {
+          "title": "Automobilist overleden na botsing met vrachtwagen op A76 bij Heerlen",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/heerlen-automobilist-overleden-ongeval-a76-vrachtwagen",
+          "publishedDate": "Sat, 05 Sep 2026 05:50:00 GMT",
+          "description": "Een automobilist is overleden na een ernstig ongeval op de A76 bij Heerlen. De bestuurder botste zaterdagochtend vroeg achterop een vrachtwagen. Hoe het ongeluk kon gebeuren, is nog niet bekend."
+        },
+        {
+          "title": "Aanhoudingen op A73 en A76 na schietpartij Overasselt",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Binnenland/aanhoudingen-op-a73-en-a76-na-schietpartij-overasselt/ar-AA2blnJh",
+          "publishedDate": "Tue, 01 Sep 2026 06:09:00 GMT",
+          "description": "OVERASSELT (ANP) - Bij politieacties aan het einde van de ochtend op de snelwegen A73 en A76 zijn diverse aanhoudingen verricht. Die aanhoudingen houden verband met het lopende onderzoek naar de schie ..."
+        },
+        {
+          "title": "Aanhoudingen op A73 en A76 na schietpartij Overasselt",
+          "source": "zeelandnet",
+          "url": "https://www.zeelandnet.nl/nieuws/aanhoudingen-op-a73-en-a76-na-schietpartij-overasselt",
+          "publishedDate": "Tue, 01 Sep 2026 06:09:00 GMT",
+          "description": "In Overasselt vond in de nacht van maandag op dinsdag een schietpartij plaats. Daarbij kwam iemand om het leven en raakten twee agenten gewond. Op beelden die De Telegraaf heeft gepubliceerd is een ..."
         }
       ]
     },
@@ -378,99 +393,170 @@
           "description": "Hanneke Groenteman kan binnenkort weer zelf achter het stuur kruipen. De 87-jarige presentatrice raakte deze zomer haar rijbewijs kwijt ..."
         },
         {
-          "title": "Opgehoepeld! Hanneke Groenteman vertrekt naar NYC",
-          "source": "GeenStijl",
-          "url": "https://www.geenstijl.nl/1546381/hanneke-groenteman-vertrekt-na",
-          "publishedDate": "Mon, 12 Jan 2009 03:07:00 GMT",
-          "description": "De grens is bereikt. De maat is vol. Als het zo moet, hoeft het niet meer. Martin Simek is van de radio verjaagd waardoor zoonlief werkeloos is, en nu wil GeenStijl ook nog een eigen omroep beginnen ..."
+          "title": "Hanneke Groenteman (86) krijgt met &#233;&#233;n prentenboek de klas stil: ‘Voorlezen is heel belangrijk’",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/lelystad/hanneke-groenteman-86-krijgt-met-een-prentenboek-de-klas-stil-voorlezen-is-heel-belangrijk~a4458215/",
+          "publishedDate": "Wed, 21 Jan 2026 04:31:00 GMT",
+          "description": "Hanneke Groenteman is naar Lelystad gekomen om de kinderen van de basisschool voor te lezen. ‘Wie?’ denken de leerlingen eerst, maar ze gaan al snel op in het verhaal dat ze vertelt. „Zelf ben ik ..."
         }
       ]
     },
     {
-      "keyword": "finse luchtmacht",
+      "keyword": "f1",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Luchtmacht in Finland en Zweden uitgerukt om Russische vliegtuigen te onderscheppen",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/09/25/luchtmacht-in-finland-en-zweden-uitgerukt-om-russische-vliegtuigen-te-onderscheppen-a4937540",
-          "publishedDate": "Fri, 25 Sep 2026 04:27:00 GMT",
-          "description": "Gevechtsvliegtuigen van de Finse en Zweedse luchtmacht zijn donderdag uitgerukt om Russische militaire vliegtuigen te onderscheppen. Dat heeft de Finse luchtmacht bekendgemaakt. De Russische vliegtuig ..."
+          "title": "WK-stand na F1 GP Azerbeidzjan 2026: Dominante Russell doet goede zaken",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/wk-stand-na-f1-gp-azerbeidzjan-2026-dominante-russell-doet-goede-zaken/ar-AA2d0Xsy",
+          "publishedDate": "Sat, 26 Sep 2026 05:48:00 GMT",
+          "description": "George Russell heeft met zijn zege in Azerbeidzjan een belangrijke stap gezet in het wereldkampioenschap. Hij profiteert daarmee niet alleen van zijn eigen snelheid, maar ook van de tegenvaller bij te ..."
         },
         {
-          "title": "Zweedse en Finse straaljagers onderscheppen Russische militaire vliegtuigen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2632451-zweedse-en-finse-straaljagers-onderscheppen-russische-militaire-vliegtuigen",
-          "publishedDate": "Fri, 25 Sep 2026 02:25:00 GMT",
-          "description": "De Russische toestellen vlogen in het internationale luchtruim boven de Finse Golf. Waarnemers waarschuwen al langer voor provocaties boven NAVO-grondgebied."
+          "title": "Hoe laat begint de F1 GP Azerbeidzjan 2026 met Max Verstappen vandaag?",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/hoe-laat-begint-de-f1-gp-azerbeidzjan-2026-met-max-verstappen-vandaag/ar-AA2d0h4M",
+          "publishedDate": "Sat, 26 Sep 2026 03:52:46 GMT",
+          "description": "Op zaterdag 26 september 2026 is het tijd voor de Formule 1 Grand Prix van Azerbeidzjan! Hoe laat de race in de straten van Baku begint, lees je hier."
         },
         {
-          "title": "Finse luchtmacht belooft nu echt alle swastika’s te verwijderen",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/buitenland/finse-luchtmacht-belooft-nu-echt-alle-swastika-s-te-verwijderen~b0bc988b/",
-          "publishedDate": "Sun, 31 Aug 2025 09:18:00 GMT",
-          "description": "Toen Duitse luchtmachtpiloten er in 2021 achter kwamen dat er bij de slotceremonie na afloop van een gezamenlijke oefening met de Finnen vlaggen met hakenkruizen zouden wapperen, dachten ze: mwoah. Ze ..."
+          "title": "Aangepaste startopstelling F1 GP Azerbeidzjan 2026 na meerdere straffen",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/aangepaste-startopstelling-f1-gp-azerbeidzjan-2026-na-meerdere-straffen/ar-AA2cYW2K",
+          "publishedDate": "Sat, 26 Sep 2026 03:18:00 GMT",
+          "description": "George Russell gaat vanaf poleposition aan de Grand Prix van Azerbeidzjan beginnen, met Max Verstappen vanaf P8. De gehele startopstelling vind je hier!"
         },
         {
-          "title": "Luchtmacht Finland neemt afscheid van vlaggen met hakenkruis",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2580401-luchtmacht-finland-neemt-afscheid-van-vlaggen-met-hakenkruis",
-          "publishedDate": "Fri, 29 Aug 2025 12:09:00 GMT",
-          "description": "De Finse luchtmacht gaat het hakenkruis verwijderen van de vlag van bepaalde eenheden. Het is misschien niet algemeen bekend, maar de strijdkrachten van Finland maken anno 2025 nog altijd gebruik van ..."
+          "title": "Ondertussen in F1 | Titelfavoriet Antonelli crasht in Bakoe",
+          "source": "F1 Maximaal on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/ondertussen-in-f1-titelfavoriet-antonelli-crasht-in-bakoe/ar-AA2aL16p",
+          "publishedDate": "Fri, 25 Sep 2026 07:30:00 GMT",
+          "description": "Tussen al het belangrijke nieuws kun je best eens wat dingetjes missen. Geen nood, F1Maximaal.nl houdt je in de rubriek Ondertussen in de F1 op de hoogte van alle zin en onzin uit de wereld der Formul ..."
         },
         {
-          "title": "Russische militaire vliegtuigen onderschept in Europa",
-          "source": "Up in the Sky",
-          "url": "https://www.upinthesky.nl/2026/09/26/russische-vliegtuigen-onderschept-boven-scandinavie/",
-          "publishedDate": "Sat, 26 Sep 2026 02:00:00 GMT",
-          "description": "Zweedse en Finse straaljagers hebben gezamenlijk Russische militaire toestellen onderschept. Dit gebeurde afgelopen donderdag in het internationale ..."
+          "title": "F1 tijden: bekijk de Formule 1 tijden van de GP Azerbeidzjan",
+          "source": "iCreate",
+          "url": "https://www.icreatemagazine.nl/nieuws/f1-tijden/",
+          "publishedDate": "Thu, 24 Sep 2026 03:30:00 GMT",
+          "description": "Alle Formule 1-races en andere sessies zijn te zien via Viaplay, voorzien van Nederlandstalig commentaar. Naast Formule 1 krijg je met Viaplay ook toegang tot andere sporten, zoals voetbal (Premier ..."
         },
         {
-          "title": "Finland en Zweden onderscheppen Russische militaire vliegtuigen",
-          "source": "Newsmonkey on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/finland-en-zweden-onderscheppen-russische-militaire-vliegtuigen/ar-AA2cYeXj",
-          "publishedDate": "Fri, 25 Sep 2026 10:02:00 GMT",
-          "description": "In het kort In een geco&#246;rdineerde actie hebben gevechtsvliegtuigen uit Finland en Zweden onlangs een groep Russische militaire vliegtuigen gevolgd en ge&#239;dentificeerd. Volgens de Finse luchtmacht opere ..."
+          "title": "F1 Driver Of The Day 2026: het complete overzicht van dit seizoen op een rijtje",
+          "source": "gpfans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1078155/f1-driver-of-the-day-2026-grand-prix-italie-monza-antonelli-mercedes/",
+          "publishedDate": "Sat, 19 Sep 2026 12:26:00 GMT",
+          "description": "Net als de voorgaande jaren kunnen de fans ook tijdens iedere race van het Formule 1-seizoen 2026 weer stemmen op hun Driver Of The Day. In dit artikel houden we je het hele jaar op de hoogte van hoe ..."
         },
         {
-          "title": "Zweedse en Finse straaljagers rukken uit om Russische vliegtuigen",
-          "source": "ZeelandNet",
-          "url": "https://www.zeelandnet.nl/nieuws/zweedse-en-finse-straaljagers-rukken-uit-om-russische-vliegtuigen",
-          "publishedDate": "Fri, 25 Sep 2026 02:50:00 GMT",
-          "description": "HELSINKI (ANP/RTR/BLOOMBERG) - Zweedse en Finse gevechtsvliegtuigen zijn donderdag uitgerukt om Russische militaire luchtvaartuigen te onderscheppen, meldt de F ..."
+          "title": "De boodschappen achter de schokkende herstelfoto van Marc Marquez' schouder",
+          "source": "Motorsport.com on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/motorsport/de-boodschappen-achter-de-schokkende-herstelfoto-van-marc-marquez-schouder/ar-AA2bOjTQ",
+          "publishedDate": "Fri, 11 Sep 2026 09:28:00 GMT",
+          "description": "Na erop te hebben aangedrongen dat hij niet langer wilde praten over de fysieke beperkingen waarmee hij kampt, plaatste Marc Marquez een foto die de wereld de gehavende staat van zijn rechterschouder ..."
         },
         {
-          "title": "Duo F-35A’s geland in Finland, derde met pech op Azoren",
-          "source": "Piloot en Vliegtuig",
-          "url": "https://www.pilootenvliegtuig.nl/militair/eerste-twee-f-35as-op-finse-bodem-derde-met-pech-op-azoren/",
-          "publishedDate": "Tue, 22 Sep 2026 02:45:00 GMT",
-          "description": "ROVANIEMIE - De eerste twee voor Finland bestemde Lockheed Martin F-35A's zijn vrijdag (18 september) in Rovaniemi aangekomen, waar ze in dienst worden ..."
+          "title": "Alle uitslagen en standen van de F1 Grand Prix van Itali&#235; 2026",
+          "source": "Motorsport.com",
+          "url": "https://nl.motorsport.com/f1/news/alle-uitslagen-en-standen-van-de-f1-grand-prix-van-italie-2026/10853065/",
+          "publishedDate": "Sun, 06 Sep 2026 01:30:00 GMT",
+          "description": "Na de overwinning van Kimi Antonelli zijn dit de volledige resultaten en standen van de Italian Grand Prix - de 13e ronde van het Formule 1-seizoen 2026 ..."
         },
         {
-          "title": "Finland ontvangt eerste F-35-straaljagers om te beginnen met modernisering van de vloot",
-          "source": "Business AM",
-          "url": "https://businessam.be/finland-ontvangt-eerste-f-35-straaljagers-om-te-beginnen-met-modernisering-van-de-vloot/",
-          "publishedDate": "Sun, 20 Sep 2026 05:45:00 GMT",
-          "description": "Key takeaways Finland vervangt zijn Hornet-vloot door 64 stealth F-35A-gevechtsvliegtuigen. Deze vliegtuigen brengen de Finse luchtmachtcapaciteiten in lijn met de veiligheidsnormen van de NAVO. Super ..."
+          "title": "F1-fans opgelet: zo kijk je de GP van Itali&#235; vandaag gratis zonder Viaplay",
+          "source": "XGN.nl",
+          "url": "https://www.xgn.nl/nieuws/f1-fans-opgelet-zo-kijk-je-de-gp-van-italie-vandaag-gratis-zonder-viaplay",
+          "publishedDate": "Sun, 06 Sep 2026 01:25:00 GMT",
+          "description": "De GP van Monza staat dit weekend op het programma en dat wordt een bijzondere F1 race. Wil je meekijken en heb je geen Viaplay? Dan helpt deze truc je."
+        },
+        {
+          "title": "Wat gebeurt er met je gratis F1 TV Pro als Viaplay verdwijnt? Dit moet je weten",
+          "source": "gpblog.com",
+          "url": "https://www.gpblog.com/nl/achtergrond/wat-gebeurt-er-met-je-gratis-f1-tv-pro-als-viaplay-verdwijnt-dit-moet-je-weten",
+          "publishedDate": "Mon, 31 Aug 2026 15:17:00 GMT",
+          "description": "De overname van Viaplay Nederland door Videoland betekent dat de Formule 1 uiteindelijk naar een ander streamingplatform verhuist. Voor veel Nederlandse F1-fans speelt daarbij nog een belangrijke ..."
         }
       ]
     },
     {
-      "keyword": "spoedeisende hulp",
+      "keyword": "liefde",
       "trafficLabel": "5K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Dit is Jenny, de vriendin van Fred uit B&amp;B vol liefde: ‘Hij is een warme persoonlijkheid’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/dit-is-jenny-de-vriendin-van-fred-uit-benb-vol-liefde-hij-is-een-warme-persoonlijkheid~a571c142/",
+          "publishedDate": "Thu, 24 Sep 2026 18:21:00 GMT",
+          "description": "Fred uit B&amp;B vol liefde heeft vrijdagavond bij de RTL4-talkshow Renze zijn nieuwe liefde aan het grote publiek voorgesteld. Ze heet Jenny van As en is een medewerker in de Rotterdamse haven."
+        },
+        {
+          "title": "Fred uit B&amp;B Vol Liefde stelt nieuwe liefde Jenny voor: 'Ze maakt het leven mooier'",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/amusement/fred-uit-b-and-b-vol-liefde-stelt-nieuwe-liefde-jenny-voor-ze-maakt-het-leven-mooier",
+          "publishedDate": "Sat, 26 Sep 2026 03:07:00 GMT",
+          "description": "Wekenlang hield 'botte' Fred Ros uit B&amp;B Vol Liefde de gemoederen bezig. Was deze man echt zo? Hoe kun je zo zijn? Kijkers vroegen het zich allemaal af ook na de re&#252;nie. Inmiddels heeft hij de liefde ..."
+        },
+        {
+          "title": "Kijkers ontroerd door Fred uit B&amp;B Vol Liefde met nieuwe liefde bij Renze",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/kijkers-ontroerd-door-fred-uit-bb-vol-liefde-met-nieuwe-liefde-bij-renze",
+          "publishedDate": "Sat, 26 Sep 2026 02:40:00 GMT",
+          "description": "Met Doete werd het uiteindelijk niets, maar inmiddels is B&amp;B Vol Liefde-ster Fred Ros smoorverliefd. In Renze stelde hij zijn nieuwe vriendin Jenny van As voor aan Nederland."
+        },
+        {
+          "title": "Dit is de nieuwe vriendin van Fred na B&amp;B Vol Liefde",
+          "source": "LoveReality",
+          "url": "https://lovereality.nl/dit-is-de-nieuwe-vriendin-van-fred-na-bb-vol-liefde/",
+          "publishedDate": "Fri, 25 Sep 2026 23:21:00 GMT",
+          "description": "Fred heeft de liefde inmiddels gevonden! Afgelopen zomer zagen we hem in B&amp;B Vol Liefde nog op zoek gaan naar de ware liefde op Bonaire. Verschillende dames reisden naar het eiland af om te kijken of ..."
+        },
+        {
+          "title": "Lynn en Kees Jan uit 'B&amp;B Vol Liefde' over leeftijdsverschil van 18 jaar: 'Hij is net een kleuter, dus dat maakt niet uit'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/entertainment/oh-ja-joh/bb-vol-liefde-lynn-keesjan-leeftijdsverschil/",
+          "publishedDate": "Fri, 25 Sep 2026 01:04:00 GMT",
+          "description": "Lynn en Kees Jan leerden elkaar kennen door B&amp;B Vol Liefde en tijdens de re&#252;nie ontstond er echt een klik. Zo liet Lynn eerder al weten dat ‘daar wel geflirt’ is. Inmiddels durven ze het een prela te ..."
+        },
+        {
+          "title": "Arie uit 'B&amp;B Vol Liefde' onthult hoe het nu zit met Caroline: 'Een voorzichtige verkering'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/cultuur-media/interview/arie-bb-vol-liefde-caroline-verkering/",
+          "publishedDate": "Fri, 25 Sep 2026 01:00:00 GMT",
+          "description": "Arie was de eerste man die de blauwe poort van Caroline in het Spaanse Estepona betrad tijdens B&amp;B Vol Liefde. En hij ging in alle weken dat dat duurde ook niet meer weg. Hoewel hij al snel zijn gevoe ..."
+        },
+        {
+          "title": "B&amp;B Vol Liefde-Caroline doet schokkende onthulling: ‘Ik heb het als enige overleefd’",
+          "source": "LoveReality",
+          "url": "https://lovereality.nl/bb-vol-liefde-caroline-doet-schokkende-onthulling-ik-heb-het-als-enigste-overleefd/",
+          "publishedDate": "Wed, 23 Sep 2026 05:41:00 GMT",
+          "description": "De jeugdjaren van Caroline uit B&amp;B Vol Liefde zijn zeker niet altijd rozengeur en maneschijn geweest. Zo vertelt ze aan het blad&#160;Weekend dat ze als kind in een zwaar auto-ongeluk is beland. Daarbij kw ..."
+        },
+        {
+          "title": "Zangeres Meau verloofd met haar grote liefde: ‘Nog steeds aan het bijkomen’",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/zangeres-meau-verloofd-met-haar-grote-liefde-nog-steeds-aan-het-bijkomen~a94cc916/",
+          "publishedDate": "Tue, 22 Sep 2026 23:42:00 GMT",
+          "description": "Meau gaat trouwen met haar partner en gitarist Vadim. Op Instagram deelt de zangeres het nieuws met een reeks foto’s van het verlovingsfeestje. ‘Wij zijn verloofd!!! En dat hebben we gevierd met de al ..."
+        },
+        {
+          "title": "B&amp;B Vol Liefde-Dick vertelt over heftige ruzie met Mireille: 'Van hier tot Tokio'",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/tv/reality/artikelen/bb-vol-liefde-dick-heftige-ruzie-met-mireille-van-hier-tot-tokio",
+          "publishedDate": "Mon, 21 Sep 2026 06:17:00 GMT",
+          "description": "Dick van Dijk vertelt de waarheid over zijn turbulente verblijf bij Mireille in B&amp;B Vol Liefde. Het is namelijk niet zo rooskleurig tussen de twee verlopen, als men misschien denkt."
+        },
+        {
+          "title": "Relatiepsycholoog ziet 4 fases in de liefde: ‘Sommige stellen blijven 30 jaar hangen in fase 2’",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/lifestyle/relaties-seks/2026/09/relatiepsycholoog-anne-de-jong-relatie-diepe-liefde-fases/",
+          "publishedDate": "Mon, 21 Sep 2026 02:10:00 GMT",
+          "description": "„Veel koppels gaan uit elkaar, omdat ze elkaar al jarenlang niet begrijpen&quot;, legt de relatiepsycholoog uit. „Maar nog te vaak weten koppels niet eens goed wat er mis is gegaan.” ..."
+        }
+      ]
     },
     {
       "keyword": "ella",
       "trafficLabel": "5K+",
       "articles": [
-        {
-          "title": "Ze verbreekt het record van Mariah Carey: wie is Ella Langley die plots een wereldhit op zak heeft?",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/25/ella-langley-verbreekt-record-van-mariah-carey-met-choosin-texa/",
-          "publishedDate": "Fri, 25 Sep 2026 22:03:00 GMT",
-          "description": "Al 23 weken op nummer 1. Countryzangers Ella Langley (27) heeft het record van Mariah Carey (met haar 'All I want for Christmas') in de VS aan diggelen gezongen. Met haar lied 'Choosin' Texas' is ze m ..."
-        },
         {
           "title": "&quot;Off Campus&quot;-Star Ella Bright ergattert gro&#223;e Sony-Rolle",
           "source": "Promiflash",
@@ -507,13 +593,6 @@
           "description": "Ella Leyers (38) had het dinsdag in ‘De tafel van Tine’ voor het eerst over haar huwelijk met Jan Eelen (56). Ze toont haar trouwring en onthult details over het feest. Ook over hun relatie en samenwe ..."
         },
         {
-          "title": "Ella Langley krijgt record Mariah Carey in hitlijst VS in zicht",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/ella-langley-krijgt-record-mariah-carey-in-hitlijst-vs-in-zicht",
-          "publishedDate": "Tue, 08 Sep 2026 11:15:00 GMT",
-          "description": "Ella Langleys Choosin' Texas staat 21 weken op 1 in de Billboard Hot 100 en nadert Mariah Careys 22-weekrecord. Ook in NL stijgt de hit snel."
-        },
-        {
           "title": "Nieuwe beelden van huwelijk Ella Leyers (38) en Jan Eelen (56): Robin Pront geeft “beste speech ooit”, zus Billie en vader Jan zingen ‘It Must Be Love’",
           "source": "Het Laatste Nieuws",
           "url": "https://www.hln.be/bv/nieuwe-beelden-van-huwelijk-ella-leyers-38-en-jan-eelen-56-robin-pront-geeft-beste-speech-ooit-zus-billie-en-vader-jan-zingen-it-must-be-love~a80cf797/",
@@ -533,13 +612,98 @@
           "url": "https://www.bndestem.nl/show/bijzonder-record-voor-ella-langley-countryster-verslaat-shaboozey-en-lil-nas-x~a0a7a630/",
           "publishedDate": "Mon, 31 Aug 2026 22:06:00 GMT",
           "description": "Ella Langley (27) heeft met haar hit Choosin’ Texas een bijzonder record gebroken. Vanaf deze week is het nummer in de Billboard Hot 100 de langstlopende nummer 1-hit voor een niet-kerstnummer. Liefst ..."
+        },
+        {
+          "title": "Best Ella Fitzgerald Songs: 20 Memorable Jazz Classics",
+          "source": "udiscovermusic.com",
+          "url": "https://www.udiscovermusic.com/stories/best-ella-fitzgerald-songs/",
+          "publishedDate": "Fri, 24 Apr 2026 23:13:00 GMT",
+          "description": "Soon, Ella was singing with bands as they provided the soundtrack for smoke-filled dance halls, like Harlem’s Savoy Ballroom, and swinging, sultry jazz nights across town. She joined the ranks of ..."
+        },
+        {
+          "title": "Het woelige liefdesleven van Ella Leyers: Zo werd duidelijk dat ze opnieuw samen is met Bekende Vlaming",
+          "source": "nieuws365",
+          "url": "https://www.nieuws365.be/vlaamse-celebs/het-woelige-liefdesleven-van-ella-leyers-zo-werd-duidelijk-dat-ze-opnieuw-samen-is-met-bekende-vlaming",
+          "publishedDate": "Tue, 26 Aug 2025 08:00:00 GMT",
+          "description": "Ella Leyers (36) is niet alleen een van de meest herkenbare gezichten op televisie, ze is ook iemand die haar priv&#233;leven doorgaans zorgvuldig afschermt. Toch duikt haar liefdesleven geregeld op in de ..."
         }
       ]
     },
     {
-      "keyword": "val van paard",
+      "keyword": "salderingsregeling zonnepanelen",
       "trafficLabel": "5K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Energiecoach geeft in Amersfoort lezing over einde salderingsregeling",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/amersfoort/energiecoach-geeft-in-amersfoort-lezing-over-einde-salderingsregeling~a0cf5dff/",
+          "publishedDate": "Wed, 23 Sep 2026 18:58:00 GMT",
+          "description": "Energiecoach Hans Snel geeft in de Energiehuiskamer in Amersfoort een lezing over het verdwijnen van de salderingsregeling voor zonnepanelen. De lezing is zaterdag 17 oktober van 11.00 tot 12.00 uur i ..."
+        },
+        {
+          "title": "Waarom de CGK-synode betwist en onervaren is",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/zijn-zonnepanelen-straks-waardeloos",
+          "publishedDate": "Thu, 24 Sep 2026 10:01:00 GMT",
+          "description": "In RDactueel vandaag: wat betekent het einde van de salderingsregeling voor zonnepanelen en wat staat er op de agenda van de CGK-synode?"
+        },
+        {
+          "title": "Energierekening huishoudens met zonnepanelen stijgen vanaf 2027: vooral Limburgers en Overijsselaars zijn de klos",
+          "source": "Solar365",
+          "url": "https://www.solar365.nl/nieuws/energierekening-huishoudens-met-zonnepanelen-stijgen-vanaf-2027-vooral-limburgers-en-overijsselaars-zijn-de-klos--67ADADAE.html",
+          "publishedDate": "Thu, 24 Sep 2026 02:55:00 GMT",
+          "description": "Huishoudens met zonnepanelen gaan vanaf 2027 gemiddeld honderden euro’s meer betalen voor elektriciteit. Het verdwijnen van de salderingsregeling heeft volgens berekeningen van Independer vooral grote ..."
+        },
+        {
+          "title": "BRONCKHORST — Einde salderingsregeling verhoogt energiekosten voor zonnepaneeleigenaren in Bronckhorst",
+          "source": "Streekgids",
+          "url": "https://streekgids.nl/einde-salderingsregeling-verhoogt-energiekosten-voor-zonnepaneeleigenaren-in-bronckhorst/",
+          "publishedDate": "Wed, 23 Sep 2026 06:44:00 GMT",
+          "description": "Huishoudens met zonnepanelen in Bronckhorst betalen vanaf 2027 gemiddeld 397 euro meer per jaar door het einde van de salderingsregeling."
+        },
+        {
+          "title": "Einde saldering kost huishouden in Zaanstad gemiddeld 266 euro",
+          "source": "zaanstad.nieuws",
+          "url": "https://zaanstad.nieuws.nl/actueel/einde-saldering-kost-huishouden-in-zaanstad-gemiddeld-266-euro",
+          "publishedDate": "Wed, 23 Sep 2026 05:50:00 GMT",
+          "description": "Noord-Hollandse zonnepaneeleigenaren gaan door het einde van de salderingsregeling in 2027 gemiddeld zo’n 266 euro per jaar meer aan stroomkosten betalen, zo blijkt uit onderzoek van Independer op bas ..."
+        },
+        {
+          "title": "Na einde salderingsregeling worden zonnepanelen en slim laden dubbel beloond door nieuw nettarief",
+          "source": "Solar Magazine",
+          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i44869/na-einde-salderingsregeling-worden-zonnepanelen-en-slim-laden-dubbel-beloond-door-nieuw-nettarief",
+          "publishedDate": "Tue, 22 Sep 2026 17:00:00 GMT",
+          "description": "Zonnepanelen en een slimme laadpaal worden bij het nieuwe tijdsafhankelijke nettarief extra aantrekkelijk. Ook na het verdwijnen van de salderingsregeling loont investeren in zonnepanelen, becijfert B ..."
+        },
+        {
+          "title": "Je zonnepanelen leveren straks fors minder op: vijf dingen die je v&#243;&#243;r 1 januari moet regelen",
+          "source": "Welingelichte Kringen",
+          "url": "https://www.welingelichtekringen.nl/samenleving/je-zonnepanelen-leveren-straks-fors-minder-op-vijf-dingen-die-je-voor-1-januari-moet-regelen",
+          "publishedDate": "Tue, 22 Sep 2026 01:19:00 GMT",
+          "description": "Op 1 januari 2027 stopt de salderingsregeling, in &#233;&#233;n klap, zonder afbouw. Voor meer dan drie miljoen huishoudens met zonnepanelen verandert de rekensom fundamenteel. Tot en met 31 december mag je de."
+        },
+        {
+          "title": "Sportclubs willen compensatie vanwege schrappen salderingsregeling voor zonnepanelen",
+          "source": "Solar Magazine",
+          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i44857/sportclubs-willen-compensatie-vanwege-schrappen-salderingsregeling-voor-zonnepanelen",
+          "publishedDate": "Mon, 21 Sep 2026 17:00:00 GMT",
+          "description": "Minstens een derde van de Nederlandse sportverenigingen heeft zonnepanelen en wordt hard geraakt door het einde van de salderingsregeling. Een brede coalitie van belangenorganisaties vraagt om compens ..."
+        },
+        {
+          "title": "Wat heb je aan een thuisbatterij? Van effectiever gebruik van zonnepanelen tot hulpje bij netcongestie",
+          "source": "Change Inc.",
+          "url": "https://www.change.inc/transities/energie-transitie/wat-heb-je-aan-een-thuisbatterij-van-effectiever-gebruik-van-zonnepanelen-tot-hulpje-bij-netcongestie",
+          "publishedDate": "Mon, 21 Sep 2026 06:45:00 GMT",
+          "description": "Met het verdwijnen van de salderingsregeling voor particulieren met zonnepanelen in 2027 staat de thuisbatterij volop in de belangstelling."
+        },
+        {
+          "title": "Einde salderingsregeling maakt zonnepanelen nog steeds niet waardeloos",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/a/einde-salderingsregeling-maakt-zonnepanelen-nog-steeds-niet-waardeloos",
+          "publishedDate": "Mon, 21 Sep 2026 02:04:00 GMT",
+          "description": "De salderingsregeling is een wettelijke regeling voor huishoudens en kleine bedrijven met zonnepanelen. Tot en met 31 december 2026 mogen zij de stroom die ze aan het elektriciteitsnet terugleveren, i ..."
+        }
+      ]
     }
   ]
 }
