@@ -1,126 +1,632 @@
 {
-  "fetchedAt": "2026-09-26T21:21:12.293Z",
+  "fetchedAt": "2026-09-26T23:42:53.872Z",
   "trends": [
+    {
+      "keyword": "bakoe",
+      "trafficLabel": "50K+",
+      "articles": [
+        {
+          "title": "Russell blijft Verstappen in Bakoe net voor en mag weer beetje hopen op de titel",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/sport/russell-blijft-verstappen-in-bakoe-net-voor-en-mag-weer-beetje-hopen-op-de-titel~be4b26788/",
+          "publishedDate": "Sat, 26 Sep 2026 09:31:00 GMT",
+          "description": "De Grand Prix in Bakoe is gewonnen door George Russell, die 0,196 seconden eerder over de streep kwam dan Max Verstappen."
+        },
+        {
+          "title": "Max Verstappen komt net tekort voor zege in Bakoe, George Russell blijft Nederlander een tiende voor",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/formule-1/max-verstappen-komt-net-tekort-voor-zege-in-bakoe-george-russell-blijft-nederlander-een-tiende-voor~ab6a19ac/",
+          "publishedDate": "Fri, 25 Sep 2026 23:13:00 GMT",
+          "description": "Max Verstappen kon de gehele slotfase in Bakoe aan de zege ruiken, maar George Russell hield de Nederlander in bedwang. Dankzij twee zware klappers kwam Red Bull-coureur in de buurt van de dit weekend ..."
+        },
+        {
+          "title": "Honda geeft toe: 'We hadden geen oplossingen meer' na Bakoe-drama",
+          "source": "Formule1nieuws.nl",
+          "url": "https://formule1nieuws.nl/nieuws/honda-geeft-toe-we-hadden-geen-oplossingen-meer-na-bakoe-drama/",
+          "publishedDate": "Sat, 26 Sep 2026 13:58:00 GMT",
+          "description": "Honda heeft na het rampzalige weekend in Bakoe openlijk toegegeven dat het motorteam geen antwoord meer had op de problemen. De Japanse fabrikant zag beide Aston Martin -coureurs uitvallen, de vierd ..."
+        },
+        {
+          "title": "Bortoleto bestraft na Bakoe: Audi-coureur zakt naar P15",
+          "source": "Formule1nieuws.nl",
+          "url": "https://formule1nieuws.nl/nieuws/bortoleto-bestraft-na-bakoe-audi-coureur-zakt-naar-p15/",
+          "publishedDate": "Sat, 26 Sep 2026 11:18:00 GMT",
+          "description": "De race in Bakoe heeft na afloop nog een staartje gekregen voor Gabriel Bortoleto . De Audi-coureur kreeg een tijdstraf van tien seconden opgelegd door de wedstrijdleiding, waardoor hij twee plekken ..."
+        },
+        {
+          "title": "Red Bull-teambaas Mekies dolblij met dubbel podium in Bakoe: &quot;Grote pluim voor iedereen&quot;",
+          "source": "RaceXpress",
+          "url": "https://www.racexpress.nl/formule-1/red-bull-teambaas-mekies-dolblij-met-dubbel-podium-in-bakoe-grote-pluim-voor-iedereen/n/156634",
+          "publishedDate": "Sat, 26 Sep 2026 10:54:00 GMT",
+          "description": "Voor Red Bull-teambaas Laurent Mekies stak het weekend in Bakoe met kop en schouders boven de rest van het seizoen uit. De zege bleef weliswaar uit, maar ..."
+        },
+        {
+          "title": "Verstappen in Bakoe dicht bij eerste seizoenszege: net niet genoeg",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/other/verstappen-in-bakoe-dicht-bij-eerste-seizoenszege-net-niet-genoeg/ar-AA2d0vAO",
+          "publishedDate": "Sat, 26 Sep 2026 09:16:00 GMT",
+          "description": "BAKOE (ANP) - Max Verstappen had in de Grote Prijs van Azerbeidzjan bijna zijn eerste zege van het seizoen te pakken. De viervoudig wereldkampioen in de Formule 1 leverde in de slotfase van de race op ..."
+        },
+        {
+          "title": "Russell blijft ontketende Verstappen net voor en wint GP in Bakoe",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/sport/russell-blijft-ontketende-verstappen-net-voor-en-wint-gp-in-bakoe",
+          "publishedDate": "Sat, 26 Sep 2026 07:53:00 GMT",
+          "description": "BAKOE (ANP) - George Russell heeft de Grote Prijs van Azerbeidzjan in de Formule 1 nipt gewonnen. De Brit reed van start tot finish aan de leiding in zijn Mercedes op het stratencircuit van Bakoe. Hij ..."
+        },
+        {
+          "title": "Ferrari ruikt kansen in Bakoe: Leclerc start naast Russell en ziet plots ruimte voor een sensationele aanval op Mercedes",
+          "source": "RaceXpress",
+          "url": "https://www.racexpress.nl/formule-1/ferrari-ruikt-kansen-in-bakoe-leclerc-start-naast-russell-en-ziet-plots-ruimte-voor-een-sensationele-aanval-op-mercedes/n/156616",
+          "publishedDate": "Sat, 26 Sep 2026 02:01:00 GMT",
+          "description": "De Ferrari staat op de eerste startrij in Bakoe. Charles Leclerc begint de Grand Prix van Azerbeidzjan vanaf de tweede plek, direct naast George Russell."
+        },
+        {
+          "title": "Verstappen start in Bakoe vanaf de achtste plek, Russell op pole",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/other/verstappen-start-in-bakoe-vanaf-de-achtste-plek-russell-op-pole/ar-AA2cXmzB",
+          "publishedDate": "Fri, 25 Sep 2026 08:39:00 GMT",
+          "description": "BAKOE (ANP) - Max Verstappen start zaterdag op het stratencircuit van Bakoe vanaf de achtste plek. De 28-jarige coureur van Red Bull Racing reed bij de kwalificatie voor de GP van Azerbeidzjan een tel ..."
+        },
+        {
+          "title": "Antonelli raakt muur tijdens kwalificatie op F1-circuit Bakoe",
+          "source": "ZeelandNet",
+          "url": "https://www.zeelandnet.nl/nieuws/antonelli-raakt-muur-tijdens-kwalificatie-op-f1-circuit-bakoe",
+          "publishedDate": "Fri, 25 Sep 2026 07:22:00 GMT",
+          "description": "BAKOE (ANP) - Kimi Antonelli heeft tijdens het eerste deel van de kwalificatie op vrijdag de muur geraakt op het stratencircuit van Bakoe. De 20-jarige Italiaan ..."
+        }
+      ]
+    },
     {
       "keyword": "engeland - spanje",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Spanje wint in eerste duel als wereldkampioen op Wembley, Modric (41) scoort voor Kroati&#235;",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2632670-spanje-wint-in-eerste-duel-als-wereldkampioen-op-wembley-modric-41-scoort-voor-kroatie",
-          "publishedDate": "Sat, 26 Sep 2026 13:44:00 GMT",
-          "description": "In een spectaculair duel tussen de nummers drie en &#233;&#233;n van het afgelopen WK vallen vijf doelpunten. Spanje is nu 39 duels zonder nederlaag."
-        },
-        {
-          "title": "Live Nations League | Engeland-Spanje op Wembley, bekijk de tussenstand",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6411109/live-nations-league-engeland-spanje-op-wembley-bekijk-de-tussenstand.html",
-          "publishedDate": "Sat, 26 Sep 2026 11:40:00 GMT",
-          "description": "In de Nations League staat vanavond een absolute kraker op het programma. Engeland neemt het op Wembley op tegen Spanje, dat voor het eerst sinds het gewonnen WK in actie komt. Bekijk hier de tussenst ..."
-        },
-        {
-          "title": "Wereldkampioen Spanje wint van Engeland in vermakelijk voetbalgevecht",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6411120/wereldkampioen-spanje-wint-van-engeland-in-vermakelijk-voetbalgevecht.html",
-          "publishedDate": "Sat, 26 Sep 2026 02:07:00 GMT",
-          "description": "Spanje heeft zaterdag de eerste wedstrijd sinds de gewonnen WK-finale winnend afgesloten. De wereldkampioen won in de Nations League met 2-3 op bezoek bij Engeland."
-        },
-        {
           "title": "Engeland vloekt om gemiste penalty van Kane: Spanje wint na rollercoaster dan toch eerste match als wereldkampioen",
           "source": "sporza",
           "url": "https://sporza.be/nl/matches/voetbal/eur/uefa-nations-league/2026-2027/groep-3/01/engeland-spanje-engeland-vloekt-om-gemiste-penalty-van-kane-spanje-wint-na-rollercoaster-dan-toch-eerste-match-als-wereldkampioen~1770982141128/",
           "publishedDate": "Sat, 26 Sep 2026 13:49:00 GMT",
-          "description": "Het avontuur als wereldkampioen is in schoonheid begonnen. Spanje heeft in Engeland zijn nieuwe status bevestigd met een rollercoasterzege: 2-3. Na amper twee minuten kon Yamal al prikken, daarna scho ..."
+          "description": "Het avontuur als wereldkampioen is in schoonheid begonnen. Spanje heeft in Engeland zijn nieuwe status bevestigd met een rollercoasterzege: 2-3. Na amper twee minuten kon Yamal al prikken, daarna scho"
         },
         {
-          "title": "Engeland - Spanje is spektakel: Oyarzabal zorgt met heerlijke wipper voor de winst",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/engeland-spanje-is-spektakel-oyarzabal-zorgt-met-heerlijke-wipper-voor-de-winst/ar-AA2d2jN2",
-          "publishedDate": "Sat, 26 Sep 2026 13:42:00 GMT",
-          "description": "Het affiche Engeland - Spanje heeft zaterdagavond een spektakelstuk opgeleverd in de Nations League. Het duel eindigde, na onder meer een gemiste penalty van Harry Kane, in 2-3 voor de Spanjaarden."
-        },
-        {
-          "title": "Defensief geschutter breekt Engeland op tegen wereldkampioen Spanje",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/defensief-geschutter-breekt-engeland-op-tegen-wereldkampioen-spanje/ar-AA2d22jf",
-          "publishedDate": "Sat, 26 Sep 2026 13:41:53 GMT",
-          "description": "Engeland is er zaterdag niet in geslaagd om wereldkampioen Spanje te verslaan. In eigen huis kwamen de Engelsen nog een heel eind, maar defensieve fouten braken de ploeg van bondscoach Thomas Tuchel o ..."
-        },
-        {
-          "title": "Engeland kan voorsprong niet vasthouden tegen Spanje en verliest in Nations League",
-          "source": "VoetbalNieuws.nl",
-          "url": "https://www.voetbalnieuws.nl/nieuws/2140180/engeland-kan-voorsprong-niet-vasthouden-tegen-spanje-en-verliest-in-nations-league.html",
-          "publishedDate": "Sat, 26 Sep 2026 13:41:00 GMT",
-          "description": "Engeland heeft niet kunnen stunten in de Nations League tegen wereldkampioen Spanje. De thuisploeg poetste op Wembley nog knap een achterstand weg in de eerste helft, maar in het tweede bedrijf liepen ..."
-        },
-        {
-          "title": "De invallers maken het verschil: wereldkampioen Spanje zet Engeland met 3-2 opzij en is al 39 wedstrijden ongeslagen",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/voetbal/de-invallers-maken-het-verschil-wereldkampioen-spanje-zet-engeland-met-3-2-opzij-en-is-al-39-wedstrijden-ongeslagen~a1db35d4/",
-          "publishedDate": "Sat, 26 Sep 2026 06:57:00 GMT",
-          "description": "Een absolute topper in de Nations League die niet teleurstelde. Engeland en kersvers wereldkampioen Spanje maakten er een spektakel van op Wembley en uiteindelijk trok ‘La Roja’ dankzij ijzersterke in ..."
-        },
-        {
-          "title": "Wereldkampioen Spanje verslaat Engeland in heerlijk voetbalfeestje op Wembley",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/voetbal/wereldkampioen-spanje-verslaat-engeland-in-heerlijk-voetbalfeestje-op-wembley~a5a8b062/",
-          "publishedDate": "Sat, 26 Sep 2026 06:43:00 GMT",
-          "description": "Spanje is de winning mood van het WK nog niet verloren. De wereldkampioen versloeg Engeland zaterdagavond in een vermakelijk Nations League-duel op Wembley. Invaller Mikel Oyarzabel maakte de winnende ..."
-        },
-        {
-          "title": "Harry Kane grote schlemiel in spektakelstuk tussen Engeland en Spanje",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/harry-kane-grote-schlemiel-in-spektakelstuk-tussen-engeland-en-spanje",
+          "title": "Pijnlijke misser Kane komt Engeland duur te staan in ware kraker tegen Spanje",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/engeland-geeft-zege-uit-handen-aan-spanje-na-pijnlijke-misser-van-kane/blt607589be1a5de698",
           "publishedDate": "Sat, 26 Sep 2026 01:42:00 GMT",
-          "description": "Spanje is de Nations League begonnen met een spectaculaire 2-3 zege op Engeland. Harry Kane miste een strafschop, waarna &#193;lex Baena en Mikel Oyarzabal Spanje op Wembley alsnog de overwinning bezorgden ..."
+          "description": "Die misser kwam Engeland duur te staan. &#193;lex Baena en Mikel Oyarzabal kwamen binnen de lijnen en kort daarna profiteerde Spanje van balverlies van O'Reilly. Olmo vond Baena, die vanaf de rand van het strafschopgebied de 2-2 binnenschoot."
         }
       ]
     },
     {
       "keyword": "toulouse",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Baby en 4 foetussen gevonden in afvalcontainer van ziekenhuis in Toulouse",
+          "source": "TCE on MSN",
+          "url": "https://www.msn.com/nl-nl/gezondheid/algemeen/baby-en-4-foetussen-gevonden-in-afvalcontainer-van-ziekenhuis-in-toulouse/ar-AA2d12Vr",
+          "publishedDate": "Sat, 26 Sep 2026 07:15:16 GMT",
+          "description": "In het Franse Toulouse zijn het lichaam van een pasgeboren baby en vier foetussen gevonden in een container voor medisch afval. De lichamen lagen in de mortuariumafdeling van het ziekenhuis Rangueil, ..."
+        },
+        {
+          "title": "Plus de 15 km de bouchons sur le p&#233;riph&#233;rique de Toulouse : quels sont les secteurs &#224; &#233;viter ce mardi matin ?",
+          "source": "actu",
+          "url": "https://actu.fr/occitanie/toulouse_31555/plus-de-15-km-de-bouchons-sur-le-peripherique-de-toulouse-quels-sont-les-secteurs-a-eviter-ce-mardi-matin_64819234.html",
+          "publishedDate": "Mon, 21 Sep 2026 23:15:00 GMT",
+          "description": "La principale difficult&#233; de cette matin&#233;e se trouve sur la partie sud de la rocade. Dans le sens int&#233;rieur, Bison Fut&#233; signale 5,8 km d’embouteillages entre Montaudran et l’&#238;le d’Empalot. De l’autre ..."
+        },
+        {
+          "title": "Casper Tengstedt goudhaantje voor Toulouse bij zege op Le Havre",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/casper-tengstedt-goudhaantje-voor-toulouse-bij-zege-op-le-havre/ar-AA2cA7XU",
+          "publishedDate": "Sat, 19 Sep 2026 13:47:00 GMT",
+          "description": "Casper Tengstedt kan voorlopig niet stuk bij de supporters van Toulouse. De Deen, die afgelopen zomer overkwam van Feyenoord, scoorde twee keer in een nipte overwinning op Le Havre."
+        },
+        {
+          "title": "Toulouse - Le Havre AC: resultado, goles y resumen del partido",
+          "source": "Tyc Sports",
+          "url": "https://www.tycsports.com/francia/ligue-1/francia-ligue-1-2026-2027-toulouse-vs-le-havre-ac-fecha-5-id761590.html",
+          "publishedDate": "Sat, 19 Sep 2026 10:44:00 GMT",
+          "description": "Resultado, goles y resumen del partido Toulouse vs. Le Havre AC, por la fecha 5 de Ligue 1 de Francia. Toulouse se llev&#243; la victoria por 3 a 2 en el partido de la fecha 5 de la Ligue 1, gracias a los ..."
+        },
+        {
+          "title": "Ayase Ueda slaat meteen toe en beslist duel der ex-Feyenoord-spitsen",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/ueda-droomdebuut-lille-goal-toulouse",
+          "publishedDate": "Thu, 03 Sep 2026 15:45:00 GMT",
+          "description": "Ayase Ueda beleeft een droomdebuut bij Lille. De voor vijftien miljoen euro van Feyenoord overgekomen spits beslist het duel met Toulouse."
+        },
+        {
+          "title": "Toulouse 0 - Lille 1: resumen, resultado y gol",
+          "source": "AS Mexico",
+          "url": "https://as.com/futbol/internacional/toulouse-lille-en-directo-ligue-1-hoy-en-vivo-f202609-n/",
+          "publishedDate": "Thu, 03 Sep 2026 11:30:00 GMT",
+          "description": "Final del partido, Toulouse 0, Lille 1. Remate fallado por Ilyas Azizi (Toulouse) remate de cabeza desde el centro del &#225;rea que se pierde por la izquierda. Asistencia de Niklas Schmidt con un centro ..."
+        },
+        {
+          "title": "Policiers agress&#233;s &#224; Toulouse: la garde &#224; vue de l'agresseur lev&#233;e pendant la nuit en raison de son &#233;tat de sant&#233;",
+          "source": "BFMTV",
+          "url": "https://www.bfmtv.com/police-justice/policiers-agresses-a-toulouse-la-garde-a-vue-de-l-agresseur-levee-pendant-la-nuit-en-raison-de-son-etat-de-sante_AN-202608110316.html",
+          "publishedDate": "Tue, 11 Aug 2026 05:02:00 GMT",
+          "description": "La garde &#224; vue de l'homme, qui a agress&#233; trois policiers &#224; Toulouse, a &#233;t&#233; lev&#233;e dans la nuit du 10 au 11 ao&#251;t, a appris BFMTV aupr&#232;s du parquet de Toulouse. Son &#233;tat a &#233;t&#233; jug&#233; incompatible avec ..."
+        },
+        {
+          "title": "PSG - Toulouse, en directo: Ligue 1, hoy en vivo",
+          "source": "AS Mexico",
+          "url": "https://as.com/futbol/internacional/psg-toulouse-en-directo-ligue-1-hoy-en-vivo-f202604-n/",
+          "publishedDate": "Fri, 03 Apr 2026 11:36:00 GMT",
+          "description": "&#161;Gooooool! Paris Saint Germain 3, Toulouse 1. Gon&#231;alo Ramos (Paris Saint Germain) remate con la derecha desde fuera del &#225;rea por el lado derecho de la porter&#237;a. Asistencia de Nuno Mendes. Remate ..."
+        },
+        {
+          "title": "Toulouse en chantier : voici tous les travaux pr&#233;vus pour cet &#233;t&#233; (et jusqu'&#224; la fin de l'ann&#233;e)",
+          "source": "lopinion",
+          "url": "https://lopinion.com/articles/actualite/29564_toulouse-chantier-travaux-ete-2025",
+          "publishedDate": "Wed, 16 Jul 2025 09:08:00 GMT",
+          "description": "Toulouse est en chantier. Voici tous les travaux et les perturbations pr&#233;vus pour cet &#233;t&#233; (et jusqu'&#224; la fin de l'ann&#233;e). En compl&#233;ment du r&#233;seau express v&#233;los, pour renforcer la s&#233;curit&#233; des ..."
+        },
+        {
+          "title": "Toulouse : la r&#233;habilitation du site d’AZF entre dans sa derni&#232;re phase",
+          "source": "lejournaltoulousain",
+          "url": "https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/toulouse-rehabilitation-usine-azf-derniere-phase-280001/",
+          "publishedDate": "Mon, 26 Aug 2024 08:22:00 GMT",
+          "description": "La derni&#232;re phase des travaux de r&#233;habilitation de l’ancien site de l’usine AZF &#224; Toulouse a d&#233;but&#233;, annonce TotalEnergies. Plus de vingt ans apr&#232;s la catastrophe qui a marqu&#233; la ville, ce lieu ..."
+        }
+      ]
     },
     {
       "keyword": "spoedeisende hulp",
       "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "a76",
-      "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Regenwater dat bij de spoedeisende hulp naar binnen stroomt en ambulances blokkeert. Nieuwe data laten zien: hoosbuien worden ‘groot probleem’",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/09/07/regenwater-dat-bij-de-spoedeisende-hulp-naar-binnen-stroomt-en-ambulances-blokkeert-nieuwe-data-laten-zien-hoosbuien-worden-groot-probleem-a4935788",
+          "publishedDate": "Mon, 07 Sep 2026 10:55:00 GMT",
+          "description": "Wateroverlast: Door klimaatverandering krijgt Nederland steeds zwaardere buien te verduren. NRC onderzocht hoe hoog het water kan komen te staan in de omgeving van de eerste hulp, ziekenhuizen, zorgin ..."
+        },
+        {
+          "title": "Landelijke actie op Spoedeisende Hulp: artsen onderzoeken impact van vapen en roken op acute zorg",
+          "source": "Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/landelijke-actie-op-spoedeisende-hulp-artsen-onderzoeken-impact-van-vapen-en-roken-op-acute-zorg~b98da0c2/",
+          "publishedDate": "Wed, 12 Nov 2025 09:38:00 GMT",
+          "description": "Landelijke actie op Spoedeisende Hulp: artsen onderzoeken impact van vapen en roken op acute zorg Steeds vaker belanden jongeren met ernstige longklachten op de spoedeisende hulp. Om duidelijk te ..."
+        },
+        {
+          "title": "Vrouw dood na zware botsing tegen EBS-mast aan Agenoriaweg",
+          "source": "Waterkant.net",
+          "url": "https://www.waterkant.net/suriname/2026/09/26/vrouw-dood-na-zware-botsing-tegen-ebs-mast-aan-agenoriaweg/",
+          "publishedDate": "Sat, 26 Sep 2026 04:44:00 GMT",
+          "description": "Bij een eenzijdig verkeersongeval aan de Agenoriaweg in Suriname is afgelopen nacht een vrouw om het leven gekomen. Twee andere inzittenden van hetzelfde ..."
+        },
+        {
+          "title": "Arts slaat alarm: na een zelfdodingpoging krijgen mensen op de spoedeisende hulp te harde behandeling",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/gezond/arts-slaat-alarm-na-een-zelfdodingpoging-krijgen-mensen-op-de-spoedeisende-hulp-te-harde-behandeling~a9317401/",
+          "publishedDate": "Fri, 25 Sep 2026 17:23:00 GMT",
+          "description": "Mensen die na een zelfmoordpoging op de spoedeisende hulp terechtkomen, krijgen vaak geen nazorg en worden met een beetje pech ook nog met de nek aangekeken. Dat zegt arts David Baden. Er wordt zelfs ..."
+        },
+        {
+          "title": "Amphia eerste ziekenhuis in Nederland met beeldtriage op de spoedeisende hulp",
+          "source": "BredaVandaag",
+          "url": "https://www.bredavandaag.nl/algemeen/algemeen/481948/amphia-eerste-ziekenhuis-in-nederland-met-beeldtriage-op-de-s",
+          "publishedDate": "Sat, 19 Sep 2026 08:00:00 GMT",
+          "description": "BREDA - Amphia is het eerste ziekenhuis in Nederland dat op de Spoedeisende Hulp (SEH) werkt met beeldtriage via Sendi. Met deze digitale oplossing kunnen pati&#235;nten veilig een foto, video of aanvull.."
+        },
+        {
+          "title": "Gevolgen van spoedeisende hulp sluitingen, lijken beperkt",
+          "source": "Blik op nieuws",
+          "url": "https://www.blikopnieuws.nl/gezondheid/311003/gevolgen-van-spoedeisende-hulp-sluitingen-lijken-beperkt.html",
+          "publishedDate": "Thu, 17 Sep 2026 07:34:00 GMT",
+          "description": "Na de sluiting van een spoedeisende hulp (SEH) daalde het aantal SEH-bezoeken van inwoners uit het verzorgingsgebied met 4,3%. Deze lichte daling suggereert dat de meeste inwoners waarschijnlijk konde ..."
+        },
+        {
+          "title": "Zeven gebroken tanden en uren op de spoedeisende hulp: Quiermo (25) uit Apeldoorn over kaakslag Van Beukering",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/apeldoorn/zeven-gebroken-tanden-en-uren-op-de-spoedeisende-hulp-quiermo-25-uit-apeldoorn-over-kaakslag-van-beukering~aa335fe0/",
+          "publishedDate": "Sat, 12 Sep 2026 21:38:00 GMT",
+          "description": "Zeven gebroken tanden, uren op de spoedeisende hulp in het ziekenhuis. IJsselmeervogels-verdediger Quiermo Dumay (25) keerde zaterdag pas halverwege de avond terug in woonplaats Apeldoorn, nadat hij ‘ ..."
+        },
+        {
+          "title": "Meer jongeren onder zestien jaar door vuurwerk op spoedeisende hulp: ’Impact van lokaal verbod is beperkt’",
+          "source": "telegraaf.nl",
+          "url": "https://www.telegraaf.nl/binnenland/meer-jongeren-onder-zestien-jaar-door-vuurwerk-op-spoedeisende-hulp-impact-van-lokaal-verbod-is-beperkt/68025721.html",
+          "publishedDate": "Mon, 06 Jan 2025 10:00:00 GMT",
+          "description": "Afgelopen jaarwisseling zijn 1162 vuurwerkslachtoffers op de spoedeisende hulp (SEH) of bij een huisartsenspoedpost geholpen. Dat waren er tijdens oud en nieuw 2023-2024 nog 1212. „De getallen zijn ..."
+        },
+        {
+          "title": "Spoedeisende hulp St. Antonius op scherp tijdens schaatsperiode: ‘Het zou sneu zijn als gips ineens op is’",
+          "source": "AD",
+          "url": "https://www.ad.nl/utrecht/spoedeisende-hulp-st-antonius-op-scherp-tijdens-schaatsperiode-het-zou-sneu-zijn-als-gips-ineens-op-is~a1a903ef/",
+          "publishedDate": "Wed, 10 Jan 2024 02:42:00 GMT",
+          "description": "Ai, pats. Die scheur in het ijs zag je even over het hoofd. Je zal niet de enige zijn die met een botbreuk op de spoedeisende hulp terecht komt. Het St. Antonius Ziekenhuis in Utrecht en Nieuwegein ..."
+        },
+        {
+          "title": "SEH-artsen vragen ﻿bij politici om heldere visie ﻿spoedeisende hulp",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/nieuws/binnenland/3db3ee7b-add3-4a19-977b-0838fde324c7/seh-artsen-vragen-bij-politici-om-heldere-visie-spoedeisende-hulp",
+          "publishedDate": "Fri, 10 Nov 2023 09:00:00 GMT",
+          "description": "Verschillende spoedafdelingen in Nederland worden gesloten, tot ongenoegen van spoedeisende hulp artsen (SEH-artsen). Daarom doen ze een dringende oproep aan politieke partijen om duidelijk te zijn ..."
+        }
+      ]
     },
     {
       "keyword": "amin d",
       "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "volendam - vvv",
-      "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Gunman who fatally shot Marcel (61) on crowded terrace identified as 37-year-old Amin D. from Amsterdam-Noord",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam-news/gunman-who-fatally-shot-marcel-61-on-crowded-terrace-identified-as-37-year-old-amin-d-from-amsterdam-noord~bbc137c7/",
+          "publishedDate": "Sat, 26 Sep 2026 10:22:00 GMT",
+          "description": "The man who fatally shot prison guard Marcel (61) on a crowded terrace on the NDSM-kade in Amsterdam-Noord on Friday afternoon is 37-year-old Amin D., who lived further along in Noord. Because he was ..."
+        },
+        {
+          "title": "Schutter die op vol terras Marcel (61) doodschoot, is 37-jarige Amin D. uit Amsterdam-Noord",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/misdaad/schutter-die-op-vol-terras-marcel-61-doodschoot-is-37-jarige-amin-d-uit-amsterdam-noord~b012524b/",
+          "publishedDate": "Sat, 26 Sep 2026 09:57:00 GMT",
+          "description": "De man die vrijdagmiddag gevangenisbewaarder Marcel (61) doodschoot op een vol terras op de NDSM-kade in Amsterdam-Noord, is de 37-jarige Amin D., die verderop in Noord woonde. Omdat hij geboren is in ..."
+        },
+        {
+          "title": "'Wapenfanaat' Amin D. (37) schoot gevangenisbewaarder dood op vol terras in Amsterdam",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/wapenfanaat-amin-d-37-schoot-gevangenisbewaarder-dood-op-vol-terras-in-amsterdam~a012524b/",
+          "publishedDate": "Sat, 26 Sep 2026 02:57:00 GMT",
+          "description": "De man die vrijdagmiddag gevangenisbewaarder Marcel Blijd doodschoot op een vol terras aan de NDSM-kade in Amsterdam-Noord, is de 37-jarige Amin D., die verderop in Noord woonde. Omdat hij geboren is ..."
+        },
+        {
+          "title": "Terrasschutter Amsterdam is 37-jarige Somali&#235;r Amin D., probeerde al eerder iemand dood te schieten",
+          "source": "GeenStijl",
+          "url": "https://www.geenstijl.nl/5192200/terrasschutter-amsterdam-is-37-jarige-somalier-amin-d-probeerde-al-eerder-iemand-dood-te-schieten",
+          "publishedDate": "Sat, 26 Sep 2026 12:15:00 GMT",
+          "description": "Het is niet altijd geen Henk of Kees maar het is dus weer niet Henk of Kees. De gozer die gistermiddag op de NDSM-werf in Amsterdam iemand na een ruzie over het aanlijnen van een hond voor de ogen van ..."
+        },
+        {
+          "title": "Schutter Amsterdam is 37-jarige Somalische Amin D.",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/artikelen/noord-holland-amsterdam-schutter-somalische-amin-d",
+          "publishedDate": "Sat, 26 Sep 2026 09:46:00 GMT",
+          "description": "Identiteit van de schutter in Amsterdam onthuld: de 37-jarige Somalische Amin D. met een crimineel verleden. Onderzoek naar dodelijke schietpartij bij NDSM-werf loopt."
+        },
+        {
+          "title": "Nieuwe beelden na dodelijke schietpartij NDSM-kade: verdachte gooit wapen in het water",
+          "source": "vandaaginside",
+          "url": "https://www.vandaaginside.nl/nieuws/misdaad/artikelen/nieuwe-beelden-na-dodelijke-schietpartij-ndsm-kade-verdachte-gooit-wapen-in",
+          "publishedDate": "Sat, 26 Sep 2026 09:17:00 GMT",
+          "description": "Wij zien dat je deze site op dit moment buiten Nederland bezoekt. Vanwege uitzendrechten is deze video alleen binnen Nederland beschikbaar."
+        },
+        {
+          "title": "Man (37) die op een vol terras in Amsterdam cipier Marcel doodschoot, is ex-gedetineerde",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/man-37-die-op-een-vol-terras-in-amsterdam-cipier-marcel-doodschoot-is-ex-gedetineerde~a05b0fc7/",
+          "publishedDate": "Sat, 26 Sep 2026 03:57:00 GMT",
+          "description": "De man die vrijdagmiddag cipier Marcel Blijd &lt;a href=&quot;https://www.hln.be/buitenland/gevangenismedewerker-doodgeschoten-op-druk-terras-in-amsterdam-verdachte-opgepakt-duikers-vinden-vuurwapen~a83b8262/ ..."
+        }
+      ]
     },
     {
       "keyword": "england vs spain",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "England vs Spain live streaming: Where to watch Nations League live in UK, USA &amp; India? TV channels and online platforms",
+          "source": "The Sunday Guardian Live on MSN",
+          "url": "https://www.msn.com/en-in/sports/football/england-vs-spain-live-streaming-where-to-watch-nations-league-live-in-uk-usa-india-tv-channels-and-online-platforms/ar-AA2d1vy4",
+          "publishedDate": "Sat, 26 Sep 2026 16:36:00 GMT",
+          "description": "India, Sept. 26 -- England vs Spain LIVE Streaming will be among the biggest searches ahead of Saturday's UEFA Nations League 2026-27 showdown at Wembley, with the FIFA World Cup 2026 champions ..."
+        },
+        {
+          "title": "England vs Spain lineups confirmed: Harry Kane leads Three Lions attack as Lamine Yamal, Rodri start for world champions | Check starting XI",
+          "source": "The Sunday Guardian Live on MSN",
+          "url": "https://www.msn.com/en-in/sports/football/england-vs-spain-lineups-confirmed-harry-kane-leads-three-lions-attack-as-lamine-yamal-rodri-start-for-world-champions-check-starting-xi/ar-AA2d1AZq",
+          "publishedDate": "Sat, 26 Sep 2026 16:14:00 GMT",
+          "description": "India, Sept. 26 -- A blockbuster UEFA Nations League clash awaits at Wembley as Thomas Tuchel's England open their campaign against reigning world champions Spain. It marks the first meeting between ..."
+        },
+        {
+          "title": "England 2-3 Spain: Oyarzabal seals comeback as world champions win at Wembley",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/england-2-3-spain-oyarzabal-230000389.html",
+          "publishedDate": "Sat, 26 Sep 2026 16:00:00 GMT",
+          "description": "Spain came from behind to beat England 3-2 at Wembley in their UEFA Nations League opener, with Mikel Oyarzabal scoring the winner after Thomas Tuchel’s side had led 2-1 at half-time.Spain winger ..."
+        },
+        {
+          "title": "England's best 'for a long time' despite Spain defeat, says Kane",
+          "source": "AFP on MSN",
+          "url": "https://www.msn.com/en-us/news/other/englands-best-for-a-long-time-despite-spain-defeat-says-kane/ar-AA2d1NLP",
+          "publishedDate": "Sat, 26 Sep 2026 15:37:00 GMT",
+          "description": "England captain Harry Kane said that the Three Lions produced some of their best football for a long time despite losing 3-2 at home to world champions Spain in the Nations League on Friday. Probably ..."
+        },
+        {
+          "title": "Luis de la Fuente after Spain’s comeback win over England: “We have no intention of stopping winning”",
+          "source": "AS USA",
+          "url": "https://en.as.com/soccer/luis-de-la-fuente-after-spains-comeback-win-over-england-we-have-no-intention-of-stopping-winning-f202609-n/",
+          "publishedDate": "Sat, 26 Sep 2026 15:23:00 GMT",
+          "description": "We’re very happy with the result, with the performance and with showing the world that we have a lot of ambition&quot; ..."
+        },
+        {
+          "title": "Kane’s penalty shocker as history repeats for England against Spain’s ‘sexy football’ in five-goal thriller",
+          "source": "football360",
+          "url": "https://football360.com.au/england-spain-highlights-result-reaction-uefa-nations-league/",
+          "publishedDate": "Sat, 26 Sep 2026 14:58:00 GMT",
+          "description": "Harry Kane's penalty shocker saw England miss a golden opportunity to beat Spain as they played out a five-goal thriller in the UEFA Nations League."
+        },
+        {
+          "title": "Serious England concern emerges and key talking points from Spain loss",
+          "source": "Evening Standard on MSN",
+          "url": "https://www.msn.com/en-us/news/other/serious-england-concern-emerges-and-key-talking-points-from-spain-loss/ar-AA2d1Ste",
+          "publishedDate": "Sat, 26 Sep 2026 14:42:56 GMT",
+          "description": "Serious England concern emerges and key talking points from Spain loss - Error-strewn performance undercut what might have been an encouraging evening for Three Lions ..."
+        },
+        {
+          "title": "England vs. Spain Player Ratings: Errors, Substitutes Decide Five-Goal Thriller",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/england-vs-spain-player-ratings-errors-substitutes-five-goal-thriller",
+          "publishedDate": "Sat, 26 Sep 2026 14:38:00 GMT",
+          "description": "England didn’t initially have much in response, and Spain actually scored again when Ferran Torres’s volley was disallowed by an offside flag. The same player, who got the winner in the World Cup ..."
+        },
+        {
+          "title": "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
+          "source": "Al Jazeera on MSN",
+          "url": "https://www.msn.com/en-us/news/other/yamal-nets-in-spain-s-3-2-comeback-win-against-england-in-nations-league/ar-AA2d1SoN",
+          "publishedDate": "Sat, 26 Sep 2026 14:09:59 GMT",
+          "description": "Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty."
+        },
+        {
+          "title": "England vs. Spain player ratings as Thomas Tuchel's side beaten at Wembley",
+          "source": "ESPN on MSN",
+          "url": "https://www.msn.com/en-us/sports/soccer/england-vs-spain-player-ratings-as-thomas-tuchel-s-side-beaten-at-wembley/ar-AA2d2hGj",
+          "publishedDate": "Sat, 26 Sep 2026 14:04:13 GMT",
+          "description": "England player rating from their Nations League clash against Spain ..."
+        }
+      ]
+    },
+    {
+      "keyword": "heracles - vitesse",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "LIVE Keuken Kampioen Divisie | Volendam vergoot marge tegen VVV, FC Emmen komt op voorsprong tegen TOP Oss",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/voetbal/live-keuken-kampioen-divisie-volendam-vergoot-marge-tegen-vvv-fc-emmen-komt-op-voorsprong-tegen-top-oss~a878f7fa/",
+          "publishedDate": "Sat, 26 Sep 2026 04:40:00 GMT",
+          "description": "Heracles wint zonder al te veel problemen met 2-0 van Vitesse. De koploper begon de eerste wedstrijd van vandaag om 16.30 uur en stelde daarin de drie punten veilig. Door die zege, in combinatie met d"
+        },
+        {
+          "title": "TERUGLEZEN | Heracles-trainer Heilmann na 2-0 zege op Vitesse: ‘Niet sprankelend, maar zakelijke overwinning’",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/heracles/teruglezen-heracles-trainer-heilmann-na-2-0-zege-op-vitesse-niet-sprankelend-maar-zakelijke-overwinning~a9fcdf11/",
+          "publishedDate": "Fri, 25 Sep 2026 03:21:00 GMT",
+          "description": "Heracles heeft de ongeslagen status in Almelo voortgezet. Na de nederlaag bij Almere rekende de ploeg zaterdagmiddag in eigen huis af met Vitesse: 2-0. Met de zege verstevigde Heracles de koppositie i"
+        }
+      ]
+    },
+    {
+      "keyword": "marco borsato",
       "trafficLabel": "5K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Lees hier alles terug over de vrijspraak van Marco Borsato",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/muziek/6378193/lees-hier-alles-terug-over-de-vrijspraak-van-marco-borsato.html",
+          "publishedDate": "Thu, 04 Dec 2025 03:59:00 GMT",
+          "description": "Hallo en welkom in ons liveblog over de zaak rond Marco Borsato. De zanger is vrijgesproken van ontucht met een minderjarig meisje. Michiel Vos, Hasna Elbaamrani en Roos de Ridder houden je hier op de ..."
+        },
+        {
+          "title": "Romantische hereniging tussen Marco Borsato en Leontine is helemaal van de baan, tonen foto’s met haar ‘nieuwe’ vlam",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/celebrities/romantische-hereniging-tussen-marco-borsato-en-leontine-is-helemaal-van-de-baan-tonen-fotos-met-haar-nieuwe-vlam~a8c2eef8/",
+          "publishedDate": "Sat, 26 Sep 2026 03:00:00 GMT",
+          "description": "Het liefdesgeluk spat ervan af tussen Leontine Ruiters (58) en de steenrijke ondernemer John Huiberts (56). De ex van Marco Borsato (59) genoot samen met haar nieuwe liefde en haar kinderen van een za ..."
+        },
+        {
+          "title": "Groot nieuws rond Marco Borsato: negendelige serie op komst",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/groot-nieuws-rond-marco-borsato-negendelige-serie-op-komst",
+          "publishedDate": "Fri, 25 Sep 2026 05:55:00 GMT",
+          "description": "Er komt een nieuwe serie over de muzikale carri&#232;re van Marco Borsato. Universal Music Nederland heeft&#160;dat aangekondigd."
+        },
+        {
+          "title": "Marco Borsato duikt plots op in nieuwe video van Universal: dit is er aan de hand",
+          "source": "Startpagina on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/marco-borsato-duikt-plots-op-in-nieuwe-video-van-universal-dit-is-er-aan-de-hand/ar-AA2cWFgV",
+          "publishedDate": "Fri, 25 Sep 2026 00:07:52 GMT",
+          "description": "Marco Borsato is plotseling weer volop onderwerp van gesprek. Universal Music Nederland heeft onverwacht een nieuwe video rond de zanger naar buiten gebracht. Ook Shownieuws dook direct op de opvallen ..."
+        },
+        {
+          "title": "Fans reageren enthousiast op nieuwe serie over Marco Borsato",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/fans-reageren-enthousiast-op-nieuwe-serie-marco-borsato",
+          "publishedDate": "Thu, 24 Sep 2026 06:22:00 GMT",
+          "description": "Er komt een nieuwe serie: Marco Borsato: Zijn carri&#232;re in negen delen' van Universal Music. Over de muzikale reis van deze iconische Nederlandse zanger."
+        },
+        {
+          "title": "Marco Borsato deelt duidelijke boodschap na dood Ben Saunders",
+          "source": "Showbizznieuws 24/7",
+          "url": "https://showbizznieuws247.be/marco-borsato-deelt-duidelijke-boodschap-na-dood-ben-saunders/",
+          "publishedDate": "Thu, 17 Sep 2026 17:00:00 GMT",
+          "description": "“Lieve, bijzondere man, mijn hart huilt! Ik kan geen woorden vinden voor de leegte die je achterlaat”, schrijft Marco Borsato nadat Ben Saunders op amper 43-jarige leeftijd overleed. En dan richt de ..."
+        },
+        {
+          "title": "John Ewbank verbreekt stilte rondom Marco Borsato: ‘Natuurlijk hebben we nog contact’",
+          "source": "Weekblad Party",
+          "url": "https://weekbladparty.nl/john-ewbank-verbreekt-stilte-rondom-marco-borsato-natuurlijk-hebben-we-nog-contact/",
+          "publishedDate": "Thu, 17 Sep 2026 12:26:00 GMT",
+          "description": "Na ruim vier jaar vrijwel geen interviews te hebben gegeven, verscheen John Ewbank onverwacht weer voor de verzamelde showbizzpers."
+        },
+        {
+          "title": "John Ewbank wil niet praten over Marco Borsato",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/john-ewbank-wil-niet-praten-over-marco-borsato",
+          "publishedDate": "Mon, 14 Sep 2026 12:27:00 GMT",
+          "description": "Songwriter en muziekproducer John Ewbank wilde maandag, bij zijn eerste publieke optreden in lange tijd, geen vragen beantwoorden over zijn goede vriend en artistieke partner Marco Borsato. Ewbank gaf ..."
+        },
+        {
+          "title": "John Ewbank doorbreekt stilte over Marco Borsato: 'Natuurlijk heb ik nog contact'",
+          "source": "RTL",
+          "url": "https://www.rtl.nl/boulevard/artikel/5651687/john-ewbank-marco-borsato-doorbreekt-stilte",
+          "publishedDate": "Mon, 14 Sep 2026 10:25:00 GMT",
+          "description": "Na ruim vier jaar grotendeels buiten de schijnwerpers te zijn gebleven, staat John Ewbank (57) maandagavond weer voor de camera van RTL Boulevard. De songwriter en producent, die sinds 1994 nauw samen ..."
+        },
+        {
+          "title": "Heeft Marco Borsato nog m&#233;&#233;r slachtoffers gemaakt?",
+          "source": "Vipnieuws.nl",
+          "url": "https://vipnieuws.nl/heeft-marco-borsato-nog-meer-slachtoffers-gemaakt-2/",
+          "publishedDate": "Sat, 12 Sep 2026 20:01:00 GMT",
+          "description": "Misdaadjournalist John van den Heuvel komt met onthutsende informatie naar buiten… Marco Borsato mag dan wel zijn vrijgesproken in de zedenzaak, maar John van den Heuvel die de bal aan het rollen brac ..."
+        }
+      ]
     },
     {
       "keyword": "athene",
       "trafficLabel": "5K+",
-      "articles": []
-    },
-    {
-      "keyword": "nac - eindhoven",
-      "trafficLabel": "5K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Gebouw in Athene stort in na explosie: twee doden, enkele mensen nog vermist",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/gebouw-in-athene-stort-in-na-explosie-twee-doden-enkele-mensen-nog-vermist~a8036476/",
+          "publishedDate": "Sat, 26 Sep 2026 01:10:00 GMT",
+          "description": "De brandweer in Athene heeft tot nu toe zeker twee doden gevonden na een explosie vrijdag in het centrum van de Griekse hoofdstad. Eerder op zaterdag werd het lichaam van een jonge Amerikaanse vrouw a ..."
+        },
+        {
+          "title": "6 doden, onder wie 4 Amerikaanse toeristen, na zware explosie in gebouw in Athene",
+          "source": "VRT on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/6-doden-onder-wie-4-amerikaanse-toeristen-na-zware-explosie-in-gebouw-in-athene/ar-AA2d29Sc",
+          "publishedDate": "Sat, 26 Sep 2026 12:05:47 GMT",
+          "description": "In de historische wijk Plaka in de Griekse hoofdstad Athene zijn 6 lichamen teruggevonden onder het puin van een gebouw dat gisteren instortte na een zware ontploffing. Onder de slachtoffers zijn 4 Am ..."
+        },
+        {
+          "title": "Brandweer vindt alle zes lichamen van slachtoffers na explosie in Athene",
+          "source": "nu",
+          "url": "https://nu.cw/2026/09/26/brandweer-vindt-alle-zes-lichamen-van-slachtoffers-na-explosie-in-athene/",
+          "publishedDate": "Sat, 26 Sep 2026 10:58:00 GMT",
+          "description": "Alle mensen die na de explosie in de Griekse hoofdstad Athene vermist raakten, zijn overleden. Het gaat om vier Amerikaanse toeristen en een ouder echtpaar die zich in het gebouw bevonden toen het vri ..."
+        },
+        {
+          "title": "Alle lichamen vermisten na explosie Athene gevonden",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Buitenland/alle-lichamen-vermisten-na-explosie-athene-gevonden/ar-AA2d0PUD",
+          "publishedDate": "Sat, 26 Sep 2026 07:54:00 GMT",
+          "description": "ATHENE (ANP/AFP) - De brandweer in Athene heeft de lichamen van zes personen gevonden na een explosie vrijdag in het centrum van de Griekse hoofdstad. Het gaat om vier Amerikaanse toeristen en een oud ..."
+        },
+        {
+          "title": "Dodental stijgt na explosie en instorten woongebouw Athene",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Buitenland/dodental-stijgt-na-explosie-en-instorten-woongebouw-athene/ar-AA2d0WxW",
+          "publishedDate": "Sat, 26 Sep 2026 05:37:00 GMT",
+          "description": "ATHENE (ANP/AFP) - De brandweer in Athene heeft tot nu toe zeker twee doden gevonden na een explosie vrijdag in het centrum van de Griekse hoofdstad. Eerder op zaterdag werd het lichaam van een jonge ..."
+        },
+        {
+          "title": "Doden en vermisten na explosie in toeristisch centrum van Athene",
+          "source": "nu",
+          "url": "https://nu.cw/2026/09/26/doden-en-vermisten-na-explosie-in-toeristisch-centrum-van-athene/",
+          "publishedDate": "Sat, 26 Sep 2026 05:11:00 GMT",
+          "description": "Bij een explosie in een appartementengebouw in Athene zijn vrijdag een man en een vrouw om het leven gekomen. Nog eens vier mensen zijn vermist. De ontploffing vond plaats in het toeristische hart van ..."
+        },
+        {
+          "title": "Dode na explosie en instorten gebouw binnenstad Athene",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/dode-na-explosie-en-instorten-gebouw-binnenstad-athene/ar-AA2d0kq3",
+          "publishedDate": "Sat, 26 Sep 2026 02:59:00 GMT",
+          "description": "ATHENE (ANP/RTR/AFP) - Er is zeker &#233;&#233;n dode gevallen na een explosie vrijdag in de binnenstad van de Griekse hoofdstad Athene, meldt de Griekse brandweer. Een gebouw van twee verdiepingen stortte vrij ..."
+        },
+        {
+          "title": "Zes doden nadat explosie gebouw in Athene verwoest",
+          "source": "MarketScreener",
+          "url": "https://nl.marketscreener.com/beursnieuws/een-dode-en-vijf-vermisten-nadat-explosie-gebouw-in-athene-verwoest-ce785adcd98ff421",
+          "publishedDate": "Sat, 26 Sep 2026 02:44:00 GMT",
+          "description": "Twee mensen zijn omgekomen en nog eens vier worden vermist nadat een woongebouw instortte na een explosie in een toeristisch gebied in het centrum van Athene, zei een woordvoerder van de ..."
+        },
+        {
+          "title": "Gebouw in Athene stort in na explosie: &#233;&#233;n dode, vijf mensen nog vermist",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/buitenland/gebouw-in-athene-stort-in-na-explosie-een-dode-vijf-mensen-nog-vermist~a8036476/",
+          "publishedDate": "Fri, 25 Sep 2026 18:06:00 GMT",
+          "description": "Bij een explosie in de binnenstad van Athene is vrijdag zeker &#233;&#233;n dode gevallen. Dat meldt de Griekse brandweer. In de hoofdstad stortte een gebouw van twee verdiepingen in. Reddingswerkers vonden het ..."
+        },
+        {
+          "title": "Gebouw stort in na zware explosie in Athene",
+          "source": "Newsmonkey",
+          "url": "https://newsmonkey.be/gebouw-stort-in-na-zware-explosie-in-athene/",
+          "publishedDate": "Thu, 24 Sep 2026 19:31:00 GMT",
+          "description": "In het kort Een gaslek heeft waarschijnlijk de instorting van een gebouw in de wijk Plaka in Athene veroorzaakt. Hulpdiensten hebben twee vrouwen uit het ..."
+        }
+      ]
     },
     {
       "keyword": "daphne deckers",
       "trafficLabel": "5K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Daphne Deckers: ’Richard slaat heel vaak de benen over elkaar en ik heb geen idee wat daar niet mannelijk aan zou zijn’",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/vrouw/daphne-deckers-richard-slaat-heel-vaak-de-benen-over-elkaar-en-ik-heb-geen-idee-wat-daar-niet-mannelijk-aan-zou-zijn/64086129.html",
+          "publishedDate": "Sat, 12 Apr 2025 08:30:00 GMT",
+          "description": "We leven in een tijd waarin de manosfeer (de online communities die jonge mannen van alles wijsmaken over wat het betekent om ’mannelijk’ te zijn) steeds radicaler wordt. Dat komt lang niet alleen ..."
+        },
+        {
+          "title": "Daphne Deckers: ’Vaderdag zonder vader voelt een beetje raar’",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/vrouw/daphne-deckers-vaderdag-zonder-vader-voelt-een-beetje-raar/64420581.html",
+          "publishedDate": "Mon, 14 Jun 2021 07:00:00 GMT",
+          "description": "Vaderdag zonder vader voelt een beetje raar. Mijn vader is in 2018 overleden maar het lijkt veel korter geleden. In mijn telefoon staat het nummer van mijn ouders nog altijd onder ‘Miep en Johan’ – ik ..."
+        },
+        {
+          "title": "Dochter (28) van Daphne Deckers en Richard Krajicek toont bijzondere gelijkenis met ouders: 'Prachtig'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/dochter-28-van-daphne-deckers-en-richard-krajicek-toont-bijzondere-gelijkenis-met-ouders-prachtig-2026092616191083408/",
+          "publishedDate": "Sat, 26 Sep 2026 11:39:00 GMT",
+          "description": "Ex-toptennisser Krajicek en zijn vrouw trouwden in 1999. Ze hebben samen twee kinderen: zoon Alec en dochter Emma. De 26-jarige Alec treedt in de voetsporen van zijn vader als tennisser. Hij bereikte ..."
+        },
+        {
+          "title": "Daphne Deckers (vrouw tennisicoon Richard Krajicek) doet opvallende bekentenis: 'Ik duik weleens achter de bank'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/daphne-deckers-vrouw-tennisicoon-richard-krajicek-doet-opvallende-bekentenis-ik-duik-weleens-achter-de-bank-2026092607572567537/",
+          "publishedDate": "Sat, 26 Sep 2026 03:26:00 GMT",
+          "description": "Daphne Deckers heeft een opvallend inkijkje gegeven in haar priv&#233;leven. De vrouw van tennisicoon Richard Krajicek schrijft in haar nieuwste column openhartig over haar sociale leven en doet daarbij ..."
+        },
+        {
+          "title": "Daphne Deckers hoort liedje uit 1994 en denkt meteen aan Richard Krajicek",
+          "source": "weekbladparty",
+          "url": "https://weekbladparty.nl/daphne-deckers-hoort-liedje-uit-1994-en-denkt-meteen-aan-richard-krajicek/",
+          "publishedDate": "Fri, 04 Sep 2026 12:25:00 GMT",
+          "description": "Een liedje kan je in &#233;&#233;n klap tientallen jaren terug in de tijd brengen. Dat overkwam Daphne Deckers toen ze op de radio een nummer hoorde dat voor haar onlosmakelijk verbonden is met een heel ..."
+        },
+        {
+          "title": "'Daphne Deckers had haar man (Richard Krajicek) moeten verbieden naar VI te gaan'",
+          "source": "panorama",
+          "url": "https://panorama.nl/artikel/678783/daphne-deckers-had-haar-man-richard-krajicek-moeten-verbieden-naar-vi-te-gaan",
+          "publishedDate": "Thu, 19 Feb 2026 10:06:00 GMT",
+          "description": "Verslaggever Thomas Braun volgt de strapatsen van de BN’ers op de voet en velt zijn oordeel. Deze week: de gevoelige snaren van Richard Krajicek, hoe spoorloos is Javier Guzman en waarom maakt ..."
+        },
+        {
+          "title": "Daphne Deckers over debuut op 18+ platform Heleen van Royen: 'Zij is de enige die dit kan of wil doen'",
+          "source": "Nieuwe Revu",
+          "url": "https://revu.nl/artikel/641487/daphne-deckers-over-erotische-content-heleen-van-royen-zij-is-de-enige-die-dit-kan-of-wil-doen",
+          "publishedDate": "Fri, 16 May 2025 01:39:00 GMT",
+          "description": "Hoe ouder hoe gekker. In het jaar dat Heleen van Royen zestig is geworden, opent ze een account op F2F om erotische content van zichzelf te verspreiden. De reacties zijn niet onverdeeld positief."
+        },
+        {
+          "title": "Daphne Deckers deelt slaapkamergewoonte: 'Laat 'de poes' ook even uit haar mand'",
+          "source": "panorama",
+          "url": "https://panorama.nl/artikel/637593/daphne-deckers-deelt-slaapkamergewoonte-laat-de-poes-ook-even-uit-haar-mand",
+          "publishedDate": "Tue, 11 Mar 2025 03:20:00 GMT",
+          "description": "De een slaapt in een pyama, de ander in ondergoed en Daphne Deckers rolt puur natuur het bed in. En daar heeft ze zo haar redenen voor. In een column in de Telegraaf deelt Deckers haar ..."
+        },
+        {
+          "title": "Daphne Deckers pissig als Revu belt: ‘Vraag m’n manager maar!’",
+          "source": "mediacourant",
+          "url": "https://www.mediacourant.nl/2024/09/daphne-deckers-pissig-als-revu-belt-vraag-mn-manager-maar/",
+          "publishedDate": "Sun, 01 Sep 2024 01:01:00 GMT",
+          "description": "De Nieuwe Revu heeft een verstrooiend rubriekje waarin elke week een andere BN’er centraal staat om te worden becommentarieerd door een aantal andere BN’ers. Het gaat deze week over Doutzen Kroes, die ..."
+        },
+        {
+          "title": "Daphne Deckers over slapeloosheid: ‘Doe de 4-7-8-ademhaling, voor je het weet val je in slaap",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/gezond/daphne-deckers-over-slapeloosheid-doe-de-4-7-8-ademhaling-voor-je-het-weet-val-je-in-slaap~a4d93d47/",
+          "publishedDate": "Fri, 22 Sep 2023 04:15:00 GMT",
+          "description": "Haar blaas is een kwetsbaar ding en met massages gaat ze verklevingen te lijf. Van artrose en verstrooidheid baalt Daphne Deckers, vertelt ze in Mezza’s rubriek Hemd van het lijf: ‘Alles wat ik bij ..."
+        }
+      ]
     }
   ]
 }
