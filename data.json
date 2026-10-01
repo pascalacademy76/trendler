@@ -1,51 +1,517 @@
 {
-  "fetchedAt": "2026-10-01T09:12:26.200Z",
+  "fetchedAt": "2026-10-01T16:35:43.849Z",
   "trends": [
     {
-      "keyword": "paulien cornelisse",
-      "trafficLabel": "200K+",
+      "keyword": "algemeen dagblad",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Ik wilde heel graag weten wat Paulien Cornelisse van die tweet vond",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/10/01/ik-wilde-heel-graag-weten-wat-paulien-cornelisse-van-die-tweet-vond-a4937954",
-          "publishedDate": "Wed, 30 Sep 2026 12:29:00 GMT",
-          "description": "Tv-recensie: Ze kunnen rommelig zijn, die eerste momenten nadat iemand onverwachts overlijdt. Voor onze recensent voelde het vreemd om naar zwart-witfoto’s van Paulien Cornelisse te kijken en om te lu ..."
+          "title": "‘Dat zou een schande zijn’: EK dreigt aan Jong Oranje en aanvoerder Givairo Read voorbij te gaan",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/dat-zou-een-schande-zijn-ek-dreigt-aan-jong-oranje-en-aanvoerder-givairo-read-voorbij-te-gaan~a75fe68b/",
+          "publishedDate": "Thu, 01 Oct 2026 02:08:00 GMT",
+          "description": "Givairo Read (20) miste een groot deel van de EK-kwalificatie van Jong Oranje door blessures. Prompt vindt de Feyenoorder zich als captain terug op de rand van uitschakeling. „Dat zou eerlijk gezegd e ..."
         },
         {
-          "title": "Verslagen reacties op overlijden Paulien Cornelisse: 'Ga haar enorm missen'",
+          "title": "Joey Groenbast (31) van eredivisie en Australi&#235; naar derde klasse: ‘Ben gekomen om een prijs te pakken’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/leidschendam-voorburg/joey-groenbast-31-van-eredivisie-en-australie-naar-derde-klasse-ben-gekomen-om-een-prijs-te-pakken~a64bb111/",
+          "publishedDate": "Thu, 01 Oct 2026 02:00:00 GMT",
+          "description": "Joey Groenbast voetbalde 31 wedstrijden in de eredivisie en speelde in de jeugd nog samen met Oranje-international Nathan Ak&#233;. Inmiddels maakt hij zijn minuten voor derdeklasser Wilhelmus. „Ik had gra ..."
+        },
+        {
+          "title": "Bol haalt stickers weg waarmee je het opnamelichtje van videobrillen kunt afplakken, elders nog wel te koop",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/tech/bol-haalt-stickers-weg-waarmee-je-het-opnamelichtje-van-videobrillen-kunt-afplakken-elders-nog-wel-te-koop~a20e2242/",
+          "publishedDate": "Thu, 01 Oct 2026 01:38:00 GMT",
+          "description": "Bol.com haalt stickers uit zijn webshop waarmee je het LED-lichtje van je videobril kunt afplakken terwijl opnamefuncties ‘normaal’ werken. Volgens het bedrijf lijken de stickers bedoeld om ‘zichtbaar ..."
+        },
+        {
+          "title": "Erling Haaland klaagt Noorse vliegmaatschappij aan om 'ongeoorloofd' gebruik van paardenstaart",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/erling-haaland-klaagt-noorse-vliegmaatschappij-aan-om-ongeoorloofd-gebruik-van-paardenstaart~a2fc38e7/",
+          "publishedDate": "Thu, 01 Oct 2026 00:28:00 GMT",
+          "description": "Sterspeler van de Noorse voetbalploeg Erling Haaland heeft vliegmaatschappij Norwegian Air Shuttle voor de rechter gesleept om ‘ongeoorloofd’ gebruik van zijn beeltenis. Het gaat vermoedelijk om zijn ..."
+        },
+        {
+          "title": "Robin van Asten na stormachtige carri&#232;re bij Oranje onder 19: ‘Nu weten mensen wie je bent’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/westland/robin-van-asten-na-stormachtige-carriere-bij-oranje-onder-19-nu-weten-mensen-wie-je-bent~abb5e997/",
+          "publishedDate": "Wed, 30 Sep 2026 21:00:00 GMT",
+          "description": "Tussen spelers van Ajax, Feyenoord en PSV staat daar ineens de naam van FC Dordrecht-middenvelder Robin van Asten op het wedstrijdformulier bij Oranje onder 19. En dat terwijl de 18-jarige Westlander ..."
+        },
+        {
+          "title": "‘Regisseur’ xtc-bende: ‘Ik reed in dikke auto en droeg een Rolex, maar het maakte me niet gelukkig’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/dordrecht/regisseur-xtc-bende-ik-reed-in-dikke-auto-en-droeg-een-rolex-maar-het-maakte-me-niet-gelukkig~acfb980b/",
+          "publishedDate": "Wed, 30 Sep 2026 21:00:00 GMT",
+          "description": "Hij dacht dat het criminele geld hem gelukkig zou maken, maar volgens de 35-jarige Cornelis H. viel dat zwaar tegen. „Ik reed in een dikke wagen en droeg een mooi horloge. Toch voelde ik druk op mijn ..."
+        },
+        {
+          "title": "Een jaar na verwoestende brand is toekomst Theetuin nog onzeker: stroomprobleem zet herbouw op slot",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/ridderkerk/een-jaar-na-verwoestende-brand-is-toekomst-theetuin-nog-onzeker-stroomprobleem-zet-herbouw-op-slot~af5be450/",
+          "publishedDate": "Wed, 30 Sep 2026 21:00:00 GMT",
+          "description": "Een jaar geleden legde een verwoestende brand De Theetuin in Rijsoord in de as. Nu dreigt een heel ander probleem de herbouw van het populaire partycentrum jarenlang tegen te houden: het overvolle str ..."
+        },
+        {
+          "title": "Voorbijgangers reageren woedend op anti-abortusactie op Coolsingel: ‘Ik voelde mijn bloed koken’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/rotterdam/voorbijgangers-reageren-woedend-op-anti-abortusactie-op-coolsingel-ik-voelde-mijn-bloed-koken~a8d82f2f/",
+          "publishedDate": "Wed, 30 Sep 2026 21:00:00 GMT",
+          "description": "Een protest tegen abortus van de conservatieve beweging TFP Student Action Europe leidde deze week in Rotterdam tot felle tegenreacties. Voorbijgangers reageerden boos op de actie en ook belangenorgan ..."
+        },
+        {
+          "title": "Jerry: ‘In een stad vol forenzen die het autoverkeer beter ontmoedigt is het niet minder dan een blamage’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/utrecht/jerry-in-een-stad-vol-forenzen-die-het-autoverkeer-beter-ontmoedigt-is-het-niet-minder-dan-een-blamage~a084d0a2/",
+          "publishedDate": "Wed, 30 Sep 2026 20:55:00 GMT",
+          "description": "Jerry Goossens is net de 60 gepasseerd, schrijver, en leidt met zijn gezin een stadsleven in Utrecht. Over die stad en omgeving schrijft hij een aantal dagen in de week een scherpe column. Die kun je ..."
+        },
+        {
+          "title": "Kroongetuige Nabil B. bouwt aan een nieuw leven, maar advocaat weet: ‘Hij blijft tot zijn graf een opgejaagd man’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/kroongetuige-nabil-b-bouwt-aan-een-nieuw-leven-maar-advocaat-weet-hij-blijft-tot-zijn-graf-een-opgejaagd-man~acdf4af2/",
+          "publishedDate": "Wed, 30 Sep 2026 20:52:00 GMT",
+          "description": "Met het pleidooi van zijn advocaat Peter Schouten komt het einde van het Marengo-proces voor kroongetuige Nabil B. nu echt in zicht. Iets minder dan tien jaar geleden zette hij de stap om over te lope ..."
+        }
+      ]
+    },
+    {
+      "keyword": "portugees voetbalelftal onder 19",
+      "trafficLabel": "10K+",
+      "articles": []
+    },
+    {
+      "keyword": "erben wennemars",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "‘Meneer Wennemars, u heeft n&#250; een herseninfarct, zeiden ze’: oud-schaatser Erben Wennemars waande zich fit, tot hij plots niet meer kon praten",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/sport/meneer-wennemars-u-heeft-nu-een-herseninfarct-zeiden-ze-oud-schaatser-erben-wennemars-waande-zich-fit-tot-hij-plots-niet-meer-kon-praten~b99896c3/",
+          "publishedDate": "Tue, 15 Sep 2026 09:51:00 GMT",
+          "description": "Erben Wennemars geloofde altijd dat hij 100 jaar zou worden. Topfit, niet kapot te krijgen. Tot de voormalig topschaatser in mei werd getroffen door een herseninfarct. Dankbaar kijkt hij terug op de ..."
+        },
+        {
+          "title": "Erben Wennemars over herseninfarct: 'Dacht dat ik onsterfelijk was'",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/cultuur-overig/6411547/verslagen-reacties-op-overlijden-paulien-cornelisse-ga-haar-enorm-missen.html",
-          "publishedDate": "Wed, 30 Sep 2026 12:12:00 GMT",
-          "description": "Verschillende bekende Nederlanders hebben bedroefd gereageerd op het overlijden van Paulien Cornelisse. Onder anderen premier Rob Jetten en Herman van der Zandt hebben van zich laten horen. De schrijf ..."
+          "url": "https://www.nu.nl/schaatsen/6409752/erben-wennemars-over-herseninfarct-dacht-dat-ik-onsterfelijk-was.html",
+          "publishedDate": "Mon, 14 Sep 2026 14:24:00 GMT",
+          "description": "Erben Wennemars heeft maandag uitgebreid teruggeblikt op zijn herseninfarct in mei. De oud-schaatser voelde zich gevangen in zijn eigen lichaam, terwijl hij eerder dacht onsterfelijk te zijn."
         },
         {
-          "title": "Schrijfster en theatermaker Paulien Cornelisse (50) is overleden",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/09/30/schrijfster-en-theatermaker-paulien-cornelisse-50-overleden-a4937920",
-          "publishedDate": "Wed, 30 Sep 2026 10:30:00 GMT",
-          "description": "Paulien Cornelisse (1976-2026): In augustus 2024 maakte Cornelisse bekend dat ze ziek was. Ze schreef onder meer de bestseller Taal is zeg maar echt mijn ding, waarvan meer dan 700.000 exemplaren verk ..."
+          "title": "Vrouw van Erben Wennemars schrikt van bloed bij schaatsicoon (50): 'Het druppelt zelfs van zijn kin'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/schaatsen/nieuws/vrouw-van-erben-wennemars-schrikt-van-bloed-bij-schaatsicoon-50-het-druppelt-zelfs-van-zijn-kin-2026100111374204496/",
+          "publishedDate": "Thu, 01 Oct 2026 06:41:00 GMT",
+          "description": "De verbouwing van het huis van schaatsicoon Erben Wennemars en vrouw Renate in Zwolle kost letterlijk bloed, zweet en tranen. Voormalig wereldkampioen Wennemars is fanatiek in het klussen en dat gaat ..."
         },
         {
-          "title": "Schrijfster en cabaretier Paulien Cornelisse (50) overleden",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/kunst-media/schrijfster-en-cabaretier-paulien-cornelisse-50-overleden~b47a9ae5/",
-          "publishedDate": "Wed, 30 Sep 2026 10:04:00 GMT",
-          "description": "Schrijfster en cabareti&#232;re Paulien Cornelisse is overleden. Ze stierf woensdag op 50-jarige leeftijd in het Antoni van Leeuwenhoekziekenhuis in Amsterdam aan de gevolgen van kanker, hebben haar manage ..."
+          "title": "'Hij dwingt ons na te denken': schaatsicoon Erben Wennemars vol lof over 'filosoof in zwembroek'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/hij-dwingt-ons-na-te-denken-schaatsicoon-erben-wennemars-vol-lof-over-filosoof-in-zwembroek-2026100108170283084/",
+          "publishedDate": "Wed, 30 Sep 2026 19:47:00 GMT",
+          "description": "Ex-topzwemmer Maarten van der Weijden is na zijn carri&#232;re een hoop uitdagingen aangegaan. Deze maand verschijnt er een nieuw project van de 45-jarige. Schaatsicoon Erben Wennemars heeft mooie woorden ..."
         },
         {
-          "title": "Taalfanaat Paulien Cornelisse bleef altijd onderzoeken, eigenzinnig en met humor",
+          "title": "Wees dankbaar voor de zorg in ons land",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/wees-dankbaar-voor-de-zorg-in-ons-land",
+          "publishedDate": "Sat, 26 Sep 2026 07:47:00 GMT",
+          "description": "Natuurlijk mag er aandacht gevraagd worden voor zaken die niet goed gaan, maar laten we nooit vergeten hoe goed de zorg in ons land georganiseerd is. Onlangs heb ik dat weer van dichtbij kunnen zien."
+        },
+        {
+          "title": "Dankbare Wennemars rent Dam tot Damloop na infarct en operatie",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/dankbare-wennemars-rent-dam-tot-damloop-na-infarct-en-operatie",
+          "publishedDate": "Sun, 20 Sep 2026 13:43:00 GMT",
+          "description": "Erben Wennemars is dankbaar dat hij mee kon doen aan de Dam tot Damloop. Dat deelde de oud-schaatser zondag op Instagram. Wennemars rende samen met acteur Everon Jackson Hooi de loop van 16 kilometer."
+        },
+        {
+          "title": "Het imperium van Erben Wennemars: voormalig schaatskampioen blijkt over een indrukwekkende vastgoedportefeuille te beschikken",
+          "source": "Pure Luxe on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/het-imperium-van-erben-wennemars-voormalig-schaatskampioen-blijkt-over-een-indrukwekkende-vastgoedportefeuille-te-beschikken/ar-AA20x8ay",
+          "publishedDate": "Fri, 11 Sep 2026 03:13:00 GMT",
+          "description": "Mede hierdoor heeft Wennemars inmiddels een stevig financieel fundament opgebouwd Het bericht Het imperium van Erben Wennemars: voormalig schaatskampioen blijkt over een indrukwekkende vastgoedportefe ..."
+        },
+        {
+          "title": "Erben Wennemars onderging hartoperatie na herseninfarct: 'Bleek een gaatje in te zitten'",
+          "source": "rtl",
+          "url": "https://www.rtl.nl/boulevard/artikel/5637477/erben-wennemars-onderging-hartoperatie",
+          "publishedDate": "Mon, 10 Aug 2026 10:06:00 GMT",
+          "description": "'Er werd een zoektocht gestart naar de oorzaak van dat bloedpropje', laat hij weten op Instagram. 'Er bleek een klein gaatje in mijn hart te zitten. Dus ik kreeg er gratis en voor niks een ..."
+        },
+        {
+          "title": "Erben Wennemars getroffen door een herseninfarct: 'Ik leef nog'",
+          "source": "rtl",
+          "url": "https://www.rtl.nl/boulevard/artikel/5608814/erben-wennemars-getroffen-door-een-herseninfarct",
+          "publishedDate": "Wed, 03 Jun 2026 01:33:00 GMT",
+          "description": "Renate kreeg een verontrustend telefoontje van haar man. 'Hij klinkt vreemd. Dronken. Hij praat langzaam, golvend. 'Het gaat niet goed met mij', maak ik er uit op. En dat hij bij de huisarts is', ..."
+        },
+        {
+          "title": "‘Vanaf nu zijn we weer Blauwvingers’: Erben Wennemars verhuist na 17 jaar naar Zwolle",
+          "source": "AD",
+          "url": "https://www.ad.nl/zwolle/vanaf-nu-zijn-we-weer-blauwvingers-erben-wennemars-verhuist-na-17-jaar-naar-zwolle~abc77b7b/",
+          "publishedDate": "Tue, 07 Apr 2026 20:08:00 GMT",
+          "description": "Erben groeide op in Dalfsen. “Het is mijn dorp. Daar ben ik geboren, daar heb ik mijn jeugd doorgebracht, daar woont mijn familie en daar ligt een groot deel van mijn leven”, zegt hij op Instagram."
+        }
+      ]
+    },
+    {
+      "keyword": "peter faber",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Honderden mensen op de been om afscheid te nemen van Peter Faber",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/honderden-mensen-op-de-been-om-afscheid-te-nemen-van-peter-faber~aa381f22/",
+          "publishedDate": "Sun, 16 Aug 2026 21:16:00 GMT",
+          "description": "Al honderden mensen hebben maandagochtend in het Zonnehuis in Amsterdam afscheid genomen van Peter Faber. De acteur overleed op 6 augustus op 82-jarige leeftijd. Maandagochtend is het openbare afschei ..."
+        },
+        {
+          "title": "NU+ Peter Faber kende weinig angsten: 'Ik ben niet bang voor de dood'",
+          "source": "NU",
+          "url": "https://www.nu.nl/film/6405624/peter-faber-kende-weinig-angsten-ik-ben-niet-bang-voor-de-dood.html",
+          "publishedDate": "Fri, 07 Aug 2026 06:25:00 GMT",
+          "description": "Een zware jeugd, een gevierd acteur: Peter Faber is donderdag op 82-jarige leeftijd overleden. De Max Havelaar-acteur was meer dan dat. Hij zette zich tot het laatst in voor jongeren met een verleden ..."
+        },
+        {
+          "title": "Peter Faber was voor mij de getergde vader uit ‘Schatjes!’, film over een belegerde Bredase villa",
+          "source": "bd.nl",
+          "url": "https://www.bd.nl/breda/peter-faber-was-voor-mij-de-getergde-vader-uit-schatjes-film-over-een-belegerde-bredase-villa~a891c4be/",
+          "publishedDate": "Fri, 07 Aug 2026 02:46:00 GMT",
+          "description": "Zelf denk ik bij Peter Faber metee&#173;&#173;&#173;n aan zijn rol in Schatjes! Waarschijnlijk omdat dit een echte schoolpleinfilm was: kwam-ie op tv, dan ging het er dagen&#173;&#173;lang in elke pauze over. Niet gek. Er zat ..."
+        },
+        {
+          "title": "Acteur Peter Faber (82) overleden",
+          "source": "metronieuws",
+          "url": "https://www.metronieuws.nl/entertainment/2026/08/overlijden-acteur-peter-faber-herinnering-br/",
+          "publishedDate": "Fri, 07 Aug 2026 00:06:00 GMT",
+          "description": "Acteur Peter Faber is overleden. Hij stierf donderdag op 82-jarige leeftijd „vredig in het bijzijn van zijn meest dierbaren”, heeft zijn familie vrijdag bekendgemaakt. In zijn lange carri&#232;re speelde ..."
+        },
+        {
+          "title": "Peter Faber (82) overleden: acteur stierf vredig in het bijzijn van zijn meest dierbaren",
+          "source": "weekend-online",
+          "url": "https://www.weekend-online.nl/nieuws/peter-faber-82-overleden-acteur-stierf-vredig-in-het-bijzijn-van-zijn-meest-dierbaren/",
+          "publishedDate": "Thu, 06 Aug 2026 23:19:00 GMT",
+          "description": "Acteur Peter Faber is donderdag op 82-jarige leeftijd overleden. Hij stierf vredig in het bijzijn van zijn meest dierbaren, zo maakte zijn familie vrijdag bekend. Daarmee komt een einde aan een ..."
+        },
+        {
+          "title": "Acteur Peter Faber (82) overleden, bekend van Max Havelaar, Ciske de Rat en Soldaat van Oranje",
+          "source": "bd.nl",
+          "url": "https://www.bd.nl/show/acteur-peter-faber-82-overleden-bekend-van-max-havelaar-ciske-de-rat-en-soldaat-van-oranje~a4ebc580b/?slug_rd=1",
+          "publishedDate": "Thu, 06 Aug 2026 17:24:00 GMT",
+          "description": "Acteur Peter Faber is overleden. Hij stierf donderdag op 82-jarige leeftijd ‘vredig in het bijzijn van zijn meest dierbaren’, heeft zijn familie vrijdag bekendgemaakt. In zijn lange carri&#232;re speelde ..."
+        },
+        {
+          "title": "Biografie van Peter Faber",
+          "source": "Nijmegen",
+          "url": "https://www.biosagenda.nl/p11922_peter-faber.html",
+          "publishedDate": "Wed, 27 May 2026 17:00:00 GMT",
+          "description": "Peter Faber is een veelzijdig artiest die zijn sporen in het theater zeker heeft verdiend. Hij is o.a. medeoprichter van het Werktheater en zijn rol in 'het Koekoeksnest' werd bekroond met de Louis ..."
+        },
+        {
+          "title": "Zo zag Peter Faber er vroeger uit",
+          "source": "story",
+          "url": "https://www.story.nl/showbizz/zo-zag-peter-faber-er-vroeger-uit~d08c6717",
+          "publishedDate": "Sun, 08 Oct 2023 23:00:00 GMT",
+          "description": "Peter Faber werd geboren op 9 oktober 1943 als zoon van een Nederlandse arbeider en een Duitse moeder. Lees verder onder de advertentie Peter's ouders leerden elkaar kennen in Hamburg. Hij groeide op ..."
+        },
+        {
+          "title": "Peter Faber: 'Bejaard? Hou toch op!'",
+          "source": "panorama",
+          "url": "https://panorama.nl/artikel/132037/peter-faber-voelt-zich-niet-bejaard",
+          "publishedDate": "Tue, 05 May 2020 01:46:00 GMT",
+          "description": "Dat het ene ouderenprogramma het andere niet is bewijst Peter Faber (76) in het nieuwe seizoen van Beter Laat Dan Nooit, waarin hij met Willibrord Frequin, Barrie Stevens, Gerard Cox en presentatrice ..."
+        },
+        {
+          "title": "Peter Faber Stichting verricht zendingswerk in gevangenis Westzaan",
+          "source": "zaanstad.nieuws",
+          "url": "https://zaanstad.nieuws.nl/actueel/peter-faber-stichting-verricht-zendingswerk-in-gevangenis-westzaan",
+          "publishedDate": "Sun, 01 Sep 2019 06:17:00 GMT",
+          "description": "Na alle recente negatieve berichten over de gevangenis in Westzaan een positief verhaal over het werk dat de Peter Faber Stiching verricht in het Justitieel Complex Zaanstad. De Dienst Justiti&#235;le ..."
+        }
+      ]
+    },
+    {
+      "keyword": "sociale dienst drechtsteden",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Medewerkers op straat gezet die geld voor toeslagenouders overmaakten naar bedrijven van zichzelf en familie",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/dordrecht/medewerkers-op-straat-gezet-die-geld-voor-toeslagenouders-overmaakten-naar-bedrijven-van-zichzelf-en-familie~a50bcf922/",
+          "publishedDate": "Wed, 30 Sep 2026 19:04:00 GMT",
+          "description": "De Sociale Dienst Drechtsteden (SDD) heeft twee medewerkers weggestuurd die geld overmaakten naar eigen bedrijven, van een familielid en rechtstreeks naar familieleden die geen cli&#235;nt van de SDD waren ..."
+        },
+        {
+          "title": "Openingsdatum Dordthuis is bekend: vanaf 23 november zwaaien de deuren open voor iedereen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/dordrecht/openingsdatum-dordthuis-is-bekend-vanaf-23-november-zwaaien-de-deuren-open-voor-iedereen~a4c298da/",
+          "publishedDate": "Wed, 30 Sep 2026 00:31:00 GMT",
+          "description": "Na ruim drie jaar bouwen gaat het Dordthuis gaat open vanaf maandag 16 november. Vanaf dat moment is behalve de gemeente Dordrecht ook de bibliotheek, Sociale Dienst Drechtsteden (SDD) en de VVV in ..."
+        },
+        {
+          "title": "Miljoenenfraude bij team dat gedupeerden toeslagenaffaire helpt",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2261175/miljoenenfraude-bij-team-dat-gedupeerden-toeslagenaffaire-helpt",
+          "publishedDate": "Wed, 30 Sep 2026 10:56:00 GMT",
+          "description": "Een medewerker van de Gemeenschappelijke Regeling Sociaal (GR Sociaal) is op staande voet ontslagen. Dat is gedaan na de ontdekking van een mogelijke miljoenenfraude bij het team dat inwoners onderste ..."
+        },
+        {
+          "title": "Dordthuis half november in gebruik: inwoners als eerste te gast",
+          "source": "rtvdordrecht",
+          "url": "https://www.rtvdordrecht.nl/nieuws/dordthuis-half-november-in-gebruik-inwoners-als-eerste-te-gast",
+          "publishedDate": "Wed, 30 Sep 2026 09:01:00 GMT",
+          "description": "Het nieuwe stadskantoor is vanaf 16 november open voor inwoners van Dordrecht. Het zogenoemde Dordthuis opent dan de deuren voor bezoekers die een afspraak hebben met de gemeente of de sociale dienst."
+        },
+        {
+          "title": "Dordthuis is open voor het publiek vanaf 23 november",
+          "source": "dordtcentraal",
+          "url": "https://dordtcentraal.nl/actueel/dordthuis-is-open-voor-het-publiek-vanaf-23-november/",
+          "publishedDate": "Wed, 30 Sep 2026 08:41:00 GMT",
+          "description": "Aan de Spuiboulevard is de afgelopen jaren hard gewerkt aan het Dordthuis: een huis voor stad en omstreken waar iedereen welkom is. De komende tijd wordt verder gewerkt aan de inrichting en afwerking."
+        },
+        {
+          "title": "Openingsdatum Dordthuis bekend; bibliotheek verhuist mee na 40 jaar Groenmarkt",
+          "source": "Dorprecht net",
+          "url": "https://www.dordrecht.net/nieuws/125009/openingsdatum-dordthuis-bekend-bibliotheek-verhuist-mee-na-40-jaar-groenmarkt",
+          "publishedDate": "Wed, 30 Sep 2026 07:57:00 GMT",
+          "description": "DORDRECHT -&#160;Het Dordthuis aan de Spuiboulevard opent op maandag 23 november 2026 de deuren voor het publiek. In het nieuwe gebouw komen de gemeente Dordrec ..."
+        },
+        {
+          "title": "Fraude binnen Hulpteam Toeslagen: onduidelijk wat er met 1 miljoen euro is gebeurd",
+          "source": "rtvdordrecht",
+          "url": "https://www.rtvdordrecht.nl/nieuws/fraude-binnen-hulpteam-toeslagen-onduidelijk-wat-er-met-1-miljoen-euro-is-gebeurd",
+          "publishedDate": "Tue, 29 Sep 2026 23:45:00 GMT",
+          "description": "De Gemeenschappelijke Regeling Sociaal (GR Sociaal) heeft een medewerker op staande voet ontslagen. Dat is gedaan na de ontdekking van een mogelijke miljoenenfraude bij het team dat inwoners ondersteu ..."
+        },
+        {
+          "title": "Agressie, intimidatie en wangedrag: onderzoek legt misstanden sociale dienst bloot",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2022495/agressie-intimidatie-en-wangedrag-onderzoek-legt-misstanden-sociale-dienst-bloot",
+          "publishedDate": "Thu, 05 Jun 2025 13:58:00 GMT",
+          "description": "Bij de Sociale Dienst Drechtsteden (SDD) is sprake van een angstcultuur, grensoverschrijdend gedrag en het niet naleven van regels. Dat blijkt uit onderzoek naar de misstanden die eind vorig jaar ..."
+        },
+        {
+          "title": "Dashboard geeft Sociale Dienst Drechtsteden inzicht",
+          "source": "Binnenlands Bestuur",
+          "url": "https://www.binnenlandsbestuur.nl/sociaal/verder/dashboard-geeft-sociale-dienst-drechtsteden-inzicht",
+          "publishedDate": "Mon, 15 Jan 2024 23:00:00 GMT",
+          "description": "Door het ontbreken van de juiste tools is het voor veel gemeenten nog een toekomstvisie om beleid te voeren vanuit zorgtraject monitoring. ‘Inzichtelijke en betrouwbare stuurinformatie is noodzakelijk ..."
+        },
+        {
+          "title": "Drechtsteden stopten jaren terug detachering PostNL om zwaar werk",
+          "source": "Nieuws",
+          "url": "https://nieuws.nl/economie/drechtsteden-stopten-jaren-terug-detachering-postnl-om-zwaar-werk",
+          "publishedDate": "Wed, 20 Dec 2023 07:57:00 GMT",
+          "description": "De regionale sociale dienst voor de Drechtsteden heeft de samenwerking met PostNL in de coronaperiode be&#235;indigd na signalen over te zwaar werk. Deze week kreeg de post- en pakketbezorger een ..."
+        }
+      ]
+    },
+    {
+      "keyword": "uitkering",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "52.000 zieken kregen misschien de verkeerde uitkering, hersteloperatie van start",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2633174-taalfanaat-paulien-cornelisse-bleef-altijd-onderzoeken-eigenzinnig-en-met-humor",
-          "publishedDate": "Wed, 30 Sep 2026 10:04:00 GMT",
-          "description": "Cornelisse kreeg in 2024 de diagnose kanker en werd sindsdien behandeld. Vandaag overleed ze op 50-jarige leeftijd."
+          "url": "https://nos.nl/artikel/2633229-52-000-zieken-kregen-misschien-de-verkeerde-uitkering-hersteloperatie-van-start",
+          "publishedDate": "Wed, 30 Sep 2026 23:27:00 GMT",
+          "description": "&quot;Na mijn eerste telefoontje met het UWV lag ik te shaken. Telkens die onzekerheid levert veel stress op&quot;, vertelt een vrouw die niet weet waarop ze recht heeft."
         },
         {
-          "title": "Veelzijdig verzamelaar van observaties over gedrag en taal: Paulien Cornelisse op 50-jarige leeftijd overleden",
+          "title": "Verkorten van werkloosheidsuitkering leidt nauwelijks tot meer werkgelegenheid",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6410582/verkorten-van-werkloosheidsuitkering-leidt-nauwelijks-tot-meer-werkgelegenheid.html",
+          "publishedDate": "Tue, 22 Sep 2026 17:30:00 GMT",
+          "description": "De maximale duur van de WW verkorten leidt amper tot extra werkgelegenheid. Dat blijkt uit een doorrekening door het Centraal Planbureau op verzoek van het ministerie van Sociale Zaken en Werkgelegenh ..."
+        },
+        {
+          "title": "WIA-herstel van start: UWV rekent 52.000 uitkeringen na",
+          "source": "ThePostOnline",
+          "url": "https://tpo.nl/2026/10/01/uwv-wia-herstel-dagloonfouten-nabetaling/",
+          "publishedDate": "Thu, 01 Oct 2026 02:19:00 GMT",
+          "description": "WIA-herstel gestart: UWV controleert 52.000 uitkeringen met mogelijke dagloonfouten uit 2020-2024. De laatste gedupeerden krijgen pas eind 2027 hun geld."
+        },
+        {
+          "title": "Nieuw V&amp;A 26-007 Combinatie levenslang partnerpensioen bij overlijden voor pensioendatum en tijdelijke uitkering partnerpensioen",
+          "source": "Taxence",
+          "url": "https://www.taxence.nl/nieuws/nieuw-va-26-007-combinatie-levenslang-partnerpensioen-bij-overlijden-voor-pensioendatum-en-tijdelijke-uitkering-partnerpensioen/",
+          "publishedDate": "Wed, 30 Sep 2026 22:57:00 GMT",
+          "description": "Het Centraal Aanspreekpunt Pensioenen heeft V&amp;A 26-007 gepubliceerd over de vraag of een combinatie van een levenslang partnerpensioen bij overlijden voor pensioendatum en een tijdelijke uitkering van ..."
+        },
+        {
+          "title": "Dividend uit Vanguards ETF is geen vaste coupon",
+          "source": "De Belegger",
+          "url": "https://www.debelegger.nl/post/dividend-uit-vanguards-etf-is-geen-vaste-coupon",
+          "publishedDate": "Wed, 30 Sep 2026 22:23:00 GMT",
+          "description": "VHYL betaalde op 30 september $0,5191 per participatie. De kwartaaluitkering schommelt en het rendement in euro hangt ook af van de dollar en van de waardering van 2.364 onderliggende aandelen."
+        },
+        {
+          "title": "Uitkering aan groeiende groep schuldeisers Jongerius aangekondigd",
+          "source": "Biojournaal",
+          "url": "https://www.biojournaal.nl/article/9878244/uitkering-aan-groeiende-groep-schuldeisers-jongerius-aangekondigd/",
+          "publishedDate": "Wed, 30 Sep 2026 05:31:00 GMT",
+          "description": "Er komt een tussentijdse uitkering aan schuldeisers in het faillissement van Plantenkwekerij Jongerius en de daaraan gelieerde vastgoedtak. Inmiddels is duidelijk dat naast ..."
+        },
+        {
+          "title": "abrdn Asia-Pacific Income Fund VCC verhoogt uitkering voor oktober 2026, betaalbaar op 30 oktober 2026",
+          "source": "MarketScreener",
+          "url": "https://nl.marketscreener.com/beursnieuws/abrdn-asia-pacific-income-fund-vcc-verhoogt-uitkering-voor-oktober-2026-betaalbaar-op-30-oktober-20-ce785ad3db8dfe20",
+          "publishedDate": "Tue, 29 Sep 2026 16:17:00 GMT",
+          "description": "abrdn Asia-Pacific Income Fund VCC heeft bekendgemaakt dat de raad van bestuur heeft ingestemd met een verhoging van 12,5% van de maandelijkse uitkering van de onderneming. De uitkering stijgt van CAD ..."
+        },
+        {
+          "title": "E&#233;n hogere uitkering zegt weinig over Vanguards dividend-ETF",
+          "source": "De Belegger",
+          "url": "https://www.debelegger.nl/post/e%C3%A9n-hogere-uitkering-zegt-weinig-over-vanguards-dividend-etf",
+          "publishedDate": "Tue, 29 Sep 2026 14:33:00 GMT",
+          "description": "De offici&#235;le septemberuitkering van VHYL steeg naar 0,5191 dollar per deelbewijs. Dat is bemoedigend, maar &#233;&#233;n kwartaal zegt weinig bij een wereldwijd fonds waarvan winst, valuta en sectorwegingen voo ..."
+        },
+        {
+          "title": "Deep Value Driller AS stelt uitkering van buitengewoon dividend voor",
+          "source": "MarketScreener",
+          "url": "https://nl.marketscreener.com/beursnieuws/deep-value-driller-as-stelt-uitkering-van-buitengewoon-dividend-voor-ce785ad9dd8bf225",
+          "publishedDate": "Wed, 23 Sep 2026 04:51:00 GMT",
+          "description": "Deep Value Driller AS stelt voor dat de BAVA de uitkering goedkeurt van een buitengewoon dividend van NOK 20,60 per aandeel, in totaal circa NOK 1,926 miljard, aan de aandeelhouders van ..."
+        },
+        {
+          "title": "Prinsjesdag beschermt je WIA-uitkering, maar over je ziekengeld is nog niets besloten",
+          "source": "Welingelichte Kringen",
+          "url": "https://www.welingelichtekringen.nl/samenleving/prinsjesdag-beschermt-je-wia-uitkering-maar-over-je-ziekengeld-is-nog-niets-besloten",
+          "publishedDate": "Tue, 15 Sep 2026 23:24:00 GMT",
+          "description": "De Prinsjesdagbegroting beschermt je WIA-uitkering: de geplande verlaging van het maximumdagloon met 20 procent gaat definitief niet door. Maar over de vraag hoelang je werkgever je loon bij ziekte mo ..."
+        }
+      ]
+    },
+    {
+      "keyword": "meemetoranje",
+      "trafficLabel": "10K+",
+      "articles": []
+    },
+    {
+      "keyword": "vliegtuig",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Piloot Flydubai-vliegtuig 'een held', maar veel nog onduidelijk: dit weten we nu",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/buitenland/artikel/5656497/wat-er-gebeurd-aan-boord-van-vlucht-flydubai-naar-tel-aviv-dit",
+          "publishedDate": "Wed, 30 Sep 2026 18:39:00 GMT",
+          "description": "Er komen steeds meer verklaringen van passagiers van het Flydubai-toestel naar buiten. &quot;Ik verdien het niet om zo te sterven&quot;, zei een 16-jarige aan boord van vlucht FZ1073. Anderen zeggen dat ze gesc ..."
+        },
+        {
+          "title": "‘We hebben hem uit de cockpit gehaald’: zo overmeesterden passagiers copiloot die vliegtuig wilde laten crashen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/we-hebben-hem-uit-de-cockpit-gehaald-zo-overmeesterden-passagiers-copiloot-die-vliegtuig-wilde-laten-crashen~a95e44bf/",
+          "publishedDate": "Wed, 30 Sep 2026 16:07:00 GMT",
+          "description": "Passagiers van Flydubai-vlucht FX1073 stonden doodsangsten uit toen hun toestel in 30 seconden een duikvlucht maakte van meer dan 4 kilometer. Volgens ooggetuigen stak de copiloot zijn collega neer, m ..."
+        },
+        {
+          "title": "Isra&#235;l ziet poging tot aanslag: 'Piloot probeerde vliegtuig te crashen'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6411541/israel-ziet-poging-tot-aanslag-piloot-probeerde-vliegtuig-te-crashen.html",
+          "publishedDate": "Wed, 30 Sep 2026 10:25:00 GMT",
+          "description": "De Isra&#235;lische premier Benjamin Netanyahu heeft woensdagmiddag gereageerd op het steekincident op een vlucht richting Isra&#235;l. De piloot die zijn collega neerstak probeerde &quot;het vliegtuig te crashen&quot;."
+        },
+        {
+          "title": "Vliegtuig naar Isra&#235;l maakt noodlanding in Saoedi-Arabi&#235;: copiloot wilde toestel laten crashen, zegt Netanyahu",
           "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/mensen/veelzijdig-verzamelaar-van-observaties-over-gedrag-en-taal-paulien-cornelisse-op-50-jarige-leeftijd-overleden~b7ee506f/",
-          "publishedDate": "Wed, 30 Sep 2026 10:02:00 GMT",
-          "description": "Woensdagmiddag is columnist, schrijver, cabaretier en televisiemaker Paulien Cornelisse overleden. In 2024 bracht ze zelf naar buiten dat ze ziek was. Erover schrijven wilde ze niet, want: ‘Je mag bes ..."
+          "url": "https://www.volkskrant.nl/buitenland/vliegtuig-naar-israel-maakt-noodlanding-in-saoedi-arabie-copiloot-wilde-toestel-laten-crashen-zegt-netanyahu~b06cb015/",
+          "publishedDate": "Wed, 30 Sep 2026 09:30:00 GMT",
+          "description": "Een vliegtuig van Flydubai dat van Dubai naar Tel Aviv onderweg was, heeft een noodlanding gemaakt in Saoedi-Arabi&#235;. Volgens de Isra&#235;lische premier Netanyahu probeerde de copiloot het toestel te laten ..."
+        },
+        {
+          "title": "Wat zeggen ooggetuigen over het incident met het vliegtuig? ‘Twee andere piloten die meevlogen maakten noodlanding’",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/09/30/wat-zeggen-ooggetuigen-over-het-incident-met-het-vliegtuig-twee-andere-piloten-die-meevlogen-maakten-noodlanding-a4937900",
+          "publishedDate": "Wed, 30 Sep 2026 07:55:00 GMT",
+          "description": "„Ongeveer een uur of twee voor de landing hoorden we plotseling geschreeuw vanuit het vliegtuig”, vertelt Miriam Shira Ohayon aan een Isra&#235;lische televisiezender. Ze zat dinsdag aan boord van vlucht F ..."
+        },
+        {
+          "title": "Piloot in burger landde flydubai-vliegtuig na duikvlucht en steekpartij in cockpit",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6411506/piloot-in-burger-landde-flydubai-vliegtuig-na-duikvlucht-en-steekpartij-in-cockpit.html",
+          "publishedDate": "Wed, 30 Sep 2026 06:32:00 GMT",
+          "description": "De vlucht van Flydubai van Dubai naar Tel Aviv is woensdag geland met behulp van piloten in burger, schrijven Isra&#235;lische media. Zij waren in het vliegtuig vanwege een routineoefening, maar grepen in ..."
+        },
+        {
+          "title": "Nog veel onduidelijk over vliegtuig op weg naar Isra&#235;l dat noodlanding maakte, Isra&#235;lische ministers spreken van terrorisme",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/09/30/nog-veel-onduidelijk-over-vliegtuig-op-weg-naar-israel-dat-noodlanding-maakte-israelische-ministers-spreken-van-terrorisme-a4937898",
+          "publishedDate": "Wed, 30 Sep 2026 05:24:00 GMT",
+          "description": "De Isra&#235;lische autoriteiten houden in hun onderzoek naar de noodlanding van het vliegtuig rekening met de mogelijkheid van een terroristische daad. Dat zeggen twee anonieme defensiefunctionarissen teg ..."
+        },
+        {
+          "title": "Vliegtuig richting Isra&#235;l maakt noodlanding: 'Piloot wilde toestel laten neerstorten'",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/buitenland/artikel/5656307/steekincident-cockpit-passagiersvlucht-noodlanding-saoedi-arabie",
+          "publishedDate": "Wed, 30 Sep 2026 01:26:00 GMT",
+          "description": "Op een passagiersvlucht van Dubai naar Tel Aviv zou een piloot zijn gestoken, bij een ruzie tussen de twee piloten in de cockpit. Het vliegtuig stuurde een noodsignaal uit en maakte een noodlanding in ..."
+        },
+        {
+          "title": "Vliegtuig op weg naar Isra&#235;l maakt duikvlucht na gevecht in cockpit",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2633097-vliegtuig-op-weg-naar-israel-maakt-duikvlucht-na-gevecht-in-cockpit",
+          "publishedDate": "Wed, 30 Sep 2026 00:25:00 GMT",
+          "description": "De piloten van het toestel gingen volgens meerdere media met elkaar op de vuist. Een van hen zou het toestel willen laten neerstorten."
+        },
+        {
+          "title": "Isra&#235;lische minister: terrorist wilde vliegtuig laten crashen",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Buitenland/isra%C3%ABlische-minister-terrorist-wilde-vliegtuig-laten-crashen/ar-AA2dhaV1",
+          "publishedDate": "Wed, 30 Sep 2026 07:17:00 GMT",
+          "description": "JERUZALEM (ANP) - De Isra&#235;lische minister van Nationale Veiligheid Itamar Ben-Gvir heeft op X geschreven dat een &quot;terrorist&quot; een vliegtuig met 180 Isra&#235;li&#235;rs aan boord wilde laten crashen. De extremis ..."
+        }
+      ]
+    },
+    {
+      "keyword": "arjen lubach paulien cornelisse",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Arjen Lubach opent show ongemakkelijk na dood Paulien Cornelisse: ‘Dat had zij heel grappig gevonden’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/arjen-lubach-opent-show-ongemakkelijk-na-dood-paulien-cornelisse-dat-had-zij-heel-grappig-gevonden~a4963f78/",
+          "publishedDate": "Wed, 30 Sep 2026 21:36:00 GMT",
+          "description": "Arjen Lubach (46) heeft zijn goede vriendin Paulien Cornelisse ge&#235;erd met een monoloog aan het begin van zijn RTL-programma Lubach. Hij hoorde slechts een uur voor de opnames dat ‘een van de grappigst ..."
+        },
+        {
+          "title": "Claudia de Breij annuleert show om overlijden Paulien Cornelisse: 'Trek het niet'",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/claudia-de-breij-annuleert-show-overlijden-paulien-cornelisse",
+          "publishedDate": "Thu, 01 Oct 2026 05:02:00 GMT",
+          "description": "Claudia de Breij annuleert haar show in Den Bosch na het overlijden van vriendin Paulien Cornelisse. Ze kan het naar eigen zeggen niet aan."
+        },
+        {
+          "title": "Emotionele televisieavond door overlijden Paulien Cornelisse",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/televisie/emotionele-televisieavond-door-overlijden-paulien-cornelisse",
+          "publishedDate": "Thu, 01 Oct 2026 03:37:00 GMT",
+          "description": "Paulien Cornelisse overleed woensdag aan de gevolgen van kanker. Ze was bij haar collega's enorm geliefd en dus zorgde haar vrij plotselinge overlijden voor een emotionele televisieavond."
+        },
+        {
+          "title": "Arjen Lubach emotioneel om overlijden Paulien Cornelisse: 'Zij was niet alleen vriendin van de show...'",
+          "source": "vandaaginside",
+          "url": "https://www.vandaaginside.nl/media/bners/artikelen/arjen-lubach-emotioneel-om-overlijden-paulien-cornelisse-zij-was-niet-allee",
+          "publishedDate": "Thu, 01 Oct 2026 02:10:00 GMT",
+          "description": "Arjen Lubach heeft woensdag op emotionele wijze zijn comedyprogramma LUBACH geopend. Aan het begin van de uitzending stond hij kort stil bij het overlijden van &quot;vriendin van de show&quot; Paulien Corneliss ..."
+        },
+        {
+          "title": "Arjen Lubach deelt emotioneel eerbetoon aan overleden vriendin Paulien Cornelisse: 'Een van de grappigste mensen die ik ooit heb gekend'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/media/fragment-gemist/arjen-lubach-eerbetoon-paulien-cornelisse/",
+          "publishedDate": "Thu, 01 Oct 2026 00:28:00 GMT",
+          "description": "Het liefst had Arjen nog jarenlang met Paulien samengewerkt. Hij keek ernaar uit haar telkens opnieuw aan tafel te mogen verwelkomen. “Ik had haar met zoveel liefde en plezier nog duizend keer te gast ..."
+        },
+        {
+          "title": "Arjen Lubach emotioneel tijdens show om overleden vriendin Paulien Cornelisse",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/arjen-lubach-emotioneel-tijdens-show-om-overleden-vriendin-paulien-cornelis",
+          "publishedDate": "Thu, 01 Oct 2026 00:25:00 GMT",
+          "description": "Arjen Lubach herdenkt emotioneel Paulien Cornelisse in zijn comedyprogramma LUBACH. Ontdek zijn eerbetoon aan deze geliefde vriendin van de show en haar invloed op de humor."
         },
         {
           "title": "Arjen Lubach emotioneel na overlijden Paulien Cornelisse: ‘We gaan je missen’",
@@ -55,6 +521,13 @@
           "description": "Arjen Lubach bracht een emotioneel eerbetoon aan Paulien Cornelisse, van wie het overlijden kort daarvoor bekend werd gemaakt."
         },
         {
+          "title": "Paulien Cornelisse is rest van seizoen nog te zien in De slimste mens, morgen dubbele uitzending",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/paulien-cornelisse-is-rest-van-seizoen-nog-te-zien-in-de-slimste-mens-morgen-dubbele-uitzending~a7411be5/",
+          "publishedDate": "Wed, 30 Sep 2026 21:35:00 GMT",
+          "description": "Paulien Cornelisse is nog de rest van het huidige seizoen van De slimste mens te zien als juryvoorzitter. De opnames vonden eerder al plaats en in overleg met haar familie wordt de reeks gewoon uitgez ..."
+        },
+        {
           "title": "Eva Jinek breekt in uitzending over overlijden Paulien Cornelisse: 'Heel verdrietig nieuws'",
           "source": "LINDA.nl",
           "url": "https://www.linda.nl/media/fragment-gemist/eva-jinek-breekt-in-uitzending-over-overlijden-paulien-cornelisse/",
@@ -62,404 +535,87 @@
           "description": "In de uitzending staat het leven en werk van Cornelisse centraal. Vrienden en collega’s halen herinneringen aan haar op, er worden fragmenten uit haar werk gedeeld en er klinken veel mooie woorden voo ..."
         },
         {
-          "title": "Eva Jinek breekt in uitzending tijdens eerbetoon aan Paulien Cornelisse",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/show/eva-jinek-breekt-in-uitzending-tijdens-eerbetoon-aan-paulien-cornelisse~ab9b9824/",
-          "publishedDate": "Wed, 30 Sep 2026 15:42:00 GMT",
-          "description": "Eva Jinek heeft woensdag op emotionele wijze stilgestaan bij &lt;a href=&quot;https://www.ad.nl/show/schrijfster-en-cabaretiere-paulien-cornelisse-50-overleden~a9e9689d/&quot; target=&quot;_blank&quot;&gt;het overlijden van Pa ..."
-        },
-        {
-          "title": "Verslagen reacties op overlijden Paulien Cornelisse, Herman van der Zandt 'ongelofelijk verdrietig'",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/media/verdrietig/verslagen-reacties-op-overlijden-paulien-cornelisse/",
-          "publishedDate": "Wed, 30 Sep 2026 13:00:00 GMT",
-          "description": "Overal wordt met verslagenheid gereageerd op het overlijden van Paulien Cornelisse. Herman van der Zandt, presentator van De slimste mens, is ‘ongelofelijk verdrietig’, zo laat hij weten in een ..."
+          "title": "Arjen Lubach herdenkt 'vriendin van de show' Paulien Cornelisse",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/arjen-lubach-herdenkt-vriendin-van-de-show-paulien-cornelisse",
+          "publishedDate": "Wed, 30 Sep 2026 16:48:00 GMT",
+          "description": "Arjen Lubach heeft woensdag op emotionele wijze zijn comedyprogramma LUBACH geopend. Aan het begin van de uitzending stond hij kort stil bij het overlijden van &quot;vriendin van de show&quot; Paulien Corneliss ..."
         }
       ]
     },
     {
       "keyword": "zorgfraude",
       "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "antoinette de jong",
-      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Goud voor Antoinette Rijpma-de Jong is een beloning voor nooit opgeven",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/sport/goud-voor-antoinette-rijpma-de-jong-is-een-beloning-voor-nooit-opgeven~b813605e/",
-          "publishedDate": "Fri, 20 Feb 2026 10:37:00 GMT",
-          "description": "Antoinette Rijpma-de Jong won op haar vierde Spelen eindelijk een keer goud. Het was telkens net-niet, maar in Milaan eindelijk raak. Antoinette-Rijpma de Jong kan het niet geloven. Maar het is echt ..."
+          "title": "Directeur huisartsenketen Co-Med verdacht van fraude",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/09/30/directeur-huisartsenketen-co-med-verdacht-van-fraude-a4937890",
+          "publishedDate": "Wed, 30 Sep 2026 10:17:00 GMT",
+          "description": "Witteboordencriminaliteit: De oud-directeur van het inmiddels failliete Co-Med wordt vervolgd voor valsheid in geschrifte. Die zaak staat los van het strafrechtelijk onderzoek naar zorgfraude bij de h ..."
         },
         {
-          "title": "Antoinette Rijpma-de Jong verrast met goud op 1.500 meter: ‘Als je een droom hebt, blijf er dan voor gaan’",
-          "source": "Volkskrant",
-          "url": "https://www.volkskrant.nl/sport/antoinette-rijpma-de-jong-verrast-met-goud-op-1-500-meter-als-je-een-droom-hebt-blijf-er-dan-voor-gaan~be33bcca/",
-          "publishedDate": "Fri, 20 Feb 2026 10:10:00 GMT",
-          "description": "Tijdens haar vierde Winterspelen vond Antoinette Rijpma-de Jong op de 1.500 meter de ideale mix van sprinten en uithoudingsvermogen. ‘Ik ben altijd blijven vechten. En uiteindelijk leidt dat tot een ..."
-        },
-        {
-          "title": "Van pesten naar olympisch goud: Antoinette Rijpma-de Jong vertelt haar verhaal in Her Drive",
-          "source": "WOMANLY on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/van-pesten-naar-olympisch-goud-antoinette-rijpma-de-jong-vertelt-haar-verhaal-in-her-drive/ar-AA2dgQmI",
-          "publishedDate": "Wed, 30 Sep 2026 06:18:00 GMT",
-          "description": "In de nieuwe videoserie Her Drive van Porsche vertellen vier Nederlandse topsportvrouwen hoe ze de top hebben bereikt."
-        },
-        {
-          "title": "Emotionele topschaatsster Antoinette Rijpma-de Jong (31) openhartig over kinderwens en overleden opa",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/schaatsen/nieuws/emotionele-topschaatsster-antoinette-rijpma-de-jong-31-openhartig-over-kinderwens-en-overleden-opa-2026093008471168256/",
-          "publishedDate": "Wed, 30 Sep 2026 04:19:00 GMT",
-          "description": "Het leven van topschaatsster Antoinette Rijpma-de Jong kent pieken en dalen. Als kind werd ze gepest vanwege haar rode haar, maar dat gaf haar ook een enorme drive om alles uit het leven te halen en o ..."
-        },
-        {
-          "title": "Olympisch schaatskampioene Rijpma-de Jong wil via de baan &#243;&#243;k zomergoud: &quot;Onwijs gaaf als ik de eerste vrouw word die dat lukt&quot;",
-          "source": "WielerFlits on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/other/olympisch-schaatskampioene-rijpma-de-jong-wil-via-de-baan-%C3%B3%C3%B3k-zomergoud-onwijs-gaaf-als-ik-de-eerste-vrouw-word-die-dat-lukt/ar-AA2dgaQX",
-          "publishedDate": "Wed, 30 Sep 2026 01:57:17 GMT",
-          "description": "Antoinette Rijpma-de Jong wil in 2028 als baanwielrenster naar de Olympische Zomerspelen van Los Angeles. En niet alleen om deel te nemen. &quot;Het is voor mij een droom om olympisch kampioen te worden op ..."
-        },
-        {
-          "title": "Topschaatsster Antoinette Rijpma-de Jong wordt gek van haar sportieve man: 'We gaan weer wat nieuws verzinnen'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/boulevard/nieuws/topschaatsster-antoinette-rijpma-de-jong-wordt-gek-van-haar-sportieve-man-we-gaan-weer-wat-nieuws-verzinnen-2026092505484321059/",
-          "publishedDate": "Fri, 25 Sep 2026 01:07:00 GMT",
-          "description": "Coen Rijpma is nog lang niet klaar met zijn uitdagingen op de fiets. De man van topschaatsster Antoinette Rijpma-de Jong maakt de balans op na een waanzinnig wielerjaar, en de cijfers zijn ..."
-        },
-        {
-          "title": "Schaatsster Antoinette de Jong beleeft wel h&#233;&#233;l bijzondere momenten met haar hengsten: &quot;Wanneer ik het moeilijk had..&quot;",
-          "source": "Mannenzaken",
-          "url": "https://mannenzaken.nl/nieuws/schaatsster-antoinette-de-jong-beleeft-wel-heel-bijzondere-momenten-met-haar-hengsten-wanneer-ik-het-moeilijk-had",
-          "publishedDate": "Fri, 18 Sep 2026 03:00:00 GMT",
-          "description": "Antoinette Rijpma-de Jong kennen we vooral als de vrouw die op hoge snelheid over het ijs vliegt, grote prijzen pakt en vrijwel altijd volledig gefocust aan de start verschijnt. Buiten de schaatsbaan."
-        },
-        {
-          "title": "Antoinette Rijpma-de Jong verrast met olympisch goud op 1.500 meter",
-          "source": "NU",
-          "url": "https://www.nu.nl/olympische-spelen/6386853/antoinette-rijpma-de-jong-verrast-met-olympisch-goud-op-1500-meter.html",
-          "publishedDate": "Fri, 20 Feb 2026 09:51:00 GMT",
-          "description": "Antoinette Rijpma-de Jong heeft vrijdag voor een daverende verrassing gezorgd op de Olympische Spelen in Milaan. De Friezin won het goud op de 1.500 meter en volgde daarmee schaatslegende Ireen W&#252;st ..."
-        },
-        {
-          "title": "Zorgden Antoinette Rijpma-de Jong en Ymkje Clevering voor oneerlijke strijd bij NK wielrennen?",
-          "source": "DVHN",
-          "url": "https://dvhn.nl/sport/Zorgden-Antoinette-Rijpma-de-Jong-en-Ymkje-Clevering-voor-oneerlijke-strijd-bij-NK-wielrennen-46753585.html",
-          "publishedDate": "Wed, 02 Jul 2025 05:25:00 GMT",
-          "description": "Sindsdien is de deelname van profatleten uit andere sporten binnen de wielerwereld onderwerp van gesprek. De een ziet vooral de positieve kanten van dergelijke kruisbestuiving, zoals de media-aandacht ..."
-        },
-        {
-          "title": "Antoinette de Jong prolongeert EK-titel",
-          "source": "telegraaf.nl",
-          "url": "https://www.telegraaf.nl/sport/schaatsen/antoinette-de-jong-prolongeert-ek-titel/64391724.html",
-          "publishedDate": "Sun, 17 Jan 2021 05:48:00 GMT",
-          "description": "De Jong reed met 6.57,72 de derde tijd. Dat was ruim voldoende om Schouten, tweede in 6.55,38, in het klassement onder zich te houden. De 28-jarige EK-debutante hield wel de tweede plaats vast in de ..."
-        }
-      ]
-    },
-    {
-      "keyword": "de bondgenoten",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Ian verlaat 'De Bondgenoten' voortijdig na overlijden broer van zijn vriendin: 'Ik wist dat ik naar huis moest'",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/cultuur-media/interview/ian-de-bondgenoten/",
-          "publishedDate": "Thu, 01 Oct 2026 01:00:00 GMT",
-          "description": "Het Bondgenoten-avontuur van Ian zit erop. Anderhalve maand geleden kwam hij het programma in, maar hij heeft het voortijdig verlaten omdat zijn vriendin hem vroeg naar huis te komen. Hoe dat zit en h ..."
-        },
-        {
-          "title": "Milan (23) wint een ton in De Bondgenoten, maar zijn moeder belde bezorgd de productie: ‘Herkende hem nauwelijks’",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/westervoort/milan-23-wint-een-ton-in-de-bondgenoten-maar-zijn-moeder-belde-bezorgd-de-productie-herkende-hem-nauwelijks~a61de718/",
-          "publishedDate": "Wed, 30 Sep 2026 17:00:00 GMT",
-          "description": "Als vaste kijker kende Milan Blom (23) de loods, de bewoners en het spel van De Bondgenoten van binnen en van buiten. Toch voelde het op 9 juni vreemd toen de Westervoorter er zelf naar binnen liep. „ ..."
-        },
-        {
-          "title": "Leugenaar krijgt de volle laag in De Bondgenoten",
-          "source": "LoveReality",
-          "url": "https://lovereality.nl/leugenaar-krijgt-de-volle-laag-in-de-bondgenoten/",
-          "publishedDate": "Wed, 30 Sep 2026 11:29:00 GMT",
-          "description": "Al is ze amper binnen, Hanna lijkt haar langste tijd wel te hebben gehad in de loods. Is ze binnen haar bondje allerminst geliefd, het gaat nu ook helemaal mis met de rest van de groep. Delano is dege ..."
-        },
-        {
-          "title": "De TV van gisteren: De Bondgenoten-kijkers zien Ian na dagen vol twijfel dan toch vertrekken",
-          "source": "TVgids.nl",
-          "url": "https://www.tvgids.nl/nieuws/gemist/de-tv-van-gisteren-de-bondgenoten-kijkers-ian-vertrekt-toch-sbs",
-          "publishedDate": "Wed, 30 Sep 2026 01:50:00 GMT",
-          "description": "De Bondgenoten moet het vanaf nu officieel stellen zonder Ian. De deelnemer besloot dinsdag na lang wikken en wegen dan toch voor zijn vriendin te kiezen."
-        },
-        {
-          "title": "'We pakken ze!': Jasmijn komt in het vizier van de bondgenoten",
-          "source": "tvvisie",
-          "url": "https://tvvisie.nl/inhoud/belgie/we-pakken-ze-jasmijn-komt-in-het-vizier-van-de-bondgenoten_142600/",
-          "publishedDate": "Tue, 29 Sep 2026 17:00:00 GMT",
-          "description": "In het holst van de nacht staan Danira, Tom en Noah letterlijk onder het zwaard van de Verraders. De verraders staan voor de keuze: vermoorden of verleiden. Maar de slachtoffers zijn niet machteloos e ..."
-        },
-        {
-          "title": "De Bondgenoten-Ian emotioneel: 'Ik vertrek, ik moet...'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/tv/reality/artikelen/de-bondgenoten-ian-verlaat-de-loods",
-          "publishedDate": "Mon, 28 Sep 2026 10:08:00 GMT",
-          "description": "Ian uit De Bondgenoten verlaat de loods, zijn vriendin wilt hem thuis hebben en stopt dus midden in de cyclus."
-        },
-        {
-          "title": "Ian krijgt steun uit onverwachte hoek na uitbarsting in De Bondgenoten",
-          "source": "LoveReality",
-          "url": "https://lovereality.nl/ian-krijgt-steun-uit-onverwachte-hoek-na-uitbarsting-in-de-bondgenoten/",
-          "publishedDate": "Mon, 28 Sep 2026 00:29:00 GMT",
-          "description": "Ian heeft het zwaar in De Bondgenoten. Hij heeft lang gewacht op deze kans en nu dreigt zijn droom uit elkaar te vallen. Zijn vriendin wil namelijk dat hij naar huis komt. Toch krijgt Ian nu steun uit ..."
-        },
-        {
-          "title": "Ian explodeert en kijkers gaan los na noodkreet van vriendin in De Bondgenoten",
-          "source": "TVgids.nl",
-          "url": "https://www.tvgids.nl/nieuws/reality/ian-vriendin-gaby-de-bondgenoten-exit",
-          "publishedDate": "Sun, 27 Sep 2026 04:39:00 GMT",
-          "description": "Anouk en Diederik zijn al even uit de loods, maar de drama duurt voort in De Bondgenoten. Dit keer draait het om Ian, die in de aflevering van zaterdagavond ontplofte na een telefoontje met zijn vrien ..."
-        },
-        {
-          "title": "Maakt VI eenmalig plaats voor De Bondgenoten op Televizier-avond?",
-          "source": "Mediacourant",
-          "url": "https://www.mediacourant.nl/2026/09/maakt-vi-eenmalig-plaats-voor-de-bondgenoten-op-televizier-avond/",
-          "publishedDate": "Fri, 25 Sep 2026 08:30:00 GMT",
-          "description": "De Bondgenoten maakt kans op de Gouden Televizier-Ring, maar krijgt op de grote avond g&#233;&#233;n extra zendtijd van SBS 6. Tina Nijkamp opperde een speciale uitzending ten koste van Vandaag Inside, maar Tal ..."
-        },
-        {
-          "title": "Roxy en Casper uit 'De Bondgenoten' zoenend gespot, kort na haar breuk met Robert",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/entertainment/meen-je-niet/roxy-casper-de-bondgenoten-zoenend-gespot/",
-          "publishedDate": "Thu, 24 Sep 2026 10:00:00 GMT",
-          "description": "Roxy en Robert zijn nog maar net uit elkaar, of Roxy is alweer gespot met iemand anders uit De Bondgenoten. En dat is niet zomaar iemand: het gaat om Casper. De twee staan zoenend op de Instagram ..."
-        }
-      ]
-    },
-    {
-      "keyword": "argentinië - bolivia",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Argentini&#235; wint zonder Lionel Messi eerste wedstrijd na verloren WK-finale overtuigend van Bolivia",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/argentinie-wint-zonder-lionel-messi-eerste-wedstrijd-na-verloren-wk-finale-overtuigend-van-bolivia~a22b1ba0/",
-          "publishedDate": "Wed, 30 Sep 2026 17:14:00 GMT",
-          "description": "Het Argentijnse elftal heeft zijn eerste interland na de verloren WK-finale tegen Spanje met overtuigende cijfers gewonnen. Het team won in C&#243;rdoba met 4-0 van Bolivia in een vriendschappelijk duel."
-        },
-        {
-          "title": "Argentini&#235; reageert met 4-0-zege: Nico Paz drukt zijn stempel",
-          "source": "voetbalfocus",
-          "url": "https://voetbalfocus.be/argentinie-bolivia-4-0-nico-paz/",
-          "publishedDate": "Thu, 01 Oct 2026 00:51:00 GMT",
-          "description": "Argentini&#235; heeft Bolivia in C&#243;rdoba met duidelijke 4-0-cijfers geklopt in zijn eerste wedstrijd sinds de verloren WK-finale van afgelopen zomer. Lionel Messi ontbrak, maar Nico Paz greep zijn kans met ..."
-        },
-        {
-          "title": "Argentini&#235; boekt ruime zege zonder Lionel Messi, hoofdrol voor Nico Paz",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/argentini%C3%AB-boekt-ruime-zege-zonder-lionel-messi-hoofdrol-voor-nico-paz/ar-AA2dkpAg",
-          "publishedDate": "Wed, 30 Sep 2026 22:49:05 GMT",
-          "description": "Argentini&#235; heeft in de nacht van woensdag op donderdag een oefenwedstrijd tegen Bolivia met 4-0 gewonnen. De Argentijnen moesten het stellen zonder Lionel Messi, die zich opmaakt voor zijn laatste int ..."
-        },
-        {
-          "title": "Argentini&#235; bereidt zich voor op afscheid Messi met simpele zege op Bolivia",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/argentinie-bereidt-zich-voor-op-afscheid-messi-met-simpele-zege-op-bolivia",
-          "publishedDate": "Wed, 30 Sep 2026 22:29:00 GMT",
-          "description": "Argentini&#235; heeft de eerste wedstrijd sinds de verloren WK-finale tegen Spanje winnend afgesloten. Zonder Lionel Messi won de ploeg van Lionel Scaloni dik van Bolivia."
-        },
-        {
-          "title": "Geen Messi, geen probleem: Argentini&#235; opent nieuw tijdperk met 4-0 tegen Bolivia",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/2026/10/01/geen-messi-geen-probleem-argentinie-opent-nieuw-tijdperk-met-4-0-tegen-bolivia~1790830364772/",
-          "publishedDate": "Wed, 30 Sep 2026 22:01:00 GMT",
-          "description": "Vicewereldkampioen Argentini&#235; heeft zijn eerste interland sinds de verloren WK-finale tegen Spanje probleemloos gewonnen. Zonder Lionel Messi, die vorige maand zijn afscheid bij de nationale ploeg aan ..."
-        },
-        {
-          "title": "Argentini&#235; wint eerste duel na verloren WK-finale overtuigend, Paz staat op",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/argentini%C3%AB-wint-eerste-duel-na-verloren-wk-finale-overtuigend-paz-staat-op/ar-AA2djZEx",
-          "publishedDate": "Wed, 30 Sep 2026 21:56:37 GMT",
-          "description": "Argentini&#235; heeft in de nacht van woensdag op donderdag met 4-0 van Bolivia gewonnen. Dat deed het Zuid-Amerikaanse land voor het eerst na het WK zonder Lionel Messi, die over vijf dagen definitief afs ..."
-        },
-        {
-          "title": "Rugnummer 10 gaat de kast in bij Argentini&#235; tot aan afscheidsduel Messi",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/rugnummer-10-gaat-de-kast-in-bij-argentini%C3%AB-tot-aan-afscheidsduel-messi/ar-AA2dgR9V",
-          "publishedDate": "Wed, 30 Sep 2026 06:21:00 GMT",
-          "description": "Argentini&#235; speelt deze interlandperiode drie oefenwedstrijden, alleen in het laatste duel maakt Lionel Messi zijn opwachting. Voor het laatst gaat hij in het shirt van Argentini&#235; spelen, tot aan de oe ..."
-        },
-        {
-          "title": "Argentini&#235; plaatst zich zonder zelf te spelen voor het WK 2026",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/argentinie-plaatst-zich-zonder-zelf-te-spelen-voor-het-wk-2026/blt9eb508becd303750",
-          "publishedDate": "Tue, 25 Mar 2025 16:18:00 GMT",
-          "description": "Argentini&#235; heeft zich gekwalificeerd voor het WK 2026 in Canada, de Verenigde Staten en Mexico. Daarvoor hoefde de ploeg van bondscoach Lionel Scaloni niet eens actie te komen, want Bolivia morste op ..."
-        }
-      ]
-    },
-    {
-      "keyword": "veldhoven",
-      "trafficLabel": "2K+",
-      "articles": [
-        {
-          "title": "Werelddierendag bij kinderboerderij De Hazewinkel in Veldhoven met activiteiten voor kinderen",
-          "source": "ED.nl",
-          "url": "https://www.ed.nl/veldhoven/werelddierendag-bij-kinderboerderij-de-hazewinkel-in-veldhoven-met-activiteiten-voor-kinderen~a3b85826/",
-          "publishedDate": "Thu, 01 Oct 2026 01:09:00 GMT",
-          "description": "Kinderboerderij De Hazewinkel in Veldhoven houdt een dag met activiteiten voor Werelddierendag. Zondag 4 oktober is de kinderboerderij extra lang open, van 09.30 tot 16.30 uur, en de toegang is gratis ..."
-        },
-        {
-          "title": "Feest voor 109 inwoners van Veldhoven, maar er zijn dagen met n&#243;g meer jarigen dan op 30 september",
-          "source": "ED.nl",
-          "url": "https://www.ed.nl/veldhoven/feest-voor-109-inwoners-van-veldhoven-maar-er-zijn-dagen-met-nog-meer-jarigen-dan-op-30-september~a7502c48/",
-          "publishedDate": "Wed, 30 Sep 2026 01:29:00 GMT",
-          "description": "Nederland wordt steeds ouder, en nergens in het jaar merk je dat beter dan op 30 september. Op deze dag mogen meer dan 44.000 mensen, onder wie 109 inwoners van Veldhoven, cadeautjes uitpakken en kaar ..."
-        },
-        {
-          "title": "Onderwijsprofessionals kiezen voor De Dynamische Schooldag",
-          "source": "veldhovensweekblad",
-          "url": "https://www.veldhovensweekblad.nl/scholen/scholen/66177/onderwijsprofessionals-kiezen-voor-de-dynamische-schooldag",
-          "publishedDate": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "description": "Hoe ervoor te zorgen dat bewegen een vanzelfsprekend onderdeel wordt van de schooldag? Die vraag staat centraal tijdens het kennis- en netwerkevent De Dynamische Schooldag, afgelopen woensdag 23.."
-        },
-        {
-          "title": "City Sport Veldhoven houdt eerste Buddy Battle met zwemestafette voor tweetallen",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/eindhoven/city-sport-veldhoven-houdt-eerste-buddy-battle-met-zwemestafette-voor-tweetallen~a7434311/",
-          "publishedDate": "Wed, 30 Sep 2026 00:29:00 GMT",
-          "description": "City Sport Veldhoven houdt voor het eerst de Buddy Battle, een zwemuitdaging voor tweetallen. Zondag 25 oktober starten de deelnemers om 13.30 uur met een estafette over samen 4.000 meter."
-        },
-        {
-          "title": "Bezorgwagen uitgebrand in Veldhoven, ramen van naastgelegen huis gesprongen in Veldhoven",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6029133/bezorgwagen-uitgebrand-in-veldhoven-ramen-van-naastgelegen-huis-gesprongen",
-          "publishedDate": "Tue, 29 Sep 2026 14:19:00 GMT",
-          "description": "Een bestelbus die wordt gebruikt voor het bezorgen van boodschappen is dinsdagavond uitgebrand aan de Rosep in Veldhoven. Door de brand vatte ook een ander voertuig vlam. Door de hitte sprongen de ram ..."
-        },
-        {
-          "title": "Van Veldhoven: uitstel deal Tata komt door intrekken vergunning",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/algemeen/van-veldhoven-uitstel-deal-tata-komt-door-intrekken-vergunning",
-          "publishedDate": "Fri, 25 Sep 2026 08:38:00 GMT",
-          "description": "DEN HAAG (ANP) - Het plan van de Omgevingsdienst Noordzeekanaalgebied om de vergunningen van de twee kooksgasfabrieken van Tata Steel in te trekken, is de belangrijkste reden dat het langer duurt om m ..."
-        },
-        {
-          "title": "Van Veldhoven onderzoekt extra cyberregels voor omvormers thuisbatterijen en zonnepanelen na weerbaarheidsrapport",
-          "source": "Solar Magazine",
-          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i44819/van-veldhoven-onderzoekt-extra-cyberregels-voor-omvormers-thuisbatterijen-en-zonnepanelen-na-weerbaarheidsrapport",
-          "publishedDate": "Thu, 17 Sep 2026 17:00:00 GMT",
-          "description": "Het kabinet onderschrijft de meeste aanbevelingen van Autonoom en Veilig en onderzoekt aanvullende cyberregels voor thuisbatterijen en zonnepanelen, maar zet de ontmanteling van de Groningse gasinfras ..."
-        },
-        {
-          "title": "Cold Case: De onbekende serieverkrachter van Veldhoven en De Kempen (12 slachtoffers)",
-          "source": "moordplekken",
-          "url": "https://www.moordplekken.nl/blog/cold-case-onbekende-serieverkrachter-veldhoven-de-kempen",
-          "publishedDate": "Thu, 17 Sep 2026 09:21:00 GMT",
-          "description": "Tussen 1989 en 2010 sloeg een onbekende serieverkrachter minimaal 12 keer toe in de regio Veldhoven. Wie is deze man met het Bata-schoenspoor?"
-        },
-        {
-          "title": "Tien gratis busritten voor inwoners van Veldhoven",
-          "source": "Veldhoven Nieuws",
-          "url": "https://veldhoven.nieuws.nl/nieuws/tien-gratis-busritten-voor-inwoners-van-veldhoven",
-          "publishedDate": "Fri, 11 Sep 2026 09:09:00 GMT",
-          "description": "Vervoerder Hermes geeft inwoners van Veldhoven een gratis 10-rittenkaart voor de bus. Met deze kaart kunnen inwoners tien keer gratis reizen met de bus in Zuidoost-Brabant."
-        },
-        {
-          "title": "Klimaatminister van Veldhoven waarschuwt voor hogere gasprijs: 'En er komt geen prijsgarantie vanuit de overheid'",
-          "source": "WNL",
-          "url": "https://wnl.tv/2026/09/06/klimaatminister-van-veldhoven-waarschuwt-voor-hogere-gasprijs-en-er-komt-geen-prijsgarantie",
-          "publishedDate": "Sun, 06 Sep 2026 05:45:00 GMT",
-          "description": "WNL plaatst Functionele cookies, om deze website naar behoren te laten functioneren en Analytische cookies waarmee wij het gebruik van de website kunnen meten. Deze cookies gebruiken geen persoonsgege ..."
-        }
-      ]
-    },
-    {
-      "keyword": "ronaldo",
-      "trafficLabel": "2K+",
-      "articles": []
-    },
-    {
-      "keyword": "tess lieder",
-      "trafficLabel": "2K+",
-      "articles": []
-    },
-    {
-      "keyword": "hypotheekrente stijgt",
-      "trafficLabel": "2K+",
-      "articles": []
-    },
-    {
-      "keyword": "toeslagenaffaire",
-      "trafficLabel": "2K+",
-      "articles": [
-        {
-          "title": "Kabinet wil dossiers van toeslagenouders toch opnieuw laten bekijken, eerst als proef",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/binnenland/kabinet-wil-dossiers-van-toeslagenouders-toch-opnieuw-laten-bekijken-eerst-als-proef~b04c44f5/",
-          "publishedDate": "Tue, 29 Sep 2026 15:00:00 GMT",
-          "description": "Het plan is nog met veel onzekerheid omgeven, maar het kabinet wil alsnog de dossiers van kinderen die in de toeslagenaffaire bij hun ouders zijn weggehaald, opnieuw laten beoordelen."
-        },
-        {
-          "title": "Op welke gronden zijn wij destijds uit huis geplaatst? Dat willen veel kinderen van toeslagengedupeerden nog steeds weten",
+          "title": "Oost-Nederland speerpunt in bestrijding zorgfraude: 71 miljoen euro aan criminele geldstromen onderzocht",
           "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/op-welke-gronden-zijn-wij-destijds-uit-huis-geplaatst-dat-willen-veel-kinderen-van-toeslagengedupeerden-nog-steeds-weten~bca98498c/",
-          "publishedDate": "Tue, 29 Sep 2026 11:47:00 GMT",
-          "description": "De destijds uithuisgeplaatste kinderen van toeslagengedupeerden willen dat hun jeugdbeschermingsdossiers onafhankelijk worden onderzocht. Dat vertelden ze dinsdag aan Tweede Kamerleden. ‘Waarom er wer ..."
+          "url": "https://www.volkskrant.nl/binnenland/oost-nederland-speerpunt-in-bestrijding-zorgfraude-71-miljoen-euro-aan-criminele-geldstromen-onderzocht~bc483ff6/",
+          "publishedDate": "Thu, 17 Sep 2026 12:00:00 GMT",
+          "description": "Er gaan tientallen miljoenen om in de verdachte geldstromen van zorgbedrijven in Oost-Nederland, blijkt uit een onderzoek van het Regionaal Informatie en Expertise Centrum (RIEC) in Gelderland en Over ..."
         },
         {
-          "title": "Gedupeerden toeslagenaffaire kunnen zich tot september 2027 melden bij Amstelveen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/amstelveen/gedupeerden-toeslagenaffaire-kunnen-zich-tot-september-2027-melden-bij-amstelveen~a5f72b53/",
-          "publishedDate": "Tue, 29 Sep 2026 00:55:00 GMT",
-          "description": "Gedupeerden van de kinderopvangtoeslagaffaire kunnen zich nog aanmelden bij de gemeente Amstelveen voor hulp en brede ondersteuning. Aanmelden kan tot 1 september 2027 bij het Steunpunt Kinderopvangto ..."
+          "title": "OM-medewerker aangehouden voor zorgfraude",
+          "source": "Skipr",
+          "url": "https://www.skipr.nl/nieuws/om-medewerker-aangehouden-voor-zorgfraude/",
+          "publishedDate": "Thu, 01 Oct 2026 04:24:00 GMT",
+          "description": "In een onderzoek naar zorgfraude is een administratief medewerker van het Openbaar Ministerie (OM) aangehouden, meldt het OM zelf."
         },
         {
-          "title": "Herstel toeslagenaffaire opnieuw vertraagd: Stichting SGH van Laurentien loopt vast",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/politiek/herstel-toeslagenaffaire-opnieuw-vertraagd-stichting-sgh-van-laurentien-loopt-vast~bccda8a2/",
-          "publishedDate": "Fri, 18 Sep 2026 09:01:00 GMT",
-          "description": "Staatssecretaris Sandra Palmen kondigt nieuwe maatregelen aan omdat de hersteloperatie van de toeslagenaffaire weer vertraging oploopt. De deadline van eind 2027 wordt zo niet gehaald."
+          "title": "Politieke onrust na aanhouding verdachte van zorgfraude: hoeveel aanbieders zijn er actief in Lingewaard?",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/lingewaard/politieke-onrust-na-aanhouding-verdachte-van-zorgfraude-hoeveel-aanbieders-zijn-er-actief-in-lingewaard~a36cbb0e/",
+          "publishedDate": "Thu, 01 Oct 2026 00:08:00 GMT",
+          "description": "De aanhouding van een 31-jarige zorgonderneemster in Huissen deze week roept vragen op over het toezicht op zorgaanbieders in Lingewaard. De partij Lokaal Sociaal wil weten of er Lingewaardse cli&#235;nten ..."
         },
         {
-          "title": "GRS neemt maatregelen na onderzoek naar betalingen binnen hulpteam toeslagen Drechtsteden",
-          "source": "merwertv.nl",
-          "url": "https://merwertv.nl/grs-neemt-maatregelen-na-onderzoek-naar-betalingen-binnen-hulpteam-toeslagen-drechtsteden/",
-          "publishedDate": "Wed, 30 Sep 2026 11:05:00 GMT",
-          "description": "REGIO – De Gemeenschappelijke Regeling Sociaal (GRS) heeft een onderzoek afgerond naar afwijkingen in financi&#235;le transacties binnen het hulpteam toeslagen Drechtsteden, dat inwoners ondersteunt die zi ..."
+          "title": "Medewerker OM opgepakt voor zorgfraude",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/medewerker-om-opgepakt-voor-zorgfraude",
+          "publishedDate": "Wed, 30 Sep 2026 08:39:00 GMT",
+          "description": "Een 31-jarige vrouw uit het Gelderse Huissen, die in het dagelijks leven voor het Openbaar Ministerie werkte, heeft mogelijk gesjoemeld in de zorg. Ze is opgepakt op verdenking van zorgfraude."
         },
         {
-          "title": "Miljoenenfraude bij team dat gedupeerden toeslagenaffaire helpt",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2261175/miljoenenfraude-bij-team-dat-gedupeerden-toeslagenaffaire-helpt",
-          "publishedDate": "Wed, 30 Sep 2026 08:56:00 GMT",
-          "description": "Een medewerker van de Gemeenschappelijke Regeling Sociaal (GR Sociaal) is op staande voet ontslagen. Dat is gedaan na de ontdekking van een mogelijke miljoenenfraude bij het team dat inwoners onderste ..."
+          "title": "Vrouw (31) die van haar bed werd gelicht om zorgfraude blijkt ook medewerker van Openbaar Ministerie",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/binnenland/vrouw-31-die-van-haar-bed-werd-gelicht-om-zorgfraude-blijkt-ook-medewerker-van-openbaar-ministerie~abf11454/",
+          "publishedDate": "Wed, 30 Sep 2026 04:03:00 GMT",
+          "description": "De 31-jarige vrouw uit Huissen &lt;a href=&quot;https://www.gelderlander.nl/lingewaard/vrouw-van-wie-voordeur-werd-ingeramd-door-politie-blijkt-directeur-zorgbedrijf~a58f5066/&quot; target=&quot;_blank&quot;&gt;die dinsdag in ..."
         },
         {
-          "title": "Op welke gronden zijn wij uit huis geplaatst? Dat willen veel kinderen van toeslagengedupeerden weten",
-          "source": "Nederlands Dagblad",
-          "url": "https://www.nd.nl/nieuws/nederland/1333094/op-welke-gronden-zijn-wij-uit-huis-geplaatst-dat-willen-veel-",
-          "publishedDate": "Tue, 29 Sep 2026 19:35:00 GMT",
-          "description": "Toen Jayla Shanice Opoku 11 jaar was, vertelde de jeugdbescherming aan haar moeder dat haar kinderen bij haar zouden worden weggehaald. Spoorslags vertrok het gezin naar Belgi&#235;. Daarna woonden ze op ..."
+          "title": "31-jarige zorgdirecteur aangehouden na inval in woning",
+          "source": "GelreNieuws.nl",
+          "url": "https://www.gelrenieuws.nl/2026/09/29/video/31-jarige-zorgdirecteur-aangehouden-na-inval-in-woning.html",
+          "publishedDate": "Tue, 29 Sep 2026 13:24:00 GMT",
+          "description": "HUISSEN - De 31-jarige vrouw die dinsdagochtend in haar woning aan de Bloemstraat in Huissen werd aangehouden, is directeur van een zorgbedrijf in Arnhem. Bronnen van Dagblad De Gelderlander melden da ..."
         },
         {
-          "title": "Excuses aan uithuisgeplaatste kinderen toeslagen in januari",
-          "source": "ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/excuses-aan-uithuisgeplaatste-kinderen-toeslagen-in-januari/ar-AA2cYVoF",
-          "publishedDate": "Sun, 27 Sep 2026 23:36:00 GMT",
-          "description": "DEN HAAG (ANP) - In januari wil het kabinet excuses maken aan de kinderen uit gezinnen die zijn getroffen door de toeslagenaffaire en uit huis zijn geplaatst. Dat schrijven staatssecretarissen Claudia ..."
+          "title": "Hoe specialisten bij Menzis elke dag druk zijn met peperduur onderzoek naar zorgfraude",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/enschede/hoe-specialisten-bij-menzis-elke-dag-druk-zijn-met-peperduur-onderzoek-naar-zorgfraude~af2ca0682/",
+          "publishedDate": "Fri, 25 Sep 2026 17:01:00 GMT",
+          "description": "Bijna twee jaar onderzoek en tonnen aan kosten. Menzis zette fors in op het fraudeonderzoek naar Zorg &amp; Research in Enschede, dat nu buitenspel staat. De aanpak van dubieuze zorgclubs blijft ingewikke ..."
         },
         {
-          "title": "Joost Oomen: 'Dit is echt vragen om een toeslagenaffaire 2.0'",
-          "source": "NPO Radio 1",
-          "url": "https://www.nporadio1.nl/nieuws/opinie-commentaar/250e81df-9770-4d13-a480-fb97b036d808/joost-oomen-dit-is-echt-vragen-om-een-toeslagenaffaire-2-0",
-          "publishedDate": "Fri, 25 Sep 2026 09:00:00 GMT",
-          "description": "&quot;Ik weet niet of u zich de vorige keer herinnert dat de overheid met automatisering misstanden zocht?&quot;, vraagt Druktemaker Joost Oomen in De Rode Draad. &quot;Die toeslagenaffaire had meerdere verscheurde ..."
+          "title": "Aanpak zorgfraude vergt samenwerking &#233;n grenzen stellen",
+          "source": "Binnenlands Bestuur",
+          "url": "https://www.binnenlandsbestuur.nl/bestuur-en-organisatie/aanpak-zorgfraude-vergt-samenwerking-en-grenzen-stellen",
+          "publishedDate": "Wed, 23 Sep 2026 21:00:00 GMT",
+          "description": "Een effectieve aanpak van zorgfraude vraagt om samenwerking met professionele zorgaanbieders, het stellen van normen en de naleving daarvan controleren. Dat staat in het handelingskader 'Gemeentelijke ..."
         },
         {
-          "title": "Opnieuw vertraging bij herstel toeslagenaffaire: Palmen grijpt in",
-          "source": "Nationale Onderwijsgids",
-          "url": "https://www.nationaleonderwijsgids.nl/kinderopvang/opnieuw-vertraging-bij-herstel-toeslagenaffaire-palmen-grijpt-in/",
-          "publishedDate": "Mon, 21 Sep 2026 01:40:00 GMT",
-          "description": "Staatssecretaris Sandra Palmen (Herstel Toeslagen) moet opnieuw ingrijpen in de hersteloperatie voor slachtoffers van het schandaal rond de kinderopvangtoeslag. Anders dreigt de doelstelling van het k ..."
+          "title": "Zorgfraude vraagt volgens drie grote gemeenten om landelijke aanpak",
+          "source": "Regio Online",
+          "url": "https://regioonline.nl/regio-utrecht/zorgfraude-landelijke-aanpak/",
+          "publishedDate": "Wed, 23 Sep 2026 15:00:00 GMT",
+          "description": "Rotterdam, Den Haag en Utrecht vragen het Rijk om landelijke maatregelen tegen zorgfraude, met uniforme screening, toezicht en handhaving."
         }
       ]
     }
