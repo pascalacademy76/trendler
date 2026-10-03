@@ -1,6 +1,87 @@
 {
-  "fetchedAt": "2026-10-03T13:34:30.637Z",
+  "fetchedAt": "2026-10-03T17:42:17.024Z",
   "trends": [
+    {
+      "keyword": "pinnen",
+      "trafficLabel": "20K+",
+      "articles": []
+    },
+    {
+      "keyword": "amstelveenseweg",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Amsterdammer (34) doodgeschoten op Amstelveenseweg, schutter nog voortvluchtig",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/amsterdam/amsterdammer-34-doodgeschoten-op-amstelveenseweg-schutter-nog-voortvluchtig~a2571b81/",
+          "publishedDate": "Fri, 02 Oct 2026 23:42:00 GMT",
+          "description": "In de nacht van vrijdag op zaterdag is een 34-jarige Amsterdammer overleden na een schietincident aan de Amstelveenseweg in Amsterdam-West. Er is nog niemand aangehouden."
+        },
+        {
+          "title": "Man doodgeschoten in Amsterdam, politie vermoedt gerichte actie",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/man-doodgeschoten-in-amsterdam-politie-vermoedt-gerichte-actie~ba68b276/",
+          "publishedDate": "Fri, 02 Oct 2026 22:27:00 GMT",
+          "description": "De schietpartij aan de Amstelveenseweg in Amsterdam, waarbij in de nacht van vrijdag op zaterdag een man van 34 is gedood, is volgens de politie waarschijnlijk een gerichte actie."
+        },
+        {
+          "title": "Politie: dodelijke schietpartij Amsterdam was niet 'per ongeluk'",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/artikelen/politie-dodelijke-schietpartij-amsterdam-was-niet-per-ongeluk",
+          "publishedDate": "Sat, 03 Oct 2026 09:58:00 GMT",
+          "description": "Schietpartij Amstelveenseweg in Amsterdam: politie onderzoekt gerichte actie tegen 34-jarige man. Hulpverleners konden slachtoffer niet redden. Volg het laatste nieuws en updates."
+        },
+        {
+          "title": "Man (34) op straat doodgeschoten; politie start Team Grootschalige Opsporing",
+          "source": "112 Nieuws Nederland",
+          "url": "https://112nieuws.net/2026/10/03/man-34-op-straat-doodgeschoten-politie-start-team-grootschalige-opsporing/",
+          "publishedDate": "Sat, 03 Oct 2026 09:27:00 GMT",
+          "description": "In de nacht van vrijdag op zaterdag is een 34-jarige man doodgeschoten op de Amstelveenseweg in Amsterdam. Het slachtoffer werd zwaargewond op straat aangetroffen. Hulpverleners hebben hem nog gereani ..."
+        },
+        {
+          "title": "Het AT5 Nieuws van zaterdag 3 oktober",
+          "source": "AT5",
+          "url": "https://www.at5.nl/artikelen/240240/het-at5-nieuws-van-zaterdag-3-oktober",
+          "publishedDate": "Sat, 03 Oct 2026 09:12:00 GMT",
+          "description": "34-jarige Amsterdammer doodgeschoten op Amstelveenseweg, geen treinen op het Centraal Station de hele dag en oud-agenten vinden crackgebruik op hero&#239;ne-epidemie uit de jaren 80 lijken. Dat en meer in ..."
+        },
+        {
+          "title": "Politie: dodelijke schietpartij Amstelveenseweg lijkt alles weg te hebben van gerichte actie",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/364000/politie-dodelijke-schietpartij-amstelveenseweg-lijkt-alles-weg-te-hebben-van-gerichte-actie",
+          "publishedDate": "Sat, 03 Oct 2026 08:52:00 GMT",
+          "description": "Man (34) overleden bij schietpartij in Amsterdam aan de Amstelveenseweg. Hij werd voor een bar neergeschoten. Politie zoekt getuigen en camerabeelden."
+        },
+        {
+          "title": "Man (34) op straat doodgeschoten in Amsterdam",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/noord-holland/amsterdam/160303-man-34-op-straat-doodgeschoten-in-amsterdam.html",
+          "publishedDate": "Sat, 03 Oct 2026 05:21:00 GMT",
+          "description": "In de nacht van vrijdag 2 op zaterdag 3 oktober 2026 is een 34-jarige man op de Amstelveenseweg zwaargewond op straat aangetroffen. Het slachtoffer - woonachtig in Amsterdam - blijkt te zijn neergesch ..."
+        },
+        {
+          "title": "Man (34) doodgeschoten in Amsterdam, verdachte nog spoorloos",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/363990/man-34-doodgeschoten-in-amsterdam-verdachte-nog-spoorloos",
+          "publishedDate": "Sat, 03 Oct 2026 02:10:00 GMT",
+          "description": "Bij een schietpartij op de Amstelveenseweg in Amsterdam-Oud-Zuid is vannacht iemand overleden. De politie doet onderzoek. Er is nog niemand aangehouden."
+        },
+        {
+          "title": "34-jarige Amsterdammer doodgeschoten op Amstelveenseweg",
+          "source": "AT5",
+          "url": "https://www.at5.nl/artikelen/240235/34-jarige-amsterdammer-doodgeschoten-op-amstelveenseweg",
+          "publishedDate": "Sat, 03 Oct 2026 02:10:00 GMT",
+          "description": "Dode bij schietpartij op de Amstelveenseweg Amsterdam-Oud-Zuid, rond 02.40 uur. Traumateam opgeroepen. Nog niemand aangehouden, politie doet onderzoek."
+        },
+        {
+          "title": "Dode door schietpartij op Amstelveenseweg in Amsterdam",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/videos/dode-door-schietpartij-op-amstelveenseweg-in-amsterdam",
+          "publishedDate": "Sat, 03 Oct 2026 01:31:00 GMT",
+          "description": "Door een schietpartij in Amsterdam is in de nacht van vrijdag op zaterdag een dode gevallen. Het incident vond plaats op de Amstelveenseweg, even na 02.30 uur, meldt de politie. Er is nog niemand aang ..."
+        }
+      ]
+    },
     {
       "keyword": "hélène hendriks",
       "trafficLabel": "20K+",
@@ -78,236 +159,165 @@
       ]
     },
     {
-      "keyword": "amstelveenseweg",
+      "keyword": "formuleracing",
+      "trafficLabel": "20K+",
+      "articles": []
+    },
+    {
+      "keyword": "kroatië - engeland",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Man (34) overleden na schietincident aan de Amstelveenseweg",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/man-34-overleden-na-schietincident-aan-de-amstelveenseweg~b2571b81/",
-          "publishedDate": "Sat, 03 Oct 2026 01:26:00 GMT",
-          "description": "In de nacht van vrijdag op zaterdag is een 34-jarige man overleden na een schietincident aan de Amstelveenseweg in Amsterdam-West. Er is nog niemand aangehouden."
+          "title": "LIVE Nations League | Engeland laat niets heel van Kroati&#235;: ook Bukayo Saka doet een duit in het zakje",
+          "source": "ED.nl",
+          "url": "https://www.ed.nl/voetbal/live-nations-league-engeland-laat-niets-heel-van-kroatie-ook-bukayo-saka-doet-een-duit-in-het-zakje~a4da6825/",
+          "publishedDate": "Sat, 03 Oct 2026 02:48:00 GMT",
+          "description": "Tijdens het WK troffen Kroati&#235; en Engeland elkaar in de groepsfase, vanavond staan de landen tegenover elkaar in de Nations League. Wie pakt de volle buit? Volg het hier vanaf 18.00 uur live."
         },
         {
-          "title": "Amsterdammer (34) doodgeschoten op Amstelveenseweg, schutter nog voortvluchtig",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/amsterdammer-34-doodgeschoten-op-amstelveenseweg-schutter-nog-voortvluchtig~b2571b81/",
-          "publishedDate": "Sat, 03 Oct 2026 01:26:00 GMT",
-          "description": "In de nacht van vrijdag op zaterdag is een 34-jarige Amsterdammer overleden na een schietincident aan de Amstelveenseweg in Amsterdam-West. Er is nog niemand aangehouden."
+          "title": "Vušković beleeft nachtmerriehelft tegen Engeland",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-be/sport/voetbal/vu%C5%A1kovi%C4%87-beleeft-nachtmerriehelft-tegen-engeland/ar-AA2dusTr",
+          "publishedDate": "Sat, 03 Oct 2026 10:00:15 GMT",
+          "description": "Luka Vušković beleeft voorlopig een bijzonder moeilijke avond met Kroati&#235;. De 19-jarige verdediger, die eerder op huurbasis voor Westerlo uitkwam, staat in de basis tegen Engeland, maar zag zijn ploeg ..."
         },
         {
-          "title": "Man (34) op straat doodgeschoten in Amsterdam",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/noord-holland/amsterdam/160303-man-34-op-straat-doodgeschoten-in-amsterdam.html",
-          "publishedDate": "Sat, 03 Oct 2026 05:21:00 GMT",
-          "description": "In de nacht van vrijdag 2 op zaterdag 3 oktober 2026 is een 34-jarige man op de Amstelveenseweg zwaargewond op straat aangetroffen. Het slachtoffer - woonachtig in Amsterdam - blijkt te zijn neergesch ..."
+          "title": "Op welke zender kijk je Kroati&#235; – Engeland live?",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-kroatie-engeland-live/",
+          "publishedDate": "Sat, 03 Oct 2026 08:26:00 GMT",
+          "description": "In de Nations League staan Kroati&#235; en Engeland tegenover elkaar. In de SN TV-gids zie je op welke zender dit duel te zien is."
         },
         {
-          "title": "Dode door schietpartij op Amstelveenseweg in Amsterdam",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/dode-door-schietpartij-op-amstelveenseweg-in-amsterdam",
-          "publishedDate": "Sat, 03 Oct 2026 02:13:00 GMT",
-          "description": "Door een schietpartij in Amsterdam is in de nacht van vrijdag op zaterdag een dode gevallen. Het incident vond plaats op de Amstelveenseweg, even na 02.30 uur, meldt de politie. Er is nog niemand aang ..."
+          "title": "Praat mee op VP: Perisic heeft basisplaats bij Kroati&#235; tegen Engeland",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-perisic-heeft-basisplaats-bij-kroati%C3%AB-tegen-engeland/ar-AA2dtVim",
+          "publishedDate": "Sat, 03 Oct 2026 08:05:00 GMT",
+          "description": "Kroati&#235; en Engeland treffen elkaar zaterdagavond in de derde speelronde van de Nations League. De wedstrijd begint om 18.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en p ..."
         },
         {
-          "title": "34-jarige Amsterdammer doodgeschoten op Amstelveenseweg",
-          "source": "AT5",
-          "url": "https://www.at5.nl/artikelen/240235/34-jarige-amsterdammer-doodgeschoten-op-amstelveenseweg",
-          "publishedDate": "Sat, 03 Oct 2026 02:10:00 GMT",
-          "description": "Dode bij schietpartij op de Amstelveenseweg Amsterdam-Oud-Zuid, rond 02.40 uur. Traumateam opgeroepen. Nog niemand aangehouden, politie doet onderzoek."
+          "title": "VI Live: Engeland overklast Kroati&#235; en leidt met 0-4",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/vi-live-kroatie-tegen-engeland-spanje-in-actie-en-volop-kkd-voetbal",
+          "publishedDate": "Sat, 03 Oct 2026 06:35:00 GMT",
+          "description": "In de Nations League staan zaterdag Kroati&#235; en Engeland tegenover elkaar om 20.45 uur. De andere wedstrijd in de groep is tussen Spanje en Tsjechi&#235;. Daarnaast is er Keuken Kampioen Divisie-voetbal en ..."
         },
         {
-          "title": "Persoon overleden door schoten in Amsterdam",
-          "source": "Crimesite",
-          "url": "https://www.crimesite.nl/persoon-overleden-door-schoten-in-amsterdam/",
-          "publishedDate": "Sat, 03 Oct 2026 01:26:00 GMT",
-          "description": "In Amsterdam is in de nacht van vrijdag op zaterdag een persoon overleden bij een schietpartij. De identiteit van het slachtoffer is niet bekend. Er is geen verdachte aangehouden. Beeld: De politie do ..."
+          "title": "Vermoedelijke opstellingen Kroati&#235; en Engeland: Perisic in de basis",
+          "source": "VoetbalNieuws.nl",
+          "url": "https://www.voetbalnieuws.nl/nieuws/2142564/vermoedelijke-opstellingen-kroatie-en-engeland-perisic-in-de-basis.html",
+          "publishedDate": "Sat, 03 Oct 2026 01:17:00 GMT",
+          "description": "Vanavond staat speelronde 3 op het programma in groep 3 van League A in de Nations League. Kroati&#235; neemt het in eigen land op tegen Engeland. Ivan Perisic zal vermoedelijk weer in de basis staan. Voet ..."
         },
         {
-          "title": "Man (34) doodgeschoten in Amsterdam, verdachte nog spoorloos",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/363990/man-34-doodgeschoten-in-amsterdam-verdachte-nog-spoorloos",
-          "publishedDate": "Fri, 02 Oct 2026 23:11:00 GMT",
-          "description": "Bij een schietpartij op de Amstelveenseweg in Amsterdam-Oud-Zuid is vannacht iemand overleden. De politie doet onderzoek. Er is nog niemand aangehouden."
+          "title": "'Ajax-scenario' mogelijk tijdens Nations League-kraker tussen Kroati&#235; en Engeland",
+          "source": "Voetbalprimeur Netherlands on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/ajax-scenario-mogelijk-tijdens-nations-league-kraker-tussen-kroati%C3%AB-en-engeland/ar-AA2dpW7a",
+          "publishedDate": "Fri, 02 Oct 2026 16:55:00 GMT",
+          "description": "De Nations League-wedstrijd tussen Kroati&#235; en Engeland moet eigenlijk achter gesloten deuren gespeeld worden, maar volgens The Athletic kan het Stadion Rujevica t&#243;ch zomaar eens voor 75 procent gevuld ..."
         },
         {
-          "title": "Schietpartij op Amstelveenseweg in Amsterdam",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/noord-holland/amsterdam-amstelland/amsterdam/55909845/p2000-schietpartij-op-amstelveenseweg-in-amsterdam.html",
-          "publishedDate": "Fri, 02 Oct 2026 19:39:00 GMT",
-          "description": "De brandweer van Amsterdam is zaterdag 3 oktober gealarmeerd voor een schietpartij op de Amstelveenseweg. De melding werd om 02:39 via het P2000 netwerk verzonden naar de brandweer van Amsterdam, die ..."
+          "title": "Kroati&#235; vs. Engeland Nations League: Programma, opstellingen en weetjes",
+          "source": "Notizie.it",
+          "url": "https://www.notizie.it/nl/Programma--opstellingen-en-weetjes-over-de-Nations-League-wedstrijd-Kroati%C3%AB-tegen-Engeland./",
+          "publishedDate": "Fri, 02 Oct 2026 15:39:00 GMT",
+          "description": "Kroati&#235; en Engeland nemen het zaterdag 3 oktober tegen elkaar op in het Rujevica Stadion in Rijeka. Bekijk de opstellingen, statistieken en weetjes voor Groep A3."
         },
         {
-          "title": "Mysterie: dit is het verhaal achter de ‘plassende vrouw’ langs de Amstelveenseweg",
-          "source": "stadsbladutrecht.nl",
-          "url": "https://indebuurt.nl/amsterdam/genieten-van-amsterdam/mysteries/mysterie-dit-is-het-verhaal-achter-de-plassende-vrouw-langs-de-amstelveenseweg~ac68b37e/",
-          "publishedDate": "Fri, 14 Aug 2026 18:36:00 GMT",
-          "description": "Het beeld heet Lady Solid en staat sinds 1997 bij het waterpompstation aan de Amstelveenseweg. Maar voor die plek is ze helemaal niet gemaakt. Sterker nog: op haar oorspronkelijke bestemming vonden ..."
+          "title": "Kroati&#235;-Engeland mogelijk toch voor duizenden kinderen in Rujevica",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/kroatie-engeland-duizenden-kinderen-rujevica/",
+          "publishedDate": "Fri, 02 Oct 2026 14:32:00 GMT",
+          "description": "Een UEFA-straf verplicht Kroati&#235; zonder publiek te spelen, al biedt de regelgeving ruimte voor begeleide jongeren."
         },
         {
-          "title": "Vernieuwing tramspoor Amstelveenseweg: &quot;Drie weken geen tram&quot;",
-          "source": "NU",
-          "url": "https://www.nu.nl/amsterdam/6216168/vernieuwing-tramspoor-amstelveenseweg-drie-weken-geen-tram.html",
-          "publishedDate": "Fri, 05 Aug 2022 09:55:00 GMT",
-          "description": "Op een deel van de Amstelveenseweg, tussen het Olympisch Stadion en het Skutsjespad, wordt de trambaan vernieuwd. De werkzaamheden starten zondag en duren tot en met 28 augustus. Er gaat 24 uur per ..."
+          "title": "Kroati&#235; vs Engeland kijken op TV en Gratis live stream",
+          "source": "Squawka",
+          "url": "https://www.squawka.com/nl/nieuws/kroatie-engeland-kijken-tv-gratis-live-stream-3-10-26/",
+          "publishedDate": "Fri, 02 Oct 2026 03:42:00 GMT",
+          "description": "Hoe en waar jij Kroati&#235; - Engeland kunt kijken vanavond (3-10-26) op TV en via een gratis live stream. Alle opties in 1 overzicht."
         }
       ]
     },
     {
-      "keyword": "michael douglas",
+      "keyword": "vitesse - nac",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Michael Douglas loog veertig jaar over romance met collega op filmset",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/achterklap/6411836/michael-douglas-loog-veertig-jaar-over-romance-met-collega-op-filmset.html",
-          "publishedDate": "Fri, 02 Oct 2026 13:08:00 GMT",
-          "description": "Michael Douglas heeft veertig jaar lang gelogen over een korte romance met collega Kathleen Turner tijdens de opnames van de film Romancing the Stone uit 1984. De Amerikaanse acteur wilde zijn gezin b ..."
-        },
-        {
-          "title": "Huwelijk Hollywood-sterren Michael Douglas (80) en Catherine Zeta-Jones (55) geklapt? Geruchtenmolen draait op volle toeren",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/entertainment/gossip/huwelijk-hollywood-sterren-michael-douglas-80-en-catherine-zeta-jones-55-geklapt-geruchtenmolen-draait-op-volle-toeren/66474158.html",
-          "publishedDate": "Sun, 11 May 2025 12:30:00 GMT",
-          "description": "Huwelijk Hollywood-sterren Michael Douglas (80) en Catherine Zeta-Jones (55) geklapt? Geruchtenmolen draait op volle toeren Het lijkt erop dat het huwelijk van Michael Douglas en Catherine Zeta-Jones ..."
-        },
-        {
-          "title": "Michael Douglas biecht na 40 jaar affaire op: “We logen om mijn vrouw en zoon te beschermen”",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/celebrities/michael-douglas-biecht-na-40-jaar-affaire-op-we-logen-om-mijn-vrouw-en-zoon-te-beschermen~a87f066f/",
-          "publishedDate": "Fri, 02 Oct 2026 17:04:00 GMT",
-          "description": "Michael Douglas (82) heeft meer dan 40 jaar een romance met zijn collega-actrice Kathleen Turner (72) verzwegen. Tijdens de opnames van ‘Romancing the Stone’ sloeg de vonk ook naast de camera over, on ..."
-        },
-        {
-          "title": "Michael Douglas loog veertig jaar over romance met collega",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/michael-douglas-loog-veertig-jaar-over-romance-met-collega",
-          "publishedDate": "Fri, 02 Oct 2026 11:47:00 GMT",
-          "description": "Michael Douglas onthult in memoires dat hij 40 jaar loog over zijn affaire met collega Kathleen Turner tijdens Romancing the Stone (1984). Lees zijn bekentenis."
-        },
-        {
-          "title": "Michael Douglas",
-          "source": "NU",
-          "url": "https://www.nu.nl/tag/michael-douglas",
-          "publishedDate": "Mon, 28 Sep 2026 16:59:00 GMT",
-          "description": "Michael Douglas Michael Douglas brengt in oktober zijn memoires uit: 'Tijd voor mijn verhaal' Michael Douglas krijgt oeuvreprijs uit handen van Spaanse koningin Michael Douglas ontvangt ereprijs op ..."
-        },
-        {
-          "title": "Michael Douglas neemt ingrijpend besluit: ‘Ik wil niet een van die mensen zijn die dood neervallen op de filmset’",
-          "source": "story",
-          "url": "https://www.story.nl/showbizz/michael-douglas-neemt-ingrijpend-besluit~4e47a0a",
-          "publishedDate": "Sat, 26 Jul 2025 11:00:00 GMT",
-          "description": "Michael Douglas zegt dat hij ‘niet de intentie’ heeft om ooit nog te acteren. In 2022 stond hij voor het laatst op een filmset en terugkeren ziet hij niet meer gebeuren. ‘Ik ben niet met pensioen, ..."
-        },
-        {
-          "title": "Michael Douglas laat fans gissen: stopt hij echt met acteren na al die jaren?",
-          "source": "serietotaal",
-          "url": "https://www.serietotaal.nl/nieuws/39851/michael-douglas-laat-fans-gissen-stopt-hij-echt-met-acteren-na-al-die-jaren",
-          "publishedDate": "Sat, 19 Jul 2025 11:30:00 GMT",
-          "description": "Wie zich afvroeg waarom Michael Douglas de afgelopen jaren vrijwel niet meer te zien was, heeft nu een helder antwoord. De inmiddels 80-jarige acteur heeft besloten het rustiger aan te doen. Tijdens ..."
-        },
-        {
-          "title": "Michael Douglas (80) is niet van plan nog te acteren: “Ik wil niet iemand zijn die dood neervalt op de set”",
-          "source": "HLN",
-          "url": "https://www.hln.be/film/michael-douglas-80-is-niet-van-plan-nog-te-acteren-ik-wil-niet-iemand-zijn-die-dood-neervalt-op-de-set~af897f7b1/",
-          "publishedDate": "Mon, 07 Jul 2025 03:30:00 GMT",
-          "description": "“Ik heb sinds 2022 bewust niet meer gewerkt, omdat ik besefte dat ik moest stoppen”, vertelde Douglas. “Ik heb bijna zestig jaar behoorlijk hard gewerkt en ik wil niet iemand zijn die dood neervalt op ..."
-        },
-        {
-          "title": "Michael Douglas verklapt hoe hij uit de schaduw van zijn beroemde vader Kirk Douglas stapte",
-          "source": "FilmTotaal",
-          "url": "https://www.filmtotaal.nl/nieuws/112517",
-          "publishedDate": "Thu, 25 Apr 2024 03:12:00 GMT",
-          "description": "Michael Douglas mag dan een iconische ster zijn, maar zijn inmiddels overleden vader Kirk Douglas is het ook - en bovendien in dezelfde filmindustrie in Hollywood. Daardoor duurde het heel lang ..."
-        },
-        {
-          "title": "Michael Douglas (78) blikt terug op zware periode: ‘Tijd om weer aan te sterken’",
-          "source": "AD",
-          "url": "https://www.ad.nl/show/michael-douglas-78-blikt-terug-op-zware-periode-tijd-om-weer-aan-te-sterken~a792fe6a/",
-          "publishedDate": "Fri, 17 Feb 2023 21:03:00 GMT",
-          "description": "U woont samen met uw vrouw Catherine Zeta-Jones en jullie kinderen Dylan en Carys aan de oostkust van Amerika, ver van Hollywood. Hoe bewust is dat? ,,De eerste tien jaar van ons huwelijk woonden we ..."
-        }
-      ]
-    },
-    {
-      "keyword": "ongeluk a27",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Gewonde na crash bestelbus op A27 bij Eemnes, vertraging door herstel vangrails",
+          "title": "LIVE Keuken Kampioen Divisie | MVV kan periodetitel vergeten na dramatisch duel met TOP OSS, Vitesse en NAC spelen gelijk",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-eemnes/gewonde-na-crash-bestelbus-op-a27-bij-eemnes-vertraging-door-herstel-vangrails~ae2ac5a3/",
-          "publishedDate": "Sat, 03 Oct 2026 00:14:00 GMT",
-          "description": "Een bestelbus is zaterdagochtend vroeg bij knooppunt Eemnes van de weg geraakt en tientallen meters verder in de berm tot stilstand gekomen. In de bus zaten twee mensen. Een van hen raakte gewond, mel ..."
+          "url": "https://www.ad.nl/voetbal/live-keuken-kampioen-divisie-mvv-kan-periodetitel-vergeten-na-dramatisch-duel-met-top-oss-vitesse-en-nac-spelen-gelijk~adb85b0fa/",
+          "publishedDate": "Sat, 03 Oct 2026 10:30:00 GMT",
+          "description": "De eredivisie ligt stil, maar de Keuken Kampioen Divisie gaat verder. Vandaag zijn er zes duels: twee om 16.30 uur, vier om 20.00 uur. Volg het hier live."
         },
         {
-          "title": "Auto slaat over de kop na botsing met vrachtwagen op A27 bij Utrecht: &#233;&#233;n persoon naar ziekenhuis",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-utrecht/auto-slaat-over-de-kop-na-botsing-met-vrachtwagen-op-a27-bij-utrecht-een-persoon-naar-ziekenhuis~a858b400/",
-          "publishedDate": "Thu, 01 Oct 2026 23:03:00 GMT",
-          "description": "Een personenauto en een vrachtwagen zijn vrijdagmiddag gebotst op de A27 bij knooppunt Lunetten. Door de klap sloeg de auto over de kop. Een persoon is naar het ziekenhuis gebracht."
+          "title": "Kwetsbaar NAC ziet comeback in rook opgaan en speelt gelijk tegen Vitesse",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/kwetsbaar-nac-ziet-comeback-in-rook-opgaan-en-speelt-gelijk-tegen-vitesse/ar-AA2dtXN2",
+          "publishedDate": "Sat, 03 Oct 2026 09:36:48 GMT",
+          "description": "NAC Breda heeft in de slotfase de overwinning uit handen gegeven tegen Vitesse. De ploeg van Rick Kruys leek lange tijd op weg naar een overwinning, maar de Arnhemmers kwamen in de slotfase langszij: ..."
         },
         {
-          "title": "Bestelbus met twee Urker inzittenden vliegt over vangrail op A27",
-          "source": "Het Urkerland",
-          "url": "https://www.heturkerland.nl/nieuws/algemeen/52103/bestelbus-met-twee-urker-inzittenden-vliegt-over-vangrail-op-a27",
-          "publishedDate": "Sat, 03 Oct 2026 04:53:00 GMT",
-          "description": "Een bestelbus van Seafood Go, met daarin twee jonge plaatsgenoten, is zaterdagochtend over de vangrail gevlogen. Het verkeersongeval vond plaats op de A27 bij Eemnes."
+          "title": "MVV is slachtoffer van onvergetelijke dag voor Hinok&#233;, Bannis doet NAC pijn",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/mvv-is-slachtoffer-van-onvergetelijke-dag-voor-hinoke-bannis-doet-nac-pijn",
+          "publishedDate": "Sat, 03 Oct 2026 09:31:00 GMT",
+          "description": "TOP Oss heeft zaterdag in eigen huis verrassend gewonnen van MVV Maastricht. Vitesse en NAC Breda speelden in Arnhem gelijk, waardoor de clubs blijven steken in de brede subtop van de Keuken Kampioen ..."
         },
         {
-          "title": "Ernstig ongeval op A27: bestuurder bevrijd uit wrak bestelbus",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/utrecht-eemnes-ernstig-ongeval-a27-bestelbus-traumahelikopter",
-          "publishedDate": "Sat, 03 Oct 2026 00:05:00 GMT",
-          "description": "Bij knooppunt Eemnes is zaterdagochtend een ernstig ongeval gebeurd op de A27 van Utrecht richting Almere. Een bestelbus raakte van de weg en kwam na ongeveer 80 meter in de bossage tot stilstand."
+          "title": "NAC Breda slikt late gelijkmaker bij Vitesse, Hinoke maakt hattrick voor TOP Oss tegen MVV Maastricht",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/nac-breda-slikt-late-gelijkmaker-bij-vitesse-hinoke-maakt-hattrick-voor-top-oss-tegen-mvv-maastricht/ar-AA2du8cf",
+          "publishedDate": "Sat, 03 Oct 2026 07:33:16 GMT",
+          "description": "Vitesse en NAC Breda hebben zaterdagmiddag een punt overgehouden aan de onderlinge confrontatie in de Keuken Kampioen Divisie. Lange tijd leken de Bredanaars op weg naar de zege, maar door een late ge ..."
         },
         {
-          "title": "Weg na uren weer vrij na zwaar ongeluk met gewonden op A27",
-          "source": "RTV Utrecht",
-          "url": "https://www.rtvutrecht.nl/nieuws/4098337/weg-na-uren-weer-vrij-na-zwaar-ongeluk-met-gewonden-op-a27",
-          "publishedDate": "Fri, 02 Oct 2026 23:54:00 GMT",
-          "description": "De A27 bij knooppunt Eemnes is weer vrij voor verkeer, meldt Rijkswaterstaat. De weg was urenlang afgesloten omdat er vangrails langs de weg moesten worden gerepareerd nadat er vanochtend een bestelbu ..."
+          "title": "Praat mee op VP: Vitesse – NAC Breda",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-vitesse-nac-breda/ar-AA2duzFu",
+          "publishedDate": "Sat, 03 Oct 2026 07:00:00 GMT",
+          "description": "Vitesse en NAC Breda staan zaterdagmiddag tegenover elkaar in de Keuken Kampioen Divisie. De wedstrijd begint om 16.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat ..."
         },
         {
-          "title": "Twee gewonden na ernstig ongeval met bestelbus; traumahelikopter op snelweg geland",
-          "source": "112 Nieuws Nederland",
-          "url": "https://112nieuws.net/2026/10/03/twee-gewonden-na-ernstig-ongeval-met-bestelbus-traumahelikopter-op-snelweg-geland/",
-          "publishedDate": "Fri, 02 Oct 2026 17:00:00 GMT",
-          "description": "Zaterdagochtend heeft op de A27 bij Eemnes een ernstig verkeersongeval plaatsgevonden. Een bestelbus met twee inzittenden vloog over de vangrail en kwam vervolgens in de bossages tot stilstand. Beide ..."
+          "title": "Duur puntverlies voor NAC: na zwakke tweede helft geeft Bredase club twee punten weg tegen Vitesse",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/nac/duur-puntverlies-voor-nac-na-zwakke-tweede-helft-geeft-bredase-club-twee-punten-weg-tegen-vitesse~a319c1dd/",
+          "publishedDate": "Sat, 03 Oct 2026 02:45:00 GMT",
+          "description": "NAC piepte en kraakte, leek zelfs overeind te blijven, maar moest t&#243;ch een late gelijkmaker slikken tegen Vitesse. Voor de tweede keer onder Rick Kruys leidt de ploeg (onnodig) puntverlies: 2-2."
         },
         {
-          "title": "A27 bij Lunetten dicht na ongeval, verkeershinder duurt naar verwachting tot 19.00 uur",
-          "source": "De Utrechtse Internet Courant",
-          "url": "https://www.duic.nl/algemeen/algemeen/61126/a27-bij-lunetten-dicht-na-ongeval-verkeershinder-duurt-naar-verwachting-tot-19-00-uur",
-          "publishedDate": "Fri, 02 Oct 2026 08:49:00 GMT",
-          "description": "De A27 is vrijdagmiddag bij knooppunt Lunetten in noordelijke richting afgesloten na een ongeval. De politie doet onderzoek naar de oorzaak. Rijkswaterstaat verwacht dat de volledige afhandeling nog.."
+          "title": "LIVE | Tweede helft begonnen: bouwt NAC de voorsprong uit, of wordt het weer onnodig spannend?",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/regiosport-breda/live-tweede-helft-begonnen-bouwt-nac-de-voorsprong-uit-of-wordt-het-weer-onnodig-spannend~a319c1dd/?slug_rd=1",
+          "publishedDate": "Sat, 03 Oct 2026 01:44:00 GMT",
+          "description": "Na zeges op De Graafschap en FC Eindhoven heeft NAC de aansluiting naar de concurrentie weer gevonden. Die lijn wil de ploeg op bezoek bij Vitesse doorzetten. Volg het duel hier vanaf 16.30 uur live!"
         },
         {
-          "title": "Update: A27 weer open, files lossen op",
-          "source": "RTV Utrecht",
-          "url": "https://www.rtvutrecht.nl/nieuws/4098060/update-a27-weer-open-files-lossen-op",
-          "publishedDate": "Fri, 02 Oct 2026 06:50:00 GMT",
-          "description": "Op de A27 bij Utrecht is tussen knooppunt Lunetten en knooppunt Rijnsweerd een ongeluk gebeurd. De snelweg is in noordelijke richting afgesloten en er is een omleiding ingesteld."
+          "title": "NAC nog niet op volle kracht in aanloop naar duel met Vitesse",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/nac/nac-nog-niet-op-volle-kracht-in-aanloop-naar-duel-met-vitesse~a354f6ea8/",
+          "publishedDate": "Wed, 30 Sep 2026 01:57:00 GMT",
+          "description": "Moussa Soumano is de onbetwiste spits van NAC; daarachter is de keuze momenteel schaars. Pepijn Reulen (Oranje Onder-19) is er sowieso niet bij, Paul Gladon trainde woensdag apart van de groep."
         },
         {
-          "title": "Ongeval met letsel op A27 in Utrecht",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/utrecht/utrecht/55907070/p2000-politie-naar-a27-in-utrecht-voor-ongeval-met-letsel.html",
-          "publishedDate": "Fri, 02 Oct 2026 06:06:00 GMT",
-          "description": "De hulpdiensten zijn vrijdagmiddag uitgerukt voor een ongeval met letsel aan de A27 in Utrecht. De melding kwam vlak na een uur 's middags bij de alarmcentrale binnen. Hulpdiensten zijn naar de locati ..."
+          "title": "TERUGLEZEN | Vitesse pakt dankzij twee goals Bannis een punt tegen NAC",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/vitesse/teruglezen-vitesse-pakt-dankzij-twee-goals-bannis-een-punt-tegen-nac~a04620a1/",
+          "publishedDate": "Tue, 29 Sep 2026 03:05:00 GMT",
+          "description": "Vitesse heeft dankzij twee doelpunten van Naoufal Bannis een punt overgehouden aan de thuiswedstrijd tegen NAC Breda: 2-2. De Arnhemse club gaf voor rust een voorsprong uit handen en cre&#235;erde daarna l ..."
         },
         {
-          "title": "Rijksweg A27 R 41,2",
-          "source": "Hardnieuws",
-          "url": "https://www.hardnieuws.nl/zuid-holland/hoogblokland/voertuig-te-water-na-ongeval-op-snelweg-rijksweg-a27-r-41-2-hoogblokland-75168.html",
-          "publishedDate": "Mon, 28 Sep 2026 04:13:00 GMT",
-          "description": "HOOGBLOKLAND - Maandagmiddag 28 september niet lang na 13.10 uur kwam een melding binnen over een voertuig te water op de Rijksweg A27 R 41,2 ter hoogte van ..."
+          "title": "Informatie kaartverkoop Vitesse – NAC",
+          "source": "nac",
+          "url": "https://www.nac.nl/nieuws/informatie-kaartverkoop-vitesse-nac-26-27",
+          "publishedDate": "Sun, 20 Sep 2026 17:00:00 GMT",
+          "description": "Zaterdag 3 oktober neemt NAC het in Arnhem op tegen Vitesse. Om 16:30 uur gaat de bal rollen in het Gelredome."
         }
       ]
     },
     {
       "keyword": "asml",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "ASML-topman Fouquet aan de slag als commissaris bij Airbus",
@@ -331,11 +341,11 @@
           "description": "Chipmachinemaker ASML viert dinsdag de start van de bouw van een nieuwe campus bij Eindhoven. Door de locatie blijven belangrijke activiteiten in de regio en ontstaan zo'n twintigduizend extra arbeids ..."
         },
         {
-          "title": "Hoe China met onverwachte ‘hulp’ van Amerika zijn eigen ASML-machine probeert te bouwen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/economie/hoe-china-met-onverwachte-hulp-van-amerika-zijn-eigen-asml-machine-probeert-te-bouwen~a0ceb901/",
-          "publishedDate": "Sun, 30 Aug 2026 21:20:00 GMT",
-          "description": "Vierdubbele salarissen voor overlopers en duizend ingewikkelde puzzelstukjes: China bouwt met man en macht aan een eigen chipproductie. En dat allemaal dankzij een weigerachtig Amerika. Drie kenners o ..."
+          "title": "Nederland leunt z&#243; zwaar op ASML dat &#233;&#233;n tegenvaller pijn kan doen",
+          "source": "De Belegger",
+          "url": "https://www.debelegger.nl/post/nederland-leunt-z%C3%B3-zwaar-op-asml-dat-%C3%A9%C3%A9n-tegenvaller-pijn-kan-doen",
+          "publishedDate": "Sat, 03 Oct 2026 09:34:00 GMT",
+          "description": "Nederland profiteert enorm van ASML, maar achter die dominantie groeit een kwetsbaarheid die pas zichtbaar wordt als het ooit tegenzit."
         },
         {
           "title": "Meer machines bouwen mag ASML geen marge kosten",
@@ -345,11 +355,11 @@
           "description": "ASML wil de capaciteit voor Low-NA EUV en DUV immersion in 2027 met 30% verhogen en onderzoekt nog eens 30% voor 2028. De waardering vraagt dat deze schaalstap omzet &#233;n marge oplevert."
         },
         {
-          "title": "ASML moet nog jaren wachten op geld uit grotere maskers",
-          "source": "De Belegger",
-          "url": "https://www.debelegger.nl/post/asml-moet-nog-jaren-wachten-op-geld-uit-grotere-maskers",
-          "publishedDate": "Fri, 02 Oct 2026 23:01:00 GMT",
-          "description": "TSMC en ASML willen grotere fotomaskers klaarstomen voor productie vanaf 2033. Strategisch belangrijk, maar de huidige koers moet vooral worden gedragen door High NA met de bestaande 6-inch standaard."
+          "title": "Oliver (44) werd dood gevonden op het toilet bij ASML, waarom ging niemand hem zoeken?",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/eindhoven/oliver-44-werd-dood-gevonden-op-het-toilet-bij-asml-waarom-ging-niemand-hem-zoeken~a83a321b/",
+          "publishedDate": "Fri, 02 Oct 2026 17:39:00 GMT",
+          "description": "Toen collega’s eindelijk gingen zoeken, vonden ze hem op het toilet. Levenloos. Oliver Raaijmakers (44) overleed op zijn werk in Veldhoven aan hartfalen. Sindsdien zoekt zijn echtgenote Roosmarie naar ..."
         },
         {
           "title": "ASML d&#233; R&amp;D-motor van Nederland, maar afhankelijkheid baart zorgen",
@@ -359,11 +369,18 @@
           "description": "ASML is verantwoordelijk voor maar liefst 17 procent van alle uitgaven aan onderzoek en ontwikkeling (R&amp;D) in Nederland."
         },
         {
-          "title": "Jetten vertrouwt op akkoord met Trump om ASML te beschermen tegen exportverbod",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/nieuws-politiek/10611223/jetten-vertrouwt-op-akkoord-met-trump-om-asml-te-beschermen-tegen-exportverbod",
-          "publishedDate": "Fri, 25 Sep 2026 06:00:00 GMT",
-          "description": "De VS wil alle ASML-export naar China inperken, terwijl de verkoop van ASML-machines van groot belang is voor de Europese industrie."
+          "title": "Nederland pompt miljoenen in belangrijke ASML-toeleverancier",
+          "source": "Newsbit",
+          "url": "https://newsbit.nl/nederland-pompt-miljoenen-in-belangrijke-asml-toeleverancier/",
+          "publishedDate": "Mon, 28 Sep 2026 06:01:00 GMT",
+          "description": "Invest International steekt 15 miljoen euro in ASML-toeleverancier KMWE, dat met het geld zijn productie in Maleisi&#235; verder uitbreidt."
+        },
+        {
+          "title": "Jetten rekent op oplossing voor dreigende restricties ASML",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/geldzaken/nieuws/jetten-rekent-op-oplossing-voor-dreigende-restricties-asml/ar-AA2cUMqy",
+          "publishedDate": "Thu, 24 Sep 2026 13:35:00 GMT",
+          "description": "NEW YORK (ANP) - Premier Rob Jetten zegt er vertrouwen in te hebben dat hij met de Amerikaanse regering een oplossing vindt rondom dreigende nieuwe exportrestricties voor chipmachinemaker ASML. Congre ..."
         },
         {
           "title": "“We verkopen helemaal niets in Europa”: ASML luidt noodklok",
@@ -371,171 +388,12 @@
           "url": "https://newsbit.nl/we-verkopen-helemaal-niets-in-europa-asml-luidt-noodklok/",
           "publishedDate": "Tue, 22 Sep 2026 08:18:00 GMT",
           "description": "ASML verkoopt geen chipmachines in Europa, terwijl de VS, China en India het Nederlandse bedrijf juist proberen aan te trekken."
-        },
-        {
-          "title": "ASML geeft 44.500 medewerkers een aandelenpakket met een waarde van 20.000 euro",
-          "source": "AD",
-          "url": "https://www.ad.nl/economie/asml-geeft-44-500-medewerkers-een-aandelenpakket-met-een-waarde-van-20-000-euro~a349819e/",
-          "publishedDate": "Thu, 16 Jul 2026 19:08:00 GMT",
-          "description": "ASML gaat de komende drie jaar waarschijnlijk weinig medewerkers verliezen: wie op 1 januari 2030 nog in dienst is, krijgt een aandelenpakket met een huidige waarde van 20.000 euro. Op deze manier wil ..."
-        }
-      ]
-    },
-    {
-      "keyword": "shivon zilis",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Elon Musk zet onverwacht punt achter relatie met Shivon Zilis: 'Zonder enige waarschuwing'",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/artikel/5656957/elon-musk-zet-onverwacht-punt-achter-relatie-met-shivon-zilis",
-          "publishedDate": "Sat, 03 Oct 2026 03:36:00 GMT",
-          "description": "Elon Musk (55) en Shivon Zilis (40) zijn niet langer samen. Shivon, met wie de miljardair vier kinderen heeft, heeft vrijdag op X bekendgemaakt dat hun relatie onverwacht is ge&#235;indigd."
-        },
-        {
-          "title": "Elon Musk verbreekt relatie met moeder van vier van zijn kinderen: ‘In &#233;&#233;n week van verliefd naar gedumpt’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/elon-musk-verbreekt-relatie-met-moeder-van-vier-van-zijn-kinderen-in-een-week-van-verliefd-naar-gedumpt~afd23dbf/",
-          "publishedDate": "Fri, 02 Oct 2026 21:00:00 GMT",
-          "description": "Techmiljardair Elon Musk (53) heeft zijn relatie met Neuralink-topvrouw Shivon Zilis (40) plotseling be&#235;indigd. De breuk komt voor Zilis als een complete verrassing."
-        },
-        {
-          "title": "Relatie Elon Musk en Shivon Zilis voorbij",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/relatie-elon-musk-en-shivon-zilis-voorbij",
-          "publishedDate": "Sat, 03 Oct 2026 05:36:00 GMT",
-          "description": "Shivon Zilis bevestigt op X dat haar relatie met Elon Musk onverwacht voorbij is. Ze spreekt liefdevol, benadrukt co-ouderschap en dankbaarheid voor hun vier kinderen."
-        },
-        {
-          "title": "Elon Musk en Shivon Zilis uit elkaar: 'In &#233;&#233;n week van verliefd naar gedumpt'",
-          "source": "NU",
-          "url": "https://www.nu.nl/achterklap/6411873/elon-musk-en-shivon-zilis-uit-elkaar-in-een-week-van-verliefd-naar-gedumpt.html",
-          "publishedDate": "Sat, 03 Oct 2026 04:50:00 GMT",
-          "description": "Tesla-topman Elon Musk heeft zijn relatie met Neuralink-topvrouw Shivon Zilis na ruim vijf jaar be&#235;indigd. Volgens Zilis kwam de breuk uit het niets, laat ze via X weten. Zilis, die vier kinderen met ..."
-        },
-        {
-          "title": "Elon Musk maakt het uit met zijn vriendin: “In &#233;&#233;n week van verliefd naar gedumpt”",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/nieuws/elon-musk-maakt-het-uit-met-zijn-vriendin-in-een-week-van-verliefd-naar-gedumpt~afd23dbf/",
-          "publishedDate": "Fri, 02 Oct 2026 20:54:00 GMT",
-          "description": "Elon Musk (55) heeft zijn relatie met Neuralink-topvrouw Shivon Zilis (40) be&#235;indigd. “Het is zwaar om in &#233;&#233;n week zonder enige waarschuwing van verliefd naar gedumpt te gaan”, meldt de 40-jarige vrou ..."
-        },
-        {
-          "title": "Shivon Zilis, moeder van 4 van Musks kinderen, bevestigt breuk",
-          "source": "Newsweek on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/shivon-zilis-moeder-van-4-van-musks-kinderen-bevestigt-breuk/ar-AA2dqu18",
-          "publishedDate": "Fri, 02 Oct 2026 10:36:28 GMT",
-          "description": "In een lang bericht op X schreef Zilis dat ze zonder veel waarschuwing was gegaan van “verliefd” naar “aan de kant geschoven”."
-        },
-        {
-          "title": "Shivon Zilis, moeder van 4 kinderen van Elon Musk, zegt op OpenAI-proces dat ze &quot;bemiddelde&quot; (niet spioneerde)",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/05/07/shivon-zilis-getuigt-in-rechtszaak-van-musk-tegen-altman-openai/",
-          "publishedDate": "Wed, 06 May 2026 23:41:00 GMT",
-          "description": "In de rechtszaak die Elon Musk heeft aangespannen tegen Sam Altman van OpenAI, heeft gewezen bestuurslid Shivon Zilis getuigd. Zij verklaarde voor het eerst hoe ze kinderen met Musk kreeg. Het ging om ..."
-        },
-        {
-          "title": "Shivon Zilis, moeder van 4 kinderen van Elon Musk, zegt op OpenAI-proces dat ze &quot;bemiddelde&quot; (niet spioneerde)",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/shivon-zilis-moeder-van-4-kinderen-van-elon-musk-zegt-op-openai-proces-dat-ze-bemiddelde-niet-spioneerde/ar-AA22A8Ry",
-          "publishedDate": "Wed, 06 May 2026 23:41:00 GMT",
-          "description": "Musk eist meer dan 130 miljard dollar schadevergoeding van Altman. De 2 techgiganten richtten in 2015 OpenAI, het bedrijf achter ChatGPT, op als non-profitorganisatie. Musk verliet OpenAI in 2018."
-        },
-        {
-          "title": "Elon Musk opnieuw vader geworden van zoontje en d&#237;t is zijn naam",
-          "source": "shownieuws",
-          "url": "https://www.shownieuws.nl/algemeen/buitenland/artikelen/elon-musk-opnieuw-vader-geworden-van-zoontje-en-dit-is-zijn-naam",
-          "publishedDate": "Sat, 01 Mar 2025 02:04:00 GMT",
-          "description": "Miljardair Elon Musk heeft er weer een kind bij, zijn veertiende. Het gaat om een zoon die hij kreeg met Shivon Zilis, die werkt bij Musks bedrijf Neuralink. Met haar heeft hij al drie andere kinderen ..."
-        },
-        {
-          "title": "Elon Musk (53) verwelkomt zijn veertiende kind, alweer met niet-alledaagse naam",
-          "source": "Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/opmerkelijk/elon-musk-53-verwelkomt-zijn-veertiende-kind-alweer-met-niet-alledaagse-naam/46446501.html",
-          "publishedDate": "Sat, 01 Mar 2025 01:46:00 GMT",
-          "description": "Miljardair Elon Musk heeft een nieuw kind, zijn veertiende. Zijn nieuwste kind is een zoon die hij kreeg met Shivon Zilis, die werkt bij Musks bedrijf Neuralink. Met haar heeft hij al drie andere ..."
-        }
-      ]
-    },
-    {
-      "keyword": "geldautomaat",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Bange plofkraker geldautomaat Holi&#235;rhoek ‘vervulde onmisbare rol’: dertig maanden cel",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/vlaardingen/bange-plofkraker-geldautomaat-holierhoek-vervulde-onmisbare-rol-dertig-maanden-cel~ac3172a8/",
-          "publishedDate": "Sat, 03 Oct 2026 03:00:00 GMT",
-          "description": "Voor een mislukte plofkraak op een geldautomaat in het Vlaardingse winkelcentrum Holi&#235;rhoek is de 24-jarige &lt;a href=&quot;https://www.ad.nl/vlaardingen/agenten-zagen-twee-benen-bungelen-uit-geldautomaat-ve ..."
-        },
-        {
-          "title": "Man vindt bijna 130.000 dollar die monteur bij geldautomaat in VS was vergeten",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/opmerkelijk/6411886/man-vindt-bijna-130000-dollar-die-monteur-bij-geldautomaat-in-vs-was-vergeten.html",
-          "publishedDate": "Fri, 02 Oct 2026 17:15:00 GMT",
-          "description": "Een 37-jarige man heeft begin augustus bij een geldautomaat in de Amerikaanse staat Texas een tas met 128.514 dollar (114.139 euro) gevonden. Een monteur had het geld na onderhoud aan de automaat per ..."
-        },
-        {
-          "title": "Agenten zagen twee benen bungelen uit geldautomaat: verdachte plofkraak op heterdaad betrapt",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/vlaardingen/agenten-zagen-twee-benen-bungelen-uit-geldautomaat-verdachte-plofkraak-op-heterdaad-betrapt~aff2ebe7/",
-          "publishedDate": "Fri, 11 Sep 2026 18:36:00 GMT",
-          "description": "Agenten hoorden een enorme knal, zagen een rookpluim en daarna twee bungelende benen uit een geldautomaat. De 24-jarige S.B. uit Amsterdam werd op heterdaad betrapt bij een plofkraak van een geldautom ..."
-        },
-        {
-          "title": "Cash op straat: geldautomaat in Rotterdam blijft maar ongevraagd munten spuwen",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/binnenland/cash-op-straat-geldautomaat-in-rotterdam-blijft-maar-ongevraagd-munten-spuwen/146011768.html",
-          "publishedDate": "Wed, 15 Apr 2026 23:56:00 GMT",
-          "description": "Het apparaat in de havenstad spuwde honderden muntjes uit. Het geld lag voor het oprapen. Maar in plaats van het geld vrolijk mee te nemen, meldden eerlijke vinders het probleem. „Collega’s kregen een ..."
-        },
-        {
-          "title": "Explosie bij geldautomaat aan Hoofddorpweg, derde plofkraak in Amsterdam dit jaar",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/amsterdam/explosie-bij-geldautomaat-aan-hoofddorpweg-derde-plofkraak-in-amsterdam-dit-jaar~be012ff6/",
-          "publishedDate": "Mon, 23 Mar 2026 00:50:00 GMT",
-          "description": "Omwonenden werden rond 03.45 uur opgeschrikt door een zeer harde knal. ‘Veel bewoners in de buurt zijn wakker geschrokken,’ aldus de politie. Surveillerende agenten die de explosie hoorden, gingen ..."
-        },
-        {
-          "title": "Smeermaas krijgt voorlopig geen geldautomaat: Vooruit blijft aandringen na petitie met 350 handtekeningen",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/lanaken/smeermaas-krijgt-voorlopig-geen-geldautomaat-vooruit-blijft-aandringen-na-petitie-met-350-handtekeningen~a4e17987/",
-          "publishedDate": "Tue, 29 Sep 2026 00:41:00 GMT",
-          "description": "Smeermaas krijgt voorlopig geen geldautomaat. Dat blijkt na een overleg tussen Vooruit Lanaken, burgemeester Marino Keulen en Batopin, de organisatie die instaat voor de spreiding van de geldautomaten ..."
-        },
-        {
-          "title": "Remo kon maandelijks verdienen aan pinautomaat in zijn gevel, maar Enschede weigert vergunning",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/enschede/remo-kon-maandelijks-verdienen-aan-pinautomaat-in-zijn-gevel-maar-enschede-weigert-vergunning~aefdb73d/",
-          "publishedDate": "Mon, 28 Sep 2026 21:38:00 GMT",
-          "description": "Enschede verleent geen vergunning voor een geldautomaat aan de Haverstraatpassage. De gemeente heeft de aanvraag geweigerd, mede vanwege het risico op plofkraken."
-        },
-        {
-          "title": "Teralfene heeft na jaren getouwtrek opnieuw geldautomaat maar nu verschuift het probleem zich naar Essene",
-          "source": "Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/regio/vlaams-brabant/halle-vilvoorde/affligem/teralfene-heeft-na-jaren-getouwtrek-opnieuw-geldautomaat-maar-nu-verschuift-het-probleem-zich-naar-essene/157454888.html",
-          "publishedDate": "Fri, 19 Jun 2026 05:18:00 GMT",
-          "description": "AffligemTien jaar na de sluiting van het KBC-bankkantoor, heeft het centrum van Teralfene opnieuw een geldautomaat. Het nieuwe cashpunt bevindt zich in de Potaardestraat, vlakbij de kerk. “De ..."
-        },
-        {
-          "title": "Astene krijgt opnieuw geldautomaat, burgemeester pleit voor cashpunten in andere deelgemeenten",
-          "source": "HLN",
-          "url": "https://www.hln.be/deinze/astene-krijgt-opnieuw-geldautomaat-burgemeester-pleit-voor-cashpunten-in-andere-deelgemeenten~a3a096c3/",
-          "publishedDate": "Thu, 18 Sep 2025 03:59:00 GMT",
-          "description": "Lees meer over de gemeenteraad van Deinze in ons dossier. Op de gemeenteraad van donderdag 25 september bespreken de raadsleden de plaatsing van een cashkiosk in de Nieuwstraat in Astene. Sinds de ..."
-        },
-        {
-          "title": "Wevelgem installeert als eerste Belgische gemeente zelf nieuwe geldautomaat: “We begrijpen de gemeente, maar dit kan niet de bedoeling zijn”",
-          "source": "Gazet van Antwerpen",
-          "url": "https://www.gva.be/binnenland/wevelgem-installeert-als-eerste-belgische-gemeente-zelf-nieuwe-geldautomaat-we-begrijpen-de-gemeente-maar-dit-kan-niet-de-bedoeling-zijn/35708950.html",
-          "publishedDate": "Thu, 09 Mar 2023 07:52:00 GMT",
-          "description": "Een primeur in Vlaanderen. De gemeente Wevelgem heeft het heft in eigen handen genomen en financiert zelf de installatie van een nieuwe geldautomaat. “Is dat onze taak? Nee, maar we hebben gemerkt hoe ..."
         }
       ]
     },
     {
       "keyword": "transfer",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "RTL-transfer Eva Jinek kwam tot stand in geheime kamertjes Hilton",
@@ -559,18 +417,18 @@
           "description": "De voorgenomen transfer van Anis Hadj Moussa van Feyenoord naar Al-Ittihad is voorlopig van de baan. De Saoedische club had op hoofdlijnen een mondeling akkoord bereikt over de komst van de Algerijnse ..."
         },
         {
-          "title": "Woede om Deadline Day-transfer Ajax: ‘Belachelijk, echt een vorm van arrogantie!’",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/09/ajax-keihard-aangepakt-door-belachelijke-late-transfer-een-vorm-van-arrogantie",
-          "publishedDate": "Wed, 02 Sep 2026 04:17:00 GMT",
-          "description": "De komst van Ger&#243;nimo Spina naar Jong Ajax zorgt voor woede bij de Transfershow van FC Afkicken en het AD. Mart ten Have spreekt van een ‘middelvinger’."
-        },
-        {
           "title": "Transfer Baas naar FC Porto op losse schroeven",
           "source": "Voetbal International",
           "url": "https://www.vi.nl/nieuws/transfer-baas-naar-fc-porto-op-losse-schroeven",
           "publishedDate": "Mon, 31 Aug 2026 04:53:00 GMT",
           "description": "Het is nog maar de vraag of Youri Baas zijn transfer naar FC Porto gaat krijgen. Ajax was met de Portugese club in gesprek, maar het ziet er op dit moment naar uit dat de deal niet doorgaat."
+        },
+        {
+          "title": "Wouter Goes spreekt zich uit over transfer naar Ajax: 'Ik zeg...'",
+          "source": "FC Update",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/wouter-goes-spreekt-zich-uit-over-transfer-naar-ajax-ik-zeg",
+          "publishedDate": "Wed, 26 Aug 2026 01:20:00 GMT",
+          "description": "Wouter Goes was deze zomer van plan om een nieuwe stap te zetten in zijn voetbalcarri&#232;re. Tot een vertrek kwam het echter niet: de verdediger bleef bij AZ en verlengde zijn contract zelfs tot medio ..."
         },
         {
           "title": "Driouech ontbreekt tegen Groningen: transfer in de maak",
@@ -582,9 +440,106 @@
       ]
     },
     {
-      "keyword": "rijnmond",
-      "trafficLabel": "5K+",
+      "keyword": "michael douglas",
+      "trafficLabel": "10K+",
       "articles": [
+        {
+          "title": "Michael Douglas loog veertig jaar over romance met collega op filmset",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/achterklap/6411836/michael-douglas-loog-veertig-jaar-over-romance-met-collega-op-filmset.html",
+          "publishedDate": "Fri, 02 Oct 2026 13:08:00 GMT",
+          "description": "Michael Douglas heeft veertig jaar lang gelogen over een korte romance met collega Kathleen Turner tijdens de opnames van de film Romancing the Stone uit 1984. De Amerikaanse acteur wilde zijn gezin b ..."
+        },
+        {
+          "title": "Huwelijk Hollywood-sterren Michael Douglas (80) en Catherine Zeta-Jones (55) geklapt? Geruchtenmolen draait op volle toeren",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/entertainment/gossip/huwelijk-hollywood-sterren-michael-douglas-80-en-catherine-zeta-jones-55-geklapt-geruchtenmolen-draait-op-volle-toeren/66474158.html",
+          "publishedDate": "Sun, 11 May 2025 12:30:00 GMT",
+          "description": "Huwelijk Hollywood-sterren Michael Douglas (80) en Catherine Zeta-Jones (55) geklapt? Geruchtenmolen draait op volle toeren Het lijkt erop dat het huwelijk van Michael Douglas en Catherine Zeta-Jones ..."
+        },
+        {
+          "title": "Michael Douglas finally admits to secret affair with Romancing The Stone co-star Kathleen Turner in the 80s",
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/tvandshowbiz/40570800/michael-douglas-admits-affair-kathleen-turner/",
+          "publishedDate": "Sat, 03 Oct 2026 06:39:00 GMT",
+          "description": "MICHAEL Douglas has finally admitted to having a secret affair with Romancing The Stone co-star Kathleen Turner. The actor, 82, has confessed to having a relationship with Kathleen as they filmed ..."
+        },
+        {
+          "title": "Michael Douglas biecht na 40 jaar affaire op: “We logen om mijn vrouw en zoon te beschermen”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/celebrities/michael-douglas-biecht-na-40-jaar-affaire-op-we-logen-om-mijn-vrouw-en-zoon-te-beschermen~a87f066f/",
+          "publishedDate": "Fri, 02 Oct 2026 17:04:00 GMT",
+          "description": "Michael Douglas (82) heeft meer dan 40 jaar een romance met zijn collega-actrice Kathleen Turner (72) verzwegen. Tijdens de opnames van ‘Romancing the Stone’ sloeg de vonk ook naast de camera over, on ..."
+        },
+        {
+          "title": "Michael Douglas loog veertig jaar over romance met collega",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/michael-douglas-loog-veertig-jaar-over-romance-met-collega",
+          "publishedDate": "Fri, 02 Oct 2026 11:47:00 GMT",
+          "description": "Michael Douglas onthult in memoires dat hij 40 jaar loog over zijn affaire met collega Kathleen Turner tijdens Romancing the Stone (1984). Lees zijn bekentenis."
+        },
+        {
+          "title": "Michael Douglas neemt ingrijpend besluit: ‘Ik wil niet een van die mensen zijn die dood neervallen op de filmset’",
+          "source": "story",
+          "url": "https://www.story.nl/showbizz/michael-douglas-neemt-ingrijpend-besluit~4e47a0a",
+          "publishedDate": "Sat, 26 Jul 2025 11:00:00 GMT",
+          "description": "Michael Douglas zegt dat hij ‘niet de intentie’ heeft om ooit nog te acteren. In 2022 stond hij voor het laatst op een filmset en terugkeren ziet hij niet meer gebeuren. ‘Ik ben niet met pensioen, ..."
+        },
+        {
+          "title": "Michael Douglas laat fans gissen: stopt hij echt met acteren na al die jaren?",
+          "source": "serietotaal",
+          "url": "https://www.serietotaal.nl/nieuws/39851/michael-douglas-laat-fans-gissen-stopt-hij-echt-met-acteren-na-al-die-jaren",
+          "publishedDate": "Sat, 19 Jul 2025 11:30:00 GMT",
+          "description": "Wie zich afvroeg waarom Michael Douglas de afgelopen jaren vrijwel niet meer te zien was, heeft nu een helder antwoord. De inmiddels 80-jarige acteur heeft besloten het rustiger aan te doen. Tijdens ..."
+        },
+        {
+          "title": "Michael Douglas (80) is niet van plan nog te acteren: “Ik wil niet iemand zijn die dood neervalt op de set”",
+          "source": "HLN",
+          "url": "https://www.hln.be/film/michael-douglas-80-is-niet-van-plan-nog-te-acteren-ik-wil-niet-iemand-zijn-die-dood-neervalt-op-de-set~af897f7b1/",
+          "publishedDate": "Mon, 07 Jul 2025 03:30:00 GMT",
+          "description": "“Ik heb sinds 2022 bewust niet meer gewerkt, omdat ik besefte dat ik moest stoppen”, vertelde Douglas. “Ik heb bijna zestig jaar behoorlijk hard gewerkt en ik wil niet iemand zijn die dood neervalt op ..."
+        },
+        {
+          "title": "Video van bijna onherkenbare Michael Douglas (79): hij is nu &#233;cht heel oud",
+          "source": "FilmTotaal",
+          "url": "https://www.filmtotaal.nl/nieuws/115645",
+          "publishedDate": "Sun, 01 Sep 2024 06:29:00 GMT",
+          "description": "Michael Douglas in de Ant-Man-films te zien is. Het eerste deel werd in 2015 uitgebracht en de derde in 2023. De iconische acteur is inmiddels wel al 79 jaar en zal eind september zijn 80ste ..."
+        },
+        {
+          "title": "Michael Douglas verklapt hoe hij uit de schaduw van zijn beroemde vader Kirk Douglas stapte",
+          "source": "FilmTotaal",
+          "url": "https://www.filmtotaal.nl/nieuws/112517",
+          "publishedDate": "Thu, 25 Apr 2024 03:12:00 GMT",
+          "description": "Michael Douglas mag dan een iconische ster zijn, maar zijn inmiddels overleden vader Kirk Douglas is het ook - en bovendien in dezelfde filmindustrie in Hollywood. Daardoor duurde het heel lang ..."
+        }
+      ]
+    },
+    {
+      "keyword": "rijnmond",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Pieter (26) is eigenaar van het sterrenrestaurant waar hij begon als stagiair: 'Elke dag een stukje beter'",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2258884/pieter-26-is-eigenaar-van-het-sterrenrestaurant-waar-hij-begon-als-stagiair-elke-dag-een-stukje-beter",
+          "publishedDate": "Sat, 03 Oct 2026 09:31:00 GMT",
+          "description": "Hij heeft nog geen dertig kaarsjes uitgeblazen, maar de 26-jarige Pieter Timmer heeft al een bijzondere loopbaan achter de rug. Ooit begon hij als stagiair bij sterrenzaak Joelia aan de Coolsingel, te ..."
+        },
+        {
+          "title": "36 woningen en horeca: na ruim vijftien jaar wordt er eindelijk gebouwd op dit lege terrein",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2257862/36-woningen-en-horeca-na-ruim-vijftien-jaar-wordt-er-eindelijk-gebouwd-op-dit-lege-terrein",
+          "publishedDate": "Sat, 03 Oct 2026 08:18:00 GMT",
+          "description": "Al in 2012 gingen de oude panden naast het Papendrechtse gemeentehuis tegen de vlakte. Sinds die tijd deed het terrein vooral dienst als uitbreiding van het marktplein. Toch werd er altijd gesproken o ..."
+        },
+        {
+          "title": "Man op step gewond na botsing met auto",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2261980/man-op-step-gewond-na-botsing-met-auto",
+          "publishedDate": "Sat, 03 Oct 2026 08:15:00 GMT",
+          "description": "Een man op een step en een auto zijn zaterdagmiddag in Kinderdijk tegen elkaar gebotst. Het ongeluk gebeurde rond 13:00 op het fietspad langs de Molenstraat. De man op de step raakte gewond en is meeg ..."
+        },
         {
           "title": "Matthijs is de bedenker van de plantaarnpaal: 'Dit kan veel verschil maken in Rotterdam'",
           "source": "Rijnmond",
@@ -614,6 +569,13 @@
           "description": "De overlastgevers die rondhangen bij metrostation Maassluis-West zijn voor een deel jonger dan 14 jaar. Dat heeft burgemeester De Vries van Maassluis gemeld in de gemeenteraad."
         },
         {
+          "title": "Botsing tussen auto en ambulance | Man op step gewond na aanrijding met auto",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2262261/botsing-tussen-auto-en-ambulance-man-op-step-gewond-na-aanrijding-met-auto",
+          "publishedDate": "Sat, 03 Oct 2026 00:50:00 GMT",
+          "description": "In dit blog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws uit de regio van zaterdag 3 oktober."
+        },
+        {
           "title": "Twee ontploffingen in Rotterdam-Zuid | Vrachtwagen te water in Gorinchem",
           "source": "Rijnmond",
           "url": "https://www.rijnmond.nl/nieuws/2262261/twee-ontploffingen-in-rotterdam-zuid-vrachtwagen-te-water-in-gorinchem",
@@ -626,110 +588,6 @@
           "url": "https://www.rijnmond.nl/nieuws/2261566/petra-49-is-eenzaam-en-begint-stiekem-een-erotische-relatie-met-een-patient-ik-vond-hem-een-mooi-mens",
           "publishedDate": "Sat, 03 Oct 2026 00:18:00 GMT",
           "description": "Petra bedrijft de liefde met een kwetsbare pati&#235;nt in de zorginstelling waar ze werkt. Op papier is ze een seksueel roofdier, dat misbruik maakt van haar positie. Maar klopt dat ook met de realiteit?"
-        },
-        {
-          "title": "Fietser (40) overleden na aanrijding door Porsche",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2262251/fietser-40-overleden-na-aanrijding-door-porsche",
-          "publishedDate": "Fri, 02 Oct 2026 22:43:00 GMT",
-          "description": "In het centrum van Rotterdam is kort na middernacht een fietser om het leven gekomen. Dat gebeurde nadat hij was aangereden door een Porsche Cayenne."
-        },
-        {
-          "title": "'Opa sigaar' toont veerkracht: gemakswinkel weer open na grote explosie",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2261813/opa-sigaar-toont-veerkracht-gemakswinkel-weer-open-na-grote-explosie",
-          "publishedDate": "Fri, 02 Oct 2026 22:14:00 GMT",
-          "description": "“Ik zag heel mijn leven in duigen vallen.” De tranen staan Ozan Pyade (31) nog in de ogen als hij terugdenkt aan de plofkraak op een geldautomaat bij zijn winkel in Vlaardingen-Holy. “Het plafond was ..."
-        },
-        {
-          "title": "RET worstelt met ongewenst gedrag op de werkvloer: 'Sommige opmerkingen kunnen &#233;cht niet meer'",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2262007/ret-worstelt-met-ongewenst-gedrag-op-de-werkvloer-sommige-opmerkingen-kunnen-echt-niet-meer",
-          "publishedDate": "Fri, 02 Oct 2026 22:11:00 GMT",
-          "description": "Medewerkers van de RET worden geregeld geconfronteerd met ongewenst gedrag, zoals seksisme, racisme en discriminatie. Dat blijkt uit een onafhankelijk cultuuronderzoek onder het personeel, dat Rijnmon ..."
-        },
-        {
-          "title": "OM koerst af op tbs met dwangverpleging in zaak rond dood Sam van Buul (24)",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2262020/om-koerst-af-op-tbs-met-dwangverpleging-in-zaak-rond-dood-sam-van-buul-24",
-          "publishedDate": "Fri, 02 Oct 2026 10:00:00 GMT",
-          "description": "Het Openbaar Ministerie (OM) wil tbs met dwangverpleging eisen tegen Rick van R. (29) voor betrokkenheid bij de dood van de jonge moeder Sam van Buul. Dat bleek vrijdagmorgen tijdens de vierde inleide ..."
-        }
-      ]
-    },
-    {
-      "keyword": "delft",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Inbrekers sloegen donderdag vijf keer toe in Delft",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-delft/inbrekers-sloegen-donderdag-vijf-keer-toe-in-delft~a2f3eeea/",
-          "publishedDate": "Fri, 02 Oct 2026 04:00:00 GMT",
-          "description": "In de gemeente Delft is donderdag vijf keer ingebroken. Dit blijkt uit data van de politie die door deze site geautomatiseerd is geanalyseerd."
-        },
-        {
-          "title": "Delft moet klacht van zieke huurder opnieuw behandelen na oordeel van hoogste bestuursrechter",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/delft/delft-moet-klacht-van-zieke-huurder-opnieuw-behandelen-na-oordeel-van-hoogste-bestuursrechter~a63f3b54/",
-          "publishedDate": "Thu, 01 Oct 2026 19:04:00 GMT",
-          "description": "Zijn ernstige medische aandoeningen belemmeren hem om op de tweede verdieping te komen, in zijn Delftse flatwoning die ook nog eens te klein is. De man vroeg de gemeente dus om voorrang op een andere ..."
-        },
-        {
-          "title": "Tweede ontmoeting met DAS Delft",
-          "source": "Het Urkerland",
-          "url": "https://www.heturkerland.nl/sport/sport/52096/tweede-ontmoeting-met-das-delft",
-          "publishedDate": "Fri, 02 Oct 2026 22:29:00 GMT",
-          "description": "Voor de dames van Oveon/Orca’s staat vanavond een ontmoeting met DAS uit Delft op het programma. De opening van de competitie in de Promotiedivisie, een paar weken geleden, was de uitwedstrijd tegen.."
-        },
-        {
-          "title": "Ongeval met letsel op Isa&#228;c da Costalaan in Delft",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/zuid-holland/haaglanden/delft/55911806/p2000-ongeval-met-letsel-op-isaac-da-costalaan-in-delft.html",
-          "publishedDate": "Fri, 02 Oct 2026 17:35:00 GMT",
-          "description": "De hulpdiensten zijn zaterdagmiddag uitgerukt voor een ongeval met letsel op de kruising de Isa&#228;c da Costalaan en Multatuliweg in Delft."
-        },
-        {
-          "title": "Het oliebollenseizoen is begonnen! Deze kramen in Delft zijn al open",
-          "source": "indebuurt",
-          "url": "https://indebuurt.nl/delft/genieten-van-delft/het-oliebollenseizoen-is-begonnen-deze-kramen-in-delft-zijn-al-open~aafb1e2e0/",
-          "publishedDate": "Fri, 02 Oct 2026 10:00:00 GMT",
-          "description": "Ruik je dat? Het is de zoete geur van oliebollen. Het is nog drie maanden tot oud en nieuw, maar de eerste Delftse oliebollenkramen zijn al geopend."
-        },
-        {
-          "title": "Huisdier in de spotlight: Dit is er te doen in Delft",
-          "source": "indebuurt",
-          "url": "https://indebuurt.nl/delft/huisdier-in-de-spotlight-dit-is-er-te-doen-in-delft~a381d0be/",
-          "publishedDate": "Fri, 02 Oct 2026 00:30:00 GMT",
-          "description": "Het is dierendag, wat betekent dat je je huisdier(en) in de spotlight mag zetten! Speciaal hiervoor zetten wij onze dierendagtips op een rijtje, zodat je ook deze zondag 4 oktober 2026 speciaal maakt ..."
-        },
-        {
-          "title": "Nieuwe Kerk Delft in onderhoud, Nederlandse gereformeerde kerk Culemborg wil De Open Hof kopen – en ander plaatselijk kerknieuws",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/a/nieuwe-kerk-delft-in-onderhoud-nederlandse-gereformeerde-kerk-culemborg-wil-de-open-hof-kopen-en-ander-plaatselijk-kerknieuws",
-          "publishedDate": "Thu, 01 Oct 2026 13:10:00 GMT",
-          "description": "Burgemeester en wethouders van Pekela hebben ingegrepen bij de voorgenomen verkoop van twee rooms-katholieke kerkgebouwen in hun gemeente: de Sint-Willibrorduskerk in Oude Pekela en de Sint-Bonifatius ..."
-        },
-        {
-          "title": "Warmtepompen, laadpalen en elektrisch koken, nieuw elektriciteitsstation in Delft maakt het voor 30.000 woningen mogelijk",
-          "source": "Solar Magazine",
-          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i44940/warmtepompen-laadpalen-en-elektrisch-koken-nieuw-elektriciteitsstation-in-delft-maakt-het-voor-30-000-woningen-mogelijk",
-          "publishedDate": "Wed, 30 Sep 2026 17:00:00 GMT",
-          "description": "Stedin heeft 3 transformatoren geplaatst in het nieuwe elektriciteitsstation aan de Kerkpolderweg in Delft. Het station gaat de wijken Voorhof, Tanthof en Buitenhof voorzien van stroom voor 30.000 won ..."
-        },
-        {
-          "title": "Darkfiber tussen Delft en Rotterdam vormt test voor quantumnetwerk",
-          "source": "Techzine",
-          "url": "https://www.techzine.nl/nieuws/infrastructure/582292/darkfiber-tussen-delft-en-rotterdam-vormt-test-voor-quantumnetwerk/",
-          "publishedDate": "Tue, 29 Sep 2026 02:00:00 GMT",
-          "description": "Eurofiber en Delft Networks openen een darkfiberlijn tussen Delft en Rotterdam om quantumverstrengeling over bestaande glasvezel te testen."
-        },
-        {
-          "title": "Geparkeerde auto zwaar beschadigd door brand Wouwstraat Delft",
-          "source": "District8.net",
-          "url": "https://district8.net/geparkeerde-auto-zwaar-beschadigd-door-brand-wouwstraat-delft.html",
-          "publishedDate": "Mon, 28 Sep 2026 18:31:00 GMT",
-          "description": "Delft – In de Wouwstraat in Delft is in de nacht van maandag 28 op dinsdag 29 september een geparkeerde auto zwaar beschadigd geraakt door brand. De melding van de autobrand kwam rond 02:37 uur binnen ..."
         }
       ]
     }
