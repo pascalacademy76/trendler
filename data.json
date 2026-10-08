@@ -1,104 +1,23 @@
 {
-  "fetchedAt": "2026-10-08T06:24:41.507Z",
+  "fetchedAt": "2026-10-08T13:49:02.338Z",
   "trends": [
     {
-      "keyword": "wateroverlast",
-      "trafficLabel": "20K+",
-      "articles": []
-    },
-    {
-      "keyword": "travis barker",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Travis Barker opgenomen in het ziekenhuis",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/travis-barker-opgenomen-in-het-ziekenhuis/ar-AA2dKu9q",
-          "publishedDate": "Wed, 07 Oct 2026 07:04:42 GMT",
-          "description": "Travis Barker is opgenomen in het ziekenhuis. De drummer deelt foto's waarop hij in een ziekenhuisbed ligt. Volgens entertainmentwebsite People moet hij mogelijk een operatie ondergaan."
-        },
-        {
-          "title": "Travis Barker stopte vlees in broek voordat hij ouders vertelde dat hij veganist is",
-          "source": "NU",
-          "url": "https://www.nu.nl/entertainment/6409689/travis-barker-stopte-vlees-in-broek-voordat-hij-ouders-vertelde-dat-hij-veganist-is.html",
-          "publishedDate": "Mon, 14 Sep 2026 06:02:00 GMT",
-          "description": "Travis Barker was dertien toen hij besloot geen vlees meer te eten en veganist te worden. Omdat hij dit niet aan zijn strenge ouders durfde te vertellen, verstopte hij het vlees van zijn bord stiekem ..."
-        },
-        {
-          "title": "‘Het was zwaarder dan ik had laten merken’: Travis Barker over zijn vliegtuigcrash, zijn huwelijk met een Kardashian en zijn passie voor de drums",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/tv-cultuur/het-was-zwaarder-dan-ik-had-laten-merken-travis-barker-over-zijn-vliegtuigcrash-zijn-huwelijk-met-een-kardashian-en-zijn-passie-voor-de-drums~bdd077fb/",
-          "publishedDate": "Mon, 24 Aug 2026 20:01:00 GMT",
-          "description": "Travis Barker (50) overleefde een vliegtuigcrash, trouwde met een Kardashian en drumde zich erdoorheen. In de docu Travis Barker: Louder Than Fear – nu te zien op Disney + – doet hij zijn verhaal."
-        },
-        {
-          "title": "Nieuwe single The Paradox – “Bender” (feat. Travis Barker)",
-          "source": "dansendeberen",
-          "url": "https://www.dansendeberen.be/2025/08/02/nieuwe-single-the-paradox-bender-feat-travis-barker/",
-          "publishedDate": "Sat, 02 Aug 2025 01:09:00 GMT",
-          "description": "Zeggen dat The Paradox aan een steile opmars bezig is, zou een van de understatements van het jaar zijn. De volledig zwarte line-up — een zeldzaamheid in een genre dat al te lang te bleek is gebleven ..."
-        },
-        {
-          "title": "Travis Barker vindt het jammer dat iemand een foto van zijn zoontje Rocky online heeft gedeeld",
-          "source": "AD",
-          "url": "https://www.ad.nl/show/travis-barker-vindt-het-jammer-dat-iemand-een-foto-van-zijn-zoontje-rocky-online-heeft-gedeeld~aee7ea00/",
-          "publishedDate": "Wed, 25 Sep 2024 16:29:00 GMT",
-          "description": "Travis Barker vindt het jammer dat iemand een foto van zijn tien maanden oude zoontje Rocky online heeft gedeeld. ,,Ik houd hem liever uit de schijnwerpers”, zegt de drummer van Blink-182 in een ..."
-        },
-        {
-          "title": "Scott Disick wil kinderen niet in buurt van kleffe Kourtney Kardashian en Travis Barker hebben",
-          "source": "rtl",
-          "url": "https://www.rtl.nl/boulevard/entertainment/artikel/5443327/scott-disick-kourtney-kardashian-travis-barker",
-          "publishedDate": "Tue, 02 Apr 2024 11:40:00 GMT",
-          "description": "Hoewel Scott en Kourtney het na hun scheiding nog steeds goed met elkaar kunnen vinden, heeft een insider aan OK! Magazine laten weten dat Scott niet wil dat Kourtney en Travis hun openbare affectie ..."
-        },
-        {
-          "title": "Naam van Kourtney Kardashian en Travis Barkers kindje onthuld",
-          "source": "HLN",
-          "url": "https://www.hln.be/celebrities/naam-van-kourtney-kardashian-en-travis-barkers-kindje-onthuld~a80317f4/",
-          "publishedDate": "Thu, 16 Nov 2023 22:17:00 GMT",
-          "description": "De naam van Kourtney Kardashian (44) en Travis Barkers (47) kindje is onthuld, 16 dagen na de geboorte. Hun zoon heet Rocky Thirteen Barker en kwam op woensdag 1 november ter wereld in een ziekenhuis, ..."
-        },
-        {
-          "title": "Kourtney Kardashian trouwt voor de derde (!) keer met haar Travis Barker",
-          "source": "Harper's Bazaar",
-          "url": "https://www.harpersbazaar.com/nl/cultuur-reizen/a40072810/kourtney-kardashian-travis-barker-bruiloft/",
-          "publishedDate": "Mon, 23 May 2022 02:12:00 GMT",
-          "description": "Wacht even... Kourtney Kardashian en Travis Barker waren toch al getrouwd? Na hun trouwerij in Las Vegas, stapte het celebrity-koppel inderdaad al in het offici&#235;le ..."
-        },
-        {
-          "title": "Dit zijn de eerste beelden van Kourtney Kardashian en Travis Barkers Italiaanse bruiloft",
-          "source": "ELLE",
-          "url": "https://www.elle.com/nl/lifestyle/lifestyle-nieuws/a40072361/kourtney-kardashian-travis-barkers-bruiloft-italie/",
-          "publishedDate": "Sun, 22 May 2022 17:00:00 GMT",
-          "description": "Halverwege april schokten Kourtney Kardashian en Travis Barker vriend en vijand toen bekend werd gemaakt dat ze stiekem in Las Vegas waren getrouwd. Helaas waren hun 'I do's' ten overstaan van een ..."
-        },
-        {
-          "title": "Wil je zien: Travis Barker geeft een tour door zijn huis in Californi&#235;",
-          "source": "ELLE",
-          "url": "https://www.elle.com/nl/lifestyle/lifestyle-nieuws/a40046536/travis-barker-housetour/",
-          "publishedDate": "Fri, 20 May 2022 05:08:00 GMT",
-          "description": "In de nieuwste aflevering van Open Door van Architectural Digest nemen we een kijkje in het huis van muzikant en man van Kourtney Kardashian, Travis Barker. Wij nemen je mee in een tour door zijn huis ..."
-        }
-      ]
-    },
-    {
       "keyword": "russen",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
+        {
+          "title": "Hongerige beren storten zich op de Russen, noodtoestand in regio Irkoetsk",
+          "source": "ED.nl",
+          "url": "https://www.ed.nl/buitenland/hongerige-beren-storten-zich-op-de-russen-noodtoestand-in-regio-irkoetsk~abbe794c/",
+          "publishedDate": "Thu, 08 Oct 2026 02:46:00 GMT",
+          "description": "Russen worden dezer dagen niet alleen aangevallen door Oekra&#239;ense drones, maar ook door beren. Inmiddels zijn er al bijna twintig dodelijke slachtoffers."
+        },
         {
           "title": "‘We vrezen de Russen, maar klimaatverandering is Nederland al lang binnengedrongen’, zeggen vijftig onderzoekers",
           "source": "NRC",
           "url": "https://www.nrc.nl/nieuws/2026/10/06/we-vrezen-de-russen-maar-klimaatverandering-is-nederland-al-lang-binnengedrongen-zeggen-vijftig-onderzoekers-in-een-nieuw-rapport-a4938254",
           "publishedDate": "Tue, 06 Oct 2026 02:30:00 GMT",
           "description": "Milieu: Deze dinsdag verscheen een rapport waaraan zo’n vijftig wetenschappers meewerkten. Voor het eerst werden de maatregelen ‘doorgerekend’ die Nederland „op de lange termijn leefbaar” moeten houde ..."
-        },
-        {
-          "title": "Russen naar stembus voor de Doema, maar kiezers hebben weinig te kiezen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2631590-russen-naar-stembus-voor-de-doema-maar-kiezers-hebben-weinig-te-kiezen",
-          "publishedDate": "Fri, 18 Sep 2026 19:37:00 GMT",
-          "description": "Sinds gisterochtend kunnen Russische kiezers naar de stembus om een nieuw Lagerhuis te kiezen, de Staatsdoema. Voor het eerst doen ook de door Rusland geannexeerde gebiedsdelen van Oekra&#239;ne mee aan de ..."
         },
         {
           "title": "Russen vrezen nieuwe mobilisatie en vluchten uit voorzorg naar Armeni&#235;",
@@ -108,32 +27,18 @@
           "description": "De mogelijkheid dat Poetin na de verkiezingen een nieuwe mobilisatie zal afkondigen, wachten veel Russen liever niet af. Veel mannen in de gevechtsleeftijd vertrekken naar Armeni&#235;."
         },
         {
-          "title": "Ongestoorde luxe: rijke, Poetingezinde Russen omzeilen via familieleden westerse sancties",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/wereld/ongestoorde-luxe-rijke-poetingezinde-russen-omzeilen-via-familieleden-westerse-sancties~b4cef1ea/",
-          "publishedDate": "Tue, 08 Aug 2023 20:00:00 GMT",
-          "description": "Russen met nauwe banden met president Vladimir Poetin of het Russische leger kunnen nog steeds vrij en ongehinderd winkelen in steden als Parijs, Londen of Amsterdam. Russische anti-oorlogsactivisten, ..."
-        },
-        {
-          "title": "Russen schuilen voor de oorlog op een bounty-eiland",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/buitenland/russen-schuilen-voor-de-oorlog-op-een-bounty-eiland~b5ee71cc/",
-          "publishedDate": "Thu, 04 May 2023 12:09:00 GMT",
-          "description": "Op Koh Phangan, een met witte zandstranden omzoomd eiland in de Golf van Thailand, hebben veel Russen sinds kort een nieuw thuis gevonden. Onder hen ook jonge mannen die onder geen beding naar het ..."
-        },
-        {
-          "title": "Poetins oorlog plaatst Russen voor dilemma: blijven of vertrekken?",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2022/11/08/poetins-oorlog-plaatst-russen-voor-dilemma-blijven-of-vertrekken-a4147583",
-          "publishedDate": "Tue, 08 Nov 2022 07:55:00 GMT",
-          "description": "opinie In een opiniestuk geeft een auteur een mening op basis van een interpretatie van beschikbare feiten Sommigen gaan weg omdat zij geen andere keus hebben. Jevgenia Albats, bijvoorbeeld, ..."
-        },
-        {
           "title": "Jaap Scholten helpt met zijn stichting het Oekra&#239;ense leger: „Alleen met geweld kun je de Russen tegenhouden”",
           "source": "Reformatorisch Dagblad",
           "url": "https://www.rd.nl/artikel/jaap-scholten-levert-met-zijn-stichting-duizenden-hulpgoederen-aan-het-oekraiense-leger-ik-ben-heel-bang-voor-het-russische-systeem",
           "publishedDate": "Wed, 07 Oct 2026 13:35:00 GMT",
           "description": "Zestien keer reisde Jaap Scholten naar het front in Oekra&#239;ne. Die reizen staafden zijn overtuiging dat hij het land moet helpen. Uit angst."
+        },
+        {
+          "title": "Rusland: de lange traditie van Kremlin-kolonialisme",
+          "source": "EW",
+          "url": "https://www.ewmagazine.nl/buitenland/achtergrond/2026/10/rusland-kolonialisme-imperialisme-sovjet-unie-desintegratie-1588526/",
+          "publishedDate": "Mon, 05 Oct 2026 22:00:00 GMT",
+          "description": "Is Rusland een koloniaal rijk? Historici verschillen over de erfenis van tsaren en Sovjets, russificatie en de vraag of de Russische Federatie ooit kan uiteenvallen."
         },
         {
           "title": "Russen ontvluchten mogelijke mobilisatie, drijven huurprijzen op in buurlanden",
@@ -143,11 +48,18 @@
           "description": "De toestroom van Russen die hun land ontvluchten drijft de prijzen van huurwoningen op in Georgi&#235;, Servi&#235; en Armeni&#235;, meldt het onafhankelijke platform Meduza. Sinds de zomer van 2026 worden de geruch ..."
         },
         {
-          "title": "Baltische staten leggen zelf sancties op aan Russen",
+          "title": "Letland stelt sancties in tegen Russen na opheffen EU-sancties",
           "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/baltische-staten-leggen-zelf-sancties-op-aan-russen",
-          "publishedDate": "Thu, 24 Sep 2026 04:11:00 GMT",
-          "description": "De Baltische staten leggen nationale sancties op aan twee Russische oligarchen die dinsdag van de EU-sanctielijst zijn gehaald. Estland, Letland en Litouwen doen dit in reactie op het besluit van de E ..."
+          "url": "https://www.rd.nl/artikel/letland-stelt-sancties-in-tegen-russen-na-opheffen-eu-sancties",
+          "publishedDate": "Tue, 22 Sep 2026 11:26:00 GMT",
+          "description": "Nu de EU-sancties tegen de Russisch-Oezbeekse miljardairs Alisjer Oesmanov en Micha&#239;l Fridman worden opgeheven, gaat Letland nationale sancties tegen hen instellen. Dat stelt de Letse regering dinsdag ..."
+        },
+        {
+          "title": "Deze Europese landen verstrekken meeste Schengenvisa aan Russen ondanks sancties",
+          "source": "Business AM",
+          "url": "https://businessam.be/deze-europese-landen-verstrekken-meeste-schengenvisa-aan-russen-ondanks-sancties/",
+          "publishedDate": "Mon, 21 Jul 2025 07:15:00 GMT",
+          "description": "Ondanks de aanhoudende sancties door de oorlog in Oekra&#239;ne hebben Russen in 2024 een aanzienlijk aantal Schengenvisumaanvragen ingediend. Vergeleken met 2023 ging het om een stijging van 16,5 procent."
         },
         {
           "title": "Russen trekken 'niemandsland' bij Charkiv binnen en dat baart analisten zorgen: &quot;Dit gaat wel h&#233;&#233;l vlot&quot;",
@@ -155,95 +67,74 @@
           "url": "https://www.vrt.be/vrtnws/nl/2024/05/13/russen-trekken-niemandsland-bij-charkiv-binnen-in-en-dat-baart/",
           "publishedDate": "Sun, 12 May 2024 22:46:00 GMT",
           "description": "Joanie de Rijke was tot gisteren in Charkiv, de eerste grote Oekra&#239;ense stad, die zo'n 70 kilometer verderop ligt. &quot;Het is een beetje een raar, tegenstrijdig verhaal&quot;, zegt ze in De Ochtend op Radio 1 ..."
+        },
+        {
+          "title": "‘Wij zijn de goeden’: waarom zo veel Russen zich achter Poetin scharen",
+          "source": "kn",
+          "url": "https://www.kn.nl/verdieping/reportage/wij-zijn-de-goeden-waarom-zo-veel-russen-zich-achter-poetin-scharen/",
+          "publishedDate": "Fri, 29 Apr 2022 03:00:00 GMT",
+          "description": "Al ongeveer twee maanden woedt Poetins “speciale militaire operatie” in Oekra&#239;ne. Maar ondanks sancties en internationale druk blijven de meeste Russen zich als &#233;&#233;n man achter hun leider scharen. Een ..."
         }
       ]
     },
     {
-      "keyword": "williams racing",
-      "trafficLabel": "5K+",
+      "keyword": "grand prix van singapore",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Williams haalt 7 kilo uit chassis: upgrade kan twee tienden waard zijn",
-          "source": "Formule1nieuws.nl",
-          "url": "https://formule1nieuws.nl/nieuws/williams-haalt-7-kilo-uit-chassis-upgrade-kan-twee-tienden-waard-zijn/",
-          "publishedDate": "Fri, 25 Sep 2026 03:12:00 GMT",
-          "description": "Williams brengt in Bakoe een upgrade die je niet ziet, maar wel voelt. Het team heeft 7 kilogram uit het chassis gehaald — een gewichtsbesparing die op papier twee tienden per ronde kan opleveren. T ..."
+          "title": "F1-coureur Bottas arriveert na fietsrit van 420 kilometer op tijd voor GP Singapore",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/formule-1/6412362/f1-coureur-bottas-arriveert-na-fietsrit-van-420-kilometer-op-tijd-voor-gp-singapore.html",
+          "publishedDate": "Wed, 07 Oct 2026 10:06:00 GMT",
+          "description": "Formule 1-coureur Valtteri Bottas is woensdag na een fietsrit van 420 kilometer op tijd gearriveerd voor de Grand Prix van Singapore. De Fin legde de reis van Maleisi&#235; naar Singapore in vier dagen met ..."
         },
         {
-          "title": "Nederlandse vrouw had contact met Formule 1-legende: 'Nee, ik ga geen ondeugend telefoongesprek voeren'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/formule-1/nieuws/nederlandse-vrouw-had-contact-met-formule-1-legende-nee-ik-ga-geen-ondeugend-telefoongesprek-voeren-2026091215413307153/",
-          "publishedDate": "Sat, 12 Sep 2026 11:14:00 GMT",
-          "description": "Een assistent van Williams, die 38 jaar ouder was dan de Nederlansde, vroeg haar om haar telefoonnummer. Dat was het begin van regelmatig telefonisch contact. Ze maakte daar geen geheim van bij haar ..."
+          "title": "Ferrari verwacht spannende strijd in Singapore: 'De marges zijn minimaal'",
+          "source": "GPblog NL on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/ferrari-verwacht-spannende-strijd-in-singapore-de-marges-zijn-minimaal/ar-AA2dM6yX",
+          "publishedDate": "Wed, 07 Oct 2026 14:03:00 GMT",
+          "description": "Fred Vasseur, teambaas van Ferrari, verwacht dat de marges bij de topteams in de Grand Prix van Singapore klein zullen zijn. Het sprintweekend speelt daar een belangrijke rol in, denkt Vasseur. Ferrar ..."
         },
         {
-          "title": "F1’s Williams Racing Puts Atlassian Under The Stopwatch",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/stevemcdowell/2025/12/03/f1s-williams-racing-puts-atlassian-under-the-stopwatch/",
-          "publishedDate": "Wed, 03 Dec 2025 08:32:00 GMT",
-          "description": "AUSTIN, TX - OCTOBER 17: Atlassian Williams Racing driver Alexander Albon (23) of Thailand speeds out of turn 15 during the first practice session of the Formula 1 MSC Cruises United States Grand Prix ..."
+          "title": "Grand Prix van Singapore 2026: Stand van zaken voorafgaand aan de race en odds",
+          "source": "news.bet365",
+          "url": "https://news.bet365.nl/nl-nl/article/grand-prix-van-singapore-2026-stand-van-zaken-voorafgaand-aan-de-race-en-odds/2026100708465144817",
+          "publishedDate": "Wed, 07 Oct 2026 01:47:00 GMT",
+          "description": "Het is een feit: Max Verstappen is ook dit jaar een Grand Prix-winnaar. De Nederlander kwam sneller dan de Mercedes van WK-leider Andrea Kimi Antonelli over de streep tijdens de GP Bahrein in Maleisi&#235; ..."
         },
         {
-          "title": "Williams gaat verder onder nieuwe naam",
-          "source": "https//racingnews365.nl",
-          "url": "https://racingnews365.nl/williams-gaat-verder-onder-nieuwe-naam",
-          "publishedDate": "Sun, 02 Nov 2025 22:01:00 GMT",
-          "description": "Het F1-team van Williams is al 48 jaar een vaste waarde op de F1-grid en behoort daarbij tot een van de meest succesvolle teams aller tijden. Met 114 overwinningen, zeven coureurstitels en negen ..."
+          "title": "Grand Prix van Singapore 2026: data, tijden, waar je kan kijken, circuit, weer en odds",
+          "source": "news.bet365",
+          "url": "https://news.bet365.nl/nl-nl/article/grand-prix-van-singapore-2026-data-tijden-waar-je-kan-kijken-circuit-weer-en-odds/2026100620160488142",
+          "publishedDate": "Tue, 06 Oct 2026 10:46:00 GMT",
+          "description": "Het raceweekend in Singapore is een sprintweekend. Het programma telt &#233;&#233;n vrije training, een sprintkwalificatie en een sprintrace, gevolgd door de gewone kwalificatie en de race op zondag 11 oktober ..."
         },
         {
-          "title": "Williams onthult nieuwe Formule 1-auto voor het 2025-seizoen",
-          "source": "gpblog.com",
-          "url": "https://www.gpblog.com/nl/breaking-news/williams-racing-onthult-de-nieuwe-auto-voor-het-f1-seizoen-2025.html",
-          "publishedDate": "Fri, 14 Feb 2025 02:41:00 GMT",
-          "description": "Cas van de Kleut is redacteur bij GPblog en gespecialiseerd in Formule 1-nieuws en analyses. Met ervaring in interviews, liveblogs en evenementen levert hij actuele berichtgeving en onderbouwde ..."
+          "title": "Hoe laat is de F1 in Singapore? Alle Nederlandse tijden van het eerste Sprint-weekend op Marina Bay",
+          "source": "RaceXpress",
+          "url": "https://www.racexpress.nl/formule-1/hoe-laat-is-de-f1-in-singapore-alle-nederlandse-tijden-van-het-eerste-sprint-weekend-op-marina-bay/n/156923",
+          "publishedDate": "Tue, 06 Oct 2026 02:43:00 GMT",
+          "description": "De Formule 1 rijdt van 9 tot en met 11 oktober op het Marina Bay Street Circuit, onder de offici&#235;le naam Formula 1 Singapore Airlines Singapore ..."
         },
         {
-          "title": "Who are Atlassian Williams F1 Team’s Race Engineers?",
-          "source": "Williams Grand Prix Engineering",
-          "url": "https://www.williamsf1.com/articles/02a83d24-0b78-45d7-b4d4-761126af18f8/who-are-williams-racing-race-engineers",
-          "publishedDate": "Thu, 07 Nov 2024 09:00:00 GMT",
-          "description": "A Formula 1 Race Engineer is a critical member of the race weekend operation, acting as the main communicator between the team and the drivers. At Williams, our Race Engineers are based on the ..."
-        },
-        {
-          "title": "Hoe Williams zichzelf omhoog werkte in de Formule 1",
-          "source": "F1 Maximaal",
-          "url": "https://www.f1maximaal.nl/formule-1/hoe-williams-zichzelf-omhoog-werkte-in-de-formule-1",
-          "publishedDate": "Sat, 22 May 2021 08:59:00 GMT",
-          "description": "Hoewel de renstal anno 2021 een bijrol speelt in de Formule 1, mag de 750e Grand Prix van Williams aan niemand voorbijgaan. Aankomende race in Monaco is het namelijk zo ver: dan staat er voor de 750 ..."
-        },
-        {
-          "title": "Familie Williams stapt uit Williams Racing",
-          "source": "topgear",
-          "url": "https://topgear.nl/formule-1/williams-verkoopt-stapt-uit-racing/",
-          "publishedDate": "Thu, 03 Sep 2020 07:33:00 GMT",
-          "description": "Je kunt het je nu bijna niet meer voorstellen, maar ooit was Williams oppermachtig in de F1. In hun ruim vier decennia in de sport pakten ze negen constructeurskampioenschappen en zeven rijderstitels."
-        },
-        {
-          "title": "Williams Racing Arg",
-          "source": "x",
-          "url": "https://x.com/WilliamsF1arg",
-          "publishedDate": "Fri, 10 Jul 2020 22:00:00 GMT",
-          "description": "Cuenta Fan Argentina 🇦🇷 sobre el equipo de Grove, 16 campeonatos, mas de 850 carreras, 114 victorias, 128 poles, 134 vueltas r&#225;pidas y 315 podios."
-        },
-        {
-          "title": "Williams: &quot;Race verklaarde kwalificatieposities&quot;",
-          "source": "gptoday",
-          "url": "https://www.gptoday.net/nl/nieuws/f1/3921/williams-race-verklaarde-kwalificatieposities",
-          "publishedDate": "Sun, 31 Jul 2005 10:51:00 GMT",
-          "description": "De slechte kwalificatie van gisteren bij Williams kan door het verloop van de race worden uitgelegd, zo verklaart BMW motorsport directeur Mario Theissen. Nick Heidfeld en Mark Webber wisten vanaf een ..."
+          "title": "Dit is het tijdschema voor de Grand Prix van Singapore",
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1091076/dit-is-het-tijdschema-voor-de-grand-prix-van-singapore/",
+          "publishedDate": "Tue, 06 Oct 2026 01:03:00 GMT",
+          "description": "Het raceweekend in Maleisie zit erop en dat betekent dat de Formule 1 zich deze week alweer gaat opmaken voor het laatste gedeelte van de triple header, namelijk de Grand Prix van Singapore."
         }
       ]
     },
     {
       "keyword": "a7",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Twee personen naar ziekenhuis na ernstige botsing op A7 bij Oostwold",
+          "title": "Auto belandt in sloot naast A7 bij Schettens",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-westerkwartier/twee-personen-naar-ziekenhuis-na-ernstige-botsing-op-a7-bij-oostwold~a1b334a5/",
-          "publishedDate": "Wed, 07 Oct 2026 01:37:00 GMT",
-          "description": "Op de snelweg A7 bij Oostwold heeft een ernstig ongeluk plaatsgevonden waarbij twee personen gewond zijn geraakt. Twee auto’s en een busje met aanhanger zijn op elkaar gebotst op woensdagmiddag."
+          "url": "https://www.ad.nl/112-nieuws-sudwest-fryslan/auto-belandt-in-sloot-naast-a7-bij-schettens~a6aedcb3/",
+          "publishedDate": "Thu, 08 Oct 2026 01:10:00 GMT",
+          "description": "Een auto is donderdagochtend in de sloot beland naast de A7 ter hoogte van Schettens. Het is niet bekend of er gewonden zijn gevallen."
         },
         {
           "title": "Auto vliegt in brand op A7 bij Heerenveen",
@@ -258,6 +149,13 @@
           "url": "https://noordernieuws.nl/2026/10/zwangere-vrouw-en-kind-naar-ziekenhuis-na-ernstig-ongeval-op-snelweg/",
           "publishedDate": "Wed, 07 Oct 2026 11:28:00 GMT",
           "description": "OOSTWOLD – Bij een ernstig ongeluk op de A7 bij Oostwold zijn woensdagmiddag meerdere voertuigen op elkaar gebotst. Een zwangere vrouw en een kind zijn naar het ziekenhuis gebracht. Het ongeluk gebeur ..."
+        },
+        {
+          "title": "Twee mensen naar ziekenhuis na ongeval met drie auto’s op A7",
+          "source": "OOG Groningen",
+          "url": "https://www.oogtv.nl/2026/10/twee-mensen-naar-ziekenhuis-na-ongeval-met-drie-autos-op-a7/",
+          "publishedDate": "Wed, 07 Oct 2026 10:22:00 GMT",
+          "description": "Bij een ongeval met drie auto's op de A7 bij Oostwold zijn woensdagmiddag twee mensen gewond geraakt.Het ongeval gebeurde rond 16.25 uur ter hoogte van Oostwold, in de gemeente Westerkwartier. Voor ..."
         },
         {
           "title": "Ernstig ongeluk op A7 bij Oostwold: 'zwangere vrouw en kinderen naar ziekenhuis'",
@@ -281,16 +179,9 @@
           "description": "Het is nog niet bekend hoelang de maximumsnelheid op de A7 tussen Groningen en Leek 90 kilometer per uur blijft. Dat zegt Rijkswaterstaat."
         },
         {
-          "title": "Vrachtwagen met pech zorgt voor vijf kilometer file",
-          "source": "NoorderNieuws",
-          "url": "https://noordernieuws.nl/2026/10/vrachtwagen-met-pech-zorgt-voor-vijf-kilometer-file/",
-          "publishedDate": "Tue, 06 Oct 2026 03:16:00 GMT",
-          "description": "TERWISPEL – Een vrachtwagen met pech zorgt dinsdagochtend voor verkeershinder op de A7 tussen Beetsterzwaag en Terwispel. De combinatie kwam eerder met pech te staan tijdens een file die was ontstaan ..."
-        },
-        {
-          "title": "Koade giel om tichte mist",
+          "title": "File op de A7 yn 'e rjochting fan It Hearrenfean troch &#251;ngelok by L&#250;ksw&#226;ld",
           "source": "Omrop Frysl&#226;n",
-          "url": "https://www.omropfryslan.nl/fy/nijs/18835372/file-op-de-a7-yn-e-rjochting-fan-it-hearrenfean-troch-stikkene-frachtwein-koade-giel-om-tichte-mist",
+          "url": "https://www.omropfryslan.nl/fy/nijs/18835372/file-op-de-a7-yn-e-rjochting-fan-it-hearrenfean-troch-ungelok-by-lukswald",
           "publishedDate": "Mon, 05 Oct 2026 17:00:00 GMT",
           "description": "Hjir fynst in oersjoch fan &#251;nder oare &#251;ngelokken, brannen en ferkearsynformaasje yn &#250;s provinsje. Wolst meldingen krije by in nij berjocht? Klik dan op it beltsje boppe-oan yn de app."
         },
@@ -312,93 +203,76 @@
     },
     {
       "keyword": "overasselt",
-      "trafficLabel": "5K+",
-      "articles": []
-    },
-    {
-      "keyword": "protest",
-      "trafficLabel": "5K+",
-      "articles": []
-    },
-    {
-      "keyword": "geneesmiddel",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Novo Nordisk geeft update over aanvraag voor een vergunning voor een biologisch geneesmiddel voor denecimig in de VS",
-          "source": "MarketScreener",
-          "url": "https://nl.marketscreener.com/beursnieuws/novo-nordisk-geeft-update-over-aanvraag-voor-een-vergunning-voor-een-biologisch-geneesmiddel-voor-de-ce785ddbdd88f222",
-          "publishedDate": "Fri, 02 Oct 2026 10:20:00 GMT",
-          "description": "Novo Nordisk heeft bekendgemaakt dat de Amerikaanse Food and Drug Administration Novo heeft laten weten dat de beoordeling van de aanvraag voor een vergunning voor een biologisch geneesmiddel ..."
+          "title": "Vrees voor ‘tweede Overasselt’ na vondst grote partij coke: hoe Jan G. ontmaskerd werd als ‘Maestro’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/vrees-voor-tweede-overasselt-na-vondst-grote-partij-coke-hoe-jan-g-ontmaskerd-werd-als-maestro~a662a127/",
+          "publishedDate": "Wed, 07 Oct 2026 21:12:00 GMT",
+          "description": "Het drugsonderzoek naar Jan G., het doelwit van de geweldsexplosie in Overasselt, staat onder hoogspanning. Onder de schuilnaam ‘Maestro’ zou hij betrokken zijn geweest bij handel in coca&#239;ne. Die info ..."
         },
         {
-          "title": "Nyrada verkrijgt Amerikaans patent voor kandidaat-geneesmiddel ter bescherming van het hart",
-          "source": "MarketScreener",
-          "url": "https://nl.marketscreener.com/beursnieuws/nyrada-verkrijgt-amerikaans-patent-voor-kandidaat-geneesmiddel-ter-bescherming-van-het-hart-ce785ad3db8ff623",
-          "publishedDate": "Wed, 30 Sep 2026 16:40:00 GMT",
-          "description": "Nyrada heeft in de Verenigde Staten een patent verkregen op de chemische samenstelling van Xolatryp, waarmee de bescherming van de chemische structuur van het kandidaat-geneesmiddel ..."
+          "title": "Schutter Overasselt liet medeverdachten telefoons inleveren: 'Geen weg terug'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/misdaad/6412385/schutter-overasselt-liet-medeverdachten-telefoons-inleveren-geen-weg-terug.html",
+          "publishedDate": "Wed, 07 Oct 2026 15:34:00 GMT",
+          "description": "Een van de mannen die in de nacht van 1 september op beveiliger Berry in Overasselt zou hebben geschoten, vervulde een belangrijke rol in aanloop naar de aanslag. Zo dwong hij volgens medeverdachten a ..."
         },
         {
-          "title": "Nieuw geneesmiddel fenebrutinib van Roche beloftevol voor behandeling MS",
-          "source": "Business AM",
-          "url": "https://businessam.be/nieuw-geneesmiddel-fenebrutinib-van-roche-beloftevol-voor-behandeling-ms/",
-          "publishedDate": "Tue, 11 Nov 2025 15:59:00 GMT",
-          "description": "De wereldwijde farmaceutische reus Roche heeft een belangrijke doorbraak aangekondigd in de behandeling van multiple sclerose (MS), een chronische ziekte die het centrale zenuwstelsel aantast. Het ..."
+          "title": "Doorbraak in dossier-Overasselt: camerabeelden en schoenen linken ‘De Tsjetsjeen’ aan moord op beveiliger",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/nederland/doorbraak-in-dossier-overasselt-camerabeelden-en-schoenen-linken-de-tsjetsjeen-aan-moord-op-beveiliger~b9b1fe16/",
+          "publishedDate": "Wed, 07 Oct 2026 12:05:00 GMT",
+          "description": "De 30-jarige Yusup S. uit Oekra&#239;ne is volgens de politie de man die beveiliger Berry Leenders doodschoot bij de woning van Jan G. in Overasselt. ‘De Tsjetsjeen’, zoals hij door andere verdachten wordt ..."
         },
         {
-          "title": "Veel gebruikt geneesmiddel bij transplantaties kan diabetes type 1 afremmen bij kinderen",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2025/09/19/veel-gebruikt-geneesmiddel-bij-transplantaties-biedt-uitzicht-v/",
-          "publishedDate": "Fri, 19 Sep 2025 06:06:00 GMT",
-          "description": "Onderzoekers van het UZ Leuven hebben aangetoond dat lage dosissen van het geneesmiddel ATG (antithymocytenglobuline) de ontwikkeling van diabetes type 1 kan afremmen bij kinderen en jongeren."
+          "title": "Rust lijkt terug in Overasselt, maar vrees voor mogelijke terugkeer Jan G.",
+          "source": "NOS",
+          "url": "https://nos.nl/nieuwsuur/artikel/2633281-rust-lijkt-terug-in-overasselt-maar-vrees-voor-mogelijke-terugkeer-jan-g",
+          "publishedDate": "Thu, 01 Oct 2026 08:05:00 GMT",
+          "description": "Een maand na de wildwesttaferelen zijn sommige inwoners van Overasselt nog altijd bang voor herhaling. De meeste dorpsbewoners zeggen de gebeurtenissen achter zich te hebben gelaten, maar vooral mense ..."
         },
         {
-          "title": "Nieuw geneesmiddel voor baarmoederkanker in basispakket",
-          "source": "Rijksoverheid",
-          "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-volksgezondheid-welzijn-en-sport/nieuws/2025/04/24/nieuw-geneesmiddel-voor-baarmoederkanker-in-basispakket",
-          "publishedDate": "Fri, 04 Apr 2025 03:05:00 GMT",
-          "description": "De minister van Volksgezondheid, Welzijn en Sport, Fleur Agema, heeft besloten de nieuwe immuuntherapie dostarlimab (merknaam: Jemperli&#174;) vanaf nu tot eind 2026 te vergoeden vanuit het basispakket van ..."
+          "title": "Opnieuw verdachten aangehouden in onderzoek naar geweld Overasselt",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2633098-opnieuw-verdachten-aangehouden-in-onderzoek-naar-geweld-overasselt",
+          "publishedDate": "Wed, 30 Sep 2026 02:30:00 GMT",
+          "description": "In het onderzoek naar het geweld in Overasselt zijn nieuwe aanhoudingen verricht, laat de politie weten in een persbericht. Het gaat om mannen van 24 en 25 jaar uit Amsterdam. De twee werden maandag ..."
         },
         {
-          "title": "Besluit op bezwaar boete Leadiant voor excessieve prijs geneesmiddel CDCA",
-          "source": "acm",
-          "url": "https://www.acm.nl/nl/publicaties/besluit-op-bezwaar-boete-leadiant-voor-excessieve-prijs-geneesmiddel-cdca",
-          "publishedDate": "Wed, 21 Jun 2023 17:00:00 GMT",
-          "description": "Op 1 juli 2021 legde de Autoriteit Consument &amp; Markt (ACM) een boete op aan Leadiant omdat zij van juni 2017 tot en met december 2019 een excessieve prijs toepaste voor haar geneesmiddel CDCA-Leadiant ..."
+          "title": "Nog twee Amsterdammers (24 en 25) aangehouden voor geweld Overasselt, meerdere vuurwapens gevonden",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/nog-twee-amsterdammers-24-en-25-aangehouden-voor-geweld-overasselt-meerdere-vuurwapens-gevonden~ba4dd0a5/",
+          "publishedDate": "Wed, 30 Sep 2026 01:54:00 GMT",
+          "description": "Twee Amsterdammers zijn maandag aangehouden als nieuwe verdachten in het onderzoek naar het geweld in Gelderse Overasselt op 1 september. Nog een derde verdachte werd opgepakt na de vondst van een vuu ..."
         },
         {
-          "title": "Voor het eerst kan een geneesmiddel de ziekte van Alzheimer vertragen: &quot;Absoluut een doorbraak, maar geen wondermiddel&quot;",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2022/11/30/veelbelovend-geneesmiddel-voor-de-ziekte-van-alzheimer-beteken/",
-          "publishedDate": "Wed, 30 Nov 2022 03:37:00 GMT",
-          "description": "Al decennia is de wetenschap op zoek naar een geneesmiddel voor alzheimer, maar dat blijkt geen sinecure. Meer nog, tot nu toe was er niks gevonden dat de ziekte tegengaat. Nu zou er dus toch een ..."
+          "title": "Was Roberto M 'leider' bij aanval drugsoorlog Overasselt? Medeverdachten verklaren",
+          "source": "Panorama on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/was-roberto-m-leider-bij-aanval-drugsoorlog-overasselt-medeverdachten-verklaren/ar-AA2dO7SB",
+          "publishedDate": "Thu, 08 Oct 2026 03:23:00 GMT",
+          "description": "Verschillende verdachten van het dodelijke geweld in Overasselt hebben verklaard over wat er aan de aanslag voorafging. Ook denkt de politie te weten welke verdachten hebben geschoten."
         },
         {
-          "title": "Boetebesluit Leadiant voor excessieve prijs geneesmiddel CDCA",
-          "source": "acm",
-          "url": "https://www.acm.nl/nl/publicaties/boetebesluit-leadiant-voor-excessieve-prijs-geneesmiddel-cdca",
-          "publishedDate": "Wed, 30 Jun 2021 17:00:00 GMT",
-          "description": "De ACM heeft na onderzoek vastgesteld dat fabrikant Leadiant haar machtspositie heeft misbruikt door een excessieve prijs te rekenen voor haar geneesmiddel CDCA-Leadiant. Dit gebeurde in de periode ..."
+          "title": "‘Drie verdachten in beeld voor doodschieten beveiliger Overasselt’",
+          "source": "Crimesite",
+          "url": "https://www.crimesite.nl/drie-verdachten-in-beeld-voor-doodschieten-beveiliger-overasselt/",
+          "publishedDate": "Wed, 07 Oct 2026 11:39:00 GMT",
+          "description": "De politie vermoedt dat drie mannen hebben geschoten op beveiliger Berry Leenders, die op 1 september bij een woning in Overasselt om het leven kwam, zo meldt het Algemeen Dagblad. De 30-jarige Yusup ..."
         },
         {
-          "title": "Vul in wat u zoekt",
-          "source": "nza",
-          "url": "https://www.nza.nl/vraag-en-antwoord/medisch-specialistische-zorg/add-on-een-geneesmiddel-wordt-in-een-andere-instelling-toegediend-dat-waar-het-geneesmiddel-is-voorgeschreven.-welke-instelling-declareert-het-geneesmiddel",
-          "publishedDate": "Thu, 25 Apr 2019 06:13:00 GMT",
-          "description": "Welke instelling het geneesmiddel moet declareren, hangt in principe af van de plaats waar het geneesmiddel wordt toegediend of verstrekt aan de pati&#235;nt. Hoofdregel Voor geneesmiddelen die onder de ..."
-        },
-        {
-          "title": "Wat is een biosimilair geneesmiddel?",
-          "source": "Gezondheid.be",
-          "url": "https://www.gezondheid.be/artikel/biologische-therapie/wat-is-een-biosimilair-geneesmiddel-27823",
-          "publishedDate": "Wed, 09 Jan 2019 16:00:00 GMT",
-          "description": "Een ‘klassiek’ geneesmiddel bestaat uit actieve bestanddelen van chemische oorsprong die via een industrieel proces worden vervaardigd. Bij de klassieke geneesmiddelen hebben we zowel ..."
+          "title": "Jouw lijntje, wiens liquidatie? | Missing link in de discussie over Overasselt",
+          "source": "Crimesite",
+          "url": "https://www.crimesite.nl/jouw-lijntje-wiens-liquidatie-missing-link-in-de-discussie-over-overasselt/",
+          "publishedDate": "Tue, 06 Oct 2026 02:20:00 GMT",
+          "description": "Na de schok van de dodelijke aanval in Overasselt waren verklaring en oplossing al binnen enkele dagen te vinden, althans in de media. Minister van Justitie David van Weel lag, uit de politieke aard d ..."
         }
       ]
     },
     {
       "keyword": "robin van persie",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "‘Van Persie verrast met nieuwe baan bij topclub’",
@@ -473,9 +347,370 @@
       ]
     },
     {
-      "keyword": "raket",
+      "keyword": "televizier ring 2026",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Dit is waar en wanneer je het Gouden Televizier-Ring Gala 2026 kunt volgen",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5656769/gouden-televier-ring-waar-te-zien",
+          "publishedDate": "Thu, 08 Oct 2026 05:49:00 GMT",
+          "description": "De rode loper kan weer worden uitgerold voor het grootste Nederlandse televisiefeest van het jaar. Donderdag vindt in Koninklijk Theater Carr&#233; in Amsterdam de 61e Gouden Televizier-Ring Gala plaats. M ..."
+        },
+        {
+          "title": "Dit zijn vanavond de genomineerden bij het Gouden Televizier-Ring Gala",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/media/6412412/dit-zijn-vanavond-de-genomineerden-bij-het-gouden-televizier-ring-gala.html",
+          "publishedDate": "Thu, 08 Oct 2026 04:34:00 GMT",
+          "description": "Vanavond worden tijdens het Gouden Televizier-Ring Gala voor de 61e keer de belangrijkste Nederlandse televisieprijzen uitgereikt. Kassa, De Bondgenoten en Woeste Grond maken kans op de hoofdprijs: de ..."
+        },
+        {
+          "title": "Peter Jan Rens toch welkom op Gouden Televizier-Ring Gala: 'Fout gemaakt'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/media/6412425/peter-jan-rens-toch-welkom-op-gouden-televizier-ring-gala-fout-gemaakt.html",
+          "publishedDate": "Thu, 08 Oct 2026 04:23:00 GMT",
+          "description": "Peter Jan Rens mag vanavond toch naar het Gouden Televizier-Ring Gala in Carr&#233;. De presentator ontving vorige week nog een mail van de organisatie waarin stond dat er geen plek voor hem was, terwijl h ..."
+        },
+        {
+          "title": "Dit zijn alle genomineerden voor het Gouden Televizier-Ring Gala 2026",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5656794/alle-genomineerden-gouden-televizier-ring-gala-2026",
+          "publishedDate": "Wed, 07 Oct 2026 23:00:00 GMT",
+          "description": "'Vandaag Inside' ging vorig jaar met de Gouden Televizier-Ring naar huis, maar donderdag 8 oktober staat er een nieuwe winnaar op. Ook in de andere categorie&#235;n worden tijdens het gala in Koninklijk Th ..."
+        },
+        {
+          "title": "Wekdienst 8/10: Nobelprijs voor de Literatuur uitgereikt • Wie wint een Televizier-Ring?",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2634085-wekdienst-8-10-nobelprijs-voor-de-literatuur-uitgereikt-wie-wint-een-televizier-ring",
+          "publishedDate": "Wed, 07 Oct 2026 21:33:00 GMT",
+          "description": "Goedemorgen! Vandaag maakt het Nobelcomit&#233; bekend wie de Nobelprijs voor de Literatuur wint en in Carr&#233; wordt de Gouden Televizier-Ring uitgereikt."
+        },
+        {
+          "title": "Wie wint de Televizier-Ring? Dit is waarom je moet kiezen voor De Bondgenoten, Kassa of Woeste Grond",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/wie-wint-de-televizier-ring-dit-is-waarom-je-moet-kiezen-voor-de-bondgenoten-kassa-of-woeste-grond~a5150aad/",
+          "publishedDate": "Wed, 07 Oct 2026 20:27:00 GMT",
+          "description": "Donderdagavond wordt de strijd beslecht om de Gouden Televizier-Ring. Waar genomineerden Woeste Grond en De Bondgenoten de kijker trakteren op respectievelijk oer-Nederlands drama en meeslepende reali ..."
+        },
+        {
+          "title": "Wie moet de Gouden Televizier-Ring donderdag winnen? Stem hier!",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/wie-moet-de-gouden-televizier-ring-donderdag-winnen-stem-hier~ac118c68/",
+          "publishedDate": "Tue, 22 Sep 2026 02:23:00 GMT",
+          "description": "Wie wordt de opvolger van Vandaag Inside als winnaar van de Gouden Televizier-Ring? De genomineerden voor de editie van 2026 zijn de realityshow De Bondgenoten, het consumentenprogramma Kassa en de se ..."
+        },
+        {
+          "title": "Dit moet je weten over het komende Televizier-Ring Gala (en dit zijn alle genomineerden)",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/media/wil-je-weten/gouden-televisier-ring-2026-genomineerden/",
+          "publishedDate": "Tue, 06 Oct 2026 12:23:00 GMT",
+          "description": "Wanneer het allemaal gaat gebeuren? Donderdag 8 oktober om 21.00 uur op NPO 1. Dan begint het gala vanuit Koninklijk Theater Carr&#233; in Amsterdam&#160;en weet je aan het einde van de avond welk programma de ..."
+        },
+        {
+          "title": "Gouden Televizier-Ring 2026: zo kun je stemmen tijdens het Gala",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/gouden-televizier-ring/gouden-televizier-ring-2026-zo-kun-je-stemmen-tijdens-het-gala",
+          "publishedDate": "Thu, 17 Sep 2026 17:00:00 GMT",
+          "description": "Op donderdag 8 oktober vindt het Gouden Televizier-Ring Gala 2026 live plaats vanuit Koninklijk Theater Carr&#233; in Amsterdam. Tijdens deze feestelijke avond strijden De Bondgenoten (SBS6), Kassa (BNNVAR ..."
+        },
+        {
+          "title": "Televizier-gala op sterven na dood? ‘De glans is er een beetje af’",
+          "source": "Mediacourant",
+          "url": "https://www.mediacourant.nl/2026/09/televizier-gala-op-sterven-na-dood-de-glans-is-er-een-beetje-af/",
+          "publishedDate": "Wed, 09 Sep 2026 04:00:00 GMT",
+          "description": "De Gouden Televizier-Ring lijkt volgens Guido den Aantrekker steeds meer van zijn prestige te verliezen. Hij vindt de huidige top zeven in de tussenstand bepaald niet indrukwekkend. ‘De glamour is er ..."
+        }
+      ]
+    },
+    {
+      "keyword": "westnijlvirus",
       "trafficLabel": "5K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Vier nieuwe sterfgevallen door westnijlvirus, piek van uitbraak lijkt voorbij volgens RIVM",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/vier-nieuwe-sterfgevallen-door-westnijlvirus-piek-van-uitbraak-lijkt-voorbij-volgens-rivm~acc6efd9/",
+          "publishedDate": "Wed, 30 Sep 2026 20:08:00 GMT",
+          "description": "Sinds de vorige update van het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) van 24 september zijn vier mensen overleden aan een besmetting met het westnijlvirus. Ook zijn twaalf nieuwe besmett ..."
+        },
+        {
+          "title": "Vijfde persoon met westnijlvirus overleden, aantal besmettingen opgelopen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2632302-vijfde-persoon-met-westnijlvirus-overleden-aantal-besmettingen-opgelopen",
+          "publishedDate": "Thu, 24 Sep 2026 06:41:00 GMT",
+          "description": "Opnieuw is een pati&#235;nt overleden die besmet was met het westnijlvirus. Dat meldt het Rijksinstituut voor Volksgezondheid en Milieu ( RIVM ). Of het virus de oorzaak van het overlijden is, of ..."
+        },
+        {
+          "title": "Weer een persoon overleden met het westnijlvirus",
+          "source": "Nederlands Dagblad",
+          "url": "https://www.nd.nl/varia/varia/1334207/weer-een-persoon-overleden-met-het-westnijlvirus",
+          "publishedDate": "Thu, 08 Oct 2026 04:31:00 GMT",
+          "description": "In de eerste week van oktober is in Nederland een persoon overleden na besmet te zijn geraakt met het westnijlvirus. Volgens de wekelijkse update van het Rijksinstituut voor Volksgezondheid en Milieu ..."
+        },
+        {
+          "title": "Westnijlvirus eist tiende leven in Nederland: 59 besmettingen sinds begin dit jaar",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/westnijlvirus-eist-tiende-leven-in-nederland-59-besmettingen-sinds-begin-dit-jaar~a4034faa/",
+          "publishedDate": "Wed, 07 Oct 2026 20:44:00 GMT",
+          "description": "In de eerste week van oktober is in Nederland nog iemand overleden na besmet te zijn geraakt met het westnijlvirus. Volgens de wekelijkse update van het Rijksinstituut voor Volksgezondheid en Milieu ( ..."
+        },
+        {
+          "title": "GGD waarschuwt voor westnijlvirus",
+          "source": "Allesoverkatwijk.nl",
+          "url": "https://www.allesoverkatwijk.nl/nieuws/algemeen/109835/ggd-waarschuwt-voor-westnijlvirus",
+          "publishedDate": "Wed, 07 Oct 2026 08:31:00 GMT",
+          "description": "De GGD vraagt inwoners alert te blijven op muggenbeten vanwege het westnijlvirus. Het virus is nieuw in Nederland en kan door de gewone huissteekmug worden overgebracht."
+        },
+        {
+          "title": "Westnijlvirus blijft in Nederland: ‘Dat we hiermee te maken zullen blijven houden, is wel zeker’",
+          "source": "BNR Nieuwsradio",
+          "url": "https://www.bnr.nl/nieuws/lifestyle/10612250/westnijlvirus-blijft-in-nederland-dat-we-hiermee-te-maken-zullen-blijven-houden-is-wel-zeker",
+          "publishedDate": "Sat, 03 Oct 2026 14:03:00 GMT",
+          "description": "Dat de huidige uitbraak mogelijk afneemt, betekent niet dat Nederland van het westnijlvirus af is. Volgens Leenstra is inmiddels duidelijk dat Nederland geschikt is voor de verspreiding van het virus."
+        },
+        {
+          "title": "Gaat het westnijlvirus niet meer weg? Vijf vragen over hoe gevaarlijk het virus is",
+          "source": "EW",
+          "url": "https://www.ewmagazine.nl/kennis/achtergrond/2026/10/westnijlvirus-gevaarlijk-virus-rivm-1588261/",
+          "publishedDate": "Thu, 01 Oct 2026 01:00:00 GMT",
+          "description": "Het westnijlvirus lijkt een blijvertje. Na jaren met weinig zichtbare gevolgen zijn dit jaar tientallen mensen besmet geraakt."
+        },
+        {
+          "title": "Westnijlvirus rukt op: gevaarlijk voor paarden, maar ook mensen moeten opletten",
+          "source": "EenVandaag",
+          "url": "https://eenvandaag.avrotros.nl/doe-mee/westnijlvirus-rukt-op-gevaarlijk-voor-paarden-maar-ook-mensen-moeten-opletten-164906",
+          "publishedDate": "Fri, 25 Sep 2026 23:30:00 GMT",
+          "description": "Deze week eiste het westnijlvirus in Nederland een vijfde dodelijk slachtoffer. Maar niet alleen mensen kunnen besmet raken, ook onder paarden grijpt het ..."
+        },
+        {
+          "title": "Heb ik het westnijlvirus? Dit is waar je op moet letten als je door een mug bent gestoken",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/gezond/heb-ik-het-westnijlvirus-dit-is-waar-je-op-moet-letten-als-je-door-een-mug-bent-gestoken~a19b2513/",
+          "publishedDate": "Wed, 23 Sep 2026 22:00:00 GMT",
+          "description": "Het westnijlvirus heeft dit jaar in Nederland al vijf slachtoffers ge&#235;ist. Zeker 44 anderen hadden het virus, onder meer in de regio Arnhem/Nijmegen en op de Veluwe. Maar het aantal besmettingen ligt ..."
+        }
+      ]
+    },
+    {
+      "keyword": "amazon prime video",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Amazon Prime Video bemachtigt wereldwijde rechten om Emmy's te streamen",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/media/6412343/amazon-prime-video-bemachtigt-wereldwijde-rechten-om-emmys-te-streamen.html",
+          "publishedDate": "Wed, 07 Oct 2026 08:42:00 GMT",
+          "description": "Amazon Prime Video heeft een zesjarige overeenkomst gesloten voor de exclusieve wereldwijde streamingrechten van de Emmy Awards, meldt de streamingdienst op Amazon News. Hiermee komt een einde aan de ..."
+        },
+        {
+          "title": "Nieuwe series op Amazon Prime Video",
+          "source": "filmvandaag",
+          "url": "https://www.filmvandaag.nl/video-on-demand/amazon-prime-video/nieuwe-series",
+          "publishedDate": "Wed, 07 Oct 2026 23:05:00 GMT",
+          "description": "Hier vind je een overzicht van series die nieuw zijn toegevoegd aan Amazon Prime Video Nederland. Soms worden er door Amazon Prime Video hele seizoenen van nieuwe series toegevoegd en soms worden ..."
+        },
+        {
+          "title": "Het volledige Amazon Prime Video-aanbod",
+          "source": "filmvandaag",
+          "url": "https://www.filmvandaag.nl/video-on-demand/amazon-prime-video/volledig-aanbod",
+          "publishedDate": "Wed, 07 Oct 2026 17:00:00 GMT",
+          "description": "Het Amazon Prime Video-aanbod in Nederland telt 4.360 films en series. Het volledige aanbod op Amazon Prime Video wordt in onderstaand overzicht weergegeven. Je kunt hieronder zoeken in alle Amazon ..."
+        },
+        {
+          "title": "KPN geeft klanten gratis Prime Video",
+          "source": "Totaal TV",
+          "url": "https://www.totaaltv.nl/nieuws/kpn-geeft-klanten-gratis-prime-video/",
+          "publishedDate": "Wed, 07 Oct 2026 11:42:00 GMT",
+          "description": "KPN-klanten kunnen drie maanden gratis Prime Video kijken. Daarna kost het Amazon Prime-abonnement €4,99 per maand."
+        },
+        {
+          "title": "'Reacher'-spinoff is een groot succes en nu al goed voor een tweede seizoen op Prime Video",
+          "source": "SerieTotaal",
+          "url": "https://www.serietotaal.nl/nieuws/45334/reacher-spinoff-is-een-groot-succes-en-nu-al-goed-voor-een-tweede-seizoen-op-prime-video",
+          "publishedDate": "Fri, 02 Oct 2026 06:34:00 GMT",
+          "description": "Het eerste seizoen staat nog maar net online, maar Amazon Prime Video heeft nu al aangekondigd dat Reacher-spinoff Neagley een tweede seizoen krijgt."
+        },
+        {
+          "title": "Streamingtips #39 – Toy Story 5, MobLand en meer",
+          "source": "FWD Benelux",
+          "url": "https://fwd.nl/entertainment/streamingtips-39-toy-story-5-mobland-en-meer/",
+          "publishedDate": "Fri, 25 Sep 2026 06:00:00 GMT",
+          "description": "Met de Streamingtips kijken we als FWD-redactie naar het nieuwe aanbod van voornamelijk Netflix, Amazon Prime Video en Disney+."
+        },
+        {
+          "title": "Alles over Amazon Prime Video: de videodienst van Amazon",
+          "source": "iCulture",
+          "url": "https://www.iculture.nl/gids/amazon-prime-video/",
+          "publishedDate": "Tue, 08 Sep 2026 17:01:00 GMT",
+          "description": "Amazon Prime Video is de streaming videodienst van Amazon. Hiermee kun je kijken naar bekende films, tv-series en originals. Amazon Prime Video is te bekijken via de app op je iPhone en iPad, maar ook ..."
+        },
+        {
+          "title": "Amazon Prime Video: dit zijn de beste films en series op het platform",
+          "source": "Harper's Bazaar",
+          "url": "https://www.harpersbazaar.com/nl/service/g39010186/beste-films-series-amazon-prime-aanbod/",
+          "publishedDate": "Thu, 05 Jan 2023 03:20:00 GMT",
+          "description": "Maar wat is er nou precies zo fijn aan het Amazon Prime aanbod? Voor slechts €5,99 per maand krijg je toegang tot de meest geweldige films en series. Denk hierbij aan de Oscar-winnende film Parasite, ..."
+        },
+        {
+          "title": "Amazon Prime: dit zijn de voordelen van Amazon Prime voor Nederlanders",
+          "source": "iCulture",
+          "url": "https://www.iculture.nl/gids/amazon-prime-nederland/",
+          "publishedDate": "Sat, 14 May 2022 01:58:00 GMT",
+          "description": "Amazon Prime is de betaaldienst van Amazon, waarmee je allerlei voordeeltjes hebt. In dit overzicht zie je wat het kost en wat het abonnement omvat."
+        },
+        {
+          "title": "Amazon Prime Video wordt kanaal in tv-dienst van KPN en app op ontvanger",
+          "source": "Tweakers",
+          "url": "https://tweakers.net/nieuws/160650/amazon-prime-video-wordt-kanaal-in-tv-dienst-van-kpn-en-app-op-ontvanger.html",
+          "publishedDate": "Tue, 03 Dec 2019 01:19:00 GMT",
+          "description": "KPN voegt Amazon Prime Video toe aan zijn tv-dienst. Gebruikers kunnen de app van Amazon gebruiken op hun tv-ontvanger of de dienst benaderen via kanaal 203 in de tv-dienst. Klanten betalen de ..."
+        }
+      ]
+    },
+    {
+      "keyword": "prinsenmeer",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Drie vakantieparken van Peter Gillis verkocht voor miljoenen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2633909-drie-vakantieparken-van-peter-gillis-verkocht-voor-miljoenen",
+          "publishedDate": "Tue, 06 Oct 2026 09:56:00 GMT",
+          "description": "De verkoop van de drie parken levert samen 27,3 miljoen euro op. Hiermee is Gillis nog niet van zijn schulden af."
+        },
+        {
+          "title": "Vakantieparken Peter Gillis worden definitief verkocht voor ruim 27 miljoen euro",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6412214/vakantieparken-peter-gillis-worden-definitief-verkocht-voor-ruim-27-miljoen-euro.html",
+          "publishedDate": "Tue, 06 Oct 2026 08:55:00 GMT",
+          "description": "De drie vakantieparken van ondernemer Peter Gillis gaan definitief naar de bieders die vorige week het hoogste bod hebben gedaan. Het gaat om drie verschillende kopers, bevestigt de veilingmeester din ..."
+        },
+        {
+          "title": "Ruim 27 miljoen euro geboden op vakantieparken Peter Gillis",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6411646/ruim-27-miljoen-euro-geboden-op-vakantieparken-peter-gillis.html",
+          "publishedDate": "Thu, 01 Oct 2026 07:25:00 GMT",
+          "description": "De drie vakantieparken van Peter Gillis hebben donderdag 27,25 miljoen euro opgebracht bij een gedwongen veiling. Dat is net iets meer dan de schuld die hij bij zijn schuldeiser heeft, al zijn de park ..."
+        },
+        {
+          "title": "Veiling vakantieparken Peter Gillis levert 27,3 miljoen op, maar geen koper voor alle drie",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/asten/live-veiling-parken-peter-gillis-veiling-prinsenmeer-afgelopen-hoogste-bod-20-6-miljoen-nog-twee-parken-te-gaan~a6b39175/?slug_rd=1",
+          "publishedDate": "Thu, 01 Oct 2026 01:44:00 GMT",
+          "description": "De veiling van de drie vakantieparken van ondernemer Peter Gillis heeft 27,3 miljoen euro opgebracht. E&#233;n koper voor alle drie heeft zich niet gemeld."
+        },
+        {
+          "title": "Gisteren (7 oktober) om 15:15 • Aangepast gisteren (7 oktober) om 19:35",
+          "source": "Omroep Brabant",
+          "url": "https://www.omroepbrabant.nl/nieuws/6030061/capfun-neemt-paradepaardje-gillis-over-slecht-nieuws-voor-chaleteigenaren",
+          "publishedDate": "Wed, 07 Oct 2026 08:15:00 GMT",
+          "description": "Het Franse Capfun wordt de nieuwe eigenaar van vakantiepark Prinsenmeer in Ommel. Dat melden goed ingevoerde bronnen aan Omroep Brabant. De vakantiereus heeft het voormalige park van Peter Gillis voor ..."
+        },
+        {
+          "title": "Gisteren (6 oktober) om 15:10 • Aangepast gisteren (6 oktober) om 15:59",
+          "source": "Omroep Brabant",
+          "url": "https://www.omroepbrabant.nl/nieuws/6029894/hoogste-bieders-worden-definitief-eigenaren-van-vakantieparken-peter-gillis",
+          "publishedDate": "Tue, 06 Oct 2026 06:10:00 GMT",
+          "description": "De ge&#239;nteresseerden die vorige week het hoogste bod deden op de drie vakantieparken van Peter Gillis worden de nieuwe eigenaren van de parken. Het gaat om drie verschillende kopers, zo meldt veilingme ..."
+        },
+        {
+          "title": "Zo werkt de veiling van parken Gillis; Prinsenmeer gaat om 11.00 uur onder de hamer",
+          "source": "SIRIS.nl",
+          "url": "https://siris.nl/nieuws/artikel/zo-werkt-de-veiling-van-parken-gillis-prinsenmeer-gaat-om-1100-uur-onder-de-hamer",
+          "publishedDate": "Thu, 01 Oct 2026 03:15:00 GMT",
+          "description": "Drie vakantieparken van Peter Gillis worden donderdag gedwongen geveild. Dat gebeurt niet in een volle zaal, maar volledig online. Wat wordt er precies verkocht, hoe werkt zo'n veiling en wanneer krij ..."
+        },
+        {
+          "title": "Miljoenenveiling Peter Gillis begint vandaag en iedereen kan live meekijken",
+          "source": "VK Magazine",
+          "url": "https://www.vkmag.com/magazine/miljoenenveiling-peter-gillis-begint-vandaag-en-iedereen-kan-live-meekijken",
+          "publishedDate": "Thu, 01 Oct 2026 01:48:00 GMT",
+          "description": "Voor Peter Gillis wordt donderdag 1 oktober niet bepaald een lekker dagje achteroverleunen met een worstenbroodje. Drie van zijn Nederlandse vakantieparken gaan vandaag namelijk gedwongen onder de ham ..."
+        },
+        {
+          "title": "Vakantieparken Peter Gillis onder de hamer: zo kan je bieden",
+          "source": "Panorama",
+          "url": "https://panorama.nl/artikel/697077/peter-gillis-vakantieparken-geveild-bieden",
+          "publishedDate": "Thu, 01 Oct 2026 00:39:00 GMT",
+          "description": "De vakantieparken van Peter Gillis gaan onder de hamer vanwege miljoenen schuld. Bekijk hoe de veiling werkt en wat je moet bieden om mee te doen."
+        }
+      ]
+    },
+    {
+      "keyword": "gouda",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Kijkje achter de schermen: Voedselbank Gouda opent de deuren",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/gouda/kijkje-achter-de-schermen-voedselbank-gouda-opent-de-deuren~a0b95f8f/",
+          "publishedDate": "Wed, 07 Oct 2026 17:00:00 GMT",
+          "description": "De Goudse Voedselbank organiseert een open huis voor belangstellenden, toekomstige cli&#235;nten, toekomstige vrijwilligers en hulpverleners. Op zaterdag 17 oktober is het gebouw aan Noordpool 2 in Gouda o ..."
+        },
+        {
+          "title": "Derde editie van Light at the Farm in Gouda met nieuwe licht- en geluidseffecten",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/gouda/derde-editie-van-light-at-the-farm-in-gouda-met-nieuwe-licht-en-geluidseffecten~a08d0eb3/",
+          "publishedDate": "Wed, 07 Oct 2026 09:00:00 GMT",
+          "description": "Kinderboerderij De Goudse Hofsteden in Gouda organiseert in de herfstvakantie de derde editie van Light at the Farm. Het lichtevenement vindt plaats van dinsdag 20 tot en met zaterdag 24 oktober, elke ..."
+        },
+        {
+          "title": "Van Rotterdam naar Gouda met de trein? Vanaf 17 oktober moet je omreizen",
+          "source": "OPEN Rotterdam",
+          "url": "https://openrotterdam.nl/van-rotterdam-naar-gouda-met-de-trein-vanaf-17-oktober-moet-je-omreizen/",
+          "publishedDate": "Thu, 08 Oct 2026 04:04:00 GMT",
+          "description": "In de herfstvakantie, van zaterdag 17 tot en met zondag 25 oktober is er geen treinverbinding tussen Rotterdam en Gouda. Op verschillende Rotterdamse treinstations stoppen er dan geen NS-treinen Reizi ..."
+        },
+        {
+          "title": "Sinterklaasintocht 2026 in Gouda: dit is de route",
+          "source": "indebuurt",
+          "url": "https://indebuurt.nl/gouda/genieten-van-gouda/sinterklaasintocht-2026-in-gouda-dit-is-de-route~a2634818/",
+          "publishedDate": "Wed, 07 Oct 2026 16:21:00 GMT",
+          "description": "De intocht van Sinterklaas is op zaterdag 14 november in Gouda. Dan meert de Goedheiligman aan bij het Regentesseplantsoen. Ben jij benieuwd hoe laat de intocht van Sinterklaas begint en wat je die da ..."
+        },
+        {
+          "title": "Ongeval met letsel op van Baerlestraat in Gouda, traumahelikopter gealarmeerd",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/zuid-holland/hollands-midden/gouda/55931198/p2000-ambulance-met-spoed-naar-gouda.html",
+          "publishedDate": "Wed, 07 Oct 2026 14:25:00 GMT",
+          "description": "De hulpdiensten zijn woensdagavond uitgerukt voor een zwaar ongeval met letsel aan de van Baerlestraat in Gouda. Behalve een ambulance is ook een traumahelikopter gealarmeerd."
+        },
+        {
+          "title": "Home Zuid-Holland 112 Gouda Vrouw uit auto geknipt na frontale aanrijding",
+          "source": "Hardnieuws",
+          "url": "https://www.hardnieuws.nl/zuid-holland/gouda/vrouw-uit-auto-geknipt-na-frontale-aanrijding-rotterdamseweg-gouda-75371.html",
+          "publishedDate": "Wed, 07 Oct 2026 12:20:00 GMT",
+          "description": "GOUDA - In de avond van woensdag 7 oktober rond de klok van 21.20 uur heeft een ongeval plaatsgevonden aan de Rotterdamseweg in Gouda. Tussen twee auto's ..."
+        },
+        {
+          "title": "MHC Heerhugowaard laat de punten uit handen glippen in doelpuntrijk spektakel tegen Gouda",
+          "source": "Rodi.nl",
+          "url": "https://www.rodi.nl/dijkenwaard/sport/508481/mhc-heerhugowaard-laat-de-punten-uit-handen-glippen-in-doelpuntrijk-spektakel-tegen-gouda",
+          "publishedDate": "Wed, 07 Oct 2026 07:03:00 GMT",
+          "description": "GOUDA/ HEERHUGOWAARD - De hockeysters van MHC Heerhugowaard hebben zondag 4 oktober het doelpuntrijke duel met Gouda helaas nipt verloren. Met de bekerwedstrijd van vrijdag nog in de benen (3-1 winst) ..."
+        },
+        {
+          "title": "Hoe Vlaamse ambachtslieden van Gouda een tapijtstad maakten",
+          "source": "Historiek",
+          "url": "https://historiek.net/wandtapijten-gouda-wonder-walls/186324/",
+          "publishedDate": "Wed, 30 Sep 2026 01:46:00 GMT",
+          "description": "Vlaamse tapijtmakers maakten Gouda tot een centrum van de wandtapijtkunst. Museum Gouda belicht deze geschiedenis in de tentoonstelling Wonder Walls."
+        },
+        {
+          "title": "Oktober 2026: deze evenementen wil je niet missen in Gouda",
+          "source": "indebuurt",
+          "url": "https://indebuurt.nl/gouda/doen/uittips/oktober-2026-deze-evenementen-wil-je-niet-missen-in-gouda~a78976bb/",
+          "publishedDate": "Wed, 30 Sep 2026 00:27:00 GMT",
+          "description": "Van activiteiten tijdens de Regenboogmaand en een markt vol handgemaakte spullen tot middeleeuws vertier en een lichtfestival: ook in oktober 2026 staat er genoeg op de agenda in Gouda. Dit zijn een p ..."
+        },
+        {
+          "title": "Marokkaanse tapijtkunst centraal in nieuwe tentoonstelling Museum Gouda",
+          "source": "MAROKKO.nl",
+          "url": "https://nieuws.marokko.nl/117106/marokkaanse-tapijtkunst-centraal-in-nieuwe-tentoonstelling-museum-gouda/",
+          "publishedDate": "Fri, 11 Sep 2026 04:38:00 GMT",
+          "description": "Museum Gouda opent op 26 september een tentoonstelling over de Nederlands-Marokkaanse ontwerper Mina Abouzahra, waarin Marokkaanse tapijten, meubels en verhalen uit de Amazigh-traditie centraal staan."
+        }
+      ]
     }
   ]
 }
