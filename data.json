@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-10-10T02:30:24.618Z",
+  "fetchedAt": "2026-10-10T09:16:42.169Z",
   "trends": [
     {
       "keyword": "psv - heerenveen",
-      "trafficLabel": "100K+",
+      "trafficLabel": "50K+",
       "articles": [
         {
           "title": "PSV houdt eindelijk de nul en wint van Heerenveen bij hervatting Eredivisie",
@@ -20,11 +20,18 @@
           "description": "PSV is de achtste speelronde van de eredivisie begonnen met een benauwde overwinning op sc Heerenveen: 2-0. Guus Til opende de score in Eindhoven. Daarmee knap de ploeg van coach Peter Bosz goed weg."
         },
         {
-          "title": "Perez hard voor PSV &#233;n Heerenveen: 'Abominabel, maar geef ze eens ongelijk'",
+          "title": "Kijkers geloven hun ogen niet tijdens PSV-Heerenveen: 'Hij had rood moeten hebben'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/kijkers-geloven-hun-ogen-niet-tijdens-psv-heerenveen-hij-had-rood-moeten-hebben/ar-AA2dVkyo",
+          "publishedDate": "Sat, 10 Oct 2026 00:25:52 GMT",
+          "description": "Kijkers van de wedstrijd tussen PSV en sc Heerenveen hebben met verbazing gekeken naar een opmerkelijk moment in de tweede helft. Armando Obispo ontsnapte daar aan een tweede gele kaart, waardoor de E ..."
+        },
+        {
+          "title": "Teruglezen | Zo rekende PSV af met Heerenveen",
           "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/perez-hard-voor-psv-en-heerenveen-abominabel-maar-geef-ze-eens-ongelijk",
-          "publishedDate": "Fri, 09 Oct 2026 15:35:00 GMT",
-          "description": "Kenneth Perez is na afloop van PSV - sc Heerenveen hard voor beide ploegen. PSV was 'abominabel slecht' volgens de Deen, terwijl het spel van de Friezen wordt betiteld als 'vlees noch vis' en 'onder d ..."
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/live-eredivisie-opstelling-psv-tegen-heerenveen-bekend-geen-geertruida",
+          "publishedDate": "Fri, 09 Oct 2026 14:58:00 GMT",
+          "description": "De interlandbreak-XL zit er eindelijk op, PSV en sc Heerenveen hervatten vanavond de Eredivisie met een onderling duel in Eindhoven. Mis niets en volg de strijd in het Philips Stadion in dit liveblog ..."
         },
         {
           "title": "PSV wint tegen verhoudingen in van sc Heerenveen bij hervatting Eredivisie",
@@ -39,13 +46,6 @@
           "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/kooij-verbijstert-kijkers-psv-heerenveen-geen-kaart-voor-ruben-van-bommel",
           "publishedDate": "Fri, 09 Oct 2026 13:55:00 GMT",
           "description": "Veel kijkers van PSV - Heerenveen zijn verbaasd dat scheidsrechter Joey Kooij een vermeende overtreding van Ruben van Bommel op Sam Kersten niet met geel bestraft."
-        },
-        {
-          "title": "Kijkers geloven hun ogen niet tijdens PSV-Heerenveen: 'Hij had rood moeten hebben'",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/kijkers-geloven-hun-ogen-niet-tijdens-psv-heerenveen-hij-had-rood-moeten-hebben/ar-AA2dVkyo",
-          "publishedDate": "Fri, 09 Oct 2026 13:14:24 GMT",
-          "description": "Kijkers van de wedstrijd tussen PSV en sc Heerenveen hebben met verbazing gekeken naar een opmerkelijk moment in de tweede helft. Armando Obispo ontsnapte daar aan een tweede gele kaart, waardoor de E ..."
         },
         {
           "title": "PSV begint tegen sc Heerenveen zonder Perišić en Geertruida",
@@ -69,11 +69,11 @@
           "description": "PSV speelt vrijdagavond tegen sc Heerenveen in een nogal bijzonder tenue, maar daar hebben ze een reden voor. De regerend landskampioen brengt daarmee namelijk een eerbetoon aan de 100e geboortedag va ..."
         },
         {
-          "title": "Mauro niet tevreden met optreden PSV tegen SC Heerenveen",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/mauro-niet-tevreden-met-optreden-psv-tegen-sc-heerenveen",
-          "publishedDate": "Fri, 09 Oct 2026 07:55:00 GMT",
-          "description": "PSV en SC Heerenveen hebben vrijdag de Eredivisie hervat na de interlandperiode. PSV had wat goed te maken na de nederlaag tegen FC Twente. Ook was er KKD- en buitenlands voetbal en speelde het Nederl ..."
+          "title": "Steraanvaller PSV ontbreekt in basisopstelling tegen sc Heerenveen",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/steraanvaller-psv-ontbreekt-in-basisopstelling-tegen-sc-heerenveen/bltbbc69e6e78eb220a",
+          "publishedDate": "Fri, 09 Oct 2026 11:57:00 GMT",
+          "description": "PSV hervat de VriendenLoterij Eredivisie vrijdag met een thuiswedstrijd tegen sc Heerenveen. Peter Bosz heeft de opstelling van de thuisploeg inmiddels naar buiten gebracht. Ivan Perisic ontbreekt in ..."
         }
       ]
     },
@@ -154,6 +154,82 @@
       ]
     },
     {
+      "keyword": "westnijlvirus",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Opnieuw persoon overleden na besmetting met westnijlvirus in Nederland",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/binnenland/6412442/opnieuw-persoon-overleden-na-besmetting-met-westnijlvirus-in-nederland.html",
+          "publishedDate": "Thu, 08 Oct 2026 05:24:00 GMT",
+          "description": "In Nederland is opnieuw iemand overleden na een besmetting met het westnijlvirus. Het is dit jaar de tiende persoon die na een besmetting met het virus is overleden, meldt het Rijksinstituut voor Volk ..."
+        },
+        {
+          "title": "Hoe herken je het westnijlvirus en wat kun je doen om het te voorkomen? Expert legt uit",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/gezond/hoe-herken-je-het-westnijlvirus-en-wat-kun-je-doen-om-het-te-voorkomen-expert-legt-uit~a40b8ebe/",
+          "publishedDate": "Thu, 24 Sep 2026 20:24:00 GMT",
+          "description": "Het westnijlvirus is in Nederland en lijkt een blijvertje. Hoewel de berichten over besmettingen tot onrust kunnen leiden, is paniek volgens experts absoluut niet nodig. Maar wat is dit virus precies, ..."
+        },
+        {
+          "title": "Vijfde persoon met westnijlvirus overleden, aantal besmettingen opgelopen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2632302-vijfde-persoon-met-westnijlvirus-overleden-aantal-besmettingen-opgelopen",
+          "publishedDate": "Thu, 24 Sep 2026 06:41:00 GMT",
+          "description": "Opnieuw is een pati&#235;nt overleden die besmet was met het westnijlvirus. Dat meldt het Rijksinstituut voor Volksgezondheid en Milieu ( RIVM ). Of het virus de oorzaak van het overlijden is, of ..."
+        },
+        {
+          "title": "16 besmettingen in Belgi&#235;, 59 in Nederland: zo loop je het westnijlvirus op en dit zijn de symptomen",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/weer-en-wetenschap/16-besmettingen-in-belgie-59-in-nederland-zo-loop-je-het-westnijlvirus-op-en-dit-zijn-de-symptomen~ae5b5705/",
+          "publishedDate": "Fri, 09 Oct 2026 01:17:00 GMT",
+          "description": "Opnieuw is er &lt;a href=&quot;https://www.hln.be/buitenland/westnijlvirus-eist-tiende-leven-in-nederland-59-besmettingen-sinds-begin-dit-jaar~a4034faa/&quot;&gt;deze week iemand overleden in Nederland na een besmett ..."
+        },
+        {
+          "title": "Weer een persoon overleden met het westnijlvirus",
+          "source": "Nederlands Dagblad",
+          "url": "https://www.nd.nl/varia/varia/1334207/weer-een-persoon-overleden-met-het-westnijlvirus",
+          "publishedDate": "Thu, 08 Oct 2026 04:31:00 GMT",
+          "description": "In de eerste week van oktober is in Nederland een persoon overleden na besmet te zijn geraakt met het westnijlvirus. Volgens de wekelijkse update van het Rijksinstituut voor Volksgezondheid en Milieu ..."
+        },
+        {
+          "title": "Opnieuw iemand met westnijlvirus overleden in Nederland",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/milieu-gezondheid/zorg/artikelen/opnieuw-iemand-westnijlvirus-overleden-nederland",
+          "publishedDate": "Thu, 08 Oct 2026 02:48:00 GMT",
+          "description": "In Nederland is dit jaar bij 59 mensen het westnijlvirus vastgesteld. Tien van hen zijn overleden, meldt het RIVM. Afgelopen week kwamen er drie pati&#235;nten bij."
+        },
+        {
+          "title": "GGD waarschuwt voor westnijlvirus",
+          "source": "Allesoverkatwijk.nl",
+          "url": "https://www.allesoverkatwijk.nl/nieuws/algemeen/109835/ggd-waarschuwt-voor-westnijlvirus",
+          "publishedDate": "Wed, 07 Oct 2026 08:31:00 GMT",
+          "description": "De GGD vraagt inwoners alert te blijven op muggenbeten vanwege het westnijlvirus. Het virus is nieuw in Nederland en kan door de gewone huissteekmug worden overgebracht."
+        },
+        {
+          "title": "Gaat het westnijlvirus niet meer weg? Vijf vragen over hoe gevaarlijk het virus is",
+          "source": "EW",
+          "url": "https://www.ewmagazine.nl/kennis/achtergrond/2026/10/westnijlvirus-gevaarlijk-virus-rivm-1588261/",
+          "publishedDate": "Thu, 01 Oct 2026 01:00:00 GMT",
+          "description": "Het westnijlvirus lijkt een blijvertje. Na jaren met weinig zichtbare gevolgen zijn dit jaar tientallen mensen besmet geraakt."
+        },
+        {
+          "title": "Bijna 1600 mensen in Europa besmet met westnijlvirus in Europa, Itali&#235; koploper",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/buitenland/bijna-1600-mensen-in-europa-besmet-met-westnijlvirus-in-europa-italie-koploper~a5eadc3d/",
+          "publishedDate": "Sun, 27 Sep 2026 22:37:00 GMT",
+          "description": "Sinds het voorjaar zijn er in Europa bijna 1600 gevallen van het westnijlvirus vastgesteld waarbij mensen in eigen land besmet zijn geraakt. Het virus is vastgesteld in zestien Europese landen, meldt ..."
+        },
+        {
+          "title": "Expert waarschuwde tien jaar geleden al voor het westnijlvirus, nu wil hij maatregelen zoals verplichte horren",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/gezond/expert-waarschuwde-tien-jaar-geleden-al-voor-het-westnijlvirus-nu-wil-hij-maatregelen-zoals-verplichte-horren~a3bcdb71/",
+          "publishedDate": "Thu, 24 Sep 2026 21:59:00 GMT",
+          "description": "Het is de hoogste tijd om in actie te komen tegen muggenbeten, nu het westnijlvirus in Nederland almaar meer slachtoffers eist. Mensen moeten n&#250; werk gaan maken van muggenwerende maatregelen, vindt ex ..."
+        }
+      ]
+    },
+    {
       "keyword": "eva jinek",
       "trafficLabel": "20K+",
       "articles": [
@@ -230,174 +306,216 @@
       ]
     },
     {
-      "keyword": "max verstappen",
+      "keyword": "grand prix van singapore",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Analisten zetten unaniem in op Verstappen: &quot;Max zal onverslaanbaar zijn&quot;",
-          "source": "F1 Maximaal on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/analisten-zetten-unaniem-in-op-verstappen-max-zal-onverslaanbaar-zijn/ar-AA2dUWe8?ocid=BingNewsVerp",
-          "publishedDate": "Fri, 09 Oct 2026 12:51:00 GMT",
-          "description": "Max Verstappen wint de Grand Prix van Singapore! Dat lijkt in ieder geval een formaliteit te zijn als we het analistenpanel van F1TV mogen geloven. Nu Red Bull Racing weer competitief is, lijkt het vo"
-        },
-        {
-          "title": "'FIA komt met verrassende uitslag na onderzoek naar Max Verstappen'",
-          "source": "GP33",
-          "url": "https://gp33.nl/f1-nieuws/fia-komt-met-verrassende-uitslag-na-onderzoek-naar-max-verstappen",
-          "publishedDate": "Fri, 09 Oct 2026 08:39:00 GMT",
-          "description": "PlanetF1-journalist Thomas Maher, met z&#233;&#233;r goede bronnen binnen Red Bull Racing, heeft verrassend nieuws naar buiten gebracht over Max Verstappen en het onderzoek van de FIA naar zijn mogelijke overtr"
-        }
-      ]
-    },
-    {
-      "keyword": "aruba",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Rotterdamse (23) zat zelf achter stuur tijdens fataal ongeluk op Aruba, zegt OM",
+          "title": "Sprintrace Singapore uitgesteld door regen • Verstappen vanaf poleposition",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2634235-rotterdamse-23-zat-zelf-achter-stuur-tijdens-fataal-ongeluk-op-aruba-zegt-om",
-          "publishedDate": "Fri, 09 Oct 2026 00:24:00 GMT",
-          "description": "De terreinwagen sloeg door nog onbekende oorzaak over de kop. De twee mannelijke inzittenden bleven ongedeerd. De vrouw overleed ter plekke."
+          "url": "https://nos.nl/liveblog/2634397-sprintrace-singapore-uitgesteld-door-regen-verstappen-vanaf-poleposition",
+          "publishedDate": "Sat, 10 Oct 2026 01:09:00 GMT",
+          "description": "Vandaag staat de zesde en laatste sprintrace van het seizoen op het programma. Op het stratencircuit in Singapore gaan de lampen iets na 11.00 uit voor de sprint, met Max Verstappen op poleposition."
         },
         {
-          "title": "OM Aruba: Om het leven gekomen Rotterdamse Kimberly (23) bestuurde zelf voertuig",
+          "title": "Grand Prix van Singapore | Zo laat begint Max Verstappen vandaag vanaf pole aan sprintrace en dit is de startopstelling",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/rotterdam/om-aruba-om-het-leven-gekomen-rotterdamse-kimberly-23-bestuurde-zelf-voertuig~ade00dfe/",
-          "publishedDate": "Thu, 08 Oct 2026 17:13:00 GMT",
-          "description": "De 23-jarige Kimberly uit Rotterdam, die op 13 september om het leven kwam bij een ongeluk op Aruba, zat zelf achter het stuur van de terreinwagen waarmee ze verongelukte. Dat blijkt volgens het Openb ..."
+          "url": "https://www.ad.nl/formule-1/grand-prix-van-singapore-zo-laat-begint-max-verstappen-vandaag-vanaf-pole-aan-sprintrace-en-dit-is-de-startopstelling~a3fda41e/",
+          "publishedDate": "Fri, 09 Oct 2026 14:00:00 GMT",
+          "description": "Na de in Maleisi&#235; verreden Grand Prix van Bahrein zal Max Verstappen met een goed gevoel aanmeren bij de volgende halte: de GP van Singapore. Dat is meteen ook het laatste weekend van dit seizoen waar ..."
         },
         {
-          "title": "Aruba opent derde Tienda Legal Laboral in Noord",
-          "source": "nu",
-          "url": "https://nu.cw/2026/10/09/aruba-opent-derde-tienda-legal-laboral-in-noord/",
-          "publishedDate": "Fri, 09 Oct 2026 13:02:00 GMT",
-          "description": "De Directie Arbeid en Onderzoek (DAO) heeft op woensdag een derde vestiging van Tienda Legal Laboral geopend, in het multifunctionele gebouw MFA Noord. Werknemers en werkgevers kunnen er terecht voor ..."
+          "title": "F1 Live 11:00u | Sprintrace Grand Prix van Singapore 2026",
+          "source": "F1 Maximaal",
+          "url": "https://www.f1maximaal.nl/formule-1/f1-live-1100u-sprintrace-grand-prix-van-singapore-2026",
+          "publishedDate": "Sat, 10 Oct 2026 01:32:00 GMT",
+          "description": "Vandaag staat er een drukke dag op het programma in de Formule 1, met zowel de sprintrace als de kwalificatie voor de Grand Prix van Singapore. De coureurs komen daardoor twee keer in actie op het cir ..."
         },
         {
-          "title": "Werkonderbreking SLM-cabinepersoneel opgeschort, vlucht naar Aruba en Cura&#231;ao om 17.00 uur",
-          "source": "Suriname Herald",
-          "url": "https://www.srherald.com/suriname/2026/10/09/werkonderbreking-slm-cabinepersoneel-opgeschort-vlucht-naar-aruba-en-curacao-om-17-00-uur/",
-          "publishedDate": "Fri, 09 Oct 2026 07:02:00 GMT",
-          "description": "De werkonderbreking van het cabinepersoneel van de Surinaamse Luchtvaart Maatschappij (SLM) is opgeschort na overleg met de directie. Vlucht PY 431 naar Aruba en Cura&#231;ao, die hierdoor later vertrekt d ..."
+          "title": "Werk aan de winkel! Gridstraf van veertig plaatsen voor George Russell in Singapore",
+          "source": "RaceXpress",
+          "url": "https://www.racexpress.nl/formule-1/werk-aan-de-winkel-gridstraf-van-veertig-plaatsen-voor-george-russell-in-singapore/n/157040",
+          "publishedDate": "Fri, 09 Oct 2026 23:23:00 GMT",
+          "description": "De FIA heeft bevestigd dat Mercedes-coureur George Russell tijdens de Grand Prix Singapore een gridstraf van veertig plaatsen krijgt. De Brit moet ..."
         },
         {
-          "title": "Staking cabinepersoneel SLM zorgt voor urenlange vertraging vluchten naar Aruba en Cura&#231;ao",
-          "source": "Suriname Herald",
-          "url": "https://www.srherald.com/suriname/2026/10/09/staking-cabinepersoneel-slm-zorgt-voor-urenlange-vertraging-vluchten-naar-aruba-en-curacao/",
-          "publishedDate": "Fri, 09 Oct 2026 05:06:00 GMT",
-          "description": "Volgens het oorspronkelijke vluchtschema zou de vlucht vanuit Cura&#231;ao al om 10.50 uur vertrekken en om 14.20 uur in Paramaribo aankomen. De aangepaste aankomsttijd betekent dat het toestel volgens ..."
+          "title": "Hoe laat begint de F1 sprintrace in Singapore 2026?",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/hoe-laat-begint-de-f1-sprintrace-in-singapore-2026/ar-AA2dVX4h",
+          "publishedDate": "Fri, 09 Oct 2026 23:00:00 GMT",
+          "description": "Op zaterdag 10 oktober 2026 wordt de sprintrace voor de F1 Grand Prix van Singapore verreden. Hoe laat de sessie begint, lees je hier."
         },
         {
-          "title": "OM Aruba: omgekomen vrouw zat zelf achter stuur bij ongeluk",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/ongeluk-aruba-rotterdamse-vrouw-bestuurder",
-          "publishedDate": "Thu, 08 Oct 2026 22:05:00 GMT",
-          "description": "De 23-jarige Rotterdamse vrouw die omkwam bij een ongeluk op Aruba, zat volgens het OM zelf achter het stuur. Dat blijkt onder meer uit videobeelden."
+          "title": "Hoe laat is de F1 in Singapore? Alle Nederlandse tijden van het eerste Sprint-weekend op Marina Bay + TIJDSCHEMA",
+          "source": "RaceXpress",
+          "url": "https://www.racexpress.nl/formule-1/hoe-laat-is-de-f1-in-singapore-alle-nederlandse-tijden-van-het-eerste-sprint-weekend-op-marina-bay-tijdschema/n/156923",
+          "publishedDate": "Fri, 09 Oct 2026 22:58:00 GMT",
+          "description": "De Formule 1 rijdt van 9 tot en met 11 oktober op het Marina Bay Street Circuit, onder de offici&#235;le naam Formula 1 Singapore Airlines Singapore Grand ..."
         },
         {
-          "title": "Familie twijfelde aan verhaal over dood Kimberly (23), maar videobeelden wijzen op iets anders",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2265316/familie-twijfelde-aan-verhaal-over-dood-kimberly-23-maar-videobeelden-wijzen-op-iets-anders",
-          "publishedDate": "Thu, 08 Oct 2026 21:15:00 GMT",
-          "description": "De Rotterdamse vrouw die vorige maand om het leven kwam bij een noodlottig ongeval op Aruba zat zelf achter het stuur. Dat is de voorlopige conclusie van het Openbaar Ministerie op het eiland op basis ..."
+          "title": "Zorgwekkende omstandigheden bij Grand Prix van Singapore: organisatie neemt maatregelen vanwege gezondheid",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/formule-1/nieuws/zorgwekkende-omstandigheden-bij-grand-prix-van-singapore-organisatie-neemt-maatregelen-vanwege-gezondheid-2026100909495937085/",
+          "publishedDate": "Fri, 09 Oct 2026 05:23:00 GMT",
+          "description": "De situatie wordt nauwlettend in de gaten gehouden, omdat er dit weekend meer dan 300.000 toeschouwers worden verwacht voor de Grand Prix. Om die reden treffen de lokale autoriteiten extra maatregelen ..."
         },
         {
-          "title": "OM Aruba: omgekomen Rotterdamse bestuurde zelf voertuig",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/om-aruba-omgekomen-rotterdamse-bestuurde-zelf-voertuig",
-          "publishedDate": "Thu, 08 Oct 2026 20:41:00 GMT",
-          "description": "De 23-jarige vrouw uit Rotterdam die op 13 september om het leven kwam bij een ongeluk op Aruba, zat zelf achter het stuur. Dat blijkt volgens het Openbaar Ministerie (OM) op Aruba uit onderzoek, onde ..."
+          "title": "Grand Prix van Singapore 2026: Stand van zaken voorafgaand aan de race en odds",
+          "source": "news.bet365",
+          "url": "https://news.bet365.nl/nl-nl/article/grand-prix-van-singapore-2026-stand-van-zaken-voorafgaand-aan-de-race-en-odds/2026100708465144817",
+          "publishedDate": "Wed, 07 Oct 2026 01:47:00 GMT",
+          "description": "Het is een feit: Max Verstappen is ook dit jaar een Grand Prix-winnaar. De Nederlander kwam sneller dan de Mercedes van WK-leider Andrea Kimi Antonelli over de streep tijdens de GP Bahrein in Maleisi&#235; ..."
         },
         {
-          "title": "Bonaire en Aruba onderzoeken samenwerking rond afvalverwerking",
-          "source": "nu",
-          "url": "https://nu.cw/2026/10/08/bonaire-en-aruba-onderzoeken-samenwerking-rond-afvalverwerking/",
-          "publishedDate": "Thu, 08 Oct 2026 10:53:00 GMT",
-          "description": "Bonaire en Aruba onderzoeken mogelijkheden om samen te werken op het gebied van afvalverwerking en recycling. Dat kwam woensdag naar voren tijdens een gesprek tussen gedeputeerde van Ruimte en Ontwikk ..."
+          "title": "Grand Prix van Singapore 2026: data, tijden, waar je kan kijken, circuit, weer en odds",
+          "source": "news.bet365",
+          "url": "https://news.bet365.nl/nl-nl/article/grand-prix-van-singapore-2026-data-tijden-waar-je-kan-kijken-circuit-weer-en-odds/2026100620160488142",
+          "publishedDate": "Tue, 06 Oct 2026 15:04:00 GMT",
+          "description": "Het raceweekend in Singapore is een sprintweekend. Het programma telt &#233;&#233;n vrije training, een sprintkwalificatie en een sprintrace, gevolgd door de gewone kwalificatie en de race op zondag 11 oktober ..."
         },
         {
-          "title": "Staatssecretaris Van der Burg bezoekt Benedenwindse eilanden",
-          "source": "dossierkoninkrijksrelaties.nl",
-          "url": "https://dossierkoninkrijksrelaties.nl/2026/10/08/staatssecretaris-van-der-burg-bezoekt-benedenwindse-eilanden/",
-          "publishedDate": "Thu, 08 Oct 2026 03:04:00 GMT",
-          "description": "Den Haag – Van 12 tot en met 17 oktober brengt staatssecretaris van Koninkrijksrelaties Eric van der Burg een werkbezoek aan de Benedenwindse eilanden Aruba, ... &lt;a title=&quot;Staatssecretaris Van der Bur ..."
+          "title": "Dit is het tijdschema voor de Grand Prix van Singapore",
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1091076/dit-is-het-tijdschema-voor-de-grand-prix-van-singapore/",
+          "publishedDate": "Tue, 06 Oct 2026 01:03:00 GMT",
+          "description": "Het raceweekend in Maleisie zit erop en dat betekent dat de Formule 1 zich deze week alweer gaat opmaken voor het laatste gedeelte van de triple header, namelijk de Grand Prix van Singapore."
         }
       ]
     },
     {
-      "keyword": "hongarije - nederland",
+      "keyword": "panama",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Nederlands elftal haalt flink uit tegen Hongarije en zet grote stap naar WK in Brazili&#235;",
+          "title": "Veel schade door zware aardbeving voor kust Panama: ‘Moge God ons allen beschermen’",
           "source": "Het Parool",
-          "url": "https://www.parool.nl/sport/nederlands-elftal-haalt-flink-uit-tegen-hongarije-en-zet-grote-stap-naar-wk-in-brazilie~b461fc55/",
-          "publishedDate": "Fri, 09 Oct 2026 15:08:00 GMT",
-          "description": "De Oranje Leeuwinnen hebben een grote stap gezet naar de finale van de play-offs voor het WK. De ploeg van bondscoach Arjan Veurink was in Felcs&#250;t met 0-8 te sterk voor Hongarije. De return is komende ..."
+          "url": "https://www.parool.nl/wereld/veel-schade-door-zware-aardbeving-voor-kust-panama-moge-god-ons-allen-beschermen~ba6ca239/",
+          "publishedDate": "Sat, 10 Oct 2026 00:10:00 GMT",
+          "description": "Voor de kust van Panama heeft een zeer zware aardbeving plaatsgevonden. Die had volgens het Amerikaanse geologische onderzoekscentrum USGS een kracht van 7,7 en vond plaats op 10 kilometer diepte."
         },
         {
-          "title": "Oranjevrouwen boeken monsterzege op Hongarije en zijn stap dichter bij WK",
+          "title": "Zware aardbeving in Panama veroorzaakt schade en paniek",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/10/10/zware-aardbeving-in-panama-veroorzaakt-schade-en-paniek-a4938674",
+          "publishedDate": "Fri, 09 Oct 2026 21:05:00 GMT",
+          "description": "Panama: Een beving met een kracht van 7,7 in het zuiden van het land werd gevolgd door tientallen naschokken. Duizenden mensen zochten veiligheid op straat. Volgens de autoriteiten zijn er voor zover ..."
+        },
+        {
+          "title": "Vanwege aardbeving omgeleide KLM-vlucht naar Panama eindigt via Cura&#231;ao in Costa Rica",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/vanwege-aardbeving-omgeleide-klm-vlucht-naar-panama-eindigt-via-curacao-in-costa-rica~a4bcf1e8/",
+          "publishedDate": "Fri, 09 Oct 2026 17:32:00 GMT",
+          "description": "Een KLM-vlucht die vanuit Amsterdam onderweg was naar Panama is vanwege de zware aardbeving voor de kust van het Midden-Amerikaanse land omgeleid naar Cura&#231;ao, zo is te zien &lt;a href=&quot;https://www.fligh ..."
+        },
+        {
+          "title": "Veel materi&#235;le schade door zware aardbeving in Panama, tsunami-waarschuwing ingetrokken",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/buitenland/veel-materiele-schade-door-zware-aardbeving-in-panama-tsunami-waarschuwing-ingetrokken~bc367417/",
+          "publishedDate": "Fri, 09 Oct 2026 13:57:00 GMT",
+          "description": "Panama is vrijdagavond opgeschrikt door een zware aardbeving met een kracht van 7,7. De beving deed zich voor voor de zuidkust van het Midden-Amerikaanse land."
+        },
+        {
+          "title": "Zware aardbeving in Panama, stroom uitgevallen en schade aan gebouwen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2634340-zware-aardbeving-in-panama-stroom-uitgevallen-en-schade-aan-gebouwen",
+          "publishedDate": "Fri, 09 Oct 2026 12:32:00 GMT",
+          "description": "In de stad Penonom&#233;, ongeveer halverwege het epicentrum en de hoofdstad Panama-Stad, zouden onder meer de kathedraal, het gouverneurskantoor en een hotel flinke schade hebben. In zes provincies is de ..."
+        },
+        {
+          "title": "Enkele gewonden na zware aardbeving Panama",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/buitenland/enkele-gewonden-na-zware-aardbeving-panama",
+          "publishedDate": "Sat, 10 Oct 2026 00:14:00 GMT",
+          "description": "Zware aardbeving voor de kust van Panama veroorzaakt twee gewonden, verwoeste wegen en meer dan tachtig naschokken. Vliegveld tijdelijk gesloten."
+        },
+        {
+          "title": "KLM-vlucht naar Panama eindigt in San Jos&#233; door tekort aan hotels",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/klm-vlucht-naar-panama-eindigt-in-san-jose-door-tekort-aan-hotels",
+          "publishedDate": "Fri, 09 Oct 2026 22:31:00 GMT",
+          "description": "KLM-vlucht KL757 met eindbestemming Panama-Stad is geland in de hoofdstad van Costa Rica, San Jos&#233;. Dat is te zien op Flightradar24 en bevestigt een woordvoerder van KLM. Eerder werd al bekend dat de ..."
+        },
+        {
+          "title": "Aardbevingen in Panama leiden ook tot annulering vlucht vanuit Suriname",
+          "source": "Waterkant.net",
+          "url": "https://www.waterkant.net/suriname/2026/10/10/aardbevingen-in-panama-leiden-ook-tot-annulering-vlucht-vanuit-suriname/",
+          "publishedDate": "Fri, 09 Oct 2026 17:00:00 GMT",
+          "description": "Panama is vrijdag 9 oktober getroffen door twee zware aardbevingen, die ook gevolgen hebben gehad voor het luchtverkeer. Tal van vluchten van en naar het ..."
+        },
+        {
+          "title": "UPDATE: KLM-vlucht naar Panama wijkt na tussenstop Cura&#231;ao uit naar Costa Rica",
+          "source": "Curacao.nu",
+          "url": "https://www.curacao.nu/nieuws/luchtvaart-reizen/97115/update-klm-vlucht-naar-panama-wijkt-na-tussenstop-curacao-uit-naar-costa-rica",
+          "publishedDate": "Fri, 09 Oct 2026 14:34:00 GMT",
+          "description": "WILLEMSTAD – Een KLM-vlucht van Amsterdam naar Panama-Stad is vrijdag na een tussenstop op Cura&#231;ao uitgeweken naar San Jos&#233; in Costa Rica. Door een zware aardbeving in Panama was de luchthaven van P.."
+        },
+        {
+          "title": "Zeer zware aardbeving voor kust van Panama",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Buitenland/zeer-zware-aardbeving-voor-kust-van-panama/ar-AA2dVfem",
+          "publishedDate": "Fri, 09 Oct 2026 13:23:00 GMT",
+          "description": "PANAMA-STAD (ANP/AFP) - Voor de kust van Panama heeft een zeer zware aardbeving plaatsgevonden. Die had volgens eerste schattingen van het Amerikaanse geologische centrum USGS een kracht van 7.6 en vo ..."
+        }
+      ]
+    },
+    {
+      "keyword": "roxeanne hazes",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Roxeanne Hazes overspoeld met berichten na Televizier",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6412653/oranjevrouwen-boeken-monsterzege-op-hongarije-en-zijn-stap-dichter-bij-wk.html",
-          "publishedDate": "Fri, 09 Oct 2026 14:51:00 GMT",
-          "description": "De Oranjevrouwen hebben vrijdag in het Hongaarse Felcs&#250;t uitstekende zaken gedaan in jacht op een ticket voor het WK voetbal van 2027 in Brazili&#235;. De ploeg van bondscoach Arjan Veurink won in de eerst ..."
+          "url": "https://www.nu.nl/achterklap/6400686/roxeanne-hazes-overspoeld-met-berichten-na-televizier.html",
+          "publishedDate": "Fri, 09 Oct 2026 04:27:00 GMT",
+          "description": "Bekende Nederlanders en buitenlandse beroemdheden geven via sociale media regelmatig een inkijkje in hun levens. NU.nl deelt de hele dag door updates die de sterren plaatsen."
         },
         {
-          "title": "Veurink na 0-8 zege Oranje: 'Maatje te groot voor Hongarije, dat moge duidelijk zijn'",
-          "source": "NOS",
-          "url": "https://nos.nl/video/2634354-veurink-na-0-8-zege-oranje-maatje-te-groot-voor-hongarije-dat-moge-duidelijk-zijn",
-          "publishedDate": "Fri, 09 Oct 2026 13:35:00 GMT",
-          "description": "Bondscoach Arjan Veurink over de heenwedstrijd van Nederland tegen Hongarije (0-8) in de eerste ronde play-offs om plaatsing voor het WK 2027."
+          "title": "Roxeanne Hazes na borstverkleining en borstlift: 'Blij dat ik het heb gedaan'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/achterklap/6411395/roxeanne-hazes-na-borstverkleining-en-borstlift-blij-dat-ik-het-heb-gedaan.html",
+          "publishedDate": "Tue, 29 Sep 2026 08:49:00 GMT",
+          "description": "Roxeanne Hazes is blij dat ze een borstverkleining en borstlift heeft laten doen, vertelde ze maandagavond tijdens de uitreiking van de BUMA NL Awards. Het was voor de zangeres het eerste uitje sinds ..."
         },
         {
-          "title": "Oranjevoetbalsters halen uit in Hongarije: 0-8 • Hattricks Pelova en Beerensteyn",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2634315-oranjevoetbalsters-halen-uit-in-hongarije-0-8-hattricks-pelova-en-beerensteyn",
-          "publishedDate": "Fri, 09 Oct 2026 09:26:00 GMT",
-          "description": "Hattrick voor Victoria Pelova, haar derde is misschien wel de makkelijkste. Onder druk tikt probeert een Hongaarse verdediger een lage voorzet te verwerken, maar tikt zo in de voeten van Pelova. Daar ..."
+          "title": "Nick Schilder en Roxeanne Hazes treden op tijdens live muziekspektakel vanuit Amersfoort",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/amersfoort/nick-schilder-en-roxeanne-hazes-treden-op-tijdens-live-muziekspektakel-vanuit-amersfoort~a5cfe038/",
+          "publishedDate": "Mon, 28 Sep 2026 18:37:00 GMT",
+          "description": "Amersfoort is het decor voor een nieuw live-evenement op televisie. Op zondag 1 november wordt Nationale lichtjesavond uitgezonden. Volgens omroep KRO-NCRV is het een evenement waarbij persoonlijke ve ..."
         },
         {
-          "title": "Oranjevrouwen boeken tegen Hongarije grootste zege onder Veurink",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/in-het-nieuws/sport/2026/10/oranje-voetbalsters-hongarije-zege-wk-br/",
-          "publishedDate": "Fri, 09 Oct 2026 13:02:00 GMT",
-          "description": "Oranje voetbalsters verslaan Hongarije met 08 en komen dichter bij plaatsing voor het WK van 2027 in Brazili&#235;."
+          "title": "Rossum pakt uit met Mart Hoogkamer, Xander de Buisonj&#233; en Roxeanne Hazes voor feestweekend",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/dinkelland/rossum-pakt-uit-met-mart-hoogkamer-xander-de-buisonje-en-roxeanne-hazes-voor-feestweekend~afdfe783/",
+          "publishedDate": "Wed, 16 Sep 2026 01:16:00 GMT",
+          "description": "Nadat twee jaar geleden Andr&#233; Hazes jr. te gast was, reist zijn zus Roxeanne de komende editie af naar de grote tent in het kerkdorp."
         },
         {
-          "title": "Nederlands vrouwenelftal vernedert Hongarije en mag al aan finale play-offs denken",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/nederlands-vrouwenelftal-vernedert-hongarije-en-mag-al-aan-finale-play-offs-denken/ar-AA2dUJt4",
-          "publishedDate": "Fri, 09 Oct 2026 12:50:00 GMT",
-          "description": "Het Nederlands vrouwenelftal staat met anderhalf been in de finale van de play-offs voor WK-kwalificatie. De ploeg van Arjan Veurink was vrijdagavond een paar maatjes te groot voor Hongarije (0-8). De ..."
+          "title": "DM Roxeanne Hazes ontploft na optreden op Televizier Gala",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/dm-roxeanne-hazes-ontploft-na-optreden-op-televizier-gala",
+          "publishedDate": "Fri, 09 Oct 2026 04:36:00 GMT",
+          "description": "Roxeanne Hazes krijgt massaal lof na haar optreden tijdens het Televizier Gala. Op Instagram bedankt ze fans voor alle berichten en complimenten."
         },
         {
-          "title": "Op deze zender kijk je naar play-offs-duel Nederland vrouwen met Hongarije",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/algemeen/op-deze-zender-kijk-je-naar-play-offs-duel-nederland-vrouwen-met-hongarije/ar-AA2dV7BB",
-          "publishedDate": "Fri, 09 Oct 2026 10:42:41 GMT",
-          "description": "Het Nederlands vrouwenelftal speelt vrijdagavond om 20.00 uur tegen Hongarije. De ploeg van Arjan Veurink slaagde er niet in om zich te kwalificeren voor het WK 2027 via de reguliere kwalificatie en m ..."
+          "title": "BN'er benaderde Roxeanne Hazes voor partnerruil",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/bner-benaderde-roxeanne-hazes-voor-partnerruil",
+          "publishedDate": "Thu, 01 Oct 2026 07:07:00 GMT",
+          "description": "Roxeanne Hazes onthult in podcast ADHAZES dat een BN’er haar vroeg om te swingen; ze weigerde. Andr&#233; deelt ook een g&#234;nante DM na zijn breuk met Monique."
         },
         {
-          "title": "Opstelling Oranje: Veurink kiest voor deze elf tegen Hongarije",
-          "source": "Vrouwenvoetbalnieuws",
-          "url": "https://www.vrouwenvoetbalnieuws.nl/opstelling-oranje-veurink-kiest-voor-deze-elf-tegen-hongarije/",
-          "publishedDate": "Fri, 09 Oct 2026 09:45:00 GMT",
-          "description": "Lees nu | De OranjeLeeuwinnen beginnen vrijdagavond aan de nieuwe jacht op een WK-ticket. De ploeg van Arjan Veurink neemt het in de Pancho Ar&#233;na op ..."
+          "title": "Roxeanne Hazes na borstverkleining: 'Blij dat ik het heb gedaan'",
+          "source": "Beau Monde",
+          "url": "https://beaumonde.nl/artikel/696939/roxeanne-hazes-straalt-na-borstverkleining",
+          "publishedDate": "Tue, 29 Sep 2026 10:00:00 GMT",
+          "description": "Zangeres Roxeanne Hazes schitterde op de rode loper na haar ingreep. Ze deelt openhartig de verrassende ontdekkingen van het herstel thuis."
         },
         {
-          "title": "TV-gids Hongarije - Nederland: op deze zender kijk je live naar de Oranje Leeuwinnen in jacht op WK-ticket",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/tv-gids-hongarije-nederland-op-deze-zender-kijk-je-live-naar-de-oranje-leeuwinnen-in-jacht-op-wk-ticket-2026100910461743009/",
-          "publishedDate": "Fri, 09 Oct 2026 05:45:00 GMT",
-          "description": "De Oranje Leeuwinnen staan voor een belangrijk tweeluik met Hongarije in de jacht op een WK-ticket. De ploeg van bondscoach Arjan Veurink begint met een uitwedstrijd in de Pancho Arena, waarna ..."
-        },
-        {
-          "title": "Kaptein waarschuwt voor Hongarije: &quot;We moeten rustig blijven&quot;",
-          "source": "Vrouwenvoetbalnieuws",
-          "url": "https://www.vrouwenvoetbalnieuws.nl/kaptein-waarschuwt-voor-hongarije-we-moeten-rustig-blijven/",
-          "publishedDate": "Thu, 08 Oct 2026 23:44:00 GMT",
-          "description": "Lees nu | Wieke Kaptein verwacht dat de OranjeLeeuwinnen vrijdag geduld zullen moeten bewaren tegen Hongarije. Nederland begint dan aan de eerste ..."
+          "title": "Roxeanne Hazes op rode loper na operatie: 'Ik ga langzaam mezelf weer tussen de mensen begeven'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/entertainment/bekend/roxeanne-hazes-operatie/",
+          "publishedDate": "Mon, 28 Sep 2026 16:59:00 GMT",
+          "description": "Roxeanne Hazes ging onlangs onder het mes voor een borstverkleining en borstlift. Daardoor was ze even uit de roulatie, maar tijdens de Buma NL Awards liet ze zich weer zien. Daar vertelde ze hoe het ..."
         }
       ]
     },
@@ -411,6 +529,13 @@
           "url": "https://www.parool.nl/sport/dit-is-het-ideale-ajaxelftal-van-leonne-stentler-ik-hou-van-backs-die-de-hele-vleugel-bestrijken~b4c6527f/",
           "publishedDate": "Mon, 10 Feb 2025 19:00:00 GMT",
           "description": "Dit is het ideale Ajaxelftal van Leonne Stentler: ‘Ik hou van backs die de hele vleugel bestrijken’ Beste Ajax van Leonne Stentler Het Parool Ajax bestaat 125 jaar en daarom gaat Het Parool met jou en ..."
+        },
+        {
+          "title": "Stentler ziet sleutelspeelster bij Oranje: &quot;Gewoon heel belangrijk&quot;",
+          "source": "Vrouwenvoetbalnieuws",
+          "url": "https://www.vrouwenvoetbalnieuws.nl/stentler-ziet-sleutelspeelster-bij-oranje-gewoon-heel-belangrijk/",
+          "publishedDate": "Sat, 10 Oct 2026 00:54:00 GMT",
+          "description": "Lees nu | Dani&#235;lle van de Donk speelde tegen Hongarije haar 175ste interland voor de OranjeLeeuwinnen en kreeg na afloop volop lof van Tessel Middag ..."
         },
         {
           "title": "Stentler bezorgd om Eredivisie: &quot;We hobbelen achter de rest aan&quot;",
@@ -434,13 +559,6 @@
           "description": "NOS-analisten Leonne Stentler en Jeroen Stekelenburg vinden het 'verdrietig' en 'veel te ver gaan' dat Lutsharel Geertruida zich bijna moet excuseren voor zijn overstap naar PSV. Het tweetal spreekt ..."
         },
         {
-          "title": "Leonne Stentler lovend: &quot;Ze is echt met vlag en wimpel geslaagd&quot;",
-          "source": "vrouwenvoetbalnieuws",
-          "url": "https://www.vrouwenvoetbalnieuws.nl/leonne-stentler-lovend-ze-is-echt-met-vlag-en-wimpel-geslaagd/",
-          "publishedDate": "Thu, 16 Apr 2026 02:23:00 GMT",
-          "description": "Het debuut van de 19-jarige Renee van Asten in de WK-kwalificatiekraker tegen Frankrijk was er &#233;&#233;n om in te lijsten. De Ajax-verdedigster hield zich moeiteloos staande tegen de wereldtop en bekroonde ..."
-        },
-        {
           "title": "Leonne Stentler: ‘Ik maak me een klein beetje zorgen om Twente’",
           "source": "FC Update",
           "url": "https://www.fcupdate.nl/voetbalnieuws/2026/03/leonne-stentler-ik-maak-me-een-klein-beetje-zorgen-om-twente",
@@ -462,246 +580,170 @@
           "description": "FC Twente Vrouwen won zondag op de valreep van Feyenoord Vrouwen. De Tukkers maakten in de laatste minuut van de blessuretijd de 3-2. Bij beide Feyenoord Vrouwen-goals zag Diede Lemey er niet goed uit ..."
         },
         {
-          "title": "NOS past uitzending samenvattingen eredivisie aan: Leonne Stentler vaker afwezig",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/show/nos-past-uitzending-samenvattingen-eredivisie-aan-leonne-stentler-vaker-afwezig~a5f6df320/",
-          "publishedDate": "Mon, 11 Aug 2025 03:55:00 GMT",
-          "description": "De afwezigheid van Gert van ’t Hof kwam door zijn vakantie, zo bevestigt de NOS. Ook analist Leonne Stentler had nog vakantie, maar zal sowieso minder vaak te zien zijn in de bord op ..."
-        },
-        {
           "title": "Leonne Stentler wil wel kinderen met haar vriendin: ‘Maar hebben beiden niet de behoefte zwanger te zijn’",
           "source": "AD",
           "url": "https://www.ad.nl/mezza/leonne-stentler-wil-wel-kinderen-met-haar-vriendin-maar-hebben-beiden-niet-de-behoefte-zwanger-te-zijn~ab13d3da/",
           "publishedDate": "Sat, 22 Jun 2024 04:29:00 GMT",
           "description": "Leonne Stentler is onderweg naar het tafeltje van de interviewer, als ze op het terras van een restaurant in de Amsterdamse Watergraafsmeer door iemand wordt aangesproken. De man complimenteert de ..."
-        }
-      ]
-    },
-    {
-      "keyword": "huishoudelijke hulp",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Ine zit al acht weken zonder huishoudelijke hulp: ‘Let niet op de stank’",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/amsterdam/ine-zit-al-acht-weken-zonder-huishoudelijke-hulp-let-niet-op-de-stank~b9306d67/",
-          "publishedDate": "Thu, 29 Jun 2023 10:05:00 GMT",
-          "description": "Het eerste dat Ine, een vrouw van in de zeventig, zegt als ze de deur van haar woning opent is: “Let niet op de stank.” Ze staat bovenaan de smalle trap van haar driekamerappartement in Nieuw-West. De ..."
         },
         {
-          "title": "Steeds meer ouderen wonen langer thuis, maar huishoudelijke hulp dreigt te verdwijnen uit Wmo",
-          "source": "maxmeldpunt",
-          "url": "https://www.maxmeldpunt.nl/geld/steeds-meer-ouderen-wonen-langer-thuis-maar-huishoudelijke-hulp-dreigt-te-verdwijnen-uit-wmo/",
-          "publishedDate": "Thu, 08 Oct 2026 21:01:00 GMT",
-          "description": "Vanaf januari 2028 wil het kabinet de huishoudelijke hulp uit de Wmo halen. Mensen die dat kunnen, moeten de hulp dan zelf betalen."
-        },
-        {
-          "title": "Vrijdag in 'Meldpunt Actueel': alleenstaande AOW'er met klein pensioen de dupe van afschaffen huishoudelijke hulp?",
-          "source": "TVvisie",
-          "url": "https://tvvisie.be/inhoud/nederland/vrijdag-in-meldpunt-actueel-alleenstaande-aower-met-klein-pensioen-de-dupe-van-afschaffen-huishoudelijke-hulp_142737/",
-          "publishedDate": "Wed, 07 Oct 2026 17:00:00 GMT",
-          "description": "Als het aan de coalitiepartijen ligt, moeten ouderen die huishoudelijke hulp nodig hebben om zelfstandig thuis te wonen, die straks zelf betalen. Alleenstaande AOW'ers met een klein pensioen kunnen da ..."
-        },
-        {
-          "title": "Zijn alleenstaande AOW'er met klein pensioen de dupe van afschaffen huishoudelijke hulp?",
-          "source": "ZorgKrant.nl",
-          "url": "https://zorgkrant.nl/management-en-beleid/21532-zijn-alleenstaande-aower-met-klein-pensioen-de-dupe-van-afschaffen-huishoudelijke-hulp",
-          "publishedDate": "Wed, 07 Oct 2026 01:00:00 GMT",
-          "description": "Het blijft niet bij het afschaffen van de huishoudelijke hulp. Het gaat om een stapeling van zorgmaatregelen die vooral kwetsbare ouderen hard in de portemonnee treft ..."
-        },
-        {
-          "title": "Kamer wil alternatief voor schrappen huishoudelijke hulp",
-          "source": "Binnenlands Bestuur",
-          "url": "https://www.binnenlandsbestuur.nl/sociaal/kamer-wil-alternatief-voor-schrappen-huishoudelijke-hulp",
-          "publishedDate": "Wed, 01 Jul 2026 07:28:00 GMT",
-          "description": "Een meerderheid van de Tweede Kamer wil dat het kabinet in gesprek gaat met gemeenten, cli&#235;ntenorganisaties en zorgaanbieders over alternatieven voor het volledig schrappen van huishoudelijke hulp uit ..."
-        },
-        {
-          "title": "De huishoudelijke hulp verdient betere bescherming: 'Rechten stoppen niet bij zwartwerk'",
-          "source": "NPO Radio 1",
-          "url": "https://www.nporadio1.nl/nieuws/binnenland/3eb82f8e-536f-48a2-943f-5e2ce95059cb/de-huishoudelijke-hulp-verdient-betere-bescherming-rechten-stoppen-niet-bij-zwartwerk",
-          "publishedDate": "Wed, 11 Dec 2024 09:15:00 GMT",
-          "description": "In Nederland hebben maar liefst &#233;&#233;n miljoen huishoudens een huishoudelijke hulp. Wat veel mensen echter niet beseffen, is dat ze daarmee ook werkgever zijn. Dat betekent dat de hulp bepaalde rechten ..."
-        },
-        {
-          "title": "Goede huishoudelijke hulp? Daarvoor moeten de uurtarieven voor Wmo-hulp omhoog",
+          "title": "Collega's over voetbalanalyticus Leonne Stentler: ‘Daarin is ze gewoon de beste van allemaal’",
           "source": "AD",
-          "url": "https://www.ad.nl/nieuwkoop/goede-huishoudelijke-hulp-daarvoor-moeten-de-uurtarieven-voor-wmo-hulp-omhoog~acf560b7/",
-          "publishedDate": "Sat, 23 Nov 2024 22:30:00 GMT",
-          "description": "Huishoudelijke hulp via de Wmo wordt volgend jaar flink duurder. De uurtarieven stijgen van 37 euro naar 40,64 euro. Uit onderzoek blijkt dat aanbieders met de bestaande lagere tarieven geen goede ..."
-        },
-        {
-          "title": "Snelle oplossing voor groot tekort aan huishoudelijke hulp lijkt ver weg: ‘Experts waarschuwden hier al voor’",
-          "source": "AD",
-          "url": "https://www.ad.nl/utrecht/snelle-oplossing-voor-groot-tekort-aan-huishoudelijke-hulp-lijkt-ver-weg-experts-waarschuwden-hier-al-voor~ac038ad8/",
-          "publishedDate": "Wed, 11 Jan 2023 16:00:00 GMT",
-          "description": "Maandenlang wachten terwijl de laag stof steeds dikker wordt. Volgens experts moeten Utrechters rekening houden met een blijvend tekort aan huishoudelijke hulp. De aanwas van nieuw personeel is te ..."
-        },
-        {
-          "title": "Groeiende wachtlijst huishoudelijke hulp",
-          "source": "Binnenlands Bestuur",
-          "url": "https://www.binnenlandsbestuur.nl/sociaal/ravijnjaar/groeiende-wachtlijst-huishoudelijke-hulp",
-          "publishedDate": "Tue, 20 Dec 2022 08:56:00 GMT",
-          "description": "Onder mensen met een middeninkomen en een inkomen van minimaal 100.000 euro was de stijging dat jaar zelfs 80 procent. Welgestelden zegden hun particuliere poetshulp vaarwel en klopten aan bij de ..."
-        },
-        {
-          "title": "Rijkere mensen gaan toch weer meer betalen voor huishoudelijke hulp",
-          "source": "NU",
-          "url": "https://www.nu.nl/economie/6234176/rijkere-mensen-gaan-toch-weer-meer-betalen-voor-huishoudelijke-hulp.html",
-          "publishedDate": "Fri, 04 Nov 2022 09:34:00 GMT",
-          "description": "De eigen bijdrage voor huishoudelijke hulp wordt weer afhankelijk van het inkomen van de hulpbehoevende, heeft de ministerraad vrijdag besloten. Vanaf 2025 wordt het inkomen meegewogen bij de ..."
+          "url": "https://www.ad.nl/wk-vrouwenvoetbal/collega-s-over-voetbalanalyticus-leonne-stentler-daarin-is-ze-gewoon-de-beste-van-allemaal~a63cfb83/",
+          "publishedDate": "Sun, 30 Jul 2023 04:06:00 GMT",
+          "description": "Het is de zomer van 2017, Suse van Kleef is nog correspondent in Londen. Vrouwenvoetbal beleeft in Nederland zijn grote doorbraak: de Leeuwinnen winnen het EK in eigen land. In de beginfase van dat ..."
         }
       ]
     },
     {
-      "keyword": "dionne stax",
-      "trafficLabel": "10K+",
+      "keyword": "yandex",
+      "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Klaas van Kruistum viert verjaardag en Dionne Stax deelt emotioneel moment met dochter",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/artikel/5657430/klaas-van-kruistum-viert-verjaardag-en-dionne-stax-deelt-emotioneel",
-          "publishedDate": "Tue, 06 Oct 2026 07:34:00 GMT",
-          "description": "Wat hield de BN'ers vandaag bezig? Je ziet de opvallendste, leukste en meest besproken berichten in Bouleviraal."
-        },
-        {
-          "title": "Dionne Stax teleugesteld over verdwijnen eigen programma Het Hoge Noorden",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/dionne-stax-teleugesteld-over-verdwijnen-eigen-programma-het-hoge-noorden",
-          "publishedDate": "Fri, 09 Oct 2026 06:39:00 GMT",
-          "description": "Dionne Stax is teleurgesteld dat haar programma Het Hoge Noorden verdwijnt door bezuinigingen bij de NPO. Ook reageert ze op de toekomst van Tijd voor MAX."
-        },
-        {
-          "title": "Prachtig: Dionne Stax straalt voor pikante fotoshoot in Peaky Blinders-thema",
-          "source": "MAN MAN on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/prachtig-dionne-stax-straalt-voor-pikante-fotoshoot-in-peaky-blinders-thema/ar-AA1OuCmN",
-          "publishedDate": "Fri, 09 Oct 2026 04:28:59 GMT",
-          "description": "Dionne Stax zien we helaas niet meer op het achtuurjournaal, maar de presentatrice liet haar charmes zien in een Peaky Blinders shoot."
-        },
-        {
-          "title": "Dionne Stax teleurgesteld over verdwijnen eigen programma: 'Heel pijnlijk'",
-          "source": "TVgids.nl",
-          "url": "https://www.tvgids.nl/nieuws/sterren/dionne-stax-teleurgesteld-over-verdwijnen-eigen-programma-heel-pijnlijk-het-hoge-noorden",
-          "publishedDate": "Fri, 09 Oct 2026 02:26:00 GMT",
-          "description": "Presentatrice Dionne Stax vindt het nog altijd 'heel pijnlijk en jammer' dat haar eigen programma Het Hoge Noorden geen vervolg krijgt. Ze vertelt dat ze zich zorgen maakt om de bezuinigingen bij de p ..."
-        },
-        {
-          "title": "Dionne Stax maakt zich zorgen over bezuinigingen publieke omroep",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/dionne-stax-maakt-zich-zorgen-over-bezuinigingen-publieke-omroep",
-          "publishedDate": "Thu, 08 Oct 2026 15:07:00 GMT",
-          "description": "Dionne Stax noemt het stoppen van Het Hoge Noorden pijnlijk en jammer en spreekt haar steun uit voor Kassa, dat online verdergaat."
-        },
-        {
-          "title": "Dionne Stax uit zorgen over bezuinigingen publieke omroep: 'Pijnlijk'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/dionne-stax-zorgen-bezuinigingen-publieke-omroep-pijnlijk",
-          "publishedDate": "Thu, 08 Oct 2026 13:22:00 GMT",
-          "description": "Dionne Stax uit haar zorgen over de bezuinigingen bij de publieke omroep. Ze steunt Kassa op het Gouden Televizier-Ring Gala."
-        },
-        {
-          "title": "Dionne Stax geeft reactie na overlijden moeder: ‘huil om het gemis’",
-          "source": "Ditjes en Datjes",
-          "url": "https://www.ditjesendatjes.nl/dionne-stax-geeft-reactie-na-overlijden-moeder-huil-om-het-gemis",
-          "publishedDate": "Thu, 08 Oct 2026 07:32:00 GMT",
-          "description": "Na het overlijden van haar moeder vertelt Dionne Stax hoe het met haar gaat. Ze is in rouw in mist haar moeder 'verschrikkelijk'."
-        },
-        {
-          "title": "Dionne Stax-show inderdaad van de buis, ruimte voor Irene Moors?",
-          "source": "mediacourant",
-          "url": "https://www.mediacourant.nl/2025/04/dionne-stax-show-inderdaad-van-de-buis-ruimte-voor-irene-moors/",
-          "publishedDate": "Wed, 16 Apr 2025 09:55:00 GMT",
-          "description": "Jan Slagter, de baas van Omroep MAX, had van de week op televisie heel slecht nieuws voor Nederland: er gaan drie van zijn programma’s verdwijnen vanwege de bezuinigingen, waaronder Een Hele Grote ..."
-        },
-        {
-          "title": "Dionne Stax en Steven Jansen verwachten hun eerste kindje",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/show/dionne-stax-en-steven-jansen-verwachten-hun-eerste-kindje~a685e674/",
-          "publishedDate": "Mon, 10 Jun 2024 02:33:00 GMT",
-          "description": "Dionne Stax en haar vriend dj Steven Jansen verwachten een kindje. Dat laten de 39-jarige presentatrice en haar 31-jarige partner weten via Instagram. Ze delen daarbij de echo-foto's waarop de kleine ..."
-        },
-        {
-          "title": "Het lijkt alsof Dionne Stax met haar nieuwe coupe afscheid heeft genomen van haar NOS-uniform",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/show/het-lijkt-alsof-dionne-stax-met-haar-nieuwe-coupe-afscheid-heeft-genomen-van-haar-nos-uniform~a340b9d4/",
-          "publishedDate": "Tue, 14 Feb 2023 00:37:00 GMT",
-          "description": "Is het je al opgevallen? Dionne Stax, een van de mooiste vrouwen van ons land, heeft vorig jaar een metamorfose ondergaan. Naast een nieuwe, nonchalantere kledingstijl heeft ze zichzelf een nieuwe ..."
-        }
-      ]
-    },
-    {
-      "keyword": "a44",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "A44 en N44 bij Leiden gaan drie nachten dicht voor onderhoud",
+          "title": "Met voltreffer op Yandex gaat oorlog Oekra&#239;ne een nieuwe fase in, kan uitlopen op een ramp voor Russen",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/leiden/a44-en-n44-bij-leiden-gaan-drie-nachten-dicht-voor-onderhoud~a2fb34fc/",
-          "publishedDate": "Thu, 08 Oct 2026 02:50:00 GMT",
-          "description": "Rijkswaterstaat sluit in oktober delen van de A44 en N44 af voor nachtelijk onderhoud. De afsluitingen zijn vrijdag 9, 16 en 23 oktober telkens van 21.00 tot 08.00 uur de volgende ochtend."
+          "url": "https://www.ad.nl/buitenland/met-voltreffer-op-yandex-gaat-oorlog-oekraine-een-nieuwe-fase-in-kan-uitlopen-op-een-ramp-voor-russen~a2e3c69e/",
+          "publishedDate": "Fri, 09 Oct 2026 18:19:00 GMT",
+          "description": "Oekra&#239;ne bestookt nu ook het grootste it-bedrijf van Rusland: Yandex. In de regio Rjazan troffen drones het grootste datacentrum van de internetmoloch, dat geheel werd stilgelegd. Voor Russen zouden v ..."
         },
         {
-          "title": "Werkzaamheden A44 en N44 zorgen voor nachtafsluitingen in oktober",
-          "source": "Regio Online",
-          "url": "https://regioonline.nl/regio-rijnland/werkzaamheden-a44-n44/",
-          "publishedDate": "Fri, 09 Oct 2026 10:01:00 GMT",
-          "description": "Rijkswaterstaat voert in oktober werkzaamheden uit aan de A44 en N44. Bekijk de drie nachtafsluitingen, omleidingen en verwachte extra reistijd."
+          "title": "Met voltreffer op Yandex gaat oorlog Oekra&#239;ne een nieuwe fase in",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/video/productie/met-voltreffer-op-yandex-gaat-oorlog-oekraine-een-nieuwe-fase-in-14635752",
+          "publishedDate": "Fri, 09 Oct 2026 17:00:00 GMT",
+          "description": "Oekra&#239;ne bestookt nu ook het grootste it-bedrijf van Rusland: Yandex. In de regio Rjazan troffen drones het grootste datacentrum van de internetmoloch, dat geheel werd stilgelegd. Voor Russen zouden v ..."
         },
         {
-          "title": "Werkzaamheden A44: drie keer op vrijdagnacht dicht",
-          "source": "Sleutelstad",
-          "url": "https://sleutelstad.nl/2026/10/08/werkzaamheden-a44-drie-keer-op-vrijdagnacht-dicht/",
-          "publishedDate": "Thu, 08 Oct 2026 14:01:00 GMT",
-          "description": "Rijkswaterstaat voert in oktober werkzaamheden uit aan de A44 en N44. De weg wordt op drie vrijdagen vanaf 21.00 uur tot zaterdagochtend 8.00 uur in beide richtingen afgesloten voor verkeer. Vanwege d ..."
+          "title": "Vertrek internetbedrijf Yandex uit Rusland levert banen in Nederland op",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2453876-vertrek-internetbedrijf-yandex-uit-rusland-levert-banen-in-nederland-op",
+          "publishedDate": "Fri, 25 Nov 2022 06:47:00 GMT",
+          "description": "Het van oorsprong Russische Yandex wil vertrekken uit Rusland. De Russische tak - met onder meer een zoekmachine, maaltijddienst, taxi-service en de naam Yandex- gaat verkocht worden. Met vier andere ..."
         },
         {
-          "title": "Nachtafsluitingen A44/N44 in oktober",
-          "source": "Wassenaarders.nl",
-          "url": "https://wassenaarders.nl/2026/10/07/nachtafsluitingen-a44-n44-in-oktober/",
-          "publishedDate": "Wed, 07 Oct 2026 07:15:00 GMT",
-          "description": "Rijkswaterstaat voert werkzaamheden uit in diverse nachten in oktober van 21:00 uur tot de volgende ochtend 08:00 uur. Weggebruikers moeten rekenen op 10 tot 15 minuten extra reistijd. Dit gebeurt in ..."
+          "title": "Oekra&#239;ne treft voor de tweede dag op rij een datacentrum van het Russische &quot;Google&quot;",
+          "source": "Newsweek on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/oekra%C3%AFne-treft-voor-de-tweede-dag-op-rij-een-datacentrum-van-het-russische-google/ar-AA2dTGiA",
+          "publishedDate": "Fri, 09 Oct 2026 07:26:53 GMT",
+          "description": "Verscheidene datacentermodules waren door de staking volledig buiten bedrijf, vertelde Yandex aan Newsweek."
         },
         {
-          "title": "Ongeval met letsel op A44",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/messages/p2000-55928004-prio-1-afrit-a44-re-warmond-4-110-a-sasshm-ongeval-wegvervoer-letsel.html",
-          "publishedDate": "Wed, 07 Oct 2026 01:43:00 GMT",
-          "description": "De brandweer van is woensdag 7 oktober gealarmeerd voor een ongeval met letsel op A44. De melding werd om 08:43 via het P2000 netwerk verzonden naar de brandweer van , die het verzoek kreeg om met spo ..."
+          "title": "Russisch techbedrijf Yandex meldt nieuwe aanval op datacentrum",
+          "source": "Nederlands Dagblad",
+          "url": "https://www.nd.nl/varia/varia/1334365/russisch-techbedrijf-yandex-meldt-nieuwe-aanval-op-datacentrum",
+          "publishedDate": "Fri, 09 Oct 2026 04:00:00 GMT",
+          "description": "De Russische techreus Yandex heeft opnieuw melding gemaakt van een aanval op een datacentrum, de tweede in twee dagen. Een droneaanval trof een locatie in de regio Kaloega. Volgens Yandex raakte niema ..."
         },
         {
-          "title": "Kettingbotsing zorgt voor lange files op A44, &#233;&#233;n persoon naar ziekenhuis",
-          "source": "112duinenbollenstreek",
-          "url": "https://112duinenbollenstreek.nl/2026/10/05/kettingbotsing-zorgt-voor-lange-files-op-a44-een-persoon-naar-ziekenhuis/",
-          "publishedDate": "Mon, 05 Oct 2026 01:44:00 GMT",
-          "description": "SASSENHEIM – Op de A44 bij Sassenheim heeft maandagochtend 5 oktober een kettingbotsing plaatsgevonden. Het ongeval gebeurde rond kwart voor negen in de rijrichting van Amsterdam naar Den Haag."
+          "title": "Russische techreus Yandex meldt uitval clouddiensten na aanval",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/a/russische-techreus-yandex-meldt-uitval-clouddiensten-na-aanval",
+          "publishedDate": "Thu, 08 Oct 2026 07:39:00 GMT",
+          "description": "Het Russische techbedrijf Yandex meldt een volledige uitval van enkele van zijn clouddiensten. Dit na een nachtelijke droneaanval op een van de vijf datacenters van het bedrijf, in de regio Rjazan. Da ..."
         },
         {
-          "title": "A44: afsluitingen door werkzaamheden; 19 juni - 4 juli 2026",
-          "source": "rijkswaterstaat",
-          "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/06/a44-afsluitingen-door-werkzaamheden-19-juni-4-juli-2026",
-          "publishedDate": "Mon, 08 Jun 2026 12:21:00 GMT",
-          "description": "De afsluiting van de A44 richting Amsterdam, van afrit Noordwijkerhout tot knooppunt Burgerveen, gaat 2 dagen langer duren dan gepland. Eerst zou de snelweg 1 juli 2026 weer open zijn. Vanwege het ..."
+          "title": "Strategische treffer: Oekra&#239;ense droneaanval legt machtig datacenter van Rusland lam",
+          "source": "TCE on MSN",
+          "url": "https://www.msn.com/nl-nl/technologie/tech-bedrijven/strategische-treffer-oekra%C3%AFense-droneaanval-legt-machtig-datacenter-van-rusland-lam/ar-AA2dPX8G",
+          "publishedDate": "Thu, 08 Oct 2026 06:59:30 GMT",
+          "description": "De digitale infrastructuur van Rusland komt in het vizier: een droneaanval op een Yandex-datacenter markeert een nieuwe dimensie in de oorlog in Oekra&#239;ne."
         },
         {
-          "title": "Klimaatactivisten kondigen blokkade A44 aan op dag voor NAVO-top",
-          "source": "RD",
-          "url": "https://www.rd.nl/artikel/klimaatactivisten-kondigen-blokkade-a44-aan-op-dag-voor-navo-top",
-          "publishedDate": "Thu, 19 Jun 2025 09:13:00 GMT",
-          "description": "Extinction Rebellion (XR) wil maandag de snelweg A44 blokkeren. De weg is die dag afgesloten voor normaal verkeer, omdat hij volledig is gereserveerd voor delegatieleden die naar de NAVO-top gaan, die ..."
+          "title": "Yandex Hides All Four Cloud Data Centers on Maps After Ukrainian Drone Strike on Russia",
+          "source": "united24media",
+          "url": "https://united24media.com/world/yandex-hides-all-four-cloud-data-centers-on-maps-after-ukrainian-drone-strike-on-russia-23242",
+          "publishedDate": "Thu, 08 Oct 2026 06:00:00 GMT",
+          "description": "Yandex has blurred all four of its Cloud data centers on its mapping service, including a facility in Russia’s Ryazan region that was reportedly hit by Ukrainian drones on October 8. The locations ..."
         },
         {
-          "title": "A44 dicht tussen Noordwijkerhout en Leiden; 24 - 27 mei 2024",
-          "source": "rijkswaterstaat",
-          "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2024/05/a44-dicht-tussen-noordwijkerhout-en-leiden-24-27-mei-2024",
-          "publishedDate": "Fri, 17 May 2024 14:00:00 GMT",
-          "description": "De A44 richting Den Haag is dicht van vrijdag 24 mei 21:00 tot maandag 27 mei 2024 05:00 tussen Noordwijkerhout (op-/afrit 3) en Leiden (op-/afrit 8). De A44 richting Amsterdam is dicht van vrijdag 24 ..."
+          "title": "Kort: Google-detector voor ‘ai-watermerk’, datacenter Russisch Yandex geraakt door drone-aanval",
+          "source": "Computable.nl",
+          "url": "https://www.computable.nl/2026/10/08/kort-google-detector-voor-ai-watermerk-datacenter-russisch-yandex-geraakt-door-drone-aanval/",
+          "publishedDate": "Thu, 08 Oct 2026 05:56:00 GMT",
+          "description": "Google lanceert detector voor ai-content, datacenter Russische internetgigant Yandex getroffen door drone-aanval, Apollo-pionier en bedenker term ‘software engineering’ overleden, 50 miljoen voor aanb ..."
         },
         {
-          "title": "Snelweg A44 richting Den Haag bij Wassenaar dicht door ongeluk",
-          "source": "RD",
-          "url": "https://www.rd.nl/artikel/snelweg-a44-richting-den-haag-bij-wassenaar-dicht-door-ongeluk",
-          "publishedDate": "Sat, 30 Sep 2023 11:07:00 GMT",
-          "description": "De snelweg A44 in de richting van Den Haag is ter hoogte van Wassenaar afgesloten, melden de ANWB en Rijkswaterstaat Verkeer. Er is een ongeluk gebeurd waarbij meerdere voertuigen zijn betrokken. De ..."
+          "title": "Groot datacenter Russische zoekmachine Yandex geraakt bij aanval",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/buitenland/groot-datacenter-russische-zoekmachine-yandex-geraakt-bij-aanval",
+          "publishedDate": "Thu, 08 Oct 2026 01:05:00 GMT",
+          "description": "Een groot datacenter van de Russische zoekmachine Yandex ligt stil na een nachtelijke droneaanval in de regio Rjazan. Diensten lijken beperkt geraakt."
+        }
+      ]
+    },
+    {
+      "keyword": "christiaan bauer",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Christiaan Bauer moest 'traantje wegpinken' bij terugzien tweede seizoen De Bauers, hoopt op vervolg",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5657990/christiaan-bauer-emotioneel-door-beelden-van-oma-wies-de-bauers-dementie",
+          "publishedDate": "Thu, 08 Oct 2026 14:34:00 GMT",
+          "description": "De beelden van de verhuizing van oma Wies, die dementie heeft, maken veel los bij Christiaan Bauer (25). De oudste zoon van Frans Bauer hield het niet droog toen hij de bewuste aflevering van 'De Baue ..."
+        },
+        {
+          "title": "Christiaan Bauer vindt beelden verhuizing oma Wies confronterend: 'Zo veel herinneringen'",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/video/video/e6773b67-e6aa-4378-ba0a-1a6defd1f2d3/christiaan-bauer-vindt-beelden",
+          "publishedDate": "Wed, 07 Oct 2026 17:00:00 GMT",
+          "description": "Het terugzien van oude beelden van oma Wies maakt veel los bij Christiaan Bauer (25). In 'De Bauers' was te zien hoe zijn dementerende oma naar een verzorgingshuis moest verhuizen. Voor Christiaan is ..."
+        },
+        {
+          "title": "Christiaan Bauer krijgt liefdevol cadeau van Rosalie: 'Heel romantisch'",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/christiaan-bauer-krijgt-liefdevol-cadeau-van-rosalie-heel-romantisch/ar-AA2dtziz",
+          "publishedDate": "Fri, 02 Oct 2026 23:52:59 GMT",
+          "description": "Christiaan Bauer (25) heeft in 'De Bauers, een nieuwe fase' iets te vieren: hij is 25 jaar geworden. Terwijl de familie zijn verjaardag viert, pakt vriendin Rosalie van der Horst (25) uit met een roma ..."
+        },
+        {
+          "title": "Christiaan Bauer: “mijn vader heeft het daar enorm moeilijk mee”",
+          "source": "Vipnieuws.nl",
+          "url": "https://vipnieuws.nl/christiaan-bauer-mijn-vader-heeft-het-daar-enorm-moeilijk-mee/",
+          "publishedDate": "Mon, 05 Oct 2026 17:00:00 GMT",
+          "description": "“Zijn moeder herkent hem soms wel, maar soms ook niet. Zijn pijn zorgt bij mij voor de meeste pijn, dat vind ik het moeilijkste”, bekent Christiaan. Toch bekijken de Bauers het positief: “Zolang oma ..."
+        },
+        {
+          "title": "Dubbel feest in huize Bauer? 'Maakt niet uit, ik word toch wel dronken'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/media/fragment-gemist/bauers-frans-jr-de-bauers-een-nieuwe-fase/",
+          "publishedDate": "Thu, 01 Oct 2026 16:59:00 GMT",
+          "description": "De Bauers zijn altijd wel te porren voor een feestje. Daarom organiseren ze een verrassingsbarbecue voor zoon Christiaan, die 25 jaar wordt. Maar helemaal ontspannen verloopt de middag niet. Frans jr."
+        },
+        {
+          "title": "Christiaan Bauer weer gelukkig in de liefde: ‘Ken haar vanaf de kleuterklas’",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/show/christiaan-bauer-weer-gelukkig-in-de-liefde-ken-haar-vanaf-de-kleuterklas~a76ce92f/",
+          "publishedDate": "Tue, 20 Jan 2026 22:04:00 GMT",
+          "description": "„We hebben het heel leuk”, aldus Christiaan in het NPO Sterren NL-programma over zijn nieuwe vriendin. Aan RTL Boulevard bevestigt hij dat het gaat om Rosalie. De twee komen allebei uit Fijnaart en ..."
+        },
+        {
+          "title": "Christiaan Bauer feliciteert 'beste vriend' en vader Frans",
+          "source": "Nieuws",
+          "url": "https://nieuws.nl/entertainment/christiaan-bauer-feliciteert-beste-vriend-en-vader-frans",
+          "publishedDate": "Tue, 30 Dec 2025 06:09:00 GMT",
+          "description": "Frans Bauer viert dinsdag zijn 52e verjaardag. Op Instagram staat zoon Christiaan stil bij de heuglijke dag. &quot;Mijn vader, mijn beste vriend, en degene die altijd gelijk heeft (of in elk geval denkt te ..."
+        },
+        {
+          "title": "Christiaan Bauer en Kim na vier jaar uit elkaar: ‘Het was lastig om afscheid te nemen’",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/christiaan-bauer-en-kim-na-vier-jaar-uit-elkaar-het-was-lastig-om-afscheid-te-nemen~a79f6c93/",
+          "publishedDate": "Tue, 23 Dec 2025 21:10:00 GMT",
+          "description": "Zanger Christiaan Bauer beleeft dit jaar ‘een andere kerst’. De Bauer-telg en zijn vriendin Kim besloten onlangs na een relatie van ruim vier jaar uit elkaar te gaan. Dat bevestigt Christiaan aan RTL ..."
+        },
+        {
+          "title": "Christiaan Bauer in tranen bij zinderende, nu al omstreden finale van De Verraders",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/christiaan-bauer-in-tranen-bij-zinderende-nu-al-omstreden-finale-van-de-verraders~a42ef6c0/?slug_rd=1",
+          "publishedDate": "Thu, 03 Jul 2025 17:00:00 GMT",
+          "description": "Lang huppelde hij even vrolijk als na&#239;ef door het programma, maar in de finale van De Verraders vrijdagavond bezweek de zoon van volksheld Frans Bauer toch onder de stress. „Ik zou voor jullie allebei ..."
+        },
+        {
+          "title": "Van liefdesleven tot studie: dit wist je nog niet over de zoons van Frans en Mariska Bauer",
+          "source": "bd.nl",
+          "url": "https://www.bd.nl/show/van-liefdesleven-tot-studie-dit-wist-je-nog-niet-over-de-zoons-van-frans-en-mariska-bauer~a58f32de/",
+          "publishedDate": "Fri, 19 Apr 2024 18:29:00 GMT",
+          "description": "Na twintig jaar wachten is de familie Bauer sinds begin april weer terug op de buis. De realityserie trekt honderdduizenden kijkers. Hoe gaat het nu eigenlijk met de vier zoons van Frans en Mariska ..."
         }
       ]
     }
