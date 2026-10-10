@@ -1,180 +1,43 @@
 {
-  "fetchedAt": "2026-10-10T19:27:12.184Z",
+  "fetchedAt": "2026-10-10T22:48:30.257Z",
   "trends": [
+    {
+      "keyword": "ajax - nec",
+      "trafficLabel": "100K+",
+      "articles": [
+        {
+          "title": "Ajax morst voor vierde keer dure punten in Arena en raakt verder achterop bij Feyenoord en PSV",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/ajax-morst-voor-vierde-keer-dure-punten-in-arena-en-raakt-verder-achterop-bij-feyenoord-en-psv~a2925875/",
+          "publishedDate": "Sat, 10 Oct 2026 07:02:00 GMT",
+          "description": "Ajax heeft al voor de vierde keer in vijf thuiswedstrijden dure punten laten liggen in de eigen Johan Cruijff Arena. De ploeg van trainer M&#237;chel S&#225;nchez speelde zaterdagavond met 1-1 gelijk en raakt d"
+        },
+        {
+          "title": "Ajax wint opnieuw niet van NEC in eigen huis • Fortuna Sittard en FC Twente delen punten",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2634438-ajax-wint-opnieuw-niet-van-nec-in-eigen-huis-fortuna-sittard-en-fc-twente-delen-punten",
+          "publishedDate": "Sat, 10 Oct 2026 06:55:00 GMT",
+          "description": "In dit blog volgen we de vier zaterdagwedstrijden in de achtste speelronde van de eredivisie, met onder meer Feyenoord - AZ en Ajax - NEC."
+        }
+      ]
+    },
     {
       "keyword": "feyenoord - az",
       "trafficLabel": "100K+",
       "articles": [
         {
-          "title": "Feyenoord wint dankzij Spanjaarden topper van AZ en is voor eerst in bijna een jaar weer koploper",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/voetbal/feyenoord-wint-dankzij-spanjaarden-topper-van-az-en-is-voor-eerst-in-bijna-een-jaar-weer-koploper~a56da16d/",
-          "publishedDate": "Sat, 10 Oct 2026 04:40:00 GMT",
-          "description": "Feyenoord is de nieuwe koploper in de Eredivisie. De Rotterdammers klopten in een rechtstreeks duel met lijstaanvoerder AZ in de eigen Kuip met 2-0. De ploeg uit Alkmaar dacht kort voor rust op 1-1 te"
+          "title": "Feyenoord pakt kopposititie na overwinning op AZ; FC Twente speelt gelijk",
+          "source": "Ajax Showtime on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/feyenoord-pakt-kopposititie-na-overwinning-op-az-fc-twente-speelt-gelijk/ar-AA2dX5Ie?ocid=BingNewsVerp",
+          "publishedDate": "Sat, 10 Oct 2026 13:00:00 GMT",
+          "description": "Feyenoord heeft voorlopig de koppositie in de Eredivisie te pakken. De Rotterdammers wonnen zaterdagavond namelijk met 2-0 van concurrent AZ. Verder verspeelde FC Twente dure punten bij Fortuna Sittar"
         },
         {
           "title": "Danny Makkelie neemt bizar besluit bij Feyenoord - AZ: ‘Typisch Makkelie!’",
           "source": "FCUpdate.nl",
           "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/danny-makkelie-neemt-bizar-besluit-bij-feyenoord-az",
-          "publishedDate": "Fri, 09 Oct 2026 22:53:00 GMT",
+          "publishedDate": "Sat, 10 Oct 2026 12:53:00 GMT",
           "description": "Danny Makkelie zorgt voor verbazing tijdens Feyenoord - AZ. De scheidsrechter trekt na VAR-ingrijpen een strafschop in, maar laat de eerste helft eindigen terwijl de VAR-onderbreking langer duurde dan"
-        }
-      ]
-    },
-    {
-      "keyword": "ajax - nec",
-      "trafficLabel": "50K+",
-      "articles": []
-    },
-    {
-      "keyword": "fortuna - twente",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "LIVE 20.00 uur | Fortuna Sittard - FC Twente (1-1)",
-          "source": "Ajax Showtime",
-          "url": "https://www.ajaxshowtime.com/voetbalnieuws/live-2000-uur-fortuna-sittard-fc-twente-1-1",
-          "publishedDate": "Sat, 10 Oct 2026 12:01:00 GMT",
-          "description": "Dit is het livetopic voor de wedstrijden in de Eredivisie op zaterdag 10 oktober. Er staat een topduel tussen Feyenoord en AZ op het programma, terwijl FC Twente op bezoek gaat bij Fortuna Sittard. Ve ..."
-        },
-        {
-          "title": "Praat mee op VP: FC Twente mist &#216;rjas&#230;ter op bezoek bij Fortuna",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-fc-twente-mist-%C3%B8rjas%C3%A6ter-op-bezoek-bij-fortuna/ar-AA2dXUl3",
-          "publishedDate": "Sat, 10 Oct 2026 10:14:00 GMT",
-          "description": "Fortuna Sittard en FC Twente nemen het zaterdagavond tegen elkaar op in de Eredivisie. De wedstrijd begint om 20.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee ..."
-        },
-        {
-          "title": "Opstelling FC Twente: gewijzigde elf, geen Bruns en Orjasaeter",
-          "source": "Twentefans.nl",
-          "url": "https://www.twentefans.nl/opstelling-fc-twente-gewijzigde-elf-geen-bruns-en-orjasaeter/",
-          "publishedDate": "Sat, 10 Oct 2026 09:54:00 GMT",
-          "description": "Lees nu | FC Twente neemt het zaterdagavond in Limburg op tegen Fortuna Sittard. Trainer John van den Brom heeft zojuist zijn gewijzigde opstelling ..."
-        },
-        {
-          "title": "Live Eredivisie | Feyenoord en AZ treffen elkaar in topper, FC Twente ook in actie",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-eredivisie-feyenoord-en-az-treffen-elkaar-in-topper-fc-twente-ook-in-actie/ar-AA2dX5Ie",
-          "publishedDate": "Sat, 10 Oct 2026 07:45:00 GMT",
-          "description": "Dit is het livetopic voor de wedstrijden in de Eredivisie op zaterdag 10 oktober. Er staat een topduel tussen Feyenoord en AZ op het programma, terwijl FC Twente op bezoek gaat bij Fortuna Sittard. Ve ..."
-        },
-        {
-          "title": "SUPERTIP: Livestream Fortuna Sittard – FC Twente (Eredivisie 10-10-2026)",
-          "source": "Voetbal4u",
-          "url": "https://www.voetbal4u.com/2026/10/10/supertip-livestream-fortuna-sittard-fc-twente-eredivisie-10-10-2026/",
-          "publishedDate": "Sat, 10 Oct 2026 03:41:00 GMT",
-          "description": "Mijn naam is Johannes Cornelis en ik ben al meer dan 20 jaar actief in het voetbalwereldje. Mijn focus ligt vooral op actualiteiten, transfernieuws, wedstrijdverslagen en achtergrondverhalen."
-        },
-        {
-          "title": "Liveblog | FC Twente uit tegen Fortuna Sittard",
-          "source": "FC Twente",
-          "url": "https://fctwente.nl/nieuws/liveblog-fc-twente-uit-tegen-fortuna-sittard",
-          "publishedDate": "Fri, 09 Oct 2026 23:55:00 GMT",
-          "description": "Na de interlandperiode hervat FC Twente vanavond de Eredivisie met een uitwedstrijd bij Fortuna Sittard. Beide ploegen kennen een goede seizoensstart en staan dicht bij elkaar op de ranglijst, Fortuna ..."
-        },
-        {
-          "title": "FC Twente-speler Robin Pr&#246;pper in tranen na doelpunt tegen Fortuna Sittard: 'Een dieper betekenis'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/fc-twente-speler-robin-propper-in-tranen-na-doelpunt-tegen-fortuna-sittard-een-dieper-betekenis-2026101018440724603/",
-          "publishedDate": "Fri, 09 Oct 2026 23:54:00 GMT",
-          "description": "Fortuna Sittard kwam al in de negende minuut van de wedstrijd op voorsprong via een doelpunt van Anthony Descotte. Na ruim een halfuur maakte de thuisclub gelijk. Na een corner schoot Wout Weghorst de ..."
-        },
-        {
-          "title": "Fortuna Sittard mist aanvoerder tegen FC Twente: enkele sterkhouders twijfelgevallen",
-          "source": "Twente Insite",
-          "url": "https://www.twenteinsite.nl/fc-twente-nieuws/fortuna-sittard-mist-aanvoerder-tegen-fc-twente-enkele-sterkhouders-twijfelgevallen",
-          "publishedDate": "Fri, 09 Oct 2026 23:35:00 GMT",
-          "description": "Fortuna Sittard mist aanvoerder tegen FC Twente: enkele sterkhouders twijfelgevallen ..."
-        },
-        {
-          "title": "FC Twente mist twee spelers tegen Fortuna: clubtopscorer kan rentree maken",
-          "source": "Twente Insite",
-          "url": "https://www.twenteinsite.nl/fc-twente-nieuws/fc-twente-mist-twee-spelers-tegen-fortuna-clubtopscorer-van-vorig-seizoen-keert-terug",
-          "publishedDate": "Fri, 09 Oct 2026 05:16:00 GMT",
-          "description": "FC Twente gaat zaterdagavond op bezoek bij Fortuna Sittard. De ploeg van John van den Brom wacht een extreem druk programma, met maar liefst acht wedstrijden in 29 dagen. De trainer kan daarbij iedere ..."
-        },
-        {
-          "title": "FC Twente zonder Unnerstall naar Fortuna, Lemkin nadert rentree",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/fc-twente-zonder-unnerstall-naar-fortuna-lemkin-nadert-rentree/ar-AA2dSSW3",
-          "publishedDate": "Fri, 09 Oct 2026 04:08:10 GMT",
-          "description": "FC Twente moet het zaterdagavond stellen zonder Lars Unnerstall. De Duitse doelman wordt vervangen door Jo&#235;l Drommel als de Tukkers op bezoek gaan bij Fortuna Sittard in de Eredivisie."
-        }
-      ]
-    },
-    {
-      "keyword": "barcelona - getafe",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "FC Barcelona kent geen problemen met Getafe en blijft zonder puntenverlies",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/fc-barcelona-kent-geen-problemen-met-getafe-en-blijft-zonder-puntenverlies~a8f44fa7/",
-          "publishedDate": "Sat, 10 Oct 2026 04:36:00 GMT",
-          "description": "FC Barcelona blijft foutloos in de La Liga. De ploeg van trainer Hansi Flick kende zaterdagavond weinig moeite met Getafe: 3-0. Frenkie de Jong, die na zijn lange knieblessure sinds deze week wel weer ..."
-        },
-        {
-          "title": "Barcelona maakt korte metten met Getafe en zet indrukwekkende reeks voort",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/barcelona-maakt-korte-metten-met-getafe-en-zet-indrukwekkende-reeks-voort/ar-AA2dXUFR",
-          "publishedDate": "Sat, 10 Oct 2026 11:32:36 GMT",
-          "description": "FC Barcelona heeft zaterdagavond een eenvoudige zege geboekt op Getafe na een overtuigend begin. De Catalanen, die onder meer Frenkie de Jong en Raphinha moesten missen, schoten in het eigen Camp Nou ..."
-        },
-        {
-          "title": "Ook Getafe speelbal voor oppermachtig Bar&#231;a: Gordon opent rekening",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ook-getafe-speelbal-voor-oppermachtig-barca-gordon-opent-rekening",
-          "publishedDate": "Sat, 10 Oct 2026 11:30:00 GMT",
-          "description": "Barcelona heeft zaterdag kinderlijk eenvoudig afgerekend met Getafe. Anthony Gordon opende in Camp Nou al vroeg de score met zijn eerste goal voor Bar&#231;a. Daarna konden de gasten geen vuist maken. Wat ..."
-        },
-        {
-          "title": "FC Barcelona boekt overtuigende zege op Ajax-opponent Getafe en is nog altijd foutloos",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/fc-barcelona-boekt-overtuigende-zege-op-ajax-opponent-getafe-en-is-nog-altijd-foutloos/ar-AA2dXRRo",
-          "publishedDate": "Sat, 10 Oct 2026 09:31:54 GMT",
-          "description": "FC Barcelona is nog altijd foutloos in LaLiga. Zaterdagavond wonnen de Catalanen in eigen huis met 3-0 van Getafe, door doelpunten van Anthony Gordon, Gabriel Jesus en Jules Kound&#233;."
-        },
-        {
-          "title": "Mangala vindt speelminuten terug bij Getafe: Nu wacht Barcelona",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/mangala-vindt-speelminuten-terug-bij-getafe-nu-wacht-barcelona/ar-AA2dXGec",
-          "publishedDate": "Sat, 10 Oct 2026 05:46:00 GMT",
-          "description": "Orel Mangala heeft zijn draai gevonden bij Getafe. De Rode Duivel verzamelt opnieuw speelminuten na een moeilijke periode bij Olympique Lyon en staat zaterdag voor een stevige test tegen FC Barcelona."
-        },
-        {
-          "title": "Barcelona vs Getafe voorspelling, tips en odds | LaLiga",
-          "source": "Eurosport",
-          "url": "https://www.eurosport.nl/weddenschappen/voorspellingen/barcelona-vs-getafe-voorspelling-tips-en-odds-10-10-26/",
-          "publishedDate": "Thu, 08 Oct 2026 06:59:00 GMT",
-          "description": "Barcelona ontvangt Getafe zaterdagmiddag in het Spotify Camp Nou (18:30 CEST) voor speelronde acht van La Liga, en de cijfers wijzen op een vlotte middag voor de ploeg van Hansi Flick."
-        },
-        {
-          "title": "Op welke zender je Getafe – FC Barcelona kunt kijken: Gratis live stream beschikbaar (25-4-26)",
-          "source": "Squawka Football",
-          "url": "https://www.squawka.com/nl/nieuws/op-welke-zender-je-getafe-fc-barcelona-kunt-kijken-gratis-live-stream-beschikbaar-25-4-26/",
-          "publishedDate": "Sat, 25 Apr 2026 01:21:00 GMT",
-          "description": "De offici&#235;le uitzendrechten voor de Spaanse La Liga zijn in Nederland in handen van Ziggo Sport. De wedstrijd tussen Getafe en FC Barcelona wordt zaterdagmiddag om 16:15 uur live uitgezonden op Ziggo ..."
-        },
-        {
-          "title": "Getafe lacht om kritiek Barcelona op speelstijl: 'Verschil is een miljard euro'",
-          "source": "Vi",
-          "url": "https://www.vi.nl/nieuws/getafe-weerlegt-de-kritiek-van-barcelona-op-de-speelstijl",
-          "publishedDate": "Mon, 22 Sep 2025 01:43:00 GMT",
-          "description": "Barcelona boekte zondagavond een overtuigende 3-0-zege op Getafe, maar na afloop ging het vooral over de manier waarop de bezoekers de wedstrijd hadden aangepakt. De Madrileense club staat al jaren ..."
-        },
-        {
-          "title": "FC Barcelona wint simpel van Getafe, Frenkie de Jong zonder kleerscheuren uit de strijd",
-          "source": "AD",
-          "url": "https://www.ad.nl/voetbal/fc-barcelona-wint-simpel-van-getafe-frenkie-de-jong-zonder-kleerscheuren-uit-de-strijd~a1b3a2b9/",
-          "publishedDate": "Sun, 21 Sep 2025 07:03:00 GMT",
-          "description": "Barcelona staat na vijf competitieduels op 13 punten. Dat zijn er twee minder dan koploper Real Madrid, dat zaterdag al met 2-0 won van RCD Espanyol en zo foutlees bleef. Barcelona speelde eind ..."
-        },
-        {
-          "title": "FC Barcelona zet dankzij Pedri een nieuwe stap richting landstitel",
-          "source": "voetbalprimeur",
-          "url": "https://www.voetbalprimeur.be/nieuws/1063606/barcelona-boekt-magere-zege-op-getafe.html",
-          "publishedDate": "Sun, 22 Jan 2023 13:45:00 GMT",
-          "description": "FC Barcelona heeft zondagavond een belangrijke stap gezet richting de landstitel. De ploeg van Xavi, zonder Frenkie de Jong, won thuis met 1-0 van Getafe. Een doelpunt van Pedri was genoeg voor de ..."
         }
       ]
     },
@@ -255,170 +118,8 @@
       ]
     },
     {
-      "keyword": "spookrijder a2",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Spookrijder overleden na ongeval met drie auto’s op A2 bij Breukelen",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/spookrijder-overleden-na-ongeval-met-drie-auto-s-op-a2-bij-breukelen~ba6a86d0/",
-          "publishedDate": "Sat, 10 Oct 2026 09:22:00 GMT",
-          "description": "Op de A2 tussen Utrecht en Amsterdam heeft een ongeval met een spookrijder plaatsgevonden waarbij drie auto’s betrokken zijn. De spookrijder is hierbij om het leven gekomen, meldt de politie."
-        },
-        {
-          "title": "Spookrijder komt om bij ongeluk op A2",
-          "source": "NOS",
-          "url": "https://nos.nl/video/2634446-spookrijder-komt-om-bij-ongeluk-op-a2",
-          "publishedDate": "Sat, 10 Oct 2026 07:52:00 GMT",
-          "description": "De snelweg A2 lag bezaaid met brokstukken van de betrokken auto's. Met een scherm werd het lichaam van de omgekomen bestuurder aan het zicht onttrokken."
-        },
-        {
-          "title": "Spookrijder omgekomen bij ongeval op A2, weg richting Amsterdam tijdlang dicht",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/binnenland/6412707/ongeval-met-slachtoffers-op-de-a2-bij-breukelen-mogelijk-spookrijder-betrokken.html",
-          "publishedDate": "Sat, 10 Oct 2026 06:40:00 GMT",
-          "description": "Op de A2 tussen Utrecht en Amsterdam heeft een ongeval plaatsgevonden waarbij drie auto's betrokken zijn. De politie meldt dat er meerdere slachtoffers zijn, het is onbekend hoe ze er aan toe zijn. Mo ..."
-        },
-        {
-          "title": "Spookrijder omgekomen bij ongeluk op A2, weg urenlang dicht",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2634428-spookrijder-omgekomen-bij-ongeluk-op-a2-weg-urenlang-dicht",
-          "publishedDate": "Sat, 10 Oct 2026 04:59:00 GMT",
-          "description": "De afhandeling van het ongeval op de #A2 bij Breukelen gaat tot het begin van de avond duren. De traumahelikopter is net vertrokken en de politie doet onderzoek. Verkeer gaat via de af- en toerit, ..."
-        },
-        {
-          "title": "Spookrijder overleden na ongeluk op A2, weg tot vanavond dicht",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5658285/slachtoffers-op-a2-na-ongeluk-met-spookrijder",
-          "publishedDate": "Sat, 10 Oct 2026 04:30:00 GMT",
-          "description": "Op de A2 tussen Utrecht en Amsterdam heeft een ongeluk plaatsgevonden waarbij drie auto's betrokken zijn. De politie meldt dat er meerdere slachtoffers zijn Volgens de ANWB is bij het ongeval een spoo ..."
-        },
-        {
-          "title": "Meerdere auto's betrokken bij ernstig ongeluk A2 Breukelen",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/videos/meerdere-autos-betrokken-bij-ernstig-ongeluk-a2-breukelen",
-          "publishedDate": "Sat, 10 Oct 2026 11:29:00 GMT",
-          "description": "Bij een ongeluk met drie auto's op de A2 bij Breukelen zijn meerdere slachtoffers gevallen. Volgens de ANWB was een spookrijder betrokken."
-        },
-        {
-          "title": "Spookrijder dood door aanrijding op A2, andere bestuurder gewond",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/spookrijder-dood-door-aanrijding-op-a2-andere-bestuurder-gewond",
-          "publishedDate": "Sat, 10 Oct 2026 08:14:00 GMT",
-          "description": "Een spookrijder is zaterdag om het leven gekomen door een aanrijding op de snelweg A2 ter hoogte van de afrit Breukelen. De bestuurder van een andere auto raakte gewond. Bij de botsing was ook een der ..."
-        },
-        {
-          "title": "Ongeval met slachtoffers op de A2 bij Breukelen door spookrijder",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/ongeval-met-slachtoffers-op-de-a2-bij-breukelen-door-spookrijder",
-          "publishedDate": "Sat, 10 Oct 2026 06:18:00 GMT",
-          "description": "Op de A2 tussen Utrecht en Amsterdam heeft een ongeval plaatsgevonden waarbij drie auto’s betrokken zijn. De politie meldt dat er meerdere slachtoffers zijn. Hoe zij eraan toe zijn, is niet bekendgema ..."
-        },
-        {
-          "title": "Meerdere slachtoffers bij ongeluk A2 bij Breukelen, mogelijk spookrijder",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/ongeluk-a2-breukelen-spookrijder",
-          "publishedDate": "Sat, 10 Oct 2026 04:44:00 GMT",
-          "description": "Bij een ongeluk met drie auto's op de A2 bij Breukelen zijn meerdere slachtoffers gevallen. Volgens de ANWB was een spookrijder betrokken."
-        },
-        {
-          "title": "Spookrijder om het leven gekomen bij ongeluk A2",
-          "source": "RTV Utrecht",
-          "url": "https://www.rtvutrecht.nl/nieuws/4102432/spookrijder-om-het-leven-gekomen-bij-ongeluk-a2",
-          "publishedDate": "Sat, 10 Oct 2026 03:58:00 GMT",
-          "description": "Bij een ongeluk op de A2 bij Breukelen is vanmiddag een persoon om het leven gekomen. Op basis van informatie van getuigen, zou het om een spookrijder gaan, meldt de politie."
-        }
-      ]
-    },
-    {
-      "keyword": "yandex",
-      "trafficLabel": "20K+",
-      "articles": []
-    },
-    {
-      "keyword": "estelle van &#39;t schip",
-      "trafficLabel": "20K+",
-      "articles": []
-    },
-    {
-      "keyword": "ga eagles - sparta rotterdam",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "LIVE 20.00 uur | Fortuna Sittard - FC Twente (1-1)",
-          "source": "Ajax Showtime",
-          "url": "https://www.ajaxshowtime.com/voetbalnieuws/live-2000-uur-fortuna-sittard-fc-twente-1-1",
-          "publishedDate": "Sat, 10 Oct 2026 12:01:00 GMT",
-          "description": "Dit is het livetopic voor de wedstrijden in de Eredivisie op zaterdag 10 oktober. Er staat een topduel tussen Feyenoord en AZ op het programma, terwijl FC Twente op bezoek gaat bij Fortuna Sittard. Ve ..."
-        },
-        {
-          "title": "Spektakelstuk tussen Go Ahead en Sparta levert nieuwe Eredivisie-topscorer op",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/go-ahead-eagles-sparta-rotterdam-3-3-zonneveld-eigen-doelpunt-terho",
-          "publishedDate": "Sat, 10 Oct 2026 11:29:00 GMT",
-          "description": "Go Ahead Eagles en Sparta Rotterdam spelen na een knotsgekke wedstrijd met zes doelpunten 3-3. Milan Zonneveld speelt een opvallende hoofdrol."
-        },
-        {
-          "title": "Go Ahead Eagles en Sparta vervolgen zegeloze reeks na enerverend gelijkspel in Deventer",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/go-ahead-eagles-en-sparta-vervolgen-zegeloze-reeks-na-enerverend-gelijkspel-in-deventer/ar-AA2dYbnz",
-          "publishedDate": "Sat, 10 Oct 2026 11:25:00 GMT",
-          "description": "Go Ahead Eagles en Sparta Rotterdam hebben zaterdag in een enerverend duel gelijkgespeeld. De twee ploegen maakten er allebei drie, waarbij Milan Zonneveld (onbedoeld) beide teams diende: 3-3."
-        },
-        {
-          "title": "Go Ahead Eagles hervat competitie met doelpuntrijke remise tegen Sparta Rotterdam",
-          "source": "Go Ahead Eagles",
-          "url": "https://www.ga-eagles.nl/go-ahead-eagles-hervat-competitie-met-doelpuntrijke-remise-tegen-sparta-rotterdam/",
-          "publishedDate": "Sat, 10 Oct 2026 09:46:00 GMT",
-          "description": "Go Ahead Eagles heeft in de eerste wedstrijd na de interlandbreak een punt overgehouden aan het thuisduel met Sparta Rotterdam. Na een moeizame eerste helft en een doelpuntrijke tweede helft werd het ..."
-        },
-        {
-          "title": "Spektakelstuk in Deventer: doelpuntrijk gelijkspel tussen Go Ahead en Sparta",
-          "source": "Voetbal Centraal",
-          "url": "https://www.voetbalcentraal.nl/nieuws/1788826/Spektakelstuk-in-Deventer:-doelpuntrijk-gelijkspel-tussen-Go-Ahead-en-Sparta",
-          "publishedDate": "Sat, 10 Oct 2026 09:35:00 GMT",
-          "description": "Het Eredivisie-duel tussen Go Ahead Eagles en Sparta Rotterdam is ge&#235;indigd in een spektakelstuk. In een wedstrijd met zes treffers speelden beide ploegen uiteindelijk met 3-3 gelijk, nadat de Devente ..."
-        },
-        {
-          "title": "Spektakelstuk tussen Go Ahead en Sparta levert beide ploegen weinig op",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/spektakelstuk-tussen-go-ahead-en-sparta-levert-beide-ploegen-weinig-op",
-          "publishedDate": "Sat, 10 Oct 2026 09:23:00 GMT",
-          "description": "Go Ahead Eagles en Sparta Rotterdam hebben zaterdag gelijkgespeeld. In een uiterst vermakelijke wedstrijd met zes doelpunten moesten de ploegen het uiteindelijk doen met een punt. Kowet laat daarmee n ..."
-        },
-        {
-          "title": "Live 16.30 uur | Go Ahead Eagles - Sparta Rotterdam (1-1)",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-1630-uur-go-ahead-eagles-sparta-rotterdam-0-1/ar-AA2dX5Ie",
-          "publishedDate": "Sat, 10 Oct 2026 08:45:00 GMT",
-          "description": "Dit is het livetopic voor de wedstrijden in de Eredivisie op zaterdag 10 oktober. Er staat een topduel tussen Feyenoord en AZ op het programma, terwijl FC Twente op bezoek gaat bij Fortuna Sittard. Ve ..."
-        },
-        {
-          "title": "Lees terug: Sparta en Go Ahead Eagles houden elkaar in evenwicht in doelpuntrijke wedstrijd",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2265660/lees-terug-sparta-en-go-ahead-eagles-houden-elkaar-in-evenwicht-in-doelpuntrijke-wedstrijd",
-          "publishedDate": "Sat, 10 Oct 2026 06:40:00 GMT",
-          "description": "Na de lange interlandperiode wordt de Eredivisie dit weekend weer hervat. Sparta gaat op bezoek bij Go Ahead Eagles en wil zich herstellen van de pijnlijke 0-4-nederlaag tegen sc Heerenveen, het laats ..."
-        },
-        {
-          "title": "EREDIVISIE | Sparta Rotterdam op zoek naar overwinning",
-          "source": "FR-Fans.nl",
-          "url": "https://www.fr-fans.nl/nieuws/79320/eredivisie-sparta-rotterdam-op-zoek-naar-overwinning",
-          "publishedDate": "Sat, 10 Oct 2026 04:59:00 GMT",
-          "description": "Vandaag gaat de Eredivisie weer verder. Gisteren speelden PSV en sc Heerenveen tegen elkaar. Die wedstrijd eindigde in 2-0. Vandaag komt uiteraard Feyenoord in actie. De Rotterdammers nemen het om 18: ..."
-        },
-        {
-          "title": "Go Ahead Eagles speelt gelijk tegen Sparta Rotterdam: ‘Ik ben teleurgesteld’",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/ga-eagles/go-ahead-eagles-speelt-gelijk-tegen-sparta-rotterdam-ik-ben-teleurgesteld~a1f6f8df/",
-          "publishedDate": "Sat, 10 Oct 2026 03:24:00 GMT",
-          "description": "Go Ahead Eagles heeft in eigen huis met 3-3 gelijkgespeeld tegen Sparta Rotterdam. De Deventenaren stonden bij rust op 0-1 achterstand. In een spectaculaire tweede helft werd er vijf keer gescoord en ..."
-        }
-      ]
-    },
-    {
       "keyword": "dierentuin",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
         {
           "title": "Onpeilbaar diep en pikdonker: kunstenaar Olafur Eliasson neemt de dierentuinbezoeker mee naar de oceaanbodem",
@@ -454,6 +155,391 @@
           "url": "https://www.looopings.nl/weblog/34388/Dierentuin-Antwerpen-verliest-miljoenen-aan-subsidie-directie-hoort-het-nieuws-op-de-radio.html",
           "publishedDate": "Thu, 01 Oct 2026 14:11:00 GMT",
           "description": "De dierentuin van Antwerpen verliest vanaf 2027 alle Vlaamse subsidies voor de dagelijkse bedrijfsvoering. Samen met zusterpark Zoo Planckendael ..."
+        }
+      ]
+    },
+    {
+      "keyword": "spookrijder a2",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Spookrijder overleden na ongeval met drie auto’s op A2 bij Breukelen",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/spookrijder-overleden-na-ongeval-met-drie-auto-s-op-a2-bij-breukelen~ba6a86d0/",
+          "publishedDate": "Sat, 10 Oct 2026 09:22:00 GMT",
+          "description": "Op de A2 tussen Utrecht en Amsterdam heeft een ongeval met een spookrijder plaatsgevonden waarbij drie auto’s betrokken zijn. De spookrijder is hierbij om het leven gekomen, meldt de politie."
+        },
+        {
+          "title": "Spookrijder komt om bij ongeluk op A2",
+          "source": "NOS",
+          "url": "https://nos.nl/video/2634446-spookrijder-komt-om-bij-ongeluk-op-a2",
+          "publishedDate": "Sat, 10 Oct 2026 07:52:00 GMT",
+          "description": "De snelweg A2 lag bezaaid met brokstukken van de betrokken auto's. Met een scherm werd het lichaam van de omgekomen bestuurder aan het zicht onttrokken."
+        },
+        {
+          "title": "Spookrijder omgekomen bij ongeluk op A2, weg urenlang dicht",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2634428-spookrijder-omgekomen-bij-ongeluk-op-a2-weg-urenlang-dicht",
+          "publishedDate": "Sat, 10 Oct 2026 04:59:00 GMT",
+          "description": "De afhandeling van het ongeval op de #A2 bij Breukelen gaat tot het begin van de avond duren. De traumahelikopter is net vertrokken en de politie doet onderzoek. Verkeer gaat via de af- en toerit, ..."
+        },
+        {
+          "title": "Spookrijder overleden na ongeluk op A2, weg tot vanavond dicht",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5658285/slachtoffers-op-a2-na-ongeluk-met-spookrijder",
+          "publishedDate": "Sat, 10 Oct 2026 04:30:00 GMT",
+          "description": "Op de A2 tussen Utrecht en Amsterdam heeft een ongeluk plaatsgevonden waarbij drie auto's betrokken zijn. De politie meldt dat er meerdere slachtoffers zijn Volgens de ANWB is bij het ongeval een spoo ..."
+        },
+        {
+          "title": "Spookrijder omgekomen bij ongeval op A2, weg richting Amsterdam tijdlang dicht",
+          "source": "nu",
+          "url": "https://nu.cw/2026/10/10/spookrijder-omgekomen-bij-ongeval-op-a2-weg-richting-amsterdam-tijdlang-dicht/",
+          "publishedDate": "Sat, 10 Oct 2026 08:39:00 GMT",
+          "description": "Op de A2 tussen Utrecht en Amsterdam is zaterdag een spookrijder omgekomen bij een auto-ongeluk. Drie auto's waren bij het ongeluk betrokken. Er zijn meerdere slachtoffers."
+        },
+        {
+          "title": "Spookrijder dood door aanrijding op A2, andere bestuurder gewond",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/spookrijder-dood-door-aanrijding-op-a2-andere-bestuurder-gewond",
+          "publishedDate": "Sat, 10 Oct 2026 08:14:00 GMT",
+          "description": "Een spookrijder is zaterdag om het leven gekomen door een aanrijding op de snelweg A2 ter hoogte van de afrit Breukelen. De bestuurder van een andere auto raakte gewond. Bij de botsing was ook een der ..."
+        },
+        {
+          "title": "Ongeval met slachtoffers op de A2 bij Breukelen door spookrijder",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/ongeval-met-slachtoffers-op-de-a2-bij-breukelen-door-spookrijder",
+          "publishedDate": "Sat, 10 Oct 2026 06:18:00 GMT",
+          "description": "Op de A2 tussen Utrecht en Amsterdam heeft een ongeval plaatsgevonden waarbij drie auto’s betrokken zijn. De politie meldt dat er meerdere slachtoffers zijn. Hoe zij eraan toe zijn, is niet bekendgema ..."
+        },
+        {
+          "title": "Meerdere slachtoffers bij ongeluk A2 bij Breukelen, mogelijk spookrijder",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/ongeluk-a2-breukelen-spookrijder",
+          "publishedDate": "Sat, 10 Oct 2026 04:44:00 GMT",
+          "description": "Bij een ongeluk met drie auto's op de A2 bij Breukelen zijn meerdere slachtoffers gevallen. Volgens de ANWB was een spookrijder betrokken."
+        },
+        {
+          "title": "Spookrijder om het leven gekomen bij ongeluk A2",
+          "source": "RTV Utrecht",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102432/spookrijder-om-het-leven-gekomen-bij-ongeluk-a2",
+          "publishedDate": "Sat, 10 Oct 2026 03:58:00 GMT",
+          "description": "Bij een ongeluk op de A2 bij Breukelen is vanmiddag een persoon om het leven gekomen. Op basis van informatie van getuigen, zou het om een spookrijder gaan, meldt de politie."
+        },
+        {
+          "title": "Spookrijder komt om het leven bij ongeluk op A2, andere bestuurder gewond",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/binnenland/spookrijder-komt-om-het-leven-bij-ongeluk-op-a2-andere-bestuurder-gewond~ae1f0275/",
+          "publishedDate": "Sat, 10 Oct 2026 00:06:00 GMT",
+          "description": "Een spookrijder is zaterdagmiddag om het leven gekomen bij een ongeluk op de A2 bij Breukelen. De snelweg richting Amsterdam was lange tijd volledig afgesloten."
+        }
+      ]
+    },
+    {
+      "keyword": "fortuna - twente",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Pr&#246;pper bezorgt FC Twente punt in subtopper tegen Fortuna Sittard",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2634498-propper-bezorgt-fc-twente-punt-in-subtopper-tegen-fortuna-sittard",
+          "publishedDate": "Sat, 10 Oct 2026 13:27:00 GMT",
+          "description": "Fortuna Sittard en FC Twente hebben de subtopper van de eredivisie afgesloten in een gelijkspel. De thuisploeg, voor aanvang van het duel de nummer 6 van de eredivisie, en de bezoekende nummer 4 kwame ..."
+        },
+        {
+          "title": "Ajax wint opnieuw niet van NEC in eigen huis • Fortuna Sittard en FC Twente delen punten",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2634438-ajax-wint-opnieuw-niet-van-nec-in-eigen-huis-fortuna-sittard-en-fc-twente-delen-punten",
+          "publishedDate": "Sat, 10 Oct 2026 06:55:00 GMT",
+          "description": "In dit blog volgen we de vier zaterdagwedstrijden in de achtste speelronde van de eredivisie, met onder meer Feyenoord - AZ en Ajax - NEC."
+        },
+        {
+          "title": "FC Twente verspeelt na drie zeges op rij punten bij Fortuna",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/fc-twente-verspeelt-na-drie-zeges-op-rij-punten-bij-fortuna",
+          "publishedDate": "Sat, 10 Oct 2026 15:04:00 GMT",
+          "description": "FC Twente verspeelt punten na drie zeges op rij en blijft vierde na 1-1 bij Fortuna Sittard. Bekijk het wedstrijdverloop en de stand."
+        },
+        {
+          "title": "Subtoppers Fortuna Sittard en FC Twente krijgen elkaar niet klein",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/subtoppers-fortuna-sittard-en-fc-twente-krijgen-elkaar-niet-klein/ar-AA2dYLwF",
+          "publishedDate": "Sat, 10 Oct 2026 14:56:00 GMT",
+          "description": "Het treffen tussen Fortuna Sittard en FC Twente heeft zaterdagavond geen winnaar opgeleverd. De bezoekers overtuigden alleen voor rust bij vlagen, waardoor de manschappen van Danny Buijs een verdiend ..."
+        },
+        {
+          "title": "FC Twente-speler Robin Pr&#246;pper in tranen na doelpunt tegen Fortuna Sittard: 'Een diepere betekenis'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/fc-twente-speler-robin-propper-in-tranen-na-doelpunt-tegen-fortuna-sittard-een-diepere-betekenis-2026101018440724603/",
+          "publishedDate": "Sat, 10 Oct 2026 13:54:00 GMT",
+          "description": "Robin Pr&#246;pper reageerde zaterdag hevig ge&#235;motioneerd na zijn goal tegen Fortuna Sittard. Na de 1-1-gelijkmaker werd hij omhelsd door zijn teamgenoten en sprongen de tranen in zijn ogen."
+        },
+        {
+          "title": "Fortuna Sittard en FC Twente vermaken publiek en spelen gelijk",
+          "source": "L1 Nieuws",
+          "url": "https://www.l1nieuws.nl/sport/3254406/fortuna-sittard-en-fc-twente-vermaken-publiek-en-spelen-gelijk",
+          "publishedDate": "Sat, 10 Oct 2026 13:04:00 GMT",
+          "description": "De energie spatte er van af tijdens Fortuna Sittard tegen FC Twente. Aan het einde van de rit moesten beide ploegen het nemen met een punt: 1-1."
+        },
+        {
+          "title": "Ge&#235;motioneerde Pr&#246;pper bezorgt pover FC Twente punt in Sittard",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/ge%C3%ABmotioneerde-pr%C3%B6pper-bezorgt-pover-fc-twente-punt-in-sittard/ar-AA2dY7YY",
+          "publishedDate": "Sat, 10 Oct 2026 13:00:29 GMT",
+          "description": "Fortuna Sittard en FC Twente hebben elkaar zaterdagavond in evenwicht gehouden in Sittard. De ploeg van trainer Danny Buijs schoot in eigen huis uit de startblokken, maar een ge&#235;motioneerde Robin Pr&#246;p ..."
+        },
+        {
+          "title": "Matige herstart voor FC Twente, dat gelijkspeelt op bezoek bij Fortuna Sittard",
+          "source": "Oost",
+          "url": "https://www.oost.nl/sport/3705441/matige-herstart-voor-fc-twente-dat-gelijkspeelt-op-bezoek-bij-fortuna-sittard",
+          "publishedDate": "Sat, 10 Oct 2026 12:57:00 GMT",
+          "description": "Door een matig optreden heeft FC Twente bij de hervatting van de Eredivisie punten verspeeld op bezoek bij Fortuna Sittard. De ploeg uit Enschede kwam in Zuid-Limburg zelfs nog goed weg met een punt."
+        },
+        {
+          "title": "Pover FC Twente pakt punt tegen Fortuna dankzij emotionele Pr&#246;pper",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/pover-fc-twente-pakt-punt-tegen-fortuna-dankzij-emotionele-pr%C3%B6pper/ar-AA2dYf0h",
+          "publishedDate": "Sat, 10 Oct 2026 12:56:24 GMT",
+          "description": "FC Twente heeft averij opgelopen in de Eredivisie. De ploeg van trainer John van den Brom stelde teleur en speelde met 1-1 gelijk tegen Fortuna Sittard, dat daardoor knap in het spoor van de bovenste ..."
+        },
+        {
+          "title": "SUPERTIP: Livestream Fortuna Sittard – FC Twente (Eredivisie 10-10-2026)",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/10/10/supertip-livestream-fortuna-sittard-fc-twente-eredivisie-10-10-2026/",
+          "publishedDate": "Sat, 10 Oct 2026 09:00:00 GMT",
+          "description": "Mijn naam is Johannes Cornelis en ik ben al meer dan 20 jaar actief in het voetbalwereldje. Mijn focus ligt vooral op actualiteiten, transfernieuws, wedstrijdverslagen en achtergrondverhalen."
+        }
+      ]
+    },
+    {
+      "keyword": "estelle van &#39;t schip",
+      "trafficLabel": "20K+",
+      "articles": []
+    },
+    {
+      "keyword": "barcelona - getafe",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Barcelona eenvoudig langs Getafe, Real wint ondanks rood harentrekkende Vin&#237;cius",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2634491-barcelona-eenvoudig-langs-getafe-real-wint-ondanks-rood-harentrekkende-vinicius",
+          "publishedDate": "Sat, 10 Oct 2026 12:34:00 GMT",
+          "description": "Real Madrid won thuis moeizaam met 1-0 van Villarreal en staat derde op zes punten van Barcelona. Real, dat zonder Vin&#237;cius J&#250;nior en Denzel Dumfries begon, bakte er voor rust niets van. Na het ..."
+        },
+        {
+          "title": "Barcelona heeft weinig te duchten van Getafe en blijft maar winnen",
+          "source": "Voetbal Centraal",
+          "url": "https://www.voetbalcentraal.nl/nieuws/1789057/Barcelona-heeft-weinig-te-duchten-van-Getafe-en-blijft-maar-winnen",
+          "publishedDate": "Sat, 10 Oct 2026 14:33:00 GMT",
+          "description": "Om content en uitingen over online kansspelen volgens wet- en regelgeving te tonen, willen we zeker weten dat je oud genoeg bent. Je kan hoe dan ook onze website bezoeken."
+        },
+        {
+          "title": "FC Barcelona boekt overtuigende zege op Ajax-opponent Getafe en is nog altijd foutloos",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/fc-barcelona-boekt-overtuigende-zege-op-ajax-opponent-getafe-en-is-nog-altijd-foutloos/ar-AA2dXRRo",
+          "publishedDate": "Sat, 10 Oct 2026 13:31:00 GMT",
+          "description": "FC Barcelona is nog altijd foutloos in LaLiga. Zaterdagavond wonnen de Catalanen in eigen huis met 3-0 van Getafe, door doelpunten van Anthony Gordon, Gabriel Jesus en Jules Kound&#233;."
+        },
+        {
+          "title": "Barcelona maakt korte metten met Getafe en zet indrukwekkende reeks voort",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/barcelona-maakt-korte-metten-met-getafe-en-zet-indrukwekkende-reeks-voort/ar-AA2dXUFR",
+          "publishedDate": "Sat, 10 Oct 2026 12:31:03 GMT",
+          "description": "FC Barcelona heeft zaterdagavond een eenvoudige zege geboekt op Getafe na een overtuigend begin. De Catalanen, die onder meer Frenkie de Jong en Raphinha moesten missen, schoten in het eigen Camp Nou ..."
+        },
+        {
+          "title": "Ook Getafe speelbal voor oppermachtig Bar&#231;a: Gordon opent rekening",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ook-getafe-speelbal-voor-oppermachtig-barca-gordon-opent-rekening",
+          "publishedDate": "Sat, 10 Oct 2026 11:30:00 GMT",
+          "description": "Barcelona heeft zaterdag kinderlijk eenvoudig afgerekend met Getafe. Anthony Gordon opende in Camp Nou al vroeg de score met zijn eerste goal voor Bar&#231;a. Daarna konden de gasten geen vuist maken. Wat ..."
+        },
+        {
+          "title": "Praat mee op VP: FC Barcelona – Getafe",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-fc-barcelona-getafe/ar-AA2dXCkd",
+          "publishedDate": "Sat, 10 Oct 2026 09:00:00 GMT",
+          "description": "FC Barcelona en Getafe staan zaterdagavond tegenover elkaar in La Liga. De wedstrijd begint om 18.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+        },
+        {
+          "title": "Mangala vindt speelminuten terug bij Getafe: Nu wacht Barcelona",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/mangala-vindt-speelminuten-terug-bij-getafe-nu-wacht-barcelona/ar-AA2dXGec",
+          "publishedDate": "Sat, 10 Oct 2026 05:46:00 GMT",
+          "description": "Orel Mangala heeft zijn draai gevonden bij Getafe. De Rode Duivel verzamelt opnieuw speelminuten na een moeilijke periode bij Olympique Lyon en staat zaterdag voor een stevige test tegen FC Barcelona."
+        },
+        {
+          "title": "Barcelona vs Getafe voorspelling, tips en odds | LaLiga",
+          "source": "Eurosport",
+          "url": "https://www.eurosport.nl/weddenschappen/voorspellingen/barcelona-vs-getafe-voorspelling-tips-en-odds-10-10-26/",
+          "publishedDate": "Thu, 08 Oct 2026 06:59:00 GMT",
+          "description": "Barcelona ontvangt Getafe zaterdagmiddag in het Spotify Camp Nou (18:30 CEST) voor speelronde acht van La Liga, en de cijfers wijzen op een vlotte middag voor de ploeg van Hansi Flick."
+        },
+        {
+          "title": "Op welke zender je Getafe – FC Barcelona kunt kijken: Gratis live stream beschikbaar (25-4-26)",
+          "source": "Squawka Football",
+          "url": "https://www.squawka.com/nl/nieuws/op-welke-zender-je-getafe-fc-barcelona-kunt-kijken-gratis-live-stream-beschikbaar-25-4-26/",
+          "publishedDate": "Sat, 25 Apr 2026 01:21:00 GMT",
+          "description": "De offici&#235;le uitzendrechten voor de Spaanse La Liga zijn in Nederland in handen van Ziggo Sport. De wedstrijd tussen Getafe en FC Barcelona wordt zaterdagmiddag om 16:15 uur live uitgezonden op Ziggo ..."
+        },
+        {
+          "title": "Getafe lacht om kritiek Barcelona op speelstijl: 'Verschil is een miljard euro'",
+          "source": "Vi",
+          "url": "https://www.vi.nl/nieuws/getafe-weerlegt-de-kritiek-van-barcelona-op-de-speelstijl",
+          "publishedDate": "Mon, 22 Sep 2025 01:43:00 GMT",
+          "description": "Barcelona boekte zondagavond een overtuigende 3-0-zege op Getafe, maar na afloop ging het vooral over de manier waarop de bezoekers de wedstrijd hadden aangepakt. De Madrileense club staat al jaren ..."
+        }
+      ]
+    },
+    {
+      "keyword": "laurent mekies",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Mekies waarschuwt Verstappen voor Ferrari en baalt van problemen Hadjar",
+          "source": "GPblog on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/mekies-waarschuwt-verstappen-voor-ferrari-en-baalt-van-problemen-hadjar/ar-AA2dY6B7",
+          "publishedDate": "Sat, 10 Oct 2026 11:13:00 GMT",
+          "description": "Max Verstappen pakte pole position voor de Grand Prix van Singapore. Na afloop van de kwalificatie was Laurent Mekies erg blij met de prestatie van de Nederlander, maar baalde van de situatie met Isac ..."
+        },
+        {
+          "title": "Red Bull trots op Verstappen: &quot;Niet te makkelijk over denken&quot;",
+          "source": "GPToday.net",
+          "url": "https://www.gptoday.net/nl/nieuws/f1/299111/red-bull-trots-op-verstappen-niet-te-makkelijk-over-denken",
+          "publishedDate": "Sat, 10 Oct 2026 07:02:00 GMT",
+          "description": "Verstappen won overtuigend de sprint in Singapore, maar Red Bull-teambaas Laurent Mekies ziet meer achter de zege. Waarom maakt hij zich ondanks het succes toch zorgen?"
+        },
+        {
+          "title": "Laurent Mekies ziet goed &#233;n slecht nieuws na sprintrace in Singapore",
+          "source": "GP33",
+          "url": "https://gp33.nl/f1-nieuws/laurent-mekies-ziet-goed-en-slecht-nieuws-na-sprintrace-in-singapore",
+          "publishedDate": "Sat, 10 Oct 2026 04:31:00 GMT",
+          "description": "Laurent Mekies heeft voor het eerst gereageerd op de sprintoverwinning van Max Verstappen. De viervoudig wereldkampioen kwam na twintig ronden als eerste over de streep na een chaotische race in de st ..."
+        },
+        {
+          "title": "Mekies deelt groot compliment uit aan Verstappen: &quot;Zat op zijn eigen planeet&quot;",
+          "source": "F1 Maximaal on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/mekies-deelt-groot-compliment-uit-aan-verstappen-zat-op-zijn-eigen-planeet/ar-AA2dWPiR",
+          "publishedDate": "Sat, 10 Oct 2026 03:57:00 GMT",
+          "description": "Laurent Mekies is dolgelukkig met de nieuwe overwinning voor Max Verstappen. De kopman van het team werd op complimenten getrakteerd na een ijzersterk optreden. Toch keek Mekies met gemengde gevoelens ..."
+        },
+        {
+          "title": "Mekies over Verstappen-gok Singapore: 'Hij was heel beslissend'",
+          "source": "Formule1nieuws.nl",
+          "url": "https://formule1nieuws.nl/nieuws/mekies-over-verstappen-gok-singapore-hij-was-heel-beslissend/",
+          "publishedDate": "Sat, 10 Oct 2026 00:02:00 GMT",
+          "description": "E&#233;n snelle ronde, meer had Max Verstappen niet nodig voor pole in Singapore. Terwijl Mercedes en Ferrari twee pogingen waagden, koos hij zelf voor &#233;&#233;n schot op de zachte band. Red Bull-teambaas Lau ..."
+        },
+        {
+          "title": "Red Bull verdedigt Verstappen: 'Onmogelijk om achter Hamilton te blijven'",
+          "source": "Formule1nieuws.nl",
+          "url": "https://formule1nieuws.nl/nieuws/red-bull-verdedigt-verstappen-onmogelijk-om-achter-hamilton-te-blijven/",
+          "publishedDate": "Fri, 09 Oct 2026 10:23:00 GMT",
+          "description": "Red Bull-teambaas Laurent Mekies heeft zijn coureur Max Verstappen verdedigd na een omstreden inhaalactie tijdens de sprintkwalificatie in Singapore. De Nederlander haalde Lewis Hamilton in onder gele ..."
+        },
+        {
+          "title": "Laurent Mekies reageert op de pole &#233;n overtreding van Max Verstappen in Singapore",
+          "source": "GP33",
+          "url": "https://gp33.nl/f1-nieuws/laurent-mekies-reageert-op-de-pole-en-overtreding-van-max-verstappen-in-singapore",
+          "publishedDate": "Fri, 09 Oct 2026 09:54:00 GMT",
+          "description": "Red Bull Racing-teambaas Laurent Mekies heeft gereageerd op de poleposition van Max Verstappen tijdens de sprint kwalificatie in Singapore. Op het Marina Bay Circuit kwam de Limburger als snelste over ..."
+        },
+        {
+          "title": "Mekies vol vertrouwen na trainingen in Sepang: 'Ook wij strijden om overwinning mee'",
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1090993/mekies-vol-vertrouwen-na-trainingen-in-sepang-ook-wij-strijden-om-overwinning-mee/",
+          "publishedDate": "Fri, 02 Oct 2026 11:49:00 GMT",
+          "description": "Red Bull-teambaas Laurent Mekies is van mening dat zijn renstal zich tijdens de Grand Prix van Bahrein volop kan mengen in de strijd om de overwinning. Na de eerste twee oefensessies op het circuit va ..."
+        },
+        {
+          "title": "Laurent Mekies krijgt credits voor einde aan 'vloek' tweede Red Bull-zitje",
+          "source": "Motorsport.com",
+          "url": "https://nl.motorsport.com/f1/news/laurent-mekies-krijgt-credits-voor-einde-aan-vloek-tweede-red-bull-zitje/10860444/",
+          "publishedDate": "Wed, 30 Sep 2026 17:08:00 GMT",
+          "description": "De verbeterde teamcultuur van Red Bull onder Laurent Mekies heeft Isack Hadjar geholpen te floreren, volgens Will Buxton ..."
+        },
+        {
+          "title": "Laurent Mekies ziet Red Bull grote stappen zetten: &quot;Het voelt heel anders dan aan het begin van het seizoen&quot;",
+          "source": "RaceXpress",
+          "url": "https://www.racexpress.nl/formule-1/laurent-mekies-ziet-red-bull-grote-stappen-zetten-het-voelt-heel-anders-dan-aan-het-begin-van-het-seizoen/n/156695",
+          "publishedDate": "Tue, 29 Sep 2026 00:09:00 GMT",
+          "description": "Red Bull Racing greep in Bakoe net naast de overwinning, maar teambaas Laurent Mekies kijkt met een tevreden gevoel terug op het weekend in Azerbeidzjan."
+        }
+      ]
+    },
+    {
+      "keyword": "inge de bruijn",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Inge de Bruijn Zwembad in Barendrecht krijgt extra binnenbad en twee glijbanen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/barendrecht/inge-de-bruijn-zwembad-in-barendrecht-krijgt-extra-binnenbad-en-twee-glijbanen~a1daa5fc/",
+          "publishedDate": "Wed, 16 Sep 2026 20:30:00 GMT",
+          "description": "De gemeente Barendrecht en vier aannemers breiden het Inge de Bruijn Zwembad uit. De werkzaamheden beginnen eind november bij het zwembad in Barendrecht."
+        },
+        {
+          "title": "Inge de Bruijn zwemt toptijd na zes jaar inactiviteit",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/sport/inge-de-bruijn-zwemt-toptijd-na-zes-jaar-inactiviteit~a2bcfdef/",
+          "publishedDate": "Thu, 05 Jul 2018 07:39:00 GMT",
+          "description": "Inge de Bruijn heeft bij het&#160;EK Masters in Eindhoven met&#160;26,64 een toptijd neergezet. De viervoudig olympisch kampioen be&#235;indigde haar carri&#232;re in 2007. Op het masterstoernooi vierde ze na zes jaar in ..."
+        },
+        {
+          "title": "Inge de Bruijn met zwemmen gestopt",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2007/03/13/inge-de-bruijn-met-zwemmen-gestopt-11290668-a1291200",
+          "publishedDate": "Mon, 12 Mar 2007 17:00:00 GMT",
+          "description": "Rotterdam, 13 maart. Inge de Bruijn (33) is gestopt als zwemster. ”Ik zit aan mijn plafond”, zegt een van de grootste sporters uit de geschiedenis.Pagina 11 De ontvanger kan het artikel direct lezen, ..."
+        },
+        {
+          "title": "Inge de Bruijn (53) kwam 20 kilo aan en pakt zwemmen weer op: 'Niet in de koude kleren gaan zitten'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/inge-de-bruijn-53-kwam-20-kilo-aan-en-pakt-zwemmen-weer-op-niet-in-de-koude-kleren-gaan-zitten-2026101015261062409/",
+          "publishedDate": "Sat, 10 Oct 2026 10:40:00 GMT",
+          "description": "Ex-topzwemster Inge de Bruijn is weer regelmatig in het water te vinden. Ze zwemt weer voor haar plezier, maar ook vanuit praktisch oogpunt. De overgang heeft namelijk veel impact gehad op haar ..."
+        },
+        {
+          "title": "Inge de Bruijn over impact van de overgang: ‘Ik ben 20 kilo aangekomen’",
+          "source": "Story",
+          "url": "https://www.story.nl/showbizz/sporters/inge-de-bruijn-over-impact-van-de-overgang~9e0793c",
+          "publishedDate": "Sat, 10 Oct 2026 04:59:00 GMT",
+          "description": "Inge de Bruijn is tijdens de overgang ongeveer twintig kilo aangekomen. Ze is weer gaan zwemmen en hoopt daarmee af te vallen en haar kracht opnieuw op te bouwen."
+        },
+        {
+          "title": "Lale G&#252;l, Brace en Inge de Bruijn te zien in Nederlands Domste",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/lale-gul-brace-en-inge-de-bruijn-te-zien-in-nederlands-domste",
+          "publishedDate": "Fri, 02 Oct 2026 12:26:00 GMT",
+          "description": "Lale G&#252;l, Brace en Inge de Bruijn doen mee aan Nederlands Domste. Met BN’ers, hilarische opdrachten en strijd om niet laatste te worden. Vanaf 24 okt op RTL 4."
+        },
+        {
+          "title": "Inge de Bruijn over Adam zkt Eva: Liefst zwom ik gelijk naar huis",
+          "source": "bd.nl",
+          "url": "https://www.bd.nl/show/inge-de-bruijn-over-adam-zkt-eva-liefst-zwom-ik-gelijk-naar-huis~acf6ec2f/",
+          "publishedDate": "Thu, 18 Jun 2026 17:00:00 GMT",
+          "description": "Inge de Bruijn vond het best spannend, maar de zwemkampioene voelde zich al vrij snel op haar gemak op het tropische eiland waar ze naakt op zoek ging naar een date voor het RTL-programma Adam zkt."
+        },
+        {
+          "title": "Inge de Bruijn uit de kleren in Adam zkt. Eva",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/inge-de-bruijn-uit-de-kleren-in-adam-zkt-eva~a6c78316/",
+          "publishedDate": "Thu, 02 Mar 2017 23:39:00 GMT",
+          "description": "Voormalig zwemster Inge de Bruijn is een van de zes BN'ers die uit de kleren gaat in het datingprogramma Adam zkt. Eva VIPS. Dat werd vanavond duidelijk in RTL Boulevard. Ook de namen van presentator ..."
+        },
+        {
+          "title": "Inge de Bruijn sluit terugkeer niet uit",
+          "source": "NU",
+          "url": "https://www.nu.nl/sport/2308960/inge-de-bruijn-sluit-terugkeer-niet-uit.html",
+          "publishedDate": "Mon, 09 Aug 2010 08:09:00 GMT",
+          "description": "AMSTERDAM - Inge de Bruijn sluit een terugkeer als topsporter niet uit. De zwemster trainde mee met de nationale zwemselectie en kreeg 'weer de kriebels'. De Bruijn maakte in maart 2007 bekend met ..."
+        },
+        {
+          "title": "Inge de Bruijn be&#235;indigt zwemcarri&#232;re",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/40305/inge-de-bruijn-beeindigt-zwemcarriere",
+          "publishedDate": "Mon, 12 Mar 2007 11:30:00 GMT",
+          "description": "ROTTERDAM - Inge de Bruijn keert niet meer terug in het internationale topzwemmen. Hoewel de Olympische Spelen van 2008 nadrukkelijk lonkten voor de beste Nederlandse zwemster ooit, vindt de ..."
         }
       ]
     }
