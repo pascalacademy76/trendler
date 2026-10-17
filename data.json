@@ -1,154 +1,37 @@
 {
-  "fetchedAt": "2026-10-17T18:39:57.282Z",
+  "fetchedAt": "2026-10-17T21:10:35.922Z",
   "trends": [
     {
-      "keyword": "maarten spanjer",
-      "trafficLabel": "50K+",
-      "articles": [
-        {
-          "title": "Maarten Spanjer (1952-2026): ‘Ik probeer alles van de vrolijke kant te zien, dan valt er nog genoeg te lachen’",
-          "source": "HP/De Tijd",
-          "url": "https://www.hpdetijd.nl/nieuws/actueel/48554/maarten-spanjer-1952-2026-ik-probeer-alles-van-de-vrolijke-ka",
-          "publishedDate": "Sat, 17 Oct 2026 06:28:00 GMT",
-          "description": "Maarten Spanjer, acteur, televisiemaker en schrijver, is in de nacht van vrijdag op zaterdag op 73-jarige leeftijd overleden in een hospice in Ouderkerk aan de Amstel."
-        },
-        {
-          "title": "Bedroefde reacties op heengaan Maarten Spanjer",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/algemeen/bedroefde-reacties-op-heengaan-maarten-spanjer",
-          "publishedDate": "Fri, 16 Oct 2026 18:20:00 GMT",
-          "description": "OUDERKERK AAN DE AMSTEL (ANP) - KRO-NCRV heeft zaterdag met verdriet kennisgenomen van het overlijden van Maarten Spanjer. De acteur en schrijver was onder meer te zien in het televisieprogramma Taxi."
-        }
-      ]
-    },
-    {
-      "keyword": "stand ado den haag - psv",
-      "trafficLabel": "50K+",
-      "articles": [
-        {
-          "title": "Live Eredivisie | Mijnans schuldbewust na verlies PSV, Feyenoord start met Steijn",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6413495/live-eredivisie-psv-zonder-van-bommel-op-bezoek-bij-ado-den-haag.html",
-          "publishedDate": "Sat, 17 Oct 2026 06:41:00 GMT",
-          "description": "Goedemiddag en welkom in dit liveblog! Hier houden we je op de hoogte van de Eredivisie, met als hoogtepunten de wedstrijden van Feyenoord en PSV. Veel plezier!"
-        },
-        {
-          "title": "‘Deze doet pijn’: tien man PSV in slotseconde onderuit bij ADO Den Haag",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/deze-doet-pijn-tien-man-psv-in-slotseconde-onderuit-bij-ado-den-haag~a58c0002/",
-          "publishedDate": "Sat, 17 Oct 2026 03:32:00 GMT",
-          "description": "PSV heeft dure punten verloren in het eredivisieduel bij ADO Den Haag. De landskampioen kwam 0-1 voor via Sven Mijnans, maar diezelfde aanvaller pakte voor rust al zijn tweede gele kaart. De thuisploe ..."
-        },
-        {
-          "title": "PSV verliest na rode kaart Mijnans in slotminuut van ADO Den Haag",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/psv-verliest-na-rode-kaart-mijnans-in-slotminuut-van-ado-den-haag/blt7eaab255c4d6a0d8",
-          "publishedDate": "Sat, 17 Oct 2026 11:34:00 GMT",
-          "description": "PSV heeft zaterdagmiddag een verrassende nederlaag geleden op bezoek bij ADO Den Haag. De ploeg van Peter Bosz kwam aanvankelijk op voorsprong via Sven Mijnans, die verderop in de eerste helft rood ..."
-        },
-        {
-          "title": "Sven Mijnans zet PSV al voor rust met tien man tegen ADO door rode kaart",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/sven-mijnans-zet-psv-al-rust",
-          "publishedDate": "Sat, 17 Oct 2026 10:45:00 GMT",
-          "description": "Sven Mijnans is zaterdagmiddag al tijdens de eerste helft van het duel in de Eredivisie tussen ADO Den Haag en PSV van het veld gestuurd. De middenvelder maakte vlak voor rust een overtreding die ..."
-        },
-        {
-          "title": "ADO Den Haag verslaat de landskampioen in de absolute slotminuut",
-          "source": "ADO Den Haag",
-          "url": "https://adodenhaag.nl/nl/teams/1e-elftal/resultaten/ado-den-haag-psv-1330",
-          "publishedDate": "Sat, 17 Oct 2026 09:30:00 GMT",
-          "description": "ADO Den Haag heeft zaterdagmiddag voor een stunt gezorgd door uitgerekend tegen PSV de eerste overwinning van het seizoen te boeken. De ploeg van hoofdtrainer Robin Peter keek bij rust nog tegen een 0 ..."
-        },
-        {
-          "title": "PSV verspeelt peperdure punten tegen promovendus ADO Den Haag",
-          "source": "PSVFans",
-          "url": "https://www.psvfans.nl/psv-verspeelt-peperdure-punten-tegen-promovendus-ado-den-haag/",
-          "publishedDate": "Sat, 17 Oct 2026 09:29:00 GMT",
-          "description": "Lees nu | PSV heeft op zaterdagavond een dure nederlaag geleden op bezoek bij ADO Den Haag. Na een rode kaart voor Sven Mijnans ging PSV kopje onder: 2-1."
-        },
-        {
-          "title": "PSV gaat pijnlijk onderuit in Den Haag waar rode kaart Mijnans een grote rol speelt",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/regiosport-eindhoven/psv-gaat-pijnlijk-onderuit-in-den-haag-waar-rode-kaart-mijnans-een-grote-rol-speelt~a7905d8b/",
-          "publishedDate": "Sat, 17 Oct 2026 02:43:00 GMT",
-          "description": "Na een middag waarin aanvankelijk niks aan de hand leek, heeft PSV drie punten verloren in Den Haag. Tegen ADO moest de regerend landskampioen een nederlaag incasseren, nadat de Eindhovenaren na twint ..."
-        },
-        {
-          "title": "PSV oppermachtig: zo verliepen de vorige ontmoetingen met ADO Den Haag",
-          "source": "VoetbalNieuws.nl",
-          "url": "https://www.voetbalnieuws.nl/nieuws/2147884/psv-oppermachtig-zo-verliepen-de-vorige-ontmoetingen-met-ado-den-haag-vn.html",
-          "publishedDate": "Sat, 17 Oct 2026 02:42:00 GMT",
-          "description": "PSV gaat op bezoek bij ADO Den Haag. Bekijk de laatste vijf duels in Den Haag, de historische uitslagen en de onderlinge balans tussen beide clubs."
-        },
-        {
-          "title": "Waar en hoe laat wordt ADO Den Haag - PSV in de Eredivisie uitgezonden?",
-          "source": "VoetbalNieuws.nl",
-          "url": "https://www.voetbalnieuws.nl/nieuws/2147879/waar-en-hoe-laat-wordt-ado-den-haag-psv-in-de-eredivisie-uitgezonden-vn.html",
-          "publishedDate": "Sat, 17 Oct 2026 02:25:00 GMT",
-          "description": "ADO Den Haag - PSV live kijken? Lees op welke zender de Eredivisie-wedstrijd zaterdag 17 oktober wordt uitgezonden en hoe laat de aftrap is."
-        },
-        {
-          "title": "ADO Den Haag draait achterstand tegen tien man van PSV helemaal om",
-          "source": "voetbalfocus",
-          "url": "https://voetbalfocus.be/ado-den-haag-draait-achterstand-psv-om/",
-          "publishedDate": "Fri, 16 Oct 2026 21:41:00 GMT",
-          "description": "PSV verloor na rood voor Sven Mijnans met 2-1 en laat de concurrentie in de Nederlandse titelstrijd dichterbij komen."
-        }
-      ]
-    },
-    {
       "keyword": "telstar - feyenoord",
-      "trafficLabel": "20K+",
+      "trafficLabel": "100K+",
       "articles": [
         {
-          "title": "Live Eredivisie | Feyenoord slaat razendsnel terug na tegengoal Telstar",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6413495/live-eredivisie-feyenoord-slaat-razendsnel-terug-na-tegengoal-telstar.html",
-          "publishedDate": "Sat, 17 Oct 2026 06:41:00 GMT",
-          "description": "Goedendag en welkom in dit liveblog! Hier houd ik, Hein Nooijens, je op de hoogte van de Eredivisie, met als hoogtepunten de wedstrijden van Feyenoord en PSV. Veel plezier!"
+          "title": "Feyenoord haalt opgelucht adem na doelpuntenfestijn op bezoek bij Telstar: 3-4",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2635399-feyenoord-haalt-opgelucht-adem-na-doelpuntenfestijn-op-bezoek-bij-telstar-3-4",
+          "publishedDate": "Sat, 17 Oct 2026 13:03:00 GMT",
+          "description": "De koploper pakt met 4-3 de volle buit bij het met lef spelende Telstar, dat tot driemaal toe een achterstand van twee doelpunten weet te verkleinen tot &#233;&#233;n."
         },
         {
-          "title": "Feyenoord na 25 seconden op voorsprong • Zwabberbal brengt Telstar even terug in duel",
+          "title": "Willem II geeft zich nog niet over tegen Sparta (3-2) • Zeven goals bij Telstar-Feyenoord",
           "source": "NOS",
-          "url": "https://nos.nl/liveblog/2635357-feyenoord-na-25-seconden-op-voorsprong-zwabberbal-brengt-telstar-even-terug-in-duel",
-          "publishedDate": "Sat, 17 Oct 2026 06:28:00 GMT",
+          "url": "https://nos.nl/liveblog/2635357-willem-ii-geeft-zich-nog-niet-over-tegen-sparta-3-2-zeven-goals-bij-telstar-feyenoord",
+          "publishedDate": "Sat, 17 Oct 2026 11:42:00 GMT",
           "description": "Vandaag gaat de negende speelronde van de eredivisie verder. Onder meer PSV en Feyenoord komen in actie. Al het nieuws rondom de eredivisie volgen we in dit blog."
         },
         {
-          "title": "LIVE eredivisie | Doelpuntenfestijn in Velsen-Zuid: Steijn maakt derde treffer voor Feyenoord bij Telstar",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/live-eredivisie-doelpuntenfestijn-in-velsen-zuid-steijn-maakt-derde-treffer-voor-feyenoord-bij-telstar~acc1e2e9/",
-          "publishedDate": "Sat, 17 Oct 2026 04:36:00 GMT",
-          "description": "Feyenoord is na acht speelronden de trotse koploper van de eredivisie. De Rotterdammers gaan vanavond op bezoek bij laagvlieger Telstar. Volg het hier vanaf 20.00 uur live!"
+          "title": "Telstar-keeper Koeman jr. woedend na penalty Feyenoord: 'Dit is echt ongelooflijk'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6413520/telstar-keeper-koeman-jr-woedend-na-penalty-feyenoord-dit-is-echt-ongelooflijk.html",
+          "publishedDate": "Sat, 17 Oct 2026 01:35:00 GMT",
+          "description": "Telstar-keeper Ronald Koeman junior is woedend op scheidsrechter Jeroen Manschot. De zoon van oud-bondscoach Ronald Koeman vindt het onbegrijpelijk dat Feyenoord zaterdag een penalty kreeg vanwege een ..."
         },
         {
-          "title": "Praat mee op VP: droomstart Feyenoord, Diarra scoort na 27 seconden tegen Telstar",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-droomstart-feyenoord-diarra-scoort-na-27-seconden-tegen-telstar/ar-AA2erK38",
-          "publishedDate": "Sat, 17 Oct 2026 11:34:04 GMT",
-          "description": "Feyenoord gaat zaterdagavond op bezoek bij Telstar in de Eredivisie. De wedstrijd begint om 20.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
-        },
-        {
-          "title": "VI Live: gewijzigd Feyenoord begonnen aan ontmoeting met Telstar",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/vi-live-gewijzigd-feyenoord-begonnen-aan-ontmoeting-met-telstar/ar-AA2epHlw",
-          "publishedDate": "Sat, 17 Oct 2026 11:02:56 GMT",
-          "description": "De wolk waar Feyenoord momenteel op zit werd, nog meer roze na de overwinning tegen Como in de Champions League. De koploper van de Eredivisie wacht in speelronde 9 nu een uitwedstrijd bij Telstar (af ..."
-        },
-        {
-          "title": "Optimisme bij Telstar voor komst Feyenoord: &quot;We gaan winnen&quot;",
-          "source": "FeyenoordPings",
-          "url": "https://www.feyenoordpings.nl/optimisme-bij-telstar-voor-komst-feyenoord-we-gaan-winnen/",
-          "publishedDate": "Sat, 17 Oct 2026 10:41:00 GMT",
-          "description": "Lees nu | Telstar gaat zaterdagavond met vertrouwen de thuiswedstrijd tegen Feyenoord in. Ondanks het teleurstellende gelijkspel tegen ADO Den ..."
-        },
-        {
-          "title": "Koploper Feyenoord op bezoek bij Telstar • Aanvoerder Hardeveld opnieuw op de bank",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/364479/koploper-feyenoord-op-bezoek-bij-telstar-aanvoerder-hardeveld-opnieuw-op-de-bank",
-          "publishedDate": "Sat, 17 Oct 2026 10:30:00 GMT",
-          "description": "Liveblog: Telstar neemt het in Velsen op tegen koploper Feyenoord. De Rotterdammers wonnen midweeks 3-2 van Como in de Champions League. Volg het live."
+          "title": "Steijn schiet kwetsbaar Feyenoord te hulp bij spektakelstuk tegen Telstar",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/steijn-schiet-kwetsbaar-feyenoord-te-hulp-bij-spektakelstuk-tegen-telstar",
+          "publishedDate": "Sat, 17 Oct 2026 12:59:00 GMT",
+          "description": "Feyenoord heeft zaterdagavond geprofiteerd van de uitglijder van PSV en verstevigt de koppositie in de Eredivisie. Tijdens een spektakelstuk tegen Telstar gaven de Rotterdammers in verdedigend opzicht ..."
         },
         {
           "title": "Van Bronckhorst gooit Feyenoord-opstelling om en geeft spelers rust tegen Telstar",
@@ -158,260 +41,66 @@
           "description": "Feyenoord neemt het vanavond op tegen Telstar. Trainer Giovanni van Bronckhorst voert vier wijzigingen door ten opzichte van de wedstrijd tegen Como. Zo kiest hij voor een volledig nieuw centraal verd ..."
         },
         {
-          "title": "LIVE: Steijn maakt de marge weer twee; Telstar scoort van grote afstand (1-3)",
+          "title": "LEES TERUG: Feyenoord wint van Telstar (3-4)",
           "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2268940/live-steijn-maakt-de-marge-weer-twee-telstar-scoort-van-grote-afstand-1-3",
+          "url": "https://www.rijnmond.nl/nieuws/2268940/lees-terug-feyenoord-wint-van-telstar-3-4",
           "publishedDate": "Sat, 17 Oct 2026 08:28:00 GMT",
           "description": "Het gaat goed met Feyenoord. Dat komt niet alleen door de Europese zege op Como. De Rotterdammers veroverden afgelopen week namelijk de koppositie in de eredivisie, en gaan die nu verdedigen op bezoek ..."
         },
         {
-          "title": "Maakt indrukwekkend Feyenoord zijn week perfect?",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/maakt-indrukwekkend-feyenoord-zijn-week-perfect",
-          "publishedDate": "Sat, 17 Oct 2026 02:01:00 GMT",
-          "description": "ADVERTORIAL – Met de heerlijke Champions League-overwinning op Como vers in het geheugen neemt Feyenoord het zaterdagavond op tegen Telstar. Winnen de Rotterdammers deze uitwedstrijd, dan komt de tell ..."
+          "title": "VIDEO: Samenvatting Telstar – Feyenoord (3-4 Eredivisie)",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/10/17/video-samenvatting-telstar-feyenoord-3-4-eredivisie/",
+          "publishedDate": "Sat, 17 Oct 2026 06:51:00 GMT",
+          "description": "Feyenoord heeft vanavond goede zaken gedaan in de Nederlandse Eredivisie. Op bezoek bij Telstar wisten ze namelijk met ..."
+        },
+        {
+          "title": "Sem Steijn gidst Feyenoord langs Telstar in doelpuntenfestijn, gat met PSV nu vier punten",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/voetbal/sem-steijn-gidst-feyenoord-langs-telstar-in-doelpuntenfestijn-gat-met-psv-nu-vier-punten~acc1e2e9/",
+          "publishedDate": "Sat, 17 Oct 2026 06:32:00 GMT",
+          "description": "Feyenoord heeft een gaatje van vier punten geslagen met concurrent PSV. De winst in Velsen-Zuid was er geen eentje om nog lang trots op terug te kijken: 3-4. De Rotterdammers lieten Telstar voortduren ..."
+        },
+        {
+          "title": "Sem Steijn gidst Feyenoord met dubbelslag langs Telstar in vermakelijk doelpuntenfestijn",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/voetbal/sem-steijn-gidst-feyenoord-met-dubbelslag-langs-telstar-in-vermakelijk-doelpuntenfestijn~acc1e2e9/",
+          "publishedDate": "Sat, 17 Oct 2026 06:16:00 GMT",
+          "description": "Feyenoord heeft een gaatje van vier punten geslagen met concurrent PSV. De winst in Velsen-Zuid was er geen eentje om nog lang trots op terug te kijken: 3-4. De Rotterdammers lieten Telstar voortduren ..."
+        },
+        {
+          "title": "Steijn onthult onderonsje met Hadj Moussa omtrent penalty bij Feyenoord",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/telstar-feyenoord-steijn-onthult-discussie-met-hadj-moussa",
+          "publishedDate": "Sat, 17 Oct 2026 01:51:00 GMT",
+          "description": "Feyenoord won met 3-4 van Telstar in Velsen-Zuid mede door twee goals van Sem Steijn. De middenvelder onthulde dat bij de vierde goal, een discutabele penalty, hij eerst nog een onderonsje had met Ani ..."
         }
       ]
+    },
+    {
+      "keyword": "maarten spanjer",
+      "trafficLabel": "50K+",
+      "articles": []
     },
     {
       "keyword": "real betis - barcelona",
       "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Barcelona wint in spectaculaire topper met ruime cijfers van Real Betis",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2635393-barcelona-wint-in-spectaculaire-topper-met-ruime-cijfers-van-real-betis",
-          "publishedDate": "Sat, 17 Oct 2026 11:32:00 GMT",
-          "description": "Frenkie de Jong zit voor het eerst dit seizoen bij de wedstrijdselectie, maar krijgt geen speeltijd van trainer Hansi Flick."
-        },
-        {
-          "title": "Barcelona blijft foutloos na doelpuntenfestijn tegen Real Betis, dat met tien man eindigt na kopstoot",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/barcelona-blijft-foutloos-na-doelpuntenfestijn-tegen-real-betis-dat-met-tien-man-eindigt-na-kopstoot~adc285f6/",
-          "publishedDate": "Sat, 17 Oct 2026 04:32:00 GMT",
-          "description": "FC Barcelona heeft zaterdagavond op bezoek bij Real Betis zijn negende zege op rij in La Liga geboekt: 2-5. Het duel werd ontsierd door een rode kaart van Facundo Bernal, die Lamine Yamal een kopstoot ..."
-        },
-        {
-          "title": "Weergaloze goal Yamal leidt spectaculaire zege Barcelona op tiental Betis in",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6413512/weergaloze-goal-yamal-leidt-spectaculaire-zege-barcelona-op-tiental-betis-in.html",
-          "publishedDate": "Fri, 16 Oct 2026 23:30:00 GMT",
-          "description": "FC Barcelona heeft zaterdag ook zijn negende wedstrijd van dit La Liga-seizoen gewonnen. De koploper won mede dankzij een schitterend doelpunt van Lamine Yamal met 2-5 bij een tiental van Real Betis."
-        },
-        {
-          "title": "Recordploeg Bar&#231;a is na spektakelstuk tegen Betis klaar voor krakers",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/recordploeg-bar%C3%A7a-is-na-spektakelstuk-tegen-betis-klaar-voor-krakers/ar-AA2erKIi",
-          "publishedDate": "Sat, 17 Oct 2026 11:30:00 GMT",
-          "description": "Barcelona heeft zaterdagavond een vervolg gegeven aan de zegereeks in La Liga. Real Betis maakte het de koploper en kampioen van Spanje lastig, maar de aankomende tegenstander van Feyenoord in de Cham ..."
-        },
-        {
-          "title": "Praat mee op VP: Frenkie terug in selectie Bar&#231;a voor duel met Real Betis",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-frenkie-terug-in-selectie-bar%C3%A7a-voor-duel-met-real-betis/ar-AA2era6S",
-          "publishedDate": "Sat, 17 Oct 2026 08:20:00 GMT",
-          "description": "Real Betis en FC Barcelona staan zaterdagavond tegenover elkaar in La Liga. De wedstrijd begint om 18.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
-        },
-        {
-          "title": "Op welke zender kijk je Real Betis – FC Barcelona live?",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-real-betis-fc-barcelona/",
-          "publishedDate": "Sat, 17 Oct 2026 03:15:00 GMT",
-          "description": "In LaLiga neemt Real Betis het op tegen FC Barcelona. In de SN TV-gids zie je op welke zender dit duel te zien is."
-        },
-        {
-          "title": "FC Barcelona jaagt op beste seizoensstart en treft in Sevilla Real Betis",
-          "source": "Voetbalprimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2147890/fc-barcelona-jaagt-op-beste-seizoensstart-en-treft-in-sevilla-real-betis.html",
-          "publishedDate": "Sat, 17 Oct 2026 02:01:00 GMT",
-          "description": "ADVERTORIAL - FC Barcelona is bezig aan &#233;&#233;n van de beste seizoenen uit de clubgeschiedenis. De Catalanen lieten nog geen punt liggen en reizen dit weekend af naar Sevilla voor een uitduel met Real Bet ..."
-        },
-        {
-          "title": "Barcelona jaagt op record van Real Madrid, El Cl&#225;sico kan extra lading krijgen",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/barcelona-jaagt-op-record-van-real-madrid-el-clasico-kan-extra-lading-krijgen",
-          "publishedDate": "Sat, 17 Oct 2026 00:02:00 GMT",
-          "description": "Barcelona kan zaterdagavond een bijzonder record evenaren in La Liga. Winnen de Catalanen bij Real Betis, dan komen de Catalanen op gelijke hoogte met Real Madrid. Daarnaast h&#233;&#233;ft Barcelona al een rec ..."
-        },
-        {
-          "title": "Zien! Lamine Yamal tovert met krankzinnig werelddoelpunt",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/zien-lamine-yamal-tovert-met-krankzinnig-werelddoelpunt/bltc0b69b1af708cea4",
-          "publishedDate": "Fri, 16 Oct 2026 21:55:00 GMT",
-          "description": "Lamine Yamal heeft zaterdagavond op ongekend fenomenale wijze de score geopend voor FC Barcelona tegen Real Betis. De negentienjarige aanvaller schoot de Catalanen na amper tien minuten met een ..."
-        },
-        {
-          "title": "Real Betis wil losgeslagen Barcelona in La Cartuja eerste nederlaag toedienen",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/real-betis-wil-losgeslagen-barcelona-in-la-cartuja-eerste-nederlaag-toedienen",
-          "publishedDate": "Fri, 16 Oct 2026 09:00:00 GMT",
-          "description": "ADVERTORIAL - Wie houdt zijn perfecte reeks in stand? Real Betis won dit seizoen al zijn thuiswedstrijden in La Liga, terwijl koploper Barcelona na acht duels nog geen punt heeft verspeeld. Zaterdag s ..."
-        }
-      ]
+      "articles": []
     },
     {
-      "keyword": "jordi cruijff",
+      "keyword": "stand ado den haag - psv",
       "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Tussenbalans na 250 dagen Jordi Cruijff bij Ajax: geflopte miljoenenaankopen, maar ook toppers als Brandt en Tolu",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/tussenbalans-na-250-dagen-jordi-cruijff-bij-ajax-geflopte-miljoenenaankopen-maar-ook-toppers-als-brandt-en-tolu~a2a777b5/",
-          "publishedDate": "Fri, 16 Oct 2026 22:00:00 GMT",
-          "description": "Jordi Cruijff (52) staat deze week 250 dagen aan het roer. De contouren en consequenties van zijn werkwijze tekenen zich steeds duidelijker af. Wat valt er tot dusverre op? Met de zware uitwedstrijd t ..."
-        },
-        {
-          "title": "'Het project van Jordi Cruijff bij Ajax staat al op instorten'",
-          "source": "Voetbal Centraal",
-          "url": "https://www.voetbalcentraal.nl/nieuws/1796353/-Het-project-van-Jordi-Cruijff-bij-Ajax-staat-al-op-instorten-",
-          "publishedDate": "Sat, 17 Oct 2026 07:00:00 GMT",
-          "description": "Valentijn Driessen kraakt het beleid van Jordi Cruijff en trainer M&#237;chel S&#225;nchez bij Ajax na de 2-1 nederlaag tegen Hajduk Split in de Conference ..."
-        },
-        {
-          "title": "‘Schandaal rond Jordi Cruijff lekt uit: grote gevolgen voor Ajax’",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/schandaal-rond-jordi-cruijff-lekt-uit-grote-gevolgen-voor-ajax/",
-          "publishedDate": "Sat, 17 Oct 2026 05:40:00 GMT",
-          "description": "Jordi Cruijff kwam in februari in dienst bij Ajax. De technisch directeur moest de Amsterdammers richting titel nummer 37 loodsen, maar zo ver lijkt het ..."
-        },
-        {
-          "title": "Ajax-aankoop van Cruijff bekritiseerd: &quot;Grootste flop tot dusver&quot;",
-          "source": "Ajax1.nl",
-          "url": "https://www.ajax1.nl/ajax-aankoop-van-cruijff-bekritiseerd-grootste-flop-tot-dusver/",
-          "publishedDate": "Sat, 17 Oct 2026 04:40:00 GMT",
-          "description": "Lees nu | Het is deze week 250 dagen geleden dat Jordi Cruijff begon als technisch directeur van Ajax. Het Algemeen Dagblad blikt terug op zijn ..."
-        },
-        {
-          "title": "‘Jordi Cruijff per direct weg bij Ajax’",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/jordi-cruijff-per-direct-weg-bij-ajax/",
-          "publishedDate": "Sat, 17 Oct 2026 01:00:00 GMT",
-          "description": "Jordi Cruijff ligt zwaar onder vuur nu het voor geen meter draait bij Ajax. Zijn transferbeleid blijkt toch een stuk minder dan gedacht."
-        },
-        {
-          "title": "Tussenbalans na 250 dagen Jordi Cruijff bij Ajax: miljoenenaankopen floppen, maar ook toppers als Brandt en Tolu",
-          "source": "Drimble",
-          "url": "https://drimble.nl/voetbal/eredivisie/fc-groningen/108319208/tussenbalans-na-250-dagen-jordi-cruijff-bij-ajax-miljoenenaankopen-floppen-maar-ook-toppers-als-brandt-en-tolu.html",
-          "publishedDate": "Sat, 17 Oct 2026 00:49:00 GMT",
-          "description": "Jordi Cruijff (52) staat deze week 250 dagen aan het roer. De contouren en consequenties van zijn werkwijze tekenen zich steeds duidelijker af. Wat valt er tot dusverre op? Met de zware uitwedstrijd t ..."
-        },
-        {
-          "title": "AD trekt pijnlijke Ajax-conclusie na 250 dagen Cruijff: 'Grootste flop tot dusver'",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/ad-trekt-pijnlijke-ajax-conclusie-na-250-dagen-cruijff-grootste-flop-tot-dusver/ar-AA2eq6B4",
-          "publishedDate": "Fri, 16 Oct 2026 23:52:00 GMT",
-          "description": "Het is deze week 250 dagen geleden dat Jordi Cruijff aan het roer kwam te staan bij Ajax. Het Algemeen Dagblad somt de periode, die zeker op het eerste oog veelbelovend leek, op. Onder meer de miljoen ..."
-        },
-        {
-          "title": "Valentijn Driessen keihard voor Ajax en Jordi Cruijff: 'Staat al op instorten'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/jordi-cruijff-michel-sanchez-ajax-valentijn-driessen-kritiek",
-          "publishedDate": "Fri, 16 Oct 2026 10:11:00 GMT",
-          "description": "Na de 2-1 nederlaag bij Hajduk Split spaart Valentijn Driessen technisch directeur Jordi Cruijff en trainer M&#237;chel S&#225;nchez niet: 'Bij elkaar geraapt zooitje.' ..."
-        },
-        {
-          "title": "Linksbackprobleem bij Ajax niet opgelost ondanks investeringen Jordi Cruijff",
-          "source": "FootballTransfers",
-          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/10/ajax-lost-linksbackprobleem-niet-op-ondanks-investeringen-jordi-cruijff",
-          "publishedDate": "Fri, 16 Oct 2026 00:31:00 GMT",
-          "description": "Jordi Cruijff investeerde tijdens de zomerse transferperiode ook fors in de linksbackpositie. Desondanks lijkt het probleem op de linkervleugel nog altijd niet te zijn opgelost door de technisch direc ..."
-        },
-        {
-          "title": "Jordi Cruijff op rapport: Twaalf zomeraanwinsten en een valse seizoensstart",
-          "source": "ELFvoetbal.nl",
-          "url": "https://www.elfvoetbal.nl/binnenland/287965/jordi-cruijff-op-rapport-twaalf-zomeraanwinsten-en-een-valse-seizoensstart",
-          "publishedDate": "Tue, 13 Oct 2026 09:42:00 GMT",
-          "description": "Ajax versterkte zich deze zomer nadrukkelijk op de transfermarkt. Technisch directeur Jordi Cruijff liet zich ambitieus uit en wil op korte termijn weer succes boeken met de club waar zijn vader uitgr ..."
-        }
-      ]
+      "articles": []
     },
     {
-      "keyword": "schade",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Flinke schade na botsing tussen auto en lijnbus bij A7",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-groningen/flinke-schade-na-botsing-tussen-auto-en-lijnbus-bij-a7~afdb5cde/",
-          "publishedDate": "Fri, 16 Oct 2026 21:25:00 GMT",
-          "description": "Een personenauto en een lijnbus zijn met elkaar in botsing gekomen bij de oprit naar de A7 richting Drachten in Niebert. Beide voertuigen raakten flink beschadigd. Voor zover bekend raakte niemand gew ..."
-        },
-        {
-          "title": "Flinke schade na aanrijding tussen twee personenauto's Tanthofdreef Delft",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-delft/flinke-schade-na-aanrijding-tussen-twee-personenautos-tanthofdreef-delft~ae17aa40/",
-          "publishedDate": "Thu, 15 Oct 2026 00:35:00 GMT",
-          "description": "Op de Tanthofdreef in Delft heeft een aanrijding plaatsgevonden tussen twee personenauto's. Het ongeval gebeurde ter hoogte van de kruising met de Kalfjeslaan op donderdagochtends."
-        },
-        {
-          "title": "Explosie zorgt voor schade aan woning in De Pijp: 24-jarige Amsterdammer aangehouden",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/explosie-zorgt-voor-schade-aan-woning-in-de-pijp-24-jarige-amsterdammer-aangehouden~b1ce5369/",
-          "publishedDate": "Wed, 14 Oct 2026 04:44:00 GMT",
-          "description": "Een explosie heeft in de nacht van dinsdag op woensdag voor schade gezorgd aan een woning in De Pijp in Amsterdam-Zuid. Niemand raakte gewond. Er is een verdachte aangehouden, meldt een politiewoordvo ..."
-        },
-        {
-          "title": "IT-crisis kan omzet Ahold Delhaize raken, schade nog onduidelijk",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6412989/it-crisis-kan-omzet-ahold-delhaize-raken-schade-nog-onduidelijk.html",
-          "publishedDate": "Tue, 13 Oct 2026 05:39:00 GMT",
-          "description": "De IT-problemen bij Albert Heijn, Etos en Gall &amp; Gall kunnen gevolgen hebben voor de omzet van moederbedrijf Ahold Delhaize. Vooral de onlineverkoop en de bevoorrading van winkels lopen risico. Hoe gr ..."
-        },
-        {
-          "title": "Goed voorbereid de herfststormen tegemoet: hoe houd je de schade beperkt?",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/beter-leven/goed-voorbereid-de-herfststormen-tegemoet-hoe-houd-je-de-schade-beperkt~bf9a5bff5/",
-          "publishedDate": "Mon, 12 Oct 2026 03:18:00 GMT",
-          "description": "Rondvliegende dakpannen en vallende bomen: het stormseizoen komt eraan. Hoe kun je je hiertegen wapenen en hoe weet je of je goed verzekerd bent?"
-        },
-        {
-          "title": "Grote schade aan Topsport Amsterdam na brand Olympisch Stadion",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/grote-schade-aan-topsport-amsterdam-na-brand-olympisch-stadion~b1b08f9c/",
-          "publishedDate": "Fri, 09 Oct 2026 08:20:00 GMT",
-          "description": "Het hoofdkantoor van Topsport Amsterdam, de organisatie die olympische en nationale topsporters ondersteunt, moet op zoek naar een nieuwe kantoorruimte. De brand van donderdagnacht in de kruipruimte v ..."
-        },
-        {
-          "title": "NN Group verdient goed aan schade, maar niet vanzelf blijvend",
-          "source": "De Belegger",
-          "url": "https://www.debelegger.nl/post/nn-group-verdient-goed-aan-schade-maar-niet-vanzelf-blijvend",
-          "publishedDate": "Sat, 17 Oct 2026 06:58:00 GMT",
-          "description": "NN Groups Nederlandse schadebedrijf had in H1 een combined ratio van 90,5%. Dat laat 9,5 cent technische marge per premie-euro, maar bij €76,46 hangt de houdbaarheid af van claiminflatie, prijsstellin ..."
-        },
-        {
-          "title": "Bestuurder ramt geparkeerde auto op Urk, ook flinke schade bij supermarkt",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/urk/bestuurder-ramt-geparkeerde-auto-op-urk-ook-flinke-schade-bij-supermarkt~ae5cd2f3/",
-          "publishedDate": "Fri, 16 Oct 2026 20:02:00 GMT",
-          "description": "Op Urk is een automobilist zaterdagnacht hard in botsing gekomen met een geparkeerde auto. Dat gebeurde voor de supermarkt Nettorama, die door de klap ook flinke schade opliep. ‘Gelukkig ging hij niet ..."
-        },
-        {
-          "title": "Enorme schade zichtbaar na fatale woningbrand in Doesburg, pand gestut",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/112-nieuws-doesburg/enorme-schade-zichtbaar-na-fatale-woningbrand-in-doesburg-pand-gestut~a736aee9/",
-          "publishedDate": "Tue, 13 Oct 2026 01:30:00 GMT",
-          "description": "Een dag na de grote, dodelijke woningbrand aan de Potsmaat in Doesburg is de enorme schade aan het pand goed zichtbaar. De woning raakte zo zwaar beschadigd dat deze met stutten wordt ondersteund."
-        },
-        {
-          "title": "Auto's lopen schade op bij ongeval op N224 in Ederveen",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/112-nieuws-ede/autos-lopen-schade-op-bij-ongeval-op-n224-in-ederveen~a6c649237/",
-          "publishedDate": "Mon, 12 Oct 2026 02:24:00 GMT",
-          "description": "Aan de N224 Renswoudseweg in Ederveen heeft een ongeval plaatsgevonden. De politie en een ambulance werden opgeroepen na een kop-staartbotsing tussen twee auto's."
-        }
-      ]
+      "keyword": "sparta rotterdam - willem ii",
+      "trafficLabel": "10K+",
+      "articles": []
     },
     {
       "keyword": "roltrap",
       "trafficLabel": "10K+",
       "articles": [
-        {
-          "title": "Kapotte roltrappen &#233;n lift zorgen voor ergernis: ‘Je verwacht dat zo’n belangrijke halte toegankelijk is’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/den-haag/roltrappen-lift-spui-den-haag-storingen~a0c60edd/",
-          "publishedDate": "Thu, 08 Oct 2026 19:00:00 GMT",
-          "description": "Roltrappen en lift bij tramhalte Spui in Den Haag zijn opnieuw defect. Reizigers klagen over de slechte toegankelijkheid en langdurige storingen."
-        },
         {
           "title": "Waarom de roltrap nu alweer stilstaat? ‘Zand, zout en een omgekeerde watermolen’",
           "source": "NRC",
@@ -474,82 +163,122 @@
           "url": "https://www.telegraaf.nl/binnenland/jong-meisje-zit-half-uur-vast-met-hand-in-roltrap-in-winkel-we-liepen-allemaal-te-huilen/64078438.html",
           "publishedDate": "Thu, 03 Apr 2025 10:29:00 GMT",
           "description": "Jong meisje zit half uur vast met hand in roltrap in winkel: ’We liepen allemaal te huilen’ Hoofddorp - Een jong meisje is donderdagmiddag met een hand vast komen te zitten in een roltrap in ..."
+        },
+        {
+          "title": "Is de roltrap bij spoor 12 al gemaakt? Ivan (31) houdt je op de hoogte met dit instagramaccount",
+          "source": "AD",
+          "url": "https://www.ad.nl/utrecht/is-de-roltrap-bij-spoor-12-al-gemaakt-ivan-31-houdt-je-op-de-hoogte-met-dit-instagramaccount~a15de3bc/",
+          "publishedDate": "Thu, 10 Nov 2022 18:09:00 GMT",
+          "description": "Is de roltrap bij spoor 12 al gemaakt? Ivan (31) houdt je op de hoogte met dit instagramaccount Het viel Ivan Hidayat (31) op: de roltrappen bij spoor 11 en 12 op Utrecht Centraal waren al wel heel ..."
         }
       ]
     },
     {
-      "keyword": "bayern - rb leipzig",
+      "keyword": "jordi cruijff",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Tussenbalans na 250 dagen Jordi Cruijff bij Ajax: geflopte miljoenenaankopen, maar ook toppers als Brandt en Tolu",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/tussenbalans-na-250-dagen-jordi-cruijff-bij-ajax-geflopte-miljoenenaankopen-maar-ook-toppers-als-brandt-en-tolu~a2a777b5/",
+          "publishedDate": "Fri, 16 Oct 2026 22:00:00 GMT",
+          "description": "Jordi Cruijff (52) staat deze week 250 dagen aan het roer. De contouren en consequenties van zijn werkwijze tekenen zich steeds duidelijker af. Wat valt er tot dusverre op? Met de zware uitwedstrijd t ..."
+        },
+        {
+          "title": "Dit is waar Jordi Cruijff een hekel aan heeft",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/dit-is-waar-jordi-cruijff-een-hekel-aan-heeft/",
+          "publishedDate": "Sat, 17 Oct 2026 11:17:00 GMT",
+          "description": "Misschien is het je in de afgelopen transferperiode opgevallen: er kwamen maar weinig geruchten naar buiten over aanstaande transfers bij Ajax. En dat is ..."
+        },
+        {
+          "title": "‘Schandaal rond Jordi Cruijff lekt uit: grote gevolgen voor Ajax’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/schandaal-rond-jordi-cruijff-lekt-uit-grote-gevolgen-voor-ajax/",
+          "publishedDate": "Sat, 17 Oct 2026 05:40:00 GMT",
+          "description": "Jordi Cruijff kwam in februari in dienst bij Ajax. De technisch directeur moest de Amsterdammers richting titel nummer 37 loodsen, maar zo ver lijkt het ..."
+        },
+        {
+          "title": "Ajax-aankoop van Cruijff bekritiseerd: &quot;Grootste flop tot dusver&quot;",
+          "source": "Ajax1.nl",
+          "url": "https://www.ajax1.nl/ajax-aankoop-van-cruijff-bekritiseerd-grootste-flop-tot-dusver/",
+          "publishedDate": "Sat, 17 Oct 2026 04:40:00 GMT",
+          "description": "Lees nu | Het is deze week 250 dagen geleden dat Jordi Cruijff begon als technisch directeur van Ajax. Het Algemeen Dagblad blikt terug op zijn ..."
+        },
+        {
+          "title": "Tussenbalans na 250 dagen Jordi Cruijff bij Ajax: miljoenenaankopen floppen, maar ook toppers als Brandt en Tolu",
+          "source": "Drimble",
+          "url": "https://drimble.nl/voetbal/eredivisie/fc-groningen/108319208/tussenbalans-na-250-dagen-jordi-cruijff-bij-ajax-miljoenenaankopen-floppen-maar-ook-toppers-als-brandt-en-tolu.html",
+          "publishedDate": "Sat, 17 Oct 2026 00:49:00 GMT",
+          "description": "Jordi Cruijff (52) staat deze week 250 dagen aan het roer. De contouren en consequenties van zijn werkwijze tekenen zich steeds duidelijker af. Wat valt er tot dusverre op? Met de zware uitwedstrijd t ..."
+        },
+        {
+          "title": "Op welke plek staan Jong Ajax en de academie op Cruijff-lijst met prioriteiten?",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/op-welke-plek-staan-jong-ajax-en-de-academie-op-cruijff-lijst-met-prioriteiten/ar-AA2eqqNy",
+          "publishedDate": "Sat, 17 Oct 2026 00:40:00 GMT",
+          "description": "Jordi Cruijff haalde afgelopen zomer twaalf spelers met een gemiddelde leeftijd van 28 jaar. Daardoor stelt het Algemeen Dagblad de vraag in hoeverre hij genoeg doet voor de jeugd van Ajax. Deze week ..."
+        },
+        {
+          "title": "AD trekt pijnlijke Ajax-conclusie na 250 dagen Cruijff: 'Grootste flop tot dusver'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/ad-trekt-pijnlijke-ajax-conclusie-na-250-dagen-cruijff-grootste-flop-tot-dusver/ar-AA2eq6B4",
+          "publishedDate": "Fri, 16 Oct 2026 23:52:00 GMT",
+          "description": "Het is deze week 250 dagen geleden dat Jordi Cruijff aan het roer kwam te staan bij Ajax. Het Algemeen Dagblad somt de periode, die zeker op het eerste oog veelbelovend leek, op. Onder meer de miljoen ..."
+        },
+        {
+          "title": "Valentijn Driessen keihard voor Ajax en Jordi Cruijff: 'Staat al op instorten'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/jordi-cruijff-michel-sanchez-ajax-valentijn-driessen-kritiek",
+          "publishedDate": "Fri, 16 Oct 2026 10:11:00 GMT",
+          "description": "Na de 2-1 nederlaag bij Hajduk Split spaart Valentijn Driessen technisch directeur Jordi Cruijff en trainer M&#237;chel S&#225;nchez niet: 'Bij elkaar geraapt zooitje.' ..."
+        },
+        {
+          "title": "Linksbackprobleem bij Ajax niet opgelost ondanks investeringen Jordi Cruijff",
+          "source": "FootballTransfers",
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/10/ajax-lost-linksbackprobleem-niet-op-ondanks-investeringen-jordi-cruijff",
+          "publishedDate": "Fri, 16 Oct 2026 00:31:00 GMT",
+          "description": "Jordi Cruijff investeerde tijdens de zomerse transferperiode ook fors in de linksbackpositie. Desondanks lijkt het probleem op de linkervleugel nog altijd niet te zijn opgelost door de technisch direc ..."
+        },
+        {
+          "title": "Jordi Cruijff op rapport: Twaalf zomeraanwinsten en een valse seizoensstart",
+          "source": "ELFvoetbal.nl",
+          "url": "https://www.elfvoetbal.nl/binnenland/287965/jordi-cruijff-op-rapport-twaalf-zomeraanwinsten-en-een-valse-seizoensstart",
+          "publishedDate": "Tue, 13 Oct 2026 09:42:00 GMT",
+          "description": "Ajax versterkte zich deze zomer nadrukkelijk op de transfermarkt. Technisch directeur Jordi Cruijff liet zich ambitieus uit en wil op korte termijn weer succes boeken met de club waar zijn vader uitgr ..."
+        }
+      ]
+    },
+    {
+      "keyword": "max verstappen gt3",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Live GT3 | Verstappen staat voor inhaalrace tijdens bijzonder uitstapje in Portugal",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/formule-1/6413501/live-gt3-verstappen-staat-voor-inhaalrace-tijdens-bijzonder-uitstapje-in-portugal.html",
+          "publishedDate": "Sat, 17 Oct 2026 08:04:00 GMT",
+          "description": "Goedenavond en welkom in dit liveblog. Hier houd ik (Patrick Moeke) je op de hoogte van alle ontwikkelingen bij de race in Portim&#227;o van de GT World Challenge waar Max Verstappen aan meedoet. Veel plez"
+        },
+        {
+          "title": "LIVE-TIMING GT World Challenge: Volg Max Verstappen in zijn Mercedes AMG GT3 in Portim&#227;o",
+          "source": "RaceXpress",
+          "url": "https://www.racexpress.nl/formule-1/live-timing-gt-world-challenge-volg-max-verstappen-in-zijn-mercedes-amg-gt3-in-portim-o/n/157194",
+          "publishedDate": "Sat, 17 Oct 2026 07:30:00 GMT",
+          "description": "LIVE-TIMING GT World Challenge: volg de drie uursrace van Verstappen in zijn Mercedes AMG GT3 in Portim&#227;o, Portugal! Red Bull F1-coureur Max Verstappen"
+        }
+      ]
+    },
+    {
+      "keyword": "dagblad van het noorden",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Dortmund morst punten bij Union Berlin, Bayern speelt Leipzig van de mat",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2635380-dortmund-morst-punten-bij-union-berlin-bayern-speelt-leipzig-van-de-mat",
-          "publishedDate": "Sat, 17 Oct 2026 09:04:00 GMT",
-          "description": "Medekoploper Borussia Dortmund, dat begon met vier overwinningen, speelt net als vorig week gelijk (nu 0-0) en krijgt Bayern M&#252;nchen, dat met 6-1 te sterk is voor RB Leizig, naast zich op de ranglijst ..."
-        },
-        {
-          "title": "Bayern haalt uit tegen Leipzig, Joey Veerman hele wedstrijd reserve bij Dortmund",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6413511/bayern-haalt-uit-tegen-leipzig-joey-veerman-hele-wedstrijd-reserve-bij-dortmund.html",
-          "publishedDate": "Fri, 16 Oct 2026 23:24:00 GMT",
-          "description": "Bayern M&#252;nchen heeft zaterdag uitgehaald in de Bundesliga tegen RB Leipzig. De regerend landskampioen won met 6-1 van de club die dinsdag nog te sterk was voor PSV. Bij Borussia Dortmund bleef Joey Ve ..."
-        },
-        {
-          "title": "Alle twijfels van tafel: Bayern spoelt pijnlijke week door met verwoestende uithaal en 6 goals tegen Leipzig",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/matches/voetbal/buitenland/dui/bundesliga/2026-2027/regulier/06/bayern-munchen-rb-leipzig-alle-twijfels-van-tafel-bayern-spoelt-pijnlijke-week-door-met-verwoestende-uithaal-en-6-goals-tegen-leipzig~1784284031322/",
-          "publishedDate": "Sat, 17 Oct 2026 11:32:00 GMT",
-          "description": "Als statement kan dit tellen. Bayern M&#252;nchen heeft met een monsterzege tegen Leipzig alle twijfels van tafel geveegd na een lastige week, waarin het punten verloor tegen Augsburg en Viking. Luis Diaz ..."
-        },
-        {
-          "title": "Bayern herovert koppositie na zesklapper tegen PSV-bedwinger Leipzig",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/bayern-herovert-koppositie-na-zesklapper-tegen-psv-bedwinger-leipzig/ar-AA2erWZN",
-          "publishedDate": "Sat, 17 Oct 2026 11:24:45 GMT",
-          "description": "Bayern M&#252;nchen heeft zich uitstekend hersteld van de Champions League-uitglijder tegen Viking FK. RB Leipzig was zaterdagavond geen partij voor de ploeg van trainer Vincent Kompany, die door het punte ..."
-        },
-        {
-          "title": "Praat mee op VP: Bayern M&#252;nchen ontvangt RB Leipzig in Bundesliga-kraker",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-bayern-m%C3%BCnchen-ontvangt-rb-leipzig-in-bundesliga-kraker/ar-AA2erBHF",
-          "publishedDate": "Sat, 17 Oct 2026 09:06:00 GMT",
-          "description": "Bayern M&#252;nchen en RB Leipzig staan zaterdagavond tegenover elkaar in de Bundesliga. Beide ploegen behoren na vijf speelronden tot de productiefste aanvallen van Duitsland. Volg de wedstrijd hieronder ..."
-        },
-        {
-          "title": "Kompany grapt met voormalige JPL-speler: &quot;Misschien heeft hij na de match minder haar&quot;",
-          "source": "Voetbalkrant.com",
-          "url": "https://www.voetbalkrant.com/nieuws/2026-10-17/kompany-grapt-met-voormalige-jpl-speler-misschien-heeft-hij-na-de-match-minder-haar",
-          "publishedDate": "Sat, 17 Oct 2026 06:30:00 GMT",
-          "description": "Bayern M&#252;nchen ontvangt zaterdag RB Leipzig, maar Vincent Kompany volgt dit weekend ook met bijzondere aandacht de beloften. Bayern II speelt zondag de beladen stadsderby tegen 1860 M&#252;nchen."
-        },
-        {
-          "title": "Arme Maarten Vandevoordt: Rode Duivel moet zich zes (!) keer omdraaien tegen Bayern M&#252;nchen, dat Champions League-kater doorspoelt",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/bundesliga/arme-maarten-vandevoordt-rode-duivel-moet-zich-zes-keer-omdraaien-tegen-bayern-munchen-dat-champions-league-kater-doorspoelt~afe81cd4/",
-          "publishedDate": "Sat, 17 Oct 2026 04:23:00 GMT",
-          "description": "De reactie waar &lt;a href=&quot;https://www.hln.be/dossier/vincent-kompany~dfe019e5c-6cee-47c0-b50c-85715784a30e/&quot; target=&quot;_blank&quot;&gt;Vincent Kompany (40) op gehoopt had. Na het &lt;a href=&quot;https://www.hln.be/cham ..."
-        },
-        {
-          "title": "Bayern M&#252;nchen vs RB Leipzig: Tips, Voorspelling, Opstellingen &amp; Statistieken",
-          "source": "Squawka",
-          "url": "https://www.squawka.com/nl/nieuws/bundesliga/bayern-munchen-rb-leipzig-tips-voorspelling-opstellingen-statistieken/",
-          "publishedDate": "Sat, 17 Oct 2026 01:30:00 GMT",
-          "description": "Bayern M&#252;nchen - RB Leipzig voor de Bundesliga. Bekijk de odds, statistieken, vermoedelijke opstellingen en wedmarkten voor 17 oktober."
-        },
-        {
-          "title": "Bayern M&#252;nchen veegt de vloer aan met PSV-opponent en boekt monsterzege",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/bayern-munchen-veegt-de-vloer-aan-met-psv-opponent-en-boekt-monsterzege",
-          "publishedDate": "Fri, 16 Oct 2026 23:26:00 GMT",
-          "description": "Bayern M&#252;nchen veegt de vloer aan met PSV-opponent RB Leipzig. De Duitsers winnen met 6-0, mede dankzij een hattrick van Luis D&#237;az."
-        },
-        {
-          "title": "RB Leipzig – Bayern M&#252;nchen Live Stream kijken, opstellingen, statistieken",
-          "source": "Squawka Football",
-          "url": "https://www.squawka.com/nl/nieuws/rb-leipzig-bayern-munchen-gratis-live-stream-kijken-opstellingen-statistieken-17-1-2025/",
-          "publishedDate": "Fri, 16 Jan 2026 05:51:00 GMT",
-          "description": "De absolute kraker in de Bundesliga dit weekend is de wedstrijd tussen RB Leipzig en Bayern M&#252;nchen. De nummer 3 ontvangt de koploper op zaterdag 17 januari om 18:30 uur in de Red Bull Arena. Bayern ..."
+          "title": "DVHN digitale krant",
+          "source": "DVHN",
+          "url": "https://mijn.dvhn.nl/digitale-krant",
+          "publishedDate": "Thu, 01 Aug 2019 03:45:00 GMT",
+          "description": "Steeds meer lezers van de papieren krant raken ook vertrouwd met de digitale krant. Wis je dat je abonnement op de papieren kran je automatisch onbeperkte toegang geeft tot de digitale krant? Dit ..."
         }
       ]
     },
@@ -577,6 +306,13 @@
           "url": "https://www.nu.nl/wielrennen/6411898/franse-wielrenner-ronan-auge-ontwaakt-uit-kunstmatige-coma-na-zware-valpartij.html",
           "publishedDate": "Sat, 03 Oct 2026 09:31:00 GMT",
           "description": "De Franse wielrenner Ronan Aug&#233; is zaterdag ontwaakt uit zijn kunstmatige coma. De 22-jarige renner van Unibet Rose Rockets was vrijdag hard ten val gekomen in de Ronde van Langkawi in Maleisi&#235;."
+        },
+        {
+          "title": "Franse wielrenner Aug&#233; ontwaakt uit kunstmatige coma na zware valpartij",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/wielrennen/franse-wielrenner-auge-ontwaakt-uit-kunstmatige-coma-na-zware-valpartij~a8bb24d0/",
+          "publishedDate": "Fri, 02 Oct 2026 09:10:00 GMT",
+          "description": "De Franse wielrenner Ronan Aug&#233; is ontwaakt uit zijn kunstmatige coma, waarin hij vrijdag was gebracht na een zware valpartij in de Ronde van Langkawi in Maleisi&#235;. Zijn toestand is stabiel, zo laat zi ..."
         },
         {
           "title": "Ouders van aangereden wielrenner Lars (16) krijgt vier jaar na zijn dood bijzonder koude douche",
@@ -614,94 +350,11 @@
           "description": "Op de kruising van de Deukerdijk en de Hoogeweg in Pannerden is een ernstig ongeluk gebeurd waarbij een tractor en een wielrenner betrokken waren. Twee ambulances en een traumahelikopter rukten uit."
         },
         {
-          "title": "Mollema 'wil genieten van leven' na afscheid als wielrenner",
-          "source": ".ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/lifestyle/other/mollema-wil-genieten-van-leven-na-afscheid-als-wielrenner/ar-AA2dX0Co",
-          "publishedDate": "Sat, 10 Oct 2026 04:26:00 GMT",
-          "description": "BERGAMO (ANP) - Bauke Mollema weet nog niet wat hij gaat doen na zijn afscheid als wielrenner. De 39-jarige Groninger komt zaterdag voor het laatst in actie in de Ronde van Lombardije, de Italiaanse n ..."
-        },
-        {
           "title": "Wielrenner (22) geeft heftige update uit ziekenhuis na verschrikkelijke crash: 'Lijst met verwondingen is lang'",
           "source": "Sportnieuws",
           "url": "https://sportnieuws.nl/wielrennen/nieuws/wielrenner-22-geeft-heftige-update-uit-ziekenhuis-na-verschrikkelijke-crash-lijst-met-verwondingen-is-lang-2026100911350587877/",
           "publishedDate": "Fri, 09 Oct 2026 06:39:00 GMT",
           "description": "Ronan Aug&#233; is ontwaakt uit zijn kunstmatige coma en kan nu ook zelf zijn telefoon bedienen. Vanuit het ziekenhuisbed in Maleisi&#235; komt de Franse wielrenner van de Nederlandse ploeg Unibet Rose Rockets ..."
-        }
-      ]
-    },
-    {
-      "keyword": "max verstappen gt3",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "LIVE | Max Verstappen begint aan pittige klus bij debuut GTWC na straf voor teamgenoot",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/formule-1/live-max-verstappen-begint-aan-pittige-klus-bij-debuut-gtwc-na-straf-voor-teamgenoot~a38cda10/",
-          "publishedDate": "Sat, 17 Oct 2026 04:16:00 GMT",
-          "description": "Max Verstappen rijdt op het Portugese circuit van Portim&#227;o zijn eerste race in de GT World Challenge Europe. Samen met Chris Lulham en Ben Barnicoat bestuurt hij de Mercedes-AMG GT3 van zijn eigen tea ..."
-        },
-        {
-          "title": "Zo laat komt Max Verstappen in actie tijdens GT-race in Portugal",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/formule-1/zo-laat-komt-max-verstappen-in-actie-tijdens-gt-race-in-portugal~ab785c59/",
-          "publishedDate": "Fri, 16 Oct 2026 23:56:00 GMT",
-          "description": "Er staat voor aankomend weekend geen Formule 1-race op de planning, maar Max Verstappen heeft allesbehalve een weekje vrije. De coureur gaat met zijn GT3-team racen op het circuit van Portim&#227;o. Bekijk ..."
-        },
-        {
-          "title": "Verstappen zorgt voor opvallend moment met touch&#233; bij GT3-training in Portugal",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/formule-1/6413379/verstappen-zorgt-voor-opvallend-moment-met-touche-bij-gt3-training-in-portugal.html",
-          "publishedDate": "Fri, 16 Oct 2026 05:18:00 GMT",
-          "description": "Max Verstappen heeft vrijdagochtend de eerste vrije training voor de GT3-race in het Portugese Portim&#227;o afgewerkt. De Limburger raakte in zijn vierde ronde betrokken bij een incident, waarbij hij tege ..."
-        },
-        {
-          "title": "Bekijk de GT-race van Max Verstappen in Portimao hier live",
-          "source": "GPblog",
-          "url": "https://www.gpblog.com/nl/videos/bekijk-de-gt-race-van-max-verstappen-in-portimao-hier-live",
-          "publishedDate": "Sat, 17 Oct 2026 09:30:00 GMT",
-          "description": "Mis niks van de race in Portimao. Max Verstappen start met Verstappen Racing vanaf P14 in de GT-race in Portim&#227;o, na een moeizame kwalificatie met de Mercedes-AMG GT3."
-        },
-        {
-          "title": "LIVE-TIMING GT World Challenge: Volg Max Verstappen in zijn Mercedes AMG GT3 in Portim&#227;o",
-          "source": "RaceXpress",
-          "url": "https://www.racexpress.nl/formule-1/live-timing-gt-world-challenge-volg-max-verstappen-in-zijn-mercedes-amg-gt3-in-portim-o/n/157194",
-          "publishedDate": "Sat, 17 Oct 2026 07:30:00 GMT",
-          "description": "LIVE-TIMING GT World Challenge: volg de drie uursrace van Verstappen in zijn Mercedes AMG GT3 in Portim&#227;o, Portugal! Red Bull F1-coureur Max Verstappen ..."
-        },
-        {
-          "title": "LIVE | Max Verstappen heeft straks moeilijke klus bij debuut GTWC, teamgenoot gestraft voor duwtje",
-          "source": "Provinciale Zeeuwse Courant",
-          "url": "https://www.pzc.nl/formule-1/live-max-verstappen-heeft-straks-moeilijke-klus-bij-debuut-gtwc-teamgenoot-gestraft-voor-duwtje~a38cda10/",
-          "publishedDate": "Sat, 17 Oct 2026 04:08:00 GMT",
-          "description": "Max Verstappen rijdt op het Portugese circuit van Portim&#227;o zijn eerste race in de GT World Challenge Europe. Samen met Chris Lulham en Ben Barnicoat bestuurt hij de Mercedes-AMG GT3 van zijn eigen tea ..."
-        },
-        {
-          "title": "Zo kijk je live naar Max Verstappen in GT World Challenge Portimao",
-          "source": "RacingNews365 on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/zo-kijk-je-live-naar-max-verstappen-in-gt-world-challenge-portimao/ar-AA2eiwkY",
-          "publishedDate": "Fri, 16 Oct 2026 22:15:00 GMT",
-          "description": "Max Verstappen maakt in Portugal zijn debuut in de GT World Challenge Europe Endurance Cup. De viervoudig F1-kampioen stapt tijdens de seizoensfinale van de GTWCE in Portim&#227;o in de Mercedes-AMG GT3 va ..."
-        },
-        {
-          "title": "Max Verstappen krijgt flinke tegenvaller tijdens GT3-uitstapje: problemen houden Nederlander tegen",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/autosport/nieuws/max-verstappen-krijgt-flinke-tegenvaller-tijdens-gt3-uitstapje-problemen-houden-nederlander-tegen-2026101618192072646/",
-          "publishedDate": "Fri, 16 Oct 2026 13:19:00 GMT",
-          "description": "Max Verstappen heeft tijdens de kwalificatie voor de GT World Challenge in het Portugese Portim&#227;o geen potten kunnen breken. De viervoudig wereldkampioen Formule 1 kwam samen met zijn teamgenoten niet ..."
-        },
-        {
-          "title": "Verstappen jaagt in eigen Mercedes-GT3: 'We zijn hier om te winnen'",
-          "source": "Formule1nieuws.nl",
-          "url": "https://formule1nieuws.nl/nieuws/verstappen-jaagt-in-eigen-mercedes-gt3-we-zijn-hier-om-te-winnen/",
-          "publishedDate": "Fri, 16 Oct 2026 12:02:00 GMT",
-          "description": "'We zijn hier om te winnen.' Met die woorden meldde Max Verstappen zich in Portim&#227;o, waar de viervoudig wereldkampioen niet in een Formule 1-auto stapt maar in een Mercedes-AMG GT3 van zijn eigen tea ..."
-        },
-        {
-          "title": "Max Verstappen maakt veel indruk in GT3: 'Hij is net een normale teamgenoot'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/autosport/nieuws/max-verstappen-maakt-veel-indruk-in-gt3-hij-is-net-een-normale-teamgenoot-2026101613223939754/",
-          "publishedDate": "Fri, 16 Oct 2026 08:41:00 GMT",
-          "description": "Max Verstappen maakt dit weekend een uitstapje buiten de Formule 1. Hij stapt in de GT3-auto voor de GT World Challenge in Portugal. In de trainingen maakte hij al veel indruk. De Nederlander krijgt ..."
         }
       ]
     }
