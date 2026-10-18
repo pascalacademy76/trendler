@@ -1,55 +1,758 @@
 {
-  "fetchedAt": "2026-10-18T17:42:39.125Z",
+  "fetchedAt": "2026-10-18T19:56:11.412Z",
   "trends": [
     {
       "keyword": "groningen - ajax",
       "trafficLabel": "100K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Ajax herpakt zich met ruime zege bij FC Groningen en loopt in op AZ en PSV",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6413566/ajax-herpakt-zich-met-ruime-zege-bij-fc-groningen-en-loopt-in-op-az-en-psv.html",
+          "publishedDate": "Sun, 18 Oct 2026 11:40:00 GMT",
+          "description": "Ajax heeft zondag een ruime zege geboekt bij FC Groningen in de Eredivisie. De Amsterdammers haalden drie dagen na de pijnlijke nederlaag bij Hajduk Split uit in de Euroborg (2-5) en lopen in op concu ..."
+        },
+        {
+          "title": "Ajax richt zich op en wint met ruime cijfers bij FC Groningen (2-5)",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2635516-ajax-richt-zich-op-en-wint-met-ruime-cijfers-bij-fc-groningen-2-5",
+          "publishedDate": "Sun, 18 Oct 2026 09:40:00 GMT",
+          "description": "De club van trainer M&#237;chel S&#225;nchez komt door de zege op 18 punten uit 9 wedstrijden en nadert nummer drie PSV tot &#233;&#233;n punt. FC Twente kan vanavond bij een zege weer over Ajax heen gaan. Groningen (14 ..."
+        },
+        {
+          "title": "Ajax revancheert zich na Europees verlies met klinkende zege in Groningen",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/ajax/ajax-revancheert-zich-na-europees-verlies-met-klinkende-zege-in-groningen~b2733785/",
+          "publishedDate": "Sun, 18 Oct 2026 07:21:00 GMT",
+          "description": "Ajax heeft het chagrijn na de nederlaag tegen Hajduk Split in de Conference League van zich afgespoeld. De ploeg van M&#237;chel S&#225;nchez boekte op bezoek bij FC Groningen een klinkende zege: het doelpuntri ..."
+        },
+        {
+          "title": "Drie dagen na Split-blamage haalt Ajax uit in Groningen: 'Heel andere energie'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6413580/drie-dagen-na-split-blamage-haalt-ajax-uit-in-groningen-heel-andere-energie.html",
+          "publishedDate": "Sun, 18 Oct 2026 00:14:00 GMT",
+          "description": "Drie dagen na de blamage in Split boekte Ajax zondag een overtuigende zege bij FC Groningen (2-5). De Amsterdammers speelden volgens coach M&#237;chel S&#225;nchez en verdediger Dies Janse nu wel met de juiste ..."
+        },
+        {
+          "title": "Ajax revancheert zich en scoort vijf keer in en tegen Groningen",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/ajax-revancheert-zich-en-scoort-vijf-keer-in-en-tegen-groningen",
+          "publishedDate": "Sun, 18 Oct 2026 11:40:00 GMT",
+          "description": "Ajax heeft zondagavond in de Euroborg een knappe overwinning geboekt op bezoek bij FC Groningen. De Amsterdammers waren veel sterker dan de ploeg van Dick Lukkien. Het resulteerde in een overtuigende ..."
+        },
+        {
+          "title": "Dennis Higler legt uit waarom FC Groningen geen penalty kreeg tegen Ajax",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/dennis-higler-weigert-strafschop-tegen-ajax",
+          "publishedDate": "Sun, 18 Oct 2026 11:09:00 GMT",
+          "description": "Scheidsrechter Dennis Higler heeft zondag tijdens de Eredivisie-wedstrijd tussen FC Groningen en Ajax verklaard waarom de thuisploeg geen strafschop kreeg na een duel tussen Davy Klaassen en ..."
+        },
+        {
+          "title": "Verklaring van scheidsrechter Dennis Higler hoorbaar tijdens FC Groningen - Ajax: 'Dit is absoluut geen strafschop'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/eredivisie-voetbal/nieuws/verklaring-van-scheidsrechter-dennis-higler-hoorbaar-tijdens-fc-groningen-ajax-dit-is-absoluut-geen-strafschop-2026101815111172077/",
+          "publishedDate": "Sun, 18 Oct 2026 10:11:00 GMT",
+          "description": "De kraker tussen FC Groningen en Ajax begon meteen met vuurwerk, vooral omdat er al vroeg in de wedstrijd zomaar twee strafschoppen gegeven hadden kunnen worden. Scheidsrechter Dennis Higler greep ech ..."
+        },
+        {
+          "title": "Ajax maakt het zich soms moeilijk maar wint volledig terecht van Groningen",
+          "source": "Ajaxinside.nl",
+          "url": "https://www.ajaxinside.nl/ajax-maakt-het-zich-soms-moeilijk-maar-wint-volledig-terecht-van-groningen/",
+          "publishedDate": "Sun, 18 Oct 2026 09:41:00 GMT",
+          "description": "Na de zware Europese beslommeringen in Split staat nu in Groningen een andere zware uitwedstrijd op het programma: die tegen de plaatselijke FC. Tegen Hajduk werd er een wanprestatie geleverd. De zove ..."
+        },
+        {
+          "title": "Ajax profiteert met ruime zege in Groningen van puntenverlies PSV en AZ",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-profiteert-met-ruime-zege-in-groningen-van-puntenverlies-psv-en-az",
+          "publishedDate": "Sun, 18 Oct 2026 09:40:00 GMT",
+          "description": "Ajax heeft zondagavond een ruime zege geboekt op bezoek bij angstgegner FC Groningen. De ploeg die het Ajax normaal gesproken zo moeilijk maakt, kon in speelronde 9 van de Eredivisie maar een paar min ..."
+        },
+        {
+          "title": "Live Eredivisie | Onrust na doelpunt FC Utrecht op bezoek bij FC Twente, Ajax profiteert maximaal in Groningen",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/eredivisie-voetbal/nieuws/live-eredivisie-onrust-na-doelpunt-fc-utrecht-op-bezoek-bij-fc-twente-ajax-profiteert-maximaal-in-groningen-2026101804293197042/",
+          "publishedDate": "Sun, 18 Oct 2026 00:26:00 GMT",
+          "description": "Ajax hoopte te profiteren van de nederlaag van PSV tegen ADO Den Haag (2-1) &#233;n het gelijkspel van AZ op bezoek bij SC Cambuur (2-2). De Amsterdammers legden bij vlagen een uitstekende wedstrijd op de ..."
+        }
+      ]
     },
     {
-      "keyword": "emile ratelband",
+      "keyword": "twente - utrecht",
       "trafficLabel": "50K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Aanvangstijdstip, ziekenboeg en het strijdplan: dit moet je weten over het uitduel van FC Utrecht bij FC Twente",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/utrecht/aanvangstijdstip-ziekenboeg-en-het-strijdplan-dit-moet-je-weten-over-het-uitduel-van-fc-utrecht-bij-fc-twente~aec41b9e/",
+          "publishedDate": "Sat, 17 Oct 2026 18:31:00 GMT",
+          "description": "Voor iedere wedstrijd belichten we de opponent van FC Utrecht. Deze week: alles wat je moet weten over de uitwedstrijd tegen subtopper FC Twente."
+        },
+        {
+          "title": "Livestream FC Twente - FC Utrecht | Stand: 1-2",
+          "source": "RTV Utrecht",
+          "url": "https://www.rtvutrecht.nl/sport/4105556/livestream-fc-twente-fc-utrecht-stand-1-2",
+          "publishedDate": "Sun, 18 Oct 2026 12:50:00 GMT",
+          "description": "Luister vanavond live naar FC Twente - FC Utrecht. Na de zege op Willem II willen de mannen van trainer Anthony Correia doorpakken. Of dat lukt hoor je op de stream."
+        },
+        {
+          "title": "Live 20.00 uur | FC Twente - FC Utrecht (1-1), NEC - Fortuna Sittard (1-2)",
+          "source": "Ajax Showtime on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-2000-uur-fc-twente-fc-utrecht-1-1-nec-fortuna-sittard-1-2/ar-AA2etdGO",
+          "publishedDate": "Sun, 18 Oct 2026 12:05:00 GMT",
+          "description": "Dit is het livetopic van de Eredivisiewedstrijden op zondagmiddag 18 oktober. De voetbalzondag start met de IJsselderby tussen PEC Zwolle en Go Ahead Eagles. Vervolgens neemt SC Cambuur het op tegen A ..."
+        },
+        {
+          "title": "Praat mee op VP: FC Twente - FC Utrecht",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-fc-twente-fc-utrecht/ar-AA2eur36",
+          "publishedDate": "Sun, 18 Oct 2026 11:00:25 GMT",
+          "description": "FC Twente en FC Utrecht staan zondagavond tegenover elkaar in de Eredivisie. De wedstrijd begint om 20.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+        },
+        {
+          "title": "LIVE | FC Utrecht op voorsprong in Enschede • Twee treffers van Alarcon • Vennegoor als extra spits",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/fc-twente/live-weidmann-opent-met-een-prachtige-goal-de-score-fc-twente-op-1-0~ae50fc83/",
+          "publishedDate": "Sun, 18 Oct 2026 05:40:00 GMT",
+          "description": "FC Twente sluit zondagavond het weekend af met een thuiswedstrijd tegen FC Utrecht. Zijn de benen weer fris na het Europese optreden en weet de ploeg landskampioen PSV te achterhalen? Volg hier alle o ..."
+        },
+        {
+          "title": "LIVE | FC Utrecht op voorsprong • Twee treffers van Alarcon • De bal rolt weer na korte onderbreking",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/enschede/live-fc-twente-op-jacht-naar-plek-2-duel-tegen-fc-utrecht-begonnen-imposant-spandoek~ae50fc83/",
+          "publishedDate": "Sun, 18 Oct 2026 05:25:00 GMT",
+          "description": "FC Twente sluit zondagavond het weekend af met een thuiswedstrijd tegen FC Utrecht. Zijn de benen weer fris na het Europese optreden en weet de ploeg landskampioen PSV te achterhalen? Volg hier alle o ..."
+        },
+        {
+          "title": "Hier kijk je vanavond LIVE naar FC Twente - FC Utrecht",
+          "source": "Twente Insite",
+          "url": "https://www.twenteinsite.nl/fc-twente-nieuws/hier-kijk-je-vanavond-live-naar-fc-twente-fc-utrecht",
+          "publishedDate": "Sun, 18 Oct 2026 00:49:00 GMT",
+          "description": "FC Twente speelt vanavond in eigen huis tegen FC Utrecht. De Domstedelingen zijn tegenvallend begonnen aan het nieuwe seizoen en staan op de veertiende plaats. Alleen tegen Excelsior en Willem II wist ..."
+        },
+        {
+          "title": "Allard Lindhout staakt Twente - Utrecht; Wout Weghorst is woest",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/allard-lindhout-staakt-twente-utrecht-wout-weghorst-is-woest/bltafed49d96551d76d",
+          "publishedDate": "Sun, 18 Oct 2026 00:31:00 GMT",
+          "description": "Het duel tussen FC Twente en FC Utrecht is na 63 minuten spelen tijdelijk gestaakt. Na de 1-2 van &#193;ngel Alarc&#243;n ging het mis in Grolsch Veste."
+        },
+        {
+          "title": "SUPERTIP: Livestream FC Twente – FC Utrecht (Eredivisie 18-10-2026)",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/10/18/supertip-livestream-fc-twente-fc-utrecht-eredivisie-18-10-2026/",
+          "publishedDate": "Sun, 18 Oct 2026 00:29:00 GMT",
+          "description": "Vandaag om 20.00 uur staat er weer mooie wedstrijd op het programma in de Nederlandse Eredivisie. FC Twente neemt dan namelijk in eigen huis op tegen FC Utrecht. Beide clubs zullen tot het uiterste ga ..."
+        },
+        {
+          "title": "Live Eredivisie | Onrust na doelpunt FC Utrecht op bezoek bij FC Twente, Ajax profiteert maximaal in Groningen",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/eredivisie-voetbal/nieuws/live-eredivisie-onrust-na-doelpunt-fc-utrecht-op-bezoek-bij-fc-twente-ajax-profiteert-maximaal-in-groningen-2026101804293197042/",
+          "publishedDate": "Sun, 18 Oct 2026 00:26:00 GMT",
+          "description": "Ajax hoopte te profiteren van de nederlaag van PSV tegen ADO Den Haag (2-1) &#233;n het gelijkspel van AZ op bezoek bij SC Cambuur (2-2). De Amsterdammers legden bij vlagen een uitstekende wedstrijd op de ..."
+        }
+      ]
+    },
+    {
+      "keyword": "enschede",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Elf mensen onwel na rondleiding in Grolsch-fabriek Enschede",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2635420-elf-mensen-onwel-na-rondleiding-in-grolsch-fabriek-enschede",
+          "publishedDate": "Sat, 17 Oct 2026 16:16:00 GMT",
+          "description": "Volgens RTV Oost hadden de personen bronwater geproefd dat wordt gebruikt om bier te brouwen. Mogelijk zat daar de bijtende stof natronloog in."
+        },
+        {
+          "title": "Eten en drinken op Station Enschede: hier kun je terecht",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/enschede/eten-en-drinken-op-station-enschede-hier-kun-je-terecht~a185a170/",
+          "publishedDate": "Sat, 17 Oct 2026 10:06:00 GMT",
+          "description": "Wil je iets te eten of drinken halen op Station Enschede? Dan zijn er genoeg opties! Van een lekker broodje tot een kop koffie, je leest het hier."
+        },
+        {
+          "title": "Geen treinen tussen Almelo en Enschede: bussen nemen spoorvervoer over",
+          "source": "almelo1.nl",
+          "url": "https://almelo1.nl/geen-treinen-tussen-almelo-en-enschede-bussen-nemen-spoorvervoer-over/",
+          "publishedDate": "Sun, 18 Oct 2026 07:53:00 GMT",
+          "description": "Tussen Almelo en Enschede rijden zaterdag 24 en zondag 25 oktober geen treinen vanwege werkzaamheden aan het spoor. Reizigers worden met vervangende bussen vervoerd en moeten ook rekening houden met ..."
+        },
+        {
+          "title": "Flinke rookontwikkeling bij brand in afzuiging grillroom in centrum Enschede",
+          "source": "1Twente",
+          "url": "https://www.1twente.nl/artikel/6352038/flinke-rookontwikkeling-bij-brand-in-afzuiging-grillroom-in-centrum-enschede",
+          "publishedDate": "Sun, 18 Oct 2026 06:00:00 GMT",
+          "description": "In een grillroom aan de Brinkstraat in het centrum van Enschede is zondagmiddag brand uitgebroken in de afzuiginstallatie. De brand veroorzaakte ..."
+        },
+        {
+          "title": "Smoothiecaf&#233; opent in Enschede, Liedewij kreeg op haar 29ste borstkanker en meer",
+          "source": "indebuurt",
+          "url": "https://indebuurt.nl/enschede/nieuws/smoothiecafe-opent-in-enschede-liedewij-kreeg-op-haar-29ste-borstkanker-en-meer~ae5e9ce0/",
+          "publishedDate": "Sun, 18 Oct 2026 03:00:00 GMT",
+          "description": "Ook deze week stond indebuurt Enschede weer vol nieuws. Van vrienden in het azc naar samen een eigen zaak: een nieuw smoothiecaf&#233; opent in Enschede, Liedewij kreeg op haar 29ste borstkanker en waarsch ..."
+        },
+        {
+          "title": "Veel rook bij brand in grillroom in Enschede, vuur onder controle",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/enschede/veel-rook-bij-brand-in-grillroom-in-enschede-vuur-onder-controle~a51057066/",
+          "publishedDate": "Sun, 18 Oct 2026 02:51:00 GMT",
+          "description": "Bij Grill Center Pars aan de Brinkstraat in Enschede is zondag aan het eind van de middag een brand uitgebroken. Niemand raakte gewond, wel is er flinke rook-en waterschade in het pand. De brandweer h ..."
+        },
+        {
+          "title": "De favorieten van Wilma in Enschede: ‘Het mooiste kleine kroegje van de stad’",
+          "source": "indebuurt",
+          "url": "https://indebuurt.nl/enschede/enschedeers/favorieten-van/de-favorieten-van-wilma-in-enschede-het-mooiste-kleine-kroegje-van-de-stad~a28796d8/",
+          "publishedDate": "Sat, 17 Oct 2026 17:00:00 GMT",
+          "description": "Wilma Escobosa (58) woont met haar man in Hogeland. In haar vrije tijd handwerkt ze graag, gooit ze een pijltje bij Dartvereniging Highlanders, kijkt ze tv of struint ze door de binnenstad. Wilma deel ..."
+        },
+        {
+          "title": "Nachtelijke containerduikers veroorzaken puinzooi in Enschede: ‘En wij krijgen de boete’",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/enschede/nachtelijke-containerduikers-veroorzaken-puinzooi-in-enschede-en-wij-krijgen-de-boete~a18dc385/",
+          "publishedDate": "Sat, 17 Oct 2026 05:24:00 GMT",
+          "description": "Winkeliers in Enschede zijn woedend en wanhopig. Ongewenste bezoekers plunderen ’s nachts de afvalcontainers achter MS Mode, JD Sports en Foot Locker en laten een puinzooi achter in het centrum. De bo ..."
+        },
+        {
+          "title": "Verzekeraars: vorig jaar opnieuw minder schadeclaims in Enschede door woningbrand",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/enschede/verzekeraars-vorig-jaar-opnieuw-minder-schadeclaims-in-enschede-door-woningbrand~a91e21cb/",
+          "publishedDate": "Fri, 16 Oct 2026 01:33:00 GMT",
+          "description": "Brand in je woning: het komt ook in Enschede gelukkig minder vaak voor dan een paar jaar geleden. Vorig jaar moesten mensen hier 497 keer een beroep doen op hun verzekeraar na een woningbrand. Opnieuw ..."
+        },
+        {
+          "title": "UWV maakt grote verhuizing naar Hengelo bekend: ruim 100 medewerkers in Enschede krijgen nieuwe werkplek",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/enschede/uwv-maakt-grote-verhuizing-naar-hengelo-bekend-ruim-100-medewerkers-in-enschede-krijgen-nieuwe-werkplek~a36559a6/",
+          "publishedDate": "Fri, 16 Oct 2026 00:55:00 GMT",
+          "description": "Het zal vast even wennen zijn voor meer dan honderd medewerkers van het UWV. Vanaf maandag werken ze niet langer in Enschede, maar in Hengelo. De grote verhuizing heeft ook gevolgen voor inwoners."
+        }
+      ]
     },
     {
       "keyword": "canadese legerbasis",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Vier doden en tientallen gewonden na brand op Canadese legerbasis",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6413539/vier-doden-en-tientallen-gewonden-na-brand-op-canadese-legerbasis.html",
+          "publishedDate": "Sun, 18 Oct 2026 11:45:00 GMT",
+          "description": "Bij een grote brand op een militaire basis in de Canadese provincie Alberta zijn zeker vier doden gevallen, maakte de Canadese premier Mark Carney zondag bekend op een persconferentie. Ook zijn tienta ..."
+        },
+        {
+          "title": "Canadese legerbasis getroffen door ‘groot incident’ met veel slachtoffers",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/buitenland/canadese-legerbasis-getroffen-door-groot-incident-met-veel-slachtoffers~bd0721ec/",
+          "publishedDate": "Sun, 18 Oct 2026 03:22:00 GMT",
+          "description": "Bij een explosie en een uitslaande brand op een Canadese legerbasis is zaterdag een nog onbekend aantal doden en gewonden gevallen. Autoriteiten willen alleen zeggen dat zich een ‘groot incident’ heef ..."
+        },
+        {
+          "title": "Vier militairen omgekomen bij brand op Canadese legerbasis",
+          "source": "Belga News Agency on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/vier-militairen-omgekomen-bij-brand-op-canadese-legerbasis/ar-AA2euL48",
+          "publishedDate": "Sun, 18 Oct 2026 11:22:36 GMT",
+          "description": "Bij de brand op een militaire basis in Canada zijn in de nacht van zaterdag op zondag vier militairen omgekomen. Dat maakte de Canadese premier Mark Carney zondag bekend tijdens een persconferentie in ..."
+        },
+        {
+          "title": "Canadezen denken niet aan terrorisme als oorzaak brand legerbasis",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/buitenland/canadezen-denken-niet-aan-terrorisme-als-oorzaak-brand-legerbasis",
+          "publishedDate": "Sun, 18 Oct 2026 10:18:00 GMT",
+          "description": "WAINWRIGHT (ANP) - Niets wijst erop dat de recente zware brand op een militaire basis in het westen van Canada het gevolg is van een terreuraanslag. Dat zei de Canadese minister van Defensie David McG ..."
+        },
+        {
+          "title": "Grote schok na explosie op militaire basis: `Dit is een ramp`",
+          "source": "Drimble",
+          "url": "https://drimble.nl/vrouw/blogs/108330058/grote-schok-na-explosie-op-militaire-basis-dit-is-een-ramp.html",
+          "publishedDate": "Sun, 18 Oct 2026 10:06:00 GMT",
+          "description": "Canada is opgeschrikt door een verschrikkelijk drama op een grote militaire legerbasis. Bij een explosie en een daaropvolgende brand zijn meerdere mensen om het leven gekomen en tientallen anderen gew ..."
+        },
+        {
+          "title": "‘Geen indicatie van terreuraanslag’ bij brand militaire basis in Canada: 4 doden en tientallen gewonden",
+          "source": "De Morgen",
+          "url": "https://www.demorgen.be/snelnieuws/geen-indicatie-van-terreuraanslag-bij-brand-militaire-basis-in-canada-4-doden-en-tientallen-gewonden~b0ef2315/",
+          "publishedDate": "Sun, 18 Oct 2026 09:53:00 GMT",
+          "description": "Op een militaire basis in de Canadese provincie Alberta zijn vier doden en tientallen gewonden gevallen. Premier Mark Carney spreekt op X van ‘een ernstig incident dat een grote brand heeft veroorzaak ..."
+        },
+        {
+          "title": "Vier doden en tientallen gewonden na zware brand bij militaire basis in Canada",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/vier-doden-en-tientallen-gewonden-na-zware-brand-bij-militaire-basis-in-canada~aaa661a0/",
+          "publishedDate": "Sun, 18 Oct 2026 04:43:00 GMT",
+          "description": "Bij de grote brand op de legerbasis Wainwright in Canada zijn vier militairen omgekomen. Tientallen anderen liepen verwondingen op. Dat verklaarde de Canadese premier Mark Carney in een eerste offici&#235; ..."
+        },
+        {
+          "title": "Minstens 7 doden na explosie en brand op Canadese legerbasis",
+          "source": "TCE on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/minstens-7-doden-na-explosie-en-brand-op-canadese-legerbasis/ar-AA2ettyt",
+          "publishedDate": "Sun, 18 Oct 2026 04:11:15 GMT",
+          "description": "Bij een ernstig incident op de Canadese legerbasis Wainwright in Alberta zijn meerdere mensen omgekomen en tientallen anderen gewond geraakt. De precieze cijfers waren aanvankelijk nog niet officieel ..."
+        },
+        {
+          "title": "Canada: doden en gewonden na brand op legerbasis Wainwright",
+          "source": "ThePostOnline",
+          "url": "https://tpo.nl/2026/10/18/cfb-wainwright-brand-alberta-defensie/",
+          "publishedDate": "Sun, 18 Oct 2026 03:00:00 GMT",
+          "description": "Op legerbasis Wainwright in Alberta zijn doden en gewonden gevallen bij een explosie en brand. Defensie bevestigt nog geen aantallen; de RCMP doet onderzoek."
+        },
+        {
+          "title": "Vier doden en tientallen gewonden na explosie op militaire basis in Canada, bevestigt premier Carney",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/18/brand-op-legerbasis-in-canada/",
+          "publishedDate": "Sat, 17 Oct 2026 22:12:00 GMT",
+          "description": "In Canada is een hevige brand uitgebroken op een militaire basis. Dat heeft de Canadese premier Mark Carney gemeld. Hij spreekt over een ernstig incident waardoor de brand veroorzaakt is, maar meer de ..."
+        }
+      ]
     },
     {
-      "keyword": "groningen ajax",
-      "trafficLabel": "20K+",
-      "articles": []
-    },
-    {
-      "keyword": "limoges",
-      "trafficLabel": "20K+",
-      "articles": []
-    },
-    {
-      "keyword": "whatsapp-fraude",
+      "keyword": "martine van os",
       "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "enschede",
-      "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "sint-petersburg",
-      "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "estelle cruijff",
-      "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Martine van Os geeft duidelijkheid over haar toekomst op televisie",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5659709/martine-van-os-toekomst-tv-omroep-max",
+          "publishedDate": "Sun, 18 Oct 2026 08:38:00 GMT",
+          "description": "Martine van Os (69) nam eerder al afscheid van haar programma 'We zijn er bijna!' en ook maakte ze haar vertrek bij 'Tijd voor MAX' bekend. Keert Martine nog wel terug op televisie? Ze geeft zelf het ..."
+        },
+        {
+          "title": "Martine van Os deelt geheim achter bijna 50-jarig huwelijk: 'Dat heeft me soms moeite gekost'",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/martine-van-os-deelt-geheim-achter-bijna-50-jarig-huwelijk-dat-heeft-me-soms-moeite-gekost/ar-AA2dltp1",
+          "publishedDate": "Thu, 01 Oct 2026 04:42:26 GMT",
+          "description": "Martine van Os (69) en haar man Wouter (82) zijn al bijna vijftig jaar samen. Ondanks het leeftijdsverschil en hun verschillende behoeften weten de twee elkaar nog altijd te vinden. In de nieuwe Nouve ..."
+        },
+        {
+          "title": "Martine van Os neemt binnenkort afscheid van Tijd voor MAX",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/news/other/martine-van-os-neemt-binnenkort-afscheid-van-tijd-voor-max/ar-AA2dfO0z",
+          "publishedDate": "Wed, 30 Sep 2026 01:30:42 GMT",
+          "description": "Martine van Os (69) stopt &quot;binnenkort&quot; met het presenteren van Tijd voor MAX. &quot;Ik ben 69 en wil graag nieuwe dingen doen, dus dan is het het moment&quot;, vertelt Van Os, die het programma sinds 2008 prese ..."
+        },
+        {
+          "title": "Martine van Os (69) stopt met Tijd voor Max: ‘Ik wil graag nieuwe dingen doen’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/martine-van-os-69-stopt-met-tijd-voor-max-ik-wil-graag-nieuwe-dingen-doen~a169af63/",
+          "publishedDate": "Tue, 29 Sep 2026 19:25:00 GMT",
+          "description": "Martine van Os stopt binnenkort met het presenteren van Tijd voor Max. „Ik ben 69 en wil graag nieuwe dingen doen, dus dan is het het moment”, vertelt Van Os, die het programma sinds 2008 presenteert, ..."
+        },
+        {
+          "title": "Martine van Os reageert op geruchten over afscheid bij Omroep MAX",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/martine-van-os-reageert-geruchten-afscheid-omroep-max",
+          "publishedDate": "Sun, 18 Oct 2026 08:23:00 GMT",
+          "description": "Gesprekken over pensioen en een vermeend afscheid van Martine van Os bij Omroep MAX houden de gemoederen flink bezig. In gesprek met Shownieuws maakt de presentatrice echter duidelijk dat ze nog lang ..."
+        },
+        {
+          "title": "Martine van Os: “Geen eenvoudige beslissing”",
+          "source": "Showbizzsite.nl",
+          "url": "https://www.showbizzsite.nl/martine-van-os-geen-eenvoudige-beslissing/",
+          "publishedDate": "Fri, 09 Oct 2026 23:01:00 GMT",
+          "description": "Het zijn spannende tijden voor Martine van Os. Ze is na 15 jaar gestopt met ‘We Zijn Er Bijna!’ en dat was een grote knoop om door te hakken."
+        },
+        {
+          "title": "Martine van Os en Attje Kuiken te gast bij start van 20e seizoen Spraakvermaak in Terheijden",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/drimmelen/martine-van-os-en-attje-kuiken-te-gast-bij-start-van-20e-seizoen-spraakvermaak-in-terheijden~ac3ebc3f2/",
+          "publishedDate": "Mon, 05 Oct 2026 22:34:00 GMT",
+          "description": "In restaurant-zaal De Gouden Leeuw in Terheijden begint zondag alweer het twintigste seizoen van talkshow Spraakvermaak. Gasten zijn onder anderen tv-presentatrice Martine van Os en oud-Kamerlid Attje ..."
+        },
+        {
+          "title": "Martine van Os (68) over stoppen met tv-hit ‘We zijn er bijna!’: ‘Sommige mensen vinden mij een verwende vrouw’",
+          "source": "lc.nl",
+          "url": "https://lc.nl/cultuur/media/martine-van-os-68-over-stoppen-met-tv-hit-we-zijn-er-bijna-sommige-mensen-vinden-mij-een-verwende-vrouw-47342163.html",
+          "publishedDate": "Tue, 23 Sep 2025 08:00:00 GMT",
+          "description": "„Soms is het tijd voor verandering”, verklaart het Omroep Max-gezicht haar beslissing. Ze is sinds het eerste seizoen in 2011 betrokken geweest bij de tv-hit waarop wekelijks 1 miljoen mensen – jong ..."
+        },
+        {
+          "title": "Martine van Os: ‘Ik stop met iets wat ik echt geweldig vond’",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/martine-van-os-ik-stop-met-iets-wat-ik-echt-geweldig-vond~ae45563f/?slug_rd=1",
+          "publishedDate": "Sun, 21 Sep 2025 22:00:00 GMT",
+          "description": "Nee, dit is g&#233;&#233;n gevolg van een verjongingsdrang bij de publieke omroep en achter de schermen ontstond g&#233;&#233;n ruzie met de omroepdirecteur. Dinsdagavond is de laatste aflevering van het huidige seizoen ..."
+        },
+        {
+          "title": "Max-coryfee Martine van Os werkt aan comeback als actrice: ‘Is een proces’",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/show/max-coryfee-martine-van-os-werkt-aan-comeback-als-actrice-is-een-proces~a30d8cc1/",
+          "publishedDate": "Sat, 12 Jul 2025 21:15:00 GMT",
+          "description": "Haar deelname aan het programma Make up your mind drie jaar geleden wakkerde het vuur toch weer aan, vertelt Van Os in de podcast. „Ik mocht weer spelen en zingen en dansen”, zegt ze. Van Os ‘zou het ..."
+        }
+      ]
     },
     {
       "keyword": "a13",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Kop-staartaanrijding tussen auto en taxibusje op A13 Delft",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-delft/kop-staartaanrijding-tussen-auto-en-taxibusje-op-a13-delft~a0caf71b/",
+          "publishedDate": "Sat, 17 Oct 2026 17:00:00 GMT",
+          "description": "Op de A13 richting Den Haag heeft zondagochtend een ernstig ongeval plaatsgevonden tussen een personenauto en een taxibusje. Bij de aanrijding botsten de twee voertuigen achter op elkaar."
+        },
+        {
+          "title": "A13-trajectcontrole die tienduizenden boetes per jaar opleverde gaat binnenkort weer aan",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/rotterdam/a13-trajectcontrole-die-tienduizenden-boetes-per-jaar-opleverde-gaat-binnenkort-weer-aan~a67d7ef2/",
+          "publishedDate": "Sat, 03 Oct 2026 23:31:00 GMT",
+          "description": "Maandenlang stond de trajectcontrole op de A13 bij Rotterdam uit. Maar het systeem is vervangen en gaat - als de tests goed lopen - binnenkort weer aan. Eerder kregen jaarlijks tienduizenden automobil ..."
+        },
+        {
+          "title": "Ernstig ongeluk op A13 bij Delft",
+          "source": "Westlanders.nu",
+          "url": "https://westlanders.nu/nieuws/ernstig-ongeluk-op-a13-bij-delft/",
+          "publishedDate": "Sun, 18 Oct 2026 01:22:00 GMT",
+          "description": "Delft 18.10.2026 – Op de A13 bij Delft heeft zondagochtend 18 oktober een ernstig verkeersongeval plaatsgevonden. Meerdere hulpdiensten werden rond 08.04 ..."
+        },
+        {
+          "title": "Man zwaargewond bij ongeluk op A13",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2269301/man-zwaargewond-bij-ongeluk-op-a13",
+          "publishedDate": "Sun, 18 Oct 2026 00:42:00 GMT",
+          "description": "Bij een ongeluk op de A13 bij Delft is zondagochtend een man zwaargewond geraakt. Een personenauto en een busje botsten op elkaar. De snelweg werd tussen knooppunt Kleinpolderplein en Delft-Zuid tijde ..."
+        },
+        {
+          "title": "Zwaargewonde bij ongeluk, traumahelikopter landt op snelweg",
+          "source": "Omroep West",
+          "url": "https://www.omroepwest.nl/112/5164773/zwaargewonde-bij-ongeluk-traumahelikopter-landt-op-snelweg",
+          "publishedDate": "Sun, 18 Oct 2026 00:26:00 GMT",
+          "description": "Bij een ongeluk op de A13 bij Delft is zondagochtend een man zwaargewond geraakt. Een personenauto en een busje botsten tegen elkaar. Een traumahelikopter landde op de snelweg zodat een traumateam het ..."
+        },
+        {
+          "title": "Automobilist zwaargewond bij ongeluk A13 | Scooterrijder zwaargewond aan hoofd na val",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2269296/automobilist-zwaargewond-bij-ongeluk-a13-scooterrijder-zwaargewond-aan-hoofd-na-val",
+          "publishedDate": "Sat, 17 Oct 2026 23:09:00 GMT",
+          "description": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van zondag 18 oktober."
+        },
+        {
+          "title": "Verdachte op A13 aangehouden na schietincident Rotterdam",
+          "source": "politie.nl",
+          "url": "https://www.politie.nl/nieuws/2026/oktober/7/07-verdachte-op-a13-aangehouden-na-schietincident-rotterdam.html",
+          "publishedDate": "Tue, 06 Oct 2026 17:00:00 GMT",
+          "description": "Dinsdagmiddag 6 oktober werd geschoten op de Nieuwstraat in het centrum van Rotterdam. Niemand raakte gewond. Op de A13 ter hoogte van Delft hielden agenten een 41-jarige verdachte uit Heemskerk aan."
+        },
+        {
+          "title": "A16/A13: weekendafsluitingen voor aansluiten A16 Rotterdam; oktober 2025",
+          "source": "rijkswaterstaat",
+          "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2025/09/a16a13-weekendafsluitingen-voor-aansluiten-a16-rotterdam-oktober-2025",
+          "publishedDate": "Wed, 24 Sep 2025 02:32:00 GMT",
+          "description": "Voor alle hierboven genoemde afsluitingen geldt dat op- en afritten en verbindingswegen tot een uur eerder kunnen worden afgesloten dan de aanvangstijd hierboven vermeld. De werkzaamheden voor de ..."
+        },
+        {
+          "title": "A13 Kleinpolderplein afsluitingen; september en oktober 2024",
+          "source": "rijkswaterstaat",
+          "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2024/09/a13-kleinpolderplein-meerdere-weekenden-en-nachten-dicht-september-en-oktober-2024",
+          "publishedDate": "Wed, 11 Sep 2024 03:24:00 GMT",
+          "description": "Rijkswaterstaat voert in 2 weekenden en 10 nachten groot onderhoud uit op het Kleinpolderplein (A13) aan de verbindingsboog vanuit Den Haag richting Gouda (A20). Deze verbindingsboog is tijdens deze ..."
+        },
+        {
+          "title": "Samsung Galaxy A13 nu te koop vanaf 189 euro",
+          "source": "androidplanet.nl",
+          "url": "https://www.androidplanet.nl/nieuws/samsung-galaxy-a13-kopen-nederland/",
+          "publishedDate": "Fri, 04 Mar 2022 02:40:00 GMT",
+          "description": "De geruchtenmachine over het toestel ronkt al een hele tijd. Android Planet heeft nu de Nederlandse prijzen gespot voor de Samsung Galaxy A13. Je betaalt 189 euro voor de smartphone. Lees verder na de ..."
+        }
+      ]
+    },
+    {
+      "keyword": "ontslag",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Ex-medewerkers OpenAI doen boekje open over hun ontslag en waarschuwen bedrijf",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2634264-ex-medewerkers-openai-doen-boekje-open-over-hun-ontslag-en-waarschuwen-bedrijf",
+          "publishedDate": "Fri, 09 Oct 2026 05:22:00 GMT",
+          "description": "De drie veiligheidsonderzoekers werden vorige week ontslagen. Volgens OpenAI omdat zij zich niet hielden aan de bedrijfsregels."
+        },
+        {
+          "title": "Arne Slot heeft na ontslag bij Liverpool nieuwe klus bij de UEFA te pakken",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/arne-slot-heeft-na-ontslag-bij-liverpool-nieuwe-klus-bij-de-uefa-te-pakken~ae13a1f5/",
+          "publishedDate": "Fri, 09 Oct 2026 01:08:00 GMT",
+          "description": "Vier maanden na zijn ontslag bij Liverpool keert Arne Slot terug in de voetbalwereld. De trainer uit Bergentheim gaat aan de slag als technisch waarnemer voor de UEFA. Dat maakte de Europese voetbalbo ..."
+        },
+        {
+          "title": "Thijs Oosting spreekt zich uit over ontslag Van der Vegt: &quot;Zijn schuldbewust&quot;",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/pec-zwolle-go-ahead-eagles-thijs-oosting-over-ontslag-trainer",
+          "publishedDate": "Sun, 18 Oct 2026 09:58:00 GMT",
+          "description": "Thijs Oosting scoorde twee keer namens PEC Zwolle in de IJsselderby tegen Go Ahead Eagles, die met 4-1 werd gewonnen. De zoon van Joseph Oosting stelt dat het een lastige week is geweest na het ontsla ..."
+        },
+        {
+          "title": "Ontslag op staande voet",
+          "source": "Vismagazine",
+          "url": "https://vismagazine.nl/blogs/ontslag-op-staande-voet",
+          "publishedDate": "Thu, 15 Oct 2026 00:56:00 GMT",
+          "description": "Een boekingsfoutje, een verzekeringsclaim en een gemiste vlucht vormden de aanleiding voor een uitspraak over een ontslag op staande voet."
+        },
+        {
+          "title": "Ontslag van een statutair directeur: juridische risico’s tijdig herkennen bij uw mkb-cli&#235;nt.",
+          "source": "Accountancy Vanmorgen",
+          "url": "https://www.accountancyvanmorgen.nl/2026/10/13/partner-thelegalcompany-ontslag-van-een-statutair-directeur-juridische-risicos-tijdig-herkennen-bij-uw-mkb-client/",
+          "publishedDate": "Tue, 13 Oct 2026 01:34:00 GMT",
+          "description": "Ziekte kan het ontslag aanzienlijk compliceren. Het kan onder omstandigheden mogelijk zijn om een statutair directeur als bestuurder te ontslaan, terwijl de arbeidsovereenkomst blijft bestaan. Als het ..."
+        },
+        {
+          "title": "Handgemeen met klant leidt tot ontslag op staande voet",
+          "source": "HR Praktijk",
+          "url": "https://www.hrpraktijk.nl/juridisch/ontslag/handgemeen-met-klant-leidt-tot-ontslag-op-staande-voet/",
+          "publishedDate": "Mon, 05 Oct 2026 01:00:00 GMT",
+          "description": "Een handgemeen met een klant lijkt een duidelijke reden voor ontslag op staande voet. Toch blijft het ontslag niet overeind. De werkgever handelde volgens de rechter niet voortvarend genoeg."
+        },
+        {
+          "title": "Zieke werknemer doet mee aan fitnesswedstrijd Hyrox: is dat reden voor ontslag? Dit zegt de rechter",
+          "source": "PW.",
+          "url": "https://www.pwnet.nl/59767/zieke-werknemer-doet-mee-aan-fitnesswedstrijd-hyrox-is-dat-reden-voor-ontslag-dit-zegt-de-rechter",
+          "publishedDate": "Mon, 28 Sep 2026 21:00:00 GMT",
+          "description": "Een zieke werknemer zegt snel moe te zijn, maar doet toch mee aan een Hyrox. Zet ze haar werkgever daarmee op het verkeerde been?"
+        },
+        {
+          "title": "Bijna 6 op de 10 werknemers drie maanden na ontslag weer werkzaam",
+          "source": "CBS",
+          "url": "https://www.cbs.nl/nl-nl/nieuws/2024/23/bijna-6-op-de-10-werknemers-drie-maanden-na-ontslag-weer-werkzaam",
+          "publishedDate": "Tue, 04 Jun 2024 23:30:00 GMT",
+          "description": "&#169; CBS Van de 661 duizend werknemers die gemiddeld per kwartaal in 2023 met ontslag gingen, had 59 procent drie maanden later weer werk. Bij werknemers die zelf ..."
+        },
+        {
+          "title": "Onbereikbaar tijdens ziekte: rechtsgeldig ontslag op staande voet?",
+          "source": "HR Praktijk",
+          "url": "https://www.hrpraktijk.nl/juridisch/ontslag/onbereikbaar-tijdens-ziekte-rechtsgeldig-ontslag-op-staande-voet/",
+          "publishedDate": "Fri, 01 Feb 2013 08:31:00 GMT",
+          "description": "Een werknemer meldt zich ziek en is daarna gedurende lange tijd onbereikbaar voor zijn leidinggevende. Hij reageert niet op telefoontjes en brieven, waarop de werkgever op een gegeven moment ..."
+        }
+      ]
+    },
+    {
+      "keyword": "sint-petersburg",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Tien burgerdoden in Oekra&#239;ne, dat zelf grote drone-aanval op Rusland uitvoert",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2635507-tien-burgerdoden-in-oekraine-dat-zelf-grote-drone-aanval-op-rusland-uitvoert",
+          "publishedDate": "Sun, 18 Oct 2026 08:57:00 GMT",
+          "description": "Oekra&#239;ne heeft een van de grootste drone-aanvallen in jaren uitgevoerd op Rusland, dat opnieuw Oekra&#239;ense steden heeft bestookt."
+        },
+        {
+          "title": "Oekra&#239;ne valt doelen in Sint-Petersburg aan, twee olieraffinaderijen in brand",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/10/18/oekraine-valt-doelen-in-sint-petersburg-aan-twee-olieraffinaderijen-in-brand-a4939202",
+          "publishedDate": "Sun, 18 Oct 2026 05:57:00 GMT",
+          "description": "Met tientallen drones heeft Oekra&#239;ne in de nacht van zaterdag op zondag meerdere doelen in Sint-Petersburg aangevallen. De Russische gouverneur van de regio Aleksandr Beglov meldt op Telegram dat bij ..."
+        },
+        {
+          "title": "LIVE Oorlog Oekra&#239;ne | VS geeft Oekra&#239;ne weer inlichtingen na korte ‘blokkade’, Kyiv niet langer onbeschermd",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/live-oorlog-oekraine-vs-geeft-oekraine-weer-inlichtingen-na-korte-blokkade-kyiv-niet-langer-onbeschermd~adfb97be/",
+          "publishedDate": "Sun, 18 Oct 2026 03:51:00 GMT",
+          "description": "Oekra&#239;ne heeft met tientallen drones de Russische stad Sint-Petersburg aangevallen. Volgens de autoriteiten werden in de omgeving drones neergehaald, maar er zijn ook doelen geraakt. Onder meer een ol ..."
+        },
+        {
+          "title": "LIVE Oorlog Oekra&#239;ne | Grote brand in Sint-Petersburg na Oekra&#239;ense droneaanval op olieterminal en datacenter",
+          "source": "ED.nl",
+          "url": "https://www.ed.nl/buitenland/live-oorlog-oekraine-doden-en-gewonden-bij-nachtelijke-russische-raketaanval-op-kyiv~adfb97be/",
+          "publishedDate": "Sat, 17 Oct 2026 23:56:00 GMT",
+          "description": "Rusland en de VS zullen binnenkort nieuwe gezamenlijke initiatieven aankondigen, zegt de Russische gezant Kirill Dmitri&#235;v. Een week geleden werd bekend dat de landen een overeenkomst hadden gesloten o ..."
+        },
+        {
+          "title": "Grote droneaanval treft Sint-Petersburg",
+          "source": "TCE on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/grote-droneaanval-treft-sint-petersburg/ar-AA2eu9CM",
+          "publishedDate": "Sun, 18 Oct 2026 04:11:31 GMT",
+          "description": "Oekra&#239;ense drones hebben zondagnacht verschillende strategische locaties in en rond Sint-Petersburg geraakt. Volgens Russische autoriteiten ontstonden branden bij de Sint-Petersburg Oil Terminal, het ..."
+        },
+        {
+          "title": "Oekra&#239;ne voert droneaanvallen uit op Sint-Petersburg",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Buitenland/oekra%C3%AFne-voert-droneaanvallen-uit-op-sint-petersburg/ar-AA2etrz4",
+          "publishedDate": "Sun, 18 Oct 2026 03:01:11 GMT",
+          "description": "SINT-PETERSBURG (ANP/DPA/AFP) - Oekra&#239;ne heeft met tientallen drones de Russische stad Sint-Petersburg aangevallen. Volgens de autoriteiten werden in de omgeving drones neergehaald, maar zijn er ook d ..."
+        },
+        {
+          "title": "Advocaat terug in Sint-Petersburg: Zenit zet 'legende' in het zonnetje",
+          "source": "Vi",
+          "url": "https://www.vi.nl/nieuws/advocaat-terug-in-sint-petersburg-zenit-zet-legende-in-het-zonnetje",
+          "publishedDate": "Wed, 20 Oct 2021 06:36:00 GMT",
+          "description": "Dick Advocaat is voor even terug in Sint-Petersburg. De bondscoach van Irak wordt woensdagavond, rondom de Champions League-wedstrijd tegen Juventus, in het zonnetje gezet door zijn ex-werkgever Zenit ..."
+        },
+        {
+          "title": "Geen Belgen gewond in Sint-Petersburg",
+          "source": "Nieuwsblad",
+          "url": "https://www.nieuwsblad.be/buitenland/geen-belgen-gewond-in-sint-petersburg/58785918.html",
+          "publishedDate": "Mon, 03 Apr 2017 10:58:00 GMT",
+          "description": "Het ministerie van Buitenlandse Zaken heeft contact gelegd met 33 Belgen van wie gelkend is dat zij zich in Sint-Petersburg bevinden. Niemand is gewond, iedereen stelt het goed, liet de woordvoerder ..."
+        },
+        {
+          "title": "'Aanslag Sint Petersburg gepleegd door zelfmoordterrorist'",
+          "source": "AD",
+          "url": "https://www.ad.nl/buitenland/aanslag-sint-petersburg-gepleegd-door-zelfmoordterrorist~aeefe820/",
+          "publishedDate": "Mon, 03 Apr 2017 08:04:00 GMT",
+          "description": "In de metro van de Russische stad Sint-Petersburg is vandaag een explosie geweest. Er zijn elf doden en zeker 47 gewonden gevallen. De aanslag is gepleegd met een fragmentatiebom en is volgens het ..."
+        },
+        {
+          "title": "De grote verzoening in Sint-Petersburg",
+          "source": "Standaard",
+          "url": "https://www.standaard.be/buitenland/de-grote-verzoening-in-sint-petersburg/41961705.html",
+          "publishedDate": "Mon, 08 Aug 2016 20:00:00 GMT",
+          "description": "Recep Tayyip Erdogan voelt zich gegriefd: geen enkele westerse regeringsleider is naar Ankara gekomen om Turkije steun toe te zeggen na de mislukte staatsgreep van 15 juli. Integendeel, de Europeanen ..."
+        }
+      ]
+    },
+    {
+      "keyword": "estelle cruijff",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Estelle Cruijff: ‘Ik ben opgestaan uit de dood. Ik heb me gereinigd van mijn verleden’",
+          "source": "Volkskrant",
+          "url": "https://www.volkskrant.nl/volkskrant-magazine/estelle-cruijff-ik-ben-opgestaan-uit-de-dood-ik-heb-me-gereinigd-van-mijn-verleden~ba8b5d67/",
+          "publishedDate": "Fri, 06 Feb 2026 21:00:00 GMT",
+          "description": "Zie daar Estelle Cruijff (47), nippend van haar glas champagne, in het gedimde licht van Jondani, waar ‘Parisian charm meets the lively vibe van Amsterdam’ – Amsterdam Oud-Zuid. Met de bovenkant van ..."
+        },
+        {
+          "title": "Wie pikt, als Estelle Cruijff en haar gevolg de nachtclub of het resort hebben verlaten, de rekening op?",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/kunst-media/wie-pikt-als-estelle-cruijff-en-haar-gevolg-de-nachtclub-of-het-resort-hebben-verlaten-de-rekening-op~bfdf693d/",
+          "publishedDate": "Fri, 25 Oct 2024 08:01:00 GMT",
+          "description": "Om kunst te kunnen waarderen, moet je soms moeite doen. Ware schoonheid openbaart zich zelden direct, esthetiek speelt vaker verstoppertje. Bovendien kent de kunstwereld strenge poortwachters die ..."
+        },
+        {
+          "title": "Estelle Cruijff staat na liefdesdrama’s weer open voor relatie",
+          "source": "Story",
+          "url": "https://www.story.nl/showbizz/estelle-cruijff-staat-open-voor-relatie~8cae8cf8",
+          "publishedDate": "Sun, 18 Oct 2026 05:00:00 GMT",
+          "description": "Estelle Cruijff keert terug naar haar trouwlocatie met Ruud Gullit. Aan Story vertelt ze over de herinneringen en haar verlangen naar een nieuwe liefde."
+        },
+        {
+          "title": "Estelle Cruijff (48) leerde harde les na droevig verlies: 'Ik moet vaker zeggen dat ik van iemand hou'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/estelle-cruijff-48-leerde-harde-les-na-droevig-verlies-ik-moet-vaker-zeggen-dat-ik-van-iemand-hou-2026101805041133919/",
+          "publishedDate": "Sun, 18 Oct 2026 00:16:00 GMT",
+          "description": "Estelle Cruijff geniet extra van haar familie nu ze haar vader Henny mist. Het nichtje van voetbalicoon Johan Cruijff sprak jarenlang niet met haar vader, totdat ze vlak voor zijn dood drie jaar ..."
+        },
+        {
+          "title": "Estelle Cruijff verloor haar vader na jaren zonder contact: ‘We hebben zoveel jaar gemist’",
+          "source": "Story",
+          "url": "https://www.story.nl/showbizz/estelle-cruijff-vader-jaren-geen-contact~7399e0a",
+          "publishedDate": "Fri, 16 Oct 2026 03:04:00 GMT",
+          "description": "Estelle Cruijff mist haar vader Henny en betreurt de jaren zonder contact. Na hun verzoening en zijn overlijden koestert ze de tijd met haar familie des te meer."
+        },
+        {
+          "title": "Estelle Cruijff weet wat Olcay Gulsen doormaakt na gewelddadige overval: 'Het verdwijnt nooit helemaal'",
+          "source": "RTL Boulevard (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/estelle-cruijff-weet-wat-olcay-gulsen-doormaakt-na-gewelddadige-overval-het-verdwijnt-nooit-helemaal/ar-AA2dKPeh",
+          "publishedDate": "Tue, 06 Oct 2026 21:34:28 GMT",
+          "description": "Olcay Gulsen (46) werd onlangs slachtoffer van een gewelddadige roofoverval. Estelle Cruijff (48) overkwam in 2018 iets vergelijkbaars: ook zij werd vlak bij haar huis overvallen en mishandeld. Bijna ..."
+        },
+        {
+          "title": "Zien: de vakantiefoto's van Estelle Cruijff bewijzen dat leeftijd slechts een getal is",
+          "source": "MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/zien-de-vakantiefoto-s-van-estelle-cruijff-bewijzen-dat-leeftijd-slechts-een-getal-is/ar-AA1HOvlz",
+          "publishedDate": "Mon, 28 Sep 2026 04:03:00 GMT",
+          "description": "Als je een beetje bekend bent met de Nederlandse televisie, dan zal de naam Estelle Cruijff je niet onbekend in de oren klinken. Hoewel de actrice, presentatrice en modeontwerpster alweer ruimschoots ..."
+        },
+        {
+          "title": "Radiodebuut voor Estelle Cruijff: samen met Johnny de Mol nieuwe show op Radio Noordzee",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/show/radiodebuut-voor-estelle-cruijff-samen-met-johnny-de-mol-nieuwe-show-op-radio-noordzee~ac3af4ac5/",
+          "publishedDate": "Tue, 31 Mar 2026 21:51:00 GMT",
+          "description": "Radio Noordzee komt vanaf mei met een nieuwe vrijdagmiddagshow: Cruijff &amp; De Mol. Daarin zijn Estelle Cruijff en Johnny de Mol elke vrijdag van 13.00 tot 16.00 uur te horen met een programma dat ..."
+        },
+        {
+          "title": "Estelle Cruijff wint Het Perfecte Plaatje",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/show/estelle-cruijff-wint-het-perfecte-plaatje~ad373d1b/",
+          "publishedDate": "Tue, 12 Dec 2017 13:32:00 GMT",
+          "description": "Estelle ontpopte zich in acht afleveringen - waarin onder meer motorcrossers, puppy's en een bruidspaar werden gefotografeerd - tot een amateurfotografe die de jury keer op keer met haar foto's wist ..."
+        },
+        {
+          "title": "Marokkaanse media: Estelle Cruijff is bekeerd tot islam",
+          "source": "bd.nl",
+          "url": "https://www.bd.nl/show/marokkaanse-media-estelle-cruijff-is-bekeerd-tot-islam~afc5df5b/",
+          "publishedDate": "Thu, 12 Jan 2017 01:33:00 GMT",
+          "description": "Estelle Cruijff (37) zou zich vrijdag in een moskee in de Marokkaanse stad Kenitra hebben bekeerd tot de islam. Dat zou de blondine hebben gedaan in het gebedshuis waar op dat moment het zogenoemde ..."
+        }
+      ]
+    },
+    {
+      "keyword": "russen",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Meer Russen vluchten naar Armeni&#235;: 'Ieder loopt gevaar zomaar te worden opgepakt'",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2634992-meer-russen-vluchten-naar-armenie-ieder-loopt-gevaar-zomaar-te-worden-opgepakt",
+          "publishedDate": "Wed, 14 Oct 2026 11:49:00 GMT",
+          "description": "De onrust groeit door de aanhoudende vervolging van andersdenkenden in Rusland en de vrees voor een nieuwe mobilisatiegolf."
+        },
+        {
+          "title": "Tegenhouden, verzwakken en uitschakelen: dit staat onze militairen te wachten als Russen binnenvallen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/tegenhouden-verzwakken-en-uitschakelen-dit-staat-onze-militairen-te-wachten-als-russen-binnenvallen~ade14f4f/",
+          "publishedDate": "Mon, 12 Oct 2026 18:10:00 GMT",
+          "description": "De hoogste militaire baas van de Navo had afgelopen maandag een duidelijke boodschap aan Rusland: waag het niet om een Navo-land binnen te vallen, want jullie gaan niet ver komen. Hij gebruikte nieuwe ..."
+        },
+        {
+          "title": "Oekra&#239;ne raakt techgigant Yandex: dit merken de Russen ervan",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/331196/video/oekraine-raakt-techgigant-yandex-dit-merken-de-russen-ervan.html",
+          "publishedDate": "Mon, 12 Oct 2026 10:41:00 GMT",
+          "description": "Het Russische techbedrijf Yandex is een grote speler in Rusland. Oekra&#239;ne heeft de laatste dagen datacenters van Yandex aangevallen en dat heeft gevolgen voor de Russen."
+        },
+        {
+          "title": "‘We vrezen de Russen, maar klimaatverandering is Nederland al lang binnengedrongen’, zeggen vijftig onderzoekers",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/10/06/we-vrezen-de-russen-maar-klimaatverandering-is-nederland-al-lang-binnengedrongen-zeggen-vijftig-onderzoekers-in-een-nieuw-rapport-a4938254",
+          "publishedDate": "Tue, 06 Oct 2026 02:30:00 GMT",
+          "description": "Milieu: Deze dinsdag verscheen een rapport waaraan zo’n vijftig wetenschappers meewerkten. Voor het eerst werden de maatregelen ‘doorgerekend’ die Nederland „op de lange termijn leefbaar” moeten houde ..."
+        },
+        {
+          "title": "Russen vrezen nieuwe mobilisatie en vluchten uit voorzorg naar Armeni&#235;",
+          "source": "NOS",
+          "url": "https://nos.nl/nieuwsuur/artikel/2631530-russen-vrezen-nieuwe-mobilisatie-en-vluchten-uit-voorzorg-naar-armenie",
+          "publishedDate": "Fri, 18 Sep 2026 09:11:00 GMT",
+          "description": "De mogelijkheid dat Poetin na de verkiezingen een nieuwe mobilisatie zal afkondigen, wachten veel Russen liever niet af. Veel mannen in de gevechtsleeftijd vertrekken naar Armeni&#235;."
+        },
+        {
+          "title": "Russen lappen Trumps energiebestand aan hun laars",
+          "source": "Het Financieele Dagblad",
+          "url": "https://fd.nl/politiek/1615487/russen-lappen-trumps-energiebestand-aan-hun-laars",
+          "publishedDate": "Mon, 12 Oct 2026 11:57:00 GMT",
+          "description": "Van een door president Trump uitgeroepen staakt-het-vuren is in Oekra&#239;ne weinig te merken. De Russische luchtaanvallen gaan gewoon door."
+        },
+        {
+          "title": "'Nederland staat open voor visarestricties tegen Russen'",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/politiek/beleid/artikelen/nederland-staat-open-voor-visarestricties-tegen-russen",
+          "publishedDate": "Mon, 12 Oct 2026 02:56:00 GMT",
+          "description": "Nederland overweegt visarestricties tegen Russen, zegt minister Berendsen. De EU bespreekt beperkingen voor diplomaten en burgers na recente veiligheidsincidenten."
+        },
+        {
+          "title": "In het hoofd van de gewone Rus. Wij vroegen aan kenners wat Russen &#233;cht denken van de oorlog: “Mijn collega’s zijn ongerust”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/in-het-hoofd-van-de-gewone-rus-wij-vroegen-aan-kenners-wat-russen-echt-denken-van-de-oorlog-mijn-collegas-zijn-ongerust~a56ac6c6/",
+          "publishedDate": "Thu, 08 Oct 2026 20:13:00 GMT",
+          "description": "Ruim vier jaar vecht Rusland een oorlog die volgens het Kremlin het hele volk steunt. Maar wat denkt de Rus die aanschuift aan de pomp, zijn spaargeld afhaalt en zijn buurman naar het front ziet vertr ..."
+        },
+        {
+          "title": "Russen verliezen duizend man per dag, zomeroffensief loopt vast",
+          "source": "BNR",
+          "url": "https://www.bnr.nl/nieuws/internationaal/10552739/russen-verliezen-duizend-man-per-dag-zomeroffensief-loopt-vast",
+          "publishedDate": "Wed, 17 Jul 2024 02:31:00 GMT",
+          "description": "Het Russisch zomeroffensief lijkt vast te lopen. Rusland verliest dagelijks zo'n duizend militairen, de Oekra&#239;ners zijn steeds succesvoller in het stoppen van de Russische aanvallen dankzij de ..."
+        },
+        {
+          "title": "Russen trekken 'niemandsland' bij Charkiv binnen en dat baart analisten zorgen: &quot;Dit gaat wel h&#233;&#233;l vlot&quot;",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2024/05/13/russen-trekken-niemandsland-bij-charkiv-binnen-in-en-dat-baart/",
+          "publishedDate": "Sun, 12 May 2024 22:46:00 GMT",
+          "description": "Joanie de Rijke was tot gisteren in Charkiv, de eerste grote Oekra&#239;ense stad, die zo'n 70 kilometer verderop ligt. &quot;Het is een beetje een raar, tegenstrijdig verhaal&quot;, zegt ze in De Ochtend op Radio 1 ..."
+        }
+      ]
     }
   ]
 }
