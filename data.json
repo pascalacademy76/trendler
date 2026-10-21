@@ -1,327 +1,106 @@
 {
-  "fetchedAt": "2026-10-21T12:08:51.991Z",
+  "fetchedAt": "2026-10-21T17:29:07.785Z",
   "trends": [
     {
-      "keyword": "fc porto",
-      "trafficLabel": "100K+",
-      "articles": [
-        {
-          "title": "Van migraine naar matchwinner voor PSV in Porto: hoe goudhaantje Guus Til in een paar dagen herstelde",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/van-migraine-naar-matchwinner-voor-psv-in-porto-hoe-goudhaantje-guus-til-in-een-paar-dagen-herstelde~a8c19f04/",
-          "publishedDate": "Tue, 20 Oct 2026 22:30:00 GMT",
-          "description": "PSV behaalde dinsdagavond een even belangrijke als knappe zege op FC Porto. Matchwinnaar werd Guus Til, die zaterdag nog zo onfortuinlijk uitviel tegen ADO Den Haag. Hij maakte toen een nare val, maar ..."
-        },
-        {
-          "title": "PSV knokt zich naar belangrijke zege bij FC Porto in Champions League",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6413840/psv-knokt-zich-naar-belangrijke-zege-bij-fc-porto-in-champions-league.html",
-          "publishedDate": "Tue, 20 Oct 2026 15:52:00 GMT",
-          "description": "PSV heeft dinsdag een belangrijke zege geboekt bij FC Porto in de Champions League. De Eindhovenaren wonnen dankzij een doelpunt van Guus Til met 0-1 bij de Portugese landskampioen."
-        },
-        {
-          "title": "PSV knokt zich naar knappe zege op Farioli's Porto in Champions League",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2636017-psv-knokt-zich-naar-knappe-zege-op-farioli-s-porto-in-champions-league",
-          "publishedDate": "Tue, 20 Oct 2026 13:52:00 GMT",
-          "description": "PSV heeft dinsdagavond in de Champions League een knappe zege geboekt op bezoek bij FC Porto. Guus Til besliste de wedstrijd voor de Eindhovense club met een intikker: 0-1."
-        },
-        {
-          "title": "PSV wint in Porto (0-1) • Paris Saint-Germain in spektakelstuk langs Barcelona",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2635978-psv-wint-in-porto-0-1-paris-saint-germain-in-spektakelstuk-langs-barcelona",
-          "publishedDate": "Tue, 20 Oct 2026 13:01:00 GMT",
-          "description": "In dit liveblog volgen we de eerste negen wedstrijden in speelronde drie van de Champions League, met onder meer FC Porto - PSV."
-        },
-        {
-          "title": "PSV boekt zwaarbevochten eerste zege in Champions League: Guus Til maakt het verschil tegen FC Porto van Francesco Farioli",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/psv-boekt-zwaarbevochten-eerste-zege-in-champions-league-guus-til-maakt-het-verschil-tegen-fc-porto-van-francesco-farioli~af7a7edc/",
-          "publishedDate": "Tue, 20 Oct 2026 08:45:00 GMT",
-          "description": "PSV heeft de eerste drie punten te pakken in de Champions League. De Portugese nummer &#233;&#233;n FC Porto werd in het Estadio do Drag&#227;o verslagen. In een wedstrijd waarin PSV al voor rust de betere kansen ha ..."
-        },
-        {
-          "title": "Ochtendkranten zijn lyrisch over 'superieur' PSV na zege bij FC Porto",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/psv-peter-bosz-ochtendkranten-zege-fc-porto",
-          "publishedDate": "Wed, 21 Oct 2026 02:33:00 GMT",
-          "description": "Van 'superieur' tot 'een heerlijk avondje in Porto': dit schrijven de Nederlandse ochtendkranten na de 0-1 zege van PSV op FC Porto."
-        },
-        {
-          "title": "Portugese media spreken van 'Peter Bosz-vloek' bij FC Porto na nederlaag tegen 'brutaal en overtuigend' PSV",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/portugese-media-spreken-van-peter-bosz-vloek-bij-fc-porto-na-nederlaag-tegen-brutaal-en-overtuigend-psv-2026102021361353196/",
-          "publishedDate": "Tue, 20 Oct 2026 17:06:00 GMT",
-          "description": "PSV boekte dinsdagavond een enorm knappe zege op bezoek bij FC Porto. In Portugal was een doelpunt van Guus Til genoeg voor de zege. Portugese media zien het helse karwei van Francesco Farioli met Por ..."
-        },
-        {
-          "title": "Kijkers van FC Porto - PSV zeggen allemaal hetzelfde over Francesco Farioli",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/kijkers-van-fc-porto-psv-zeggen-allemaal-hetzelfde-over-francesco-farioli",
-          "publishedDate": "Tue, 20 Oct 2026 14:55:00 GMT",
-          "description": "Francesco Farioli krijgt tijdens PSV–FC Porto in de Champions League forse kritiek op sociale media. Kijkers hekelen de defensieve speelwijze van de voormalig Ajax-trainer en spreken van ‘vreselijk vo ..."
-        },
-        {
-          "title": "Til schiet PSV in Champions League langs FC Porto van Farioli",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-2100-uur-fc-porto-psv-0-0/ar-AA2fCZCi",
-          "publishedDate": "Tue, 20 Oct 2026 13:25:00 GMT",
-          "description": "Dit is het livetopic voor de Champions League-wedstrijden van dinsdagavond. PSV neemt het om 21.00 uur in Portugal op tegen FC Porto, dat onder leiding staat van voormalig Ajax-trainer Francesco Fario ..."
-        },
-        {
-          "title": "Dit is de scheidsrechter bij FC Porto - PSV: Duitse arbiter in opspraak na 'schandalig besluit' in Champions League",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/dit-is-de-scheidsrechter-bij-fc-porto-psv-duitse-arbiter-in-opspraak-na-schandalig-besluit-in-champions-league-2026101909372521495/",
-          "publishedDate": "Tue, 20 Oct 2026 10:06:00 GMT",
-          "description": "PSV treft dinsdagavond FC Porto in de competitiefase van de Champions League. De UEFA heeft Daniel Siebert aangesteld als scheidsrechter voor de belangrijke kraker voor de Eindhovenaren. PSV heeft mee ..."
-        }
-      ]
-    },
-    {
       "keyword": "php",
-      "trafficLabel": "50K+",
+      "trafficLabel": "200K+",
       "articles": [
         {
-          "title": "Steeds meer websites, waaronder DigiD en MijnOverheid.nl, offline gehaald vanwege lekken in programmeertaal PHP",
+          "title": "De problemen rond programmeertaal PHP worden het ernstigste cyberlek in jaren genoemd. Wat is er aan de hand?",
           "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/10/21/php-lek-a4939463",
-          "publishedDate": "Wed, 21 Oct 2026 04:31:00 GMT",
-          "description": "In programmeertaal PHP zijn „kritieke kwetsbaarheden” ontdekt. Dit heeft potentieel grote gevolgen: wereldwijd draait ongeveer 70 procent van de websites op PHP of toepassingen daarvan. Volg het ..."
+          "url": "https://www.nrc.nl/nieuws/2026/10/21/de-problemen-rond-programmeertaal-php-worden-het-ernstigste-cyberlek-in-jaren-genoemd-wat-is-er-aan-de-hand-a4939485",
+          "publishedDate": "Wed, 21 Oct 2026 09:53:00 GMT",
+          "description": "Cybersecurity: Cyberveiligheidsexperts maken zich grote zorgen om de veiligheidslekken in programmeertaal PHP. „De enige die hier echt gelukkig van wordt heet Poetin.” ..."
         },
         {
-          "title": "Websites kwetsbaar voor softwarelek • RTL Nieuws, DigiD en MijnOverheid uit de lucht",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2636066-websites-kwetsbaar-voor-softwarelek-rtl-nieuws-digid-en-mijnoverheid-uit-de-lucht",
-          "publishedDate": "Wed, 21 Oct 2026 04:01:00 GMT",
-          "description": "De app en website van RTL zijn iets na 13.00 uur offline gegaan. Het bedrijf kondigde al aan ze uit de lucht te halen vanwege het PHP-lek. &quot;RTL.nl is tijdelijk niet bereikbaar, omdat we een dringende ..."
+          "title": "Wat weten we nu over de PHP-kwetsbaarheden waardoor veel sites offline zijn gegaan?",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/tweakers/6413928/wat-weten-we-nu-over-de-php-kwetsbaarheden-waardoor-veel-sites-offline-zijn-gegaan.html",
+          "publishedDate": "Wed, 21 Oct 2026 09:33:00 GMT",
+          "description": "Door twee ernstige kwetsbaarheden in programmeertaal PHP kunnen aanvallers op afstand websites aanpassen en mogelijk eigen code uitvoeren op servers. Hierdoor zijn veel sites uit voorzorg offline gega ..."
         },
         {
-          "title": "Websites van overheid en in onderwijs offline vanwege lek, risico op hacks",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2636055-websites-van-overheid-en-in-onderwijs-offline-vanwege-lek-risico-op-hacks",
-          "publishedDate": "Wed, 21 Oct 2026 02:10:00 GMT",
-          "description": "Veel websites zijn opeens veel kwetsbaarder voor hackaanvallen, door een lek in de veelgebruikte programmeertaal PHP."
-        },
-        {
-          "title": "LIVE Beveiligingslek PHP | MijnDomein haalt honderdduizenden websites z&#233;lf offline, Schiphol-app niet beschikbaar",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/tech/live-beveiligingslek-php-mijndomein-haalt-honderdduizenden-websites-zelf-offline-schiphol-app-niet-beschikbaar~a283e49f/",
-          "publishedDate": "Tue, 20 Oct 2026 22:03:00 GMT",
-          "description": "Meerdere grote cruciale websites zijn woensdag offline gehaald na waarschuwingen over kwetsbaarheden in de veelgebruikte programmeertaal PHP. Onder meer de sites van DigiD, MijnOverheid, meerdere ziek ..."
-        },
-        {
-          "title": "De kurk waarop het internet drijft, is kapot: waarom de aanval op PHP het halve internet lamlegt",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/nieuws/de-kurk-waarop-het-internet-drijft-is-kapot-waarom-de-aanval-op-php-het-halve-internet-lamlegt~a5eda0b6/",
-          "publishedDate": "Tue, 20 Oct 2026 19:00:00 GMT",
-          "description": "De ene na de andere website gaat uit de lucht, vanwege kwetsbaarheden in programmeertaal PHP. Criminelen zouden al begonnen zijn met hun eerste cyberaanvallen. Het is een ramp, want 70 procent van het ..."
-        },
-        {
-          "title": "Waarom de aanval op PHP het halve internet lamlegt: ‘Dit is heel groot’",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/nederland/kwetsbaarheid-php-legt-halve-internet-lam-dit-is-heel-groot~b5eda0b6/",
-          "publishedDate": "Tue, 20 Oct 2026 16:51:00 GMT",
-          "description": "De ene na de andere website gaat uit de lucht vanwege kwetsbaarheden in de programmeertaal PHP. Criminelen zouden al begonnen zijn met hun eerste cyberaanvallen. Het is een ramp, want 70 procent van h ..."
+          "title": "Cybersecuritycenter heeft nog geen ‘actief misbruik’ van PHP-kwetsbaarheden gezien, maar waarschuwt dat ‘ieder systeem dat PHP bevat vermoedelijk kwetsbaar is’",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/10/21/cybersecuritycenter-heeft-nog-geen-actief-misbruik-van-php-kwetsbaarheden-gezien-maar-waarschuwt-dat-ieder-systeem-dat-php-bevat-vermoedelijk-kwetsbaar-is-a4939459",
+          "publishedDate": "Wed, 21 Oct 2026 06:45:00 GMT",
+          "description": "Het Nationaal Cyber Security Centrum (NCSC) heeft nog geen „actief misbruik” gezien van de kwetsbaarheden in programmeertaal PHP. Dat meldt het NCSC woensdag in een verklaring op LinkedIn. De website ..."
         },
         {
           "title": "Door lek in internetcode PHP gaan websites uit voorzorg offline: ‘Criminelen hebben deze kwetsbaarheid mogelijk al jaren misbruikt’",
           "source": "De Volkskrant",
           "url": "https://www.volkskrant.nl/binnenland/door-lek-in-internetcode-php-gaan-websites-uit-voorzorg-offline-criminelen-hebben-deze-kwetsbaarheid-mogelijk-al-jaren-misbruikt~b36fb808/",
-          "publishedDate": "Tue, 20 Oct 2026 16:35:00 GMT",
+          "publishedDate": "Wed, 21 Oct 2026 06:35:00 GMT",
           "description": "Verschillende websites, waaronder die van de Tweede Kamer, zijn uit voorzorg offline gegaan vanwege kwetsbaarheden in de codetaal PHP. Daarop draaien grote delen van het internet. De PHP Foundation ze ..."
         },
         {
-          "title": "Live | Van RIVM tot ANWB: steeds meer websites offline vanwege kwetsbaar PHP",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/tech/6413897/live-ook-mijnoverheid-offline-door-kwetsbaar-php-wachten-op-cruciale-update.html",
-          "publishedDate": "Tue, 20 Oct 2026 16:26:00 GMT",
-          "description": "Hallo en welkom in dit liveblog. Hier houden we je op de hoogte van de laatste ontwikkelingen rond de kwetsbaarheden in PHP. Heb je een vraag of tips? Mail die naar redactie@nu.nl."
+          "title": "Live cyberlek PHP: Van Weel: websites offline halen heeft impact op samenleving",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/duurzaamheid-economie/live-cyberlek-php-van-weel-websites-offline-halen-heeft-impact-op-samenleving~b875193c/",
+          "publishedDate": "Wed, 21 Oct 2026 04:26:00 GMT",
+          "description": "Volg hier al het nieuws over het probleem met de programmeertaal PHP waardoor veel websites uit voorzorg offline zijn gehaald."
         },
         {
-          "title": "Wereldwijde cyberaanvallen na lekken in populaire programmeertaal PHP, DPG Media en Nederlandse overheid halen aantal websites tijdelijk offline",
-          "source": "VRT on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/wereldwijde-cyberaanvallen-na-lekken-in-populaire-programmeertaal-php-dpg-media-en-nederlandse-overheid-halen-aantal-websites-tijdelijk-offline/ar-AA2fJJQ6",
-          "publishedDate": "Wed, 21 Oct 2026 04:22:29 GMT",
-          "description": "De Amerikaanse cyberbeveiliger Cloudflare ziet dat bedrijven geconfronteerd worden met cyberaanvallen die gericht zijn op de programmeertaal PHP. Het Centrum voor Cybersecurity Belgi&#235; (CCB) ziet nog g ..."
-        },
-        {
-          "title": "Meerdere websites offline na meldingen over kwetsbaarheden in PHP",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/lifestyle/tech/2026/10/grote-websites-offline-php-kwetsbaarheden-br/",
-          "publishedDate": "Wed, 21 Oct 2026 03:17:00 GMT",
-          "description": "Meerdere Nederlandse websites zijn tijdelijk offline gehaald na waarschuwingen over kwetsbaarheden in de veelgebruikte programmeertaal PHP."
-        }
-      ]
-    },
-    {
-      "keyword": "psg - barcelona",
-      "trafficLabel": "50K+",
-      "articles": [
-        {
-          "title": "Barcelona werd eenvoudigweg van de mat gespeeld",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/sport/barcelona-werd-eenvoudigweg-van-de-mat-gespeeld~bd3ead6a/",
-          "publishedDate": "Wed, 21 Oct 2026 03:09:00 GMT",
-          "description": "Toen ik Jamie Carragher hoorde zeggen dat hij voor het eerst van zijn leven een wedstrijd van Liverpool liet schieten, voor PSG-Barcelona, voelde ik me niet meer schuldig voor het links laten liggen v ..."
-        },
-        {
-          "title": "FC Barcelona lijdt tegen wervelend PSG eerste nederlaag van het seizoen: ‘Ze lieten zien dat ze beter waren’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/fc-barcelona-lijdt-tegen-wervelend-psg-eerste-nederlaag-van-het-seizoen-ze-lieten-zien-dat-ze-beter-waren~a41679d4/",
-          "publishedDate": "Tue, 20 Oct 2026 17:00:00 GMT",
-          "description": "Paris Saint-Germain heeft als eerste ploeg dit seizoen Barcelona verslagen. De titelverdedigers in de Champions League waren met 4-2 te sterk voor de Catalanen. Al had de schade veel groter kunnen zij ..."
-        },
-        {
-          "title": "PSG klopt FC Barcelona in spektakelstuk, Liverpool wint ondanks fout Van Dijk",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6413843/psg-klopt-fc-barcelona-in-spektakelstuk-liverpool-wint-ondanks-fout-van-dijk.html",
-          "publishedDate": "Tue, 20 Oct 2026 15:57:00 GMT",
-          "description": "Paris Saint-Germain heeft dinsdag de Champions League-kraker tegen FC Barcelona gewonnen. De titelverdediger won in Parijs het spektakelstuk met 4-2. Liverpool won ondanks een fout van Virgil van Dijk ..."
-        },
-        {
-          "title": "Paris Saint-Germain brengt Barcelona eerste nederlaag toe bij voetbalfeest in Parijs",
+          "title": "Wereldwijd oproepen om beveiligingsupdate te installeren • Van Weel: geen signalen van misbruik",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2636018-paris-saint-germain-brengt-barcelona-eerste-nederlaag-toe-bij-voetbalfeest-in-parijs",
-          "publishedDate": "Tue, 20 Oct 2026 14:02:00 GMT",
-          "description": "Paris Saint-Germain wint in een spektakelstuk van FC Barcelona, maar ziet Ousmane Demb&#233;l&#233;, Marquinhos &#233;n Chvitsja Kvaratschelia geblesseerd uitvallen."
+          "url": "https://nos.nl/liveblog/2636066-wereldwijd-oproepen-om-beveiligingsupdate-te-installeren-van-weel-geen-signalen-van-misbruik",
+          "publishedDate": "Wed, 21 Oct 2026 04:01:00 GMT",
+          "description": "Het kabinet heeft voor het eerst gereageerd op het grote beveiligingslek van programmeertaal PHP. Minister Van Weel van Justitie en Veiligheid zegt dat het feit dat veel websites vanwege twee grote ..."
         },
         {
-          "title": "Drama bij PSG na stunt tegen Barcelona",
-          "source": "Voetbalkrant.com",
-          "url": "https://www.voetbalkrant.com/nieuws/2026-10-21/drama-bij-psg-na-stunt-tegen-barcelona",
-          "publishedDate": "Wed, 21 Oct 2026 03:59:00 GMT",
-          "description": "Paris Saint-Germain heeft woensdag bijzonder slecht nieuws bekendgemaakt. Khvicha Kvaratskhelia heeft tijdens de Champions League-wedstrijd tegen FC Barcelona zijn voorste kruisband gescheurd. De Geor ..."
-        },
-        {
-          "title": "Zorgen om PSG-ster Kvaratskhelia: gevreesd voor maandenlange absentie",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/zorgen-om-psg-ster-kvaratskhelia-gevreesd-voor-maandenlange-absentie",
-          "publishedDate": "Wed, 21 Oct 2026 03:00:00 GMT",
-          "description": "PSG vreest een zware blessure voor Khvicha Kvaratskhelia na zijn uitvallen tegen Barcelona. Een MRI-scan moet duidelijkheid geven over de ernst."
-        },
-        {
-          "title": "&quot;Zolang de honger er is, zijn ze onklopbaar&quot;: blik op de verhoudingen in Europa na de kraker tussen PSG en Barcelona",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/2026/10/21/-zolang-de-honger-er-is-zijn-ze-onklopbaar-blik-op-de-verhoudingen-in-europa-na-de-kraker-tussen-psg-en-barcelona~1792534651341/",
-          "publishedDate": "Wed, 21 Oct 2026 00:38:00 GMT",
-          "description": "De topaffiche met Paris Saint-Germain en Barcelona in de hoofdrollen heeft niet teleurgesteld. De titelverdediger van het kampioenenbal toonde zich opnieuw de sterkste van Europa. Wat betekent de - op ..."
-        },
-        {
-          "title": "PSG - Barcelona krijgt staartje: klacht bij UEFA wegens aanstootgevend spandoek",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/psg-barcelona-krijgt-staartje-klacht-bij-uefa-wegens-aanstootgevend-spandoek/ar-AA2fIBwy",
-          "publishedDate": "Wed, 21 Oct 2026 00:07:00 GMT",
-          "description": "De wedstrijd tussen Paris Saint-Germain en Barcelona krijgt een staartje. Vanwege bepaalde spandoeken op de Parijse tribunes heeft de Spaanse club een klacht ingediend bij de UEFA."
-        },
-        {
-          "title": "Wansmakelijke tifo van PSG-fans zorgt voor veel commotie: Barcelona dient klacht in tegen “bloedbad &#224; la Parisienne”",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/champions-league/wansmakelijke-tifo-van-psg-fans-zorgt-voor-veel-commotie-barcelona-dient-klacht-in-tegen-bloedbad-a-la-parisienne~afd39356/",
-          "publishedDate": "Tue, 20 Oct 2026 17:56:00 GMT",
-          "description": "‘Massacre &#224; la Parisienne’. De bloederige Halloweentifo van de PSG-fans &lt;a href=&quot;https://www.hln.be/champions-league/ondanks-een-flits-van-lamine-yamal-psg-zet-statement-neer-en-maakt-einde-aan-perfec ..."
-        },
-        {
-          "title": "UCL: PSG wint spectaculaire kraker tegen Barcelona",
-          "source": "goldenpalacenews",
-          "url": "https://www.goldenpalacenews.be/nl/2026/10/21/ucl-psg-wint-spectaculaire-kraker-tegen-barcelona/",
-          "publishedDate": "Tue, 20 Oct 2026 17:00:00 GMT",
-          "description": "Paris Saint-Germain heeft dinsdag de kraker van de derde speeldag in de League Phase van de Champions League gewonnen. De Fransen klopten FC Barcelona."
-        }
-      ]
-    },
-    {
-      "keyword": "militair",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Hoogste Navo-militair stuurt hard signaal aan Rusland (en dat is uitzonderlijk)",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/wereld/hoogste-navo-militair-stuurt-hard-signaal-aan-rusland-en-dat-is-uitzonderlijk~b40e9fa5/",
-          "publishedDate": "Mon, 12 Oct 2026 09:41:00 GMT",
-          "description": "Het gebeurt niet vaak dat de hoogste Navo-militair een toespraak houdt. De dreiging van Rusland biedt blijkbaar voldoende aanleiding voor een nieuwe ‘overwinningstheorie’: als we worden aangevallen, z ..."
-        },
-        {
-          "title": "Militair toestel neergestort in Noord-Frankrijk, omwonenden horen explosie en zien vuurbal",
-          "source": "Drimble",
-          "url": "https://drimble.nl/dossiers/consumenten/108356077/militair-toestel-neergestort-in-noord-frankrijk-omwonenden-horen-explosie-en-zien-vuurbal.html",
-          "publishedDate": "Wed, 21 Oct 2026 01:21:00 GMT",
-          "description": "Nabij Pont-&#224;-Mousson is dinsdagavond een militair toestel neergestort. Dat meldt de burgemeester van de niet ver van het Noord-Franse Nancy gelegen gemeente op Facebook. De brokstukken werden gezien m ..."
-        },
-        {
-          "title": "Militair toestel neergestort in Noord-Frankrijk",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/buitenland/militair-toestel-neergestort-in-noord-frankrijk",
-          "publishedDate": "Wed, 21 Oct 2026 01:04:00 GMT",
-          "description": "PONT-&#192;-MOUSSON (ANP) - Nabij Pont-&#224;-Mousson is dinsdagavond een militair toestel neergestort. Dat meldt de burgemeester van de niet ver van het Noord-Franse Nancy gelegen gemeente op Facebook. De brok ..."
-        },
-        {
-          "title": "Dienstwapen uit auto van militair verdwenen op VOS-terrein",
-          "source": "Waterkant.net",
-          "url": "https://www.waterkant.net/suriname/2026/10/21/dienstwapen-uit-auto-van-militair-verdwenen-op-vos-terrein/",
-          "publishedDate": "Tue, 20 Oct 2026 17:00:00 GMT",
-          "description": "Een dienstwapen, 1.000 SRD en een oplader zijn dinsdag verdwenen uit een voertuig op het terrein van VOS in Suriname. Sergeant S.B. deed aangifte van ..."
-        },
-        {
-          "title": "Als militair leert hij ruzies te sussen, in Zeewolde is hij juist de aanstichter van het geweld",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/zeewolde/als-militair-leert-hij-ruzies-te-sussen-in-zeewolde-is-hij-juist-de-aanstichter-van-het-geweld~ac73936b/",
-          "publishedDate": "Mon, 19 Oct 2026 23:15:00 GMT",
-          "description": "Juist een militair wordt getraind in gepast geweld en het sussen van ruzie. Benjamin B. (23) uit Zeewolde deed volgens de militaire rechtbank in Arnhem het tegenovergestelde: hij was de aanstichter. D ..."
-        },
-        {
-          "title": "Surinaamse oud-militair voor Haagse rechtbank om oorlogsmisdrijven in Suriname",
-          "source": "Crimesite",
-          "url": "https://www.crimesite.nl/surinaamse-oud-militair-voor-haagse-rechtbank-om-oorlogsmisdrijven-in-suriname/",
-          "publishedDate": "Sat, 17 Oct 2026 02:20:00 GMT",
-          "description": "De 60-jarige Abdoel L. uit Amsterdam staat komende vrijdag voor de rechtbank in Den Haag op verdenking van oorlogsmisdrijven tijdens de Binnenlandse Oorlog in Suriname. Het Openbaar Ministerie verdenk ..."
-        },
-        {
-          "title": "Oud-militair voor rechter in Den Haag om doden tijdens Binnenlandse Oorlog Suriname",
-          "source": "Waterkant.net",
-          "url": "https://www.waterkant.net/suriname/2026/10/16/oud-militair-voor-rechter-in-den-haag-om-doden-tijdens-binnenlandse-oorlog-suriname/",
-          "publishedDate": "Fri, 16 Oct 2026 13:01:00 GMT",
-          "description": "Een in Amsterdam wonende oud-militair moet zich vrijdag 23 oktober voor de rechtbank in Den Haag verantwoorden voor het doden van meerdere personen ..."
-        },
-        {
-          "title": "Executie voormalig militair die 13 mensen doodschoot toch niet live uitgezonden",
-          "source": "Provinciale Zeeuwse Courant",
-          "url": "https://www.pzc.nl/buitenland/executie-voormalig-militair-die-13-mensen-doodschoot-toch-niet-live-uitgezonden~a72767e5/",
-          "publishedDate": "Thu, 15 Oct 2026 00:37:00 GMT",
-          "description": "De executie van een voormalige militair door een vuurpeloton wordt toch niet live uitgezonden. Dat zei de Amerikaanse president Donald Trump donderdag."
-        },
-        {
-          "title": "Oorlog gaat over meer dan militair geweld",
-          "source": "De Groene Amsterdammer",
-          "url": "https://www.groene.nl/artikel/oorlog-gaat-over-meer-dan-militair-geweld",
-          "publishedDate": "Tue, 13 Oct 2026 17:00:00 GMT",
-          "description": "Wat betreft de oorlog in Gaza lijkt er een kloof te liggen tussen journalisten die voor een activistische aanpak staan en zij die vasthouden aan het adagium van objectiviteit en neutraliteit."
-        },
-        {
-          "title": "RD Vandaag: is onze infrastructuur klaar voor militair transport?",
+          "title": "Wereldwijde PHP-lek: websites mogelijk niet direct weer online na update",
           "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/rd-vandaag-is-onze-infrastructuur-klaar-voor-militair-transport",
-          "publishedDate": "Tue, 13 Oct 2026 00:30:00 GMT",
-          "description": "Goedemorgen! Vandaag bespreekt de Eerste Kamer een wet die de overheid meer ruimte geeft om vreemdelingen ongewenst te verklaren."
+          "url": "https://www.rd.nl/artikel/wereldwijde-php-lek-websites-mogelijk-niet-direct-weer-online-na-update",
+          "publishedDate": "Wed, 21 Oct 2026 08:55:00 GMT",
+          "description": "Verschillende websites worden woensdag uit voorzorg uitgeschakeld na een waarschuwing voor kwetsbaarheden in de programmeertaal PHP."
+        },
+        {
+          "title": "Grote banken onderzoeken mogelijke impact PHP-kwetsbaarheden",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/grote-banken-onderzoeken-mogelijke-impact-php-kwetsbaarheden",
+          "publishedDate": "Wed, 21 Oct 2026 08:45:00 GMT",
+          "description": "Banken willen weinig kwijt over de mogelijke impact van de kwetsbaarheden die zijn ontdekt in programmeertaal PHP. Wel zeggen ze dat ze de mogelijke impact bekijken en waar nodig maatregelen nemen. De ..."
+        },
+        {
+          "title": "LIVE | Cyberexperts: 'PHP-lek heeft ook na patch nog maanden gevolgen'",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/tech/nieuws/artikelen/liveblog-websites-overheid-mijnoverheid-offline-php-kwetsbaarheden",
+          "publishedDate": "Wed, 21 Oct 2026 04:30:00 GMT",
+          "description": "Steeds meer Nederlandse websites zijn offline door kwetsbaarheden in PHP. Ook MijnOverheid, de Tweede Kamer en systemen van onderwijsinstellingen zijn getroffen."
+        },
+        {
+          "title": "Ernstige kwetsbaarheden in PHP, noodpatches onderweg",
+          "source": "Techzine",
+          "url": "https://www.techzine.nl/nieuws/security/582986/ernstige-kwetsbaarheden-in-php-noodpatches-onderweg/",
+          "publishedDate": "Wed, 21 Oct 2026 03:59:00 GMT",
+          "description": "De beheerders van PHP kondigden eerder deze week twee noodupdates voor ernstige beveiligingslekken aan. De impact is groot."
         }
       ]
     },
     {
       "keyword": "oplichting",
-      "trafficLabel": "20K+",
+      "trafficLabel": "100K+",
       "articles": [
-        {
-          "title": "Booking.com beschuldigd van onvoldoende bestrijding van fraude en oplichting",
-          "source": "ED.nl",
-          "url": "https://www.ed.nl/buitenland/booking-com-beschuldigd-van-onvoldoende-bestrijding-van-fraude-en-oplichting~ae7ad0e7/",
-          "publishedDate": "Tue, 20 Oct 2026 20:53:00 GMT",
-          "description": "De Europese Unie is een offici&#235;le procedure gestart tegen Booking.com. De bekende site heeft mogelijk de Digital Services Act (DSA) overschreden. Booking.com zou vormen van fraude en phishing niet zor ..."
-        },
         {
           "title": "Politie houdt 2 verdachten aan na oplichting in Heiloo",
           "source": "Algemeen Dagblad",
           "url": "https://www.ad.nl/heiloo/politie-houdt-2-verdachten-aan-na-oplichting-in-heiloo~a52df1b8/",
           "publishedDate": "Fri, 16 Oct 2026 10:30:00 GMT",
           "description": "De politie heeft 2 verdachten aangehouden voor oplichting van een 81-jarige vrouw in Heiloo. De vrouw raakte woensdagavond 14 oktober geld en sieraden kwijt nadat oplichters zich voordeden als medewer ..."
+        },
+        {
+          "title": "Gemeente Tynaarlo geeft voorlichting in Eelde over online oplichting",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/tynaarlo/gemeente-tynaarlo-geeft-voorlichting-in-eelde-over-online-oplichting~abdedb86/",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 GMT",
+          "description": "De gemeente Tynaarlo zet in op meer bewustzijn over online oplichting onder inwoners. Donderdag 22 oktober kunnen ouderen met vragen over digitale veiligheid terecht op de Actieve Seniorenmarkt in spo ..."
+        },
+        {
+          "title": "Europese Commissie start onderzoek naar Booking.com om oplichting en misleidende advertenties",
+          "source": "dutchitleaders.nl",
+          "url": "https://www.dutchitleaders.nl/news/763245/europese-commissie-start-onderzoek-naar-booking-com-om-oplichting-en-misleidende-advertenties",
+          "publishedDate": "Wed, 21 Oct 2026 08:09:00 GMT",
+          "description": "De Commissie richt zich op drie punten. Het eerste is de vraag of Booking.com de risico's van illegale inhoud goed heeft vastgesteld en beoordeeld. Het gaat dan om nepvermeldingen van bijvoorbeeld acc ..."
         },
         {
           "title": "Man uit Zutphen (18) aangehouden na oplichting via sms’je in Delft",
@@ -338,13 +117,6 @@
           "description": "De jongman die onlangs onherkenbaar in beeld werd gebracht is nu herkbaan in beeld gebracht. Hij had een week de tijd zich te melden nadat hij op 30 juli meewerkte aan de oplichting van een bejaarde m ..."
         },
         {
-          "title": "Twee verdachten aangehouden voor oplichting van 36 klanten aan tankstations van Schoten en Maldegem",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/20/2-verdachten-shimming-tankstation-schoten/",
-          "publishedDate": "Tue, 20 Oct 2026 02:21:00 GMT",
-          "description": "Twee mannen zitten in de gevangenis omdat ze verdacht worden van 'shimming' - een vorm van oplichting - van klanten aan tankstations in Schoten en Maldegem. Het gaat om een man van 49 uit Moldavi&#235; en ..."
-        },
-        {
           "title": "'Kans op telefonische oplichting groeit door vele datalekken'",
           "source": "Hart van Nederland",
           "url": "https://www.hartvannederland.nl/advies-en-tips/waarschuwen/artikelen/telefonische-oplichting-datalekken-nederland",
@@ -359,6 +131,13 @@
           "description": "Een nieuwe studie brengt de belangrijkste soorten online financi&#235;le oplichting in kaart, platformfuncties die oplichters exploiteren, hun impact op gebruikers en de samenleving en maatregelen die plat ..."
         },
         {
+          "title": "Pas op WhatsApp oplichting: “Wil je even op haar stemmen?”",
+          "source": "112Groningen",
+          "url": "https://112groningen.nl/438045/groningen/pas-op-whatsapp-oplichting-wil-je-even-op-haar-stemmen/",
+          "publishedDate": "Mon, 19 Oct 2026 14:22:00 GMT",
+          "description": "&quot;Wil je even op haar stemmen?&quot; Een klein verzoek van zelfs een bekende. Je helpt graag, maar achter die stemlink kan een oplichter zitten. Via een ..."
+        },
+        {
           "title": "Toch op die link geklikt? Nieuwe campagne moet online oplichting tegengaan",
           "source": "Hart van Nederland",
           "url": "https://www.hartvannederland.nl/tech/nieuws/artikelen/nieuwe-campagne-moet-online-oplichting-tegengaan",
@@ -371,275 +150,332 @@
           "url": "https://hcc.nl/hcc-digitaalveilig-alerts/hcc-digitaalveilig-alert-nieuwe-whatsapp-oplichting-met-verzoek-om-op-meisje-te-stemmen",
           "publishedDate": "Sun, 18 Oct 2026 16:59:00 GMT",
           "description": "Een vriendelijk WhatsApp-berichtje van een bekende met de vraag om op een meisje te stemmen voor een gratis dansles. Het klinkt onschuldig, maar achter dit verzoek schuilt een gevaarlijke vorm van dig ..."
-        },
-        {
-          "title": "Ongevraagde berichten over geld- of bankzaken zijn een dikke 'red flag'",
-          "source": "DutchCowboys",
-          "url": "https://www.dutchcowboys.nl/cybercrime/oplichting-herkennen-financiele-fraude-voorkomen",
-          "publishedDate": "Thu, 15 Oct 2026 03:46:00 GMT",
-          "description": "Van phishing en datingfraude tot nepagenten en bankfraude. Ontdek de belangrijkste signalen van oplichting en hoe je voorkomt dat je slachtoffer wordt."
         }
       ]
     },
     {
-      "keyword": "toppers",
-      "trafficLabel": "20K+",
+      "keyword": "fc porto",
+      "trafficLabel": "100K+",
+      "articles": []
+    },
+    {
+      "keyword": "koffie",
+      "trafficLabel": "10K+",
+      "articles": []
+    },
+    {
+      "keyword": "motorrijder",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Jeroen van der Boom overvallen door vertrek Joling bij De Toppers: 'Wist van niks'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/muziek/6413856/jeroen-van-der-boom-overvallen-door-vertrek-joling-bij-de-toppers-wist-van-niks.html",
-          "publishedDate": "Tue, 20 Oct 2026 23:48:00 GMT",
-          "description": "Jeroen van der Boom wist tot de bekendmaking via de media niets van het vertrek van Gerard Joling bij De Toppers af. &quot;Net als voor velen kwam het nieuws voor mij als een grote verrassing&quot;, schrijft Va ..."
-        },
-        {
-          "title": "Praat mee: De Toppers kunnen beter stoppen nu Gerard Joling afhaakt",
+          "title": "Motorrijder gewond na aanrijding met bestelbus in Wirdum",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/praat-mee/praat-mee-de-toppers-kunnen-beter-stoppen-nu-gerard-joling-afhaakt~a59cdeee/",
-          "publishedDate": "Tue, 20 Oct 2026 19:30:00 GMT",
-          "description": "Gerard Joling heeft bekendgemaakt dat hij stopt met De Toppers, de succesvolle gelegenheidsformatie met zangers Ren&#233; Froger, Jeroen van der Boom en Jan Smit. De Toppers trekken al jarenlang tienduizen ..."
+          "url": "https://www.ad.nl/112-nieuws-eemsdelta/motorrijder-gewond-na-aanrijding-met-bestelbus-in-wirdum~a1a67718/",
+          "publishedDate": "Mon, 19 Oct 2026 22:36:00 GMT",
+          "description": "Een motorrijder is dinsdagmiddag gewond geraakt bij een aanrijding met een bestelbus in Wirdum. De motorrijder werd per ambulance overgebracht naar het ziekenhuis."
         },
         {
-          "title": "Gerard Joling (66) vertrekt na 21 jaar bij de Toppers",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/kunst-media/gerard-joling-66-vertrekt-na-21-jaar-bij-de-toppers~bf557908/",
-          "publishedDate": "Tue, 20 Oct 2026 07:28:00 GMT",
-          "description": "Gerard Joling gaat stoppen bij de Toppers in Concert. Dat kondigt de zanger dinsdag aan op Instagram. ‘Het is geen makkelijke beslissing geweest, er zijn maanden overheen gegaan.’ ..."
+          "title": "Motorrijder raakt gewond bij botsing met auto in Gemert, traumahelikopter landt langs de weg",
+          "source": "ED.nl",
+          "url": "https://www.ed.nl/112-nieuws-gemert-bakel/motorrijder-raakt-gewond-bij-botsing-met-auto-in-gemert-traumahelikopter-landt-langs-de-weg~a3f3fa84/",
+          "publishedDate": "Mon, 19 Oct 2026 02:43:00 GMT",
+          "description": "Een motorrijder is maandagmiddag gewond geraakt bij een botsing met een auto in Gemert. Op de West-Om werd de man geraakt toen de automobilist vanuit een zijstraat de weg op reed."
         },
         {
-          "title": "Geruchtenmolen draait op volle toeren: worden d&#237;t de nieuwe Toppers?",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/entertainment/gelezen-bij-de-tandarts/nieuwe-toppers-tino-martin-mart-hoogkamer/",
-          "publishedDate": "Wed, 21 Oct 2026 03:09:00 GMT",
-          "description": "Nu Gerard Joling (66) is gestopt en Ren&#233; Froger vanwege ziekte voorlopig moet afhaken, is er een crisis ontstaan bij De Toppers. Want wie gaan de twee artiesten vervangen bij Toppers in Concert in de ..."
+          "title": "Motorrijder overleden na botsing met auto in Voerendaal",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-voerendaal/motorrijder-overleden-na-botsing-met-auto-in-voerendaal~a690f908/",
+          "publishedDate": "Thu, 15 Oct 2026 19:37:00 GMT",
+          "description": "Een motorrijder en een automobilist zijn vrijdagochtend met elkaar in botsing gekomen op de Bergseweg in Voerendaal. Beide slachtoffers werden naar het ziekenhuis vervoerd. Volgens een woordvoerder va ..."
         },
         {
-          "title": "‘Gerard Joling begint eigen variant Toppers, gastoptreden Gordon’",
-          "source": "Mediacourant",
-          "url": "https://www.mediacourant.nl/2026/10/gerard-joling-begint-eigen-variant-toppers-gastoptreden-gordon/",
-          "publishedDate": "Wed, 21 Oct 2026 02:30:00 GMT",
-          "description": "Gaat Gerard Joling na zijn geruchtmakende vertrek bij De Toppers de concurrentie aan met zijn voormalige collega's? Story-baas Guido den Aantrekker sluit niet uit dat de zanger zijn eigen feestformati ..."
+          "title": "'Driftende' motorrijder krijgt taakstraf voor dodelijk ongeluk Lelystad",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2634047-driftende-motorrijder-krijgt-taakstraf-voor-dodelijk-ongeluk-lelystad",
+          "publishedDate": "Wed, 07 Oct 2026 09:36:00 GMT",
+          "description": "Het ongeluk gebeurde in juni 2024 in Lelystad tijdens een illegaal evenement. Daarbij waren honderden toeschouwers aanwezig."
         },
         {
-          "title": "Jeroen van der Boom schijnheilig? ‘Wist niks van Toppers-exit Geer!’",
-          "source": "Mediacourant",
-          "url": "https://www.mediacourant.nl/2026/10/jeroen-van-der-boom-schijnheilig-wist-niks-van-toppers-exit-geer/",
-          "publishedDate": "Wed, 21 Oct 2026 00:30:00 GMT",
-          "description": "Jeroen van der Boom doet alsof hij compleet verrast is door het vertrek van Gerard Joling bij De Toppers, maar juist zijn eerdere uitspraken over noodzakelijke verjonging zouden Geer hebben ge&#235;rgerd."
+          "title": "Motorrijder belandt in sloot na botsing met auto uit uitrit bij Zuidschermer",
+          "source": "Streekstad Centraal",
+          "url": "https://streekstadcentraal.nl/60237775-motorrijder-belandt-in-sloot-na-botsing-met-auto-uit-uitrit-bij-zuidschermer",
+          "publishedDate": "Tue, 20 Oct 2026 09:25:00 GMT",
+          "description": "Een motorrijder is dinsdagmiddag gewond geraakt bij een botsing met een auto op de Laanweg tussen Grootschermer en Zuidschermer. De man reed richting Zuidschermer toen een automobilist voor hem uit ee ..."
         },
         {
-          "title": "Jeroen van der Boom reageert op Toppers-vertrek Gerard Joling: ‘Hoorde het via de media’",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/show/jeroen-van-der-boom-reageert-op-toppers-vertrek-gerard-joling-hoorde-het-via-de-media~ad99978a/",
-          "publishedDate": "Tue, 20 Oct 2026 18:01:00 GMT",
-          "description": "Het nieuws dat &lt;a href=&quot;https://www.ad.nl/show/gerard-joling-vertelde-collegas-pas-afgelopen-week-over-vertrek-nieuwe-namen-toppers-lijken-bekend~a8a15e7b/?slug_rd=1&quot; target=&quot;_blank&quot;&gt;Gerard Joling sto ..."
-        },
-        {
-          "title": "De Toppers gaan verder in nieuwe samenstelling na vertrek Joling",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/de-toppers-gaan-verder-in-nieuwe-samenstelling-na-vertrek-joling",
-          "publishedDate": "Tue, 20 Oct 2026 10:48:00 GMT",
-          "description": "De Toppers keren in 2027 terug in een nieuwe samenstelling. Dat maakt de organisatie achter de gelegenheidsformatie dinsdag bekend. Eerder op de dag kondigde Gerard Joling aan na 21 jaar afscheid te n ..."
-        },
-        {
-          "title": "Gerard Joling eerlijk over vertrek bij De Toppers: 'Er waren kleine irritaties'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/gerard-joling-eerlijk-over-vertrek-bij-de-toppers-er-waren-kleine-irritatie",
-          "publishedDate": "Tue, 20 Oct 2026 09:49:00 GMT",
-          "description": "Gerard Joling vertrekt na 21 jaar bij De Toppers. Hij deelt openhartig over kleine irritaties die aanwezig waren, maar benadrukt dat er geen ruzie is tussen hem en de overige groepsleden."
-        },
-        {
-          "title": "Gerard Joling stopt na 21 jaar bij De Toppers: 'Geen makkelijke beslissing'",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/entertainment/oh-ja-joh/gerard-joling-stopt-de-toppers/",
-          "publishedDate": "Tue, 20 Oct 2026 07:41:00 GMT",
-          "description": "In 2005 stond Gerard Joling voor het eerst met Gordon en Ren&#233; Froger op het podium als onderdeel van De Toppers. Nu, 21 jaar later, stopt Gerard Joling daarmee. “Het zal mij waarschijnlijk nooit meer ..."
-        }
-      ]
-    },
-    {
-      "keyword": "radar",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Oud-kolonel Housen ziet 3 redenen waarom Rusland een radar bouwt die elke beweging in Europa kan waarnemen. “E&#233;n drone is genoeg om het uit te schakelen”",
+          "title": "“Ik was de motor gewoon aan het testen”: motorrijder krijgt rijverbod na rit tegen 160 km/u",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/oud-kolonel-housen-ziet-3-redenen-waarom-rusland-een-radar-bouwt-die-elke-beweging-in-europa-kan-waarnemen-een-drone-is-genoeg-om-het-uit-te-schakelen~ad2aba54/",
-          "publishedDate": "Tue, 20 Oct 2026 01:58:00 GMT",
-          "description": "Rusland bouwt in Kaliningrad &lt;a href=&quot;https://www.hln.be/buitenland/rusland-bouwt-gigantisch-radarsysteem-op-32-kilometer-van-poolse-grens-kan-mogelijk-vliegtuigen-en-raketten-tot-op-3-200-kilometer-d ..."
+          "url": "https://www.hln.be/machelen/ik-was-de-motor-gewoon-aan-het-testen-motorrijder-krijgt-rijverbod-na-rit-tegen-160-km-u~a3681471/",
+          "publishedDate": "Tue, 20 Oct 2026 07:31:00 GMT",
+          "description": "Met een T-shirt waarop ‘Super Dad’ prijkt, probeerde een vader van drie kinderen de politierechter ervan te overtuigen dat hij wel snel reed, maar lang niet zo snel als de politie beweerde. Die volgde ..."
         },
         {
-          "title": "Bewoners en gemeente teleurgesteld: militaire radar mag toch in Herwijnen komen",
-          "source": "AD",
-          "url": "https://www.ad.nl/vijfheerenlanden/bewoners-en-gemeente-teleurgesteld-militaire-radar-mag-toch-in-herwijnen-komen~a6a3fac6a/",
-          "publishedDate": "Wed, 23 Sep 2026 02:04:00 GMT",
-          "description": "De kogel is door de kerk: de militaire radar in Herwijnen mag er komen. De Raad van State heeft woensdag het rijksinpassingsplan voor het radarstation in stand gelaten. Daarmee is een belangrijk ..."
+          "title": "Motorrijder (24) zonder rijbewijs rijdt met 160 km/u achtervolgd door politie",
+          "source": "W&#226;ldNet",
+          "url": "https://www.waldnet.nl/wn/nieuws/85490/Motorrijder_(24)_zonder_rijbewijs_rijdt_met_160_km_u_achtervolgd_door_politie.html",
+          "publishedDate": "Fri, 16 Oct 2026 13:09:00 GMT",
+          "description": "Een motorrijder is vrijdagmiddag na een achtervolging tussen Aldeboarn en De Veenhoop door de politie van de weg gehaald. De man reed met een ..."
         },
         {
-          "title": "Modelbespreking: onstuimig en nat herfstweer op komst, en zelfs stormkansen?",
-          "source": "weerplaza",
-          "url": "https://www.weerplaza.nl/regenradar/",
-          "publishedDate": "Sun, 28 Feb 2010 16:00:00 GMT",
-          "description": "Het rustige herfstweer houdt voorlopig aan, maar richting november neemt de kans op regen en wind geleidelijk toe. Je kijkt nu naar de buien- en regenradar van Nederland van Weerplaza. De radar is ..."
+          "title": "Motorrijder overleden na aanrijding met auto in Voerendaal",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/motorrijder-overleden-na-aanrijding-met-auto-in-voerendaal",
+          "publishedDate": "Fri, 16 Oct 2026 07:00:00 GMT",
+          "description": "Een motorrijder is vrijdag overleden na een aanrijding met een auto in het Zuid-Limburgse Voerendaal, meldt de politie. Het ongeluk gebeurde kort voor 09.30 uur op de Bergseweg. De motorrijder is met ..."
+        },
+        {
+          "title": "Motorrijder overleden na ernstig ongeval met auto",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/limburg-voerendaal-motorrijder-traumahelikopter-ziekenhuis",
+          "publishedDate": "Fri, 16 Oct 2026 06:48:00 GMT",
+          "description": "Een motorrijder is na een botsing met een auto in Voerendaal met een traumahelikopter naar het ziekenhuis gebracht. De Bergseweg is afgesloten."
+        },
+        {
+          "title": "Motorrijder heeft spijt na dodelijke straatrace: alle motoren zijn weggedaan",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2264459/motorrijder-heeft-spijt-na-dodelijke-straatrace-alle-motoren-zijn-weggedaan",
+          "publishedDate": "Wed, 07 Oct 2026 08:13:00 GMT",
+          "description": "Een motorrijder uit Schiedam die in 2024 bij een straatrace in Lelystad een dodelijk ongeluk veroorzaakte, is veroordeeld tot een taakstraf van 240 uur. Het slachtoffer was een 18-jarige man die ook a ..."
         }
       ]
     },
     {
-      "keyword": "rachel hazes",
+      "keyword": "moeder",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Roxeanne Hazes trekt harde grens: ‘Daar is te veel gebeurd’",
-          "source": "Story",
-          "url": "https://www.story.nl/showbizz/roxeanne-hazes-trekt-harde-grens~b4acd09",
-          "publishedDate": "Wed, 21 Oct 2026 03:31:00 GMT",
-          "description": "Roxeanne Hazes vertelt over haar grenzen, de breuk met moeder Rachel en de hechte band met broer Andr&#233;. Na moeilijke jaren voelt ze zich eindelijk gelukkig."
+          "title": "Moeder en zoon krijgen kickboksles in het Wilhelminapark van Antoon: ‘Je leert doorzetten en omgaan met frustraties’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/utrecht/moeder-en-zoon-krijgen-kickboksles-in-het-wilhelminapark-van-antoon-je-leert-doorzetten-en-omgaan-met-frustraties~ac24e9a83/",
+          "publishedDate": "Tue, 20 Oct 2026 23:15:00 GMT",
+          "description": "Wekelijks gaat fotografe Angeliek de Jonge met haar camera op pad. Dit keer treft ze moeder Tense (51) en haar zoon Kees (11), kickboksend in het Wilhelminapark."
         },
         {
-          "title": "Roxeanne Hazes wil moeder Rachel niet terug in haar leven: 'Niet iedere band hoeft behouden te blijven'",
-          "source": "Kek Mama on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/roxeanne-hazes-wil-moeder-rachel-niet-terug-in-haar-leven-niet-iedere-band-hoeft-behouden-te-blijven/ar-AA2fJcxV",
-          "publishedDate": "Wed, 21 Oct 2026 01:00:00 GMT",
-          "description": "Familie is belangrijk, maar betekent dat ook dat je elkaar altijd moet blijven vasthouden? Roxeanne Hazes (33) denkt daar inmiddels anders over. De zangeres heeft al langere tijd geen contact met haar ..."
+          "title": "Moeder roept in video op om juist niet op haar dochter te stemmen tijdens Amerikaanse verkiezingen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/moeder-roept-in-video-op-om-juist-niet-op-haar-dochter-te-stemmen-tijdens-amerikaanse-verkiezingen~a912e1ad/",
+          "publishedDate": "Tue, 20 Oct 2026 20:33:00 GMT",
+          "description": "In de Verenigde Staten zijn de verkiezingen om het gouverneurschap in Ohio volledig op zijn kop gezet. De Democratische politica Amy Acton is een van de kandidaten voor deze functie. Haar moeder heeft ..."
         },
         {
-          "title": "Foto’s: dit is de luxe villa (met binnenzwembad) van Rachel Hazes",
-          "source": "MAN MAN on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/foto-s-dit-is-de-luxe-villa-met-binnenzwembad-van-rachel-hazes/ar-AA1OAA0L",
-          "publishedDate": "Tue, 20 Oct 2026 23:55:21 GMT",
-          "description": "De luxe villa van Rachel Hazes is ruim en mooi afgewerkt, maar het is vooral het priv&#233;zwembad en de sauna die ons jaloers maken."
+          "title": "‘Wat moet ik doen?’ vroeg de moeder van de vermeende zesjarige pester aan NRC",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/10/16/wat-moet-ik-doen-vroeg-de-moeder-van-de-vermeende-zesjarige-pester-aan-nrc-a4937362",
+          "publishedDate": "Fri, 16 Oct 2026 06:27:00 GMT",
+          "description": "Opvoeding: De wekelijkse NRC-rubriek Opgevoed bestaat tien jaar. Auteur Annemiek Leclaire kijkt terug en bespreekt met deskundigen welke opvoedtrends doorschemeren in de vragen die ouders en grootoude ..."
         },
         {
-          "title": "Roxeanne Hazes wil naam Rachel niet meer noemen",
-          "source": "Ditjes en Datjes",
-          "url": "https://www.ditjesendatjes.nl/roxeanne-hazes-wil-naam-rachel-niet-meer-noemen",
-          "publishedDate": "Tue, 20 Oct 2026 16:02:00 GMT",
-          "description": "Roxeanne Hazes heeft een harde grens getrokken als het om haar moeder Rachel gaat. Ze noemt haar naam zelfs niet meer."
+          "title": "Luna (54) groeide op met psychisch kwetsbare ouders en ontdekt pas veel later wat KOPP betekent: ‘Mijn moeder manipuleerde veel’",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/lifestyle/health-mind/2026/10/kopp-ouders-kind-psychische-problemen-vader-moeder/",
+          "publishedDate": "Wed, 21 Oct 2026 09:10:00 GMT",
+          "description": "KOPP staat voor een Kind van Ouders met Psychische Problemen. Luna krijgt zelf pas rond haar vijftigste hoogte van die term. „Het voelde alsof er een last van mijn schouders viel. Het lag namelijk nie ..."
         },
         {
-          "title": "Roxeanne Hazes ziet geen herstel in verbroken familieband: 'Te veel gebeurd'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/hazes/artikelen/roxeanne-hazes-verbroken-familieband-rachel-hazes",
-          "publishedDate": "Tue, 20 Oct 2026 12:46:00 GMT",
-          "description": "Roxeanne Hazes vertelt openhartig over een verbroken familieband. De zangeres bewaakt haar grenzen en zegt dat er te veel is gebeurd om de relatie te herstellen."
+          "title": "Glancy is mantelzorger voor haar moeder met Alzheimer: ‘Er ontstonden twijfels hoelang het nog alleen in huis goed zou blijven gaan’",
+          "source": "Vriendin",
+          "url": "https://www.vriendin.nl/persoonlijke-verhalen/glancy-mantelzorger-moeder-alzheimer/",
+          "publishedDate": "Wed, 21 Oct 2026 02:25:00 GMT",
+          "description": "Glancy (51) woont sinds drie maanden bij haar moeder Anneke (82) die de ziekte van Alzheimer heeft. Ze voelt zich geen mantelzorger."
         },
         {
-          "title": "Andr&#233; Hazes: “ik wil niet meer over haar praten”",
-          "source": "Show24",
-          "url": "https://show24.nl/andre-hazes-ik-wil-niet-meer-over-haar-praten/",
-          "publishedDate": "Thu, 15 Oct 2026 17:01:00 GMT",
-          "description": "“Opvallend is dat hij juist probeert de spanningen rond zijn moeder steeds meer los te laten. Andr&#233; en zijn zus Roxeanne hebben met elkaar afgesproken om Rachel zo min mogelijk onderwerp van gesprek ..."
+          "title": "Moeder van 'Love Is Blind'-Wouter heeft contact met Mirella: 'Kunnen het wel goed vinden met elkaar'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/entertainment/beetje-bijblijven/wouter-mirella-love-is-blind-contact/",
+          "publishedDate": "Tue, 20 Oct 2026 14:31:00 GMT",
+          "description": "Wouter was te zien in Love Is Blind, maar heeft het programma helaas zonder trouwring om zijn vinger verlaten. Toch blijkt een van de vrouwen nog in zijn leven te zijn – en wel door het contact met zi ..."
         },
         {
-          "title": "Frans Duijts: 'Als Rachel Hazes morgen omvalt, vind ik dat prima'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/frans-duijts-rachel-hazes-boek",
-          "publishedDate": "Thu, 08 Oct 2026 06:11:00 GMT",
-          "description": "Frans Duijts is in zijn autobiografie Vallen en Opstaan openhartiger dan ooit tevoren. Zo gaat hij onder meer in op zijn jarenlange bonje met Rach&#232;l Hazes."
+          "title": "Monique Smit over de ziekte van haar moeder: ‘Ik stond feestend op de b&#252;hne, maar vanbinnen was er veel verdriet’",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/cultuur-media/interview/monique-smit-moeder-gerda-ernstig-ziek/",
+          "publishedDate": "Mon, 19 Oct 2026 17:00:00 GMT",
+          "description": "Monique Smit (37) leeft haar droomleven. De zangeres tikt bijna een twintigjarig jubileum aan en combineert haar carri&#232;re met haar andere grote droom: een gezin met drie kinderen. Maar achter de scher ..."
         },
         {
-          "title": "Frans Duijts: ‘Als Rachel Hazes morgen omvalt, vind ik het prima’",
-          "source": "Mediacourant",
-          "url": "https://www.mediacourant.nl/2026/10/frans-duijts-als-rachel-hazes-morgen-omvalt-vind-ik-het-prima/",
-          "publishedDate": "Thu, 08 Oct 2026 03:00:00 GMT",
-          "description": "Frans Duijts haalt in zijn biografie vernietigend uit naar Rachel Hazes. De zanger is jarenlang door de weduwe van Andr&#233; Hazes tegengewerkt en heeft zijn buik vol van haar. “Als ze morgen omvalt, vind ..."
+          "title": "Moeder handbalicoon Estavana Polman laat van zich horen na storm van kritiek: 'De mensen die over mij praten...'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/moeder-handbalicoon-estavana-polman-laat-van-zich-horen-na-storm-van-kritiek-de-mensen-die-over-mij-praten-2026101414412454394/",
+          "publishedDate": "Wed, 14 Oct 2026 09:53:00 GMT",
+          "description": "De moeder van Estavana Polman ligt de laatste tijd flink onder een vergrootglas. Winniefred Polman krijgt geregeld forse kritiek van onder meer Johan Derksen. Zelf zweeg ze lange tijd in alle ..."
         },
         {
-          "title": "Andr&#233; Hazes jr. maakt valse grappen over Rachel: ‘Adoptie aub!’",
-          "source": "Mediacourant",
-          "url": "https://www.mediacourant.nl/2026/09/andre-hazes-jr-maakt-valse-grappen-over-rachel-adoptie-aub/",
-          "publishedDate": "Mon, 28 Sep 2026 04:01:00 GMT",
-          "description": "Andr&#233; Hazes jr. heeft besloten om geen aandacht meer te besteden aan zijn moeder Rachel Hazes, maar een vals grapje kan er nog wel vanaf. Als iemand hem wil adopteren, blijkt hij daar namelijk best vo ..."
+          "title": "Drie slapende kinderen gewekt door rook bij woningbrand terwijl moeder aan het werk is",
+          "source": "Waterkant.net",
+          "url": "https://www.waterkant.net/suriname/2026/10/14/drie-slapende-kinderen-gewekt-door-rook-bij-woningbrand-terwijl-moeder-aan-het-werk-is/",
+          "publishedDate": "Tue, 13 Oct 2026 17:00:00 GMT",
+          "description": "Een drama is afgelopen weekend voorkomen bij een woningbrand aan de Pasisistraat in Suriname. Drie minderjarige kinderen lagen te slapen toen het vuur ..."
         },
         {
-          "title": "Rachel Hazes, 17 jaar na overlijden Andr&#233;: ‘Ik heb nog geen dag om hem kunnen rouwen’",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/show/rachel-hazes-17-jaar-na-overlijden-andre-ik-heb-nog-geen-dag-om-hem-kunnen-rouwen~a9b049ca/",
-          "publishedDate": "Mon, 08 Feb 2021 05:22:00 GMT",
-          "description": ",,Welk liedje ligt mij het meest na aan het hart? Die vraag kan ik onmogelijk beantwoorden. Dat gaat in fases. Samen vind ik mooi, daar kleven herinneringen aan, omdat hij dat voor ons heeft ..."
+          "title": "Kritiek op moeder van handbalicoon Estavana Polman: 'Ik kreeg haar vloekend en tierend aan de telefoon'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/kritiek-op-moeder-van-handbalicoon-estavana-polman-ik-kreeg-haar-vloekend-en-tierend-aan-de-telefoon-2026101306372792345/",
+          "publishedDate": "Tue, 13 Oct 2026 02:33:00 GMT",
+          "description": "De rel in de televisiewereld rond Estavana Polman blijft voorlopig de gemoederen bezighouden. Nadat ze gecanceld werd bij Vandaag Inside moet nu haar moeder &#233;n manager Winniefred het ontgelden. Eerst ..."
         }
       ]
     },
     {
-      "keyword": "christina applegate",
-      "trafficLabel": "10K+",
+      "keyword": "storm austen",
+      "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Christina Applegate heeft toch geen MS: 'Weer terug bij af'",
+          "title": "Vrijdag kans op stormweer, komende dagen in elk geval nat en onstuimig",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/achterklap/6413795/christina-applegate-heeft-toch-geen-ms-weer-terug-bij-af.html",
-          "publishedDate": "Tue, 20 Oct 2026 07:56:00 GMT",
-          "description": "Christina Applegate heeft toch geen multiple sclerose (MS). Haar arts liet onlangs weten dat de actrice jaren geleden verkeerd gediagnosticeerd is."
+          "url": "https://www.nu.nl/weerbericht/6413874/vrijdag-kans-op-stormweer-komende-dagen-in-elk-geval-nat-en-onstuimig.html",
+          "publishedDate": "Tue, 20 Oct 2026 21:36:00 GMT",
+          "description": "De zuidelijke provincies krijgen vrijdag mogelijk met stormweer te maken. Maar afhankelijk van de koers kan ook het noorden storm verwachten of blijft het in het hele land rustig. Hoe dan ook gaat het ..."
         },
         {
-          "title": "Christina Applegate blijkt helemaal geen MS te hebben: 'Ik ben weer terug bij af'",
-          "source": "Startpagina on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/christina-applegate-blijkt-helemaal-geen-ms-te-hebben-ik-ben-weer-terug-bij-af/ar-AA2fHwgE",
-          "publishedDate": "Tue, 20 Oct 2026 22:02:00 GMT",
-          "description": "Christina Applegate (54) heeft schokkend nieuws gekregen. De actrice dacht 5 jaar lang dat ze multiple sclerose (MS) had, maar nu blijkt dat haar artsen destijds de verkeerde diagnose stelden. Wat een ..."
+          "title": "Two Orange warnings issued as Storm Austen to bring 'intense rain'",
+          "source": "RT&#201; Ireland",
+          "url": "https://www.rte.ie/news/ireland/2026/1021/1596203-weather-ireland/",
+          "publishedDate": "Wed, 21 Oct 2026 09:11:00 GMT",
+          "description": "A Status Yellow rain warning for counties Dublin and Wicklow is in effect ahead of the arrival of the first named storm of the season tomorrow."
         },
         {
-          "title": "Actrice Christina Applegate blijkt dan toch niet aan MS te lijden: &quot;Studies wijzen op bijna 20 procent foute diagnoses&quot;",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/20/christina-applegate-blijkt-toch-geen-ms-te-hebben-iets-wat-bij/",
-          "publishedDate": "Tue, 20 Oct 2026 11:33:00 GMT",
-          "description": "“Mijn dokter kwam de kamer binnen en zei: ‘Proficiat, u hebt toch geen MS.’” Dat vertelt actrice Christina Applegate in haar podcast MeSsy, die 5 jaar geleden nochtans te horen kreeg dat ze de ziekte ..."
+          "title": "Updated: Wind and rain warning associated with Storm Austen",
+          "source": "The Clare Herald",
+          "url": "https://clareherald.com/news/weather-alert/updated-wind-and-rain-warning-associated-with-storm-austen/",
+          "publishedDate": "Wed, 21 Oct 2026 09:05:00 GMT",
+          "description": "October 21st Met &#201;ireann has upgraded its previous Status Yellow Rain Warning for Ireland to now include windy conditions. Forecasters have now said that heavy rain associated with Storm Austen will ..."
         },
         {
-          "title": "Christina Applegate kreeg verkeerde diagnose, heeft geen MS",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/christina-applegate-kreeg-verkeerde-diagnose-heeft-geen-ms",
-          "publishedDate": "Tue, 20 Oct 2026 08:17:00 GMT",
-          "description": "Christina Applegate is verkeerd gediagnosticeerd met multiple sclerose (MS), een ziekte van het centrale zenuwstelsel. Dat vertelt de actrice in haar podcast MeSsy. &quot;Dit klinkt misschien als geweldig."
+          "title": "BBC Weather warns second storm to follow Austen as maps show heavy rain and snow",
+          "source": "The Mirror",
+          "url": "https://www.mirror.co.uk/news/uk-news/uk-weather-forecast-bbc-storm-37793501",
+          "publishedDate": "Wed, 21 Oct 2026 07:51:00 GMT",
+          "description": "Storm Austen is expected to drift away from the UK into the North Sea late on Friday, but now weather forecasters say another ‘deep area of low pressure’ will follow on Saturday ..."
         },
         {
-          "title": "Married with Children-en Friends-actrice Christina Applegate heeft t&#243;ch geen MS",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/algemeen/buitenland/artikelen/friends-actrice-christina-applegate-geen-ms-verkeerde-diagnose",
-          "publishedDate": "Tue, 20 Oct 2026 07:28:00 GMT",
-          "description": "Christina Applegate is verkeerd gediagnosticeerd met multiple sclerose (MS), een ziekte van het centrale zenuwstelsel. Dat vertelt de actrice in haar podcast MeSsy. &quot;Dit klinkt misschien als geweldig ..."
+          "title": "Map shows parts of the UK where ‘severe’ Storm Austen weather warnings have been issued",
+          "source": "Metro",
+          "url": "https://metro.co.uk/2026/10/21/map-shows-parts-uk-severe-storm-austen-weather-warnings-issued-29727881/",
+          "publishedDate": "Wed, 21 Oct 2026 06:24:00 GMT",
+          "description": "The Met Office has issued an amber warning for wind in parts of south-west England, with strong gusts of 80mph and heavy rainfall expected on Friday. The forecaster said Storm Austen, the first named ..."
         },
         {
-          "title": "Christina Applegate heeft dan toch geen MS: actrice kreeg verkeerde diagnose",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/celebrities/christina-applegate-heeft-dan-toch-geen-ms-actrice-kreeg-verkeerde-diagnose~a619080d3/",
-          "publishedDate": "Mon, 19 Oct 2026 23:57:00 GMT",
-          "description": "Christina Applegate (54) heeft een schokkende onthulling gedaan in de podcast ‘MeSsy’. De Amerikaanse actrice heeft onlangs namelijk te horen gekregen dat ze toch geen MS (multiple sclerose, red.) hee ..."
+          "title": "Irish weather warning ahead of Storm Austen",
+          "source": "BBC on MSN",
+          "url": "https://www.msn.com/en-us/news/other/irish-weather-warning-ahead-of-storm-austen/ar-AA2fKjYo",
+          "publishedDate": "Wed, 21 Oct 2026 04:48:46 GMT",
+          "description": "The Republic of Ireland's weather service warns of potential of flooding and travel disruption."
         },
         {
-          "title": "Christina Applegate (54) bijna onherkenbaar in eerste video na maandenlange ziekenhuisopname: “Liefde voor iedereen”",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/celebrities/christina-applegate-54-bijna-onherkenbaar-in-eerste-video-na-maandenlange-ziekenhuisopname-liefde-voor-iedereen~a9dcc001/",
-          "publishedDate": "Mon, 21 Sep 2026 18:57:00 GMT",
-          "description": "Christina Applegate heeft voor het eerst sinds haar maandenlange ziekenhuisopname weer van zich laten horen via een video op Instagram. De 54-jarige actrice, bij wie in 2021 de diagnose multiple scler ..."
+          "title": "Met Eireann issue 2 Status Orange warnings for 6 counties as ‘intense’ Storm Austen to batter before SECOND storm",
+          "source": "The Irish Sun",
+          "url": "https://www.thesun.ie/news/17797533/storm-austen-met-eireann-status-orange-warnings-counties/",
+          "publishedDate": "Wed, 21 Oct 2026 04:12:00 GMT",
+          "description": "MET Eireann has extended a Status Yellow rain warning for two counties today ahead of a nationwide alert tomorrow. Ireland is bracing for a very unsettled few days after Storm Austen was named ..."
         },
         {
-          "title": "Actrice Christina Applegate na vier maanden ontslagen uit ziekenhuis",
-          "source": "NU",
-          "url": "https://www.nu.nl/achterklap/6405313/actrice-christina-applegate-na-vier-maanden-ontslagen-uit-ziekenhuis.html",
-          "publishedDate": "Tue, 04 Aug 2026 08:41:00 GMT",
-          "description": "De Amerikaanse actrice Christina Applegate is na een langdurige ziekenhuisopname weer thuis, meldt TMZ. Het is niet bekend waarvoor ze moest worden opgenomen, maar vermoedelijk houdt het verband met ..."
+          "title": "Amber ‘danger to life’ warning issued as Storm Austen to hit tomorrow bringing 80mph gales &amp; heavy rain",
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/news/40756477/storm-austen-brings-80-mph-gales-danger-warnings/",
+          "publishedDate": "Wed, 21 Oct 2026 04:06:00 GMT",
+          "description": "BRITS have been told to brace for 80mph winds and heavy rain as Storm Austen is set to batter the UK and potentially endanger lives. Amber and yellow weather warnings will come into place at ..."
         },
         {
-          "title": "Actrice Christina Applegate stelt fans gerust na ziekenhuisopname",
-          "source": "Newsmonkey",
-          "url": "https://newsmonkey.be/actriec-christina-applegate-stelt-fans-gerust-na-ziekenhuisopname/",
-          "publishedDate": "Wed, 22 Apr 2026 01:04:00 GMT",
-          "description": "Christina Applegate stelde haar fans onlangs gerust na het nieuws over haar ziekenhuisopname. TMZ meldde dat de actrice eind vorige maand in een ziekenhuis in Los Angeles was opgenomen, maar de reden ..."
+          "title": "Weermodellen slaan alarm: storm Austen kan Belgi&#235; stevig raken",
+          "source": "Nieuws365",
+          "url": "https://www.nieuws365.be/weer/weermodellen-slaan-alarm-storm-austen-kan-belgie-stevig-raken",
+          "publishedDate": "Wed, 21 Oct 2026 03:59:00 GMT",
+          "description": "Belgi&#235; maakt zich op voor een onstuimiger einde van de week. Na een relatief zachte start van de herfst lijkt het weerbeeld grondig te veranderen. Een actieve depressie boven de Atlantische Oceaan tre ..."
         },
         {
-          "title": "Christina Applegate kreeg een staande ovatie bij de Emmy's 2023 te midden van haar strijd tegen MS",
-          "source": "ELLE",
-          "url": "https://www.elle.com/nl/lifestyle/lifestyle-nieuws/a46402938/christina-applegate-staande-ovatie-emmys-2023-ms/",
-          "publishedDate": "Mon, 15 Jan 2024 21:20:00 GMT",
-          "description": "Christina Applegate maakte een verrassingsoptreden bij de Emmy Awards vannacht. De actrice, die lijdt aan multiple sclerose (MS), woonde de prijsuitreiking van 15 januari bij tijdens haar ..."
+          "title": "Vrijdag wordt herfstig: storm Austen brengt zware windstoten",
+          "source": "truineer",
+          "url": "https://www.truineer.be/2026/10/vrijdag-wordt-herfstig-storm-austen-brengt-zware-windstoten/",
+          "publishedDate": "Tue, 20 Oct 2026 21:53:00 GMT",
+          "description": "Meteorologen waarschuwen voor een actieve stormdepressie die gepaard gaat met veel regen en krachtige wind. In het binnenland worden rukwinden tussen 60 en 80 kilometer per uur voorspeld. Losse voorwe ..."
         }
       ]
     },
     {
-      "keyword": "cve-2026-109618",
+      "keyword": "disney+",
       "trafficLabel": "5K+",
       "articles": []
+    },
+    {
+      "keyword": "zorgpremie 2027",
+      "trafficLabel": "5K+",
+      "articles": []
+    },
+    {
+      "keyword": "emile ratelband",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Emile Ratelband geeft teken van leven: 'Wil met rust gelaten worden'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/achterklap/6413926/emile-ratelband-geeft-teken-van-leven-wil-met-rust-gelaten-worden.html",
+          "publishedDate": "Wed, 21 Oct 2026 09:40:00 GMT",
+          "description": "Emile Ratelband heeft een teken van leven gegeven via advocaat Carlo Liefting. De ondernemer verzoekt iedereen om hem met rust te laten en hoopt dat deze wens gerespecteerd wordt."
+        },
+        {
+          "title": "Emile Ratelband geeft teken van leven na ongeruste oproep kinderen",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5660303/emile-ratelband-geeft-teken-van-leven-na-oproep-kinderen",
+          "publishedDate": "Wed, 21 Oct 2026 09:07:00 GMT",
+          "description": "Emile Ratelband (77) laat via zijn advocaat weten dat het goed met hem gaat. De positiviteitsgoeroe was de afgelopen dagen volop in het nieuws vanwege de zorgen van zijn kinderen. Voorlopig wil hij vo ..."
+        },
+        {
+          "title": "Emile Ratelband na hartenkreet van dochter: ‘Ik wil met rust gelaten worden’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/emile-ratelband-na-hartenkreet-van-dochter-ik-wil-met-rust-gelaten-worden~a6b42202/",
+          "publishedDate": "Wed, 21 Oct 2026 00:14:00 GMT",
+          "description": "Emile Ratelband wil graag met rust gelaten worden. Dat heeft Carlo Liefting, die Ratelband in het verleden heeft bijgestaan als advocaat, woensdag laten weten. De ontwikkeling volgt op berichten in de ..."
+        },
+        {
+          "title": "Emile Ratelband wil met rust gelaten worden",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/emile-ratelband-wil-met-rust-gelaten-worden",
+          "publishedDate": "Wed, 21 Oct 2026 08:48:00 GMT",
+          "description": "Emile Ratelband wil graag met rust gelaten worden. Dat heeft Carlo Liefting, die Ratelband in het verleden heeft bijgestaan als advocaat, woensdag laten weten. De ontwikkeling volgt op berichten in de ..."
+        },
+        {
+          "title": "Emile Ratelband geeft teken van leven, kinderen tasten nog in het duister",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/nieuws/artikelen/emile-ratelband-geeft-teken-van-leven-kinderen-tasten-in-duister",
+          "publishedDate": "Wed, 21 Oct 2026 07:18:00 GMT",
+          "description": "Emile Ratelband heeft van zich laten horen. Carlo Liefting, een advocaat die hem in het verleden bijstond, staat nog altijd in goed contact met de ondernemer. Opvallend is dat de kinderen van Emile ..."
+        },
+        {
+          "title": "Dochter Ratelband 'overspoeld' met berichten na oproep over vader",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/nieuws/dochter-ratelband-overspoeld-met-berichten-na-oproep-over-vader/ar-AA2fJdCi",
+          "publishedDate": "Wed, 21 Oct 2026 02:49:31 GMT",
+          "description": "De oudste dochter van Emile Ratelband wordt &quot;overspoeld&quot; met berichten na de oproep in de zoektocht naar haar vader. Zaterdag deelde Minou Ratelband op LinkedIn een bericht namens de kinderen waarin z ..."
+        },
+        {
+          "title": "Emile Ratelband leeft en het gaat goed, zegt zijn adviseur, maar zijn kinderen zijn bepaald niet gerustgesteld",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/binnenland/emile-ratelband-leeft-en-het-gaat-goed-zegt-zijn-adviseur-maar-zijn-kinderen-zijn-bepaald-niet-gerustgesteld~ad688326/",
+          "publishedDate": "Wed, 21 Oct 2026 02:29:00 GMT",
+          "description": "Het gaat prima met Emile Ratelband. Hij woont met zijn partner Natalia, twee kinderen ‘&#233;n hond’ Dexter nog steeds in Thailand en wil vooral met rust gelaten worden. Dat stelt Carlo Liefting, de juridi ..."
+        },
+        {
+          "title": "Bizarre theorie over verdwijning Emile Ratelband: 'Russische maffia'",
+          "source": "Panorama on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/bizarre-theorie-over-verdwijning-emile-ratelband-russische-maffia/ar-AA2fEqJe",
+          "publishedDate": "Tue, 20 Oct 2026 07:00:00 GMT",
+          "description": "Waar is Emile Ratelband en hoe is het met hem? Dat vragen zijn familieleden zich af. Ondertussen is Priv&#233; een onderzoek gestart en hoofdredacteur Evert Santegoeds licht een tipje van de sluier op."
+        },
+        {
+          "title": "Familie Emile Ratelband maakt zich grote zorgen: &quot;Pap, laat alsjeblieft iets horen&quot;",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/364545/familie-emile-ratelband-maakt-zich-grote-zorgen-pap-laat-alsjeblieft-iets-horen",
+          "publishedDate": "Mon, 19 Oct 2026 09:40:00 GMT",
+          "description": "Emile Ratelband wordt vermist: zoon Emilio (17) doet emotionele oproep op NH Radio. Familie looft beloning uit voor de gouden tip. Lees het hele verhaal."
+        },
+        {
+          "title": "Ook zoon Emilio slaat alarm om vermiste Emile Ratelband: zorgen om vader &#233;n broer en zus",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/media/update/zoon-emilio-ratelband-oproep-vermissing/",
+          "publishedDate": "Mon, 19 Oct 2026 03:09:00 GMT",
+          "description": "De familie van Emile Ratelband maakt zich grote zorgen om de 77-jarige positiviteitsgoeroe, die al lange tijd door hen gezocht wordt. Nadat dochter Minou eerder via social media een oproep deed en een ..."
+        }
+      ]
     }
   ]
 }
