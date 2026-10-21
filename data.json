@@ -1,45 +1,10 @@
 {
-  "fetchedAt": "2026-10-21T20:49:24.242Z",
+  "fetchedAt": "2026-10-21T23:51:21.801Z",
   "trends": [
     {
       "keyword": "php",
       "trafficLabel": "200K+",
       "articles": [
-        {
-          "title": "Stichting achter PHP omschrijft vertraging als „structureel falen”, wist al ruim twee jaar van beveiligingslek",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/10/21/stichting-achter-php-omschrijft-vertraging-als-structureel-falen-wist-al-ruim-twee-jaar-van-beveiligingslek-a4939496",
-          "publishedDate": "Wed, 21 Oct 2026 12:47:00 GMT",
-          "description": "Het beveiligingslek in PHP waardoor talloze organisaties in binnen- en buitenland vandaag hun websites offline moesten halen, was al jaren bekend bij de PHP Foundation, de ontwikkelaar van de programm ..."
-        },
-        {
-          "title": "De problemen rond programmeertaal PHP worden het ernstigste cyberlek in jaren genoemd. Wat is er aan de hand?",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/10/21/de-problemen-rond-programmeertaal-php-worden-het-ernstigste-cyberlek-in-jaren-genoemd-wat-is-er-aan-de-hand-a4939485",
-          "publishedDate": "Wed, 21 Oct 2026 09:53:00 GMT",
-          "description": "Cybersecurity: Cyberveiligheidsexperts maken zich grote zorgen om de veiligheidslekken in programmeertaal PHP. „De enige die hier echt gelukkig van wordt heet Poetin.” ..."
-        },
-        {
-          "title": "Wat weten we nu over de PHP-kwetsbaarheden waardoor veel sites offline zijn gegaan?",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/tweakers/6413928/wat-weten-we-nu-over-de-php-kwetsbaarheden-waardoor-veel-sites-offline-zijn-gegaan.html",
-          "publishedDate": "Wed, 21 Oct 2026 09:33:00 GMT",
-          "description": "Door twee ernstige kwetsbaarheden in programmeertaal PHP kunnen aanvallers op afstand websites aanpassen en mogelijk eigen code uitvoeren op servers. Hierdoor zijn veel sites uit voorzorg offline gega ..."
-        },
-        {
-          "title": "Websites komen langzaam weer online na beveiligingsupdate in programmeertaal PHP",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2636099-websites-komen-langzaam-weer-online-na-beveiligingsupdate-in-programmeertaal-php",
-          "publishedDate": "Wed, 21 Oct 2026 08:15:00 GMT",
-          "description": "Een programmeertaal is een taal waarmee je een computer vertelt wat hij moet doen, bijvoorbeeld om sites te bouwen. Door het lek in de taal waren websites die de taal gebruiken kwetsbaar voor hacks."
-        },
-        {
-          "title": "Door lek in internetcode PHP gaan websites uit voorzorg offline: ‘Criminelen hebben deze kwetsbaarheid mogelijk al jaren misbruikt’",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/door-lek-in-internetcode-php-gaan-websites-uit-voorzorg-offline-criminelen-hebben-deze-kwetsbaarheid-mogelijk-al-jaren-misbruikt~b36fb808/",
-          "publishedDate": "Wed, 21 Oct 2026 06:35:00 GMT",
-          "description": "Verschillende websites, waaronder die van de Tweede Kamer, zijn uit voorzorg offline gegaan vanwege kwetsbaarheden in de codetaal PHP. Daarop draaien grote delen van het internet. De PHP Foundation ze ..."
-        },
         {
           "title": "Teruglezen | Kwetsbaarheden van PHP werden op sociale media gelekt",
           "source": "NU.nl",
@@ -48,32 +13,31 @@
           "description": "Hallo en welkom in dit liveblog. Hier houden we je op de hoogte van de laatste ontwikkelingen rond de kwetsbaarheden in PHP. Heb je een vraag of tips? Mail die naar redactie@nu.nl."
         },
         {
-          "title": "PHP dicht twee kritieke lekken nadat wereldwijd websites offline werden gehaald",
-          "source": "Tweakers",
-          "url": "https://tweakers.net/nieuws/253592/php-dicht-twee-kritieke-lekken-nadat-wereldwijd-websites-offline-werden-gehaald.html",
-          "publishedDate": "Wed, 21 Oct 2026 09:14:00 GMT",
-          "description": "PHP heeft een patch uitgebracht om twee kritieke kwetsbaarheden te dichten. De makers adviseren gebruikers om direct een update uit te voeren. Uit voorzorg en in afwachting van de patch waren vanmidda ..."
+          "title": "TERUGLEZEN | Steeds meer websites weer in de lucht na beveiligingsupdate, stichting achter PHP diep door het stof",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/tech/teruglezen-steeds-meer-websites-weer-in-de-lucht-na-beveiligingsupdate-stichting-achter-php-diep-door-het-stof~a283e49f/",
+          "publishedDate": "Wed, 21 Oct 2026 06:14:00 GMT",
+          "description": "Meerdere grote websites zijn woensdag (tijdelijk) offline gehaald na waarschuwingen over kwetsbaarheden in de veelgebruikte programmeertaal PHP. Inmiddels is er een beveiligingsupdate beschikbaar waar"
+        }
+      ]
+    },
+    {
+      "keyword": "real betis - feyenoord",
+      "trafficLabel": "100K+",
+      "articles": [
+        {
+          "title": "Feyenoord verliest, maar &#233;&#233;n speler tankt volop vertrouwen tegen Real Betis",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/feyenoord-verliest-maar-een-speler-tankt-vertrouwen-tegen-real-betis",
+          "publishedDate": "Wed, 21 Oct 2026 16:06:00 GMT",
+          "description": "Hij kreeg de laatste tijd (terecht) een hoop kritiek te verwerken, maar tegen Real Betis heeft Feyenoord -doelman Tjark Ernst zich van een goede kant laten zien. De doelman heeft vertrouwen kunnen tanken in zijn derde Champions League-duel."
         },
         {
-          "title": "Patch om gat in programmeertaal PHP te dichten is beschikbaar",
-          "source": ".ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/patch-om-gat-in-programmeertaal-php-te-dichten-is-beschikbaar/ar-AA2fJOxX",
-          "publishedDate": "Wed, 21 Oct 2026 07:46:59 GMT",
-          "description": "SAN FRANCISCO (ANP) - De ontwikkelaars van programmeertaal PHP hebben woensdag twee patches beschikbaar gesteld. Die zijn gemaakt om de ontdekte kwetsbaarheden te dichten. Beheerders van websites hebb ..."
-        },
-        {
-          "title": "LIVE | Cyberexperts: 'PHP-lek heeft ook na patch nog maanden gevolgen'",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/tech/nieuws/artikelen/liveblog-websites-overheid-mijnoverheid-offline-php-kwetsbaarheden",
-          "publishedDate": "Wed, 21 Oct 2026 04:30:00 GMT",
-          "description": "Steeds meer Nederlandse websites zijn offline door kwetsbaarheden in PHP. Ook MijnOverheid, de Tweede Kamer en systemen van onderwijsinstellingen zijn getroffen."
-        },
-        {
-          "title": "LIVE Beveiligingslek PHP | Steeds meer websites weer in de lucht na beveiligingsupdate, stichting achter PHP diep door het stof",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/tech/live-beveiligingslek-php-steeds-meer-websites-weer-in-de-lucht-na-beveiligingsupdate-stichting-achter-php-diep-door-het-stof~a283e49f/?slug_rd=1",
-          "publishedDate": "Wed, 21 Oct 2026 04:25:00 GMT",
-          "description": "Meerdere grote websites zijn woensdag (tijdelijk) offline gehaald na waarschuwingen over kwetsbaarheden in de veelgebruikte programmeertaal PHP. Inmiddels is er een beveiligingsupdate beschikbaar waar ..."
+          "title": "Dit is de scheidsrechter van Real Betis - Feyenoord: onervaren Italiaan (39) gaf Ajacied veelbesproken rode kaart",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/dit-is-de-scheidsrechter-van-real-betis-feyenoord-onervaren-italiaan-39-gaf-ajacied-veelbesproken-rode-kaart-2026102015285307691/",
+          "publishedDate": "Wed, 21 Oct 2026 10:22:00 GMT",
+          "description": "Feyenoord krijgt woensdagavond te maken met een relatief onervaren scheidsrechter in de Champions League-clash met Real Betis. De UEFA heeft de 39-jarige Simone Sozza aangewezen als arbiter in de derd"
         }
       ]
     },
@@ -89,18 +53,18 @@
           "description": "De politie heeft 2 verdachten aangehouden voor oplichting van een 81-jarige vrouw in Heiloo. De vrouw raakte woensdagavond 14 oktober geld en sieraden kwijt nadat oplichters zich voordeden als medewer ..."
         },
         {
-          "title": "Gemeente Tynaarlo geeft voorlichting in Eelde over online oplichting",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/tynaarlo/gemeente-tynaarlo-geeft-voorlichting-in-eelde-over-online-oplichting~abdedb86/",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 GMT",
-          "description": "De gemeente Tynaarlo zet in op meer bewustzijn over online oplichting onder inwoners. Donderdag 22 oktober kunnen ouderen met vragen over digitale veiligheid terecht op de Actieve Seniorenmarkt in spo ..."
-        },
-        {
           "title": "Europese Commissie start onderzoek naar Booking.com om oplichting en misleidende advertenties",
           "source": "dutchitleaders.nl",
           "url": "https://www.dutchitleaders.nl/news/763245/europese-commissie-start-onderzoek-naar-booking-com-om-oplichting-en-misleidende-advertenties",
           "publishedDate": "Wed, 21 Oct 2026 08:09:00 GMT",
           "description": "De Commissie richt zich op drie punten. Het eerste is de vraag of Booking.com de risico's van illegale inhoud goed heeft vastgesteld en beoordeeld. Het gaat dan om nepvermeldingen van bijvoorbeeld acc ..."
+        },
+        {
+          "title": "Europese Commissie vindt dat Booking.com te weinig doet tegen fraude en oplichting",
+          "source": "Belga News Agency on MSN",
+          "url": "https://www.msn.com/nl-be/financien/algemeen/europese-commissie-vindt-dat-booking-com-te-weinig-doet-tegen-fraude-en-oplichting/ar-AA2fJAag",
+          "publishedDate": "Wed, 21 Oct 2026 04:44:22 GMT",
+          "description": "De Europese Commissie meent dat Booking.com onvoldoende inspanningen levert om online fraude en oplichting te verhinderen. Dat heeft de Commissie woensdag vastgesteld. Ze opent een onderzoek naar moge ..."
         },
         {
           "title": "Man uit Zutphen (18) aangehouden na oplichting via sms’je in Delft",
@@ -117,6 +81,13 @@
           "description": "De jongman die onlangs onherkenbaar in beeld werd gebracht is nu herkbaan in beeld gebracht. Hij had een week de tijd zich te melden nadat hij op 30 juli meewerkte aan de oplichting van een bejaarde m ..."
         },
         {
+          "title": "Twee verdachten aangehouden voor oplichting van 36 klanten aan tankstations van Schoten en Maldegem",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/20/2-verdachten-shimming-tankstation-schoten/",
+          "publishedDate": "Tue, 20 Oct 2026 02:21:00 GMT",
+          "description": "Twee mannen zitten in de gevangenis omdat ze verdacht worden van 'shimming' - een vorm van oplichting - van klanten aan tankstations in Schoten en Maldegem. Het gaat om een man van 49 uit Moldavi&#235; en ..."
+        },
+        {
           "title": "'Kans op telefonische oplichting groeit door vele datalekken'",
           "source": "Hart van Nederland",
           "url": "https://www.hartvannederland.nl/advies-en-tips/waarschuwen/artikelen/telefonische-oplichting-datalekken-nederland",
@@ -129,13 +100,6 @@
           "url": "https://digital-strategy.ec.europa.eu/nl/library/digital-services-act-study-financial-scams-online-platforms-and-ways-counter-them",
           "publishedDate": "Mon, 19 Oct 2026 17:00:00 GMT",
           "description": "Een nieuwe studie brengt de belangrijkste soorten online financi&#235;le oplichting in kaart, platformfuncties die oplichters exploiteren, hun impact op gebruikers en de samenleving en maatregelen die plat ..."
-        },
-        {
-          "title": "Pas op WhatsApp oplichting: “Wil je even op haar stemmen?”",
-          "source": "112Groningen",
-          "url": "https://112groningen.nl/438045/groningen/pas-op-whatsapp-oplichting-wil-je-even-op-haar-stemmen/",
-          "publishedDate": "Mon, 19 Oct 2026 14:22:00 GMT",
-          "description": "&quot;Wil je even op haar stemmen?&quot; Een klein verzoek van zelfs een bekende. Je helpt graag, maar achter die stemlink kan een oplichter zitten. Via een ..."
         },
         {
           "title": "Toch op die link geklikt? Nieuwe campagne moet online oplichting tegengaan",
@@ -154,82 +118,6 @@
       ]
     },
     {
-      "keyword": "real betis - feyenoord",
-      "trafficLabel": "50K+",
-      "articles": [
-        {
-          "title": "Waarom zelfs Lamine Yamal geen wedstrijd van Feyenoord-opponent Real Betis mist",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2636076-waarom-zelfs-lamine-yamal-geen-wedstrijd-van-feyenoord-opponent-real-betis-mist",
-          "publishedDate": "Wed, 21 Oct 2026 05:26:00 GMT",
-          "description": "&quot;Always Watch Betis&quot;, luidt de titel van het boek van de Deense schrijver Henrik M&#248;lstr&#248;m. Het is een ode aan Real Betis, tegenstander van Feyenoord in Sevilla in de Champions League."
-        },
-        {
-          "title": "LIVE Champions League | Feyenoord op achterstand tegen Real Betis, Van Bronckhorst wisselt twee keer",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/live-champions-league-feyenoord-op-achterstand-tegen-real-betis-van-bronckhorst-wisselt-twee-keer~a56017a4/",
-          "publishedDate": "Wed, 21 Oct 2026 01:20:00 GMT",
-          "description": "Feyenoord won vorige week met 3-2 van Como en hoopt die zege in de Champions League vanavond een goed vervolg te geven in Sevilla tegen Real Betis. Wat doet de koploper van de eredivisie in het zuiden ..."
-        },
-        {
-          "title": "189 Feyenoord-supporters vliegen in stijl naar Sevilla voor Champions League-kraker tegen Real Betis",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/rotterdam/189-feyenoord-supporters-vliegen-in-stijl-naar-sevilla-voor-champions-league-kraker-tegen-real-betis~a6d24586/",
-          "publishedDate": "Wed, 21 Oct 2026 01:15:00 GMT",
-          "description": "‘Dan is alles wat je hoort het lied van Feyenoord’ galmde door een Transavia-vliegtuig dat woensdagochtend vroeg vanaf Schiphol vertrok richting Sevilla. In die stad speelt Feyenoord woensdagavond de ..."
-        },
-        {
-          "title": "Dit is de opstelling van Feyenoord in Champions League-kraker met Real Betis: liefst vier wijzigingen",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/dit-is-de-opstelling-van-feyenoord-in-champions-league-kraker-met-real-betis-liefst-vier-wijzigingen-2026102021343700567/",
-          "publishedDate": "Wed, 21 Oct 2026 12:47:00 GMT",
-          "description": "Feyenoord speelt een prachtig affiche in de Champions League. De ploeg van Giovanni van Bronckhorst gaat op bezoek bij Real Betis in Sevilla. Na het doelpuntenspektakel tegen Telstar voert de trainer ..."
-        },
-        {
-          "title": "Dit is de scheidsrechter van Real Betis - Feyenoord: onervaren Italiaan (39) gaf Ajacied veelbesproken rode kaart",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/dit-is-de-scheidsrechter-van-real-betis-feyenoord-onervaren-italiaan-39-gaf-ajacied-veelbesproken-rode-kaart-2026102015285307691/",
-          "publishedDate": "Wed, 21 Oct 2026 10:22:00 GMT",
-          "description": "Feyenoord krijgt woensdagavond te maken met een relatief onervaren scheidsrechter in de Champions League-clash met Real Betis. De UEFA heeft de 39-jarige Simone Sozza aangewezen als arbiter in de derd ..."
-        },
-        {
-          "title": "LIVE: Real Betis zet Feyenoord flink onder druk in Sevilla (0-0)",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2271171/live-real-betis-zet-feyenoord-flink-onder-druk-in-sevilla-0-0",
-          "publishedDate": "Wed, 21 Oct 2026 09:49:00 GMT",
-          "description": "Het is nog geen negen maanden geleden dat Feyenoord voor het laatst tegenover Real Betis stond. In januari reisde een gehavende Rotterdamse ploeg naar Zuid-Spanje en verloor met 2-1. Ditmaal is het ..."
-        },
-        {
-          "title": "Vermoedelijke opstelling Feyenoord: liefst drie wijzigingen tegen Real Betis",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/vermoedelijke-opstelling-feyenoord-liefst-drie-wijzigingen-tegen-real-betis",
-          "publishedDate": "Wed, 21 Oct 2026 02:02:00 GMT",
-          "description": "Feyenoord lijkt tegen Real Betis drie wijzigingen door te voeren in de vermoedelijke opstelling voor het Champions League-duel van woensdagavond."
-        },
-        {
-          "title": "LIVE Champions League | Feyenoord krijgt kort voor rust enorme kans tegen Real Betis, maar Zechi&#235;l schiet van dichtbij over",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/voetbal/live-champions-league-feyenoord-krijgt-kort-voor-rust-enorme-kans-tegen-real-betis-maar-zechiel-schiet-van-dichtbij-over~a56017a4/",
-          "publishedDate": "Wed, 21 Oct 2026 00:30:00 GMT",
-          "description": "Feyenoord won vorige week met 3-2 van Como en hoopt die zege in de Champions League vanavond een goed vervolg te geven in Sevilla tegen Real Betis. Wat doet de koploper van de eredivisie in het zuiden ..."
-        },
-        {
-          "title": "LIVE Champions League | Feyenoord onstnapt aan achterstand tegen Real Betis, Ernst brengt redding op schot Parrott",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/voetbal/live-champions-league-feyenoord-onstnapt-aan-achterstand-tegen-real-betis-ernst-brengt-redding-op-schot-parrott~a56017a4/",
-          "publishedDate": "Wed, 21 Oct 2026 00:30:00 GMT",
-          "description": "Feyenoord won vorige week met 3-2 van Como en hoopt die zege in de Champions League vanavond een goed vervolg te geven in Sevilla tegen Real Betis. Wat doet de koploper van de eredivisie in het zuiden ..."
-        },
-        {
-          "title": "Betis - Feyenoord op tv: hoe laat en waar wordt het CL-duel uitgezonden?",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/betis-feyenoord-op-tv-hoe-laat-en-waar-wordt-het-cl-duel-uitgezonden",
-          "publishedDate": "Tue, 20 Oct 2026 23:55:00 GMT",
-          "description": "Feyenoord vervolgt het Champions League-avontuur met een uitwedstrijd tegen Real Betis Sevilla. Hoe laat en waar wordt de wedstrijd live uitgezonden? Je leest het hier."
-        }
-      ]
-    },
-    {
       "keyword": "real madrid - rb leipzig",
       "trafficLabel": "10K+",
       "articles": [
@@ -237,8 +125,43 @@
           "title": "LIVE Champions League | Club Brugge loopt verder uit tegen Lens, Real Madrid verdubbelt de voorsprong tegen Leipzig",
           "source": "Algemeen Dagblad",
           "url": "https://www.ad.nl/voetbal/live-champions-league-real-madrid-slaat-vlak-voor-rust-toe-tegen-rb-leipzig~a5160a8b/?slug_rd=1",
-          "publishedDate": "Wed, 21 Oct 2026 00:47:00 GMT",
+          "publishedDate": "Wed, 21 Oct 2026 14:46:00 GMT",
           "description": "Een volle avond Champions League-voetbal vanavond. Manchester United ging met pijnlijke cijfers onderuit op bezoek bij Como: &lt;a href=&quot;https://www.ad.nl/voetbal/crisis-compleet-bij-manchester-united-da ..."
+        },
+        {
+          "title": "Champions League-kraker Bayern-Arsenal onbeslist, Real Madrid blijft winnen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636152-champions-league-kraker-bayern-arsenal-onbeslist-real-madrid-blijft-winnen",
+          "publishedDate": "Wed, 21 Oct 2026 14:24:00 GMT",
+          "description": "Arsenal houdt aan de late 2-2 van Declan Rice een punt over aan het bezoek aan Bayern M&#252;nchen. Real Madrid maakt geen fout tegen RB Leipzig en wint simpel met 4-1."
+        },
+        {
+          "title": "Real Madrid te sterk voor Leipzig, Club Brugge met oud-Ajacied Forbs blijft verrassen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/real-madrid-te-sterk-voor-leipzig-club-brugge-met-oud-ajacied-forbs-blijft-verrassen~a5160a8b/",
+          "publishedDate": "Wed, 21 Oct 2026 07:17:00 GMT",
+          "description": "Real Madrid heeft in de Champions League gedaan wat het moest doen en won in eigen huis met 4-1 van RB Leipzig. Club Brugge blijft ondertussen verrassen. Na de knappe uitzege op Inter van vorige week ..."
+        },
+        {
+          "title": "LIVE Champions League | Real Madrid slaat vlak voor rust toe tegen RB Leipzig",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/voetbal/live-champions-league-real-madrid-slaat-vlak-voor-rust-toe-tegen-rb-leipzig~a5160a8b/",
+          "publishedDate": "Wed, 21 Oct 2026 14:46:00 GMT",
+          "description": "Een volle avond Champions League-voetbal vanavond. Manchester United ging met pijnlijke cijfers onderuit op bezoek bij Como: &lt;a href=&quot;https://www.ad.nl/voetbal/crisis-compleet-bij-manchester-united-da ..."
+        },
+        {
+          "title": "LIVE Champions League | Real Madrid slaat vlak voor rust toe dankzij Bernardo Silva, Club Brugge op voorsprong tegen Lens",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/voetbal/live-champions-league-real-madrid-slaat-vlak-voor-rust-toe-dankzij-bernardo-silva-club-brugge-op-voorsprong-tegen-lens~a5160a8b/",
+          "publishedDate": "Wed, 21 Oct 2026 14:46:00 GMT",
+          "description": "Een volle avond Champions League-voetbal vanavond. Manchester United ging met pijnlijke cijfers onderuit op bezoek bij Como: &lt;a href=&quot;https://www.ad.nl/voetbal/crisis-compleet-bij-manchester-united-da ..."
+        },
+        {
+          "title": "Yan Diomande schittert met absolute wereldgoal in eenvoudige zege Real Madrid",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/yan-diomande-schittert-met-absolute-wereldgoal-in-eenvoudige-zege-real-madrid/ar-AA2fL7dL",
+          "publishedDate": "Wed, 21 Oct 2026 13:55:59 GMT",
+          "description": "Real Madrid heeft woensdag een vrij eenvoudige zege geboekt in de Champions League. In Santiago Bernab&#233;u werd RB Leipzig met 4-1 verslagen door doelpunten van Bernardo Silva, Arda G&#252;ler, Kylian Mbapp&#233; ..."
         },
         {
           "title": "LIVE Champions League | Galatasaray wint in Frankrijk, Real Madrid ontvangt RB Leipzig en Inter thuis tegen Sjachtar",
@@ -262,32 +185,11 @@
           "description": "Real Madrid - RB Leipzig is op woensdag 21 oktober live te zien op Ziggo Sport 3. Voor die zender heb je Ziggo Sport Totaal nodig."
         },
         {
-          "title": "LIVE Champions League | Real Madrid slaat vlak voor rust toe tegen RB Leipzig",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/voetbal/live-champions-league-real-madrid-slaat-vlak-voor-rust-toe-tegen-rb-leipzig~a5160a8b/",
-          "publishedDate": "Wed, 21 Oct 2026 00:47:00 GMT",
-          "description": "Een volle avond Champions League-voetbal vanavond. Manchester United ging met pijnlijke cijfers onderuit op bezoek bij Como: &lt;a href=&quot;https://www.ad.nl/voetbal/crisis-compleet-bij-manchester-united-da ..."
-        },
-        {
-          "title": "LIVE Champions League | Real Madrid slaat vlak voor rust toe dankzij Bernardo Silva, Club Brugge op voorsprong tegen Lens",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/voetbal/live-champions-league-real-madrid-slaat-vlak-voor-rust-toe-dankzij-bernardo-silva-club-brugge-op-voorsprong-tegen-lens~a5160a8b/",
-          "publishedDate": "Wed, 21 Oct 2026 00:47:00 GMT",
-          "description": "Een volle avond Champions League-voetbal vanavond. Manchester United ging met pijnlijke cijfers onderuit op bezoek bij Como: &lt;a href=&quot;https://www.ad.nl/voetbal/crisis-compleet-bij-manchester-united-da ..."
-        },
-        {
           "title": "Real Madrid vs RB Leipzig voorspelling, tips en odds | Champions League",
           "source": "Eurosport",
           "url": "https://www.eurosport.nl/weddenschappen/voorspellingen/real-madrid-vs-rb-leipzig-voorspelling-tips-en-odds-champions-league-21-10-26/",
-          "publishedDate": "Tue, 20 Oct 2026 16:52:00 GMT",
+          "publishedDate": "Mon, 19 Oct 2026 17:00:00 GMT",
           "description": "In het Bernab&#233;u scoorde de ploeg van Jos&#233; Mourinho dit seizoen 19 keer en kreeg ze slechts vier tegendoelpunten, en zondag werd Sevilla met 4-1 verslagen. In Rome stond Real in de slotfase met 1-3 ach ..."
-        },
-        {
-          "title": "RB Leipzig legt Real Madrid vuur aan de schenen, maar kan niet stunten",
-          "source": "Vi",
-          "url": "https://www.vi.nl/nieuws/rb-leipzig-legt-real-madrid-vuur-aan-de-schenen-maar-kan-niet-stunten",
-          "publishedDate": "Wed, 06 Mar 2024 14:50:00 GMT",
-          "description": "Real Madrid heeft zich woensdagavond geplaatst voor de kwartfinale van de Champions League. Het won in de eerste wedstrijd met 1-0 van RB Leipzig en hoewel het in de return uiterst moeizaam ging, was ..."
         }
       ]
     },
@@ -301,13 +203,6 @@
           "url": "https://www.parool.nl/columns-opinie/vulkanologen-ontdekken-hoe-je-de-lekkerste-koffie-zet-het-heeft-nauwelijks-te-maken-met-exclusieve-koffiebonen~b1a88124/",
           "publishedDate": "Fri, 09 Oct 2026 18:00:00 GMT",
           "description": "Volgens echte kenners is dit allemaal maar onzin. Perfecte koffie heeft nauwelijks te maken met het soort koffiebonen, maar des te meer met de manier waarop die wordt gezet. Percolatie is het proces ..."
-        },
-        {
-          "title": "SOFTS - Arabica-koffie daalt na hoogste niveau in zes weken, suiker weinig veranderd",
-          "source": "MarketScreener",
-          "url": "https://nl.marketscreener.com/beursnieuws/softs-arabica-koffie-daalt-na-hoogste-niveau-in-zes-weken-suiker-weinig-veranderd-ce785cd8dd80f02c",
-          "publishedDate": "Tue, 20 Oct 2026 14:39:00 GMT",
-          "description": "Arabica-koffiefutures op ICE daalden dinsdag nadat ze een hoogste niveau in zes weken hadden bereikt, omdat afdekverkopen door boeren en winstnemingen door speculanten de vaart uit de markt haalden. ."
         },
         {
           "title": "Koffie hangt samen met minder lichaamsvet en meer spiermassa",
@@ -338,6 +233,13 @@
           "description": "Wachten met je eerste koffie na het opstaan? Daar is geen bewijs voor. In de eerste 2,5 uur maakt cafe&#239;ne je juist het vrolijkst."
         },
         {
+          "title": "Merediths verse koffie, persoonlijke aandacht en huisgemaakte cinnamon rolls maken wachten op Station Alexander fijn",
+          "source": "indebuurt",
+          "url": "https://indebuurt.nl/rotterdam/rotterdammers/beans-en-batters-zorgt-voor-koffie-en-rust-op-station-alexander~ab9aa105/",
+          "publishedDate": "Thu, 15 Oct 2026 10:45:00 GMT",
+          "description": "Beans &amp; batters is de nieuwe koffieplek op Station Rotterdam Alexander, gerund door Meredith. Lees haar verhaal en ontdek wat de zaak zo bijzonder maakt!"
+        },
+        {
           "title": "Nederlanders drinken 3,5 kopjes koffie per dag: Voedingscentrum legt uit wanneer het te veel wordt",
           "source": "Metro",
           "url": "https://www.metronieuws.nl/lifestyle/eten-drinken/2026/10/hoeveel-koffie-per-dag-te-veel/",
@@ -352,18 +254,18 @@
           "description": "Twintig jaar terugkijkend legt de Koffiebarometer 2026 de structurele tekortkomingen bloot in de wereldwijde koffie-industrie. Hoewel de prijs voor koffie op de wereldmarkt recent een historisch ..."
         },
         {
-          "title": "Is koffie goed voor je?",
-          "source": "vogue.nl",
-          "url": "https://www.vogue.nl/living/food/is-koffie-goed-voor-je/",
-          "publishedDate": "Mon, 09 Jun 2025 23:00:00 GMT",
-          "description": "Om een beter inzicht te krijgen in de voor- en nadelen van een kop koffie, hebben we contact opgenomen met topprofessionals op het gebied van neurologie en voeding. Personal trainer Gunnar Peterson ..."
+          "title": "Koffie drinken in Maastricht: Dit zijn de vijf leukste adressen verspreid door de stad",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/lifestyle/reizen-hotspots/a62851066/koffie-maastricht/",
+          "publishedDate": "Sat, 09 Nov 2024 22:01:00 GMT",
+          "description": "Maastricht: Absoluut een van onze favoriete steden in het zuiden van ons land. Mooie architectuur, genoeg te doen, fijne musea en theater tot leuke winkels en restaurants en andere tentjes waar we ..."
         },
         {
-          "title": "Koffie drinken op een lege maag? Lees hier waarom dat geen goed idee is",
-          "source": "vogue.nl",
-          "url": "https://www.vogue.nl/living/food/koffie-drinken-op-een-lege-maag/",
-          "publishedDate": "Fri, 04 Apr 2025 06:57:00 GMT",
-          "description": "Voor sommigen is dat eerste kopje koffie ’s ochtends een soort heilig ritueel – alleen jij, je koffie en een gezegend rustig moment om je dag goed te beginnen. Hoewel velen hebben geprobeerd om koffie ..."
+          "title": "Onze koffie krijgt het moeilijk door klimaatverandering: met deze 5 tips kan je daar zelf iets aan doen",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2024/04/23/klimaatimpact-koffie-hoe-groot-en-hoe-terugdringen/",
+          "publishedDate": "Sun, 05 May 2024 23:27:00 GMT",
+          "description": "De klimaatverandering dreigt de koffieplant weg te jagen uit de regio's waar ze nu geteeld wordt. Maar koffie veroorzaakt zelf ook een deeltje van de klimaatverandering. In Zuid-Amerika verdwijnt er ..."
         }
       ]
     },
@@ -379,18 +281,18 @@
           "description": "De zuidelijke provincies krijgen vrijdag mogelijk met stormweer te maken. Maar afhankelijk van de koers kan ook het noorden storm verwachten of blijft het in het hele land rustig. Hoe dan ook gaat het ..."
         },
         {
-          "title": "Two Orange warnings issued as Storm Austen to bring 'intense rain'",
-          "source": "RT&#201; Ireland",
-          "url": "https://www.rte.ie/news/ireland/2026/1021/1596203-weather-ireland/",
-          "publishedDate": "Wed, 21 Oct 2026 10:37:00 GMT",
-          "description": "A Status Yellow rain warning for counties Dublin and Wicklow is in effect ahead of the arrival of the first named storm of the season tomorrow."
+          "title": "Storm Austen to arrive as just one in eight say they’re fully prepared for winter weather",
+          "source": "Met Office on MSN",
+          "url": "https://www.msn.com/en-gb/weather/extreme-weather-events/storm-austen-to-arrive-as-just-one-in-eight-say-they-re-fully-prepared-for-winter-weather/ar-AA2fLBJw",
+          "publishedDate": "Wed, 21 Oct 2026 16:01:00 GMT",
+          "description": "With Storm Austen becoming the first named storm of the 2026/27 storm season, new Met Office research suggests that only one in eight people say they are fully prepared for severe winter weather."
         },
         {
-          "title": "Storm Austen: Met Office upgrades severe weather warning to amber as 80mph gusts threaten UK",
-          "source": "yourweather.co.uk",
-          "url": "https://www.yourweather.co.uk/news/forecasts/storm-austen-met-office-upgrades-severe-weather-warning-to-amber-as-80mph-gusts-threaten-uk.html",
-          "publishedDate": "Wed, 21 Oct 2026 09:23:00 GMT",
-          "description": "Storm Austen brings 80mph gusts as the Met Office issues an Amber warning, with heavy rain and further storms threatening the UK."
+          "title": "Schools to close on Friday due to Storm Austen",
+          "source": "BBC on MSN",
+          "url": "https://www.msn.com/en-us/news/other/schools-to-close-on-friday-due-to-storm-austen/ar-AA2fLl5S",
+          "publishedDate": "Wed, 21 Oct 2026 11:15:11 GMT",
+          "description": "A red wind warning is expected to be issued for the Channel Islands for the early hours of Thursday."
         },
         {
           "title": "BBC Weather warns second storm to follow Austen as maps show heavy rain and snow",
@@ -403,7 +305,7 @@
           "title": "Irish weather warning ahead of Storm Austen",
           "source": "BBC on MSN",
           "url": "https://www.msn.com/en-us/news/other/irish-weather-warning-ahead-of-storm-austen/ar-AA2fKjYo",
-          "publishedDate": "Wed, 21 Oct 2026 04:48:46 GMT",
+          "publishedDate": "Wed, 21 Oct 2026 05:48:00 GMT",
           "description": "The Republic of Ireland's weather service warns of potential of flooding and travel disruption."
         },
         {
@@ -414,6 +316,13 @@
           "description": "MET Eireann has extended a Status Yellow rain warning for two counties today ahead of a nationwide alert tomorrow. Ireland is bracing for a very unsettled few days after Storm Austen was named ..."
         },
         {
+          "title": "Amber ‘danger to life’ warning issued as Storm Austen to hit tomorrow bringing 80mph gales &amp; heavy rain",
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/news/40756477/storm-austen-brings-80-mph-gales-danger-warnings/",
+          "publishedDate": "Wed, 21 Oct 2026 04:06:00 GMT",
+          "description": "BRITS have been told to brace for 80mph winds and heavy rain as Storm Austen is set to batter the UK and potentially endanger lives. Amber and yellow weather warnings will come into place at ..."
+        },
+        {
           "title": "Weermodellen slaan alarm: storm Austen kan Belgi&#235; stevig raken",
           "source": "Nieuws365",
           "url": "https://www.nieuws365.be/weer/weermodellen-slaan-alarm-storm-austen-kan-belgie-stevig-raken",
@@ -421,25 +330,94 @@
           "description": "Belgi&#235; maakt zich op voor een onstuimiger einde van de week. Na een relatief zachte start van de herfst lijkt het weerbeeld grondig te veranderen. Een actieve depressie boven de Atlantische Oceaan tre ..."
         },
         {
-          "title": "Storm Austen: Cork, Kerry and Waterford under orange rain warning as flooding threatens",
-          "source": "Irish Examiner on MSN",
-          "url": "https://www.msn.com/en-ie/news/national/storm-austen-cork-kerry-and-waterford-under-orange-rain-warning-as-flooding-threatens/ar-AA2fJaNf",
-          "publishedDate": "Wed, 21 Oct 2026 03:26:00 GMT",
-          "description": "Dublin, Wexford and Wicklow will also face orange-level rain warnings, with a nationwide yellow wind and rain alert in place overnight ..."
-        },
-        {
-          "title": "Storm Austen komt naar Noord-Holland: mogelijk windkracht 9",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/364619/storm-in-aantocht-vrijdag-komt-austen-aan-in-noord-holland",
-          "publishedDate": "Tue, 20 Oct 2026 23:32:00 GMT",
-          "description": "Vrijdag kan het onstuimiger worden. Storm Austen, de eerste benoemde storm van het seizoen voor de Britse eilanden en Ierland, kan in de loop van de dag Texel en de Noordkop bereiken. De meeste wind ..."
-        },
-        {
           "title": "Vrijdag wordt herfstig: storm Austen brengt zware windstoten",
           "source": "truineer",
           "url": "https://www.truineer.be/2026/10/vrijdag-wordt-herfstig-storm-austen-brengt-zware-windstoten/",
           "publishedDate": "Tue, 20 Oct 2026 21:53:00 GMT",
           "description": "Meteorologen waarschuwen voor een actieve stormdepressie die gepaard gaat met veel regen en krachtige wind. In het binnenland worden rukwinden tussen 60 en 80 kilometer per uur voorspeld. Losse voorwe ..."
+        },
+        {
+          "title": "Update, onstuimig weer op komst: gaat het stormen?",
+          "source": "Weeronline",
+          "url": "https://www.weeronline.nl/nieuws/20-10-2026-onstuimig-weer-op-komst",
+          "publishedDate": "Tue, 20 Oct 2026 05:35:00 GMT",
+          "description": "Er komt onstuimig weer aan! In de loop van de week is zelfs kans op storm met zware windstoten. Lees hier wat je precies kunt verwachten. | Weeronline ..."
+        }
+      ]
+    },
+    {
+      "keyword": "bayern - arsenal",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Timber veroorzaakt penalty bij CL-gelijkspel Arsenal tegen Bayern M&#252;nchen",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6413959/timber-veroorzaakt-penalty-bij-cl-gelijkspel-arsenal-tegen-bayern-munchen.html",
+          "publishedDate": "Wed, 21 Oct 2026 15:56:00 GMT",
+          "description": "Bayern M&#252;nchen heeft woensdag met 2-2 gelijkgespeeld tegen Arsenal in de Champions League. Harry Kane vertolkte een hoofdrol met een goal en een assist, terwijl Jurri&#235;n Timber een penalty veroorzaakte ..."
+        },
+        {
+          "title": "Champions League-kraker Bayern-Arsenal onbeslist, Real Madrid blijft winnen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636152-champions-league-kraker-bayern-arsenal-onbeslist-real-madrid-blijft-winnen",
+          "publishedDate": "Wed, 21 Oct 2026 14:24:00 GMT",
+          "description": "Arsenal houdt aan de late 2-2 van Declan Rice een punt over aan het bezoek aan Bayern M&#252;nchen. Real Madrid maakt geen fout tegen RB Leipzig en wint simpel met 4-1."
+        },
+        {
+          "title": "Iedereen heeft het bij Bayern-Arsenal over Jurri&#235;n Timber",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/iedereen-heeft-het-bij-bayern-arsenal-over-jurrien-timber/",
+          "publishedDate": "Wed, 21 Oct 2026 16:09:00 GMT",
+          "description": "Jurri&#235;n Timber wordt over het algemeen volop geprezen bij Arsenal, maar dat was woensdagavond even anders. De Nederlandse verdediger maakte een minder ..."
+        },
+        {
+          "title": "Arsenal is foutloze status kwijt, laat doelpunt voorkomt nederlaag in M&#252;nchen",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/voetbal/arsenal-is-foutloze-status-kwijt-laat-doelpunt-voorkomt-nederlaag-in-munchen~a5e601f4/",
+          "publishedDate": "Wed, 21 Oct 2026 15:54:00 GMT",
+          "description": "Bayern M&#252;nchen heeft Arsenal het eerste puntenverlies bezorgd in de Champions League. De topper in de Allianz Arena eindigde onbeslist: 2-2."
+        },
+        {
+          "title": "Geen zege voor herstelde Vincent Kompany: grootmachten Bayern M&#252;chen en Arsenal houden elkaar in evenwicht",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/champions-league/geen-zege-voor-herstelde-vincent-kompany-grootmachten-bayern-muchen-en-arsenal-houden-elkaar-in-evenwicht~aec38bf8/",
+          "publishedDate": "Wed, 21 Oct 2026 15:52:00 GMT",
+          "description": "Aangename kraker in de Allianz Arena. Arsenal opende en eindigde sterk. Tussendoor domineerde Bayern M&#252;nchen, dat na dit gelijkspel 5 op 9 telt na drie &lt;a href=&quot;https://www.hln.be/champions-league/&quot; t ..."
+        },
+        {
+          "title": "LIVE Champions League | Bayern M&#252;nchen herstelt snel de schade tegen Arsenal: Davies scoort, heerlijke assist van Kane",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/voetbal/live-champions-league-bayern-munchen-herstelt-snel-de-schade-tegen-arsenal-davies-scoort-heerlijke-assist-van-kane~a5e601f4/",
+          "publishedDate": "Wed, 21 Oct 2026 14:35:00 GMT",
+          "description": "Een geweldig affiche vanavond in de Champions League: Bayern M&#252;nchen speelt tegen Arsenal. Welke grootmacht pakt de volle buit? Volg het hier live."
+        },
+        {
+          "title": "Heerlijke CL-topper tussen Bayern en Arsenal kent geen winnaar",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/heerlijke-cl-topper-tussen-bayern-en-arsenal-kent-geen-winnaar/ar-AA2fLqvQ",
+          "publishedDate": "Wed, 21 Oct 2026 14:13:45 GMT",
+          "description": "Bayern M&#252;nchen en Arsenal blijven na een onderlinge ontmoeting in de Champions League allebei ongeslagen. Het werd een heerlijke strijd tussen de twee Europese grootmachten, waar Harry Kane maar weer ..."
+        },
+        {
+          "title": "Arsenal en Bayern spelen gelijk in vermakelijk duel, negatieve hoofdrol Timber",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/arsenal-en-bayern-spelen-gelijk-in-vermakelijk-duel-negatieve-hoofdrol-timber/ar-AA2fLvAE",
+          "publishedDate": "Wed, 21 Oct 2026 13:57:02 GMT",
+          "description": "Bayern M&#252;nchen en Arsenal delen de punten woensdagavond in de Champions League. In een vermakelijk duel waarin beide ploegen genoeg kansen kregen op de overwinning werd de eindstand 2-2. Jurri&#235;n Timbe ..."
+        },
+        {
+          "title": "Praat mee op VP: Bayern M&#252;nchen – Arsenal",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-bayern-m%C3%BCnchen-arsenal/ar-AA2fL8Pz",
+          "publishedDate": "Wed, 21 Oct 2026 11:06:00 GMT",
+          "description": "Bayern M&#252;nchen en Arsenal staan woensdagavond tegenover elkaar in een absolute kraker in de Champions League. De wedstrijd begint om 21.00 uur. Volg het duel hieronder in de live-omgeving van VoetbalP ..."
+        },
+        {
+          "title": "LIVE Champions League | Topper in M&#252;nchen tussen Bayern en Arsenal, Kimmich ontbreekt vanwege ‘een overlijden in directe familie’",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/voetbal/live-champions-league-topper-in-munchen-tussen-bayern-en-arsenal-kimmich-ontbreekt-vanwege-een-overlijden-in-directe-familie~a5e601f4/",
+          "publishedDate": "Tue, 20 Oct 2026 23:00:00 GMT",
+          "description": "Een geweldig affiche vanavond in de Champions League: Bayern M&#252;nchen speelt tegen Arsenal. Welke grootmacht pakt de volle buit? Volg het hier vanaf 21.00 uur live."
         }
       ]
     },
@@ -448,18 +426,18 @@
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Don't Stop Believin': populaire musicalserie Glee maakt doorstart op Disney+",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2636129-don-t-stop-believin-populaire-musicalserie-glee-maakt-doorstart-op-disney",
-          "publishedDate": "Wed, 21 Oct 2026 11:10:00 GMT",
-          "description": "De serie was onder meer in Nederland tussen 2009 en 2015 een grote hit. Meerdere acteurs van destijds zijn inmiddels overleden."
-        },
-        {
           "title": "Groen licht voor doorstart musicalserie Glee op Disney+",
           "source": "NOS",
           "url": "https://nos.nl/artikel/2636129-groen-licht-voor-doorstart-musicalserie-glee-op-disney",
           "publishedDate": "Wed, 21 Oct 2026 11:10:00 GMT",
           "description": "De serie was onder meer in Nederland tussen 2009 en 2015 een grote hit. Meerdere acteurs van destijds zijn inmiddels overleden."
+        },
+        {
+          "title": "Disney+ geeft groen licht aan reboot van hitserie Glee",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5660280/disney-geeft-groen-licht-aan-reboot-van-hitserie-glee",
+          "publishedDate": "Wed, 21 Oct 2026 05:49:00 GMT",
+          "description": "Disney+ heeft groen licht gegeven voor de reboot van televisiehit Glee. Amerikaanse media bevestigen dat producent Ryan Murphy aan de slag was met zijn idee voor een doorstart van de populaire musical ..."
         },
         {
           "title": "Tv-zender 24Kitchen stopt met lineaire tv en gaat verder op Disney+",
@@ -506,7 +484,7 @@
         {
           "title": "Dit zijn de beste nieuwe films en series op Disney+ (week 42, 2026)",
           "source": "FilmVandaag.nl on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/tv/dit-zijn-de-beste-nieuwe-films-en-series-op-disney-week-42-2026/ar-AA2euWSv",
+          "url": "https://www.msn.com/nl-nl/entertainment/streaming-films-en-tv/dit-zijn-de-beste-nieuwe-films-en-series-op-disney-week-42-2026/ar-AA2euWSv",
           "publishedDate": "Sun, 18 Oct 2026 08:57:00 GMT",
           "description": "We blikken vandaag terug op het nieuwe aanbod van Disney+ van deze week. Zo hebben we Clown Panic (2026) en kijken we op de streamingdienst deze ..."
         },
@@ -520,202 +498,84 @@
       ]
     },
     {
-      "keyword": "stand como 1907 - manchester united",
+      "keyword": "real betis",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Como thrash Manchester United to deepen Carrick’s crisis",
-          "source": "playmakerstats.com on MSN",
-          "url": "https://www.msn.com/en-gb/sport/football/como-thrash-manchester-united-to-deepen-carrick-s-crisis/ar-AA2fKzbC",
-          "publishedDate": "Wed, 21 Oct 2026 12:09:26 GMT",
-          "description": "Manchester United suffered a humiliating 4-1 defeat by Como 1907 as Michael Carrick’s side extended their winless run to seven matches. Nico Paz scored twice and set up another goal as Cesc Fabregas’ ..."
+          "title": "Feyenoord verliest, maar &#233;&#233;n speler tankt volop vertrouwen tegen Real Betis",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/feyenoord-verliest-maar-een-speler-tankt-vertrouwen-tegen-real-betis",
+          "publishedDate": "Wed, 21 Oct 2026 16:06:00 GMT",
+          "description": "Hij kreeg de laatste tijd (terecht) een hoop kritiek te verwerken, maar tegen Real Betis heeft Feyenoord -doelman Tjark Ernst zich van een goede kant laten zien. De doelman heeft vertrouwen kunnen tanken in zijn derde Champions League-duel."
         },
         {
-          "title": "Sieben Spiele ohne Sieg! Manchester United kassiert in Como die n&#228;chste Klatsche",
-          "source": "SPOX.com on MSN",
-          "url": "https://www.msn.com/de-de/nachrichten/other/sieben-spiele-ohne-sieg-manchester-united-kassiert-in-como-die-n%C3%A4chste-klatsche/ar-AA2fKMnM",
-          "publishedDate": "Wed, 21 Oct 2026 11:52:55 GMT",
-          "description": "Manchester United ist bei Leipzig-Schreck Como 1907 noch tiefer in die Krise geschlittert."
-        },
-        {
-          "title": "Fu&#223;ball heute Ergebnisse: Wie hat Como 1907 gegen Manchester United gespielt? 4:1 + Tabelle",
-          "source": "Deutsche Fu&#223;ballnationalmannschaft",
-          "url": "https://www.fussballnationalmannschaft.net/como-manchester-united-ergebnis-champions-league-123311772.html",
-          "publishedDate": "Wed, 21 Oct 2026 11:45:00 GMT",
-          "description": "Fu&#223;ball heute Ergebnisse: Como 1907 hat Manchester United am 3. Spieltag der Champions-League-Ligaphase mit 4:1 (1:0) geschlagen. Nicol&#225;s Paz traf doppelt (2., 57.), dazu kamen Tore von Tasos Douvikas ..."
-        },
-        {
-          "title": "Como vs Manchester United LIVE Updates in UEFA Champions League (0-0)",
-          "source": "VAVEL",
-          "url": "https://www.vavel.com/en-us/soccer/2026/10/21/1276244-como-vs-manchester-united-live-score-uefa-champions-league.html",
-          "publishedDate": "Wed, 21 Oct 2026 10:46:00 GMT",
-          "description": "Get real-time updates on Como vs Manchester United live coverage, minute by minute of the match, score, how to watch, stream information and latest updates of 2026-27 UEFA Champions League Matchday 3 ..."
-        },
-        {
-          "title": "Starkregen und Gewitter sorgen vor Como gegen Manchester United f&#252;r Unsicherheit. Wegen dem Unwetter wurde &#252;ber eine Verschiebung diskutiert.",
-          "source": "weekend.at",
-          "url": "https://www.weekend.at/sport/como-manchester-united-absage-wetter",
-          "publishedDate": "Wed, 21 Oct 2026 08:07:00 GMT",
-          "description": "Starkregen und Gewitter sorgen vor Como gegen Manchester United f&#252;r Unsicherheit. Wegen dem Unwetter wurde &#252;ber eine Verschiebung diskutiert."
-        },
-        {
-          "title": "Como consolation for Man Utd fans on Champions League’s best trip even if the football is rubbish",
-          "source": "Planet Football on MSN",
-          "url": "https://www.msn.com/en-xl/news/other/como-consolation-for-man-utd-fans-on-champions-leagues-best-trip-even-if-the-football-is-rubbish/ar-AA2fJqFA",
-          "publishedDate": "Wed, 21 Oct 2026 02:15:44 GMT",
-          "description": "Why Man Utd got lucky with Como ..."
+          "title": "Dit is de scheidsrechter van Real Betis - Feyenoord: onervaren Italiaan (39) gaf Ajacied veelbesproken rode kaart",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/dit-is-de-scheidsrechter-van-real-betis-feyenoord-onervaren-italiaan-39-gaf-ajacied-veelbesproken-rode-kaart-2026102015285307691/",
+          "publishedDate": "Wed, 21 Oct 2026 10:22:00 GMT",
+          "description": "Feyenoord krijgt woensdagavond te maken met een relatief onervaren scheidsrechter in de Champions League-clash met Real Betis. De UEFA heeft de 39-jarige Simone Sozza aangewezen als arbiter in de derd"
         }
       ]
     },
     {
-      "keyword": "anwb",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "ANWB neemt NextEnergy over om grotere speler op energiemarkt te worden",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6413432/anwb-neemt-nextenergy-over-om-grotere-speler-op-energiemarkt-te-worden.html",
-          "publishedDate": "Fri, 16 Oct 2026 10:30:00 GMT",
-          "description": "De ANWB neemt de Utrechtse energieleverancier NextEnergy over. Daarmee denkt de organisatie een grotere speler op de Nederlandse energiemarkt te worden."
-        },
-        {
-          "title": "De ANWB krijgt bakken kritiek te verduren",
-          "source": "Autoblog.nl on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/de-anwb-krijgt-bakken-kritiek-te-verduren/ar-AA2fKDIr",
-          "publishedDate": "Wed, 21 Oct 2026 08:59:00 GMT",
-          "description": "Je betaalt jarenlang keurig voor pechhulp, in de hoop dat je er nooit gebruik van hoeft te maken. Maar als je dan ergens in Zuid-Frankrijk of Spanje met een rokende motorkap langs de snelweg staat, wi ..."
-        },
-        {
-          "title": "Pech in het buitenland? Dit maakt veel ANWB-klanten ontevreden",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/tech/pech-in-het-buitenland-dit-maakt-veel-anwb-klanten-ontevreden",
-          "publishedDate": "Tue, 20 Oct 2026 23:32:00 GMT",
-          "description": "Pech onderweg heb je liever niet. Als het toch gebeurt, dan liefst in Nederland. Daar is bijna iedereen tevreden over de pechhulp van de ANWB: 94 procent. In het buitenland is dat heel anders. Daar is ..."
-        },
-        {
-          "title": "Lijster van Rossem: ANWB is meer dan de Wegenwacht",
-          "source": "Marketing Report",
-          "url": "https://marketingreport.nl/lijster-van-rossem-anwb-is-meer-dan-de-wegenwacht",
-          "publishedDate": "Tue, 20 Oct 2026 15:07:00 GMT",
-          "description": "Marketing Report publiceert een serie interviews met marketeers die voor het eerst zijn genomineerd voor de Marketing250. Vandaag spreken we Lijster van Rossem, Lead Brand &amp; Commun ..."
-        },
-        {
-          "title": "Grote ontevredenheid over pechhulp ANWB in buitenland",
-          "source": "NPO Radio 1",
-          "url": "https://www.nporadio1.nl/fragmenten/eenvandaag/01a158e5-d964-7229-b6f7-fc95ad8cc8e7/2026-10-20-grote-ontevredenheid-over-pechhulp-anwb-in-buitenland",
-          "publishedDate": "Tue, 20 Oct 2026 05:00:00 GMT",
-          "description": "Grote ontevredenheid bij mensen die de afgelopen jaren autopech in het buitenland hadden. Internationale pechhulp wordt voornamelijk geboden door de ANWB en daar zijn veel klachten over. Dat blijkt ui ..."
-        },
-        {
-          "title": "ANWB kiest occasion van het jaar 2027: deze hybride valt zelfs goedkoper uit dan de Dacia",
-          "source": "Autobahn on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/anwb-kiest-occasion-van-het-jaar-2027-deze-hybride-valt-zelfs-goedkoper-uit-dan-de-dacia/ar-AA2fDhZD",
-          "publishedDate": "Tue, 20 Oct 2026 02:50:00 GMT",
-          "description": "Een Dacia Duster staat bekend als betaalbaar, maar bij een nieuwe verkiezing van de ANWB gebeurt iets verrassends. De organisatie heeft voor het eerst een Occasion van het Jaar gekozen en daarbij drie ..."
-        },
-        {
-          "title": "Grote ontevredenheid over pechhulp ANWB in buitenland: 'Een vakantie met onnodig veel stress'",
-          "source": "EenVandaag",
-          "url": "https://eenvandaag.avrotros.nl/opiniepanel/uitslagen/grote-ontevredenheid-over-pechhulp-anwb-in-buitenland-een-vakantie-met-onnodig-veel-stress-165139",
-          "publishedDate": "Mon, 19 Oct 2026 22:00:00 GMT",
-          "description": "Vaak moeten bellen in de brandende zon, niet nagekomen beloftes of vervangend vervoer 100 kilometer verderop: het zijn voorbeelden van 4 op de 10 ..."
-        },
-        {
-          "title": "Kia Niro is ANWB Occasion van het Jaar 2027",
-          "source": "Autoplus",
-          "url": "https://www.autoplus.nu/index.php/merken/kia/7125-kia-niro-is-anwb-occasion-van-het-jaar-2027",
-          "publishedDate": "Mon, 19 Oct 2026 17:00:00 GMT",
-          "description": "De Kia Niro is uitgeroepen tot ANWB Occasion van het Jaar 2027. Met de nieuwe verkiezing helpt de ANWB consumenten bij de keuze voor een gebruikte auto. Deelnemende modellen mogen maximaal € 20.000 ko ..."
-        },
-        {
-          "title": "Vijf inzichten uit de werkplekstrategie van ANWB",
-          "source": "Facto",
-          "url": "https://www.facto.nl/45299/vijf-inzichten-uit-de-werkplekstrategie-van-anwb",
-          "publishedDate": "Sun, 18 Oct 2026 21:38:00 GMT",
-          "description": "Het ANWB-hoofdkantoor is nog niet geopend, maar biedt nu al genoeg voor FM om van te leren. Van intensieve medewerkersparticipatie tot een strategische rol voor facility management en nog drie waardev ..."
-        },
-        {
-          "title": "Overname NextEnergy maakt ANWB onbetwiste marktleider in dynamische energiecontracten voor consumenten",
-          "source": "Solar Magazine",
-          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45114/overname-nextenergy-maakt-anwb-onbetwiste-marktleider-in-dynamische-energiecontracten-voor-consumenten",
-          "publishedDate": "Fri, 16 Oct 2026 01:45:00 GMT",
-          "description": "ANWB neemt branchegenoot NextEnergy over en verstevigt zo zijn positie als grootste aanbieder van dynamische energiecontracten van Nederland. De Autoriteit Consument &amp; Markt (ACM) moet de overname nog ..."
-        }
-      ]
-    },
-    {
-      "keyword": "bayern - arsenal",
+      "keyword": "romano hummel",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "LIVE Champions League | Topper tussen Bayern en Arsenal begonnen in M&#252;nchen, basisplaats voor Saibari en Timber",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/live-champions-league-topper-tussen-bayern-en-arsenal-begonnen-in-munchen-basisplaats-voor-saibari-en-timber~a5e601f4/",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 GMT",
-          "description": "Een geweldig affiche vanavond in de Champions League: Bayern M&#252;nchen speelt tegen Arsenal. Welke grootmacht pakt de volle buit? Volg het hier vanaf 21.00 uur live."
+          "title": "Grasbaancoureur Romano Hummel plotseling overleden",
+          "source": "RTV Noord",
+          "url": "https://www.rtvnoord.nl/sport/1447421/grasbaancoureur-romano-hummel-plotseling-overleden",
+          "publishedDate": "Wed, 21 Oct 2026 14:28:00 GMT",
+          "description": "Grasbaancoureur Romano Hummel uit Hoogkerk is woensdag plotseling overleden. Hij is slechts 27 jaar oud geworden."
         },
         {
-          "title": "Dossier-Tresoldi wordt h&#233;&#233;l interessant: 'Arsenal wacht ni&#233;t tot de zomer, Inter zorgt voor Italiaanse bom'",
-          "source": "Voetbalkrant.com",
-          "url": "https://www.voetbalkrant.com/nieuws/2026-10-21/dossier-tresoldi-wordt-heel-interessant-arsenal-wacht-niet-tot-de-zomer-inter-zorgt-voor-italiaanse-bom",
-          "publishedDate": "Wed, 21 Oct 2026 12:30:00 GMT",
-          "description": "Nicol&#242; Tresoldi is grof wild op de transfermarkt. De Europese topclubs staan in de rij voor de aanvaller van Club Brugge. Arsenal FC zou zelfs al in januari willen toeslaan, terwijl Internazionale FC ..."
+          "title": "Romano Hummel stopt ermee",
+          "source": "De Krant",
+          "url": "https://www.dekrantnieuws.nl/sport/sport/105709/romano-hummel-stopt-ermee-vze6f7",
+          "publishedDate": "Wed, 30 Sep 2026 05:07:00 GMT",
+          "description": "HOOGKERK – Na 23 jaar op de motor is het voor Romano Hummel genoeg geweest. De 27-jarige grasbaan- en langbaancoureur uit Hoogkerk heeft zijn laatste meters gereden. Niet omdat hij niet meer mee kan, ..."
         },
         {
-          "title": "Praat mee op VP: Bayern M&#252;nchen – Arsenal",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-bayern-m%C3%BCnchen-arsenal/ar-AA2fL8Pz",
-          "publishedDate": "Wed, 21 Oct 2026 11:06:00 GMT",
-          "description": "Bayern M&#252;nchen en Arsenal staan woensdagavond tegenover elkaar in een absolute kraker in de Champions League. De wedstrijd begint om 21.00 uur. Volg het duel hieronder in de live-omgeving van VoetbalP ..."
+          "title": "Tranen en triomf in Aduard: hoe knokte Romano Hummel zich terug aan de top?",
+          "source": "ditisroden.nl",
+          "url": "https://www.ditisroden.nl/nieuwsbericht/tranen-en-triomf-in-aduard-hoe-knokte-romano-hummel-zich-terug-aan-de-top",
+          "publishedDate": "Sat, 19 Jul 2025 17:00:00 GMT",
+          "description": "Tranen, spanning en een comeback: wat gebeurde er &#233;cht op de grasbaan in Aduard? Op 19 juli 2025 stond het Groningse Aduard in het teken van pure motorsportactie. De thuisbaan van Romano Hummel vormde ..."
         },
         {
-          "title": "Groot verdriet bij Bayern M&#252;nchen: Duitse topclub deelt tragisch nieuws rondom sterspeler",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/buitenlands-voetbal/nieuws/groot-verdriet-bij-bayern-munchen-duitse-topclub-deelt-tragisch-nieuws-rondom-sterspeler-2026102114444711304/",
-          "publishedDate": "Wed, 21 Oct 2026 09:45:00 GMT",
-          "description": "Bayern M&#252;nchen moet het woensdagavond in het Champions League-duel tegen Arsenal doen zonder Joshua Kimmich. De 31-jarige Duitse international ontbreekt vanwege bijzonder verdrietige priv&#233;omstandighed ..."
+          "title": "Romano Hummel (26) komt terug op besluit: grasbaanracer uit Hoogkerk gaat w&#233;l door. 'Het is mijn leven'",
+          "source": "DVHN",
+          "url": "https://dvhn.nl/sport/romano-hummel-motorracen-is-mijn-leven/156817232.html",
+          "publishedDate": "Fri, 03 Jan 2025 04:29:00 GMT",
+          "description": "Nu komt Hummel op die beslissing terug. Want een leven zonder races is voor de coureur toch niet mogelijk. Hij zou er volgens zijn vriendin Aur&#233;lie en moeder van hun kinderen Keayano (5) en Emilie (2) ..."
         },
         {
-          "title": "Live 18.45 uur | Como - Manchester United (1-0)",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-champions-league-feyenoord-treft-oud-ajacied-antony-in-spanje-absolute-kraker-in-m%C3%BCnchen/ar-AA2fIefB",
-          "publishedDate": "Wed, 21 Oct 2026 09:30:00 GMT",
-          "description": "Dit is het livetopic voor de Champions League-wedstrijden van woensdagavond. Feyenoord neemt het om 21.00 uur in Spanje op tegen Real Betis. Net als dinsdag staan er vanavond weer heerlijke affiches o ..."
+          "title": "Romano Hummel zet punt achter sportcarri&#232;re: “Ik kijk terug op een enorm mooie tijd”",
+          "source": "OOG",
+          "url": "https://www.oogtv.nl/2024/09/romano-hummel-zet-punt-achter-sportcarriere-ik-kijk-terug-op-een-enorm-mooie-tijd/",
+          "publishedDate": "Sun, 29 Sep 2024 15:19:00 GMT",
+          "description": "Grasbaancoureur Romano Hummel heeft een punt gezet achter zijn carri&#232;re. Dat heeft de 25-jarige inwoner van Hoogkerk zondag bekendgemaakt via zijn sociale mediakanalen. Het besluit komt niet helemaal ..."
         },
         {
-          "title": "LIVE Champions League | Bayern M&#252;nchen herstelt snel de schade tegen Arsenal: Davies scoort, heerlijke assist van Kane",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/voetbal/live-champions-league-bayern-munchen-herstelt-snel-de-schade-tegen-arsenal-davies-scoort-heerlijke-assist-van-kane~a5e601f4/",
-          "publishedDate": "Wed, 21 Oct 2026 00:34:00 GMT",
-          "description": "Een geweldig affiche vanavond in de Champions League: Bayern M&#252;nchen speelt tegen Arsenal. Welke grootmacht pakt de volle buit? Volg het hier live."
+          "title": "Clubrijder Romano Hummel uit Hoogkerk wil wederom Gouden Helm",
+          "source": "De Krant",
+          "url": "https://www.dekrantnieuws.nl/sport/sport/81966/clubrijder-romano-hummel-uit-hoogkerk-wil-wederom-gouden-helm",
+          "publishedDate": "Tue, 17 Sep 2024 07:00:00 GMT",
+          "description": "RODEN - Op zondag 22 september kunnen de baansportliefhebbers weer hun vingers aflikken op Speed Centre Roden. De Stichting Motorsport Roden (SMR) serveert dan het hoofdgerecht van het Nederlandse ..."
         },
         {
-          "title": "LIVE - Met Kompany toch gewoon langs de lijn: Bayern (zonder Olise) kijkt in de ogen van Arsenal voor topclash",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/matches/voetbal/eur/uefa-champions-league/2026-2027/leaguefase/03/bayern-munchen-arsenal-live-met-kompany-toch-gewoon-langs-de-lijn-bayern-zonder-olise-kijkt-in-de-ogen-van-arsenal-voor-topclash~1781707203893/",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 GMT",
-          "description": "De kraker van woensdagavond in de Champions League is het duel tussen Bayern M&#252;nchen en Arsenal. Of een zieke Vincent Kompany bij de thuisploeg langs de lijn zal staan, is nog altijd onduidelijk."
+          "title": "Motorcoureur Romano Hummel uit Hoogkerk komt zwaar ten val tijdens WK-langbaan. Wedstrijd Roden hopelijk haalbaar",
+          "source": "ditisroden.nl",
+          "url": "https://www.ditisroden.nl/nieuwsbericht/motorcoureur-romano-hummel-uit-hoogkerk-komt-zwaar-ten-val-tijdens-wk-langbaan-wedstrijd-roden-hopelijk-haalbaar",
+          "publishedDate": "Sun, 15 Sep 2024 17:00:00 GMT",
+          "description": "Grasbaancoureur Romano Hummel uit Hoogkerk is na een val bij de vierde wedstrijd van het WK in het Duitse Vechta in het ziekenhuis beland. De Hoogkerker crashte tijdens de derde heat. De Fransman ..."
         },
         {
-          "title": "LIVE - Met Kompany toch gewoon langs de lijn: Bayern (zonder Olise) kijkt in de ogen van Arsenal voor topclach",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/matches/voetbal/eur/uefa-champions-league/2026-2027/leaguefase/03/bayern-munchen-arsenal-live-met-kompany-toch-gewoon-langs-de-lijn-bayern-zonder-olise-kijkt-in-de-ogen-van-arsenal-voor-topclach~1781707203893/",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 GMT",
-          "description": "De kraker van woensdagavond in de Champions League is het duel tussen Bayern M&#252;nchen en Arsenal. Of een zieke Vincent Kompany bij de thuisploeg langs de lijn zal staan, is nog altijd onduidelijk."
-        },
-        {
-          "title": "LIVE Champions League | Topper in M&#252;nchen tussen Bayern en Arsenal, Kimmich ontbreekt vanwege ‘een overlijden in directe familie’",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/voetbal/live-champions-league-topper-in-munchen-tussen-bayern-en-arsenal-kimmich-ontbreekt-vanwege-een-overlijden-in-directe-familie~a5e601f4/",
-          "publishedDate": "Tue, 20 Oct 2026 23:00:00 GMT",
-          "description": "Een geweldig affiche vanavond in de Champions League: Bayern M&#252;nchen speelt tegen Arsenal. Welke grootmacht pakt de volle buit? Volg het hier vanaf 21.00 uur live."
-        },
-        {
-          "title": "LIVE. Aftrap! Nemen herstelde Vincent Kompany en Bayern M&#252;nchen de scalp van Arsenal?",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/champions-league/live-aftrap-nemen-herstelde-vincent-kompany-en-bayern-munchen-de-scalp-van-arsenal~aec38bf8/",
-          "publishedDate": "Mon, 19 Oct 2026 08:26:00 GMT",
-          "description": "D&#233; topaffiche in de &lt;a href=&quot;https://www.hln.be/champions-league/&quot; target=&quot;_blank&quot;&gt;Champions League woensdagavond is die tussen Bayern M&#252;nchen en Arsenal. Wie wint de clash der grootmachten?"
+          "title": "Wereldkampioen Romano Hummel ontvangt Ben Majoor Trofee",
+          "source": "motorfreaks",
+          "url": "https://motorfreaks.nl/artikel/wereldkampioen-romano-hummel-ontvangt-ben-majoor-trofee/",
+          "publishedDate": "Sat, 02 Apr 2022 05:00:00 GMT",
+          "description": "Het bestuur van de KNMV heeft besloten om de Ben Majoor Trofee voor jong talent in de motorsport toe te kennen aan Romano Hummel, die in 2021 wereldkampioen Langbaan werd. Foto: Jesper ..."
         }
       ]
     }
