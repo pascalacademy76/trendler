@@ -1,155 +1,99 @@
 {
-  "fetchedAt": "2026-10-22T18:22:12.834Z",
+  "fetchedAt": "2026-10-22T21:49:04.769Z",
   "trends": [
     {
-      "keyword": "dinamo zagreb - nec",
-      "trafficLabel": "20K+",
+      "keyword": "ajax",
+      "trafficLabel": "50K+",
       "articles": [
         {
-          "title": "NEC geeft voorsprong weg tegen Dinamo Zagreb • Byskov en Patati geven AZ droomstart in Yerevan",
+          "title": "Invallers Arokodare en Ouazane helpen Ajax met late treffers langs Atalanta",
           "source": "NOS",
-          "url": "https://nos.nl/liveblog/2636224-keeper-crettaz-redt-nec-in-zagreb-lebreton-raakt-lat-byskov-schiet-az-op-voorsprong-in-yerevan",
-          "publishedDate": "Thu, 22 Oct 2026 08:42:00 GMT",
-          "description": "In dit liveblog volgen we de wedstrijden van AZ en NEC in de Europa League en de duels van Ajax en FC Twente in de Conference League."
+          "url": "https://nos.nl/artikel/2636270-invallers-arokodare-en-ouazane-helpen-ajax-met-late-treffers-langs-atalanta",
+          "publishedDate": "Thu, 22 Oct 2026 13:51:00 GMT",
+          "description": "De Amsterdammers lijken lang af te stevenen op een doelpuntloos gelijkspel tegen Atalanta, maar winnen dankzij late treffers van invallers Tolu Arokodare en Abdellah Ouazane."
         },
         {
-          "title": "Live Europa League 18.45 uur | Ararat-Armenia - AZ (0-2) | Dinamo Zagreb - NEC (2-3)",
+          "title": "Eerste zege is binnen voor Ajax, dat dankzij late goals van invallers Tolu en Ouazane wint van Atalanta",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/eerste-zege-is-binnen-voor-ajax-dat-dankzij-late-goals-van-invallers-tolu-en-ouazane-wint-van-atalanta~ae9b9f61/",
+          "publishedDate": "Thu, 22 Oct 2026 07:15:00 GMT",
+          "description": "Ajax heeft de eerste punten binnen in de Conference League. In de Johan Cruijff Arena kreeg de ploeg van M&#237;chel S&#225;nchez veel kansen, maar het waren de invallers die het moesten doen. Door late goals v ..."
+        },
+        {
+          "title": "Ajax-spits Tolu beukt verdediger aan de kant en scoort tegen Atalanta",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/331554/video/ajax-spits-tolu-beukt-verdediger-aan-de-kant-en-scoort-tegen-atalanta.html",
+          "publishedDate": "Thu, 22 Oct 2026 01:58:00 GMT",
+          "description": "De fysiek sterke spits van de Amsterdammers maakte daarmee het enige doelpunt van de Conference League-wedstrijd. Al het Europees voetbal kijk je bij Ziggo Sport."
+        },
+        {
+          "title": "Marcos Leonardo worstelt door bij Ajax: 'Ik ben het niet verleerd'",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/marcos-leonardo-worstelt-door-bij-ajax-ik-ben-het-niet-verleerd",
+          "publishedDate": "Thu, 22 Oct 2026 14:33:00 GMT",
+          "description": "Marcos Leonardo wacht nog altijd op zijn volgende Ajax-goal. Tegen Atalanta slaagde hij ondanks een basisplek er opnieuw niet in te scoren en dat vreet aan hem. Wel had de Braziliaan een verklaring vo ..."
+        },
+        {
+          "title": "Ajax-spits Marcos Leonardo doet opvallende onthulling over zijn overgewicht",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/ajax-spits-marcos-leonardo-doet-opvallende-onthulling-over-zijn-overgewicht/ar-AA2fROYy",
+          "publishedDate": "Thu, 22 Oct 2026 14:32:43 GMT",
+          "description": "Marcos Leonardo heeft donderdagavond na de 2-0 overwinning van Ajax op Atalanta openhartig gesproken over zijn moeizame start in Amsterdam. De Braziliaanse spits, die tijdens de wedstrijd stevige krit ..."
+        },
+        {
+          "title": "Klaassen ziet Ajax-energie terugkeren na zege: 'Het gaat niet vanzelf'",
           "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-europa-league-1845-uur-ararat-armenia-az-0-2-dinamo-zagreb-nec-2-3/ar-AA2fOxmQ",
-          "publishedDate": "Thu, 22 Oct 2026 11:10:00 GMT",
-          "description": "Dit is het livetopic voor het programma in de Europa League. AZ en NEC komen donderdagavond beide in actie. AZ gaat om 18.45 uur op bezoek bij Ararat-Armenia, terwijl NEC in Kroati&#235; aantreedt tegen Di ..."
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/klaassen-ziet-ajax-energie-terugkeren-na-zege-het-gaat-niet-vanzelf/ar-AA2fRtO7",
+          "publishedDate": "Thu, 22 Oct 2026 14:25:00 GMT",
+          "description": "Davy Klaassen vindt dat Ajax donderdagavond verdiend heeft gewonnen van Atalanta Bergamo. Dat zegt de aanvoerder voor de camera van Ziggo Sport. De Amsterdammers sloegen pas in de slotfase toe, maar t ..."
         },
         {
-          "title": "NEC moet Tadic missen tegen Dinamo Zagreb, Mor kent terugval in revalidatie",
-          "source": "VoetbalNieuws.nl",
-          "url": "https://www.voetbalnieuws.nl/nieuws/2149925/nec-moet-tadic-missen-tegen-dinamo-zagreb-mor-kent-terugval-in-revalidatie-vn.html",
-          "publishedDate": "Thu, 22 Oct 2026 04:24:00 GMT",
-          "description": "NEC moet het donderdagavond in de Europa League-wedstrijd tegen Dinamo Zagreb stellen zonder Dusan Tadic. De selectie van de Nijmegenaren is naar Kroati&#235; afgereisd zonder de geblesseerde Servische aan ..."
+          "title": "Tolu en Ouazane bezorgen Ajax Conference League-zege op Atalanta",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/tolu-en-ouazane-bezorgen-ajax-conference-league-zege-op-atalanta",
+          "publishedDate": "Thu, 22 Oct 2026 13:50:00 GMT",
+          "description": "Ajax heeft de eerste drie punten in de Conference League binnen. Heel lang leek er tegen Atalanta niet meer in te zitten dan een gelijkspel, tot de invallers Tolu Arokodare en Abdellah Ouazane toesloe ..."
         },
         {
-          "title": "Op welke zender kijk je Dinamo Zagreb – NEC live?",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-dinamo-zagreb-nec/",
-          "publishedDate": "Thu, 22 Oct 2026 03:20:00 GMT",
-          "description": "NEC neemt het in de Europa League op tegen Dinamo Zagreb. In de SN TV-gids zie je op welke zender dit duel te zien is."
+          "title": "Ajax treft Atalanta Bergamo: Dit is de vermoedelijke opstelling",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/10/22/ajax-treft-atalanta-bergamo-dit-is-de-vermoedelijke-opstelling/",
+          "publishedDate": "Thu, 22 Oct 2026 05:27:00 GMT",
+          "description": "Ajax speelt vanavond in de Conference League tegen het Italiaanse Atalanta Bergamo. De Amsterdammers hebben wat goed te maken want de eerste wedstrijd in het toernooi werd met 2-1 verloren van het Kro ..."
         },
         {
-          "title": "NEC geen ‘klein duimpje’ tegen Zagreb: ‘’Vertrouwen blijft stijgen’’",
-          "source": "ForzaNEC.nl",
-          "url": "https://www.forzanec.nl/nieuws/nec-geen-klein-duimpje-tegen-zagreb-vertrouwen-blijft-stijgen/",
-          "publishedDate": "Thu, 22 Oct 2026 03:00:00 GMT",
-          "description": "Dinamo Zagreb staat op dit moment tweede in Kroati&#235; en veertiende in de Europa League. Al is Dinamo sterker op papier, vindt Schreuder dat NEC niet een veel kleinere ploeg is. ‘’We zijn geen klein ..."
+          "title": "Ouazane na heerlijke goal bij Ajax - Atalanta: 'Daar ben ik totaal niet mee bezig'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/kan-ajax-parel-ouazane-de-wereldtop-bereiken-daar-ben-ik-totaal-niet-mee-bezig",
+          "publishedDate": "Thu, 22 Oct 2026 02:41:00 GMT",
+          "description": "Abdellah Ouazane (17) blijft na zijn heerlijke goal bij Ajax - Atalanta met beide benen op de grond. &quot;Ik ben er echt totaal niet mee bezig, of ik de wereldtop kan bereiken&quot;, bezweert hij bij Ziggo Spo ..."
         },
         {
-          "title": "NEC-fans door supporters van Dinamo Zagreb gevraagd om te vechten: ‘De politie heeft perfect gehandeld’",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/nec/nec-fans-door-supporters-van-dinamo-zagreb-gevraagd-om-te-vechten-de-politie-heeft-perfect-gehandeld~adf80b9c/",
-          "publishedDate": "Thu, 22 Oct 2026 02:08:00 GMT",
-          "description": "De trip van NEC naar Dinamo Zagreb is vooralsnog zonder noemenswaardige incidenten verlopen. De vrees voor rellen bleek niet ongegrond. Veel NEC-fans zijn door supporters van Dinamo Zagreb aangesproke ..."
-        },
-        {
-          "title": "LIVE Europa League | Spektakel in Zagreb: NEC draait wedstrijd om, opnieuw hoofdrol voor Linssen",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/voetbal/live-europa-league-spektakel-in-zagreb-nec-draait-wedstrijd-om-opnieuw-hoofdrol-voor-linssen~a4e3639b/",
-          "publishedDate": "Wed, 21 Oct 2026 22:25:00 GMT",
-          "description": "NEC verloor van Juventus en speelde gelijk tegen Levski Sofia. Komt vanavond tegen Dinamo Zagreb dan de eerste overwinning in de Europa League? Om 18.45 uur is er afgetrapt, volg het hier live."
-        },
-        {
-          "title": "LIVE Dinamo Zagreb-NEC: Veel politie in het centrum • Dick Schreuder lacht crisis weg",
-          "source": "Drimble",
-          "url": "https://drimble.nl/regio/gelderland/nijmegen/108365599/live-dinamo-zagreb-nec-veel-politie-in-het-centrum-dick-schreuder-lacht-crisis-weg.html",
-          "publishedDate": "Wed, 21 Oct 2026 17:28:00 GMT",
-          "description": "NEC gaat voor de tweede keer ooit op bezoek bij Dinamo Zagreb. De Nijmeegse club heeft een goed resultaat nodig om niet te ver achterop te raken bij het doel om de knock-outfase van de Europa League t ..."
-        },
-        {
-          "title": "Dinamo Zagreb ziet NEC met twee gezichten: 'Alleen de resultaten vallen tegen'",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/dinamo-zagreb-ziet-nec-met-twee-gezichten-alleen-de-resultaten-vallen-tegen/ar-AA2fKy54",
-          "publishedDate": "Wed, 21 Oct 2026 07:53:39 GMT",
-          "description": "Dinamo Zagreb is nog ongeslagen in de Europa League en wil dat donderdag graag zo houden als NEC op bezoek komt. De Nijmegenaren pakten vorige week tegen Levski Sofia het eerste punt. De ploeg van Dic ..."
-        },
-        {
-          "title": "NEC waarschuwt niet zomaar voor de Bad Blue Boys: de Dinamo Zagreb-fans hebben een beruchte reputatie",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/nec/nec-waarschuwt-niet-zomaar-voor-de-bad-blue-boys-de-dinamo-zagreb-fans-hebben-een-beruchte-reputatie~a88d7d48/",
-          "publishedDate": "Tue, 20 Oct 2026 22:19:00 GMT",
-          "description": "Na de gemoedelijke sfeer in Athene, Bod&#248; en Turijn wacht de NEC-fans in Zagreb een heel ander soort trip. NEC waarschuwde al voor de Bad Blue Boys. En dat is niet voor niks. De fanatieke aanhang van D ..."
+          "title": "Invallers schenken Ajax vlak voor tijd volle buit tegen Atalanta",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/invallers-schenken-ajax-vlak-voor-tijd-volle-buit-tegen-atalanta",
+          "publishedDate": "Thu, 22 Oct 2026 01:53:00 GMT",
+          "description": "Ajax grijpt dankzij invallers Tolu en Ouazane tegen Atalanta de eerste zege in de Conference League: het wordt 2-0 in Amsterdam."
         }
       ]
     },
     {
-      "keyword": "ararat-armenia - az",
-      "trafficLabel": "20K+",
+      "keyword": "dinamo zagreb - nec",
+      "trafficLabel": "50K+",
       "articles": [
         {
-          "title": "LIVE Europa League | AZ bij rust op comfortabele voorsprong in Armeni&#235; dankzij fraaie goals Byskov en Patati",
-          "source": "ED.nl",
-          "url": "https://www.ed.nl/voetbal/live-europa-league-az-bij-rust-op-comfortabele-voorsprong-in-armenie-dankzij-fraaie-goals-byskov-en-patati~aedc29cca/",
-          "publishedDate": "Wed, 21 Oct 2026 21:44:00 GMT",
-          "description": "Twee dreunen op rij voor AZ in de eredivisie: na de nederlaag bij Feyenoord volgde zondag een 2-2 gelijkspel op bezoek SC Cambuur. Tussendoor won AZ vorige week wel met 2-1 van Hapoel Beer Sheva. Hoe ..."
+          "title": "Linssen kopt NEC prachtig naast Dinamo Zagreb • Byskov en Patati geven AZ droomstart",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2636224-keeper-crettaz-redt-nec-in-zagreb-byskov-schiet-az-op-voorsprong-in-yerevan",
+          "publishedDate": "Thu, 22 Oct 2026 08:42:00 GMT",
+          "description": "In dit liveblog volgen we de wedstrijden van AZ en NEC in de Europa League en de duels van Ajax en FC Twente in de Conference League."
         },
         {
-          "title": "Live Europa League 18.45 uur | Ararat-Armenia - AZ (0-2) | Dinamo Zagreb - NEC (2-3)",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-europa-league-1845-uur-ararat-armenia-az-0-2-dinamo-zagreb-nec-2-3/ar-AA2fOxmQ",
-          "publishedDate": "Thu, 22 Oct 2026 11:10:00 GMT",
-          "description": "Dit is het livetopic voor het programma in de Europa League. AZ en NEC komen donderdagavond beide in actie. AZ gaat om 18.45 uur op bezoek bij Ararat-Armenia, terwijl NEC in Kroati&#235; aantreedt tegen Di ..."
-        },
-        {
-          "title": "De beelden: AZ komt via geweldige vrije trap van Byskov op voorsprong tegen Ararat",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/de-beelden-az-komt-via-geweldige-vrije-trap-van-byskov-op-voorsprong-tegen-ararat/ar-AA2fRidf",
-          "publishedDate": "Thu, 22 Oct 2026 10:34:04 GMT",
-          "description": "AZ kent een uitstekende start tegen Ararat Armenia. Dankzij een prachtige vrije trap van Valdemar Byskov stonden de Alkmaarders na twintig minuten op een 0-1-voorsprong. Weslley Patati verdubbelde de ..."
-        },
-        {
-          "title": "LIVE Europa League | AZ-keeper Jari De Busser met de schrik vrij, Ararat Armenia jaagt op aansluitingstreffer",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/voetbal/live-europa-league-az-krijgt-eerste-kans-tegen-ararat-armenia-maar-schouten-kopt-naast~aedc29cca/",
-          "publishedDate": "Thu, 22 Oct 2026 04:07:00 GMT",
-          "description": "Twee dreunen op rij voor AZ in de eredivisie: na de nederlaag bij Feyenoord volgde zondag een 2-2 gelijkspel op bezoek SC Cambuur. Tussendoor won AZ vorige week wel met 2-1 van Hapoel Beer Sheva. Hoe ..."
-        },
-        {
-          "title": "Dominant AZ loopt snel weg bij Ararat • Ajax met Baas tegen Atalanta",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/364666/dominant-az-loopt-snel-weg-bij-ararat-ajax-met-baas-tegen-atalanta",
-          "publishedDate": "Thu, 22 Oct 2026 01:00:00 GMT",
-          "description": "Europese voetbalavond: AZ trapt om 18.45 uur af tegen Ararat Armenia, Ajax ontmoet Atalanta Bergamo om 21.00 uur in de Johan Cruijff Arena. Lees het liveblog."
-        },
-        {
-          "title": "Dominant AZ loopt snel weg bij Ararat • Ajax later vanavond",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/364666/az-loopt-snel-weg-bij-ararat-ajax-later-vanavond",
-          "publishedDate": "Thu, 22 Oct 2026 01:00:00 GMT",
-          "description": "Europese voetbalavond: AZ trapt om 18.45 uur af tegen Ararat Armenia, Ajax ontmoet Atalanta Bergamo om 21.00 uur in de Johan Cruijff Arena. Lees het liveblog."
-        },
-        {
-          "title": "Ajax, AZ, FC Twente en NEC op tv: waar en hoe laat worden de duels uitgezonden?",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/ajax-az-fc-twente-nec-tv",
-          "publishedDate": "Thu, 22 Oct 2026 00:25:00 GMT",
-          "description": "Voor de Nederlandse voetballiefhebbers staat er donderdagavond een vol Europees programma op het menu, met wedstrijden van Ajax, AZ, FC Twente en NEC. Aangezien er op beide aanvangstijden telkens ..."
-        },
-        {
-          "title": "AZ jaagt in Armeni&#235; op tweede Europese zege: Clasie blijft thuis",
-          "source": "azalerts",
-          "url": "https://azalerts.nl/artikelen/az-jaagt-in-armenie-op-tweede-europese-zege-clasie-blijft-thuis",
-          "publishedDate": "Wed, 21 Oct 2026 13:10:00 GMT",
-          "description": "AZ neemt het donderdagavond in de Europa League op tegen FC Ararat-Armenia. De ploeg van trainer Leeroy Echteld is met 24 spelers afgereisd naar Jerevan, maar moet het stellen zonder Jordy Clasie, Kee ..."
-        },
-        {
-          "title": "De EL-vooravond: AZ voor de tweede keer dit jaar naar Armeni&#235;",
-          "source": "AZFanpage",
-          "url": "https://www.azfanpage.nl/de-el-vooravond-az-voor-de-tweede-keer-dit-jaar-naar-armenie",
-          "publishedDate": "Wed, 21 Oct 2026 12:16:00 GMT",
-          "description": "De wedstrijden volgen elkaar nu in hoog tempo op. Nog nauwelijks bijgekomen van de twee pingels van Meerdink in Alkmaar en Leeuwarden, staat de ..."
-        },
-        {
-          "title": "Ararat-Armenia wil ten koste van 'gevaarlijk AZ' van de nul af",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ararat-armenia-wil-ten-koste-van-gevaarlijk-az-van-de-nul-af",
-          "publishedDate": "Wed, 21 Oct 2026 07:47:00 GMT",
-          "description": "Ararat-Armenia kroonde zich vorig seizoen tot kampioen van Armeni&#235;, maar in Europa is de ploeg nog geen gevreesde opponent. Coach Tulipa hoopt dat daar vanaf donderdag verandering in komt, door de sca ..."
+          "title": "De ‘oudjes’ blinken uit in Zagreb: Linssen en Chery bezorgen NEC historische zege op Dinamo",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/de-oudjes-blinken-uit-in-zagreb-linssen-en-chery-bezorgen-nec-historische-zege-op-dinamo~a4e3639b/",
+          "publishedDate": "Thu, 22 Oct 2026 05:05:00 GMT",
+          "description": "NEC heeft de eerste overwinning in de competitiefase van de Europa League te pakken. De Nijmegenaren trokken in een spectaculaire uitwedstrijd tegen Dinamo Zagreb met 2-4 aan het langste eind. De ‘oud"
         }
       ]
     },
@@ -165,11 +109,11 @@
           "description": "Zanger Frans Duijts is vorige week getroffen door een acuut hartinfarct. De schade is beperkt gebleven dankzij het adequate handelen van zijn familie en hulpverleners."
         },
         {
-          "title": "Frank van Etten naar hartbewaking: 'Het licht ging ineens uit",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/frank-van-etten-naar-hartbewaking-het-licht-ging-ineens-uit",
-          "publishedDate": "Thu, 22 Oct 2026 10:42:00 GMT",
-          "description": "Na het hartinfarct van Frans Duijts is ook Frank van Etten naar de hartbewaking gebracht. Stress rond zijn scheiding speelt mogelijk een rol."
+          "title": "Spotgoedkoop tanken, NEC strijdt in Zagreb en bedreigingen rond wolfavond op 22 oktober",
+          "source": "Omroep Gelderland",
+          "url": "https://www.gld.nl/nieuws/8539051/spotgoedkoop-tanken-nec-strijdt-in-zagreb-en-bedreigingen-rond-wolfavond-op-22-oktober",
+          "publishedDate": "Thu, 22 Oct 2026 10:23:00 GMT",
+          "description": "Zanger Frans Duijts herstelt van een hartinfarct, de familie van Emile Ratelband maakt zich nog steeds zorgen en in Voorst kan je zaterdag spotgoedkoop tanken. Ook gaat in Brummen een informatieavond ..."
         },
         {
           "title": "Frans Duijts krijgt na hartinfarct flinke trap na: ‘Ongezonde leefstijl’",
@@ -207,6 +151,13 @@
           "description": "Schrik om volkszanger Frans Duijts. De 47-jarige zanger is afgelopen week getroffen door een acuut hartinfarct. Dankzij het snelle ingrijpen van zijn familie en hulpverleners is de schade beperkt gebl ..."
         },
         {
+          "title": "Frans Duijts thuis in bijzijn van familie getroffen door hartinfarct",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/frans-duijts-getroffen-door-hartinfarct",
+          "publishedDate": "Thu, 22 Oct 2026 04:00:00 GMT",
+          "description": "Frans Duijts is getroffen door een hartinfarct. Zijn management deelt het nieuws en vraagt om privacy terwijl hij herstelt. Lees meer over zijn situatie en updates op Instagram."
+        },
+        {
           "title": "Grote schrik rondom Frans Duijts: getroffen door hartinfarct",
           "source": "Weekblad Party",
           "url": "https://weekbladparty.nl/grote-schrik-rondom-frans-duijts-getroffen-door-hartinfarct/",
@@ -214,18 +165,163 @@
           "description": "De 47-jarige volkszanger Frans Duijts is getroffen door een hartinfarct. Hij werkte de afgelopen jaren hard aan zijn gezondheid."
         },
         {
-          "title": "Zanger Frans Duijts (47) getroffen door hartinfarct, schade beperkt gebleven",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/show/zanger-frans-duijts-47-getroffen-door-hartinfarct-schade-beperkt-gebleven~ab7503f2/",
-          "publishedDate": "Wed, 21 Oct 2026 21:22:00 GMT",
-          "description": "Frans Duijts (47) is afgelopen week getroffen door een acuut hartinfarct. Dat meldt het management van de zanger. Dankzij het snelle en adequate handelen van zijn familie en de hulpverleners heeft hij ..."
+          "title": "Frans Duijts blijkt familie van Frans Bauer: zo zit dat",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/cultuur-media/oh-ja-joh/frans-duijts-familie-frans-bauer/",
+          "publishedDate": "Thu, 22 Oct 2026 00:30:00 GMT",
+          "description": "In de biografie Frans Duijts – Vallen &amp; Opstaan is het al te lezen. “Niet veel mensen weten dat, maar wie het te horen krijgt, reageert vaak aangenaam verrast.” Hoe dat zit? De moeder van Frans Bauer ..."
+        }
+      ]
+    },
+    {
+      "keyword": "ararat-armenia - az",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "AZ doet goede zaken in Europa League met klinkende zege op Ararat-Armenia",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6414075/az-doet-goede-zaken-in-europa-league-met-klinkende-zege-op-ararat-armenia.html",
+          "publishedDate": "Thu, 22 Oct 2026 13:36:00 GMT",
+          "description": "AZ heeft donderdag een simpele zege geboekt in de Europa League. De Alkmaarders wonnen in Armeni&#235; met 0-4 van Ararat-Armenia. De ploeg van trainer Leeroy Echteld boekte zo zijn tweede Europa League-ze ..."
         },
         {
-          "title": "Harde uitspraak Frans Duijts: “van mij mag ze omvallen”",
-          "source": "Vipnieuws.nl",
-          "url": "https://vipnieuws.nl/harde-uitspraak-frans-duijts-van-mij-mag-ze-omvallen/",
-          "publishedDate": "Wed, 21 Oct 2026 20:00:00 GMT",
-          "description": "Frans Duijts begon zijn carri&#232;re als Hazes-imitator en dat hij nadien volledig doorbrak als zanger, viel niet in goede aarde bij Rachel Hazes. Frans probeerde in eerste instantie nog de hand te reiken ..."
+          "title": "AZ boekt in Armeni&#235; probleemloos tweede Europa League-zege op rij",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636250-az-boekt-in-armenie-probleemloos-tweede-europa-league-zege-op-rij",
+          "publishedDate": "Thu, 22 Oct 2026 11:35:00 GMT",
+          "description": "Op bezoek bij Ararat-Armenia winnen de Alkmaarders zonder grote problemen met 0-4. De doelpunten worden gemaakt door Valdemar Byskov, Weslley Patati en Mexx Meerdink."
+        },
+        {
+          "title": "AZ wint ruim van Ararat in Europa League-duel in Armeni&#235;",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/az-wint-ruim-van-ararat-in-europa-league-duel-in-armenie",
+          "publishedDate": "Thu, 22 Oct 2026 13:41:00 GMT",
+          "description": "JEREVAN (ANP) - AZ heeft in de uitwedstrijd tegen FC Ararat-Armenia de tweede overwinning van het Europa League-seizoen geboekt. In de Armeense hoofdstad Jerevan werd het donderdagavond 4-0 voor de Al ..."
+        },
+        {
+          "title": "Uitblinker Patati leidt AZ naar ruime uitzege in Armeni&#235;",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/uitblinker-patati-leidt-az-naar-ruime-uitzege-in-armenie",
+          "publishedDate": "Thu, 22 Oct 2026 13:39:00 GMT",
+          "description": "AZ heeft donderdagavond een ruime zege geboekt op Ararat-Armenia. In het Europa Leagueduel in Yerevan waren de Alkmaarders onder aanvoering van uitblinker Weslley Patati met 0-4 te sterk."
+        },
+        {
+          "title": "AZ slacht tegenstander in Europa League af en wint met 0-4",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/az-slacht-tegenstander-in-europa-league-af-en-wint-met-0-4/ar-AA2fQDmw",
+          "publishedDate": "Thu, 22 Oct 2026 13:36:00 GMT",
+          "description": "AZ heeft donderdagavond een overtuigende 0-4 overwinning geboekt op bezoek bij Ararat-Armenia in de Europa League. De ploeg van Leeroy Echteld kende een moeizame openingsfase, maar nam dankzij treffer ..."
+        },
+        {
+          "title": "AZ met ruime cijfers langs Ararat-Armenia",
+          "source": "AZFanpage",
+          "url": "https://www.azfanpage.nl/az-met-ruime-cijfers-langs-ararat-armenia",
+          "publishedDate": "Thu, 22 Oct 2026 11:36:00 GMT",
+          "description": "AZ heeft donderdag in de Europa League overtuigend afgerekend met Ararat-Armenia. De ploeg van Leeroy Echteld won met 0-4."
+        },
+        {
+          "title": "Live Europa League 18.45 uur | Ararat-Armenia - AZ (0-2) | Dinamo Zagreb - NEC (2-3)",
+          "source": "Ajax Showtime on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/live-europa-league-18-45-uur-ararat-armenia-az-0-2-dinamo-zagreb-nec-0-0/ar-AA2fOxmQ",
+          "publishedDate": "Thu, 22 Oct 2026 10:05:00 GMT",
+          "description": "Dit is het livetopic voor het programma in de Europa League. AZ en NEC komen donderdagavond beide in actie. AZ gaat om 18.45 uur op bezoek bij Ararat-Armenia, terwijl NEC in Kroati&#235; aantreedt tegen Di ..."
+        },
+        {
+          "title": "VIDEO: Samenvatting Ararat-Armenia – AZ (0-4 Europa League)",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/10/22/video-samenvatting-ararat-armenia-az-0-4-europa-league/",
+          "publishedDate": "Thu, 22 Oct 2026 07:16:00 GMT",
+          "description": "AZ heeft vanavond meer dan uitstekende zaken gedaan in de Europa League. Op bezoek bij Ararat-Armenia wisten de ..."
+        },
+        {
+          "title": "Dit kan AZ verwachten van Ararat-Armenia",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/dit-kan-az-verwachten-van-ararat-armenia/ar-AA2fKSQX",
+          "publishedDate": "Thu, 22 Oct 2026 07:00:57 GMT",
+          "description": "AZ krijgt een mooie kans om het puntentotaal in de Europa League te verdubbelen, aangezien het met Ararat-Armenia een van de underdogs uit het toernooi treft. Maar de Alkmaarders zijn gewaarschuwd: ne ..."
+        },
+        {
+          "title": "Ararat-Armenia wil ten koste van 'gevaarlijk AZ' van de nul af",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ararat-armenia-wil-ten-koste-van-gevaarlijk-az-van-de-nul-af",
+          "publishedDate": "Wed, 21 Oct 2026 07:47:00 GMT",
+          "description": "Ararat-Armenia kroonde zich vorig seizoen tot kampioen van Armeni&#235;, maar in Europa is de ploeg nog geen gevreesde opponent. Coach Tulipa hoopt dat daar vanaf donderdag verandering in komt, door de sca ..."
+        }
+      ]
+    },
+    {
+      "keyword": "fc twente",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "FC Twente in Gibraltar moeiteloos langs Lincoln Red Imps",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636271-fc-twente-in-gibraltar-moeiteloos-langs-lincoln-red-imps",
+          "publishedDate": "Thu, 22 Oct 2026 13:57:00 GMT",
+          "description": "FC Twente wint ook zijn tweede groepswedstrijd in de Conference League. Het wordt bij Lincoln Red Imps 4-1 in het voordeel van de Enschedese formatie."
+        },
+        {
+          "title": "FC Twente blijft foutloos: Weghorst en Van den Belt bezorgen Tukkers zakelijke zege op Gibraltar",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/fc-twente-blijft-foutloos-weghorst-en-van-den-belt-bezorgen-tukkers-zakelijke-zege-op-gibraltar~ae85c145/",
+          "publishedDate": "Thu, 22 Oct 2026 06:58:00 GMT",
+          "description": "FC Twente heeft ook de tweede wedstrijd in de competitiefase van de Conference League gewonnen. Na de thuiszege van vorige week op FC Thun (1-0) werd donderdagavond op Gibraltar een zakelijke overwinn ..."
+        },
+        {
+          "title": "Hoe FC Twente op Gibraltar van totale controle naar irritatie ging en toch gewoon won",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/enschede/hoe-fc-twente-op-gibraltar-van-totale-controle-naar-irritatie-ging-en-toch-gewoon-won~af93d4b4/",
+          "publishedDate": "Thu, 22 Oct 2026 06:53:00 GMT",
+          "description": "FC Twente kende donderdagavond geen enkele problemen met Lincoln Red Imps. Met de kracht van die tegenstander bleek het allemaal wel mee te vallen. De Tukkers brachten alleen zichzelf een keer onnodig ..."
+        },
+        {
+          "title": "Wederom flinke wedstrijdpremie voor FC Twente na zege op Lincoln Red Imps",
+          "source": "Twente Insite",
+          "url": "https://www.twenteinsite.nl/fc-twente-nieuws/wederom-flinke-wedstrijdpremie-voor-fc-twente-na-zege-op-lincoln-red-imps",
+          "publishedDate": "Thu, 22 Oct 2026 14:20:00 GMT",
+          "description": "Wederom flinke wedstrijdpremie voor FC Twente na zege op Lincoln Red Imps ..."
+        },
+        {
+          "title": "Zo brak FC Twente door de dubbele muur op Gibraltar",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/zo-brak-fc-twente-door-de-dubbele-muur-op-gibraltar/ar-AA2fRh5v",
+          "publishedDate": "Thu, 22 Oct 2026 14:14:25 GMT",
+          "description": "FC Twente heeft wederom geen fout gemaakt in de hoofdfase van de Conference League. Op bezoek bij underdog Lincoln Red Imps is het krachtsverschil tamelijk groot (1-4). Analyse van een duel waarin de ..."
+        },
+        {
+          "title": "FC Twente op Rapport: Van den Belt grijpt zijn kans in Europa",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/fc-twente-op-rapport-van-den-belt-grijpt-zijn-kans-in-europa/ar-AA2fQTyh",
+          "publishedDate": "Thu, 22 Oct 2026 14:05:39 GMT",
+          "description": "FC Twente beleefde een zorgeloze avond op bezoek bij Lincoln Red Imps in de Conference League. Bij de Tukkers was het Thomas van den Belt die gretig gebruik maakte van zijn basisplek. De cijfers."
+        },
+        {
+          "title": "FC Twente draait mee in top van Conference League na zorgeloze zege op Gibraltar",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/fc-twente-draait-mee-in-top-van-conference-league-na-zorgeloze-zege-op-gibraltar",
+          "publishedDate": "Thu, 22 Oct 2026 13:52:00 GMT",
+          "description": "FC Twente heeft ook zijn tweede wedstrijd in de competitiefase van de Conference League gewonnen. Bij Lincoln Red Imps in Gibraltar was er geen vuiltje aan de lucht en vervulde de ploeg van John van d ..."
+        },
+        {
+          "title": "Dit zijn de scheidsrechters bij Ajaz, AZ, NEC en FC Twente in Europa",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/dit-zijn-de-scheidsrechters-bij-ajaz-az-nec-en-fc-twente-in-europa-2026102216263015109/",
+          "publishedDate": "Thu, 22 Oct 2026 11:25:00 GMT",
+          "description": "Het belooft donderdagavond weer een schitterende voetbalavond te worden in de Europa League en de Conference League. Vier Nederlandse clubs gaan verder in hun strijd op het Europese toneel. Dit zijn d ..."
+        },
+        {
+          "title": "Voor de supporters van FC Twente voelt Gibraltar als vakantie: 500 Tukkers op het terras, geen agent te zien",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/fc-twente/voor-de-supporters-van-fc-twente-voelt-gibraltar-als-vakantie-500-tukkers-op-het-terras-geen-agent-te-zien~a857ab1b/",
+          "publishedDate": "Thu, 22 Oct 2026 04:23:00 GMT",
+          "description": "Zo moet een Europese uitwedstrijd dus zijn, zullen veel supporters van FC Twente zeggen als ze vrijdag in het vliegtuig naar huis gaan. Gibraltar was ook zonder het voetbal een prachtige belevenis."
+        },
+        {
+          "title": "FC Twente haalt met 1-4 uit in Europa en bezorgt Nederland topavond op co&#235;ffici&#235;ntenlijst",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/fc-twente-haalt-met-1-4-uit-in-europa-en-bezorgt-nederland-topavond-op-coefficientenlijst/blt114f8038e0ab59c2",
+          "publishedDate": "Thu, 22 Oct 2026 01:53:00 GMT",
+          "description": "FC Twente heeft donderdagavond een 1-3 overwinning geboekt op bezoek bij Lincoln Red Imps in de Conference League. Thomas van den Belt groeide met twee doelpunten uit tot de grote man bij de ploeg van ..."
         }
       ]
     },
@@ -255,18 +351,18 @@
           "description": "Na vijftien jaar topsport stopt Irene Schouten (31) per direct met schaatsen. Na een grandioze carri&#232;re met vijf olympische medailles (drie keer goud), dertien wereldtitels en acht EK-medailles sluit ..."
         },
         {
-          "title": "Ex-topschaatsster Irene Schouten (34) doorbreekt stilte",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/boulevard/nieuws/ex-topschaatsster-irene-schouten-34-doorbreekt-stilte-2026102210465655028/",
-          "publishedDate": "Thu, 22 Oct 2026 05:46:00 GMT",
-          "description": "Het leven van ex-topschaatsster Irene Schouten zit soms zo vol, dat ze haar ruim 260.000 volgers op Instagram niet altijd bij kan praten over de gebeurtenissen die elkaar in rap tempo opvolgen. Nadat ..."
-        },
-        {
           "title": "Sportconcept van Irene Schouten opent nieuwe vestiging in Wormer",
           "source": "Rodi.nl",
           "url": "https://www.rodi.nl/zaanstad/nieuws/509935/sportconcept-van-irene-schouten-opent-nieuwe-vestiging-in-wormer",
           "publishedDate": "Wed, 21 Oct 2026 03:01:00 GMT",
           "description": "WORMER - Wormer heeft er een nieuwe sportlocatie bij. Zaterdag 17 oktober opende RFRMR de deuren aan de Dorpsstraat 27a. Het is de derde franchisevestiging van het pilatesconcept, dat is opgericht ..."
+        },
+        {
+          "title": "Schaatsicoon Irene Schouten (34) openhartig over tweede zwangerschap: 'Moeilijk om te accepteren'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/schaatsen/nieuws/schaatsicoon-irene-schouten-34-openhartig-over-tweede-zwangerschap-moeilijk-om-te-accepteren-2026101015344837577/",
+          "publishedDate": "Sat, 10 Oct 2026 10:38:00 GMT",
+          "description": "Irene Schouten kondigde recent aan voor de tweede keer zwanger te zijn. Het Nederlandse schaatsicoon (34) en haar man Dirkjan verwachten een broertje of zusje voor de bijna twee jaar oude Dirk."
         },
         {
           "title": "EpilepsieLoop 2026 haalt recordbedrag op: Irene Schouten geeft startsein in Amersfoort",
@@ -306,6 +402,82 @@
       ]
     },
     {
+      "keyword": "formule 1 nieuws",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Formule 1 keert terug naar Afrika: koningsklasse gaat tien jaar racen in Rwanda",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/formule-1/6412977/formule-1-keert-terug-naar-afrika-koningsklasse-gaat-tien-jaar-racen-in-rwanda.html",
+          "publishedDate": "Tue, 13 Oct 2026 04:25:00 GMT",
+          "description": "De Formule 1 keert &quot;begin jaren dertig&quot; terug naar Afrika, waar sinds 1993 geen Grand Prix meer is verreden. De organisatie maakte dinsdag een tienjarige overeenkomst bekend met Rwanda, dat een nieuw ..."
+        },
+        {
+          "title": "Max Verstappen krijgt Formule 1-titel toegewezen door voormalig F1-coureur",
+          "source": "GP33",
+          "url": "https://gp33.nl/f1-nieuws/max-verstappen-krijgt-formule-1-titel-toegewezen-door-voormalig-f1-coureur",
+          "publishedDate": "Thu, 22 Oct 2026 00:58:00 GMT",
+          "description": "Max Verstappen gaat het Formule 1-kampioenschap van volgend seizoen winnen. Daar is voormalig F1-coureur Jolyon Palmer van overtuigd. De opmars die Red Bull Racing heeft gemaakt in 2026, geeft hem het ..."
+        },
+        {
+          "title": "Hockenheim bevestigt gesprekken met Formule 1 over terugkeer: 'We zijn in onderhandeling'",
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1091791/hockenheim-bevestigt-gesprekken-met-formule-1-over-terugkeer-we-zijn-in-onderhandeling/",
+          "publishedDate": "Wed, 21 Oct 2026 12:46:00 GMT",
+          "description": "Hoewel de Hockenheimring momenteel in gesprek is met de Formule 1 over een mogelijke terugkeer op de kalender, bevindt een daadwerkelijke rentree zich voorlopig nog in een theoretische fase. Algemeen ..."
+        },
+        {
+          "title": "Het laatste nieuws uit de Formule 1",
+          "source": "gpblog.com",
+          "url": "https://www.gpblog.com/nl/nieuws",
+          "publishedDate": "Wed, 21 Oct 2026 06:02:00 GMT",
+          "description": "De Formule 1 verandert continu, van baanbrekende reglementswijzigingen tot strategische beslissingen en technologische innovaties. Op deze pagina brengen we je dagelijks het laatste nieuws F1, ..."
+        },
+        {
+          "title": "Formule 1 trekt nieuwe regel alweer in die races korter en leuker moest maken",
+          "source": "Autoblog.nl on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/formule-1-trekt-nieuwe-regel-alweer-in-die-races-korter-en-leuker-moest-maken/ar-AA2fJ8bA",
+          "publishedDate": "Wed, 21 Oct 2026 02:15:30 GMT",
+          "description": "Ben jij er ook helemaal klaar mee dat je bijna elk weekend 1,5 tot 2 uur kwijt bent aan het kijken naar een optocht van Formule 1-auto's? Dan heeft de koningsklasse goed nieuws voor je. De races worde ..."
+        },
+        {
+          "title": "Crawford spreekt over mogelijk Formule 1-debuut: &quot;Ik ben er klaar voor&quot;",
+          "source": "F1 Maximaal",
+          "url": "https://www.f1maximaal.nl/interview/crawford-spreekt-over-mogelijk-formule-1-debuut-ik-ben-er-klaar-voor",
+          "publishedDate": "Wed, 21 Oct 2026 01:00:00 GMT",
+          "description": "Jak Crawford komt steeds dichter bij zijn doel om in de Formule 1 te racen. De 21-jarige Amerikaan is dit seizoen de derde coureur van Aston Martin en combineert simulatorwerk met zijn aanwezigheid ti ..."
+        },
+        {
+          "title": "Formule 1 draait nieuwe motorregel na &#233;&#233;n jaar weer terug",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/motorsport/formule-1-draait-nieuwe-motorregel-na-%C3%A9%C3%A9n-jaar-weer-terug/ar-AA2fE1Bu",
+          "publishedDate": "Tue, 20 Oct 2026 06:00:00 GMT",
+          "description": "De Formule 1 heeft voor het seizoen 2027 de Grand Prix-afstanden ingekort als gevolg van de aanpassingen aan de krachtbronnen, maar in de nieuwe FIA-regels - die onlangs gepubliceerd zijn - is al vast ..."
+        },
+        {
+          "title": "Van Formule 1-crash tot schadeauto: hoe bepaal je wat een auto nog waard is?",
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1091760/van-formule-1-crash-tot-schadeauto-hoe-bepaal-je-wat-een-auto-nog-waard-is/",
+          "publishedDate": "Sat, 17 Oct 2026 10:58:00 GMT",
+          "description": "We zien het tijdens een Grand Prix zo nu en dan gebeuren: een flinke crash, waardoor een coureur per direct het circuit kan verlaten. Afhankelijk van de ernst van de beschadigingen kan het voertuig so ..."
+        },
+        {
+          "title": "Formule 1",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/formule-1/",
+          "publishedDate": "Fri, 16 Oct 2026 20:36:00 GMT",
+          "description": "Kimi Antonelli staat op het punt om geschiedenis te schrijven in de Formule 1, maar buiten het circuit heeft de Mercedes-coureur met flinke problemen te maken. De twintigjarige Italiaan is verwikkeld ..."
+        },
+        {
+          "title": "Haas in Formule 1",
+          "source": "GPblog",
+          "url": "https://www.gpblog.com/nl/haas-f1",
+          "publishedDate": "Thu, 01 Oct 2026 09:03:00 GMT",
+          "description": "Formule 1 team Haas, is actief met Nico Hulkenberg en Kevin Magnussen. Lees het laatste F1-nieuws over Haas op GPblog.com ..."
+        }
+      ]
+    },
+    {
       "keyword": "storing",
       "trafficLabel": "20K+",
       "articles": [
@@ -331,6 +503,13 @@
           "description": "Rekeninghouders van online bank Revolut kunnen dinsdagmiddag niet bij hun geld door een grote storing. Het is niet mogelijk om pinbetalingen te doen, geld op te nemen of bedragen over te maken."
         },
         {
+          "title": "Onlinebank getroffen door enorme storing na incident bij Google, bankpassen onbruikbaar",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/onlinebank-getroffen-door-enorme-storing-na-incident-bij-google-bankpassen-onbruikbaar~ad6e33f1/",
+          "publishedDate": "Tue, 20 Oct 2026 04:55:00 GMT",
+          "description": "Onlinebank Revolut kampt dinsdag met een storing. Duizenden mensen kunnen daardoor niet in de app inloggen of geld overmaken. Dat zou te maken hebben met een grote storing van Google in Europa. Ook IN ..."
+        },
+        {
           "title": "Bewoners in Maarssen en Maarssenbroek zitten nu zonder water door storing, waterlek gedicht",
           "source": "Algemeen Dagblad",
           "url": "https://www.ad.nl/stichtse-vecht/bewoners-in-maarssen-en-maarssenbroek-zitten-nu-zonder-water-door-storing-waterlek-gedicht~ac70cef4/",
@@ -345,11 +524,11 @@
           "description": "Op luchthaven Schiphol stonden zondagochtend lange rijen door een storing in het systeem van de zelfbedieningspaspoortzuilen. Door de storing moesten alle reizigers die van of naar een land buiten het ..."
         },
         {
-          "title": "Na zes dagen nog altijd onduidelijkheid over KPN-storing",
+          "title": "KPN krijgt storing niet onder controle – update",
           "source": "De Orkaan",
-          "url": "https://www.deorkaan.nl/na-zes-dagen-nog-altijd-onduidelijkheid-over-kpn-storing/",
-          "publishedDate": "Thu, 22 Oct 2026 05:00:00 GMT",
-          "description": "Zes dagen na het begin van de KPN-storing zitten sommige bewoners van Westerwatering en het Zaaneiland nog altijd zonder internet en digitale televisie. Navraag bij KPN levert geen duidelijkheid op ov ..."
+          "url": "https://www.deorkaan.nl/kpn-krijgt-storing-niet-onder-de-knie/",
+          "publishedDate": "Thu, 22 Oct 2026 02:30:00 GMT",
+          "description": "Vrijdagochtend 16 oktober kreeg een deel van de bewoners van Westerwatering en Zaandam-centrum (Zaaneiland) te maken met een storing van hun internet, telefoon en digitale tv-diensten. Oorzaak was vol ..."
         },
         {
           "title": "Problemen bij onlinebank Revolut voorbij na storing bij Google Cloud",
@@ -359,13 +538,6 @@
           "description": "De storing zorgde voor technische problemen bij verschillende bedrijven in Europa, vooral in het Verenigd Koninkrijk."
         },
         {
-          "title": "Oorzaak storing Calandbrug gevonden, reparatie bezig",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/oorzaak-storing-calandbrug-gevonden-reparatie-bezig",
-          "publishedDate": "Tue, 20 Oct 2026 09:26:00 GMT",
-          "description": "De storing in de Calandbrug komt door defecte onderdelen van een motor in de brug. Dat meldt beheerder ProRail. Volgens ProRail is het herstel van de onderdelen in volle gang. De brug bij het Botlekge ..."
-        },
-        {
           "title": "Storing bij onlinebank Revolut kwam door ‘stroomproblemen’ bij Google Cloud",
           "source": "Het Financieele Dagblad",
           "url": "https://fd.nl/financiele-markten/1616179/storing-bij-onlinebank-revolut-mogelijk-miljoenen-klanten-geraakt",
@@ -373,45 +545,11 @@
           "description": "Rekeninghouders kunnen niet meer bij hun geld. Kaartbetalingen, geldopnames en overboekingen zijn niet beschikbaar. Ook de app werkt niet meer."
         },
         {
-          "title": "Cyberexpert over storing bij Albert Heijn: Als criminelen klantdata zouden hebben gestolen, was impact veel groter",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/cyberexpert-over-storing-bij-albert-heijn-als-criminelen-klantdata-zouden-hebben-gestolen-was-impact-veel-groter",
-          "publishedDate": "Wed, 14 Oct 2026 07:33:00 GMT",
-          "description": "De storing bij supermarktketen gaat nog een paar dagen tot een week duren en het zal ook niet de laatste cyberaanval zijn, waarschuwt het IMF."
-        }
-      ]
-    },
-    {
-      "keyword": "pieter smit",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Kinderen wippen vader bij familiebedrijf: 'Je gedraagt je als rebelse puber'",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/economie/artikel/5660441/familievete-transportbedrijf-pieter-smit-dochter-ontslaat-vader",
-          "publishedDate": "Thu, 22 Oct 2026 05:06:00 GMT",
-          "description": "Een familievete verscheurt het grootste Nederlandse transportbedrijf in de evenementensector. Omdat oprichter Pieter Smit geen afstand kon nemen, hebben zijn dochter en zoon hem uit het bestuur gezet."
-        },
-        {
-          "title": "Ed Sheeran betaalt extra voor de biobrandstof van Pieter Smit bij zijn duurzame tournee",
-          "source": "Volkskrant",
-          "url": "https://www.volkskrant.nl/economie/ed-sheeran-betaalt-extra-voor-de-biobrandstof-van-pieter-smit-bij-zijn-duurzame-tournee~ba34f62e/",
-          "publishedDate": "Sun, 19 Nov 2023 08:20:00 GMT",
-          "description": "Pieter Smit regelt al 43 jaar het transport en de logistiek voor theatergezelschappen en grootheden in de popmuziek waaronder de Rolling Stones, Ed Sheeran en Rihanna. Zijn dochter Louise streeft als ..."
-        },
-        {
-          "title": "Hoe bedrijfsopvolging niet moet: kinderen en vader Pieter Smit rollend over straat",
-          "source": "TTM.nl",
-          "url": "https://www.ttm.nl/management/hoe-bedrijfsopvolging-niet-moet-kinderen-en-vader-pieter-smit-rollend-over-straat/180148/",
-          "publishedDate": "Thu, 22 Oct 2026 06:50:00 GMT",
-          "description": "De overdracht van het familiebedrijf Pieter Smit aan de volgende generatie is uitgelopen op een juridisch conflict. Oprichter Pieter Smit wilde na de ..."
-        },
-        {
-          "title": "Rechter houdt oprichter buiten transportbedrijf na hoogopgelopen familieconflict",
-          "source": "Transport Online",
-          "url": "https://www.transport-online.nl/142626/rechter-houdt-oprichter-buiten-transportbedrijf-na-hoogopgelopen-familieconflict/",
-          "publishedDate": "Wed, 21 Oct 2026 22:16:00 GMT",
-          "description": "HAARLEM – De oprichter van een internationale transport- en logistiekbedrijf krijgt zijn bestuursfuncties binnen het familiebedrijf voorlopig niet terug. Dat blijkt uit een op 20 oktober 2026 gepublic ..."
+          "title": "Calandbrug opnieuw afgesloten door storing, oorzaak onbekend",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/infrastructuur/verkeer/artikelen/zuid-holland-rozenburg-calandbrug-afgesloten-storing",
+          "publishedDate": "Mon, 19 Oct 2026 14:49:00 GMT",
+          "description": "De Calandbrug bij Rozenburg is opnieuw afgesloten door een storing. De brug staat half open, waardoor wegverkeer en scheepvaart er niet langs kunnen. ProRail onderzoekt de oorzaak."
         }
       ]
     },
@@ -425,6 +563,13 @@
           "url": "https://www.ad.nl/horst-aan-de-maas/gerben-straatsma-geeft-lezing-over-voedsel-in-melderslo~a1388d13/",
           "publishedDate": "Wed, 14 Oct 2026 00:19:00 GMT",
           "description": "Gerben Straatsma geeft in Museumdorp De Locht een lezing over de geschiedenis van voedsel. Zaterdag is de lezing ‘Hoe natuurlijk is ons voedsel’ van 14.30 tot 16.00 uur in Melderslo."
+        },
+        {
+          "title": "&quot;Nederland moet voedselvoorraden beter voorbereiden op crisissituaties&quot;",
+          "source": "AGF.nl",
+          "url": "https://www.agf.nl/article/9885452/nederland-moet-voedselvoorraden-beter-voorbereiden-op-crisissituaties/",
+          "publishedDate": "Thu, 22 Oct 2026 05:09:00 GMT",
+          "description": "Een beperkte strategische voedselvoorraad kan Nederland beter voorbereiden op langdurige verstoringen van de voedselvoorziening. Dat concluderen Instituut Clingendael en het Erasmus ..."
         },
         {
           "title": "Senior Voedsel- en Drankschrijver",
@@ -469,13 +614,6 @@
           "description": "De oorlog in het Midden-Oosten begint burgers en bedrijven in de portemonnee te raken. De roep om compensatie voor de hoge prijzen, zeker voor mensen met een laag inkomen, neemt toe. Moet Nederland ..."
         },
         {
-          "title": "Ons voedsel wordt calorierijker en minder voedzaam door CO2-stijging",
-          "source": "universiteitleiden",
-          "url": "https://www.universiteitleiden.nl/nieuws/2025/11/ons-voedsel-wordt-calorierijker-en-minder-voedzaam-door-co2-stijging",
-          "publishedDate": "Thu, 13 Nov 2025 16:00:00 GMT",
-          "description": "Voedselgewassen worden calorierijker, minder voedzaam en mogelijk ook giftiger door de toename van CO2 in de atmosfeer. Dit kan zonder ingrijpen leiden tot ondervoeding, zelfs bij bevolkingsgroepen ..."
-        },
-        {
           "title": "Van boer tot bord",
           "source": "consilium.europa",
           "url": "https://www.consilium.europa.eu/nl/policies/from-farm-to-fork/",
@@ -492,230 +630,78 @@
       ]
     },
     {
-      "keyword": "formule 1 nieuws",
+      "keyword": "atalanta",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Formule 1 keert terug naar Afrika: koningsklasse gaat tien jaar racen in Rwanda",
+          "title": "Invallers Arokodare en Ouazane helpen Ajax met late treffers langs Atalanta",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636270-invallers-arokodare-en-ouazane-helpen-ajax-met-late-treffers-langs-atalanta",
+          "publishedDate": "Thu, 22 Oct 2026 13:51:00 GMT",
+          "description": "De Amsterdammers lijken lang af te stevenen op een doelpuntloos gelijkspel tegen Atalanta, maar winnen dankzij late treffers van invallers Tolu Arokodare en Abdellah Ouazane."
+        },
+        {
+          "title": "Eerste zege is binnen voor Ajax, dat dankzij late goals van invallers Tolu en Ouazane wint van Atalanta",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/eerste-zege-is-binnen-voor-ajax-dat-dankzij-late-goals-van-invallers-tolu-en-ouazane-wint-van-atalanta~ae9b9f61/",
+          "publishedDate": "Thu, 22 Oct 2026 07:15:00 GMT",
+          "description": "Ajax heeft de eerste punten binnen in de Conference League. In de Johan Cruijff Arena kreeg de ploeg van M&#237;chel S&#225;nchez veel kansen, maar het waren de invallers die het moesten doen. Door late goals v ..."
+        },
+        {
+          "title": "Ajax boekt door late goals belangrijke zege op Atalanta in Conference League",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/formule-1/6412977/formule-1-keert-terug-naar-afrika-koningsklasse-gaat-tien-jaar-racen-in-rwanda.html",
-          "publishedDate": "Tue, 13 Oct 2026 04:25:00 GMT",
-          "description": "De Formule 1 keert &quot;begin jaren dertig&quot; terug naar Afrika, waar sinds 1993 geen Grand Prix meer is verreden. De organisatie maakte dinsdag een tienjarige overeenkomst bekend met Rwanda, dat een nieuw ..."
+          "url": "https://www.nu.nl/voetbal/6414074/ajax-boekt-door-late-goals-belangrijke-zege-op-atalanta-in-conference-league.html",
+          "publishedDate": "Thu, 22 Oct 2026 01:51:00 GMT",
+          "description": "Ajax heeft donderdag een welkome zege geboekt op Atalanta in de Conference League. De ploeg van coach M&#237;chel S&#225;nchez won dankzij late goals van Tolu Arokodare en Abdellah Ouazane: 2-0."
         },
         {
-          "title": "Gratis Formule 1 kijken in Nederland komt mogelijk in gevaar na Viaplay-exit",
-          "source": "gptoday",
-          "url": "https://www.gptoday.net/nl",
-          "publishedDate": "Thu, 22 Oct 2026 09:47:00 GMT",
-          "description": "Hockenheim hoopt op een terugkeer op de Formule 1-kalender. Het Duitse circuit is in gesprek met de koningsklasse van de autosport, maar een nieuwe Grand Prix is voorlopig nog v ..."
+          "title": "Ajax op Rapport: speciale aandacht voor drietal na zege op Atalanta",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-op-rapport-speciale-aandacht-voor-drietal-na-zege-op-atalanta",
+          "publishedDate": "Thu, 22 Oct 2026 14:18:00 GMT",
+          "description": "Ajax boekte donderdagavond een verdiende overwinning op Atalanta in de Conference League. Dit zijn de rapportcijfers na de wedstrijd."
         },
         {
-          "title": "Max Verstappen krijgt Formule 1-titel toegewezen door voormalig F1-coureur",
-          "source": "GP33",
-          "url": "https://gp33.nl/f1-nieuws/max-verstappen-krijgt-formule-1-titel-toegewezen-door-voormalig-f1-coureur",
-          "publishedDate": "Thu, 22 Oct 2026 00:58:00 GMT",
-          "description": "Max Verstappen gaat het Formule 1-kampioenschap van volgend seizoen winnen. Daar is voormalig F1-coureur Jolyon Palmer van overtuigd. De opmars die Red Bull Racing heeft gemaakt in 2026, geeft hem het ..."
+          "title": "Tolu en Ouazane bezorgen Ajax Conference League-zege op Atalanta",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/tolu-en-ouazane-bezorgen-ajax-conference-league-zege-op-atalanta",
+          "publishedDate": "Thu, 22 Oct 2026 13:50:00 GMT",
+          "description": "Ajax heeft de eerste drie punten in de Conference League binnen. Heel lang leek er tegen Atalanta niet meer in te zitten dan een gelijkspel, tot de invallers Tolu Arokodare en Abdellah Ouazane toesloe ..."
         },
         {
-          "title": "Hockenheim bevestigt gesprekken met Formule 1 over terugkeer: 'We zijn in onderhandeling'",
-          "source": "GPFans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/1091791/hockenheim-bevestigt-gesprekken-met-formule-1-over-terugkeer-we-zijn-in-onderhandeling/",
-          "publishedDate": "Wed, 21 Oct 2026 12:46:00 GMT",
-          "description": "Hoewel de Hockenheimring momenteel in gesprek is met de Formule 1 over een mogelijke terugkeer op de kalender, bevindt een daadwerkelijke rentree zich voorlopig nog in een theoretische fase. Algemeen ..."
+          "title": "Ajax met &#233;&#233;n nieuwe naam tegen Atalanta Bergamo",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/ajax-met-een-nieuwe-naam-tegen-atalanta-bergamo/",
+          "publishedDate": "Thu, 22 Oct 2026 13:23:00 GMT",
+          "description": "In het afgelopen weekend won Ajax met klinkende cijfers van FC Groningen en dus was er geen reden voor trainer M&#237;chel S&#225;nchez om zijn basisploeg volledig ..."
         },
         {
-          "title": "Het laatste nieuws uit de Formule 1",
-          "source": "gpblog.com",
-          "url": "https://www.gpblog.com/nl/nieuws",
-          "publishedDate": "Wed, 21 Oct 2026 06:02:00 GMT",
-          "description": "De Formule 1 verandert continu, van baanbrekende reglementswijzigingen tot strategische beslissingen en technologische innovaties. Op deze pagina brengen we je dagelijks het laatste nieuws F1, ..."
+          "title": "Opstelling Ajax: M&#237;chel wijzigt basiself op &#233;&#233;n plek tegen Atalanta",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/opstelling-ajax-michel-wijzigt-basiself-op-een-plek-tegen-atalanta/blt33f00ae6fdc8b529",
+          "publishedDate": "Thu, 22 Oct 2026 12:55:00 GMT",
+          "description": "Ajax staat donderdag tegenover Atalanta in de Conference League. M&#237;chel S&#225;nchez heeft de opstelling van de thuisclub inmiddels bekendgemaakt voor het Europese duel, dat om 21:00 uur begint."
         },
         {
-          "title": "Crawford spreekt over mogelijk Formule 1-debuut: &quot;Ik ben er klaar voor&quot;",
-          "source": "F1 Maximaal",
-          "url": "https://www.f1maximaal.nl/interview/crawford-spreekt-over-mogelijk-formule-1-debuut-ik-ben-er-klaar-voor",
-          "publishedDate": "Wed, 21 Oct 2026 01:00:00 GMT",
-          "description": "Jak Crawford komt steeds dichter bij zijn doel om in de Formule 1 te racen. De 21-jarige Amerikaan is dit seizoen de derde coureur van Aston Martin en combineert simulatorwerk met zijn aanwezigheid ti ..."
+          "title": "Ajax treft Atalanta Bergamo: Dit is de vermoedelijke opstelling",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/10/22/ajax-treft-atalanta-bergamo-dit-is-de-vermoedelijke-opstelling/",
+          "publishedDate": "Thu, 22 Oct 2026 05:27:00 GMT",
+          "description": "Ajax speelt vanavond in de Conference League tegen het Italiaanse Atalanta Bergamo. De Amsterdammers hebben wat goed te maken want de eerste wedstrijd in het toernooi werd met 2-1 verloren van het Kro ..."
         },
         {
-          "title": "Formule 1 draait nieuwe motorregel na &#233;&#233;n jaar weer terug",
-          "source": "RacingNews365 on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/motorsport/formule-1-draait-nieuwe-motorregel-na-%C3%A9%C3%A9n-jaar-weer-terug/ar-AA2fE1Bu",
-          "publishedDate": "Tue, 20 Oct 2026 06:00:00 GMT",
-          "description": "De Formule 1 heeft voor het seizoen 2027 de Grand Prix-afstanden ingekort als gevolg van de aanpassingen aan de krachtbronnen, maar in de nieuwe FIA-regels - die onlangs gepubliceerd zijn - is al vast ..."
+          "title": "Ouazane na heerlijke goal bij Ajax - Atalanta: 'Daar ben ik totaal niet mee bezig'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/kan-ajax-parel-ouazane-de-wereldtop-bereiken-daar-ben-ik-totaal-niet-mee-bezig",
+          "publishedDate": "Thu, 22 Oct 2026 02:41:00 GMT",
+          "description": "Abdellah Ouazane (17) blijft na zijn heerlijke goal bij Ajax - Atalanta met beide benen op de grond. &quot;Ik ben er echt totaal niet mee bezig, of ik de wereldtop kan bereiken&quot;, bezweert hij bij Ziggo Spo ..."
         },
         {
-          "title": "Van Formule 1-crash tot schadeauto: hoe bepaal je wat een auto nog waard is?",
-          "source": "GPFans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/1091760/van-formule-1-crash-tot-schadeauto-hoe-bepaal-je-wat-een-auto-nog-waard-is/",
-          "publishedDate": "Sat, 17 Oct 2026 10:58:00 GMT",
-          "description": "We zien het tijdens een Grand Prix zo nu en dan gebeuren: een flinke crash, waardoor een coureur per direct het circuit kan verlaten. Afhankelijk van de ernst van de beschadigingen kan het voertuig so ..."
-        },
-        {
-          "title": "Ferrari geeft coureur nieuwe functie in Formule 1 na zes jaar samenwerking",
-          "source": "GPblog on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/ferrari-geeft-coureur-nieuwe-functie-in-formule-1-na-zes-jaar-samenwerking/ar-AA2epTDx",
-          "publishedDate": "Sat, 17 Oct 2026 01:02:00 GMT",
-          "description": "Dino Beganovic blijft ook komend jaar verbonden aan het Formule 1-team van Ferrari. GPblog wist eerder al te melden dat Ferrari langer door wilde met Beganovic. Maar nu is bekend geworden dat hij ook ..."
-        },
-        {
-          "title": "Formule 1",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/formule-1/",
-          "publishedDate": "Fri, 16 Oct 2026 20:36:00 GMT",
-          "description": "Kimi Antonelli staat op het punt om geschiedenis te schrijven in de Formule 1, maar buiten het circuit heeft de Mercedes-coureur met flinke problemen te maken. De twintigjarige Italiaan is verwikkeld ..."
-        }
-      ]
-    },
-    {
-      "keyword": "andré hazes",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Andr&#233; Hazes overwoog weer te gaan drinken vanwege stemproblemen: 'Ver heen'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/achterklap/6413380/andre-hazes-overwoog-weer-te-gaan-drinken-vanwege-stemproblemen-ver-heen.html",
-          "publishedDate": "Fri, 16 Oct 2026 05:22:00 GMT",
-          "description": "Andr&#233; Hazes heeft veel stress ervaren door zijn aanhoudende stemproblemen. De zanger heeft al zijn geplande optredens voor het komende jaar afgezegd. De druk voelde voor hem zo groot dat hij overwoog ..."
-        },
-        {
-          "title": "Andr&#233; Hazes moest horloge vader terugkopen van opa: 'Laatste keer dat ik hem sprak'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/hazes/artikelen/andre-hazes-moest-horloge-vader-terugkopen-van-opa",
-          "publishedDate": "Thu, 22 Oct 2026 07:13:00 GMT",
-          "description": "Andr&#233; Hazes deelt in zijn realityserie een emotioneel verhaal over het terugkopen van het horloge van zijn vader van zijn opa. Een pijnlijke herinnering."
-        },
-        {
-          "title": "Dreetje Hazes werd naar eigen zeggen 'geterroriseerd' door oma en 'opgelicht' door opa",
-          "source": "Panorama on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/dreetje-hazes-werd-naar-eigen-zeggen-geterroriseerd-door-oma-en-opgelicht-door-opa/ar-AA2fOEE0",
-          "publishedDate": "Thu, 22 Oct 2026 07:01:00 GMT",
-          "description": "De zanger koestert duidelijk niet enkel warme gevoelens voor zijn grootouders, zo wordt duidelijk in zijn reallifesoap."
-        },
-        {
-          "title": "Andr&#233; Hazes onthult pijnlijke herinnering aan zijn vader: 'Heeft echt mijn jeugd geterroriseerd'",
-          "source": "Kek Mama on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/andr%C3%A9-hazes-onthult-pijnlijke-herinnering-aan-zijn-vader-heeft-echt-mijn-jeugd-geterroriseerd/ar-AA2fOKkw",
-          "publishedDate": "Thu, 22 Oct 2026 06:00:00 GMT",
-          "description": "Sommige herinneringen komen ineens weer boven, door een geur, een voorwerp of een verhaal van vroeger. Voor Andr&#233; Hazes (32) zijn die herinneringen niet allemaal even fijn. In zijn realityserie Andr&#233; ..."
-        },
-        {
-          "title": "Lorentia Veppi is oprecht ten einde raad door haar hormonen en Andr&#233; Hazes blikt terug op moeilijke jeugd",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/bv/lorentia-veppi-is-oprecht-ten-einde-raad-door-haar-hormonen-en-andre-hazes-blikt-terug-op-moeilijke-jeugd~a0f00433/",
-          "publishedDate": "Thu, 22 Oct 2026 03:35:00 GMT",
-          "description": "The show must go on, want de showbizzwereld staat nooit stil. Wat jouw favoriete BV’s de laatste 24 uur hebben uitgespookt, ontdek je hier in onze nieuwsstream."
-        },
-        {
-          "title": "Wat is er mis met de tanden van Andr&#233; Hazes?",
-          "source": "Show24",
-          "url": "https://show24.nl/wat-is-er-mis-met-de-tanden-van-andre-hazes/",
-          "publishedDate": "Wed, 21 Oct 2026 17:00:00 GMT",
-          "description": "Andr&#233; Hazes blijkt een vreemde obsessie met zijn gebit te hebben. Dat vertelt hij in zijn nieuwe reallifesoap ‘Andr&#233; Hazes: En Nu…’ Waarom is Andr&#233; zo geobsedeerd door zijn tanden?"
-        },
-        {
-          "title": "Andr&#233; Hazes: “ik wil niet meer over haar praten”",
-          "source": "Show24",
-          "url": "https://show24.nl/andre-hazes-ik-wil-niet-meer-over-haar-praten/",
-          "publishedDate": "Thu, 15 Oct 2026 17:01:00 GMT",
-          "description": "“Opvallend is dat hij juist probeert de spanningen rond zijn moeder steeds meer los te laten. Andr&#233; en zijn zus Roxeanne hebben met elkaar afgesproken om Rachel zo min mogelijk onderwerp van gesprek ..."
-        },
-        {
-          "title": "Andr&#233; Hazes dacht eraan weer te gaan drinken door problemen met zijn stem: 'Je bent echt ver heen'",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/entertainment/fragment-gemist/andre-hazes-fragment-gemist-problemen-stem/",
-          "publishedDate": "Thu, 15 Oct 2026 14:50:00 GMT",
-          "description": "Hij overwoog zelfs om met zijn counselor Rogier te bespreken of hij als artiest Andr&#233; Hazes zou kunnen drinken, terwijl hij als priv&#233;persoon, Dre, nuchter zou blijven. “Toen dat door mij heen ging, ..."
-        },
-        {
-          "title": "Andr&#233; Hazes is smoorverliefd op Noa: 'Ik vind dat ze in de serie van het beeldscherm afspat'",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/cultuur-media/interview/andre-hazes-relatie-noa/",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 GMT",
-          "description": "Niet alleen Andr&#233; Hazes is weer wekelijks op tv te zien dankzij zijn realityserie; we krijgen ook meer te zien over zijn relatie met Noa. En al die camera’s, daar had zij in eerste instantie helemaal ..."
-        },
-        {
-          "title": "Andr&#233; Hazes jr. cancelt &#225;lle shows in 2027, aan de slag als tv-ster?",
-          "source": "Mediacourant",
-          "url": "https://www.mediacourant.nl/2026/09/andre-hazes-jr-cancelt-alle-shows-in-2027-aan-de-slag-als-tv-ster/",
-          "publishedDate": "Fri, 25 Sep 2026 10:35:00 GMT",
-          "description": "Andr&#233; Hazes jr. zet vanwege zijn stemproblemen een streep door &#225;lle optredens in 2027. Stilzitten is naar eigen zeggen niets voor hem en dus wil hij zijn agenda vullen met andere klussen. Lonkt een ni ..."
-        }
-      ]
-    },
-    {
-      "keyword": "postbode",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Volle brievenbus of gesloten gordijnen: postbodes trekken steeds vaker aan de bel",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/het-beste-van-hart/persoonlijke-verhalen/artikelen/postbodes-slaan-2000-keer-alarm-om-buurtbewoners",
-          "publishedDate": "Wed, 21 Oct 2026 13:30:00 GMT",
-          "description": "PostNL-bezorgers hebben sinds april 2024 al 2000 keer een melding gedaan over bewoners die mogelijk hulp nodig hebben. Welzijnsorganisaties bekijken vervolgens welke ondersteuning nodig is."
-        },
-        {
-          "title": "PostNL heeft een rekening van 80 miljoen voor Den Haag: wie betaalt de postbode?",
-          "source": "Startpagina on MSN",
-          "url": "https://www.msn.com/nl-nl/geldzaken/algemeen/postnl-heeft-een-rekening-van-80-miljoen-voor-den-haag-wie-betaalt-de-postbode/ar-AA2fEXya",
-          "publishedDate": "Tue, 20 Oct 2026 06:05:10 GMT",
-          "description": "PostNL heeft een boodschap voor Den Haag, en die past niet op een ansichtkaart. Het postbedrijf wil volgend jaar maar liefst 80 miljoen euro van de overheid om de brievenbezorging overeind te houden."
-        },
-        {
-          "title": "Franse postbode dumpt 62 kilo aan brieven en folders voor 1100 inwoners in bos",
-          "source": "ED",
-          "url": "https://www.ed.nl/buitenland/franse-postbode-dumpt-62-kilo-aan-brieven-en-folders-voor-1100-inwoners-in-bos~aa1301847/",
-          "publishedDate": "Fri, 11 Sep 2026 21:00:00 GMT",
-          "description": "In een bos in het Franse departement Doubs is maar liefst 62 kilogram onbezorgde post teruggevonden. Vermoed wordt dat een postbode die tijdelijk inviel de brieven en reclamefolders er tijdens de ..."
-        },
-        {
-          "title": "Postbode komt om het leven na aanrijding met bus in Bouillon",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/nationaal/postbode-komt-om-het-leven-na-aanrijding-met-bus-in-bouillon/ar-AA1WjlRa",
-          "publishedDate": "Fri, 13 Feb 2026 11:40:00 GMT",
-          "description": "In het Luxemburgse Bouillon is vrijdag een postbode om het leven gekomen bij een botsing tussen zijn bestelwagen en een bus, zo meldt het Luxemburgse parket. &quot;Een van onze postbodes is overleden in ..."
-        },
-        {
-          "title": "Postbode Ahmed Abdillahi loopt 25 marathons tegen armoede: 'Mensen zijn in nood'",
-          "source": "Nieuwe Revu",
-          "url": "https://revu.nl/artikel/670740/postbode-ahmed-abdillahi-loopt-25-marathons-tegen-armoede-de-mensen-zijn-in-nood",
-          "publishedDate": "Fri, 28 Nov 2025 06:00:00 GMT",
-          "description": "De gemiddelde mens moet er niet aan denken, maar de Rotterdamse postbode Ahmed Abdillahi loopt dit jaar doodleuk 25 marathons. Zo wil hij aandacht vragen voor stadsgenoten die worstelen met armoede."
-        },
-        {
-          "title": "Via videodeurbel ziet Karin hoe postbode haar kat Ollie hardhandig vastgrijpt: ‘Ik ben bang dat hij terugkomt’",
-          "source": "AD",
-          "url": "https://www.ad.nl/utrecht/via-videodeurbel-ziet-karin-hoe-postbode-haar-kat-ollie-hardhandig-vastgrijpt-ik-ben-bang-dat-hij-terugkomt~a1fc495d/",
-          "publishedDate": "Wed, 22 Oct 2025 09:59:00 GMT",
-          "description": "Als Karin uit Utrecht een melding op haar telefoon krijgt van haar videodeurbel, denkt ze nog dat ze ‘gewoon’ een pakketje krijgt. En ja: de postbode staat voor de deur. Maar als hij het pakketje ..."
-        },
-        {
-          "title": "Ontslag voor postbode die postzak in vuilnisbak dumpt: “Zoiets kan bpost niet tolereren”",
-          "source": "HBvL",
-          "url": "https://www.hbvl.be/regio/limburg/beringen/ontslag-voor-postbode-die-postzak-in-vuilnisbak-dumpt-zoiets-kan-bpost-niet-tolereren/26331714.html",
-          "publishedDate": "Thu, 23 May 2024 10:45:00 GMT",
-          "description": "In de postzak zat vooral reclamedrukwerk, maar ook enkele brieven en kaartjes voor Moederdag. “Wanneer zo’n zak gevonden wordt, kan perfect achterhaald worden welke postbode op die datum de betrokken ..."
-        },
-        {
-          "title": "Geliefde postbode Cees (75!) wil niet stoppen met werken: ‘Prijs me alsjeblieft niet de hemel in’",
-          "source": "AD",
-          "url": "https://www.ad.nl/utrecht/geliefde-postbode-cees-75-wil-niet-stoppen-met-werken-prijs-me-alsjeblieft-niet-de-hemel-in~a4d8abe2/",
-          "publishedDate": "Tue, 21 Dec 2021 19:00:00 GMT",
-          "description": "75 jaar is hij, maar stoppen met werken? Cees van den Ham moet er niet aan d&#233;nken. Al moest hij vanwege een heupoperatie zijn werk als postbode wel tijdelijk opgeven. Maar nu staat de Utrechter ..."
-        },
-        {
-          "title": "Duizenden poststukken in schuur postbode",
-          "source": "panorama",
-          "url": "https://panorama.nl/artikel/148135/duizenden-poststukken-in-schuur-postbode",
-          "publishedDate": "Wed, 16 Oct 2019 03:18:00 GMT",
-          "description": "In de Bredase wijk waar de man bezorger was, werd de post van de zomer niet of nauwelijks bezorgd. Het postbedrijf kreeg veel klachten en ging op onderzoek uit. Toen bleek dat de man alle post in zijn ..."
-        },
-        {
-          "title": "Baasje betrapt postbode erop dat hij elke dag zijn hond komt knuffelen",
-          "source": "HLN",
-          "url": "https://www.hln.be/dieren/baasje-betrapt-postbode-erop-dat-hij-elke-dag-zijn-hond-komt-knuffelen~acbb6080/",
-          "publishedDate": "Thu, 09 Mar 2017 17:32:00 GMT",
-          "description": "Postbodes en honden zijn niet altijd de beste vrienden, maar deze twee zijn duidelijk wel beste maatjes. Michael Collins uit Tauranga, Nieuw-Zeeland, ontdekte dat zijn postbode elke dag even halt ..."
+          "title": "Invallers schenken Ajax vlak voor tijd volle buit tegen Atalanta",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/invallers-schenken-ajax-vlak-voor-tijd-volle-buit-tegen-atalanta",
+          "publishedDate": "Thu, 22 Oct 2026 01:53:00 GMT",
+          "description": "Ajax grijpt dankzij invallers Tolu en Ouazane tegen Atalanta de eerste zege in de Conference League: het wordt 2-0 in Amsterdam."
         }
       ]
     }
