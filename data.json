@@ -1,82 +1,6 @@
 {
-  "fetchedAt": "2026-10-22T08:11:39.055Z",
+  "fetchedAt": "2026-10-22T13:58:13.295Z",
   "trends": [
-    {
-      "keyword": "php lek",
-      "trafficLabel": "200K+",
-      "articles": [
-        {
-          "title": "Veel websites weer online na PHP-lek, cyberveiligheidscentrum ziet nog steeds geen ‘actief misbruik’",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/10/22/veel-websites-weer-online-na-php-lek-cyberveiligheidscentrum-ziet-nog-steeds-geen-actief-misbruik-a4939524",
-          "publishedDate": "Wed, 21 Oct 2026 11:38:00 GMT",
-          "description": "Na de veiligheidszorgen door de kwetsbaarheden in programmeertaal PHP zijn veel websites inmiddels weer online gekomen. Zo zijn sinds woensdagavond de websites van DigiD, MijnOverheid en Rijkswatersta ..."
-        },
-        {
-          "title": "Door lek in internetcode PHP gaan websites uit voorzorg offline: ‘Criminelen hebben deze kwetsbaarheid mogelijk al jaren misbruikt’",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/door-lek-in-internetcode-php-gaan-websites-uit-voorzorg-offline-criminelen-hebben-deze-kwetsbaarheid-mogelijk-al-jaren-misbruikt~b36fb808/",
-          "publishedDate": "Wed, 21 Oct 2026 06:35:00 GMT",
-          "description": "Verschillende websites, waaronder die van de Tweede Kamer, zijn uit voorzorg offline gegaan vanwege kwetsbaarheden in de codetaal PHP. Daarop draaien grote delen van het internet. De PHP Foundation ze ..."
-        },
-        {
-          "title": "RD Vandaag: PHP-lek en Kyiv bestookt",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/rd-vandaag-php-lek-en-kyiv-bestookt",
-          "publishedDate": "Thu, 22 Oct 2026 00:51:00 GMT",
-          "description": "Goedemorgen! Vandaag worden steeds meer websites weer bereikbaar nadat woensdag een lek werd ontdekt in programmeertaal PHP."
-        },
-        {
-          "title": "Na groot PHP-lek is gevaar nog niet voorbij: ‘Komende maanden worden organisaties gehackt’",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/nieuws-politiek/10614039/na-groot-php-lek-is-gevaar-nog-niet-voorbij-komende-maanden-worden-organisaties-gehackt",
-          "publishedDate": "Wed, 21 Oct 2026 23:44:00 GMT",
-          "description": "‘Er zijn heel veel organisaties die niet eens weten dat ze dit gebruiken. Dus die problemen zullen nog wel even duren.’ ..."
-        },
-        {
-          "title": "Meerdere grote websites nog steeds offline na beveiligingslek PHP, zoals Meld Misdaad Anoniem",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/lifestyle/tech/2026/10/meerdere-websites-offline-php/",
-          "publishedDate": "Wed, 21 Oct 2026 22:54:00 GMT",
-          "description": "Onder meer de websites van Overheid.nl, Meld Misdaad Anoniem en lokale afdelingen van Veilig Thuis zijn nog niet bereikbaar."
-        },
-        {
-          "title": "Hoger onderwijs geraakt door lek in programmeertaal, ook Univers ging uit voorzorg uit de lucht",
-          "source": "Univers",
-          "url": "https://universonline.nl/nieuws/2026/10/22/hoger-onderwijs-geraakt-door-lek-in-programmeertaal-ook-univers-ging-uit-voorzorg-uit-de-lucht/",
-          "publishedDate": "Wed, 21 Oct 2026 12:59:00 GMT",
-          "description": "Een ‘grote kwetsbaarheid’ in programmeertaal PHP zorgt online voor paniek. Veel websites zijn gisteren preventief offline gehaald, waaronder die van ziekenh ..."
-        },
-        {
-          "title": "Door lek in internetcode PHP gaan websites uit voorzorg offline: ‘Kwetsbaarheid is er al jaren’",
-          "source": "Nederlands Dagblad",
-          "url": "https://www.nd.nl/nieuws/nederland/1335836/door-lek-in-internetcode-php-gaan-websites-uit-voorzorg-offli",
-          "publishedDate": "Wed, 21 Oct 2026 07:58:00 GMT",
-          "description": "Verschillende websites, waaronder die van de Tweede Kamer, zijn uit voorzorg offline gegaan vanwege kwetsbaarheden in de codetaal PHP. Daarop draaien grote delen van het internet. De PHP Foundation ..."
-        },
-        {
-          "title": "PHP-lek: legale goksites bleven bereikbaar, Cruks inschrijven niet mogelijk, Kansspelautoriteit weer online",
-          "source": "CasinoNieuws.nl",
-          "url": "https://www.casinonieuws.nl/online/php-lek-geen-gevolgen-voor-goksites/",
-          "publishedDate": "Wed, 21 Oct 2026 07:54:00 GMT",
-          "description": "Het ernstige PHP-lek waardoor verschillende Nederlandse organisaties hun websites uit voorzorg offline haalden, heeft vooralsnog niet tot bevestigde uitval bij legale online gokaanbieders geleid."
-        },
-        {
-          "title": "Meerdere Nederlandse sites uit voorzorg offline voor kritiek PHP-lek",
-          "source": "mspbusiness",
-          "url": "https://mspbusiness.com/security-en-privacy/meerdere-nederlandse-sites-uit-voorzorg-offline-voor-kritiek-php-lek/",
-          "publishedDate": "Wed, 21 Oct 2026 07:54:00 GMT",
-          "description": "PHP brengt een noodpatch uit voor twee kritieke lekken (PHP2Shell), waardoor diverse Nederlandse sites preventief offline gaan."
-        },
-        {
-          "title": "Kritiek PHP-lek zet miljoenen websites onder druk",
-          "source": "Computable.nl",
-          "url": "https://www.computable.nl/2026/10/21/kritiek-php-lek-zet-miljoenen-websites-onder-druk/",
-          "publishedDate": "Wed, 21 Oct 2026 05:51:00 GMT",
-          "description": "De PHP Foundation heeft met spoed updates uitgebracht voor twee kritieke kwetsbaarheden in programmeertaal PHP, nadat informatie over de lekken voortijdig uitlekte."
-        }
-      ]
-    },
     {
       "keyword": "real betis - feyenoord",
       "trafficLabel": "100K+",
@@ -103,11 +27,25 @@
           "description": "In dit liveblog volgen we de resterende duels in speelronde drie van de Champions League. Onder meer Como-Manchester United, Real Betis-Feyenoord en Bayern M&#252;nchen-Arsenal."
         },
         {
-          "title": "Opta: PSV en Feyenoord maken volop kans op CL-vervolg",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/opta-psv-en-feyenoord-maken-volop-kans-op-cl-vervolg",
-          "publishedDate": "Thu, 22 Oct 2026 01:09:00 GMT",
-          "description": "PSV heeft volgens de Opta Predictor nog 65,4 procent kans om de competitiefase van de Champions League bij de eerste 24 ploegen af te sluiten. Daarmee zou de ploeg van Peter Bosz zich plaatsen voor de ..."
+          "title": "E&#233;n man wekt enorme irritatie bij Betis - Feyenoord: ‘Ik heb me kapot ge&#235;rgerd aan hem!’",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/een-man-wekt-enorme-irritatie-bij-betis-feyenoord-ik-heb-mij-kapot-geergerd-aan-hem",
+          "publishedDate": "Thu, 22 Oct 2026 05:22:00 GMT",
+          "description": "Dennis Kranenburg heeft zich tijdens Real Betis – Feyenoord flink ge&#235;rgerd aan scheidsrechter Simone Sozza. De journalist van Rijnmond was kritisch op het optreden van de Italiaan."
+        },
+        {
+          "title": "Beelden: onrust in uitvak na Real Betis - Feyenoord, politie meldt zich",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/feyenoord-real-betis-politie-uitvak-sevilla",
+          "publishedDate": "Thu, 22 Oct 2026 02:12:00 GMT",
+          "description": "Na het laatste fluitsignaal bij Real Betis - Feyenoord liep de spanning hoog op in het uitvak in Sevilla. Op X gaan beelden rond van de ingreep."
+        },
+        {
+          "title": "Buitenlandse media zien zwaarbevochten zege Betis op Feyenoord, BBC kiest opvallende man of the match",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2271579/buitenlandse-media-zien-zwaarbevochten-zege-betis-op-feyenoord-bbc-kiest-opvallende-man-of-the-match",
+          "publishedDate": "Thu, 22 Oct 2026 00:59:00 GMT",
+          "description": "Vorige week waren de complimenten van de buitenlandse media nog voor Feyenoord, nu is er vooral veel lof voor tegenstander Real Betis. De Spaanse sportpers zag dat het de Rotterdammers woensdagavond n ..."
         },
         {
           "title": "Feyenoord: Spaanse media lovend over Betis Sevilla maar onder de indruk van Hadj Moussa",
@@ -124,184 +62,170 @@
           "description": "Feyenoord heeft woensdagavond een zure nederlaag geleden in de Champions League. De Rotterdamers gingen met 1-0 onderuit bij Real Betis, terwijl ze wel de mogelijkheid hadden om een beter resultaat te ..."
         },
         {
-          "title": "Feyenoord verliest, maar &#233;&#233;n speler tankt volop vertrouwen tegen Real Betis",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/feyenoord-verliest-maar-een-speler-tankt-vertrouwen-tegen-real-betis",
-          "publishedDate": "Wed, 21 Oct 2026 16:06:00 GMT",
-          "description": "Hij kreeg de laatste tijd (terecht) een hoop kritiek te verwerken, maar tegen Real Betis heeft Feyenoord -doelman Tjark Ernst zich van een goede kant laten zien. De doelman heeft vertrouwen kunnen ..."
+          "title": "Nipte nederlaag Feyenoord bij Real Betis in Champions League",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/nipte-nederlaag-feyenoord-bij-real-betis-in-champions-league",
+          "publishedDate": "Wed, 21 Oct 2026 16:03:00 GMT",
+          "description": "SEVILLA (ANP) - Feyenoord heeft tegen Real Betis zijn tweede nederlaag in de Champions League van dit seizoen geleden. De koploper van de Eredivisie verloor in Sevilla met 1-0 van de Spaanse subtopper ..."
         },
         {
-          "title": "Handsbal St. Juste breekt Feyenoord op in Sevilla: Real Betis maakt verschil vanaf de stip",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/voetbal/handsbal-st-juste-breekt-feyenoord-op-in-sevilla-real-betis-maakt-verschil-vanaf-de-stip~a56017a4/",
-          "publishedDate": "Wed, 21 Oct 2026 15:52:00 GMT",
-          "description": "Na de tweede nederlaag in de Champions League staat Feyenoord op een plek die na acht wedstrijden het einde betekent van het Europese avontuur. In de uitwedstrijd bij Real Betis in Sevilla lieten de R ..."
-        },
-        {
-          "title": "Dit is de opstelling van Feyenoord in Champions League-kraker met Real Betis: liefst vier wijzigingen",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/dit-is-de-opstelling-van-feyenoord-in-champions-league-kraker-met-real-betis-liefst-vier-wijzigingen-2026102021343700567/",
-          "publishedDate": "Wed, 21 Oct 2026 12:47:00 GMT",
-          "description": "Feyenoord speelt een prachtig affiche in de Champions League. De ploeg van Giovanni van Bronckhorst gaat op bezoek bij Real Betis in Sevilla. Na het doelpuntenspektakel tegen Telstar voert de trainer ..."
-        },
-        {
-          "title": "Beelden: onrust in uitvak na Real Betis - Feyenoord, politie meldt zich",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/feyenoord-real-betis-politie-uitvak-sevilla",
-          "publishedDate": "Wed, 21 Oct 2026 12:11:00 GMT",
-          "description": "Na het laatste fluitsignaal bij Real Betis - Feyenoord liep de spanning hoog op in het uitvak in Sevilla. Op X gaan beelden rond van de ingreep."
-        }
-      ]
-    },
-    {
-      "keyword": "koffie",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Vulkanologen ontdekken hoe je de lekkerste koffie zet: het heeft nauwelijks te maken met exclusieve koffiebonen",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/columns-opinie/vulkanologen-ontdekken-hoe-je-de-lekkerste-koffie-zet-het-heeft-nauwelijks-te-maken-met-exclusieve-koffiebonen~b1a88124/",
-          "publishedDate": "Fri, 09 Oct 2026 18:00:00 GMT",
-          "description": "Volgens echte kenners is dit allemaal maar onzin. Perfecte koffie heeft nauwelijks te maken met het soort koffiebonen, maar des te meer met de manier waarop die wordt gezet. Percolatie is het proces ..."
-        },
-        {
-          "title": "Koffie hangt samen met minder lichaamsvet en meer spiermassa",
-          "source": "Newsmonkey on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/koffie-hangt-samen-met-minder-lichaamsvet-en-meer-spiermassa/ar-AA2fCA6x",
-          "publishedDate": "Tue, 20 Oct 2026 00:32:00 GMT",
-          "description": "In het kort Verband tussen koffie en lichaamssamenstelling Een onderzoek van de Universiteit van Oulu, gepubliceerd in het European Journal of Nutrition, wijst op een mogelijk verband tussen regelmati ..."
-        },
-        {
-          "title": "Koffie drinken mogelijk goed voor de gezondheid",
-          "source": "Suriname Nieuws",
-          "url": "https://www.srnieuws.com/koffie-drinken-mogelijk-goed-voor-de-gezondheid",
-          "publishedDate": "Mon, 19 Oct 2026 14:11:00 GMT",
-          "description": "Koffie geeft niet alleen energie, maar kan volgens onderzoek ook gezondheidsvoordelen hebben. Mensen die regelmatig koffie drinken, lijken minder kans te hebben op leverkanker, leverziekten, Parkinson ..."
-        },
-        {
-          "title": "Koffie K&#224;n brandt al drie generaties koffie in de Kerkstraat van Wenduine",
-          "source": "lokaalnieuws",
-          "url": "https://www.lokaalnieuws.online/2026/10/19/wenduine-koffie-kan-koffiebranderij-derde-generatie/",
-          "publishedDate": "Mon, 19 Oct 2026 06:20:00 GMT",
-          "description": "Koffie K&#224;n in Wenduine brandt al drie generaties koffie. Marjolein Vermeersch en Frederik Danneels leiden de branderij in de Kerkstraat."
-        },
-        {
-          "title": "Drink jij je koffie gloeiend heet? Dan hebben we echt nieuws voor je",
-          "source": "TAGMAG",
-          "url": "https://tagmag.news/feed/1057556-drink-jij-je-koffie-gloeiend-heet-dan-hebben-we-echt-nieuws-voor-je/",
-          "publishedDate": "Fri, 16 Oct 2026 18:36:00 GMT",
-          "description": "Maar waar ligt het aan? Het probleem zit volgens de onderzoekers niet in de koffie of thee zelf, maar vooral in de temperatuur. Zeer hete vloeistoffen kunnen het slijmvlies van de slokdarm beschadigen ..."
-        },
-        {
-          "title": "Koffie na het opstaan: wel of niet 90 minuten wachten?",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/gezondheid/koffie-na-het-opstaan-wel-of-niet-90-minuten-wachten",
-          "publishedDate": "Fri, 16 Oct 2026 02:25:00 GMT",
-          "description": "Wachten met je eerste koffie na het opstaan? Daar is geen bewijs voor. In de eerste 2,5 uur maakt cafe&#239;ne je juist het vrolijkst."
-        },
-        {
-          "title": "Nederlanders drinken 3,5 kopjes koffie per dag: Voedingscentrum legt uit wanneer het te veel wordt",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/lifestyle/eten-drinken/2026/10/hoeveel-koffie-per-dag-te-veel/",
-          "publishedDate": "Tue, 13 Oct 2026 09:02:00 GMT",
-          "description": "Nederlanders drinken gemiddeld 3,5 kopjes koffie per dag. Hoeveel koffie kun je veilig drinken en wanneer heeft cafe&#239;ne invloed op je nachtrust?"
-        },
-        {
-          "title": "De koffiesector kan niet bouwen op alsmaar goedkope koffie",
-          "source": "oxfambelgie.be",
-          "url": "https://oxfambelgie.be/de-koffiesector-kan-niet-bouwen-op-alsmaar-goedkope-koffie",
-          "publishedDate": "Tue, 09 Jun 2026 17:01:00 GMT",
-          "description": "Twintig jaar terugkijkend legt de Koffiebarometer 2026 de structurele tekortkomingen bloot in de wereldwijde koffie-industrie. Hoewel de prijs voor koffie op de wereldmarkt recent een historisch ..."
-        },
-        {
-          "title": "Koffie drinken in Maastricht: Dit zijn de vijf leukste adressen verspreid door de stad",
-          "source": "ELLE",
-          "url": "https://www.elle.com/nl/lifestyle/reizen-hotspots/a62851066/koffie-maastricht/",
-          "publishedDate": "Sat, 09 Nov 2024 22:01:00 GMT",
-          "description": "Maastricht: Absoluut een van onze favoriete steden in het zuiden van ons land. Mooie architectuur, genoeg te doen, fijne musea en theater tot leuke winkels en restaurants en andere tentjes waar we ..."
-        },
-        {
-          "title": "Onze koffie krijgt het moeilijk door klimaatverandering: met deze 5 tips kan je daar zelf iets aan doen",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2024/04/23/klimaatimpact-koffie-hoe-groot-en-hoe-terugdringen/",
-          "publishedDate": "Sun, 05 May 2024 23:27:00 GMT",
-          "description": "De klimaatverandering dreigt de koffieplant weg te jagen uit de regio's waar ze nu geteeld wordt. Maar koffie veroorzaakt zelf ook een deeltje van de klimaatverandering. In Zuid-Amerika verdwijnt er ..."
-        }
-      ]
-    },
-    {
-      "keyword": "real madrid - rb leipzig",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "LIVE Champions League | Club Brugge loopt verder uit tegen Lens, Real Madrid verdubbelt de voorsprong tegen Leipzig",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/live-champions-league-real-madrid-slaat-vlak-voor-rust-toe-tegen-rb-leipzig~a5160a8b/?slug_rd=1",
-          "publishedDate": "Wed, 21 Oct 2026 14:46:00 GMT",
-          "description": "Een volle avond Champions League-voetbal vanavond. Manchester United ging met pijnlijke cijfers onderuit op bezoek bij Como: &lt;a href=&quot;https://www.ad.nl/voetbal/crisis-compleet-bij-manchester-united-da ..."
-        },
-        {
-          "title": "Champions League-kraker Bayern-Arsenal onbeslist, Real Madrid blijft winnen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2636152-champions-league-kraker-bayern-arsenal-onbeslist-real-madrid-blijft-winnen",
-          "publishedDate": "Wed, 21 Oct 2026 14:24:00 GMT",
-          "description": "Arsenal houdt aan de late 2-2 van Declan Rice een punt over aan het bezoek aan Bayern M&#252;nchen. Real Madrid maakt geen fout tegen RB Leipzig en wint simpel met 4-1."
-        },
-        {
-          "title": "Real Madrid te sterk voor Leipzig, Club Brugge met oud-Ajacied Forbs blijft verrassen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/real-madrid-te-sterk-voor-leipzig-club-brugge-met-oud-ajacied-forbs-blijft-verrassen~a5160a8b/",
-          "publishedDate": "Wed, 21 Oct 2026 07:17:00 GMT",
-          "description": "Real Madrid heeft in de Champions League gedaan wat het moest doen en won in eigen huis met 4-1 van RB Leipzig. Club Brugge blijft ondertussen verrassen. Na de knappe uitzege op Inter van vorige week ..."
-        },
-        {
-          "title": "UCL: Real Madrid wint makkelijk van RB Leipzig",
-          "source": "goldenpalacenews",
-          "url": "https://www.goldenpalacenews.be/nl/2026/10/22/ucl-real-madrid-wint-makkelijk-van-rb-leipzig/",
-          "publishedDate": "Thu, 22 Oct 2026 00:41:00 GMT",
-          "description": "De Madrilenen ronden hun voorbereiding voor de Clasico tegen Barcelona goed af. Ze wonnen in de Champions League van RB Leipzig."
-        },
-        {
-          "title": "LIVE Champions League | Real Madrid slaat vlak voor rust toe tegen RB Leipzig",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/voetbal/live-champions-league-real-madrid-slaat-vlak-voor-rust-toe-tegen-rb-leipzig~a5160a8b/",
-          "publishedDate": "Wed, 21 Oct 2026 14:46:00 GMT",
-          "description": "Een volle avond Champions League-voetbal vanavond. Manchester United ging met pijnlijke cijfers onderuit op bezoek bij Como: &lt;a href=&quot;https://www.ad.nl/voetbal/crisis-compleet-bij-manchester-united-da ..."
-        },
-        {
-          "title": "LIVE Champions League | Real Madrid slaat vlak voor rust toe dankzij Bernardo Silva, Club Brugge op voorsprong tegen Lens",
+          "title": "LIVE Champions League | Feyenoord onstnapt aan achterstand tegen Real Betis, Ernst brengt redding op schot Parrott",
           "source": "Tubantia",
-          "url": "https://www.tubantia.nl/voetbal/live-champions-league-real-madrid-slaat-vlak-voor-rust-toe-dankzij-bernardo-silva-club-brugge-op-voorsprong-tegen-lens~a5160a8b/",
-          "publishedDate": "Wed, 21 Oct 2026 14:46:00 GMT",
-          "description": "Een volle avond Champions League-voetbal vanavond. Manchester United ging met pijnlijke cijfers onderuit op bezoek bij Como: &lt;a href=&quot;https://www.ad.nl/voetbal/crisis-compleet-bij-manchester-united-da ..."
+          "url": "https://www.tubantia.nl/voetbal/live-champions-league-feyenoord-onstnapt-aan-achterstand-tegen-real-betis-ernst-brengt-redding-op-schot-parrott~a56017a4/",
+          "publishedDate": "Wed, 21 Oct 2026 14:31:00 GMT",
+          "description": "Feyenoord won vorige week met 3-2 van Como en hoopt die zege in de Champions League vanavond een goed vervolg te geven in Sevilla tegen Real Betis. Wat doet de koploper van de eredivisie in het zuiden ..."
+        }
+      ]
+    },
+    {
+      "keyword": "frans duijts",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Zanger Frans Duijts ligt in het ziekenhuis na hartinfarct, situatie is stabiel",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/muziek/6414024/zanger-frans-duijts-ligt-in-het-ziekenhuis-na-hartinfarct-situatie-is-stabiel.html",
+          "publishedDate": "Thu, 22 Oct 2026 06:03:00 GMT",
+          "description": "Zanger Frans Duijts is vorige week getroffen door een acuut hartinfarct. De schade is beperkt gebleven dankzij het adequate handelen van zijn familie en hulpverleners."
         },
         {
-          "title": "LIVE Champions League | Galatasaray wint in Frankrijk, Real Madrid ontvangt RB Leipzig en Inter thuis tegen Sjachtar",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/voetbal/live-champions-league-galatasaray-wint-in-frankrijk-real-madrid-ontvangt-rb-leipzig-en-inter-thuis-tegen-sjachtar~a5160a8b/",
-          "publishedDate": "Wed, 21 Oct 2026 13:21:00 GMT",
-          "description": "Een volle avond Champions League-voetbal vanavond. Manchester United ging met pijnlijke cijfers onderuit op bezoek bij Como: 4-1. Om 21.00 uur komen onder meer Feyenoord (uit tegen Real Betis) en Real ..."
+          "title": "Zanger Frans Duijts getroffen door hartinfarct, schade is beperkt gebleven",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/muziek/6414024/zanger-frans-duijts-getroffen-door-hartinfarct-schade-is-beperkt-gebleven.html",
+          "publishedDate": "Thu, 22 Oct 2026 06:03:00 GMT",
+          "description": "Zanger Frans Duijts is vorige week getroffen door een acuut hartinfarct, staat in een persbericht op zijn Instagram. De schade is beperkt gebleven door het adequate handelen van zijn familie en hulpve ..."
         },
         {
-          "title": "Praat mee op VP: Real Madrid – RB Leipzig",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-real-madrid-rb-leipzig/ar-AA2fLdN6",
-          "publishedDate": "Wed, 21 Oct 2026 11:11:00 GMT",
-          "description": "Real Madrid en RB Leipzig treffen elkaar woensdagavond in de Champions League. De wedstrijd begint om 21.00 uur. Volg het duel hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+          "title": "Zanger Frans Duijts (47) getroffen door hartinfarct, schade beperkt gebleven",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/zanger-frans-duijts-47-getroffen-door-hartinfarct-schade-beperkt-gebleven~ab7503f2/",
+          "publishedDate": "Wed, 21 Oct 2026 21:22:00 GMT",
+          "description": "Frans Duijts (47) is afgelopen week getroffen door een acuut hartinfarct. Dat meldt het management van de zanger. Dankzij het snelle en adequate handelen van zijn familie en de hulpverleners heeft hij ..."
         },
         {
-          "title": "Real Madrid – RB Leipzig kijken: zender, live stream en tijd (21 oktober 2026)",
-          "source": "Squawka",
-          "url": "https://www.squawka.com/nl/nieuws/champions-league/real-madrid-rb-leipzig-kijken-zender-live-stream-tijd/",
-          "publishedDate": "Wed, 21 Oct 2026 05:21:00 GMT",
-          "description": "Real Madrid - RB Leipzig is op woensdag 21 oktober live te zien op Ziggo Sport 3. Voor die zender heb je Ziggo Sport Totaal nodig."
+          "title": "Zanger Frans Duijts getroffen door acuut hartinfarct: 'De schade is beperkt gebleven'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/media/verdrietig/zanger-frans-duijts-hartinfarct/",
+          "publishedDate": "Thu, 22 Oct 2026 06:34:00 GMT",
+          "description": "Verdrietig nieuws: Frans Duijts is getroffen door een acuut hartinfarct. Maar gelukkig waren zijn familie en de hulpverleners er snel bij. Daardoor is de schade beperkt gebleven. Hartinfarct Frans Dui ..."
         },
         {
-          "title": "Real Madrid vs RB Leipzig voorspelling, tips en odds | Champions League",
-          "source": "Eurosport",
-          "url": "https://www.eurosport.nl/weddenschappen/voorspellingen/real-madrid-vs-rb-leipzig-voorspelling-tips-en-odds-champions-league-21-10-26/",
-          "publishedDate": "Mon, 19 Oct 2026 17:00:00 GMT",
-          "description": "In het Bernab&#233;u scoorde de ploeg van Jos&#233; Mourinho dit seizoen 19 keer en kreeg ze slechts vier tegendoelpunten, en zondag werd Sevilla met 4-1 verslagen. In Rome stond Real in de slotfase met 1-3 ach ..."
+          "title": "Frans Duijts getroffen door acuut hartinfarct: ‘Adequaat gehandeld door familie en hulpverleners’",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/entertainment/2026/10/frans-duijts-acuut-hartinfarct/",
+          "publishedDate": "Thu, 22 Oct 2026 06:04:00 GMT",
+          "description": "Frans Duijts (47) heeft vorige week een acuut hartinfarct gehad. Zijn management laat weten dat de schade beperkt is gebleven dankzij het snelle handelen van zijn familie en hulpverleners. Sneller bij ..."
+        },
+        {
+          "title": "Frans Duijts vorige week getroffen door hartinfarct",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/frans-duijts-vorige-week-getroffen-door-hartinfarct",
+          "publishedDate": "Thu, 22 Oct 2026 06:01:00 GMT",
+          "description": "Frans Duijts is vorige week getroffen door een hartinfarct. Dat laat zijn management donderdag weten. Door &quot;het snelle en adequate handelen van zijn familie en de hulpverleners heeft hij tijdig de jui ..."
+        },
+        {
+          "title": "Frans Duijts (47) getroffen door acuut hartinfarct",
+          "source": "Panorama",
+          "url": "https://panorama.nl/artikel/698875/frans-duijts-47-getroffen-door-acuut-hartinfarct",
+          "publishedDate": "Thu, 22 Oct 2026 04:15:00 GMT",
+          "description": "Schrik om volkszanger Frans Duijts. De 47-jarige zanger is afgelopen week getroffen door een acuut hartinfarct. Dankzij het snelle ingrijpen van zijn familie en hulpverleners is de schade beperkt gebl ..."
+        },
+        {
+          "title": "Frans Duijts thuis in bijzijn van familie getroffen door hartinfarct",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/frans-duijts-getroffen-door-hartinfarct",
+          "publishedDate": "Thu, 22 Oct 2026 04:00:00 GMT",
+          "description": "Frans Duijts is getroffen door een hartinfarct. Zijn management deelt het nieuws en vraagt om privacy terwijl hij herstelt. Lees meer over zijn situatie en updates op Instagram."
+        },
+        {
+          "title": "Grote schrik rondom Frans Duijts: getroffen door hartinfarct",
+          "source": "Weekblad Party",
+          "url": "https://weekbladparty.nl/grote-schrik-rondom-frans-duijts-getroffen-door-hartinfarct/",
+          "publishedDate": "Thu, 22 Oct 2026 03:42:00 GMT",
+          "description": "De 47-jarige volkszanger Frans Duijts is getroffen door een hartinfarct. Hij werkte de afgelopen jaren hard aan zijn gezondheid."
+        },
+        {
+          "title": "Harde uitspraak Frans Duijts: “van mij mag ze omvallen”",
+          "source": "Vipnieuws.nl",
+          "url": "https://vipnieuws.nl/harde-uitspraak-frans-duijts-van-mij-mag-ze-omvallen/",
+          "publishedDate": "Wed, 21 Oct 2026 20:00:00 GMT",
+          "description": "Frans Duijts begon zijn carri&#232;re als Hazes-imitator en dat hij nadien volledig doorbrak als zanger, viel niet in goede aarde bij Rachel Hazes. Frans probeerde in eerste instantie nog de hand te reiken ..."
+        }
+      ]
+    },
+    {
+      "keyword": "storing",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Problemen bij online bank Revolut verholpen na grote storing",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6413844/problemen-bij-online-bank-revolut-verholpen-na-grote-storing.html",
+          "publishedDate": "Tue, 20 Oct 2026 15:13:00 GMT",
+          "description": "Alle diensten bij online bank Revolut zijn dinsdag weer hersteld. De Britse bank kampte eerder op de dag met problemen door een storing bij Google Cloud. Het geld en de gegevens van klanten zijn veili ..."
+        },
+        {
+          "title": "Stroomuitval bij Google Cloud, storing bij onlinebank Revolut",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/10/20/stroomuitval-bij-google-cloud-storing-bij-online-bank-revolut-a4939374",
+          "publishedDate": "Tue, 20 Oct 2026 07:05:00 GMT",
+          "description": "De Britse onlinebank Revolut ondervindt deze dinsdag ernstige problemen met zijn app, waardoor veel klanten in Nederland en andere Europese landen niet kunnen inloggen, noch betalingen, overschrijving ..."
+        },
+        {
+          "title": "Revolut-klanten kunnen door grote storing niet bij hun geld",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6413774/revolut-klanten-kunnen-door-grote-storing-niet-bij-hun-geld.html",
+          "publishedDate": "Tue, 20 Oct 2026 06:26:00 GMT",
+          "description": "Rekeninghouders van online bank Revolut kunnen dinsdagmiddag niet bij hun geld door een grote storing. Het is niet mogelijk om pinbetalingen te doen, geld op te nemen of bedragen over te maken."
+        },
+        {
+          "title": "Bewoners in Maarssen en Maarssenbroek zitten nu zonder water door storing, waterlek gedicht",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/stichtse-vecht/bewoners-in-maarssen-en-maarssenbroek-zitten-nu-zonder-water-door-storing-waterlek-gedicht~ac70cef4/",
+          "publishedDate": "Mon, 19 Oct 2026 00:43:00 GMT",
+          "description": "Ongeveer 6000 adressen in Maarssen en Maarssenbroek kampen maandag met een waterstoring door een gebroken waterleiding. Bewoners hebben geen water of een lage waterdruk. Vitens verwacht dat de storing ..."
+        },
+        {
+          "title": "Storing bij elektronische paspoortcontrole Schiphol verholpen, enkele honderden mensen vlucht gemist",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/storing-bij-elektronische-paspoortcontrole-schiphol-verholpen-enkele-honderden-mensen-vlucht-gemist~b4fae40a/",
+          "publishedDate": "Sun, 18 Oct 2026 07:48:00 GMT",
+          "description": "Op luchthaven Schiphol stonden zondagochtend lange rijen door een storing in het systeem van de zelfbedieningspaspoortzuilen. Door de storing moesten alle reizigers die van of naar een land buiten het ..."
+        },
+        {
+          "title": "Na zes dagen nog altijd onduidelijkheid over KPN-storing",
+          "source": "De Orkaan",
+          "url": "https://www.deorkaan.nl/na-zes-dagen-nog-altijd-onduidelijkheid-over-kpn-storing/",
+          "publishedDate": "Thu, 22 Oct 2026 05:00:00 GMT",
+          "description": "Zes dagen na het begin van de KPN-storing zitten sommige bewoners van Westerwatering en het Zaaneiland nog altijd zonder internet en digitale televisie. Navraag bij KPN levert geen duidelijkheid op ov ..."
+        },
+        {
+          "title": "Problemen bij onlinebank Revolut voorbij na storing bij Google Cloud",
+          "source": "BNR Nieuwsradio",
+          "url": "https://www.bnr.nl/nieuws/economie/10613995/problemen-bij-onlinebank-revolut-voorbij-na-storing-bij-google-cloud",
+          "publishedDate": "Tue, 20 Oct 2026 15:07:00 GMT",
+          "description": "De storing zorgde voor technische problemen bij verschillende bedrijven in Europa, vooral in het Verenigd Koninkrijk."
+        },
+        {
+          "title": "Oorzaak storing Calandbrug gevonden, reparatie bezig",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/oorzaak-storing-calandbrug-gevonden-reparatie-bezig",
+          "publishedDate": "Tue, 20 Oct 2026 09:26:00 GMT",
+          "description": "De storing in de Calandbrug komt door defecte onderdelen van een motor in de brug. Dat meldt beheerder ProRail. Volgens ProRail is het herstel van de onderdelen in volle gang. De brug bij het Botlekge ..."
+        },
+        {
+          "title": "Storing bij onlinebank Revolut kwam door ‘stroomproblemen’ bij Google Cloud",
+          "source": "Het Financieele Dagblad",
+          "url": "https://fd.nl/financiele-markten/1616179/storing-bij-onlinebank-revolut-mogelijk-miljoenen-klanten-geraakt",
+          "publishedDate": "Tue, 20 Oct 2026 03:53:00 GMT",
+          "description": "Rekeninghouders kunnen niet meer bij hun geld. Kaartbetalingen, geldopnames en overboekingen zijn niet beschikbaar. Ook de app werkt niet meer."
+        },
+        {
+          "title": "Calandbrug opnieuw afgesloten door storing, oorzaak onbekend",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/infrastructuur/verkeer/artikelen/zuid-holland-rozenburg-calandbrug-afgesloten-storing",
+          "publishedDate": "Mon, 19 Oct 2026 14:49:00 GMT",
+          "description": "De Calandbrug bij Rozenburg is opnieuw afgesloten door een storing. De brug staat half open, waardoor wegverkeer en scheepvaart er niet langs kunnen. ProRail onderzoekt de oorzaak."
         }
       ]
     },
@@ -313,222 +237,104 @@
           "title": "Romano Hummel plotseling overleden",
           "source": "De Krant Nieuws",
           "url": "https://www.dekrantnieuws.nl/actueel/actueel/106568/romano-hummel-plotseling-overleden",
-          "publishedDate": "Wed, 21 Oct 2026 23:44:00 GMT",
+          "publishedDate": "Thu, 22 Oct 2026 01:43:00 GMT",
           "description": "HOOGKERK - Bekende motorcoureur Romano Hummel is plotseling overleden. De bekende Hoogkerker werd maar 27 jaar. Hij overleed gisteren."
         },
         {
-          "title": "Grasbaanracer Romano Hummel(27) overleden in Hoogkerk",
+          "title": "Hoogkerk: Romano Hummel(27) overleden",
           "source": "112Groningen",
           "url": "https://112groningen.nl/438131/groningen/romanohummeloverledenhoogkerk/",
-          "publishedDate": "Wed, 21 Oct 2026 13:41:00 GMT",
+          "publishedDate": "Wed, 21 Oct 2026 17:46:00 GMT",
           "description": "Hoogkerk - Romano Hummel is woensdagmiddag overleden, de grasbaanracer, werd maar 27 jaar, dat meldt zijn familie op Facebook, nabestaanden wensen we veel s ..."
         },
         {
-          "title": "Romano Hummel stopt ermee",
-          "source": "De Krant",
-          "url": "https://www.dekrantnieuws.nl/sport/sport/105709/romano-hummel-stopt-ermee-vze6f7",
-          "publishedDate": "Wed, 30 Sep 2026 05:07:00 GMT",
-          "description": "HOOGKERK – Na 23 jaar op de motor is het voor Romano Hummel genoeg geweest. De 27-jarige grasbaan- en langbaancoureur uit Hoogkerk heeft zijn laatste meters gereden. Niet omdat hij niet meer mee kan, ..."
-        },
-        {
-          "title": "Tranen en triomf in Aduard: hoe knokte Romano Hummel zich terug aan de top?",
-          "source": "ditisroden.nl",
-          "url": "https://www.ditisroden.nl/nieuwsbericht/tranen-en-triomf-in-aduard-hoe-knokte-romano-hummel-zich-terug-aan-de-top",
-          "publishedDate": "Sat, 19 Jul 2025 17:00:00 GMT",
-          "description": "Tranen, spanning en een comeback: wat gebeurde er &#233;cht op de grasbaan in Aduard? Op 19 juli 2025 stond het Groningse Aduard in het teken van pure motorsportactie. De thuisbaan van Romano Hummel vormde ..."
-        },
-        {
-          "title": "TAMOIL Internationale Grasbaanraces in Loppersum groot succes: Romano Hummel en Wilfred Detz pakken de winst",
-          "source": "eemskrant",
-          "url": "https://www.eemskrant.nl/tamoil-internationale-grasbaanraces-in-loppersum-groot-succes-romano-hummel-en-wilfred-detz-pakken-de-winst/",
-          "publishedDate": "Sun, 15 Jun 2025 08:33:00 GMT",
-          "description": "Loppersum – Op een zonovergoten Sportpark Bosweg in Loppersum vonden afgelopen zaterdag de TAMOIL Internationale Grasbaanraces 2025 plaats. Meer dan 1500 toeschouwers genoten van spectaculaire ..."
-        },
-        {
-          "title": "Romano Hummel zet punt achter sportcarri&#232;re: “Ik kijk terug op een enorm mooie tijd”",
-          "source": "OOG",
-          "url": "https://www.oogtv.nl/2024/09/romano-hummel-zet-punt-achter-sportcarriere-ik-kijk-terug-op-een-enorm-mooie-tijd/",
-          "publishedDate": "Sun, 29 Sep 2024 15:19:00 GMT",
-          "description": "Grasbaancoureur Romano Hummel heeft een punt gezet achter zijn carri&#232;re. Dat heeft de 25-jarige inwoner van Hoogkerk zondag bekendgemaakt via zijn sociale mediakanalen. Het besluit komt niet helemaal ..."
-        },
-        {
-          "title": "Motorcoureur Romano Hummel uit Hoogkerk komt zwaar ten val tijdens WK-langbaan. Wedstrijd Roden hopelijk haalbaar",
-          "source": "ditisroden.nl",
-          "url": "https://www.ditisroden.nl/nieuwsbericht/motorcoureur-romano-hummel-uit-hoogkerk-komt-zwaar-ten-val-tijdens-wk-langbaan-wedstrijd-roden-hopelijk-haalbaar",
-          "publishedDate": "Sun, 15 Sep 2024 17:00:00 GMT",
-          "description": "Grasbaancoureur Romano Hummel uit Hoogkerk is na een val bij de vierde wedstrijd van het WK in het Duitse Vechta in het ziekenhuis beland. De Hoogkerker crashte tijdens de derde heat. De Fransman ..."
-        },
-        {
-          "title": "Wereldkampioen Romano Hummel ontvangt Ben Majoor Trofee",
-          "source": "motorfreaks",
-          "url": "https://motorfreaks.nl/artikel/wereldkampioen-romano-hummel-ontvangt-ben-majoor-trofee/",
-          "publishedDate": "Sat, 02 Apr 2022 05:00:00 GMT",
-          "description": "Het bestuur van de KNMV heeft besloten om de Ben Majoor Trofee voor jong talent in de motorsport toe te kennen aan Romano Hummel, die in 2021 wereldkampioen Langbaan werd. Foto: Jesper ..."
-        },
-        {
-          "title": "GP Langbaan: Romano Hummel wereldkampioen",
-          "source": "motor",
-          "url": "https://www.motor.nl/motorsport/gp-langbaan-romano-hummel-wereldkampioen/",
-          "publishedDate": "Thu, 09 Sep 2021 23:10:00 GMT",
-          "description": "Op zijn twaalfde werd Romano Hummel al Wereldkampioen in het grasbaanracen. Toen nog in de 125cc-jeugdklasse. Twee jaar later was hij weer ’s werelds beste; ditmaal in de 250cc-klasse. Zelfs zonder ..."
+          "title": "Grasbaanracer Romano Hummel (27) overleden in woonplaats Hoogkerk",
+          "source": "OOG Groningen",
+          "url": "https://www.oogtv.nl/2026/10/grasbaanracer-romano-hummel-27-overleden-in-woonplaats-hoogkerk/",
+          "publishedDate": "Wed, 21 Oct 2026 15:45:00 GMT",
+          "description": "Grasbaan- en langbaancoureur Romano Hummel is woensdagmiddag op 27-jarige leeftijd overleden in zijn woonplaats Hoogkerk.Hummel be&#235;indigde vorige maand zijn sportcarri&#232;re, na 23 jaar in de moto ..."
         }
       ]
     },
     {
-      "keyword": "bayern - arsenal",
+      "keyword": "voedsel",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Timber veroorzaakt penalty bij CL-gelijkspel Arsenal tegen Bayern M&#252;nchen",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6413959/timber-veroorzaakt-penalty-bij-cl-gelijkspel-arsenal-tegen-bayern-munchen.html",
-          "publishedDate": "Wed, 21 Oct 2026 15:56:00 GMT",
-          "description": "Bayern M&#252;nchen heeft woensdag met 2-2 gelijkgespeeld tegen Arsenal in de Champions League. Harry Kane vertolkte een hoofdrol met een goal en een assist, terwijl Jurri&#235;n Timber een penalty veroorzaakte ..."
+          "title": "Gerben Straatsma geeft lezing over voedsel in Melderslo",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/horst-aan-de-maas/gerben-straatsma-geeft-lezing-over-voedsel-in-melderslo~a1388d13/",
+          "publishedDate": "Wed, 14 Oct 2026 00:19:00 GMT",
+          "description": "Gerben Straatsma geeft in Museumdorp De Locht een lezing over de geschiedenis van voedsel. Zaterdag is de lezing ‘Hoe natuurlijk is ons voedsel’ van 14.30 tot 16.00 uur in Melderslo."
         },
         {
-          "title": "Champions League-kraker Bayern-Arsenal onbeslist, Real Madrid blijft winnen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2636152-champions-league-kraker-bayern-arsenal-onbeslist-real-madrid-blijft-winnen",
-          "publishedDate": "Wed, 21 Oct 2026 14:24:00 GMT",
-          "description": "Arsenal houdt aan de late 2-2 van Declan Rice een punt over aan het bezoek aan Bayern M&#252;nchen. Real Madrid maakt geen fout tegen RB Leipzig en wint simpel met 4-1."
+          "title": "&quot;Nederland moet voedselvoorraden beter voorbereiden op crisissituaties&quot;",
+          "source": "AGF.nl",
+          "url": "https://www.agf.nl/article/9885452/nederland-moet-voedselvoorraden-beter-voorbereiden-op-crisissituaties/",
+          "publishedDate": "Thu, 22 Oct 2026 05:09:00 GMT",
+          "description": "Een beperkte strategische voedselvoorraad kan Nederland beter voorbereiden op langdurige verstoringen van de voedselvoorziening. Dat concluderen Instituut Clingendael en het Erasmus ..."
         },
         {
-          "title": "UCL: Bayern M&#252;nchen en Arsenal houden elkaar in evenwicht",
-          "source": "goldenpalacenews",
-          "url": "https://www.goldenpalacenews.be/nl/2026/10/22/ucl-bayern-munchen-en-arsenal-houden-elkaar-in-evenwicht/",
-          "publishedDate": "Thu, 22 Oct 2026 00:19:00 GMT",
-          "description": "Met Bayern M&#252;nchen tegen Arsenal stond er woensdagavond weer een grote affiche op het programma. De wedstrijd eindigde op gelijkspel."
+          "title": "Senior Voedsel- en Drankschrijver",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/author/493416/melanie-giandzi/",
+          "publishedDate": "Wed, 21 Oct 2026 12:00:00 GMT",
+          "description": "Mel is de Senior Food &amp; Drink Writer voor Good Housekeeping UK, die alle heerlijke nieuwe productlanceringen die haar pad kruisen behandelt, schrijft over voedsel- en drankonderwerpen en cadeaugidsen ..."
         },
         {
-          "title": "Duits bondscoach Klopp haalt live op tv uit naar Kompany en Bayern-coach reageert ijzig",
-          "source": "Voetbalkrant.com",
-          "url": "https://www.voetbalkrant.com/nieuws/2026-10-22/duits-bondscoach-klopp-haalt-live-op-tv-uit-naar-kompany-en-bayern-coach-reageert-ijzig",
-          "publishedDate": "Wed, 21 Oct 2026 23:40:00 GMT",
-          "description": "Vincent Kompany kreeg na het Champions League-duel tussen Bayern M&#252;nchen en Arsenal onverwacht een stevige veeg uit de pan van J&#252;rgen Klopp. De Duitse bondscoach uitte live op televisie zijn twijfels ..."
+          "title": "Surinaamse huishoudens verspillen naar schatting ruim 56.000 ton voedsel per jaar",
+          "source": "Starnieuws",
+          "url": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/94399",
+          "publishedDate": "Thu, 15 Oct 2026 17:01:00 GMT",
+          "description": "Terwijl wereldwijd miljoenen mensen onvoldoende voedsel hebben, belandt ook in Suriname jaarlijks een grote hoeveelheid voedsel in de vuilnisbak."
         },
         {
-          "title": "“Mijn lichaam zei dat het even genoeg was”: Vincent Kompany stelt gerust over gezondheid na 2-2-gelijkspel met Bayern M&#252;nchen tegen Arsenal",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/champions-league/mijn-lichaam-zei-dat-het-even-genoeg-was-vincent-kompany-stelt-gerust-over-gezondheid-na-2-2-gelijkspel-met-bayern-munchen-tegen-arsenal~aec38bf8/",
-          "publishedDate": "Wed, 21 Oct 2026 17:20:00 GMT",
-          "description": "Aangename kraker in de Allianz Arena. Arsenal opende en eindigde sterk. Tussendoor domineerde Bayern M&#252;nchen, dat na dit gelijkspel 5 op 9 telt na drie &lt;a href=&quot;https://www.hln.be/champions-league/&quot; t ..."
+          "title": "Hoop voor herstel biodiversiteit ligt bij positieve kantelpunten voor duurzame energie, voedsel en financi&#235;n",
+          "source": "Change Inc.",
+          "url": "https://www.change.inc/advies-en-dienstverlening/hoop-voor-herstel-biodiversiteit-ligt-bij-positieve-kantelpunten-voor-duurzame-energie-voedsel-en-financien",
+          "publishedDate": "Thu, 08 Oct 2026 03:27:00 GMT",
+          "description": "In een nieuw rapport legt het WWF uit welke industrie&#235;n het meest bijdragen aan het verlies van biodiversiteit − en hoe het roer om kan."
         },
         {
-          "title": "Praat mee op VP: Bayern M&#252;nchen – Arsenal",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-bayern-m%C3%BCnchen-arsenal/ar-AA2fL8Pz",
-          "publishedDate": "Wed, 21 Oct 2026 17:00:00 GMT",
-          "description": "Bayern M&#252;nchen en Arsenal staan woensdagavond tegenover elkaar in een absolute kraker in de Champions League. De wedstrijd begint om 21.00 uur. Volg het duel hieronder in de live-omgeving van VoetbalP ..."
+          "title": "Vier keer voedsel als voer voor expo’s",
+          "source": "EOS Wetenschap",
+          "url": "https://www.eoswetenschap.eu/themas/voeding/vier-keer-voedsel-als-voer-voor-expos",
+          "publishedDate": "Wed, 07 Oct 2026 07:50:00 GMT",
+          "description": "Voedsel is meer dan zijn definitie: ‘Alles wat kan worden opgegeten’. Voedsel is leven en van levensbelang, is handel en politiek, is overvloedig of eenzijdig, is cultuur, is intiem, is duurzaam, is g ..."
         },
         {
-          "title": "Iedereen heeft het bij Bayern-Arsenal over Jurri&#235;n Timber",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/iedereen-heeft-het-bij-bayern-arsenal-over-jurrien-timber/",
-          "publishedDate": "Wed, 21 Oct 2026 16:09:00 GMT",
-          "description": "Jurri&#235;n Timber wordt over het algemeen volop geprezen bij Arsenal, maar dat was woensdagavond even anders. De Nederlandse verdediger maakte een minder ..."
+          "title": "Nieuw advies noodpakket: niet voor 3, maar 8 dagen voedsel in huis",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/politiek/beleid/artikelen/nieuw-overheidsadvies-8-dagen-noodvoorraad-voedsel-in-huis",
+          "publishedDate": "Sat, 19 Sep 2026 03:07:00 GMT",
+          "description": "Ontdek het nieuwe overheidsadvies: sla 8 dagen noodvoorraden voedsel in! Leer van experts over lang houdbare producten en essenti&#235;le survivalitems voor noodgevallen."
         },
         {
-          "title": "LIVE Champions League | Bayern M&#252;nchen herstelt snel de schade tegen Arsenal: Davies scoort, heerlijke assist van Kane",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/voetbal/live-champions-league-bayern-munchen-herstelt-snel-de-schade-tegen-arsenal-davies-scoort-heerlijke-assist-van-kane~a5e601f4/",
-          "publishedDate": "Wed, 21 Oct 2026 14:35:00 GMT",
-          "description": "Een geweldig affiche vanavond in de Champions League: Bayern M&#252;nchen speelt tegen Arsenal. Welke grootmacht pakt de volle buit? Volg het hier live."
+          "title": "Duitsland wil de btw op voedsel afschaffen, hier in Nederland ziet het kabinet dat niet zitten: waarom?",
+          "source": "AD",
+          "url": "https://www.ad.nl/economie/duitsland-wil-de-btw-op-voedsel-afschaffen-hier-in-nederland-ziet-het-kabinet-dat-niet-zitten-waarom~adcdf87e/",
+          "publishedDate": "Tue, 07 Apr 2026 01:05:00 GMT",
+          "description": "De oorlog in het Midden-Oosten begint burgers en bedrijven in de portemonnee te raken. De roep om compensatie voor de hoge prijzen, zeker voor mensen met een laag inkomen, neemt toe. Moet Nederland ..."
         },
         {
-          "title": "Heerlijke CL-topper tussen Bayern en Arsenal kent geen winnaar",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/heerlijke-cl-topper-tussen-bayern-en-arsenal-kent-geen-winnaar/ar-AA2fLqvQ",
-          "publishedDate": "Wed, 21 Oct 2026 14:13:45 GMT",
-          "description": "Bayern M&#252;nchen en Arsenal blijven na een onderlinge ontmoeting in de Champions League allebei ongeslagen. Het werd een heerlijke strijd tussen de twee Europese grootmachten, waar Harry Kane maar weer ..."
+          "title": "Van boer tot bord",
+          "source": "consilium.europa",
+          "url": "https://www.consilium.europa.eu/nl/policies/from-farm-to-fork/",
+          "publishedDate": "Tue, 11 Feb 2025 16:01:00 GMT",
+          "description": "Waarom moet voedsel gezonder en duurzamer worden? Wat is de &quot;van boer tot bord&quot;-strategie? Wat zijn de belangrijkste beleidsinitiatieven? Waarom moet voedsel gezonder en duurzamer worden? Dankzij het ..."
         },
         {
-          "title": "Arsenal en Bayern spelen gelijk in vermakelijk duel, negatieve hoofdrol Timber",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/arsenal-en-bayern-spelen-gelijk-in-vermakelijk-duel-negatieve-hoofdrol-timber/ar-AA2fLvAE",
-          "publishedDate": "Wed, 21 Oct 2026 13:57:02 GMT",
-          "description": "Bayern M&#252;nchen en Arsenal delen de punten woensdagavond in de Champions League. In een vermakelijk duel waarin beide ploegen genoeg kansen kregen op de overwinning werd de eindstand 2-2. Jurri&#235;n Timbe ..."
-        }
-      ]
-    },
-    {
-      "keyword": "disney+",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Groen licht voor doorstart musicalserie Glee op Disney+",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2636129-groen-licht-voor-doorstart-musicalserie-glee-op-disney",
-          "publishedDate": "Wed, 21 Oct 2026 11:10:00 GMT",
-          "description": "De serie was onder meer in Nederland tussen 2009 en 2015 een grote hit. Meerdere acteurs van destijds zijn inmiddels overleden."
-        },
-        {
-          "title": "Disney+ geeft groen licht aan reboot van hitserie Glee",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/artikel/5660280/disney-geeft-groen-licht-aan-reboot-van-hitserie-glee",
-          "publishedDate": "Wed, 21 Oct 2026 05:49:00 GMT",
-          "description": "Disney+ heeft groen licht gegeven voor de reboot van televisiehit Glee. Amerikaanse media bevestigen dat producent Ryan Murphy aan de slag was met zijn idee voor een doorstart van de populaire musical ..."
-        },
-        {
-          "title": "Tv-zender 24Kitchen stopt met lineaire tv en gaat verder op Disney+",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/tweakers/6410829/tv-zender-24kitchen-stopt-met-lineaire-tv-en-gaat-verder-op-disney.html",
-          "publishedDate": "Thu, 24 Sep 2026 04:03:00 GMT",
-          "description": "De Nederlandse tv-zender 24Kitchen stopt met uitzenden op lineaire tv en zal vanaf 31 maart volgend jaar zijn tv-programma's alleen nog op Disney+ zetten. Waarom 24Kitchen de programma's alleen nog on ..."
-        },
-        {
-          "title": "Disney+ heeft vandaag de grote Disney-flop van 2026 online gezet: wel heel sterk ontvangen door het publiek",
-          "source": "FilmTotaal",
-          "url": "https://www.filmtotaal.nl/nieuws/135777",
-          "publishedDate": "Wed, 21 Oct 2026 01:56:00 GMT",
-          "description": "De live-actionfilm 'Vaiana' van Thomas Kail met Catherine Laga'aia en Dwayne Johnson is nu te streamen op Disney+."
-        },
-        {
-          "title": "Disney+ geeft ondanks ‘vloek van Glee’ groen licht voor doorstart van musicalserie",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/show/disney-geeft-ondanks-vloek-van-glee-groen-licht-voor-doorstart-van-musicalserie~a2c7fb0d/",
-          "publishedDate": "Tue, 20 Oct 2026 23:41:00 GMT",
-          "description": "Disney+ heeft groen licht gegeven voor de reboot van televisiehit Glee. Amerikaanse media bevestigen dat producent Ryan Murphy aan de slag was met zijn idee voor een doorstart van de populaire musical ..."
-        },
-        {
-          "title": "JustWatch lanceert eigen streamingdienst en wordt concurrent van Netflix en Disney+",
-          "source": "Spreekbuis.nl",
-          "url": "https://www.spreekbuis.nl/justwatch-lanceert-eigen-streamingdienst-en-wordt-concurrent-van-netflix-en-disney/",
-          "publishedDate": "Tue, 20 Oct 2026 17:00:00 GMT",
-          "description": "Streamingzoekmachine JustWatch heeft deze week zijn eigen streamingdienst JustWatch TV gelanceerd. Daarmee zet het bedrijf een opvallende stap: na twaalf jaar consumenten te hebben doorverwezen naar s ..."
-        },
-        {
-          "title": "Deze smart-tv-app is onmisbaar als je Netflix, Disney+ of Prime hebt",
-          "source": "WANT",
-          "url": "https://www.want.nl/smart-tv-app-netflix-disney-prime/",
-          "publishedDate": "Tue, 20 Oct 2026 00:11:00 GMT",
-          "description": "Een smart-tv maakt het een eitje om films en series te streamen via diensten als Netflix, Disney+ en Prime Video. Toch heeft al dat gemak een nadeel: iedere streamingdienst heeft zijn eigen app, inter ..."
-        },
-        {
-          "title": "Disney+: Testaankoop eist minstens € 5 per maand voor Premium-abonnees",
-          "source": "Testaankoop",
-          "url": "https://www.test-aankoop.be/familie-prive/consumentenrechten/nieuws/disney-plus-premium-terugbetaling",
-          "publishedDate": "Tue, 20 Oct 2026 00:00:00 GMT",
-          "description": "Abonnees van Disney+ Premium hebben de volledige prijs betaald, ondanks een verslechtering van de beeldkwaliteit. Testaankoop eist een terugbetaling van minstens € 5 per maand. Ontdek waarom."
-        },
-        {
-          "title": "Dit zijn de beste nieuwe films en series op Disney+ (week 42, 2026)",
-          "source": "FilmVandaag.nl on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/streaming-films-en-tv/dit-zijn-de-beste-nieuwe-films-en-series-op-disney-week-42-2026/ar-AA2euWSv",
-          "publishedDate": "Sun, 18 Oct 2026 08:57:00 GMT",
-          "description": "We blikken vandaag terug op het nieuwe aanbod van Disney+ van deze week. Zo hebben we Clown Panic (2026) en kijken we op de streamingdienst deze ..."
-        },
-        {
-          "title": "Je smart tv heeft een gratis Netflix en Disney+-alternatief",
-          "source": "WANT",
-          "url": "https://www.want.nl/gartis-alternatief-netflix-smart-tv/",
-          "publishedDate": "Tue, 13 Oct 2026 00:46:00 GMT",
-          "description": "Tegenwoordig staat er in vrijwel iedere woonkamer een smart tv die toegang heeft tot streamingdiensten, apps en andere nuttige functies. Netflix, Disney+ en HBO Max zijn daardoor bereikbaarder dan ooi ..."
+          "title": "Voedselzekerheid en betaalbaarheid van levensmiddelen",
+          "source": "consilium.europa",
+          "url": "https://www.consilium.europa.eu/nl/policies/food-security-and-affordability/",
+          "publishedDate": "Sun, 22 Oct 2023 17:00:00 GMT",
+          "description": "Wat doet de EU tegen de voedselcrisis? Waardoor wordt de voedselcrisis veroorzaakt? Waarom zijn Oekra&#239;ense gewassen van cruciaal belang voor de mondiale voedselzekerheid? Wie hebben het meest te ..."
         }
       ]
     },
     {
       "keyword": "postbode",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "Volle brievenbus of gesloten gordijnen: postbodes trekken steeds vaker aan de bel",
@@ -603,9 +409,92 @@
       ]
     },
     {
-      "keyword": "warmte",
-      "trafficLabel": "5K+",
+      "keyword": "jutta leerdam",
+      "trafficLabel": "10K+",
       "articles": [
+        {
+          "title": "Femke Kok vindt afscheid Jutta Leerdam erg jammer: 'Ik ga haar enorm missen'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/schaatsen/6412549/femke-kok-vindt-afscheid-jutta-leerdam-erg-jammer-ik-ga-haar-enorm-missen.html",
+          "publishedDate": "Fri, 09 Oct 2026 06:00:00 GMT",
+          "description": "Femke Kok gaat Jutta Leerdam komende winter missen, nu haar grote concurrent voorlopig is gestopt met schaatsen. Kok gunde zichzelf na de Olympische Spelen ook ruimte voor leuke dingen, maar inmiddels ..."
+        },
+        {
+          "title": "Ouders van schaatsicoon Jutta Leerdam reageren verheugd op bijzondere stap van dochter",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/schaatsen/nieuws/ouders-van-schaatsicoon-jutta-leerdam-reageren-verheugd-op-bijzondere-stap-van-dochter-2026102206383284178/",
+          "publishedDate": "Thu, 22 Oct 2026 02:05:00 GMT",
+          "description": "Twee van de grootste fans van Leerdam zijn natuurlijk haar ouders, Monique en Ruud. Zij reisten vaak met hun dochter mee naar de internationale schaatswedstrijden en zagen vanaf de tribune hoe ze naar ..."
+        },
+        {
+          "title": "Jutta Leerdam trekt de bandjes van haar piepkleine sport-bh omhoog en draait in het rond",
+          "source": "Mannenzaken",
+          "url": "https://mannenzaken.nl/nieuws/jutta-leerdam-trekt-de-bandjes-van-haar-piepkleine-sport-bh-omhoog-en-draait-in-het-rond",
+          "publishedDate": "Wed, 21 Oct 2026 14:00:00 GMT",
+          "description": "Jutta Leerdam weet haar volgers keer op keer te verrassen. De Nederlandse schaatsster staat natuurlijk bekend om haar indrukwekkende prestaties op het ijs, maar ook buiten de schaatsbaan trekt ze rege ..."
+        },
+        {
+          "title": "Jutta Leerdam straalt in bikini op het strand: “Je bent echt ongelooflijk mooi!” (foto’s)",
+          "source": "Zita",
+          "url": "https://www.zita.be/nieuws/entertainment/jutta-leerdam-straalt-in-bikini-op-het-strand-je-bent-echt-ongelooflijk-mooi-fotos",
+          "publishedDate": "Wed, 21 Oct 2026 07:53:00 GMT",
+          "description": "Jutta Leerdam geniet met volle teugen van het zonnige eilandleven. Dat levert enkele prachtige vakantiekiekjes op!"
+        },
+        {
+          "title": "Tropisch: Jutta Leerdam gooit prachtige vakantiefoto's en filmpjes op Instagram",
+          "source": "MAN MAN on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/tropisch-jutta-leerdam-gooit-prachtige-vakantiefoto-s-en-filmpjes-op-instagram/ar-AA247tGD",
+          "publishedDate": "Wed, 21 Oct 2026 00:34:57 GMT",
+          "description": "Jutta Leerdam deelt nog maar eens jaloersmakende beelden op haar Instagram. En dat allemaal vanaf het strand in Puerto Rico."
+        },
+        {
+          "title": "'Gigantisch verschil met Jutta Leerdam': discussie over status van verloofde Jake Paul (29)",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/gigantisch-verschil-met-jutta-leerdam-discussie-over-status-van-verloofde-jake-paul-29-2026102009454394478/",
+          "publishedDate": "Tue, 20 Oct 2026 09:30:00 GMT",
+          "description": "Jake Paul herstelde de afgelopen maanden van een opgelopen kaakbreuk, maar lijkt weer de ring in te gaan stappen. Voormalige top-hockeysters Ellen Hoog en Naomi van As bespraken in hun wekelijkse podc ..."
+        },
+        {
+          "title": "Lijdt Jutta Leerdam onder Trump-fanatisme van vriend Jake Paul?",
+          "source": "Mediacourant",
+          "url": "https://www.mediacourant.nl/2026/10/lijdt-jutta-leerdam-onder-trump-fanatisme-van-vriend-jake-paul/",
+          "publishedDate": "Fri, 16 Oct 2026 04:00:00 GMT",
+          "description": "Jutta Leerdam krijgt steeds meer kritiek vanwege de politieke voorkeuren van haar verloofde Jake Paul. De Amerikaanse 'bokser' is een uitgesproken fan van Donald Trump, maar waarom zwijgt Jutta?"
+        },
+        {
+          "title": "Jutta Leerdam overweegt haar carri&#232;re een nieuwe impuls te geven met bijzondere camera",
+          "source": "Mannenzaken",
+          "url": "https://mannenzaken.nl/nieuws/jutta-leerdam-overweegt-haar-carriere-een-nieuwe-impuls-te-geven-met-bijzondere-camera",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 GMT",
+          "description": "Jutta Leerdam heeft haar grootste sportieve droom inmiddels waargemaakt, maar dat betekent niet dat ze achteroverleunt. De 27-jarige schaatsster heeft na haar olympische succes alle ruimte om nieuwe d ..."
+        },
+        {
+          "title": "Jutta Leerdam onthult geheimen achter modeshow: brandwond en gebroken teennagels",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/jutta-leerdam-onthult-geheimen-achter-modeshow-brandwond-en-gebroken-teennagels",
+          "publishedDate": "Tue, 13 Oct 2026 04:57:00 GMT",
+          "description": "Jutta Leerdam reist naar Fashion Week in Milaan, maar onthult ook een brandwond en gebroken teennagels. Bekijk haar opvallende vlog."
+        },
+        {
+          "title": "Schaatsen moet Jutta Leerdam (tijdelijk) missen: 'Impact door persoonlijkheid'",
+          "source": "NU",
+          "url": "https://www.nu.nl/schaatsen/6409756/schaatsen-moet-jutta-leerdam-tijdelijk-missen-impact-door-persoonlijkheid.html",
+          "publishedDate": "Mon, 14 Sep 2026 15:02:00 GMT",
+          "description": "Jutta Leerdam meldde maandag in een video van twaalf minuten op haar nieuwe YouTube-kanaal dat ze in ieder geval komend seizoen niet gaat schaatsen. De (tijdelijke) afscheidsboodschap was zoals haar ..."
+        }
+      ]
+    },
+    {
+      "keyword": "warmte",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "HEMA verlaagt prijs populaire warmtekussens flink: zo kun je besparen op de verwarming",
+          "source": "RTV Focus Zwolle",
+          "url": "https://www.rtvfocuszwolle.nl/hema-warmtekussens-onderzoek-korting/",
+          "publishedDate": "Thu, 22 Oct 2026 05:12:00 GMT",
+          "description": "HEMA verlaagt de prijzen van elektrische warmtekussens met 30 procent. Onderzoek laat zien waarom gericht verwarmen helpt. Kun je zo besparen op gas?"
+        },
         {
           "title": "Een (t)huisbatterij voor €165? Airco gebruiken voor thermische batterij",
           "source": "gawalo",
@@ -628,11 +517,11 @@
           "description": "Een monumentale Amsterdamse stadsvilla springt in &#233;&#233;n keer van energielabel G naar A++, zonder veranderingen aan het historische aanzicht. Hoe dat lukt? Door warmte uit de gracht te halen. Aquathermie ..."
         },
         {
-          "title": "SDE++: Hernieuwbare warmte",
-          "source": "rvo",
-          "url": "https://www.rvo.nl/subsidies-financiering/sde/aanvragen/hernieuwbare-warmte",
-          "publishedDate": "Thu, 01 Oct 2026 00:44:00 GMT",
-          "description": "Wilt u SDE++ subsidie aanvragen voor biomassavergisting, biomassaverbranding, geothermie (diep) of zonthermie? Of voor de opwek van elektriciteit en warmte met warmtekrachtkoppeling (WKK)? Op deze ..."
+          "title": "Hans Wolters maakte een warmtebatterij voor langdurige opslag: 'Eigenlijk is dit de opvolger van het kolenhok'",
+          "source": "Change Inc.",
+          "url": "https://www.change.inc/transities/energie-transitie/hans-wolters-warmtebatterij-heatwacht-power-to-heat",
+          "publishedDate": "Wed, 14 Oct 2026 08:16:00 GMT",
+          "description": "Hans Wolters ontwierp een warmtebatterij die bedrijven in staat stelt om hernieuwbare elektriciteit effectiever te gebruiken."
         },
         {
           "title": "Wet collectieve warmte aangenomen",
@@ -658,78 +547,154 @@
       ]
     },
     {
-      "keyword": "dave maasland",
+      "keyword": "irene schouten",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Dave Maasland duikt in cyberincident bij Albert Heijn: wat is er precies gebeurd?",
-          "source": "vandaaginside",
-          "url": "https://www.vandaaginside.nl/nieuws/cyber/artikelen/dave-maasland-duikt-in-cyberincident-bij-albert-heijn-wat-is-er-precies-geb",
-          "publishedDate": "Tue, 13 Oct 2026 16:05:00 GMT",
-          "description": "Dave Maasland, bij kijkers van Vandaag Inside ook wel bekend als het ‘cybermannetje’, laat in het programma zijn licht schijnen op het cybersecurityincident bij Albert Heijn."
+          "title": "Oud-topschaatsster Irene Schouten verwacht tweede kind: 'Zo blij en dankbaar'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/schaatsen/6411284/oud-topschaatsster-irene-schouten-verwacht-tweede-kind-zo-blij-en-dankbaar.html",
+          "publishedDate": "Mon, 28 Sep 2026 09:47:00 GMT",
+          "description": "Voormalig topschaatsster Irene Schouten wordt voor de tweede keer moeder, maakt ze maandag bekend. &quot;We zijn zo blij en dankbaar. We kunnen niet wachten om je te ontmoeten, kleintje&quot;, schrijft Schouten ..."
         },
         {
-          "title": "Geliefde gast Vandaag Inside maakt nieuwe relatie bekend: 'Toen Wilfred dat zei, dacht ik...'",
+          "title": "Irene Schouten (34) deelt heuglijk nieuws: olympisch kampioene verwacht tweede kind",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/schaatsen/irene-schouten-34-deelt-heuglijk-nieuws-olympisch-kampioene-verwacht-tweede-kind~aea465ba/",
+          "publishedDate": "Mon, 28 Sep 2026 00:59:00 GMT",
+          "description": "Irene Schouten (34) is opnieuw zwanger. De voormalige schaatsster en haar man Dirkjan Mak verwachten een tweede kind. De drievoudig olympisch kampioene deelde het heuglijke nieuws op Instagram met een ..."
+        },
+        {
+          "title": "Irene Schouten (31) stopt per direct met schaatsen: ‘Ik heb bereikt wat ik wilde’",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/sport/irene-schouten-31-stopt-per-direct-met-schaatsen-ik-heb-bereikt-wat-ik-wilde~b500e429/",
+          "publishedDate": "Mon, 19 Feb 2024 08:22:00 GMT",
+          "description": "Na vijftien jaar topsport stopt Irene Schouten (31) per direct met schaatsen. Na een grandioze carri&#232;re met vijf olympische medailles (drie keer goud), dertien wereldtitels en acht EK-medailles sluit ..."
+        },
+        {
+          "title": "Ex-topschaatsster Irene Schouten (34) doorbreekt stilte",
           "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/boulevard/nieuws/geliefde-gast-vandaag-inside-maakt-nieuwe-relatie-bekend-toen-wilfred-dat-zei-dacht-ik-2026100119271065694/",
-          "publishedDate": "Thu, 01 Oct 2026 14:48:00 GMT",
-          "description": "Bij Vandaag Inside zijn Wilfred Genee, Ren&#233; van der Gijp en Johan Derksen al jaren de blikvangers. Zij krijgen echter ook hulp van flink wat gasten die geregeld aanschuiven. Een van hen maakte donderd ..."
+          "url": "https://sportnieuws.nl/boulevard/nieuws/ex-topschaatsster-irene-schouten-34-doorbreekt-stilte-2026102210465655028/",
+          "publishedDate": "Thu, 22 Oct 2026 05:46:00 GMT",
+          "description": "Het leven van ex-topschaatsster Irene Schouten zit soms zo vol, dat ze haar ruim 260.000 volgers op Instagram niet altijd bij kan praten over de gebeurtenissen die elkaar in rap tempo opvolgen. Nadat ..."
         },
         {
-          "title": "Vandaag inside-gezicht Dave Maasland tot over zijn oren verliefd: ’We zijn al jaren collega’s’",
-          "source": "drimble",
-          "url": "https://drimble.nl/opinie/108166738/vandaag-inside-gezicht-dave-maasland-tot-over-zijn-oren-verliefd-we-zijn-al-jaren-collegas.html",
-          "publishedDate": "Thu, 01 Oct 2026 12:38:00 GMT",
-          "description": "Voor de vaste kijkers van Vandaag Inside is Dave Maasland, beter bekend als ’cybermannetje’, inmiddels een vertrouwd gezicht. Toen Dave vorig jaar bekendmaakte dat zijn relatie met de moeder van zijn ..."
+          "title": "Sportconcept van Irene Schouten opent nieuwe vestiging in Wormer",
+          "source": "Rodi.nl",
+          "url": "https://www.rodi.nl/zaanstad/nieuws/509935/sportconcept-van-irene-schouten-opent-nieuwe-vestiging-in-wormer",
+          "publishedDate": "Wed, 21 Oct 2026 03:01:00 GMT",
+          "description": "WORMER - Wormer heeft er een nieuwe sportlocatie bij. Zaterdag 17 oktober opende RFRMR de deuren aan de Dorpsstraat 27a. Het is de derde franchisevestiging van het pilatesconcept, dat is opgericht ..."
         },
         {
-          "title": "Dave Maasland zucht na opmerking Jesse Klaver: ‘Dit is echt een hele slechte vergelijking!’ [video]",
-          "source": "drimble",
-          "url": "https://drimble.nl/voetbal/sport-uitzendingen/107892613/dave-maasland-zucht-na-opmerking-jesse-klaver-dit-is-echt-een-hele-slechte-vergelijking-video.html",
-          "publishedDate": "Fri, 04 Sep 2026 02:24:00 GMT",
-          "description": "Jesse Klaver - Dave Maasland is het donderdagavond bij Vandaag Inside niet eens met een vergelijking die Jesse Klaver maakt tussen social media en alcohol. Jesse ziet liever niet dat kinderen al op ..."
+          "title": "EpilepsieLoop 2026 haalt recordbedrag op: Irene Schouten geeft startsein in Amersfoort",
+          "source": "destadamersfoort.nl",
+          "url": "https://www.destadamersfoort.nl/lokaal/maatschappelijk/1318368/epilepsieloop-2026-haalt-recordbedrag-op-irene-schouten-geeft",
+          "publishedDate": "Sat, 10 Oct 2026 10:10:00 GMT",
+          "description": "[AMERSFOORT] De EpilepsieLoop heeft zaterdag 10 oktober ruim 309.000 euro opgebracht voor onderzoek naar epilepsie. In Amersfoort gaf olympisch schaatskampioen Irene Schouten samen met wethouder Mic.."
         },
         {
-          "title": "‘Cybermannetje’ Dave Maasland krijgt eigen tv-programma op SBS 6",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/show/cybermannetje-dave-maasland-krijgt-eigen-tv-programma-op-sbs-6~a4f7c505/",
-          "publishedDate": "Tue, 01 Sep 2026 20:03:00 GMT",
-          "description": "Dave Maasland krijgt een eigen televisieprogramma op SBS 6. De cybersecurity-expert die bekend staat als het ‘Cybermannetje’ bij Vandaag Inside, onderzoekt in Dave Maasland: De Jacht op Online ..."
+          "title": "Amersfoort hoofdlocatie EpilepsieLoop met Olympi&#235;r Irene Schouten",
+          "source": "amersfoort.nieuws",
+          "url": "https://amersfoort.nieuws.nl/sport/amersfoort-hoofdlocatie-epilepsieloop-met-olympier-irene-schouten",
+          "publishedDate": "Wed, 07 Oct 2026 05:43:00 GMT",
+          "description": "Een recordaantal deelnemers doet zaterdag 10 oktober mee aan de EpilepsieLoop. Op zes verschillende locaties wordt de sponsorloop gehouden om geld op te halen voor meer onderzoek naar het signaleren e ..."
         },
         {
-          "title": "Dave Maasland ge&#235;motioneerd in VI: ‘E&#233;n van de verdrietigste dingen die ik heb meegemaakt’",
-          "source": "FC Update",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/07/dave-maasland-geemotioneerd-in-vandaag-inside",
-          "publishedDate": "Thu, 16 Jul 2026 14:40:00 GMT",
-          "description": "Dave Maasland vertelt donderdagavond in Vandaag Inside openlijk over het verlies van zijn hond Moos. De vaste bargast van het SBS6-programma liet zijn hond woensdag inslapen. Maasland vertelde enkele ..."
+          "title": "Groot nieuws van schaatsicoon Irene Schouten (34) maakt veel los: ook zwangere ex-rivale reageert",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/schaatsen/nieuws/groot-nieuws-van-schaatsicoon-irene-schouten-34-maakt-veel-los-ook-zwangere-ex-rivale-reageert-2026092813330755598/",
+          "publishedDate": "Mon, 28 Sep 2026 08:58:00 GMT",
+          "description": "Ex-topschaatsster Irene Schouten (34) en haar man Dirkjan Mak kwamen maandag met prachtig nieuws naar buiten: er is een tweede kindje op komst. De twee zijn reeds ouders van zoontje Dirk, die eind ..."
         },
         {
-          "title": "Wilfred Genee pakt twee Vandaag Inside-gasten aan: 'Jullie leveren niet'",
-          "source": "FC Update",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/07/wilfred-genee-kritisch-op-bas-nijhuis-en-dave-maasland-bij-vandaag-inside",
-          "publishedDate": "Thu, 02 Jul 2026 22:25:00 GMT",
-          "description": "Vandaag Inside heeft tijdens het WK soms twee uitzendingen per dag, waardoor de scherpte kan verdwijnen. Presentator Wilfred Genee zag dat donderdagavond gebeuren bij bargasten Bas Nijhuis en Dave ..."
+          "title": "Hoe Irene Schouten ternauwernood een dopingschorsing ontliep: ‘Ja, ik was slordig’",
+          "source": "bd.nl",
+          "url": "https://www.bd.nl/schaatsen/hoe-irene-schouten-ternauwernood-een-dopingschorsing-ontliep-ja-ik-was-slordig~a8e41baf/",
+          "publishedDate": "Fri, 01 Nov 2024 05:00:00 GMT",
+          "description": "In haar vandaag verschenen biografie ‘Gehard voor goud’ vertelt Schouten hoe haar wereld instortte nadat ze een derde overtreding van het dopingreglement achter haar naam had staan. Een maand zit ze ..."
         },
         {
-          "title": "Cyberexpert Dave Maasland over Odido-datalek: “Soms verkopen hackers de data alsnog door”",
-          "source": "FunX",
-          "url": "https://www.funx.nl/news/funx/9a411c7b-c71d-49c4-a867-b0b2091f2a01/cyberexpert-dave-over-odido-datalek-soms-verkopen-hackers-de-data-alsnog-door",
-          "publishedDate": "Fri, 27 Feb 2026 04:29:00 GMT",
-          "description": "Onlangs maakte telecombedrijf Odido bekend dat er sprake was van een groot datalek. Miljoenen klantgegevens dreigen op het dark web te belanden. Hackergroep ShinyHunters eist minstens een miljoen euro ..."
+          "title": "NU+ Irene Schouten is nog altijd de beste, maar wil niet meer als zombie leven",
+          "source": "NU",
+          "url": "https://www.nu.nl/schaatsen/6302166/irene-schouten-is-nog-altijd-de-beste-maar-wil-niet-meer-als-zombie-leven.html",
+          "publishedDate": "Mon, 19 Feb 2024 11:01:00 GMT",
+          "description": "Irene Schouten is nog steeds de beste schaatsster ter wereld. Daarom komt het bericht dat ze na dit seizoen op haar 31e gaat stoppen als een verrassing. Maar haar worsteling met de opofferingen die ..."
+        }
+      ]
+    },
+    {
+      "keyword": "andré hazes",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Andr&#233; Hazes moest horloge van overleden vader terugkopen van opa",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/andr%C3%A9-hazes-moest-horloge-van-overleden-vader-terugkopen-van-opa/ar-AA2fNqag",
+          "publishedDate": "Thu, 22 Oct 2026 01:54:01 GMT",
+          "description": "Andr&#233; Hazes (32) blikt in zijn realityserie 'Andr&#233; Hazes: En Nu...' terug op zijn moeilijke jeugd en de verstoorde band met zijn grootouders. Zo vertelt de zanger dat zijn opa hem het horloge van zijn ..."
         },
         {
-          "title": "Dave Maasland: “Niet dralen met cybersecurity”",
-          "source": "evofenedex",
-          "url": "https://www.evofenedex.nl/magazines/niet-dralen-met-cybersecurity",
-          "publishedDate": "Sat, 14 Dec 2024 16:00:00 GMT",
-          "description": "Nederland is niet op tijd klaar met de implementatie van de Europese richtlijn NIS2 ter bestrijding van cybercriminaliteit. Toch doen bedrijven er goed aan om er al naar te handelen, is de ..."
+          "title": "Andr&#233; Hazes overwoog weer te gaan drinken vanwege stemproblemen: 'Ver heen'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/achterklap/6413380/andre-hazes-overwoog-weer-te-gaan-drinken-vanwege-stemproblemen-ver-heen.html",
+          "publishedDate": "Fri, 16 Oct 2026 05:22:00 GMT",
+          "description": "Andr&#233; Hazes heeft veel stress ervaren door zijn aanhoudende stemproblemen. De zanger heeft al zijn geplande optredens voor het komende jaar afgezegd. De druk voelde voor hem zo groot dat hij overwoog ..."
         },
         {
-          "title": "Dave Maasland: Wacht niet met reageren op Europese securityrichtlijn NIS2",
-          "source": "agconnect",
-          "url": "https://www.agconnect.nl/business/security/dave-maasland-wacht-niet-met-reageren-op-europese-securityrichtlijn-nis2",
-          "publishedDate": "Thu, 22 Sep 2022 23:56:00 GMT",
-          "description": "De NIS is een Europese cybersecuritywet voor netwerk- en informatiesystemen. Op dit moment geldt in heel Europa - dus ook in Nederland - nog de NIS1, en dan specifiek voor essenti&#235;le bedrijven, zoals ..."
+          "title": "Andr&#233; Hazes onthult pijnlijke herinnering aan zijn vader: 'Heeft echt mijn jeugd geterroriseerd'",
+          "source": "Kek Mama on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/andr%C3%A9-hazes-onthult-pijnlijke-herinnering-aan-zijn-vader-heeft-echt-mijn-jeugd-geterroriseerd/ar-AA2fOKkw",
+          "publishedDate": "Thu, 22 Oct 2026 06:00:00 GMT",
+          "description": "Sommige herinneringen komen ineens weer boven, door een geur, een voorwerp of een verhaal van vroeger. Voor Andr&#233; Hazes (32) zijn die herinneringen niet allemaal even fijn. In zijn realityserie Andr&#233; ..."
+        },
+        {
+          "title": "Dreetje Hazes werd naar eigen zeggen 'geterroriseerd' door oma en 'opgelicht' door opa",
+          "source": "Panorama on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/dreetje-hazes-werd-naar-eigen-zeggen-geterroriseerd-door-oma-en-opgelicht-door-opa/ar-AA2fOEE0",
+          "publishedDate": "Thu, 22 Oct 2026 05:01:00 GMT",
+          "description": "De zanger koestert duidelijk niet enkel warme gevoelens voor zijn grootouders, zo wordt duidelijk in zijn reallifesoap."
+        },
+        {
+          "title": "Wat is er mis met de tanden van Andr&#233; Hazes?",
+          "source": "Show24",
+          "url": "https://show24.nl/wat-is-er-mis-met-de-tanden-van-andre-hazes/",
+          "publishedDate": "Wed, 21 Oct 2026 17:00:00 GMT",
+          "description": "Andr&#233; Hazes blijkt een vreemde obsessie met zijn gebit te hebben. Dat vertelt hij in zijn nieuwe reallifesoap ‘Andr&#233; Hazes: En Nu…’ Waarom is Andr&#233; zo geobsedeerd door zijn tanden?"
+        },
+        {
+          "title": "PUUR GELUK: Andr&#233; Hazes en Noa Braaf beleven magische dagen met zoon Dr&#233;",
+          "source": "100%NL Magazine",
+          "url": "https://www.100pmagazine.nl/nieuws/andre-hazes-en-noa-braaf-beleven-magische-dagen/",
+          "publishedDate": "Wed, 21 Oct 2026 01:10:00 GMT",
+          "description": "Dr&#233; Hazes is bijna jarig en je maakt hem blij met veel cadeaus, maar dit is misschien wel het mooiste cadeau dat zijn vader en Noa hem kunnen geven."
+        },
+        {
+          "title": "Andr&#233; Hazes: “ik wil niet meer over haar praten”",
+          "source": "Show24",
+          "url": "https://show24.nl/andre-hazes-ik-wil-niet-meer-over-haar-praten/",
+          "publishedDate": "Thu, 15 Oct 2026 17:01:00 GMT",
+          "description": "“Opvallend is dat hij juist probeert de spanningen rond zijn moeder steeds meer los te laten. Andr&#233; en zijn zus Roxeanne hebben met elkaar afgesproken om Rachel zo min mogelijk onderwerp van gesprek ..."
+        },
+        {
+          "title": "Andr&#233; Hazes dacht eraan weer te gaan drinken door problemen met zijn stem: 'Je bent echt ver heen'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/entertainment/fragment-gemist/andre-hazes-fragment-gemist-problemen-stem/",
+          "publishedDate": "Thu, 15 Oct 2026 14:50:00 GMT",
+          "description": "Hij overwoog zelfs om met zijn counselor Rogier te bespreken of hij als artiest Andr&#233; Hazes zou kunnen drinken, terwijl hij als priv&#233;persoon, Dre, nuchter zou blijven. “Toen dat door mij heen ging, ..."
+        },
+        {
+          "title": "Andr&#233; Hazes is smoorverliefd op Noa: 'Ik vind dat ze in de serie van het beeldscherm afspat'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/cultuur-media/interview/andre-hazes-relatie-noa/",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 GMT",
+          "description": "Niet alleen Andr&#233; Hazes is weer wekelijks op tv te zien dankzij zijn realityserie; we krijgen ook meer te zien over zijn relatie met Noa. En al die camera’s, daar had zij in eerste instantie helemaal ..."
+        },
+        {
+          "title": "Marieke Elsinga basht nieuwe soap Andr&#233; Hazes jr.: ‘Saai en braaf’",
+          "source": "Mediacourant",
+          "url": "https://www.mediacourant.nl/2026/09/marieke-elsinga-basht-nieuwe-soap-andre-hazes-jr-saai-en-braaf/",
+          "publishedDate": "Tue, 29 Sep 2026 02:00:00 GMT",
+          "description": "Andr&#233; Hazes jr. heeft eindelijk zijn leven op de rit en juist d&#225;t dreigt zijn nieuwe realitysoap behoorlijk saai te maken. Zelfs luierdoekjesmama Marieke Elsinga vindt de eerste afleveringen aan de br ..."
         }
       ]
     }
