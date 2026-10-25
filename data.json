@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T09:58:37.410Z",
+  "fetchedAt": "2026-10-25T14:09:41.759Z",
   "trends": [
     {
       "keyword": "rdw",
@@ -78,249 +78,125 @@
       ]
     },
     {
-      "keyword": "ongeluk gilze",
+      "keyword": "psv - feyenoord",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Automobilist omgekomen bij frontale botsing met vrachtwagen bij Gilze",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/binnenland/6414289/automobilist-omgekomen-bij-frontale-botsing-met-vrachtwagen-bij-gilze.html",
-          "publishedDate": "Sat, 24 Oct 2026 15:50:00 GMT",
-          "description": "Een automobilist is zaterda omgekomen bij een frontale botsing met een vrachtwagen op de N260 bij Gilze. Beide voertuigen vlogen na de aanrijding in brand. Het ongeval gebeurde op de Langenbergseweg."
-        },
-        {
-          "title": "Dode bij frontale botsing tussen auto en vrachtwagen bij Gilze",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/dode-bij-frontale-botsing-tussen-auto-en-vrachtwagen-bij-gilze/ar-AA2fYROo",
-          "publishedDate": "Sat, 24 Oct 2026 06:42:24 GMT",
-          "description": "Bij een aanrijding tussen een vrachtwagen en een personenauto op de N260 bij het Noord-Brabantse Gilze zijn vanochtend beide voertuigen in brand gevlogen. De bestuurder van de auto is hierbij om het l ..."
-        },
-        {
-          "title": "Automobilist overleden na frontale botsing met vrachtwagen",
-          "source": "gilze-en-rijen.nieuws",
-          "url": "https://gilze-en-rijen.nieuws.nl/112/automobilist-overleden-na-frontale-botsing-met-vrachtwagen",
-          "publishedDate": "Sat, 24 Oct 2026 13:08:00 GMT",
-          "description": "GILZE - Bij een ernstig verkeersongeval op de Langenbergseweg (N260) bij Gilze is zaterdagochtend een automobilist om het leven gekomen. De personenauto botste rond 07.10 uur frontaal op een vrachtwag ..."
-        },
-        {
-          "title": "Vrachtwagen en auto botsen en vliegen in brand bij Gilze",
-          "source": "Nieuwsgrazer",
-          "url": "https://www.nieuwsgrazer.nl/artikel/vrachtwagen-en-auto-botsen-en-vliegen-in-brand-bij-gilze",
-          "publishedDate": "Sat, 24 Oct 2026 09:58:00 GMT",
-          "description": "Een vrachtwagen en auto zijn zaterdagochtend na een botsing op de Langenbergseweg bij Gilze in brand gevlogen, met minstens &#233;&#233;n dodelijk slachtoffer."
-        },
-        {
-          "title": "Ernstige frontale botsing vrachtwagen en auto in Gilze",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/noord-brabant/gilze/160474-ernstige-frontale-botsing-vrachtwagen-en-auto-in-gilze.html",
-          "publishedDate": "Sat, 24 Oct 2026 09:47:00 GMT",
-          "description": "Een vrachtwagen en een auto zijn zaterdagochtend 24 oktober na een frontale botsing op de Langenbergseweg (N260) bij Gilze in brand gevlogen. De bestuurder van de personenauto kwam hierbij om het leve ..."
-        },
-        {
-          "title": "Bestuurder personenauto overleden na frontale botsing met vrachtwagen op N260 bij Gilze",
-          "source": "Transport Online",
-          "url": "https://www.transport-online.nl/142742/personenauto-belandt-onder-vrachtwagen-op-n260-bij-gilze-beide-voertuigen-in-brand-fotos/",
-          "publishedDate": "Sat, 24 Oct 2026 05:13:00 GMT",
-          "description": "GILZE – Op de Langenbergseweg (N260) bij Gilze zijn zaterdagochtend 24 oktober rond 07.00 uur een vrachtwagen en een personenauto met elkaar in botsing gekomen. Beide voertuigen vlogen na de aanrijdin ..."
-        },
-        {
-          "title": "Auto belandt onder vrachtwagen na botsing op N260 bij Gilze",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/auto-belandt-onder-vrachtwagen-na-botsing-op-n260-bij-gilze",
-          "publishedDate": "Sat, 24 Oct 2026 03:16:00 GMT",
-          "description": "Bij een aanrijding tussen een vrachtwagen en een personenauto op de N260 bij het Noord-Brabantse Gilze zijn zaterdagochtend beide voertuigen in brand gevlogen. De auto ligt grotendeels onder de vracht ..."
-        },
-        {
-          "title": "Bestuurder van auto overleden bij zware crash op N260 bij Gilze",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/112-nieuws-gilze-en-rijen/bestuurder-van-auto-overleden-bij-zware-crash-op-n260-bij-gilze~a2038d2f/",
-          "publishedDate": "Fri, 23 Oct 2026 22:10:00 GMT",
-          "description": "De bestuurder van de personenauto die zaterdagochtend betrokken raakte bij het ernstige ongeval op de Langenbergseweg (N260) bij Gilze, heeft de crash niet overleefd. De vrachtwagenchauffeur heeft het ..."
-        }
-      ]
-    },
-    {
-      "keyword": "beekse bergen",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Zwaargewonde verzorgster wordt in slaap gehouden: dit weten we over de panteraanval in Beekse Bergen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/zwaargewonde-verzorgster-wordt-in-slaap-gehouden-dit-weten-we-over-de-panteraanval-in-beekse-bergen~a8d41662/",
-          "publishedDate": "Sat, 24 Oct 2026 19:42:00 GMT",
-          "description": "Een dierenverzorger is zaterdagochtend zwaargewond geraakt toen zij aan het werk was in dierenpark Beekse Bergen in Hilvarenbeek. Ze verzorgde twee mannelijke Perzische panters toen het misging. De vr ..."
-        },
-        {
-          "title": "Verzorger safaripark Beekse Bergen gewond na aanval panter in binnenverblijf",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/binnenland/6414256/verzorger-safaripark-beekse-bergen-gewond-na-aanval-panter-in-binnenverblijf.html",
-          "publishedDate": "Sat, 24 Oct 2026 08:12:00 GMT",
-          "description": "Een dierenverzorger van safaripark Beekse Bergen is zaterdag gewond geraakt door de aanval van een panter. De vrouw werd aangevallen in het binnenverblijf, bevestigt een woordvoerder van het park aan ..."
-        },
-        {
-          "title": "Verzorgster safaripark Beekse Bergen gewond na panteraanval, toestand zorgelijk",
+          "title": "Stormachtig begin PSV tegen Feyenoord • FC Groningen op voorsprong bij NEC",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2636461-verzorgster-safaripark-beekse-bergen-gewond-na-panteraanval-toestand-zorgelijk",
-          "publishedDate": "Sat, 24 Oct 2026 05:27:00 GMT",
-          "description": "In safaripark Beekse Bergen in Hilvarenbeek is vanochtend een verzorgster ernstig gewond geraakt nadat ze was aangevallen in het panterverblijf. Een woordvoerder van het park meldt dat ze aanspreekbaa ..."
+          "url": "https://nos.nl/liveblog/2636572-topper-psv-tegen-feyenoord-onderweg-nec-ontvangt-fc-groningen",
+          "publishedDate": "Sun, 25 Oct 2026 03:28:00 GMT",
+          "description": "Ook NEC tegen FC Groningen is onderweg. Met een nieuwe functie van Google bepaal je voortaan zelf welke bronnen je als eerste ziet wanneer je zoekt. Zo mis je nooit meer het laatste nieuws van de NOS. Simply the best van Tina Turner heeft geklonken. Guus Til heeft zojuist namens PSV de wedstrijd tegen Feyenoord in gang getrapt."
         },
         {
-          "title": "Nieuwe details over panteraanval Beekse Bergen: slachtoffer werkte alleen en sloeg zelf alarm",
-          "source": "Looopings",
-          "url": "https://www.looopings.nl/weblog/34675/Nieuwe-details-over-panteraanval-Beekse-Bergen-slachtoffer-werkte-alleen-en-sloeg-zelf-alarm.html",
-          "publishedDate": "Sat, 24 Oct 2026 16:35:00 GMT",
-          "description": "De zwaargewonde dierenverzorgster van Safaripark Beekse Bergen heeft na de aanval door een panter zelf via haar portofoon om hulp geroepen."
-        },
-        {
-          "title": "Panter valt verzorgster Beekse Bergen aan: vrouw in kritieke toestand",
-          "source": "Looopings",
-          "url": "https://www.looopings.nl/weblog/34671/Panter-valt-verzorgster-Beekse-Bergen-aan-vrouw-in-kritieke-toestand.html",
-          "publishedDate": "Sat, 24 Oct 2026 16:35:00 GMT",
-          "description": "Een dierenverzorgster van Safaripark Beekse Bergen is vanochtend zwaargewond geraakt door een aanval van een Perzische panter. Collega's vonden ..."
-        },
-        {
-          "title": "Verzorger Beekse Bergen in slaap gehouden na panteraanval",
-          "source": "NU",
-          "url": "https://www.nu.nl/binnenland/6414310/verzorger-beekse-bergen-in-slaap-gehouden-na-panteraanval.html",
-          "publishedDate": "Sat, 24 Oct 2026 13:45:00 GMT",
-          "description": "De medische toestand van de dierenverzorger die zaterdag in safaripark Beekse Bergen zwaargewond raakte door een panteraanval, is nog steeds zorgelijk. Een woordvoerder van het park meldt dat zij in ..."
-        },
-        {
-          "title": "Zwaargewonde verzorgster Beekse Bergen in slaap gehouden na aanval Perzische panter",
-          "source": "Drimble",
-          "url": "https://drimble.nl/sport/overig/108395574/zwaargewonde-verzorgster-beekse-bergen-in-slaap-gehouden-na-aanval-perzische-panter.html",
-          "publishedDate": "Sat, 24 Oct 2026 13:44:00 GMT",
-          "description": "De medische toestand van de dierenverzorgster die zaterdag in safaripark Beekse Bergen zwaargewond raakte door een panteraanval, is nog steeds zorgelijk. Een woordvoerder van het park meldt dat zij in ..."
-        },
-        {
-          "title": "Vandaag (25 oktober) om 10:30",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6032268/verzorgster-beekse-bergen-in-slaap-gehouden-na-panteraanval",
-          "publishedDate": "Sat, 24 Oct 2026 13:30:00 GMT",
-          "description": "De medische toestand van de dierenverzorgster die zaterdag in safaripark Beekse Bergen zwaargewond raakte door een panteraanval, is nog steeds zorgelijk. Een woordvoerder van het park meldt dat zij in ..."
-        },
-        {
-          "title": "Verzorgster gewond geraakt in Beekse Bergen",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/verzorgster-gewond-geraakt-in-beekse-bergen",
-          "publishedDate": "Sat, 24 Oct 2026 07:12:00 GMT",
-          "description": "Een verzorgster van Safaripark Beekse Bergen in Hilvarenbeek is zaterdag rond 11.00 uur gewond geraakt. Collega’s vonden haar in een van de binnenverblijven. De oorzaak is nog onbekend."
-        },
-        {
-          "title": "Dierenverzorgster in safaripark Beekse Bergen zwaargewond na aanval door Perzische panter: vrouw had al jaren ervaring met roofdieren",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/dierenverzorgster-in-safaripark-beekse-bergen-zwaargewond-na-aanval-door-perzische-panter-vrouw-had-al-jaren-ervaring-met-roofdieren~acc984ff/",
-          "publishedDate": "Sat, 24 Oct 2026 05:57:00 GMT",
-          "description": "Een dierenverzorgster van safaripark Beekse Bergen is zwaargewond geraakt nadat zij vanochtend is aangevallen door een Perzische panter. Het gaat om een Nederlandse vrouw die in Vlaanderen woont, zo w ..."
+          "title": "LIVE: Oud-Feyenoord Til zet PSV op verdiende voorsprong in Eindhoven (1-0)",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2272662/live-oud-feyenoord-til-zet-psv-op-verdiende-voorsprong-in-eindhoven-1-0",
+          "publishedDate": "Sun, 25 Oct 2026 04:27:00 GMT",
+          "description": "Vandaag is het zover, de topper tegen PSV staat op het programma. In het Philips Stadion kan Feyenoord, dat de afgelopen tijd in een uitstekende vorm verkeert, de koppositie verstevigen door een serie"
         }
       ]
     },
     {
-      "keyword": "ado - heerenveen",
+      "keyword": "f1 startopstelling",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "ADO Den Haag trekt onder barre omstandigheden en in vermakelijk duel met SC Heerenveen aan kortste eind",
+          "title": "Grand Prix van Singapore | Zo laat begint Max Verstappen zondag aan de race en dit is de startopstelling",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/ado-den-haag-trekt-onder-barre-omstandigheden-en-in-vermakelijk-duel-met-sc-heerenveen-aan-kortste-eind~a7061780/",
-          "publishedDate": "Sat, 24 Oct 2026 15:52:00 GMT",
-          "description": "ADO Den Haag en SC Heerenveen zorgden onder barre omstandigheden met harde wind en veel regen voor vermaak in de eredivisie. De Friezen gingen er met de zege vandoor: 2-3."
+          "url": "https://www.ad.nl/formule-1/grand-prix-van-singapore-zo-laat-begint-max-verstappen-zondag-aan-de-race-en-dit-is-de-startopstelling~a3fda41e/",
+          "publishedDate": "Sat, 10 Oct 2026 00:50:00 GMT",
+          "description": "Na de in Maleisi&#235; verreden Grand Prix van Bahrein zal Max Verstappen met een goed gevoel aanmeren bij de volgende halte: de GP van Singapore. Dat is meteen ook het laatste weekend van dit seizoen waar ..."
         },
         {
-          "title": "Heerenveen leidt in spektakelstuk bij ADO (2-3) • Veel goals in de tweede helft",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2636468-heerenveen-leidt-in-spektakelstuk-bij-ado-2-3-veel-goals-in-de-tweede-helft",
-          "publishedDate": "Sat, 24 Oct 2026 12:07:00 GMT",
-          "description": "sc Heerenveen komt nogmaals erg dicht bij die tweede treffer, maar opnieuw gaat de bal er niet in. De goed spelende Jacob Trenskow krijgt de bal bij spits Dylan Vente, die draait en schiet. Dat schot wordt echter ternauwernood geblokkeerd door ADO Den Haag-verdediger Jonas Jensen-Abbew."
-        }
-      ]
-    },
-    {
-      "keyword": "toto wolff",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Nu teambaas Toto Wolff beseft dat ook hij van zijn fouten kan leren, is Mercedes weer terug aan de top",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/sport/nu-teambaas-toto-wolff-beseft-dat-ook-hij-van-zijn-fouten-kan-leren-is-mercedes-weer-terug-aan-de-top~b707db17/",
-          "publishedDate": "Fri, 23 Oct 2026 10:22:00 GMT",
-          "description": "Als alles meezit voor Mercedes wordt Kimi Antonelli dit weekend al wereldkampioen. De nieuwe glorie van het team komt na jaren waarin de veeleisende en soms opvliegende teambaas Toto Wolff zich realis ..."
+          "title": "Formule 1 Grand Prix van Azerbeidzjan | Zo laat racet Max Verstappen vandaag in Bakoe en dit is de startopstelling",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/formule-1/formule-1-grand-prix-van-azerbeidzjan-zo-laat-racet-max-verstappen-vandaag-in-bakoe-en-dit-is-de-startopstelling~a4c99d9d/",
+          "publishedDate": "Fri, 25 Sep 2026 08:16:00 GMT",
+          "description": "Het Europese deel van het seizoen is voorbij. De Formule 1 reist af naar Bakoe voor de Grand Prix van Azerbeidzjan. De race is op zaterdag in plaats van zondag. Bekijk hier hoe laat Max Verstappen in ..."
         },
         {
-          "title": "Antonelli blaast Wolff van zijn stoel: &quot;Geen verklaring voor&quot;",
+          "title": "De voorlopige startopstelling voor de F1 GP van de Verenigde Staten na gridstraffen",
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1091954/de-voorlopige-startopstelling-voor-de-f1-gp-van-de-verenigde-staten-na-gridstraffen/",
+          "publishedDate": "Sun, 25 Oct 2026 04:20:00 GMT",
+          "description": "Kimi Antonelli mag zondagavond vanaf pole position aan de Grand Prix van de Verenigde Staten op het Circuit of the Americas in Austin beginnen. De FIA heeft inmiddels de voorlopige startopstelling voo ..."
+        },
+        {
+          "title": "Aangepaste startopstelling F1 GP Verenigde Staten 2026 na meerdere gridstraffen",
           "source": "RacingNews365 on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/antonelli-blaast-wolff-van-zijn-stoel-geen-verklaring-voor/ar-AA2g0MPB",
-          "publishedDate": "Sat, 24 Oct 2026 23:40:00 GMT",
-          "description": "Toto Wolff kan geen verklaring vinden voor de poleposition van Kimi Antonelli in de Verenigde Staten. De teambaas had het niet aan zien komen."
+          "url": "https://www.msn.com/nl-nl/sport/motorsport/aangepaste-startopstelling-f1-gp-verenigde-staten-2026-na-meerdere-gridstraffen/ar-AA2g1c4w",
+          "publishedDate": "Sun, 25 Oct 2026 00:40:00 GMT",
+          "description": "Max Verstappen start na een aardige kwalificatie als tweede tijdens de GP van de Verenigde Staten, met Kimi Antonelli op poleposition en Isack Hadjar op de derde plaats. Bekijk de volledige startopste ..."
         },
         {
-          "title": "Grote schrik voor Mercedes-teambaas Toto Wolff: zoon (9) betrokken bij huiveringwekkend kartongeluk",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/formule-1/nieuws/grote-schrik-voor-mercedes-teambaas-toto-wolff-zoon-9-betrokken-bij-huiveringwekkend-kartongeluk-2026102414085599540/",
-          "publishedDate": "Sat, 24 Oct 2026 09:32:00 GMT",
-          "description": "Mercedes-teambaas Toto Wolff staat voor een belangrijk Grand Prix-weekend. Zijn coureur Kimi Antonelli zou zondag wereldkampioen kunnen worden in Austin. Toch waren zijn gedachten begin dit weekend wa ..."
+          "title": "Startopstelling GP Verenigde Staten | Verstappen kan troef meteen inzetten bij de start",
+          "source": "F1 Maximaal",
+          "url": "https://www.f1maximaal.nl/formule-1/startopstelling-gp-verenigde-staten-verstappen-kan-troef-meteen-inzetten-bij-de-start",
+          "publishedDate": "Sun, 25 Oct 2026 00:00:00 GMT",
+          "description": "Kimi Antonelli start voor de zevende keer in zijn Formule 1-carri&#232;re vanaf poleposition. Voor de vierde keer krijgt hij op de eerste startrij gezelschap van Max Verstappen. Red Bull Racing heeft met I ..."
         },
         {
-          "title": "Toto Wolff wijst naar Lewis Hamilton en haalt spijkerhard uit",
-          "source": "Drimble",
-          "url": "https://drimble.nl/auto/autosport/108387451/toto-wolff-wijst-naar-lewis-hamilton-en-haalt-spijkerhard-uit.html",
-          "publishedDate": "Sat, 24 Oct 2026 01:15:00 GMT",
-          "description": "Toto Wolff heeft keihard uitgehaald naar fans van George Russell, die op social media verkondigen dat Mercedes ervoor heeft gekozen om Kimi Antonelli voor te trekken. Al weken zijn Russell-fans woest ..."
+          "title": "De startopstelling voor de Formule 1 Grand Prix van de Verenigde Staten in 2026 in Austin.",
+          "source": "autohebdo",
+          "url": "https://www.autohebdo.nl/nieuws/f1/De-startopstelling-voor-de-Formule-1-Grand-Prix-van-de-Verenigde-Staten-in-2026-in-Austin..html",
+          "publishedDate": "Sat, 24 Oct 2026 10:51:00 GMT",
+          "description": "Hij moest de poleposition bemachtigen om een ​​sterk statement te maken in de paddock van Austin, en Kimi Antonelli leverde zaterdag in Texas. Poleman vooraan ..."
         },
         {
-          "title": "Toto Wolff is al op zoek naar opvolgers bij Mercedes",
-          "source": "RaceXpress",
-          "url": "https://www.racexpress.nl/formule-1/toto-wolff-is-al-op-zoek-naar-opvolgers-bij-mercedes/n/157350",
-          "publishedDate": "Fri, 23 Oct 2026 14:38:00 GMT",
-          "description": "Mercedes-teambaas Toto Wolff verwacht dat twee of drie mensen straks zijn taken overnemen. Hij beoordeelt ze al. Zijn contract loopt aan het einde van ..."
+          "title": "Kwalificatie F1 Austin 2026: Hoe laat, zenders en live kijken",
+          "source": "motorsport.com on MSN",
+          "url": "https://www.msn.com/nl-be/sport/other/kwalificatie-f1-austin-2026-hoe-laat-zenders-en-live-kijken/ar-AA2fNT0w",
+          "publishedDate": "Thu, 22 Oct 2026 00:49:01 GMT",
+          "description": "De F1-kwalificatie in Austin begint zaterdag 24 oktober om 23.00 uur Nederlandse tijd. Bekijk waar je de strijd om poleposition live kunt volgen."
         },
         {
-          "title": "Zoon Toto Wolff betrokken bij enge kartcrash",
-          "source": "GPblog on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/motorsport/zoon-toto-wolff-betrokken-bij-enge-kartcrash/ar-AA2fVIAI",
-          "publishedDate": "Fri, 23 Oct 2026 10:07:00 GMT",
-          "description": "Jack Wolff, de negenjarige zoon van Toto en Susie Wolff, is betrokken geraakt bij een kartongeluk. Op de beelden is te zien hoe een andere kart over hem heen gaat. Jack kon zelfstandig uit de kart kom ..."
+          "title": "Aangepaste startopstelling F1 GP Singapore 2026",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/aangepaste-startopstelling-f1-gp-singapore-2026/ar-AA2dY4U2",
+          "publishedDate": "Sun, 11 Oct 2026 04:44:00 GMT",
+          "description": "Max Verstappen heeft na de sprintpole ook de poleposition voor de Grand Prix van Singapore gepakt, terwijl George Russell juist achteraan moet starten. Bekijk de volledige startopstelling hieronder!"
         },
         {
-          "title": "Toto Wolff hint naar oneerlijke behandeling van de teamgenoten van Max Verstappen",
-          "source": "GP33",
-          "url": "https://gp33.nl/f1-nieuws/toto-wolff-hint-naar-oneerlijke-behandeling-van-de-teamgenoten-van-max-verstappen",
-          "publishedDate": "Thu, 22 Oct 2026 12:33:00 GMT",
-          "description": "Mercedes-baas Toto Wolff prijst zichzelf z&#233;&#233;r gelukkig om het feit dat Mercedes en Kimi Antonelli een enorme voorsprong hebben in het 2026 F1-kampioenschap. Het team uit Brackley heeft vooral aan het ..."
+          "title": "De definitieve startopstelling na gridstraffen Red Bull voor F1 GP Bahrein in Maleisi&#235;",
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1091062/de-definitieve-startopstelling-na-gridstraffen-red-bull-voor-f1-gp-bahrein-in-maleisi/",
+          "publishedDate": "Sun, 04 Oct 2026 01:06:00 GMT",
+          "description": "Max Verstappen gaat vanaf pole position van start in de Grand Prix van Bahrein in Maleisi&#235;. De viervoudig wereldkampioen legde op zaterdag voor het eerst sinds Abu Dhabi 2025 beslag op de eerste start ..."
         },
         {
-          "title": "Schumacher voorziet hoofdrol Verstappen in Austin: 'Het overvalt Toto Wolff volledig'",
-          "source": "GPblog on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/schumacher-voorziet-hoofdrol-verstappen-in-austin-het-overvalt-toto-wolff-volledig/ar-AA2fIYdx",
-          "publishedDate": "Wed, 21 Oct 2026 05:01:00 GMT",
-          "description": "Max Verstappen kan volgens Ralf Schumacher opnieuw een hoofdrol opeisen tijdens de Grand Prix van de Verenigde Staten. De voormalig Formule 1-coureur verwacht dat de Nederlander in Austin over goed ma ..."
-        },
-        {
-          "title": "Toto Wolff verwacht niet dat Kimi Antonelli al in Austin wereldkampioen wordt",
-          "source": "RaceXpress",
-          "url": "https://www.racexpress.nl/formule-1/toto-wolff-verwacht-niet-dat-kimi-antonelli-al-in-austin-wereldkampioen-wordt/n/157300",
-          "publishedDate": "Wed, 21 Oct 2026 03:51:00 GMT",
-          "description": "Mercedes-teambaas Toto Wolff verwacht niet dat Kimi Antonelli al in Austin wereldkampioen wordt. De Italiaan kan tijdens de Grand Prix van de Verenigde ..."
-        },
-        {
-          "title": "Kelly Piquet (vriendin Max Verstappen) feliciteert Mercedes-baas Toto Wolff na bijzondere mijlpaal met grote liefde",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/formule-1/nieuws/kelly-piquet-vriendin-max-verstappen-feliciteert-mercedes-baas-toto-wolff-na-bijzondere-mijlpaal-met-grote-liefde-2026101515273870207/",
-          "publishedDate": "Thu, 15 Oct 2026 10:56:00 GMT",
-          "description": "Toto Wolff en Max Verstappen zijn in de Formule 1 al jaren tegenstanders, maar donderdag draaide het voor de Mercedes-baas om iets heel anders. De Oostenrijker vierde een bijzondere mijlpaal met zijn ..."
+          "title": "Startopstelling voor de F1 Grand Prix van Bahrein 2026 in Maleisi&#235;",
+          "source": "Motorsport.com",
+          "url": "https://nl.motorsport.com/f1/news/startopstelling-voor-de-f1-grand-prix-van-bahrein-2026-in-maleisie/10861456/",
+          "publishedDate": "Fri, 02 Oct 2026 20:32:00 GMT",
+          "description": "Max Verstappen (Red Bull) pakte poleposition na de kwalificatie voor de Formule 1 Bahrein Grand Prix 2026, verreden in Maleisi&#235; op het circuit van Sepang. Bekijk de voorlopige startopstelling, in afwa ..."
         }
       ]
     },
     {
       "keyword": "walibi",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Grote politiemacht op de been na vechtpartijen in Walibi",
+          "title": "Groepen minderjarigen waren doelbewust uit op onrust en geweld, zegt Walibi",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636582-groepen-minderjarigen-waren-doelbewust-uit-op-onrust-en-geweld-zegt-walibi",
+          "publishedDate": "Sun, 25 Oct 2026 04:41:00 GMT",
+          "description": "Gisteravond gingen groepen jongeren met elkaar op de vuist en werden vernielingen aangericht tijdens de Fright Nights."
+        },
+        {
+          "title": "ME grijpt in bij vechtpartijen tijdens Walibi Fright Nights",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/331614/video/grote-politiemacht-op-de-been-na-vechtpartijen-in-walibi.html",
-          "publishedDate": "Sun, 25 Oct 2026 02:02:00 GMT",
-          "description": "Een flinke politiemacht moest zaterdagavond ingrijpen bij Walibi Fright Night nadat meerdere vechtpartijen waren uitgebroken. Ook de Mobiele Eenheid moest worden ingezet. De aanleiding is nog onbekend ..."
+          "url": "https://www.nu.nl/binnenland/6414306/me-grijpt-in-bij-vechtpartijen-tijdens-walibi-fright-nights.html",
+          "publishedDate": "Sun, 25 Oct 2026 02:59:00 GMT",
+          "description": "Bij pretpark Walibi in Biddinghuizen was zaterdagavond veel politie aanwezig vanwege ongeregeldheden. Bezoekers raakten met elkaar in gevecht, laat het pretpark aan NU.nl weten. Ook de mobiele eenheid ..."
+        },
+        {
+          "title": "Bezoekers onthutst na uit de hand gelopen Walibi Fright Night: ‘Nog nooit zo’n chaos meegemaakt’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/bezoekers-onthutst-na-uit-de-hand-gelopen-walibi-fright-night-nog-nooit-zon-chaos-meegemaakt~a343d722/",
+          "publishedDate": "Sat, 24 Oct 2026 23:22:00 GMT",
+          "description": "De jongeren die zaterdagavond met elkaar op de vuist gingen tijdens Walibi Fright Nights waren volgens het pretpark duidelijk naar het evenement gekomen om onrust te stoken. Bezoekers zijn een dag lat ..."
         },
         {
           "title": "Opnieuw ongeregeldheden tijdens Walibi Fright Nights",
@@ -330,25 +206,25 @@
           "description": "Bij attractiepark Walibi in Biddinghuizen zijn gisteravond vechtpartijen uitgebroken tijdens de zogenoemde Fright Nights. Op beelden die op sociale media circuleren, is te zien hoe groepen bezoekers m ..."
         },
         {
-          "title": "Nieuwe beelden tonen totale chaos in Walibi Holland: vechtpartijen, vernielingen en plunderingen",
+          "title": "Walibi Fright Nights: ME grijpt in bij ongeregeldheden",
+          "source": "ThePostOnline",
+          "url": "https://tpo.nl/2026/10/25/walibi-fright-nights-me-ongeregeldheden/",
+          "publishedDate": "Sun, 25 Oct 2026 05:14:00 GMT",
+          "description": "Walibi Fright Nights: de ME greep zaterdagavond in bij ongeregeldheden in Biddinghuizen. Volgens het park zochten minderjarigen bewust onrust. Niemand opgepakt."
+        },
+        {
+          "title": "Walibi Holland komt met statement naar aanleiding van rellen bij Halloween: 'Minderjarige jongeren die bewust provoceren'",
           "source": "Looopings",
-          "url": "https://www.looopings.nl/weblog/34682/Nieuwe-beelden-tonen-totale-chaos-in-Walibi-Holland-vechtpartijen--vernielingen-en-plunderingen.html",
-          "publishedDate": "Sun, 25 Oct 2026 01:37:00 GMT",
-          "description": "De ochtend na de uit de hand gelopen Fright Nights-avond in Walibi Holland wordt pas echt duidelijk hoe ernstig de situatie was. Op TikTok, ..."
+          "url": "https://www.looopings.nl/weblog/34691/Walibi-Holland-komt-met-statement-naar-aanleiding-van-rellen-bij-Halloween-Fright-Nights-Minderjarige-jongeren-die-bewust-provoceren.html",
+          "publishedDate": "Sun, 25 Oct 2026 03:45:00 GMT",
+          "description": "Walibi Holland heeft een statement naar buiten gebracht naar aanleiding van de rellen tijdens de Halloween Fright Nights op zaterdagavond."
         },
         {
-          "title": "Ongeregeldheden bij Walibi Fright Nights, politie en ME grijpen in",
-          "source": "FOK!",
-          "url": "https://frontpage.fok.nl/nieuws/894824/1/1/50/ongeregeldheden-bij-walibi-fright-nights-politie-en-me-grijpen-in.html",
-          "publishedDate": "Sun, 25 Oct 2026 01:16:00 GMT",
-          "description": "Tijdens de Fright Nights in attractiepark Walibi Holland in Biddinghuizen zijn zaterdagavond ongeregeldheden uitgebroken. De politie en de Mobiele Eenheid kwamen naar het park. Om 22.00 uur, een uur v ..."
-        },
-        {
-          "title": "Walibi organiseert Fright Night, dekselse `jongeren` maken er Fight Night van",
-          "source": "Drimble",
-          "url": "https://drimble.nl/entertainment/opmerkelijk/108394720/walibi-organiseert-fright-night-dekselse-jongeren-maken-er-fight-night-van.html",
-          "publishedDate": "Sun, 25 Oct 2026 01:04:00 GMT",
-          "description": "Een avondje lekker griezelen in Walibi liep zaterdagavond iets realistischer uit dan gepland. Tijdens de Halloween Fright Nights in het Nederlandse Biddinghuizen braken meerdere grote vechtpartijen ui ..."
+          "title": "Vechtpartijen tijdens Walibi Fright Nights: ME grijpt in en park sluit scarezones",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/entertainment/evenementen/artikelen/flevoland-biddinghuizen-vechtpartijen-fright-nights-walibi-me",
+          "publishedDate": "Sun, 25 Oct 2026 03:14:00 GMT",
+          "description": "De ME is zaterdagavond ingezet bij Halloween Fright Nights in Walibi. De politie onderzoekt de ongeregeldheden. Er is niemand aangehouden."
         },
         {
           "title": "Mobiele Eenheid en politiehonden ingezet bij grote onrust in Walibi Fright Nights",
@@ -358,202 +234,327 @@
           "description": "De politie heeft zaterdagavond 24 oktober massaal moeten ingrijpen bij Walibi in Biddinghuizen. Tijdens de Halloween Fright Nights ontstond grote onrust nadat groepen jongeren betrokken raakten bij me ..."
         },
         {
-          "title": "KIJK. Oproerpolitie moet ingrijpen na massale vechtpartijen tijdens halloweenevent in Walibi",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/kijk-oproerpolitie-moet-ingrijpen-na-massale-vechtpartijen-tijdens-halloweenevent-in-walibi~a5db227d/",
-          "publishedDate": "Sat, 24 Oct 2026 17:22:00 GMT",
-          "description": "Een flinke politiemacht moest zaterdagavond ingrijpen tijdens de Walibi Fright Nights, een thema-avond rond Halloween, in het Nederlandse Biddinghuizen, nadat meerdere vechtpartijen waren uitgebroken."
+          "title": "Walibi Fright Night bezorgt pretpark al jarenlang kopzorgen: ‘Veelal minderjarige jongeren die bewust provoceren’",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/binnenland/walibi-fright-night-bezorgt-pretpark-al-jarenlang-kopzorgen-veelal-minderjarige-jongeren-die-bewust-provoceren~a343d722/",
+          "publishedDate": "Sat, 24 Oct 2026 23:40:00 GMT",
+          "description": "De jongeren die zaterdagavond met elkaar op de vuist gingen tijdens Walibi Fright Nights, waren bewust op zoek naar onrust. Dat zegt een woordvoerder van het pretpark in Biddinghuizen. Het is zeker ni ..."
         },
         {
-          "title": "Walibi Fright Night in Nederland mondt uit tot vechtpartij tussen pretparkbezoekers",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/video/productie/walibi-fright-night-in-nederland-mondt-uit-tot-vechtpartij-tussen-pretparkbezoekers-14787791",
+          "title": "Migrantenjongeren verbouwen Walibi, de ME moet ingrijpen",
+          "source": "nieuwrechts",
+          "url": "https://nieuwrechts.nl/113880-migrantenjongeren-verbouwen-walibi-me-moet-ingrijpen",
           "publishedDate": "Sat, 24 Oct 2026 17:00:00 GMT",
-          "description": "Een flinke politiemacht moest zaterdagavond ingrijpen bij Walibi Fright Night in het Nederlandse Biddinghuizen nadat meerdere vechtpartijen waren uitgebroken. De mobiele eenheid (ME) moest zelfs worde ..."
-        },
-        {
-          "title": "Oproerpolitie grijpt in na vechtpartijen en plunderingen tijdens halloweenevenement Walibi Nederland",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/nieuws/oproerpolitie-grijpt-in-na-vechtpartijen-en-plunderingen-tijdens-halloweenevenement-walibi-nederland~b5db227d/",
-          "publishedDate": "Sat, 24 Oct 2026 13:50:00 GMT",
-          "description": "Een flinke politiemacht moest zaterdagavond ingrijpen tijdens de Walibi Fright Nights, een evenement rond Halloween, in het Nederlandse Biddinghuizen, nadat meerdere vechtpartijen waren uitgebroken. D ..."
-        },
-        {
-          "title": "Onrust bij Halloween Fright Nights: Walibi grijpt in na opstootjes, ME ter plaatse",
-          "source": "Looopings",
-          "url": "https://www.looopings.nl/weblog/34678/Onrust-bij-Halloween-Fright-Nights-Walibi-grijpt-in-na-opstootjes--ME-ter-plaatse.html",
-          "publishedDate": "Sat, 24 Oct 2026 13:47:00 GMT",
-          "description": "Walibi Holland heeft de scare zones van Halloween Fright Nights vanavond een uur voor sluitingstijd leeggehaald vanwege meerdere ..."
+          "description": "Een uitverkochte Halloweenavond in Walibi Holland is zaterdag uitgelopen op grootschalige onrust. Groepen jongeren raakten slaags, beveiligers werden genegeerd en uiteindelijk moest de Mobiele Eenheid ..."
         }
       ]
     },
     {
-      "keyword": "maxima op ade",
-      "trafficLabel": "10K+",
-      "articles": []
+      "keyword": "heerenveen",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Liveblog: SC Heerenveen - AZ Vrouwen",
+          "source": "AZ",
+          "url": "https://www.az.nl/inside-az/nieuws/2026/oktober/liveblog-sc-heerenveen-az-vrouwen",
+          "publishedDate": "Sun, 25 Oct 2026 05:14:00 GMT",
+          "description": "HEERENVEEN- In Heerenveen neemt AZ Vrouwen het zondagmiddag in de achtste speelronde van de Eurojackpot Vrouwen Eredivisie op tegen SC Heerenveen. AZ hoopt in Friesland het goede gevoel van vorige wee"
+        },
+        {
+          "title": "Veldman kritisch na zege Heerenveen: &quot;Meest matige overwinning&quot;",
+          "source": "FeanOnline",
+          "url": "https://www.feanonline.nl/veldman-kritisch-na-zege-heerenveen-meest-matige-overwinning/",
+          "publishedDate": "Sun, 25 Oct 2026 00:20:00 GMT",
+          "description": "Lees nu | sc Heerenveen heeft een zwaarbevochten overwinning geboekt op ADO Den Haag. De Friezen trokken in een regenachtig Den Haag met 2-3 aan"
+        }
+      ]
     },
     {
-      "keyword": "tijd",
+      "keyword": "fortuna - excelsior",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Zomertijd voorbij: vannacht gaat de klok weer een uur terug",
+          "title": "Fortuna en Excelsior jagen op goals na rust, later wacht PSV-Feyenoord",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6414315/fortuna-en-excelsior-jagen-op-goals-na-rust-later-wacht-psv-feyenoord.html",
+          "publishedDate": "Sun, 25 Oct 2026 03:58:00 GMT",
+          "description": "Goedendag en welkom bij dit liveblog! Ik, Bram Schutte, hou je vandaag op de hoogte van al het Eredivisie-voetbal. Met als absolute kraker op het programma: PSV tegen Feyenoord. Veel plezier!"
+        },
+        {
+          "title": "Knuffels voor Mohamed Ihattaren: sublieme corner van invaller helpt Fortuna aan late zege op Excelsior",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/knuffels-voor-mohamed-ihattaren-sublieme-corner-van-invaller-helpt-fortuna-aan-late-zege-op-excelsior~a7ef2e3b/",
+          "publishedDate": "Sat, 24 Oct 2026 23:29:00 GMT",
+          "description": "Fortuna Sittard heeft op de valreep een onverdiende overwinning geboekt op Excelsior. Door een rake hoekschop in blessuretijd won de ploeg van Danny Buijs met 1-0. Rodrigo Guth kopte de bal binnen na"
+        }
+      ]
+    },
+    {
+      "keyword": "nederlands voetbalelftal",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Koeman stopt na teleurstellend resultaat tegen Marokko als bondscoach van Oranje",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/sport/koeman-stopt-na-teleurstellend-resultaat-tegen-marokko-als-bondscoach-van-oranje~bab3ac2a/",
+          "publishedDate": "Tue, 30 Jun 2026 15:34:00 GMT",
+          "description": "Koeman stopt na teleurstellend resultaat tegen Marokko als bondscoach van Oranje Ronald Koeman stopt als bondscoach van het Nederlands voetbalelftal. Dat heeft hij op Instagram gemeld. De wedstrijd ..."
+        },
+        {
+          "title": "Hoort Oranje na afstraffing tegen Engeland nog bij de wereldtop? ‘We spelen allemaal bij een topclub, maar het komt er gewoon niet uit’",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/sport/hoort-oranje-na-afstraffing-tegen-engeland-nog-bij-de-wereldtop-we-spelen-allemaal-bij-een-topclub-maar-het-komt-er-gewoon-niet-uit~b29d9133/",
+          "publishedDate": "Fri, 11 Jul 2025 05:50:00 GMT",
+          "description": "Met onder meer FC Barcelona, Paris Saint-Germain en Manchester City zijn de topclubs goed vertegenwoordigd bij het Nederlands voetbalelftal. Maar samen zijn de speelsters lichtjaren verwijderd van de ..."
+        },
+        {
+          "title": "Nederlandse kolos in Japans voetbalelftal",
+          "source": "Volkskrant",
+          "url": "https://www.volkskrant.nl/nieuws-achtergrond/nederlandse-kolos-in-japans-voetbalelftal~ba8e2595/",
+          "publishedDate": "Tue, 11 Oct 2011 14:59:00 GMT",
+          "description": "OSAKA - Een Hollandse reus met een Freddy Mercury-snorretje kreeg Japan dinsdagavond aan zijn voeten. Mike Havenaar (24), telg uit een ge-emigreerd Nederlands voetbalgezin, sprong uiterst effectief om ..."
+        },
+        {
+          "title": "Dit is het resterende programma van Nederland in de Nations League",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/dit-is-het-resterende-programma-van-nederland-in-de-nations-league/ar-AA2cEdJ0",
+          "publishedDate": "Mon, 28 Sep 2026 23:23:00 GMT",
+          "description": "Al vrij snel na het WK is de Nations League 2026/27 van start gegaan. Nederland zit in de groep bij Duitsland, Griekenland en Servi&#235;. In dit artikel lees je hoe het ervoor staat voor Oranje en wat het ..."
+        },
+        {
+          "title": "Waar je Servi&#235; – Nederland kunt kijken: zender, tijd en gratis live streams",
+          "source": "Squawka",
+          "url": "https://www.squawka.com/nl/nieuws/nations-league/servie-nederland-kijken-tijd-zender-live-streams/",
+          "publishedDate": "Sat, 26 Sep 2026 00:58:00 GMT",
+          "description": "Servi&#235; - Nederland is o.a. live te zien op NPO 1. De voorbeschouwing begint om 17.25 uur. De aftrap is om 18.00 uur."
+        },
+        {
+          "title": "Waar je Nederlands voetbalelftal – Duits voetbalelftal kunt kijken",
+          "source": "Squawka",
+          "url": "https://www.squawka.com/nl/nieuws/waar-je-nederlands-voetbalelftal-duits-voetbalelftal-kunt-kijken-24-9/",
+          "publishedDate": "Thu, 24 Sep 2026 02:37:00 GMT",
+          "description": "Waar je Nederlands voetbalelftal - Duits voetbalelftal kunt kijken? Nederland - Duitsland is gratis live te zien op NPO 3, NOS.nl, NPO Start ..."
+        },
+        {
+          "title": "Nieuws Sport Kijk Podcast Show Puzzel",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/arnhem/het-nederlands-voetbalelftal-is-het-enige-fenomeen-dat-zo-n-massale-vreugde-explosie-kan-veroorzaken-hockey-krijgt-zoiets-niet-voor-elkaar~abdde8bb/",
+          "publishedDate": "Fri, 12 Jul 2024 02:55:00 GMT",
+          "description": "Hoewel, gelijktijdig? Nederland-Turkije keek ik op Jansplaats. Twee keer begon ik al te juichen, nog voor de goal op het grote scherm was gevallen. Nee, ik ben niet paranormaal begaafd. In brasserie ..."
+        },
+        {
+          "title": "Huidige selectie van Jong Oranje",
+          "source": "meemetoranje",
+          "url": "https://www.meemetoranje.nl/jong-oranje/huidige-selectie/",
+          "publishedDate": "Tue, 04 Jun 2024 08:20:00 GMT",
+          "description": "Het Nederlands voetbalelftal onder 21, ook wel Jong Oranje, is een team van jonge mannelijke voetballers dat Nederland vertegenwoordigt in internationale wedstrijden. Jong Oranje speelt een cruciale ..."
+        },
+        {
+          "title": "Sponsoren Oranje niet mee naar WK in Qatar: ‘Als het mensen aan het denken zet is dat winst’",
+          "source": "AD",
+          "url": "https://www.ad.nl/nederlands-voetbal/sponsoren-oranje-niet-mee-naar-wk-in-qatar-als-het-mensen-aan-het-denken-zet-is-dat-winst~a51f1943/",
+          "publishedDate": "Wed, 06 Apr 2022 20:15:00 GMT",
+          "description": "Verschillende sponsoren van het Nederlands voetbalelftal, waaronder hoofdsponsor ING, reizen niet mee met Oranje naar het WK voetbal in Qatar vanwege de mensenrechtensituatie in dat land. Dat vertelt ..."
+        },
+        {
+          "title": "NOS zendt komende vier jaar Nederlands Elftal uit",
+          "source": "Telecompaper",
+          "url": "https://www.telecompaper.com/news/nos-zendt-komende-vier-jaar-nederlands-elftal-uit--1251895",
+          "publishedDate": "Mon, 09 Jul 2018 06:57:00 GMT",
+          "description": "De NOS zal de komende vier jaar de wedstrijden van het Nederlands voetbalelftal uitzenden. In die periode zullen alle wedstrijden van Oranje bij de NOS live te zien zijn: de kwalificatiewedstrijden ..."
+        }
+      ]
+    },
+    {
+      "keyword": "geld",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Nepal krijgt als eerste land geld uit klimaatrampfonds, maar heeft daar weinig aan",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/klimaat/6414009/nepal-krijgt-als-eerste-land-geld-uit-klimaatrampfonds-maar-heeft-daar-weinig-aan.html",
+          "publishedDate": "Thu, 22 Oct 2026 09:37:00 GMT",
+          "description": "Nepal krijgt een toezegging van 20 miljoen dollar om te herstellen van de verwoestende overstromingen. Het is de eerste keer dat er geld wordt vrijgemaakt uit een speciaal fonds voor klimaatrampen. Ma ..."
+        },
+        {
+          "title": "Geld vastzetten loont weer: met deze spaarvorm ontvang je een hogere rente",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/geld/geld-vastzetten-loont-weer-met-deze-spaarvorm-ontvang-je-een-hogere-rente~aa5e33be/",
+          "publishedDate": "Mon, 19 Oct 2026 00:51:00 GMT",
+          "description": "De rente op spaargeld stijgt. Op de reguliere spaarrekening ligt dat rond de 1,5 procent, maar voor deposito’s loopt dat op tot ruim 3,5 procent als je het geld voor vier jaar vastzet. Wat zijn de voo ..."
+        },
+        {
+          "title": "Frits en Tjeerd hebben huur van 1250 euro, maar krijgen hun geld niet op",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/geld/frits-en-tjeerd-hebben-huur-van-1250-euro-maar-krijgen-hun-geld-niet-op~a4960885/",
+          "publishedDate": "Sun, 11 Oct 2026 23:23:00 GMT",
+          "description": "Frits en Tjeerd zijn nu vijf jaar getrouwd. Financi&#235;le zorgen hebben ze niet, maar Frits is wel wat zuiniger, vertellen ze in de rubriek Geld &amp; Geluk in ons weekendmagazine Mezza."
+        },
+        {
+          "title": "Gemeenten willen meer geld voor weerbaarheid tegen rampen en dreigingen",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2636525-zomertijd-voorbij-vannacht-gaat-de-klok-weer-een-uur-terug",
-          "publishedDate": "Sat, 24 Oct 2026 13:52:00 GMT",
-          "description": "Vannacht om 03.00 uur is de zomertijd voorbij. Dat betekent dat de klok een uur achteruit wordt gezet en de meeste mensen een uurtje langer kunnen slapen morgenochtend. In de ochtend wordt het eerder ..."
+          "url": "https://nos.nl/artikel/2634468-gemeenten-willen-meer-geld-voor-weerbaarheid-tegen-rampen-en-dreigingen",
+          "publishedDate": "Sat, 10 Oct 2026 11:54:00 GMT",
+          "description": "Dat zegt de Vereniging van Nederlandse Gemeenten tegen het Rijk. Het moet onder andere gaan naar trainingen voor inwoners en evacuatievoorzieningen."
         },
         {
-          "title": "Terug in de tijd: want hoe is tijd ontstaan?",
-          "source": "NPO Radio 1",
-          "url": "https://www.nporadio1.nl/fragmenten/de-nacht-van/01a1534d-ed50-71a1-8064-c79dadf4a577/2026-10-19-terug-in-de-tijd-want-hoe-is-tijd-ontstaan",
-          "publishedDate": "Sun, 18 Oct 2026 19:00:00 GMT",
-          "description": "Sofie Remijsen is docent geschiedenis aan de Universiteit van Amsterdam. Zij deed onderzoek naar hoe tijd een rol speelde in de oudheid. Tijdens De Nacht van KRO-NCRV vertelt zij hierover. Foutcode ..."
+          "title": "Veelbelovend, die wijk Rijnenburg met z’n duizenden nieuwe woningen. Maar je moet wel met een tram komen waarvoor geen geld is",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/09/21/veelbelovend-die-wijk-rijnenburg-met-zn-duizenden-nieuwe-woningen-maar-je-moet-wel-met-een-tram-komen-waarvoor-geen-geld-is-a4936555",
+          "publishedDate": "Mon, 21 Sep 2026 10:55:00 GMT",
+          "description": "Woningbouw: In 2024 tekenden ministeries, provincie, gemeenten en marktpartijen een akkoord voor een nieuwe grote woonwijk. Maar het ministerie van Infrastructuur zegt dat het geld voor de Rijnenburg- ..."
+        },
+        {
+          "title": "Geld op je spaarrekening? Met d&#233;ze spaarvorm kun je een hogere rente krijgen",
+          "source": "FEM FEM (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/geldzaken/algemeen/geld-op-je-spaarrekening-met-d%C3%A9ze-spaarvorm-kun-je-een-hogere-rente-krijgen/ar-AA2g1AEz",
+          "publishedDate": "Sun, 25 Oct 2026 05:01:00 GMT",
+          "description": "Je spaargeld staat waarschijnlijk gewoon braaf op je spaarrekening. Maar wist je dat je er misschien wel meer rente over kunt krijgen door het tijdelijk vast te zetten? Nu de rente weer wat aantrekkel ..."
+        },
+        {
+          "title": "Geld gestolen bij inbraak op bouwterrein nieuw KPS-hoofdkwartier",
+          "source": "Waterkant.net",
+          "url": "https://www.waterkant.net/suriname/2026/10/16/geld-gestolen-bij-inbraak-op-bouwterrein-nieuw-kps-hoofdkwartier/",
+          "publishedDate": "Fri, 16 Oct 2026 09:13:00 GMT",
+          "description": "Bij een inbraak in een tijdelijk verblijf op het terrein van het in aanbouw zijnde hoofdkwartier van het Korps Politie Suriname (KPS) is een aanzienlijk ..."
+        },
+        {
+          "title": "Veel mensen laten toeslagen liggen: zo check je of je over 2025 alsnog geld kunt krijgen",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/geld-carriere/toeslagen/2026/09/nog-recht-op-toeslagen-2025-geld-laat-liggen-aanvragen/",
+          "publishedDate": "Mon, 28 Sep 2026 03:36:00 GMT",
+          "description": "Wie een brief ontvangt, heeft volgens de gegevens van Dienst Toeslagen mogelijk nog recht op zorgtoeslag over 2025 ..."
+        },
+        {
+          "title": "Geld lenen zonder BKR: wat kan wel en wat niet",
+          "source": "lening",
+          "url": "https://www.lening.nl/kennisbank/lening-afsluiten-zonder-bkr-toetsing/",
+          "publishedDate": "Tue, 22 Sep 2026 17:00:00 GMT",
+          "description": "Snelle leningen en leningen zonder BKR-toetsing zijn duurder en riskanter dan een gewone persoonlijke lening. Een kredietverstrekker met een AFM-vergunning moet bij een lening van meer dan € 250 het ..."
+        },
+        {
+          "title": "Zal contant geld daadwerkelijk verdwijnen, of kan je ook in 2050 nog met cash betalen?",
+          "source": "hollandgold.nl",
+          "url": "https://www.hollandgold.nl/nieuws/zal-contant-geld-daadwerkelijk-verdwijnen-of-kan-je-ook-in-2050-nog-met-cash-betalen/",
+          "publishedDate": "Thu, 13 Apr 2023 16:59:00 GMT",
+          "description": "De afgelopen jaren is het gebruik van contant geld sterk afgenomen. In 2010 werd ruim 60% van de transacties contant betaald, maar in 2019 was dit aandeel al gehalveerd. Tijdens de eerste lockdown in ..."
         }
       ]
     },
     {
-      "keyword": "a13",
+      "keyword": "action",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "A13 richting Rotterdam urenlang dicht na hevige aanrijding bij Delft",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-delft/a13-richting-rotterdam-urenlang-dicht-na-hevige-aanrijding-bij-delft~ab4dd4c7/",
-          "publishedDate": "Fri, 23 Oct 2026 21:45:00 GMT",
-          "description": "De snelweg A13 in de richting van Rotterdam is in de nacht van vrijdag op zaterdag urenlang volledig afgesloten geweest na een hevige aanrijding. Bij het incident waren een BMW en een Peugeot betrokke ..."
+          "title": "Nu bij Action: 4K-projector (draadloos!) te koop voor een spotprijsje",
+          "source": "MAN MAN on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/nu-bij-action-4k-projector-draadloos-te-koop-voor-een-spotprijsje/ar-AA2fOEMv",
+          "publishedDate": "Thu, 22 Oct 2026 05:00:00 GMT",
+          "description": "Een thuisbioscoop maken zonder een enorme televisie aan de muur te hangen? Action heeft daarvoor sinds kort een handige 4K-projector voor in de schappen liggen. De winkelketen verkoopt online namelijk ..."
         },
         {
-          "title": "A13-trajectcontrole die tienduizenden boetes per jaar opleverde gaat binnenkort weer aan",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/rotterdam/a13-trajectcontrole-die-tienduizenden-boetes-per-jaar-opleverde-gaat-binnenkort-weer-aan~a67d7ef2/",
-          "publishedDate": "Sat, 03 Oct 2026 23:31:00 GMT",
-          "description": "Maandenlang stond de trajectcontrole op de A13 bij Rotterdam uit. Maar het systeem is vervangen en gaat - als de tests goed lopen - binnenkort weer aan. Eerder kregen jaarlijks tienduizenden automobil ..."
+          "title": "KIJK. Nieuwe Action pal in het Gentse centrum opent de deuren",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/gent/kijk-nieuwe-action-pal-in-het-gentse-centrum-opent-de-deuren~a2719b49/",
+          "publishedDate": "Fri, 16 Oct 2026 18:52:00 GMT",
+          "description": "Het is zover: na maanden wachten opent de nieuwe Action op de Korenmarkt zaterdag de deuren. Met deze opening telt Action 236 winkels in Belgi&#235;, waarvan deze winkel op een wel heel centrale plek ligt."
         },
         {
-          "title": "Zwaar ongeluk A13: meerdere gewonden naar het ziekenhuis",
-          "source": "omroepdelft",
-          "url": "https://www.omroepdelft.nl/delft/zwaar-ongeluk-a13-meerdere-gewonden-naar-het-ziekenhuis/",
-          "publishedDate": "Sat, 24 Oct 2026 02:02:00 GMT",
-          "description": "Twee personenauto's hebben in de nacht van vrijdag 23 op zaterdag 24 oktober een zwaar ongeval veroorzaakt op de A13 bij Delft. Een BMW botste met hoge snelheid achterop een andere auto. Hierdoor kwam ..."
+          "title": "Hoe kan Action z&#243; goedkoop zijn en toch miljarden verdienen?",
+          "source": "manly on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/hoe-kan-action-z%C3%B3-goedkoop-zijn-en-toch-miljarden-verdienen/ar-AA2dBTIi",
+          "publishedDate": "Mon, 05 Oct 2026 05:05:30 GMT",
+          "description": "Bij de Action gooi je makkelijk een mandje vol met producten onder de € 1, maar met alles bij elkaar weet de populaire v ..."
         },
         {
-          "title": "Ravage na ongeluk op A13, automobilist aangehouden",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/112/5166447/ravage-na-ongeluk-op-a13-automobilist-aangehouden",
-          "publishedDate": "Fri, 23 Oct 2026 23:02:00 GMT",
-          "description": "De A13 bij Delft is in de richting van Rotterdam een paar uur afgesloten geweest na een ernstig ongeluk. Bij die aanrijding waren twee auto's betrokken. Volgens de politie zijn twee mensen naar het zi ..."
+          "title": "Koopjesjagers opgelet! Hier komt een nieuwe Action in Utrecht",
+          "source": "stadsbladutrecht.nl",
+          "url": "https://indebuurt.nl/utrecht/nieuw-in-utrecht/koopjesjagers-opgelet-hier-komt-een-nieuwe-action-in-utrecht~a32c3c10/",
+          "publishedDate": "Fri, 18 Sep 2026 22:30:00 GMT",
+          "description": "De nieuwe Action is de zesde in Utrecht. Of je nu op zoek bent naar speelgoed, verf, shampoo, opbergdozen of toiletpapier: in het pand van 1105 vierkante meter valt genoeg te neuzen. 3 oktober open Je ..."
         },
         {
-          "title": "Ernstig ongeluk op A13 bij Delft",
-          "source": "Westlanders.nu",
-          "url": "https://westlanders.nu/nieuws/ernstig-ongeluk-op-a13-bij-delft/",
-          "publishedDate": "Sun, 18 Oct 2026 01:22:00 GMT",
-          "description": "Delft 18.10.2026 – Op de A13 bij Delft heeft zondagochtend 18 oktober een ernstig verkeersongeval plaatsgevonden. Meerdere hulpdiensten werden rond 08.04 ..."
-        },
-        {
-          "title": "Automobilist zwaargewond bij ongeluk A13 | Scooterrijder zwaargewond aan hoofd na val",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2269296/automobilist-zwaargewond-bij-ongeluk-a13-scooterrijder-zwaargewond-aan-hoofd-na-val",
-          "publishedDate": "Sun, 18 Oct 2026 01:09:00 GMT",
-          "description": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van zondag 18 oktober."
-        },
-        {
-          "title": "Man zwaargewond bij ongeluk op A13",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2269301/man-zwaargewond-bij-ongeluk-op-a13",
-          "publishedDate": "Sun, 18 Oct 2026 00:42:00 GMT",
-          "description": "Bij een ongeluk op de A13 bij Delft is zondagochtend een man zwaargewond geraakt. Een personenauto en een busje botsten op elkaar. De snelweg werd tussen knooppunt Kleinpolderplein en Delft-Zuid tijde ..."
-        },
-        {
-          "title": "A16, A13 en N209: drukte verwacht door afsluitingen; 24 - 27 oktober 2025",
-          "source": "rijkswaterstaat",
-          "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2025/10/a16-a13-en-n209-drukte-verwacht-door-afsluitingen-24-27-oktober-2025",
-          "publishedDate": "Thu, 23 Oct 2025 13:01:00 GMT",
-          "description": "Het verkeer wordt omgeleid. Er wordt grote drukte verwacht, ook door de verwachte weersomstandigheden. Houd rekening met extra reistijd die kan oplopen tot zestig minuten. Ga goed voorbereid op pad, ..."
-        },
-        {
-          "title": "A13 Kleinpolderplein afsluitingen; september en oktober 2024",
-          "source": "rijkswaterstaat",
-          "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2024/09/a13-kleinpolderplein-meerdere-weekenden-en-nachten-dicht-september-en-oktober-2024",
-          "publishedDate": "Wed, 11 Sep 2024 03:24:00 GMT",
-          "description": "Rijkswaterstaat voert in 2 weekenden en 10 nachten groot onderhoud uit op het Kleinpolderplein (A13) aan de verbindingsboog vanuit Den Haag richting Gouda (A20). Deze verbindingsboog is tijdens deze ..."
+          "title": "Action opent nieuwe winkel in voormalig Jumbo-pand in Monster",
+          "source": "rodi",
+          "url": "https://www.rodi.nl/westland/nieuws/119814/-update-action-opent-nieuwe-winkel-in-voormalig-jumbo-pand-in-monster",
+          "publishedDate": "Thu, 17 Sep 2026 16:29:00 GMT",
+          "description": "Update: de opening van de action in Monster is op 21 november. Monster - Action opent binnenkort een nieuwe vestiging aan de Molenstraat 9c in Monster. Daarmee krijgt het voormalige Jumbo-pand een ..."
         }
       ]
     },
     {
-      "keyword": "b&amp;b vol liefde",
-      "trafficLabel": "5K+",
+      "keyword": "maxima ade",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Prille liefde tussen Lynn en Kees Jan uit 'B&amp;B Vol Liefde' alweer voorbij",
+          "title": "M&#225;xima en Alexia bezoeken samen meerdere ADE-feesten",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/entertainment/6414313/maxima-en-alexia-bezoeken-samen-meerdere-ade-feesten.html",
+          "publishedDate": "Sun, 25 Oct 2026 04:35:00 GMT",
+          "description": "Koningin M&#225;xima en prinses Alexia hebben zaterdag meerdere ADE-feesten samen bezocht. Ze waren eerder op de avond gesport op een feest in Zaandam. Daarna gingen ze door naar de Johan Cruijff ArenA."
+        },
+        {
+          "title": "Koningin M&#225;xima en prinses Alexia dansten zaterdag op ADE-feest",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/koningin-maxima-en-prinses-alexia-dansten-zaterdag-op-ade-feest~b84781d4/",
+          "publishedDate": "Sun, 25 Oct 2026 01:54:00 GMT",
+          "description": "Koningin M&#225;xima en prinses Alexia zijn gespot bij ADE: zaterdagmiddag doken ze op bij het feest Tonno Disko &amp; Friends in Zaandam. M&#225;xima is fan van dj Armand van der Helden, die op het feest draaide."
+        },
+        {
+          "title": "Koningin M&#225;xima en prinses Amalia gaan uit hun dak op feestje tijdens ADE",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/koningin-maxima-en-prinses-amalia-gaan-uit-hun-dak-op-feestje-tijdens-ade~ab5cc397/",
+          "publishedDate": "Sat, 24 Oct 2026 15:37:00 GMT",
+          "description": "Het Amsterdam Dance Event (ADE) trekt bezoekers uit de hele wereld, maar zaterdagavond was er wel erg hoog bezoek. Koningin M&#225;xima en prinses Amalia werden gespot op een feestje in Zaandam."
+        },
+        {
+          "title": "Koningin M&#225;xima en prinses Alexia op ADE-feest in Zaandam",
+          "source": "zaanstad.nieuws",
+          "url": "https://zaanstad.nieuws.nl/actueel/koningin-maxima-en-prinses-alexia-op-ade-feest-in-zaandam",
+          "publishedDate": "Sun, 25 Oct 2026 05:47:00 GMT",
+          "description": "Koningin M&#225;xima en prinses Alexia hebben er gisteren een avondje uit van gemaakt met niet alleen een bezoek aan het ADE-feest in Zaandam, maar ook aan de Johan Cruijff Arena in Amsterdam. Daar zochten ..."
+        },
+        {
+          "title": "M&#225;xima en Alexia dansen op feest tijdens Amsterdam Dance Event &#233;n zoeken Armin van Buuren op",
+          "source": "vandaaginside",
+          "url": "https://www.vandaaginside.nl/nieuws/binnenland/koninklijk-huis/artikelen/maxima-en-alexia-dansen-op-feest-tijdens-amsterdam-dance-event-en-zoeken-ar",
+          "publishedDate": "Sun, 25 Oct 2026 03:18:00 GMT",
+          "description": "Koningin M&#225;xima en prinses Alexia hebben zaterdag een feest bezocht tijdens het Amsterdam Dance Event (ADE). Op sociale media gaan beelden rond waarop te zien is hoe de twee dansen in het publiek."
+        },
+        {
+          "title": "ZIEN! Koningin M&#225;xima en prinses Alexia duiken onverwacht op bij ADE-feestje",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/maxima-alexia-ade-feestje",
+          "publishedDate": "Sun, 25 Oct 2026 02:43:00 GMT",
+          "description": "M&#225;xima en Alexia zijn gespot op een ADE-feestje in Zaandam. Bekijk de beelden waarop de koningin en prinses tussen feestgangers staan."
+        },
+        {
+          "title": "Koningin M&#225;xima en prinses Alexia feesten op Amsterdam Dance Event (en de beelden wil je zien)",
           "source": "LINDA.nl",
-          "url": "https://www.linda.nl/entertainment/beetje-bijblijven/lynn-keesjan-bb-vol-liefde-voorbij/",
-          "publishedDate": "Sun, 18 Oct 2026 02:30:00 GMT",
-          "description": "In het afgelopen seizoen van B&amp;B Vol Liefde zocht Lynn de liefde bij B&amp;B-eigenaar Thomas en Kees Jan bij Eline op Aruba. Bij beiden sloeg de vonk niet over, maar tijdens de re&#252;nie sloeg die tussen ..."
+          "url": "https://www.linda.nl/media/koninklijk/koningin-maxima-prinses-alexia-amsterdam-dance-event-ade/",
+          "publishedDate": "Sun, 25 Oct 2026 01:31:00 GMT",
+          "description": "Van woensdag tot en met zondag staat onze hoofdstad in het teken van Amsterdam Dance Event (ADE). Jaarlijks komen er zo’n 650.000 mensen op af. Zaterdag waren er twee wel heel bijzondere bezoekers van ..."
         },
         {
-          "title": "Iris uit B&amp;B Vol Liefde dolverliefd op oud-deelnemer: ‘Wij hebben elkaar gevonden’",
-          "source": "Weekend Online",
-          "url": "https://www.weekend-online.nl/nieuws/iris-bb-vol-liefde-verliefd-oud-deelnemer/",
-          "publishedDate": "Wed, 14 Oct 2026 01:15:00 GMT",
-          "description": "Iris, die in 2024 de harten van veel kijkers veroverde tijdens B&amp;B Vol Liefde, heeft alsnog de liefde gevonden."
+          "title": "KIJK. Koningin M&#225;xima en prinses Alexia gaan uit hun dak tijdens Amsterdam Dance Event en zoeken dj Armin van Buuren op",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/royalty/kijk-koningin-maxima-en-prinses-alexia-gaan-uit-hun-dak-tijdens-amsterdam-dance-event-en-zoeken-dj-armin-van-buuren-op~ab5cc397/",
+          "publishedDate": "Sat, 24 Oct 2026 20:53:00 GMT",
+          "description": "Het Amsterdam Dance Event (ADE) trekt bezoekers uit de hele wereld, maar zaterdagavond was er wel erg hoog bezoek. De Nederlandse koningin M&#225;xima (55) en prinses Alexia (21) werden gespot op een feest ..."
         },
         {
-          "title": "Tranen in B&amp;B vol liefde: Eveline laat tattoo zetten precies op moment dat vader overlijdt",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/show/tranen-in-b-b-vol-liefde-eveline-laat-tattoo-zetten-precies-op-moment-dat-vader-overlijdt~a5e52ed9/?slug_rd=1",
-          "publishedDate": "Mon, 25 Aug 2025 17:00:00 GMT",
-          "description": "Tranen in B&amp;B vol liefde: Eveline laat tattoo zetten precies op moment dat vader overlijdt Tranen vloeiden in Itali&#235; tijdens de tattoodate van Eveline en Bart in B&amp;B vol liefde. De twee spraken hun ..."
+          "title": "M&#225;xima en Alexia dansen op feest tijdens ADE",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/koningshuis/maxima-en-alexia-dansen-op-feest-tijdens-ade",
+          "publishedDate": "Sat, 24 Oct 2026 16:13:00 GMT",
+          "description": "Koningin M&#225;xima en prinses Alexia hebben zaterdag een feest bezocht tijdens het Amsterdam Dance Event (ADE). Op sociale media gaan beelden rond waarop te zien is hoe de twee dansen in het publiek. Vol ..."
         },
         {
-          "title": "Uitbater van deze bekende theetuin is &#243;&#243;k manager van beroemd ‘B&amp;B Vol Liefde-kasteel’ van zijn vriend Albert",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/binnenland/uitbater-van-deze-bekende-theetuin-is-ook-manager-van-beroemd-b-b-vol-liefde-kasteel-van-zijn-vriend-albert~a7cd626b/?slug_rd=1",
-          "publishedDate": "Fri, 04 Apr 2025 07:31:00 GMT",
-          "description": "Uitbater van deze bekende theetuin is &#243;&#243;k manager van beroemd ‘B&amp;B Vol Liefde-kasteel’ van zijn vriend Albert Na een heel moeilijk jaar heeft uitbater Rob Frowijn van de bekende Millinger Theetuin er ..."
-        },
-        {
-          "title": "Dave Roelvink breekt neus tijdens boksen en B&amp;B Vol Liefde-Els heeft dubbelganger",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/show/dave-roelvink-breekt-neus-tijdens-boksen-en-b-b-vol-liefde-els-heeft-dubbelganger~abe947f65/?slug_rd=1",
-          "publishedDate": "Sun, 01 Sep 2024 07:20:00 GMT",
-          "description": "‘Die lijkt niet op Diana, die lijkt h&#233;&#233;l erg op Diana', klonk het in de reacties van B&amp;B vol liefde-deelnemer Els. Onlangs deelde ze een foto van Lady Di en haar volgers zagen veel gelijkenissen. Els ..."
-        },
-        {
-          "title": "B&amp;B Vol Liefde: deze B&amp;B-eigenaar is een Brabander &#233;n komt uit een Quote 500-familie",
-          "source": "ED",
-          "url": "https://www.ed.nl/brabant/b-b-vol-liefde-deze-b-b-eigenaar-is-een-brabander-en-komt-uit-een-quote-500-familie~a4b301f9/?slug_rd=1",
-          "publishedDate": "Tue, 16 Jul 2024 06:55:00 GMT",
-          "description": "B&amp;B Vol Liefde: deze B&amp;B-eigenaar is een Brabander &#233;n komt uit een Quote 500-familie UDEN - Het vierde seizoen van B&amp;B Vol Liefde is in volle gang. En de kijkcijfers gingen bij de eerste afleveringen ..."
-        },
-        {
-          "title": "B&amp;B vol liefde walst over alle programma’s heen: kijkcijferkraker trekt 1,4 miljoen liefhebbers",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/show/b-b-vol-liefde-walst-over-alle-programma-s-heen-kijkcijferkraker-trekt-1-4-miljoen-liefhebbers~ad5677c0/",
-          "publishedDate": "Tue, 16 Jul 2024 03:41:00 GMT",
-          "description": "Het RTL-programma B&amp;B vol liefde is een monsterhit. Maandagavond maakte seizoen 4 de beste start van het programma ooit. Met meer dan 1,4 miljoen kijkers zijn de kijkcijfers verdubbeld ten opzichte ..."
-        },
-        {
-          "title": "Suus uit B&amp;B vol liefde werkt keihard: ‘In de B&amp;B van Debbie gebeurt altijd wat’",
-          "source": "PZC",
-          "url": "https://www.pzc.nl/show/suus-uit-b-b-vol-liefde-werkt-keihard-in-de-b-b-van-debbie-gebeurt-altijd-wat~ac1425d1/?slug_rd=1",
-          "publishedDate": "Thu, 21 Dec 2023 20:41:00 GMT",
-          "description": "Ze vond niet de liefde, maar wel een baan. Suus Post, kandidaat in de zomerse reeks van B&amp;B vol liefde, is weer even thuis in Beverwijk bij haar moeder. Ze is net terug uit Spanje waar ze aan het werk ..."
-        },
-        {
-          "title": "Bram (31) vond de liefde niet in B&amp;amp;B Vol Liefde, maar toen was daar plots een ‘Joy-meisje’",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/show/bram-31-vond-de-liefde-niet-in-b-b-vol-liefde-maar-toen-was-daar-plots-een-joy-meisje~a996012a/?slug_rd=1",
-          "publishedDate": "Wed, 06 Sep 2023 07:34:00 GMT",
-          "description": "Bram (31) vond de liefde niet in B&amp;B Vol Liefde, maar toen was daar plots een ‘Joy-meisje’ B&amp;B Vol Liefde-deelnemer Bram Eijgenhuijsen (31) kende het programma helemaal niet. Vrienden tipten RTL over ..."
-        },
-        {
-          "title": "Waar is Cupido toch in B&amp;B vol liefde?",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/show/waar-is-cupido-toch-in-b-b-vol-liefde~a7193567/",
-          "publishedDate": "Thu, 27 Jul 2023 14:46:00 GMT",
-          "description": "Na bijna drie weken B&amp;B vol liefde, de zomerhit van RTL 4, is het de grote vraag: waar is Cupido toch? Dates hunkeren naar liefde, ze komen vol verwachting, maar vertrekken ook elke keer weer bij de ..."
+          "title": "M&#225;xima en Alexia duiken op tussen de feestgangers tijdens ADE in Zaandam",
+          "source": "VK Magazine",
+          "url": "https://www.vkmag.com/magazine/maxima-en-alexia-duiken-op-tussen-de-feestgangers-tijdens-ade-in-zaandam",
+          "publishedDate": "Sat, 24 Oct 2026 14:21:00 GMT",
+          "description": "Sta je lekker je zaterdag te vieren tijdens Amsterdam Dance Event, staat er ineens royalty tussen het publiek. En dan bedoelen we deze keer geen dj met een veel te duur horloge. Koningin M&#225;xima en pri ..."
         }
       ]
     }
