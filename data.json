@@ -1,10 +1,24 @@
 {
-  "fetchedAt": "2026-10-25T05:03:03.928Z",
+  "fetchedAt": "2026-10-25T09:58:37.410Z",
   "trends": [
     {
       "keyword": "rdw",
-      "trafficLabel": "20K+",
+      "trafficLabel": "50K+",
       "articles": [
+        {
+          "title": "RDW scherpt autokeuring aan na gesjoemel met apk's",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2548028-rdw-scherpt-autokeuring-aan-na-gesjoemel-met-apk-s",
+          "publishedDate": "Thu, 12 Dec 2024 02:51:00 GMT",
+          "description": "De RDW, de rijksdienst voor het wegverkeer, gaat gesjoemel met autokeuringen streng aanpakken. De bevoegdheid van malafide keurmeesters wordt ingetrokken en er komt meer toezicht en een meldpauze bij ..."
+        },
+        {
+          "title": "RDW trekt vanaf 18 november kentekens in: politie kan auto's afpakken",
+          "source": "Autoblog.nl",
+          "url": "https://www.autoblog.nl/nieuws/rdw-trekt-vanaf-18-november-kentekens-in-politie-kan-auto-s-afpakken",
+          "publishedDate": "Sun, 25 Oct 2026 00:42:00 GMT",
+          "description": "De RDW gaat schoon schip maken. De rijksdienst wil graag dat alle auto’s die in Nederland ingeschreven staan door geregistreerde personen worden bestuurd. Daarom begint het vanaf 18 november aan een g ..."
+        },
         {
           "title": "RDW grijpt in vanaf 18 november: zelfs je auto voor de deur parkeren kan verboden zijn",
           "source": "RTV Focus Zwolle",
@@ -15,7 +29,7 @@
         {
           "title": "Je auto is verzekerd en APK-goedgekeurd, maar mag vanaf 18 november soms niet meer op straat staan",
           "source": "Autobahn on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/je-auto-is-verzekerd-en-apk-goedgekeurd-maar-mag-vanaf-18-november-soms-niet-meer-op-straat-staan/ar-AA2fUtWI",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/je-auto-is-verzekerd-en-apk-goedgekeurd-maar-mag-vanaf-18-november-soms-niet-meer-op-straat-staan/ar-AA2fUtWI",
           "publishedDate": "Fri, 23 Oct 2026 04:25:00 GMT",
           "description": "De auto staat verzekerd en APK-goedgekeurd bij familie in Nederland, terwijl je zelf al maanden in het buitenland woont. Toch kan diezelfde auto vanaf 18 november niet eens meer op straat mogen staan."
         },
@@ -41,13 +55,6 @@
           "description": "Reuters-documenten tonen discussie over een RDW-rekening van €365.000 en de testmethode. De Nederlandse toezichthouder zegt dat de beoordeling onafhankelijk bleef."
         },
         {
-          "title": "RDW gaat boetes opleggen voor op openbare weg geparkeerde voertuigen zonder handelaarskenteken",
-          "source": "bkan",
-          "url": "https://www.bkan.nl/rdw-gaat-boetes-opleggen-voor-op-openbare-weg-geparkeerde-voertuigen-zonder-handelaarskenteken/",
-          "publishedDate": "Thu, 03 Sep 2026 02:57:00 GMT",
-          "description": "De RDW weerspreekt aantijgingen uit de branche dat het nu al strenger optreedt. De regeling geldt ook voor voertuigen die zijn afgemeld voor demontage. De RDW gaat vanaf 1 oktober 2026 bestuurlijke ..."
-        },
-        {
           "title": "Auto exporteren: alles over verkoop, RDW en BPM",
           "source": "autoscout24",
           "url": "https://www.autoscout24.nl/informeren/advies/aan-de-slag-met-de-verkoop/auto-exporteren-alles-wat-je-moet-weten-over-verkoop-en-export/",
@@ -55,197 +62,18 @@
           "description": "Het exporteren van een auto kan een aantrekkelijke optie zijn wanneer je je voertuig niet binnen Nederland kunt of wilt verkopen. Maar hoe werkt een auto exporteren precies? In dit artikel leggen we ..."
         },
         {
-          "title": "RDW fileert kritiek op Tesla FSD: ‘’24 miljoen kilometer zonder incidenten’’",
-          "source": "auto",
-          "url": "https://www.autoblog.nl/nieuws/rdw-fileert-kritiek-op-tesla-fsd-24-miljoen-kilometer-zonder-incidenten",
-          "publishedDate": "Thu, 18 Jun 2026 03:30:00 GMT",
-          "description": "Het kan ook nooit eens rustig verlopen bij Tesla, h&#232;? Nu het bijna autonome systeem supervised Full Self Driving live is in Nederland (voor de nieuwere Tesla’s met HW4), werden er vraagtekens gezet ..."
-        },
-        {
-          "title": "RDW: zelfrijdende auto’s van Tesla mogen de openbare weg op",
-          "source": "autointernationaal",
-          "url": "https://www.autointernationaal.nl/2026/04/rdw-zelfrijdende-autos-van-tesla-mogen-in-nederland-de-openbare-weg-op/",
-          "publishedDate": "Fri, 03 Apr 2026 18:47:00 GMT",
-          "description": "Zelfrijdende Tesla’s mogen de weg op in Nederland. De RDW heeft goedkeuring gegeven voor het rij hulp systeem Full Self Driving Supervised (FSD). Nederland is het eerste land in Europa waar Tesla dit ..."
-        },
-        {
           "title": "RDW wil tellerfraude aanpakken: Duitse kilometerstanden nu geregistreerd",
           "source": "BNR",
           "url": "https://www.bnr.nl/nieuws/mobiliteit/10593522/rdw-wil-tellerfraude-aanpakken-duitse-kilometerstanden-nu-geregistreerd",
           "publishedDate": "Tue, 03 Feb 2026 00:31:00 GMT",
           "description": "De Rijksdienst voor het Wegverkeer (RDW) neemt vanaf nu ook Duitse kilometerstanden op in het kentekenregister. Daardoor kan je als consument beter zien of er gesjoemeld is met de kilometerstanden."
-        }
-      ]
-    },
-    {
-      "keyword": "de klok verzetten wintertijd",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Permanente wintertijd is het gunstigst, maar Europese landen blijven piekeren",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/binnenland/6413807/permanente-wintertijd-is-het-gunstigst-maar-europese-landen-blijven-piekeren.html",
-          "publishedDate": "Sat, 24 Oct 2026 11:28:00 GMT",
-          "description": "De klok gaat in de nacht van zaterdag op zondag een uur terug vanwege de wintertijd. Hoewel er in Europa veel draagvlak is om het verzetten van de klok af te schaffen, worden landen het niet eens over ..."
         },
         {
-          "title": "De wintertijd gaat weer in!",
-          "source": "Waalwijk Nieuws",
-          "url": "https://waalwijk.nieuws.nl/nieuws/de-wintertijd-gaat-weer-in",
-          "publishedDate": "Sat, 24 Oct 2026 15:44:00 GMT",
-          "description": "In de nacht van zaterdag 24 op zondag 25 oktober 2026 gaat de wintertijd in. Om 03.00 uur wordt de klok een uur teruggezet naar 02.00 uur. Dat betekent dat we vannacht een uurtje langer kunnen slapen."
-        },
-        {
-          "title": "Hoe lang moeten we nog aan de zomer- en wintertijd? Nederlanders willen er vanaf",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/politiek/beleid/artikelen/hoe-lang-wisselen-zomer-wintertijd",
-          "publishedDate": "Sat, 24 Oct 2026 10:45:00 GMT",
-          "description": "Elk jaar laait de discussie over het wel of niet afschaffen van de zomer- en wintertijd weer op. De Europese lidstaten komen er maar niet uit. Een onderzoek moet uitsluitsel bieden."
-        },
-        {
-          "title": "De wintertijd gaat in: wat verandert er voor u?",
-          "source": "Nieuwspaal",
-          "url": "https://nieuwspaal.nl/de-wintertijd-gaat-in-wat-verandert-er-voor-u/",
-          "publishedDate": "Sat, 24 Oct 2026 10:34:00 GMT",
-          "description": "In de nacht van zaterdag op zondag gaat de wintertijd in. Dat zorgt voor een aantal ingrijpende veranderingen, ook voor u. Dit zijn de 6 belangrijkste gevolgen."
-        },
-        {
-          "title": "Wintertijd: dat ene uurtje terug heeft op vele manieren een enorme impact op ons leven",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/lifestyle/10614316/wintertijd-dat-ene-uurtje-terug-heeft-op-vele-manieren-een-enorme-impact-op-ons-leven",
-          "publishedDate": "Sat, 24 Oct 2026 03:18:00 GMT",
-          "description": "Met het ingaan van de wintertijd gaat het wegverkeer de drukste tijd van het jaar tegemoet, zegt ANWB Verkeersinformatie. Uit cijfers blijkt dat in november de meeste files en ongelukken zijn. De ..."
-        },
-        {
-          "title": "Wat is beter voor de gezondheid: de zomertijd, wintertijd of stoppen met het verzetten van de klok? Dit is uit onderzoek gebleken",
-          "source": "MAX Vandaag",
-          "url": "https://www.maxvandaag.nl/sessies/themas/gezondheid-sport/wat-is-beter-voor-de-gezondheid-de-zomertijd-wintertijd-of-stoppen-met-het-verzetten-van-de-klok-dit-is-uit-onderzoek-gebleken/",
-          "publishedDate": "Fri, 23 Oct 2026 17:00:00 GMT",
-          "description": "Het afschaffen van het verzetten van de klok, is niet doorgevoerd. Maar wat is eigenlijk het best voor de gezondheid? Zomer- of wintertijd?"
-        },
-        {
-          "title": "Wintertijd komt eraan, wanneer gaat de klok achteruit?",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/economie/5165541/wintertijd-komt-eraan-wanneer-gaat-de-klok-achteruit",
-          "publishedDate": "Fri, 23 Oct 2026 16:20:00 GMT",
-          "description": "De klok wordt weer verzet. In de nacht van zaterdag op zondag gaat de wintertijd in. Maar hoe zit dat ook alweer? Gaat de klok nu voor- of achteruit? En wordt het eerder licht of later donker?"
-        },
-        {
-          "title": "De klok gaat dit weekend een uur terug. Waarom hebben we nog steeds zomer- en wintertijd?",
-          "source": "National Geographic",
-          "url": "https://www.nationalgeographic.nl/cultuur-samenleving/a74212766/waarom-bestaan-wintertijd-en-zomertijd",
-          "publishedDate": "Fri, 23 Oct 2026 11:20:00 GMT",
-          "description": "Door het verzetten van de klok wordt het ’s ochtends een uur eerder licht. Maar waarom doen we dat? En welke gevolgen heeft dat voor ons lichaam?"
-        },
-        {
-          "title": "Het is weer wintertijd: dit weekend mag u uw klok verzetten in de prettigste richting",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/nieuws/het-is-weer-wintertijd-dit-weekend-mag-u-uw-klok-verzetten-in-de-prettigste-richting~ba7e9bfd/",
-          "publishedDate": "Fri, 23 Oct 2026 02:56:00 GMT",
-          "description": "De dagen worden korter, het weer grilliger en zo staat de wintertijd ook voor de deur. In de nacht van zaterdag 24 op zondag 25 oktober draaien we de klok een uur terug."
-        },
-        {
-          "title": "De wintertijd gaat in: lekker een uurtje langer slapen",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2271971/de-wintertijd-gaat-in-lekker-een-uurtje-langer-slapen",
-          "publishedDate": "Fri, 23 Oct 2026 01:23:00 GMT",
-          "description": "In de nacht van zaterdag op zondag kan je - als je geluk hebt - een uurtje langer slapen, want de wintertijd gaat weer in. Dat betekent dat de klok een uur achteruit gaat. Waarom doen we dat eigenlijk ..."
-        }
-      ]
-    },
-    {
-      "keyword": "perzische panter",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Verzorger Beekse Bergen geopereerd na panteraanval, situatie 'zorgelijk'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/binnenland/6414284/verzorger-beekse-bergen-geopereerd-na-panteraanval-situatie-zorgelijk.html",
-          "publishedDate": "Sat, 24 Oct 2026 13:43:00 GMT",
-          "description": "De dierenverzorger van Safaripark Beekse Bergen die zwaargewond raakte na een aanval van een Perzische panter is geopereerd. Volgens een woordvoerder blijft haar situatie &quot;zorgelijk&quot;. Het park en de a ..."
-        },
-        {
-          "title": "Verzorger Beekse Bergen ligt zwaargewond in ziekenhuis na aanval Perzische panter",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/10/24/verzorger-beekse-bergen-ligt-zwaargewond-in-ziekenhuis-na-aanval-perzische-panter-a4939675",
-          "publishedDate": "Sat, 24 Oct 2026 10:01:00 GMT",
-          "description": "Safaripark: Het incident vond zaterdagochtend plaats in het voor bezoekers verboden binnenverblijf van de panters. De ervaren verzorger was volgens een woordvoerder bezig met voederen en schoonmaken."
-        },
-        {
-          "title": "Verzorgster Beekse Bergen zwaargewond geraakt in panterverblijf",
-          "source": "RTL Nieuws (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/verzorgster-beekse-bergen-zwaargewond-geraakt-in-panterverblijf/ar-AA2fYSUY",
-          "publishedDate": "Sat, 24 Oct 2026 04:47:27 GMT",
-          "description": "Een verzorgster van Safaripark Beekse Bergen is vanochtend zwaargewond geraakt in een binnenverblijf van het park. Het zou gaan om het verblijf van de Perzische panters. Daar werd ze rond 11.00 uur va ..."
-        },
-        {
-          "title": "Toestand dierenverzorger Beekse Bergen kritiek na aanval door panter, operatie aan de gang",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/toestand-dierenverzorger-beekse-bergen-kritiek-na-aanval-door-panter-operatie-aan-de-gang~a3118a58/",
-          "publishedDate": "Fri, 23 Oct 2026 17:00:00 GMT",
-          "description": "De dierenverzorger van Safaripark Beekse Bergen die zaterdagochtend werd aangevallen door een Perzische panter verkeert nog steeds in ‘kritieke toestand’. Volgens hoofd dierenverzorging Martin van Hee ..."
-        },
-        {
-          "title": "Nieuwe details over panteraanval Beekse Bergen: slachtoffer werkte alleen en sloeg zelf alarm",
-          "source": "Looopings",
-          "url": "https://www.looopings.nl/weblog/34675/Nieuwe-details-over-panteraanval-Beekse-Bergen-slachtoffer-werkte-alleen-en-sloeg-zelf-alarm.html",
-          "publishedDate": "Sat, 24 Oct 2026 15:48:00 GMT",
-          "description": "De zwaargewonde dierenverzorgster van Safaripark Beekse Bergen heeft na de aanval door een panter zelf via haar portofoon om hulp geroepen."
-        },
-        {
-          "title": "Zwaargewonde verzorgster Beekse Bergen is geopereerd na aanval door panter, toestand is ‘zorgelijk’",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/112-nieuws-hilvarenbeek/zwaargewonde-verzorgster-beekse-bergen-is-geopereerd-na-aanval-door-panter-toestand-is-zorgelijk~a4761e7c/",
-          "publishedDate": "Sat, 24 Oct 2026 10:46:00 GMT",
-          "description": "De dierenverzorgster van Safaripark Beekse Bergen die zaterdagochtend door een Perzische panter werd aangevallen, verkeert in ‘zorgelijke toestand’. Volgens hoofd dierenverzorging Martin van Hees is d ..."
-        },
-        {
-          "title": "Dierenverzorgster in safaripark Beekse Bergen zwaargewond na aanval door Perzische panter: vrouw had al jaren ervaring met roofdieren",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/dierenverzorgster-in-safaripark-beekse-bergen-zwaargewond-na-aanval-door-perzische-panter-vrouw-had-al-jaren-ervaring-met-roofdieren~acc984ff/",
-          "publishedDate": "Sat, 24 Oct 2026 05:57:00 GMT",
-          "description": "Een dierenverzorgster van safaripark Beekse Bergen is zwaargewond geraakt nadat zij vanochtend is aangevallen door een Perzische panter. Het gaat om een Nederlandse vrouw die in Vlaanderen woont, zo w ..."
-        },
-        {
-          "title": "Panter valt verzorgster Beekse Bergen aan: vrouw in kritieke toestand",
-          "source": "Looopings",
-          "url": "https://www.looopings.nl/weblog/34671/Panter-valt-verzorgster-Beekse-Bergen-aan-vrouw-in-kritieke-toestand.html",
-          "publishedDate": "Sat, 24 Oct 2026 05:20:00 GMT",
-          "description": "Een dierenverzorgster van Safaripark Beekse Bergen is vanochtend zwaargewond geraakt door een aanval van een Perzische panter. Collega's vonden ..."
-        },
-        {
-          "title": "Drama in panterverblijf Beekse Bergen: verzorgster zwaargewond, slachtofferhulp ingeschakeld voor collega",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/hilvarenbeek/drama-in-panterverblijf-beekse-bergen-verzorgster-zwaargewond-slachtofferhulp-ingeschakeld-voor-collega~a3118a58/",
-          "publishedDate": "Sat, 24 Oct 2026 01:07:00 GMT",
-          "description": "Een Belgische dierenverzorgster van safaripark Beekse Bergen is zaterdagochtend zwaargewond geraakt nadat zij werd aangevallen door een Perzische panter. Een traumahelikopter landde in het Hilvarenbee ..."
-        },
-        {
-          "title": "Dierenverzorgster in safaripark Beekse Bergen zwaargewond na aanval door Perzische panter",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/video/productie/belgische-medewerkster-in-safaripark-beekse-bergen-zwaargewond-na-aanval-door-panter-14780047",
-          "publishedDate": "Fri, 23 Oct 2026 17:00:00 GMT",
-          "description": "Een dierenverzorgster van safaripark Beekse Bergen is zwaargewond geraakt nadat zij vanochtend is aangevallen door een panter. Dat schrijven onze collega’s van de Nederlandse nieuwswebsite AD.nl. Een ..."
-        }
-      ]
-    },
-    {
-      "keyword": "ado - heerenveen",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "ADO Den Haag trekt onder barre omstandigheden en in vermakelijk duel met SC Heerenveen aan kortste eind",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/ado-den-haag-trekt-onder-barre-omstandigheden-en-in-vermakelijk-duel-met-sc-heerenveen-aan-kortste-eind~a7061780/",
-          "publishedDate": "Sat, 24 Oct 2026 15:52:00 GMT",
-          "description": "ADO Den Haag en SC Heerenveen zorgden onder barre omstandigheden met harde wind en veel regen voor vermaak in de eredivisie. De Friezen gingen er met de zege vandoor: 2-3."
-        },
-        {
-          "title": "Heerenveen leidt in spektakelstuk bij ADO (2-3) • Veel goals in de tweede helft",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2636468-heerenveen-leidt-in-spektakelstuk-bij-ado-2-3-veel-goals-in-de-tweede-helft",
-          "publishedDate": "Sat, 24 Oct 2026 12:07:00 GMT",
-          "description": "sc Heerenveen komt nogmaals erg dicht bij die tweede treffer, maar opnieuw gaat de bal er niet in. De goed spelende Jacob Trenskow krijgt de bal bij spits Dylan Vente, die draait en schiet. Dat schot wordt echter ternauwernood geblokkeerd door ADO Den Haag-verdediger Jonas Jensen-Abbew."
+          "title": "RDW selecteert eerste aanbieders van tolkastjes voor trucktol",
+          "source": "nt.nl",
+          "url": "https://www.nt.nl/wegvervoer/2025/03/17/rdw-selecteert-eerste-aanbieders-van-tolkastjes-voor-trucktol/",
+          "publishedDate": "Mon, 17 Mar 2025 09:24:00 GMT",
+          "description": "Toll4Europe en Telepass zijn de eerste bedrijven die een EETS-overeenkomst (European Electronic Toll Service) hebben getekend met de RDW. Zij leveren tolkastjes waarmee de tol automatisch wordt ..."
         }
       ]
     },
@@ -282,6 +110,13 @@
           "description": "Een vrachtwagen en auto zijn zaterdagochtend na een botsing op de Langenbergseweg bij Gilze in brand gevlogen, met minstens &#233;&#233;n dodelijk slachtoffer."
         },
         {
+          "title": "Ernstige frontale botsing vrachtwagen en auto in Gilze",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/noord-brabant/gilze/160474-ernstige-frontale-botsing-vrachtwagen-en-auto-in-gilze.html",
+          "publishedDate": "Sat, 24 Oct 2026 09:47:00 GMT",
+          "description": "Een vrachtwagen en een auto zijn zaterdagochtend 24 oktober na een frontale botsing op de Langenbergseweg (N260) bij Gilze in brand gevlogen. De bestuurder van de personenauto kwam hierbij om het leve ..."
+        },
+        {
           "title": "Bestuurder personenauto overleden na frontale botsing met vrachtwagen op N260 bij Gilze",
           "source": "Transport Online",
           "url": "https://www.transport-online.nl/142742/personenauto-belandt-onder-vrachtwagen-op-n260-bij-gilze-beide-voertuigen-in-brand-fotos/",
@@ -299,179 +134,110 @@
           "title": "Bestuurder van auto overleden bij zware crash op N260 bij Gilze",
           "source": "Brabants Dagblad",
           "url": "https://www.bd.nl/112-nieuws-gilze-en-rijen/bestuurder-van-auto-overleden-bij-zware-crash-op-n260-bij-gilze~a2038d2f/",
-          "publishedDate": "Sat, 24 Oct 2026 00:10:00 GMT",
+          "publishedDate": "Fri, 23 Oct 2026 22:10:00 GMT",
           "description": "De bestuurder van de personenauto die zaterdagochtend betrokken raakte bij het ernstige ongeval op de Langenbergseweg (N260) bij Gilze, heeft de crash niet overleefd. De vrachtwagenchauffeur heeft het ..."
         }
       ]
     },
     {
-      "keyword": "f1 kwalificatie",
+      "keyword": "beekse bergen",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Live F1 | Lees hier terug hoe Verstappen poleposition pakte in Singapore",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/formule-1/6412688/live-f1-lees-hier-terug-hoe-verstappen-poleposition-pakte-in-singapore.html",
-          "publishedDate": "Sat, 10 Oct 2026 10:05:00 GMT",
-          "description": "Goedendag en welkom in dit liveblog. Hier houd ik (Patrick Moeke) je op de hoogte van alle ontwikkelingen bij de Grand Prix van Singapore. Veel plezier!"
-        },
-        {
-          "title": "Hadjar opgelucht met P3 in kwalificatie na geworstel: &quot;Ik ben streng voor Red Bull geweest&quot;",
-          "source": "GPFans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/1091941/hadjar-opgelucht-met-p3-in-kwalificatie-na-geworstel-ik-ben-streng-voor-red-bull-geweest/",
-          "publishedDate": "Sat, 24 Oct 2026 17:29:00 GMT",
-          "description": "Isack Hadjar evenaart het beste kwalificatieresultaat uit zijn F1-carri&#232;re in de Grand Prix van de Verenigde Staten ..."
-        },
-        {
-          "title": "Uitslag kwalificatie F1 Grand Prix Verenigde Staten 2026",
-          "source": "GP33",
-          "url": "https://gp33.nl/f1-nieuws/uitslag-kwalificatie-f1-grand-prix-verenigde-staten-2026",
-          "publishedDate": "Sat, 24 Oct 2026 17:00:00 GMT",
-          "description": "Na drie vrije trainingen in Austin was het op zaterdagavond tijd voor de kwalificatie voor de Grand Prix van de Verenigde Staten. Op een circuit wat geplaagd wordt door pijnlijke hobbels, was het aan ..."
-        },
-        {
-          "title": "Lando Norris baalt van 'zeer slechte' kwalificatie voor F1 GP Verenigde Staten",
-          "source": "Motorsport.com",
-          "url": "https://nl.motorsport.com/f1/news/lando-norris-baalt-van-zeer-slechte-kwalificatie-voor-f1-gp-verenigde-staten/10868130/",
-          "publishedDate": "Sat, 24 Oct 2026 17:00:00 GMT",
-          "description": "De McLaren-coureur pakte aanvankelijk de zesde plek voordat een tracklimits-overtreding hem terugzette naar de achtste plaats voor de Formule 1-grand prix van zondag op COTA ..."
-        },
-        {
-          "title": "Uitslag kwalificatie F1 GP Verenigde Staten 2026",
-          "source": "RacingNews365 on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/algemeen/uitslag-kwalificatie-f1-gp-verenigde-staten-2026/ar-AA2fZxvi",
-          "publishedDate": "Sat, 24 Oct 2026 15:05:00 GMT",
-          "description": "Kimi Antonelli heeft poleposition gegrepen tijdens de kwalificatie voor de Grand Prix van de Verenigde Staten. Max Verstappen eindigde op de tweede plaats."
-        },
-        {
-          "title": "Van 120 naar 40 overtredingen van de circuitlimieten greep de wedstrijdleiding in v&#243;&#243;r de F1-kwalificatie in Austin.",
-          "source": "autohebdo",
-          "url": "https://www.autohebdo.nl/nieuws/f1/Van-120-naar-40-overtredingen-van-de-circuitlimieten-greep-de-wedstrijdleiding-in-v%C3%B3%C3%B3r-de-F1-kwalificatie-in-Austin..html",
-          "publishedDate": "Sat, 24 Oct 2026 13:33:00 GMT",
-          "description": "Sinds het begin van het weekend op het Circuit of the Americas vertonen de coureurs een zorgwekkende tendens: ze overschrijden herhaaldelijk de circuitlimieten. Een veelvoorkomend probleem."
-        },
-        {
-          "title": "F1 live | Verstappen aast op pole position in kwalificatie in Austin",
-          "source": "GPblog on MSN",
-          "url": "https://www.msn.com/nl-nl/auto/algemeen/f1-live-verstappen-aast-op-pole-position-in-kwalificatie-in-austin/ar-AA2fZRxF",
-          "publishedDate": "Sat, 24 Oct 2026 13:00:00 GMT",
-          "description": "Max Verstappen begint met uitzicht op poleposition aan de kwalificatie voor de Grand Prix van de Verenigde Staten. De Red Bull-coureur eindigde in de laatste vrije training als tweede achter Lewis Ham ..."
-        },
-        {
-          "title": "Live derde vrije training F1 GP Verenigde Staten 2026",
-          "source": "https//racingnews365.nl",
-          "url": "https://racingnews365.nl/live-derde-vrije-training-f1-gp-verenigde-staten-2026",
-          "publishedDate": "Sat, 24 Oct 2026 11:30:00 GMT",
-          "description": "Volg Max Verstappen live tijdens de derde vrije training voor de Grand Prix van de Verenigde Staten! Weet de Nederlander met het oog op de kwalificatie een stap vooruit te zetten? Het belooft een ..."
-        },
-        {
-          "title": "UITSLAG Kwalificatie Grand Prix Verenigde Staten",
-          "source": "RaceXpress",
-          "url": "https://www.racexpress.nl/formule-1/uitslag-kwalificatie-grand-prix-verenigde-staten/n/157428",
-          "publishedDate": "Fri, 23 Oct 2026 17:00:00 GMT",
-          "description": "Kimi Antonelli heeft zijn eerste stap naar de wereldtitel gezet. In de kwalificatie voor de Grand Prix van de Verenigde Staten kwalificeert de Italiaan ..."
-        },
-        {
-          "title": "Kwalificatie F1 Austin 2026: Hoe laat, zenders en live kijken",
-          "source": "motorsport.com on MSN",
-          "url": "https://www.msn.com/nl-be/sport/other/kwalificatie-f1-austin-2026-hoe-laat-zenders-en-live-kijken/ar-AA2fNT0w",
-          "publishedDate": "Thu, 22 Oct 2026 00:49:01 GMT",
-          "description": "De F1-kwalificatie in Austin begint zaterdag 24 oktober om 23.00 uur Nederlandse tijd. Bekijk waar je de strijd om poleposition live kunt volgen."
-        }
-      ]
-    },
-    {
-      "keyword": "willem ii - cambuur",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Trainerswissel helpt Willem II nog niet tegen Cambuur: 'Als spelersgroep gefaald'",
-          "source": "NOS",
-          "url": "https://nos.nl/video/2636529-trainerswissel-helpt-willem-ii-nog-niet-tegen-cambuur-als-spelersgroep-gefaald",
-          "publishedDate": "Sat, 24 Oct 2026 14:07:00 GMT",
-          "description": "Reacties Willem II-aanvoerder Hidde ter Avest, interim-coach Adrie Koster, Cambuur-spits Nicolas Binder en Cambuur-coach Johan Plat na Willem II-Cambuur (1-6)."
-        },
-        {
-          "title": "Cambuur blijft ook in tweede helft scoren tegen dramatisch Willem II",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/sport/6414260/cambuur-blijft-ook-in-tweede-helft-scoren-tegen-dramatisch-willem-ii.html",
-          "publishedDate": "Sat, 24 Oct 2026 07:01:00 GMT",
-          "description": "Goedendag en welkom in dit liveblog! Deze zaterdagavond hou ik, Bram Schutte, je op de hoogte van al het Eredivisie-voetbal. Veel plezier!"
-        },
-        {
-          "title": "Willem II zet zich in wedstrijd na ontslag Stegeman voor schut, Cambuur behaalt grootste uitzege ooit in eredivisie",
+          "title": "Zwaargewonde verzorgster wordt in slaap gehouden: dit weten we over de panteraanval in Beekse Bergen",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/willem-ii-zet-zich-in-wedstrijd-na-ontslag-stegeman-voor-schut-cambuur-behaalt-grootste-uitzege-ooit-in-eredivisie~ab417dd7/",
-          "publishedDate": "Sat, 24 Oct 2026 04:51:00 GMT",
-          "description": "SC Cambuur heeft de grootste uitzege ooit geboekt in de Vriendenloterij Eredivisie. De Leeuwarders haalden flink uit op bezoek bij hekkensluiter Willem II: 1-6. Het oude record stond op 0-4, tegen Spa ..."
+          "url": "https://www.ad.nl/binnenland/zwaargewonde-verzorgster-wordt-in-slaap-gehouden-dit-weten-we-over-de-panteraanval-in-beekse-bergen~a8d41662/",
+          "publishedDate": "Sat, 24 Oct 2026 19:42:00 GMT",
+          "description": "Een dierenverzorger is zaterdagochtend zwaargewond geraakt toen zij aan het werk was in dierenpark Beekse Bergen in Hilvarenbeek. Ze verzorgde twee mannelijke Perzische panters toen het misging. De vr ..."
         },
         {
-          "title": "SC Cambuur boekte grootste uitzege in Eredivisie ooit",
-          "source": "SC Cambuur",
-          "url": "https://cambuur.nl/nieuws/sc-cambuur-boekte-grootste-uitzege-in-eredivisie-ooit/",
-          "publishedDate": "Sat, 24 Oct 2026 13:48:00 GMT",
-          "description": "Aan de Goirleseweg in Tilburg kruisten aan de vooravond twee promovendi de degens. Willem II tegen SC Cambuur. Waar de Leeuwarders zich eind maart al verzekerden van een plek op het hoogste niveau, da ..."
+          "title": "Verzorger safaripark Beekse Bergen gewond na aanval panter in binnenverblijf",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/binnenland/6414256/verzorger-safaripark-beekse-bergen-gewond-na-aanval-panter-in-binnenverblijf.html",
+          "publishedDate": "Sat, 24 Oct 2026 08:12:00 GMT",
+          "description": "Een dierenverzorger van safaripark Beekse Bergen is zaterdag gewond geraakt door de aanval van een panter. De vrouw werd aangevallen in het binnenverblijf, bevestigt een woordvoerder van het park aan ..."
         },
         {
-          "title": "LIVE | Willem II gaat na rust door met schutteren: Cambuur komt op 0-4 (!)",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/willem-ii/live-willem-ii-gaat-na-rust-door-met-schutteren-cambuur-komt-op-0-4~a7570799/",
-          "publishedDate": "Sat, 24 Oct 2026 12:59:00 GMT",
-          "description": "Adrie Koster (71) keert vanavond officieel terug als coach Willem II: na het ontslag van John Stegeman is hij voorlopig interim-trainer. Kan hij de Tilburgers leiden naar een belangrijke thuiszege op ..."
+          "title": "Verzorgster safaripark Beekse Bergen gewond na panteraanval, toestand zorgelijk",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636461-verzorgster-safaripark-beekse-bergen-gewond-na-panteraanval-toestand-zorgelijk",
+          "publishedDate": "Sat, 24 Oct 2026 05:27:00 GMT",
+          "description": "In safaripark Beekse Bergen in Hilvarenbeek is vanochtend een verzorgster ernstig gewond geraakt nadat ze was aangevallen in het panterverblijf. Een woordvoerder van het park meldt dat ze aanspreekbaa ..."
         },
         {
-          "title": "Cambuur evenaart grootste Eredivisie-zege ooit tijdens recordavond in Tilburg",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/cambuur-evenaart-grootste-eredivisie-zege-ooit-tijdens-recordavond-in-tilburg/ar-AA2fZsxJ",
-          "publishedDate": "Sat, 24 Oct 2026 12:38:00 GMT",
-          "description": "SC Cambuur heeft zaterdagavond geschiedenis geschreven. De ploeg van Johan Plat vernederde hekkensluiter Willem II met 1-6, een evenaring van de grootste Eredivisie-zege van de Friezen ooit. Bovendien ..."
+          "title": "Nieuwe details over panteraanval Beekse Bergen: slachtoffer werkte alleen en sloeg zelf alarm",
+          "source": "Looopings",
+          "url": "https://www.looopings.nl/weblog/34675/Nieuwe-details-over-panteraanval-Beekse-Bergen-slachtoffer-werkte-alleen-en-sloeg-zelf-alarm.html",
+          "publishedDate": "Sat, 24 Oct 2026 16:35:00 GMT",
+          "description": "De zwaargewonde dierenverzorgster van Safaripark Beekse Bergen heeft na de aanval door een panter zelf via haar portofoon om hulp geroepen."
         },
         {
-          "title": "Beschamende rentree voor Koster: Cambuur geeft Willem II ongekend pak rammel",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/beschamende-rentree-voor-koster-cambuur-geeft-willem-ii-ongekend-pak-rammel/ar-AA2fZkhK",
-          "publishedDate": "Sat, 24 Oct 2026 11:34:00 GMT",
-          "description": "De aanstelling van Adrie Koster als interim-trainer heeft Willem II zaterdag niet het gewenste schokeffect opgeleverd. De Tilburgse hekkensluiter was in eigen huis een speelbal van SC Cambuur en werd ..."
+          "title": "Panter valt verzorgster Beekse Bergen aan: vrouw in kritieke toestand",
+          "source": "Looopings",
+          "url": "https://www.looopings.nl/weblog/34671/Panter-valt-verzorgster-Beekse-Bergen-aan-vrouw-in-kritieke-toestand.html",
+          "publishedDate": "Sat, 24 Oct 2026 16:35:00 GMT",
+          "description": "Een dierenverzorgster van Safaripark Beekse Bergen is vanochtend zwaargewond geraakt door een aanval van een Perzische panter. Collega's vonden ..."
         },
         {
-          "title": "Willem II zet zichzelf compleet voor joker met schandalige vertoning: desastreuze rentree interim-trainer Koster",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/willem-ii/willem-ii-zet-zichzelf-compleet-voor-joker-met-schandalige-vertoning-desastreuze-rentree-interim-trainer-koster~a7570799/",
-          "publishedDate": "Sat, 24 Oct 2026 09:45:00 GMT",
-          "description": "Vernederend, schandalig, beneden alle peil. Andere termen zijn er niet voor het optreden van Willem II in het cruciale thuisduel met SC Cambuur. Onder interim-trainer Adrie Koster legden de Tilburgers ..."
+          "title": "Verzorger Beekse Bergen in slaap gehouden na panteraanval",
+          "source": "NU",
+          "url": "https://www.nu.nl/binnenland/6414310/verzorger-beekse-bergen-in-slaap-gehouden-na-panteraanval.html",
+          "publishedDate": "Sat, 24 Oct 2026 13:45:00 GMT",
+          "description": "De medische toestand van de dierenverzorger die zaterdag in safaripark Beekse Bergen zwaargewond raakte door een panteraanval, is nog steeds zorgelijk. Een woordvoerder van het park meldt dat zij in ..."
         },
         {
-          "title": "Willem II - SC Cambuur: Waar te zien, mogelijke opstellingen, tips en teamnieuws",
-          "source": "news.bet365",
-          "url": "https://news.bet365.nl/nl-nl/article/willem-ii-sc-cambuur-waar-te-zien-mogelijke-opstellingen-tips-en-teamnieuws/2026102119153647754",
-          "publishedDate": "Wed, 21 Oct 2026 04:15:00 GMT",
-          "description": "Vermoedelijke opstelling Willem II: Maxime Delanghe, Hidde ter Avest, Finn Stam, Maxim Dekker, Nathan Tjoe-A-On, Anass Zarrouk, Tonny Vilhena, Jaden Slory, Uriel van Aalst, Vito van Crooij, Devin Haen ..."
+          "title": "Zwaargewonde verzorgster Beekse Bergen in slaap gehouden na aanval Perzische panter",
+          "source": "Drimble",
+          "url": "https://drimble.nl/sport/overig/108395574/zwaargewonde-verzorgster-beekse-bergen-in-slaap-gehouden-na-aanval-perzische-panter.html",
+          "publishedDate": "Sat, 24 Oct 2026 13:44:00 GMT",
+          "description": "De medische toestand van de dierenverzorgster die zaterdag in safaripark Beekse Bergen zwaargewond raakte door een panteraanval, is nog steeds zorgelijk. Een woordvoerder van het park meldt dat zij in ..."
+        },
+        {
+          "title": "Vandaag (25 oktober) om 10:30",
+          "source": "Omroep Brabant",
+          "url": "https://www.omroepbrabant.nl/nieuws/6032268/verzorgster-beekse-bergen-in-slaap-gehouden-na-panteraanval",
+          "publishedDate": "Sat, 24 Oct 2026 13:30:00 GMT",
+          "description": "De medische toestand van de dierenverzorgster die zaterdag in safaripark Beekse Bergen zwaargewond raakte door een panteraanval, is nog steeds zorgelijk. Een woordvoerder van het park meldt dat zij in ..."
+        },
+        {
+          "title": "Verzorgster gewond geraakt in Beekse Bergen",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/verzorgster-gewond-geraakt-in-beekse-bergen",
+          "publishedDate": "Sat, 24 Oct 2026 07:12:00 GMT",
+          "description": "Een verzorgster van Safaripark Beekse Bergen in Hilvarenbeek is zaterdag rond 11.00 uur gewond geraakt. Collega’s vonden haar in een van de binnenverblijven. De oorzaak is nog onbekend."
+        },
+        {
+          "title": "Dierenverzorgster in safaripark Beekse Bergen zwaargewond na aanval door Perzische panter: vrouw had al jaren ervaring met roofdieren",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/dierenverzorgster-in-safaripark-beekse-bergen-zwaargewond-na-aanval-door-perzische-panter-vrouw-had-al-jaren-ervaring-met-roofdieren~acc984ff/",
+          "publishedDate": "Sat, 24 Oct 2026 05:57:00 GMT",
+          "description": "Een dierenverzorgster van safaripark Beekse Bergen is zwaargewond geraakt nadat zij vanochtend is aangevallen door een Perzische panter. Het gaat om een Nederlandse vrouw die in Vlaanderen woont, zo w ..."
         }
       ]
     },
     {
-      "keyword": "utrecht - pec",
+      "keyword": "ado - heerenveen",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "ADO geeft zege op PSV geen passend vervolg, net geen zege PEC in Utrecht",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6414270/ado-geeft-zege-op-psv-geen-passend-vervolg-net-geen-zege-pec-in-utrecht.html",
-          "publishedDate": "Sat, 24 Oct 2026 11:39:00 GMT",
-          "description": "ADO Den Haag heeft de overwinning op PSV zaterdag geen passend vervolg kunnen geven in de Eredivisie. De ploeg van trainer Robin Peter verloor met 2-3 van sc Heerenveen. FC Utrecht-PEC Zwolle eindigde"
+          "title": "ADO Den Haag trekt onder barre omstandigheden en in vermakelijk duel met SC Heerenveen aan kortste eind",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/ado-den-haag-trekt-onder-barre-omstandigheden-en-in-vermakelijk-duel-met-sc-heerenveen-aan-kortste-eind~a7061780/",
+          "publishedDate": "Sat, 24 Oct 2026 15:52:00 GMT",
+          "description": "ADO Den Haag en SC Heerenveen zorgden onder barre omstandigheden met harde wind en veel regen voor vermaak in de eredivisie. De Friezen gingen er met de zege vandoor: 2-3."
         },
         {
-          "title": "Gerling: &quot;Daardoor is het spannend wie er tegen PEC gaat spelen&quot;",
-          "source": "UtrechtFans",
-          "url": "https://www.utrechtfans.nl/gerling-daardoor-is-het-spannend-wie-er-tegen-pec-gaat-spelen/",
-          "publishedDate": "Sat, 24 Oct 2026 02:51:00 GMT",
-          "description": "Lees nu | Marco Gerling was onder de indruk van het feit dat FC Utrecht FC Twente wist te verslaan in de Grolsch Veste. Na een vrij matige eerste"
+          "title": "Heerenveen leidt in spektakelstuk bij ADO (2-3) • Veel goals in de tweede helft",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2636468-heerenveen-leidt-in-spektakelstuk-bij-ado-2-3-veel-goals-in-de-tweede-helft",
+          "publishedDate": "Sat, 24 Oct 2026 12:07:00 GMT",
+          "description": "sc Heerenveen komt nogmaals erg dicht bij die tweede treffer, maar opnieuw gaat de bal er niet in. De goed spelende Jacob Trenskow krijgt de bal bij spits Dylan Vente, die draait en schiet. Dat schot wordt echter ternauwernood geblokkeerd door ADO Den Haag-verdediger Jonas Jensen-Abbew."
         }
       ]
     },
     {
       "keyword": "toto wolff",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
         {
           "title": "Nu teambaas Toto Wolff beseft dat ook hij van zijn fouten kan leren, is Mercedes weer terug aan de top",
@@ -481,11 +247,11 @@
           "description": "Als alles meezit voor Mercedes wordt Kimi Antonelli dit weekend al wereldkampioen. De nieuwe glorie van het team komt na jaren waarin de veeleisende en soms opvliegende teambaas Toto Wolff zich realis ..."
         },
         {
-          "title": "Wolff dankbaar voor godsgeschenk, maar vreest ook: &quot;Race winnen veel lastiger tegen Verstappen&quot;",
-          "source": "F1 Maximaal on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/wolff-dankbaar-voor-godsgeschenk-maar-vreest-ook-race-winnen-veel-lastiger-tegen-verstappen/ar-AA2fZxEp",
-          "publishedDate": "Sat, 24 Oct 2026 15:39:00 GMT",
-          "description": "Toto Wolff snapt helemaal niks van de poleposition van Kimi Antonelli. De Mercedes-teambaas denkt nog altijd dat zijn team niet de snelste auto had, maar zag zijn 20-jarige coureur toch de eerste star ..."
+          "title": "Antonelli blaast Wolff van zijn stoel: &quot;Geen verklaring voor&quot;",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/antonelli-blaast-wolff-van-zijn-stoel-geen-verklaring-voor/ar-AA2g0MPB",
+          "publishedDate": "Sat, 24 Oct 2026 23:40:00 GMT",
+          "description": "Toto Wolff kan geen verklaring vinden voor de poleposition van Kimi Antonelli in de Verenigde Staten. De teambaas had het niet aan zien komen."
         },
         {
           "title": "Grote schrik voor Mercedes-teambaas Toto Wolff: zoon (9) betrokken bij huiveringwekkend kartongeluk",
@@ -523,101 +289,271 @@
           "description": "Mercedes-baas Toto Wolff prijst zichzelf z&#233;&#233;r gelukkig om het feit dat Mercedes en Kimi Antonelli een enorme voorsprong hebben in het 2026 F1-kampioenschap. Het team uit Brackley heeft vooral aan het ..."
         },
         {
-          "title": "Toto Wolff verwacht volgend jaar titelstrijd tussen vier topteams: &quot;Zet je daar Max Verstappen in, dan...&quot;",
-          "source": "RaceXpress",
-          "url": "https://www.racexpress.nl/formule-1/toto-wolff-verwacht-volgend-jaar-titelstrijd-tussen-vier-topteams-zet-je-daar-max-verstappen-in-dan/n/157331",
-          "publishedDate": "Wed, 21 Oct 2026 21:06:00 GMT",
-          "description": "Mercedes-teambaas Toto Wolff verwacht volgend jaar een open titelstrijd tussen de vier topteams, met Red Bull Racing daar nadrukkelijk bij. Het team van ..."
-        },
-        {
-          "title": "Wolff al bezig met beoordelen van opvolgers voor Mercedes na zijn vertrek",
-          "source": "GPblog on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/wolff-al-bezig-met-beoordelen-van-opvolgers-voor-mercedes-na-zijn-vertrek/ar-AA2fKfm3",
-          "publishedDate": "Wed, 21 Oct 2026 07:04:00 GMT",
-          "description": "Toto Wolff beoordeelt momenteel kandidaten die in de toekomst zijn werkzaamheden bij Mercedes kunnen overnemen. De teambaas verwacht dat zijn taken over twee of drie mensen worden verdeeld. Daarmee be ..."
-        },
-        {
           "title": "Schumacher voorziet hoofdrol Verstappen in Austin: 'Het overvalt Toto Wolff volledig'",
           "source": "GPblog on MSN",
           "url": "https://www.msn.com/nl-nl/nieuws/overig/schumacher-voorziet-hoofdrol-verstappen-in-austin-het-overvalt-toto-wolff-volledig/ar-AA2fIYdx",
           "publishedDate": "Wed, 21 Oct 2026 05:01:00 GMT",
           "description": "Max Verstappen kan volgens Ralf Schumacher opnieuw een hoofdrol opeisen tijdens de Grand Prix van de Verenigde Staten. De voormalig Formule 1-coureur verwacht dat de Nederlander in Austin over goed ma ..."
+        },
+        {
+          "title": "Toto Wolff verwacht niet dat Kimi Antonelli al in Austin wereldkampioen wordt",
+          "source": "RaceXpress",
+          "url": "https://www.racexpress.nl/formule-1/toto-wolff-verwacht-niet-dat-kimi-antonelli-al-in-austin-wereldkampioen-wordt/n/157300",
+          "publishedDate": "Wed, 21 Oct 2026 03:51:00 GMT",
+          "description": "Mercedes-teambaas Toto Wolff verwacht niet dat Kimi Antonelli al in Austin wereldkampioen wordt. De Italiaan kan tijdens de Grand Prix van de Verenigde ..."
+        },
+        {
+          "title": "Kelly Piquet (vriendin Max Verstappen) feliciteert Mercedes-baas Toto Wolff na bijzondere mijlpaal met grote liefde",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/formule-1/nieuws/kelly-piquet-vriendin-max-verstappen-feliciteert-mercedes-baas-toto-wolff-na-bijzondere-mijlpaal-met-grote-liefde-2026101515273870207/",
+          "publishedDate": "Thu, 15 Oct 2026 10:56:00 GMT",
+          "description": "Toto Wolff en Max Verstappen zijn in de Formule 1 al jaren tegenstanders, maar donderdag draaide het voor de Mercedes-baas om iets heel anders. De Oostenrijker vierde een bijzondere mijlpaal met zijn ..."
         }
       ]
     },
     {
-      "keyword": "alexander volkanovski",
+      "keyword": "walibi",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "UFC 333: Volkanovski domineert ongeslagen opponent, Yan maakt comeback om van te dromen",
+          "title": "Grote politiemacht op de been na vechtpartijen in Walibi",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/331614/video/grote-politiemacht-op-de-been-na-vechtpartijen-in-walibi.html",
+          "publishedDate": "Sun, 25 Oct 2026 02:02:00 GMT",
+          "description": "Een flinke politiemacht moest zaterdagavond ingrijpen bij Walibi Fright Night nadat meerdere vechtpartijen waren uitgebroken. Ook de Mobiele Eenheid moest worden ingezet. De aanleiding is nog onbekend ..."
+        },
+        {
+          "title": "Opnieuw ongeregeldheden tijdens Walibi Fright Nights",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636536-opnieuw-ongeregeldheden-tijdens-walibi-fright-nights",
+          "publishedDate": "Sat, 24 Oct 2026 18:23:00 GMT",
+          "description": "Bij attractiepark Walibi in Biddinghuizen zijn gisteravond vechtpartijen uitgebroken tijdens de zogenoemde Fright Nights. Op beelden die op sociale media circuleren, is te zien hoe groepen bezoekers m ..."
+        },
+        {
+          "title": "Nieuwe beelden tonen totale chaos in Walibi Holland: vechtpartijen, vernielingen en plunderingen",
+          "source": "Looopings",
+          "url": "https://www.looopings.nl/weblog/34682/Nieuwe-beelden-tonen-totale-chaos-in-Walibi-Holland-vechtpartijen--vernielingen-en-plunderingen.html",
+          "publishedDate": "Sun, 25 Oct 2026 01:37:00 GMT",
+          "description": "De ochtend na de uit de hand gelopen Fright Nights-avond in Walibi Holland wordt pas echt duidelijk hoe ernstig de situatie was. Op TikTok, ..."
+        },
+        {
+          "title": "Ongeregeldheden bij Walibi Fright Nights, politie en ME grijpen in",
+          "source": "FOK!",
+          "url": "https://frontpage.fok.nl/nieuws/894824/1/1/50/ongeregeldheden-bij-walibi-fright-nights-politie-en-me-grijpen-in.html",
+          "publishedDate": "Sun, 25 Oct 2026 01:16:00 GMT",
+          "description": "Tijdens de Fright Nights in attractiepark Walibi Holland in Biddinghuizen zijn zaterdagavond ongeregeldheden uitgebroken. De politie en de Mobiele Eenheid kwamen naar het park. Om 22.00 uur, een uur v ..."
+        },
+        {
+          "title": "Walibi organiseert Fright Night, dekselse `jongeren` maken er Fight Night van",
+          "source": "Drimble",
+          "url": "https://drimble.nl/entertainment/opmerkelijk/108394720/walibi-organiseert-fright-night-dekselse-jongeren-maken-er-fight-night-van.html",
+          "publishedDate": "Sun, 25 Oct 2026 01:04:00 GMT",
+          "description": "Een avondje lekker griezelen in Walibi liep zaterdagavond iets realistischer uit dan gepland. Tijdens de Halloween Fright Nights in het Nederlandse Biddinghuizen braken meerdere grote vechtpartijen ui ..."
+        },
+        {
+          "title": "Mobiele Eenheid en politiehonden ingezet bij grote onrust in Walibi Fright Nights",
+          "source": "112 Nieuws Nederland",
+          "url": "https://112nieuws.net/2026/10/25/mobiele-eenheid-en-politiehonden-ingezet-bij-grote-onrust-in-walibi-fright-nights/",
+          "publishedDate": "Sun, 25 Oct 2026 00:28:00 GMT",
+          "description": "De politie heeft zaterdagavond 24 oktober massaal moeten ingrijpen bij Walibi in Biddinghuizen. Tijdens de Halloween Fright Nights ontstond grote onrust nadat groepen jongeren betrokken raakten bij me ..."
+        },
+        {
+          "title": "KIJK. Oproerpolitie moet ingrijpen na massale vechtpartijen tijdens halloweenevent in Walibi",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/kijk-oproerpolitie-moet-ingrijpen-na-massale-vechtpartijen-tijdens-halloweenevent-in-walibi~a5db227d/",
+          "publishedDate": "Sat, 24 Oct 2026 17:22:00 GMT",
+          "description": "Een flinke politiemacht moest zaterdagavond ingrijpen tijdens de Walibi Fright Nights, een thema-avond rond Halloween, in het Nederlandse Biddinghuizen, nadat meerdere vechtpartijen waren uitgebroken."
+        },
+        {
+          "title": "Walibi Fright Night in Nederland mondt uit tot vechtpartij tussen pretparkbezoekers",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/video/productie/walibi-fright-night-in-nederland-mondt-uit-tot-vechtpartij-tussen-pretparkbezoekers-14787791",
+          "publishedDate": "Sat, 24 Oct 2026 17:00:00 GMT",
+          "description": "Een flinke politiemacht moest zaterdagavond ingrijpen bij Walibi Fright Night in het Nederlandse Biddinghuizen nadat meerdere vechtpartijen waren uitgebroken. De mobiele eenheid (ME) moest zelfs worde ..."
+        },
+        {
+          "title": "Oproerpolitie grijpt in na vechtpartijen en plunderingen tijdens halloweenevenement Walibi Nederland",
+          "source": "De Morgen",
+          "url": "https://www.demorgen.be/nieuws/oproerpolitie-grijpt-in-na-vechtpartijen-en-plunderingen-tijdens-halloweenevenement-walibi-nederland~b5db227d/",
+          "publishedDate": "Sat, 24 Oct 2026 13:50:00 GMT",
+          "description": "Een flinke politiemacht moest zaterdagavond ingrijpen tijdens de Walibi Fright Nights, een evenement rond Halloween, in het Nederlandse Biddinghuizen, nadat meerdere vechtpartijen waren uitgebroken. D ..."
+        },
+        {
+          "title": "Onrust bij Halloween Fright Nights: Walibi grijpt in na opstootjes, ME ter plaatse",
+          "source": "Looopings",
+          "url": "https://www.looopings.nl/weblog/34678/Onrust-bij-Halloween-Fright-Nights-Walibi-grijpt-in-na-opstootjes--ME-ter-plaatse.html",
+          "publishedDate": "Sat, 24 Oct 2026 13:47:00 GMT",
+          "description": "Walibi Holland heeft de scare zones van Halloween Fright Nights vanavond een uur voor sluitingstijd leeggehaald vanwege meerdere ..."
+        }
+      ]
+    },
+    {
+      "keyword": "maxima op ade",
+      "trafficLabel": "10K+",
+      "articles": []
+    },
+    {
+      "keyword": "tijd",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Zomertijd voorbij: vannacht gaat de klok weer een uur terug",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636525-zomertijd-voorbij-vannacht-gaat-de-klok-weer-een-uur-terug",
+          "publishedDate": "Sat, 24 Oct 2026 13:52:00 GMT",
+          "description": "Vannacht om 03.00 uur is de zomertijd voorbij. Dat betekent dat de klok een uur achteruit wordt gezet en de meeste mensen een uurtje langer kunnen slapen morgenochtend. In de ochtend wordt het eerder ..."
+        },
+        {
+          "title": "Terug in de tijd: want hoe is tijd ontstaan?",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/fragmenten/de-nacht-van/01a1534d-ed50-71a1-8064-c79dadf4a577/2026-10-19-terug-in-de-tijd-want-hoe-is-tijd-ontstaan",
+          "publishedDate": "Sun, 18 Oct 2026 19:00:00 GMT",
+          "description": "Sofie Remijsen is docent geschiedenis aan de Universiteit van Amsterdam. Zij deed onderzoek naar hoe tijd een rol speelde in de oudheid. Tijdens De Nacht van KRO-NCRV vertelt zij hierover. Foutcode ..."
+        }
+      ]
+    },
+    {
+      "keyword": "a13",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "A13 richting Rotterdam urenlang dicht na hevige aanrijding bij Delft",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/vechtsport/ufc-333-volkanovski-domineert-ongeslagen-opponent-yan-maakt-comeback-om-van-te-dromen~ac92fe2f/",
-          "publishedDate": "Sat, 24 Oct 2026 07:34:00 GMT",
-          "description": "Alexander Volkanovski heeft opnieuw zijn vedergewichttitel verdedigd. De Australische topvechter won in de hoofdpartij van UFC 333 in Abu Dhabi van de nog ongeslagen Movsar Evloev. Daarmee duurt zijn ..."
+          "url": "https://www.ad.nl/112-nieuws-delft/a13-richting-rotterdam-urenlang-dicht-na-hevige-aanrijding-bij-delft~ab4dd4c7/",
+          "publishedDate": "Fri, 23 Oct 2026 21:45:00 GMT",
+          "description": "De snelweg A13 in de richting van Rotterdam is in de nacht van vrijdag op zaterdag urenlang volledig afgesloten geweest na een hevige aanrijding. Bij het incident waren een BMW en een Peugeot betrokke ..."
         },
         {
-          "title": "Alexander Volkanovski Reveals Illness Before UFC 333 Title Fight",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/alexander-volkanovski-reveals-illness-ufc-023833164.html",
-          "publishedDate": "Sat, 24 Oct 2026 17:00:00 GMT",
-          "description": "UFC featherweight champion Alexander Volkanovski revealed that he had an illness before his title fight against Movsar Evloev at UFC 333.In what was one of the most outstanding performances of his UFC ..."
+          "title": "A13-trajectcontrole die tienduizenden boetes per jaar opleverde gaat binnenkort weer aan",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/rotterdam/a13-trajectcontrole-die-tienduizenden-boetes-per-jaar-opleverde-gaat-binnenkort-weer-aan~a67d7ef2/",
+          "publishedDate": "Sat, 03 Oct 2026 23:31:00 GMT",
+          "description": "Maandenlang stond de trajectcontrole op de A13 bij Rotterdam uit. Maar het systeem is vervangen en gaat - als de tests goed lopen - binnenkort weer aan. Eerder kregen jaarlijks tienduizenden automobil ..."
         },
         {
-          "title": "Alexander Volkanovski Praised by Dana White After UFC 333",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/alexander-volkanovski-praised-dana-white-034906490.html",
-          "publishedDate": "Sat, 24 Oct 2026 17:00:00 GMT",
-          "description": "UFC president Dana White praised UFC featherweight champion Alexander Volkanovski following the conclusion of the UFC 333 fight card.In the headliner of UFC 333, Volkanovski defeated the previously ..."
+          "title": "Zwaar ongeluk A13: meerdere gewonden naar het ziekenhuis",
+          "source": "omroepdelft",
+          "url": "https://www.omroepdelft.nl/delft/zwaar-ongeluk-a13-meerdere-gewonden-naar-het-ziekenhuis/",
+          "publishedDate": "Sat, 24 Oct 2026 02:02:00 GMT",
+          "description": "Twee personenauto's hebben in de nacht van vrijdag 23 op zaterdag 24 oktober een zwaar ongeval veroorzaakt op de A13 bij Delft. Een BMW botste met hoge snelheid achterop een andere auto. Hierdoor kwam ..."
         },
         {
-          "title": "Alexander Volkanovski breekt record van Jos&#233; Aldo na TKO op Movsar Evloev, Petr Yan beslist trilogie tegen Merab Dvalishvili en behoudt wereldtitel",
-          "source": "Eurosport",
-          "url": "https://www.eurosport.nl/mixed-martial-arts/ufc/2026/alexander-volkanovski-breekt-record-van-jose-aldo-na-tko-op-movsar-evloev-petr-yan-beslist-trilogie-tegen-merab-dvalishvili-en-behoudt-wereldtitel_sto23348751/story.shtml",
-          "publishedDate": "Sat, 24 Oct 2026 16:45:00 GMT",
-          "description": "Volkanovski verslaat Evloev via TKO en passeert Jos&#233; Aldo met zijn negende titelzege. Yan wint de trilogie tegen Dvalishvili via jurybeslissing."
+          "title": "Ravage na ongeluk op A13, automobilist aangehouden",
+          "source": "Omroep West",
+          "url": "https://www.omroepwest.nl/112/5166447/ravage-na-ongeluk-op-a13-automobilist-aangehouden",
+          "publishedDate": "Fri, 23 Oct 2026 23:02:00 GMT",
+          "description": "De A13 bij Delft is in de richting van Rotterdam een paar uur afgesloten geweest na een ernstig ongeluk. Bij die aanrijding waren twee auto's betrokken. Volgens de politie zijn twee mensen naar het zi ..."
         },
         {
-          "title": "Alexander Volkanovski, Petr Yan solidify their greatness at UFC 333",
-          "source": "ESPN on MSN",
-          "url": "https://www.msn.com/en-us/news/other/alexander-volkanovski-petr-yan-solidify-their-greatness-at-ufc-333/ar-AA2g0lVh",
-          "publishedDate": "Sat, 24 Oct 2026 16:28:51 GMT",
-          "description": "Facing tough tests, the champions at UFC 333 proved their all-time mettle in their respective divisions."
+          "title": "Ernstig ongeluk op A13 bij Delft",
+          "source": "Westlanders.nu",
+          "url": "https://westlanders.nu/nieuws/ernstig-ongeluk-op-a13-bij-delft/",
+          "publishedDate": "Sun, 18 Oct 2026 01:22:00 GMT",
+          "description": "Delft 18.10.2026 – Op de A13 bij Delft heeft zondagochtend 18 oktober een ernstig verkeersongeval plaatsgevonden. Meerdere hulpdiensten werden rond 08.04 ..."
         },
         {
-          "title": "Alexander Volkanovski stops Movsar Evloev in 2nd round to retain title",
-          "source": "ESPN on MSN",
-          "url": "https://www.msn.com/en-us/news/other/alexander-volkanovski-stops-movsar-evloev-in-2nd-round-to-retain-title/ar-AA2g0gwW",
-          "publishedDate": "Sat, 24 Oct 2026 15:13:01 GMT",
-          "description": "Alexander Volkanovski defended his featherweight title for the second time this year on Saturday, knocking out undefeated challenger Movsar Evloev at 4:54 of the second round at UFC 333 in Abu Dhabi."
+          "title": "Automobilist zwaargewond bij ongeluk A13 | Scooterrijder zwaargewond aan hoofd na val",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2269296/automobilist-zwaargewond-bij-ongeluk-a13-scooterrijder-zwaargewond-aan-hoofd-na-val",
+          "publishedDate": "Sun, 18 Oct 2026 01:09:00 GMT",
+          "description": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van zondag 18 oktober."
         },
         {
-          "title": "&#191;Qui&#233;n gan&#243; la pelea Alexander Volkanovski vs. Movsar Evloev por el UFC 333? Todos los resultados",
-          "source": "El Comercio",
-          "url": "https://elcomercio.pe/mag/usa/en-vivo-us/quien-gano-la-pelea-alexander-volkanovski-vs-movsar-evloev-por-el-ufc-333-todos-los-resultados-en-abu-dabi-nnda-nnrt-noticia/",
-          "publishedDate": "Sat, 24 Oct 2026 15:02:00 GMT",
-          "description": "Sigue el UFC 333 EN VIVO con los resultados de Alexander Volkanovski vs. Movsar Evloev, Petr Yan vs. Merab Dvalishvili y todos los combates programados para el evento."
+          "title": "Man zwaargewond bij ongeluk op A13",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2269301/man-zwaargewond-bij-ongeluk-op-a13",
+          "publishedDate": "Sun, 18 Oct 2026 00:42:00 GMT",
+          "description": "Bij een ongeluk op de A13 bij Delft is zondagochtend een man zwaargewond geraakt. Een personenauto en een busje botsten op elkaar. De snelweg werd tussen knooppunt Kleinpolderplein en Delft-Zuid tijde ..."
         },
         {
-          "title": "Alexander Volkanovski stops Movsar Evloev in 2nd round to retain featherweight title at UFC 333",
-          "source": "AOL",
-          "url": "https://www.aol.com/articles/alexander-volkanovski-stops-movsar-evloev-220107000.html",
-          "publishedDate": "Sat, 24 Oct 2026 04:54:00 GMT",
-          "description": "Alexander Volkanovski stopped previously unbeaten Movsar Evloev at 4:54 of the second round Saturday to retain his featherweight championship at UFC 333 ..."
+          "title": "A16, A13 en N209: drukte verwacht door afsluitingen; 24 - 27 oktober 2025",
+          "source": "rijkswaterstaat",
+          "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2025/10/a16-a13-en-n209-drukte-verwacht-door-afsluitingen-24-27-oktober-2025",
+          "publishedDate": "Thu, 23 Oct 2025 13:01:00 GMT",
+          "description": "Het verkeer wordt omgeleid. Er wordt grote drukte verwacht, ook door de verwachte weersomstandigheden. Houd rekening met extra reistijd die kan oplopen tot zestig minuten. Ga goed voorbereid op pad, ..."
         },
         {
-          "title": "UFC 333 Volkanovski vs Evloev: tijden, live stream kijken en volledige fight card",
-          "source": "Squawka",
-          "url": "https://www.squawka.com/nl/nieuws/vechtsport/ufc-333-volkanovski-evloev-tijden-programma-live-stream-kijken/",
-          "publishedDate": "Thu, 22 Oct 2026 01:02:00 GMT",
-          "description": "UFC 333 gratis live stream kijken? Bekijk waar je Volkanovski vs Evloev live ziet, de tijden in Nederland en de volledige fight card."
+          "title": "A13 Kleinpolderplein afsluitingen; september en oktober 2024",
+          "source": "rijkswaterstaat",
+          "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2024/09/a13-kleinpolderplein-meerdere-weekenden-en-nachten-dicht-september-en-oktober-2024",
+          "publishedDate": "Wed, 11 Sep 2024 03:24:00 GMT",
+          "description": "Rijkswaterstaat voert in 2 weekenden en 10 nachten groot onderhoud uit op het Kleinpolderplein (A13) aan de verbindingsboog vanuit Den Haag richting Gouda (A20). Deze verbindingsboog is tijdens deze ..."
+        }
+      ]
+    },
+    {
+      "keyword": "b&amp;b vol liefde",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Prille liefde tussen Lynn en Kees Jan uit 'B&amp;B Vol Liefde' alweer voorbij",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/entertainment/beetje-bijblijven/lynn-keesjan-bb-vol-liefde-voorbij/",
+          "publishedDate": "Sun, 18 Oct 2026 02:30:00 GMT",
+          "description": "In het afgelopen seizoen van B&amp;B Vol Liefde zocht Lynn de liefde bij B&amp;B-eigenaar Thomas en Kees Jan bij Eline op Aruba. Bij beiden sloeg de vonk niet over, maar tijdens de re&#252;nie sloeg die tussen ..."
         },
         {
-          "title": "Hoe laat en waar kijk je live naar UFC 333: Volkanovski vs. Evloev",
-          "source": "Eurosport",
-          "url": "https://www.eurosport.nl/mixed-martial-arts/ufc/2026/hoe-laat-en-waar-kijk-je-live-naar-voor-ufc-333-volkanovski-vs.-evloev_sto23346745/story.shtml",
-          "publishedDate": "Tue, 20 Oct 2026 07:29:00 GMT",
-          "description": "Tijdens UFC 333 staan twee titelgevechten op het programma: tussen Alexander Volkanovski en Movsar Evloev. En tussen Petr Yan en Merab Dvalishvili."
+          "title": "Iris uit B&amp;B Vol Liefde dolverliefd op oud-deelnemer: ‘Wij hebben elkaar gevonden’",
+          "source": "Weekend Online",
+          "url": "https://www.weekend-online.nl/nieuws/iris-bb-vol-liefde-verliefd-oud-deelnemer/",
+          "publishedDate": "Wed, 14 Oct 2026 01:15:00 GMT",
+          "description": "Iris, die in 2024 de harten van veel kijkers veroverde tijdens B&amp;B Vol Liefde, heeft alsnog de liefde gevonden."
+        },
+        {
+          "title": "Tranen in B&amp;B vol liefde: Eveline laat tattoo zetten precies op moment dat vader overlijdt",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/tranen-in-b-b-vol-liefde-eveline-laat-tattoo-zetten-precies-op-moment-dat-vader-overlijdt~a5e52ed9/?slug_rd=1",
+          "publishedDate": "Mon, 25 Aug 2025 17:00:00 GMT",
+          "description": "Tranen in B&amp;B vol liefde: Eveline laat tattoo zetten precies op moment dat vader overlijdt Tranen vloeiden in Itali&#235; tijdens de tattoodate van Eveline en Bart in B&amp;B vol liefde. De twee spraken hun ..."
+        },
+        {
+          "title": "Uitbater van deze bekende theetuin is &#243;&#243;k manager van beroemd ‘B&amp;B Vol Liefde-kasteel’ van zijn vriend Albert",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/binnenland/uitbater-van-deze-bekende-theetuin-is-ook-manager-van-beroemd-b-b-vol-liefde-kasteel-van-zijn-vriend-albert~a7cd626b/?slug_rd=1",
+          "publishedDate": "Fri, 04 Apr 2025 07:31:00 GMT",
+          "description": "Uitbater van deze bekende theetuin is &#243;&#243;k manager van beroemd ‘B&amp;B Vol Liefde-kasteel’ van zijn vriend Albert Na een heel moeilijk jaar heeft uitbater Rob Frowijn van de bekende Millinger Theetuin er ..."
+        },
+        {
+          "title": "Dave Roelvink breekt neus tijdens boksen en B&amp;B Vol Liefde-Els heeft dubbelganger",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/dave-roelvink-breekt-neus-tijdens-boksen-en-b-b-vol-liefde-els-heeft-dubbelganger~abe947f65/?slug_rd=1",
+          "publishedDate": "Sun, 01 Sep 2024 07:20:00 GMT",
+          "description": "‘Die lijkt niet op Diana, die lijkt h&#233;&#233;l erg op Diana', klonk het in de reacties van B&amp;B vol liefde-deelnemer Els. Onlangs deelde ze een foto van Lady Di en haar volgers zagen veel gelijkenissen. Els ..."
+        },
+        {
+          "title": "B&amp;B Vol Liefde: deze B&amp;B-eigenaar is een Brabander &#233;n komt uit een Quote 500-familie",
+          "source": "ED",
+          "url": "https://www.ed.nl/brabant/b-b-vol-liefde-deze-b-b-eigenaar-is-een-brabander-en-komt-uit-een-quote-500-familie~a4b301f9/?slug_rd=1",
+          "publishedDate": "Tue, 16 Jul 2024 06:55:00 GMT",
+          "description": "B&amp;B Vol Liefde: deze B&amp;B-eigenaar is een Brabander &#233;n komt uit een Quote 500-familie UDEN - Het vierde seizoen van B&amp;B Vol Liefde is in volle gang. En de kijkcijfers gingen bij de eerste afleveringen ..."
+        },
+        {
+          "title": "B&amp;B vol liefde walst over alle programma’s heen: kijkcijferkraker trekt 1,4 miljoen liefhebbers",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/show/b-b-vol-liefde-walst-over-alle-programma-s-heen-kijkcijferkraker-trekt-1-4-miljoen-liefhebbers~ad5677c0/",
+          "publishedDate": "Tue, 16 Jul 2024 03:41:00 GMT",
+          "description": "Het RTL-programma B&amp;B vol liefde is een monsterhit. Maandagavond maakte seizoen 4 de beste start van het programma ooit. Met meer dan 1,4 miljoen kijkers zijn de kijkcijfers verdubbeld ten opzichte ..."
+        },
+        {
+          "title": "Suus uit B&amp;B vol liefde werkt keihard: ‘In de B&amp;B van Debbie gebeurt altijd wat’",
+          "source": "PZC",
+          "url": "https://www.pzc.nl/show/suus-uit-b-b-vol-liefde-werkt-keihard-in-de-b-b-van-debbie-gebeurt-altijd-wat~ac1425d1/?slug_rd=1",
+          "publishedDate": "Thu, 21 Dec 2023 20:41:00 GMT",
+          "description": "Ze vond niet de liefde, maar wel een baan. Suus Post, kandidaat in de zomerse reeks van B&amp;B vol liefde, is weer even thuis in Beverwijk bij haar moeder. Ze is net terug uit Spanje waar ze aan het werk ..."
+        },
+        {
+          "title": "Bram (31) vond de liefde niet in B&amp;amp;B Vol Liefde, maar toen was daar plots een ‘Joy-meisje’",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/show/bram-31-vond-de-liefde-niet-in-b-b-vol-liefde-maar-toen-was-daar-plots-een-joy-meisje~a996012a/?slug_rd=1",
+          "publishedDate": "Wed, 06 Sep 2023 07:34:00 GMT",
+          "description": "Bram (31) vond de liefde niet in B&amp;B Vol Liefde, maar toen was daar plots een ‘Joy-meisje’ B&amp;B Vol Liefde-deelnemer Bram Eijgenhuijsen (31) kende het programma helemaal niet. Vrienden tipten RTL over ..."
+        },
+        {
+          "title": "Waar is Cupido toch in B&amp;B vol liefde?",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/show/waar-is-cupido-toch-in-b-b-vol-liefde~a7193567/",
+          "publishedDate": "Thu, 27 Jul 2023 14:46:00 GMT",
+          "description": "Na bijna drie weken B&amp;B vol liefde, de zomerhit van RTL 4, is het de grote vraag: waar is Cupido toch? Dates hunkeren naar liefde, ze komen vol verwachting, maar vertrekken ook elke keer weer bij de ..."
         }
       ]
     }
