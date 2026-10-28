@@ -1,354 +1,9 @@
 {
-  "fetchedAt": "2026-10-28T01:57:40.762Z",
+  "fetchedAt": "2026-10-28T07:58:02.929Z",
   "trends": [
     {
-      "keyword": "quote 500",
-      "trafficLabel": "50K+",
-      "articles": [
-        {
-          "title": "Voor een plek in de Quote 500 loopt bijna geen moderne rijkaard meer weg: ‘Het gaat steeds meer in samenspraak’",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/voor-een-plek-in-de-quote-500-loopt-bijna-geen-moderne-rijkaard-meer-weg-het-gaat-steeds-meer-in-samenspraak~bc32ab78/",
-          "publishedDate": "Tue, 27 Oct 2026 10:12:00 GMT",
-          "description": "De ene ondernemer mijdt de lijst als de pest, de ander rijdt met zijn Porsche vol ordners naar de redactie om zijn plek veilig te stellen. De Quote 500, de lijst met de vijfhonderd rijkste Nederlander ..."
-        },
-        {
-          "title": "Willem Blijdorp is de rijkste in onze regio, maar Quote 500-comeback Kommer Damen het spectaculairst",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/molenlanden/willem-blijdorp-is-de-rijkste-in-onze-regio-maar-quote-500-comeback-kommer-damen-het-spectaculairst~a848077d/",
-          "publishedDate": "Tue, 27 Oct 2026 04:59:00 GMT",
-          "description": "Ondernemer Willem Blijdorp is de rijkste man in de regio Drechtsteden. ‘Miljonairsmagazine’ Quote zet de Dordtenaar in haar bekende Quote 500 op plek 73, met een geschat vermogen van 800 miljoen euro."
-        },
-        {
-          "title": "‘Onbekende’ cryptomiljardair vanuit het niets op de eerste plek in Quote 500",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/nederland/onbekende-cryptomiljardair-vanuit-het-niets-op-de-eerste-plek-in-quote-500~b97a4074/",
-          "publishedDate": "Mon, 26 Oct 2026 23:01:00 GMT",
-          "description": "Nederland telt 56 miljardairs, blijkt uit de nieuwste Quote 500. Dat zijn er vier meer dan vorig jaar. Een vrijwel onbekende cryptomiljardair stoot Charlene de Carvalho-Heineken na 14 jaar van de troo ..."
-        },
-        {
-          "title": "Quote 500 opgeschud door AI-ondernemers en nieuwe rijkste Nederlander",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2636823-quote-500-opgeschud-door-ai-ondernemers-en-nieuwe-rijkste-nederlander",
-          "publishedDate": "Mon, 26 Oct 2026 22:52:00 GMT",
-          "description": "De 500 rijkste Nederlanders zijn afgelopen jaar nog rijker geworden, Nederland telt meer miljardairs en de rijkste Nederlander is dit jaar niet meer Charlene de Carvalho-Heineken maar een nieuwkomer: ..."
-        },
-        {
-          "title": "Crypto en AI schudden Quote 500 op",
-          "source": "Accountancy Vanmorgen",
-          "url": "https://www.accountancyvanmorgen.nl/2026/10/27/crypto-en-ai-schudden-quote-500-op/",
-          "publishedDate": "Tue, 27 Oct 2026 05:56:00 GMT",
-          "description": "Het snelle geld schiet als een raket omhoog in de Quote 500: de nieuwe nummer 1 is een cryptobelegger en een AI-ondernemer is de jongste miljardair ooit in de lijst."
-        },
-        {
-          "title": "Nieuwe allerrijkste Nederlander op Quote 500-lijst: wie is deze mysterieuze Jean-Louis van der Velde?",
-          "source": "Panorama",
-          "url": "https://panorama.nl/artikel/699159/nieuwe-allerrijkste-nederlander-op-quote-500-lijst-wie-is-deze-mysterieuze-jean-louis-van-der-velde",
-          "publishedDate": "Tue, 27 Oct 2026 03:01:00 GMT",
-          "description": "Eigenlijk prijkt biermiljardair Charlene de Carvalho-Heineken jaar in jaar uit op de nummer 1-positie, maar inmiddels is ze ingehaald door Van der Velde. En hard ook."
-        },
-        {
-          "title": "Vier Zwollenaren in Quote 500: samen goed voor 1,7 miljard euro, maar deze familie uit Overijssel is nog veel rijker",
-          "source": "RTV Focus Zwolle",
-          "url": "https://www.rtvfocuszwolle.nl/quote-500-2026-rijkste-zwollenaren-vermogen/",
-          "publishedDate": "Mon, 26 Oct 2026 23:59:00 GMT",
-          "description": "Vier Zwollenaren staan in de Quote 500 van 2026. Samen bezitten ze € 1,71 miljard. Wie zijn ze en welke familie uit Overijssel is nog rijker?"
-        },
-        {
-          "title": "Quote 500 met drie miljardairs en een frietfortuin: dit zijn de allerrijksten van de regio",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2273325/quote-500-met-drie-miljardairs-en-een-frietfortuin-dit-zijn-de-allerrijksten-van-de-regio",
-          "publishedDate": "Mon, 26 Oct 2026 23:26:00 GMT",
-          "description": "Geld maakt niet gelukkig, zo luidt het gezegde. Toch zullen deze regiogenoten en ondernemers met bedrijven in de regio Rijnmond maling hebben aan het spreekwoord. Van Carel Nolet tot Wim Beelen: dit z ..."
-        },
-        {
-          "title": "Geld speelt geen rol(ex): dit is de rijkste Delftenaar uit de Quote 500",
-          "source": "indebuurt",
-          "url": "https://indebuurt.nl/delft/nieuws/geld-speelt-geen-rol-ex-dit-is-de-rijkste-delftenaar-uit-de-quote-500~a28492d6/",
-          "publishedDate": "Mon, 26 Oct 2026 20:43:00 GMT",
-          "description": "Wachten op de uitverkoop in de Jacob Gerritstraat hoeft Chris Oomen (77) niet: hij is de rijkste Delftenaar en staat met zijn immense vermogen in de nieuwste editie van de Quote 500. Daar kan wel een ..."
-        },
-        {
-          "title": "Quote 500 is bekend: dit zijn de 10 rijkste inwoners van onze regio",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/binnenland/quote-500-is-bekend-dit-zijn-de-10-rijkste-inwoners-van-onze-regio~aaed7239/",
-          "publishedDate": "Mon, 26 Oct 2026 18:42:00 GMT",
-          "description": "Een Lochemse beursmiljardair met 4,5 miljard, een Apeldoornse groothandelaar met miljoenen en een Deventenaar die bijna 40 procent zag verdampen. De nieuwe Quote 500 is verschenen. Wie zijn de tien ri ..."
-        }
-      ]
-    },
-    {
-      "keyword": "fleetwood - arsenal",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Arsenal verliest om drone stilgelegd bekerduel na strafschoppen",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/sport/artikel/5661511/arsenal-verliest-om-drone-stilgelegd-bekerduel-na-strafschoppen",
-          "publishedDate": "Tue, 27 Oct 2026 17:00:00 GMT",
-          "description": "Landskampioen Arsenal is in de achtste finales van de League Cup uitgeschakeld door Fleetwood Town, een team uit het vierde niveau in Engeland. De ploeg van trainer Mikel Arteta verloor, met Jurri&#235;n T ..."
-        },
-        {
-          "title": "Bekersprookje in Engeland: vierdeklasser Fleetwood Town schakelt Arsenal uit",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6414620/bekersprookje-in-engeland-vierdeklasser-fleetwood-town-schakelt-arsenal-uit.html",
-          "publishedDate": "Tue, 27 Oct 2026 16:13:00 GMT",
-          "description": "Arsenal is dinsdag in de achtste finales van de League Cup verrassend uitgeschakeld door Fleetwood Town. De huidige nummer achttien van de League Two versloeg de regerend landskampioen van aanvoerder ..."
-        },
-        {
-          "title": "Pijnlijke afgang voor Arsenal: Fleetwood Town knikkert landskampioen uit League Cup na strafschoppen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/pijnlijke-afgang-voor-arsenal-fleetwood-town-knikkert-landskampioen-uit-league-cup-na-strafschoppen~a64909a5/",
-          "publishedDate": "Tue, 27 Oct 2026 09:05:00 GMT",
-          "description": "Arsenal is op pijnlijke wijze uitgeschakeld in de League Cup. Fleetwood Town, dat 18de staat op het vierde niveau van Engeland, was na strafschoppen te sterk voor de landskampioen."
-        },
-        {
-          "title": "Enorme stunt in Engelse beker: kampioen Arsenal eruit tegen League Two-club Fleetwood",
-          "source": "Voetbal Centraal",
-          "url": "https://www.voetbalcentraal.nl/nieuws/1808432/Enorme-stunt-in-Engelse-beker:-kampioen-Arsenal-eruit-tegen-League-Two-club-Fleetwood",
-          "publishedDate": "Tue, 27 Oct 2026 16:55:00 GMT",
-          "description": "Om content en uitingen over online kansspelen volgens wet- en regelgeving te tonen, willen we zeker weten dat je oud genoeg bent. Je kan hoe dan ook onze website bezoeken."
-        },
-        {
-          "title": "Enorme afgang: vierdedivisionist schakelt Arsenal uit in bekertoernooi",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/arsenal-treft-fleetwood-town-carabao-cup",
-          "publishedDate": "Tue, 27 Oct 2026 16:21:00 GMT",
-          "description": "Arsenal is dinsdagavond in de achtste finale van de Carabao Cup keihard onderuitgegaan tegen vierdedivisionist Fleetwood Town. De regerend kampioen van de Premier League kwam op het Highbury ..."
-        },
-        {
-          "title": "Totale afgang voor Arsenal in EFL Cup",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/totale-afgang-voor-arsenal-in-efl-cup/ar-AA2gcjSu",
-          "publishedDate": "Tue, 27 Oct 2026 15:36:46 GMT",
-          "description": "Arsenal heeft zich geblameerd in de vierde ronde van de EFL Cup. De regerend landskampioen kwam tegen vierdeklasser Fleetwood Town niet verder dan een 1-1 gelijkspel en verloor daarna in de strafschop ..."
-        },
-        {
-          "title": "XXL-verrassing in Engeland: Arsenal uitgeschakeld door nummer 18 van League Two",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/xxl-verrassing-in-engeland-arsenal-uitgeschakeld-door-nummer-18-van-league-two/ar-AA2gbX9F",
-          "publishedDate": "Tue, 27 Oct 2026 15:11:02 GMT",
-          "description": "Fleetwood Town heeft dinsdagavond voor een gigantische stunt gezorgd in Engeland door te winnen van Arsenal. De nummer achttien van de League Two schakelde de regerend landskampioen van Engeland na st ..."
-        },
-        {
-          "title": "Arsenal blameert zich op Highbury en sneuvelt tegen League Two-club",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/arsenal-blameert-zich-op-highbury-en-sneuvelt-tegen-league-two-club",
-          "publishedDate": "Tue, 27 Oct 2026 15:11:00 GMT",
-          "description": "Arsenal heeft zich geblameerd in de Carabao Cup. De landskampioen had het heel zwaar tegen Fleetwood Town, uitkomend op het vierde niveau van Engeland. Een strafschoppenserie op Highbury, geen onbeken ..."
-        },
-        {
-          "title": "Bizarre (en pijnlijke) avond voor Arsenal: drone legt bekermatch 8 minuten stil, vierdeklasser zorgt dan voor gigastunt",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/matches/voetbal/buitenland/eng/carabao-cup/2026-2027/4e-ronde/01/fleetwood-town-arsenal-bizarre-en-pijnlijke-avond-voor-arsenal-drone-legt-bekermatch-8-minuten-stil-vierdeklasser-zorgt-dan-voor-gigastunt~1787907378459/",
-          "publishedDate": "Tue, 27 Oct 2026 14:01:00 GMT",
-          "description": "Volgens de reglementen moet het spel dan gestopt worden, dus greep ref Salisbury in. Daarna ging hij snel in overleg met de coaches en zijn assistenten. Uiteindelijk duurde de onderbreking maar liefst ..."
-        },
-        {
-          "title": "Praat mee op VP: Fleetwood Town – Arsenal",
-          "source": "Voetbalprimeur Netherlands on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-fleetwood-town-arsenal/ar-AA2gbF11",
-          "publishedDate": "Tue, 27 Oct 2026 12:40:00 GMT",
-          "description": "Fleetwood Town en Arsenal staan dinsdagavond tegenover elkaar in de League Cup. De wedstrijd begint om 21.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
-        }
-      ]
-    },
-    {
-      "keyword": "essent",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Gasprijs op hoogste punt in twee jaar, Essent waarschuwt: deel consumenten laat kachel uit",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/gasprijs-op-hoogste-punt-in-twee-jaar-essent-waarschuwt-deel-consumenten-laat-kachel-uit/ar-AA2fXX29",
-          "publishedDate": "Sat, 24 Oct 2026 03:24:24 GMT",
-          "description": "De gasprijs staat op het hoogste niveau in zeker twee jaar tijd. Huishoudens maken zich grote zorgen over de winter, meldt energiebedrijf Essent op basis van een enqu&#234;te. Een kwart van de mensen zet d ..."
-        },
-        {
-          "title": "Essent blijft hoofdsponsor van schaatsploeg Kramer tot en met Spelen in Thialf",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/schaatsen/6412221/essent-blijft-hoofdsponsor-van-schaatsploeg-kramer-tot-en-met-spelen-in-thialf.html",
-          "publishedDate": "Tue, 06 Oct 2026 09:24:00 GMT",
-          "description": "Essent blijft tot en met de Olympische Winterspelen van 2030 de hoofdsponsor van de schaatsploeg van sportief directeur Sven Kramer en coach Jac Orie. De energieleverancier heeft het contract met drie ..."
-        },
-        {
-          "title": "Essent blijft schaatsploeg trouw tot en met volgende Winterspelen: ‘Had ik eigenlijk niet durven dromen’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/schaatsen/essent-blijft-schaatsploeg-trouw-tot-en-met-volgende-winterspelen-had-ik-eigenlijk-niet-durven-dromen~adfc9683/",
-          "publishedDate": "Tue, 06 Oct 2026 00:29:00 GMT",
-          "description": "Energieleverancier Essent blijft de schaatsploeg rond Joep Wennemars en Suzanne Schulting nog zeker trouw tot en met de volgende Winterspelen in 2030. ,,Niet vanzelfsprekend na pas twee seizoenen, maa ..."
-        },
-        {
-          "title": "Essent verhoogt tarieven vast contract: dit betaal je nu extra",
-          "source": "Energievergelijk.nl",
-          "url": "https://www.energievergelijk.nl/nieuws/essent-verhoogt-tarieven-vast-contract-dit-betaal-je-nu-extra",
-          "publishedDate": "Tue, 27 Oct 2026 01:28:00 GMT",
-          "description": "Essent heeft de tarieven van zijn vaste contracten opnieuw verhoogd. Sinds vandaag, dinsdag 27 oktober, kost gas op het jaarcontract precies € 1,900 per m&#179;. Dat is een stijging van bijna 7 cent met gi ..."
-        },
-        {
-          "title": "Zonnepaneelbezitters passen stroomgebruik massaal aan in aanloop naar einde salderingsregeling",
-          "source": "Solar Magazine",
-          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45186/zonnepaneelbezitters-passen-stroomgebruik-massaal-aan-in-aanloop-naar-einde-salderingsregeling",
-          "publishedDate": "Sun, 25 Oct 2026 23:59:00 GMT",
-          "description": "Enkele maanden voor het einde van de salderingsregeling komen zonnepaneelbezitters in actie. Inmiddels gebruikt 68 procent huishoudelijke apparaten bewust vaker als de zon schijnt, blijkt uit onderzoe ..."
-        },
-        {
-          "title": "Energiebedrijf Essent stapt in openbaar snelladen",
-          "source": ".ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/geldzaken/nieuws/energiebedrijf-essent-stapt-in-openbaar-snelladen/ar-AA2dNDh9",
-          "publishedDate": "Thu, 08 Oct 2026 01:36:00 GMT",
-          "description": "DEN BOSCH (ANP) - Energiebedrijf Essent breidt zijn diensten uit met snelladen voor elektrische auto's. Zusterbedrijf E.ON Drive Infrastructure neemt het voormalige snellaadnetwerk van BP over en gaat ..."
-        },
-        {
-          "title": "Essent geeft consument 5 eurocent per kilowattuur voor uitzetten zonnepanelen met nieuwe dienst Slim Terugleveren",
-          "source": "solarmagazine",
-          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i44710/essent-geeft-consument-5-eurocent-per-kilowattuur-voor-uitzetten-zonnepanelen-met-nieuwe-dienst-slim-terugleveren",
-          "publishedDate": "Sun, 06 Sep 2026 23:16:00 GMT",
-          "description": "Essent introduceert een dienst waarbij zonnepanelen automatisch worden gedimd op dagen met veel opwek. Klanten ontvangen per gedimde kilowattuur 5 eurocent, flink meer dan de gewone ..."
-        },
-        {
-          "title": "Meeluisteren bij platgebelde callcenter van Essent: ‘29 euro meer aan energiekosten? Ik heb alleen AOW’",
-          "source": "AD",
-          "url": "https://www.ad.nl/economie/meeluisteren-bij-platgebelde-callcenter-van-essent-29-euro-meer-aan-energiekosten-ik-heb-alleen-aow~a95474f8/",
-          "publishedDate": "Mon, 20 Apr 2026 23:23:00 GMT",
-          "description": "Energiebedrijven hebben de handen vol aan klanten die vanwege de energiecrisis snel een nieuw vast contract willen afsluiten. Economieverslaggever Ton Voermans liep een dag mee bij de klantenservice ..."
-        },
-        {
-          "title": "Essent verlaagt gas- en stroomtarief voor mensen met variabel contract",
-          "source": "NU",
-          "url": "https://www.nu.nl/economie/6376630/essent-verlaagt-gas-en-stroomtarief-voor-mensen-met-variabel-contract.html",
-          "publishedDate": "Thu, 20 Nov 2025 06:44:00 GMT",
-          "description": "Energieleverancier Essent verlaagt begin volgend jaar de gas- en stroomtarieven voor klanten met een variabel contract. Dat komt onder meer door gunstige omstandigheden op de energiemarkt. Klanten van ..."
-        },
-        {
-          "title": "Koers Essent Group Ltd.",
-          "source": "nl.marketscreener",
-          "url": "https://nl.marketscreener.com/koers/aandeel/ESSENT-GROUP-LTD-14742756/",
-          "publishedDate": "Sun, 06 Jul 2025 17:01:00 GMT",
-          "description": "07/08 Winst en omzet Essent Group stijgen in tweede kwartaal MT 07/08 Winstcijfers (ESNT): Essent Group rapporteert winst per aandeel van 2,08 $ over het tweede kwartaal, tegenover een ..."
-        }
-      ]
-    },
-    {
-      "keyword": "brandstof",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Veel landen verlagen brandstofbelasting, maar 'hoge prijzen hebben een functie'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6410737/veel-landen-verlagen-brandstofbelasting-maar-hoge-prijzen-hebben-een-functie.html",
-          "publishedDate": "Sat, 26 Sep 2026 22:00:00 GMT",
-          "description": "Brandstof wordt duurder en steeds meer landen proberen automobilisten daarvoor te behoeden. Dat klinkt aantrekkelijk, maar de korting komt niet automatisch terecht bij wie die het hardst nodig heeft."
-        },
-        {
-          "title": "Indonesisch ministerie van Energie overweegt extra quotum voor gesubsidieerde brandstof nu de vraag stijgt",
-          "source": "MarketScreener",
-          "url": "https://nl.marketscreener.com/beursnieuws/indonesisch-ministerie-van-energie-overweegt-extra-quotum-voor-gesubsidieerde-brandstof-nu-de-vraag-ce785cded089f720",
-          "publishedDate": "Fri, 23 Oct 2026 01:51:00 GMT",
-          "description": "De Indonesische minister van Energie zei vrijdag dat hij overweegt een extra quotum voor gesubsidieerde brandstof voor dit jaar aan te vragen, nu consumenten op zoek zijn naar goedkopere opties."
-        },
-        {
-          "title": "Twee Italiaanse vliegvelden hebben geen brandstof meer, wat tot grote bezorgdheid leidt: vluchten worden bedreigd.",
-          "source": "Notizie.it",
-          "url": "https://www.notizie.it/nl/Italiaanse-luchthavens-zonder-brandstof-activeren-waarschuwing-voor-vliegrisico%27s/",
-          "publishedDate": "Wed, 21 Oct 2026 06:13:00 GMT",
-          "description": "De stijgende brandstofprijzen en protesten zorgen voor onrust op luchthavens in het zuiden: ENAV dringt er bij piloten op aan om tankbeurten te plannen. Dit kan gevolgen hebben voor het luchtverkeer."
-        },
-        {
-          "title": "F-35’s vliegen op met bio-kerosine bijgemengde brandstof",
-          "source": "Piloot en Vliegtuig",
-          "url": "https://www.pilootenvliegtuig.nl/militair/leeuwarder-f-35s-vliegen-met-bio-kerosine-bijgemengde-brandstof/",
-          "publishedDate": "Mon, 19 Oct 2026 08:00:00 GMT",
-          "description": "LEEUWARDEN - De eerste grote levering van met bio-kerosine bijgemengde brandstof is sinds kort beschikbaar voor de F-35 gevechtsvliegtuigen op Vliegbasis ..."
-        },
-        {
-          "title": "Laat de burger niet bloeden voor brandstof",
-          "source": "Dagblad Suriname",
-          "url": "https://www.dbsuriname.com/2026/10/19/laat-de-burger-niet-bloeden-voor-brandstof-2/",
-          "publishedDate": "Mon, 19 Oct 2026 06:54:00 GMT",
-          "description": "De Surinaamse regering waarschuwt: het prijsplafond voor brandstof is &quot;mogelijk onhoudbaar&quot;. Mogelijk. Onhoudbaar. Alsof de burger een laboratoriumrat is in een experiment waarvan de uitkomst al vasts ..."
-        },
-        {
-          "title": "Lufthansa laat vliegtuigen extra brandstof meenemen door beperkingen in Frankfurt",
-          "source": "Flightlevel",
-          "url": "https://flightlevel.be/artikel/lufthansa-laat-vliegtuigen-extra-brandstof-meenemen-door-beperkingen-in-frankfurt",
-          "publishedDate": "Thu, 15 Oct 2026 07:43:00 GMT",
-          "description": "Lufthansa laat vliegtuigen op sommige vluchten naar Frankfurt extra brandstof, zogenaamde tankering fuel, meenemen. De Duitse luchtvaartmaatschappij neemt de ..."
-        },
-        {
-          "title": "Politie zoekt verdachten na diefstal van 22.000 liter brandstof in Ruurlo",
-          "source": "Nieuws uit Berkelland",
-          "url": "https://www.nieuwsuitberkelland.nl/2026/10/politie-zoekt-verdachten-na-diefstal-van-22-000-liter-brandstof-in-ruurlo/",
-          "publishedDate": "Mon, 12 Oct 2026 10:24:00 GMT",
-          "description": "RUURLO – De politie is op zoek naar meerdere personen die mogelijk betrokken zijn bij de diefstal van maar liefst 22.000 liter brandstof bij een onbemand tankstation in Ruurlo. Volgens Politie Gelderl ..."
-        },
-        {
-          "title": "Bij deel Franse tankstations is niet alle brandstof meer te krijgen",
-          "source": "NU",
-          "url": "https://www.nu.nl/economie/6410491/bij-deel-franse-tankstations-is-niet-alle-brandstof-meer-te-krijgen.html",
-          "publishedDate": "Mon, 21 Sep 2026 09:17:00 GMT",
-          "description": "Bij ongeveer 15 procent van de Franse tankstations was zondag minstens &#233;&#233;n soort brandstof niet beschikbaar. Dat percentage is de afgelopen dagen snel opgelopen: vrijdag ging het nog om 11 procent."
-        },
-        {
-          "title": "Komt de korting van 20 cent per liter brandstof in Spanje weer terug?",
-          "source": "spanjevandaag",
-          "url": "https://www.spanjevandaag.com/17/03/2026/komt-de-korting-van-20-cent-per-liter-brandstof-in-spanje-weer-terug/",
-          "publishedDate": "Tue, 17 Mar 2026 03:11:00 GMT",
-          "description": "De stijgende brandstofprijzen zorgen opnieuw voor veel discussie in Spanje. Veel automobilisten vragen zich af of de regering opnieuw een korting van 20 cent per liter gaat invoeren, zoals dat in 2022 ..."
-        },
-        {
-          "title": "CO2-neutrale brandstof maakt dure elektrische auto overbodig",
-          "source": "Auto55",
-          "url": "https://www.auto55.be/nieuws/34532-co2-neutrale-brandstof-maakt-dure-elektrische-auto-overbodig",
-          "publishedDate": "Thu, 29 Dec 2022 16:00:00 GMT",
-          "description": "Als het van Europa afhangt, dan kan je vanaf 2035 alleen nog maar een elektrische auto kopen. Eender voor wat je je auto wil of moet gebruiken. Omwille van de druk die zo’n geforceerde omschakeling ..."
-        }
-      ]
-    },
-    {
-      "keyword": "waal",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Gemeente West Maas en Waal houdt ondernemersbijeenkomst in Appeltern",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/west-maas-en-waal/gemeente-west-maas-en-waal-houdt-ondernemersbijeenkomst-in-appeltern~a3a3637e/",
-          "publishedDate": "Tue, 27 Oct 2026 07:06:00 GMT",
-          "description": "De gemeente West Maas en Waal houdt een bijeenkomst voor ondernemers vanwege de Dag van de Ondernemer. Vrijdag 20 november zijn ondernemers uit de gemeente welkom bij Moeke Mooren aan Blauwe Sluis 1B ..."
-        },
-        {
-          "title": "Plan om van kerk van De Waal multifunctioneel dorpshuis te maken krijgt vorm",
-          "source": "Texelse Courant",
-          "url": "https://www.texelsecourant.nl/nieuws/algemeen/337661/plan-om-van-kerk-van-de-waal-multifunctioneel-dorpshuis-te-maken-krijgt-vorm",
-          "publishedDate": "Fri, 23 Oct 2026 07:01:00 GMT",
-          "description": "Transformatie van de kerk van De Waal tot multifunctioneel dorpshuis, ‘met minimale impact en maximale veerkracht voor de toekomst’. ‘De Bellevue - Een huis voor De Waal, een plek voor heel Texel’,.."
-        },
-        {
-          "title": "Gecrashte crosser De Waal had nog nooit zoveel pijn, maar schrikt niet van botbreuk meer of minder",
-          "source": "Omroep Zeeland",
-          "url": "https://www.omroepzeeland.nl/nieuws/18872745/gecrashte-crosser-de-waal-had-nog-nooit-zoveel-pijn-maar-schrikt-niet-van-botbreuk-meer-of-minder",
-          "publishedDate": "Mon, 19 Oct 2026 10:12:00 GMT",
-          "description": "Micha Boy de Waal speelde zondag een hoofdrol tijdens de Strandcross van Vlissingen, maar niet op de manier die de coureur uit Kloosterzande wilde."
-        },
-        {
-          "title": "Lichaam aangetroffen in de Waal, politie doet onderzoek",
-          "source": "GelreNieuws.nl",
-          "url": "https://www.gelrenieuws.nl/2026/10/lichaam-aangetroffen-in-de-waal-politie-doet-onderzoek.html",
-          "publishedDate": "Fri, 16 Oct 2026 12:10:00 GMT",
-          "description": "HAAFTEN – In de Waal bij Haaften is vrijdagmiddag het lichaam van een onbekende persoon gevonden. Het lichaam werd rond 17:30 uur aangetroffen. De politie heeft nog geen informatie bekendgemaakt over ..."
-        },
-        {
-          "title": "Lichaam gevonden in Waal bij Hellouw, politie doet onderzoek",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/zaltbommel/lichaam-gevonden-in-waal-bij-hellouw-politie-doet-onderzoek~a1351114/",
-          "publishedDate": "Fri, 16 Oct 2026 05:06:00 GMT",
-          "description": "In de Waal is vrijdagmiddag ter hoogte van het Gelderse Hellouw een levenloos lichaam gevonden. De politie doet onderzoek op de locatie. Ook de brandweer kwam met meerdere voertuigen ter plekke."
-        }
-      ]
-    },
-    {
       "keyword": "kitesurfer scheveningen",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
         {
           "title": "Spullen van vermiste kitesurfer (18) gevonden, zoekactie gestaakt",
@@ -372,25 +27,18 @@
           "description": "In de zoektocht naar de vermiste kitesurfer bij Scheveningen zijn spullen van de kitesurfer gevonden. Dit meldt een woordvoerder van de politie. De zoektocht naar de 18-jarige man is dinsdag rond het ..."
         },
         {
+          "title": "Zoekactie naar vermiste kitesurfer gestaakt vanwege weersomstandigheden",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/binnenland/6414435/zoekactie-naar-vermiste-kitesurfer-gestaakt-vanwege-weersomstandigheden.html",
+          "publishedDate": "Mon, 26 Oct 2026 05:58:00 GMT",
+          "description": "De zoekactie naar de vermiste watersporter voor de kust van Scheveningen is maandagochtend opnieuw gestaakt vanwege de weersomstandigheden. De vermiste persoon is nog niet gevonden, meldt de politie."
+        },
+        {
           "title": "Zoektocht naar vermiste kitesurfer opnieuw gestaakt: 'Niet veilig genoeg'",
           "source": "NOS",
           "url": "https://nos.nl/artikel/2636714-zoektocht-naar-vermiste-kitesurfer-opnieuw-gestaakt-niet-veilig-genoeg",
           "publishedDate": "Mon, 26 Oct 2026 01:58:00 GMT",
           "description": "Gisteravond werd de zoektocht ook gestaakt omdat de harde wind en hoge golven te gevaarlijk werden in combinatie met schemering."
-        },
-        {
-          "title": "Spullen van vermiste kitesurfer (18) bij Scheveningen aangetroffen",
-          "source": "FOK!",
-          "url": "https://frontpage.fok.nl/nieuws/894892/1/1/50/spullen-van-vermiste-kitesurfer-18-bij-scheveningen-aangetroffen.html",
-          "publishedDate": "Tue, 27 Oct 2026 11:53:00 GMT",
-          "description": "Bij de zoektocht naar de vermiste kitesurfer bij Scheveningen zijn dinsdag onder meer het kiteboard en de kite van de 18-jarige jongen gevonden. Dat meldt een woordvoerder van de politie aan persburea ..."
-        },
-        {
-          "title": "Vermiste surfer is 18-jarige jongen, familie reageert: 'Dankbaar voor alle steun'",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/112/5167728/vermiste-surfer-is-18-jarige-jongen-familie-reageert-dankbaar-voor-alle-steun",
-          "publishedDate": "Tue, 27 Oct 2026 08:03:00 GMT",
-          "description": "De vermiste kitesurfer bij Scheveningen is een 18-jarige jongen. Dat is dinsdag bekendgemaakt. De familie van het slachtoffer zegt te leven tussen hoop en vrees, maar ook dat ze 'sterk rekening houdt ..."
         },
         {
           "title": "Spullen van vermiste kitesurfer gevonden, politie: kans klein dat hij nog leeft",
@@ -417,84 +65,429 @@
           "title": "Zoektocht naar kitesurfer bij Scheveningen opnieuw stilgelegd",
           "source": "Hart van Nederland",
           "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/vermiste-watersporter-scheveningen-zoektocht-hervat",
-          "publishedDate": "Mon, 26 Oct 2026 01:31:00 GMT",
+          "publishedDate": "Mon, 26 Oct 2026 07:40:00 GMT",
           "description": "De zoektocht naar een vermiste watersporter bij Scheveningen is maandagochtend hervat. Door de hoge golven kunnen duikers voorlopig niet worden ingezet."
+        },
+        {
+          "title": "Grote zoekactie naar vermiste kitesurfer bij havenhoofden",
+          "source": "De Scheveninger",
+          "url": "https://www.de-scheveninger.nl/nieuws/algemeen/19039/grote-zoekactie-naar-vermiste-kitesurfer-bij-havenhoofden",
+          "publishedDate": "Mon, 26 Oct 2026 05:15:00 GMT",
+          "description": "Voor de kust van Scheveningen is zondagmiddag een grote zoekactie op touw gezet naar een vermiste 18-jarige kitesurfer. De jongeman raakte vermoedelijk rond 14."
         }
       ]
     },
     {
-      "keyword": "excelsior 31",
+      "keyword": "fleetwood - arsenal",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Fleetwood Town van vierde niveau stunt tegen landskampioen Arsenal",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/sport/artikel/5661511/arsenal-verliest-om-drone-stilgelegd-bekerduel-na-strafschoppen",
+          "publishedDate": "Tue, 27 Oct 2026 17:27:00 GMT",
+          "description": "Landskampioen Arsenal is in de achtste finales van de League Cup uitgeschakeld door Fleetwood Town, een team uit het vierde niveau in Engeland. De ploeg van trainer Mikel Arteta verloor, met Jurri&#235;n T ..."
+        },
+        {
+          "title": "Bekersprookje in Engeland: vierdeklasser Fleetwood Town schakelt Arsenal uit",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6414620/bekersprookje-in-engeland-vierdeklasser-fleetwood-town-schakelt-arsenal-uit.html",
+          "publishedDate": "Tue, 27 Oct 2026 16:13:00 GMT",
+          "description": "Arsenal is dinsdag in de achtste finales van de League Cup verrassend uitgeschakeld door Fleetwood Town. De huidige nummer achttien van de League Two versloeg de regerend landskampioen van aanvoerder ..."
+        },
+        {
+          "title": "Enorme stunt in Engelse beker: kampioen Arsenal eruit tegen League Two-club Fleetwood",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636953-enorme-stunt-in-engelse-beker-kampioen-arsenal-eruit-tegen-league-two-club-fleetwood",
+          "publishedDate": "Tue, 27 Oct 2026 15:55:00 GMT",
+          "description": "Fleetwood Town, uitkomend op het vierde niveau, wint na strafschoppen van landskampioen Arsenal in de League Cup."
+        },
+        {
+          "title": "Spelers Fleetwood in extase na megastunt tegen Arsenal: 'Ben mijn stem kwijt'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6414635/spelers-fleetwood-in-extase-na-megastunt-tegen-arsenal-ben-mijn-stem-kwijt.html",
+          "publishedDate": "Tue, 27 Oct 2026 11:43:00 GMT",
+          "description": "De spelers en staf van Fleetwood Town konden hun geluk niet op na de bekerstunt in de League Cup tegen Arsenal. De huidige nummer achttien van de League Two versloeg de landskampioen in een strafschop ..."
+        },
+        {
+          "title": "Fleetwood lyncht Arsenal in League Cup: 'Meest bijzondere avond uit geschiedenis'",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/fleetwood-lyncht-arsenal-in-league-cup-meest-bijzondere-avond-uit-geschiedenis/ar-AA2gdtjG",
+          "publishedDate": "Tue, 27 Oct 2026 23:41:00 GMT",
+          "description": "Fleetwood Town heeft volgens manager Matthew Lawlor de meest bijzondere avond in de clubgeschiedenis beleefd door Arsenal in de achtste finale van de League Cup uit te schakelen. Lawlor en doelman Jay ..."
+        },
+        {
+          "title": "Engelse pers keihard na historische Arsenal-afgang: 'E&#233;n van grootste stunts ooit'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/engelse-pers-keihard-na-historische-arsenal-afgang-e%C3%A9n-van-grootste-stunts-ooit/ar-AA2gdlvo",
+          "publishedDate": "Tue, 27 Oct 2026 23:37:00 GMT",
+          "description": "De Engelse media zijn vol ongeloof na de historische bekeruitschakeling van Arsenal. De regerend landskampioen van Engeland ging dinsdagavond na strafschoppen onderuit tegen Fleetwood Town, dat maar l ..."
+        },
+        {
+          "title": "VIDEO: Samenvatting Fleetwood Town* – Arsenal (1-1 *wint na strafschoppen)",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/10/28/video-samenvatting-fleetwood-town-arsenal-1-1-wint-na-strafschoppen/",
+          "publishedDate": "Tue, 27 Oct 2026 17:50:00 GMT",
+          "description": "Een daverende verrassing gisteren in de strijd om de Carabao Cup. Laagvlieger Fleetwood Town wist namelijk het grote ..."
+        },
+        {
+          "title": "Enorme afgang: vierdedivisionist schakelt Arsenal uit in bekertoernooi",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/arsenal-treft-fleetwood-town-carabao-cup",
+          "publishedDate": "Tue, 27 Oct 2026 16:21:00 GMT",
+          "description": "Arsenal is dinsdagavond in de achtste finale van de Carabao Cup keihard onderuitgegaan tegen vierdedivisionist Fleetwood Town. De regerend kampioen van de Premier League kwam op het Highbury ..."
+        },
+        {
+          "title": "Bizarre (en pijnlijke) avond voor Arsenal: drone legt bekermatch 8 minuten stil, vierdeklasser zorgt dan voor gigastunt",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/matches/voetbal/buitenland/eng/carabao-cup/2026-2027/4e-ronde/01/fleetwood-town-arsenal-bizarre-en-pijnlijke-avond-voor-arsenal-drone-legt-bekermatch-8-minuten-stil-vierdeklasser-zorgt-dan-voor-gigastunt~1787907378459/",
+          "publishedDate": "Tue, 27 Oct 2026 14:01:00 GMT",
+          "description": "Volgens de reglementen moet het spel dan gestopt worden, dus greep ref Salisbury in. Daarna ging hij snel in overleg met de coaches en zijn assistenten. Uiteindelijk duurde de onderbreking maar liefst ..."
+        },
+        {
+          "title": "Praat mee op VP: Fleetwood Town – Arsenal",
+          "source": "Voetbalprimeur Netherlands on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-fleetwood-town-arsenal/ar-AA2gbF11",
+          "publishedDate": "Tue, 27 Oct 2026 12:40:00 GMT",
+          "description": "Fleetwood Town en Arsenal staan dinsdagavond tegenover elkaar in de League Cup. De wedstrijd begint om 21.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+        }
+      ]
+    },
+    {
+      "keyword": "essent",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Essent blijft hoofdsponsor van schaatsploeg Kramer tot en met Spelen in Thialf",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/schaatsen/6412221/essent-blijft-hoofdsponsor-van-schaatsploeg-kramer-tot-en-met-spelen-in-thialf.html",
+          "publishedDate": "Tue, 06 Oct 2026 09:24:00 GMT",
+          "description": "Essent blijft tot en met de Olympische Winterspelen van 2030 de hoofdsponsor van de schaatsploeg van sportief directeur Sven Kramer en coach Jac Orie. De energieleverancier heeft het contract met drie ..."
+        },
+        {
+          "title": "Essent blijft schaatsploeg trouw tot en met volgende Winterspelen: ‘Had ik eigenlijk niet durven dromen’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/schaatsen/essent-blijft-schaatsploeg-trouw-tot-en-met-volgende-winterspelen-had-ik-eigenlijk-niet-durven-dromen~adfc9683/",
+          "publishedDate": "Tue, 06 Oct 2026 00:29:00 GMT",
+          "description": "Energieleverancier Essent blijft de schaatsploeg rond Joep Wennemars en Suzanne Schulting nog zeker trouw tot en met de volgende Winterspelen in 2030. ,,Niet vanzelfsprekend na pas twee seizoenen, maa ..."
+        },
+        {
+          "title": "Gasprijs schiet omhoog: Essent verhoogt tarieven voor derde keer in twaalf dagen",
+          "source": "RTV Focus Zwolle",
+          "url": "https://www.rtvfocuszwolle.nl/gasprijs-stijgt-essent-energiecontract-tarieven-oktober-2026/",
+          "publishedDate": "Tue, 27 Oct 2026 11:00:00 GMT",
+          "description": "Essent verhoogt voor de derde keer in twaalf dagen zijn vaste energietarieven. Gas kost nu € 1,90 per kuub. Wat betekent dit voor jouw energierekening?"
+        },
+        {
+          "title": "Essent verhoogt tarieven vast contract: dit betaal je nu extra",
+          "source": "Energievergelijk.nl",
+          "url": "https://www.energievergelijk.nl/nieuws/essent-verhoogt-tarieven-vast-contract-dit-betaal-je-nu-extra",
+          "publishedDate": "Tue, 27 Oct 2026 01:28:00 GMT",
+          "description": "Essent heeft de tarieven van zijn vaste contracten opnieuw verhoogd. Sinds vandaag, dinsdag 27 oktober, kost gas op het jaarcontract precies € 1,900 per m&#179;. Dat is een stijging van bijna 7 cent met gi ..."
+        },
+        {
+          "title": "Zonnepaneelbezitters passen stroomgebruik massaal aan in aanloop naar einde salderingsregeling",
+          "source": "Solar Magazine",
+          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45186/zonnepaneelbezitters-passen-stroomgebruik-massaal-aan-in-aanloop-naar-einde-salderingsregeling",
+          "publishedDate": "Sun, 25 Oct 2026 23:59:00 GMT",
+          "description": "Enkele maanden voor het einde van de salderingsregeling komen zonnepaneelbezitters in actie. Inmiddels gebruikt 68 procent huishoudelijke apparaten bewust vaker als de zon schijnt, blijkt uit onderzoe ..."
+        },
+        {
+          "title": "Gasprijs op hoogste punt in twee jaar, deel consumenten laat kachel uit",
+          "source": "rtl",
+          "url": "https://www.rtl.nl/nieuws/economie/artikel/5660806/gasprijs-op-hoogste-punt-2-jaar-essent-waarschuwt-voor-consumenten",
+          "publishedDate": "Sat, 24 Oct 2026 03:24:00 GMT",
+          "description": "De gasprijs staat op het hoogste niveau in zeker twee jaar tijd. Huishoudens maken zich grote zorgen over de winter, meldt energiebedrijf Essent op basis van een enqu&#234;te. Een kwart van de mensen zet ..."
+        },
+        {
+          "title": "Schaatsteam van Jac Orie en Sven Kramer deelt groot nieuws: 'Niet durven dromen'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/schaatsen/nieuws/schaatsteam-van-jac-orie-en-sven-kramer-deelt-groot-nieuws-niet-durven-dromen-2026100614171300115/",
+          "publishedDate": "Tue, 06 Oct 2026 09:20:00 GMT",
+          "description": "Schaatsteam Essent heeft bij de ploegpresentatie dinsdag groot nieuws bekendgemaakt. Hoofdsponsor Essent heeft bijgetekend tot 2030. Daardoor blijft het team van coach Jac Orie en topschaatsers als Jo ..."
+        },
+        {
+          "title": "Meeluisteren bij platgebelde callcenter van Essent: ‘29 euro meer aan energiekosten? Ik heb alleen AOW’",
+          "source": "AD",
+          "url": "https://www.ad.nl/economie/meeluisteren-bij-platgebelde-callcenter-van-essent-29-euro-meer-aan-energiekosten-ik-heb-alleen-aow~a95474f8/",
+          "publishedDate": "Mon, 20 Apr 2026 23:23:00 GMT",
+          "description": "Energiebedrijven hebben de handen vol aan klanten die vanwege de energiecrisis snel een nieuw vast contract willen afsluiten. Economieverslaggever Ton Voermans liep een dag mee bij de klantenservice ..."
+        },
+        {
+          "title": "Essent verlaagt gas- en stroomtarief voor mensen met variabel contract",
+          "source": "NU",
+          "url": "https://www.nu.nl/economie/6376630/essent-verlaagt-gas-en-stroomtarief-voor-mensen-met-variabel-contract.html",
+          "publishedDate": "Thu, 20 Nov 2025 06:44:00 GMT",
+          "description": "Energieleverancier Essent verlaagt begin volgend jaar de gas- en stroomtarieven voor klanten met een variabel contract. Dat komt onder meer door gunstige omstandigheden op de energiemarkt. Klanten van ..."
+        },
+        {
+          "title": "Koers Essent Group Ltd.",
+          "source": "nl.marketscreener",
+          "url": "https://nl.marketscreener.com/koers/aandeel/ESSENT-GROUP-LTD-14742756/",
+          "publishedDate": "Sun, 06 Jul 2025 17:01:00 GMT",
+          "description": "07/08 Winst en omzet Essent Group stijgen in tweede kwartaal MT 07/08 Winstcijfers (ESNT): Essent Group rapporteert winst per aandeel van 2,08 $ over het tweede kwartaal, tegenover een ..."
+        }
+      ]
+    },
+    {
+      "keyword": "waal",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Amateurs Excelsior'31 schakelen eredivisionist ADO uit • Wereldgoals bij Willem II en Eindhoven",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2636918-amateurs-excelsior-31-schakelen-eredivisionist-ado-uit-wereldgoals-bij-willem-ii-en-eindhoven",
-          "publishedDate": "Tue, 27 Oct 2026 12:45:00 GMT",
-          "description": "De laatste ontmoeting was in 2022, toen ADO het in de eerste ronde van de beker behoorlijk lastig had op De Koerbelt: Excelsior'31 kwam twee keer op voorsprong, maar ADO bekerde door. De boomlange ..."
+          "title": "Gemeente West Maas en Waal houdt ondernemersbijeenkomst in Appeltern",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/west-maas-en-waal/gemeente-west-maas-en-waal-houdt-ondernemersbijeenkomst-in-appeltern~a3a3637e/",
+          "publishedDate": "Tue, 27 Oct 2026 07:06:00 GMT",
+          "description": "De gemeente West Maas en Waal houdt een bijeenkomst voor ondernemers vanwege de Dag van de Ondernemer. Vrijdag 20 november zijn ondernemers uit de gemeente welkom bij Moeke Mooren aan Blauwe Sluis 1B ..."
         },
         {
-          "title": "Megastunt in Rijssen: amateurvoetballers Excelsior’31 schakelen eredivisieclub ADO Den Haag uit",
+          "title": "Boek ‘Wee den vergetenen!’ digitaal beschikbaar",
+          "source": "De Maas en Waler",
+          "url": "https://www.demaasenwaler.nl/nieuws/historie/64176/boek-wee-den-vergetenen-digitaal-beschikbaar",
+          "publishedDate": "Tue, 27 Oct 2026 05:20:00 GMT",
+          "description": "MAAS EN WAAL – Het boek ‘Wee den vergetenen!’ van journalist Huub van Heiningen is voortaan ook digitaal verkrijgbaar."
+        },
+        {
+          "title": "Meer zorgen in West Maas en Waal over emotionele mishandeling: in zes maanden vijftien belletjes",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/west-maas-en-waal/meer-zorgen-in-west-maas-en-waal-over-emotionele-mishandeling-in-zes-maanden-vijftien-belletjes~a4c5814c/",
+          "publishedDate": "Mon, 26 Oct 2026 03:30:00 GMT",
+          "description": "Dwingende controle, intimidatie of vernedering: elk kwartier belt of chat iemand in Nederland met Veilig Thuis vanwege emotionele mishandeling door een partner of een ex. In West Maas en Waal is het a ..."
+        },
+        {
+          "title": "Lichaam aangetroffen in de Waal, politie doet onderzoek",
+          "source": "GelreNieuws.nl",
+          "url": "https://www.gelrenieuws.nl/2026/10/lichaam-aangetroffen-in-de-waal-politie-doet-onderzoek.html",
+          "publishedDate": "Fri, 16 Oct 2026 12:10:00 GMT",
+          "description": "HAAFTEN – In de Waal bij Haaften is vrijdagmiddag het lichaam van een onbekende persoon gevonden. Het lichaam werd rond 17:30 uur aangetroffen. De politie heeft nog geen informatie bekendgemaakt over ..."
+        },
+        {
+          "title": "Lichaam gevonden in Waal bij Hellouw, politie doet onderzoek",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/zaltbommel/lichaam-gevonden-in-waal-bij-hellouw-politie-doet-onderzoek~a1351114/",
+          "publishedDate": "Fri, 16 Oct 2026 05:06:00 GMT",
+          "description": "In de Waal is vrijdagmiddag ter hoogte van het Gelderse Hellouw een levenloos lichaam gevonden. De politie doet onderzoek op de locatie. Ook de brandweer kwam met meerdere voertuigen ter plekke."
+        }
+      ]
+    },
+    {
+      "keyword": "acteur",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Star Trek-acteur Walter Koenig op negentigjarige leeftijd overleden",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/achterklap/6414516/star-trek-acteur-walter-koenig-op-negentigjarige-leeftijd-overleden.html",
+          "publishedDate": "Tue, 27 Oct 2026 02:05:00 GMT",
+          "description": "De Amerikaanse acteur Walter Koenig is maandag op negentigjarige leeftijd overleden. Hij was vooral bekend van zijn rol als Pavel Chekov in Star Trek: The Original Series. Koenig stierf een natuurlijk ..."
+        },
+        {
+          "title": "Star Trek-acteur ‘Chekov’ Walter Koenig (90) overleden",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/megastunt-in-rijssen-amateurvoetballers-excelsior31-schakelen-eredivisieclub-ado-den-haag-uit~a7b8c833/",
-          "publishedDate": "Tue, 27 Oct 2026 09:19:00 GMT",
-          "description": "ADO Den Haag is uitgeschakeld in de Eurojackpot KNVB Beker. De eredivisionist liet zich verrassen door Excelsior’31, dat won na strafschoppen (6-5). Net als de voorgaande twee edities is de eerste ron ..."
+          "url": "https://www.ad.nl/show/star-trek-acteur-chekov-walter-koenig-90-overleden~a1924188/",
+          "publishedDate": "Mon, 26 Oct 2026 04:02:00 GMT",
+          "description": "De Amerikaanse acteur Walter Koenig is op 90-jarige leeftijd overleden. Dat heeft zijn management maandag bekendgemaakt. Koenig was voornamelijk bekend van zijn rol als Pavel Chekov in Star Trek: The ..."
         },
         {
-          "title": "Excelsior '31 viert feest na bekerstunt: 'Tegen baas gezegd dat ik thuis blijf'",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/excelsior-31-viert-feest-na-bekerstunt-tegen-baas-gezegd-dat-ik-thuis-blijf/ar-AA2gbAJw",
-          "publishedDate": "Tue, 27 Oct 2026 15:45:37 GMT",
-          "description": "Stan ter Haar kan zijn geluk niet op na de bekerstunt van Excelsior '31 tegen ADO Den Haag. De derdedivisionist was dinsdagavond na strafschoppen te sterk voor de huidige nummer zeventien van de Eredi ..."
+          "title": "Terwijl acteur de moord op ‘Jatti’ speelt, kijkt de echte moordenaar vanuit het publiek mee",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/hengelo/terwijl-acteur-de-moord-op-jatti-speelt-kijkt-de-echte-moordenaar-vanuit-het-publiek-mee~a9f8a61f/",
+          "publishedDate": "Fri, 23 Oct 2026 06:27:00 GMT",
+          "description": "Een wel heel speciale gast donderdag bij Jatti in Hengelo. Daar zag K., die in 1971 Gerrit ‘Jatti’ Wensing doodschoot, hoe zijn tegenspeler dat in de voorstelling dunnetjes overdeed. Edu van Dijk - di ..."
         },
         {
-          "title": "Willem Vissers haalt keihard uit naar ADO Den Haag: 'Onnozel gedoe!'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/ado-den-haag-roulatiebeleid-kritiek-willem-vissers-knvb-beker",
-          "publishedDate": "Tue, 27 Oct 2026 15:20:00 GMT",
-          "description": "ADO Den Haag vliegt na strafschoppen uit de beker tegen Excelsior '31 en krijgt van Willem Vissers direct de volle laag over het roulatiebeleid."
+          "title": "Acteur Tom Skerritt (93) overleden, bekend van Top Gun en Alien",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636292-acteur-tom-skerritt-93-overleden-bekend-van-top-gun-en-alien",
+          "publishedDate": "Thu, 22 Oct 2026 22:31:00 GMT",
+          "description": "De Amerikaanse acteur Tom Skerritt is op 93-jarige leeftijd overleden. Ooit omschreven als &quot;een karakteracteur in het lichaam van een hoofdrolspeler&quot; werd hij met zijn stoere charme bekend van films ..."
         },
         {
-          "title": "Excelsior '31 zorgt voor enorme bekerstunt en elimineert Eredivisie-club",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/excelsior-31-zorgt-enorme-bekerstunt-knikkert",
-          "publishedDate": "Tue, 27 Oct 2026 14:51:00 GMT",
-          "description": "Excelsior '31 heeft dinsdagavond voor een bekerstunt gezorgd in de eerste ronde van de Eurojackpot KNVB Beker. De derdedivisionist wist in het eigen Rijssen na negentig minuten &#233;n een verlenging ..."
+          "title": "Office Space-acteur Richard Riehle op 78-jarige leeftijd overleden",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/entertainment/6413718/office-space-acteur-richard-riehle-op-78-jarige-leeftijd-overleden.html",
+          "publishedDate": "Mon, 19 Oct 2026 17:01:00 GMT",
+          "description": "Richard Riehle is donderdag op 78-jarige leeftijd overleden, hebben vrienden van de Amerikaanse acteur bevestigd aan entertainmentwebsite TMZ. Hij is een natuurlijke dood gestorven in zijn woonplaats ..."
         },
         {
-          "title": "ADO beleeft 'rotavond' bij Excelsior '31: 'Ik sta met schaamrood op de kaken'",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ado-beleeft-rot-avond-bij-excelsior-31-ik-sta-met-schaamrood-op-de-kaken",
-          "publishedDate": "Tue, 27 Oct 2026 14:20:00 GMT",
-          "description": "ADO Den Haag-routinier Daryl van Mieghem schaamde zich behoorlijk na afloop van het bekerduel met Excelsior '31. De Derde Divisionist uit Rijssen stuntte dinsdagavond in de Eurojackpot KNVB Beker door ..."
+          "title": "In ‘Taxi’ kreeg de praatgrage acteur Maarten Spanjer ook zijn passagiers volop aan het praten",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/cultuur-media/in-taxi-kreeg-de-praatgrage-acteur-maarten-spanjer-ook-zijn-passagiers-volop-aan-het-praten~b1a55a4d/",
+          "publishedDate": "Sat, 17 Oct 2026 07:33:00 GMT",
+          "description": "Acteur en schrijver Maarten Spanjer is op 73-jarige leeftijd overleden. Bekend werd hij dankzij de film Spetters, beroemd door het veelbekeken programma Taxi. Doordat hij het hart op de tong had, maak ..."
         },
         {
-          "title": "Bekerheld Excelsior '31 geniet na stunt: 'Moet morgen werken, maar maakt niet uit'",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/bekerheld-excelsior-31-geniet-na-stunt-moet-morgen-werken-maar-maakt-niet-uit/ar-AA2gcf8u",
-          "publishedDate": "Tue, 27 Oct 2026 14:17:10 GMT",
-          "description": "Mika Schrijver en Kevin Reimink zijn de absolute helden voor Excelsior '31. ADO Den Haag werd ten koste van de derdedivisionist uitgeschakeld in de KNVB Beker. Na strafschoppen was het einde verhaal v ..."
+          "title": "Amsterdamser dan acteur en schrijver Maarten Spanjer (1952-2026) vond je ze niet gauw",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/kunst-media/amsterdamser-dan-acteur-en-schrijver-maarten-spanjer-1952-2026-vond-je-ze-niet-gauw~b21bd872/",
+          "publishedDate": "Sat, 17 Oct 2026 07:30:00 GMT",
+          "description": "Eigenlijk had hij voetballer willen worden, maar Maarten Spanjer werd acteur en schrijver. Hij was een Amsterdammer in hart en nieren en een echte geinponem, maar moest van typisch Amsterdamse humor n ..."
         },
         {
-          "title": "Eerste stunt van het seizoen: Excelsior ’31 knikkert ADO uit de beker na penalty’s",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/eerste-stunt-van-het-seizoen-excelsior-31-knikkert-ado-uit-de-beker-na-penaltys/ar-AA2gceTX",
-          "publishedDate": "Tue, 27 Oct 2026 13:35:49 GMT",
-          "description": "ADO Den Haag is uit de Eurojackpot KNVB Beker geknikkerd. De ploeg van Robin Peter ging via een strafschoppenserie onderuit bij Excelsior '31, dat uitkomt in de Derde Divisie."
+          "title": "Acteur Walter Koenig (90), de eerste Chekov in ‘Star Trek’, overleden",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/film/acteur-walter-koenig-90-de-eerste-chekov-in-star-trek-overleden~aafd04cc/",
+          "publishedDate": "Mon, 26 Oct 2026 04:43:00 GMT",
+          "description": "De Amerikaanse acteur Walter Koenig is op 90-jarige leeftijd overleden. Dat heeft zijn management maandag bekendgemaakt. Hij was vooral bekend als Pavel Chekov in ‘Star Trek: The Original Series’ en d ..."
         },
         {
-          "title": "ADO Den Haag vliegt na penaltyserie uit bekertoernooi",
-          "source": "ADO Den Haag",
-          "url": "https://adodenhaag.nl/nl/teams/1e-elftal/resultaten/excelsior-31-ado-den-haag-1368",
-          "publishedDate": "Tue, 27 Oct 2026 11:45:00 GMT",
-          "description": "ADO Den Haag heeft dinsdagavond na strafschoppen verloren van Excelsior ’31. In de eerste ronde van de Eurojackpot KNVB Beker kwamen de Hagenaars op bezoek in Rijssen vlak voor rust op achterstand. Na ..."
-        },
-        {
-          "title": "‘Dit had ik niet durven dromen’: spelers Excelsior’31 door het dolle heen na bekerstunt tegen ADO Den Haag",
+          "title": "Office Space-acteur Richard Riehle (78) overleden",
           "source": "Tubantia",
-          "url": "https://www.tubantia.nl/amateurvoetbal/dit-had-ik-niet-durven-dromen-spelers-excelsior31-door-het-dolle-heen-na-bekerstunt-tegen-ado-den-haag~a50b5e2b/",
-          "publishedDate": "Tue, 27 Oct 2026 06:51:00 GMT",
-          "description": "‘Drie keer is scheepsrecht’, zo stond er op een spandoek te lezen. Die tekst bleek geen staaltje blufpoker te zijn. Na twee vergeefse pogingen schakelden de amateurs van Excelsior’31 dinsdagavond de e ..."
+          "url": "https://www.tubantia.nl/show/office-space-acteur-richard-riehle-78-overleden~a4658d09/",
+          "publishedDate": "Mon, 19 Oct 2026 22:21:00 GMT",
+          "description": "Richard Riehle is afgelopen donderdag op 78-jarige leeftijd overleden. Dat melden vrienden van de Amerikaanse acteur tegen entertainmentwebsite TMZ. Hij zou door een natuurlijke oorzaak zijn overleden ..."
+        },
+        {
+          "title": "Acteur, televisiemaker en schrijver Maarten Spanjer (73) overleden",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/media/bekend/maarten-spanjer-overleden-acteur/",
+          "publishedDate": "Sat, 17 Oct 2026 02:36:00 GMT",
+          "description": "De Nederlandse acteur, televisiemaker en schrijver Maarten Spanjer is zaterdag op 73-jarige leeftijd overleden. Dat bevestigt zijn partner Monique Waterham aan het ANP na berichtgeving van De ..."
+        }
+      ]
+    },
+    {
+      "keyword": "euthanasie",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Pati&#235;nt denkt ‘alles is geregeld’ wat betreft euthanasie, dan vertelt huisarts Erik het slechte nieuws",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/gezond/patient-denkt-alles-is-geregeld-wat-betreft-euthanasie-dan-vertelt-huisarts-erik-het-slechte-nieuws~aca43152/",
+          "publishedDate": "Tue, 27 Oct 2026 06:40:00 GMT",
+          "description": "Veel mensen denken dat ze hun levenseinde goed hebben geregeld zodra er een levenstestament bij de notaris ligt. In de spreekkamer van huisarts Erik Verschuren blijkt die overtuiging regelmatig een mi ..."
+        },
+        {
+          "title": "Robert Maaskant openhartig over euthanasie van zijn ouders: ‘Ze deed ogen nog open bij geluid champagnekurk’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/regiosport-breda/robert-maaskant-openhartig-over-euthanasie-van-zijn-ouders-ze-deed-ogen-nog-open-bij-geluid-champagnekurk~a07850a9/",
+          "publishedDate": "Sat, 10 Oct 2026 20:42:00 GMT",
+          "description": "Bij een voltooid leven moeten de regels voor euthanasie soepeler worden, vindt Robert Maaskant (57) na een paar jaar mantelzorg voor zijn onlangs overleden ouders. Hij vertelt openhartig over de zware ..."
+        },
+        {
+          "title": "OM in hoger beroep tegen verstrekken namen euthanasiebrief aan ouders Milou",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/binnenland/6411410/om-in-hoger-beroep-tegen-verstrekken-namen-euthanasiebrief-aan-ouders-milou.html",
+          "publishedDate": "Tue, 29 Sep 2026 11:08:00 GMT",
+          "description": "Het OM gaat in hoger beroep tegen het vonnis om de namen te verstrekken van veertien artsen die een brief steunden over euthanasie bij kwetsbare pati&#235;nten. De ouders van de zeventienjarige Milou Verho ..."
+        },
+        {
+          "title": "2 miljoen Nederlanders hebben het, maar voor euthanasie is dit document volgens artsen niet genoeg",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/binnenland/2-miljoen-nederlanders-hebben-het-maar-voor-euthanasie-is-dit-document-volgens-artsen-niet-genoeg~abdd2b0b/",
+          "publishedDate": "Mon, 26 Oct 2026 18:09:00 GMT",
+          "description": "Je denkt het netjes geregeld te hebben: euthanasie, zwart op wit vastgelegd bij de notaris in een levenstestament. Maar artsen waarschuwen dat zo’n papiertje je geen zekerheid biedt."
+        },
+        {
+          "title": "Crowdfunding voor ouders Milou (17) voor dure strijd tegen artsen",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/milieu-gezondheid/zorg/artikelen/crowdfunding-ouders-milou-verhoof-tuchtzaak-artsen-euthanasie",
+          "publishedDate": "Mon, 26 Oct 2026 06:20:00 GMT",
+          "description": "Een groep van 21 mensen is een crowdfunding gestart voor de ouders van Milou Verhoof (17), die in 2023 euthanasie kreeg. De ouders voeren een kostbare tuchtzaak tegen artsen die aandrongen op strafrec ..."
+        },
+        {
+          "title": "Gisteren (26 oktober) om 10:15 • Aangepast gisteren (26 oktober) om 11:06",
+          "source": "Omroep Brabant",
+          "url": "https://www.omroepbrabant.nl/nieuws/6032347/crowdfunding-om-ouders-milou-te-steunen-in-juridische-strijd-na-euthanasie",
+          "publishedDate": "Mon, 26 Oct 2026 03:15:00 GMT",
+          "description": "Voor de ouders van Milou Verhoof uit Bavel, die in 2023 op 17-jarige leeftijd overleed na euthanasie, is zaterdag een crowdfunding gestart. De actie moet helpen de juridische kosten te betalen van een ..."
+        },
+        {
+          "title": "Kabinet wil betere info geven over natuurlijk stervensproces, in reactie op toename van euthanasie",
+          "source": "Nederlands Dagblad",
+          "url": "https://www.nd.nl/nieuws/politiek/1333597/kabinet-wil-betere-info-geven-over-natuurlijk-stervensproces-",
+          "publishedDate": "Sat, 03 Oct 2026 07:55:00 GMT",
+          "description": "Dat schrijft zorgminister Sophie Hermans aan de Tweede Kamer. Zij reageert op het onderzoek naar de toename van euthanasie in Nederland, dat begin juli verscheen. Kregen in 1999 nog 2216 mensen ..."
+        },
+        {
+          "title": "CD&amp;V wil euthanasie bij dementie ook mogelijk maken als mensen wilsonbekwaam zijn geworden: &quot;Vermijden dat mensen te vroeg moeten sterven&quot;",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/29/sammy-mahdi-euthanasie/",
+          "publishedDate": "Tue, 29 Sep 2026 12:01:00 GMT",
+          "description": "Ook als mensen niet langer wilsbekwaam zijn, moet euthanasie bij dementie mogelijk worden. Dat staat in een plan van minister van Justitie Annelies Verlinden (CD&amp;V) om de euthanasiewet uit te breiden, ..."
+        },
+        {
+          "title": "Psychotherapeut Abe Geldhof: ‘Euthanasie bij psychisch lijden is een gemakkelijkheidsoplossing’",
+          "source": "Knack",
+          "url": "https://www.knack.be/nieuws/psychotherapeut-abe-geldhof-euthanasie-bij-psychisch-lijden-is-een-gemakkelijkheidsoplossing/",
+          "publishedDate": "Tue, 12 Oct 2021 08:31:00 GMT",
+          "description": "‘Zelfbeschikking van de pati&#235;nt is een schijnrecht’, zegt psychotherapeut Abe Geldhof. Hij verzet zich radicaal tegen euthanasie bij ondraaglijk psychisch lijden en neemt de ‘euthanasielobby’ stevig ..."
+        },
+        {
+          "title": "‘Euthanasie is niet alleen maar prachtig, waardig en mooi’",
+          "source": "kn",
+          "url": "https://www.kn.nl/nieuws/samenleving/euthanasie-is-niet-alleen-maar-prachtig-waardig-en-mooi/",
+          "publishedDate": "Thu, 24 Jun 2021 22:12:00 GMT",
+          "description": "Theo Boer (links) en Stef Groenewoud willen met hun boek ook de schaduwzijden van euthanasie bespreekbaar maken. Foto: Erik Kottier Van een laatste redmiddel om vreselijk lijden te voorkomen, is ..."
+        }
+      ]
+    },
+    {
+      "keyword": "ontslag",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Fener-trainer dient ontslag in na verhitte derby, interim-rol lonkt voor Kuijt",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/fener-trainer-dient-ontslag-in-na-verhitte-derby-interim-rol-lonkt-voor-kuijt/ar-AA2gbDai",
+          "publishedDate": "Tue, 27 Oct 2026 13:25:00 GMT",
+          "description": "Ismail Kartal is per direct vertrokken bij Fenerbah&#231;e SK. De Turkse oefenmeester heeft daags na de nederlaag in de Intercontinentale Derby tegen Galatasaray zijn ontslag ingediend. Volgens Turkse medi ..."
+        },
+        {
+          "title": "Gronings bedrijf MijnOntslagjurist helpt werknemers bij ontslag",
+          "source": "Groninger Krant",
+          "url": "https://groningerkrant.nl/algemeen/gronings-bedrijf-mijnontslagjurist-helpt-werknemers-bij-ontslag/",
+          "publishedDate": "Tue, 27 Oct 2026 10:20:00 GMT",
+          "description": "GRONINGEN - Ontslag krijgen is voor veel werknemers een ingrijpende gebeurtenis. Naast de onzekerheid over werk en inkomen moeten er vaak belangrijke ..."
+        },
+        {
+          "title": "Ontslag Michael Carrick dreigt, dit is hoe de recente Manchester United managers het deden",
+          "source": "ELFvoetbal.nl",
+          "url": "https://www.elfvoetbal.nl/binnenland/288128/ontslag-michael-carrick-dreigt-dit-is-hoe-de-recente-manchester-united-managers-het-deden",
+          "publishedDate": "Tue, 27 Oct 2026 03:00:00 GMT",
+          "description": "De recente nederlagen van The Red Devils tegen Como en Bournemouth&#160;met ruime cijfers suggesteren een trainers wissel. Is dit waarom de problemen bij Manchester United niet opgelost raken?&#160;Sinds het ve ..."
+        },
+        {
+          "title": "Ontslag op staande voet na diefstal door gokverslaafde",
+          "source": "Rendement Uitgeverij",
+          "url": "https://www.rendement.nl/ontslag-op-staande-voet/nieuws/ontslag-op-staande-voet-na-diefstal-door-gokverslaafde.html",
+          "publishedDate": "Tue, 27 Oct 2026 01:00:00 GMT",
+          "description": "Een werknemer werd op staande voet ontslagen nadat hij een greep uit de kas had gedaan. Zijn excuus was dat hij met een gokverslaving kampte en dus ziek was, maar in hoger beroep zag het hof geen rede ..."
+        },
+        {
+          "title": "Ontslag op staande voet bij Mode&amp;me B.V.",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/ontslag-op-staande-voet-bij-mode-and-me-b-v",
+          "publishedDate": "Fri, 23 Oct 2026 09:20:00 GMT",
+          "description": "Marlies is verkoopmedewerker bij Mode&amp;me B.V. De laatste tijd heeft ze regelmatig conflicten met haar leidinggevende. Volgens Marlies behandelt hij haar anders dan haar collega's. Ze heeft dit al meer ..."
+        },
+        {
+          "title": "‘Julian Nagelsmann geldt als kandidaat bij ontslag Carrick’",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/julian-nagelsmann-kandidaat-ontslag-carrick-manchester-united/",
+          "publishedDate": "Thu, 22 Oct 2026 03:42:00 GMT",
+          "description": "Manchester United verloor zwaar van Como en zit al zeven offici&#235;le duels zonder zege, waardoor Carrick steeds meer onder druk staat."
+        },
+        {
+          "title": "‘Feyenoord meldde zich na ontslag bij trainer Erik ten Hag’",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/10/21/feyenoord-meldde-zich-na-ontslag-bij-trainer-erik-ten-hag/",
+          "publishedDate": "Tue, 20 Oct 2026 23:25:00 GMT",
+          "description": "Erik ten Hag is momenteel de technische baas van FC Twente. De Tukker voelt zich uitstekend op zijn plek in Enschede maar had zijn trainersloopbaan ook kunnen verlengen."
+        },
+        {
+          "title": "'Alle poten onder zijn stoel vandaan gezaagd': ontslag directeur kost bedrijf ruim twee ton",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2270312/alle-poten-onder-zijn-stoel-vandaan-gezaagd-ontslag-directeur-kost-bedrijf-ruim-twee-ton",
+          "publishedDate": "Tue, 20 Oct 2026 04:36:00 GMT",
+          "description": "Na ruim achttien jaar trouwe dienst werd een financieel directeur door het Rotterdamse bedrijf Bilfinger Thermeq aan de kant gezet. Volgens de rechter werden daarbij &quot;alle poten al onder zijn stoel va ..."
+        },
+        {
+          "title": "Louis van Gaal legt opvallende link tussen City-schandaal en eigen ontslag",
+          "source": "Mee Met Oranje",
+          "url": "https://www.meemetoranje.nl/voetbal/nieuws/louis-van-gaal-ontslag-manchester-united-manchester-city-schandaal/",
+          "publishedDate": "Thu, 15 Oct 2026 11:47:00 GMT",
+          "description": "Louis van Gaal kijkt tien jaar later anders naar zijn ontslag bij Manchester United en wijst nadrukkelijk naar Manchester City."
         }
       ]
     },
@@ -510,6 +503,13 @@
           "description": "Heel belangrijk, een noodpakket, maar hoe zorg je dat je er ook een beetje fatsoenlijk uit kunt koken? Met deze ingredi&#235;nten in je voorraadkast maak je ook iets lekkers als de schappen leeg zijn."
         },
         {
+          "title": "Vier van de vijf Rozenburgers zijn bezig met een noodpakket",
+          "source": "Rodi.nl",
+          "url": "https://www.rodi.nl/rozenburg/nieuws/122717/vier-van-de-vijf-rozenburgers-zijn-bezig-met-een-noodpakket",
+          "publishedDate": "Wed, 28 Oct 2026 00:07:00 GMT",
+          "description": "Zes weken na zijn start als wijkaanpakker van Rozenburg trekt Arno van Dop de voorzichtige conclusie dat tachtig procent van de Rozenburgers al een noodpakket in huis heeft of er tenminste een begin.."
+        },
+        {
           "title": "Veel Nederlanders hebben nog geen noodplan voor als het ‘daadwerkelijk misgaat’",
           "source": "De Gelderlander",
           "url": "https://www.gelderlander.nl/binnenland/veel-nederlanders-hebben-nog-geen-noodplan-voor-als-het-daadwerkelijk-misgaat~a54850c0a/",
@@ -517,25 +517,11 @@
           "description": "Nederland is niet goed voorbereid op een noodsituatie. Hoewel bijna de helft van de volwassen Nederlanders een noodpakket in huis heeft, ontbreekt in veel huishoudens een concreet noodplan. Dat stelt ..."
         },
         {
-          "title": "Cura&#231;aose overheid geeft uitleg over evacuatie en opvang bij rampen",
-          "source": "nu",
-          "url": "https://nu.cw/2026/10/26/curacaose-overheid-geeft-uitleg-over-evacuatie-en-opvang-bij-rampen/",
-          "publishedDate": "Mon, 26 Oct 2026 11:20:00 GMT",
-          "description": "Het ministerie van Sociale Ontwikkeling, Arbeid en Welzijn (SOAW) roept Cura&#231;ao&#235;naars op om zich voor te bereiden op mogelijke rampen tijdens het orkaanseizoen. Tijdens de ‘Ami Ta Prepar&#225; Expo’ op 17 ..."
-        },
-        {
           "title": "Praat-je Wassenaars?!: Hoe denken inwoners over het noodpakket? (videoreportage)",
           "source": "Wassenaarders.nl",
           "url": "https://wassenaarders.nl/2026/10/26/praat-je-wassenaars/",
           "publishedDate": "Mon, 26 Oct 2026 09:45:00 GMT",
           "description": "Heeft u al een noodpakket in huis voor het geval de stroom uitvalt of zich een andere noodsituatie voordoet? Voor een nieuwe aflevering van ‘Praat-je Wassenaars?!’ ging Lily Armstrong de straat op om ..."
-        },
-        {
-          "title": "Gratis noodpakket voor jou en je gezin? Laat je niet vangen als je deze email krijgt",
-          "source": "Redactie24",
-          "url": "https://www.redactie24.be/misdaad/gratis-noodpakket-voor-jou-en-je-gezin-laat-je-niet-vangen-als-je-deze-email-krijgt-194593",
-          "publishedDate": "Fri, 23 Oct 2026 12:31:00 GMT",
-          "description": "Een gratis noodpakket voor onderweg, zogezegd aangeboden door Touring, klinkt aantrekkelijk. Maar de e-mail die momenteel circuleert, vertoont duidelijke kenmerken van phishing. Met een korte enqu&#234;te ..."
         },
         {
           "title": "Amsterdam gaat 2000 noodpakketten uitdelen via de Voedselbank",
@@ -571,158 +557,109 @@
           "url": "https://www.hartvannederland.nl/het-beste-van-hart/panel/artikelen/nederlanders-noodplan-noodpakket-72-uur-panel",
           "publishedDate": "Mon, 12 Oct 2026 15:59:00 GMT",
           "description": "Slechts 3 procent van de deelnemers aan het Hart van Nederland Panel heeft een volledig noodplan besproken met familie, buren of naasten. Ook heeft maar 15 procent een compleet noodpakket voor 72 uur."
+        },
+        {
+          "title": "Meer Nederlanders hebben een noodpakket, maar weten vaak niet wat ze moeten doen bij een crisis",
+          "source": "Het Nederlandse Rode Kruis",
+          "url": "https://www.rodekruis.nl/nieuwsbericht/meer-nederlanders-hebben-een-noodpakket-maar-weten-vaak-niet-wat-ze-moeten-doen-bij-een-crisis/",
+          "publishedDate": "Thu, 08 Oct 2026 08:03:00 GMT",
+          "description": "Goede voorbereiding gaat verder dan noodspullen en begint met afspraken maken, betrouwbare informatiebronnen kennen en omkijken naar elkaar."
         }
       ]
     },
     {
-      "keyword": "helmond sport - willem ii",
+      "keyword": "excelsior 31",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Geplaagd Willem II stopt de grote teloorgang voor even, maar nu wacht PSV",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2636952-geplaagd-willem-ii-stopt-de-grote-teloorgang-voor-even-maar-nu-wacht-psv",
-          "publishedDate": "Tue, 27 Oct 2026 15:46:00 GMT",
-          "description": "NOS gebruikt Functionele en Analytische cookies voor website optimalisatie en statistieken. Willem II zakte de laatste weken steeds verder weg in doffe ellende, maar dinsdagavond richtte de ploeg zich ..."
-        },
-        {
-          "title": "Amateurs Excelsior'31 schakelen eredivisionist ADO uit • Wereldgoals bij Willem II en Eindhoven",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2636918-amateurs-excelsior-31-schakelen-eredivisionist-ado-uit-wereldgoals-bij-willem-ii-en-eindhoven",
-          "publishedDate": "Tue, 27 Oct 2026 12:45:00 GMT",
-          "description": "De laatste ontmoeting was in 2022, toen ADO het in de eerste ronde van de beker behoorlijk lastig had op De Koerbelt: Excelsior'31 kwam twee keer op voorsprong, maar ADO bekerde door. De boomlange ..."
-        },
-        {
-          "title": "RKC en FC Den Bosch overleven heet avondje bij de amateurs, Willem II door na spannend slot",
+          "title": "Gelegenheidscaptain Mylian Jimenez na bekerblamage ADO Den Haag: ‘Schandalig qua beleving en inzet’",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/regiosport-tilburg/rkc-en-fc-den-bosch-overleven-heet-avondje-bij-de-amateurs-willem-ii-door-na-spannend-slot~a0732ffc/?slug_rd=1",
-          "publishedDate": "Tue, 27 Oct 2026 07:41:00 GMT",
-          "description": "Willem II leek lang op weg naar een eenvoudige zege, maakte het zichzelf onnodig moeilijk, maar won toch van Helmond Sport. Dat deden FC Den Bosch en RKC ook tegen amateurploegen. Het resultaat: alle ..."
+          "url": "https://www.ad.nl/regiosport-den-haag/gelegenheidscaptain-mylian-jimenez-na-bekerblamage-ado-den-haag-schandalig-qua-beleving-en-inzet~a0b97ca1/",
+          "publishedDate": "Tue, 27 Oct 2026 17:00:00 GMT",
+          "description": "In tien dagen tijd van winnen tegen landskampioen PSV naar uitgeschakeld worden in de beker door derdedivisionist Excelsior’31. ADO Den Haag blameerde zich tegen de amateurs uit Rijssen. „Er zat helem"
         },
         {
-          "title": "Willem II wint weer eens en bekert verder, ook Cambuur door",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/willem-ii-wint-weer-eens-en-bekert-verder-ook-cambuur-door",
-          "publishedDate": "Tue, 27 Oct 2026 15:24:00 GMT",
-          "description": "HELMOND (ANP) - Willem II heeft na tien duels op rij zonder zege weer eens een wedstrijd gewonnen. In de eerste ronde van de KNVB-beker won de ploeg van interim-trainer Adri Koster met 4-3 bij eersted ..."
-        },
-        {
-          "title": "Willem II weet eindelijk wat winnen is (foto: ANP)",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6032631/wereldgoals-op-succesvolle-brabantse-bekeravond-willem-ii-wint-eindelijk",
-          "publishedDate": "Tue, 27 Oct 2026 15:00:00 GMT",
-          "description": "Billenknijpen, veel goals, waarvan een aantal wonderschoon, maar al met al: veel Brabants succes op deze bekeravond. Willem II won dinsdagavond met 3-4 bij Helmond Sport, mede door een prachtige omhaa ..."
-        },
-        {
-          "title": "Maffe slotfase na absolute wereldgoal: Willem II overleeft een bloedheet bekeravondje in Helmond",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/willem-ii/maffe-slotfase-na-absolute-wereldgoal-willem-ii-overleeft-een-bloedheet-bekeravondje-in-helmond~ac15ec3d/",
-          "publishedDate": "Tue, 27 Oct 2026 14:53:00 GMT",
-          "description": "Een zinnenprikkelende goal van spits Devin Haen leek Willem II op het spoor te zetten van een rimpelloze avond in het KNVB-bekertoernooi. Maar in een idiote slotfase werd het op bezoek bij Helmond Spo ..."
-        },
-        {
-          "title": "Waanzinnige omhaal! Met deze goal poetste Devin Haen de achterstand van Willem II weg",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/regiosport-tilburg/waanzinnige-omhaal-met-deze-goal-poetste-devin-haen-de-achterstand-van-willem-ii-weg~afbeb6939/",
-          "publishedDate": "Tue, 27 Oct 2026 13:59:00 GMT",
-          "description": "Willem II kende een valse start in het bekertoernooi, maar Devin Haen poetste de achterstand op fenomenale wijze weg. Met een fenomenale omhaal maakte hij de 1-1 tegen Helmond Sport. Bekijk de beelden ..."
-        },
-        {
-          "title": "Willem II komt met schrik vrij en bekert mede dankzij wondergoal Haen door",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/algemeen/willem-ii-komt-met-schrik-vrij-en-bekert-mede-dankzij-wondergoal-haen-door/ar-AA2gc4YR",
-          "publishedDate": "Tue, 27 Oct 2026 13:56:16 GMT",
-          "description": "Willem II heeft zich dinsdagavond ten koste van Helmond Sport geplaatst voor de tweede ronde van de Eurojackpot KNVB Beker. In een zinderend duel vol doelpunten waren de Tilburgers op bezoek in Helmon ..."
-        },
-        {
-          "title": "Praat mee op VP: Helmond Sport – Willem II",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-helmond-sport-willem-ii/ar-AA2gc3EU",
-          "publishedDate": "Tue, 27 Oct 2026 11:15:00 GMT",
-          "description": "Helmond Sport en Willem II staan dinsdagavond tegenover elkaar in de eerste ronde van de KNVB Beker. De wedstrijd begint om 20.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeu ..."
-        },
-        {
-          "title": "Maffe slotfase na wereldgoal Haen: Willem II overleeft bloedheet bekeravondje",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/willem-ii/maffe-slotfase-na-wereldgoal-haen-willem-ii-overleeft-bloedheet-bekeravondje~ac15ec3d/",
-          "publishedDate": "Tue, 27 Oct 2026 08:01:00 GMT",
-          "description": "Een wondergoal van Devin Haen leek voor Willem II een rimpelloze avond in het KNVB-bekertoernooi in te luiden. Maar in een idiote slotfase werd het op bezoek bij Helmond Sport toch nog volop billenkni ..."
+          "title": "Excelsior '31 zorgt voor enorme bekerstunt en elimineert Eredivisie-club",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/excelsior-31-zorgt-enorme-bekerstunt-knikkert",
+          "publishedDate": "Tue, 27 Oct 2026 14:51:00 GMT",
+          "description": "Excelsior '31 heeft dinsdagavond voor een bekerstunt gezorgd in de eerste ronde van de Eurojackpot KNVB Beker. De derdedivisionist wist in het eigen Rijssen na negentig minuten &#233;n een verlenging"
         }
       ]
     },
     {
-      "keyword": "meisje",
+      "keyword": "n35",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Man (64) opgepakt na ‘verleiden’ meisje (11) met kus: ‘Gaf briefje met telefoonnummer voor seksdoeleinden’",
+          "title": "Man (33) die ongeval op N35 bij Haarle veroorzaakte, had al een rijontzegging",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/ridderkerk/man-64-opgepakt-na-verleiden-meisje-11-met-kus-gaf-briefje-met-telefoonnummer-voor-seksdoeleinden~a550237d6/",
-          "publishedDate": "Tue, 27 Oct 2026 00:03:00 GMT",
-          "description": "Een 64-jarige Ridderkerker wordt ervan beschuldigd dat hij heeft geprobeerd een seksafspraak te maken met een 11-jarig meisje. Dit zou zijn gebeurd in de lift van hun gezamenlijke flatgebouw. In de re ..."
+          "url": "https://www.ad.nl/hellendoorn/man-33-die-ongeval-op-n35-bij-haarle-veroorzaakte-had-al-een-rijontzegging~a6781008/",
+          "publishedDate": "Sat, 03 Oct 2026 22:47:00 GMT",
+          "description": "Een 33-jarige man uit gemeente De Wolden die zondagmiddag een aanrijding veroorzaakte op de N35 had al een rijontzegging. Dat bevestigt de politie. De man reed met zijn auto in op een stilstaande auto ..."
         },
         {
-          "title": "‘Een welopgevoed meisje’, de memoires van Simone de Beauvoir, is nog levendiger en geestiger dan Elma Drayer zich herinnerde",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/boeken/een-welopgevoed-meisje-de-memoires-van-simone-de-beauvoir-is-nog-levendiger-en-geestiger-dan-elma-drayer-zich-herinnerde~b9bef12e/",
-          "publishedDate": "Thu, 22 Oct 2026 09:30:00 GMT",
-          "description": "Wat haar motieven ook waren, zeker het eerste deel van Simone de Beauvoirs memoires blijft verrukkelijk. Onlangs is Een welopgevoed meisje (1958) opnieuw in Nederlandse vertaling verschenen."
+          "title": "Ineens is alles onzeker: N35, N36 &#233;n de Nedersaksenlijn",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/enschede/ineens-is-alles-onzeker-n35-n36-en-de-nedersaksenlijn~a568edea/?slug_rd=1",
+          "publishedDate": "Wed, 30 Sep 2026 01:42:00 GMT",
+          "description": "Alle plannen voor het verbeteren van wegen en spoor in Overijssel worden opnieuw beoordeeld door minister Karremans van Infrastructuur en Waterstaat (IenW). Half oktober volgt uitsluitsel over de bijd ..."
         },
         {
-          "title": "Meisje valt uit raam en wordt met spoed naar ziekenhuis gebracht",
-          "source": "GelreNieuws.nl",
-          "url": "https://www.gelrenieuws.nl/2026/10/27/video/meisje-valt-uit-raam-en-wordt-met-spoed-naar-ziekenhuis-gebracht.html",
-          "publishedDate": "Tue, 27 Oct 2026 11:01:00 GMT",
-          "description": "TIEL - Dinsdag om 15.52 uur viel een meisje van acht jaar uit een raam aan de achterzijde van een woning aan de Nachtegaallaan in Tiel. Het kind raakte daarbij ernstig gewond en is met spoed overgebra ..."
+          "title": "N35 volledig afgesloten na ongeval met bestelbus",
+          "source": "Drimble",
+          "url": "https://drimble.nl/regio/overijssel/zwolle/108421644/n35-volledig-afgesloten-na-ongeval-met-bestelbus.html",
+          "publishedDate": "Tue, 27 Oct 2026 22:11:00 GMT",
+          "description": "De N35 ter hoogte van Heino werd volledig afgesloten na een eenzijdig ongeval met een bestelbus. In het voertuig zaten twee personen. Beide inzittenden werden door de ambulance naar het ziekenhuis ver ..."
         },
         {
-          "title": "Politie vindt vijfjarig meisje na bedreiging door vader aan Meursweg",
-          "source": "Starnieuws",
-          "url": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/94576",
-          "publishedDate": "Tue, 27 Oct 2026 07:12:00 GMT",
-          "description": "Een vijfjarig meisje is vanmiddag tegen haar wil door haar vader meegenomen. De vader zou daarbij hebben gedreigd het kind te doden. De politie wist ..."
+          "title": "Bestelbus botst tegen boom op N35 bij Heino: twee gewonden naar ziekenhuis",
+          "source": "RTV Focus Zwolle",
+          "url": "https://www.rtvfocuszwolle.nl/bestelbus-boom-n35-heino-twee-gewonden/",
+          "publishedDate": "Tue, 27 Oct 2026 11:17:00 GMT",
+          "description": "Twee gewonden bij een botsing op de N35 bij Heino. Een bestelbus reed tegen een boom. De N35 was urenlang afgesloten."
         },
         {
-          "title": "Meisje (7) doodsbang na zoen en duw in steegje: ‘Eerste kus is haar op nare manier ontnomen’",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/enschede/meisje-7-doodsbang-na-zoen-en-duw-in-steegje-eerste-kus-is-haar-op-nare-manier-ontnomen~ad671219/",
-          "publishedDate": "Tue, 27 Oct 2026 04:33:00 GMT",
-          "description": "Hij heeft spijt en wil sorry zeggen tegen het destijds 7-jarige meisje. Sorry voor de zoen op haar mond, en sorry voor het feit dat hij haar op de grond duwde. Het slachtoffer is sindsdien doodsbang v ..."
+          "title": "Twee gewonden nadat bestelbus tegen boom botst; weg tot 13:00 dicht",
+          "source": "112 Nieuws Nederland",
+          "url": "https://112nieuws.net/2026/10/27/twee-gewonden-nadat-bestelbus-tegen-boom-botst-weg-tot-1300-dicht/",
+          "publishedDate": "Tue, 27 Oct 2026 03:39:00 GMT",
+          "description": "Bij een verkeersongeval op de N35 ter hoogte van Heino zijn dinsdagochtend twee personen gewond geraakt. Een bestelauto botst rond 07.00 uur tegen een boom. Beide slachtoffers zijn voor behandeling ov ..."
         },
         {
-          "title": "Meisje van vijf overleden na val van balkon in Casablanca, vader aangehouden",
-          "source": "MAROKKO.nl",
-          "url": "https://nieuws.marokko.nl/118343/meisje-van-vijf-gedood-in-casablanca-vader-verdacht-van-gooien-vanaf-balkon/",
-          "publishedDate": "Wed, 21 Oct 2026 13:11:00 GMT",
-          "description": "Een meisje van vijf is maandagavond in Casablanca overleden na een val van een balkon op de vierde verdieping. Haar vader, een anesthesioloog, is aangehouden op verdenking dat hij haar naar beneden he ..."
+          "title": "N35 tijdens ochtendspits dicht na ongeval met bestelbus",
+          "source": "Salland1",
+          "url": "https://www.salland1.nl/n35-tijdens-ochtendspits-dicht-na-ongeval-met-bestelbus/",
+          "publishedDate": "Tue, 27 Oct 2026 03:32:00 GMT",
+          "description": "Leestijd: &lt; 1 minuutDe N35 ter hoogte van Heino werd dinsdag in de ochtendspits volledig afgesloten na een eenzijdig ongeval met een bestelbus. In het voertuig zaten twee personen. Beide inzittenden w ..."
         },
         {
-          "title": "Jong meisje met spoed naar SEH als gevolg van rookoverlast in Commewijne",
-          "source": "Waterkant.net",
-          "url": "https://www.waterkant.net/suriname/2026/10/21/jong-meisje-met-spoed-naar-seh-als-gevolg-van-rookoverlast-in-commewijne/",
-          "publishedDate": "Tue, 20 Oct 2026 17:00:00 GMT",
-          "description": "Een jong meisje in Suriname is deze week met spoed naar de Spoedeisende Hulp (SEH) gebracht nadat zij ademhalingsproblemen kreeg door rookoverlast in ..."
+          "title": "Twee gewonden nadat busje tegen boom botst bij Heino, N35 groot deel van de dag dicht",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/112-nieuws-raalte/twee-gewonden-nadat-busje-tegen-boom-botst-bij-heino-n35-groot-deel-van-de-dag-dicht~a59dc4b9/",
+          "publishedDate": "Tue, 27 Oct 2026 00:00:00 GMT",
+          "description": "Twee mensen raakten dinsdagochtend gewond bij een ongeluk op de N35 bij Heino. Hun bestelbus raakte van de weg en botste tegen een boom. Beide inzittenden zijn met een ambulance naar het ziekenhuis ge ..."
         },
         {
-          "title": "Politie doet onderzoek naar overleden meisje(15) bij de Plutolaan (Video)",
-          "source": "112Groningen",
-          "url": "https://112groningen.nl/438026/groningen/politie-doet-onderzoek-naar-overleden-meisje15-in-jeugdzorginstelling/",
-          "publishedDate": "Tue, 20 Oct 2026 00:58:00 GMT",
-          "description": "Groningen - In een gebouw van jeugdzorginstelling aan de Plutolaan in Groningen is maandagochtend een overleden persoon gevonden. Volgens eerste berichten g ..."
+          "title": "N35 bij Heino vanmorgen twee keer afgesloten vanwege ongeluk",
+          "source": "Oost",
+          "url": "https://www.oost.nl/nieuws/3711943/n35-bij-heino-vanmorgen-twee-keer-afgesloten-vanwege-ongeluk",
+          "publishedDate": "Mon, 26 Oct 2026 23:51:00 GMT",
+          "description": "De N35 is vanmorgen bij Heino twee keer afgesloten na een eenzijdig ongeluk met een werkbusje. De eerste keer was direct na het ongeluk tijdens de ochtendspits. Er ontstonden lange files en er was ver ..."
         },
         {
-          "title": "Meisje overleden in pand Jeugdbescherming Groningen",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/meisje-overleden-jeugdbescherming-groningen",
-          "publishedDate": "Mon, 19 Oct 2026 11:16:00 GMT",
-          "description": "Een 15-jarig meisje is dood aangetroffen in een pand voor begeleid wonen in Groningen. De avond ervoor was ze volgens de jeugdzorginstelling betrokken bij een gewelddadig incident."
+          "title": "N35 moet vierbaansweg worden, maar bij Raalte kunnen zelfs verkeerslichten blijven staan",
+          "source": "RTV Focus Zwolle",
+          "url": "https://www.rtvfocuszwolle.nl/n35-raalte-verkeerslichten-vierbaansweg/",
+          "publishedDate": "Tue, 20 Oct 2026 23:50:00 GMT",
+          "description": "De N35 moet ooit vier rijstroken krijgen, maar het geld ontbreekt. Bij Raalte onderzoekt de provincie zelfs of de verkeerslichten kunnen blijven staan."
         },
         {
-          "title": "Meisje dood aangetroffen in pand Jeugdbescherming Groningen",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/videos/meisje-dood-aangetroffen-in-pand-jeugdbescherming-groningen",
-          "publishedDate": "Mon, 19 Oct 2026 10:59:00 GMT",
-          "description": "Een meisje is maandagochtend dood aangetroffen in een pand voor begeleid wonen in Groningen. De politie laat aan Hart van Nederland weten dat ze onderzoek doet naar wat er is gebeurd. Alle scenario's ..."
+          "title": "Aanpak N35 Nijverdal-Wierden",
+          "source": "Truckstar",
+          "url": "https://www.truckstar.nl/aanpak-n35-nijverdal-wierden/",
+          "publishedDate": "Wed, 04 Mar 2015 03:59:00 GMT",
+          "description": "De N35 wordt tussen Nijverdal en Wierden verbreed en waar nodig verlegd. Dat heeft minister van Infrastructuur en Milieu Melanie Schultz van Haegen bekend gemaakt. De N35 krijgt tussen Wierden en ..."
         }
       ]
     }
