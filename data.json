@@ -1,665 +1,756 @@
 {
-  "fetchedAt": "2026-10-29T06:07:29.742Z",
+  "fetchedAt": "2026-10-29T13:27:18.504Z",
   "trends": [
     {
-      "keyword": "grand prix van mexico",
+      "keyword": "dekkingsgraad",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Verstappen staat stoeltje in eerste training GP Mexico af aan rookie Iwasa",
+          "title": "Pensioenfondsen PME en ABP profiteren van de gestegen rente",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/10/29/pensioenfondsen-pme-en-abp-profiteren-van-de-gestegen-rente-a4940028",
+          "publishedDate": "Thu, 29 Oct 2026 00:57:00 GMT",
+          "description": "Goedemorgen! Pensioenfonds ABP en PME profiteerden de afgelopen maanden van de gestegen rente en staan er daarom financieel goed voor. De zogeheten dekkingsgraad – die aangeeft of pensioenen nu en in ..."
+        },
+        {
+          "title": "Pensioenfondsen verdienen aan hogere rentes in aanloop naar nieuw stelsel",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/formule-1/6414621/verstappen-staat-stoeltje-in-eerste-training-gp-mexico-af-aan-rookie-iwasa.html",
-          "publishedDate": "Wed, 28 Oct 2026 02:46:00 GMT",
-          "description": "Max Verstappen ontbreekt vrijdag in de eerste vrije training bij de Grand Prix van Mexico. De viervoudig wereldkampioen staat zijn stoeltje in de Red Bull af aan de Japanner Ayumu Iwasa."
-        },
-        {
-          "title": "LIVE Formule 1 | Sergio P&#233;rez langer door bij Cadillac, Max Verstappen laat eerste training in Mexico schieten",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/formule-1/live-formule-1-sergio-perez-langer-door-bij-cadillac-max-verstappen-laat-eerste-training-in-mexico-schieten~afd17814/",
-          "publishedDate": "Wed, 28 Oct 2026 02:22:00 GMT",
-          "description": "De Formule 1 dendert door in deze periode. Volg alle ontwikkelingen hier. Komend weekend wordt de GP van Mexico verreden op het circuit Aut&#243;dromo Hermanos Rodr&#237;guez in Mexico-stad. Het wordt volop zon ..."
-        },
-        {
-          "title": "Red Bull-toptalent maakt F1-debuut en neemt auto van Lawson over",
-          "source": "GPblog NL on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/red-bull-toptalent-maakt-f1-debuut-en-neemt-auto-van-lawson-over/ar-AA2ghoxc",
-          "publishedDate": "Wed, 28 Oct 2026 15:00:00 GMT",
-          "description": "Nikola Tsolov maakt vrijdag tijdens de eerste vrije training voor de Grand Prix van Mexico zijn offici&#235;le debuut in de Formule 1. Het Red Bull Racing-talent krijgt bij Racing Bulls de auto van Liam La ..."
-        },
-        {
-          "title": "Nikola Tsolov kruipt achter het stuur van de VCARB 03 in Mexico: Liam Lawson moet langs de kant toekijken",
-          "source": "RaceXpress",
-          "url": "https://www.racexpress.nl/formule-1/nikola-tsolov-kruipt-achter-het-stuur-van-de-vcarb-03-in-mexico-liam-lawson-moet-langs-de-kant-toekijken/n/157520",
-          "publishedDate": "Wed, 28 Oct 2026 10:49:00 GMT",
-          "description": "Visa Cash App Racing Bulls heeft bevestigd dat Nikola Tsolov achter het stuur van de VCARB 03 zal kruipen tijdens de eerste vrije training van de Grand ..."
-        },
-        {
-          "title": "Weerbericht Formule 1 Grand Prix van Mexico 2026",
-          "source": "RacingNews365 on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/weerbericht-formule-1-grand-prix-van-mexico-2026/ar-AA2gg1hX",
-          "publishedDate": "Wed, 28 Oct 2026 09:30:00 GMT",
-          "description": "In samenwerking met WeerOnline presenteert RacingNews365 het weerbericht voor de F1 Grand Prix van Mexico. Door de grote hoogte hoeven de coureurs in ieder geval niet snel te vrezen voor extreme hitte ..."
-        },
-        {
-          "title": "Mexico-weekend blijft droog: &#233;&#233;n regenkans dreigt voor FP2 op vrijdag",
-          "source": "Formule1nieuws.nl",
-          "url": "https://formule1nieuws.nl/nieuws/mexico-weekend-blijft-droog-een-regenkans-dreigt-voor-fp2-op-vrijdag/",
-          "publishedDate": "Wed, 28 Oct 2026 08:05:00 GMT",
-          "description": "E&#233;n klein regenrisico op vrijdagmiddag, meer niet. De weersverwachting voor de Grand Prix van Mexico belooft een bijna volledig droog weekend op het Autodromo Hermanos Rodriguez. Mercedes kan hier zo ..."
-        },
-        {
-          "title": "Alpine geeft Gabriele Min&#236; eerste F1-kans tijdens eerste vrije training in Mexico: &quot;Een heel bijzonder moment&quot;",
-          "source": "RaceXpress",
-          "url": "https://www.racexpress.nl/formule-1/alpine-geeft-gabriele-min-eerste-f1-kans-tijdens-eerste-vrije-training-in-mexico-een-heel-bijzonder-moment/n/157509",
-          "publishedDate": "Wed, 28 Oct 2026 04:00:00 GMT",
-          "description": "Gabriele Min&#236; krijgt tijdens de Grand Prix van Mexico de kans om zijn eerste offici&#235;le meters te maken tijdens een Formule 1-weekend. De 21-jarige ..."
-        },
-        {
-          "title": "VIDEO – De inzet van de Grand Prix van Mexico",
-          "source": "autohebdo",
-          "url": "https://www.autohebdo.nl/nieuws/f1/Video%3A-De-inzet-van-de-Grand-Prix-van-Mexico.html",
-          "publishedDate": "Wed, 28 Oct 2026 03:30:00 GMT",
-          "description": "Dit weekend in Mexico lijkt de wereldtitel voor Kimi Antonelli bijna zeker, hij heeft nog maar twee punten nodig om zich te kwalificeren."
-        },
-        {
-          "title": "Zo kijk je de Grand Prix van Mexico nu Videoland F1 van Viaplay overneemt",
-          "source": "GPblog on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/zo-kijk-je-de-grand-prix-van-mexico-nu-videoland-f1-van-viaplay-overneemt/ar-AA2geKui",
-          "publishedDate": "Wed, 28 Oct 2026 03:02:00 GMT",
-          "description": "Kimi Antonelli kan zondag in Mexico-Stad wereldkampioen worden. De Mercedes-coureur heeft genoeg aan een plek in de top negen, wat George Russell en Lewis Hamilton ook doen. Ook Max Verstappen kan goe ..."
-        },
-        {
-          "title": "Grand Prix van Mexico-Stad",
-          "source": "GPFans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/1092089/mexico-rekent-op-langer-verblijf-in-de-formule-1-na-het-seizoen-van-2028/",
-          "publishedDate": "Wed, 28 Oct 2026 01:52:00 GMT",
-          "description": "De organisatie in Mexico heeft er het volste vertrouwen in dat de Grand Prix ook na 2028 op de Formule 1-kalender blijft staan. Volgens persbureau EFE heerst er veel optimisme over een langere samenwe ..."
-        }
-      ]
-    },
-    {
-      "keyword": "mieke sterk",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Oud-atlete en voormalig PvdA-Kamerlid Mieke Sterk (80) overleden",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/sport-overig/6414676/oud-atlete-en-voormalig-pvda-kamerlid-mieke-sterk-80-overleden.html",
-          "publishedDate": "Wed, 28 Oct 2026 05:15:00 GMT",
-          "description": "Oud-atlete en voormalig Tweede Kamerlid Mieke Sterk is op tachtigjarige leeftijd overleden, meldt de Atletiekunie woensdag. Ze won in haar carri&#232;re twintig Nederlandse titels en kwam uit op de Olympis ..."
-        },
-        {
-          "title": "Olympisch atlete en oud-politica Mieke Sterk op 80-jarige leeftijd overleden",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2636993-olympisch-atlete-en-oud-politica-mieke-sterk-op-80-jarige-leeftijd-overleden",
-          "publishedDate": "Wed, 28 Oct 2026 03:22:00 GMT",
-          "description": "Mieke Sterk was in de jaren 60 en 70 een sterk politiek ge&#235;ngageerde atlete, die later namens de Partij van de Arbeid vier jaar lang in de Tweede Kamer zat."
-        },
-        {
-          "title": "Voormalig olympisch atlete en oud-Tweede Kamerlid Mieke Sterk (80) overleden",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/andere-sporten/voormalig-olympisch-atlete-en-oud-tweede-kamerlid-mieke-sterk-80-overleden~af47035f/",
-          "publishedDate": "Tue, 27 Oct 2026 20:17:00 GMT",
-          "description": "Oud-atlete en oud-Tweede Kamerlid Mieke Sterk is op 80-jarige leeftijd overleden. Dat heeft de Atletiekunie woensdag bekendgemaakt. Sterk won in haar carri&#232;re twintig Nederlandse titels en kwam voor N ..."
-        },
-        {
-          "title": "Nederlandse ex-topatlete overleden: 'Wij wensen haar familie en naasten veel sterkte toe met dit verlies'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/atletiek/nieuws/nederlandse-ex-topatlete-overleden-wij-wensen-haar-familie-en-naasten-veel-sterkte-toe-met-dit-verlies-2026102810285420490/",
-          "publishedDate": "Wed, 28 Oct 2026 04:28:00 GMT",
-          "description": "De Nederlandse ex-topatlete Mieke Sterk is overleden. Dat maakt de Atletiekunie bekend. Ze overleed op tachtigjarige leeftijd en laat een stukje Nederlandse sporthistorie achter. Oud-atlete en oud-Twe ..."
-        },
-        {
-          "title": "Oud-atlete en oud-Tweede Kamerlid Sterk (80) overleden",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/364850/oud-atlete-en-oud-tweede-kamerlid-sterk-80-overleden",
-          "publishedDate": "Tue, 27 Oct 2026 20:34:00 GMT",
-          "description": "Oud-atlete en oud-Kamerlid Mieke Sterk (80) overleden. Won 20 Nederlandse titels, werd vierde op OS 1968 met estafetterecord dat 44 jaar standhield."
-        },
-        {
-          "title": "Atlete Mieke Sterk overleden, de wereldrecordhoudster die voor de PvdA in de Tweede Kamer zat",
-          "source": "Sportgeschiedenis",
-          "url": "https://sportgeschiedenis.nl/atletiek/atlete-mieke-sterk-overleden-de-wereldrecordhoudster-die-voor-de-pvda-in-de-tweede-kamer-zat/",
-          "publishedDate": "Tue, 27 Oct 2026 12:49:00 GMT",
-          "description": "Atlete Mieke Sterk is overleden. Ze deed mee aan de Olympische Spelen van 1968. Ook zat ze voor de PvdA in de Tweede Kamer.&#160;&#160; In 1976 vocht Mieke Sterk een juridisch conflict uit met het NOC. Foto Rob ..."
-        }
-      ]
-    },
-    {
-      "keyword": "treinongeluk spanje",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Treinramp | Spanje begint aan drie dagen van nationale rouw",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/buitenland/6414748/treinramp-spanje-begint-aan-drie-dagen-van-nationale-rouw.html",
+          "url": "https://www.nu.nl/economie/6414722/pensioenfondsen-verdienen-aan-hogere-rentes-in-aanloop-naar-nieuw-stelsel.html",
           "publishedDate": "Wed, 28 Oct 2026 17:00:00 GMT",
-          "description": "Hallo en welkom in dit liveblog. Hier houden we je op de hoogte van de ontwikkelingen over het treinongeluk in Spanje."
+          "description": "Pensioenfondsen ABP en PME staan er beter voor dan een kwartaal eerder. Het is in economisch onrustige tijden nog even volhouden tot 1 januari, als het geld verdeeld gaat worden over de pensioenpotjes ..."
         },
         {
-          "title": "Slachtoffers over treinongeluk Spanje: 'Je leven flitst in een seconde voorbij'",
+          "title": "Mogelijk flinke pensioenverhoging bij ABP en PME door gestegen dekkingsgraad",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2637026-slachtoffers-over-treinongeluk-spanje-je-leven-flitst-in-een-seconde-voorbij",
-          "publishedDate": "Wed, 28 Oct 2026 06:42:00 GMT",
-          "description": "Radiostation Onda Cero spreekt een man die in de trein zat die stilstond op het spoor. Zo'n vijf minuten later voelde hij &quot;een zeer, zeer, sterke klap&quot;."
-        }
-      ]
-    },
-    {
-      "keyword": "wolf",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Is typisch Nederlands beeld van koe in de wei binnenkort verleden tijd door toedoen van wolf? ‘Konden hierop wachten’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/is-typisch-nederlands-beeld-van-koe-in-de-wei-binnenkort-verleden-tijd-door-toedoen-van-wolf-konden-hierop-wachten~a9d0b8f1/",
-          "publishedDate": "Tue, 27 Oct 2026 18:21:00 GMT",
-          "description": "Nu de wolf zijn dieet deels verlegt naar rund, dwingt het roofdier ons tot zoeken naar antwoorden op nieuwe vragen. Is de traditionele weidegang nog te behouden? Hoe voorkomen we dat heidevelden overw ..."
+          "url": "https://nos.nl/artikel/2637103-mogelijk-flinke-pensioenverhoging-bij-abp-en-pme-door-gestegen-dekkingsgraad",
+          "publishedDate": "Wed, 28 Oct 2026 16:09:00 GMT",
+          "description": "De pensioenfondsen ABP en PME staan er goed voor. De afgelopen maanden profiteerden zij van de gestegen rente, waardoor de dekkingsgraad van het ambtenarenfonds en het fonds voor de metaal- en ..."
         },
         {
-          "title": "20 kilometer hekwerk en een kostenpost van tienduizenden euro’s om paarden tegen de wolf te beschermen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/20-kilometer-hekwerk-en-een-kostenpost-van-tienduizenden-euros-om-paarden-tegen-de-wolf-te-beschermen~a178c0dd/",
-          "publishedDate": "Sun, 25 Oct 2026 01:29:00 GMT",
-          "description": "Tientallen paarden in Soest staan ogenschijnlijk zorgeloos in hun weiland. Maar om te zorgen dat ze hier veilig kunnen blijven staan, moeten maatregelen worden genomen vanwege de wolf. Hier wordt meer ..."
+          "title": "Pensioen bij ABP en PME mogelijk flink omhoog in 2027: zoveel kun je extra krijgen",
+          "source": "RTV Focus Zwolle",
+          "url": "https://www.rtvfocuszwolle.nl/pensioenverhoging-2027-abp-pme-dekkingsgraad/",
+          "publishedDate": "Thu, 29 Oct 2026 04:08:00 GMT",
+          "description": "De dekkingsgraad van ABP en PME stijgt boven 130%. PME verwacht 12,6% meer pensioen in 2027. Bekijk hoeveel extra je per maand kunt krijgen."
         },
         {
-          "title": "Wolf maakt zwijnen en herten op Veluwe alerter: 'Vroeger zat er weinig pit in'",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2635314-wolf-maakt-zwijnen-en-herten-op-veluwe-alerter-vroeger-zat-er-weinig-pit-in",
-          "publishedDate": "Sat, 17 Oct 2026 01:20:00 GMT",
-          "description": "Prooidieren zoals herten en zwijnen hebben zich door de komst van de wolf naar de Veluwe aangepast. Hun gedrag is natuurlijker, constateren onderzoekers."
+          "title": "Pensioenverhoging lonkt: PME mikt op 12,6 procent in 2027",
+          "source": "ThePostOnline",
+          "url": "https://tpo.nl/2026/10/29/pme-abp-dekkingsgraad-pensioenverhoging-2027/",
+          "publishedDate": "Thu, 29 Oct 2026 01:41:00 GMT",
+          "description": "Pensioenverhoging lonkt bij PME en ABP: de dekkingsgraad steeg door de hogere rente naar ruim 132 procent. PME rekent voor 2027 al op een plus van 12,6 procent."
         },
         {
-          "title": "Meisje (8) raakt ernstig gewond door aanval van wolf in Duits wildpark",
-          "source": "nu",
-          "url": "https://nu.cw/2026/10/28/meisje-8-raakt-ernstig-gewond-door-aanval-van-wolf-in-duits-wildpark/",
-          "publishedDate": "Wed, 28 Oct 2026 12:43:00 GMT",
-          "description": "Een achtjarig meisje is woensdagochtend aangevallen door een wolf in een wildpark in het noordoosten van Duitsland. Het kind raakte ernstig gewond, bevestigt de politie aan Duitse media."
+          "title": "Verhoging van PME-pensioenen met 12,6% in 2027 lonkt",
+          "source": "MetaalNieuws",
+          "url": "https://www.metaalnieuws.nl/verhoging-van-pme-pensioenen-met-126-in-2027-lonkt/",
+          "publishedDate": "Wed, 28 Oct 2026 16:06:00 GMT",
+          "description": "PME gaat met een sterke financi&#235;le positie het laatste kwartaal in voor de overgang naar de nieuwe pensioenregeling."
         },
         {
-          "title": "Dode wolf aangetroffen op pechstrook E34 in Zoersel: Ben, Nederlandse wolf of zwerver?",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/wolf-aangereden-e34-zoersel/",
-          "publishedDate": "Wed, 28 Oct 2026 09:06:00 GMT",
-          "description": "Op de E34 in Zoersel is vanmorgen een dode mannetjeswolf aangetroffen op de pechstrook. Dat schrijft Het Laatste Nieuws. Het dier is intussen opgehaald en morgen zal er een autopsie gebeuren. De wolf ..."
+          "title": "Hogere rente maakt pensioenpot voller, maar zet de overstap op scherp",
+          "source": "Welingelichte Kringen",
+          "url": "https://www.welingelichtekringen.nl/economie/hogere-rente-maakt-pensioenpot-voller-maar-zet-de-overstap-op-scherpe",
+          "publishedDate": "Mon, 26 Oct 2026 01:53:00 GMT",
+          "description": "Door de stijgende rente staan pensioenfondsen er beter voor. Voor fondsen die op 1 januari overstappen, kan de afgesproken verdeling van het geld daardoor juist gaan knellen."
         },
         {
-          "title": "Wolf doodgereden op E34 tussen Zoersel en Lille: “DNA-onderzoek moet uitwijzen om welke wolf het gaat”",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/zoersel/wolf-doodgereden-op-e34-tussen-zoersel-en-lille-dna-onderzoek-moet-uitwijzen-om-welke-wolf-het-gaat~a6b481e6/",
-          "publishedDate": "Wed, 28 Oct 2026 05:21:00 GMT",
-          "description": "Op de E34 tussen het Antwerpse Zoersel en Lille is een wolf overreden en op de pechstrook terechtgekomen. Om welke wolf het precies gaat, is nog onduidelijk. Wel is zeker dat het om een groot mannetje ..."
+          "title": "APC-pensioen stijgt iets",
+          "source": "Antilliaans Dagblad",
+          "url": "https://antilliaansdagblad.com/artikel/curacao/20260827/kleine-verhoging-apc-pensioen",
+          "publishedDate": "Thu, 27 Aug 2026 16:00:00 GMT",
+          "description": "Willemstad - Gepensioneerden en deelnemers van het Algemeen Pensioenfonds Cura&#231;ao (APC) krijgen er een klein beetje pensioen bij. Het bestuur van het fonds heeft besloten om 0,51 procent aan eerder ..."
         },
         {
-          "title": "Wolf in Duitse dierentuin grijpt meisje (8), dat dagje mocht meelopen met dierenverzorger",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/buitenland/wolf-in-duitse-dierentuin-grijpt-meisje-8-dat-dagje-mocht-meelopen-met-dierenverzorger~afa7643b/",
-          "publishedDate": "Wed, 28 Oct 2026 04:42:00 GMT",
-          "description": "In het Duitse dierenpark Johannism&#252;hle is woensdag een kind gewond geraakt. De politie meldt dat de jonge bezoeker aangevallen werd door ‘een of meer dieren’. Duitse bronnen melden dat een wolf het ki ..."
-        },
-        {
-          "title": "Dood dier afgeleverd bij gemeentehuis Oldebroek om wolvenbeleid",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/politiek/beleid/artikelen/dood-dier-gemeentehuis-oldebroek-wolf",
-          "publishedDate": "Wed, 28 Oct 2026 04:09:00 GMT",
-          "description": "Bij het gemeentehuis van Oldebroek is een pakket met een dood dier en een brief over de wolf afgeleverd. De politie onderzoekt het incident na de melding."
-        },
-        {
-          "title": "Camera toont succesvolle aanval wolf op hert, confronterend voor kijkers",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/ede/camera-toont-succesvolle-aanval-wolf-op-hert-confronterend-voor-kijkers~aeb62375/",
-          "publishedDate": "Sat, 24 Oct 2026 18:21:00 GMT",
-          "description": "Het is voor veel kijkers even slikken: beelden waarop een wolf een vrouwelijk hert bejaagt en uiteindelijk ook doodt. De aanval is op te zien op camera’s van Natuurmonumenten."
-        }
-      ]
-    },
-    {
-      "keyword": "liverpool - chelsea",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Liverpool verslaat Chelsea in League Cup, Emegha mist strafschop bij debuut",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2637102-liverpool-verslaat-chelsea-in-league-cup-emegha-mist-strafschop-bij-debuut",
-          "publishedDate": "Wed, 28 Oct 2026 17:06:00 GMT",
-          "description": "Op Anfield is het na de reguliere speeltijd 1-1 door strafschoppen van Cody Gakpo en Morgan Rogers en wint de thuisploeg de penaltyserie met 6-5."
-        },
-        {
-          "title": "Gakpo, Gravenberch en Van Dijk ontsnappen met Liverpool in League Cup",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6414745/gakpo-gravenberch-en-van-dijk-ontsnappen-met-liverpool-in-league-cup.html",
-          "publishedDate": "Wed, 28 Oct 2026 16:31:00 GMT",
-          "description": "Liverpool heeft woensdag na een spannende penaltyserie tegen Chelsea de kwartfinale van de League Cup bereikt. Cody Gakpo was vanaf de penaltystip uiterst succesvol, terwijl zijn landgenoten Ryan Grav ..."
-        },
-        {
-          "title": "Misser Gravenberch komt Liverpool niet duur te staan in zenuwslopende penaltyreeks, belangrijke rol Gakpo",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/misser-gravenberch-komt-liverpool-niet-duur-te-staan-in-zenuwslopende-penaltyreeks-belangrijke-rol-gakpo~a5552e8b/",
-          "publishedDate": "Wed, 28 Oct 2026 08:47:00 GMT",
-          "description": "Liverpool bekert door na een spannende strafschoppenserie tegen Chelsea. Na negentig minuten stond er nog 1-1 op het scorebord, waarna beide ploegen aan de gevreesde loterij begonnen. Een misser van R ..."
-        },
-        {
-          "title": "Liverpool schakelt Chelsea uit na bizarre avond zonder velddoelpunt op Anfield",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/liverpool-manchester-city-door-na-penaltys-league-cup",
-          "publishedDate": "Wed, 28 Oct 2026 16:14:00 GMT",
-          "description": "Liverpool en Manchester City zijn door in de League Cup. Op een avond zonder velddoelpunten op Anfield klopte Liverpool Chelsea na penalty's, terwijl City won van Brighton."
-        },
-        {
-          "title": "Liverpool-fans gaan volledig los over ‘shit-Nederlander’",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/liverpool-fans-gaan-volledig-los-over-shit-nederlander/",
-          "publishedDate": "Wed, 28 Oct 2026 15:44:00 GMT",
-          "description": "In de League Cup is het treffen tussen Liverpool en Chelsea h&#233;t affiche van de achtste finales. Cody Gakpo is belangrijk voor The Reds met een treffer, ..."
-        },
-        {
-          "title": "Nederlanders spelen hoofdrol in bizarre penaltyserie: Liverpool bekert door ten koste van Chelsea",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/nederlanders-spelen-hoofdrol-in-bizarre-penaltyserie-liverpool-bekert-door-ten-koste-van-chelsea/ar-AA2gh2xx",
-          "publishedDate": "Wed, 28 Oct 2026 15:21:48 GMT",
-          "description": "Liverpool heeft zich geplaatst voor de volgende ronde van de Carabao Cup. Op Anfield werd Chelsea na strafschoppen uitgeschakeld (1-1, 7-6 na penalty's). Het duel kende weinig kansen en kwam eigenlijk ..."
-        },
-        {
-          "title": "Praat mee op VP: drie Nederlanders in de basis bij Liverpool tegen Chelsea",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-drie-nederlanders-in-de-basis-bij-liverpool-tegen-chelsea/ar-AA2gg7fK",
-          "publishedDate": "Wed, 28 Oct 2026 11:47:00 GMT",
-          "description": "Liverpool en Chelsea staan woensdagavond tegenover elkaar in een absolute kraker in de League Cup. De wedstrijd begint om 21.00 uur. Volg het duel hieronder in de live-omgeving van VoetbalPrimeur en p ..."
-        },
-        {
-          "title": "Op welke zender kijk je Liverpool – Chelsea live?",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-liverpool-chelsea-live/",
-          "publishedDate": "Wed, 28 Oct 2026 06:16:00 GMT",
-          "description": "In de Carabao Cup staan Liverpool en Chelsea tegenover elkaar. In de SN TV-gids zie je op welke zender dit duel te zien is."
-        },
-        {
-          "title": "Zo verliepen de laatste ontmoetingen tussen Liverpool en Chelsea",
-          "source": "VoetbalNieuws.nl",
-          "url": "https://www.voetbalnieuws.nl/nieuws/2152196/zo-verliepen-de-laatste-ontmoetingen-tussen-liverpool-en-chelsea-vn.html",
-          "publishedDate": "Wed, 28 Oct 2026 04:39:00 GMT",
-          "description": "Liverpool en Chelsea treffen elkaar woensdagavond in de vierde ronde van de League Cup. The Reds hopen op Anfield een einde te maken aan een reeks van drie ontmoetingen zonder overwinningen tegen Chel ..."
-        },
-        {
-          "title": "Bekerduel tussen Liverpool en Chelsea: 100x je inleg bij goal van jouw ploeg!",
-          "source": "Voetbalprimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2152160/bekerduel-tussen-liverpool-en-chelsea-100x-je-inleg-bij-goal-van-jouw-ploeg.html",
-          "publishedDate": "Wed, 28 Oct 2026 03:00:00 GMT",
-          "description": "ADVERTORIAL - Liverpool krijgt woensdag bezoek van Chelsea in de EFL Cup. De Engelse giganten gaan uitmaken wie er verder bekert, en wie er al vroeg sneuvelt. BetCity staat klaar met een welkomstactie ..."
-        }
-      ]
-    },
-    {
-      "keyword": "goede tijden, slechte tijden",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Jette van der Meij bleef haar personage Laura in ‘Goede tijden, slechte tijden’ 35 jaar lang trouw",
-          "source": "Volkskrant",
-          "url": "https://www.volkskrant.nl/cultuur-media/jette-van-der-meij-bleef-haar-personage-laura-in-goede-tijden-slechte-tijden-35-jaar-lang-trouw~bf670ef4/",
-          "publishedDate": "Wed, 01 Oct 2025 10:06:00 GMT",
-          "description": "Actrice Jette van der Meij neemt woensdagavond na 35 jaar afscheid als Laura Selmhorst, in de jubileumaflevering van soapserie Goede tijden, slechte tijden op RTL4. ‘Als mensen op straat ‘H&#233; Laura’ ..."
-        },
-        {
-          "title": "GTST Spoilers - maandag 2 t/m donderdag 5 november 2026",
-          "source": "TVgids.nl",
-          "url": "https://www.tvgids.nl/nieuws/serie/gtst-spoilers-maandag-2-tm-donderdag-5-november-2026-demi-verliefd-troj-nola",
-          "publishedDate": "Tue, 27 Oct 2026 00:00:00 GMT",
-          "description": "Demi liet in de maandtrailer van Goede Tijden, Slechte Tijden al weten vlinders in haar buik te hebben, maar de grote vraag bleef: voor wie? De GTST spoilers van de eerste week van november 2026 geven ..."
-        },
-        {
-          "title": "Goede tijden, slechte tijden",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/tv-gids/rtl-8/uitzending/aflevering/f6623c3a-30a9-4111-8be9-50eab2d57cb3",
-          "publishedDate": "Mon, 19 Oct 2026 15:06:00 GMT",
-          "description": "Rik mag naar huis, maar voelt zich nog niet goed genoeg. Shanti laat zich niet geruststellen door Billy wanneer ze haar zorgen om Rik deelt. Julian krijgt steeds meer last van zijn nachtmerries. Noor ..."
-        },
-        {
-          "title": "Bartje, Goede Tijden, Slechte Tijden en Donald Duck: Ahmad is een veelzijdige bezige bij",
-          "source": "PZC",
-          "url": "https://www.pzc.nl/tholen/bartje-goede-tijden-slechte-tijden-en-donald-duck-ahmad-is-een-veelzijdige-bezige-bij~a3bfa3e2/",
-          "publishedDate": "Mon, 06 Apr 2026 03:17:00 GMT",
-          "description": "Ahmad Resh heeft met zijn werk Bartje – de graphic novel de Storyworld Publieksprijs gewonnen. De veelzijdige verhalenverteller uit Scherpenisse beleeft dinsdag bovendien zijn televisiedebuut. Die dag ..."
-        },
-        {
-          "title": "NU+ Fans over 35 jaar GTST: 'Vroeger trilde het decor als een deur dichtging'",
-          "source": "NU",
-          "url": "https://www.nu.nl/film/6370792/fans-over-35-jaar-gtst-vroeger-trilde-het-decor-als-een-deur-dichtging.html",
-          "publishedDate": "Wed, 01 Oct 2025 02:20:00 GMT",
-          "description": "Affaires, chantage en cliffhangers die generaties kijkers aan de buis kluisterden: Goede Tijden, Slechte Tijden bestaat op 1 oktober 35 jaar. NU.nl spreekt met fans van het eerste uur over de soap die ..."
-        },
-        {
-          "title": "Harm (45) uit Veghel regisseert sterfsc&#232;ne Laura en spectaculaire jubileumaflevering ‘Goede tijden, slechte tijden’: ‘Ik ben zo trots’",
-          "source": "bd.nl",
-          "url": "https://www.bd.nl/show/harm-45-uit-veghel-regisseert-sterfscene-laura-en-spectaculaire-jubileumaflevering-goede-tijden-slechte-tijden-ik-ben-zo-trots~a19aef49/",
-          "publishedDate": "Fri, 26 Sep 2025 17:13:00 GMT",
-          "description": "Van een varkensboerderij in Veghel naar de regiestoel van de langstlopende soap van Nederland: Harm van der Sanden regisseerde de extra feestelijke jubileumaflevering ter ere van 35 jaar Goede tijden, ..."
-        },
-        {
-          "title": "Goede Tijden Slechte Tijden bestaat 35 jaar: het is vertrouwd",
-          "source": "Nieuws",
-          "url": "https://nieuws.nl/entertainment/goede-tijden-slechte-tijden-bestaat-35-jaar-het-is-vertrouwd",
-          "publishedDate": "Wed, 24 Sep 2025 00:00:00 GMT",
-          "description": "Goede Tijden Slechte Tijden overleefde concurrenten als Onderweg naar Morgen en Goudkust en bestaat op 1 oktober precies 35 jaar. Een jubileum dat wordt gevierd met een dubbellange aflevering."
-        },
-        {
-          "title": "Dit GTST-icoon stopt na 35 jaar, Reinout Oerlemans keert voor even terug",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/entertainment/bners/artikelen/deze-actrice-stopt-35-jaar-goede-tijden-slechte-tijden-gtst",
-          "publishedDate": "Tue, 23 Sep 2025 23:57:00 GMT",
-          "description": "Een icoon in de Nederlandse televisiegeschiedenis neemt afscheid. Actrice Jette van der Meij (71) stopt na 35 jaar met haar rol als Laura Selmhorst in Goede Tijden, Slechte Tijden. Ze is voor het ..."
-        },
-        {
-          "title": "Ben jij een echte fan van Goede tijden, slechte tijden? Test je kennis",
+          "title": "Dekkingsgraad pensioenfondsen kruipt langzaam omhoog",
           "source": "AD",
-          "url": "https://www.ad.nl/quiz/ben-jij-een-echte-fan-van-goede-tijden-slechte-tijden-test-je-kennis~a9be20f8/",
-          "publishedDate": "Tue, 23 Sep 2025 21:59:00 GMT",
-          "description": "Het nieuwe seizoen van Goede tijden, slechte tijden is in volle gang. Hoeveel weet jij van het programma? Test je kennis over de Tour de France en win een sporthorloge ter waarde van 450 euro! Quiz &amp; ..."
+          "url": "https://www.ad.nl/economie/dekkingsgraad-pensioenfondsen-kruipt-langzaam-omhoog~a86009cc/",
+          "publishedDate": "Wed, 19 Jul 2017 17:22:00 GMT",
+          "description": "'De dekkingsgraad kruipt langzaam verder omhoog en dat is op zich positief', zegt voorzitter Corien Wortmann-Kool van ambtenarenfonds ABP. 'Toch verwachten we dat we de pensioenen de komende vijf jaar ..."
+        },
+        {
+          "title": "Dekkingsgraad haalt kwart van verlies sinds crisis in",
+          "source": "NU",
+          "url": "https://www.nu.nl/economie/3765038/dekkingsgraad-haalt-kwart-van-verlies-sinds-crisis-in.html",
+          "publishedDate": "Thu, 01 May 2014 04:07:00 GMT",
+          "description": "De gemiddelde dekkingsgraad van de Nederlandse pensioenfondsen heeft een kwart goedgemaakt van de totale daling die tijdens de kredietcrisis in 2007 is ingezet. Dat meldt De Nederlandsche Bank (DNB) ..."
         }
       ]
     },
     {
-      "keyword": "etten-leur",
-      "trafficLabel": "10K+",
+      "keyword": "tijger",
+      "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Those Vegan Cowboys uit Etten-Leur klaar voor Amerikaanse markt",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/economie/those-vegan-cowboys-uit-etten-leur-klaar-voor-amerikaanse-markt",
-          "publishedDate": "Wed, 28 Oct 2026 08:07:00 GMT",
-          "description": "ETTEN-LEUR (ANP) - Those Vegan Cowboys, het plantaardigekaasbedrijf van de oprichters van De Vegetarische Slager, verwacht zijn eerste diervrije kaaseiwitproducten volgend jaar op de markt te brengen."
-        },
-        {
-          "title": "Maanden omrijden in Etten-Leur is voorbij, drukbezochte rotonde eindelijk weer open",
-          "source": "ZuidWest Update",
-          "url": "https://www.zuidwestupdate.nl/nieuws/maanden-omrijden-in-etten-leur-is-voorbij-drukbezochte-rotonde-eindelijk-weer-open/",
-          "publishedDate": "Wed, 28 Oct 2026 05:08:00 GMT",
-          "description": "De rotonde op de kruising van de Hoevenseweg, Concordialaan en Wildbaan in Etten-Leur is weken eerder dan gepland weer open."
-        },
-        {
-          "title": "Van de huizen in Etten-Leur werd 90 procent binnen drie maanden verkocht",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/etten-leur/van-de-huizen-in-etten-leur-werd-90-procent-binnen-drie-maanden-verkocht~a7258fdf/",
-          "publishedDate": "Wed, 28 Oct 2026 02:30:00 GMT",
-          "description": "Van de huizen die in juli, augustus en september in Etten-Leur werden verkocht, stond 90 procent korter dan drie maanden te koop. Dat blijkt uit cijfers van het landelijke makelaarscollectief Dynamis."
-        },
-        {
-          "title": "Gemeente Etten-Leur legt beslag op Oude Raadhuis om ‘situatie te bevriezen’",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/etten-leur/gemeente-etten-leur-legt-beslag-op-oude-raadhuis-om-situatie-te-bevriezen~a65409c4/",
-          "publishedDate": "Tue, 27 Oct 2026 23:01:00 GMT",
-          "description": "De gemeente Etten-Leur heeft beslag laten leggen op het Oude Raadhuis nadat ontwikkelaar Bernard de Nijs - sinds juli eigenaar - het pand alweer in de etalage zette. ‘Situatie bevriezen’."
-        },
-        {
-          "title": "Monteur onwel in zwembad De Banakker in Etten-Leur door mogelijk chloorlekkage",
-          "source": "ZuidWest Update",
-          "url": "https://www.zuidwestupdate.nl/nieuws/monteur-onwel-in-zwembad-de-banakker-in-etten-leur-door-mogelijk-chloorlekkage/",
-          "publishedDate": "Tue, 27 Oct 2026 04:25:00 GMT",
-          "description": "In zwembad De Banakker in Etten-Leur is dinsdagochtend een monteur onwel geworden. Volgens een woordvoerder van de Veiligheidsregio Midden- en West-Brabant gaat het waarschijnlijk om een chloorlekkage ..."
-        },
-        {
-          "title": "Jet van der Linden en Theo Wijngaards presenteren gedichtenbundel in Etten-Leur",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/brabant/jet-van-der-linden-en-theo-wijngaards-presenteren-gedichtenbundel-in-etten-leur~aba51050/",
-          "publishedDate": "Tue, 27 Oct 2026 04:17:00 GMT",
-          "description": "Jet van der Linden en Theo Wijngaards presenteren hun gedichtenbundel Droom je droom voorbij in De Nobelaer in Etten-Leur. Zaterdag 21 november begint de boekpresentatie om 15.00 uur."
-        },
-        {
-          "title": "Etten-Leur zoekt kunstenaar voor permanent kunstwerk in wijk De Streek",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/brabant/etten-leur-zoekt-kunstenaar-voor-permanent-kunstwerk-in-wijk-de-streek~a9820d68/",
-          "publishedDate": "Mon, 26 Oct 2026 04:50:00 GMT",
-          "description": "De gemeente Etten-Leur zoekt een professionele kunstenaar voor een permanent kunstwerk in de wijk De Streek. Het kunstwerk komt bij voorkeur in het park in het westelijke deel van de wijk."
-        },
-        {
-          "title": "Eigen zonnestroom en batterijopslag maken bedrijfsontwikkeling in Etten-Leur mogelijk voor Dekker Vastgoed",
-          "source": "Solar365",
-          "url": "https://www.solar365.nl/nieuws/eigen-zonnestroom-en-batterijopslag-maken-bedrijfsontwikkeling-in-etten-leur-mogelijk-voor-dekker-vastgoed-67ADB5B5.html",
-          "publishedDate": "Thu, 15 Oct 2026 17:01:00 GMT",
-          "description": "Dekker Vastgoed &amp; Energie bouwt in Etten-Leur ruim 7.000 vierkante meter kantoor- en bedrijfsruimte met een eigen energievoorziening. Met zonnepanelen, batterijopslag en energiemanagement wil de ontwi ..."
-        },
-        {
-          "title": "Gemeente Etten-Leur: gebied rond coffeeshop Noorderlight blijft hotspot voor handhaving",
-          "source": "Cannabisindustrie.nl",
-          "url": "https://cannabisindustrie.nl/coffeeshop-noorderlight-etten-leur-hotspot-handhaving/",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 GMT",
-          "description": "Het gebied rond coffeeshop Noorderlight in Etten-Leur blijft hotspot voor handhaving. Het college antwoordt op vragen van JA21."
-        },
-        {
-          "title": "Markt Etten-Leur in 2027 autoluw, onderzoek begint in 2026",
-          "source": "ED",
-          "url": "https://www.ed.nl/brabant/markt-etten-leur-in-2027-autoluw-onderzoek-begint-in-2026~a0ded2d9/",
-          "publishedDate": "Tue, 09 Sep 2025 21:33:00 GMT",
-          "description": "De Markt van Etten-Leur kan in 2027 autoluw zijn, denkt wethouder Jean-Pierre Schouw. Het onderzoek ernaar begint volgend jaar. Er komt snel een voorstel om de Markt van Etten-Leur autoluw te maken."
-        }
-      ]
-    },
-    {
-      "keyword": "snelheidscontrole",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Politie bekeurt bestuurders tijdens snelheidscontrole op Kennedyweg",
-          "source": "SR Nieuws",
-          "url": "https://www.srnieuws.com/politie-bekeurt-bestuurders-tijdens-snelheidscontrole-op-kennedyweg",
-          "publishedDate": "Thu, 17 Sep 2026 08:02:00 GMT",
-          "description": "De politie van bureau Rijsdijk heeft een snelheidscontrole gehouden op de Kennedyweg, ter hoogte van de Keetje Jovalweg. Tijdens de controle werden drie rijbewijzen ingevorderd vanwege het ..."
-        },
-        {
-          "title": "49 bestuurders beboet tijdens tweedaagse snelheidscontrole Kennedyweg",
-          "source": "SR Nieuws",
-          "url": "https://www.srnieuws.com/49-bestuurders-beboet-tijdens-tweedaagse-snelheidscontrole-kennedyweg",
-          "publishedDate": "Sun, 30 Aug 2026 01:17:00 GMT",
-          "description": "In het kader van de Vakantie Veiligheidsplan Regio Midden heeft de afdeling Verkeer Regio Midden van het Korps Politie Suriname gedurende twee opeenvolgende dagen snelheidscontroles uitgevoerd op de ..."
-        },
-        {
-          "title": "Twee opvallende incidenten tijdens snelheidscontrole op Kennedylaan",
-          "source": "studioalphen.nl",
-          "url": "https://www.studioalphen.nl/nieuws/twee-opvallende-incidenten-tijdens-snelheidscontrole-op-kennedylaan/",
-          "publishedDate": "Thu, 04 Dec 2025 07:28:00 GMT",
-          "description": "ALPHEN AAN DEN RIJN - Afgelopen weekend hield de politie een snelheidscontrole op de Kennedylaan in Alphen aan den Rijn. Hierbij vonden er twee opvallende incidenten plaats. Het eerste incident vond ..."
-        },
-        {
-          "title": "Vliegende eend geflitst bij snelheidscontrole",
-          "source": "jeugdjournaal",
-          "url": "https://jeugdjournaal.nl/l/2567190",
-          "publishedDate": "Wed, 14 May 2025 01:15:00 GMT",
-          "description": "Geen snelle auto, maar een hele snelle eend is geflitst bij een snelheidscontrole in Zwitserland. De eend vloog 52 kilometer per uur op een weg waar je maar 30 kilometer per uur mag rijden. En dan ..."
-        },
-        {
-          "title": "Automobilist rijdt 151 km/u tijdens snelheidscontrole: rijbewijs ingevorderd",
-          "source": "Waterkant",
-          "url": "https://www.waterkant.net/suriname/2025/02/20/automobilist-betrapt-op-151-km-u-tijdens-snelheidscontrole-rijbewijs-ingevorderd/",
-          "publishedDate": "Thu, 20 Feb 2025 02:31:00 GMT",
-          "description": "De politie in Suriname heeft tijdens een snelheidscontrole op de Indira Gandhiweg een bestuurder betrapt die maar liefst 151 km/u reed. De controle, uitgevoerd door de afdeling Verkeer Midden in ..."
-        },
-        {
-          "title": "Meerdere bekeuringen bij snelheidscontrole Midden-Brabantweg",
-          "source": "tilburg.nieuws",
-          "url": "https://tilburg.nieuws.nl/nieuws/meerdere-bekeuringen-bij-snelheidscontrole-midden-brabantweg",
-          "publishedDate": "Sun, 02 Feb 2020 10:41:00 GMT",
-          "description": "Zaterdagavond 1 februari tussen 20:30 uur en 21:30 uur werd er een snelheidscontrole op de Midden-Brabantweg tussen Tilburg en Loon op Zand gehouden. Er werden 9 bekeuringen uitgeschreven voor ..."
-        },
-        {
-          "title": "Meerdere boetes uitgedeeld bij snelheidscontrole",
-          "source": "tilburg.nieuws",
-          "url": "https://tilburg.nieuws.nl/nieuws/meerdere-boetes-uitgedeeld-snelheidscontrole",
-          "publishedDate": "Thu, 22 Feb 2018 00:27:00 GMT",
-          "description": "Op woensdagmiddag hielden agenten een snelheidscontrole bij industrieterrein 't Laar in Tilburg . Een zestal automobilisten kregen een bekeuring vanwege het overschrijden van de maximum snelheid van ..."
-        },
-        {
-          "title": "Oudorp - Snelheidscontrole Oudorp",
-          "source": "Alarmeringen",
-          "url": "https://alarmeringen.nl/nieuws/12471-oudorp-snelheidscontrole-oudorp.html",
-          "publishedDate": "Tue, 16 Jul 2013 10:16:00 GMT",
-          "description": "Op dinsdag hield de politie tussen 09.30 en 13.30 uur een snelheidscontrole op de Saturnusstraat in Oudorp. Van de 486 passanten reden er 42 sneller dan de toegestane 50 km per uur."
-        },
-        {
-          "title": "Nieuw-Vennep - Snelheidscontrole Nieuw-Vennep",
-          "source": "Alarmeringen",
-          "url": "https://alarmeringen.nl/nieuws/9701-nieuw-vennep-snelheidscontrole-nieuw-vennep.html",
-          "publishedDate": "Tue, 18 Jun 2013 06:58:00 GMT",
-          "description": "De politie heeft maandagavond tussen 19.30 en 20.00 uur een snelheidscontrole gehouden op de Noordelijke Randweg, gelegen tussen de Operaweg en de Spoorlaan. Vier automobilisten die een ..."
-        },
-        {
-          "title": "Federale politie hield grootschalige snelheidscontrole op autosnelwegen",
-          "source": "Knack",
-          "url": "https://www.knack.be/nieuws/federale-politie-hield-grootschalige-snelheidscontrole-op-autosnelwegen/",
-          "publishedDate": "Sun, 21 Apr 2013 13:37:00 GMT",
-          "description": "(Belga) De federale politie heeft zondag tussen 14 uur en 22 uur een grootschalige snelheidscontrole gehouden op het hele Belgische autosnelwegennet. De resultaten van de nationale actie zullen pas ..."
-        }
-      ]
-    },
-    {
-      "keyword": "manchester city - brighton",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Misser Gravenberch komt Liverpool niet duur te staan in zenuwslopende penaltyreeks, belangrijke rol Gakpo",
+          "title": "Verklaring van familie na dodelijk incident met tijger: ‘William was warm en innemend’",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/misser-gravenberch-komt-liverpool-niet-duur-te-staan-in-zenuwslopende-penaltyreeks-belangrijke-rol-gakpo~a5552e8b/",
-          "publishedDate": "Wed, 28 Oct 2026 08:47:00 GMT",
-          "description": "Liverpool bekert door na een spannende strafschoppenserie tegen Chelsea. Na negentig minuten stond er nog 1-1 op het scorebord, waarna beide ploegen aan de gevreesde loterij begonnen. Een misser van R ..."
+          "url": "https://www.ad.nl/buitenland/verklaring-van-familie-na-dodelijk-incident-met-tijger-william-was-warm-en-innemend~aa41499b/",
+          "publishedDate": "Tue, 13 Oct 2026 20:38:00 GMT",
+          "description": "De 23-jarige William Chapman, die zaterdag om het leven kwam nadat hij in het tijgerverblijf van Yorkshire Wildlife Park was geklommen, was een ‘stralende, warme en innemende’ jongeman. Dat laat zijn ..."
         },
         {
-          "title": "Oud-Ajacied is ineens de held van Manchester City",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/oud-ajacied-is-ineens-de-held-van-manchester-city/",
-          "publishedDate": "Wed, 28 Oct 2026 16:43:00 GMT",
-          "description": "Ger&#243;nimo Rulli heeft zich woensdagavond tot d&#233; held ontpopt bij Manchester City. De Argentijnse sluitpost, die het normaliter moet doen met een ..."
+          "title": "'Niet stout zijn', riep slachtoffer tegen tijger in Brits dierenpark",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/buitenland/artikel/5658630/britse-man-doodgebeten-tijger",
+          "publishedDate": "Mon, 12 Oct 2026 09:44:00 GMT",
+          "description": "De man die zaterdag werd doodgebeten door een tijger nadat hij diens verblijf in een Brits dierenpark was binnengeklommen, zei tegen het dier dat het 'niet zo stout' moest doen. Omstanders probeerden ..."
         },
         {
-          "title": "Liverpool schakelt Chelsea uit na bizarre avond zonder velddoelpunt op Anfield",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/liverpool-manchester-city-door-na-penaltys-league-cup",
-          "publishedDate": "Wed, 28 Oct 2026 16:14:00 GMT",
-          "description": "Liverpool en Manchester City zijn door in de League Cup. Op een avond zonder velddoelpunten op Anfield klopte Liverpool Chelsea na penalty's, terwijl City won van Brighton."
+          "title": "Brits dierenpark langer dicht na dood van man in tijgerverblijf, dier niet afgemaakt",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6412789/brits-dierenpark-langer-dicht-na-dood-van-man-in-tijgerverblijf-dier-niet-afgemaakt.html",
+          "publishedDate": "Sun, 11 Oct 2026 07:26:00 GMT",
+          "description": "Yorkshire Wildlife Park blijft gesloten nadat een tijger een man aanviel die in het verblijf was geklommen. De man overleed aan zijn verwondingen. De tijger zal niet worden afgemaakt."
         },
         {
-          "title": "Doku en De Cuyper scoren allebei: City wint bekerthriller na strafschoppen",
-          "source": "voetbalfocus",
-          "url": "https://voetbalfocus.be/doku-de-cuyper-city-wint-bekerthriller-strafschoppen/",
-          "publishedDate": "Wed, 28 Oct 2026 16:01:00 GMT",
-          "description": "Jeremy Doku en Maxim De Cuyper hebben allebei gescoord in een zenuwslopende strafschoppenreeks tussen Manchester City en Brighton. Na een 2-2-gelijkspel trok City uiteindelijk aan het langste eind in ..."
+          "title": "Heb jij Tijger of Alaska gezien? Deze twee huisdieren worden in Roermond vermist",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/roermond/heb-jij-tijger-of-alaska-gezien-deze-twee-huisdieren-worden-in-roermond-vermist~a5b8b185/",
+          "publishedDate": "Sun, 11 Oct 2026 04:11:00 GMT",
+          "description": "Afgelopen week raakten in Roermond twee huisdieren vermist die we hier op een rij zetten. Wie heeft Tijger of Alaska gezien?"
         },
         {
-          "title": "Doku en De Cuyper bikkelen: bekerconfrontatie wordt thriller",
-          "source": "VoetbalNieuws.be",
-          "url": "https://www.voetbalnieuws.be/news/931847/doku-en-de-cuyper-bikkelen-bekerconfrontatie-wordt-thriller",
-          "publishedDate": "Wed, 28 Oct 2026 15:47:00 GMT",
-          "description": "Wat een zenuwslopende avond voor Jeremy Doku en Maxim De Cuyper! Manchester City en Brighton moesten na een 2-2 gelijkspel naar de ..."
+          "title": "Bezoeker die tijgerverblijf binnengaat omgekomen bij aanval in Engeland",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2634518-bezoeker-die-tijgerverblijf-binnengaat-omgekomen-bij-aanval-in-engeland",
+          "publishedDate": "Sat, 10 Oct 2026 17:33:00 GMT",
+          "description": "De politie van South Yorkshire kreeg om 13.35 uur een melding binnen over een man die het tijgerverblijf in het park was binnengegaan. De tijger viel de man vervolgens aan, waarna hij ter plaatse ..."
         },
         {
-          "title": "Oud-Ajacied Rulli groeit uit tot grote held van Manchester City na bloedstollend bekerduel",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/oud-ajacied-rulli-groeit-uit-tot-grote-held-van-manchester-city-na-bloedstollend-bekerduel/blt421522c4d44131a0",
-          "publishedDate": "Wed, 28 Oct 2026 15:38:00 GMT",
-          "description": "Manchester City heeft zich na een zenuwslopende strafschoppenserie tegen Brighton &amp; Hove Albion geplaatst voor de volgende ronde van de Carabao Cup (2-2, 6-5 na strafschoppen). De ploeg van Enzo ..."
+          "title": "Man gedood door tijger nadat hij verblijf in Brits dierenpark was ingesprongen",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6412738/man-gedood-door-tijger-nadat-hij-verblijf-in-brits-dierenpark-was-ingesprongen.html",
+          "publishedDate": "Sat, 10 Oct 2026 13:04:00 GMT",
+          "description": "Een man is zaterdag om het leven gekomen bij een aanval van een tijger in een dierentuin in Yorkshire, in het Verenigd Koninkrijk. De man was het verblijf van de tijger ingesprongen. Het dierenpark ..."
         },
         {
-          "title": "Nederlandse penaltymissers in League Cup, Rulli redt titelverdediger City",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/nederlandse-penaltymissers-in-league-cup-rulli-redt-titelverdediger-city",
-          "publishedDate": "Wed, 28 Oct 2026 15:15:00 GMT",
-          "description": "Liverpool is er woensdagavond in geslaagd de volgende ronde van de League Cup te bereiken. In een wedstrijd zonder velddoelpunten gaven penalty's de doorslag. Eerder op de avond had ook Manchester Cit ..."
+          "title": "Tijger bijt man dood die in zijn verblijf klom in Britse dierentuin",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/buitenland/artikel/5658341/man-overleden-die-tijgerverblijf-britse-dierentuin-inklom",
+          "publishedDate": "Sat, 10 Oct 2026 12:24:00 GMT",
+          "description": "Een man is overleden nadat hij in een Britse dierentuin door een tijger werd aangevallen. Hij liep ernstige verwondingen op en is ter plekke doodverklaard. Het park is voor de rest van het weekend dic ..."
         },
         {
-          "title": "Manchester City voorkomt pas na strafschoppen nieuwe verrassing in League Cup",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/matches/voetbal/buitenland/eng/carabao-cup/2026-2027/4e-ronde/01/manchester-city-brighton-hove-albion-manchester-city-voorkomt-pas-na-strafschoppen-nieuwe-verrassing-in-league-cup~1787907377354/",
-          "publishedDate": "Wed, 28 Oct 2026 13:33:00 GMT",
-          "description": "Manchester City is met de schrik vrijgekomen in de League Cup. Na de uitschakeling van kampioen Arsenal wist de vicekampioen een nieuwe verrassing te voorkomen tegen Brighton na strafschoppen."
+          "title": "Man klimt bij tijger in dierenpark in Engeland en bekoopt dat met zijn leven",
+          "source": "VRT NWS on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/man-overleden-nadat-hij-in-tijgerverblijf-was-geklommen-van-engels-dierenpark/ar-AA2dZCXp",
+          "publishedDate": "Sun, 11 Oct 2026 09:17:54 GMT",
+          "description": "In een Engels dierenpark is een man overleden nadat hij werd aangevallen door een tijger. De man was zelf in het tijgerverblijf van Yorkshire Wildlife Park geklommen."
         },
         {
-          "title": "Op welke zender kijk je Manchester City – Brighton in de Carabao Cup live?",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-manchester-city-brighton-in-de-carabao-cup-live/",
-          "publishedDate": "Wed, 28 Oct 2026 11:52:00 GMT",
-          "description": "Manchester City neemt het in de Carabao Cup op tegen Brighton. In de SN TV-gids zie je op welke zender dit duel te zien is."
+          "title": "Opgezette tijger van 35.000 euro gestolen uit museumwinkel; eigenaar looft 1.000 euro tipgeld uit",
+          "source": "Waterkant",
+          "url": "https://www.waterkant.net/suriname/2025/08/12/opgezette-tijger-van-35-000-euro-gestolen-uit-museumwinkel-eigenaar-looft-1-000-euro-tipgeld-uit/",
+          "publishedDate": "Tue, 12 Aug 2025 12:00:00 GMT",
+          "description": "Foto (c) L.v.B. Bij een museumwinkel in de Nederlandse stad Nijmegen vond afgelopen week een opmerkelijke diefstal plaats. Een opgezette tijger (foto) met een verkoopwaarde van 35.000 euro werd ..."
         },
         {
-          "title": "Praat mee op VP: oud-Ajacied Rulli keept bij bekerduel Man City tegen Brighton",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-oud-ajacied-rulli-keept-bij-bekerduel-man-city-tegen-brighton/ar-AA2ggSI3",
-          "publishedDate": "Wed, 28 Oct 2026 11:25:00 GMT",
-          "description": "Manchester City en Brighton &amp; Hove Albion staan woensdagavond tegenover elkaar in de League Cup. De wedstrijd begint om 20.30 uur. Volg het duel hieronder in de live-omgeving van VoetbalPrimeur en pra ..."
+          "title": "Resten van &#233;chte laatste Tasmaanse tijger ontdekt in Australisch museum (en het is niet Benjamin)",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2022/12/05/huid-en-skelet-van-laatste-tasmaanse-tijger-ontdekt-in-museum-e/",
+          "publishedDate": "Mon, 05 Dec 2022 01:04:00 GMT",
+          "description": "De restanten van de laatste Tasmaanse tijger zijn na meer dan 85 jaar teruggevonden. Het laatste exemplaar stierf in de zoo van Hobart, in Australi&#235;, in 1936. Veel mensen denken dat dat laatste ..."
         }
       ]
     },
     {
-      "keyword": "sparta rotterdam - fortuna",
-      "trafficLabel": "10K+",
+      "keyword": "steven berghuis",
+      "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Mislukte panenka en glijpartij nekken Sparta in strafschoppenreeks tegen Fortuna",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6414730/mislukte-panenka-en-glijpartij-nekken-sparta-in-strafschoppenreeks-tegen-fortuna.html",
-          "publishedDate": "Wed, 28 Oct 2026 14:37:00 GMT",
-          "description": "Fortuna Sittard heeft woensdag Sparta Rotterdam via een opmerklijke strafschoppenreeks uitgeschakeld in de eerste ronde van de KNVB-beker. Sparta ging uiteindelijk onderuit na een mislukte panenka en ..."
+          "title": "Schittert Steven Berghuis eindelijk weer, draait Ajax niet: hoe zoektocht naar waardig slot van stilist gaande blijft",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/sport/schittert-steven-berghuis-eindelijk-weer-draait-ajax-niet-hoe-zoektocht-naar-waardig-slot-van-stilist-gaande-blijft~b738b6a9/",
+          "publishedDate": "Sun, 17 Aug 2025 01:30:00 GMT",
+          "description": "Toen Ajax vorig jaar presteerde, viel Steven Berghuis (34) uit de toon. Nu het elftal worstelt, schittert de sierlijke routinier weer als vanouds. Hoe de zoektocht naar een waardig slot van zijn ..."
         },
         {
-          "title": "Fortuna wint strafschoppenserie van Sparta, TOP en Genemuiden verrassen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2637085-fortuna-wint-strafschoppenserie-van-sparta-top-en-genemuiden-verrassen",
-          "publishedDate": "Wed, 28 Oct 2026 13:41:00 GMT",
-          "description": "Op het Kasteel is het na de verlenging 2-2 en wint Fortuna na strafschoppen. TOP verrast PEC in Zwolle en Genemuiden verrast Dordrecht."
+          "title": "‘Steven Berghuis tekent en sluit carri&#232;re af bij droomclub’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/steven-berghuis-tekent-en-sluit-carriere-af-bij-droomclub/",
+          "publishedDate": "Thu, 29 Oct 2026 01:00:00 GMT",
+          "description": "Steven Berghuis is nog altijd niet terug van weggeweest bij Ajax. De vraag rijst of hij &#252;berhaupt wel zijn rentree maakt in Amsterdam. Staat zijn droom ..."
         },
         {
-          "title": "Fortuna ten koste van Sparta door in KNVB-beker na penalty's",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/fortuna-ten-koste-van-sparta-door-in-knvb-beker-na-penaltys",
-          "publishedDate": "Wed, 28 Oct 2026 14:51:00 GMT",
-          "description": "ROTTERDAM (ANP) - Sparta Rotterdam is in de eerste ronde van de KNVB-beker in eigen huis uitgeschakeld door Fortuna Sittard. De ploeg van trainer Danny Buijs bleek op Het Kasteel de betere na strafsch ..."
-        },
-        {
-          "title": "Fortuna Sittard schakelt Sparta uit in KNVB Beker na knotsgekke penalty's",
+          "title": "Steven Berghuis ontbreekt al weken bij Ajax: dit is er aan de hand",
           "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/fortuna-sittard-na-bizarre-penaltyreeks-langs-sparta-en-uitblinker-zonneveld",
-          "publishedDate": "Wed, 28 Oct 2026 14:37:00 GMT",
-          "description": "Fortuna Sittard is na een bizarre strafschoppenreeks tegen Sparta (2-2) door in de KNVB Beker. Zelfs twee goals van uitblinker Milan Zonneveld waren niet genoeg."
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/steven-berghuis-ontbreekt-al-weken-bij-ajax-dit-is-er-aan-de-hand",
+          "publishedDate": "Wed, 28 Oct 2026 23:55:00 GMT",
+          "description": "Ajax wacht al weken op Steven Berghuis, die kampt met een opspelende oude blessure. De aanvaller is op de weg terug en hoopt snel zijn rentree te maken."
         },
         {
-          "title": "Sparta Rotterdam na opmerkelijke strafschoppenserie uitgeschakeld in KNVB-beker",
-          "source": "VoetbalRotterdam",
-          "url": "https://www.voetbalrotterdam.nl/2026/10/sparta-rotterdam-na-opmerkelijke-strafschoppenserie-uitgeschakeld-in-knvb-beker/",
-          "publishedDate": "Wed, 28 Oct 2026 14:17:00 GMT",
-          "description": "Sparta Rotterdam is woensdagavond 28 oktober uitgeschakeld in de eerste ronde van de KNVB-beker. Fortuna Sittard trok op Het Kasteel na een 2-2 gelijkspel en ..."
+          "title": "Abdellah Ouazane draagt zijn doelpunt op aan Steven Berghuis",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/abdellah-ouazane-draagt-goal-steven-berghuis-ajax",
+          "publishedDate": "Sun, 25 Oct 2026 14:25:00 GMT",
+          "description": "Abdellah Ouazane scoorde voor Ajax tegen Sparta Rotterdam en draagt zijn treffer op aan Steven Berghuis. Bekijk hier hoe zijn gouden tip het verschil maakte."
         },
         {
-          "title": "Sparta uitgeschakeld na bizarre penaltyserie tegen Fortuna Sittard",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2274574/sparta-uitgeschakeld-na-bizarre-penaltyserie-tegen-fortuna-sittard",
-          "publishedDate": "Wed, 28 Oct 2026 13:50:00 GMT",
-          "description": "Sparta is uitgeschakeld in de KNVB-beker. De Rotterdammers leken tegen Fortuna Sittard op weg naar uitschakeling, maar sleepten er in de slotminuut een verlenging uit. Na 120 minuten stond het 2-2, wa ..."
+          "title": "Ouazane kreeg advies van Steven Berghuis: &quot;Hij raadde het aan&quot;",
+          "source": "Ajax1.nl",
+          "url": "https://www.ajax1.nl/ouazane-kreeg-advies-van-steven-berghuis-hij-raadde-het-aan/",
+          "publishedDate": "Sun, 25 Oct 2026 14:08:00 GMT",
+          "description": "Lees nu | Abdellah Ouazane is bezig aan een indrukwekkende week bij Ajax. De zeventienjarige aanvaller was na zijn fraaie doelpunt tegen Atalanta ..."
         },
         {
-          "title": "Fortuna bekert door ten koste van Sparta na bijzondere penaltysituatie",
+          "title": "Ouazane dankt tip Berghuis voor zijn treffer",
           "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/fortuna-bekert-door-ten-koste-van-sparta-na-bijzondere-penaltysituatie/ar-AA2ggscR",
-          "publishedDate": "Wed, 28 Oct 2026 13:30:57 GMT",
-          "description": "Fortuna Sittard mag zich melden in de tweede ronde van de KNVB Beker. De Limburgers waren woensdagavond op bezoek in Rotterdam na strafschoppen te sterk voor Sparta. In de reguliere speeltijd was Fort ..."
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/ouazane-dankt-tip-berghuis-voor-zijn-treffer/ar-AA2g2vWt",
+          "publishedDate": "Sun, 25 Oct 2026 11:37:50 GMT",
+          "description": "Abdellah Ouazane heeft zijn treffer opgedragen aan concurrent Steven Berghuis. Het zeventienjarige talent was zondag trefzeker voor Ajax op bezoek bij Sparta Rotterdam . Op advies van Berghuis had hij ..."
         },
         {
-          "title": "Live 18.45 uur | Sparta Rotterdam - Fortuna Sittard (1-2)",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-1845-uur-sparta-rotterdam-fortuna-sittard-1-2/ar-AA2gdofG",
-          "publishedDate": "Wed, 28 Oct 2026 12:45:00 GMT",
-          "description": "Dit is het livetopic voor de wedstrijden in de Eurojackpot KNVB Beker van woensdag 28 oktober. Sparta Rotterdam en Fortuna Sittard treffen elkaar in een Eredivisie-onderonsje, terwijl meerdere amateur ..."
+          "title": "Berghuis en Blind trainen weer mee bij Ajax, maar duel met Atalanta komt te vroeg",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/364621/berghuis-en-blind-trainen-weer-mee-bij-ajax-maar-duel-met-atalanta-komt-te-vroeg",
+          "publishedDate": "Wed, 21 Oct 2026 07:07:00 GMT",
+          "description": "Daley Blind en Steven Berghuis trainen na blessures weer mee bij Ajax, maar missen Atalanta. M&#237;chel rekent zondag tegen Heracles op hun terugkeer. Lees verder."
         },
         {
-          "title": "Praat mee op VP: Sparta Rotterdam – Fortuna Sittard",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-sparta-rotterdam-fortuna-sittard/ar-AA2ggjhR",
-          "publishedDate": "Wed, 28 Oct 2026 10:45:00 GMT",
-          "description": "Sparta Rotterdam en Fortuna Sittard staan woensdagavond tegenover elkaar in de eerste ronde van de KNVB Beker. De wedstrijd begint om 18.45 uur. Volg het duel hieronder in de live-omgeving van Voetbal ..."
+          "title": "M&#237;chel krijgt Ajax-meevaller richting clash met Atalanta",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/michel-krijgt-ajax-meevaller-richting-clash-met-atalanta/",
+          "publishedDate": "Wed, 21 Oct 2026 06:10:00 GMT",
+          "description": "Bij Ajax zijn routiniers Steven Berghuis en Daley Blind weer teruggekeerd op het trainingsveld richting het duel met Atalanta."
         },
         {
-          "title": "KNVB legt Fortuna Sittard verbod op: 'We hebben vernomen dat...'",
+          "title": "Steven Berghuis vindt nieuwe balans bij Ajax, mede dankzij yoga: ‘Ik wil zo lang mogelijk door’",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/lelystad/steven-berghuis-vindt-nieuwe-balans-bij-ajax-mede-dankzij-yoga-ik-wil-zo-lang-mogelijk-door~a5e23720/",
+          "publishedDate": "Thu, 24 Jul 2025 22:16:00 GMT",
+          "description": "Steven Berghuis (33) is met vijf treffers de topscorer en blikvanger van Ajax in de oefencampagne. De stilist weigert na blessures af te bouwen en schetst in Como hoe coach John Heitinga, aanwas van ..."
+        },
+        {
+          "title": "Steven Berghuis is trots op volwassenheid bij Oranje: ‘We kunnen dus zakelijk winnen’",
+          "source": "AD",
+          "url": "https://www.ad.nl/wk-voetbal/steven-berghuis-is-trots-op-volwassenheid-bij-oranje-we-kunnen-dus-zakelijk-winnen~a645ee97/",
+          "publishedDate": "Mon, 21 Nov 2022 17:26:00 GMT",
+          "description": "Zijn voormalige ploeggenoot Robin van Persie vertelde er ooit al eens smakelijk over, destijds na een interland met Ghana. Vrijwel elk duel met een Afrikaanse speler, waar ook op het veld, deed pijn, ..."
+        }
+      ]
+    },
+    {
+      "keyword": "bas nijhuis",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Valentijn Driessen uit zijn zorgen om Bas Nijhuis",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/valentijn-driessen-uit-zijn-zorgen-om-bas-nijhuis/bltbe2459ec0725d2d6",
+          "publishedDate": "Thu, 29 Oct 2026 04:07:00 GMT",
+          "description": "Valentijn Driessen heeft zijn zorgen geuit over de scheidsrechterscarri&#232;re van Bas Nijhuis. De 49-jarige arbiter hoopte afgelopen weekend weer zijn rentree te maken, maar moest door een nieuwe blessur ..."
+        },
+        {
+          "title": "Zorgen over scheidsrechterscarri&#232;re Nijhuis: 'Dan lijkt hij wel een kreupele'",
+          "source": "Voetbal Centraal",
+          "url": "https://www.voetbalcentraal.nl/nieuws/1809581/Zorgen-over-scheidsrechterscarrière-Nijhuis:--Dan-lijkt-hij-wel-een-kreupele-",
+          "publishedDate": "Thu, 29 Oct 2026 03:30:00 GMT",
+          "description": "Valentijn Driessen vraagt zich af of Bas Nijhuis nog terugkeert als scheidsrechter in de Eredivisie. De verslaggever van De Telegraaf maakt zich zorgen over het fysiek van de 49-jarige leidsman, iets ..."
+        },
+        {
+          "title": "Grote zorgen om Bas Nijhuis: 'In &#233;&#233;n klap einde verhaal'",
           "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/sparta-rotterdam-fortuna-knvb-legt-fortuna-sittard-verbod-op",
-          "publishedDate": "Wed, 28 Oct 2026 08:14:00 GMT",
-          "description": "De KNVB heeft het speciale witte bekertenue van Fortuna Sittard afgekeurd voor het duel met Sparta Rotterdam. Fortuna speelt woensdag in het geel-groen."
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/zorgen-om-bas-nijhuis-arbiter-moet-rentree-uitstellen-door-nieuwe-tegenslag",
+          "publishedDate": "Thu, 29 Oct 2026 02:35:00 GMT",
+          "description": "Scheidsrechter Bas Nijhuis moet zijn rentree op het veld uitstellen na een nieuwe fysieke tegenslag. Valentijn Driessen maakt zich grote zorgen om de arbiter: &quot;Dan zou het in &#233;&#233;n klap einde verhaal zi ..."
+        },
+        {
+          "title": "Zorgen over carri&#232;re Bas Nijhuis: 'Hij loopt zo moeilijk, lijkt soms wel kreupel'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/zorgen-over-carri%C3%A8re-bas-nijhuis-hij-loopt-zo-moeilijk-lijkt-soms-wel-kreupel/ar-AA2gk57d",
+          "publishedDate": "Thu, 29 Oct 2026 02:30:29 GMT",
+          "description": "Valentijn Driessen vraagt zich af of Bas Nijhuis nog terugkeert als scheidsrechter in de Eredivisie. De verslaggever van De Telegraaf maakt zich zorgen over het fysiek van de 49-jarige leidsman, iets ..."
+        },
+        {
+          "title": "Zorgen om Bas Nijhuis: &quot;Dat zou in &#233;&#233;n klap einde verhaal zijn&quot;",
+          "source": "FCGFans",
+          "url": "https://www.fcgfans.nl/zorgen-om-bas-nijhuis-dat-zou-in-een-klap-einde-verhaal-zijn/",
+          "publishedDate": "Thu, 29 Oct 2026 02:15:00 GMT",
+          "description": "Lees nu | Bas Nijhuis zou komend weekend zijn rentree maken als scheidsrechter in het betaald voetbal. De arbiter uit Enschede staat al maanden langs ..."
+        },
+        {
+          "title": "KNVB wijst arbiter bij Ajax - AZ aan, Bas Nijhuis krijgt geen wedstrijd",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/knvb-wijst-arbiter-bij-ajax-az-aan-bas-nijhuis-krijgt-geen-wedstrijd/ar-AA2g5XWn",
+          "publishedDate": "Mon, 26 Oct 2026 08:17:00 GMT",
+          "description": "Allard Lindhout moet Ajax – AZ zaterdag in goede banen gaan leiden. Dat maakt de KNVB bekend via de offici&#235;le kanalen. De 39-jarige scheidsrechter wordt in de Johan Cruijff ArenA geassisteerd door Joh ..."
+        },
+        {
+          "title": "Wim Kieft is kritisch op Bas Nijhuis na televisie-optreden: 'Hij moet...'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/wim-kieft-is-kritisch-op-bas-nijhuis-na-televisie-optreden",
+          "publishedDate": "Thu, 22 Oct 2026 07:59:00 GMT",
+          "description": "Wim Kieft is kritisch op de televisieoptredens van Bas Nijhuis. De analist vindt dat de scheidsrechter beter moet opletten bij de programma's waaraan hij meedoet."
+        },
+        {
+          "title": "Wim Kieft heeft goedbedoeld advies voor Bas Nijhuis: 'Je moet daar een beetje voorzichtig mee zijn'",
+          "source": "vandaaginside",
+          "url": "https://www.vandaaginside.nl/media/bners/artikelen/wim-kieft-heeft-goedbedoeld-advies-voor-bas-nijhuis-je-moet-daar-een-beetje",
+          "publishedDate": "Thu, 22 Oct 2026 07:04:00 GMT",
+          "description": "Vervolgens deelt Wim zijn advies voor Bas: &quot;Ik begrijp dat je dingen leuk vindt en misschien de centjes nodig hebt, maar je moet wel een beetje kieskeurig blijven toch? Achter in een auto en alles wat ..."
+        },
+        {
+          "title": "Nijhuis: 'We slaan nu helemaal door, het wordt alleen maar erger'",
+          "source": "Voetbal Centraal",
+          "url": "https://www.voetbalcentraal.nl/nieuws/1799464/Nijhuis:--We-slaan-nu-helemaal-door,-het-wordt-alleen-maar-erger-",
+          "publishedDate": "Mon, 19 Oct 2026 14:25:00 GMT",
+          "description": "Bas Nijhuis maakt zich zorgen om de VAR en de bijbehorende discussies. Volgens de scheidsrechter slaan we in Nederland door. Ook het idee om oud-topvoetballers als VAR in te zetten vindt Nijhuis geen ..."
+        },
+        {
+          "title": "Scheidsrechter Bas Nijhuis loopt tegen nieuwe domper aan na horrorblessure",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/scheidsrechter-bas-nijhuis-loopt-tegen-nieuwe-domper-aan-na-horrorblessure-2026101304055871915/",
+          "publishedDate": "Mon, 12 Oct 2026 23:34:00 GMT",
+          "description": "De bekende voetbalscheidsrechter Bas Nijhuis kampte de afgelopen tijd met een vervelende achillespeesblessure. De arbiter staat op het punt terug te keren in het betaald voetbal in Nederland, maar bij ..."
+        }
+      ]
+    },
+    {
+      "keyword": "el niño",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "De ‘super-El Ni&#241;o’ is begonnen. Hoe erg kan het worden?",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/10/29/de-super-el-nino-is-begonnen-hoe-erg-kan-het-worden-a4938437",
+          "publishedDate": "Wed, 28 Oct 2026 23:00:00 GMT",
+          "description": "Klimaat: El Ni&#241;o, het weerfenomeen dat het wereldwijde klimaat ontregelt, is dit jaar sterker dan ooit. Dat gaat leiden tot droogte &#233;n zware regenval. Waar zijn de grootste extremen te verwachten?"
+        },
+        {
+          "title": "De heftigste El Ni&#241;o ooit heeft een reden: klimaatverandering",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/columns-opinie/de-heftigste-el-nino-ooit-heeft-een-reden-klimaatverandering~bd7a8f23/",
+          "publishedDate": "Wed, 28 Oct 2026 10:00:00 GMT",
+          "description": "De lezersbrieven! Over het verschil tussen koopkracht en consumeren, de protestgolf onder jongeren, Boudewijn de Groot, de ‘Moeder aller bommen’ en waarom we binnenkort door AI worden geregeerd."
+        },
+        {
+          "title": "In Nairobi kan El Ni&#241;o tot grote overstromingen leiden. Kan de stad de ellende voor zijn?",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/10/27/in-nairobi-kan-el-nino-tot-grote-overstromingen-leiden-kan-de-stad-de-ellende-voor-zijn-a4939282",
+          "publishedDate": "Tue, 27 Oct 2026 09:13:00 GMT",
+          "description": "Extreem weer: Rivierbeddingen worden schoongemaakt, afwateringen hersteld en huizen gesloopt. Toch bestaat de vrees dat de Keniaanse hoofdstad Nairobi onvoldoende bestand is tegen overstromingen. In d ..."
+        },
+        {
+          "title": "Argentini&#235; evacueert ruim 2000 mensen door overstromingen El Ni&#241;o",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/argentinie-evacueert-ruim-2000-mensen-door-overstromingen-el-nino~aff293b9/",
+          "publishedDate": "Fri, 23 Oct 2026 18:11:00 GMT",
+          "description": "In het noordoosten van Argentini&#235; hebben deze week zeker 2200 mensen hun huis moeten verlaten door overstromingen. Door hevige regenval, veroorzaakt door het klimaatfenomeen El Ni&#241;o, staan de rivieren ..."
+        },
+        {
+          "title": "Waarom een ‘super-El Ni&#241;o’ op komst is en wat dat kan betekenen voor weer, voedselprijzen en hitterecords",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/klimaat/waarom-een-super-el-nino-op-komst-is-en-wat-dat-kan-betekenen-voor-weer-voedselprijzen-en-hitterecords~ad6d2a97/",
+          "publishedDate": "Sun, 21 Jun 2026 16:42:00 GMT",
+          "description": "Er is een super-El Ni&#241;o op komst, een natuurverschijnsel dat kan zorgen voor weersextremen. Het Rode Kruis is bezorgd. Volgens klimaatverslaggever Edwin Timmer is dat niet voor niets: de wereld mag zi ..."
+        },
+        {
+          "title": "‘Super-El Ni&#241;o’ bedreigt productie Indonesische palmolie",
+          "source": "Het Financieele Dagblad",
+          "url": "https://fd.nl/economie/1615863/super-el-nino-bedreigt-productie-indonesische-palmolie",
+          "publishedDate": "Sun, 18 Oct 2026 06:00:00 GMT",
+          "description": "De ergste bosbranden in tien jaar tijd hullen Indonesi&#235; in dikke oranje smog. Het weerfenomeen super-El Ni&#241;o veroorzaakt droogte en versterkt daardoor de vuurzee die Indonesi&#235; al sinds juli teistert."
+        },
+        {
+          "title": "El Ni&#241;o 2026-2027: waar verwachten we de grootste gevolgen?",
+          "source": "knmi",
+          "url": "https://www.knmi.nl/over-het-knmi/nieuws/el-nino-2026-2027-waar-verwachten-we-de-grootste-gevolgen",
+          "publishedDate": "Tue, 06 Oct 2026 17:00:00 GMT",
+          "description": "De El Ni&#241;o van 2026-2027 ligt op koers om de sterkste El Ni&#241;o te worden sinds het begin van de metingen. Volgens de laatste seizoensverwachtingen kan de huidige El Ni&#241;o een piekwaarde van rond 4 ..."
+        },
+        {
+          "title": "'Super-El Ni&#241;o' komt op gang op opgewarmde planeet en dit is wat dat betekent",
+          "source": "NU",
+          "url": "https://www.nu.nl/klimaat/6409392/super-el-nino-komt-op-gang-op-opgewarmde-planeet-en-dit-is-wat-dat-betekent.html",
+          "publishedDate": "Sat, 12 Sep 2026 23:06:00 GMT",
+          "description": "El Ni&#241;o slaat niet overal even hard toe, al zal de hele wereld tussen september en november volgens meteorologen bovengemiddeld warm zijn. Vooral landen die al kampen met oorlog, armoede en extreem ..."
+        },
+        {
+          "title": "Meteorologen waarschuwen voor extreem weer: &quot;Mogelijk krachtige El Ni&#241;o op komst&quot;",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/06/02/nieuwe-el-nino-deze-zomer/",
+          "publishedDate": "Tue, 02 Jun 2026 03:27:00 GMT",
+          "description": "De Wereld Meteorologische Organisatie (WMO) roept landen op om zich voor te bereiden op hoge temperaturen en extreem weer de komende maanden. Volgens de WMO is er een nieuwe El Ni&#241;o op komst, die ..."
+        },
+        {
+          "title": "Is er een sterke El Ni&#241;o op komst?",
+          "source": "knmi",
+          "url": "https://www.knmi.nl/over-het-knmi/nieuws/is-er-een-sterke-el-nino-op-komst/",
+          "publishedDate": "Tue, 14 Apr 2026 17:00:00 GMT",
+          "description": "Modellen geven aan dat er vanaf de zomer een grote kans is dat zich een El Ni&#241;o vormt in de Stille Oceaan. Hoe sterk deze wordt is echter nog onzeker. Wat is El Ni&#241;o? El Ni&#241;o is een natuurlijke ..."
+        }
+      ]
+    },
+    {
+      "keyword": "boerderij van dorst",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "De kaasschaafmentaliteit van Nederland liet zich gelden in ‘Boerderij Van Dorst’ en ‘Waar doen ze het van?’",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/televisie/de-kaasschaafmentaliteit-van-nederland-liet-zich-gelden-in-boerderij-van-dorst-en-waar-doen-ze-het-van~b127178b/",
+          "publishedDate": "Thu, 29 Oct 2026 04:10:00 GMT",
+          "description": "‘Ik haat kaasschaven. Ze staan niet symbool voor leukigheid. Het is een heel Hollands attribuut. Dat je het allemaal heel fijntjes moet afschaven, en niet te veel. Zunig! Nu heb ik gewoon een stuk ..."
+        },
+        {
+          "title": "Aan het ontbijt bij Raven van Dorst weigerde Noraly Beyer een kaasschaaf te gebruiken, ‘zo’n zuinig Nederlands attribuut’",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/han-lips/aan-het-ontbijt-bij-raven-van-dorst-weigerde-noraly-beyer-een-kaasschaaf-te-gebruiken-zo-n-zuinig-nederlands-attribuut~bb3f8f0b/",
+          "publishedDate": "Thu, 29 Oct 2026 00:42:00 GMT",
+          "description": "In de rubriek Han Lips schrijven verschillende redacteuren van Het Parool elke dag over wat hun opvalt op tv. Vandaag: Boerderij van Dorst."
+        },
+        {
+          "title": "Kijkers onder de indruk van Noraly Beyer en Frank van Leeuwen in Boerderij Van Dorst: 'Beste uitzending tot nu toe'",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/amusement/boerderij-van-dorst-noraly-beyer-frank-van-leeuwen",
+          "publishedDate": "Wed, 28 Oct 2026 14:23:00 GMT",
+          "description": "Een bijzonder mooi gesprek in de start van het nieuwe seizoen Boerderij Van Dorst. Journaliste Noraly Beyer en presentator Frank van Leeuwen blijken een gouden duo te vormen bij Raven van Dorst."
+        },
+        {
+          "title": "Noraly Beyer (80) in Boerderij van Dorst over overleden Joost Prinsen: ‘Ik mis hem’",
+          "source": "Story",
+          "url": "https://www.story.nl/tv/boerderijvandorst-noraly-beyer-joost-prinsen-overleden~251f36b",
+          "publishedDate": "Wed, 28 Oct 2026 14:20:00 GMT",
+          "description": "In Boerderij van Dorst doet Noraly Beyer (80) een boekje open over het verlies van haar partner Joost Prinsen."
+        },
+        {
+          "title": "Seizoen 6 aflevering 1/9Noraly Beyer en Frank van Leeuwen",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/tv-gids/npo-3/uitzending/aflevering/bcfd9283-da6b-4d6e-a275-afd1bc9d94b5",
+          "publishedDate": "Wed, 28 Oct 2026 05:25:00 GMT",
+          "description": "Humaninterestreeks (2026) waarin Raven van Dorst telkens twee BN'ers ontvangt op de boerderij, om hen het hemd van het lijf te vragen, terwijl zij de handen uit de mouwen steken Noraly Beyer en Frank ..."
+        },
+        {
+          "title": "Raven van Dorst botst met Renze over vriend Jetten: ‘Wat wil je?!’",
+          "source": "Mediacourant",
+          "url": "https://www.mediacourant.nl/2026/10/raven-van-dorst-botst-met-renze-over-vriend-jetten-wat-wil-je/",
+          "publishedDate": "Wed, 28 Oct 2026 01:30:00 GMT",
+          "description": "Raven van Dorst raakt ge&#239;rriteerd als Renze Klamer begint over de verloofde van Rob Jetten. Hij stelt een paar doodnormale vragen, maar Raven doet alsof hij een staatsgeheim probeert te ontfutselen. &quot; ..."
+        },
+        {
+          "title": "Vanavond op TV: Meisjes van de Goede Herder, Boerderij Van Dorst, Glass",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/televisie/vanavond-op-tv-meisjes-van-de-goede-herder-boerderij-van-dorst-glass",
+          "publishedDate": "Tue, 27 Oct 2026 23:47:00 GMT",
+          "description": "Er is ontzettend veel te zien, maar is alles ook de moeite waard? Wij zetten de beste tips voor een heerlijke avond voor de televisie op een rij. Dit zijn de kijktips voor woensdag 28 oktober 2026. To ..."
+        },
+        {
+          "title": "Noraly Beyer en Frank van Leeuwen in 'Boerderij van Dorst'",
+          "source": "TVvisie",
+          "url": "https://tvvisie.be/inhoud/nederland/noraly-beyer-en-frank-van-leeuwen-in-boerderij-van-dorst_143062/",
+          "publishedDate": "Tue, 27 Oct 2026 11:50:00 GMT",
+          "description": "Noraly Beyer en Frank van Leeuwen komen Raven van Dorst helpen op de boerderij. Samen leggen ze een wijngaard aan. Raven en Noraly halen de wijnranken op, waarna Frank en Raven aan de slag gaan met he ..."
+        },
+        {
+          "title": "Handen uit de mouwen: Boerderij van Dorst is weer op de buis",
+          "source": "stadsbladutrecht.nl",
+          "url": "https://indebuurt.nl/apeldoorn/boerderij-van-dorst-apeldoorn-2026~aed4ff87/",
+          "publishedDate": "Mon, 26 Oct 2026 02:04:00 GMT",
+          "description": "In het tv-programma Boerderij van Dorst knapt Raven diens boerderij in Apeldoorn op. De presentator neemt zowel de binnen- als de buitenruimte onder handen en krijgt elke week hulp van twee BN’ers."
+        },
+        {
+          "title": "Van Dorst zegt niet of gesprek met Nicol&#225;s Keenan al is gedraaid",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/van-dorst-zegt-niet-of-gesprek-met-nicolas-keenan-al-is-gedraaid",
+          "publishedDate": "Thu, 22 Oct 2026 09:30:00 GMT",
+          "description": "Raven van Dorst wil niet zeggen of de aflevering van Boerderij van Dorst met 'first man' Nicol&#225;s Keenan al is opgenomen of niet. Ook wil Van Dorst niet zeggen of de partner van premier Rob Jetten iets ..."
+        }
+      ]
+    },
+    {
+      "keyword": "asml",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "ASML-medewerker Omar Elshal (34) liep mee met het Rode Lijn-protest en zit sindsdien al een jaar vast in Cairo",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/asml-medewerker-omar-elshal-34-liep-mee-met-het-rode-lijn-protest-en-zit-sindsdien-al-een-jaar-vast-in-cairo~b7f08365/",
+          "publishedDate": "Wed, 28 Oct 2026 13:57:00 GMT",
+          "description": "De Egyptische Nederlander Omar Elshal (34), werkzaam voor chipmachinefabrikant ASML, zit nu ruim een jaar vast in een Egyptische gevangenis. Maandag verscheen hij voor het eerst voor een rechter, maar ..."
+        },
+        {
+          "title": "ASML investeert twintig jaar lang in dependance Rijksmuseum in Brabant: ‘Een renaissance voor cultuur in Eindhoven’",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/10/28/asml-investeert-twintig-jaar-lang-in-dependance-rijksmuseum-in-brabant-een-renaissance-voor-cultuur-in-eindhoven-a4939989",
+          "publishedDate": "Wed, 28 Oct 2026 10:00:00 GMT",
+          "description": "Rijksmuseum: ASML gaat 100 miljoen euro investeren in de komst van een dependance van het Rijksmuseum naar Eindhoven. De vestiging zal „wat meer ruimte” innemen dan gepland, nadat de gemeenteraad had ..."
+        },
+        {
+          "title": "Tech-aandelen dalen door AI-twijfels, ASML fors in de min",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2635053-tech-aandelen-dalen-door-ai-twijfels-asml-fors-in-de-min",
+          "publishedDate": "Thu, 15 Oct 2026 04:45:00 GMT",
+          "description": "Op de beurzen in Europa en Azi&#235; staan tech- en AI-aandelen vandaag fors in de min. Op de Amsterdamse beurs stond het aandeel ASML op een gegeven moment op een verlies van 6,7 procent ten opzichte van ..."
+        },
+        {
+          "title": "Goed derde kwartaal ASML, verdere groei verwacht",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2634897-goed-derde-kwartaal-asml-verdere-groei-verwacht",
+          "publishedDate": "Wed, 14 Oct 2026 06:27:00 GMT",
+          "description": "De chipmachinemaker zegt nu al interesse bij klanten te zien om in de komende paar jaar chipmachines te bestellen."
+        },
+        {
+          "title": "ASML-apparatuur zo erg in trek dat bedrijf niet aan vraag kan voldoen",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6413075/asml-apparatuur-zo-erg-in-trek-dat-bedrijf-niet-aan-vraag-kan-voldoen.html",
+          "publishedDate": "Wed, 14 Oct 2026 01:34:00 GMT",
+          "description": "Chipmachinemaker ASML zag de vraag naar zijn apparatuur het afgelopen kwartaal zo sterk stijgen, dat de capaciteit van het bedrijf eigenlijk tekortschiet. Volgens de topman komt dat met name door inve ..."
+        },
+        {
+          "title": "Onrust bij ASML’ers nu reorganisatie vordert: ‘Golf aan klachten’",
+          "source": "ED.nl",
+          "url": "https://www.ed.nl/asml/onrust-bij-asmlers-nu-reorganisatie-vordert-golf-aan-klachten~a5e996d6/",
+          "publishedDate": "Thu, 08 Oct 2026 01:01:00 GMT",
+          "description": "Onrust, klachten over procedures en onzekerheid. De stress bereikt een hoogtepunt voor duizenden medewerkers van ASML die hun huidige baan kwijtraken als gevolg van de reorganisatie. „Mensen voelen zi ..."
+        },
+        {
+          "title": "ASML krijgt nieuw handelscontract bij OKX dat dag en nacht doorgaat",
+          "source": "Crypto Insiders",
+          "url": "https://www.crypto-insiders.nl/nieuws/aandelen/asml-krijgt-nieuw-handelscontract-bij-okx-dat-dag-en-nacht-doorgaat/",
+          "publishedDate": "Wed, 28 Oct 2026 15:42:00 GMT",
+          "description": "Het aandeel ASML is in 2026 bijna 60 procent gestegen. Cryptobeurs OKX introduceert nu een nieuw contract waarmee ook buiten de gewone beursuren op de koers kan worden gehandeld."
+        },
+        {
+          "title": "ASML draagt 100 miljoen bij aan Rijksmuseum Eindhoven",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/asml-draagt-100-miljoen-bij-aan-rijksmuseum-eindhoven",
+          "publishedDate": "Wed, 28 Oct 2026 15:40:00 GMT",
+          "description": "ASML zal in twintig jaar tijd 100 miljoen euro bijdragen aan de toekomstige vestiging van het Rijksmuseum in Eindhoven. Dat hebben de gemeente en de chipmachinemaker vastgelegd."
+        },
+        {
+          "title": "Afhankelijkheid van ASML is enorm, maar ‘kwetsbaarheid valt mee’",
+          "source": "BNR Nieuwsradio",
+          "url": "https://www.bnr.nl/nieuws/tech-innovatie/10614487/afhankelijkheid-van-asml-is-enorm-maar-kwetsbaarheid-valt-mee",
+          "publishedDate": "Mon, 26 Oct 2026 15:55:00 GMT",
+          "description": "De Jong sluit zich daar helemaal bij aan. 'Andere bedrijven laten groeien is natuurlijk de weg voorwaarts. Ik zou het pas echt zorgelijk vinden als het bij die groei van ASML blijft. Dat die niet ..."
+        },
+        {
+          "title": "Kan ASML de vraag in 2027 nog wel bijbenen?",
+          "source": "De Belegger",
+          "url": "https://www.debelegger.nl/post/kan-asml-de-vraag-in-2027-nog-wel-bijbenen",
+          "publishedDate": "Sat, 17 Oct 2026 21:39:00 GMT",
+          "description": "ASML verwacht dat de geplande capaciteit in 2027 en 2028 niet aan de klantvraag voldoet en onderzoekt verdere uitbreiding. Dat is sterke vraagbevestiging, maar omzet ontstaat pas als leveranciers, mon ..."
+        }
+      ]
+    },
+    {
+      "keyword": "vader",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Een roman afmaken. Mijn vader heeft verstand van bijna",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/ditjes/een-roman-afmaken-mijn-vader-heeft-verstand-van-bijna~b1c13961/",
+          "publishedDate": "Tue, 27 Oct 2026 04:02:00 GMT",
+          "description": "Mijn vader is ervaringsdeskundige, hij weet hoe groot de afstand tussen bijna en helemaal af kan zijn. Zijn proefschrift is al jaren bijna af. ‘Ik hoop dat ik het volgende week al heb ingeleverd’, zeg ..."
+        },
+        {
+          "title": "Kartika Soekarno ziet haar vader op een Nederlands toneel weer mens worden",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/kartika-soekarno-ziet-haar-vader-op-een-nederlands-toneel-weer-mens-worden~b7a609f6/",
+          "publishedDate": "Mon, 26 Oct 2026 08:07:00 GMT",
+          "description": "‘Hoog bezoek’ bij het toneelstuk Soekarno in de Koninklijke Schouwburg van Den Haag. De jongste dochter van de eerste president van Indonesi&#235; kijkt toe hoe haar vader tot leven komt. ‘Hij was een ster ..."
+        },
+        {
+          "title": "Filipijnse minister over vader Meghan Markle: ‘Mogelijk zedendelinquent van de ergste soort’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/filipijnse-minister-over-vader-meghan-markle-mogelijk-zedendelinquent-van-de-ergste-soort~a1b9d9d6/",
+          "publishedDate": "Sun, 25 Oct 2026 00:24:00 GMT",
+          "description": "Alles wijst er op dit moment op dat Thomas Markle, de vader van Meghan, mogelijk ‘een zedendelinquent van de ergste soort’ is. Dat zegt Jonvic Remulla, de Filipijnse minister van Binnenlandse Zaken, t ..."
+        },
+        {
+          "title": "Broer Meghan Markle vindt kinderporno bij hun vader, politie start onderzoek",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636380-broer-meghan-markle-vindt-kinderporno-bij-hun-vader-politie-start-onderzoek",
+          "publishedDate": "Fri, 23 Oct 2026 10:59:00 GMT",
+          "description": "Thomas Markle stuitte in het huis van zijn vader op de Filipijnen op een hele hoop afbeeldingen en video’s van seksueel misbruik van kinderen."
+        },
+        {
+          "title": "Meghan Markle zou haar vader hebben geconfronteerd met beschuldigingen van misbruik in een brief",
+          "source": "ELLE",
+          "url": "https://www.elle.com/nl/lifestyle/lifestyle-nieuws/a74255847/meghan-markle-brief-vader-thomas-beschuldigingen-londen-politie-2026/",
+          "publishedDate": "Thu, 29 Oct 2026 02:00:00 GMT",
+          "description": "Thomas Markle sr. wordt in de Filipijnen onderzocht naar aanleiding van beschuldigingen dat hij in het bezit was van beeldmateriaal van seksueel misbruik van kinderen."
+        },
+        {
+          "title": "Vader van Lamine Yamal opnieuw in opspraak na heftig incident op luchthaven",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/vader-van-lamine-yamal-opnieuw-in-opspraak-na-heftig-incident-op-luchthaven-2026102818274606371/",
+          "publishedDate": "Wed, 28 Oct 2026 13:04:00 GMT",
+          "description": "Mounir Nasraoui, de vader van FC Barcelona-ster Lamine Yamal, is volgens Spaanse media opnieuw in opspraak geraakt. Vlak voor zijn vertrek naar het Ballon d'Or-gala in Londen zou hij betrokken zijn ..."
+        },
+        {
+          "title": "Kijktip: Carola Schouten blikt terug op onverwachte zwangerschap en verlies van vader",
+          "source": "indebuurt",
+          "url": "https://indebuurt.nl/rotterdam/rotterdammers/kijktip-carola-schouten-blikt-terug-op-onverwachte-zwangerschap-en-verlies-van-vader~a7f37e75/",
+          "publishedDate": "Tue, 27 Oct 2026 20:48:00 GMT",
+          "description": "Burgemeester Carola Schouten was onlangs te gast in het EO-programma Een buitengewoon gesprek. Hiervoor nam ze plaats in een kring met 25 bijzondere journalisten. Tijdens het gesprek gold &#233;&#233;n regel: i ..."
+        },
+        {
+          "title": "Politie grijpt in na melding dat vader meegenomen dochtertje (5) met de dood bedreigt",
+          "source": "Waterkant.net",
+          "url": "https://www.waterkant.net/suriname/2026/10/27/vader-neemt-5-jarig-dochtertje-mee-na-bedreigingen-politie-paranam-treft-beiden-aan/",
+          "publishedDate": "Tue, 27 Oct 2026 15:59:00 GMT",
+          "description": "Een 5-jarig meisje is dinsdag door haar vader meegenomen bij de omgeving van O.S. Tout Lui Faut aan de Martin Luther Kingweg. De politie van Houttuin ..."
+        },
+        {
+          "title": "Meghan verbrak vorig jaar contact met vader na beschuldigingen",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/koningshuis/meghan-verbrak-vorig-jaar-contact-met-vader-na-beschuldigingen",
+          "publishedDate": "Sun, 25 Oct 2026 14:03:00 GMT",
+          "description": "Meghan, de hertogin van Sussex, heeft vorig jaar in een brief het contact met haar vader Thomas Markle verbroken vanwege beschuldigingen van misbruik. Dat melden Britse media. Meghan heeft al jaren ge ..."
+        },
+        {
+          "title": "Eigen zoon beschuldigt vader Meghan Markle: Filipijnse justitie start onderzoek",
+          "source": "Suriname Herald",
+          "url": "https://www.srherald.com/buitenland/2026/10/24/eigen-zoon-beschuldigt-vader-meghan-markle-filipijnse-justitie-start-onderzoek/",
+          "publishedDate": "Fri, 23 Oct 2026 20:19:00 GMT",
+          "description": "De 82-jarige Thomas Markle, vader van Meghan Markle, ligt onder vuur na ernstige beschuldigingen van zijn eigen zoon. Die beweert honderden tot mogelijk duizenden beelden van seksueel kindermisbruik t ..."
+        }
+      ]
+    },
+    {
+      "keyword": "het roer om",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Chris Zegers gooit het roer om met nieuwe reisserie Voja op YouTube: ‘Ik wilde absolute creatieve vrijheid’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/chris-zegers-gooit-het-roer-om-met-nieuwe-reisserie-voja-op-youtube-ik-wilde-absolute-creatieve-vrijheid~a3a740e0/",
+          "publishedDate": "Wed, 28 Oct 2026 18:30:00 GMT",
+          "description": "Na zijn ‘geweldige’ tijd bij 3 op Reis van BNNVara reist Chris Zegers verder. Letterlijk en figuurlijk. Donderdag gaat Voja in premi&#232;re, een nieuwe YouTube-reisserie waarin niet de presentator, maar d ..."
+        },
+        {
+          "title": "Na breuk met Roxy gooit Robert uit De Bondgenoten het roer om",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5661663/na-breuk-met-roxy-gooit-robert-uit-de-bondgenoten-het-roer-om",
+          "publishedDate": "Wed, 28 Oct 2026 12:22:00 GMT",
+          "description": "De liefde tussen Robert en Roxy uit 'De Bondgenoten' is behoorlijk in het water gevallen. Na een veelbesproken bootfeest en de daaropvolgende relatiebreuk besloot Robert even van de radar te verdwijne ..."
+        },
+        {
+          "title": "John Williams van v&#243;&#243;r hij Hollywood veroverde, Ceremony gooit het roer om en Overmono stelt teleur. Plus: Madonna en Kylie eindelijk samen",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/08/07/john-williams-van-voor-hij-hollywood-veroverde-ceremony-gooit-het-roer-om-en-overmono-stelt-teleur-plus-madonna-en-kylie-eindelijk-samen-a4933828",
+          "publishedDate": "Fri, 07 Aug 2026 04:55:00 GMT",
+          "description": "Nieuwe muziek Het Singapore Symphony Orchestra zet minder bekend werk van filmcomponist John Williams in de spotlight. Verder zijn er nieuwe albums van Ceremony en Overmono en zingen Madonna en Kylie ..."
+        },
+        {
+          "title": "Het roer gaat om bij isolatieoffensief Amsterdam; huis-aan-huisbezoek energiecoach is verleden tijd",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/amsterdam/het-roer-gaat-om-bij-isolatieoffensief-amsterdam-huis-aan-huisbezoek-energiecoach-is-verleden-tijd~bec93f95/",
+          "publishedDate": "Mon, 07 Apr 2025 10:10:00 GMT",
+          "description": "Wethouder Pels is trots op de resultaten van het in 2022 begonnen Isolatieoffensief, schrijft zij in een persbericht. Vijftigduizend huishoudens in de gemeente hebben een helpende hand gekregen zodat ..."
+        },
+        {
+          "title": "De EU gooit het roer om: minder klimaat, meer Trump",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2025/01/28/de-eu-gooit-het-roer-om-minder-klimaat-meer-trump-a4881206",
+          "publishedDate": "Tue, 28 Jan 2025 13:15:00 GMT",
+          "description": "Europese Unie De Europese Commissie presenteert woensdag haar ‘Competitiveness Compass’. De nieuwe Europese koers ademt een vleugje Trump. De Europese Unie gooit het roer om. Waar beleidsmakers in ..."
+        },
+        {
+          "title": "Robert Maaskant gooit het roer om en wordt bondscoach van eilandstaat Tuvalu",
+          "source": "BredaVandaag",
+          "url": "https://www.bredavandaag.nl/algemeen/algemeen/556925/robert-maaskant-gooit-het-roer-om-en-wordt-bondscoach-van-eilandstaat-tuvalu",
+          "publishedDate": "Fri, 23 Oct 2026 08:15:00 GMT",
+          "description": "BREDA – Robert Maaskant wordt de nieuwe bondscoach van het nationale voetbalelftal van Tuvalu. De Nederlandse trainer, die eerder aan het roer stond bij NAC Breda, heeft een contract voor twaalf maa.."
+        },
+        {
+          "title": "Oscar ziet Spaanse hoteldroom letterlijk in het water vallen in Het Roer Om",
+          "source": "RTL Boulevard (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/oscar-ziet-spaanse-hoteldroom-letterlijk-in-het-water-vallen-in-het-roer-om/ar-AA2d9UrG",
+          "publishedDate": "Mon, 28 Sep 2026 13:23:41 GMT",
+          "description": "Oscar (60) verruilt in 'Het Roer Om' Nederland voor Andalusi&#235;, waar hij impulsief een hotel van 540.000 euro koopt. Zonder enige hotelervaring begint hij vol goede moed aan zijn Spaanse avontuur, maar ..."
+        },
+        {
+          "title": "Trump gooit het roer om, beurzen schieten omhoog",
+          "source": "Het Financieele Dagblad",
+          "url": "https://fd.nl/economie/1552090/trump-gooit-het-roer-om-beurzen-schieten-omhoog",
+          "publishedDate": "Wed, 09 Apr 2025 22:00:00 GMT",
+          "description": "Begin je dag met de podcast Dagkoers van Het Financieele Dagblad. Binnen een kwartier brengen we je op de hoogte van wat er speelt in de wereld van het FD. image/svg+xml Deel via WhatsApp Deel via X ..."
+        },
+        {
+          "title": "Bas (39) gooide het roer om en startte eigen Delftse spijkerbroekenmerk: ‘Ge&#239;nspireerd door Delfts blauw’",
+          "source": "AD",
+          "url": "https://www.ad.nl/delft/bas-39-gooide-het-roer-om-en-startte-eigen-delftse-spijkerbroekenmerk-geinspireerd-door-delfts-blauw~a4bf9343/",
+          "publishedDate": "Fri, 28 Feb 2025 18:59:00 GMT",
+          "description": "De Delftse Bas Visser (39) besloot zijn leven om te gooien voor een carri&#232;re in de mode. Hij werkt al jaren als IT-consultant, zijn dagen bestonden uit lange autoritten en veel schermtijd. Tot de ..."
+        }
+      ]
+    },
+    {
+      "keyword": "jennifer lawrence",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Jennifer Lawrence doet opvallende bekentenis: 'Ik wil een sexy moeder zijn'",
+          "source": "Kek Mama on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/jennifer-lawrence-doet-opvallende-bekentenis-ik-wil-een-sexy-moeder-zijn/ar-AA2gju6U",
+          "publishedDate": "Wed, 28 Oct 2026 22:00:00 GMT",
+          "description": "Kinderen aangekleed, broodtrommels gevuld en hup, op naar school. En dan het liefst zelf ook nog een beetje fris voor de dag komen. Jennifer Lawrence heeft daar zo haar eigen idee&#235;n over. De actrice w ..."
+        },
+        {
+          "title": "Jennifer Lawrence grijpt hard in tijdens naaktsc&#232;ne: 'Wat gebeurt er met een 18-jarige?'",
+          "source": "FilmTotaal",
+          "url": "https://www.filmtotaal.nl/nieuws/135957",
+          "publishedDate": "Wed, 28 Oct 2026 17:07:00 GMT",
+          "description": "Jennifer Lawrence is diverse keren uit de kleren gegaan voor filmprojecten. Zij gaf regisseur Lynne Ramsay dan ook veel vrijheid bij Die My Love voor de naaktsc&#232;nes, maar toch trok de actrice op een a ..."
+        },
+        {
+          "title": "Jennifer Lawrence over 'The Hunger Games: Sunrise on the Reaping', we krijgen meer Katniss Everdeen dan alleen een cameo",
+          "source": "FilmTotaal",
+          "url": "https://www.filmtotaal.nl/nieuws/135949",
+          "publishedDate": "Wed, 28 Oct 2026 13:39:00 GMT",
+          "description": "Als er iets is waar Hunger Games-fans enthousiast over worden met betrekking tot de nieuwe prequel Sunrise on the Reaping, dan is het wel dat Jennifer Lawrence en Josh Hutcherson terugkeren als Katnis ..."
+        },
+        {
+          "title": "Jennifer Lawrence keert terug in nieuwste Hunger Games-film",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/algemeen/buitenland/artikelen/jennifer-lawrence-terug-nieuwste-hunger-games-film",
+          "publishedDate": "Wed, 28 Oct 2026 11:20:00 GMT",
+          "description": "The Hunger Games-franchise wordt uitgebreid met een nieuwe film: The Hunger Games: Sunrise on the Reaping. Fans, die smachten naar een vleugje nostalgie, worden woensdag getrakteerd op goed nieuws."
+        },
+        {
+          "title": "Jennifer Lawrence vond terugkeer in Hunger Games emotioneel",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/jennifer-lawrence-vond-terugkeer-in-hunger-games-emotioneel",
+          "publishedDate": "Wed, 28 Oct 2026 10:51:00 GMT",
+          "description": "Jennifer Lawrence vond haar terugkeer in het Hunger Games-universum een emotionele gebeurtenis. Dat ze weer even samen op de set stond met haar voormalige collega's Josh Hutcherson en Woody Harrelson."
+        },
+        {
+          "title": "Jennifer Lawrence bevestigt borstlift na twee zwangerschappen: ‘Er was niets meer in vorm’",
+          "source": "Weekend Online",
+          "url": "https://www.weekend-online.nl/wereldsterren/jennifer-lawrence-bevestigt-borstlift-na-twee-zwangerschappen-er-was-niets-meer-in-vorm/",
+          "publishedDate": "Wed, 28 Oct 2026 04:24:00 GMT",
+          "description": "Jennifer Lawrence heeft bevestigd dat ze een borstlift heeft laten uitvoeren. De actrice sprak eerder al over de veranderingen aan haar lichaam na de geboorte van haar tweede kind."
+        },
+        {
+          "title": "Jennifer Lawrence emotioneel over terugkeer in Hunger Games: ‘Het was zo mooi’",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/jennifer-lawrence-emotioneel-over-terugkeer-in-hunger-games-het-was-zo-mooi~a4b7cdd1/",
+          "publishedDate": "Wed, 28 Oct 2026 03:49:00 GMT",
+          "description": "Jennifer Lawrence vond haar terugkeer in het Hunger Games-universum een emotionele gebeurtenis. Dat ze weer even samen op de set stond met haar voormalige collega’s Josh Hutcherson en Woody Harrelson ..."
+        },
+        {
+          "title": "Jennifer Lawrence wil graag 'een sexy moeder' zijn op school",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/nieuws/jennifer-lawrence-wil-graag-een-sexy-moeder-zijn-op-school/ar-AA2gdXdh",
+          "publishedDate": "Wed, 28 Oct 2026 00:40:54 GMT",
+          "description": "Jennifer Lawrence wil er, als ze haar kinderen op school afzet, graag uitzien als &quot;een sexy moeder&quot;. Dat zegt de actrice in een interview met het tijdschrift The Cut, waar ze op de cover staat."
+        },
+        {
+          "title": "Charli XCX speelt mee in nieuwe film met Leonardo DiCaprio",
+          "source": "TAGMAG",
+          "url": "https://tagmag.news/feed/1059476-charli-xcx-speelt-mee-in-nieuwe-film-met-leonardo-dicaprio/",
+          "publishedDate": "Fri, 23 Oct 2026 17:00:00 GMT",
+          "description": "Charli XCX levert haar microfoon tijdelijk in voor een camera. De zangeres krijgt een kleine rol in ‘What Happens at Night’, de nieuwe psychologische horrorfilm van Martin Scorsese, met Leonardo ..."
+        },
+        {
+          "title": "Jennifer Lawrence: 'Ik geef de voorkeur aan ingetogen elegantie'",
+          "source": "grazia",
+          "url": "https://grazia.nl/artikel/666825/jennifer-lawrence-ik-geef-de-voorkeur-aan-ingetogen-elegantie",
+          "publishedDate": "Sat, 18 Oct 2025 05:45:00 GMT",
+          "description": "Oscar-winnares, moeder, ambassadeur van Longines, Jennifer Lawrence (35) is al even veelzijdig als dat ze succesvol is. Ze vertelt over haar speciale band met het luxe horlogemerk en haar nieuwe film ..."
         }
       ]
     }
