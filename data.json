@@ -1,43 +1,79 @@
 {
-  "fetchedAt": "2026-10-31T20:36:23.118Z",
+  "fetchedAt": "2026-10-31T23:53:15.994Z",
   "trends": [
     {
       "keyword": "ajax - az",
-      "trafficLabel": "50K+",
+      "trafficLabel": "100K+",
       "articles": [
         {
-          "title": "Ajax met Bouwman, Wijndal en Klaassen • AZ heeft Goes terug, De Wit vervangt Ch&#225;vez",
-          "source": "NOS",
-          "url": "https://nos.nl/liveblog/2637450-ajax-met-bouwman-wijndal-en-klaassen-az-heeft-goes-terug-de-wit-vervangt-chavez",
-          "publishedDate": "Sat, 31 Oct 2026 07:52:00 GMT",
-          "description": "Sven Mijnans maakt aan alle twijfel een eind en maakt er prachtig 3-0 van. Dest zet hard voor en MIjnans volleert de bal vol klasse en beheersing in de verre hoek. Het is een persoonlijke opsteker voo"
+          "title": "Ajax speelt slecht, maar wint eindelijk weer van AZ (1-0)",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/sport/ajax-speelt-slecht-maar-wint-eindelijk-weer-van-az-1-0~b0b448b3/",
+          "publishedDate": "Sat, 31 Oct 2026 16:15:00 GMT",
+          "description": "AZ voetbalde zaterdag beter dan Ajax, maar Ajax brak met een negatieve traditie en won weer eens van de rivaal. Met 1-0. De achterstand op Feyenoord bedraagt nog een punt."
         },
         {
-          "title": "Ajax-trainer M&#237;chel kiest weer voor beproefd recept",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/ajax-trainer-m%C3%ADchel-kiest-weer-voor-beproefd-recept/ar-AA2gux1P",
-          "publishedDate": "Sat, 31 Oct 2026 11:46:58 GMT",
-          "description": "Ajax speelt zaterdagavond in eigen huis weer met het centrale duo Youri Baas - Aaron Bouwman. Het duo keert terug, nadat Bouwman vorige week was gepasseerd. Voorin keert ook Davy Klaassen terug in zij"
-        }
-      ]
-    },
-    {
-      "keyword": "psv - willem ii",
-      "trafficLabel": "50K+",
-      "articles": [
-        {
-          "title": "PSV veegt vloer aan met Willem II en profiteert van puntenverlies Feyenoord",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/psv-veegt-vloer-aan-met-willem-ii-en-profiteert-van-puntenverlies-feyenoord",
-          "publishedDate": "Sat, 31 Oct 2026 12:36:00 GMT",
-          "description": "PSV heeft zaterdagavond optimaal geprofiteerd van het puntenverlies van koploper Feyenoord . De regerend landskampioen maakte zelf geen fout tegen Willem II en loopt zo in tot op twee punten van de Ro"
+          "title": "Ajax wint na ruim vier jaar weer van AZ en doet goede zaken in Eredivisie",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6415078/ajax-wint-na-ruim-vier-jaar-weer-van-az-en-doet-goede-zaken-in-eredivisie.html",
+          "publishedDate": "Sat, 31 Oct 2026 15:55:00 GMT",
+          "description": "Ajax heeft zaterdag na ruim vier jaar weer eens gewonnen van AZ. De Amsterdammers boekten een benauwde 1-0-overwinning in de Johan Cruijff ArenA en deden zo goede zaken in de Eredivisie."
         },
         {
-          "title": "Bruggink prijst PSV'er: 'Als Ouazane deze goal maakt...'",
+          "title": "Ajax verslaat AZ door vroege kopgoal van Tolu, Brandt geblesseerd",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/ajax-verslaat-az-door-vroege-kopgoal-van-tolu-brandt-geblesseerd~bc201fcd2/",
+          "publishedDate": "Sat, 31 Oct 2026 12:30:00 GMT",
+          "description": "Voor het eerst in vier jaar wint Ajax een wedstrijd van AZ. Een vroeg doelpunt van Tolu in de Arena bracht de eindstand op het scorebord: 1-0. Ajax nadert koploper Feyenoord daarmee op &#233;&#233;n punt."
+        },
+        {
+          "title": "Teruglezen | Zo maakte Ajax een einde aan de recordreeks van AZ",
           "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/bruggink-deelt-opvallende-mening-over-til-als-ouazane-deze-goal-maakt",
-          "publishedDate": "Fri, 30 Oct 2026 23:14:00 GMT",
-          "description": "Arnold Bruggink is onder de indruk van de fraaie goal van Guus Til tegen Willem II en maakt bij ESPN een opvallende vergelijking met Ajax-talent Ouazane."
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/teruglezen-zo-maakte-ajax-een-einde-aan-de-recordreeks-van-az",
+          "publishedDate": "Sat, 31 Oct 2026 15:59:00 GMT",
+          "description": "Ajax en AZ spelen d&#233; kraker van het Eredivisieweekend. Wie pakt de belangrijke punten in de Johan Cruijff ArenA? Mis niets en volg Ajax - AZ in dit liveblog van FCUpdate."
+        },
+        {
+          "title": "Ajax wint eindelijk weer eens van AZ en nadert Feyenoord tot op &#233;&#233;n punt",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/ajax-wint-eindelijk-weer-eens-van-az-en-nadert-feyenoord-tot-op-een-punt",
+          "publishedDate": "Sat, 31 Oct 2026 15:55:00 GMT",
+          "description": "Ajax wint eindelijk weer eens van AZ: Tolu bezorgt de Amsterdammers een 1-0 zege op de aartsrivaal, waardoor de club nu op &#233;&#233;n punt van Eredivisiekoploper Feyenoord komt."
+        },
+        {
+          "title": "Ajax - AZ betovert niet: 'Dit staat heel h&#233;&#233;l ver van PSV - Feyenoord af'",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/ajax-az-betovert-niet-dit-staat-heel-h%C3%A9%C3%A9l-ver-van-psv-feyenoord-af/ar-AA2gufVy",
+          "publishedDate": "Sat, 31 Oct 2026 15:23:10 GMT",
+          "description": "Ajax - AZ was vanwege het scoreverloop een spannende wedstrijd, maar goed was het volgens de analytici niet."
+        },
+        {
+          "title": "Ajax komt door Tolu van AZ-vloek af en nadert Feyenoord tot op een punt",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/ajax-komt-door-tolu-van-az-vloek-af-en-nadert-feyenoord-tot-op-een-punt/ar-AA2guTZO",
+          "publishedDate": "Sat, 31 Oct 2026 14:55:40 GMT",
+          "description": "Ajax heeft voor het eerst sinds maart 2022 een wedstrijd van AZ gewonnen. In eigen huis werd Tolu Arokodare de matchwinner door de enige treffer te maken. Ajax profiteert door de zege optimaal van eer ..."
+        },
+        {
+          "title": "Ajax verslaat AZ voor het eerst in ruim vier jaar en nadert Feyenoord tot &#233;&#233;n punt",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/voetbal/ajax-verslaat-az-voor-het-eerst-in-ruim-vier-jaar-en-nadert-feyenoord-tot-een-punt~ac5c6300/",
+          "publishedDate": "Sat, 31 Oct 2026 08:08:00 GMT",
+          "description": "Ajax heeft voor het eerst in ruim vier jaar een wedstrijd van AZ gewonnen. In Amsterdam was een vroege treffer van spits Tolu Arokodare genoeg voor de volle buit in de stroperige topper: 1-0."
+        },
+        {
+          "title": "Lees terug: Ajax verslaat AZ voor het eerst in vier jaar • Amsterdammers naderen koploper",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/364987/lees-terug-ajax-verslaat-az-voor-het-eerst-in-vier-jaar-amsterdammers-naderen-koploper",
+          "publishedDate": "Sat, 31 Oct 2026 07:11:00 GMT",
+          "description": "Topper in de Eredivisie: Ajax neemt het zaterdagavond op tegen AZ in de Johan Cruijff Arena. De Alkmaarders zijn elf duels op rij ongeslagen. Volg het live."
+        },
+        {
+          "title": "Sofyan Amrabat doet opvallende onthulling na Ajax - AZ: 'Dat is een klein wonder'",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/sofyan-amrabat-doet-opvallende-onthulling-na-ajax-az-dat-is-een-klein-wonder/blt31628b43d1b9124c",
+          "publishedDate": "Sat, 31 Oct 2026 03:34:00 GMT",
+          "description": "Sofyan Amrabat is een tevreden man na de overwinning van Ajax op AZ (1-0). Dat de Marokkaan aan de aftrap stond, is met terugwerkende kracht opvallend te noemen. De middenvelder onthult op de persconf ..."
         }
       ]
     },
@@ -46,94 +82,190 @@
       "trafficLabel": "50K+",
       "articles": [
         {
-          "title": "Fortuna-speler 't Zand geniet van goal tegen 'zijn' Feyenoord: 'Geeft lekker gevoel'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6415070/fortuna-speler-t-zand-geniet-van-goal-tegen-zijn-feyenoord-geeft-lekker-gevoel.html",
-          "publishedDate": "Sat, 31 Oct 2026 12:45:00 GMT",
-          "description": "Fortuna Sittard-speler Shiloh 't Zand heeft genoten van zijn goal tegen Feyenoord. Uitgerekend de door Feyenoord verhuurde middenvelder bezorgde zijn eigenlijke werkgever puntenverlies met de 1-1."
+          "title": "Oppermachtig Feyenoord krijgt Fortuna Sittard er niet onder: 1-1",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2637485-oppermachtig-feyenoord-krijgt-fortuna-sittard-er-niet-onder-1-1",
+          "publishedDate": "Sat, 31 Oct 2026 10:34:00 GMT",
+          "description": "Feyenoord laat in de titelstrijd kostbare punten liggen. De koploper krijgt in eigen huis kort voor tijd de 1-1 te slikken tegen de nummer zes van de ranglijst."
         },
         {
-          "title": "Feyenoord lijdt onnodig puntenver&#173;lies tegen Fortuna: uitgere&#173;kend huurling slaat toe in slotminuten",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/voetbal/live-eredivisie-van-feyenoord-gehuurde-t-zand-krijgt-kuip-stil-fortuna-maakt-in-slotfase-gelijk~ab104b2e/?slug_rd=1",
-          "publishedDate": "Sat, 31 Oct 2026 04:57:00 GMT",
-          "description": "Beide teams zijn goed aan het seizoen begonnen. Feyenoord is koploper in de eredivisie, terwijl Fortuna Sittard op een keurige zesde plaats staat. De ploeg van Danny Buijs verloor dit seizoen nog geen"
+          "title": "Feyenoord sterk genoeg voor de titelrace? Dan moeten deze drie zaken een stuk beter",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/feyenoord-sterk-genoeg-voor-de-titelrace-dan-moeten-deze-drie-zaken-een-stuk-beter~aee73651/",
+          "publishedDate": "Sat, 31 Oct 2026 06:11:00 GMT",
+          "description": "Het 1-1 gelijkspel van Feyenoord voelde als een stap achteruit. Is de ploeg echt sterk genoeg om tot het einde mee te doen om de landstitel? Dan moet het verval, zoals tegen Fortuna Sittard eruit, moe"
         }
       ]
     },
     {
-      "keyword": "heerenveen - nec",
+      "keyword": "psv - willem ii",
+      "trafficLabel": "50K+",
+      "articles": [
+        {
+          "title": "PSV walst over Willem II heen (7-0) en verkleint gat met Feyenoord",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/sport/psv-walst-over-willem-ii-heen-7-0-en-verkleint-gat-met-feyenoord~b9497a16/",
+          "publishedDate": "Sat, 31 Oct 2026 13:55:00 GMT",
+          "description": "PSV beleefde een uitstekende avond in het Brabantse onderonsje tegen Willem II. De ploeg van Peter Bosz boekte tegen de hekkensluiter de grootste zege van het seizoen (7-0) en profiteerde optimaal van"
+        },
+        {
+          "title": "PSV werkt aan doelsaldo tegen onthutsend zwak Willem II (7-0) • Straks Ajax tegen AZ",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2637450-psv-werkt-aan-doelsaldo-tegen-onthutsend-zwak-willem-ii-7-0-straks-ajax-tegen-az",
+          "publishedDate": "Sat, 31 Oct 2026 07:52:00 GMT",
+          "description": "Voorafgaand aan de wedstrijd in Eindhoven blokkeert een metershoge bal de spelerstunnel, in het kader van de actie 'Extra tijd'. De bal staat symbool voor een bloedprop die de bloedtoevoer naar de hersenen afstopt. PSV en Philips vragen op deze manier aandacht voor het herkennen van een beroerte en het belang van snel handelen."
+        }
+      ]
+    },
+    {
+      "keyword": "cambuur - ga eagles",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Heerenveen heeft aan &#233;&#233;n treffer genoeg om NEC te kloppen",
+          "title": "Cambuur-Go Ahead bij 4-0 gestaakt na vuurwerk, duel wordt niet uitgespeeld",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2637507-heerenveen-heeft-aan-een-treffer-genoeg-om-nec-te-kloppen",
-          "publishedDate": "Sat, 31 Oct 2026 12:57:00 GMT",
-          "description": "Voor rust waren de verschillen klein. NEC-aanvoerder Tjaronn Chery was op dreef, maar Heerenveen-keeper Bernt Klaverboer hield zijn doel schoon. Tussendoor raakte ploeggenoot Kevin Kers vanuit een ..."
+          "url": "https://nos.nl/artikel/2637536-cambuur-go-ahead-bij-4-0-gestaakt-na-vuurwerk-duel-wordt-niet-uitgespeeld",
+          "publishedDate": "Sat, 31 Oct 2026 15:48:00 GMT",
+          "description": "De wedstrijd wordt bij een 4-0 stand na iets meer dan 80 minuten voetballen niet uitgespeeld. De Eagles-fans staken meerdere keren vuurwerk af."
         },
         {
-          "title": "LIVE | NEC komt na rust alsnog op achterstand tegen Heerenveen",
+          "title": "Woede over vuurwerk bij gestaakt duel Cambuur-Go Ahead, resterende minuten worden niet ingehaald",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/nijmegen/live-nec-komt-na-rust-alsnog-op-achterstand-tegen-heerenveen~a04dc2ab/?slug_rd=1",
-          "publishedDate": "Sat, 31 Oct 2026 05:15:00 GMT",
-          "description": "NEC wacht zaterdag om 18.45 uur een lastige uitwedstrijd tegen sc Heerenveen in de eredivisie. De Nijmeegse club moet winnen om niet verder achterop te raken bij de top zeven, die recht geeft op deeln ..."
+          "url": "https://www.ad.nl/voetbal/woede-over-vuurwerk-bij-gestaakt-duel-cambuur-go-ahead-resterende-minuten-worden-niet-ingehaald~a410c2b71/",
+          "publishedDate": "Sat, 31 Oct 2026 09:03:00 GMT",
+          "description": "De wedstrijd tussen Cambuur en Go Ahead Eagles is na 81 minuten en bij een 4-0 tussenstand definitief gestaakt. De uitsupporters staken meermaals vuurwerk af. Aan SC Cambuur en Go Ahead Eagles werd be ..."
         },
         {
-          "title": "NEC gaat ten onder in Heerenveen en zet dramatische reeks voort",
+          "title": "Eredivisieduel SC Cambuur en Go Ahead Eagles eerst tijdelijk en daarna definitief gestaakt",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/eredivisieduel-sc-cambuur-en-go-ahead-eagles-eerst-tijdelijk-en-daarna-definitief-gestaakt-2026103121535632352/",
+          "publishedDate": "Sat, 31 Oct 2026 16:28:00 GMT",
+          "description": "De Eredivisiewedstrijd tussen SC Cambuur en Go Ahead Eagles is zaterdagavond in de slotfase eerst tijdelijk stilgelegd, daarna kwam een definitieve staking. Kort nadat de Leeuwarders op een 4-0 ..."
+        },
+        {
+          "title": "Cambuur lijkt naar linkerrijtje te klimmen na ontsierd duel met Go Ahead Eagles",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/cambuur-lijkt-naar-linkerrijtje-te-klimmen-na-ontsierd-duel-met-go-ahead-eagles",
+          "publishedDate": "Sat, 31 Oct 2026 16:24:00 GMT",
+          "description": "SC Cambuur boekt een ruime overwinning op Go Ahead Eagles. Het duel wordt tijdelijk stilgelegd nadat vuurwerk vanuit het uitvak wordt afgestoken."
+        },
+        {
+          "title": "SC Cambuur Go Ahead Eagles definitief gestaakt bij 4-0",
+          "source": "Salland1",
+          "url": "https://www.salland1.nl/sc-cambuur-go-ahead-eagles-definitief-gestaakt-bij-4-0/",
+          "publishedDate": "Sat, 31 Oct 2026 16:21:00 GMT",
+          "description": "Leestijd: 2 minutenEen dramatische wedstrijd van de ploeg uit Deventer werd bij een stand van 4-0 definitief gestaakt vanwege het meermaals afsteken van vuurwerk. In de eerste helft was de wedstrijd a ..."
+        },
+        {
+          "title": "Furieuze GA Eagles-directeur Van Dop na staking: 'Diep triest, waarom gebeurt dit?'",
+          "source": "Oost",
+          "url": "https://www.oost.nl/sport/3713724/furieuze-ga-eagles-directeur-van-dop-na-staking-diep-triest-waarom-gebeurt-dit",
+          "publishedDate": "Sat, 31 Oct 2026 16:20:00 GMT",
+          "description": "Na twee keer vuurwerk in het uitvak van Go Ahead Eagles bij SC Cambuur werd het duel vanavond bij een 4-0 stand definitief gestaakt. Het duel wordt niet uitgespeeld, maar 4-0 is ook de eindstand. Dire ..."
+        },
+        {
+          "title": "Go Ahead Eagles neemt afstand van misdragingen",
+          "source": "Go Ahead Eagles",
+          "url": "https://www.ga-eagles.nl/go-ahead-eagles-neemt-afstand-van-misdragingen-fans/",
+          "publishedDate": "Sat, 31 Oct 2026 16:19:00 GMT",
+          "description": "Go Ahead Eagles neemt afstand van de misdragingen van de eigen supporters tijdens de wedstrijd SC Cambuur – Go Ahead Eagles. Het duel werd uiteindelijk definitief gestaakt, nadat er vanuit het uitvak ..."
+        },
+        {
+          "title": "Cambuur - Go Ahead Eagles definitief gestaakt",
+          "source": "KNVB",
+          "url": "https://www.knvb.nl/nieuws/organisatie/berichten/72372/cambuur-go-ahead-eagles-definitief-gestaakt",
+          "publishedDate": "Sat, 31 Oct 2026 15:53:00 GMT",
+          "description": "De wedstrijd tussen SC Cambuur en Go Ahead Eagles is zaterdagavond definitief gestaakt."
+        },
+        {
+          "title": "L&#234;s werom: Wedstriid tusken Cambuur en Go Ahead definityf staakt fanwegen fjoerwurk (4-0)",
+          "source": "Omrop Frysl&#226;n",
+          "url": "https://www.omropfryslan.nl/fy/nijs/18908811/les-werom-wedstriid-tusken-cambuur-en-go-ahead-definityf-staakt-fanwegen-fjoerwurk-4-0",
+          "publishedDate": "Sat, 31 Oct 2026 15:37:00 GMT",
+          "description": "De wedstriid tusken SC Cambuur en Go Ahead Eagles is nei goed tachtich minuten definityf staakt fanwege fjoerwurk. De tuskenst&#226;n wie 4-0. L&#234;s hjir it blog oer de wedstriid werom."
+        },
+        {
+          "title": "Cambuur-Go Ahead tien minuten voor tijd gestaakt vanwege vuurwerk-incidenten",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/cambuur-go-ahead-tien-minuten-voor-tijd-gestaakt-vanwege-vuurwerk-incidenten/ar-AA2guWMX",
+          "publishedDate": "Sat, 31 Oct 2026 15:25:00 GMT",
+          "description": "De wedstrijd tussen SC Cambuur en Go Ahead Eagles is zaterdagavond bij een 4-0 voorsprong van de thuisploeg gestaakt. Na de vierde goal van de ploeg van trainer Johan Plat werd het duel al stilgelegd ..."
+        }
+      ]
+    },
+    {
+      "keyword": "barcelona - alavés",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Barcelona herpakt zich met Frenkie de Jong als verdediger van verlies tegen Real",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6415081/barcelona-herpakt-zich-met-frenkie-de-jong-als-verdediger-van-verlies-tegen-real.html",
+          "publishedDate": "Sat, 31 Oct 2026 15:58:00 GMT",
+          "description": "FC Barcelona heeft zich zaterdag op overtuigende wijze herpakt van de nederlaag in de derby met aartsrivaal Real Madrid. De koploper in La Liga won met Frenkie de Jong als centrumverdediger overtuigen ..."
+        },
+        {
+          "title": "Barcelona reageert met zes treffers tegen Alav&#233;s na nederlaag in Cl&#225;sico",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/barcelona-zes-treffers-alaves-na-clasico/",
+          "publishedDate": "Sat, 31 Oct 2026 16:31:00 GMT",
+          "description": "FC Barcelona heeft zich nadrukkelijk herpakt na de nederlaag in El Cl&#225;sico. De leider in La Liga maakte in eigen huis korte metten met Alav&#233;s: 6-1. Raphinha en Lamine Yamal waren elk tweemaal ..."
+        },
+        {
+          "title": "FC Barcelona haalt stevig uit tegen Alav&#233;s, hoofdrollen voor Raphinha en Yamal",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-be/sport/voetbal/fc-barcelona-haalt-stevig-uit-tegen-alav%C3%A9s-hoofdrollen-voor-raphinha-en-yamal/ar-AA2guMYi",
+          "publishedDate": "Sat, 31 Oct 2026 15:18:00 GMT",
+          "description": "FC Barcelona heeft zich zaterdag gerevancheerd in de competitie na de nederlaag in El Cl&#225;sico van vorige week. De koploper van La Liga won in eigen huis met 6-0 van nummer tien in het klassement Alave ..."
+        },
+        {
+          "title": "FC Barcelona noteert via uitblinkers Yamal, Raphinha en Ferm&#237;n fraaie zesklapper",
           "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/nec-gaat-ten-onder-in-heerenveen-en-zet-dramatische-reeks-voort/ar-AA2guH6N",
-          "publishedDate": "Sat, 31 Oct 2026 12:40:12 GMT",
-          "description": "NEC heeft zaterdagavond opnieuw een pijnlijke nederlaag geleden in de VriendenLoterij Eredivisie. De Nijmegenaren gingen op bezoek bij sc Heerenveen met 1-0 onderuit door een doelpunt van Dylan Vente ..."
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/fc-barcelona-noteert-via-uitblinkers-yamal-raphinha-en-ferm%C3%ADn-fraaie-zesklapper/ar-AA2guP4n",
+          "publishedDate": "Sat, 31 Oct 2026 15:00:36 GMT",
+          "description": "FC Barcelona heeft de koppositie in LaLiga weer te pakken. De Catalanen waren in Spotify Camp Nou veel te sterk voor laagvlieger Deportivo Alav&#233;s, dat met een 6-1 nederlaag terug naar Baskenland werd ..."
         },
         {
-          "title": "SC Heerenveen boekt knappe overwinning in eigen huis tegen NEC",
-          "source": "FeanOnline",
-          "url": "https://www.feanonline.nl/sc-heerenveen-boekt-knappe-overwinning/",
-          "publishedDate": "Sat, 31 Oct 2026 12:40:00 GMT",
-          "description": "Lees nu | SC Heerenveen heeft op zaterdagavond een belangrijke overwinning geboekt op NEC. In een duel waarin de Friezen lang niet altijd de betere ..."
+          "title": "Barcelona neemt rampweek-revanche met honderdste overwinning in Flick-tijdperk",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/barcelona-neemt-rampweek-revanche-met-honderdste-overwinning-in-flick-tijdperk/ar-AA2gvbIt",
+          "publishedDate": "Sat, 31 Oct 2026 14:58:35 GMT",
+          "description": "Barcelona heeft zich zaterdagavond herpakt van de teleurstellende week die het achter de rug had. Na nederlagen tegen Paris Saint-Germain en Real Madrid werd er van Deportivo Alav&#233;s w&#233;l gewonnen. Het ..."
         },
         {
-          "title": "Zwak NEC is aansluiting met subtop kwijt na verlies in Friesland",
-          "source": "ForzaNEC.nl",
-          "url": "https://www.forzanec.nl/nieuws/zwak-nec-is-aansluiting-met-subtop-kwijt-na-verlies-in-friesland/",
-          "publishedDate": "Sat, 31 Oct 2026 12:39:00 GMT",
-          "description": "NEC heeft zaterdagavond verloren van sc Heerenveen. In Friesland maakte een goal van Dylan Vente uiteindelijk het verschil (1-0). NEC speelde slordig en cre&#235;erde over de gehele wedstrijd te weinig. De ..."
+          "title": "Op welke zender kijk je FC Barcelona – Deportivo Alav&#233;s live?",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-fc-barcelona-deportivo-alaves/",
+          "publishedDate": "Sat, 31 Oct 2026 03:50:00 GMT",
+          "description": "Na de pijnlijke nederlaag in El Cl&#225;sico, moet FC Barcelona zich oprichten in LaLiga. Dat kan met een thuiswedstrijd tegen Deportivo Alav&#233;s. Waar kijk je ..."
         },
         {
-          "title": "Heerenveen vervolgt zegereeks dankzij Vente en vergroot zorgen NEC",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/heerenveen-vervolgt-zegereeks-dankzij-vente-en-vergroot-zorgen-nec",
-          "publishedDate": "Sat, 31 Oct 2026 12:38:00 GMT",
-          "description": "SC Heerenveen heeft zaterdagavond dankzij spits Dylan Vente voor eigen publiek afgerekend met NEC. Het duel in Friesland bleef lange tijd in evenwicht, maar de thuisploeg sprong dankzij Vente zorgvuld ..."
+          "title": "Gratis live stream kijken FC Barcelona – Alaves (31-10)",
+          "source": "Squawka",
+          "url": "https://www.squawka.com/nl/nieuws/gratis-live-stream-kijken-fc-barcelona-alaves-31-10/",
+          "publishedDate": "Sat, 31 Oct 2026 03:48:00 GMT",
+          "description": "Op zoek naar een gratis live stream van FC Barcelona - Alaves die jij kunt kijken? Wij hebben de live stream voor Nederland en Belgi&#235;."
         },
         {
-          "title": "NEC faalt in Heerenveen en zakt weg in de eredivisie",
-          "source": "Omroep Gelderland",
-          "url": "https://www.gld.nl/sport/8541903/nec-faalt-in-heerenveen-en-zakt-weg-in-de-eredivisie",
-          "publishedDate": "Sat, 31 Oct 2026 12:32:00 GMT",
-          "description": "NEC verloor uit tegen Heerenveen met 1-0. Voor rust was het spel heel behoorlijk, maar in de tweede helft was het ondermaats. De Nijmegenaren hebben nu al keer duels niet meer gewonnen en zakken verde ..."
+          "title": "Hansi Flick bevestigt opvallende optie voor Frenkie de Jong bij Bar&#231;a",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/hansi-flick-bevestigt-optie-frenkie-de-jong-centrale-verdediger-barcelona",
+          "publishedDate": "Fri, 30 Oct 2026 07:06:00 GMT",
+          "description": "Barcelona-trainer Hansi Flick noemt Frenkie de Jong 'een geweldige speler' en bevestigt voor het duel met Alav&#233;s dat hij een optie is als centrale verdediger."
         },
         {
-          "title": "W&#233;&#233;r geen zege NEC in eredivisie: Heerenveen te sterk dankzij kopgoal Vente",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/voetbal/weer-geen-zege-nec-in-eredivisie-heerenveen-te-sterk-dankzij-kopgoal-vente~a40dbd48/",
-          "publishedDate": "Sat, 31 Oct 2026 05:52:00 GMT",
-          "description": "Het is NEC voor de achtste wedstrijd op rij niet gelukt om te winnen in de eredivisie. Op bezoek bij Heerenveen kreeg de ploeg van Dick Schreuder het niet voor elkaar om een keer te scoren. De thuispl ..."
+          "title": "Barcelona vs Alav&#233;s voorspelling, tips en odds | La Liga",
+          "source": "Eurosport",
+          "url": "https://www.eurosport.nl/weddenschappen/voorspellingen/barcelona-vs-alaves-voorspelling-tips-en-odds-31-10-26/",
+          "publishedDate": "Thu, 29 Oct 2026 11:15:00 GMT",
+          "description": "Raphinha, met 13 treffers topscorer van La Liga, en Lamine Yamal, die maandag in Londen voor de derde keer op rij de Kopa Trophy won, zijn samen al goed voor 21 competitiedoelpunten."
         },
         {
-          "title": "NEC verliest van Heerenveen en raakt subtop uit het zicht",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/nec/nec-verliest-van-heerenveen-en-raakt-subtop-uit-het-zicht~a04dc2ab/",
-          "publishedDate": "Sat, 31 Oct 2026 05:40:00 GMT",
-          "description": "NEC blijft aanmodderen in de eredivisie. De Nijmeegse club verloor met 1-0 van sc Heerenveen en is daardoor al acht competitiewedstrijden op rij zonder zege. De ploeg heeft nu al een grote achterstand ..."
-        },
-        {
-          "title": "Heerenveen in vorm wint ook van NEC: 1-0",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/heerenveen-in-vorm-wint-ook-van-nec-1-0",
-          "publishedDate": "Fri, 30 Oct 2026 23:58:00 GMT",
-          "description": "HEERENVEEN (ANP) - Sc Heerenveen heeft zijn goede reeks voortgezet met een kleine zege op NEC. Het werd 1-0 in het Abe Lenstra-stadion. Dylan Vente was halverwege de tweede helft de maker van het doel ..."
+          "title": "FC Barcelona – Alav&#233;s Tijdlijn, Opstellingen &amp; Voorspelling: Barca moet winnen om zicht te houden",
+          "source": "bettingodds",
+          "url": "https://www.bettingodds.com/nl/nieuws/fc-barcelona-alaves-tijdlijn-opstellingen-voorspelling-statistieken-29-11-2025",
+          "publishedDate": "Sat, 29 Nov 2025 06:15:00 GMT",
+          "description": "Na een zware Europese week keert FC Barcelona terug naar de realiteit van LaLiga. Op zaterdagmiddag ontvangen ze in het Spotify Camp Nou het stugge Alav&#233;s. Voor Barcelona is dit een cruciale wedstrijd ..."
         }
       ]
     },
@@ -218,150 +350,18 @@
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Vooral minderjarigen aangehouden in Den Haag, grote incidenten uitgebleven",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2637512-vooral-minderjarigen-aangehouden-in-den-haag-grote-incidenten-uitgebleven",
-          "publishedDate": "Sat, 31 Oct 2026 13:27:00 GMT",
-          "description": "Groepen jongeren hadden op sociale media opgeroepen om vandaag naar de stad te komen voor demonstraties en plunderingen."
-        },
-        {
-          "title": "Mobiele Eenheid grijpt in in Den Haag, waar de rust ’s avonds is teruggekeerd; 34 aanhoudingen verricht",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/10/31/mobiele-eenheid-grijpt-in-in-den-haag-zeker-tien-aanhoudingen-a4940205",
-          "publishedDate": "Sat, 31 Oct 2026 10:53:00 GMT",
-          "description": "Onrust: Na aankondigingen op sociale media van zogenoemde ‘GenZ-protesten’, trokken zaterdag groepen jongemannen door Den Haag. In andere steden, zoals Maastricht, bleef het vooralsnog rustig."
-        },
-        {
           "title": "Tientallen aanhoudingen in Den Haag, geen grote demonstraties in Nederland",
           "source": "NOS",
           "url": "https://nos.nl/artikel/2637449-tientallen-aanhoudingen-in-den-haag-geen-grote-demonstraties-in-nederland",
           "publishedDate": "Sat, 31 Oct 2026 07:44:00 GMT",
-          "description": "In Den Haag is het weer rustig na een onrustige dag. Hoewel de plunderingen waarvoor gevreesd werd, zijn uitgebleven, zijn er 34 aanhoudingen verricht op en rond het Malieveld. Er werden mensen ..."
-        },
-        {
-          "title": "34 aanhoudingen na protesten in Den Haag, geen rellen in Amsterdam",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/amsterdam/34-aanhoudingen-na-protesten-in-den-haag-geen-rellen-in-amsterdam~a7f08bb7/",
-          "publishedDate": "Sat, 31 Oct 2026 05:54:00 GMT",
-          "description": "In het centrum van Den Haag zijn zaterdagmiddag groepen jongeren bijeengekomen na oproepen om te protesteren en te rellen. Rond 17.30 uur keerde de rust terug. In Amsterdam hebben zich geen ongeregeld ..."
-        },
-        {
-          "title": "Van ‘spookstad’ naar plein vol ADO-fans en inzet Mobiele Eenheid: zo verliepen de ongeregeldheden in Den Haag",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/van-spookstad-naar-plein-vol-ado-fans-en-inzet-mobiele-eenheid-zo-verliepen-de-ongeregeldheden-in-den-haag~a08896c6/",
-          "publishedDate": "Sat, 31 Oct 2026 05:44:00 GMT",
-          "description": "Tot opluchting van winkeliers bleven plunderingen en vernielingen zaterdag uit in de Haagse binnenstad. Toch is er genoeg om van te balen: rond 15.00 uur werd de sfeer alsnog grimmig, moest de ME ingr ..."
-        },
-        {
-          "title": "ME grijpt in bij onrust in Den Haag, meer dan dertig mensen aangehouden",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/112/5168878/me-grijpt-in-bij-onrust-in-den-haag-meer-dan-dertig-mensen-aangehouden",
-          "publishedDate": "Sat, 31 Oct 2026 13:24:00 GMT",
-          "description": "In Den Haag is zaterdag veel politie aanwezig en zijn winkels dichtgetimmerd uit angst voor rellen en plunderingen. Op sociale media circuleren oproepen om te demonstreren op het Malieveld en op te tr ..."
-        },
-        {
-          "title": "34 aanhoudingen bij onrust in Den Haag, vooral minderjarigen opgepakt",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/crime/artikelen/zuid-holland-den-haag-34-aanhoudingen-onrust-gen-z-protesten",
-          "publishedDate": "Sat, 31 Oct 2026 13:03:00 GMT",
-          "description": "De politie heeft zaterdag 34 mensen aangehouden tijdens onrust in Den Haag. De meeste verdachten zijn minderjarig en komen uit verschillende delen van Nederland. Ondanks oproepen tot rellen en plunder ..."
-        },
-        {
-          "title": "ME grijpt in bij onrust in Den Haag, meer dan tien mensen aangehouden",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/112/5168878/me-grijpt-in-bij-onrust-in-den-haag-meer-dan-tien-mensen-aangehouden",
-          "publishedDate": "Sat, 31 Oct 2026 11:00:00 GMT",
-          "description": "In Den Haag is zaterdag veel politie aanwezig en zijn winkels dichtgetimmerd uit angst voor rellen en plunderingen. Op sociale media circuleren oproepen om te demonstreren op het Malieveld en op te tr ..."
-        },
-        {
-          "title": "ME grijpt in bij Gen Z-protest in Den Haag, zeker tien aanhoudingen",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/crime/artikelen/den-haag-gen-z-protest-me-ingrijpen-aanhoudingen",
-          "publishedDate": "Sat, 31 Oct 2026 08:08:00 GMT",
-          "description": "Bij een Gen Z-protest in Den Haag heeft de ME ingegrepen. Volgens het AD zijn zeker tien mensen aangehouden. Eerder werd opgeroepen tot rellen en plunderen."
+          "description": "In Den Haag is het weer rustig na een onrustige dag. Hoewel de plunderingen waarvoor gevreesd werd, zijn uitgebleven, zijn er 34 aanhoudingen verricht op en rond het Malieveld. Er werden mensen aangehouden omdat ze gezichtsbedekking droegen of in het bezit waren van illegaal vuurwerk, zegt een politiewoordvoerder."
         },
         {
           "title": "TERUGLEZEN | Rust teruggekeerd in Den Haag, gevreesde plunderingen uitgebleven",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/binnenland/teruglezen-rust-teruggekeerd-in-den-haag-gevreesde-plunderingen-uitgebleven~adb1fe4d/",
-          "publishedDate": "Sat, 31 Oct 2026 03:59:00 GMT",
-          "description": "In het centrum van Den Haag zijn groepen jongeren bijeengekomen na een oproep om te rellen. De sfeer was even grimmig, maar de gevreesde plunderingen zijn uitgebleven. Eerder deze week werden online a ..."
-        }
-      ]
-    },
-    {
-      "keyword": "pensioen",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Pensioenfondsen PME en ABP profiteren van de gestegen rente",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/10/29/pensioenfondsen-pme-en-abp-profiteren-van-de-gestegen-rente-a4940028",
-          "publishedDate": "Wed, 28 Oct 2026 23:58:00 GMT",
-          "description": "Goedemorgen! Pensioenfonds ABP en PME profiteerden de afgelopen maanden van de gestegen rente en staan er daarom financieel goed voor. De zogeheten dekkingsgraad – die aangeeft of pensioenen nu en in ..."
-        },
-        {
-          "title": "Cor ging na zijn pensioen weer in loondienst: ‘7 dagen per week gitaar spelen is ook zo wat’",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/economie/cor-ging-na-zijn-pensioen-weer-in-loondienst-7-dagen-per-week-gitaar-spelen-is-ook-zo-wat~a48e4dde/",
-          "publishedDate": "Wed, 21 Oct 2026 02:02:00 GMT",
-          "description": "De groep AOW’ers die blijft werken groeit hard. Soms omdat ze het geld nodig hebben, maar vooral omdat ze er zin in hebben, zoals Cor. „Ik moet wat te doen hebben. Elke dag alleen maar gitaar spelen i ..."
-        },
-        {
-          "title": "Steeds meer mensen werken door na hun pensioen",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6413814/steeds-meer-mensen-werken-door-na-hun-pensioen.html",
-          "publishedDate": "Tue, 20 Oct 2026 23:30:00 GMT",
-          "description": "Steeds meer Nederlanders blijven na hun pensioen aan het werk, meldt statistiekbureau CBS. In het tweede kwartaal van 2026 was 1,7 procent van alle werknemers ouder dan de AOW-leeftijd, wat neerkomt o ..."
-        },
-        {
-          "title": "Ron (65): ‘Zodra mijn vervroegd pensioen was geregeld, heb ik alles verkocht’",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/werk/ron-65-zodra-mijn-vervroegd-pensioen-was-geregeld-heb-ik-alles-verkocht~a239d37e/",
-          "publishedDate": "Sat, 31 Oct 2026 09:15:00 GMT",
-          "description": "Ron (65) werkte ruim 30 jaar als procesoperator in de voedingsindustrie. Vanwege zijn zware beroep kon hij vervroegd met pensioen. Nu woont hij in Griekenland en heeft hij een netto-inkomen van 4700 e ..."
-        },
-        {
-          "title": "‘Zodra mijn vervroegd pensioen was geregeld, heb ik alles verkocht’",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/werk/zodra-mijn-vervroegd-pensioen-was-geregeld-heb-ik-alles-verkocht~a239d37e/",
-          "publishedDate": "Sat, 31 Oct 2026 01:15:00 GMT",
-          "description": "Ron (65) werkte ruim 30 jaar als procesoperator in de voedingsindustrie. Vanwege zijn zware beroep kon hij vervroegd met pensioen. Nu woont hij in Griekenland en heeft hij een netto-inkomen van 4700 e ..."
-        },
-        {
-          "title": "Liquidatie bv leidt tot heffing over pensioen en stamrecht",
-          "source": "Taxence",
-          "url": "https://www.taxence.nl/nieuws/liquidatie-bv-leidt-tot-heffing-over-pensioen-en-stamrecht/",
-          "publishedDate": "Fri, 30 Oct 2026 02:37:00 GMT",
-          "description": "Rechtbank Gelderland oordeelt dat door liquidatie van een bv het daarin ondergebrachte pensioen en stamrecht zijn prijsgegeven. Voor zover de aanspraken voor verwezenlijking vatbaar zijn, moeten zij ..."
-        },
-        {
-          "title": "Pensioen bij ABP en PME mogelijk flink omhoog in 2027: zoveel kun je extra krijgen",
-          "source": "RTV Focus Zwolle",
-          "url": "https://www.rtvfocuszwolle.nl/pensioenverhoging-2027-abp-pme-dekkingsgraad/",
-          "publishedDate": "Wed, 28 Oct 2026 17:00:00 GMT",
-          "description": "De dekkingsgraad van ABP en PME stijgt boven 130%. PME verwacht 12,6% meer pensioen in 2027. Bekijk hoeveel extra je per maand kunt krijgen."
-        },
-        {
-          "title": "Doorwerken na je AOW? Dan kan je pensioen €4.000 per jaar minder opleveren",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/economie/doorwerken-na-aow-pensioen-uitstellen",
-          "publishedDate": "Wed, 28 Oct 2026 05:05:00 GMT",
-          "description": "Doorwerken na je AOW en je pensioen al laten ingaan? Door belasting en ouderenkorting kan dat ruim €4.000 per jaar schelen. Zo zit het."
-        },
-        {
-          "title": "Je ABP-pensioen in januari, februari en maart: waarom het bedrag drie keer kan verschillen",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/economie/je-abp-pensioen-in-januari-februari-en-maart-waarom-het-bedrag-drie-keer-kan-verschillen",
-          "publishedDate": "Mon, 26 Oct 2026 05:55:00 GMT",
-          "description": "Leg in maart drie bankafschriften naast elkaar en de kans is groot dat je drie verschillende bedragen ziet. Dat is geen fout van ABP. Het pensioenfonds stapt op 1 januari 2027 over op het nieuwe pensi ..."
-        },
-        {
-          "title": "Werknemer doet jarenlang afstand van pensioen, maar fruitbedrijf alsnog aansprakelijk",
-          "source": "GroentenNieuws",
-          "url": "https://www.groentennieuws.nl/article/9885226/werknemer-doet-jarenlang-afstand-van-pensioen-maar-fruitbedrijf-alsnog-aansprakelijk/",
-          "publishedDate": "Thu, 22 Oct 2026 04:35:00 GMT",
-          "description": "FruitMasters moet de pensioenschade vergoeden van een voormalige werknemer die tijdens zijn dienstverband jarenlang afstand deed van pensioenopbouw. Dat heeft de Rechtbank Gelderland ..."
+          "url": "https://www.ad.nl/binnenland/teruglezen-rust-teruggekeerd-in-den-haag-gevreesde-plunderingen-uitgebleven~adb1fe4d/",
+          "publishedDate": "Sat, 31 Oct 2026 03:59:00 GMT",
+          "description": "In het centrum van Den Haag zijn groepen jongeren bijeengekomen na een oproep om te rellen. De sfeer was even grimmig, maar de gevreesde plunderingen zijn uitgebleven. Eerder deze week werden online a"
         }
       ]
     },
@@ -370,94 +370,94 @@
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Fortuna-speler 't Zand geniet van goal tegen 'zijn' Feyenoord: 'Geeft lekker gevoel'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6415070/fortuna-speler-t-zand-geniet-van-goal-tegen-zijn-feyenoord-geeft-lekker-gevoel.html",
-          "publishedDate": "Sat, 31 Oct 2026 12:45:00 GMT",
-          "description": "Fortuna Sittard-speler Shiloh 't Zand heeft genoten van zijn goal tegen Feyenoord. Uitgerekend de door Feyenoord verhuurde middenvelder bezorgde zijn eigenlijke werkgever puntenverlies met de 1-1."
+          "title": "Oppermachtig Feyenoord krijgt Fortuna Sittard er niet onder: 1-1",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2637485-oppermachtig-feyenoord-krijgt-fortuna-sittard-er-niet-onder-1-1",
+          "publishedDate": "Sat, 31 Oct 2026 10:34:00 GMT",
+          "description": "Feyenoord laat in de titelstrijd kostbare punten liggen. De koploper krijgt in eigen huis kort voor tijd de 1-1 te slikken tegen de nummer zes van de ranglijst."
         },
         {
-          "title": "Feyenoord lijdt onnodig puntenver&#173;lies tegen Fortuna: uitgere&#173;kend huurling slaat toe in slotminuten",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/voetbal/live-eredivisie-van-feyenoord-gehuurde-t-zand-krijgt-kuip-stil-fortuna-maakt-in-slotfase-gelijk~ab104b2e/?slug_rd=1",
-          "publishedDate": "Sat, 31 Oct 2026 04:57:00 GMT",
-          "description": "Beide teams zijn goed aan het seizoen begonnen. Feyenoord is koploper in de eredivisie, terwijl Fortuna Sittard op een keurige zesde plaats staat. De ploeg van Danny Buijs verloor dit seizoen nog geen"
+          "title": "Feyenoord sterk genoeg voor de titelrace? Dan moeten deze drie zaken een stuk beter",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/feyenoord-sterk-genoeg-voor-de-titelrace-dan-moeten-deze-drie-zaken-een-stuk-beter~aee73651/",
+          "publishedDate": "Sat, 31 Oct 2026 06:11:00 GMT",
+          "description": "Het 1-1 gelijkspel van Feyenoord voelde als een stap achteruit. Is de ploeg echt sterk genoeg om tot het einde mee te doen om de landstitel? Dan moet het verval, zoals tegen Fortuna Sittard eruit, moe"
         }
       ]
     },
     {
-      "keyword": "barcelona - alavés",
-      "trafficLabel": "10K+",
+      "keyword": "stand sc heerenveen - nec",
+      "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Praat mee op VP: Frenkie de Jong start in de basis voor Bar&#231;a",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-frenkie-de-jong-start-in-de-basis-voor-bar%C3%A7a/ar-AA2gux85",
-          "publishedDate": "Sat, 31 Oct 2026 11:58:33 GMT",
-          "description": "FC Barcelona en Deportivo Alav&#233;s staan zaterdagavond tegenover elkaar in La Liga. De wedstrijd begint om 21.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+          "title": "Vente helpt Heerenveen aan nipte zege en duwt NEC dieper in de problemen",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6415077/vente-helpt-heerenveen-aan-nipte-zege-en-duwt-nec-dieper-in-de-problemen.html",
+          "publishedDate": "Sat, 31 Oct 2026 13:42:00 GMT",
+          "description": "Sc Heerenveen heeft zaterdag in eigen huis een nipte geboekt op NEC. De Friezen wonnen dankzij een goal van Dylan Vente met 1-0 van de Nijmegenaren, die tot nu toe een moeizaam Eredivisie-seizoen bele ..."
         },
         {
-          "title": "Op welke zender kijk je FC Barcelona – Deportivo Alav&#233;s live?",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-fc-barcelona-deportivo-alaves/",
-          "publishedDate": "Sat, 31 Oct 2026 03:50:00 GMT",
-          "description": "Na de pijnlijke nederlaag in El Cl&#225;sico, moet FC Barcelona zich oprichten in LaLiga. Dat kan met een thuiswedstrijd tegen Deportivo Alav&#233;s. Waar kijk je ..."
+          "title": "NEC verliest van Heerenveen en raakt subtop uit het zicht",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/nijmegen/live-nec-komt-na-rust-alsnog-op-achterstand-tegen-heerenveen~a04dc2ab/?slug_rd=1",
+          "publishedDate": "Sat, 31 Oct 2026 05:40:00 GMT",
+          "description": "NEC wacht zaterdag om 18.45 uur een lastige uitwedstrijd tegen sc Heerenveen in de eredivisie. De Nijmeegse club moet winnen om niet verder achterop te raken bij de top zeven, die recht geeft op deeln ..."
         },
         {
-          "title": "Gratis live stream kijken FC Barcelona – Alaves (31-10)",
-          "source": "Squawka",
-          "url": "https://www.squawka.com/nl/nieuws/gratis-live-stream-kijken-fc-barcelona-alaves-31-10/",
-          "publishedDate": "Sat, 31 Oct 2026 03:48:00 GMT",
-          "description": "Op zoek naar een gratis live stream van FC Barcelona - Alaves die jij kunt kijken? Wij hebben de live stream voor Nederland en Belgi&#235;."
+          "title": "NEC onderuit bij sc Heerenveen",
+          "source": "nieuwsuitnijmegen",
+          "url": "https://www.nieuwsuitnijmegen.nl/Nieuws/22239/nec-onderuit-bij-sc-heerenveen.html",
+          "publishedDate": "Sat, 31 Oct 2026 14:36:00 GMT",
+          "description": "NEC heeft zaterdagavond met 1-0 verloren van sc Heerenveen. In een evenwichtige wedstrijd in het Abe Lenstra Stadion bleek een treffer van Dylan Vente na ruim een uur spelen doorslaggevend. Door de ni ..."
         },
         {
-          "title": "Barcelona vs Deportivo Alav&#233;s: Opstellingen, Statistieken, Tips &amp; Odds",
-          "source": "Squawka",
-          "url": "https://www.squawka.com/nl/nieuws/la-liga/barcelona-deportivo-alaves-opstellingen-statistieken-tips-odds/",
-          "publishedDate": "Sat, 31 Oct 2026 02:18:00 GMT",
-          "description": "Voorbeschouwing Barcelona - Deportivo Alav&#233;s: lees alles over opstellingen, statistieken, voorspellingen en de beste odds voor deze kraker."
-        },
-        {
-          "title": "Flick looft Yamal na Ballon d’Or: “Zo hoor je te reageren”",
-          "source": "voetbalfocus",
-          "url": "https://voetbalfocus.be/flick-looft-lamine-yamal-na-ballon-dor/",
-          "publishedDate": "Fri, 30 Oct 2026 16:55:00 GMT",
-          "description": "De aanvaller won wel opnieuw de Kopa Trophy en kreeg van zijn coach lof voor zijn focus &#233;n woorden over Pau Cubars&#237;."
-        },
-        {
-          "title": "Frenkie de Jong: 'Oranje heeft een goed team met veel potentie'",
+          "title": "Schreuder ziet NEC groeien ondanks nederlaag bij Heerenveen",
           "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/frenkie-de-jong-oranje-heeft-een-goed-team-met-veel-potentie/ar-AA2grc2U",
-          "publishedDate": "Fri, 30 Oct 2026 15:00:00 GMT",
-          "description": "Frenkie de Jong speelt met Barcelona nog duels met Alav&#233;s (La Liga), Aston Villa (Champions League) en Atl&#233;tico Madrid (La Liga) en meldt zich daarna voor een nieuwe interlandperiode bij Oranje-bondsc ..."
+          "url": "https://www.msn.com/nl-nl/sport/other/schreuder-ziet-nec-groeien-ondanks-nederlaag-bij-heerenveen/ar-AA2gtY71",
+          "publishedDate": "Sat, 31 Oct 2026 14:04:57 GMT",
+          "description": "NEC zakt langzamerhand verder weg in de Eredivisie. De Nijmegenaren bleven zaterdag steken op elf punten door de nederlaag bij SC Heerenveen . De ploeg van trainer Dick Schreuder won dit seizoen pas t ..."
         },
         {
-          "title": "Hansi Flick bevestigt opvallende optie voor Frenkie de Jong bij Bar&#231;a",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/hansi-flick-bevestigt-optie-frenkie-de-jong-centrale-verdediger-barcelona",
-          "publishedDate": "Fri, 30 Oct 2026 07:06:00 GMT",
-          "description": "Barcelona-trainer Hansi Flick noemt Frenkie de Jong 'een geweldige speler' en bevestigt voor het duel met Alav&#233;s dat hij een optie is als centrale verdediger."
+          "title": "Heerenveen in vorm wint ook van NEC: 1-0",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/heerenveen-in-vorm-wint-ook-van-nec-1-0",
+          "publishedDate": "Sat, 31 Oct 2026 13:58:00 GMT",
+          "description": "HEERENVEEN (ANP) - Sc Heerenveen heeft zijn goede reeks voortgezet met een kleine zege op NEC. Het werd 1-0 in het Abe Lenstra-stadion. Dylan Vente was halverwege de tweede helft de maker van het doel ..."
         },
         {
-          "title": "Barcelona vs Alav&#233;s voorspelling, tips en odds | La Liga",
-          "source": "Eurosport",
-          "url": "https://www.eurosport.nl/weddenschappen/voorspellingen/barcelona-vs-alaves-voorspelling-tips-en-odds-31-10-26/",
-          "publishedDate": "Thu, 29 Oct 2026 11:15:00 GMT",
-          "description": "Raphinha, met 13 treffers topscorer van La Liga, en Lamine Yamal, die maandag in Londen voor de derde keer op rij de Kopa Trophy won, zijn samen al goed voor 21 competitiedoelpunten."
+          "title": "SC Heerenveen boekt knappe overwinning in eigen huis tegen NEC",
+          "source": "FeanOnline",
+          "url": "https://www.feanonline.nl/sc-heerenveen-boekt-knappe-overwinning/",
+          "publishedDate": "Sat, 31 Oct 2026 12:40:00 GMT",
+          "description": "Lees nu | SC Heerenveen heeft op zaterdagavond een belangrijke overwinning geboekt op NEC. In een duel waarin de Friezen lang niet altijd de betere ..."
         },
         {
-          "title": "&#191;C&#243;mo conseguir entradas para el Barcelona-Deportivo Alav&#233;s de LaLiga?",
-          "source": "Goal",
-          "url": "https://www.goal.com/es-ar/entradas-viajes/partido/como-conseguir-entradas-para-el-barcelona-deportivo-alaves-precios-de-laliga-informacion-del-partido-venta-de-ultima-hora-y-mas/A~blta7148a0d847d0898",
-          "publishedDate": "Wed, 21 Oct 2026 06:28:00 GMT",
-          "description": "El Barcelona se enfrenta al Deportivo Alav&#233;s en LaLiga. As&#237; puedes conseguir tus entradas. El FC Barcelona tiene un historial ampliamente favorable frente al Deportivo Alav&#233;s en LaLiga y ha ganado la ..."
+          "title": "Heerenveen vervolgt zegereeks dankzij Vente en vergroot zorgen NEC",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/heerenveen-vervolgt-zegereeks-dankzij-vente-en-vergroot-zorgen-nec",
+          "publishedDate": "Sat, 31 Oct 2026 12:38:00 GMT",
+          "description": "SC Heerenveen heeft zaterdagavond dankzij spits Dylan Vente voor eigen publiek afgerekend met NEC. Het duel in Friesland bleef lange tijd in evenwicht, maar de thuisploeg sprong dankzij Vente zorgvuld ..."
         },
         {
-          "title": "Barcelona 3-1 Alav&#233;s: resultado, resumen y goles",
-          "source": "Caracol Radio",
-          "url": "https://caracol.com.co/resultados/futbol/primera/2025_2026/directo/regular_a_14_68644b77657c897/",
-          "publishedDate": "Wed, 12 Aug 2026 17:00:00 GMT",
-          "description": "Final del partido, Barcelona 3, Deportivo Alav&#233;s 1. 95' Final segunda parte, Barcelona 3, Deportivo Alav&#233;s 1. 92' Gol de Dani Olmo (3-1) &#161;Gooooool! Barcelona 3, Deportivo Alav&#233;s 1. Dani Olmo ..."
+          "title": "NEC faalt in Heerenveen en zakt weg in de eredivisie",
+          "source": "Omroep Gelderland",
+          "url": "https://www.gld.nl/sport/8541903/nec-faalt-in-heerenveen-en-zakt-weg-in-de-eredivisie",
+          "publishedDate": "Sat, 31 Oct 2026 12:32:00 GMT",
+          "description": "NEC verloor uit tegen Heerenveen met 1-0. Voor rust was het spel heel behoorlijk, maar in de tweede helft was het ondermaats. De Nijmegenaren hebben nu al keer duels niet meer gewonnen en zakken verde ..."
+        },
+        {
+          "title": "sc Heerenveen treft NEC in eigen huis: ‘We zitten in een goede flow’",
+          "source": "grootheerenveen",
+          "url": "https://www.grootheerenveen.nl/nieuws/sport/146785/sc-heerenveen-treft-nec-in-eigen-huis-we-zitten-in-een-goede-flow",
+          "publishedDate": "Sat, 31 Oct 2026 01:06:00 GMT",
+          "description": "HEERENVEEN – sc Heerenveen neemt het vanavond om 18.45 uur in het Abe Lenstra stadion op tegen NEC. Foto: Dijks Media De Friezen verkeren in goede vorm en wonnen drie van hun laatste vier competitiewe ..."
+        },
+        {
+          "title": "Dylan Vente bezorgt sc Heerenveen overwinning op NEC",
+          "source": "grootheerenveen",
+          "url": "https://www.grootheerenveen.nl/nieuws/sport/146837/dylan-vente-bezorgt-sc-heerenveen-overwinning-op-nec",
+          "publishedDate": "Fri, 30 Oct 2026 17:00:00 GMT",
+          "description": "HEERENVEEN – sc Heerenveen heeft zaterdagavond in het Abe Lenstra Stadion met 1-0 gewonnen van NEC. Spits Dylan Vente maakte in de 65e minuut het enige doelpunt van de wedstrijd."
         }
       ]
     },
