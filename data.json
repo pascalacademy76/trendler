@@ -1,242 +1,14 @@
 {
-  "fetchedAt": "2026-10-31T06:03:25.555Z",
+  "fetchedAt": "2026-10-31T12:53:51.826Z",
   "trends": [
     {
-      "keyword": "streamer",
+      "keyword": "den haag rellen",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Streamer krijgt bon van 10.000 euro door kijkers",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/331811/video/streamer-krijgt-bon-van-10000-euro-door-kijkers.html",
-          "publishedDate": "Fri, 30 Oct 2026 09:49:00 GMT",
-          "description": "Streamer Lacy is op Twitch erg bekend vanwege zijn streams waarin hij zijn dagelijkse leven deelt met miljoenen kijkers. Deze keer pakte dat wat minder goed uit."
-        },
-        {
-          "title": "Streamer krijgt torenhoge rekening in restaurant nadat kijkers QR-bestelcode zien",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/opmerkelijk/6414942/streamer-krijgt-torenhoge-rekening-in-restaurant-nadat-kijkers-qr-bestelcode-zien.html",
-          "publishedDate": "Fri, 30 Oct 2026 06:46:00 GMT",
-          "description": "Een Amerikaanse streamer kreeg de schrik van zijn leven toen hij in een Japans restaurant een rekening van ruim 10.000 euro voorgeschoteld kreeg. Kijkers hadden massaal eten voor hem besteld via een Q ..."
-        },
-        {
-          "title": "Streamer krijgt rekening van meer dan 10.000 euro in restaurant nadat kijkers QR-code van menukaart zien",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/streamer-krijgt-rekening-van-meer-dan-10-000-euro-in-restaurant-nadat-kijkers-qr-code-van-menukaart-zien~a878b96c/",
-          "publishedDate": "Thu, 29 Oct 2026 22:00:00 GMT",
-          "description": "Een Twitch-streamer heeft een rekening van meer dan 10.000 euro voorgeschoteld gekregen in een Japans restaurant, nadat zijn duizenden kijkers de QR-code konden scannen via de livestream."
-        },
-        {
-          "title": "Videoland mag streamer Viaplay overnemen, met onder meer Formule 1 en darts",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/videoland-mag-streamer-viaplay-overnemen-met-onder-meer-formule-1-en-darts/ar-AA2fFjuf",
-          "publishedDate": "Tue, 20 Oct 2026 00:53:26 GMT",
-          "description": "Streamingdienst Viaplay wordt eigendom van DPG Media, en zal worden samengevoegd met Videoland. Daar heeft de Autoriteit Consument en Markt (ACM) goedkeuring voor gegeven."
-        },
-        {
-          "title": "Sport Showbizz Nina Regio Kijk Puzzel Podcast",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/rekening-van-topstreamer-lacy-loopt-op-tot-meer-dan-10-000-euro-nadat-kijkers-qr-code-van-menukaart-zien~a878b96c/",
-          "publishedDate": "Thu, 29 Oct 2026 21:07:00 GMT",
-          "description": "De rekening van een een beroemde Twitch-streamer in een restaurant in Tokio is opgelopen tot meer dan 10.000 euro, nadat zijn duizenden kijkers de QR-code van de menukaart konden scannen via de livest ..."
-        },
-        {
-          "title": "Google TV Streamer krijgt n&#250; al een opvolger (met deze grote verbetering)",
-          "source": "iPhoned",
-          "url": "https://www.iphoned.nl/nieuws/google-tv-streamer-opvolger/",
-          "publishedDate": "Sat, 17 Oct 2026 07:33:00 GMT",
-          "description": "Google werkt aan een nieuwe versie van de Google TV Streamer met enkele flinke verbeteringen. Vooral &#233;&#233;n nieuwe functie klinkt veelbelovend!"
-        },
-        {
-          "title": "Streamers bedelen om geld op TikTok, en dat werkt: ‘Voor een bezoek aan de bios betaal je toch ook?’",
-          "source": "AD",
-          "url": "https://www.ad.nl/tech/streamers-bedelen-om-geld-op-tiktok-en-dat-werkt-voor-een-bezoek-aan-de-bios-betaal-je-toch-ook~a46ea056/",
-          "publishedDate": "Sat, 22 Aug 2026 02:47:00 GMT",
-          "description": "Bepaald niet altijd even spannend dus, die livevideo’s. Maar als Pizarro live gaat, dan moet je erbij zijn, weet zijn trouwe schare volgers. De gladgeschoren Amerikaan is op TikTok namelijk een soort ..."
-        },
-        {
-          "title": "ElZeein: as&#237; fue c&#243;mo se convirti&#243; en el streamer m&#225;s seguido del Per&#250;",
-          "source": "Infobae",
-          "url": "https://www.infobae.com/peru/2025/12/25/elzeein-asi-fue-como-se-convirtio-en-el-streamer-mas-seguido-del-peru/",
-          "publishedDate": "Wed, 24 Dec 2025 17:32:00 GMT",
-          "description": "Andy Dante Merino Ram&#237;rez se consolid&#243; como el streamer peruano m&#225;s influyente gracias a una carrera sostenida, audiencias r&#233;cord en Kick y una presencia que trasciende el entorno digital Por Manoel ..."
-        },
-        {
-          "title": "I gave up my Apple TV for the Google TV Streamer. Here's why I'm going back",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/apple-tv-vs-google-tv-streamer-3540765/",
-          "publishedDate": "Tue, 08 Apr 2025 05:00:00 GMT",
-          "description": "The streaming landscape in 2025 is, to put it nicely, a mess. There are dozens of streaming services to choose from, each with its own changing content libraries, ever-increasing prices, and fun new ..."
-        },
-        {
-          "title": "Google TV Streamer Review",
-          "source": "Tweakers",
-          "url": "https://tweakers.net/reviews/12474/google-tv-streamer-bijna-een-perfecte-mediaspeler.html",
-          "publishedDate": "Mon, 23 Sep 2024 09:00:00 GMT",
-          "description": "Update 26-09: Er was aanvankelijk onduidelijkheid over de ondersteunde audioformaten. Het leek erop dat hoewel er geen ondersteuning voor passthrough van TrueHD en DTS-HD is, de Streamer het wel kon ..."
-        }
-      ]
-    },
-    {
-      "keyword": "intratuin duiven incident",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Vrouw overleden na ongeluk op kerstshow Duiven, politie doet onderzoek",
+          "title": "Winkeliers Den Haag timmeren hun zaken dicht uit angst voor rellen",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2637306-vrouw-overleden-na-ongeluk-op-kerstshow-duiven-politie-doet-onderzoek",
-          "publishedDate": "Fri, 30 Oct 2026 06:32:00 GMT",
-          "description": "Het is niet duidelijk wat er is gebeurd. De politie bekijkt of er sprake is van meer dan alleen een medisch incident."
-        },
-        {
-          "title": "Vrouw die viel bij kerstshow Intratuin in Duiven overleden",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/binnenland/vrouw-die-viel-bij-kerstshow-intratuin-in-duiven-overleden~abcda54b/",
-          "publishedDate": "Fri, 30 Oct 2026 09:00:00 GMT",
-          "description": "De vrouw die donderdagmiddag een val heeft gemaakt op een bij kerstshow Santafia bij de intratuin in Duiven, is overleden. Dat meldt de politie. Het gaat om een 78-jarige Apeldoornse. Het onderzoek na ..."
-        },
-        {
-          "title": "Vrouw (78) overleden bij roltrapongeluk kerstshow Intratuin Duiven: `Onderzoek nog in volle gang`",
-          "source": "Drimble",
-          "url": "https://drimble.nl/regio/gelderland/arnhem/108445500/vrouw-78-overleden-bij-roltrapongeluk-kerstshow-intratuin-duiven-onderzoek-nog-in-volle-gang.html",
-          "publishedDate": "Fri, 30 Oct 2026 06:16:00 GMT",
-          "description": "De vrouw die donderdagmiddag een val heeft gemaakt bij kerstshow Santafia bij de Intratuin in Duiven, is overleden. Dat meldt de politie. Het gaat om een 78-jarige Apeldoornse. Het onderzoek naar het ..."
-        },
-        {
-          "title": "Vrouw (78) overleden na incident bij kerstshow Intratuin Duiven",
-          "source": "rtl",
-          "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5662008/intratuin-duiven-vrouw-78-overleden-incident-santafia",
-          "publishedDate": "Fri, 30 Oct 2026 05:17:00 GMT",
-          "description": "In het Gelderse Duiven is een 78-jarige vrouw overleden na een incident bij de kerstshow van de Intratuin. Daarbij raakte zij gistermiddag gewond, maar vandaag heeft de politie laten weten dat zij het ..."
-        },
-        {
-          "title": "Vrouw overleden na ongeluk in tuincentrum Intratuin in Duiven",
-          "source": "Omroep Gelderland",
-          "url": "https://www.gld.nl/nieuws/8541648/vrouw-overleden-na-ongeluk-in-tuincentrum-intratuin-in-duiven",
-          "publishedDate": "Fri, 30 Oct 2026 04:22:00 GMT",
-          "description": "Een vrouw van 78 jaar uit Apeldoorn is overleden in een tuincentrum in Duiven. De politie onderzoekt wat er precies gebeurd is."
-        },
-        {
-          "title": "Ernstig incident bij Intratuin Duiven op nieuwe kerstshowafdeling",
-          "source": "Wonen360",
-          "url": "https://www.wonen360.nl/article/9887826/ernstig-incident-bij-intratuin-duiven-op-nieuwe-kerstshowafdeling/",
-          "publishedDate": "Fri, 30 Oct 2026 04:00:00 GMT",
-          "description": "Waar bezoekers normaal tussen glinsterende kerstdecoraties slenteren, was bij Intratuin in Duiven een grootschalige reddingsoperatie gaande. Een vrouw raakte zwaargewond bij een ongeval ..."
-        },
-        {
-          "title": "Vrouw (78) uit Apeldoorn overleden bij roltrapongeluk Intratuin Duiven, personeel aangeslagen",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/apeldoorn/vrouw-78-uit-apeldoorn-overleden-bij-roltrapongeluk-intratuin-duiven-personeel-aangeslagen~abcda54b/",
-          "publishedDate": "Fri, 30 Oct 2026 02:12:00 GMT",
-          "description": "De vrouw die donderdagmiddag ten val is gekomen bij een roltrap van kerstattractie Santafia in de Intratuin in Duiven, is overleden. Dat meldt de politie. Het gaat om een 78-jarige Apeldoornse. De eig ..."
-        },
-        {
-          "title": "Kerstshow afgesloten na incident waarbij persoon zwaargewond raakt",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/gelderland-duiven-zwaargewond-persoon-kerst-traumahelikopter",
-          "publishedDate": "Thu, 29 Oct 2026 14:05:00 GMT",
-          "description": "Bij een incident in Intratuin Duiven is een persoon gewond geraakt en met spoed naar het ziekenhuis gebracht. Volgens een omstander is de kerstshow afgesloten."
-        },
-        {
-          "title": "Incident op kerstafdeling Intratuin Duiven, slachtoffer naar ziekenhuis",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/videos/incident-op-kerstafdeling-intratuin-duiven-slachtoffer-naar-ziekenhuis",
-          "publishedDate": "Thu, 29 Oct 2026 13:02:00 GMT",
-          "description": "Bij een incident in Intratuin Duiven is een persoon gewond geraakt en met spoed naar het ziekenhuis gebracht. Volgens een omstander is de kerstshow afgesloten."
-        },
-        {
-          "title": "Politie en meerdere ambulances naar tuincentrum na ongeval",
-          "source": "Omroep Gelderland",
-          "url": "https://www.gld.nl/nieuws/8541454/politie-en-meerdere-ambulances-naar-tuincentrum-na-ongeval",
-          "publishedDate": "Thu, 29 Oct 2026 09:37:00 GMT",
-          "description": "Bij een incident in Intratuin in Duiven is donderdagmiddag iemand gewond geraakt. Het incident zou zich mogelijk hebben afgespeeld op de nieuwe kerstshowafdeling."
-        }
-      ]
-    },
-    {
-      "keyword": "storing digid",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Cyberaanval zorgt voor grote storing bij online diensten DigiD en Belastingdienst",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/nederland/cyberaanval-zorgt-voor-grote-storing-bij-online-diensten-digid-en-belastingdienst~b1a03520/",
-          "publishedDate": "Fri, 30 Oct 2026 07:32:00 GMT",
-          "description": "Er is vrijdag opnieuw een grote storing bij DigiD en de Belastingdienst door een ddos-aanval. Wie er achter de aanval zit, is nog niet bekend. Wel wordt er aangifte gedaan bij de politie."
-        },
-        {
-          "title": "Storing bij DigiD na ddos-aanval weer verholpen, beheerder doet aangifte",
-          "source": "RTL Nieuws (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/storing-bij-digid-na-ddos-aanval-weer-verholpen-beheerder-doet-aangifte/ar-AA2grHRk",
-          "publishedDate": "Fri, 30 Oct 2026 06:51:00 GMT",
-          "description": "De problemen bij DigiD die volgden op een ddos-aanval zijn verholpen. Dat meldt Logius, de beheerder van de online diensten van de overheid. Het is nog niet duidelijk uit welke hoek de cyberaanval kwa ..."
-        },
-        {
-          "title": "Storing na DDoS-aanval bij online diensten DigiD weer opgelost",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/storing-na-ddos-aanval-bij-online-diensten-digid-weer-opgelost~a1a03520/",
-          "publishedDate": "Thu, 29 Oct 2026 23:56:00 GMT",
-          "description": "Door een DDoS-aanval hebben de online diensten van DigiD vrijdag korte tijd plat gelegen. Wie verantwoordelijk is voor de aanval, is nog niet bekend. Wel wordt er aangifte gedaan bij de politie."
-        },
-        {
-          "title": "Ddos-aanval op DigiD legt inloggen ruim een uur deels plat",
-          "source": "ThePostOnline",
-          "url": "https://tpo.nl/2026/10/30/digid-ddos-storing-logius-belastingdienst/",
-          "publishedDate": "Fri, 30 Oct 2026 09:23:00 GMT",
-          "description": "Een ddos-aanval op DigiD maakte vrijdag inloggen bij de Belastingdienst en MijnOverheid ruim een uur lastig, vlak voor de btw-deadline. Logius doet aangifte."
-        },
-        {
-          "title": "Meer dan een uur storing DigiD door ddos-aanval",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/algemeen/meer-dan-een-uur-storing-digid-door-ddos-aanval",
-          "publishedDate": "Fri, 30 Oct 2026 08:18:00 GMT",
-          "description": "DEN HAAG (ANP) - Online-inlogservice DigiD was vrijdagmiddag slecht bereikbaar door een ddos-aanval. De website digid.nl was nog wel bereikbaar, maar inloggen ging moeizaam, volgens een woordvoerder v ..."
-        },
-        {
-          "title": "DigiD deels niet beschikbaar als gevolg van ddos-aanval",
-          "source": "Security.NL",
-          "url": "https://www.security.nl/posting/959780/DigiD+deels+niet+beschikbaar+als+gevolg+van+ddos-aanval",
-          "publishedDate": "Fri, 30 Oct 2026 07:43:00 GMT",
-          "description": "DigiD is deels niet beschikbaar als gevolg van een ddos-aanval, zo laat DigiD-beheerder Logius weten. De storing met DigD begon om 13.22 uur, aldus de overheidsdienst. Ook op AlleStoringen.nl maken me ..."
-        },
-        {
-          "title": "DDoS-aanval zorgt voor grote storing bij DigiD en Belastingdienst",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/d-do-s-aanval-zorgt-voor-grote-storing-bij-digi-d-en-belastingdienst",
-          "publishedDate": "Fri, 30 Oct 2026 07:30:00 GMT",
-          "description": "Er is vrijdag opnieuw een grote storing bij DigiD en de Belastingdienst door een DDoS-aanval. Wie er achter de aanval zit, is nog niet bekend. Wel wordt er aangifte gedaan bij de politie."
-        },
-        {
-          "title": "DigiD en Belastingdienst kort onbereikbaar geweest na aanval",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/tech/nieuws/artikelen/digid-en-belastingdienst-kort-onbereikbaar-geweest-na-aanval",
-          "publishedDate": "Fri, 30 Oct 2026 07:27:00 GMT",
-          "description": "DigiD en de Belastingdienst ervaarden storingen na een DDoS-aanval. Logius, het bedrijf erachter, heeft de storing snel kunnen verhelpen."
-        },
-        {
-          "title": "Cyberaanval veroorzaakt storing bij DigiD en Belastingdienst",
-          "source": "Het Financieele Dagblad",
-          "url": "https://fd.nl/samenleving/1617631/cyberaanval-veroorzaakt-storing-bij-digid-en-belastingdienst",
-          "publishedDate": "Fri, 30 Oct 2026 07:00:00 GMT",
-          "description": "U heeft browser notificaties voor fd.nl eerder geweigerd. Ga naar browser instellingen en sta browser notificaties toe voor fd.nl. De precieze handelingen zijn afhankelijk van uw browser."
-        },
-        {
-          "title": "DDoS-aanval zorgt voor storing bij DigiD en Belastingdienst",
-          "source": "Techzine",
-          "url": "https://www.techzine.nl/nieuws/security/583413/ddos-aanval-zorgt-voor-storing-bij-digid-en-belastingdienst/",
-          "publishedDate": "Fri, 30 Oct 2026 06:54:00 GMT",
-          "description": "DigiD is opnieuw slecht bereikbaar door een DDoS-aanval, ook de Belastingdienst heeft last. Logius doet aangifte en onderzoekt de gevolgen."
-        }
-      ]
-    },
-    {
-      "keyword": "rellen den haag",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Den Haag zet zich schrap: winkeliers timmeren hun zaken dicht uit angst voor rellen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2637387-den-haag-zet-zich-schrap-winkeliers-timmeren-hun-zaken-dicht-uit-angst-voor-rellen",
+          "url": "https://nos.nl/artikel/2637387-winkeliers-den-haag-timmeren-hun-zaken-dicht-uit-angst-voor-rellen",
           "publishedDate": "Fri, 30 Oct 2026 15:06:00 GMT",
           "description": "Winkels zijn dichtgetimmerd en sommige zelfs uit voorzorg helemaal leeggehaald. Den Haag bereidt zich voor op mogelijke rellen en plunderingen."
         },
@@ -248,18 +20,32 @@
           "description": "De stad Den Haag en andere grote steden in Nederland houden de situatie nauwlettend in de gaten, nu er in appgroepen en op sociale media wordt opgeroepen tot een grote jongerendemonstratie morgen. Enk ..."
         },
         {
-          "title": "Gen Z-protest Den Haag afgeblazen, wel veel onrust bij winkeliers",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/binnenland/gen-z-protest-den-haag-afgeblazen-wel-veel-onrust-bij-winkeliers~b823e10d/",
-          "publishedDate": "Fri, 30 Oct 2026 04:57:00 GMT",
-          "description": "De buitenlandse gen Z-protesten zijn nog niet overgewaaid naar Nederland. Een protest in Den Haag ging op het laatste moment niet door. Toch houden winkeliers daar hun hart vast voor komend weekend."
+          "title": "Steeds meer winkels in centrum Den Haag dichtgetimmerd uit angst voor rellen",
+          "source": "Omroep West",
+          "url": "https://www.omroepwest.nl/112/5168856/steeds-meer-winkels-in-centrum-den-haag-dichtgetimmerd-uit-angst-voor-rellen",
+          "publishedDate": "Sat, 31 Oct 2026 04:17:00 GMT",
+          "description": "Steeds meer winkels in Den Haag zijn zaterdagochtend dichtgetimmerd uit angst voor rellen en plunderingen. Op sociale media circuleren oproepen om te demonstreren op het Malieveld en op te trekken naa ..."
         },
         {
-          "title": "Haagse burgemeester over dreigende rellen en plunderingen: ‘Verstoringen openbare orde worden niet getolereerd’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/den-haag/haagse-burgemeester-over-dreigende-rellen-en-plunderingen-verstoringen-openbare-orde-worden-niet-getolereerd~ae9aeb331/",
-          "publishedDate": "Fri, 30 Oct 2026 03:00:00 GMT",
-          "description": "Den Haag zet zich schrap voor eventuele ongeregeldheden in de binnenstad zaterdag, waarbij protestgangers onder de noemer ‘Gen Z-protest’ dreigen winkels in het centrum te gaan plunderen. „We zijn ale ..."
+          "title": "Grote angst voor rellen in Den Haag: winkels dichtgetimmerd en voetbalsupporters kondigen actie aan",
+          "source": "Drimble",
+          "url": "https://drimble.nl/vrouw/blogs/108455817/grote-angst-voor-rellen-in-den-haag-winkels-dichtgetimmerd-en-voetbalsupporters-kondigen-actie-aan.html",
+          "publishedDate": "Sat, 31 Oct 2026 04:06:00 GMT",
+          "description": "In Den Haag nemen de zorgen over mogelijke rellen flink toe. Winkeliers hebben hun etalages met houten platen afgeschermd, de politie houdt de situatie nauwlettend in de gaten en zelfs de harde kern v ..."
+        },
+        {
+          "title": "Meer winkels in Den Haag dichtgetimmerd uit vrees voor rellen",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/crime/artikelen/winkels-den-haag-dichtgetimmerd-rellen",
+          "publishedDate": "Sat, 31 Oct 2026 01:25:00 GMT",
+          "description": "Meer winkels in het centrum van Den Haag worden dichtgetimmerd uit angst voor rellen en plunderingen. Onder meer MediaMarkt, Primark en Decathlon nemen maatregelen."
+        },
+        {
+          "title": "Nog meer winkels in Den Haag timmeren pui dicht uit vrees voor rellen",
+          "source": "WNL",
+          "url": "https://wnl.tv/2026/10/31/nog-meer-winkels-in-den-haag-timmeren-pui-dicht",
+          "publishedDate": "Fri, 30 Oct 2026 16:38:00 GMT",
+          "description": "WNL plaatst Functionele cookies, om deze website naar behoren te laten functioneren en Analytische cookies waarmee wij het gebruik van de website kunnen meten. Deze cookies gebruiken geen ..."
         },
         {
           "title": "Harde kern ADO Den Haag wil stad beschermen tegen aangekondigde rellen",
@@ -276,13 +62,6 @@
           "description": "Diverse winkels in de binnenstad van Den Haag maken hun puien dicht met houten planken. Ze reageren daarmee op de oproepen die al meerdere dagen rondgaan onder jongeren op sociale media om zaterdag in ..."
         },
         {
-          "title": "Dreiging van rellen en plunderingen: winkels Den Haag nemen maatregelen",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/economie/werk/videos/dreiging-van-rellen-en-plunderingen-winkels-den-haag-nemen-maatregelen",
-          "publishedDate": "Fri, 30 Oct 2026 06:51:00 GMT",
-          "description": "Winkels in Den Haag timmeren hun puien dicht uit angst voor mogelijke rellen en plunderingen op zaterdag. Op sociale media gaan oproepen rond om in meerdere steden, waaronder Maastricht, Eindhoven en ..."
-        },
-        {
           "title": "Den Haag is ‘alert en voorbereid’ op mogelijk jongerenprotest, winkels dichtgetimmerd",
           "source": "Reformatorisch Dagblad",
           "url": "https://www.rd.nl/a/den-haag-is-alert-en-voorbereid-op-mogelijk-jongerenprotest-winkels-dichtgetimmerd",
@@ -290,170 +69,460 @@
           "description": "Minister Heerma roept jongeren op zich te gedragen bij demonstraties komend weekend. Diverse winkels in Den Haag hebben op voorhand hun puien dichtgemaakt met houten planken."
         },
         {
-          "title": "Winkels in binnenstad worden dichtgetimmerd uit angst voor rellen en plunderingen",
-          "source": "Den Haag FM",
-          "url": "https://www.denhaagfm.nl/dhfm/5168649/winkels-in-binnenstad-worden-dichtgetimmerd-uit-angst-voor-rellen-en-plunderingen",
-          "publishedDate": "Fri, 30 Oct 2026 06:01:00 GMT",
-          "description": "Verschillende winkels in het centrum nemen voorzorgsmaatregelen met het oog op mogelijke rellen of plunderingen zaterdag. Zo is de Tommy Hilfiger-winkel aan de Hoogstraat dichtgetimmerd met houten pla ..."
-        },
-        {
           "title": "Winkels in binnenstad Den Haag worden dichtgetimmerd uit angst voor rellen en plunderingen",
           "source": "Omroep West",
           "url": "https://www.omroepwest.nl/economie/5168603/winkels-in-binnenstad-den-haag-worden-dichtgetimmerd-uit-angst-voor-rellen-en-plunderingen",
-          "publishedDate": "Fri, 30 Oct 2026 04:00:00 GMT",
+          "publishedDate": "Fri, 30 Oct 2026 05:00:00 GMT",
           "description": "Verschillende winkels in het centrum van Den Haag nemen voorzorgsmaatregelen met het oog op mogelijke rellen of plunderingen zaterdag. Zo is de Tommy Hilfiger-winkel aan de Hoogstraat dichtgetimmerd m ..."
         }
       ]
     },
     {
-      "keyword": "daphne deckers",
+      "keyword": "lufthansa",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Daphne Deckers gaf dochter Emma belangrijk zetje richting acteercarri&#232;re",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/artikel/5661928/daphne-deckers-gaf-dochter-belangrijk-zetje-richting-acteercarriere",
-          "publishedDate": "Thu, 29 Oct 2026 22:48:00 GMT",
-          "description": "Emma Deckers (28) timmert hard aan de weg als actrice. Met Daphne Deckers (57) en Richard Krajicek (54) als ouders groeide ze op in een bekend gezin, maar haar liefde voor acteren ontdekte ze al op jo ..."
+          "title": "Lufthansa-crewlid ge&#235;lektrocuteerd in zwembad van Indiaas vijfsterrenhotel",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6415016/lufthansa-crewlid-geelektrocuteerd-in-zwembad-van-indiaas-vijfsterrenhotel.html",
+          "publishedDate": "Sat, 31 Oct 2026 02:32:00 GMT",
+          "description": "KLM is geschrokken van een dodelijk incident in een vijfsterrenhotel in India. Daar kwamen volgens Indiase media twee mensen om het leven doordat zij werden ge&#235;lektrocuteerd in het zwembad. Een van de ..."
         },
         {
-          "title": "Daphne Deckers is dol op Muiden: van omfietsbrood van de Stadsbackerij tot het Muiderslot",
+          "title": "KLM-crew vol ongeloof: Lufthansa-medewerker ge&#235;lektrocuteerd in zwembad vijfsterrenhotel India",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/mezza/daphne-deckers-is-dol-op-muiden-van-omfietsbrood-van-de-stadsbackerij-tot-het-muiderslot~a0962d9b/",
-          "publishedDate": "Tue, 27 Oct 2026 09:43:00 GMT",
-          "description": "Schrijfster Daphne Deckers deelt haar favoriete plekken in haar woonplaats Muiderberg en het nabijgelegen Muiden. Op 27 oktober verschijnt haar nieuwe boek Geef jezelf toestemming."
+          "url": "https://www.ad.nl/buitenland/klm-crew-vol-ongeloof-lufthansa-medewerker-geelektrocuteerd-in-zwembad-vijfsterrenhotel-india~ad082f6d/",
+          "publishedDate": "Fri, 30 Oct 2026 21:21:00 GMT",
+          "description": "Een bemanningslid van de Duitse luchtvaartmaatschappij Lufthansa is vrijdagavond om het leven gekomen in het zwembad van een vijfsterrenhotel in de Indiase stad Bangalore. Dat gebeurde nadat het zwemb ..."
         },
         {
-          "title": "Daphne Deckers: ’Richard slaat heel vaak de benen over elkaar en ik heb geen idee wat daar niet mannelijk aan zou zijn’",
-          "source": "De Telegraaf",
-          "url": "https://www.telegraaf.nl/vrouw/daphne-deckers-richard-slaat-heel-vaak-de-benen-over-elkaar-en-ik-heb-geen-idee-wat-daar-niet-mannelijk-aan-zou-zijn/64086129.html",
-          "publishedDate": "Sat, 12 Apr 2025 08:30:00 GMT",
-          "description": "We leven in een tijd waarin de manosfeer (de online communities die jonge mannen van alles wijsmaken over wat het betekent om ’mannelijk’ te zijn) steeds radicaler wordt. Dat komt lang niet alleen ..."
+          "title": "Air France-KLM grijpt mis: Lufthansa bezig met volledige overname TAP Air Portugal",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/economie/air-france-klm-grijpt-mis-lufthansa-bezig-met-volledige-overname-tap-air-portugal~a1b9eef3/",
+          "publishedDate": "Wed, 14 Oct 2026 22:13:00 GMT",
+          "description": "Lufthansa voert gesprekken over een volledige overname van de Portugese luchtvaartmaatschappij TAP. Woensdag werd al duidelijk dat de Duitse luchtvaartmaatschappij een minderheidsbelang in TAP neemt."
         },
         {
-          "title": "Dochter krijgt sneer na advies Daphne Deckers: ‘Kledingadvies ook een goede tip’",
-          "source": "Ditjes en Datjes",
-          "url": "https://www.ditjesendatjes.nl/dochter-krijgt-sneer-na-advies-daphne-deckers-kledingadvies-ook-een-goede-tip",
-          "publishedDate": "Fri, 30 Oct 2026 06:12:00 GMT",
-          "description": "Emma Deckers timmert inmiddels flink aan de weg als actrice. De 28-jarige dochter van Daphne Deckers en Richard Krajicek vertelt in een interview met FHM dat ze als kind al graag optrad, maar op de mi ..."
+          "title": "Lufthansa-medewerker overleden na elektrocutie in zwembad hotel",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Buitenland/lufthansa-medewerker-overleden-na-elektrocutie-in-zwembad-hotel/ar-AA2gsCAn",
+          "publishedDate": "Sat, 31 Oct 2026 02:27:00 GMT",
+          "description": "BENGALURU (ANP) - Twee mensen zijn overleden nadat zij werden ge&#235;lektrocuteerd in het zwembad van een vijfsterrenhotel in India. Dat meldden Indiase media. Een van de slachtoffers zou een bemanningsli ..."
         },
         {
-          "title": "Dochter (28) van Richard Krajicek en Daphne Deckers ontdekt eigen talent: 'Daar weet niemand wie mijn ouders zijn'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/boulevard/nieuws/dochter-28-van-richard-krajicek-en-daphne-deckers-ontdekt-eigen-talent-daar-weet-niemand-wie-mijn-ouders-zijn-2026102922344114383/",
-          "publishedDate": "Fri, 30 Oct 2026 01:00:00 GMT",
-          "description": "Emma Deckers, de dochter van tennisicoon Richard Krajicek en Daphne Deckers, heeft een succesvolle carri&#232;re opgebouwd. Ze ontdekte haar eigen talenten op een plek waar niemand wist wie haar ouders ..."
+          "title": "Lufthansa introduceert nieuwe Allegris-cabine op vluchten naar Singapore en zet Airbus A350-1000 in",
+          "source": "InsideFlyer",
+          "url": "https://insideflyer.nl/lufthansa-introduceert-nieuwe-allegris-cabine-op-vluchten-naar-singapore-en-zet-airbus-a350-1000-in/",
+          "publishedDate": "Fri, 30 Oct 2026 02:20:00 GMT",
+          "description": "Lufthansa breidt het aantal bestemmingen met de nieuwe Allegris-cabine verder uit. Sinds 26 oktober 2026 kunnen reizigers ook op vluchten tussen M&#252;nchen en Singapore kennismaken met het vernieuwde cab ..."
         },
         {
-          "title": "Foto's: zo ziet de prachtige dochter van Daphne Deckers en Richard Krajicek eruit",
-          "source": "MAN MAN on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/fotos-zo-ziet-de-prachtige-dochter-van-daphne-deckers-en-richard-krajicek-eruit/ar-AA1LCydd",
-          "publishedDate": "Fri, 30 Oct 2026 00:27:23 GMT",
-          "description": "Welke man is er nou niet bekend met topmodel Daphne Deckers? Ze is nu al weer wat ouder maar de perfecte opvolger is al in huis: haar dochter Emma Deckers."
+          "title": "Lufthansa maakt Miles &amp; More steeds More Expensive door opnieuw hogere brandstoftoeslagen",
+          "source": "InsideFlyer",
+          "url": "https://insideflyer.nl/lufthansa-maakt-miles-more-steeds-meer-miles-more-expensive-door-opnieuw-hogere-brandstoftoeslagen/",
+          "publishedDate": "Fri, 30 Oct 2026 02:13:00 GMT",
+          "description": "Lufthansa heeft de toeslagen op vliegtickets opnieuw verhoogd. Het is alweer de derde verhoging in 2026, nadat de Duitse luchtvaartgroep in maart ook al twee keer de tarieven aanpaste. Vooral Miles &amp; ..."
         },
         {
-          "title": "Emma Deckers (dochter van tennisicoon Richard Krajicek) straalt in 'spannende' fotoshoot: 'Vrij en onbezonnen'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/boulevard/nieuws/emma-deckers-dochter-van-tennisicoon-richard-krajicek-straalt-in-spannende-fotoshoot-vrij-en-onbezonnen-2026102922113814848/",
-          "publishedDate": "Thu, 29 Oct 2026 16:28:00 GMT",
-          "description": "Emma Deckers timmert hard aan de weg als actrice. Maar voor een fotoshoot met FHM stond de dochter van Daphne Deckers en Richard Krajicek als zichzelf voor de camera. Dat leverde prachtige beelden op."
+          "title": "Iconische A340 landt voor laatste keer op vliegtuigkerkhof",
+          "source": "Up in the Sky",
+          "url": "https://www.upinthesky.nl/2026/10/27/iconische-a340-landt-voor-laatste-keer-op-vliegtuigkerkhof/",
+          "publishedDate": "Tue, 27 Oct 2026 06:00:00 GMT",
+          "description": "Een iconische Airbus A340-600 heeft zijn laatste vlucht gemaakt. D-AIHX vloog op 26 oktober van D&#252;sseldorf naar Teruel in Spanje, waar het vliegtuig wordt ..."
         },
         {
-          "title": "Lees hoofdstuk 3 van 'Vrije Val', een LINDA.verhaal door Daphne Deckers: 'Was het neerstorten van een lift niet extreem zeldzaam?'",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/cultuur-media/vrije-val/hoofdstuk-3-vrije-val-daphne-deckers/",
-          "publishedDate": "Fri, 23 Oct 2026 17:00:00 GMT",
-          "description": "Speciaal voor LINDA. schrijft Daphne Deckers Vrije Val, een feuilleton over tweede kansen, gemiste mogelijkheden en de vraag wat er gebeurt als je eindelijk besluit om niet langer op ‘later’ te ..."
+          "title": "Lufthansa haalt het van Air France-KLM in strijd om belang in TAP Air Portugal",
+          "source": "Business AM on MSN",
+          "url": "https://www.msn.com/nl-be/news/other/lufthansa-haalt-het-van-air-france-klm-in-strijd-om-belang-in-tap-air-portugal/ar-AA2eerto",
+          "publishedDate": "Wed, 14 Oct 2026 09:42:00 GMT",
+          "description": "Key takeaways Na een langdurig privatiseringsproces van de luchtvaartmaatschappij TAP Air Portugal heeft de Portugese premier Lu&#237;s Montenegro woensdag bekendgemaakt dat Lufthansa de biedingsstrijd hee ..."
         },
         {
-          "title": "Voormalig fotomodel Daphne Deckers: ‘Het leven is nu, ik ben van een hiernumaals’",
-          "source": "kro-ncrv",
-          "url": "https://kro-ncrv.nl/voormalig-fotomodel-daphne-deckers-het-leven-is-nu-ik-ben-van-een-hiernumaals",
-          "publishedDate": "Tue, 19 May 2026 00:28:00 GMT",
-          "description": "In Terug in de Tijd met KRO-NCRV worden oude verhalen opnieuw in de spotlights gezet. Zo ook het verhaal van Daphne Deckers. In het programma Villa Felderhof vertelt ze over haar mislukte eerste ..."
+          "title": "Iconische Boeing 747 uit Duitsland verdwijnt naar kerkhof",
+          "source": "Up in the Sky",
+          "url": "https://www.upinthesky.nl/2026/09/29/iconische-boeing-747-uit-duitsland-verdwijnt-naar-kerkhof/",
+          "publishedDate": "Mon, 28 Sep 2026 23:50:00 GMT",
+          "description": "Lufthansa heeft afgelopen weekend opnieuw afscheid genomen van een Boeing 747, nadat eerder al een exemplaar vertrok naar de Verenigde Staten. Het toestel ..."
         },
         {
-          "title": "Daphne Deckers deelt slaapkamergewoonte: 'Laat 'de poes' ook even uit haar mand'",
-          "source": "panorama",
-          "url": "https://panorama.nl/artikel/637593/daphne-deckers-deelt-slaapkamergewoonte-laat-de-poes-ook-even-uit-haar-mand",
-          "publishedDate": "Tue, 11 Mar 2025 03:20:00 GMT",
-          "description": "De een slaapt in een pyama, de ander in ondergoed en Daphne Deckers rolt puur natuur het bed in. En daar heeft ze zo haar redenen voor. In een column in de Telegraaf deelt Deckers haar ..."
+          "title": "Lufthansa en KLM zien powerbank in brand vliegen: expert legt uit hoe dat ‘zomaar’ kan",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/lifestyle/tech/2026/09/opnieuw-powerbank-brand-vliegtuig-batterij-zomaar-in-de-hens/",
+          "publishedDate": "Mon, 28 Sep 2026 04:25:00 GMT",
+          "description": "Het is geen fijn idee: de powerbank die je tijdens je vlucht meeneemt, die voor je gevoel ieder moment vlam kan vatten. Toch loop je in het vliegtuig niet per se meer risico dan in de auto, zeggen exp ..."
         }
       ]
     },
     {
-      "keyword": "volendam - de graafschap",
+      "keyword": "ongeluk a9",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Live voetbal | Late start Volendam-De Graafschap, bekijk hier KKD-tussenstanden",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6414986/live-voetbal-late-start-volendam-de-graafschap-bekijk-hier-kkd-tussenstanden.html",
-          "publishedDate": "Fri, 30 Oct 2026 11:59:00 GMT",
-          "description": "Bij de start van speelronde 13 in de Keuken Kampioen Divisie staan vier wedstrijden op het programma. FC Volendam-De Graafschap is met een kwartier uitgesteld, omdat de uitsupporters in de file stonde ..."
+          "title": "Persoon overleden bij ernstig ongeval op A9 bij Heiloo: snelweg richting Alkmaar urenlang dicht",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-heiloo/persoon-overleden-bij-ernstig-ongeval-op-a9-bij-heiloo-snelweg-richting-alkmaar-urenlang-dicht~a7cae277/",
+          "publishedDate": "Fri, 30 Oct 2026 04:07:00 GMT",
+          "description": "Bij een ernstig ongeluk op de A9 ter hoogte van Heiloo is een persoon om het leven gekomen. Het slachtoffer kwam in botsing met een auto. Vanwege het politieonderzoek en de hulpverlening is de snelweg ..."
         },
         {
-          "title": "De Graafschap wint met verzorgd voetbal verdiend van FC Volendam",
-          "source": "REGIO8",
-          "url": "https://www.regio8.nl/nieuws/de-graafschap-wint-met-verzorgd-voetbal-verdiend-van-fc-volendam",
-          "publishedDate": "Fri, 30 Oct 2026 16:30:00 GMT",
-          "description": "De Graafschap heeft een verrassende overwinning geboekt in Volendam. De ploeg van Thomas Duivenvoorden zorgde door doelpunten van Donny Warmerdam en Joran Hardeman voor een verdiende uitoverwinning: 1 ..."
+          "title": "Ongeluk met gekantelde vrachtwagen op A9 bij Amstelveen, automobilist gewond naar het ziekenhuis",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/amsterdam/ongeluk-met-gekantelde-vrachtwagen-op-a9-bij-amstelveen-automobilist-gewond-naar-het-ziekenhuis~a9fe94f6/",
+          "publishedDate": "Sun, 04 Oct 2026 02:46:00 GMT",
+          "description": "Op de A9 bij Amstelveen is zondagochtend een vrachtwagen omgeslagen op de snelweg. Een auto raakte betrokken bij het incident en de bestuurder raakte hierbij gewond. De A9 bij Amstelveen was in beide ..."
         },
         {
-          "title": "Lees terug: FC Volendam verliest van De Graafschap en is thuis niet meer ongeslagen",
-          "source": "nl.headtopics.com",
-          "url": "https://nl.headtopics.com/news/lees-terug-fc-volendam-verliest-van-de-graafschap-en-is-89387972",
-          "publishedDate": "Fri, 30 Oct 2026 15:39:00 GMT",
-          "description": "FC Volendam ontvangt De Graafschap in de eerste divisie. De ploeg won alle zes thuisduels. Volg de wedstrijd live vanaf 20.00 uur in ons liveblog."
+          "title": "Persoon overleden na aanrijding op A9 bij Heiloo, snelweg urenlang afgesloten",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/persoon-overleden-na-aanrijding-op-a9-bij-heiloo-snelweg-urenlang-afgeslote",
+          "publishedDate": "Fri, 30 Oct 2026 12:38:00 GMT",
+          "description": "Bij een aanrijding op de A9 bij Heiloo is een persoon overleden. De snelweg is tot naar verwachting 22.00 uur afgesloten. De politie doet onderzoek."
         },
         {
-          "title": "FC Volendam verspeelt voorsprong en lijdt eerste thuisnederlaag tegen De Graafschap",
-          "source": "groot-waterland.nl",
-          "url": "https://groot-waterland.nl/2026/10/30/fc-volendam-verspeelt-voorsprong-en-lijdt-eerste-thuisnederlaag-tegen-de-graafschap/",
-          "publishedDate": "Fri, 30 Oct 2026 15:10:00 GMT",
-          "description": "FC Volendam heeft vrijdagavond de eerste thuisnederlaag van het seizoen geleden. De ploeg van trainer Erwin van de Looi verloor met 1-2 van De Graafschap, ondanks een ..."
+          "title": "Dodelijk ongeval op A9 bij Heiloo",
+          "source": "Streekstad Centraal",
+          "url": "https://streekstadcentraal.nl/60238666-dodelijk-ongeval-op-a9-bij-heiloo",
+          "publishedDate": "Fri, 30 Oct 2026 11:47:00 GMT",
+          "description": "Op de A9 heeft vrijdagavond een fataal ongeval plaatsgevonden ter hoogte van Heiloo. Zeker &#233;&#233;n betrokkene is daarbij om het leven gekomen. Het ongeluk gebeurde rond 18:00 uur. Meerdere hulpdiensten we ..."
         },
         {
-          "title": "FC Volendam zakt door het ijs en lijdt eerste thuisnederlaag: &quot;We halen ons niveau niet&quot;",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/364968/fc-volendam-zakt-door-het-ijs-en-lijdt-eerste-thuisnederlaag-we-halen-ons-niveau-niet",
-          "publishedDate": "Fri, 30 Oct 2026 14:54:00 GMT",
-          "description": "FC Volendam verliest thuis ongeslagen status na 1-2 tegen De Graafschap. Twee tegentreffers uit corner keren de wedstrijd. Lees reacties van Doodeman."
-        },
-        {
-          "title": "De Graafschap stunt in Volendam en pakt belangrijke punten in crisissferen",
-          "source": "Omroep Gelderland",
-          "url": "https://www.gld.nl/sport/8541831/de-graafschap-stunt-in-volendam-en-pakt-belangrijke-punten-in-crisissferen",
-          "publishedDate": "Fri, 30 Oct 2026 13:42:00 GMT",
-          "description": "De Graafschap heeft vrijdagavond voor een verrassing gezorgd. Voor het eerst dit seizoen werd FC Volendam op eigen veld verslagen. Voor het kwakkelende De Graafschap kwam de overwinning als geroepen."
-        },
-        {
-          "title": "Praat mee op VP: FC Volendam – De Graafschap",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-fc-volendam-de-graafschap/ar-AA2gqwQ2",
+          "title": "Dodelijk ongeval A9 bij Heiloo: &#233;&#233;n persoon om het leven gekomen",
+          "source": "Rodi.nl",
+          "url": "https://www.rodi.nl/heiloo/112-nieuws/510876/dodelijk-ongeval-a9-bij-heiloo-een-persoon-om-het-leven-gekomen-xq1fe3",
           "publishedDate": "Fri, 30 Oct 2026 11:00:00 GMT",
-          "description": "FC Volendam en De Graafschap staan vrijdagavond tegenover elkaar in de Keuken Kampioen Divisie. De wedstrijd begint om 20.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en ..."
+          "description": "HEILOO/ALKMAAR - Bij een verkeersongeval op de A9 bij Heiloo is vrijdagavond rond 18.00 uur een persoon om het leven gekomen."
         },
         {
-          "title": "Eindelijk is er licht aan het einde van de tunnel voor De Graafschap",
+          "title": "Ongeval met letsel op A9 in Heiloo, traumahelikopter gealarmeerd",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/noord-holland/noord-holland-noord/heiloo/56033815/p2000-traumaheli-met-spoed-naar-a9-in-heiloo.html",
+          "publishedDate": "Fri, 30 Oct 2026 10:58:00 GMT",
+          "description": "De melding kwam vlak voor zes uur 's middags bij de alarmcentrale binnen. Hulpdiensten zijn naar de locatie gestuurd om hulp te verlenen. Heiloo is een plaats in de provincie Noord-Holland en valt ond ..."
+        },
+        {
+          "title": "Dode na aanrijding op A9 bij Heiloo",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/364961/dode-na-aanrijding-op-a9-bij-heiloo",
+          "publishedDate": "Fri, 30 Oct 2026 10:35:00 GMT",
+          "description": "Persoon aangereden door auto op A9 bij Akersloot richting Alkmaar. Weg afgesloten, Forensische Opsporing en droneteam onderzoek doen. Oorzaak onbekend."
+        },
+        {
+          "title": "Rouwauto betrokken bij ongeval met vijf auto’s op A9 bij Heiloo",
+          "source": "Rodi.nl",
+          "url": "https://www.rodi.nl/heiloo/112-nieuws/510499/rouwauto-betrokken-bij-ongeval-met-vijf-autos-op-a9-bij-heiloo",
+          "publishedDate": "Tue, 27 Oct 2026 12:35:00 GMT",
+          "description": "HEILOO - Op de A9 bij Heiloo heeft dinsdagavond 27 oktober een ongeval plaatsgevonden waarbij vijf auto’s betrokken zijn geraakt. Onder de voertuigen bevindt zich ook een rouwauto."
+        },
+        {
+          "title": "Ongeval met letsel op A9 in Amsterdam",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/noord-holland/amsterdam-amstelland/amsterdam/55993916/p2000-ongeval-met-letsel-op-a9-in-amsterdam.html",
+          "publishedDate": "Thu, 22 Oct 2026 00:10:00 GMT",
+          "description": "De melding kwam rond kwart over zeven 's ochtends bij de alarmcentrale binnen. Hulpdiensten zijn naar de locatie gestuurd om hulp te verlenen."
+        },
+        {
+          "title": "Ruim uur vertraging op A9 door ongeluk, ook A22 loopt vast",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/364553/ruim-uur-vertraging-op-a9-door-ongeluk-ook-a22-loopt-vast",
+          "publishedDate": "Mon, 19 Oct 2026 22:50:00 GMT",
+          "description": "Grootste file ochtendspits Noord-Holland: ongeluk A9 Akersloot-Rottepolderplein, linkerrijstrook dicht. 36 minuten vertraging richting Amstelveen. Lees verder."
+        }
+      ]
+    },
+    {
+      "keyword": "roltrap duiven",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Vrouw overleden na ongeluk op kerstshow Duiven, politie doet onderzoek",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2637306-vrouw-overleden-na-ongeluk-op-kerstshow-duiven-politie-doet-onderzoek",
+          "publishedDate": "Fri, 30 Oct 2026 06:32:00 GMT",
+          "description": "Het is niet duidelijk wat er is gebeurd. De politie bekijkt of er sprake is van meer dan alleen een medisch incident."
+        },
+        {
+          "title": "Bezoek aan populaire kerstshow eindigt in drama: vrouw (78) overlijdt na val bij roltrap",
+          "source": "Drimble",
+          "url": "https://drimble.nl/vrouw/blogs/108455822/bezoek-aan-populaire-kerstshow-eindigt-in-drama-vrouw-78-overlijdt-na-val-bij-roltrap.html",
+          "publishedDate": "Sat, 31 Oct 2026 04:06:00 GMT",
+          "description": "Een bezoek aan een feestelijke kerstshow is voor een 78-jarige vrouw uit Apeldoorn op tragische wijze afgelopen. De vrouw raakte donderdag 29 oktober ernstig gewond bij de roltrap van tuincentrum Intr ..."
+        },
+        {
+          "title": "Bezoekster kerstshow Duiven overleden na roltrapincident",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Binnenland/bezoekster-kerstshow-duiven-overleden-na-roltrapincident/ar-AA2gqeC7",
+          "publishedDate": "Fri, 30 Oct 2026 10:47:00 GMT",
+          "description": "DUIVEN (ANP) - Een bezoekster van de kerstshow Santafia van de Intratuin in het Gelderse Duiven, die donderdagmiddag gewond raakte na een val bij de roltrap, is vrijdag overleden. Dat laat de politie ..."
+        },
+        {
+          "title": "Vrouw die viel bij kerstshow Intratuin in Duiven overleden",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/binnenland/vrouw-die-viel-bij-kerstshow-intratuin-in-duiven-overleden~abcda54b/",
+          "publishedDate": "Fri, 30 Oct 2026 09:00:00 GMT",
+          "description": "De vrouw die donderdagmiddag een val heeft gemaakt op een bij kerstshow Santafia bij de intratuin in Duiven, is overleden. Dat meldt de politie. Het gaat om een 78-jarige Apeldoornse. Het onderzoek na ..."
+        },
+        {
+          "title": "Gewonde vrouw (78) bij kerstshow Duiven overleden",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/gewonde-vrouw-78-bij-kerstshow-duiven-overleden",
+          "publishedDate": "Fri, 30 Oct 2026 05:52:00 GMT",
+          "description": "Een 78-jarige vrouw uit Apeldoorn is overleden na een ongeval bij de kerstshow in Intratuin Duiven. De politie onderzoekt het incident. Updates volgen."
+        },
+        {
+          "title": "Vrouw (78) overleden na incident bij kerstshow Intratuin Duiven",
+          "source": "rtl",
+          "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5662008/intratuin-duiven-vrouw-78-overleden-incident-santafia",
+          "publishedDate": "Fri, 30 Oct 2026 05:17:00 GMT",
+          "description": "In het Gelderse Duiven is een 78-jarige vrouw overleden na een incident bij de kerstshow van de Intratuin. Daarbij raakte zij gistermiddag gewond, maar vandaag heeft de politie laten weten dat zij het ..."
+        },
+        {
+          "title": "Politieonderzoek na roltrapongeluk, terwijl winkelend publiek op andere roltrap staat: `Hopen op goede afloop`",
+          "source": "Drimble",
+          "url": "https://drimble.nl/regio/gelderland/liemers/108444681/politieonderzoek-na-roltrapongeluk-terwijl-winkelend-publiek-op-andere-roltrap-staat-hopen-op-goede-afloop.html",
+          "publishedDate": "Fri, 30 Oct 2026 04:57:00 GMT",
+          "description": "Twee roltrappen, twee taferelen. Op de ene roltrap doet de politie donderdagavond sporenonderzoek, op de andere staan winkelende bezoekers. Een vrouw kwam ten val bij kerstshow Santafia van Intratuin ..."
+        },
+        {
+          "title": "Vrouw (78) uit Apeldoorn kwam door noodlottig ongeluk om het leven bij kerstshow Intratuin Duiven",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/apeldoorn/vrouw-78-uit-apeldoorn-kwam-door-noodlottig-ongeluk-om-het-leven-bij-kerstshow-intratuin-duiven~a3f46d45/",
+          "publishedDate": "Fri, 30 Oct 2026 02:53:00 GMT",
+          "description": "De politie heeft het ongeluk naar de val die een 78-jarige vrouw uit Apeldoorn maakte in de Intratuin in Duiven afgerond. Er is sprake van een noodlottig ongeluk, meldt een woordvoerder."
+        },
+        {
+          "title": "Vrouw (78) uit Apeldoorn overleden bij roltrapongeluk Intratuin Duiven, personeel aangeslagen",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/apeldoorn/vrouw-78-uit-apeldoorn-overleden-bij-roltrapongeluk-intratuin-duiven-personeel-aangeslagen~abcda54b/",
+          "publishedDate": "Fri, 30 Oct 2026 02:12:00 GMT",
+          "description": "De vrouw die donderdagmiddag ten val is gekomen bij een roltrap van kerstattractie Santafia in de Intratuin in Duiven, is overleden. Dat meldt de politie. Het gaat om een 78-jarige Apeldoornse. De eig ..."
+        },
+        {
+          "title": "Nieuws Sport Kijk Podcast Show Puzzel",
           "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/de-graafschap/eindelijk-is-er-licht-aan-het-einde-van-de-tunnel-voor-de-graafschap~a078e43f/",
-          "publishedDate": "Fri, 30 Oct 2026 07:13:00 GMT",
-          "description": "De Graafschap heeft eindelijk het licht gezien. De ploeg van de geplaagde trainer Thomas Duivenvoorden speelde in Volendam de beste wedstrijd van het seizoen en bezorgde de palingboeren de eerste thui ..."
+          "url": "https://www.gelderlander.nl/duiven/tussen-kerstballen-en-politielint-zo-beleven-bezoekers-het-incident-bij-de-kerstshow~a58d809e/",
+          "publishedDate": "Thu, 29 Oct 2026 21:29:00 GMT",
+          "description": "Twee roltrappen, twee taferelen. Op de ene roltrap doet de politie donderdagavond sporenonderzoek, op de andere staan winkelende bezoekers. Een vrouw kwam ten val bij kerstshow Santafia van Intratuin ..."
+        }
+      ]
+    },
+    {
+      "keyword": "safaripark beekse bergen",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Dierentuinbranche geschokt na dodelijke panteraanval in Beekse Bergen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636963-dierentuinbranche-geschokt-na-dodelijke-panteraanval-in-beekse-bergen",
+          "publishedDate": "Tue, 27 Oct 2026 23:05:00 GMT",
+          "description": "In Nederland zijn maar een aantal gevallen bekend van dit soort incidenten in dierentuinen. De laatste keer was zeer waarschijnlijk in 2003. Toen overleed een verzorger na een aanval door een olifant."
         },
         {
-          "title": "FC Volendam lijdt eerste thuisnederlaag: de reacties op een rij",
-          "source": "fcvolendam",
-          "url": "https://fcvolendam.nl/wedstrijdnieuws/fc-volendam-lijdt-eerste-thuisnederlaag-de-reacties-op-een-rij/",
-          "publishedDate": "Thu, 29 Oct 2026 17:01:00 GMT",
-          "description": "FC Volendam heeft vrijdagavond de eerste thuisnederlaag van het seizoen geleden. De ploeg van Erwin van de Looi ging in het Kras Stadion met 1 - 2 onderuit te.."
+          "title": "Dierenverzorger Safaripark Beekse Bergen overleden aan verwondingen na aanval door Perzische panter",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/10/27/dierenverzorger-safaripark-beekse-bergen-overleden-aan-verwondingen-na-aanval-door-perzische-panter-a4939897",
+          "publishedDate": "Tue, 27 Oct 2026 08:59:00 GMT",
+          "description": "Safaripark: De vrouw was zaterdag aan het werk in het verblijf van twee mannelijke panters toen ze werd aangevallen. Met ernstige verwondingen werd de medewerker naar het ziekenhuis vervoerd."
         },
         {
-          "title": "De Graafschap wacht zware avond in Volendam: ‘Een extreme ploeg’",
-          "source": "REGIO8",
-          "url": "https://www.regio8.nl/nieuws/de-graafschap-wacht-zware-avond-in-volendam-een-extreme-ploeg",
-          "publishedDate": "Thu, 29 Oct 2026 08:44:00 GMT",
-          "description": "Na de uitschakeling dinsdagavond in de eerste ronde tegen Roda JC in Kerkrade treft De Graafschap vrijdagavond aan de andere kant van het land de nummer zeven van de competitie, FC Volendam. De Wijdbr ..."
+          "title": "Dierenverzorgster safaripark Beekse Bergen overleden na panteraanval",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636900-dierenverzorgster-safaripark-beekse-bergen-overleden-na-panteraanval",
+          "publishedDate": "Tue, 27 Oct 2026 08:05:00 GMT",
+          "description": "De verzorgster werkte, met tussenpozen, bijna veertig jaar in het safaripark, waarvan acht jaar met de panters."
+        },
+        {
+          "title": "Dierenverzorgster Beekse Bergen overleden na aanval door panter",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/dierenverzorgster-beekse-bergen-overleden-na-aanval-door-panter~a0ad9758/",
+          "publishedDate": "Mon, 26 Oct 2026 22:14:00 GMT",
+          "description": "De dierenverzorgster van Safaripark Beekse Bergen, die door een panter is aangevallen, is overleden. Dat meldt het park ‘met enorm veel verdriet’. In het park wordt een plek ingericht waar mensen hun ..."
+        },
+        {
+          "title": "Beekse Bergen is niet blij met beelden van bezoekers die kat meenamen naar dierentuin: 'Verwijder deze video'",
+          "source": "Looopings",
+          "url": "https://www.looopings.nl/weblog/34736/Beekse-Bergen-is-niet-blij-met-beelden-van-bezoekers-die-kat-meenamen-naar-dierentuin-Verwijder-deze-video.html",
+          "publishedDate": "Fri, 30 Oct 2026 05:21:00 GMT",
+          "description": "Safaripark Beekse Bergen baalt van beelden waarop te zien is dat bezoekers met hun kat naar de dierentuin zijn gegaan. Het meenemen van huisdieren ..."
+        },
+        {
+          "title": "Martin zag tijger collega in Blijdorp doden en waarschuwt: ‘Hoop dat collega’s Beekse Bergen goede hulp krijgen’",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2274997/martin-zag-tijger-collega-in-blijdorp-doden-en-waarschuwt-hoop-dat-collegas-beekse-bergen-goede-hulp-krijgen",
+          "publishedDate": "Thu, 29 Oct 2026 01:13:00 GMT",
+          "description": "Een ervaren medewerker van safaripark Beekse Bergen is deze week overleden na een aanval in het verblijf van de Perzische panters. Voor Martin Heuvelink (69) roept het voorval herinneringen op aan de ..."
+        },
+        {
+          "title": "Dierentuinen betuigen steun na dood verzorgster Beekse Bergen",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/hilvarenbeek-beekse-bergen-steunbetuigen-dierentuinen-na-dood-verzorgster",
+          "publishedDate": "Tue, 27 Oct 2026 15:27:00 GMT",
+          "description": "Dierentuinen uit het hele land betuigen steun aan de nabestaanden van de verzorgster van safaripark Beekse Bergen, die om het leven kwam door een panteraanval."
+        },
+        {
+          "title": "Aangevallen dierenverzorgster Beekse Bergen overleden",
+          "source": "Welingelichte Kringen",
+          "url": "https://www.welingelichtekringen.nl/dieren/aangevallen-dierenverzorgster-beekse-bergen-overleden",
+          "publishedDate": "Tue, 27 Oct 2026 10:42:00 GMT",
+          "description": "De dierenverzorgster van Safaripark Beekse Bergen die zaterdag gewond raakte door een panteraanval, is dinsdag aan haar verwondingen overleden. &quot;Haar overlijden raakt ons allemaal diep en we leven int ..."
+        },
+        {
+          "title": "Verzorgster Safaripark Beekse Bergen overleden na aanval door panter",
+          "source": "Looopings",
+          "url": "https://www.looopings.nl/weblog/34715/Verzorgster-Beekse-Bergen-overleden-na-aanval-door-panter.html",
+          "publishedDate": "Tue, 27 Oct 2026 09:10:00 GMT",
+          "description": "De dierenverzorgster die zaterdag werd aangevallen door een panter in Safaripark Beekse Bergen, is vandaag overleden aan haar verwondingen. Dat ..."
+        },
+        {
+          "title": "Panters Beekse Bergen zaten door storm binnen in de kooi, maar of aangevallen verzorgster dat wist, is onduidelijk",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/brabant/panters-beekse-bergen-zaten-door-storm-binnen-in-de-kooi-maar-of-aangevallen-verzorgster-dat-wist-is-onduidelijk~a54f1451/",
+          "publishedDate": "Mon, 26 Oct 2026 03:15:00 GMT",
+          "description": "De zwaargewonde dierenverzorgster werd zaterdagochtend in het binnenverblijf van de panters gevonden. Er hangen geen camera’s, maar op beelden die het safaripark eerder maakte, is te zien hoe de diere ..."
+        }
+      ]
+    },
+    {
+      "keyword": "jutta leerdam",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Nieuwe KNSB-baas over de toekomst: ‘Jutta is groter dan het schaatsen, maar het schaatsen is breder dan Jutta’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/schaatsen/nieuwe-knsb-baas-over-de-toekomst-jutta-is-groter-dan-het-schaatsen-maar-het-schaatsen-is-breder-dan-jutta~af70549d/",
+          "publishedDate": "Fri, 30 Oct 2026 21:00:00 GMT",
+          "description": "Jarno Meijer, zelf oud-schaatser, is de nieuwe baas van schaatsbond KNSB. Hoe gaat hij zorgen dat deze oer-Hollandse sport populair blijft bij de jeugd en bestand is tegen een toekomst zonder natuurij ..."
+        },
+        {
+          "title": "Een jaar zonder Jutta Leerdam. ‘Schaatsen is toch een beetje saai en zij maakte het w&#233;l leuker’",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/sport/een-jaar-zonder-jutta-leerdam-schaatsen-is-toch-een-beetje-saai-en-zij-maakte-het-wel-leuker~bfe569fc/",
+          "publishedDate": "Fri, 30 Oct 2026 09:17:00 GMT",
+          "description": "Dit weekend begint het nieuwe schaatsseizoen, maar niet voor Jutta Leerdam, die een jaar vrijaf neemt. Dreigt het schaatsen zonder haar weer de oer-Hollandse koek-en-zopiesport te worden?"
+        },
+        {
+          "title": "Het schaatsen kan, nu Jutta Leerdam een sabbatical heeft, weer een sport van tijden en lijstjes worden",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/sport/het-schaatsen-kan-nu-jutta-leerdam-een-sabbatical-heeft-weer-een-sport-van-tijden-en-lijstjes-worden~be4049e2/",
+          "publishedDate": "Thu, 29 Oct 2026 07:13:00 GMT",
+          "description": "Het schaatsseizoen begint vrijdag in Thialf met het wereldbekerkwalificatietoernooi. Grote afwezige: Jutta Leerdam, die de laatste jaren veel aandacht trok en nu voor een sabbatical heeft gekozen."
+        },
+        {
+          "title": "Jake Paul keert jaar na kaakbreuk terug: verloofde van Jutta Leerdam stapt op kerstavond de ring in",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/vechtsport/jake-paul-keert-jaar-na-kaakbreuk-terug-verloofde-van-jutta-leerdam-stapt-op-kerstavond-de-ring-in~a013e518/",
+          "publishedDate": "Thu, 29 Oct 2026 04:31:00 GMT",
+          "description": "Jake Paul keert terug in de boksring. De verloofde van schaatsster Jutta Leerdam maakt op kerstavond (24 december) zijn rentree in Dubai. Tegen wie is nog niet duidelijk."
+        },
+        {
+          "title": "Foto's: zo ziet de knappe moeder van Jutta Leerdam eruit",
+          "source": "MAN MAN on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/foto-s-zo-ziet-de-knappe-moeder-van-jutta-leerdam-eruit/ar-AA1KIiGr",
+          "publishedDate": "Sat, 31 Oct 2026 02:44:32 GMT",
+          "description": "Jutta Leerdam heeft een erg knappe zus. Hierdoor waren we ook erg benieuwd hoe de moeder van Jutta Leerdam eruit ziet. Lees hier meer!"
+        },
+        {
+          "title": "Nieuwe KNSB-baas spreekt zich uit over Jutta Leerdam: 'Groter dan de schaatssport'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/schaatsen/nieuws/nieuwe-knsb-baas-spreekt-zich-uit-over-jutta-leerdam-groter-dan-de-schaatssport-2026103112275225576/",
+          "publishedDate": "Fri, 30 Oct 2026 16:27:00 GMT",
+          "description": "Jutta Leerdam heeft haar schaatscarri&#232;re tijdelijk op pauze gezet, maar bij de KNSB hopen ze haar nog terug te zien. De nieuwe algemeen directeur Jarno Meijer spreekt zich uit over de populaire ..."
+        },
+        {
+          "title": "Jutta Leerdam heeft haar blouse flink openhangen en de inhoud valt niet tegen",
+          "source": "Mannenzaken",
+          "url": "https://mannenzaken.nl/nieuws/jutta-leerdam-heeft-haar-blouse-flink-openhangen-en-de-inhoud-valt-niet-tegen",
+          "publishedDate": "Fri, 30 Oct 2026 07:00:00 GMT",
+          "description": "Jutta Leerdam hoeft voorlopig geen honderdsten van seconden van haar rondetijden af te schaven, maar op Instagram blijft ze de aandacht moeiteloos vasthouden. De 27-jarige olympisch kampioene heeft be ..."
+        },
+        {
+          "title": "Topschaatsster Jutta Leerdam (27) ziet primeur in duigen vallen door Jake Paul",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/schaatsen/nieuws/topschaatsster-jutta-leerdam-27-ziet-primeur-in-duigen-vallen-door-jake-paul-2026103005241644126/",
+          "publishedDate": "Thu, 29 Oct 2026 23:42:00 GMT",
+          "description": "Jutta Leerdam zette jarenlang alles opzij voor haar schaatscarri&#232;re. Dat leverde haar onder meer olympisch goud op, maar zorgde er ook voor dat ze veel bijzondere momenten moest missen met familie en ..."
+        },
+        {
+          "title": "Jake Paul, verloofde van Jutta Leerdam, keert na zware kaakbreuk terug in de ring",
+          "source": "Weekend Online",
+          "url": "https://www.weekend-online.nl/wereldsterren/jake-paul-verloofde-van-jutta-leerdam-keert-na-zware-kaakbreuk-terug-in-de-ring/",
+          "publishedDate": "Thu, 29 Oct 2026 05:30:00 GMT",
+          "description": "Jake Paul, de verloofde van Jutta Leerdam, keert terug in de boksring, bijna een jaar nadat hij zijn kaak op meerdere plekken brak."
+        },
+        {
+          "title": "Jake Paul steekt ranch in brand, Jutta Leerdam reageert",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/algemeen/buitenland/artikelen/jake-paul-ranch-brand-jutta-leerdam-reageert",
+          "publishedDate": "Mon, 26 Oct 2026 14:18:00 GMT",
+          "description": "Jake Paul heeft een stuk grond van zijn Paul Family Ranch in de Amerikaanse staat Georgia bewust in brand gestoken. Een kans om zijn verloofde Jutta Leerdam goed in de maling te nemen, laat de ..."
+        }
+      ]
+    },
+    {
+      "keyword": "boot",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Verbijstering om foto van migranten op overvol rubberbootje bij Zeeland: ‘Dit laat zien: vluchtroutes moeten veiliger’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/verbijstering-om-foto-van-migranten-op-overvol-rubberbootje-bij-zeeland-dit-laat-zien-vluchtroutes-moeten-veiliger~a1ddec39b/",
+          "publishedDate": "Fri, 30 Oct 2026 22:34:00 GMT",
+          "description": "Twee opvarenden van de rubberboot die zaterdagochtend naar de Zeeuwse kust werd gesleept, zijn aangehouden op verdenking van mensensmokkel. Dat bevestigt de Koninklijke Marechaussee. In de boot zaten ..."
+        },
+        {
+          "title": "38 mensen van een stuurloze rubberboot gehaald voor de kust van Breskens",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/10/31/ruim-dertig-mensen-van-een-stuurloze-rubberboot-gehaald-voor-de-kust-van-breskens-a4940200",
+          "publishedDate": "Fri, 30 Oct 2026 16:30:00 GMT",
+          "description": "Kustwacht: De kustwacht detecteerde de boot, die geen motor meer bleek te hebben, zaterdagochtend op de radar. Een woordvoerder kon nog niet met zekerheid zeggen of de opvarenden migranten of vluchtel ..."
+        },
+        {
+          "title": "Meer dan honderd doden gemeld na kapseizen boot bij Djibouti, nog 116 mensen vermist",
+          "source": "ED.nl",
+          "url": "https://www.ed.nl/buitenland/meer-dan-honderd-doden-gemeld-na-kapseizen-boot-bij-djibouti-nog-116-mensen-vermist~aaa53d83/?slug_rd=1",
+          "publishedDate": "Sat, 10 Oct 2026 19:57:00 GMT",
+          "description": "Zeker 109 migranten zijn om het leven gekomen toen hun boot kapseisde voor de kust van Djibouti. Nog eens 116 mensen worden vermist."
+        },
+        {
+          "title": "Boot met migranten voor Nederlandse kust had geen motor meer",
+          "source": "Belga News Agency on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/boot-met-migranten-voor-nederlandse-kust-had-geen-motor-meer/ar-AA2gtfGN",
+          "publishedDate": "Sat, 31 Oct 2026 05:34:00 GMT",
+          "description": "De boot met migranten die zaterdag voor de Nederlandse kust van zee is gehaald, had geen motor meer en was daardoor stuurloos. Ook hadden de opvarenden geen reddingsvesten, meldt de Nederlandse Marech ..."
+        },
+        {
+          "title": "Boot met mogelijk tientallen vluchtelingen aangetroffen bij Breskens",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/rubberboot-dertig-mensen-breskens",
+          "publishedDate": "Sat, 31 Oct 2026 01:48:00 GMT",
+          "description": "Voor de kust van Breskens is een rubberboot met ongeveer dertig mensen aangetroffen. Mogelijk gaat het om vluchtelingen. De boot wordt naar Cadzand gebracht."
+        },
+        {
+          "title": "Boot met migranten voor kust Zeeland had geen motor meer",
+          "source": "WNL",
+          "url": "https://wnl.tv/2026/10/31/boot-met-migranten-voor-kust-zeeland-had-geen-motor-meer",
+          "publishedDate": "Fri, 30 Oct 2026 16:34:00 GMT",
+          "description": "De boot met migranten die zaterdag voor de Zeeuwse kust van zee is gehaald, had geen motor meer en was daardoor stuurloos. Ook hadden de opvarenden geen reddingsvesten, meldt de marechaussee. In de ..."
+        },
+        {
+          "title": "Boot met 38 migranten aan boord voor Nederlandse kust had geen motor meer",
+          "source": "De Morgen",
+          "url": "https://www.demorgen.be/nieuws/boot-met-38-migranten-aan-boord-voor-nederlandse-kust-had-geen-motor-meer~bf8b248b/",
+          "publishedDate": "Fri, 30 Oct 2026 16:00:00 GMT",
+          "description": "De boot met migranten die vanochtend voor de Nederlandse kust van zee is gehaald, had geen motor meer en was daardoor stuurloos. Ook hadden de opvarenden geen reddingsvesten, meldt de Nederlandse Mare ..."
+        },
+        {
+          "title": "Boot met lading Jin Chan nog niet gevonden; politie meldt geen massale vissterfte in Godo Olo",
+          "source": "Waterkant.net",
+          "url": "https://www.waterkant.net/suriname/2026/10/29/boot-met-lading-jin-chan-nog-niet-gevonden-politie-meldt-geen-massale-vissterfte-in-godo-olo/",
+          "publishedDate": "Wed, 28 Oct 2026 17:00:00 GMT",
+          "description": "De boothouder die een lading Jin Chan naar Godo Olo zou hebben vervoerd, is nog niet aangetroffen. Ook de betrokken boot is vooralsnog niet gevonden. Bij ..."
+        },
+        {
+          "title": "Vier vissers heelhuids terug met boot na urenlange onzekerheid op zee",
+          "source": "Waterkant.net",
+          "url": "https://www.waterkant.net/suriname/2026/10/23/vier-vissers-heelhuids-terug-met-boot-na-urenlange-onzekerheid-op-zee/",
+          "publishedDate": "Fri, 23 Oct 2026 05:05:00 GMT",
+          "description": "De vier bemanningsleden van een vissersboot die sinds de nacht van woensdag op donderdag onbereikbaar waren, zijn donderdagmiddag heelhuids teruggekeerd."
         }
       ]
     },
@@ -462,11 +531,18 @@
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Andr&#233; Dongelmans bijna onherkenbaar na transformatie: 'Niet schrikken'",
+          "title": "Andr&#233; Dongelmans bijna onherkenbaar na afvallen en afscheren baard: 'Niet schrikken'",
           "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/andr%C3%A9-dongelmans-bijna-onherkenbaar-na-transformatie-niet-schrikken/ar-AA2gqYoq",
-          "publishedDate": "Fri, 30 Oct 2026 12:25:33 GMT",
+          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/andr%C3%A9-dongelmans-bijna-onherkenbaar-na-afvallen-en-afscheren-baard-niet-schrikken/ar-AA2gqYoq",
+          "publishedDate": "Fri, 30 Oct 2026 11:27:54 GMT",
           "description": "De kilo's vliegen er nog altijd af bij Andr&#233; Dongelmans (39). Maar niet alleen de kilo's zijn verdwenen: ook zijn kenmerkende baard en snor heeft hij inmiddels afgeschoren. Op Instagram deelt de acteu ..."
+        },
+        {
+          "title": "Andr&#233; Dongelmans zorgt voor verbazing met nieuw uiterlijk: ‘Mensen herkennen me niet’",
+          "source": "Startpagina on MSN",
+          "url": "https://www.msn.com/nl-nl/gezondheid/gewichtverlies/andr%C3%A9-dongelmans-zorgt-voor-verbazing-met-nieuw-uiterlijk-mensen-herkennen-me-niet/ar-AA2gsA4j",
+          "publishedDate": "Sat, 31 Oct 2026 01:40:47 GMT",
+          "description": "Andr&#233; Dongelmans heeft zichzelf de afgelopen maanden behoorlijk veranderd. De acteur, bekend van onder meer ‘Haantjes’, raakte ruim 23 kilo kwijt en besloot onlangs n&#243;g iets aan zijn uiterlijk te vera ..."
         },
         {
           "title": "Andr&#233; Dongelmans onherkenbaar na enorm gewichtsverlies: 'Niet schrikken'",
@@ -523,241 +599,144 @@
           "url": "https://www.tvgids.nl/nieuws/anna-brains-andre-dongelmans-luizenmoeder-npo3",
           "publishedDate": "Wed, 20 Oct 2021 02:46:00 GMT",
           "description": "Acteur Andr&#233; Dongelmans (Kenneth uit De luizenmoeder) wil ook weleens de wereld redden. In de laatste aflevering van Anna's brains toveren Anna Gimbr&#232;re en haar slimmerds hem met behulp van allerlei ..."
-        },
-        {
-          "title": "Andr&#233; Dongelmans: 'Ik weet niet wie mijn vader is...'",
-          "source": "story",
-          "url": "https://www.story.nl/showbizz/andre-dongelmans-ik-weet-niet-wie-mijn-vader-is~767e506",
-          "publishedDate": "Wed, 08 Aug 2018 01:17:00 GMT",
-          "description": "Andr&#233; Dongelmans is dankbaar voor de liefdevolle wijze waarop zijn stiefvader hem grootbracht, maar het verlangen om zijn biologische vader te ontmoeten blijft kriebelen. In Story vertelt de ster uit ..."
         }
       ]
     },
     {
-      "keyword": "ongeluk a9",
+      "keyword": "politieagent",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Persoon overleden bij ernstig ongeval op A9 bij Heiloo: snelweg richting Alkmaar urenlang dicht",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-heiloo/persoon-overleden-bij-ernstig-ongeval-op-a9-bij-heiloo-snelweg-richting-alkmaar-urenlang-dicht~a7cae277/",
-          "publishedDate": "Fri, 30 Oct 2026 04:07:00 GMT",
-          "description": "Bij een ernstig ongeluk op de A9 ter hoogte van Heiloo is een persoon om het leven gekomen. Het slachtoffer kwam in botsing met een auto. Vanwege het politieonderzoek en de hulpverlening is de snelweg ..."
+          "title": "Pakketbezorger getaserd omdat hij bij aanhouding na fout parkeren de pols van een politieagent pakte",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/pakketbezorger-getaserd-omdat-hij-bij-aanhouding-na-fout-parkeren-de-pols-van-een-politieagent-pakte~b7e444f0/",
+          "publishedDate": "Fri, 30 Oct 2026 05:45:00 GMT",
+          "description": "Een pakketbezorger is donderdagmiddag in de Runstraat in Amsterdam getaserd door een politieagent die hem wilde aanhouden. Hij kreeg drie bekeuringen en mocht weer gaan."
         },
         {
-          "title": "Persoon overleden na aanrijding op A9 bij Heiloo, snelweg urenlang afgesloten",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/persoon-overleden-na-aanrijding-op-a9-bij-heiloo-snelweg-urenlang-afgeslote",
-          "publishedDate": "Fri, 30 Oct 2026 12:38:00 GMT",
-          "description": "Bij een aanrijding op de A9 bij Heiloo is een persoon overleden. De snelweg is tot naar verwachting 22.00 uur afgesloten. De politie doet onderzoek."
+          "title": "Politieagent per direct ontslagen omdat hij collega matst die 6 km/u te hard rijdt",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/buitenland/politieagent-per-direct-ontslagen-omdat-hij-collega-matst-die-6-km-u-te-hard-rijdt~a10876af/",
+          "publishedDate": "Fri, 30 Oct 2026 17:23:00 GMT",
+          "description": "Een kleine snelheidsovertreding lijkt onschuldig, maar krijgt in Zweden een verrassend staartje. Een politieagent die een collega een boete bespaart, moet nu zelf vertrekken."
         },
         {
-          "title": "Dodelijk ongeval op A9 bij Heiloo",
-          "source": "Streekstad Centraal",
-          "url": "https://streekstadcentraal.nl/60238666-dodelijk-ongeval-op-a9-bij-heiloo",
-          "publishedDate": "Fri, 30 Oct 2026 11:47:00 GMT",
-          "description": "Op de A9 heeft vrijdagavond een fataal ongeval plaatsgevonden ter hoogte van Heiloo. Zeker &#233;&#233;n betrokkene is daarbij om het leven gekomen. Het ongeluk gebeurde rond 18:00 uur. Meerdere hulpdiensten we ..."
+          "title": "Aanvaller doodgeschoten bij Isra&#235;lische ambassade in Belgrado",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/aanvaller-doodgeschoten-bij-israelische-ambassade-in-belgrado",
+          "publishedDate": "Wed, 28 Oct 2026 01:26:00 GMT",
+          "description": "Bij de Isra&#235;lische ambassade in Belgrado is een minderjarige gedood die een politieagent aanviel. Het Servische ministerie van Binnenlandse Zaken spreekt over een „terroristische aanval”."
         },
         {
-          "title": "Dodelijk ongeval op snelweg; persoon overleden na aanrijding met auto",
-          "source": "112 Nieuws Nederland",
-          "url": "https://112nieuws.net/2026/10/30/dodelijk-ongeval-op-snelweg-persoon-overleden-na-aanrijding-met-auto/",
-          "publishedDate": "Fri, 30 Oct 2026 11:39:00 GMT",
-          "description": "Bij een ernstig ongeval op de A9 ter hoogte van Heiloo is vrijdagavond een persoon om het leven gekomen. Het slachtoffer kwam rond 18.00 uur in aanrijding met een auto. Na de melding werden meerdere a ..."
+          "title": "Na dood van politieagent Nordine: wat is er gebeurd?",
+          "source": "BRUZZ",
+          "url": "https://www.bruzz.be/actua/samenleving/na-dood-van-politieagent-nordine-wat-er-gebeurd-2026-10-26",
+          "publishedDate": "Sun, 25 Oct 2026 17:00:00 GMT",
+          "description": "Politieagent Nordine El Talbi (41) is in de nacht van 12 op 13 oktober doodgeschoten tijdens zijn werk in Jette. Het maakt zijn vrienden, familie en collega's erg verdrietig."
         },
         {
-          "title": "Dodelijk ongeval A9 bij Heiloo: &#233;&#233;n persoon om het leven gekomen",
-          "source": "Rodi.nl",
-          "url": "https://www.rodi.nl/heiloo/112-nieuws/510876/dodelijk-ongeval-a9-bij-heiloo-een-persoon-om-het-leven-gekomen-xq1fe3",
-          "publishedDate": "Fri, 30 Oct 2026 11:00:00 GMT",
-          "description": "HEILOO/ALKMAAR - Bij een verkeersongeval op de A9 bij Heiloo is vrijdagavond rond 18.00 uur een persoon om het leven gekomen."
-        },
-        {
-          "title": "Ongeval met letsel op A9 in Heiloo, traumahelikopter gealarmeerd",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/noord-holland/noord-holland-noord/heiloo/56033815/p2000-traumaheli-met-spoed-naar-a9-in-heiloo.html",
-          "publishedDate": "Fri, 30 Oct 2026 10:58:00 GMT",
-          "description": "De melding kwam vlak voor zes uur 's middags bij de alarmcentrale binnen. Hulpdiensten zijn naar de locatie gestuurd om hulp te verlenen. Heiloo is een plaats in de provincie Noord-Holland en valt ond ..."
-        },
-        {
-          "title": "Dode na aanrijding op A9 bij Heiloo",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/364961/dode-na-aanrijding-op-a9-bij-heiloo",
-          "publishedDate": "Fri, 30 Oct 2026 10:35:00 GMT",
-          "description": "Persoon aangereden door auto op A9 bij Akersloot richting Alkmaar. Weg afgesloten, Forensische Opsporing en droneteam onderzoek doen. Oorzaak onbekend."
-        },
-        {
-          "title": "Rouwauto betrokken bij ongeval met vijf auto’s op A9 bij Heiloo",
-          "source": "Rodi.nl",
-          "url": "https://www.rodi.nl/heiloo/112-nieuws/510499/rouwauto-betrokken-bij-ongeval-met-vijf-autos-op-a9-bij-heiloo",
-          "publishedDate": "Tue, 27 Oct 2026 12:35:00 GMT",
-          "description": "HEILOO - Op de A9 bij Heiloo heeft dinsdagavond 27 oktober een ongeval plaatsgevonden waarbij vijf auto’s betrokken zijn geraakt. Onder de voertuigen bevindt zich ook een rouwauto."
-        },
-        {
-          "title": "Ongeval met letsel op A9 in Amsterdam",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/noord-holland/amsterdam-amstelland/amsterdam/55993916/p2000-ongeval-met-letsel-op-a9-in-amsterdam.html",
-          "publishedDate": "Thu, 22 Oct 2026 00:10:00 GMT",
-          "description": "De melding kwam rond kwart over zeven 's ochtends bij de alarmcentrale binnen. Hulpdiensten zijn naar de locatie gestuurd om hulp te verlenen."
-        },
-        {
-          "title": "Ruim uur vertraging op A9 door ongeluk, ook A22 loopt vast",
-          "source": "NH Nieuws",
-          "url": "https://www.nhnieuws.nl/nieuws/364553/ruim-uur-vertraging-op-a9-door-ongeluk-ook-a22-loopt-vast",
-          "publishedDate": "Mon, 19 Oct 2026 22:50:00 GMT",
-          "description": "Grootste file ochtendspits Noord-Holland: ongeluk A9 Akersloot-Rottepolderplein, linkerrijstrook dicht. 36 minuten vertraging richting Amstelveen. Lees verder."
-        }
-      ]
-    },
-    {
-      "keyword": "antonelli ziek",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Verstappen over zieke collega's in Mexico: 'Soms kun je het niet voorkomen'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/formule-1/6414872/verstappen-over-zieke-collegas-in-mexico-soms-kun-je-het-niet-voorkomen.html",
-          "publishedDate": "Fri, 30 Oct 2026 00:20:00 GMT",
-          "description": "Max Verstappen rijdt bijna elk weekend een race, maar zijn lichaam kan niet eindeloos zonder rust. Met twee zieke collega's in Mexico vertelt de Nederlander over de belasting van de volle kalender. &quot;S ..."
-        },
-        {
-          "title": "Zieke Kimi Antonelli mist mediadag in aanloop naar mogelijke kampioensrace: ‘Hij voelt zich niet goed’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/formule-1/zieke-kimi-antonelli-mist-mediadag-in-aanloop-naar-mogelijke-kampioensrace-hij-voelt-zich-niet-goed~ae191ec4/",
-          "publishedDate": "Thu, 29 Oct 2026 11:37:00 GMT",
-          "description": "Wat het kampioensweekend voor Kimi Antonelli in de Formule 1 moet worden, kent in elk geval geen fijne start voor de 20-jarige Mercedes-coureur. De Italiaan is ziek en moet de mediadag op donderdag aa ..."
-        },
-        {
-          "title": "Antonelli niet geheel fit in aanloop naar GP van de waarheid in Mexico",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2637202-antonelli-niet-geheel-fit-in-aanloop-naar-gp-van-de-waarheid-in-mexico",
-          "publishedDate": "Thu, 29 Oct 2026 11:30:00 GMT",
-          "description": "De gedoodverfde wereldkampioen in de Formule 1 krijgt van zijn team een dagje vrijaf om te herstellen van een infectieziekte."
-        },
-        {
-          "title": "Max Verstappen over F1-piloten die ziek worden: “De F1-kalender is de grote boosdoener”",
-          "source": "F1journaal.be",
-          "url": "https://f1journaal.be/max-verstappen-over-f1-piloten-die-ziek-worden-de-f1-kalender-is-de-grote-boosdoener/",
-          "publishedDate": "Fri, 30 Oct 2026 13:44:00 GMT",
-          "description": "Volgens viervoudig F1-kampioen Max Verstappen zorgt de erg lange en intense F1-kalender ervoor dat F1-piloten ziek worden. Het is opvallend, aan het begin van het raceweekend in Mexico […] ..."
-        },
-        {
-          "title": "VIDEO | Verstappen over zieke Antonelli in Mexico: &quot;Niet voor niets dat hij nu ziek wordt&quot; | GPFans News",
-          "source": "GPFans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/1092184/video-verstappen-over-zieke-antonelli-in-mexico-niet-voor-niets-dat-hij-nu-ziek-wordt-gpfans-news/",
-          "publishedDate": "Fri, 30 Oct 2026 09:51:00 GMT",
-          "description": "Max Verstappen wijst op de zware Formule 1-kalender als mogelijke oorzaak voor de ziekmeldingen van onder anderen Kimi Antonelli en Valtteri Bottas in Mexico. Ondertussen wacht Oliver Bearman nog alti ..."
-        },
-        {
-          "title": "Verstappen over zieke Antonelli in Mexico: &quot;Niet voor niets dat hij nu ziek wordt&quot;",
-          "source": "GPFans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/1092165/verstappen-over-zieke-antonelli-in-mexico-niet-voor-niets-dat-hij-nu-ziek-wordt/",
-          "publishedDate": "Fri, 30 Oct 2026 03:19:00 GMT",
-          "description": "Max Verstappen kijkt er niet van op dat meerdere Formule 1-coureurs zich donderdag ziek hebben moeten afmelden voor de mediadag van de Grand Prix van Mexico. Onder anderen WK-leider Kimi Antonelli en ..."
-        },
-        {
-          "title": "Zelfs als hij niet rijdt, kan hij wereldkampioen F1 worden: de scenario's voor (zieke?) Kimi Antonelli dit weekend",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/2026/10/11/zelfs-als-hij-niet-rijdt-kan-hij-wereldkampioen-f1-worden-de-scenario-s-voor-zieke-kimi-antonelli-dit-weekend~1791729446135/",
-          "publishedDate": "Fri, 30 Oct 2026 03:19:00 GMT",
-          "description": "Een afspraak met de geschiedenis voor Andrea Kimi Antonelli. In Mexico krijgt de Italiaan een tweede kans om de wereldtitel in de Formule 1 te veroveren. Er hangt voorlopig nog een voorzichtig ..."
-        },
-        {
-          "title": "Verstappen steunt zieke Antonelli: &quot;Daar geniet ik het minst van&quot;",
-          "source": "GPToday.net",
-          "url": "https://www.gptoday.net/nl/nieuws/f1/299541/verstappen-steunt-zieke-antonelli-daar-geniet-ik-het-minst-van",
-          "publishedDate": "Fri, 30 Oct 2026 02:26:00 GMT",
-          "description": "Antonelli strijdt om de wereldtitel, maar begon zijn weekend ziek. Verstappen begrijpt precies waarom en wijst naar een probleem waar steeds meer F1-coureurs mee worstelen."
-        },
-        {
-          "title": "Max Verstappen waarschuwt na ziekte Kimi Antonelli voor slopend einde van F1-seizoen: 'Behoorlijk zwaar voor je lichaam'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/formule-1/nieuws/max-verstappen-waarschuwt-na-ziekte-kimi-antonelli-voor-slopend-einde-van-f1-seizoen-behoorlijk-zwaar-voor-je-lichaam-2026103007240287277/",
-          "publishedDate": "Fri, 30 Oct 2026 01:52:00 GMT",
-          "description": "Waar Max Verstappen hoopt komend weekend voor de winst te strijden in Mexico, staat er voor zijn concurrent Kimi Antonelli veel meer op het spel. De Italiaan kan zich kronen tot jongste wereldkampioen ..."
-        },
-        {
-          "title": "Verstappen over zware F1-kalender nadat twee coureurs ziek afhaakten",
-          "source": "Motorsport.com",
-          "url": "https://nl.motorsport.com/f1/news/verstappen-over-zware-f1-kalender-nadat-twee-coureurs-ziek-afhaakten/10869590/",
-          "publishedDate": "Thu, 29 Oct 2026 20:00:00 GMT",
-          "description": "Viervoudig Formule 1-kampioen Max Verstappen zegt dat het &quot;normaal&quot; is dat F1-coureurs en teamleden in deze fase van het seizoen ziek worden, nadat twee coureurs de mediadag van donderdag in ..."
-        }
-      ]
-    },
-    {
-      "keyword": "fallon sherrock",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Luke Littler sneuvelt tegen ‘Queen of the Palace’ in unieke uitdaging: Fallon Sherrock wint 586.000 euro",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/darts/luke-littler-sneuvelt-tegen-queen-of-the-palace-in-unieke-uitdaging-fallon-sherrock-wint-586-000-euro~a286a41d/",
-          "publishedDate": "Fri, 30 Oct 2026 08:55:00 GMT",
-          "description": "Het is Luke Littler niet gelukt om al zijn tegenstanders te verslaan bij de Beat Luke Littler-challenge. Hij versloeg maar liefst veertien tegenstanders, maar nummer 15 was hem de baas: Fallon Sherroc ..."
-        },
-        {
-          "title": "Topdartster Fallon Sherrock is stomverbaasd na winst van dik half miljoen euro: 'Ik weet niet hoe het kan'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/darts/nieuws/topdartster-fallon-sherrock-is-stomverbaasd-na-winst-van-dik-half-miljoen-euro-ik-weet-niet-hoe-het-kan-2026103022352239628/",
-          "publishedDate": "Fri, 30 Oct 2026 16:57:00 GMT",
-          "description": "'Beat Luke Littler', zo heet de show die Fallon Sherrock vrijdag won. De Engelse dartspeelster pakte die uitdaging aan. Ze versloeg de wereldkampioen darts en pakte een kleine 600.000 euro aan ..."
-        },
-        {
-          "title": "Fallon Sherrock zorgt voor megastunt tegen Luke Littler en wint &#163;501.000 op Netflix",
-          "source": "Dartfreakz",
-          "url": "https://www.dartfreakz.nl/darts-algemeen/fallon-sherrock-zorgt-voor-megastunt-tegen-luke-littler-en-wint-ps501000-op-netflix",
-          "publishedDate": "Fri, 30 Oct 2026 16:04:00 GMT",
-          "description": "Fallon Sherrock heeft vrijdagavond voor een enorme stunt gezorgd in Manchester. De 32-jarige Engelse versloeg Luke Littler tijdens de live-uitzending van Beat Luke Littler op Netflix en sleepte daarme ..."
-        },
-        {
-          "title": "Wie anders? Fallon Sherrock krijgt Luke Littler klein in Netflix-uitdaging en strijkt maar liefst 501.000 pond op",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/2026/10/30/wie-anders-fallon-sherrock-krijgt-luke-littler-klein-in-netflix~1793396760211/",
-          "publishedDate": "Fri, 30 Oct 2026 15:00:00 GMT",
-          "description": "Niet Littler, maar Sherrock is zo de grote overwinnaar van het &quot;Beat Luke Littler&quot;-event. De Engelse strijkt een cheque van maar liefst 501.000 pond op. &quot;Ik kan het niet geloven&quot;, stamelde Sherrock, ..."
-        },
-        {
-          "title": "In &#233;&#233;n klap 586.000 euro rijker: Fallon Sherrock klopt wereldkampioen Luke Littler in Netflix-stunt en gaat met hoofdprijs naar huis",
+          "title": "Politieagent Brian (35) uit Florida steelt identiteit van overleden man en woont 4 jaar lang ongemerkt in zijn huis",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/darts/in-een-klap-586-000-euro-rijker-fallon-sherrock-klopt-wereldkampioen-luke-littler-in-netflix-stunt-en-gaat-met-hoofdprijs-naar-huis~aabfb2aa/",
-          "publishedDate": "Fri, 30 Oct 2026 08:12:00 GMT",
-          "description": "En plots was Fallon Sherrock (32) 586.000 euro rijker. De Britse dartster wist al eerste - en daarmee ook enige - van de 24 deelnemers aan ‘Beat Luke Littler’ haar landgenoot &#233;n wereldkampioen &lt;a href ..."
+          "url": "https://www.hln.be/buitenland/politieagent-brian-35-uit-florida-steelt-identiteit-van-overleden-man-en-woont-4-jaar-lang-ongemerkt-in-zijn-huis~a60b9a62/",
+          "publishedDate": "Thu, 22 Oct 2026 23:21:00 GMT",
+          "description": "Een ongelofelijk verhaal uit Florida: een politieagent heeft de identiteit van een overleden man (71) gestolen en is doodleuk zelf in diens huis gaan wonen. De agent voerde zelfs grootschalige renovat ..."
         },
         {
-          "title": "Kritiek op bijzondere uitdaging Luke Littler: deelnemers die strijden om riant geldbedrag zorgen voor verbazing",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/darts/nieuws/kritiek-op-bijzondere-uitdaging-luke-littler-deelnemers-die-strijden-om-riant-geldbedrag-zorgen-voor-verbazing-2026102916292748629/",
-          "publishedDate": "Thu, 29 Oct 2026 10:57:00 GMT",
-          "description": "De bijzondere dartsuitdaging van Luke Littler ligt nog voor de eerste pijl onder vuur. Vrijdag neemt de tweevoudig wereldkampioen het op tegen twintig amateurdarters voor een hoofdprijs van 501.000 Br ..."
+          "title": "&quot;Ik moest opnieuw leren stappen&quot;: ex-politieagent Gael (46) uit Oostende getuigt in 'F*ck you, flik' over zware gevolgen van gewelddadige interventie",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/19/ik-moest-opnieuw-leren-stappen-ex-politieagente-getuigt-over/",
+          "publishedDate": "Mon, 19 Oct 2026 07:08:00 GMT",
+          "description": "&quot;Ik was heel sportief en opeens is alles weggevallen. Opnieuw leren wandelen was het eerste.&quot; Dat zegt voormalig politieagent Gael Vandenbussche (46) die in 2016 zwaargewond geraakte tijdens een gewel ..."
         },
         {
-          "title": "Fallon Sherrock krijgt enorme kans tegen Luke Littler: Netflix onthult 24 deelnemers voor strijd om &#163;501.000",
-          "source": "Dartfreakz",
-          "url": "https://www.dartfreakz.nl/darts-algemeen/fallon-sherrock-krijgt-enorme-kans-tegen-luke-littler-netflix-onthult-24-deelnemers-voor-strijd-om-ps501000",
-          "publishedDate": "Sun, 25 Oct 2026 00:00:00 GMT",
-          "description": "Fallon Sherrock behoort tot de 24 deelnemers die eind oktober een poging mogen wagen om Luke Littler te verslaan. Netflix heeft de volledige deelnemerslijst voor het nieuwe live-evenement Beat Luke Li ..."
+          "title": "Politieagent Kelly Hauben getuigt in nieuwe VRT-reeks 'F*ck you, flik': &quot;Kreeg blok van 20 kilo tegen mijn hoofd&quot;",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/08/kelly-hauben-in-f-ck-you-flik-van-jan-verheyden/",
+          "publishedDate": "Thu, 08 Oct 2026 14:09:00 GMT",
+          "description": "&quot;Ik kreeg een verkeersblok van 20 kilo tegen mijn hoofd en werd een minuut lang geschopt en geslagen.&quot; Politieagente Kelly Hauben werd tijdens een betoging in Brussel zwaar toegetakeld. In de nieuwe V ..."
         },
         {
-          "title": "Fallon Sherrock: Leeftijd, belangrijke titels, wereldranglijst, opkomstmuziek, prijzengeld, vermogen &amp; meer",
-          "source": "news.bet365",
-          "url": "https://news.bet365.nl/nl-nl/article/fallon-sherrock-leeftijd-belangrijke-titels-wereldranglijst-opkomstmuziek-prijzengeld-vermogen-en-meer/2024121906412965404",
-          "publishedDate": "Wed, 18 Dec 2024 23:48:00 GMT",
-          "description": "Hoeveel ranking titels heeft Fallon Sherrock gewonnen? Fallon Sherrock heeft nog geen belangrijke ranking titel gewonnen op de PDC Tour, maar ze heeft wel de Women's World Matchplay gewonnen, een van ..."
+          "title": "‘Wat heb je bij je kruis zitten?’ Politieagent ontdekt verdacht pakketje",
+          "source": "AD",
+          "url": "https://www.ad.nl/delft/wat-heb-je-bij-je-kruis-zitten-politieagent-ontdekt-verdacht-pakketje~a19f471f/",
+          "publishedDate": "Fri, 18 Sep 2026 01:05:00 GMT",
+          "description": "Een voertuig kwam bij een kentekencontrole naar voren, vanwege een politiesignalering die verband hield met harddrugs. Daarnaast stond geregistreerd dat de bestuurder als vluchtgevaarlijk werd ..."
         },
         {
-          "title": "Fallon Sherrock uitgeschakeld op WK Darten",
-          "source": "jeugdjournaal",
-          "url": "https://jeugdjournaal.nl/l/2316402",
-          "publishedDate": "Fri, 27 Dec 2019 10:02:00 GMT",
-          "description": "Ze is ver gekomen, maar dartster Fallon Sherrock ligt eruit op het WK. Ze is verslagen door de Engelse man Chris Dobey. Veel fans van darten waren voor Sherrock. Vorige week won ze als eerste vrouw ..."
+          "title": "Sport Show Kijk Podcast Puzzel",
+          "source": "AD",
+          "url": "https://www.ad.nl/utrecht/minister-rijkaart-steekt-politieagent-die-ondergedoken-zit-na-incident-bollendak-hart-onder-de-riem-ik-weet-uit-eigen-ervaring-de-impact~a838144a/",
+          "publishedDate": "Tue, 10 Feb 2026 00:01:00 GMT",
+          "description": "Minister Frank Rijkaart veroordeelt de ernstige bedreigingen aan het adres van een politieagent die in opspraak kwam nadat hij een trap gaf aan een vrouw onder het Utrechtse Bollendak en meermaals ..."
         },
         {
-          "title": "Fallon Sherrock is eerste vrouw ooit die van man wint op WK Darts",
-          "source": "panorama",
-          "url": "https://panorama.nl/artikel/138509/fallon-sherrock-is-eerste-vrouw-ooit-die-van-man-wint-op-wk",
-          "publishedDate": "Wed, 18 Dec 2019 02:37:00 GMT",
-          "description": "Heb je gisteren geen darts gekeken? Dan heb je misschien wel de wedstrijd van het toernooi gemist. Fallon Sherrock won als eerste vrouw ooit op het PDC WK van een man. De 25-jarige Sherrock, die werkt ..."
+          "title": "Politieagent (35) overleden bij crash tijdens achtervolging in Belgi&#235;",
+          "source": "ED",
+          "url": "https://www.ed.nl/buitenland/politieagent-35-overleden-bij-crash-tijdens-achtervolging-in-belgie~a735491a/",
+          "publishedDate": "Fri, 05 Apr 2024 05:01:00 GMT",
+          "description": "De achtervolging gebeurde rond 02.00 uur. Een team van de Belgische politie was een verdacht voertuig aan het achtervolgen toen de bestuurder van de politiebus de controle verloor op een glad wegdek."
+        }
+      ]
+    },
+    {
+      "keyword": "spoor",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Werk aan geluidschermen langs spoor in America is begonnen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/horst-aan-de-maas/werk-aan-geluidschermen-langs-spoor-in-america-is-begonnen~ad2b9e5e/",
+          "publishedDate": "Fri, 30 Oct 2026 02:46:00 GMT",
+          "description": "Molhoek Infratechniek is begonnen met voorbereidende werkzaamheden voor geluidschermen langs het spoor in het centrum van America. Het gaat om werk binnen het Meerjarenprogramma Geluidsanering."
+        },
+        {
+          "title": "Na een tweede groot treinongeluk op hetzelfde spoor is de vraag in Spanje: wat gaat er mis?",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/na-een-tweede-groot-treinongeluk-op-hetzelfde-spoor-is-de-vraag-in-spanje-wat-gaat-er-mis~b9a1c471/",
+          "publishedDate": "Thu, 29 Oct 2026 11:00:00 GMT",
+          "description": "Het hogesnelheidsnetwerk was jarenlang de grote trots van Spanje, toch lijkt er iets mis te gaan. Machinisten zijn in staking en eisen meer investeringen in onderhoud."
+        },
+        {
+          "title": "Trams botsen in Den Haag, tram deels uit het spoor",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-den-haag/trams-botsen-in-den-haag-tram-deels-uit-het-spoor~a22f3d26/",
+          "publishedDate": "Thu, 29 Oct 2026 04:49:00 GMT",
+          "description": "Op de Laan van Meerdervoort in Den Haag zijn donderdagavond twee trams met elkaar in botsing gekomen. Een van de voertuigen raakte hierbij deels uit het spoor. Er raakte niemand gewond."
+        },
+        {
+          "title": "Spaanse vakbond van treinmachinisten gaat donderdag toch staken voor veiliger spoor",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/10/28/vakbond-treinmachinisten-gaat-donderdag-toch-staken-voor-veiliger-spoor-a4940000",
+          "publishedDate": "Wed, 28 Oct 2026 12:55:00 GMT",
+          "description": "De Spaanse vakbond van treinmachinisten (Semaf) gaat donderdag toch staken voor meer veiligheid op het spoor. Vanaf middernacht zullen de circa zesduizend medewerkers van de Renfe-groep, de nationale ..."
+        },
+        {
+          "title": "Spaanse treinmachinisten wilden donderdag al staken voor een veiliger spoor, maar heroverwegen besluit door ongeluk",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/10/28/spaanse-treinmachinisten-wilden-donderdag-al-staken-voor-een-veiliger-spoor-maar-heroverwegen-besluit-door-ongeluk-a4939975",
+          "publishedDate": "Wed, 28 Oct 2026 06:33:00 GMT",
+          "description": "De Spaanse vakbond van treinmachinisten (Semaf) had v&#243;&#243;r het dodelijk ongeval van woensdagochtend al een staking aangekondigd voor donderdag. De vakbond zal later deze woensdag een besluit nemen of de ..."
+        },
+        {
+          "title": "12/10 in Nieuwsuur: Toespraak hoogste NAVO-militair • NS-campagne tegen zelfdoding spoor • Online veiligheidsincident Albert Heijn",
+          "source": "NOS",
+          "url": "https://nos.nl/nieuwsuur/artikel/2634684-12-10-in-nieuwsuur-toespraak-hoogste-navo-militair-ns-campagne-tegen-zelfdoding-spoor-online-veiligheidsincident-albert-heijn",
+          "publishedDate": "Mon, 12 Oct 2026 07:37:00 GMT",
+          "description": "Eelco van Asch, operationeel directeur van de NS, en Emiel Jansen, incidentbestrijder bij ProRail, schuiven aan in de studio. In meerdere distributiecentra van Albert Heijn ligt het werk stil als ..."
+        },
+        {
+          "title": "Spoor Coevorden aangesloten op Duits traject – bijna tien dagen geen treinverkeer",
+          "source": "Treinreiziger.nl",
+          "url": "https://www.treinreiziger.nl/spoor-coevorden-aangesloten-op-duits-traject-bijna-tien-dagen-geen-treinverkeer/",
+          "publishedDate": "Tue, 27 Oct 2026 04:08:00 GMT",
+          "description": "Bij Coevorden wordt binnenkort de spoorlijn uit Bad Bentheim aangesloten op het Nederlandse spoor. Daarvoor zijn van zaterdag 14 november tot en met zondag ..."
+        },
+        {
+          "title": "ProRail vernieuwt spoor in Noord-Holland: komende tijd tijdelijk geen treinverkeer op meerdere trajecten",
+          "source": "Treinenweb",
+          "url": "https://www.treinenweb.nl/nieuws/12187/prorail-vernieuwt-spoor-in-noord-holland-komende-tijd-tijdelijk-geen-treinverkeer-op-meerdere-trajecten.html",
+          "publishedDate": "Sun, 18 Oct 2026 08:24:00 GMT",
+          "description": "Spoorbeheerder ProRail voert in november grootschalige werkzaamheden uit aan het spoor in Noord-Holland. Van 9 tot en met 20 november wordt onder meer de spoorbeveiliging vernieuwd, station Obdam bete ..."
         }
       ]
     }
