@@ -1,180 +1,373 @@
 {
-  "fetchedAt": "2026-11-01T21:01:25.176Z",
+  "fetchedAt": "2026-11-02T00:56:05.680Z",
   "trends": [
     {
       "keyword": "excelsior - twente",
       "trafficLabel": "50K+",
-      "articles": []
-    },
-    {
-      "keyword": "groningen - sparta rotterdam",
-      "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Sparta wint bij FC Groningen na spectaculaire beginfase en blunders thuisploeg",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6415157/sparta-wint-bij-fc-groningen-na-spectaculaire-beginfase-en-blunders-thuisploeg.html",
-          "publishedDate": "Sun, 01 Nov 2026 10:51:00 GMT",
-          "description": "Sparta Rotterdam heeft zondag met 2-3 gewonnen bij FC Groningen. De wedstrijd had een spectaculaire beginfase en werd beslist door een blunder in de defensie van de thuisploeg."
-        },
-        {
-          "title": "Blunderend Groningen ondanks bliksemstart onderuit tegen Sparta",
+          "title": "Twente evenaart recordzege tegen tiental Excelsior • Telstar op 4-2 tegen Utrecht",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2637639-blunderend-groningen-ondanks-bliksemstart-onderuit-tegen-sparta",
-          "publishedDate": "Sun, 01 Nov 2026 09:40:00 GMT",
-          "description": "Na een curieus misverstand tussen doelman Etienne Vaessen en Hans Hateboer gaan de drie punten toch met Sparta mee naar Rotterdam: 2-3."
+          "url": "https://nos.nl/liveblog/2637568-twente-kan-inlopen-op-feyenoord-pec-wint-met-1-0-van-ado",
+          "publishedDate": "Sun, 01 Nov 2026 02:39:00 GMT",
+          "description": "In dit liveblog volgen we de eredivisiewedstrijden van speelronde elf op zondag 1 november, waaronder Excelsior-FC Twente."
         },
         {
-          "title": "Bizar misverstand tussen Etienne Vaessen en Hans Hateboer levert Sparta Rotterdam de zege op bij FC Groningen",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/bizar-misverstand-tussen-etienne-vaessen-en-hans-hateboer-levert-sparta-rotterdam-de-zege-op-bij-fc-groningen/blt169a1b63f87bc2e7",
-          "publishedDate": "Sun, 01 Nov 2026 10:55:00 GMT",
-          "description": "Sparta Rotterdam heeft zondag in de slotfase een zege geboekt op bezoek bij FC Groningen. Als gevolg van een zeer knullig misverstand tussen Hans Hateboer en Etienne Vaessen bepaalde invaller Andrej K ..."
-        },
-        {
-          "title": "FC Groningen verliest dankzij dure fouten in eigen huis van Sparta",
-          "source": "OOG Groningen",
-          "url": "https://www.oogtv.nl/2026/11/fc-groningen-verliest-dankzij-dure-fouten-in-eigen-huis-van-sparta/",
-          "publishedDate": "Sun, 01 Nov 2026 10:54:00 GMT",
-          "description": "FC Groningen heeft zich zondagmiddag met 2-3 verloren van Sparta Rotterdam. Lang leek de wedstrijd richting een gelijkspel te gaan, maar een communicatiefout tussen Hans Hateboer en Etienne Vaessen be ..."
-        },
-        {
-          "title": "FC Groningen onderuit door late tegentreffer.",
-          "source": "FC Groningen",
-          "url": "https://www.fcgroningen.nl/nieuws/fc-groningen-onderuit-door-late-treffer-voor-sparta-rotterdam/",
-          "publishedDate": "Sun, 01 Nov 2026 10:43:00 GMT",
-          "description": "FC Groningen heeft zondagmiddag in Euroborg verloren van Sparta Rotterdam. De gasten gingen er door een late winnende treffer met de punten vandoor, 2-3. Bij rust stond het 2-2 door goals van Jacob On ..."
-        },
-        {
-          "title": "Live 16.45 uur | FC Groningen - Sparta Rotterdam (2-2)",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/live-1645-uur-fc-groningen-sparta-rotterdam-2-2/ar-AA2gvV7x",
-          "publishedDate": "Sun, 01 Nov 2026 09:40:00 GMT",
-          "description": "Dit is het livetopic voor de VriendenLoterij Eredivisie-duels van zondag 1 november. De voetbalzondag wordt om 12.15 uur in gang gezet door PEC Zwolle en ADO Den Haag. Vervolgens reist FC Twente af na ..."
-        },
-        {
-          "title": "Groningse comedy capers in slotfase bezorgt Sparta de volle buit",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/groningse-comedy-capers-in-slotfase-bezorgt-sparta-de-volle-buit",
-          "publishedDate": "Sun, 01 Nov 2026 09:38:00 GMT",
-          "description": "Sparta Rotterdam heeft in de Euroborg uitstekende zaken gedaan. Na een spektakelrijke eerste helft leek het op een gelijkspel uit te draaien, totdat Etienne Vaessen en Hans Hateboer elkaar in de slotf ..."
-        },
-        {
-          "title": "LUISTER LIVE: FC Groningen – Sparta Rotterdam (2-2)",
-          "source": "OOG Groningen",
-          "url": "https://www.oogtv.nl/2026/11/luister-live-fc-groningen-sparta-rotterdam-vanaf-1645/",
-          "publishedDate": "Sun, 01 Nov 2026 08:29:00 GMT",
-          "description": "FC Groningen trapt vanmiddag om 16:45 af tegen Sparta Rotterdam. Na de verloren bekerwedstrijd tegen FC Emmen afgelopen donderdag (0-2), kan de focus volledig op de competitie. De uitzending rondom de ..."
-        },
-        {
-          "title": "LEES TERUG: Sparta wint door doelpunt in de slotfase van FC Groningen (2-3)",
+          "title": "LEES TERUG: Onmachtig Excelsior verliest met ruime cijfers van FC Twente (0-9)",
           "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2276111/lees-terug-sparta-wint-door-doelpunt-in-de-slotfase-van-fc-groningen-2-3",
-          "publishedDate": "Sun, 01 Nov 2026 07:43:00 GMT",
-          "description": "Sparta nam het in het hoge noorden op tegen FC Groningen. De ploeg van Rogier Meijer zit in een wisselvallige fase en verloor doordeweeks de bekerwedstrijd van Fortuna Sittard. De laatste wedstrijd di ..."
-        },
-        {
-          "title": "Praat mee op VP: Groningen en Sparta sluiten Eredivisie-weekend af in de Euroborg",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-groningen-en-sparta-sluiten-eredivisie-weekend-af-in-de-euroborg/ar-AA2gwjNH",
-          "publishedDate": "Sun, 01 Nov 2026 06:50:58 GMT",
-          "description": "FC Groningen en Sparta Rotterdam staan zondagmiddag tegenover elkaar in de Eredivisie. De wedstrijd begint om 16.45 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee ..."
+          "url": "https://www.rijnmond.nl/nieuws/2276107/lees-terug-onmachtig-excelsior-verliest-met-ruime-cijfers-van-fc-twente-0-9",
+          "publishedDate": "Sun, 01 Nov 2026 05:26:00 GMT",
+          "description": "Excelsior neemt het in eigen huis op tegen het stugge FC Twente. De ploeg van Ruben den Uil kende een geweldige start aan de competitie, maar de laatste weken loopt het alles behalve soepel bij de Kra"
         }
       ]
     },
     {
-      "keyword": "santander - real madrid",
+      "keyword": "liverpool - arsenal",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Real Madrid blijft in spoor Barcelona en Atl&#233;tico: eenvoudige zege op Racing Santander",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2637638-real-madrid-blijft-in-spoor-barcelona-en-atletico-eenvoudige-zege-op-racing-santander",
-          "publishedDate": "Sun, 01 Nov 2026 09:25:00 GMT",
-          "description": "Real Madrid heeft geen enkele moeite met Racing Santander. Na iets meer dan een half uur spelen bij de laagvlieger is het duel al beslist: 0-3."
+          "title": "Arsenal pakt koppositie in Premier League met langverwachte zege bij Liverpool",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6415160/arsenal-pakt-koppositie-in-premier-league-met-langverwachte-zege-bij-liverpool.html",
+          "publishedDate": "Sun, 01 Nov 2026 11:28:00 GMT",
+          "description": "Arsenal heeft zondag de koppositie in de Premier League heroverd. De regerend landskampioen won nipt bij het Nederlands getinte Liverpool (0-1) en nam de eerste plek van Manchester City over."
         },
         {
-          "title": "Kiezelharde afzwaaier raakt jonge Real-fan: Tchouam&#233;ni en Mbapp&#233; maken het goed",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/kiezelharde-afzwaaier-raakt-jonge-real-fan-tchouam%C3%A9ni-en-mbapp%C3%A9-maken-het-goed/ar-AA2gxyYa",
-          "publishedDate": "Sun, 01 Nov 2026 12:25:00 GMT",
-          "description": "Van grote schrik naar misschien wel het moment van je leven. Het overkwam een heel jonge fan van Real Madrid zondagavond, omdat Aur&#233;lien Tchouam&#233;ni hem op de tribune raakte met een afzwaaier. De Frans ..."
+          "title": "Premier League | Lees hier alles terug van de kraker Liverpool-Arsenal",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6415145/premier-league-drie-nederlanders-starten-bij-kraker-liverpool-arsenal.html",
+          "publishedDate": "Sun, 01 Nov 2026 08:05:00 GMT",
+          "description": "Goedenavond! Mijn naam is Stan Wagtman en in dit liveblog houd ik je op de hoogte van de kraker tussen Liverpool en Arsenal in de Premier League. Veel plezier!"
         },
         {
-          "title": "Real Madrid boekt eenvoudige uitzege op Racing Santander",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/real-madrid-boekt-eenvoudige-uitzege-op-racing-santander",
-          "publishedDate": "Sun, 01 Nov 2026 10:29:00 GMT",
-          "description": "Real Madrid blijft dankzij een overtuigende 0-3 zege op Racing Santander in het spoor van Barcelona en Atl&#233;tico. Mbapp&#233;, Bellingham en Diomande scoren."
+          "title": "Woeste Virgil van Dijk haalt hard uit naar &#233;&#233;n man na Liverpool - Arsenal",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/woeste-virgil-van-dijk-haalt-hard-uit-naar-een-man-na-liverpool-arsenal/bltdfc4dbcb9cc16670",
+          "publishedDate": "Sun, 01 Nov 2026 15:42:00 GMT",
+          "description": "Virgil van Dijk heeft zondagavond zijn onbegrip uitgesproken over de arbitrage tijdens het duel tussen Liverpool en Arsenal (0-1). De aanvoerder van Liverpool vindt dat zijn ploeg een duidelijke straf ..."
         },
         {
-          "title": "Real Madrid borduurt voort op Cl&#225;sico-triomf en is al na &#233;&#233;n helft klaar in Santander",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/real-madrid-borduurt-voort-op-cl%C3%A1sico-triomf-en-is-al-na-%C3%A9%C3%A9n-helft-klaar-in-santander/ar-AA2gx3FN",
-          "publishedDate": "Sun, 01 Nov 2026 09:18:55 GMT",
-          "description": "Real Madrid heeft zondag een prima overwinning geboekt in LaLiga. De manschappen van Jos&#233; Mourinho waren met 0-3 te sterk voor Racing Santander, dat al die treffers, van Kylian Mbapp&#233;, Jude Bellingham ..."
-        },
-        {
-          "title": "Real Madrid rekent voor rust af met promovendus en verkleint gat weer met Bar&#231;a",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/real-madrid-rekent-voor-rust-af-met-promovendus-en-verkleint-gat-weer-met-bar%C3%A7a/ar-AA2gx1BP",
-          "publishedDate": "Sun, 01 Nov 2026 09:15:00 GMT",
-          "description": "Real Madrid heeft zondagmiddag een eenvoudige overwinning geboekt in La Liga. De ploeg van Jos&#233; Mourinho was met 0-3 te sterk voor Racing Santander. Kylian Mbapp&#233; opende de score vanaf de strafschopst ..."
-        },
-        {
-          "title": "Bankzitter Dumfries ziet Real met schitterende goal zorgeloze zondag beleven",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/bankzitter-dumfries-ziet-real-met-schitterende-goal-zorgeloze-zondag-beleven/ar-AA2gxiHU",
-          "publishedDate": "Sun, 01 Nov 2026 09:15:00 GMT",
-          "description": "Real Madrid heeft een uitstekend vervolg gegeven aan de zege op Barcelona in El Cl&#225;sico. Mede dankzij een schitterende goal van Yan Diomande werd op bezoek bij Racing Santander met 0-3 gewonnen, al bl ..."
-        },
-        {
-          "title": "Racing de Santander vs Real Madrid: Opstellingen, Statistieken &amp; Voorspelling (1-11-2026)",
-          "source": "Squawka",
-          "url": "https://www.squawka.com/nl/nieuws/la-liga/racing-de-santander-real-madrid-opstellingen-statistieken-voorspelling-1-11-2026/",
-          "publishedDate": "Sun, 01 Nov 2026 08:15:00 GMT",
-          "description": "Racing de Santander - Real Madrid: alles over opstellingen, statistieken, voorspellingen en de beste odds voor jouw weddenschap."
-        },
-        {
-          "title": "Racing Santander – Real Madrid kijken via gratis live stream",
-          "source": "Squawka",
-          "url": "https://www.squawka.com/nl/nieuws/la-liga/racing-santander-real-madrid-kijken-via-gratis-live-stream/",
-          "publishedDate": "Sun, 01 Nov 2026 05:36:00 GMT",
-          "description": "Racing Santander - Real Madrid kijken? De aftrap is zondag om 16.15 uur. Kijk op Ziggo Sport 1 of gratis via de TOTO live stream."
-        },
-        {
-          "title": "Real Madrid neemt ook scalp van Racing Santander, aanvoerder Thibaut Courtois houdt de nul",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/primera-division/real-madrid-neemt-ook-scalp-van-racing-santander-aanvoerder-thibaut-courtois-houdt-de-nul~aac1c823/",
-          "publishedDate": "Sun, 01 Nov 2026 03:08:00 GMT",
-          "description": "Real Madrid komt stilaan helemaal onder stoom. Na &lt;a href=&quot;https://www.hln.be/primera-division/we-hebben-thuis-de-beste-doelman-ter-wereld-maar-jose-mourinho-prijst-vervanger-van-thibaut-courtois-na-c ..."
-        },
-        {
-          "title": "Op welke zender kijk je Racing Santander – Real Madrid live?",
+          "title": "Virgil van Dijk geeft Liverpool-collega de schuld",
           "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-racing-santander-real-madrid-live/",
-          "publishedDate": "Sun, 01 Nov 2026 01:49:00 GMT",
-          "description": "Real Madrid zag concurrent FC Barcelona winnen in LaLiga en moet in de achtervolging. Ze gaan op zondag op bezoek bij Racing Santander. Waar kun je dit ..."
+          "url": "https://www.soccernews.nl/news/virgil-van-dijk-geeft-liverpool-collega-de-schuld/",
+          "publishedDate": "Sun, 01 Nov 2026 15:15:00 GMT",
+          "description": "Arsenal heeft zondag een fraaie zege geboekt op het veld van Liverpool: 0-1. Aanvoerder Virgil van Dijk ging ogenschijnlijk niet vrijuit bij de winnende ..."
+        },
+        {
+          "title": "Arsenal deelt Liverpool gevoelige tik uit en boekt historische zege op Anfield",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/arsenal-deelt-liverpool-gevoelige-tik-uit-en-boekt-historische-zege-op-anfield/ar-AA2gxbSx",
+          "publishedDate": "Sun, 01 Nov 2026 11:28:00 GMT",
+          "description": "Arsenal heeft zondagavond een belangrijke overwinning geboekt op bezoek bij Liverpool (0-1). Kai Havertz maakte al na zestien minuten het enige doelpunt van de wedstrijd, waarna de Londenaren standhie ..."
+        },
+        {
+          "title": "Arsenal profiteert van City-uitglijder, wint kraker bij Liverpool en is koploper",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/arsenal-profiteert-van-city-uitglijder-wint-kraker-bij-liverpool-en-is-koploper/ar-AA2gxocd",
+          "publishedDate": "Sun, 01 Nov 2026 10:27:00 GMT",
+          "description": "Arsenal heeft ontzettend goede zaken gedaan in de Premier League door de topwedstrijd tegen Liverpool op Anfield te winnen. Het duel eindigde in een 0-1-overwinning voor de ploeg van Mikel Arteta. Daa ..."
+        },
+        {
+          "title": "Slordig opbouwen breekt Liverpool op in topper tegen Arsenal",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/slordig-opbouwen-breekt-liverpool-op-in-topper-tegen-arsenal/ar-AA2gwRs6",
+          "publishedDate": "Sun, 01 Nov 2026 10:25:00 GMT",
+          "description": "Arsenal heeft als nieuwe koploper van de Premier League op Anfield optimaal geprofiteerd van de nederlaag van concurrent Manchester City. Kai Havertz maakte het verschil tegen Liverpool, na geschutter ..."
+        },
+        {
+          "title": "Arsenal houdt stand na vroege goal en deelt harde tik uit op Anfield",
+          "source": "VoetbalNieuws.nl",
+          "url": "https://www.voetbalnieuws.nl/nieuws/2153737/arsenal-houdt-stand-na-vroege-goal-en-deelt-harde-tik-uit-op-anfield.html",
+          "publishedDate": "Sun, 01 Nov 2026 10:25:00 GMT",
+          "description": "Liverpool en Arsenal hebben een interessante kraker achter de rug op Anfield. Na een vroege goal van The Gunners ging de thuisploeg op zoek naar de gelijkmaker."
+        },
+        {
+          "title": "E&#233;n cadeautje bleek voldoende: Arsenal wint voor het eerst in 14 jaar nog eens in Liverpool, dat 3 topkansen laat liggen",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/matches/voetbal/buitenland/eng/premier-league/2026-2027/regulier/09/liverpool-arsenal-een-cadeautje-bleek-voldoende-arsenal-wint-voor-het-eerst-in-14-jaar-nog-eens-in-liverpool-dat-3-topkansen-laat-liggen~1784282051108/",
+          "publishedDate": "Sun, 01 Nov 2026 09:31:00 GMT",
+          "description": "Maar aan de score veranderde ondanks een slotoffensiefje uiteindelijk niets meer, waardoor Arsenal voor het eerst in 14 jaar nog eens kon winnen op Anfield. De Premier League kent ineens ook een ..."
+        },
+        {
+          "title": "Liverpool en Arsenal strijden om kampioenschap: pak tot 100x je inleg",
+          "source": "Voetbalprimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2153623/liverpool-en-arsenal-strijden-om-kampioenschap-pak-tot-100x-je-inleg.html",
+          "publishedDate": "Sun, 01 Nov 2026 04:00:00 GMT",
+          "description": "ADVERTORIAL - Liverpool krijgt zondag bezoek van Arsenal. Beide ploegen strijden mee bovenin de Premier League en hopen een tik uit te delen in de strijd om de landstitel. BetCity staat klaar met een ..."
+        }
+      ]
+    },
+    {
+      "keyword": "f1",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "F1 bevestigt Grand Prix van Afrika in Rwanda, dat tienjarig contract tekent",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2634780-f1-bevestigt-grand-prix-van-afrika-in-rwanda-dat-tienjarig-contract-tekent",
+          "publishedDate": "Tue, 13 Oct 2026 04:31:00 GMT",
+          "description": "Het wereldkampioenschap Formule 1 rijdt vanaf de 'begin jaren 2030' wedstrijden in Rwanda. De Grand Prix van Afrika wordt tien jaar lang in het land gereden. De wedstrijd wordt gehouden op een nog te ..."
+        },
+        {
+          "title": "Verstappen en Red Bull terug aan F1-top: de lange weg naar succes in 2026",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2634628-verstappen-en-red-bull-terug-aan-f1-top-de-lange-weg-naar-succes-in-2026",
+          "publishedDate": "Sun, 11 Oct 2026 16:44:00 GMT",
+          "description": "Het F1-seizoen van Max Verstappen en Red Bull Racing begon moeizaam, maar na een lange en zware weg is de combinatie terug aan de top."
+        },
+        {
+          "title": "Uitslag race F1 GP Mexico 2026",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/motorsport/uitslag-race-f1-gp-mexico-2026/ar-AA2gxJpo",
+          "publishedDate": "Sun, 01 Nov 2026 14:27:00 GMT",
+          "description": "Max Verstappen heeft de GP van Mexico gewonnen. Lewis Hamilton eindigde op de tweede plaats. Kersvers wereldkampioen Kimi Antonelli maakte de top drie compleet."
+        },
+        {
+          "title": "Verstappen pakt weergaloze zege in Mexico, Antonelli verovert F1-wereldtitel",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/verstappen-pakt-weergaloze-zege-in-mexico-antonelli-verovert-f1-wereldtitel/ar-AA2gxBMU",
+          "publishedDate": "Sun, 01 Nov 2026 14:24:00 GMT",
+          "description": "Max Verstappen heeft op zeer knappe wijze de Grand Prix van Mexico op zijn naam geschreven. Kimi Antonelli veroverde de wereldtitel door als derde over de streep te komen."
+        },
+        {
+          "title": "F1 Live 21:00u | Grand Prix van Mexico 2026",
+          "source": "F1 Maximaal",
+          "url": "https://www.f1maximaal.nl/formule-1/f1-live-2100u-grand-prix-van-mexico-2026",
+          "publishedDate": "Sun, 01 Nov 2026 11:34:00 GMT",
+          "description": "De Grand Prix van Mexico belooft een interessante race te worden, met zowel de strijd om de overwinning als het wereldkampioenschap op het spel. Max Verstappen start door een gridstraf. Voor Kimi Anto ..."
+        },
+        {
+          "title": "Zelfs als hij niet finisht, kan hij wereldkampioen F1 worden: de scenario's voor Kimi Antonelli in Mexico",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/2026/10/11/zelfs-als-hij-niet-finisht-kan-hij-wereldkampioen-f1-worden-de-scenario-s-voor-kimi-antonelli-in-mexico~1791729446135/",
+          "publishedDate": "Sun, 01 Nov 2026 11:02:00 GMT",
+          "description": "Een afspraak met de geschiedenis voor Andrea Kimi Antonelli. In Mexico krijgt de Italiaan een tweede kans om de wereldtitel in de Formule 1 te veroveren. Twee punten volstaan om de wereldtitel binnen ..."
+        },
+        {
+          "title": "Hoe laat start de F1 Grand van Mexico? Tijden en alles wat je moet weten",
+          "source": "Autoblog.nl",
+          "url": "https://www.autoblog.nl/nieuws/hoe-laat-start-de-f1-grand-van-mexico-tijden-en-alles-wat-je-moet-weten",
+          "publishedDate": "Sat, 31 Oct 2026 00:53:00 GMT",
+          "description": "Het kan dit weekend bijna niet meer mis: Kimi Antonelli wordt F1-kampioen! Hij gaat het doen in Mexico-Stad als het in Nederland avond is. Dit moet je weten voor de race begint."
+        },
+        {
+          "title": "Uitslag derde vrije training F1 Grand Prix Verenigde Staten 2026",
+          "source": "GP33",
+          "url": "https://gp33.nl/f1-nieuws/uitslag-derde-vrije-training-f1-grand-prix-verenigde-staten-2026",
+          "publishedDate": "Sat, 24 Oct 2026 11:32:00 GMT",
+          "description": "Lewis Hamilton heeft de derde vrije training als snelste afgesloten. Max Verstappen en Charles Leclerc klokten de tweede en derde tijd. Max Verstappen liet in de eerste twee vrije trainingen zien dat ..."
+        },
+        {
+          "title": "Live derde vrije training F1 GP Verenigde Staten 2026",
+          "source": "https//racingnews365.nl",
+          "url": "https://racingnews365.nl/live-derde-vrije-training-f1-gp-verenigde-staten-2026",
+          "publishedDate": "Sat, 24 Oct 2026 11:30:00 GMT",
+          "description": "Volg Max Verstappen live tijdens de derde vrije training voor de Grand Prix van de Verenigde Staten! Weet de Nederlander met het oog op de kwalificatie een stap vooruit te zetten? Het belooft een ..."
+        },
+        {
+          "title": "F1 tijden: bekijk de Formule 1 tijden van de GP Verenigde Staten",
+          "source": "iCreate",
+          "url": "https://www.icreatemagazine.nl/nieuws/f1-tijden/",
+          "publishedDate": "Fri, 23 Oct 2026 12:31:00 GMT",
+          "description": "Alle Formule 1-races en andere sessies zijn te zien via Viaplay, voorzien van Nederlandstalig commentaar. Naast Formule 1 krijg je met Viaplay ook toegang tot andere sporten, zoals voetbal (Premier ..."
+        }
+      ]
+    },
+    {
+      "keyword": "f1 stand",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Aangepaste WK-stand F1 na GP Mexico 2026",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/aangepaste-wk-stand-f1-na-gp-mexico-2026/ar-AA2gyiMQ",
+          "publishedDate": "Sun, 01 Nov 2026 16:20:00 GMT",
+          "description": "Door de tijdstraf van Oscar Piastri voor een incident met Arvid Lindblad is de uitslag van de GP van Mexico op de schop gegaan. Dat heeft ook invloed op de WK-stand."
+        },
+        {
+          "title": "F1-kampioenschap 2026 – Stand na de Grand Prix van de Verenigde Staten in Austin",
+          "source": "autohebdo",
+          "url": "https://www.autohebdo.nl/nieuws/f1/Stand-van-het-F1-kampioenschap-2026-na-de-Grand-Prix-van-de-Verenigde-Staten-in-Austin..html",
+          "publishedDate": "Sun, 25 Oct 2026 16:36:00 GMT",
+          "description": "Kimi Antonelli, winnaar van de Grand Prix van de Verenigde Staten in Austin, Texas, behaalde daarmee zijn negende overwinning van het seizoen. Het was de negende Formule 1-zege voor de Italiaan."
+        },
+        {
+          "title": "WK-stand F1 na GP VS: Verstappen loopt in, titelfeest Antonelli uitgesteld",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/wk-stand-f1-na-gp-vs-verstappen-loopt-in-titelfeest-antonelli-uitgesteld/ar-AA2g35gD",
+          "publishedDate": "Sun, 25 Oct 2026 14:45:00 GMT",
+          "description": "Kimi Antonelli moet ondanks zijn zege in de Verenigde Staten nog minimaal een weekje op zijn eerste wereldtitel wachten in de Formule 1. Max Verstappen houdt uitzicht op de tweede plaats."
+        },
+        {
+          "title": "WK-stand F1 na GP Singapore: Verstappen jaagt op tweede positie",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/wk-stand-f1-na-gp-singapore-verstappen-jaagt-op-tweede-positie/ar-AA2dZJ6i",
+          "publishedDate": "Sun, 11 Oct 2026 06:51:00 GMT",
+          "description": "Max Verstappen is met zijn overwinning in Singapore een serieuze bedreiging voor de top drie van de WK-stand geworden. Kimi Antonelli kan zijn eerste wereldtitel ruiken."
+        },
+        {
+          "title": "WK-stand na sprintrace F1 GP Singapore 2026: Verstappen stoomt op",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/wk-stand-na-sprintrace-f1-gp-singapore-2026-verstappen-stoomt-op/ar-AA2dWTGj",
+          "publishedDate": "Sat, 10 Oct 2026 03:24:00 GMT",
+          "description": "George Russell leek goede zaken te gaan doen tijdens de sprintrace in Singapore, tot een harde klapper daar een stokje voor stak. Max Verstappen doet het daarentegen wel goed, want hij klimt met zijn ..."
+        },
+        {
+          "title": "F1-kampioenschap 2026 – Stand na de Grand Prix van Bahrein in Maleisi&#235;",
+          "source": "autohebdo",
+          "url": "https://www.autohebdo.nl/nieuws/f1/Klassement-van-het-F1-kampioenschap-2026.html",
+          "publishedDate": "Sun, 04 Oct 2026 07:04:00 GMT",
+          "description": "Kimi Antonelli heeft nu een voorsprong van 84 punten op George Russell. Kimi Antonelli, tweede in de Grand Prix van Maleisi&#235;, zet een volgende stap richting de titel door George Russell, die 84 punten ..."
+        },
+        {
+          "title": "Stand in F1-kampioenschap na Azerbeidzjan: Verstappen heeft 'best of the rest' in zicht",
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1090766/stand-in-f1-kampioenschap-na-azerbeidzjan-verstappen-heeft-best-of-the-rest-in-zicht/",
+          "publishedDate": "Sun, 27 Sep 2026 03:13:00 GMT",
+          "description": "Na de F1 Grand Prix van Azerbeidzjan is het tijd om naar het wereldkampioenschap te kijken. Ervanuit gaande dat Qatar en Abu Dhabi niet doorgaan en vervangen worden door Imola, zijn er nog zeven races ..."
+        },
+        {
+          "title": "F1 Stand Vandaag: Piastri neemt WK-leiding over, Verstappen jaagt op Norris",
+          "source": "gpfans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1047523/f1-stand-na-grand-prix-saoedi-arabie-max-verstappen-derde-in-wk/",
+          "publishedDate": "Sun, 20 Apr 2025 14:23:00 GMT",
+          "description": "De F1-stand 2025 is vandaag weer flink op de schop gegaan als gevolg van de Grand Prix van Saoedi-Arabi&#235;. Lando Norris is niet langer de WK-leider en heeft zijn positie moeten afstaan aan ..."
+        },
+        {
+          "title": "F1-stand coureurs | Verstappen loopt verder uit na zege, Norris naar P2",
+          "source": "gpblog.com",
+          "url": "https://www.gpblog.com/nl/nieuws/f1-stand-coureurs-na-gp-spanje-2024.html",
+          "publishedDate": "Sun, 23 Jun 2024 09:30:00 GMT",
+          "description": "Nicole Mulder is eindredacteur bij GPblog en specialist in Formule 1 en MotoGP. Met haar jarenlange ervaring en permanente FIA-accreditatie bij Grands Prix wereldwijd brengt ze betrouwbare ..."
         }
       ]
     },
     {
       "keyword": "ciara mageean",
       "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "lale gül",
-      "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Ierse oud-atlete Mageean (34) overleden aan darmkanker",
+          "source": "RTL Nieuws (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/ierse-oud-atlete-mageean-34-overleden-aan-darmkanker/ar-AA2gwly5",
+          "publishedDate": "Sun, 01 Nov 2026 04:57:00 GMT",
+          "description": "De Ierse oud-atlete Ciara Mageean is zondag op 34-jarige leeftijd overleden aan darmkanker. Dat is bekendgemaakt op het Instagram-account van de voormalig Europees kampioene op de 1500 meter."
+        },
+        {
+          "title": "Olympi&#235;r en atletiekkampioene Ciara Mageean (34) overleden aan darmkanker",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/sport-overig/6415122/olympier-en-atletiekkampioene-ciara-mageean-34-overleden-aan-darmkanker.html",
+          "publishedDate": "Sun, 01 Nov 2026 04:39:00 GMT",
+          "description": "Tweevoudig olympi&#235;r Ciara Mageean uit Ierland is zondag op 34-jarige leeftijd overleden. De voormalige Europees kampioene op de 1.500 meter maakte ruim een jaar geleden bekend dat ze aan darmkanker le ..."
+        },
+        {
+          "title": "Oud-Europees kampioen op 1500 meter Ciara Mageean (34) enkele weken na haar bruiloft overleden",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/andere-sporten/oud-europees-kampioen-op-1500-meter-ciara-mageean-34-enkele-weken-na-haar-bruiloft-overleden~a36160d2e/",
+          "publishedDate": "Sat, 31 Oct 2026 23:39:00 GMT",
+          "description": "De Ierse oud-atlete Ciara Mageean is zondag op 34-jarige leeftijd overleden aan darmkanker. Dat is bekendgemaakt op het Instagram-account van de voormalig Europees kampioene op de 1500 meter."
+        },
+        {
+          "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
+          "source": "AOL",
+          "url": "https://www.aol.com/articles/tributes-paid-inspirational-ciara-mageean-141715000.html",
+          "publishedDate": "Sun, 01 Nov 2026 15:31:00 GMT",
+          "description": "Tributes have been paid to former European champion and two-time Olympic runner Ciara Mageean, who has died at the age of 34. Mageean, from Portaferry in County Down, was diagnosed with stage four ..."
+        },
+        {
+          "title": "Irish Olympic Champion Ciara Mageean Dies at 34 Just Weeks After Her Wedding",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/irish-olympic-champion-ciara-mageean-205904854.html",
+          "publishedDate": "Sun, 01 Nov 2026 12:59:00 GMT",
+          "description": "Ciara Mageean, the beloved European 1500-meter gold medalist from Ireland, has died at the age of 34 after a battle with cancer. Her death comes just weeks after she married her long-term partner."
+        },
+        {
+          "title": "Ciara Mageean, 2-Time Olympian, Dies at 34 from Cancer",
+          "source": "People on MSN",
+          "url": "https://www.msn.com/en-us/news/other/ciara-mageean-2-time-olympian-dies-at-34-from-cancer/ar-AA2gxIrp",
+          "publishedDate": "Sun, 01 Nov 2026 11:08:39 GMT",
+          "description": "The runner married her partner on Oct. 12, and the couple celebrated their nuptials with friends and loved ones on Oct. 25, one week before her Nov. 1 death ..."
+        },
+        {
+          "title": "Vorige week vierde ze nog haar huwelijk: atletiekwereld rouwt om ex-Europese kampioene Ciara Mageean (34)",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/vorige-week-vierde-ze-nog-haar-huwelijk-atletiekwereld-rouwt-om/",
+          "publishedDate": "Sun, 01 Nov 2026 09:28:00 GMT",
+          "description": "Ierland is in rouw om het verlies van Ciara Mageean. De 34-jarige atlete is overleden aan darmkanker. De voormalige Europese kampioene op de 1.500 meter vierde vorige week nog haar huwelijk, enkele we ..."
+        },
+        {
+          "title": "Europees kampioene (34) paar dagen na bruiloft overleden: atletiekwereld in diepe rouw",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/atletiek/nieuws/europees-kampioene-34-paar-dagen-na-bruiloft-overleden-atletiekwereld-in-diepe-rouw-2026110112033760349/",
+          "publishedDate": "Sun, 01 Nov 2026 05:16:00 GMT",
+          "description": "De atletiekwereld is in diepe rouw. Zondag werd bekend dat de Ierse topatlete Ciara Mageean op 34-jarige leeftijd is overleden aan de gevolgen van darmkanker. Ze overleed in de vroege ochtend, omringd ..."
+        },
+        {
+          "title": "Europees kampioene Ciara Mageean (34) overleden aan kanker",
+          "source": "Hardloopnetwerk",
+          "url": "https://hardloopnetwerk.nl/ciara-mageean-overleden-aan-kanker/",
+          "publishedDate": "Sun, 01 Nov 2026 01:30:00 GMT",
+          "description": "De Ierse won in 2016 in Amsterdam haar eerste EK-medaille en werd acht jaar later in Rome Europees kampioene op de 1500 meter. Ze be&#235;indigde haar loopbaan als Iers recordhoudster op vier afstanden."
+        },
+        {
+          "title": "Amper enkele weken na haar bruiloft: voormalige Europese kampioene 1.500 meter op 34-jarige leeftijd overleden aan darmkanker",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/meer-sport/amper-enkele-weken-na-haar-bruiloft-voormalige-europese-kampioene-1-500-meter-op-34-jarige-leeftijd-overleden-aan-darmkanker~a36160d2e/",
+          "publishedDate": "Sat, 31 Oct 2026 21:49:00 GMT",
+          "description": "De Ierse oud-atlete Ciara Mageean is zondag op 34-jarige leeftijd overleden aan darmkanker. Dat is bekendgemaakt op het Instagram-account van de voormalig Europees kampioene op de 1500 meter."
+        }
+      ]
     },
     {
       "keyword": "fia-superlicentie",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "FIA-president schuttert bij tekenen superlicentie Antonelli: &quot;Echt 18?&quot;",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/fia-president-schuttert-bij-tekenen-superlicentie-antonelli-echt-18/ar-AA2gwwIs",
+          "publishedDate": "Sun, 01 Nov 2026 06:33:00 GMT",
+          "description": "Op de drempel van de F1 GP van Mexico, waar Kimi Antonelli kans maakt om de jongste wereldkampioen ooit te worden, haalde FIA-president Mohammed Ben Sulayem herinneringen op. Hij blikt terug op het mo ..."
+        },
+        {
+          "title": "FIA moet ingrijpen na misrekening en neemt superlicentiekans voorlopig weg bij Herta",
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1092265/fia-moet-ingrijpen-na-misrekening-en-neemt-superlicentiekans-voorlopig-weg-bij-herta/",
+          "publishedDate": "Sun, 01 Nov 2026 01:18:00 GMT",
+          "description": "Het was eventjes jubelen en juichen voor het kamp van Colton Herta na vrijdag van de F1 Grand Prix van Mexico-Stad. De Amerikaanse coureur leek namelijk zijn superlicentie, wat als het ware een Formul ..."
+        },
+        {
+          "title": "Colton Herta komt superlicentiepunt tekort door opvallende fout in IndyCar-uitslag",
+          "source": "RaceXpress",
+          "url": "https://www.racexpress.nl/formule-1/colton-herta-komt-superlicentiepunt-tekort-door-opvallende-fout-in-indycar-uitslag/n/157581",
+          "publishedDate": "Sat, 31 Oct 2026 10:01:00 GMT",
+          "description": "Colton Herta is nog altijd &#233;&#233;n punt verwijderd van het behalen van zijn FIA-superlicentie. De Amerikaan leek tijdens de eerste vrije training van de Grand ..."
+        },
+        {
+          "title": "Herta loopt F1-superlicentie voorlopig mis door kapitale rekenfout Cadillac",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/herta-loopt-f1-superlicentie-voorlopig-mis-door-kapitale-rekenfout-cadillac/ar-AA2gsxaB",
+          "publishedDate": "Sat, 31 Oct 2026 02:15:00 GMT",
+          "description": "Bij Cadillac zijn ze ervan overtuigd dat Colton Herta na zijn optreden in de eerste vrije training in Mexico eindelijk voldoende punten heeft verzameld om zijn superlicentie te bemachtigen. Maar wat b ..."
+        },
+        {
+          "title": "Verwarring rond F1-superlicentie Colton Herta uitgelegd: waarom hij nog &#233;&#233;n punt tekortkomt",
+          "source": "motorsport.com on MSN",
+          "url": "https://www.msn.com/nl-be/sport/other/verwarring-rond-f1-superlicentie-colton-herta-uitgelegd-waarom-hij-nog-%C3%A9%C3%A9n-punt-tekortkomt/ar-AA2gt0Xe",
+          "publishedDate": "Sat, 31 Oct 2026 00:14:44 GMT",
+          "description": "Herta's superlicentiesituatie heeft voor enorme verwarring gezorgd in de F1-paddock. Het houdt verband met het IndyCar-seizoen 2025; volgens de FIA heeft de Amerikaan momenteel 39 punten – nog niet ge ..."
+        },
+        {
+          "title": "Leclerc verplettert Antonelli in Mexico, Herta haalt zijn superlicentie",
+          "source": "Formule1nieuws.nl",
+          "url": "https://formule1nieuws.nl/nieuws/leclerc-verplettert-antonelli-in-mexico-herta-haalt-zijn-superlicentie/",
+          "publishedDate": "Fri, 30 Oct 2026 13:55:00 GMT",
+          "description": "Zes en een halve tiende: zoveel sneller dan Kimi Antonelli, de WK-leider, was Charles Leclerc in de eerste training in Mexico-Stad. Zijn 1:18.128 was ook sneller dan de beste ronde van vorig jaar op d ..."
+        }
+      ]
     },
     {
-      "keyword": "expeditie robinson 2026",
+      "keyword": "expeditie robinson",
       "trafficLabel": "10K+",
       "articles": [
         {
@@ -192,32 +385,32 @@
           "description": "Waarom doen ze mee aan Expeditie Robinson? Wat was hun smoes om zo lang weg te blijven? En welk inzicht namen ze mee uit Maleisi&#235;? Realityster Maxime Meiland, zanger Boaz Kok (Goldband), voormalig sho ..."
         },
         {
+          "title": "Maxime Meiland wilde imago van 'verwend popje' afschudden in Expeditie Robinson",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5662336/maxime-meiland-had-zichzelf-anders-voorgesteld-expeditie-robinson",
+          "publishedDate": "Sun, 01 Nov 2026 06:48:00 GMT",
+          "description": "Maxime Meiland (30) wilde tijdens haar deelname aan 'Expeditie Robinson' afrekenen met haar imago van 'verwend popje'. Maar eenmaal op het eiland liet de normaal zo uitgesproken realityster een heel a ..."
+        },
+        {
           "title": "Eerste afvaller 'Expeditie Robinson' zorgt voor grote verbazing: 'Ik voelde me zo klein'",
           "source": "LINDA.nl",
           "url": "https://www.linda.nl/media/fragment-gemist/eerste-afvaller-expeditie-robinson-2026/",
-          "publishedDate": "Sun, 01 Nov 2026 00:35:00 GMT",
+          "publishedDate": "Sun, 01 Nov 2026 13:35:00 GMT",
           "description": "De Vlaamse sterrenchef Wout Bru (57) moet het eiland al op de tweede dag verlaten, nadat hij samen met OGENE-zangeres Shelley Vol als eerste onderuitgaat tijdens een proef."
         },
         {
+          "title": "Maxime Meiland komt anders over in Expeditie Robinson: 'Zo ken ik mezelf niet'",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/tv/reality/artikelen/maxime-meiland-komt-anders-over-in-expeditie-robinson-zo-ken-ik-mezelf-niet",
+          "publishedDate": "Sun, 01 Nov 2026 07:25:00 GMT",
+          "description": "Je eigen eten zoeken, zorgen voor onderdak in de wildernis en loodzware proeven uitvoeren: Expeditie Robinson is terug met zijn 29e seizoen. Een van de BN'ers die zich in het diepe stort, is Maxime."
+        },
+        {
           "title": "Pauline Slangen heeft nu al een opmerkelijke survivaltactiek in 'Expeditie Robinson'",
-          "source": "tvvisie",
-          "url": "https://tvvisie.nl/inhoud/belgie/pauline-slangen-heeft-nu-al-een-opmerkelijke-survivaltactiek-in-expeditie-robinson_143145/",
-          "publishedDate": "Sat, 31 Oct 2026 17:00:00 GMT",
+          "source": "TVvisie",
+          "url": "https://tvvisie.be/inhoud/belgie/1november2026/pauline-slangen-heeft-nu-al-een-opmerkelijke-survivaltactiek-in-expeditie-robinson_143145/",
+          "publishedDate": "Sun, 01 Nov 2026 01:17:00 GMT",
           "description": "Het nieuwe seizoen van 'Expeditie Robinson' is begonnen en de landing in Maleisi&#235; mondt meteen uit in complete wanorde. Terwijl de een zich omkleedt en de ander doelloos met takken sjouwt, zoekt fitfl ..."
-        },
-        {
-          "title": "Mis de start van 'Expeditie Robinson 2026' niet",
-          "source": "TVvisie",
-          "url": "https://tvvisie.be/nieuws/nederland/mis-de-start-van-expeditie-robinson-2026-niet_143123/",
-          "publishedDate": "Sat, 31 Oct 2026 02:22:00 GMT",
-          "description": "Wie wordt Robinson 2026? De &#250;ltieme survivalstrijd barst vanaf zondag 1 november weer los. En deze keer met Nederlandse &#233;n Vlaamse kandidaten."
-        },
-        {
-          "title": "'Winnaars worden beloond, verliezers worden keihard afgestraft': 'Expeditie Robinson' start met een stevige realitycheck",
-          "source": "TVvisie",
-          "url": "https://tvvisie.be/nieuws/belgie/31oktober2026/winnaars-worden-beloond-verliezers-worden-keihard-afgestraft-expeditie-robinson-start-met-een-stevige-realitycheck_143120/",
-          "publishedDate": "Sat, 31 Oct 2026 01:47:00 GMT",
-          "description": "Geen comfort, geen genade en geen tijd om op adem te komen. Vanaf de eerste seconde is het overleven geblazen in 'Expeditie Robinson 2026'. Een groep bekende Vlamingen en Nederlanders wordt gedropt in ..."
         },
         {
           "title": "Expeditie Robinson keert terug met meteen een opvallende twist voor de deelnemers",
@@ -227,18 +420,18 @@
           "description": "In het kort De editie van Expeditie Robinson uit 2026 begint meteen met een harde realitycheck voor de deelnemers. Maleisi&#235; Een selectie van Nederlandse en Vlaamse beroemdheden belandt binnenkort in M ..."
         },
         {
+          "title": "Elodie Gabias waagt zich aan 'Expeditie Robinson': &quot;Thuis lukt het me niet om af te vallen, daar wel&quot;",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/videos/productie/elodie-gabias-waagt-zich-aan-expeditie-robinson-thuis-lukt-het-me-niet-om-af-te-vallen-daar-wel-14802814",
+          "publishedDate": "Thu, 29 Oct 2026 17:01:00 GMT",
+          "description": "“Om me voor te bereiden, vroeg ik een vriendin die bij de scouts zit om me vuur te leren maken, maar ze kwam af met een aansteker. Daar had ik niets aan.” Contentcreator Elodie Gabias (29), tegenwoord ..."
+        },
+        {
           "title": "Camille Vanuxem, de nieuwe Vlaamse reporter bij 'Expeditie Robinson': wie is zij precies?",
           "source": "LINDA.nl",
           "url": "https://www.linda.nl/media/wil-je-weten/camille-vanuxem-vlaamse-reporter-expeditie-robinson/",
           "publishedDate": "Thu, 29 Oct 2026 14:47:00 GMT",
           "description": "Voor het eerst doen aan Expeditie Robinson niet alleen Nederlanders, maar ook Vlamingen mee. Wat blijkt? Naast de Nederlandse presentatoren is er ook een Vlaamse ‘reporter’: Camille Vanuxem (28). Wie ..."
-        },
-        {
-          "title": "Joost Swinkels heeft alle mooie vrouwen van Expeditie Robinson 2026 alvast in zijn macht en dat belooft weinig goeds",
-          "source": "Mannenzaken",
-          "url": "https://mannenzaken.nl/nieuws/joost-swinkels-heeft-alle-mooie-vrouwen-van-expeditie-robinson-2026-alvast-in-zijn-macht-en-dat-belooft-weinig-goeds",
-          "publishedDate": "Thu, 29 Oct 2026 13:00:00 GMT",
-          "description": "Joost Swinkels moet zijn eerste offici&#235;le stappen op Robinson-eiland nog op televisie zetten, maar de Qmusic-dj lijkt buiten de proeven alvast weinig moeite te hebben om aansluiting te vinden. In een."
         },
         {
           "title": "Expeditie Robinson is terug van weggeweest",
@@ -250,55 +443,232 @@
       ]
     },
     {
-      "keyword": "goudklompje",
-      "trafficLabel": "10K+",
+      "keyword": "stroopwafel",
+      "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Australi&#235;r stuit met metaaldetector op goudklomp van 1,2 kilo met een waarde van 100.000 euro",
+          "title": "Stroopwafeloorlog tussen Dirk, Jumbo en Albert Heijn gaat verder: 12 koeken kosten hier 34 cent",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/australier-stuit-met-metaaldetector-op-goudklomp-van-1-2-kilo-met-een-waarde-van-100-000-euro~a339ff3d/",
-          "publishedDate": "Sat, 31 Oct 2026 06:38:00 GMT",
-          "description": "Een Australische goudzoeker heeft de dag van zijn leven gehad. Met een metaaldetector en vond de man een goudklomp van zo’n 1.200 gram. Het stuk edelmetaal is tussen de 150.000 en 160.000 Australische ..."
+          "url": "https://www.ad.nl/binnenland/stroopwafeloorlog-tussen-dirk-jumbo-en-albert-heijn-gaat-verder-12-koeken-kosten-hier-34-cent~a04cab26/",
+          "publishedDate": "Sat, 31 Oct 2026 22:35:00 GMT",
+          "description": "De stroopwafeloorlog tussen supermarkten zorgt voor een ongekend lage prijs in de schappen. Halverwege deze maand kostte een pakje stroopwafels 38 cent. Inmiddels is de lekkernij nog 4 cent goedkoper ..."
         },
         {
-          "title": "Hij wilde net stoppen met zoeken, toen zijn detector begon te piepen: Australische man vindt goudklompje ter waarde van bijna 100.000 euro",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/hij-wilde-net-stoppen-met-zoeken-toen-zijn-detector-begon-te-piepen-australische-man-vindt-goudklompje-ter-waarde-van-bijna-100-000-euro~a339ff3d/",
-          "publishedDate": "Sat, 31 Oct 2026 04:39:00 GMT",
-          "description": "Een Australische goudzoeker heeft de ontdekking van zijn leven gedaan: een goudklomp die zo’n 1.200 gram weegt. Uit eerste tests is gebleken dat ongeveer 940 gram ervan puur goud is. Tegen de huidige ..."
+          "title": "Van Dubai tot New York: Nederlandse stroopwafel verovert de wereld",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/lifestyle/eten-en-drinken/van-dubai-tot-new-york-nederlandse-stroopwafel-verovert-de-wereld/64304465.html",
+          "publishedDate": "Sat, 16 Mar 2024 03:42:00 GMT",
+          "description": "In het AvroTros-programma Ik vertrek kwam afgelopen maand de stroopwafel weer even flink in beeld. Deelnemers Jermain en Lo&#239;s waren vorig jaar naar Dubai vertrokken om een stroopwafelimperium op te ..."
         },
         {
-          "title": "Poetsvrouw (24) moet Waregems koppel bijna 13.000 euro terugbetalen voor gestolen goudklompje: “Ik zat in financi&#235;le problemen”",
-          "source": "HLN",
-          "url": "https://www.hln.be/waregem/poetsvrouw-24-moet-waregems-koppel-bijna-13-000-euro-terugbetalen-voor-gestolen-goudklompje-ik-zat-in-financiele-problemen~a897504e8/",
-          "publishedDate": "Mon, 16 Feb 2026 20:46:00 GMT",
-          "description": "Een vrouw van 24 uit Zulte moet 65 uren werkstraf uitvoeren omdat ze in 2023 een goudklompje stal bij een gezin uit Waregem waar ze over de vloer kwam om te poetsen. De vrouw betwistte de feiten niet, ..."
+          "title": "Is 13 euro voor een stroopwafel betalen in Amsterdam ‘normaal’? ‘Een deel van wat je koopt, is de ervaring’",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/amsterdam/is-13-euro-voor-een-stroopwafel-betalen-in-amsterdam-normaal-een-deel-van-wat-je-koopt-is-de-ervaring~b17ae2f0/",
+          "publishedDate": "Fri, 02 Feb 2024 07:13:00 GMT",
+          "description": "Op de Albert Cuyp tel je zo’n 3 euro neer voor een stroopwafel, terwijl je in het centrum van Amsterdam tot wel 13 euro betaalt. Waar komt dat enorme prijsverschil vandaan? En is dat wel zo gek?"
         },
         {
-          "title": "Jarige Sven vindt goudklompje in zijn verjaardagstaart, ook Caroline uit Eisden heeft prijs",
-          "source": "HBvL",
-          "url": "https://www.hbvl.be/regio/limburg/maasmechelen/jarige-sven-vindt-goudklompje-in-zijn-verjaardagstaart-ook-caroline-uit-eisden-heeft-prijs/49473135.html",
-          "publishedDate": "Sun, 16 Mar 2025 07:01:00 GMT",
-          "description": "MaasmechelenSven Beckers (42) uit Uikhoven beleefde zaterdag de verjaardag van zijn leven. In zijn verjaardagstaart zat een goudklompje van 500 euro verstopt. “Ik geraakte niet door de taart toen ik ..."
+          "title": "Dertien euro voor &#233;&#233;n stroopwafel? Geen probleem voor deze toeristen in de binnenstad van Amsterdam",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/amsterdam/dertien-euro-voor-een-stroopwafel-geen-probleem-voor-deze-toeristen-in-de-binnenstad-van-amsterdam~bc036d0f/",
+          "publishedDate": "Wed, 31 Jan 2024 09:34:00 GMT",
+          "description": "De stroopwafel is ongekend populair in Amsterdam. Bij Van Wonderen Stroopwafels in de Kalverstraat staan toeristen vol verwachting in de rij, na een gouden tip op TikTok. ‘Het ziet er amazing uit.’ ..."
         },
         {
-          "title": "Goudklompje Liam Bronchain verwacht geen walk in the park voor KVDO: “Hamme zal supergemotiveerd zijn”",
-          "source": "Nieuwsblad",
-          "url": "https://www.nieuwsblad.be/regio/west-vlaanderen/middenkust/oostende/goudklompje-liam-bronchain-verwacht-geen-walk-in-the-park-voor-kvdo-hamme-zal-supergemotiveerd-zijn/27425178.html",
-          "publishedDate": "Thu, 03 Oct 2024 00:56:00 GMT",
-          "description": "Liam Bronchain is een goudklompje. Hij beschikt over loopvermogen en inzicht, is continu aanspeelbaar en zet gerichte acties op. Sowieso geniet hij straks interesse van andere clubs. “Geen idee of ik ..."
+          "title": "Alleen stroopwafel en koffie nog gratis op KLM-vluchten: 'Eigen nootjes mee'",
+          "source": "nl.headtopics.com",
+          "url": "https://nl.headtopics.com/news/alleen-stroopwafel-en-koffie-nog-gratis-op-klm-vluchten-89299768",
+          "publishedDate": "Wed, 28 Oct 2026 12:03:00 GMT",
+          "description": "KLM schrapt het gratis broodje kaas op Europese vluchten. Wraps en poke bowls voortaan betaald, koffie en stroopwafels blijven gratis. Lees verder. Wie deze week met KLM heeft gevlogen, heeft het ..."
+        },
+        {
+          "title": "Stroopwafels voor 32 cent bij Jumbo en Dirk: achter deze opvallend lage prijs zit een slimme truc",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/lifestyle/eten-drinken/2026/10/stroopwafels-tegenwoordig-heel-goedkoop-slinkse-motivatie-supermarkten/",
+          "publishedDate": "Tue, 13 Oct 2026 06:12:00 GMT",
+          "description": "Tien stroopwafels voor slechts 32 cent: bij onder meer Jumbo en Dirk is het inmiddels werkelijkheid. Supermarkten verlagen de prijzen om elkaar af te troeven, maar hopen vooral dat klanten daardoor m&#233; ..."
+        },
+        {
+          "title": "Nederlandse stroopwafel valt in de smaak aan de overkant van de oceaan",
+          "source": "RD",
+          "url": "https://www.rd.nl/artikel/nederlandse-stroopwafel-valt-in-de-smaak-aan-de-overkant-van-de-oceaan",
+          "publishedDate": "Thu, 18 Sep 2025 11:47:00 GMT",
+          "description": "Een heerlijke zoete geur hangt rond de stroopwafelfabriek net buiten het stadje Norwich, in de Canadese provincie Ontario. Jacco Schep (45) ontvangt het bezoek, zijn jongere broer Jonathan (30) sluit ..."
+        },
+        {
+          "title": "'Stroopwafel' staat nu in belangrijk Engels woordenboek",
+          "source": "jeugdjournaal",
+          "url": "https://jeugdjournaal.nl/l/2550944",
+          "publishedDate": "Wed, 08 Jan 2025 02:19:00 GMT",
+          "description": "Het Oxford English Dictionary, het belangrijkste Engelse woordenboek, heeft er weer wat nieuwe woorden bij gekregen. En &#233;&#233;n daarvan ken je vast en zeker: het Nederlandse woord 'stroopwafel'! De ..."
+        },
+        {
+          "title": "Stroopwafel in je bier, waarom ook niet",
+          "source": "favorflav",
+          "url": "https://favorflav.com/nl/eat-drink/thirsty-tales/stroopwafel-in-je-bier-waarom-ook-niet/",
+          "publishedDate": "Tue, 13 Jul 2021 10:58:00 GMT",
+          "description": "Maar de Roemenen zijn niet de enigen die wel een stroopwafel lusten, tenminste als hij vloeibaar is en alcohol bevat. Brouwerij Uiltje heeft een biertje met bakken stroopwafel gemaakt, als je het ..."
+        },
+        {
+          "title": "McFlurry Stroopwafel nu te koop in VS, bedenker Robert is apetrots",
+          "source": "rtl",
+          "url": "https://www.rtl.nl/economie/business/artikel/4705691/mcflurry-stroopwafel-robert-de-gruyter-bedenker",
+          "publishedDate": "Thu, 09 May 2019 06:38:00 GMT",
+          "description": "Tien jaar geleden bedacht Robert de Gruyter de McFlurry Stroopwafel van McDonald’s. Nu reist zijn ijs naar de andere kant van de wereld en komt op de menukaart van de 14.000 Amerikaanse vestigingen ..."
         }
       ]
     },
     {
-      "keyword": "liverpool - arsenal",
-      "trafficLabel": "10K+",
-      "articles": []
+      "keyword": "stijn van de bunt",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Jasper Krommenhoek verrast ook op 10 kilometer, olympi&#235;rs lopen ticket mis",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/schaatsen/6415132/jasper-krommenhoek-verrast-ook-op-10-kilometer-olympiers-lopen-ticket-mis.html",
+          "publishedDate": "Sun, 01 Nov 2026 05:56:00 GMT",
+          "description": "Jasper Krommenhoek heeft zondag wederom voor een verrassing gezorgd op het World Cup-kwalificatietoernooi in Thialf. De 22-jarige schaatser won de 10 kilometer in een toptijd. Olympi&#235;rs Stijn van de B ..."
+        },
+        {
+          "title": "Van de Bunt tevreden met zesde tijd 5.000 meter: 'Te vroeg weer gaan trainen na ziekte'",
+          "source": "NOS",
+          "url": "https://nos.nl/video/2637356-van-de-bunt-tevreden-met-zesde-tijd-5-000-meter-te-vroeg-weer-gaan-trainen-na-ziekte",
+          "publishedDate": "Fri, 30 Oct 2026 11:59:00 GMT",
+          "description": "Stijn van de Bunt reageert op de 5.000 meter op het WCKT in Thialf."
+        },
+        {
+          "title": "‘Tikkeltje eigenwijze’ Stijn van de Bunt ging zich langzaam op zijn gemak voelen tussen de ‘schaatsbokito’s’",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/02/05/tikkeltje-eigenwijze-stijn-van-de-bunt-ging-zich-langzaam-op-zijn-gemak-voelen-tussen-de-schaatsbokitos-a4919291",
+          "publishedDate": "Thu, 05 Feb 2026 06:22:00 GMT",
+          "description": "Winterspelen Met een trainingsschema afgeleid van de extreme methode van olympisch kampioen Nils van der Poel bereidde ‘outsider’ Van de Bunt zich voor op de Spelen van Milaan. „Hij kan goed met ..."
+        },
+        {
+          "title": "Rintje Ritsma krijgt keiharde afmelding: 'Hij hoeft mij niet meer op te roepen'",
+          "source": "Mee Met Oranje",
+          "url": "https://www.meemetoranje.nl/schaatsen/nieuws/rintje-ritsma-stijn-van-de-bunt-ploegenachtervolging-knsb-afmelding/",
+          "publishedDate": "Sun, 01 Nov 2026 11:04:00 GMT",
+          "description": "Bondscoach Rintje Ritsma hoeft dit seizoen op de ploegenachtervolging niet meer een beroep te doen op Stijn van de Bunt. De 22-jarige schaatser van Team X&#178;O Badkamers stelt zich tijdens het World Cup ..."
+        },
+        {
+          "title": "Topschaatser Stijn van de Bunt haalt uit naar KNSB: ‘Zij hebben niet naar ons geluisterd’",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/schaatsen/nieuws/topschaatser-stijn-van-de-bunt-haalt-uit-naar-knsb-zij-hebben-niet-naar-ons-geluisterd-2026110113484098992/",
+          "publishedDate": "Sun, 01 Nov 2026 06:48:00 GMT",
+          "description": "Stijn van de Bunt is er niet in geslaagd om een World Cup-ticket te bemachtigen op de 10.000 meter. De schaatser eindigde op een teleurstellende zesde plek. Later op de dag komt hij niet in actie op ..."
+        },
+        {
+          "title": "Stijn van de Bunt: ‘Ik ga de meubelen van de KNSB niet redden’",
+          "source": "schaatsen",
+          "url": "https://www.schaatsen.nl/nieuws/stijn-van-de-bunt-ik-ga-de-meubelen-van-de-knsb-niet-redden/",
+          "publishedDate": "Sat, 31 Oct 2026 17:00:00 GMT",
+          "description": "Meer dan dertien minuten had Stijn van de Bunt nodig voor de tien kilometer. Hij werd daarmee slechts zesde en kan zich gaan voorbereiden op het NK Afstanden van eind januari. Op de ploegenachtervolgi ..."
+        },
+        {
+          "title": "Schaatser Van de Bunt stelt teleur in Heerenveen",
+          "source": "RTV Utrecht",
+          "url": "https://www.rtvutrecht.nl/sport/4111684/schaatser-van-de-bunt-stelt-teleur-in-heerenveen",
+          "publishedDate": "Fri, 30 Oct 2026 14:19:00 GMT",
+          "description": "Stijn van de Bunt heeft een teleurstellende eerste dag van het World Cup Kwalificatietoernooi achter de rug. De schaatser uit Lopik, die vorig seizoen doorbrak, greep naast een ticket voor de 5.000 me ..."
+        },
+        {
+          "title": "Topschaatser Stijn van de Bunt geeft opvallende reactie op mislukte kwalificatie: 'Ik ben tevreden'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/schaatsen/nieuws/topschaatser-stijn-van-de-bunt-geeft-opvallende-reactie-op-mislukte-kwalificatie-ik-ben-tevreden-2026103018555686353/",
+          "publishedDate": "Fri, 30 Oct 2026 13:07:00 GMT",
+          "description": "Zesde werd Stijn van de Bunt bij het World Cup Kwalificatietoernooi op de 5000 meter. Dat betekent geen World Cup-ticket voor hem. Van de olympi&#235;r werd wat meer verwacht, want hij wordt gezien als onz ..."
+        },
+        {
+          "title": "Jillert Anema wil bronzen Jorrit Bergsma in achtervolgingsploeg, Stijn van de Bunt baalt van bondscoach Rintje Ritsma",
+          "source": "AD",
+          "url": "https://www.ad.nl/olympische-spelen/jillert-anema-wil-bronzen-jorrit-bergsma-in-achtervolgingsploeg-stijn-van-de-bunt-baalt-van-bondscoach-rintje-ritsma~a126cb08/",
+          "publishedDate": "Fri, 13 Feb 2026 04:54:00 GMT",
+          "description": "Zaanlander-coach Jillert Anema was dolblij met de bronzen medaille van Jorrit Bergsma op de tien kilometer, maar schakelde ook meteen weer door. „Nu vol inzetten op de team pursuit, m&#233;t Jorrit.” Hij ..."
+        },
+        {
+          "title": "Stijn van de Bunt (21) zette de schaatswereld op zijn kop: waar komt deze schaatser uit Lopik plots vandaan?",
+          "source": "AD",
+          "url": "https://www.ad.nl/lopik/stijn-van-de-bunt-21-zette-de-schaatswereld-op-zijn-kop-waar-komt-deze-schaatser-uit-lopik-plots-vandaan~aef4cbdc/",
+          "publishedDate": "Mon, 29 Dec 2025 22:01:00 GMT",
+          "description": "Stijn van de Bunt (21) zette de schaatswereld op zijn kop: waar komt deze schaatser uit Lopik plots vandaan? Stijn van de Bunt (21) heeft zich ontpopt tot d&#233; sensatie van het OKT. Na winst op de 5 en ..."
+        }
+      ]
     },
     {
-      "keyword": "a2",
-      "trafficLabel": "10K+",
-      "articles": []
+      "keyword": "familiebedrijf",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Al 37 jaar is Gerard (54) trouw aan zijn werkgever, maar dan komt de dochter aan het roer",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/economie/al-37-jaar-is-gerard-54-trouw-aan-zijn-werkgever-maar-dan-komt-de-dochter-aan-het-roer~a3fa05cd/",
+          "publishedDate": "Sun, 01 Nov 2026 01:01:00 GMT",
+          "description": "Al 37 jaar werkt Gerard (54) bij hetzelfde familiebedrijf. Hij legt zijn ziel en zaligheid in het werk en wordt na al die jaren als familie gezien. Totdat de dochter de zaak overneemt. Hij doet zijn v ..."
+        },
+        {
+          "title": "Ook de vierde generatie Febo wil geen diepvries en geen realityshow rondom de familie: ‘Een camera op m’n gezicht om 6 uur ‘s ochtends?’",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/ook-de-vierde-generatie-febo-wil-geen-diepvries-en-geen-realityshow-rondom-de-familie-een-camera-op-m-n-gezicht-om-6-uur-s-ochtends~b1a4b7bf/",
+          "publishedDate": "Fri, 30 Oct 2026 05:04:00 GMT",
+          "description": "Per dag verlaten tienduizenden verse snacks de fabriek van Febo in Amsterdam-Noord. Diepvries? Al 85 jaar niet, en ook de vierde generatie twijfelt daar geen seconde over. Steff (26) en Femke (23) de ..."
+        },
+        {
+          "title": "Familiebedrijf M&#246;ller gaat met zijn tijd mee en repareert nu ‘computers op wielen’",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/economie/familiebedrijf-moller-gaat-met-zijn-tijd-mee-en-repareert-nu-computers-op-wielen~bf3628a5/",
+          "publishedDate": "Sun, 18 Oct 2026 22:00:00 GMT",
+          "description": "Een familiebedrijf productief, innovatief en bij de tijd houden – dat poogt Jolique M&#246;ller (34), CEO van M&#246;ller Autoschade. Onlangs nam ze de leiding van het bedrijf over van haar vader. ‘Automotive, ..."
+        },
+        {
+          "title": "Kempens familiebedrijf 3bouw viert twintigste verjaardag met meer dan 1.000 woningen op de teller",
+          "source": "Made in",
+          "url": "https://www.made-in.be/kempen/kempens-familiebedrijf-3bouw-viert-twintigste-verjaardag-met-meer-dan-1-000-woningen-op-de-teller/",
+          "publishedDate": "Fri, 30 Oct 2026 05:18:00 GMT",
+          "description": "Wat begon als een samenwerking tussen Chris Imants en Paul Wens, groeide uit tot een onderneming met ruim 40 medewerkers."
+        },
+        {
+          "title": "Bijna een derde werknemers werkt bij familiebedrijf",
+          "source": "Taxence",
+          "url": "https://www.taxence.nl/nieuws/bijna-een-derde-werknemers-werkt-bij-familiebedrijf/",
+          "publishedDate": "Wed, 28 Oct 2026 20:21:00 GMT",
+          "description": "Bijna een derde van alle banen in Nederland is te vinden bij een familiebedrijf. Familiebedrijven waren in 2024 goed voor ruim 2,8 miljoen banen, oftewel 31 procent van het totaal. Vooral in de landbo ..."
+        },
+        {
+          "title": "Klimaattuin van familiebedrijf uit Ramskapelle wint Europese tuinprijs in Engeland",
+          "source": "lokaalnieuws",
+          "url": "https://www.lokaalnieuws.online/2026/10/27/knokke-heist-ramskapelle-sven-verbeke-klimaattuin-pro-landscaper-award/",
+          "publishedDate": "Tue, 27 Oct 2026 05:56:00 GMT",
+          "description": "Tuinbedrijf Sven Verbeke &amp; Zonen uit Ramskapelle (Knokke-Heist) won met zijn klimaattuin de Europese voorronde van de Pro Landscaper International Awards."
+        },
+        {
+          "title": "Trends Talk met Anneleen Michiels (UHasselt): ‘Een familiebedrijf mag geen gouden kooi worden’",
+          "source": "Trends",
+          "url": "https://trends.knack.be/ondernemen/trends-talk-met-anneleen-michiels-uhasselt-een-familiebedrijf-mag-geen-gouden-kooi-worden/",
+          "publishedDate": "Mon, 26 Oct 2026 05:14:00 GMT",
+          "description": "Maar liefst 84 procent van de Belgische ondernemingen is een familiebedrijf. Samen zijn ze goed voor zowat 2 miljoen banen, of 40 procent van de ..."
+        },
+        {
+          "title": "Roeselaarse familiebedrijf Phaz viert…150e verjaardag",
+          "source": "Made in",
+          "url": "https://www.made-in.be/west-vlaanderen/roeselaarse-familiebedrijf-phaz-viert-150e-verjaardag/",
+          "publishedDate": "Tue, 20 Oct 2026 17:00:00 GMT",
+          "description": "Van houten rolluiken en een stoommachine tot slimme zonwering. Phaz bestaat 150 jaar. Wat Constant Breemersch in 1876 mee begon, wordt vandaag door Aline en Louis Breemersch als vijfde generatie verde ..."
+        },
+        {
+          "title": "Familiebedrijf bedroefd om vier verwoeste bedrijfswagens door aanslag: 'Doet heel veel pijn'",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2267711/familiebedrijf-bedroefd-om-vier-verwoeste-bedrijfswagens-door-aanslag-doet-heel-veel-pijn",
+          "publishedDate": "Wed, 14 Oct 2026 07:58:00 GMT",
+          "description": "In &#233;&#233;n nacht zijn vier bedrijfswagens van familiebedrijf Erik Fruit in Rotterdam-West in vlammen opgegaan. Op camerabeelden is te zien dat iemand het vuur heeft aangestoken. &quot;Het is heel erg moeilijk ..."
+        },
+        {
+          "title": "Familiebedrijf Stuer-Egghe redt elk jaar honderden levens in Belgi&#235; en is wereldtop in botsabsorbeerders",
+          "source": "Knack",
+          "url": "https://trends.knack.be/ondernemen/familiebedrijf-stuer-egghe-redt-elk-jaar-honderden-levens-in-belgie-en-is-wereldtop-in-botsabsorbeerders/",
+          "publishedDate": "Wed, 02 Oct 2024 08:43:00 GMT",
+          "description": "Het Sint-Niklase familiebedrijf Stuer-Egghe redt elk jaar honderden levens in Belgi&#235;; het is de marktleider in Europa voor botsabsorbeerders. Overal vind je die voertuigen langs wegenwerken op de ..."
+        }
+      ]
     }
   ]
 }
