@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-11-04T00:44:15.917Z",
+  "fetchedAt": "2026-11-04T07:08:13.908Z",
   "trends": [
+    {
+      "keyword": "feyenoord - inter",
+      "trafficLabel": "100K+",
+      "articles": [
+        {
+          "title": "Teruglezen | Reacties na nederlaag Feyenoord tegen Inter",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6415387/teruglezen-reacties-na-nederlaag-feyenoord-tegen-inter.html",
+          "publishedDate": "Tue, 03 Nov 2026 09:15:00 GMT",
+          "description": "Goedenavond, welkom in dit liveblog! Hier houden we je op de hoogte van deze Champions League-avond, met speciale aandacht voor Feyenoord-Internazionale. Veel plezier!"
+        },
+        {
+          "title": "Feyenoord aast tegen Inter op herhaling megastunt van 2002",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/feyenoord-aast-tegen-inter-op-herhaling-megastunt-van-2002",
+          "publishedDate": "Tue, 03 Nov 2026 07:29:00 GMT",
+          "description": "Feyenoord neemt het vanavond in de Champions League op tegen Internazionale. In het duel gaan de Rotterdammers op zoek naar een herhaling van de megastunt in het seizoen 2001/02."
+        }
+      ]
+    },
     {
       "keyword": "verdachte",
       "trafficLabel": "100K+",
@@ -11,6 +31,20 @@
           "url": "https://www.nu.nl/binnenland/6415398/verdachte-dodelijke-schietpartij-in-auto-rotterdam-is-buiten-levensgevaar.html",
           "publishedDate": "Tue, 03 Nov 2026 13:18:00 GMT",
           "description": "De 35-jarige man die maandagavond zwaargewond raakte bij een schietpartij in een auto in Rotterdam is buiten levensgevaar. Duikers van de politie hebben diezelfde avond een vuurwapen gevonden. Bij de ..."
+        },
+        {
+          "title": "OM eist 12 jaar cel voor verdachte van 'vriezermoord' op vader",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2637914-om-eist-12-jaar-cel-voor-verdachte-van-vriezermoord-op-vader",
+          "publishedDate": "Tue, 03 Nov 2026 10:00:00 GMT",
+          "description": "Het OM acht bewezen dat de verdachte het stoffelijk overschot van zijn vader in 200 stukken bewaarde in vrieskisten."
+        },
+        {
+          "title": "Jongeren bedreigd met wapen in Den Dolder: politie brengt huisbezoek aan verdachte",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/zeist/jongeren-bedreigd-met-wapen-in-den-dolder-politie-brengt-huisbezoek-aan-verdachte~a77c0888/",
+          "publishedDate": "Tue, 03 Nov 2026 03:01:00 GMT",
+          "description": "Twee minderjarigen zijn vorige maand in Den Dolder bedreigd met een wapen. De politie heeft de verdachte thuis bezocht."
         },
         {
           "title": "E&#233;n gewonde bij steekincident in Ter Apel, verdachte aangehouden",
@@ -34,18 +68,18 @@
           "description": "De 23-jarige Abdi A., die ervan wordt verdacht dat hij de 29-jarige Hajar uit Amsterdam om het leven heeft gebracht, werd in eerste instantie door de politie als getuige gehoord, omdat twee andere get ..."
         },
         {
-          "title": "Getuige werd verdachte in onderzoek naar dood Hajar na vondst beelden op telefoon",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2637759-getuige-werd-verdachte-in-onderzoek-naar-dood-hajar-na-vondst-beelden-op-telefoon",
-          "publishedDate": "Mon, 02 Nov 2026 06:15:00 GMT",
-          "description": "De raadkamer besloot vandaag dat de verdachte, een man die op zijn zesde vanuit Somali&#235; naar Nederland kwam, 90 dagen langer vast blijft zitten."
+          "title": "Vluchtende inbreker opgepakt in Bergeijk dankzij politiehond, tweede verdachte nog spoorloos",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/brabant/vluchtende-inbreker-opgepakt-in-bergeijk-dankzij-politiehond-tweede-verdachte-nog-spoorloos~a72e3852/",
+          "publishedDate": "Tue, 03 Nov 2026 14:25:00 GMT",
+          "description": "In Bergeijk is in de nacht van maandag op dinsdag een man aangehouden op verdenking van poging tot inbraak. De man was op de vlucht geslagen na het zien van de agenten, maar mede dankzij een politieho ..."
         },
         {
-          "title": "Verdachte van drugslab Rosmalen akkoord met 4 jaar cel en 20.000 euro boete",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/den-bosch/verdachte-van-drugslab-rosmalen-akkoord-met-4-jaar-cel-en-20-000-euro-boete~ae71cceb5/",
-          "publishedDate": "Tue, 03 Nov 2026 09:12:00 GMT",
-          "description": "Vijf jaar na het ontmantelen van een amfetaminelab in Rosmalen is een 39-jarige man hiervoor veroordeeld tot 49 maanden celstraf. Ook moet hij 20.000 euro aan criminele winst afdragen aan de staat. De ..."
+          "title": "Verdachte dodelijke schietpartij Rotterdam buiten levensgevaar",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/algemeen/verdachte-dodelijke-schietpartij-rotterdam-buiten-levensgevaar",
+          "publishedDate": "Tue, 03 Nov 2026 12:17:00 GMT",
+          "description": "De zwaargewonde verdachte van de dodelijke schietpartij in Rotterdam is buiten levensgevaar. Drie inzittenden zijn aangehouden; een man kwam om het leven."
         },
         {
           "title": "Verdachte over dodelijke aanrijding op zebrapad met 83-jarig slachtoffer: 'Dacht dat zij niet zou oversteken'",
@@ -53,20 +87,6 @@
           "url": "https://www.rijnmond.nl/nieuws/2277284/verdachte-over-dodelijke-aanrijding-op-zebrapad-met-83-jarig-slachtoffer-dacht-dat-zij-niet-zou-oversteken",
           "publishedDate": "Tue, 03 Nov 2026 07:32:00 GMT",
           "description": "Een 83-jarige vrouw is net bij de huisarts geweest als zij haar 90-jarige man belt: “Zet maar vast koffie, ik kom er zo aan.” Enkele minuten later wordt zij aangereden op een zebrapad, valt op haar ho ..."
-        },
-        {
-          "title": "Vluchtende inbreker opgepakt in Bergeijk dankzij politiehond, tweede verdachte nog spoorloos",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/brabant/vluchtende-inbreker-opgepakt-in-bergeijk-dankzij-politiehond-tweede-verdachte-nog-spoorloos~a72e3852/",
-          "publishedDate": "Tue, 03 Nov 2026 05:25:00 GMT",
-          "description": "In Bergeijk is in de nacht van maandag op dinsdag een man aangehouden op verdenking van poging tot inbraak. De man was op de vlucht geslagen na het zien van de agenten, maar mede dankzij een politieho ..."
-        },
-        {
-          "title": "Schoten bij woning aan Henkie Soerdjbalistraat: bewoner ziet verdachte wegrennen",
-          "source": "Waterkant.net",
-          "url": "https://www.waterkant.net/suriname/2026/11/03/schoten-bij-woning-aan-henkie-soerdjbalistraat-bewoner-ziet-verdachte-wegrennen/",
-          "publishedDate": "Mon, 02 Nov 2026 16:00:00 GMT",
-          "description": "De politie in Suriname kreeg maandag kort voor middernacht een melding van schoten die waren gelost bij een woning aan de Henkie Soerdjbalistraat. De ..."
         },
         {
           "title": "Verdachte van ombrengen Hajar blijft vastzitten",
@@ -78,36 +98,9 @@
       ]
     },
     {
-      "keyword": "feyenoord - inter",
-      "trafficLabel": "100K+",
-      "articles": [
-        {
-          "title": "Feyenoord-aanvoerder Valente trekt pijnlijke conclusie na verlies tegen Inter",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/luciano-valente-feyenoord-internazionale-barcelona",
-          "publishedDate": "Tue, 03 Nov 2026 15:21:00 GMT",
-          "description": "De 0-3 nederlaag tegen Internazionale kwam bij Feyenoord-aanvoerder Luciano Valente nog harder aan dan de eerdere zeperd tegen FC Barcelona. Dit is waarom."
-        },
-        {
-          "title": "Inter bezorgt Feyenoord hoofdpijn",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/pro/analyse-feyenoord-internazionale-deze-inter-code-kreeg-feyenoord-niet-gekraakt",
-          "publishedDate": "Tue, 03 Nov 2026 13:54:00 GMT",
-          "description": "Feyenoord heeft geen antwoord gevonden op de verdedigende formule van Internazionale: 0-3. Tactische analyse van een wedstrijd waarin Inter de kunst van het verdedigen toont."
-        }
-      ]
-    },
-    {
       "keyword": "barcelona - aston villa",
       "trafficLabel": "20K+",
       "articles": [
-        {
-          "title": "Frenkie de Jong bereikt speciale mijlpaal tijdens Champions League-duel van Bar&#231;a",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/frenkie-de-jong-bereikt-speciale-mijlpaal-tijdens-champions-league-duel-van-bar%C3%A7a/ar-AA2gGLbq",
-          "publishedDate": "Tue, 03 Nov 2026 15:58:00 GMT",
-          "description": "Frenkie de Jong heeft een bijzondere mijlpaal bereikt bij FC Barcelona. De Nederlander speelde tegen Aston Villa zijn driehonderdste wedstrijd voor de Spaanse topclub, die het duel overtuigend met 3-0 ..."
-        },
         {
           "title": "William en George bij voetbalwedstrijd in Barcelona",
           "source": "Nieuws.nl",
@@ -125,7 +118,7 @@
         {
           "title": "PSG haalt uit in Champions League, Barcelona boekt ruime zege bij mijlpaal De Jong",
           "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/psg-haalt-uit-in-champions-league-barcelona-boekt-ruime-zege-bij-mijlpaal-de-jong/ar-AA2gHeJI",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/psg-haalt-uit-in-champions-league-barcelona-boekt-ruime-zege-bij-mijlpaal-de-jong/ar-AA2gHeJI",
           "publishedDate": "Tue, 03 Nov 2026 14:00:11 GMT",
           "description": "Barcelona heeft overtuigend afgerekend met Aston Villa, terwijl Paris Saint-Germain flink uithaalde tegen Villarreal. Bayern M&#252;nchen boekte ondertussen een zakelijke overwinning op Atl&#233;tico Madrid."
         },
@@ -158,6 +151,13 @@
           "description": "Wat is het makkelijk voetballen met twee zulke wereldsterren in je rangen. Lamine Yamal en Raphinha hebben zich opnieuw van goudwaarde getoond voor Barcelona. De ene mocht na 7 minuten al een ..."
         },
         {
+          "title": "Barcelona vs Aston Villa voorspelling, tips en odds | Champions League",
+          "source": "Eurosport",
+          "url": "https://www.eurosport.nl/weddenschappen/voorspellingen/barcelona-vs-aston-villa-voorspelling-tips-en-odds-champions-league-03-11-26/",
+          "publishedDate": "Tue, 03 Nov 2026 13:00:00 GMT",
+          "description": "FC Barcelona ontvangt dinsdag om 21.00 uur in het Spotify Camp Nou Aston Villa, de nummer twee van de competitiefase, en moet in de Champions League vier verdedigers missen."
+        },
+        {
           "title": "Frenkie de Jong krijgt net voor mijlpaal harde boodschap uit Spanje",
           "source": "Voetbalzone",
           "url": "https://www.voetbalzone.nl/nieuws/frenkie-de-jong-krijgt-net-voor-mijlpaal-harde-boodschap-uit-spanje/blt136bd540b5436f40",
@@ -170,82 +170,6 @@
           "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-fc-barcelona-aston-villa/",
           "publishedDate": "Tue, 03 Nov 2026 00:30:00 GMT",
           "description": "In de Champions League speelt FC Barcelona tegen Aston Villa. In de SN TV-gids zie je op welke zender dit duel te zien is."
-        }
-      ]
-    },
-    {
-      "keyword": "voetballer overleden",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Spaanse voetballer Jes&#250;s de Miguel (30) overleden na harde botsing met doelman tegenstander",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/sport/spaanse-voetballer-jesus-de-miguel-30-overleden-na-harde-botsing-met-doelman-tegenstander~bf2ff83e/",
-          "publishedDate": "Tue, 03 Nov 2026 03:12:00 GMT",
-          "description": "De voetballer van de Spaanse club CD Tenerife die maandag hard in botsing kwam met de doelman van de tegenstander, is overleden. Zijn club, uitkomend op het tweede Spaanse niveau, meldde dinsdagochten ..."
-        },
-        {
-          "title": "30-jarige Spaanse voetballer overleden na harde botsing tijdens wedstrijd",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/11/03/30-jarige-spaanse-voetballer-overleden-na-harde-botsing-tijdens-wedstrijd-a4940381",
-          "publishedDate": "Tue, 03 Nov 2026 02:58:00 GMT",
-          "description": "Voetbal De 30-jarige Tenerife-speler Jes&#250;s de Miguel raakte buiten bewustzijn nadat hij in botsing kwam met de doelman van tegenstander FC Andorra. Hij werd gereanimeerd en afgevoerd naar het ..."
-        },
-        {
-          "title": "Voetballer Jes&#250;s de Miguel (30) van Tenerife overleden na kamikazeactie door doelman tegenpartij",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/sport/voetballer-jesus-de-miguel-30-van-tenerife-overleden-na-kamikazeactie-door-doelman-tegenpartij~b619e5f9/",
-          "publishedDate": "Tue, 03 Nov 2026 01:55:00 GMT",
-          "description": "Tenerifespeler Jes&#250;s de Miguel, die maandag zwaargewond raakte tijdens de wedstrijd tegen FC Andorra, is overleden. De 30-jarige voetballer moest op het veld worden gereanimeerd na een kamikazeactie v ..."
-        },
-        {
-          "title": "Tenerife-voetballer De Miguel (30) overleden na harde botsing met keeper",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2637836-tenerife-voetballer-de-miguel-30-overleden-na-harde-botsing-met-keeper",
-          "publishedDate": "Tue, 03 Nov 2026 01:01:00 GMT",
-          "description": "De Miguel ging in blessuretijd van het duel achter een dieptepass aan en zag Jes&#250;s Owono niet naderen. De doelman uit Equatoriaal-Guinea sprong naar de bal en knalde - met zijn knie omhoog - hard ..."
-        },
-        {
-          "title": "Hartverscheurend detail overleden Spaanse voetballer Jesus de Miguel (30): vrouw en dochtertje (1) zagen drama gebeuren",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/buitenlands-voetbal/nieuws/hartverscheurend-detail-overleden-spaanse-voetballer-jesus-de-miguel-30-vrouw-en-dochtertje-1-zagen-drama-gebeuren-2026110321151483003/",
-          "publishedDate": "Tue, 03 Nov 2026 14:41:00 GMT",
-          "description": "Dat melden verschillende kranten, waaronder het Algemeen Dagblad en De Telegraaf. Volgens het AD zat Maria, de partner van de overleden voetballer, met hun pas 1-jarige dochtertje Carla op schoot naar ..."
-        },
-        {
-          "title": "Spaanse voetbal tot vrijdag stilgelegd na tragische dood De Miguel",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/spaanse-voetbal-tot-vrijdag-stilgelegd-na-tragische-dood-de-miguel",
-          "publishedDate": "Tue, 03 Nov 2026 09:03:00 GMT",
-          "description": "De Spaanse voetbalbond heeft alle wedstrijden in het Copa del Rey-toernooi van deze week uitgesteld naar aanleiding van de tragische dood van Tenerife-aanvaller Jes&#250;s de Miguel. De dertigjarige Spanja ..."
-        },
-        {
-          "title": "Spaanse voetballer (30) overleden na harde botsing: Spaanse politie start onderzoek naar doelman",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/buitenlands-voetbal/nieuws/spaanse-voetballer-30-overleden-na-harde-botsing-spaanse-politie-start-onderzoek-naar-doelman-2026110308445309979/",
-          "publishedDate": "Tue, 03 Nov 2026 07:56:00 GMT",
-          "description": "Voetballer Jesus de Miguel is dinsdag overleden aan de gevolgen van een harde botsing met Andorra-keeper Jesus Owono. De 30-jarige werd na het incident op het veld getroffen door een hartstilstand en ..."
-        },
-        {
-          "title": "KIJK. PSG-middenvelder Fabian Ruiz draagt goal op aan overleden landgenoot, pakkende minuut stilte voor aanvang wedstrijden",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/primera-division/kijk-psg-middenvelder-fabian-ruiz-draagt-goal-op-aan-overleden-landgenoot-pakkende-minuut-stilte-voor-aanvang-wedstrijden~a08009fe/",
-          "publishedDate": "Tue, 03 Nov 2026 04:59:00 GMT",
-          "description": "De voetbalwereld is in rouw. Vanochtend werd bekendgemaakt dat &lt;a href=&quot;https://www.hln.be/buitenlands-voetbal/speler-van-tenerife-30-overleden-na-vreselijke-botsing-met-vijandige-keeper~a619e5f9/&quot; ta ..."
-        },
-        {
-          "title": "Spaanse voetballer (30) overleden na spijkerharde botsing met keeper",
-          "source": "rtl",
-          "url": "https://www.rtl.nl/nieuws/sport/artikel/5662632/spaanse-voetballer-overleden-na-horrorbotsing",
-          "publishedDate": "Tue, 03 Nov 2026 01:03:00 GMT",
-          "description": "Het ging gisteravond diep in de blessuretijd mis in het duel tussen CD Tenerife en FC Andorra, in de Segunda Divisi&#243;n, de Spaanse eerste divisie. Het stond op dat moment 2-2. De Miguel ging achter een ..."
-        },
-        {
-          "title": "In botsing gekomen Tenerife-speler De Miguel (30) overleden",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/in-botsing-gekomen-tenerife-speler-de-miguel-30-overleden/ar-AA2gEonI",
-          "publishedDate": "Tue, 03 Nov 2026 00:41:50 GMT",
-          "description": "CD Tenerife heeft dinsdag laten weten dat Jes&#250;s de Miguel is overleden. De gevolgen van een nare botsing in het duel met Andorra FC van maandagavond zijn de aanvaller van de Spaanse club fataal geword ..."
         }
       ]
     },
@@ -326,9 +250,328 @@
       ]
     },
     {
-      "keyword": "cnn",
+      "keyword": "voetballer overleden",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Spaanse voetballer Jes&#250;s de Miguel (30) overleden na harde botsing met doelman tegenstander",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/sport/spaanse-voetballer-jesus-de-miguel-30-overleden-na-harde-botsing-met-doelman-tegenstander~bf2ff83e/",
+          "publishedDate": "Tue, 03 Nov 2026 03:12:00 GMT",
+          "description": "De voetballer van de Spaanse club CD Tenerife die maandag hard in botsing kwam met de doelman van de tegenstander, is overleden. Zijn club, uitkomend op het tweede Spaanse niveau, meldde dinsdagochten ..."
+        },
+        {
+          "title": "30-jarige Spaanse voetballer overleden na harde botsing tijdens wedstrijd",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/11/03/30-jarige-spaanse-voetballer-overleden-na-harde-botsing-tijdens-wedstrijd-a4940381",
+          "publishedDate": "Tue, 03 Nov 2026 02:58:00 GMT",
+          "description": "Voetbal De 30-jarige Tenerife-speler Jes&#250;s de Miguel raakte buiten bewustzijn nadat hij in botsing kwam met de doelman van tegenstander FC Andorra. Hij werd gereanimeerd en afgevoerd naar het ..."
+        },
+        {
+          "title": "Voetballer Jes&#250;s de Miguel (30) van Tenerife overleden na kamikazeactie door doelman tegenpartij",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/sport/voetballer-jesus-de-miguel-30-van-tenerife-overleden-na-kamikazeactie-door-doelman-tegenpartij~b619e5f9/",
+          "publishedDate": "Tue, 03 Nov 2026 01:55:00 GMT",
+          "description": "Tenerifespeler Jes&#250;s de Miguel, die maandag zwaargewond raakte tijdens de wedstrijd tegen FC Andorra, is overleden. De 30-jarige voetballer moest op het veld worden gereanimeerd na een kamikazeactie v ..."
+        },
+        {
+          "title": "Overleden Spaanse voetballer was ex-pupil Dick Schreuder, twee Nederlandse spelers getuige van tragisch ongeval",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/overleden-spaanse-voetballer-was-ex-pupil-dick-schreuder-twee-nederlandse-spelers-getuige-van-tragisch-ongeval~a6f51e0e/",
+          "publishedDate": "Tue, 03 Nov 2026 01:37:00 GMT",
+          "description": "De voetbalwereld is in rouw na de tragische dood van Tenerife-speler Jes&#250;s de Miguel. De 30-jarige Spanjaard kwam tijdens de wedstrijd tegen FC Andorra in botsing met een doelman en overleed later aan ..."
+        },
+        {
+          "title": "Tenerife-voetballer De Miguel (30) overleden na harde botsing met keeper",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2637836-tenerife-voetballer-de-miguel-30-overleden-na-harde-botsing-met-keeper",
+          "publishedDate": "Tue, 03 Nov 2026 01:01:00 GMT",
+          "description": "De Miguel ging in blessuretijd van het duel achter een dieptepass aan en zag Jes&#250;s Owono niet naderen. De doelman uit Equatoriaal-Guinea sprong naar de bal en knalde - met zijn knie omhoog - hard ..."
+        },
+        {
+          "title": "Hartverscheurend detail overleden Spaanse voetballer Jesus de Miguel (30): vrouw en dochtertje (1) zagen drama gebeuren",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/buitenlands-voetbal/nieuws/hartverscheurend-detail-overleden-spaanse-voetballer-jesus-de-miguel-30-vrouw-en-dochtertje-1-zagen-drama-gebeuren-2026110321151483003/",
+          "publishedDate": "Tue, 03 Nov 2026 14:41:00 GMT",
+          "description": "Dat melden verschillende kranten, waaronder het Algemeen Dagblad en De Telegraaf. Volgens het AD zat Maria, de partner van de overleden voetballer, met hun pas 1-jarige dochtertje Carla op schoot naar ..."
+        },
+        {
+          "title": "Spaanse voetbal tot vrijdag stilgelegd na tragische dood De Miguel",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/spaanse-voetbal-tot-vrijdag-stilgelegd-na-tragische-dood-de-miguel",
+          "publishedDate": "Tue, 03 Nov 2026 09:03:00 GMT",
+          "description": "De Spaanse voetbalbond heeft alle wedstrijden in het Copa del Rey-toernooi van deze week uitgesteld naar aanleiding van de tragische dood van Tenerife-aanvaller Jes&#250;s de Miguel. De dertigjarige Spanja ..."
+        },
+        {
+          "title": "Spaanse voetballer (30) overleden na harde botsing: Spaanse politie start onderzoek naar doelman",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/buitenlands-voetbal/nieuws/spaanse-voetballer-30-overleden-na-harde-botsing-spaanse-politie-start-onderzoek-naar-doelman-2026110308445309979/",
+          "publishedDate": "Tue, 03 Nov 2026 07:56:00 GMT",
+          "description": "Voetballer Jesus de Miguel is dinsdag overleden aan de gevolgen van een harde botsing met Andorra-keeper Jesus Owono. De 30-jarige werd na het incident op het veld getroffen door een hartstilstand en ..."
+        },
+        {
+          "title": "Spaanse voetballer (30) overleden na spijkerharde botsing met keeper",
+          "source": "rtl",
+          "url": "https://www.rtl.nl/nieuws/sport/artikel/5662632/spaanse-voetballer-overleden-na-horrorbotsing",
+          "publishedDate": "Tue, 03 Nov 2026 01:03:00 GMT",
+          "description": "Het ging gisteravond diep in de blessuretijd mis in het duel tussen CD Tenerife en FC Andorra, in de Segunda Divisi&#243;n, de Spaanse eerste divisie. Het stond op dat moment 2-2. De Miguel ging achter een ..."
+        },
+        {
+          "title": "In botsing gekomen Tenerife-speler De Miguel (30) overleden",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/in-botsing-gekomen-tenerife-speler-de-miguel-30-overleden/ar-AA2gEonI",
+          "publishedDate": "Tue, 03 Nov 2026 00:41:50 GMT",
+          "description": "CD Tenerife heeft dinsdag laten weten dat Jes&#250;s de Miguel is overleden. De gevolgen van een nare botsing in het duel met Andorra FC van maandagavond zijn de aanvaller van de Spaanse club fataal geword ..."
+        }
+      ]
+    },
+    {
+      "keyword": "jesus owono",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Vakbond vraagt om voetbalvrije week in Spanje, mooie woorden van Raphinha over Jes&#250;s de Miguel",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/vakbond-vraagt-om-voetbalvrije-week-in-spanje-mooie-woorden-van-raphinha-over-jesus-de-miguel~aac71f11/",
+          "publishedDate": "Tue, 03 Nov 2026 06:52:00 GMT",
+          "description": "De voetbalwereld rouwt om de dood van de Spaanse voetballer Jes&#250;s de Miguel. De 30-jarige spits van Tenerife &lt;a href=&quot;https://www.ad.nl/voetbal/tenerife-deelt-tragisch-nieuws-spaanse-voetballer-30-na- ..."
+        },
+        {
+          "title": "Lionel Messi en Cristiano Ronaldo staan stil bij overlijden Spaanse voetballer (30), keeper is 'diep geraakt'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/buitenlands-voetbal/nieuws/lionel-messi-en-cristiano-ronaldo-staan-stil-bij-overlijden-spaanse-voetballer-30-keeper-is-diep-geraakt-2026110309214808007/",
+          "publishedDate": "Tue, 03 Nov 2026 12:36:00 GMT",
+          "description": "De dood van de Spaanse voetballer Jesus de Miguel is hard aangekomen. Niet alleen in Spanje, maar in heel de voetbalwereld kleuren de sportsites zwartwit na het overlijden van de spits van Tenerife, d ..."
+        },
+        {
+          "title": "Jesus Owono verwijdert sociale media na haat rond botsing met De Miguel",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/jesus-owono-verwijdert-sociale-media-na-haat-de-miguel/",
+          "publishedDate": "Tue, 03 Nov 2026 09:52:00 GMT",
+          "description": "De doelman van FC Andorra is zwaar aangeslagen nadat hij na de wedstrijd met zware verwijten werd geconfronteerd."
+        },
+        {
+          "title": "Spaanse politie en justitie starten onderzoek na fatale botsing op het veld",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/jesus-de-miguel-jesus-owono-onderzoek-feiten",
+          "publishedDate": "Tue, 03 Nov 2026 09:11:00 GMT",
+          "description": "Een rode kaart, een gestaakte wedstrijd en een onderzoek door de afdeling levensdelicten: dit zijn alle feiten en juridische vragen rond de fatale botsing."
+        },
+        {
+          "title": "Spaanse voetbal tot vrijdag stilgelegd na tragische dood De Miguel",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/spaanse-voetbal-tot-vrijdag-stilgelegd-na-tragische-dood-de-miguel",
+          "publishedDate": "Tue, 03 Nov 2026 09:03:00 GMT",
+          "description": "De Spaanse voetbalbond heeft alle wedstrijden in het Copa del Rey-toernooi van deze week uitgesteld naar aanleiding van de tragische dood van Tenerife-aanvaller Jes&#250;s de Miguel. De dertigjarige Spanja ..."
+        },
+        {
+          "title": "Kabalt over Owono na fatale botsing: rode kaart leidt niet vanzelf tot rechtszaak",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/kabalt-owono-fatale-botsing-juridische-aansprakelijkheid/",
+          "publishedDate": "Tue, 03 Nov 2026 08:33:00 GMT",
+          "description": "De dood van Tenerife-spits Jesus de Miguel zet de mogelijke aansprakelijkheid van doelman Jesus Owono in een ander juridisch licht."
+        },
+        {
+          "title": "Spaanse voetballer (30) overleden na harde botsing: Spaanse politie start onderzoek naar doelman",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/buitenlands-voetbal/nieuws/spaanse-voetballer-30-overleden-na-harde-botsing-spaanse-politie-start-onderzoek-naar-doelman-2026110308445309979/",
+          "publishedDate": "Tue, 03 Nov 2026 07:56:00 GMT",
+          "description": "Voetballer Jesus de Miguel is dinsdag overleden aan de gevolgen van een harde botsing met Andorra-keeper Jesus Owono. De 30-jarige werd na het incident op het veld getroffen door een hartstilstand en ..."
+        },
+        {
+          "title": "Andorra-keeper uitgemaakt voor 'moordenaar' na fatale botsing",
+          "source": "FC Update",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/jesus-owono-sluit-instagram-jesus-de-miguel-politieonderzoek",
+          "publishedDate": "Tue, 03 Nov 2026 06:44:00 GMT",
+          "description": "Jes&#250;s Owono heeft besloten zijn Instagram-pagina op slot te gooien na de fatale botsing met CD Tenerife-aanvaller Jes&#250;s de Miguel. De 25-jarige doelman van FC Andorra is volledig kapot van het ..."
+        },
+        {
+          "title": "“Huilend en biddend in de kleedkamer”: Andorra-doelman Jes&#250;s Owono ontroostbaar na tragisch overlijden Jes&#250;s de Miguel",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenlands-voetbal/huilend-en-biddend-in-de-kleedkamer-andorra-doelman-jesus-owono-ontroostbaar-na-tragisch-overlijden-jesus-de-miguel~aac240ee/",
+          "publishedDate": "Tue, 03 Nov 2026 06:08:00 GMT",
+          "description": "&lt;a href=&quot;https://www.hln.be/dossier/tenerife-speler-overleden-na-botsing~d92526fb7-4841-42fa-a802-10d4be30080f/&quot; target=&quot;_blank&quot;&gt;Het overlijden van Jes&#250;s de Miguel hakt ook diep in bij tegenstander FC ..."
+        },
+        {
+          "title": "Tenerife-spits Jes&#250;s de Miguel overleden na botsing",
+          "source": "Dagblad Suriname",
+          "url": "https://www.dbsuriname.com/2026/11/03/tenerife-spits-jesus-de-miguel-overleden-na-botsing/",
+          "publishedDate": "Tue, 03 Nov 2026 05:46:00 GMT",
+          "description": "Jes&#250;s de Miguel, aanvaller van Tenerife, is dinsdagochtend op dertigjarige leeftijd overleden. Hij kreeg maandag een hartstilstand na een botsing met Andorra-doelman Jes&#250;s Owono. Hulpverleners behande ..."
+        }
+      ]
+    },
+    {
+      "keyword": "spoedeisende hulp",
       "trafficLabel": "10K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "HMC laat spoedpati&#235;nten nu via QR-code zien wanneer ze aan de beurt zijn",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/den-haag/hmc-laat-spoedpatienten-nu-via-qr-code-zien-wanneer-ze-aan-de-beurt-zijn~aaae1087/",
+          "publishedDate": "Mon, 26 Oct 2026 23:30:00 GMT",
+          "description": "Ziekenhuis HMC heeft sinds deze maand voor pati&#235;nten op de spoedeisende hulp een nieuwe manier om te zien wanneer ze aan de beurt zijn. Door een QR-code te scannen zien ze wat hen te wachten staat."
+        },
+        {
+          "title": "Drukte op de spoedeisende hulp in Apeldoorn, ondanks vuurwerkverbod: ‘Ik hoop dat het morgen regent’",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/01/01/drukte-op-de-spoedeisende-hulp-in-apeldoorn-ondanks-vuurwerkverbod-ik-hoop-dat-het-morgen-regent-a4916582",
+          "publishedDate": "Thu, 01 Jan 2026 09:21:00 GMT",
+          "description": "Spoedeisende hulp De spoedeisende hulp van Gelre ziekenhuizen in Apeldoorn had een drukke oudejaarsnacht met pati&#235;nten met vuurwerkletsel, longklachten of een val na drugsgebruik. Een lokaal ..."
+        },
+        {
+          "title": "Spoedeisende hulp VUmc vanaf volgende week ’s nachts dicht: te weinig personeel",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/amsterdam/spoedeisende-hulp-vumc-vanaf-volgende-week-s-nachts-dicht-te-weinig-personeel~b78d6ad9/",
+          "publishedDate": "Mon, 17 Jul 2023 07:06:00 GMT",
+          "description": "De spoedeisende hulp van het VUmc gaat vanaf volgende week ’s nachts dicht, door een gebrek aan personeel. Uiterlijk in mei 2024 verdwijnt de post helemaal. Vanaf 24 juli kunnen mensen met een ..."
+        },
+        {
+          "title": "LUMC sluit Spoedeisende Hulp woensdag tijdelijk vanwege rampoefening",
+          "source": "Skipr",
+          "url": "https://www.skipr.nl/nieuws/lumc-sluit-spoedeisende-hulp-woensdag-tijdelijk-vanwege-rampoefening/",
+          "publishedDate": "Tue, 03 Nov 2026 08:29:00 GMT",
+          "description": "Woensdagochtend 4 november houdt het LUMC een crisisoefening. De Spoedeisende Hulp is daarom van 8.30 uur tot 11.30 uur deels gesloten."
+        },
+        {
+          "title": "Spoedeisende Hulp LUMC in Leiden woensdagochtend deels dicht door rampoefening",
+          "source": "AD",
+          "url": "https://www.ad.nl/leiden/spoedeisende-hulp-lumc-in-leiden-woensdagochtend-deels-dicht-door-rampoefening~a3015bfb/",
+          "publishedDate": "Mon, 02 Nov 2026 21:15:00 GMT",
+          "description": "De Spoedeisende Hulp blijft wel beschikbaar voor pati&#235;nten met specifieke acute of ernstige aandoeningen. Het gaat onder meer om complicaties rond zwangerschap en geboorte, ernstige hartproblemen, ..."
+        },
+        {
+          "title": "Ouderenmishandeling blijft vaak verborgen, maar nieuwe tool kan het verschil maken",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/nijmegen/ouderenmishandeling-blijft-vaak-verborgen-maar-nieuwe-tool-kan-het-verschil-maken~ac81aa55/",
+          "publishedDate": "Sun, 25 Oct 2026 21:11:00 GMT",
+          "description": "Een oudere die op de spoedeisende hulp belandt met letsel, is niet altijd alleen slachtoffer van een ongeluk. Achter een ziekenhuisbezoek kan ook ouderenmishandeling schuilgaan. Omdat de signalen daar ..."
+        },
+        {
+          "title": "Meer jongeren onder zestien jaar door vuurwerk op spoedeisende hulp: ’Impact van lokaal verbod is beperkt’",
+          "source": "telegraaf.nl",
+          "url": "https://www.telegraaf.nl/binnenland/meer-jongeren-onder-zestien-jaar-door-vuurwerk-op-spoedeisende-hulp-impact-van-lokaal-verbod-is-beperkt/68025721.html",
+          "publishedDate": "Mon, 06 Jan 2025 10:00:00 GMT",
+          "description": "Afgelopen jaarwisseling zijn 1162 vuurwerkslachtoffers op de spoedeisende hulp (SEH) of bij een huisartsenspoedpost geholpen. Dat waren er tijdens oud en nieuw 2023-2024 nog 1212. „De getallen zijn ..."
+        },
+        {
+          "title": "SEH-artsen vragen ﻿bij politici om heldere visie ﻿spoedeisende hulp",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/nieuws/binnenland/3db3ee7b-add3-4a19-977b-0838fde324c7/seh-artsen-vragen-bij-politici-om-heldere-visie-spoedeisende-hulp",
+          "publishedDate": "Fri, 10 Nov 2023 09:00:00 GMT",
+          "description": "Verschillende spoedafdelingen in Nederland worden gesloten, tot ongenoegen van spoedeisende hulp artsen (SEH-artsen). Daarom doen ze een dringende oproep aan politieke partijen om duidelijk te zijn ..."
+        },
+        {
+          "title": "Groot onderzoek op spoedeisende hulp: welke pati&#235;nten kunnen met zorg op afstand naar huis?",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/gezond/groot-onderzoek-op-spoedeisende-hulp-welke-patienten-kunnen-met-zorg-op-afstand-naar-huis~a90d27e3/",
+          "publishedDate": "Thu, 02 Feb 2023 06:37:00 GMT",
+          "description": "Tientallen ziekenhuizen onderzoeken vandaag of pati&#235;nten die op de spoedeisende hulp binnenkomen met zorg op afstand meteen weer naar huis kunnen. Ze willen weten wat nodig is om een ziekenhuisopname ..."
+        },
+        {
+          "title": "Spoedeisende hulp moet vaker dicht als gevolg van griepgolf",
+          "source": "BNR",
+          "url": "https://www.bnr.nl/nieuws/gezondheid/10500297/spoedeisende-hulp-moet-vaker-dicht-als-gevolg-van-griepgolf",
+          "publishedDate": "Fri, 06 Jan 2023 08:57:00 GMT",
+          "description": "Spoedeisende hulpposten van ziekenhuizen moeten de laatste weken vaker de deuren sluiten dan gewoonlijk, als gevolg van de griepepidemie in Nederland. De doorstroom van pati&#235;nten vanuit de ..."
+        }
+      ]
+    },
+    {
+      "keyword": "democratic party",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Democratic Party wins Senate, House in historic 20-year first",
+          "source": "The Chosun Ilbo on MSN",
+          "url": "https://www.msn.com/en-xl/news/other/democratic-party-wins-senate-house-in-historic-20-year-first/ar-AA2gHyEY",
+          "publishedDate": "Tue, 03 Nov 2026 22:39:42 GMT",
+          "description": "Earlier, the election specialist site Decision Desk HQ projected a 100% likelihood of the Democratic Party reclaiming the House majority for the first time in four years. CNN also officially predicted ..."
+        },
+        {
+          "title": "Democratic Party gains US House majority in 2026 midterm elections",
+          "source": "Al Jazeera on MSN",
+          "url": "https://www.msn.com/en-us/news/other/democratic-party-gains-us-house-majority-in-2026-midterm-elections/ar-AA2gI8QR",
+          "publishedDate": "Tue, 03 Nov 2026 22:34:46 GMT",
+          "description": "All 435 seats in the lower chamber of Congress were on the ballot in Tuesday’s midterm race."
+        },
+        {
+          "title": "Democratic Party flips US Senate in 2026 midterm elections",
+          "source": "Al Jazeera on MSN",
+          "url": "https://www.msn.com/en-us/news/other/democratic-party-flips-us-senate-in-2026-midterm-elections/ar-AA2gI0D8",
+          "publishedDate": "Tue, 03 Nov 2026 20:37:05 GMT",
+          "description": "The outcome is widely seen as a rebuke to Trump’s Republican Party which took control of the upper chamber in 2024 race."
+        },
+        {
+          "title": "Whoopi Goldberg Claims She Was ‘Kicked Out’ of the Democratic Party ’22 Years Ago’",
+          "source": "AOL",
+          "url": "https://www.aol.com/articles/whoopi-goldberg-claims-she-kicked-162140000.html",
+          "publishedDate": "Tue, 03 Nov 2026 13:25:00 GMT",
+          "description": "Whoopi Goldberg used Election Day on The View to drop a rather surprising piece of personal history, as she alleged she was ousted from the Democratic Party more than 20 years ago. The claim came up ..."
+        },
+        {
+          "title": "The Democratic Party’s Masculinity Crisis",
+          "source": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/31/opinion/democrats-republicans-toxic-masculinity.html",
+          "publishedDate": "Sat, 31 Oct 2026 04:00:00 GMT",
+          "description": "Mr. Mariani is a journalist based in the Washington, D.C., area, and the author of “What Doesn’t Kill Us Makes Us.” See more of our coverage in your search results.Encuentra m&#225;s de nuestra cobertura ..."
+        },
+        {
+          "title": "How our ‘new’ Democratic Party is really a blast from the Jacobin past",
+          "source": "New York Post",
+          "url": "https://nypost.com/2026/05/11/opinion/how-our-new-democratic-party-is-really-a-blast-from-the-jacobin-past/",
+          "publishedDate": "Mon, 11 May 2026 04:00:00 GMT",
+          "description": "Mayor Zohran Mamdani and other &quot;Democrats&quot; of today are closer to the Jacobin Party of the French Revolution, writes The Post's Victor Davis Hanson. William Farrington for NY Post For the past century ..."
+        },
+        {
+          "title": "Democrats Regain Advantage in Party Affiliation",
+          "source": "Gallup",
+          "url": "https://news.gallup.com/poll/692978/democrats-regain-advantage-party-affiliation.aspx",
+          "publishedDate": "Wed, 30 Jul 2025 17:00:00 GMT",
+          "description": "President Donald Trump's job approval rating has fallen to 37%, the lowest of his second term as a result of a decrease among independents. A 45% plurality of Democrats say they would like their party ..."
+        },
+        {
+          "title": "The Democratic Party Is Literally Dying",
+          "source": "The Nation",
+          "url": "https://www.thenation.com/article/politics/democratic-party-connolly-gerontocracy/",
+          "publishedDate": "Fri, 23 May 2025 07:45:00 GMT",
+          "description": "The dead hand of gerontocracy is also a symptom of ideological malaise. In theory, the Democratic Party is a political organization aimed at gaining power and implementing an agenda. In practice, the ..."
+        },
+        {
+          "title": "How Four Democrats Who Saved the Party Before Would Do It Again",
+          "source": "nytimes.com",
+          "url": "https://www.nytimes.com/2025/04/24/opinion/democratic-party-future.html",
+          "publishedDate": "Thu, 24 Apr 2025 02:01:00 GMT",
+          "description": "Mr. From is the founder of the Democratic Leadership Council, a centrist organization. Mr. Galston and Ms. Kamarck are senior fellows at the Brookings Institution and were policy advisers to President ..."
+        },
+        {
+          "title": "Understanding Shifts in Democratic Party Ideology",
+          "source": "Gallup",
+          "url": "https://news.gallup.com/poll/246806/understanding-shifts-democratic-party-ideology.aspx",
+          "publishedDate": "Mon, 18 Feb 2019 16:00:00 GMT",
+          "description": "White Democrats becoming liberal at faster rate than other Democrats Rise in education levels a factor in pushing party to the left Wide conservative-liberal gaps persist on certain values issues ..."
+        }
+      ]
+    },
+    {
+      "keyword": "trump",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Trump steekt hand uit na verlies Republikeinen, maar dreigt ook meteen met veto's",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2637974-trump-steekt-hand-uit-na-verlies-republikeinen-maar-dreigt-ook-meteen-met-veto-s",
+          "publishedDate": "Tue, 03 Nov 2026 23:05:00 GMT",
+          "description": "In een eerste reactie op de slechte resultaten voor zijn Republikeinse partij zei president Trump dat hij hoopt te kunnen samenwerken met Democraten in het Huis van Afgevaardigden en de Senaat. &quot;Ik denk dat ze wel met me willen samenwerken&quot;, zei hij tegen omroep CBS. &quot;Anders ga ik gewoon alles veto&#235;n en dat willen ze niet.&quot;"
+        },
+        {
+          "title": "Live Midterms 2026 | Opkomst tot nu toe bijzonder hoog, president Trump volgt verkiezingen vanaf tv",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/nieuws/live-midterms-2026-opkomst-tot-nu-toe-bijzonder-hoog-president-trump-volgt-verkiezingen-vanaf-tv~b6a0f0b2/",
+          "publishedDate": "Tue, 03 Nov 2026 02:15:00 GMT",
+          "description": "Amerikanen stemmen dinsdag voor de midterms, die de machtsverhoudingen in het Congres flink kunnen veranderen. Er kan worden gestemd voor het Huis van Afgevaardigden, de Senaat, gouverneurs en lokale"
+        }
+      ]
     },
     {
       "keyword": "videoland",
@@ -347,6 +590,13 @@
           "url": "https://nos.nl/artikel/2635917-formule-1-en-darts-mogen-definitief-van-viaplay-naar-videoland",
           "publishedDate": "Tue, 20 Oct 2026 03:00:00 GMT",
           "description": "Videoland mag alle sportlicenties en abonnees van Viaplay Nederland overnemen. Toezichthouder Autoriteit Consument &amp; Markt (ACM) heeft de overname vanmorgen goedgekeurd. Daarmee zijn sporten als Formu ..."
+        },
+        {
+          "title": "Videoland mag Viaplay overnemen na goedkeuring ACM",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6413742/videoland-mag-viaplay-overnemen-na-goedkeuring-acm.html",
+          "publishedDate": "Tue, 20 Oct 2026 02:23:00 GMT",
+          "description": "Videoland, onderdeel van DPG Media, mag Viaplay overnemen. Mediawaakhond ACM heeft daarvoor toestemming gegeven."
         },
         {
           "title": "Videoland gaat op de schop: dit merk jij daarvan in 2027",
@@ -368,13 +618,6 @@
           "url": "https://www.msn.com/nl-nl/sport/voetbal/viaplay-nederland-officieel-overgenomen-door-videoland/ar-AA2gqB9Z",
           "publishedDate": "Fri, 30 Oct 2026 10:55:00 GMT",
           "description": "De Nederlandse activiteiten van Viaplay zijn officieel onderdeel van Videoland, dat onderdeel is van DPG Media. Dat nieuws was al even bekend, maar werd vrijdag officieel bevestigd."
-        },
-        {
-          "title": "Videoland krijgt volgend jaar losse abonnementen voor sport na Viaplay-overname",
-          "source": "Tweakers",
-          "url": "https://tweakers.net/nieuws/253976/videoland-krijgt-volgend-jaar-losse-abonnementen-voor-sport-na-viaplay-overname.html",
-          "publishedDate": "Fri, 30 Oct 2026 08:23:00 GMT",
-          "description": "Videoland krijgt in de toekomst een apart sportabonnement. Eigenaar DPG Media heeft de overname van Viaplay definitief afgerond en schrijft aan abonnees dat sport 'een afzonderlijk aanbod naast de bes ..."
         },
         {
           "title": "Videoland hakt knoop door: F1 niet standaard in abonnement",
@@ -403,234 +646,6 @@
           "url": "https://www.dartfreakz.nl/pdc2/acm-geeft-groen-licht-voor-overname-viaplay-dit-betekent-het-voor-de-pdc-darts-op-videoland",
           "publishedDate": "Wed, 21 Oct 2026 06:30:00 GMT",
           "description": "De weg lijkt definitief vrij voor PDC-darts op Videoland. De Autoriteit Consument &amp; Markt (ACM) heeft toestemming gegeven voor de overname van Viaplay Nederland door Videoland. Daarmee komen ook de Ne ..."
-        }
-      ]
-    },
-    {
-      "keyword": "jesus owono",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Vakbond vraagt om voetbalvrije week in Spanje, mooie woorden van Raphinha over Jes&#250;s de Miguel",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/vakbond-vraagt-om-voetbalvrije-week-in-spanje-mooie-woorden-van-raphinha-over-jesus-de-miguel~aac71f11/",
-          "publishedDate": "Tue, 03 Nov 2026 06:52:00 GMT",
-          "description": "De voetbalwereld rouwt om de dood van de Spaanse voetballer Jes&#250;s de Miguel. De 30-jarige spits van Tenerife &lt;a href=&quot;https://www.ad.nl/voetbal/tenerife-deelt-tragisch-nieuws-spaanse-voetballer-30-na- ..."
-        },
-        {
-          "title": "Spaanse voetbalbond schort voetbal tot vrijdag op na overlijden Jes&#250;s de Miguel",
-          "source": "voetbalfocus",
-          "url": "https://voetbalfocus.be/spaanse-voetbalbond-schort-voetbal-op-na-overlijden-jesus-de-miguel/",
-          "publishedDate": "Tue, 03 Nov 2026 14:12:00 GMT",
-          "description": "De dood van de Tenerife-aanvaller na een botsing met Jes&#250;s Owono treft ook de Copa del Rey van woensdag en donderdag."
-        },
-        {
-          "title": "Lionel Messi en Cristiano Ronaldo staan stil bij overlijden Spaanse voetballer (30), keeper is 'diep geraakt'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/buitenlands-voetbal/nieuws/lionel-messi-en-cristiano-ronaldo-staan-stil-bij-overlijden-spaanse-voetballer-30-keeper-is-diep-geraakt-2026110309214808007/",
-          "publishedDate": "Tue, 03 Nov 2026 12:36:00 GMT",
-          "description": "De dood van de Spaanse voetballer Jesus de Miguel is hard aangekomen. Niet alleen in Spanje, maar in heel de voetbalwereld kleuren de sportsites zwartwit na het overlijden van de spits van Tenerife, d ..."
-        },
-        {
-          "title": "Spaanse politie en justitie starten onderzoek na fatale botsing op het veld",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/jesus-de-miguel-jesus-owono-onderzoek-feiten",
-          "publishedDate": "Tue, 03 Nov 2026 09:11:00 GMT",
-          "description": "Een rode kaart, een gestaakte wedstrijd en een onderzoek door de afdeling levensdelicten: dit zijn alle feiten en juridische vragen rond de fatale botsing."
-        },
-        {
-          "title": "Spaanse voetbal tot vrijdag stilgelegd na tragische dood De Miguel",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/spaanse-voetbal-tot-vrijdag-stilgelegd-na-tragische-dood-de-miguel",
-          "publishedDate": "Tue, 03 Nov 2026 09:03:00 GMT",
-          "description": "De Spaanse voetbalbond heeft alle wedstrijden in het Copa del Rey-toernooi van deze week uitgesteld naar aanleiding van de tragische dood van Tenerife-aanvaller Jes&#250;s de Miguel. De dertigjarige Spanja ..."
-        },
-        {
-          "title": "Spaanse voetballer (30) overleden na harde botsing: Spaanse politie start onderzoek naar doelman",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/buitenlands-voetbal/nieuws/spaanse-voetballer-30-overleden-na-harde-botsing-spaanse-politie-start-onderzoek-naar-doelman-2026110308445309979/",
-          "publishedDate": "Tue, 03 Nov 2026 07:56:00 GMT",
-          "description": "Voetballer Jesus de Miguel is dinsdag overleden aan de gevolgen van een harde botsing met Andorra-keeper Jesus Owono. De 30-jarige werd na het incident op het veld getroffen door een hartstilstand en ..."
-        },
-        {
-          "title": "Ging de doelman in de fout en riskeert hij juridische vervolging? 4 vragen en antwoorden na de dood van Jesus de Miguel",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/2026/11/03/ging-de-doelman-in-de-fout-en-riskeert-hij-juridische-vervolging-4-vragen-en-antwoorden-na-de-dood-van-jesus-de-miguel~1793712205408/",
-          "publishedDate": "Tue, 03 Nov 2026 07:49:00 GMT",
-          "description": "&quot;Bij de burgerlijke rechtbank gaat men na: is er een fout gebeurd, is er schade, en is er een oorzakelijk verband tussen beide. Strafrechtelijk gaat men na of er slagen en verwondingen met de dood tot ..."
-        },
-        {
-          "title": "Spaanse politie onderzoekt fatale botsing na overlijden Jes&#250;s de Miguel (30)",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/spaanse-politie-onderzoekt-fatale-botsing-na-overlijden-jes%C3%BAs-de-miguel-30/ar-AA2gG6Ir",
-          "publishedDate": "Tue, 03 Nov 2026 07:46:24 GMT",
-          "description": "De Spaanse politie is een onderzoek gestart naar de dood van Jes&#250;s de Miguel. De dertigjarige aanvaller van CD Tenerife overleed dinsdag aan de gevolgen van een harde botsing met FC Andorra-doelman Je ..."
-        },
-        {
-          "title": "Andorra-keeper uitgemaakt voor 'moordenaar' na fatale botsing",
-          "source": "FC Update",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/jesus-owono-sluit-instagram-jesus-de-miguel-politieonderzoek",
-          "publishedDate": "Tue, 03 Nov 2026 06:44:00 GMT",
-          "description": "Jes&#250;s Owono heeft besloten zijn Instagram-pagina op slot te gooien na de fatale botsing met CD Tenerife-aanvaller Jes&#250;s de Miguel. De 25-jarige doelman van FC Andorra is volledig kapot van het ..."
-        },
-        {
-          "title": "“Huilend en biddend in de kleedkamer”: Andorra-doelman Jes&#250;s Owono ontroostbaar na tragisch overlijden Jes&#250;s de Miguel",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenlands-voetbal/huilend-en-biddend-in-de-kleedkamer-andorra-doelman-jesus-owono-ontroostbaar-na-tragisch-overlijden-jesus-de-miguel~aac240ee/",
-          "publishedDate": "Tue, 03 Nov 2026 06:08:00 GMT",
-          "description": "&lt;a href=&quot;https://www.hln.be/dossier/tenerife-speler-overleden-na-botsing~d92526fb7-4841-42fa-a802-10d4be30080f/&quot; target=&quot;_blank&quot;&gt;Het overlijden van Jes&#250;s de Miguel hakt ook diep in bij tegenstander FC ..."
-        }
-      ]
-    },
-    {
-      "keyword": "bommeldingen vliegtuigen",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Meerdere Europese vluchten maken tussentijdse landingen na bommeldingen, geen bommen gevonden",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/11/03/meerdere-europese-vluchten-maken-tussentijdse-landingen-na-bommeldingen-geen-bommen-gevonden-a4940425",
-          "publishedDate": "Tue, 03 Nov 2026 08:55:00 GMT",
-          "description": "Bommeldingen: In totaal zes Europese passagiersvluchten kregen dinsdag te maken met bommeldingen. Sommige vluchten moesten onder militaire escorte worden omgeleid. Er werden geen explosieven gevonden."
-        },
-        {
-          "title": "Bommeldingen bij zeven vluchten in Europa, geen explosieven aangetroffen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2637895-bommeldingen-bij-zeven-vluchten-in-europa-geen-explosieven-aangetroffen",
-          "publishedDate": "Tue, 03 Nov 2026 08:11:00 GMT",
-          "description": "Bij zeker zeven passagiersvluchten in Europa zijn vandaag bommeldingen gedaan. Toestellen in Polen, Spanje, Bulgarije en Itali&#235; werden daarop onderzocht. Voor zover bekend zijn daarbij geen ..."
-        },
-        {
-          "title": "Bommeldingen aan boord van twee vliegtuigen in Pools luchtruim",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/buitenland/6415329/bommeldingen-aan-boord-van-twee-vliegtuigen-in-pools-luchtruim.html",
-          "publishedDate": "Tue, 03 Nov 2026 04:49:00 GMT",
-          "description": "De luchthaven Warschau-Modlin is gesloten geweest na een onvoorziene landing van een omgeleid vliegtuig. Er was een bommelding gemaakt aan boord van het vliegtuig uit Londen. Op Warschau-Chopin, de be ..."
-        },
-        {
-          "title": "Reeks bommeldingen op Europese vluchten, geen explosieven gevonden",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/buitenland/artikel/5662654/poolse-luchthaven-gesloten-na-bommelding-op-vlucht-uit-londen",
-          "publishedDate": "Tue, 03 Nov 2026 02:52:00 GMT",
-          "description": "De luchthaven Warschau-Modlin is gesloten na de landing van een omgeleid vliegtuig. Er was een bommelding aan boord van het vliegtuig dat uit Londen kwam en eigenlijk onderweg was naar Warschau-Chopin ..."
-        },
-        {
-          "title": "Zeven Europese vliegtuigen doorzocht of omgeleid na valse bommeldingen",
-          "source": "nu",
-          "url": "https://nu.cw/2026/11/03/zeven-europese-vliegtuigen-doorzocht-of-omgeleid-na-valse-bommeldingen/",
-          "publishedDate": "Tue, 03 Nov 2026 15:28:00 GMT",
-          "description": "Zeven vliegtuigen op verschillende Europese vliegvelden zijn dinsdag doorzocht na valse bommeldingen. Dat gebeurde in Rome, Warschau, Murcia en Sofia. Het is niet bekend wie de bommeldingen heeft geda ..."
-        },
-        {
-          "title": "Vliegtuigen in Europa doorzocht na bommeldingen",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/buitenland/vliegtuigen-in-europa-doorzocht-na-bommeldingen",
-          "publishedDate": "Tue, 03 Nov 2026 10:29:00 GMT",
-          "description": "Na bommeldingen zijn zeven vliegtuigen op Europese luchthavens doorzocht. Er werden geen explosieven gevonden. Lees waar de toestellen zijn gecontroleerd."
-        },
-        {
-          "title": "Bommeldingen: zeven vluchten in Europa, geen explosieven",
-          "source": "ThePostOnline",
-          "url": "https://tpo.nl/2026/11/03/bommeldingen-vluchten-modlin-sofia-fiumicino/",
-          "publishedDate": "Tue, 03 Nov 2026 08:30:00 GMT",
-          "description": "Bommeldingen bij zeker zeven vluchten in Polen, Spanje, Itali&#235; en Bulgarije: toestellen landden uit voorzorg of werden doorzocht. Geen explosieven gevonden."
-        },
-        {
-          "title": "Zes Europese vluchten onderzocht na bommeldingen",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/nieuws-politiek/10614888/zes-europese-vluchten-onderzocht-na-bommeldingen",
-          "publishedDate": "Tue, 03 Nov 2026 06:28:00 GMT",
-          "description": "Vandaag zijn er in totaal op zes verschillende vluchten binnen Europa bommeldingen gedaan. De nationale autoriteiten zijn nog bezig met het onderzoek, en ook of er sprake is van een verband tussen de ..."
-        },
-        {
-          "title": "Vliegtuig uit Londen maakt noodlanding in Polen na bommelding, 181 mensen ge&#235;vacueerd",
-          "source": "VRT on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/vliegtuig-uit-londen-maakt-noodlanding-in-polen-na-bommelding-181-mensen-ge%C3%ABvacueerd/ar-AA2gEIXT",
-          "publishedDate": "Tue, 03 Nov 2026 02:16:27 GMT",
-          "description": "Een passagiersvliegtuig afkomstig uit Londen heeft een noodlanding gemaakt op de luchthaven van Warschau-Modlin na een melding van explosieven aan boord. 181 mensen zijn ge&#235;vacueerd uit het vliegtuig."
-        },
-        {
-          "title": "Zeven vliegtuigen door heel Europa doorzocht na bommeldingen, nu ook melding op cruiseschip",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/buitenland/zeven-vliegtuigen-door-heel-europa-doorzocht-na-bommeldingen-nu-ook-melding-op-cruiseschip~afe6c108/",
-          "publishedDate": "Tue, 03 Nov 2026 02:00:00 GMT",
-          "description": "Zeven vliegtuigen zijn dinsdag op Europese vliegvelden doorzocht vanwege bommeldingen. In Rome, Warschau, Murcia en Sofia werden vliegtuigen na landingen gecontroleerd op explosieven, maar deze werden ..."
-        }
-      ]
-    },
-    {
-      "keyword": "jesús de miguel",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Vakbond vraagt om voetbalvrije week in Spanje, mooie woorden van Raphinha over Jes&#250;s de Miguel",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/vakbond-vraagt-om-voetbalvrije-week-in-spanje-mooie-woorden-van-raphinha-over-jesus-de-miguel~aac71f11/",
-          "publishedDate": "Tue, 03 Nov 2026 06:52:00 GMT",
-          "description": "De voetbalwereld rouwt om de dood van de Spaanse voetballer Jes&#250;s de Miguel. De 30-jarige spits van Tenerife &lt;a href=&quot;https://www.ad.nl/voetbal/tenerife-deelt-tragisch-nieuws-spaanse-voetballer-30-na- ..."
-        },
-        {
-          "title": "Doelman Owono 'diep geraakt' door dood De Miguel na hun botsing, politie start onderzoek",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2637865-doelman-owono-diep-geraakt-door-dood-de-miguel-na-hun-botsing-politie-start-onderzoek",
-          "publishedDate": "Tue, 03 Nov 2026 04:24:00 GMT",
-          "description": "Jes&#250;s Owono, de doelman van FC Andorra met wie Jes&#250;s de Miguel botste, wilde in de catacomben van het stadion al zijn excuses maken."
-        },
-        {
-          "title": "Spaanse bond stelt Copa del Rey-wedstrijden uit na tragische dood De Miguel",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/spaanse-bond-stelt-copa-del-rey-wedstrijden-uit-na-tragische-dood-de-miguel/ar-AA2gGHfH",
-          "publishedDate": "Tue, 03 Nov 2026 11:57:07 GMT",
-          "description": "De Spaanse voetbalbond heeft naar aanleiding van de tragische dood van Tenerife-aanvaller Jes&#250;s de Miguel alle wedstrijden tot en met vrijdag uitgesteld. De dertigjarige Spanjaard overleed dinsdagocht ..."
-        },
-        {
-          "title": "Minuut stilte bij Champions League-duels voor overleden Jes&#250;s de Miguel",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/voetbal/minuut-stilte-bij-champions-league-duels-voor-overleden-jesus-de-miguel~a32e0db7/",
-          "publishedDate": "Tue, 03 Nov 2026 10:45:00 GMT",
-          "description": "Bij de eerste Champions League-duels van dinsdagavond is een minuut stilte gehouden voor Jes&#250;s de Miguel. De voetballer van CD Tenerife is overleden na een botsing tijdens het duel met FC Andorra."
-        },
-        {
-          "title": "Spaanse voetbal tot vrijdag stilgelegd na tragische dood De Miguel",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/spaanse-voetbal-tot-vrijdag-stilgelegd-na-tragische-dood-de-miguel",
-          "publishedDate": "Tue, 03 Nov 2026 09:03:00 GMT",
-          "description": "De Spaanse voetbalbond heeft alle wedstrijden in het Copa del Rey-toernooi van deze week uitgesteld naar aanleiding van de tragische dood van Tenerife-aanvaller Jes&#250;s de Miguel. De dertigjarige Spanja ..."
-        },
-        {
-          "title": "“Huilend en biddend in de kleedkamer”: Andorra-doelman Jes&#250;s Owono ontroostbaar na tragisch overlijden Jes&#250;s de Miguel",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenlands-voetbal/huilend-en-biddend-in-de-kleedkamer-andorra-doelman-jesus-owono-ontroostbaar-na-tragisch-overlijden-jesus-de-miguel~aac240ee/",
-          "publishedDate": "Tue, 03 Nov 2026 06:08:00 GMT",
-          "description": "&lt;a href=&quot;https://www.hln.be/dossier/tenerife-speler-overleden-na-botsing~d92526fb7-4841-42fa-a802-10d4be30080f/&quot; target=&quot;_blank&quot;&gt;Het overlijden van Jes&#250;s de Miguel hakt ook diep in bij tegenstander FC ..."
-        },
-        {
-          "title": "Tenerife-spits Jes&#250;s de Miguel overleden na botsing",
-          "source": "Dagblad Suriname",
-          "url": "https://www.dbsuriname.com/2026/11/03/tenerife-spits-jesus-de-miguel-overleden-na-botsing/",
-          "publishedDate": "Tue, 03 Nov 2026 05:46:00 GMT",
-          "description": "Jes&#250;s de Miguel, aanvaller van Tenerife, is dinsdagochtend op dertigjarige leeftijd overleden. Hij kreeg maandag een hartstilstand na een botsing met Andorra-doelman Jes&#250;s Owono. Hulpverleners behande ..."
-        },
-        {
-          "title": "Tenerife-aanvaller Jes&#250;s de Miguel (30) overleden",
-          "source": "FC Update",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/tenerife-aanvaller-jesus-de-miguel-30-overleden",
-          "publishedDate": "Tue, 03 Nov 2026 01:45:00 GMT",
-          "description": "Jes&#250;s de Miguel is overleden, zo maakt zijn club CD Tenerife bekend. De 30-jarige aanvaller raakte maandagavond zwaar gewond na een roekeloze charge van FC Andorra-doelman Jes&#250;s Owono en is een dag ..."
-        },
-        {
-          "title": "In botsing gekomen Tenerife-speler De Miguel (30) overleden",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/in-botsing-gekomen-tenerife-speler-de-miguel-30-overleden/ar-AA2gEonI",
-          "publishedDate": "Tue, 03 Nov 2026 00:41:50 GMT",
-          "description": "CD Tenerife heeft dinsdag laten weten dat Jes&#250;s de Miguel is overleden. De gevolgen van een nare botsing in het duel met Andorra FC van maandagavond zijn de aanvaller van de Spaanse club fataal geword ..."
-        },
-        {
-          "title": "Grote zorgen om Spaanse profvoetballer (30) na horrorbotsing: 'Neurologische toestand verslechterd'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/jesus-de-miguel-toestand-medisch-noodgeval-tenerife",
-          "publishedDate": "Tue, 03 Nov 2026 00:30:00 GMT",
-          "description": "Schrikbeelden in Spanje nadat spits Jes&#250;s de Miguel roerloos op het veld bleef liggen en het duel werd gestaakt. Dit is er nu bekend over zijn situatie."
         }
       ]
     }
