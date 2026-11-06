@@ -1,162 +1,17 @@
 {
-  "fetchedAt": "2026-11-06T11:15:41.180Z",
+  "fetchedAt": "2026-11-06T18:10:25.327Z",
   "trends": [
-    {
-      "keyword": "zorgverzekering",
-      "trafficLabel": "50K+",
-      "articles": [
-        {
-          "title": "Zorgpremie Stad Holland stijgt met € 11,75 p.m. in 2027",
-          "source": "Independer Weblog",
-          "url": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-stad-holland-stijgt-met-e-1175-p-m-in-2027/",
-          "publishedDate": "Thu, 05 Nov 2026 07:45:00 GMT",
-          "description": "Na DSW maakt nu ook Stad Holland de nieuwe, hogere zorgpremies bekend. In 2027 betaal je € 176,50 per maand voor de basisverzekering."
-        },
-        {
-          "title": "Online uitleg over zorgverzekering voor mantelzorgers",
-          "source": "Nederweert24",
-          "url": "https://www.nederweert24.nl/2026/11/01/online-uitleg-over-zorgverzekering-voor-mantelzorgers/",
-          "publishedDate": "Sun, 01 Nov 2026 05:00:00 GMT",
-          "description": "Ben jij mantelzorger en heb je vragen over de zorgverzekering? Bijvoorbeeld over vergoedingen, het eigen risico of mogelijkheden voor mantelzorgers?"
-        },
-        {
-          "title": "Goedkopere zorgverzekering? Deze 5 checks kunnen je een dure vergissing besparen",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/samenleving/goedkopere-zorgverzekering-deze-5-checks-kunnen-je-een-dure-vergissing-besparen",
-          "publishedDate": "Wed, 28 Oct 2026 09:05:00 GMT",
-          "description": "Een zorgverzekering die iedere maand minder kost, lijkt een makkelijke besparing. Maar de laagste premie is niet automatisch de voordeligste keuze. De vergoeding bij je behandelaar, het eigen risico e ..."
-        },
-        {
-          "title": "SAG-AFTRA zorgverzekering: ‘One Job Away’-campagne steunt acteurs",
-          "source": "amigoearuba.com",
-          "url": "https://amigoearuba.com/sag-aftra-zorgverzekering-one-job-away-campagne-steunt-acteurs/",
-          "publishedDate": "Mon, 26 Oct 2026 13:09:00 GMT",
-          "description": "Acteur Cheyenne Jackson lanceerde de Instagram-campagne 'One Job Away' om SAG-AFTRA-leden te helpen hun minimale kwalificatie-inkomsten te halen en zo ..."
-        },
-        {
-          "title": "Basispakket zorgverzekering misschien genoeg: check of aanvulling &#233;cht nodig is",
-          "source": "NU",
-          "url": "https://www.nu.nl/economie/6379929/basispakket-zorgverzekering-misschien-genoeg-check-of-aanvulling-echt-nodig-is.html",
-          "publishedDate": "Tue, 30 Dec 2025 00:20:00 GMT",
-          "description": "Het basispakket van de zorgverzekering is zo uitgebreid dat iedereen die weinig zorg nodig heeft, het daarmee wel redt. Dat is in ieder geval het uitgangspunt. Maar maken we wel voldoende gebruik van ..."
-        },
-        {
-          "title": "De duurste en goedkoopste zorgverzekering in 2025: zoek de verschillen",
-          "source": "independer.nl",
-          "url": "https://weblog.independer.nl/zorgverzekeringen/de-duurste-en-goedkoopste-zorgverzekering-in-2025-zoek-de-verschillen/",
-          "publishedDate": "Wed, 13 Nov 2024 05:47:00 GMT",
-          "description": "Je wist al dat de zorgpremies stijgen, maar de verschillen tussen verzekeraars kende je nog niet. Nu wel, en die verschillen zijn groot. Het kan je jaarlijks zelfs honderden euro’s schelen. De duurste ..."
-        },
-        {
-          "title": "Je zorgverzekering afsluiten voor 2025: de 5 belangrijkste veranderingen",
-          "source": "Nieuwe Revu",
-          "url": "https://revu.nl/artikel/622301/je-zorgverzekering-afsluiten-voor-2025-de-5-belangrijkste-veranderingen",
-          "publishedDate": "Sat, 26 Oct 2024 22:48:00 GMT",
-          "description": "Elk jaar veranderen de zorgpremies en vergoedingen. Daarom kan je aan het eind van elk jaar veranderen van zorgverzekeraar. Maar wat moet je op letten? Dit zijn de 5 belangrijkste veranderingen in het ..."
-        },
-        {
-          "title": "Moet ik een zorgverzekering afsluiten als ik in Nederland ga werken?",
-          "source": "Rijksoverheid",
-          "url": "https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/moet-ik-een-zorgverzekering-afsluiten-als-ik-in-nederland-ga-werken",
-          "publishedDate": "Mon, 21 Aug 2023 01:16:00 GMT",
-          "description": "Als u in Nederland werkt, moet u een zorgverzekering afsluiten. U bent dan verzekerd als u ziek wordt en u krijgt dan de zorg die u nodig heeft. Doe dat in ieder geval binnen 4 maanden. Ook als u niet ..."
-        },
-        {
-          "title": "Dit zijn de 7 best bewaarde geheimen over je zorgverzekering",
-          "source": "ZorgWijzer.nl",
-          "url": "https://www.zorgwijzer.nl/zorgverzekering-2023/dit-zijn-de-7-best-bewaarde-geheimen-over-je-zorgverzekering",
-          "publishedDate": "Wed, 28 Dec 2022 01:56:00 GMT",
-          "description": "Je hebt nog enkele dagen de tijd om een nieuwe zorgverzekering te kiezen voor 2023. Wat is voor jou belangrijk? Een zo laag mogelijke prijs, een uitgebreide dekking of de allerbeste voorwaarden?"
-        },
-        {
-          "title": "Zo bespaar jij op je zorgverzekering (6 bewezen tactieken)",
-          "source": "ZorgWijzer.nl",
-          "url": "https://www.zorgwijzer.nl/zorgverzekering-2023/zo-bespaar-jij-op-je-zorgverzekering-6-bewezen-tactieken",
-          "publishedDate": "Mon, 14 Nov 2022 05:08:00 GMT",
-          "description": "Steeds meer dingen worden duurder. Denk aan de energierekening, boodschappen, de huur of hypotheeklasten. Herkenbaar? Ook de premie van de zorgverzekering stijgt fors in 2023. Gemiddeld gaat het om ..."
-        }
-      ]
-    },
-    {
-      "keyword": "hazerswoude-dorp",
-      "trafficLabel": "50K+",
-      "articles": [
-        {
-          "title": "Acht mensen naar ziekenhuis na ernstig ongeval met vier auto's in Zuid-Holland",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/binnenland/6415594/acht-mensen-naar-ziekenhuis-na-ernstig-ongeval-met-vier-autos-in-zuid-holland.html",
-          "publishedDate": "Thu, 05 Nov 2026 05:08:00 GMT",
-          "description": "Hulpdiensten zijn donderdag massaal uitgerukt voor een zwaar ongeval met vier voertuigen op de N209 bij Hazerswoude-Dorp. Acht mensen moesten naar het ziekenhuis. Twee van hen zijn zwaargewond."
-        },
-        {
-          "title": "Kinderen onder gewonden van ernstig ongeluk op N209 bij Hazerswoude-Dorp, slachtoffers uit auto’s bevrijd",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/kinderen-onder-gewonden-van-ernstig-ongeluk-op-n209-bij-hazerswoude-dorp-slachtoffers-uit-autos-bevrijd~af81891b/",
-          "publishedDate": "Thu, 05 Nov 2026 03:34:00 GMT",
-          "description": "Twee auto’s zijn donderdagochtend frontaal met elkaar in botsing gekomen op de N209 bij Hazerswoude-Dorp. Bij het ernstige ongeluk zijn acht inzittenden gewond geraakt, onder wie kinderen. Ook een der ..."
-        },
-        {
-          "title": "Meerdere gewonden onder wie kinderen bij ernstig ongeluk op N209 bij Hazerswoude-Dorp",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/video/productie/meerdere-gewonden-onder-wie-kinderen-bij-ernstig-ongeluk-op-n209-bij-hazerswoude-dorp-14918576",
-          "publishedDate": "Thu, 05 Nov 2026 03:30:00 GMT",
-          "description": "Twee auto’s zijn donderdagochtend frontaal met elkaar in botsing gekomen op de N209 bij Hazerswoude-Dorp. Bij het ernstige ongeluk zijn acht inzittenden gewond geraakt, onder wie kinderen. Ook een der ..."
-        },
-        {
-          "title": "Ernstig ongeval met vier voertuigen op N209 in Hazerswoude-Dorp: meerdere gewonden, waaronder kinderen",
-          "source": "Rodi.nl",
-          "url": "https://www.rodi.nl/alphenaandenrijn/112-nieuws/511505/ernstig-ongeval-met-vier-voertuigen-op-n209-in-hazerswoude-dorp-meerdere-gewonden-waaronder-kinderen",
-          "publishedDate": "Thu, 05 Nov 2026 05:15:00 GMT",
-          "description": "HAZERSWOUDE-DORP – Op de N209 bij Hazerswoude-Dorp heeft donderdagmiddag rond 12.00 uur een ernstig verkeersongeval plaatsgevonden waarbij vier voertuigen betrokken waren."
-        },
-        {
-          "title": "Gewonden bij ongeluk met drie voertuigen op N209",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/a/gewonden-bij-ongeluk-met-drie-voertuigen-op-n209",
-          "publishedDate": "Thu, 05 Nov 2026 04:56:00 GMT",
-          "description": "HAZERSWOUDE-DORP (ANP) - Na een ongeluk met drie voertuigen op de N209 bij Hazerswoude-Dorp zijn donderdag acht mensen naar een ziekenhuis gebracht. Twee van hen zijn zwaargewond."
-        },
-        {
-          "title": "Acht gewonden, onder wie kinderen, bij ernstig ongeluk met meerdere auto's op provinciale weg",
-          "source": "Omroep West",
-          "url": "https://www.omroepwest.nl/112/5170259/acht-gewonden-onder-wie-kinderen-bij-ernstig-ongeluk-met-meerdere-autos-op-provinciale-weg",
-          "publishedDate": "Thu, 05 Nov 2026 04:16:00 GMT",
-          "description": "Op de N209 bij Hazerswoude-Dorp zijn acht mensen gewond geraakt bij een ernstig ongeluk. In ieder geval twee van hen zijn zwaargewond en er zijn kinderen bij het ongeluk betrokken. Dat meldt Veilighei ..."
-        },
-        {
-          "title": "Acht gewonden bij ernstig ongeluk op N209 bij Hazerswoude-Dorp, twee zwaargewond",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/ongeluk/artikelen/hazerswoude-dorp-ongeluk-n209-acht-gewonden",
-          "publishedDate": "Thu, 05 Nov 2026 04:08:00 GMT",
-          "description": "Bij een ernstig ongeluk met vier voertuigen op de N209 bij Hazerswoude-Dorp zijn acht mensen gewond geraakt. Twee slachtoffers zijn zwaargewond. De weg tussen Hazerswoude-Dorp en Benthuizen is volledi ..."
-        },
-        {
-          "title": "Ongeval met letsel op N209 in Hazerswoude-Dorp, traumahelikopter gealarmeerd",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/zuid-holland/hollands-midden/hazerswoude-dorp/56058343/p2000-ongeval-met-letsel-op-n209-in-hazerswoude-dorp.html",
-          "publishedDate": "Thu, 05 Nov 2026 03:32:00 GMT",
-          "description": "De hulpdiensten zijn donderdagochtend uitgerukt voor een zwaar ongeval met letsel aan N209 in Hazerswoude-Dorp. Behalve vier ambulances is ook een traumahelikopter gealarmeerd."
-        },
-        {
-          "title": "Meerdere zwaargewonden bij aanrijding tussen drie auto’s N209 Hazerswoude-Dorp",
-          "source": "Nieuws op Beeld",
-          "url": "https://nieuwsopbeeld.nl/2026/11/05/meerdere-zwaargewonden-bij-aanrijding-tussen-drie-autos-n209-hazerswoude-dorp/",
-          "publishedDate": "Thu, 05 Nov 2026 03:22:00 GMT",
-          "description": "Bij een zeer ernstig ongeval op de N209 bij Hazerswoude-Dorp zijn meerdere mensen zwaargewond geraakt. Bij het ongeval zijn drie auto's betrokken, waarvan twee frontaal op elkaar zijn gebotst. Onder d ..."
-        },
-        {
-          "title": "Home Zuid-Holland 112 Hazerswoude-Dorp Hulpdiensten massaal opgeroepen na ernstig ongeval op provinciale weg",
-          "source": "Hardnieuws",
-          "url": "https://www.hardnieuws.nl/zuid-holland/hazerswoude-dorp/hulpdiensten-massaal-opgeroepen-na-ernstig-ongeval-op-provinciale-weg-gemeneweg-n209-hazerswoude-dorp-75915.html",
-          "publishedDate": "Thu, 05 Nov 2026 03:00:00 GMT",
-          "description": "HAZERSWOUDE-DORP - Donderdagmiddag 5 november omstreeks 12.00 uur heeft een ernstig ongeval met meerdere voertuigen plaatsgevonden aan de N209 in ..."
-        }
-      ]
-    },
     {
       "keyword": "annechien steenhuizen",
       "trafficLabel": "50K+",
       "articles": [
+        {
+          "title": "Plotselinge terugkeer Annechien Steenhuizen zorgt ook voor discussie: 'Alsof er niets gebeurd was'",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/gemist/terugkeer-annechien-steenhuizen-nos-journaal-discussie",
+          "publishedDate": "Fri, 06 Nov 2026 08:31:00 GMT",
+          "description": "Na ruim twee jaar afwezigheid, presenteerde Annechien Steenhuizen donderdagavond voor het eerst weer het NOS Journaal. Kijkers waren blij om haar terug te zien, maar sommigen vinden er wat van dat de ..."
+        },
         {
           "title": "Kritiek op afwezigheid Annechien Steenhuizen valt verkeerd",
           "source": "Ditjes en Datjes",
@@ -170,13 +25,6 @@
           "url": "https://www.weekend-online.nl/nieuws/nos-reageert-op-terugkeer-annechien-steenhuizen-een-reintegratieproces/",
           "publishedDate": "Fri, 06 Nov 2026 01:32:00 GMT",
           "description": "De terugkeer van Annechien Steenhuizen bij het NOS Journaal betekent niet dat ze meteen weer volgens haar oude schema aan de slag gaat."
-        },
-        {
-          "title": "Annechien Steenhuizen na lange afwezigheid terug bij NOS Journaal",
-          "source": "Weekend Online",
-          "url": "https://www.weekend-online.nl/nieuws/annechien-steenhuizen-na-lange-afwezigheid-terug-bij-nos-journaal/",
-          "publishedDate": "Fri, 06 Nov 2026 00:25:00 GMT",
-          "description": "Na een afwezigheid van iets meer dan twee jaar heeft Annechien Steenhuizen donderdagavond opnieuw het NOS Journaal gepresenteerd."
         },
         {
           "title": "Annechien Steenhuizen is terug, Jan de Hoop kritisch: ‘Ze zegt n&#237;ks’",
@@ -230,125 +78,92 @@
       ]
     },
     {
-      "keyword": "az - juventus",
+      "keyword": "zorgverzekering",
       "trafficLabel": "50K+",
       "articles": [
         {
-          "title": "Teun Koopmeiners ontroerd door foto bij terugkeer in AZ-stadion: 'Brok in de keel'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6415692/teun-koopmeiners-ontroerd-door-foto-bij-terugkeer-in-az-stadion-brok-in-de-keel.html",
-          "publishedDate": "Thu, 05 Nov 2026 12:09:00 GMT",
-          "description": "Teun Koopmeiners speelde en scoorde donderdag tegen zijn broer en de club die in zijn hart zit. Juichen deed de Juventus-middenvelder amper, maar hij genoot wel volop. &quot;Ik doe AZ liever geen pijn.&quot;"
+          "title": "Utrecht biedt hulp bij kiezen zorgverzekering",
+          "source": "Utrecht Nieuws",
+          "url": "https://utrecht.nieuws.nl/zorg/utrecht-biedt-hulp-bij-kiezen-zorgverzekering",
+          "publishedDate": "Fri, 06 Nov 2026 08:21:00 GMT",
+          "description": "Vanaf half november kunnen inwoners weer een zorgverzekering kiezen voor het nieuwe jaar. Welke verzekering het beste past, hangt af van iemands persoonlijke situatie en zorgbehoefte. Daarom organisee ..."
         },
         {
-          "title": "In Beeld: AZ - Juventus",
-          "source": "AZ",
-          "url": "https://www.az.nl/inside-az/nieuws/2026/november/in-beeld-az-juventus",
-          "publishedDate": "Tue, 03 Nov 2026 16:00:00 GMT",
-          "description": "ALKMAAR- In het vierde UEFA Europa League-duel heeft AZ een 1-2 nederlaag geleden tegen Juventus. De bezoekers kwamen in de eerste helft op voorsprong via Teun Koopmeiners, waarna Randal Kolo Muani in"
-        }
-      ]
-    },
-    {
-      "keyword": "virus",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Wat is het coronavirus?",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/uitleg-over-het-coronavirus",
-          "publishedDate": "Sun, 01 Nov 2026 16:01:00 GMT",
-          "description": "Nieuws en video's uit de rubriek Uitleg over het coronavirus. Betrouwbaar, gratis en snel op NU.nl, de grootste nieuwssite van Nederland."
+          "title": "Zorgpremie Stad Holland stijgt met € 11,75 p.m. in 2027",
+          "source": "Independer Weblog",
+          "url": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-stad-holland-stijgt-met-e-1175-p-m-in-2027/",
+          "publishedDate": "Thu, 05 Nov 2026 07:45:00 GMT",
+          "description": "Na DSW maakt nu ook Stad Holland de nieuwe, hogere zorgpremies bekend. In 2027 betaal je € 176,50 per maand voor de basisverzekering."
         },
         {
-          "title": "Meer dan 5.000 doden en 10.000 besmettingen door ebola-uitbraak in Democratische Republiek Congo",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/10/31/meer-dan-5-000-doden-en-10-000-besmettingen-door-ebola-uitbraak-in-democratische-republiek-congo-a4940201",
-          "publishedDate": "Sat, 31 Oct 2026 05:13:00 GMT",
-          "description": "Infectieziekte: Het is de op &#233;&#233;n na grootste uitbraak van het virus in de geschiedenis: alleen de epidemie tussen 2014 en 2016 in Guinee, Liberia en Sierra Leone was groter. Voor de zeldzame Bundibugy ..."
+          "title": "Online uitleg over zorgverzekering voor mantelzorgers",
+          "source": "Nederweert24",
+          "url": "https://www.nederweert24.nl/2026/11/01/online-uitleg-over-zorgverzekering-voor-mantelzorgers/",
+          "publishedDate": "Sun, 01 Nov 2026 05:00:00 GMT",
+          "description": "Ben jij mantelzorger en heb je vragen over de zorgverzekering? Bijvoorbeeld over vergoedingen, het eigen risico of mogelijkheden voor mantelzorgers?"
         },
         {
-          "title": "Varianten van het coronavirus SARS-CoV-2",
-          "source": "rivm",
-          "url": "https://www.rivm.nl/corona/actueel/virusvarianten",
-          "publishedDate": "Wed, 28 Oct 2026 05:27:00 GMT",
-          "description": "Het RIVM houdt veranderingen in het coronavirus SARS (severe acute respiratory syndrome)-CoV-2 en de gevolgen ervan goed in de gaten. Als een virus zich vermenigvuldigt, kan het steeds een heel klein ..."
+          "title": "SAG-AFTRA zorgverzekering: ‘One Job Away’-campagne steunt acteurs",
+          "source": "amigoearuba.com",
+          "url": "https://amigoearuba.com/sag-aftra-zorgverzekering-one-job-away-campagne-steunt-acteurs/",
+          "publishedDate": "Mon, 26 Oct 2026 13:09:00 GMT",
+          "description": "Acteur Cheyenne Jackson lanceerde de Instagram-campagne 'One Job Away' om SAG-AFTRA-leden te helpen hun minimale kwalificatie-inkomsten te halen en zo ..."
         },
         {
-          "title": "Shamonda-virus bij de mens: moeten we ons zorgen maken?",
-          "source": "gezondheid.be",
-          "url": "https://www.gezondheid.be/artikel/virussen/shamonda-virus-belgie-symptomen-gevaarlijk-40358",
-          "publishedDate": "Mon, 26 Oct 2026 08:34:00 GMT",
-          "description": "Het Shamonda-virus circuleert sinds de zomer van 2026 bij dieren in verschillende Europese landen, waaronder Belgi&#235;. In Frankrijk is een pati&#235;nt met een sterk verzwakt immuunsysteem overleden na besme ..."
+          "title": "Basispakket zorgverzekering misschien genoeg: check of aanvulling &#233;cht nodig is",
+          "source": "NU",
+          "url": "https://www.nu.nl/economie/6379929/basispakket-zorgverzekering-misschien-genoeg-check-of-aanvulling-echt-nodig-is.html",
+          "publishedDate": "Tue, 30 Dec 2025 00:20:00 GMT",
+          "description": "Het basispakket van de zorgverzekering is zo uitgebreid dat iedereen die weinig zorg nodig heeft, het daarmee wel redt. Dat is in ieder geval het uitgangspunt. Maar maken we wel voldoende gebruik van ..."
         },
         {
-          "title": "Ebola - eerste Congolees inge&#235;nt met kandidaat-vaccin tegen Bundibugyo-virus",
-          "source": "Belga News Agency on MSN",
-          "url": "https://www.msn.com/nl-be/natuurwetenschappen/biologie/ebola-eerste-congolees-inge%C3%ABnt-met-kandidaat-vaccin-tegen-bundibugyo-virus/ar-AA2fVFgY",
-          "publishedDate": "Fri, 23 Oct 2026 08:14:39 GMT",
-          "description": "Een eerste persoon is vrijdag in de Democratische Republiek Congo gevaccineerd met een kandidaat-vaccin tegen het dodelijke Bundibugyo-virus (ebola). Dat melden de Universiteit Antwerpen en het Instit ..."
+          "title": "De duurste en goedkoopste zorgverzekering in 2025: zoek de verschillen",
+          "source": "independer.nl",
+          "url": "https://weblog.independer.nl/zorgverzekeringen/de-duurste-en-goedkoopste-zorgverzekering-in-2025-zoek-de-verschillen/",
+          "publishedDate": "Wed, 13 Nov 2024 05:47:00 GMT",
+          "description": "Je wist al dat de zorgpremies stijgen, maar de verschillen tussen verzekeraars kende je nog niet. Nu wel, en die verschillen zijn groot. Het kan je jaarlijks zelfs honderden euro’s schelen. De duurste ..."
         },
         {
-          "title": "Eerste menselijke besmetting met Shamonda-virus vastgesteld in Frankrijk",
-          "source": "Biojournaal",
-          "url": "https://www.biojournaal.nl/article/9885828/eerste-menselijke-besmetting-met-shamonda-virus-vastgesteld-in-frankrijk/",
-          "publishedDate": "Fri, 23 Oct 2026 05:53:00 GMT",
-          "description": "In Frankrijk is voor het eerst een menselijke infectie met het Shamonda-virus vastgesteld. De pati&#235;nt had ernstige onderliggende aandoeningen, kreeg een zware hersenontsteking en ..."
+          "title": "Je zorgverzekering afsluiten voor 2025: de 5 belangrijkste veranderingen",
+          "source": "Nieuwe Revu",
+          "url": "https://revu.nl/artikel/622301/je-zorgverzekering-afsluiten-voor-2025-de-5-belangrijkste-veranderingen",
+          "publishedDate": "Sat, 26 Oct 2024 22:48:00 GMT",
+          "description": "Elk jaar veranderen de zorgpremies en vergoedingen. Daarom kan je aan het eind van elk jaar veranderen van zorgverzekeraar. Maar wat moet je op letten? Dit zijn de 5 belangrijkste veranderingen in het ..."
         },
         {
-          "title": "Shamonda-virus zorgt voor eerste menselijke slachtoffer in Frankrijk",
-          "source": "VILT vzw",
-          "url": "https://vilt.be/nl/nieuws/shamonda-virus-voor-het-eerst-bij-mens-vastgesteld-patient-overleden-in-frankrijk",
-          "publishedDate": "Thu, 22 Oct 2026 09:22:00 GMT",
-          "description": "Het Shamonda-virus is voor het eerst bij een mens vastgesteld. De pati&#235;nt, die een ernstig verzwakt immuunsysteem had, overleed begin oktober in Frankrijk. Het virus circ ..."
+          "title": "Moet ik een zorgverzekering afsluiten als ik in Nederland ga werken?",
+          "source": "Rijksoverheid",
+          "url": "https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/moet-ik-een-zorgverzekering-afsluiten-als-ik-in-nederland-ga-werken",
+          "publishedDate": "Mon, 21 Aug 2023 01:16:00 GMT",
+          "description": "Als u in Nederland werkt, moet u een zorgverzekering afsluiten. U bent dan verzekerd als u ziek wordt en u krijgt dan de zorg die u nodig heeft. Doe dat in ieder geval binnen 4 maanden. Ook als u niet ..."
         },
         {
-          "title": "Eerste menselijke besmetting van het Shamonda-virus: pati&#235;nt in Frankrijk overleden",
-          "source": "VRT on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/eerste-menselijke-besmetting-van-het-shamonda-virus-patiënt-in-frankrijk-overleden/ar-AA2fPpfY",
-          "publishedDate": "Thu, 22 Oct 2026 06:59:59 GMT",
-          "description": "Het Shamonda-virus, dat tot nu toe enkel bij landbouwdieren circuleerde, is voor het eerst bij een mens vastgesteld. Het virus is in Frankrijk aangetroffen bij een persoon die eerder deze maand is ove ..."
+          "title": "Dit zijn de 7 best bewaarde geheimen over je zorgverzekering",
+          "source": "ZorgWijzer.nl",
+          "url": "https://www.zorgwijzer.nl/zorgverzekering-2023/dit-zijn-de-7-best-bewaarde-geheimen-over-je-zorgverzekering",
+          "publishedDate": "Wed, 28 Dec 2022 01:56:00 GMT",
+          "description": "Je hebt nog enkele dagen de tijd om een nieuwe zorgverzekering te kiezen voor 2023. Wat is voor jou belangrijk? Een zo laag mogelijke prijs, een uitgebreide dekking of de allerbeste voorwaarden?"
         },
         {
-          "title": "Voor het eerst mens met Shamonda-virus besmet, gevaar voor bevolking is klein",
-          "source": "nu",
-          "url": "https://nu.cw/2026/10/22/voor-het-eerst-mens-met-shamonda-virus-besmet-gevaar-voor-bevolking-is-klein/",
-          "publishedDate": "Thu, 22 Oct 2026 05:58:00 GMT",
-          "description": "De Franse gezondheidsautoriteiten hebben voor het eerst het Shamonda-virus vastgesteld bij een mens. De pati&#235;nt, die een ernstig verzwakt immuunsysteem had, is begin oktober overleden. De kans dat men ..."
-        },
-        {
-          "title": "RS-virus",
-          "source": "rivm",
-          "url": "https://www.rivm.nl/rs-virus",
-          "publishedDate": "Tue, 20 Oct 2026 05:42:00 GMT",
-          "description": "RS-virus is het meest voorkomende verkoudheidsvirus bij kinderen. Bijna alle kinderen hebben v&#243;&#243;r hun tweede verjaardag een infectie met dit virus gehad. De tijd tussen het besmet raken met het ..."
-        }
-      ]
-    },
-    {
-      "keyword": "twente - pafos",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Samenvatting | Europese zege op Pafos FC",
-          "source": "FC Twente",
-          "url": "https://fctwente.nl/nieuws/samenvatting-europese-zege-op-pafos-fc",
-          "publishedDate": "Thu, 05 Nov 2026 23:53:00 GMT",
-          "description": "Donderdagavond heeft FC Twente ook haar derde wedstrijd in de hoofdfase van de UEFA Conference League gewonnen. Pafos FC uit Cyprus werd in De Grolsch Veste met 3-1 verslagen. Ja, ik wil als eerste op"
-        },
-        {
-          "title": "Van den Brom looft FC Twente-speler: &quot;Dat laat hij weer zien&quot;",
-          "source": "Twentefans.nl",
-          "url": "https://www.twentefans.nl/van-den-brom-looft-fc-twente-speler-dat-laat-hij-weer-zien/",
-          "publishedDate": "Thu, 05 Nov 2026 23:44:00 GMT",
-          "description": "Lees nu | John van den Brom heeft na de 3-1 overwinning van FC Twente op Pafos FC lovende woorden uitgesproken over Jo&#235;l Drommel. De doelman hield"
+          "title": "Zo bespaar jij op je zorgverzekering (6 bewezen tactieken)",
+          "source": "ZorgWijzer.nl",
+          "url": "https://www.zorgwijzer.nl/zorgverzekering-2023/zo-bespaar-jij-op-je-zorgverzekering-6-bewezen-tactieken",
+          "publishedDate": "Mon, 14 Nov 2022 05:08:00 GMT",
+          "description": "Steeds meer dingen worden duurder. Denk aan de energierekening, boodschappen, de huur of hypotheeklasten. Herkenbaar? Ook de premie van de zorgverzekering stijgt fors in 2023. Gemiddeld gaat het om ..."
         }
       ]
     },
     {
       "keyword": "hanos",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
+        {
+          "title": "Hanos-personeel gevraagd om mee te betalen aan cadeau voor steenrijke eigenaren",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/economie/artikel/5663540/hanos-personeel-gevraagd-om-financiele-bijdrage-voor-steenrijke",
+          "publishedDate": "Fri, 06 Nov 2026 06:58:00 GMT",
+          "description": "Werknemers van groothandel Hanos hebben het opmerkelijke verzoek gekregen om mee te betalen aan een cadeautje voor hun steenrijke eigenaren: Jan van der Horst en diens vrouw Ria. Jan van der Horst is ..."
+        },
         {
           "title": "Politie door het stof: verstrekte ten onrechte gegevens van foie-grasactivisten aan Hanos in Nieuwegein",
           "source": "Algemeen Dagblad",
@@ -357,11 +172,18 @@
           "description": "De politie heeft ten onrechte naam- en adresgegevens van actievoerders van Active for Justice verstrekt aan horecagroothandel Hanos. Dat gebeurde na een uit de hand gelopen demonstratie bij een vestig ..."
         },
         {
-          "title": "Politie biedt excuses aan voor doorgeven identiteit activisten aan groothandel",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2637473-politie-biedt-excuses-aan-voor-doorgeven-identiteit-activisten-aan-groothandel",
-          "publishedDate": "Sat, 31 Oct 2026 09:49:00 GMT",
-          "description": "De dierenrechtenactivisten die protesteerden tegen de verkoop van foie gras kregen een winkelverbod van twee jaar."
+          "title": "Hanos vraagt personeel met minimumloon om bijdrage voor 'steenrijke' Quote 500-baas Jan van der Horst",
+          "source": "Quote",
+          "url": "https://www.quotenet.nl/zakelijk/a74356642/hanos-personeel-bijdrage-cadeau-jan-van-der-horst/",
+          "publishedDate": "Fri, 06 Nov 2026 05:04:00 GMT",
+          "description": "'Het gaat om het gebaar', zullen ze gedacht hebben bij Hanos toen ze medewerkers vroegen om een financi&#235;le bijdrage voor een ’leuke verrassing’ voor eigenaar Jan van der Horst. Dat gebaar schiet het v ..."
+        },
+        {
+          "title": "Burgemeester Dijksma: 'Politie heeft lering getrokken na naam-fout bij Hanos'",
+          "source": "RTV Utrecht",
+          "url": "https://www.rtvutrecht.nl/nieuws/4113745/burgemeester-dijksma-politie-heeft-lering-getrokken-na-naam-fout-bij-hanos",
+          "publishedDate": "Fri, 06 Nov 2026 01:36:00 GMT",
+          "description": "De politie heeft geleerd van de fout om persoonsgegevens van demonstranten te delen met groothandel Hanos in Nieuwegein. Dat zei burgemeester Sharon Dijksma (Pro) gisteren tijdens het wekelijkse vrage ..."
         },
         {
           "title": "Personeel moet cadeau voor steenrijke baas betalen? Ophef bij HANOS",
@@ -371,18 +193,18 @@
           "description": "Een paar euro inleggen voor een cadeau aan je baas klinkt misschien onschuldig. Maar wat als die baas zelf miljoenen b ..."
         },
         {
+          "title": "Tikkie voor ‘leuke verrassing’ voor de baas? Bij Hanos Hengelo is van ophef niets te merken",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/hengelo/tikkie-voor-leuke-verrassing-voor-de-baas-bij-hanos-hengelo-is-van-ophef-niets-te-merken~a5da0f24/",
+          "publishedDate": "Thu, 05 Nov 2026 21:00:00 GMT",
+          "description": "Of het personeel van horecagroothandel Hanos even wil meebetalen. Aan een ‘leuke verrassing’ voor eigenaar en multimiljonair Jan van der Horst. Oh ja, het moet een verrassing blijven!"
+        },
+        {
           "title": "Nederlands bedrijf onder vuur na vraag voor cadeau aan steenrijke eigenaar: “Je vraagt geld aan mensen die het minimumloon verdienen”",
           "source": "Het Laatste Nieuws",
           "url": "https://www.hln.be/buitenland/nederlands-bedrijf-onder-vuur-na-vraag-voor-cadeau-aan-steenrijke-eigenaar-je-vraagt-geld-aan-mensen-die-het-minimumloon-verdienen~a67251a2/",
           "publishedDate": "Thu, 05 Nov 2026 18:47:00 GMT",
           "description": "De Nederlandse horecagroothandel Hanos krijgt veel kritiek nadat de directie medewerkers heeft gevraagd geld in te leggen voor een “leuke verrassing” voor eigenaar Jan van der Horst. Volgens zakenblad ..."
-        },
-        {
-          "title": "Gegevenslek politie kan demonstranten 'afschrikken', zegt College voor Rechten van de Mens",
-          "source": "RTV Utrecht",
-          "url": "https://www.rtvutrecht.nl/nieuws/4112171/gegevenslek-politie-kan-demonstranten-afschrikken-zegt-college-voor-rechten-van-de-mens",
-          "publishedDate": "Tue, 03 Nov 2026 13:15:00 GMT",
-          "description": "Dat de politie onterecht gegevens van dierenrechtenactivisten lekte aan de groothandel waar zij demonstreerden, kan mensen afschrikken om te demonstreren. Dat zegt het College voor de Rechten van de M ..."
         },
         {
           "title": "Gegevens activisten bij Hanos: politie biedt excuses aan",
@@ -399,101 +221,80 @@
           "description": "De politie heeft ten onrechte persoonsgegevens van zeven dierenrechtenactivisten gedeeld met horecagroothandel Hanos in Nieuwegein. Dat erkent de politie in een brief aan de activisten. Met de gegeven ..."
         },
         {
-          "title": "Actiegroep Active For Justice voert actie tegen de verkoop van Foie Gras",
-          "source": "BredaVandaag",
-          "url": "https://www.bredavandaag.nl/algemeen/algemeen/557699/actiegroep-active-for-justice-voert-actie-tegen-de-verkoop-van-foie-gras",
-          "publishedDate": "Sat, 31 Oct 2026 08:40:00 GMT",
-          "description": "BREDA- Veertien leden van de actiegroep Active For Justice hebben vanmiddag actie gevoerd bij groothandel HANOS ISPC aan de Konijnberg. De actiegroep komt op tegen onderdrukking en uitbuiting van me.."
-        },
-        {
           "title": "Protest tegen foie gras bij groothandel HANOS-ISPC in Breda",
           "source": "BN DeStem",
           "url": "https://www.bndestem.nl/112-nieuws-breda/protest-tegen-foie-gras-bij-groothandel-hanos-ispc-in-breda~a2cd175c/",
           "publishedDate": "Sat, 31 Oct 2026 00:17:00 GMT",
           "description": "Veertien leden van de actiegroep Active For Justice hebben zaterdag actie gevoerd bij groothandel HANOS-ISPC aan de Konijnenberg in Breda. Ze protesteerden tegen de verkoop van foie gras. De actiegroe ..."
-        },
-        {
-          "title": "HANOS wil Dasselaar overnemen",
-          "source": "AGF",
-          "url": "https://www.agf.nl/article/9849526/hanos-wil-dasselaar-overnemen/",
-          "publishedDate": "Mon, 22 Jun 2026 05:05:00 GMT",
-          "description": "Admidex, de houdstermaatschappij achter horecagroothandel HANOS, heeft bij de ACM een aanvraag ingediend voor de overname van Dasselaar. Met de voorgenomen transactie wil HANOS uitsluitende ..."
         }
       ]
     },
     {
-      "keyword": "max verstappen red bull racing",
+      "keyword": "rijbewijs",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Red Bull begint zonder Max Verstappen moeizaam aan weekend, Charles Leclerc ongrijpbaar in eerste training",
+          "title": "Moeten automobilisten nou wel of niet altijd hun rijbewijs bij zich hebben?",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/formule-1/red-bull-begint-zonder-max-verstappen-moeizaam-aan-weekend-charles-leclerc-ongrijpbaar-in-eerste-training~ab6ea14d/",
-          "publishedDate": "Fri, 30 Oct 2026 05:30:00 GMT",
-          "description": "Er is nog wat werk aan de winkel voor Red Bull Racing na de eerste vrije training in Mexico. Ondanks dat de vervanger van Max Verstappen, Ayumu Iwasa, een prima training achter de rug had, waren er ee ..."
+          "url": "https://www.ad.nl/auto/moeten-automobilisten-nou-wel-of-niet-altijd-hun-rijbewijs-bij-zich-hebben~a1cea350/",
+          "publishedDate": "Mon, 26 Oct 2026 01:49:00 GMT",
+          "description": "Als je als automobilist je rijbewijs niet kan laten zien, riskeer je een bekeuring. Mevrouw H. Meijer vraagt zich af of dat niet hopeloos achterhaald is. Want zoiets is toch eenvoudig digitaal te cont ..."
         },
         {
-          "title": "Verstappen en Red Bull terug aan F1-top: de lange weg naar succes in 2026",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2634628-verstappen-en-red-bull-terug-aan-f1-top-de-lange-weg-naar-succes-in-2026",
-          "publishedDate": "Sun, 11 Oct 2026 16:44:00 GMT",
-          "description": "Het F1-seizoen van Max Verstappen en Red Bull Racing begon moeizaam, maar na een lange en zware weg is de combinatie terug aan de top."
+          "title": "Automobilist zonder rijbewijs en onder invloed aangehouden na botsing met ambulance in Rotterdam",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-rotterdam/automobilist-zonder-rijbewijs-en-onder-invloed-aangehouden-na-botsing-met-ambulance-in-rotterdam~aa556b40/",
+          "publishedDate": "Tue, 06 Oct 2026 05:18:00 GMT",
+          "description": "Op de Prins Alexanderlaan in Rotterdam heeft een ongeval plaatsgevonden tussen een auto en een ambulance. De ambulance reed op dat moment met een pati&#235;nt en had de zwaailichten en sirenes aan. De poli ..."
         },
         {
-          "title": "Hadjar blijft ook volgend jaar teamgenoot van Verstappen bij Red Bull Racing",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/formule-1/6410682/hadjar-blijft-ook-volgend-jaar-teamgenoot-van-verstappen-bij-red-bull-racing.html",
-          "publishedDate": "Wed, 23 Sep 2026 02:24:00 GMT",
-          "description": "Isack Hadjar blijft in 2027 teamgenoot van Max Verstappen bij Red Bull Racing. De Fransman heeft woensdag zijn contract bij het Formule 1-team verlengd. Verstappen tekende vorige maand al een nieuwe v ..."
+          "title": "Rijbewijs verlengen gaat op de schop: dit verandert er voor jou",
+          "source": "Auto Review",
+          "url": "https://www.autoreview.nl/nieuws/id/38536/rijbewijs-online-verlengen-heel-nederland-gemeente",
+          "publishedDate": "Fri, 06 Nov 2026 03:00:00 GMT",
+          "description": "Je rijbewijs online verlengen kan straks in heel Nederland. Zo werkt het, en deze stap bij de gemeente blijft verplicht."
         },
         {
-          "title": "Hinchcliffe ziet waarom Red Bull het gezeur van Verstappen accepteert: &quot;Dit bedoelt hij&quot;",
-          "source": "F1 Maximaal on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/hinchcliffe-ziet-waarom-red-bull-het-gezeur-van-verstappen-accepteert-dit-bedoelt-hij/ar-AA2gT9yV",
-          "publishedDate": "Fri, 06 Nov 2026 02:20:00 GMT",
-          "description": "Max Verstappen laat zich over de boordradio regelmatig kritisch uit wanneer zijn Red Bull niet precies doet wat hij wil, maar volgens James Hinchcliffe weet zijn team inmiddels precies hoe het daarmee ..."
+          "title": "E&#233;n cijfer maakt het verschil: deze code op je rijbewijs bepaalt wat je achter het stuur moet dragen",
+          "source": "Autobahn on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/e%C3%A9n-cijfer-maakt-het-verschil-deze-code-op-je-rijbewijs-bepaalt-wat-je-achter-het-stuur-moet-dragen/ar-AA2gN90p",
+          "publishedDate": "Thu, 05 Nov 2026 02:10:00 GMT",
+          "description": "Op de achterkant van sommige rijbewijzen staat een kleine code waar bestuurders nauwelijks naar kijken. Toch kan &#233;&#233;n veranderd cijfer bepalen of je aan de voorwaarden voldoet om te mogen rijden, zelfs ..."
         },
         {
-          "title": "Red Bull neemt opvallend besluit over gridstraf Max Verstappen in Brazili&#235;",
-          "source": "GPFans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/1092532/red-bull-neemt-opvallend-besluit-over-gridstraf-max-verstappen-in-brazilie/",
-          "publishedDate": "Fri, 06 Nov 2026 01:57:00 GMT",
-          "description": "Red Bull Racing stelt een ingecalculeerde motorwissel - en de bijbehorende gridstraf - voor Max Verstappen zolang mogelijk uit. De Oostenrijkse renstal is in principe niet van plan om de krachtbron va ..."
+          "title": "Rijbewijs verlengen na je 75ste? Deze verplichte keuring kan je flink wat geld kosten",
+          "source": "Panorama on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/rijbewijs-verlengen-na-je-75ste-deze-verplichte-keuring-kan-je-flink-wat-geld-kosten/ar-AA2gKPHG",
+          "publishedDate": "Wed, 04 Nov 2026 11:06:00 GMT",
+          "description": "Je vader wordt 75, rijdt nog iedere dag vrolijk rond en wil zijn rijbewijs verlengen. Kwestie van een nieuwe pasfoto en even langs het gemeentehuis, zou je denken. Maar zo makkelijk gaat dat niet meer ..."
         },
         {
-          "title": "Piastri wijst naar Verstappen en Red Bull Racing: 'Zij zijn de maatstaf'",
-          "source": "GPblog on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/motorsport/piastri-wijst-naar-verstappen-en-red-bull-racing-zij-zijn-de-maatstaf/ar-AA2gSS0B",
-          "publishedDate": "Fri, 06 Nov 2026 01:51:00 GMT",
-          "description": "Oscar Piastri is onder de indruk van de ontwikkeling die Red Bull Racing in het afgelopen jaar heeft doorgemaakt. De Australi&#235;r ziet hoe het team van Max Verstappen en Isack Hadjar de maatstaf is gebl ..."
+          "title": "Rijbewijs automatisch kwijt op je 75e? In Portugal ligt dat voorstel, in Nederland moet je dit op tijd regelen",
+          "source": "Welingelichte Kringen",
+          "url": "https://www.welingelichtekringen.nl/samenleving/rijbewijs-automatisch-kwijt-op-je-75e-in-portugal-ligt-dat-voorstel-in-nederland-moet-je-dit-op-tijd-regelen",
+          "publishedDate": "Fri, 23 Oct 2026 04:58:00 GMT",
+          "description": "Je wordt 75 en je rijbewijs is meteen ongeldig, hoe fit je ook bent en hoe lang je ook zonder ongelukken rijdt. Dat wil een voorstel in Portugal, meldde Racing.nl op 21 oktober. In Nederland hoef je d ..."
         },
         {
-          "title": "Verstappen onder vuur na 'dreigementen', Red Bull Racing levert keihard bewijs | GPFans Recap",
-          "source": "GPFans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/1092524/verstappen-onder-vuur-na-dreigementen-red-bull-racing-levert-keihard-bewijs-gpfans-recap/",
-          "publishedDate": "Thu, 05 Nov 2026 13:46:00 GMT",
-          "description": "In deze GPFans Recap nemen we je mee langs het meest opvallende nieuws van de dag. Zo ben jij binnen een paar minuten op de hoogte van alles wat er zich heeft afgespeeld in de wereld van de Formule 1."
+          "title": "Rijbewijs en autoverzekering",
+          "source": "Europa",
+          "url": "https://europa.eu/youreurope/citizens/travel/driving-abroad/driving-licence-and-insurance/index_nl.htm",
+          "publishedDate": "Mon, 12 Oct 2026 17:01:00 GMT",
+          "description": "Als uw rijbewijs is afgegeven in een EU-land, kunt u het overal in de EU gebruiken. Controleer voordat u vertrekt of uw rijbewijs nog geldig is. Als uw rijbewijs verloopt terwijl u in het buitenland ..."
         },
         {
-          "title": "Red Bull Racing",
-          "source": "GPblog",
-          "url": "https://www.gpblog.com/nl/f1-teams/red-bull-racing",
-          "publishedDate": "Tue, 03 Nov 2026 23:05:00 GMT",
-          "description": "Formule 1 team Red Bull Racing, is actief met Max Verstappen en Isack Hadjar. Lees het laatste F1-nieuws over Red Bull Racing op GPblog.com ..."
+          "title": "Rijbewijs gepensioneerde",
+          "source": "autoscout24",
+          "url": "https://www.autoscout24.nl/informeren/advies/wetgeving/rijbewijs-gepensioneerde/",
+          "publishedDate": "Wed, 13 Nov 2024 16:00:00 GMT",
+          "description": "Met pensioen gaan betekent tijd voor hobby’s, kleinkinderen en vele autotripjes. Toch is het behouden van een rijbewijs niet vanzelfsprekend als je met pensioen bent. Geen zorgen, we leggen alles uit ..."
         },
         {
-          "title": "Max Verstappen wint turbulente race in Mexico, Kimi Antonelli schrijft geschiedenis met wereldtitel Formule 1",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/formule-1/nieuws/max-verstappen-wint-turbulente-race-in-mexico-kimi-antonelli-schrijft-geschiedenis-met-wereldtitel-formule-1-2026110118185342026/",
-          "publishedDate": "Sun, 01 Nov 2026 15:25:00 GMT",
-          "description": "Vanaf de vijfde startplek leek een nieuwe zege in Mexico-Stad ver weg voor Max Verstappen. Toch kwam de Red Bull-coureur uitstekend weg en sloeg hij in een chaotische race op de juiste momenten toe. D ..."
-        },
-        {
-          "title": "'Max Verstappen had met wereldkampioen kunnen samenwerken bij Red Bull Racing'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/formule-1/nieuws/max-verstappen-had-met-wereldkampioen-kunnen-samenwerken-bij-red-bull-racing-2026101919055304649/",
-          "publishedDate": "Mon, 19 Oct 2026 14:32:00 GMT",
-          "description": "Christian Horner heeft een opvallend boekje opengedaan over de zoektocht naar een teamgenoot voor Max Verstappen. Volgens de voormalig Red Bull-teambaas werden meerdere topcoureurs overwogen, maar gin ..."
+          "title": "Rijbewijs verlengen: hoe werkt dat?",
+          "source": "autoscout24",
+          "url": "https://www.autoscout24.nl/informeren/advies/wetgeving/rijbewijs-verlengen-hoe-werkt-dat/",
+          "publishedDate": "Wed, 05 Jun 2024 17:00:00 GMT",
+          "description": "Het verlengen van je rijbewijs is essentieel voor elke automobilist. Ontdek stap voor stap hoe dit in zijn werk gaat. Ook leggen we uit wanneer je een medische keuring nodig hebt en welk rijbewijs je ..."
         }
       ]
     },
@@ -560,80 +361,313 @@
       ]
     },
     {
-      "keyword": "grachtenpand",
+      "keyword": "koen weijland",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Monumentaal grachtenpand uit 1733 van het gas af: ‘Als het hier kan, dan kan het overal’",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/amsterdam/monumentaal-grachtenpand-uit-1733-van-het-gas-af-als-het-hier-kan-dan-kan-het-overal~b5ead24f/",
-          "publishedDate": "Fri, 17 Sep 2021 07:02:00 GMT",
-          "description": "Een grachtenpand uit 1733 aan de Oudezijds Voorburgwal moet laten zien dat het mogelijk is: van het aardgas af, zelfs in de oudste en slechtst ge&#239;soleerde stukjes stad. Maar door alle regels die er ..."
+          "title": "Koen Weijland en Carola Kirschbaum verwelkomen eerste kind: 'We leven op een roze wolk'",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/koen-weijland-en-carola-kirschbaum-verwelkomen-eerste-kind-we-leven-op-een-roze-wolk/ar-AA2gPwbh",
+          "publishedDate": "Thu, 05 Nov 2026 08:28:40 GMT",
+          "description": "Koen Weijland (34) en Carola Kirschbaum zijn ouders geworden van hun eerste kind. Het stel deelt het blije nieuws op Instagram met een fotoreeks van hun pasgeboren dochter."
         },
         {
-          "title": "Prinses Annette begint aan nieuw hoofdstuk in dit grachtenpand van € 2,9 miljoen",
-          "source": "Startpagina on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/prinses-annette-begint-aan-nieuw-hoofdstuk-in-dit-grachtenpand-van-2-9-miljoen/ar-AA2gRsS8",
-          "publishedDate": "Thu, 05 Nov 2026 23:22:23 GMT",
-          "description": "Een nieuw huis, een nieuw hoofdstuk en een prijskaartje waar de meeste mensen alleen maar van kunnen dromen. Prinses Annette Sekr&#232;ve, die na 25 jaar huwelijk uit elkaar gaat met prins Bernhard junior, ..."
+          "title": "Van FIFA naar boek: e-sporter Koen Weijland maakt de balans op",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2248916-van-fifa-naar-boek-e-sporter-koen-weijland-maakt-de-balans-op",
+          "publishedDate": "Tue, 04 Sep 2018 05:35:00 GMT",
+          "description": "Als hij echt moet kiezen, dan gaat hij voor een normaal potje voetbal. Maar zijn geld verdient hij met het spelen van de voetbalgame FIFA. Koen Weijland was de eerste e-sporter van Nederland met een ..."
         },
         {
-          "title": "Dit historische grachtenpand in Amsterdam staat te koop op Funda voor € 11.250.000",
-          "source": "MAN MAN on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/dit-historische-grachtenpand-in-amsterdam-staat-te-koop-op-funda-voor-11250000/ar-AA2gPv6W",
-          "publishedDate": "Thu, 05 Nov 2026 06:00:00 GMT",
-          "description": "Een grachtenpand met een eigen stukje Amsterdamse geschiedenis, indrukwekkende plafondschilderingen en een tuin waar je u tegen zegt. Het klinkt bijna te mooi om waar te zijn, maar aan de Keizersgrach ..."
+          "title": "Bekende sportpresentator (34) maakt prachtig priv&#233;nieuws bekend met verloofde na moeilijke periode",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/bekende-sportpresentator-34-maakt-prachtig-privenieuws-bekend-met-verloofde-na-moeilijke-periode-2026110517104520769/",
+          "publishedDate": "Thu, 05 Nov 2026 12:01:00 GMT",
+          "description": "Koen Weijland is de afgelopen jaren uitgegroeid tot een van de vaste gezichten bij Viaplay. De populaire sportpresentator is veel te zien rond de Premier League. De komende tijd is hij echter druk met ..."
         },
         {
-          "title": "Grachtenpand of monument schilderen: waar let je op?",
-          "source": "amsterdamsdagblad",
-          "url": "https://www.amsterdamsdagblad.nl/algemeen/grachtenpand-of-monument-schilderen-waar-let-je-op",
-          "publishedDate": "Mon, 21 Sep 2026 05:07:00 GMT",
-          "description": "Een grachtenpand laat je niet schilderen zoals een doorzonwoning in een nieuwbouwwijk. Er zijn regels voor kleuren, het houtwerk is vaak al generaties oud en de steiger moet in een straat waar ..."
+          "title": "Prachtig babynieuws voor Koen Weijland en Carola Kirschbaum",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/koen-weijland-carola-kirschbaum-kind-baby-ouders",
+          "publishedDate": "Thu, 05 Nov 2026 10:11:00 GMT",
+          "description": "Koen Weijland en Carola Kirschbaum zijn ouders geworden van een eerste kindje. Het dolverliefde stel maakt op Instagram de komst van dochtertje Stella bekend."
         },
         {
-          "title": "Wonen als royalty in Delft: dit grachtenpand staat te koop voor 3 miljoen",
-          "source": "stadsbladutrecht.nl",
-          "url": "https://indebuurt.nl/delft/wonen/wonen-als-royalty-in-delft-dit-grachtenpand-staat-te-koop-voor-3-miljoen~abe1ab60/",
-          "publishedDate": "Sat, 16 May 2026 01:01:00 GMT",
-          "description": "Bijna 3 miljoen euro neerleggen voor een huis in Delft is niet niks. Dit grachtenpand – of beter gezegd: grachtenpaleis – is op dit moment het duurste koophuis in onze stad. Daar wil je natuurlijk ..."
+          "title": "Presentator Koen Weijland breekt voet bij sprong in het water: 'Dom en ondoordacht'",
+          "source": "rtl",
+          "url": "https://www.rtl.nl/boulevard/artikel/5624275/koen-weijland-voet-gebroken",
+          "publishedDate": "Sat, 04 Jul 2026 11:12:00 GMT",
+          "description": "&quot;Zo lig je ineens in het ziekenhuis na wat pech, maar vooral een hele domme actie&quot;, vertelt Koen. Hij legt uit wat er is gebeurd. &quot;Ik besloot het meer in te springen en het was veel ondieper dan ik ..."
         },
         {
-          "title": "Delfts feitje: dit is het verschil tussen een herenhuis en een grachtenpand",
-          "source": "stadsbladutrecht.nl",
-          "url": "https://indebuurt.nl/delft/wonen/verschil-herenhuis-en-grachtenpand-delft~199000/",
-          "publishedDate": "Mon, 05 Jan 2026 15:53:00 GMT",
-          "description": "We starten met het herenhuis. Je herkent de statige panden vaak aan de zogeheten ‘spekbanden’. Dit zijn de lichtgekleurde horizontale strepen die in de muren van veel herenhuizen verwerkt zijn. De ..."
+          "title": "Koen Weijland geeft zeer pijnlijk antwoord op vraag over Heitinga",
+          "source": "FC Update",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2025/09/koen-weijland-geeft-zeer-pijnlijk-antwoord-op-vraag-over-heitinga",
+          "publishedDate": "Mon, 29 Sep 2025 04:46:00 GMT",
+          "description": "Koen Weijland heeft bij De Oranjezondag een zeer pijnlijk antwoord gegeven op de vraag wat de visie van John Heitinga is. De presentator van Viaplay stelt dat niemand kan uitleggen wat de trainer van ..."
         },
         {
-          "title": "Joost en Judith verkopen riant grachtenpand: ‘Woonkamer is gigantisch, hier aten soms wel 150 studenten’",
+          "title": "Koen Weijland 'waarschuwt' Ajax-trainer Heitinga: &quot;Twente-uit&quot;",
+          "source": "FC Twente Nieuws",
+          "url": "https://www.twentefans.nl/koen-weijland-waarschuwt-ajax-trainer-heitinga-twente-uit/",
+          "publishedDate": "Sun, 28 Sep 2025 23:45:00 GMT",
+          "description": "“Ik denk dat niemand dat op dit moment kan uitleggen, eerlijk gezegd&quot;, liet hij weten in gesprek met H&#233;l&#232;ne Hendriks. &quot;Het is eigenlijk het hele seizoen al niet goed, maar als je thuis zelfs tegen ..."
+        },
+        {
+          "title": "Koen Weijland vol trots over lichaamstransformatie: ‘Besef hoe hij eruitzag…’",
+          "source": "FC Update",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2025/06/koen-weijland-vol-trots-over-lichaamstransformatie-dit-zegt-vriendin-carola-kirschbaum-erover",
+          "publishedDate": "Sat, 14 Jun 2025 12:01:00 GMT",
+          "description": "Koen Weijland heeft in een twintig minuten lange video inzicht gegeven in de lichaamstransformatie die hij de afgelopen maanden heeft ondergaan. De presentator van Viaplay viel in een periode van ..."
+        },
+        {
+          "title": "Bijzondere schooldag voor groep 7: les in Hoog Catharijne van Youtuber Koen Weijland",
           "source": "AD",
-          "url": "https://www.ad.nl/delft/joost-en-judith-verkopen-riant-grachtenpand-woonkamer-is-gigantisch-hier-aten-soms-wel-150-studenten~a1c6bcda/",
-          "publishedDate": "Sat, 06 May 2023 16:53:00 GMT",
-          "description": "De twee kochten het grachtenpand in 2006. Het was van een studentenvereniging geweest en zo zag het er ook uit. ,,De woonkamer was de eetzaal waar de studenten soms met 150 man aten”, schetst Joost. , ..."
+          "url": "https://www.ad.nl/utrecht/bijzondere-schooldag-voor-groep-7-les-in-hoog-catharijne-van-youtuber-koen-weijland~abf015bf/",
+          "publishedDate": "Wed, 30 Oct 2019 04:12:00 GMT",
+          "description": "Geen duffe reken- of taalles in het klaslokaal , maar een ge&#239;mproviseerde les in Hoog Catharijne gegeven door Youtuber Koen Weijland. Groep 7 van basisschool Gertrudis uit de Utrechtse Rivierenwijk ..."
         },
         {
-          "title": "Een monumentaal grachtenpand turned woonhuis door interieurontwerper ﻿Anne Claus",
-          "source": "ELLE",
-          "url": "https://www.elle.com/nl/interieur/binnenkijkers/a43504623/interieurontwerper-anne-claus-grachtenpand-amsterdam/",
-          "publishedDate": "Tue, 04 Apr 2023 04:26:00 GMT",
-          "description": "Interieurontwerper Anne Claus ging aan de slag om van een statig, maar hokkerig grachtenpand een levendig woonhuis te maken. Anne Claus ging aan de slag om van een statig, maar hokkerig grachtenpand ..."
-        },
-        {
-          "title": "Bart en Liedieke verkopen rijksmonumentaal grachtenpand aan Oude Delft: ‘Een Oude bierbrouwerij’",
+          "title": "E-sporter Koen Weijland vertelt: Wat je moet weten van FIFA 19 en zijn leven na Ajax",
           "source": "AD",
-          "url": "https://www.ad.nl/delft/bart-en-liedieke-verkopen-rijksmonumentaal-grachtenpand-aan-oude-delft-een-oude-bierbrouwerij~ad64d80c/",
-          "publishedDate": "Fri, 26 Mar 2021 20:11:00 GMT",
-          "description": "Ze kochten het huis in 1976, op 26 en 30-jarige leeftijd. Jong en onbezonnen, maar blijkbaar gezegend met een prima vooruitziende blik. Doelbewust en met het oog op de toekomst uitgezocht. ,,We hadden ..."
-        },
-        {
-          "title": "Ook het grachtenpand moet vergroenen",
-          "source": "oneworld.nl",
-          "url": "https://www.oneworld.nl/klimaat/ook-het-grachtenpand-moet-vergroenen/",
-          "publishedDate": "Fri, 21 Jun 2019 09:00:00 GMT",
-          "description": "Om de energietransitie in Nederland in goede banen te leiden moeten alle gebouwen worden verduurzaamd: dat zijn in totaal 7,7 miljoen woningen en 1,1 miljoen overige (utiliteits-)gebouwen, waaronder ..."
+          "url": "https://www.ad.nl/arnhem/e-sporter-koen-weijland-vertelt-wat-je-moet-weten-van-fifa-19-en-zijn-leven-na-ajax~ae393440/",
+          "publishedDate": "Wed, 26 Sep 2018 23:08:00 GMT",
+          "description": "Voor Koen Weijland (25) uit Arnhem, tegenwoordig woonachtig in Amsterdam, zijn het drukke tijden. Omdat FIFA 19, de nieuwste versie van een voetbalspel voor de spelcomputer, vanaf vrijdag in de winkel ..."
         }
       ]
+    },
+    {
+      "keyword": "luciano valente",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Valente opnieuw niet opgeroepen voor Oranje: &quot;Verrast me niet&quot;",
+          "source": "FeyenoordPings",
+          "url": "https://www.feyenoordpings.nl/valente-opnieuw-niet-opgeroepen-voor-oranje-verrast-me-niet/",
+          "publishedDate": "Fri, 06 Nov 2026 09:13:00 GMT",
+          "description": "Lees nu | Giovanni van Bronckhorst is niet verrast dat Luciano Valente opnieuw niet is opgeroepen voor Oranje. De selectie van Xavi is niet erg anders ..."
+        },
+        {
+          "title": "Feyenoord-aanvoerder Valente trekt pijnlijke conclusie na verlies tegen Inter",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/luciano-valente-feyenoord-internazionale-barcelona",
+          "publishedDate": "Tue, 03 Nov 2026 15:21:00 GMT",
+          "description": "De 0-3 nederlaag tegen Internazionale kwam bij Feyenoord-aanvoerder Luciano Valente nog harder aan dan de eerdere zeperd tegen FC Barcelona. Dit is waarom."
+        },
+        {
+          "title": "Valente: 'Deze is wat zwaarder omdat je op voorhand echt het gevoel had dat er wat te halen valt'",
+          "source": "FR-Fans.nl",
+          "url": "https://www.fr-fans.nl/nieuws/79731/valente-deze-is-wat-zwaarder-omdat-je-op-voorhand-echt-het-gevoel-had-dat-er-wat-te-halen-valt",
+          "publishedDate": "Tue, 03 Nov 2026 15:05:00 GMT",
+          "description": "Feyenoord verloor dinsdagavond in De Kuip van Internazionale. In De Kuip werd het 0-3 voor de Italianen. De Rotterdammers konden eigenlijk geen ..."
+        },
+        {
+          "title": "Luciano Valente erkent meerdere in Inter: &quot;We hebben op kwaliteit verloren&quot;",
+          "source": "1908.nl",
+          "url": "https://1908.nl/artikelen/luciano-valente-erkent-meerdere-in-inter-we-hebben-op-kwaliteit-verloren",
+          "publishedDate": "Tue, 03 Nov 2026 14:57:00 GMT",
+          "description": "Een onthutsend zwak Feyenoord is dinsdagavond in eigen Kuip kansloos onderuitgegaan tegen grootmacht Internazionale. De ploeg van Giovanni van Bronckhorst kwam al vroeg op achterstand en liep vervolge ..."
+        },
+        {
+          "title": "Valente wijst oorzaak nederlaag aan: &quot;Daar is Inter heel goed in&quot;",
+          "source": "FeyenoordPings",
+          "url": "https://www.feyenoordpings.nl/valente-wijst-oorzaak-nederlaag-aan-daar-is-inter-heel-goed-in/",
+          "publishedDate": "Tue, 03 Nov 2026 14:40:00 GMT",
+          "description": "Lees nu | Luciano Valente zag dinsdagavond een duidelijk verschil tussen Feyenoord en Internazionale. De aanvoerder erkende na de 0-3 nederlaag dat ..."
+        },
+        {
+          "title": "‘Van Bronckhorst goochelt met Luciano Valente’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/van-bronckhorst-goochelt-met-luciano-valente/",
+          "publishedDate": "Tue, 03 Nov 2026 07:47:00 GMT",
+          "description": "Pierre van Hooijdonk heeft in een voorbeschouwing op Feyenoord versus Internazionale de loftrompet uitgestoken voor Luciano Valente en Gjivai Zechi&#235;l."
+        },
+        {
+          "title": "Valente zag goed Feyenoord ondanks gelijkspel: 'Zulke wedstrijden zitten ertussen'",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/video/valente-zag-goed-feyenoord-ondanks-gelijkspel-zulke-wedstrijden-zitten-ertussen",
+          "publishedDate": "Mon, 02 Nov 2026 02:08:00 GMT",
+          "description": "Feyenoord liet zaterdagmiddag punten liggen tegen Fortuna Sittard, maar speelde volgens aanvoerder Luciano Valente wel een goede wedstrijd. Bekijk hier de volledige persconferentie met Valente en Giov ..."
+        },
+        {
+          "title": "FC Groningen profiteert van ontwikkeling Luciano Valente bij Feyenoord",
+          "source": "FootballTransfers",
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/11/fc-groningen-profiteert-van-ontwikkeling-luciano-valente-bij-feyenoord",
+          "publishedDate": "Sat, 31 Oct 2026 23:00:00 GMT",
+          "description": "Luciano Valente is bij Feyenoord in korte tijd uitgegroeid tot een sterkhouder en uitblinker. De stormachtige ontwikkeling van de middenvelder in Rotterdam is ook goed nieuws voor FC Groningen."
+        },
+        {
+          "title": "De rol van Luciano Valente bij Feyenoord: 'Op tien komt hij beter tot z'n recht'",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2275465/de-rol-van-luciano-valente-bij-feyenoord-op-tien-komt-hij-beter-tot-zn-recht",
+          "publishedDate": "Fri, 30 Oct 2026 12:49:00 GMT",
+          "description": "De opmars van Feyenoord viel dit seizoen min of meer samen met de positieverandering van Luciano Valente. De middenvelder werd door een gebrek aan smaken in de aanvalslinie op de linksbuitenpositie ge ..."
+        },
+        {
+          "title": "Valente belandt door hetzelfde probleem in 'de Joey Veerman-hoek'",
+          "source": "Mee Met Oranje",
+          "url": "https://www.meemetoranje.nl/voetbal/nieuws/luciano-valente-joey-veerman-oranje-feyenoord/",
+          "publishedDate": "Thu, 22 Oct 2026 13:04:00 GMT",
+          "description": "Bert Konterman prijst Read en Zechi&#235;l, maar twijfelt aan Luciano Valente: ‘Voor mij zit hij nog een beetje in de Joey Veerman-hoek.’ ..."
+        }
+      ]
+    },
+    {
+      "keyword": "economie",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Waarom beleggers juichen na verkiezingswinst Democraten, maar de economie er niet per se beter van wordt",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/economie/waarom-beleggers-juichen-na-verkiezingswinst-democraten-maar-de-economie-er-niet-per-se-beter-van-wordt~ab356b83/",
+          "publishedDate": "Wed, 04 Nov 2026 00:11:00 GMT",
+          "description": "De verkiezingswinst van de Democraten kan slecht uitpakken voor de economie. Vooral de bedrijven die met kunstmatige intelligentie (AI) bezig zijn kunnen flink worden geremd in hun groei. En dat straa ..."
+        },
+        {
+          "title": "Nederlandse economie groeit verder dankzij wereldwijde AI-boom",
+          "source": "RTL Nieuws (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/nederlandse-economie-groeit-verder-dankzij-wereldwijde-ai-boom/ar-AA2grbgB",
+          "publishedDate": "Fri, 30 Oct 2026 01:36:47 GMT",
+          "description": "De Nederlandse economie is in het afgelopen kwartaal 0,6 procent gegroeid ten opzichte van het tweede kwartaal. Dat was vooral te danken aan de export van machines, zoals die van ASML. Ook het vullen ..."
+        },
+        {
+          "title": "Economie &amp; recht",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/rubriek/economie-recht/",
+          "publishedDate": "Wed, 28 Oct 2026 17:00:00 GMT",
+          "description": "De rubriek Economie &amp; recht belicht wekelijks rechterlijke uitspraken met economische gevolgen voor mensen of bedrijven."
+        },
+        {
+          "title": "Nobelprijs voor Amerikaans onderzoek dat economie helpt te stabiliseren",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6412869/nobelprijs-voor-amerikaans-onderzoek-dat-economie-helpt-te-stabiliseren.html",
+          "publishedDate": "Mon, 12 Oct 2026 06:18:00 GMT",
+          "description": "De Amerikaanse economen Robert Hall en Michael Woodford hebben maandag de Nobelprijs voor Economie gewonnen. Dat maakte de Koninklijke Zweedse Academie van Wetenschappen maandag bekend. Ze krijgen de ..."
+        },
+        {
+          "title": "Peilingen: Amerikaanse kiezers ontevreden over Trump en economie, zorgen over toekomst",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/buitenland/peilingen-amerikaanse-kiezers-ontevreden-over-trump-en-economie-zorgen-over-toekomst~a7385063/",
+          "publishedDate": "Tue, 03 Nov 2026 07:47:00 GMT",
+          "description": "Amerikanen zijn over het algemeen ontevreden over de toestand van het land, de staat van de economie en het functioneren van president Donald Trump. Dat meldt CNN op basis van een enqu&#234;te bij &lt;a href= ..."
+        },
+        {
+          "title": "Economie groeit met 0,6 procent in derde kwartaal 2026",
+          "source": "Centraal Bureau voor de Statistiek",
+          "url": "https://www.cbs.nl/nl-nl/nieuws/2026/44/economie-groeit-met-0-6-procent-in-derde-kwartaal-2026",
+          "publishedDate": "Fri, 30 Oct 2026 02:31:00 GMT",
+          "description": "Volgens de eerste berekening steeg het bruto binnenlands product (bbp) in het derde kwartaal van 2026 met 0,6 procent vergeleken met het tweede kwartaal van 2026."
+        },
+        {
+          "title": "Economie en bedrijfseconomie",
+          "source": "Universiteit Utrecht",
+          "url": "https://www.uu.nl/bachelors/economie-en-bedrijfseconomie",
+          "publishedDate": "Thu, 22 Oct 2026 01:07:00 GMT",
+          "description": "Waarom starten mensen een eigen bedrijf? Wat zijn de maatschappelijke kosten van datacenters? Welk klimaatbeleid is het meest effectief en wat zijn de gevolgen voor bedrijven en de industrie? En hoe ..."
+        },
+        {
+          "title": "15.000 jongeren werken voor een eerlijkere economie",
+          "source": "MO* Magazine",
+          "url": "https://www.mo.be/nieuws/15-000-jongeren-werken-voor-een-eerlijkere-economie",
+          "publishedDate": "Thu, 15 Oct 2026 17:01:00 GMT",
+          "description": "Op 15 oktober staken meer dan 15.000 Vlaamse en Brusselse jongeren hun handen uit de mouwen tijdens de YOUCA Action Day."
+        },
+        {
+          "title": "Nederlandse economie groeit harder dan gedacht, huishoudens geven meer uit",
+          "source": "NU",
+          "url": "https://www.nu.nl/economie/6410672/nederlandse-economie-groeit-harder-dan-gedacht-huishoudens-geven-meer-uit.html",
+          "publishedDate": "Wed, 23 Sep 2026 01:14:00 GMT",
+          "description": "De Nederlandse economie is het afgelopen kwartaal niet met 0,4, maar 0,6 procent gestegen. Dat komt vooral doordat huishoudens meer hebben uitgegeven dan gedacht. Ook de groei van export is groter dan ..."
+        },
+        {
+          "title": "Nederlandse economie doet het niet slecht, maar het moet beter",
+          "source": "ewmagazine",
+          "url": "https://www.ewmagazine.nl/economie/news/2025/12/nederlandse-economie-groei-2025-2026-2027-ramingen-1522999/",
+          "publishedDate": "Tue, 16 Dec 2025 04:20:00 GMT",
+          "description": "De Nederlandse economie werd het afgelopen jaar flink op de proef gesteld. Het onvoorspelbare beleid van de Amerikaanse president Donald Trump testte het vertrouwen van bedrijven en consumenten."
+        }
+      ]
+    },
+    {
+      "keyword": "frankrijk",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Twee doden bij busongeluk met scholieren in Frankrijk, meerdere gewonden",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2638267-twee-doden-bij-busongeluk-met-scholieren-in-frankrijk-meerdere-gewonden",
+          "publishedDate": "Fri, 06 Nov 2026 01:54:00 GMT",
+          "description": "In Frankrijk zijn bij een ongeluk met een bus twee doden gevallen. Lokale autoriteiten melden dat er ook zestien mensen gewond geraakt, van wie drie ernstig. Een van de slachtoffers is minderjarig."
+        },
+        {
+          "title": "Bus vol scholieren botst frontaal tegen boom in Frankrijk, kind (7) en jongvolwassene (18) overleden",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/bus-vol-scholieren-botst-frontaal-tegen-boom-in-frankrijk-kind-7-en-jongvolwassene-18-overleden~ae8214f2/",
+          "publishedDate": "Thu, 05 Nov 2026 21:56:00 GMT",
+          "description": "In Frankrijk is een lijnbus met hoofdzakelijk middelbare scholieren van de weg geraakt en tegen een boom gebotst. Het ongeluk vond plaats in het departement Ain, op een weg in de gemeente Lent. Volgen ..."
+        },
+        {
+          "title": "Noodweer blijft Zuid-Frankrijk en Corsica teisteren: twee mensen verdrinken in auto",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/noodweer-blijft-zuid-frankrijk-en-corsica-teisteren-twee-mensen-verdrinken-in-auto~ac931d06/",
+          "publishedDate": "Thu, 05 Nov 2026 17:12:00 GMT",
+          "description": "Het zuiden van Frankrijk en Corsica hebben nog altijd te maken met hevige regenval. Op Corsica kwamen twee mensen om het leven nadat ze verdronken in hun auto. Ook in de Franse departementen H&#233;rault e ..."
+        },
+        {
+          "title": "Bijna 450 aanhoudingen in Frankrijk bij nieuwe grootschalige betogingen",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/bijna-450-aanhoudingen-in-frankrijk-bij-nieuwe-grootschalige-betogingen~b10d0312/",
+          "publishedDate": "Sat, 31 Oct 2026 16:56:00 GMT",
+          "description": "In Frankrijk zijn zaterdag 565 mensen opgepakt tijdens betogingen in het land. Vier politieagenten en een gendarme raakten gewond in Parijs. Dat hebben het Franse ministerie van Binnenlandse Zaken en ..."
+        },
+        {
+          "title": "Frankrijk zet zich schrap voor halloweenprotesten, groot risico op onrust",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6415028/frankrijk-zet-zich-schrap-voor-halloweenprotesten-groot-risico-op-onrust.html",
+          "publishedDate": "Sat, 31 Oct 2026 04:44:00 GMT",
+          "description": "In Frankrijk zijn zaterdag alle ogen gericht op de geplande protesten. Omdat de demonstratie samenvalt met Halloween, verwachten autoriteiten dat relschoppers maskers gebruiken om hun identiteit te ve ..."
+        },
+        {
+          "title": "Massale protesten leggen Frankrijk lam door hoge kosten en stagnerende lonen",
+          "source": "Newsmonkey on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/massale-protesten-leggen-frankrijk-lam-door-hoge-kosten-en-stagnerende-lonen/ar-AA2gUN4v",
+          "publishedDate": "Fri, 06 Nov 2026 10:02:00 GMT",
+          "description": "In het kort Honderdduizenden Fransen protesteren Donderdag braken er in heel Frankrijk massale demonstraties uit toen een diverse coalitie van werknemers, waaronder onderwijzers, openbaarvervoersmedew ..."
+        },
+        {
+          "title": "Een van de duurste tolwegen in Frankrijk: fel gecontesteerde snelweg A69 tussen Toulouse en Castres officieel geopend",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/frankrijk-snelweg-opening-a69/",
+          "publishedDate": "Fri, 06 Nov 2026 09:57:00 GMT",
+          "description": "In het zuiden van Frankrijk is de A69 tussen Toulouse en Castres officieel geopend. Door het nieuwe stuk snelweg van zo'n 50 km wordt de reistijd tussen de steden fors verminderd, maar de weg is ook o ..."
+        },
+        {
+          "title": "Kind en tiener omgekomen bij busongeval met scholieren in oosten van Frankrijk",
+          "source": "nu",
+          "url": "https://nu.cw/2026/11/06/kind-en-tiener-omgekomen-bij-busongeval-met-scholieren-in-oosten-van-frankrijk/",
+          "publishedDate": "Fri, 06 Nov 2026 09:08:00 GMT",
+          "description": "Bij een busongeluk in het oosten van Frankrijk zijn vrijdag twee kinderen om het leven gekomen. Zestien andere inzittenden raakten gewond. In de bus zaten 43 mensen, waarvan 15 minderjarigen die onder ..."
+        },
+        {
+          "title": "Frankrijk onderzoekt mogelijk oorlogsmisdrijf Isra&#235;l in Libanon",
+          "source": "Amnesty International",
+          "url": "https://www.amnesty.nl/actueel/frankrijk-onderzoekt-mogelijk-oorlogsmisdrijf-israel-in-libanon",
+          "publishedDate": "Wed, 04 Nov 2026 06:21:00 GMT",
+          "description": "De Franse onderzoeksdienst voor oorlogsmisdaden stelt een onderzoek in naar een dodelijke aanval door Isra&#235;l op een woongebouw in Libanon."
+        },
+        {
+          "title": "Begint de eurocrisis versie 2.0 in Frankrijk? ‘Het is te vroeg om dat te zeggen’",
+          "source": "EW",
+          "url": "https://www.ewmagazine.nl/economie/2026/11/eurocrisis-frankrijk-rente-ecb-europese-unie-1592270/",
+          "publishedDate": "Mon, 02 Nov 2026 02:00:00 GMT",
+          "description": "In 2011 dreigde de eurozone uiteen te scheuren. Nu de rente in Frankrijk flink is opgelopen, lijken de problemen in de muntunie terug van weggeweest."
+        }
+      ]
+    },
+    {
+      "keyword": "johan cruijff",
+      "trafficLabel": "5K+",
+      "articles": []
     }
   ]
 }
