@@ -1,242 +1,147 @@
 {
-  "fetchedAt": "2026-11-13T01:17:54.706Z",
+  "fetchedAt": "2026-11-13T08:22:09.240Z",
   "trends": [
     {
-      "keyword": "outlook",
-      "trafficLabel": "20K+",
+      "keyword": "microsoft storing",
+      "trafficLabel": "100K+",
       "articles": [
         {
-          "title": "Microsoft laat klassieke Outlook meer op nieuwe versie lijken",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/tweakers/6413653/microsoft-laat-klassieke-outlook-meer-op-nieuwe-versie-lijken.html",
-          "publishedDate": "Mon, 19 Oct 2026 06:45:00 GMT",
-          "description": "Microsoft past vanaf november 2026 het uiterlijk van Outlook Classic voor Windows aan. Met nieuwe pictogrammen, tussenruimtes en uitlijning wil Microsoft de app duidelijker maken en beter laten aanslu ..."
-        },
-        {
-          "title": "Outlook, OneDrive en Microsoft 365 hebben last van storing",
-          "source": "Tweakers",
-          "url": "https://tweakers.net/nieuws/254484/outlook-onedrive-en-microsoft-365-hebben-last-van-storing.html",
-          "publishedDate": "Thu, 12 Nov 2026 12:45:00 GMT",
-          "description": "Microsoft 365 heeft last van een storing. Dat bevestigt Microsoft op sociale media. Daardoor kunnen gebruikers mogelijk niet bij Outlook, OneDrive, de zakelijke versie van Microsoft Teams en andere so ..."
-        },
-        {
-          "title": "Even je mail checken lukt mogelijk niet: grote storing bij Outlook",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/tech/storing/artikelen/storing-microsoft-outlook-onedrive-teams-nederland",
-          "publishedDate": "Thu, 12 Nov 2026 12:37:00 GMT",
-          "description": "Microsoft kampt met een storing bij Outlook, OneDrive en Teams. Ook Nederlandse gebruikers melden problemen. Microsoft werkt aan een oplossing voor de storing."
-        },
-        {
-          "title": "Microsoft dicht actief misbruikt Outlook-lek en kritieke Windows-kwetsbaarheden",
-          "source": "c't",
-          "url": "https://www.ct.nl/nieuws/microsoft-dicht-actief-misbruikt-outlook-lek-en-kritieke-windows-kwetsbaarheden/",
-          "publishedDate": "Thu, 12 Nov 2026 03:54:00 GMT",
-          "description": "Microsoft dicht een actief misbruikt Outlook-lek en kritieke kwetsbaarheden in Windows en Excel tijdens Patch Tuesday."
-        },
-        {
-          "title": "Kan kpnmail niet toevoegen in outlook",
-          "source": "learn",
-          "url": "https://learn.microsoft.com/en-us/answers/questions/6058673/kan-kpnmail-niet-toevoegen-in-outlook",
-          "publishedDate": "Sun, 01 Nov 2026 23:53:00 GMT",
-          "description": "Using Classic Outlook on Windows for personal email, calendar, and contact management Als het account wel correct is maar aanmelden mislukt, kan een app-password nodig zijn in plaats van het normale ..."
-        },
-        {
-          "title": "Outlook-account herstellen zonder toegang tot oud e-mailadres",
-          "source": "learn",
-          "url": "https://learn.microsoft.com/nl-nl/answers/questions/6057195/outlook-account-herstellen-zonder-toegang-tot-oud",
-          "publishedDate": "Sat, 31 Oct 2026 07:01:00 GMT",
-          "description": "Ik probeer toegang te krijgen tot mijn persoonlijke Outlook-account, dat ik al meer dan 10 jaar gebruik. Mijn wachtwoord werkt, maar Microsoft stuurt de verificatiecode naar een oud @home.nl ..."
-        },
-        {
-          "title": "Microsoft voegt automatische antwoorden toe aan New Outlook",
-          "source": "ictmagazine.nl",
-          "url": "https://www.ictmagazine.nl/nieuws/microsoft-voegt-automatische-antwoorden-toe-aan-new-outlook/",
-          "publishedDate": "Tue, 27 Oct 2026 05:18:00 GMT",
-          "description": "Outlook krijgt automatische antwoorden met regels en sjablonen, waardoor routinematige e-mailtaken sneller en productiever worden."
-        },
-        {
-          "title": "Storing bij Microsoft Outlook opgelost, enkel nog problemen met zoekfunctie",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/31/microsoft-storing/",
-          "publishedDate": "Mon, 31 Aug 2026 14:17:00 GMT",
-          "description": "De storing die wereldwijd duizenden gebruikers van Microsoft Outlook ondervonden bij het gebruik van hun mailbox, is grotendeels opgelost. Enkel de zoekfunctie kan nog een storing geven. Dat meldt het ..."
-        },
-        {
-          "title": "De nieuwste versie van Outlook voor Windows is nu beschikbaar",
-          "source": "Microsoft",
-          "url": "https://www.microsoft.com/nl-be/microsoft-365/outlook/outlook-for-windows",
-          "publishedDate": "Thu, 03 Jul 2025 22:18:00 GMT",
-          "description": "E-mail en de agenda van Outlook zijn nu gratis inbegrepen in Windows. Profiteer van een eersteklas ervaring met intelligente hulpprogramma's om op je eigen manier overzicht te houden over je dag. Word ..."
-        },
-        {
-          "title": "Outlook voor bedrijven",
-          "source": "Microsoft",
-          "url": "https://www.microsoft.com/nl-nl/microsoft-365/outlook/outlook-for-business?ms.officeurl=outlook",
-          "publishedDate": "Thu, 28 Apr 2022 12:04:00 GMT",
-          "description": "Blijf verbonden en georganiseerd met Copilot in Outlook. Copilot helpt je om het overzicht te houden over je Postvak IN. Via Copilot Chat kun je lange e-mailthreads laten samenvatten, snel e-mails ..."
-        }
-      ]
-    },
-    {
-      "keyword": "italië - frankrijk",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Itali&#235; bezorgt Frankrijk en Zidane eerste nederlaag in Nations League, Van Bommel wint opnieuw met Belgi&#235;",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/sport/italie-bezorgt-frankrijk-en-zidane-eerste-nederlaag-in-nations-league-van-bommel-wint-opnieuw-met-belgie~be817961/",
-          "publishedDate": "Thu, 12 Nov 2026 15:53:00 GMT",
-          "description": "Itali&#235; heeft donderdag het Frankrijk van de nieuwe bondscoach Zinedine Zidane de eerste nederlaag toegebracht. In San Siro wonnen de Italianen van de eveneens nieuwe bondscoach Roberto Mancini met 3-1 ..."
-        },
-        {
-          "title": "Itali&#235; wipt over Belgi&#235; na zege op Frankrijk, ook Engeland en Spanje winnen",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6416415/italie-wipt-over-belgie-na-zege-op-frankrijk-ook-engeland-en-spanje-winnen.html",
-          "publishedDate": "Thu, 12 Nov 2026 14:41:00 GMT",
-          "description": "Itali&#235; heeft donderdag in de Nations League met 3-1 gewonnen van Frankrijk. Dat is minder goed nieuws voor het Belgi&#235; van bondscoach Mark van Bommel. Ook Spanje en Engeland boekten zeges."
-        },
-        {
-          "title": "Van Bommels Belgi&#235; na comeback weer te sterk voor Turkije, Itali&#235; verslaat Frankrijk",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2639210-van-bommels-belgie-na-comeback-weer-te-sterk-voor-turkije-italie-verslaat-frankrijk",
-          "publishedDate": "Thu, 12 Nov 2026 11:32:00 GMT",
-          "description": "Belgi&#235; wint in groep 1 van de A-divisie van de Nations League in Izmir: 1-2. Itali&#235; verslaat Frankrijk met 3-1."
-        },
-        {
-          "title": "Rode Duivels moeten Itali&#235; kloppen na Italiaanse stunt tegen Frankrijk",
-          "source": "voetbalfocus",
-          "url": "https://voetbalfocus.be/rode-duivels-italie-kloppen-na-zege-tegen-frankrijk/",
-          "publishedDate": "Thu, 12 Nov 2026 15:12:00 GMT",
-          "description": "Itali&#235; versloeg Frankrijk met 3-1, waardoor Belgi&#235; zondag enkel met winst de kwartfinales van de Nations League bereikt."
-        },
-        {
-          "title": "Itali&#235; klopt Frankrijk: Rode Duivels moeten zondag winnen",
-          "source": "voetbalfocus",
-          "url": "https://voetbalfocus.be/italie-frankrijk-rode-duivels-moeten-zondag-winnen/",
-          "publishedDate": "Thu, 12 Nov 2026 15:01:00 GMT",
-          "description": "Itali&#235; verslaat Frankrijk met 3-1 en zet Belgi&#235; voor een duidelijke opdracht in Brussel: alleen winst houdt de kwartfinales binnen bereik."
-        },
-        {
-          "title": "Na ruim 64 jaar verslaat Itali&#235; Frankrijk weer op eigen bodem",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/na-ruim-64-jaar-verslaat-itali%C3%AB-frankrijk-weer-op-eigen-bodem/ar-AA2hjPn9",
-          "publishedDate": "Thu, 12 Nov 2026 14:55:00 GMT",
-          "description": "Na de eerste thuiszege op Frankrijk sinds 1962, gaat Itali&#235; ineens aan kop in de Nations League-poule. Al is de strijd om een ticket voor de kwartfinale zeker nog niet gestreden, drukte bondscoach Rob ..."
-        },
-        {
-          "title": "Itali&#235; zorgt voor grote stunt: eerste nederlaag Zinedine Zidane heeft gevolgen voor Mark van Bommel",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/buitenlands-voetbal/nieuws/italie-zorgt-voor-grote-stunt-eerste-nederlaag-zinedine-zidane-heeft-gevolgen-voor-mark-van-bommel-2026111221280428826/",
-          "publishedDate": "Thu, 12 Nov 2026 14:44:00 GMT",
-          "description": "Itali&#235; heeft Frankrijk met liefst 3-1 verslagen in de Nations League. De Italianen, die zich dit jaar niet kwalificeerden voor het WK, hebben daarmee voor de eerste nederlaag van de Franse bondscoach ..."
-        },
-        {
-          "title": "Itali&#235; zorgt voor stuntje en verslaat Frankrijk met liefst 3-1 in de Nations League",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/algemeen/itali%C3%AB-zorgt-voor-stuntje-en-verslaat-frankrijk-met-liefst-3-1-in-de-nations-league/ar-AA2hjOUv",
-          "publishedDate": "Thu, 12 Nov 2026 13:44:06 GMT",
-          "description": "Itali&#235; heeft donderdagavond een knappe overwinning geboekt op Frankrijk in de Nations League. De ploeg van bondscoach Roberto Mancini kwam vroeg op achterstand, maar draaide de wedstrijd volledig om: ..."
-        },
-        {
-          "title": "Itali&#235; verrast tegen Frankrijk: eerste nederlaag voor Zidane",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/algemeen/itali%C3%AB-verrast-tegen-frankrijk-eerste-nederlaag-voor-zidane/ar-AA2hjkhK",
-          "publishedDate": "Thu, 12 Nov 2026 13:41:00 GMT",
-          "description": "Itali&#235; heeft donderdag voor een verrassing gezorgd in de Nations league. De ploeg van bondscoach Roberto Mancini was in Milaan verrassend met 3-1 te sterk voor Frankrijk. Het betekende de eerste neder ..."
-        },
-        {
-          "title": "Frankrijk domineert, Itali&#235; slaat toe: eerste nederlaag voor Zidane een feit",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/frankrijk-domineert-italie-slaat-toe-eerste-nederlaag-voor-zidane-een-feit",
-          "publishedDate": "Thu, 12 Nov 2026 13:40:00 GMT",
-          "description": "De eerste nederlaag van Zin&#233;dine Zidane als bondscoach van Frankrijk is een feit. Les Bleus waren donderdagavond zeer dominant in San Siro, maar grepen uiteindelijk naast een zege in San Siro. Itali&#235;, ..."
-        }
-      ]
-    },
-    {
-      "keyword": "belastingplan kabinet",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Spectaculaire ontknoping Belastingplan met deal over links maakt de pijn voor de VVD nog erger – kan het kabinet-Jetten overleven?",
+          "title": "Microsoft kampt met langdurige wereldwijde storing",
           "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/11/12/spectaculaire-ontknoping-belastingplan-met-deal-over-links-maakt-de-pijn-voor-de-vvd-nog-erger-kan-het-kabinet-jetten-overleven-a4941274",
-          "publishedDate": "Thu, 12 Nov 2026 15:12:00 GMT",
-          "description": "Politieke crisis: Premier Jetten wil er alles aan doen om zijn kabinet in stand te houden, maar de manoeuvre van de CDA- en D66-fractieleiders om via links stemmen voor het Belastingplan binnen te hal ..."
+          "url": "https://www.nrc.nl/nieuws/2026/11/13/microsoft-kampt-met-langdurige-wereldwijde-storing-a4941288",
+          "publishedDate": "Thu, 12 Nov 2026 22:43:00 GMT",
+          "description": "ICT: Diensten als Outlook, Teams en Microsoft 365 kampen sinds donderdagavond met problemen en het herstellen van de diensten verloopt volgens Microsoft „niet zoals verwacht”."
         },
         {
-          "title": "Pas na de stemmingen wordt duidelijk hoe het verder gaat met belastingplan en kabinet",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2639200-pas-na-de-stemmingen-wordt-duidelijk-hoe-het-verder-gaat-met-belastingplan-en-kabinet",
-          "publishedDate": "Thu, 12 Nov 2026 09:20:00 GMT",
-          "description": "VVD-fractievoorzitter Brekelmans zei dat zijn fractie tegen het belastingplan van het eigen kabinet zal stemmen, als het wijzigingsvoorstel wordt aangenomen, waar coalitiepartners D66 en CDA een deal ..."
-        },
-        {
-          "title": "Kamer debatteert in cruciaal debat over belastingplan van Kabinet-Jetten",
+          "title": "Hardnekkige storing bij Microsoft: wereldwijde problemen met Teams en Outlook",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/332199/video/kamer-debatteert-in-cruciaal-debat-over-belastingplan-van-kabinet-jetten.html",
-          "publishedDate": "Thu, 12 Nov 2026 01:59:00 GMT",
-          "description": "PRO en Volt presenteerden woensdag een nieuw belastingplan, gesteund door D66 en CDA. De VVD is daar niet blij mee en dreigde met een kabinetscrisis. Later vandaag volgt een stemming over dit plan."
+          "url": "https://www.nu.nl/tech/6416427/hardnekkige-storing-bij-microsoft-wereldwijde-problemen-met-teams-en-outlook.html",
+          "publishedDate": "Thu, 12 Nov 2026 22:29:00 GMT",
+          "description": "Diensten van Microsoft, waaronder Outlook en Teams, zijn sinds donderdagmiddag 17.15 uur slecht of niet bereikbaar door een serverstoring. Ook overheidsinstanties over de hele wereld ondervinden hinde ..."
         },
         {
-          "title": "Nieuwe wending in crisis belastingplan: kabinet raadt plan miljonairstaks af",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/politiek/nieuwe-wending-in-crisis-belastingplan-kabinet-raadt-plan-miljonairstaks-af~aae8f375/",
-          "publishedDate": "Thu, 12 Nov 2026 00:42:00 GMT",
-          "description": "Een nieuwe wending in de crisis rond het belastingplan: het kabinet oordeelt namelijk dat het plan van PRO en Volt niet goed in elkaar zit. Met andere woorden: leuk bedacht, maar in de praktijk geen g ..."
+          "title": "Wereldwijde storing Microsoft: e-mail en andere diensten mogelijk onbereikbaar",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/wereldwijde-storing-microsoft-e-mail-en-andere-diensten-mogelijk-onbereikbaar~b19abb6b/",
+          "publishedDate": "Thu, 12 Nov 2026 21:48:00 GMT",
+          "description": "Wereldwijd zijn diverse clouddiensten van Microsoft sinds donderdagavond Nederlandse tijd verstoord. Dat wordt gemeld door gebruikers en is inmiddels bevestigd door de Amerikaanse technologiereus zelf ..."
         },
         {
-          "title": "Chaos compleet: door de miljonairstaks dreigt VVD tegen hele belastingplan van eigen kabinet te stemmen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/politiek/chaos-compleet-door-de-miljonairstaks-dreigt-vvd-tegen-hele-belastingplan-van-eigen-kabinet-te-stemmen~aa98f9b8/",
-          "publishedDate": "Wed, 11 Nov 2026 21:14:00 GMT",
-          "description": "De VVD gaat tegen het hele belastingplan stemmen van het kabinet, als de miljonairstaks gehandhaafd blijft. Daarmee is de chaos compleet: de coalitiepartij stemt dan tegen het voorstel van het eigen k ..."
+          "title": "Wereldwijde storing treft Microsoft, miljoenen gebruikers de dupe",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2639244-wereldwijde-storing-treft-microsoft-miljoenen-gebruikers-de-dupe",
+          "publishedDate": "Thu, 12 Nov 2026 21:01:00 GMT",
+          "description": "De storing begon gistermiddag rond 17,15 uur Nederlandse tijd en is nog altijd niet verholpen. Gebruikers van onder meer Outlook en Teams zijn getroffen."
         },
         {
-          "title": "Krappe Kamermeerderheid steunt belastingplan inclusief miljonairsbelasting",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/krappe-kamermeerderheid-steunt-belastingplan-inclusief-miljonairsbelasting",
-          "publishedDate": "Thu, 12 Nov 2026 13:52:00 GMT",
-          "description": "VVD, PVV, JA21, FVD, Groep Markuszower, BBB, SGP, SP en Tweede Kamerlid Mona Keijzer steunden het wetsvoorstel niet."
+          "title": "Wereldwijde Microsoft-storing: miljoenen mensen kunnen niet bij Outlook en Teams",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5664877/storing-mail-microsoft-outlook-teams-email",
+          "publishedDate": "Thu, 12 Nov 2026 16:00:00 GMT",
+          "description": "Miljoenen mensen wereldwijd kunnen nog altijd niet of slechts beperkt gebruikmaken van Outlook en Teams door een grote storing bij Microsoft. De problemen begonnen gistermiddag in de Verenigde Staten ..."
         },
         {
-          "title": "Belastingplan aangenomen zonder steun VVD, toekomst kabinet onduidelijk",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/nieuws-politiek/10615398/belastingplan-aangenomen-zonder-steun-vvd-toekomst-kabinet-onduidelijk",
-          "publishedDate": "Thu, 12 Nov 2026 13:45:00 GMT",
-          "description": "Het is nog onduidelijk wat dit betekent voor de toekomst van het kabinet. Premier Jetten gaat morgen in gesprek met vicepremiers Yesilgoz van de VVD en Van ..."
+          "title": "Wereldwijde Microsoft 365-storing maakt inloggen al 12 uur onmogelijk",
+          "source": "Techzine",
+          "url": "https://www.techzine.nl/nieuws/applications/583984/wereldwijde-microsoft-365-storing-maakt-inloggen-al-12-uur-onmogelijk/",
+          "publishedDate": "Thu, 12 Nov 2026 23:56:00 GMT",
+          "description": "Microsoft 365 ligt wereldwijd al ruim twaalf uur plat. Outlook en Teams zijn onbereikbaar, Microsoft sluit een cyberaanval uit."
         },
         {
-          "title": "Kabinet wankelt, lot van belastingplan en box 3 onzeker",
-          "source": "Het Financieele Dagblad",
-          "url": "https://fd.nl/politiek/1619193/kabinet-wankelt-lot-van-belastingplan-en-box-3-onzeker",
-          "publishedDate": "Thu, 12 Nov 2026 06:52:00 GMT",
-          "description": "Het mag van alle drie de coalitiepartijen nog geen crisis heten.&#160;Maar halverwege een ingelast debat over het belastingplan is duidelijk dat het kabinet donderdag wankelt."
-        },
-        {
-          "title": "Kabinet wankelt in aanloop naar debat en stemming belastingplan",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/vvd-twijfelt-aan-coalitie-als-d66-en-cda-amendement-pro-steunen-1",
-          "publishedDate": "Wed, 11 Nov 2026 12:00:00 GMT",
-          "description": "Als D66 en het CDA het amendement van PRO en Volt voor het belastingplan steunen, weet de VVD niet of de partij verder kan in de coalitie. Volg de laatste ontwikkelingen in dit liveblog."
-        },
-        {
-          "title": "Kabinet-Jetten wacht spannende week: wat gebeurt er als het belastingplan wordt weggestemd?",
+          "title": "Wereldwijde storing treft Microsoft Outlook",
           "source": "Metro",
-          "url": "https://www.metronieuws.nl/in-het-nieuws/binnenland/2026/11/kabinet-jetten-spannende-week-belastingplan-weggestemd-geen-akkoord/",
-          "publishedDate": "Tue, 10 Nov 2026 00:01:00 GMT",
-          "description": "Het kabinet-Jetten heeft nog altijd geen steun voor het belastingplan gevonden. Volgens BNR-politiek verslaggever Leendert Beekman hebben de onderhandelingen zondag onvoldoende resultaat opgeleverd om ..."
+          "url": "https://www.metronieuws.nl/lifestyle/tech/2026/11/outlook-storing-wereldwijd-treft-duizenden-br/",
+          "publishedDate": "Thu, 12 Nov 2026 16:00:00 GMT",
+          "description": "Microsoft storing treft Outlook Teams en Copilot in 74 landen en belemmert e-mailgebruik bij tienduizenden gebruikers wereldwijd."
+        },
+        {
+          "title": "Microsoft-diensten wereldwijd onbereikbaar door storing: oplossingen leveren niet “gewenste resultaat” op",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/tech/microsoft-diensten-wereldwijd-onbereikbaar-door-storing-oplossingen-leveren-niet-gewenste-resultaat-op~a9152f74/",
+          "publishedDate": "Thu, 12 Nov 2026 13:45:00 GMT",
+          "description": "Microsoft 365 heeft last van een storing, waardoor gebruikers wereldwijd niet bij diensten zoals Teams, Outlook, OneDrive en Copilot kunnen. Microsoft nam maatregelen, maar die werken niet zoals verwa ..."
         }
       ]
     },
     {
-      "keyword": "turkije belgie",
+      "keyword": "server",
       "trafficLabel": "20K+",
-      "articles": []
+      "articles": [
+        {
+          "title": "Inbeslagname 'Antifa-server' op Amerikaans verzoek leidt tot vragen en zorgen",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/tech/6412443/inbeslagname-antifa-server-op-amerikaans-verzoek-leidt-tot-vragen-en-zorgen.html",
+          "publishedDate": "Sat, 17 Oct 2026 11:03:00 GMT",
+          "description": "De Amsterdamse politie nam deze week een server in beslag die mogelijk met Amerikaanse autoriteiten zal worden gedeeld. Volgens het OM mocht de server worden meegenomen, maar de geheimzinnigheid rond ..."
+        },
+        {
+          "title": "Remote Server Administration Tools (RSAT) for Windows",
+          "source": "learn",
+          "url": "https://learn.microsoft.com/en-us/troubleshoot/windows-server/system-management-components/remote-server-administration-tools",
+          "publishedDate": "Mon, 23 Feb 2026 17:19:00 GMT",
+          "description": "RSAT enables IT administrators to remotely manage roles and features in Windows Server from a computer that is running Windows 10 and Windows 7 Service Pack 1. You ..."
+        },
+        {
+          "title": "What is a web server?",
+          "source": "techtarget",
+          "url": "https://www.techtarget.com/whatis/definition/Web-server",
+          "publishedDate": "Tue, 10 Dec 2024 00:59:00 GMT",
+          "description": "A web server is software and hardware that uses HTTP and other protocols to respond to client requests made over the World Wide Web. Its main job is to display website content, such as text, images, ..."
+        },
+        {
+          "title": "What is a server?",
+          "source": "techtarget",
+          "url": "https://www.techtarget.com/whatis/definition/server",
+          "publishedDate": "Wed, 20 Nov 2024 04:00:00 GMT",
+          "description": "A server is a computer program or device that provides a service to another computer program and its user, also known as the client. In a data center, the physical computer that a server program runs ..."
+        },
+        {
+          "title": "Windows Server 2025 known issues and notifications",
+          "source": "learn",
+          "url": "https://learn.microsoft.com/en-us/windows/release-health/status-windows-server-2025",
+          "publishedDate": "Tue, 05 Nov 2024 16:00:00 GMT",
+          "description": "After Windows updates released October 13, 2026 (KB5126646), and later are installed on server devices, connections created by SQL Server linked server queries might remain open after the queries ..."
+        },
+        {
+          "title": "AMD EPYC™ Server CPUs",
+          "source": "amd",
+          "url": "https://www.amd.com/en/products/processors/server/epyc.html",
+          "publishedDate": "Mon, 08 Apr 2024 17:00:00 GMT",
+          "description": "Breakthrough designs manufactured in the world’s most advanced fabs deliver the x86 performance, energy efficiency, and cost efficiency required for today’s AI-driven, data center demands. Choose from ..."
+        },
+        {
+          "title": "Understanding React Server Components",
+          "source": "vercel",
+          "url": "https://vercel.com/blog/understanding-react-server-components",
+          "publishedDate": "Mon, 31 Jul 2023 17:00:00 GMT",
+          "description": "Learn the fundamentals of React Server Components, to better understand why (and when) to adopt. React Server Components (RSCs) augment the fundamentals of React beyond being a pure rendering library ..."
+        },
+        {
+          "title": "Know your options for SQL Server 2012 and Windows Server 2012 End of Support",
+          "source": "Microsoft",
+          "url": "https://www.microsoft.com/en-us/sql-server/blog/2021/07/14/know-your-options-for-sql-server-2012-and-windows-server-2012-end-of-support/",
+          "publishedDate": "Wed, 14 Jul 2021 08:00:00 GMT",
+          "description": "This blog has been updated to reflect the latest pricing for Extended Security Updates. Offer pricing is the same for all three years. While new innovations keep lighting up in the latest releases of ..."
+        },
+        {
+          "title": "Satisfactory Server",
+          "source": "GitHub",
+          "url": "https://github.com/robtme/satisfactory-server",
+          "publishedDate": "Wed, 14 Apr 2021 11:49:00 GMT",
+          "description": "The server may run on less than 8GB of RAM, though 8GB - 16GB is still recommended per the the official wiki. You may need to increase the container's defined --memory restriction as you approach the ..."
+        },
+        {
+          "title": "Server-side template injection",
+          "source": "PortSwigger",
+          "url": "https://portswigger.net/web-security/server-side-template-injection",
+          "publishedDate": "Thu, 09 Nov 2017 11:11:00 GMT",
+          "description": "This technique was first documented by PortSwigger Research in the conference presentation Server-Side Template Injection: RCE for the Modern Web App. In this section, we'll discuss what server-side ..."
+        }
+      ]
     },
     {
       "keyword": "cruiseschip",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
         {
           "title": "Britse vrouw aan boord van cruiseschip vermist, mogelijk overboord geslagen",
@@ -244,13 +149,6 @@
           "url": "https://nos.nl/artikel/2639167-britse-vrouw-aan-boord-van-cruiseschip-vermist-mogelijk-overboord-geslagen",
           "publishedDate": "Thu, 12 Nov 2026 04:53:00 GMT",
           "description": "Personeel van het schip op de Atlantische Oceaan ontdekte dat de vrouw niet in haar hut had geslapen en sloeg alarm."
-        },
-        {
-          "title": "Britse vrouw (72) wordt vermist op cruiseschip op de Atlantische Oceaan",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/buitenland/6416339/britse-vrouw-72-wordt-vermist-op-cruiseschip-op-de-atlantische-oceaan.html",
-          "publishedDate": "Thu, 12 Nov 2026 04:34:00 GMT",
-          "description": "Een 72-jarige Britse vrouw is vermist geraakt tijdens een overtocht per cruiseschip over de Atlantische Oceaan, meldt reisorganisatie TUI. Ze werd maandag voor het laatst gezien."
         },
         {
           "title": "Cruiseschip dat op ‘eeuwigdurende reis’ was in beslag genomen in Singapore",
@@ -274,13 +172,6 @@
           "description": "Twee vissers hebben een pianist van een Royal Caribbean-cruiseschip gered nadat hij negen uur in de Stille Oceaan had rondgedobberd, op zo'n 30 kilometer van de Amerikaanse westkust. De man is vermoed ..."
         },
         {
-          "title": "Zeven vliegtuigen door heel Europa doorzocht na bommeldingen, nu ook melding op cruiseschip",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/zeven-vliegtuigen-door-heel-europa-doorzocht-na-bommeldingen-nu-ook-melding-op-cruiseschip~afe6c108/",
-          "publishedDate": "Tue, 03 Nov 2026 03:22:00 GMT",
-          "description": "Zeven vliegtuigen zijn dinsdag op Europese vliegvelden doorzocht vanwege bommeldingen. In Rome, Warschau, Murcia en Sofia werden vliegtuigen na landingen gecontroleerd op explosieven, maar deze werden ..."
-        },
-        {
           "title": "FBI onderzoekt mogelijke moord aan boord van cruiseschip uit Texas",
           "source": "Het Laatste Nieuws",
           "url": "https://www.hln.be/buitenland/fbi-onderzoekt-mogelijke-moord-aan-boord-van-cruiseschip-uit-texas~a69fffd2/",
@@ -295,6 +186,13 @@
           "description": "Een 37-jarige pianist valt van een schip van Royal Caribbean en blijft ruim negen uur op zee: de reddingspogingen van twee vissers en de temperaturen als gevolg van El Ni&#241;o waren cruciaal."
         },
         {
+          "title": "Pianist van cruiseschip overleeft 9 uur in Stille Oceaan na val overboord: ‘In een ander jaar had hij het waarschijnlijk niet overleefd’",
+          "source": "De Morgen",
+          "url": "https://www.demorgen.be/nieuws/pianist-van-cruiseschip-overleeft-9-uur-in-stille-oceaan-na-val-overboord-in-een-ander-jaar-had-hij-het-waarschijnlijk-niet-overleefd~b2528605/",
+          "publishedDate": "Mon, 09 Nov 2026 07:51:00 GMT",
+          "description": "Een man die op een cruiseschip werkte, werd gered nadat hij negen uur had rondgedobberd in de Stille Oceaan. Het slachtoffer was overboord gevallen. Hij werd gered door twee vissers."
+        },
+        {
           "title": "VBC organiseert tweede handelsmissie per cruiseschip in februari 2027",
           "source": "Curacao.nu",
           "url": "https://www.curacao.nu/nieuws/evenementen/98225/vbc-organiseert-tweede-handelsmissie-per-cruiseschip-in-februari-2027",
@@ -307,165 +205,165 @@
           "url": "https://www.msn.com/nl-be/nieuws/other/9-uur-in-stille-oceaan-pianist-van-cruiseschip-gered-uit-zee-door-2-vissers-in-californi%C3%AB/ar-AA2h2zzY",
           "publishedDate": "Sun, 08 Nov 2026 23:29:04 GMT",
           "description": "Twee vissers hebben een pianist van een cruiseship van Royal Caribbean uit de Stille Oceaan geholpen nadat hij overboord was gevallen. De 2 mannen vonden de pianist op 32 kilometer van de kust van Cal ..."
+        },
+        {
+          "title": "TUI-cruiseschip botst op containerschip",
+          "source": "MarketScreener",
+          "url": "https://nl.marketscreener.com/beursnieuws/tui-cruiseschip-botst-op-containerschip-ce785cdfd18ff323",
+          "publishedDate": "Sun, 25 Oct 2026 13:14:00 GMT",
+          "description": "In Bremerhaven is een cruiseschip met een containerschip in botsing gekomen. Dat heeft de politie in Bremen desgevraagd meegedeeld. Er waren voor zover bekend geen gewonden. Verdere details ..."
         }
       ]
     },
     {
-      "keyword": "colette kress",
+      "keyword": "belastingplan kabinet",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Belastingplan gered ten koste van coalitie: toekomst VVD in kabinet onzeker",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/politiek/6416421/belastingplan-gered-ten-koste-van-coalitie-toekomst-vvd-in-kabinet-onzeker.html",
+          "publishedDate": "Thu, 12 Nov 2026 21:01:00 GMT",
+          "description": "Belastingplan gered, coalitie gesneuveld. Dat is zo'n beetje de uitkomst van een ongekend turbulente week in politiek Hen Haag. Het belastingplan, de belangrijkste wet van het kabinet voor volgend jaa ..."
+        },
+        {
+          "title": "Spectaculaire ontknoping Belastingplan met deal over links maakt de pijn voor de VVD nog erger – kan het kabinet-Jetten overleven?",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/11/12/spectaculaire-ontknoping-belastingplan-met-deal-over-links-maakt-de-pijn-voor-de-vvd-nog-erger-kan-het-kabinet-jetten-overleven-a4941274",
+          "publishedDate": "Thu, 12 Nov 2026 15:12:00 GMT",
+          "description": "Politieke crisis: Premier Jetten wil er alles aan doen om zijn kabinet in stand te houden, maar de manoeuvre van de CDA- en D66-fractieleiders om via links stemmen voor het Belastingplan binnen te hal ..."
+        },
+        {
+          "title": "Pas na de stemmingen wordt duidelijk hoe het verder gaat met belastingplan en kabinet",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2639200-pas-na-de-stemmingen-wordt-duidelijk-hoe-het-verder-gaat-met-belastingplan-en-kabinet",
+          "publishedDate": "Thu, 12 Nov 2026 09:20:00 GMT",
+          "description": "VVD-fractievoorzitter Brekelmans zei dat zijn fractie tegen het belastingplan van het eigen kabinet zal stemmen, als het wijzigingsvoorstel wordt aangenomen, waar coalitiepartners D66 en CDA een deal ..."
+        },
+        {
+          "title": "Kamer debatteert in cruciaal debat over belastingplan van Kabinet-Jetten",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/332199/video/kamer-debatteert-in-cruciaal-debat-over-belastingplan-van-kabinet-jetten.html",
+          "publishedDate": "Thu, 12 Nov 2026 01:59:00 GMT",
+          "description": "PRO en Volt presenteerden woensdag een nieuw belastingplan, gesteund door D66 en CDA. De VVD is daar niet blij mee en dreigde met een kabinetscrisis. Later vandaag volgt een stemming over dit plan."
+        },
+        {
+          "title": "Chaos compleet: door de miljonairstaks dreigt VVD tegen hele belastingplan van eigen kabinet te stemmen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/politiek/chaos-compleet-door-de-miljonairstaks-dreigt-vvd-tegen-hele-belastingplan-van-eigen-kabinet-te-stemmen~aa98f9b8/",
+          "publishedDate": "Wed, 11 Nov 2026 21:14:00 GMT",
+          "description": "De VVD gaat tegen het hele belastingplan stemmen van het kabinet, als de miljonairstaks gehandhaafd blijft. Daarmee is de chaos compleet: de coalitiepartij stemt dan tegen het voorstel van het eigen k ..."
+        },
+        {
+          "title": "Kabinet-Jetten hoopt zich te redden met een noodgreep: verdeeld stemmen mag bij het Belastingplan. Een politiek experiment in het kwadraat",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/11/05/in-belastingplandebat-wordt-duidelijk-dat-coalitie-zich-hoopt-te-redden-met-een-noodgreep-verdeeld-stemmen-is-geen-taboe-meer-a4940576",
+          "publishedDate": "Wed, 04 Nov 2026 18:23:00 GMT",
+          "description": "Belastingplan: Dat het D66, VVD en CDA niet lukt tot een consensus te komen over meerderheden voor het Belastingplan, hebben ze inmiddels geaccepteerd. Ze mogen van elkaar gespleten stemmen over amend ..."
+        },
+        {
+          "title": "Belastingplan ingestemd, hoe nu verder?",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/nieuws/politiek/39b476e6-e10e-49ac-aa33-94d75cef5838/den-haag",
+          "publishedDate": "Thu, 12 Nov 2026 22:19:00 GMT",
+          "description": "Na een dag debatteren over het Belastingplan in de Tweede Kamer is er een antwoord gekomen op de vraag: is er steun voor het plan? Het antwoord is 'Ja', zowel het belastingplan als het amendement van ..."
+        },
+        {
+          "title": "Kabinet wankelt, lot van belastingplan en box 3 onzeker",
+          "source": "Het Financieele Dagblad",
+          "url": "https://fd.nl/politiek/1619193/kabinet-wankelt-lot-van-belastingplan-en-box-3-onzeker",
+          "publishedDate": "Wed, 11 Nov 2015 16:00:00 GMT",
+          "description": "Het mag van alle drie de coalitiepartijen nog geen crisis heten.&#160;Maar halverwege een ingelast debat over het belastingplan is duidelijk dat het kabinet donderdag wankelt."
+        }
+      ]
+    },
+    {
+      "keyword": "italië - frankrijk",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Topman Nvidia stapt op na onrust rond affaire",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/duurzaamheid-economie/topman-nvidia-stapt-op-na-onrust-rond-affaire~b729c7d8/",
-          "publishedDate": "Thu, 12 Nov 2026 07:05:00 GMT",
-          "description": "De topman van Nvidia, Jensen Huang, is opgestapt, meldt het AI-chipbedrijf donderdag. De stap volgt op de onrust die recent is ontstaan nadat zijn affaire met een vermeende Chinese spion bekend werd."
+          "title": "Itali&#235; bezorgt Frankrijk en Zidane eerste nederlaag in Nations League, Van Bommel wint opnieuw met Belgi&#235;",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/sport/italie-bezorgt-frankrijk-en-zidane-eerste-nederlaag-in-nations-league-van-bommel-wint-opnieuw-met-belgie~be817961/",
+          "publishedDate": "Thu, 12 Nov 2026 15:53:00 GMT",
+          "description": "Itali&#235; heeft donderdag het Frankrijk van de nieuwe bondscoach Zinedine Zidane de eerste nederlaag toegebracht. In San Siro wonnen de Italianen van de eveneens nieuwe bondscoach Roberto Mancini met 3-1 ..."
         },
         {
-          "title": "Topman Huang van chipbedrijf Nvidia vertrekt per direct vanwege affaires",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2639176-topman-huang-van-chipbedrijf-nvidia-vertrekt-per-direct-vanwege-affaires",
-          "publishedDate": "Thu, 12 Nov 2026 05:55:00 GMT",
-          "description": "Het doek is gevallen voor Jensen Huang als topman van chipbedrijf Nvidia. De CFO, dat is de huidige financi&#235;le topvrouw, neemt de functie tijdelijk over. Gisteren meldde The New York Times dat Huang ..."
+          "title": "San Siro ontploft van vreugde: Itali&#235; bezorgt Zidane eerste nederlaag als bondscoach van Frankrijk",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/san-siro-ontploft-van-vreugde-italie-bezorgt-zidane-eerste-nederlaag-als-bondscoach-van-frankrijk~a253802c/",
+          "publishedDate": "Thu, 12 Nov 2026 14:46:00 GMT",
+          "description": "Zin&#233;dine Zidane heeft zijn eerste nederlaag als bondscoach van Frankrijk geleden. De Fransen kenden zonder de geblesseerde Kylian Mbapp&#233; en Ousmane Demb&#233;l&#233; de grootste moeite met de Italianen, die in ..."
         },
         {
-          "title": "Jensen Huang treedt af als CEO van Nvidia",
-          "source": "Newsmonkey on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/jensen-huang-treedt-af-als-ceo-van-nvidia/ar-AA2hjsju",
-          "publishedDate": "Thu, 12 Nov 2026 08:02:00 GMT",
-          "description": "In het kort Jensen Huang stapt op als CEO Na onthullingen over twee buitenechtelijke relaties heeft Jensen Huang zijn functies als CEO, president en bestuurslid van Nvidia neergelegd. De bestuurders v ..."
-        },
-        {
-          "title": "Nvidia-topman Jensen Huang stapt per direct op na 33 jaar",
-          "source": "Crypto Insiders",
-          "url": "https://www.crypto-insiders.nl/nieuws/aandelen/nvidia-topman-jensen-huang-stapt-per-direct-op-na-33-jaar/",
-          "publishedDate": "Thu, 12 Nov 2026 07:07:00 GMT",
-          "description": "Jensen Huang vertrekt per direct als topman van Nvidia. Financieel directeur Colette Kress neemt tijdelijk de leiding over bij de AI-chipgigant."
-        },
-        {
-          "title": "Jensen Huang treedt af als ceo van Nvidia na affaires",
-          "source": "Tweakers",
-          "url": "https://tweakers.net/nieuws/254470/jensen-huang-treedt-af-als-ceo-van-nvidia-na-affaires.html",
-          "publishedDate": "Thu, 12 Nov 2026 07:05:00 GMT",
-          "description": "Jensen Huang treedt af als ceo van Nvidia. Huang kwam onder vuur te liggen na meerdere affaires, waardoor zijn positie niet meer houdbaar was. Hij wordt opgevolgd door Colette Kress, de huidige cfo va ..."
-        },
-        {
-          "title": "Jensen Huang treedt af als CEO van Nvidia; financieel directeur Colette Kress neemt tijdelijk over",
-          "source": "Business AM on MSN",
-          "url": "https://www.msn.com/nl-nl/geldzaken/algemeen/jensen-huang-treedt-af-als-ceo-van-nvidia-financieel-directeur-colette-kress-neemt-tijdelijk-over/ar-AA2hiPOY",
-          "publishedDate": "Thu, 12 Nov 2026 06:33:57 GMT",
-          "description": "Key takeaways Jensen Huang heeft zijn functie als CEO van Nvidia neergelegd na onthullingen over meerdere buitenechtelijke relaties. De raad van bestuur heeft financieel directeur Colette Kress aanges ..."
-        },
-        {
-          "title": "NVIDIA benoemt Colette Kress tot interim-CEO na het aftreden van Huang",
-          "source": "Unite.AI",
-          "url": "https://www.unite.ai/nl/nvidia-names-colette-kress-interim-ceo-following-huangs-resignation/",
-          "publishedDate": "Thu, 12 Nov 2026 06:21:00 GMT",
-          "description": "NVIDIA maakte op 12 november 2026 bekend dat Jensen Huang met onmiddellijke ingang was afgetreden als president, CEO en bestuurder. De raad van bestuur benoemde financieel directeur Colette Kress tot ..."
-        },
-        {
-          "title": "Factbox - Wie is Nvidia-interim-CEO Colette Kress?",
-          "source": "IEX.nl",
-          "url": "https://www.iex.nl/Nieuws/885002/Factbox-Wie-is-Nvidia-interim-CEO-Colette-Kress.aspx",
-          "publishedDate": "Thu, 12 Nov 2026 06:05:00 GMT",
-          "description": "Nvidia-financetopvrouw Colette Kress neemt het interim-CEO-schap over van Jensen Huang, zo maakte het bedrijf donderdag bekend. Daarmee krijgt zij de leiding over de chipfabrikant waarvan de processor ..."
-        },
-        {
-          "title": "Affaires kosten CEO Nvidia de kop: Jensen Huang stapt op",
-          "source": "VRT NWS on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/jensen-huang-stapt-op-als-topman-bij-nvidia/ar-AA2hi8DW",
-          "publishedDate": "Thu, 12 Nov 2026 05:58:30 GMT",
-          "description": "Jensen Huang stapt op als CEO, voorzitter &#233;n lid van de raad van bestuur van Nvidia. Dat meldt de technologiereus op zijn website. Hij was in opspraak gekomen na een relatie met een spion uit China en ..."
-        },
-        {
-          "title": "Laat uw zwarte leren jas de komende weken misschien even in de kast hangen",
-          "source": "De Tijd",
-          "url": "https://www.tijd.be/markten-live/live-blog/jensen-huang-vertrekt-cfo-colette-kress-wordt-interim-baas-nvidia-10-voorbeurs/10699451.html#!938748",
-          "publishedDate": "Wed, 11 Nov 2026 22:25:00 GMT",
-          "description": "Nvidia-CEO Jensen Huang lijkt op weg naar de exit. De bank-verzekeraar KBC zit op koers voor een nieuw recordjaar, maar nukkige beleggers hadden een nog beter derde kwartaal verwacht."
-        }
-      ]
-    },
-    {
-      "keyword": "roxeanne hazes",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Het lijkt erop dat de kinderen Hazes naar de muzikale erfenis van Andr&#233; kunnen fluiten",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/cultuur-media/het-lijkt-erop-dat-de-kinderen-hazes-naar-de-muzikale-erfenis-van-andre-kunnen-fluiten~bfdddbe4/",
-          "publishedDate": "Thu, 12 Nov 2026 13:00:00 GMT",
-          "description": "Z iet u de feestdagen weer met enige zorg naderbij komen? Bedenk dan dat al uw familiale sores in het niet vallen bij het langlopende drama in de familie Hazes. Weduwe Rachel Hazes gooide deze week we ..."
-        },
-        {
-          "title": "Roxeanne en Andr&#233; Hazes winnen publieksprijs op Dutch Podcast Awards",
+          "title": "Itali&#235; wipt over Belgi&#235; na zege op Frankrijk, ook Engeland en Spanje winnen",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/media/6415414/roxeanne-en-andre-hazes-winnen-publieksprijs-op-dutch-podcast-awards.html",
-          "publishedDate": "Tue, 03 Nov 2026 15:00:00 GMT",
-          "description": "Roxeanne en Andr&#233; Hazes hebben met hun podcast ADHAZES de publieksprijs gewonnen op de Dutch Podcast Awards. Ze ontvingen de prijs dinsdagavond tijdens de awardshow in het Instituut voor Beeld en Gelu ..."
+          "url": "https://www.nu.nl/voetbal/6416415/italie-wipt-over-belgie-na-zege-op-frankrijk-ook-engeland-en-spanje-winnen.html",
+          "publishedDate": "Thu, 12 Nov 2026 14:41:00 GMT",
+          "description": "Itali&#235; heeft donderdag in de Nations League met 3-1 gewonnen van Frankrijk. Dat is minder goed nieuws voor het Belgi&#235; van bondscoach Mark van Bommel. Ook Spanje en Engeland boekten zeges."
         },
         {
-          "title": "Roxeanne en Andr&#233; Hazes winnen publieksprijs bij Dutch Podcast Awards, De Rolverdeling wint prijs voor beste podcast",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/nederland/roxeanne-en-andre-hazes-winnen-publieksprijs-bij-dutch-podcast-awards-de-rolverdeling-wint-prijs-voor-beste-podcast~b0f1943e/",
-          "publishedDate": "Tue, 03 Nov 2026 14:08:00 GMT",
-          "description": "Roxeanne en Andr&#233; Hazes hebben de publieksprijs gewonnen bij de Dutch Podcast Awards. De podcast ADHAZES werd bekroond tijdens de awardshow in het Instituut voor Beeld en Geluid in Hilversum."
+          "title": "Van Bommels Belgi&#235; na comeback weer te sterk voor Turkije, Itali&#235; verslaat Frankrijk",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2639210-van-bommels-belgie-na-comeback-weer-te-sterk-voor-turkije-italie-verslaat-frankrijk",
+          "publishedDate": "Thu, 12 Nov 2026 11:32:00 GMT",
+          "description": "Belgi&#235; wint in groep 1 van de A-divisie van de Nations League in Izmir: 1-2. Itali&#235; verslaat Frankrijk met 3-1."
         },
         {
-          "title": "Na jaren boosheid voelt Roxeanne Hazes nu vooral liefde voor haar overleden vader: ‘Ik dacht dat ik het allang had verwerkt’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/mezza/na-jaren-boosheid-voelt-roxeanne-hazes-nu-vooral-liefde-voor-haar-overleden-vader-ik-dacht-dat-ik-het-allang-had-verwerkt~aad89439/",
-          "publishedDate": "Sun, 18 Oct 2026 04:58:00 GMT",
-          "description": "Een verzoening, een huwelijk en een nieuwe stap in haar muzikale carri&#232;re. In het leven van Roxeanne Hazes veranderde de afgelopen jaren veel. ‘Ik dacht dat ik de dood van mijn vader allang had verwer ..."
+          "title": "Itali&#235; klopt Frankrijk: Rode Duivels moeten zondag winnen",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/italie-frankrijk-rode-duivels-moeten-zondag-winnen/",
+          "publishedDate": "Thu, 12 Nov 2026 15:01:00 GMT",
+          "description": "Itali&#235; verslaat Frankrijk met 3-1 en zet Belgi&#235; voor een duidelijke opdracht in Brussel: alleen winst houdt de kwartfinales binnen bereik."
         },
         {
-          "title": "Roxeanne Hazes over haar trouwjurk: ‘Ik moest bijna huilen toen ik in de spiegel keek’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/roxeanne-hazes-over-haar-trouwjurk-ik-moest-bijna-huilen-toen-ik-in-de-spiegel-keek~a460f885/",
-          "publishedDate": "Thu, 15 Oct 2026 04:01:00 GMT",
-          "description": "Het duurde maar liefst negen jaar voordat Roxeanne Hazes (33) en Erik Zwennes elkaar eindelijk het jawoord gaven. Afgelopen juli deed de zangeres dat in een trouwjurk die ze al jaren in de kofferbak v ..."
+          "title": "Na ruim 64 jaar verslaat Itali&#235; Frankrijk weer op eigen bodem",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/na-ruim-64-jaar-verslaat-itali%C3%AB-frankrijk-weer-op-eigen-bodem/ar-AA2hjPn9",
+          "publishedDate": "Thu, 12 Nov 2026 14:55:00 GMT",
+          "description": "Na de eerste thuiszege op Frankrijk sinds 1962, gaat Itali&#235; ineens aan kop in de Nations League-poule. Al is de strijd om een ticket voor de kwartfinale zeker nog niet gestreden, drukte bondscoach Rob ..."
         },
         {
-          "title": "Rachel Hazes neemt opvallend besluit over muzikale erfenis Andr&#233; Hazes",
-          "source": "Panorama",
-          "url": "https://panorama.nl/artikel/700077/rachel-hazes-verkoopt-muziekrechten-andre-hazes",
-          "publishedDate": "Mon, 09 Nov 2026 03:28:00 GMT",
-          "description": "Rachel Hazes heeft de rechten op de muziek van Andr&#233; Hazes verkocht. Een opvallende stap na jarenlange ruzies over de erfenis van de volkszanger."
+          "title": "Itali&#235; verrast tegen Frankrijk: eerste nederlaag voor Zidane",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/itali%C3%AB-verrast-tegen-frankrijk-eerste-nederlaag-voor-zidane/ar-AA2hjkhK",
+          "publishedDate": "Thu, 12 Nov 2026 13:41:00 GMT",
+          "description": "Itali&#235; heeft donderdag voor een verrassing gezorgd in de Nations league. De ploeg van bondscoach Roberto Mancini was in Milaan verrassend met 3-1 te sterk voor Frankrijk. Het betekende de eerste neder ..."
         },
         {
-          "title": "Roxeanne Hazes viert bijzonder jubileum: 'Gelukkigste persoon op aarde'",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/entertainment/lekker-loeren/roxeanne-hazes-jubileum/",
-          "publishedDate": "Sat, 07 Nov 2026 06:31:00 GMT",
-          "description": "Wat doen de sterren op social media? Je ziet het in de social rubriek Lekker Loeren. Geen halszaken, maar toch fijn dat je erover kunt meepraten. Zo heeft Roxeanne Hazes een bijzonder jubileum.&#160; 27 ja ..."
+          "title": "Frankrijk domineert, Itali&#235; slaat toe: eerste nederlaag voor Zidane een feit",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/frankrijk-domineert-italie-slaat-toe-eerste-nederlaag-voor-zidane-een-feit",
+          "publishedDate": "Thu, 12 Nov 2026 13:40:00 GMT",
+          "description": "De eerste nederlaag van Zin&#233;dine Zidane als bondscoach van Frankrijk is een feit. Les Bleus waren donderdagavond zeer dominant in San Siro, maar grepen uiteindelijk naast een zege in San Siro. Itali&#235;, ..."
         },
         {
-          "title": "Roxeanne Hazes nog geregeld verrast door verhalen broer Andr&#233;",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/roxeanne-hazes-nog-geregeld-verrast-door-verhalen-broer-andre",
-          "publishedDate": "Tue, 03 Nov 2026 15:02:00 GMT",
-          "description": "Roxeanne Hazes is in podcast ADHAZES nog geregeld verbaasd over Andr&#233;s verhalen over seks en zijn tijd als drinker. Ook wonnen ze een publieksprijs."
+          "title": "Itali&#235; - Frankrijk gratis kijken: Nations League op 12 november 2026",
+          "source": "Cybernews",
+          "url": "https://cybernews.com/nl/online-kijken/italie-vs-frankrijk-gratis-kijken-nations-league-2026-11-12/",
+          "publishedDate": "Thu, 12 Nov 2026 12:45:00 GMT",
+          "description": "Itali&#235; – Frankrijk op 12 november gratis kijken? Stream de Nations League live met een VPN. Snel en zonder gedoe."
         },
         {
-          "title": "Roxeanne en Andr&#233; Hazes winnen publieksprijs Dutch Podcast Awards",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/roxeanne-en-andre-hazes-winnen-publieksprijs-dutch-podcast-awards",
-          "publishedDate": "Tue, 03 Nov 2026 13:35:00 GMT",
-          "description": "De podcast ADHAZES van Roxeanne en Andr&#233; Hazes wint de publieksprijs bij de Dutch Podcast Awards. Lees wie de andere winnaars zijn."
-        },
-        {
-          "title": "Roxeanne Hazes had oogje op schoonvader van Andr&#233;: 'Had zomaar heel anders kunnen lopen'",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/media/fragment-gemist/noa-braaf-roxeanne-hazes-andre-hazes-denny-braaf/",
-          "publishedDate": "Thu, 29 Oct 2026 14:55:00 GMT",
-          "description": "Als Andr&#233; Hazes en zijn vriendin Noa Braaf in Andr&#233; Hazes: En Nu… een oud-juryrapport vinden van Bloed, Zweet En Tranen, brengt ze dat terug naar flink wat jaren geleden. Het is niet alleen het moment ..."
+          "title": "Waar gratis op TV en live stream Itali&#235; – Frankrijk kijken (12-11)",
+          "source": "Squawka",
+          "url": "https://www.squawka.com/nl/nieuws/waar-gratis-op-tv-live-stream-italie-frankrijk-kijken-12-11/",
+          "publishedDate": "Wed, 11 Nov 2026 23:52:00 GMT",
+          "description": "Zin om vanavond voetbal te kijken? Op deze zenders en via deze live stream kun jij gratis Itali&#235; - Frankrijk in de Nations League kijken."
         }
       ]
     },
     {
       "keyword": "engeland - kroatië",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
+        {
+          "title": "Harry Kane schiet Engeland op feestavond naar kwartfinales Nations League: ‘Ontvangst was overweldigend’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/harry-kane-schiet-engeland-op-feestavond-naar-kwartfinales-nations-league-ontvangst-was-overweldigend~a34cd08c/",
+          "publishedDate": "Thu, 12 Nov 2026 14:42:00 GMT",
+          "description": "Harry Kane heeft donderdag een prachtige avond beleefd op Wembley. De winnaar van de Ballon d’Or werd uitgebreid in het zonnetje gezet als de nieuwe recordinternational van Engeland. Alsof het zo moes ..."
+        },
         {
           "title": "Recordinternational Kane matchwinner voor Engeland, Spanje verlengt ongeslagen reeks",
           "source": "NOS",
@@ -474,25 +372,11 @@
           "description": "Op Wembley wint Engeland in de Nations League met 2-1 van de Kroaten. Wereldkampioen Spanje verslaat Tsjechi&#235; in Praag: 0-2."
         },
         {
-          "title": "Feestavond voor Harry Kane: recordinternational schiet Engeland naar kwartfinales Nations League",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/feestavond-voor-harry-kane-recordinternational-schiet-engeland-naar-kwartfinales-nations-league~a34cd08c/",
-          "publishedDate": "Thu, 12 Nov 2026 06:30:00 GMT",
-          "description": "Harry Kane heeft donderdag een prachtige avond beleefd op Wembley. De winnaar van de Ballon d’Or werd uitgebreid in het zonnetje gezet als de nieuwe recordinternational van Engeland. Alsof het zo moes ..."
-        },
-        {
           "title": "De Bruyne over interesse PSV: 'We zullen zien' • Eerste nederlaag Frankrijk onder Zidane",
           "source": "NOS",
           "url": "https://nos.nl/liveblog/2639126-de-bruyne-over-interesse-psv-we-zullen-zien-eerste-nederlaag-frankrijk-onder-zidane",
           "publishedDate": "Thu, 12 Nov 2026 01:18:00 GMT",
           "description": "In dit blog volgen we het voetbalnieuws tijdens de interlandperiode, Nederland treft Griekenland en Duitsland in de Nations League."
-        },
-        {
-          "title": "Nations League: Spanje dankt Ambros, onvergetelijke avond Kane",
-          "source": "VoetbalNieuws.be",
-          "url": "https://www.voetbalnieuws.be/news/934642/nations-league-spanje-dankt-ambros-onvergetelijke-avond-kane",
-          "publishedDate": "Thu, 12 Nov 2026 15:09:00 GMT",
-          "description": "In de Nations League was er donderdagavond niet enkel actie in de groep van de Rode Duivels. Ook in Groep C van de A-divisie stonden twee ..."
         },
         {
           "title": "Engeland met zege op Kroati&#235; naar kwartfinale Nations League",
@@ -535,151 +419,282 @@
           "url": "https://www.voetbalnieuws.nl/nieuws/2157771/zo-verliepen-eerdere-ontmoetingen-tussen-engeland-en-kroatie-vn.html",
           "publishedDate": "Wed, 11 Nov 2026 06:21:00 GMT",
           "description": "Engeland en Kroati&#235; staan donderdag tegenover elkaar in de vijfde speelronde van de Nations League. Voor de kraker tussen de twee Europese toplanden lijkt de Engelse ploeg onder leiding van Thomas Tuc ..."
+        },
+        {
+          "title": "Engeland geeft Kroati&#235; voetballes en haalt vernietigend uit",
+          "source": "VoetbalNieuws.nl",
+          "url": "https://www.voetbalnieuws.nl/nieuws/2142745/engeland-geeft-kroatie-voetballes-en-haalt-uit-met-0-7.html",
+          "publishedDate": "Sat, 03 Oct 2026 12:53:00 GMT",
+          "description": "Engeland heeft Kroati&#235; volledig van de mat gespeeld in de Nations League. Harry Kane en Bukayo Saka scoorden allebei twee keer in de 0-7 overwinning."
         }
       ]
     },
     {
-      "keyword": "leontine ruiters",
-      "trafficLabel": "5K+",
+      "keyword": "colette kress",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Heftig ongeluk Jada Borsato brengt Leontine Ruiters en nieuwe liefde dichter bij elkaar",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/video/18c8cfbc-408b-4485-9a33-94f5f0ccd2ff/heftig-ongeluk-jada-borsato-brengt-leontine",
-          "publishedDate": "Wed, 11 Nov 2026 16:00:00 GMT",
-          "description": "Na een roerige periode vol persoonlijke tegenslagen is Leontine Ruiters (58) weer smoorverliefd. Want ondanks haar scheiding, een depressie en een heftig ongeluk met dochter Jada (23) is ze ook enorm ..."
+          "title": "Topman Huang van chipbedrijf Nvidia vertrekt per direct vanwege affaires",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2639176-topman-huang-van-chipbedrijf-nvidia-vertrekt-per-direct-vanwege-affaires",
+          "publishedDate": "Thu, 12 Nov 2026 05:55:00 GMT",
+          "description": "Het doek is gevallen voor Jensen Huang als topman van chipbedrijf Nvidia. De CFO, dat is de huidige financi&#235;le topvrouw, neemt de functie tijdelijk over. Gisteren meldde The New York Times dat Huang ..."
         },
         {
-          "title": "Leontine Ruiters opnieuw 'strontverliefd' op oude liefde John, en zo reageert haar ex Marco Borsato",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/entertainment/beetje-bijblijven/leontine-ruiters-liefde-john-marco-borsato/",
-          "publishedDate": "Thu, 12 Nov 2026 07:00:00 GMT",
-          "description": "Leontine Ruiters en John Huiberts hebben elkaar na een eerdere, korte relatie opnieuw gevonden. En dit keer is het duidelijk raak. Leontine is naar eigen zeggen ‘strontverliefd.’ Hoe kijkt haar ex-man ..."
+          "title": "Nvidia: Colette Kress neemt tijdelijk het roer over, maar wie volgt Jensen Huang &#233;cht op?",
+          "source": "MarketScreener",
+          "url": "https://nl.marketscreener.com/beursnieuws/nvidia-colette-kress-neemt-tijdelijk-het-roer-over-maar-wie-volgt-jensen-huang-echt-op-ce785ed8d189f127",
+          "publishedDate": "Thu, 12 Nov 2026 14:00:00 GMT",
+          "description": "Het vertrek van Jensen Huang, dat donderdag officieel werd gemaakt, luidt een ongekende periode in voor Nvidia. Financieel directeur Colette Kress neemt voorlopig de leiding over, terwijl de raad van."
         },
         {
-          "title": "Leontine Ruiters loopt alweer hard van stapel met John: ‘Trouwen’",
-          "source": "Ditjes en Datjes",
-          "url": "https://www.ditjesendatjes.nl/leontine-ruiters-loopt-alweer-hard-van-stapel-met-john-trouwen",
-          "publishedDate": "Thu, 12 Nov 2026 05:37:00 GMT",
-          "description": "Leontine Ruiters is weer helemaal verliefd op multimiljonair John Huiberts. Ze loopt zelfs hard van stapel en heeft het over ..."
+          "title": "AEX opent lager en het voelt onecht, maar tijdperk-Huang is klaar",
+          "source": "IEX.nl",
+          "url": "https://www.iex.nl/artikel/884994/AEX-opent-lager-en-het-voelt-onecht-maar-tijdperk-Huang-is-klaar.aspx",
+          "publishedDate": "Thu, 12 Nov 2026 10:45:00 GMT",
+          "description": "&quot;The king is dead, long live the king&quot;, kopt Investing.com. We doen het vandaag met een saaie beursagenda en wie schrijft er in voor Anthropic-aandelen?"
         },
         {
-          "title": "Leontine Ruiters ziet huwelijk met John Huiberts wel zitten: 'Zeg nooit nooit'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/leontine-ruiters-huwelijk-john-huiberts-zeg-nooit-nooit",
-          "publishedDate": "Thu, 12 Nov 2026 02:29:00 GMT",
-          "description": "Leontine Ruiters overweegt een huwelijk met John Huiberts na hernieuwde liefde. Ex-man Marco Borsato gunt het haar. &quot;Zeg nooit nooit!&quot; ..."
+          "title": "Jensen Huang stapt per direct op als CEO van Nvidia, opvolger aangewezen",
+          "source": "IGN Benelux on MSN",
+          "url": "https://www.msn.com/nl-nl/technologie/tech-bedrijven/jensen-huang-stapt-per-direct-op-als-ceo-van-nvidia-opvolger-aangewezen/ar-AA2hiRi3",
+          "publishedDate": "Thu, 12 Nov 2026 09:03:18 GMT",
+          "description": "Jensen Huang is per direct opgestapt als CEO van Nvidia, het bedrijf dat hij in 1993 mede heeft opgericht. De raad van bestuur heeft financieel directeur Colette Kress aangesteld als interim-CEO. Onde ..."
         },
         {
-          "title": "Leontine Ruiters onthult hoe ex Marco Borsato over haar nieuwe liefde denkt: ‘Hij is ontzettend blij voor me’",
-          "source": "Vriendin",
-          "url": "https://www.vriendin.nl/nieuwtjes/leontine-ruiters-ex-marco-borsato-nieuwe-liefde/",
-          "publishedDate": "Thu, 12 Nov 2026 01:40:00 GMT",
-          "description": "De vlinders zijn helemaal terug bij Leontine Ruiters (58). De presentatrice heeft opnieuw het geluk gevonden bij ondernemer John Huiberts."
+          "title": "Nvidia-topman Jensen Huang stapt per direct op na 33 jaar",
+          "source": "Crypto Insiders",
+          "url": "https://www.crypto-insiders.nl/nieuws/aandelen/nvidia-topman-jensen-huang-stapt-per-direct-op-na-33-jaar/",
+          "publishedDate": "Thu, 12 Nov 2026 07:07:00 GMT",
+          "description": "Jensen Huang vertrekt per direct als topman van Nvidia. Financieel directeur Colette Kress neemt tijdelijk de leiding over bij de AI-chipgigant."
         },
         {
-          "title": "Marco Borsato gunt Leontine Ruiters haar relatie met John Huiberts: 'Hij is ontzettend blij voor me'",
-          "source": "RTL Boulevard (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/marco-borsato-gunt-leontine-ruiters-haar-relatie-met-john-huiberts-hij-is-ontzettend-blij-voor-me/ar-AA2hjbXa",
-          "publishedDate": "Thu, 12 Nov 2026 00:44:05 GMT",
-          "description": "Leontine Ruiters (58) zit weer helemaal op een roze wolk. De presentator is dolgelukkig met ondernemer John Huiberts (56), met wie ze eerder ook al een relatie had. En haar ex-man Marco Borsato (59)?"
-        },
-        {
-          "title": "Leontine Ruiters over Marco Borsato: ‘In overleg de keuze gemaakt’",
-          "source": "100%NL Magazine",
-          "url": "https://www.100pmagazine.nl/nieuws/leontine-ruiters-over-marco-borsato-in-overleg-de-keuze-gemaakt/",
-          "publishedDate": "Thu, 12 Nov 2026 00:00:00 GMT",
-          "description": "Leontine Ruiters en Marco Borsato zijn nog altijd met elkaar verbonden, maar hun band ziet er tegenwoordig heel anders uit. In Priv&#233; vertelt Leontine er openhartig over."
-        },
-        {
-          "title": "Van breuk naar hereniging: Leontine Ruiters en John Huiberts hebben elkaar opnieuw gevonden",
-          "source": "bd.nl",
-          "url": "https://www.bd.nl/show/van-breuk-naar-hereniging-leontine-ruiters-en-john-huiberts-hebben-elkaar-opnieuw-gevonden~a050dda2/",
-          "publishedDate": "Mon, 03 Aug 2026 04:50:00 GMT",
-          "description": "Veel deelt Leontine Ruiters (58) normaal gesproken niet over haar liefdesleven, maar sinds zaterdag mogen haar ruim 300.000 volgers het weten: ze heeft opnieuw de liefde gevonden bij ex-vriend en ..."
-        },
-        {
-          "title": "Bestuurder auto-ongeluk Leontine Ruiters en Jada Borsato reed in gestolen auto met valse papieren",
-          "source": "weekend-online",
-          "url": "https://www.weekend-online.nl/bners/leontine-ruiters-jada-borsato-auto-ongeluk/",
-          "publishedDate": "Tue, 02 Jun 2026 17:00:00 GMT",
-          "description": "De bestuurder die betrokken was bij het ongeval met Jada Borsato en Leontine Ruiters op Ibiza, blijkt in een gestolen auto te hebben gereden. Ook waren de papieren van het voertuig vervalst, bevestigt ..."
-        },
-        {
-          "title": "Leontine Ruiters gespot in Huizen, drinkt alleen koffie: ‘Z&#243; zielig!’",
-          "source": "mediacourant",
-          "url": "https://www.mediacourant.nl/2026/06/leontine-ruiters-gespot-in-huizen-drinkt-alleen-koffie-zo-zielig/",
-          "publishedDate": "Mon, 01 Jun 2026 07:29:00 GMT",
-          "description": "Elke ochtend zitten ze er, in elke koffiezaak in het land: mensen die alleen een kopje koffie drinken. Niemand die ervan opkijkt, tenzij je een bekende Nederlander bent. Dan is alleen koffiedrinken ..."
-        }
-      ]
-    },
-    {
-      "keyword": "outlook storing",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Grote storing bij Microsoft, problemen bij gebruik Outlook",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/tech-innovatie/10615397/grote-storing-bij-microsoft-problemen-bij-gebruik-outlook",
-          "publishedDate": "Thu, 12 Nov 2026 13:25:00 GMT",
-          "description": "Microsoft heeft last van een storing. Dat blijkt uit meldingen op de website Allestoringen. Gebruikers van de dienst hebben er last van en kunnen storingen ervaren bij het gebruiken van Outlook, Teams ..."
-        },
-        {
-          "title": "Outlook, OneDrive en Microsoft 365 hebben last van storing",
+          "title": "Jensen Huang treedt af als ceo van Nvidia na affaires",
           "source": "Tweakers",
-          "url": "https://tweakers.net/nieuws/254484/outlook-onedrive-en-microsoft-365-hebben-last-van-storing.html",
-          "publishedDate": "Thu, 12 Nov 2026 12:45:00 GMT",
-          "description": "Microsoft 365 heeft last van een storing. Dat bevestigt Microsoft op sociale media. Daardoor kunnen gebruikers mogelijk niet bij Outlook, OneDrive, de zakelijke versie van Microsoft Teams en andere so ..."
+          "url": "https://tweakers.net/nieuws/254470/jensen-huang-treedt-af-als-ceo-van-nvidia-na-affaires.html",
+          "publishedDate": "Thu, 12 Nov 2026 07:05:00 GMT",
+          "description": "Jensen Huang treedt af als ceo van Nvidia. Huang kwam onder vuur te liggen na meerdere affaires, waardoor zijn positie niet meer houdbaar was. Hij wordt opgevolgd door Colette Kress, de huidige cfo va ..."
         },
         {
-          "title": "Even je mail checken lukt mogelijk niet: grote storing bij Outlook",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/tech/storing/artikelen/storing-microsoft-outlook-onedrive-teams-nederland",
-          "publishedDate": "Thu, 12 Nov 2026 12:37:00 GMT",
-          "description": "Microsoft kampt met een storing bij Outlook, OneDrive en Teams. Ook Nederlandse gebruikers melden problemen. Microsoft werkt aan een oplossing voor de storing."
+          "title": "5 schokkende feiten over Colette Kress: nieuwe interim-CEO van Nvidia",
+          "source": "BeInCrypto",
+          "url": "https://nl.beincrypto.com/colette-kress-nvidia-nieuwe-ceo-verrassende-feiten/",
+          "publishedDate": "Thu, 12 Nov 2026 06:41:00 GMT",
+          "description": "Maak kennis met Nvidia's nieuwe interim-CEO, Colette Kress. Een blik op haar crypto-rechtszaak, carri&#232;re bij Microsoft, aandelenverkopen en politieke connecties."
         },
         {
-          "title": "Outlook-storing nog niet voorbij: iOS-gebruikers moeten wachtwoord opnieuw ingeven",
-          "source": "ITdaily.",
-          "url": "https://itdaily.be/nieuws/software/outlook-getroffen-door-storing/",
-          "publishedDate": "Tue, 28 Apr 2026 00:10:00 GMT",
-          "description": "Microsoft kampt al bijna 24 uur met een storing in Outlook. Voor veel gebruikers is die opgelost, al moet je op iOS ‘extra stappen’ nemen. Ondervind je problemen om in te loggen bij Outlook.com? Je ..."
+          "title": "NVIDIA benoemt Colette Kress tot interim-CEO na het aftreden van Huang",
+          "source": "Unite.AI",
+          "url": "https://www.unite.ai/nl/nvidia-names-colette-kress-interim-ceo-following-huangs-resignation/",
+          "publishedDate": "Thu, 12 Nov 2026 06:21:00 GMT",
+          "description": "NVIDIA maakte op 12 november 2026 bekend dat Jensen Huang met onmiddellijke ingang was afgetreden als president, CEO en bestuurder. De raad van bestuur benoemde financieel directeur Colette Kress tot ..."
         },
         {
-          "title": "Exchange Online opnieuw plat: Outlook mobiel en Mac getroffen",
-          "source": "ictmagazine.nl",
-          "url": "https://www.ictmagazine.nl/nieuws/exchange-online-opnieuw-plat-outlook-mobiel-en-mac-getroffen/",
-          "publishedDate": "Mon, 23 Mar 2026 07:21:00 GMT",
-          "description": "Microsoft werkt aan een oplossing voor een storing in Exchange Online die gebruikers van Outlook voor mobiel en de nieuwe Outlook voor Mac treft. De oorzaak is een nieuw virtueel account dat Microsoft ..."
+          "title": "Factbox - Wie is Nvidia-interim-CEO Colette Kress?",
+          "source": "IEX.nl",
+          "url": "https://www.iex.nl/Nieuws/885002/Factbox-Wie-is-Nvidia-interim-CEO-Colette-Kress.aspx",
+          "publishedDate": "Thu, 12 Nov 2026 06:05:00 GMT",
+          "description": "Nvidia-financetopvrouw Colette Kress neemt het interim-CEO-schap over van Jensen Huang, zo maakte het bedrijf donderdag bekend. Daarmee krijgt zij de leiding over de chipfabrikant waarvan de processor ..."
         },
         {
-          "title": "Aanhoudende Outlook-problemen geven Microsoft kopzorgen",
-          "source": "ictmagazine.nl",
-          "url": "https://www.ictmagazine.nl/nieuws/aanhoudende-outlook-problemen-geven-microsoft-kopzorgen/",
-          "publishedDate": "Mon, 25 Aug 2025 14:46:00 GMT",
-          "description": "Een Exchange Online-probleem verstoort e-mailtoegang voor mobiele Outlook-gebruikers met Hybrid Modern Authentication. De techreus heeft inmiddels een oplossing, maar het is verre van de eerste keer ..."
+          "title": "Affaires kosten CEO Nvidia de kop: Jensen Huang stapt op",
+          "source": "VRT NWS on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/jensen-huang-stapt-op-als-topman-bij-nvidia/ar-AA2hi8DW",
+          "publishedDate": "Thu, 12 Nov 2026 05:58:30 GMT",
+          "description": "Jensen Huang stapt op als CEO, voorzitter &#233;n lid van de raad van bestuur van Nvidia. Dat meldt de technologiereus op zijn website. Hij was in opspraak gekomen na een relatie met een spion uit China en ..."
+        }
+      ]
+    },
+    {
+      "keyword": "merel westrik",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Sinterklaasjournaal houdt het spannend, opvolger van De Walle nog onduidelijk",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2638762-sinterklaasjournaal-houdt-het-spannend-opvolger-van-de-walle-nog-onduidelijk",
+          "publishedDate": "Mon, 09 Nov 2026 09:36:00 GMT",
+          "description": "In september werd bekend dat Stefan de Walle na vijftien jaar niet meer met paard Ozosnel te zien zou zijn. Daarna kwam de geruchtenmolen op gang over wie in de voetsporen van De Walle zou treden."
         },
         {
-          "title": "Storing Outlook, Microsoft werkt aan oplossing",
-          "source": "ITdaily.",
-          "url": "https://itdaily.be/nieuws/cloud/storing-microsoft-outlook-juli-2025/",
-          "publishedDate": "Thu, 10 Jul 2025 00:36:00 GMT",
-          "description": "Microsoft bevestigt dat Outlook.com een storing ondervindt. Gebruikers kunnen soms niet aan hun mailbox. Een oplossing is in de maak. Sinds afgelopen nacht ondervindt Outlook een storing; Die treft ..."
+          "title": "Merel Westrik licht tipje van sluier op over eerste aflevering Sinterklaasjournaal",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5664040/merel-westrik-eerste-aflevering-sinterklaasjournaal",
+          "publishedDate": "Mon, 09 Nov 2026 03:43:00 GMT",
+          "description": "De goedheiligman is in aantocht en dat betekent maar &#233;&#233;n ding: het 'Sinterklaasjournaal' is terug. Merel Westrik (47) staat alweer te popelen. In 'De Coen &amp; Sander Show' op JOE blikt ze alvast vooruit ..."
         },
         {
-          "title": "Grote storing bij Outlook: problemen bij mails lezen en versturen",
-          "source": "linda",
-          "url": "https://www.linda.nl/nieuws/balen/outlook-storing-mails-lezen-versturen/",
-          "publishedDate": "Mon, 25 Nov 2024 04:47:00 GMT",
-          "description": "Microsoft 365 kampt momenteel met een wereldwijde storing bij Outlook, waardoor gebruikers geen mails kunnen versturen of lezen. Volgens Microsoft doen de problemen zich met name voor bij Exchange ..."
+          "title": "Suzan &amp; Freek, Merel Westrik en Connie Palmen in het zonnetje gezet tijdens uitblinkerslunch van koningspaar",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/suzan-en-freek-merel-westrik-en-connie-palmen-in-het-zonnetje-gezet-tijdens-uitblinkerslunch-van-koningspaar~ae0d8a76/",
+          "publishedDate": "Tue, 27 Oct 2026 04:05:00 GMT",
+          "description": "Suzan en Freek Rikkerink zijn dinsdag in het zonnetje gezet in Paleis Noordeinde. Het zangduo was door koning Willem-Alexander en koningin M&#225;xima uitgenodigd voor de zogeheten uitblinkerslunch, een ja ..."
         },
         {
-          "title": "Storing bij Outlook en Teams verholpen, meldt Microsoft",
-          "source": "RD",
-          "url": "https://www.rd.nl/artikel/storing-bij-outlook-en-teams-verholpen-meldt-microsoft",
-          "publishedDate": "Wed, 25 Jan 2023 06:33:00 GMT",
-          "description": "Mensen kunnen weer gebruik maken van diensten als Outlook om mails te sturen en Teams om te vergaderen. Moederbedrijf Microsoft laat weten dat de wereldwijde storing is verholpen. De uitval trok ook ..."
+          "title": "Merel Westrik neemt presentatie Project Rembrandt voorlopig over van Annechien Steenhuizen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/merel-westrik-neemt-presentatie-project-rembrandt-voorlopig-over-van-annechien-steenhuizen~a1d550c4/",
+          "publishedDate": "Sun, 21 Jun 2026 20:30:00 GMT",
+          "description": "Project Rembrandt keert in 2027 terug met een vijfde seizoen. Merel Westrik zal de jubileumeditie gaan presenteren. De voorgaande vier seizoenen werden gepresenteerd door Annechien Steenhuizen. Zij is ..."
+        },
+        {
+          "title": "Dit is de partner van Merel Westrik – en hij is geen onbekende op tv",
+          "source": "Vriendin",
+          "url": "https://www.vriendin.nl/nieuwtjes/partner-van-merel-westrik/",
+          "publishedDate": "Thu, 12 Nov 2026 07:57:00 GMT",
+          "description": "Merel Westrik is momenteel dagelijks te zien als presentatrice van Het Sinterklaasjournaal. Maar wie is haar partner?"
+        },
+        {
+          "title": "Merel Westrik over start Sinterklaasjournaal: 'Benieuwd hoe zijn mijter staat'",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/merel-westrik-start-sinterklaasjournaal-benieuwd-mijter-nieuwe-sinterklaas",
+          "publishedDate": "Mon, 09 Nov 2026 09:32:00 GMT",
+          "description": "Merel Westrik kijkt uit naar het Sinterklaasjournaal en de nieuwe Sinterklaas: &quot;Je bent dan toch benieuwd hoe zijn mijter staat dit jaar&quot;. Op maandag 9 november."
+        },
+        {
+          "title": "Merel Westrik over eerste aflevering 'Sinterklaasjournaal': 'We gaan poging doen nieuwe Sint te spreken'",
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/entertainment/wil-je-weten/merel-westrik-eerste-aflevering-sinterklaasjournaal/",
+          "publishedDate": "Mon, 09 Nov 2026 08:48:00 GMT",
+          "description": "Nog even en het is weer zover: Sinterklaas komt bijna weer aan in ons land. Dat betekent dat ook het Sinterklaasjournaal weer begint. Maandagavond om precies te zijn. Presentatrice Merel Westrik staat ..."
+        },
+        {
+          "title": "Merel Westrik blikt vooruit op spannend Sinterklaasjournaal: 'We gaan een poging doen'",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/amusement/merel-westrik-blikt-vooruit-op-spannend-sinterklaasjournaal-we-gaan-een-poging-doen",
+          "publishedDate": "Mon, 09 Nov 2026 05:22:00 GMT",
+          "description": "Torenhoge kijkcijfers, dat verwacht Tina Nijkamp voor het Sinterklaasjournaal maandagavond. Wie wordt toch de nieuwe adviseur van de Sint? Presentatrice Merel Westrik heeft er in ieder geval weer zin ..."
+        },
+        {
+          "title": "Merel Westrik vond uitblinkerslunch 'dag met een gouden randje'",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/koningshuis/merel-westrik-vond-uitblinkerslunch-dag-met-een-gouden-randje-44A7Yu",
+          "publishedDate": "Tue, 27 Oct 2026 11:26:00 GMT",
+          "description": "Merel Westrik heeft een bijzondere dag achter de rug. De presentatrice was samen met Jeroen Kramer een van de gasten tijdens de zogeheten uitblinkerslunch met koning Willem-Alexander en koningin M&#225;xim ..."
+        },
+        {
+          "title": "Merel Westrik stapte ziek het vliegtuig in naar Portugal voor Wie is de Mol?",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/show/merel-westrik-stapte-ziek-het-vliegtuig-in-naar-portugal-voor-wie-is-de-mol~adbf6769/?slug_rd=1",
+          "publishedDate": "Mon, 03 Nov 2025 19:10:00 GMT",
+          "description": "Coen Swijnenberg en Sander Lantinga zijn met stomheid geslagen dat hun Joe-radiocollega Merel Westrik meedoet aan het jubileumseizoen van Wie is de Mol?. De opnames blijken te hebben plaatsgevonden ..."
+        }
+      ]
+    },
+    {
+      "keyword": "gasprijs omlaag",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Gasprijs gaat omlaag, loont het om over te stappen?",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/economie/artikel/5664530/gasprijs-omlaag-overstappen-niet",
+          "publishedDate": "Wed, 11 Nov 2026 22:01:00 GMT",
+          "description": "De afgelopen weken daalt de prijs van gas op de Europese groothandelsmarkt weer, na een piek eind oktober. Goed nieuws dus voor mensen die een nieuw energiecontract willen afsluiten. Maar is dit wel h ..."
+        },
+        {
+          "title": "Deze 4 energieleveranciers verlagen vandaag hun tarieven voor stroom en gas",
+          "source": "Energievergelijk.nl",
+          "url": "https://www.energievergelijk.nl/nieuws/deze-4-energieleveranciers-verlagen-vandaag-hun-tarieven-voor-stroom-en-gas",
+          "publishedDate": "Thu, 05 Nov 2026 17:31:00 GMT",
+          "description": "Na een week van dalende gasprijzen op de beurs gaan de eerste energiecontracten omlaag. Vattenfall, Vandebron, Pure Energie en Engie verlagen vandaag hun stroom- en gasprijs voor nieuwe klanten. De gr ..."
+        },
+        {
+          "title": "Olieprijs hard omlaag, voor het eerst in een maand weer onder 100 dollar",
+          "source": "BNR Nieuwsradio",
+          "url": "https://www.bnr.nl/nieuws/economie/10614918/olieprijs-hard-omlaag-voor-het-eerst-in-een-maand-weer-onder-100-dollar",
+          "publishedDate": "Wed, 04 Nov 2026 11:20:00 GMT",
+          "description": "De olie- en gasprijzen zijn woensdag fors gedaald. Dat gebeurde nadat Donald Trump heeft gezegd dat de kans op aanvallen op Iran kleiner wordt. Een vat ruwe Brentolie kost daardoor voor het eerst ..."
+        },
+        {
+          "title": "Europese gasprijs behoorlijk omlaag na uitspraken Trump",
+          "source": "AD",
+          "url": "https://www.ad.nl/economie/europese-gasprijs-behoorlijk-omlaag-na-uitspraken-trump~a6062853/",
+          "publishedDate": "Tue, 10 Mar 2026 06:43:00 GMT",
+          "description": "Op de Amsterdamse gasbeurs ging de prijs in de vroege handel zo’n 16 procent omlaag naar ruim 47 euro per megawattuur. Maandag ging de prijs kort na opening van de handel nog ongeveer 30 procent ..."
+        },
+        {
+          "title": "Gasprijs weer omlaag na dagen met forse stijgingen",
+          "source": "ED",
+          "url": "https://www.ed.nl/economie/gasprijs-weer-omlaag-na-dagen-met-forse-stijgingen~aa9217e4/",
+          "publishedDate": "Tue, 03 Mar 2026 19:05:00 GMT",
+          "description": "De gasprijs is woensdag weer wat gedaald, na twee dagen met stijgingen van tientallen procenten. Handelaren proberen een Amerikaans plan om cruciale tankertransporten in het Midden-Oosten te ..."
+        },
+        {
+          "title": "Gasprijs verder omlaag, in buurt van prijs van begin dit jaar",
+          "source": "DVHN",
+          "url": "https://dvhn.nl/economie/gasprijs-verder-omlaag-in-buurt-van-prijs-van-begin-dit-jaar/156560955.html",
+          "publishedDate": "Fri, 30 Dec 2022 13:49:00 GMT",
+          "description": "Het warme weer deze winter zorgt ervoor dat de Europese gasvoorraden nog vol zitten. Dat heeft tot gevolg dat Europese landen en energiebedrijven minder willen betalen om meer gas te kopen. De prijs ..."
+        },
+        {
+          "title": "Gasprijs flink omlaag nu landen haast maken met vullen reserves",
+          "source": "ED",
+          "url": "https://www.ed.nl/binnenland/gasprijs-flink-omlaag-nu-landen-haast-maken-met-vullen-reserves~a7dc9abf9/?ctm_ctid=3666fec985855a283725ac4e3aca92f2&slug_rd=1",
+          "publishedDate": "Sun, 28 Aug 2022 17:00:00 GMT",
+          "description": "De prijs op de Amsterdamse gasbeurs daalde ruim 20 procent, tot 270 euro per megawattuur. Afgelopen week stegen de prijzen nog met 40 procent. Volgens de Duitse minister van Economie en Klimaat, ..."
+        }
+      ]
+    },
+    {
+      "keyword": "verzekering",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Grootste premiestijging in jaren, check hier jouw verzekering",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/economie/grootste-premiestijging-in-jaren-check-hier-jouw-verzekering~a7d268a1/",
+          "publishedDate": "Thu, 12 Nov 2026 15:29:00 GMT",
+          "description": "Flinke stijging van de zorgpremie. Vrijwel alle verzekeraars verhogen hun premie, maar de verschillen zijn groot. Waar de een met circa 5 euro verhoogt, is het bij de andere verzekeraar bijna twee tie ..."
+        },
+        {
+          "title": "Grootste stijging zorgpremie in jaren, maar de verschillen zijn groot",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/economie/grootste-stijging-zorgpremie-in-jaren-maar-de-verschillen-zijn-groot~a7d268a1/",
+          "publishedDate": "Thu, 12 Nov 2026 14:03:00 GMT",
+          "description": "We betalen volgend jaar een hogere zorgpremie. Vrijwel alle verzekeraars verhogen hun premie, maar de verschillen zijn groot. Waar de een met circa 5 euro verhoogt, is het bij de andere verzekeraar ru ..."
+        },
+        {
+          "title": "Airbnb biedt verzekering aan voor slecht weer: bij drie uur regen kun je honderden euro’s terugkrijgen",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/wereld/airbnb-biedt-verzekering-aan-voor-slecht-weer-bij-drie-uur-regen-kun-je-honderden-euro-s-terugkrijgen~b6269cc9/",
+          "publishedDate": "Mon, 09 Nov 2026 12:11:00 GMT",
+          "description": "Regent het elke dag op vakantie en heb je je verblijf geboekt bij Airbnb, dan kun je mogelijk een vergoeding krijgen. Sinds vorige maand biedt de accommodatiesite namelijk een speciale weerbescherming ..."
+        },
+        {
+          "title": "Deze nabestaanden ontdekken dat de verzekering niet uitkeert",
+          "source": "HomeFinance",
+          "url": "https://www.homefinance.nl/nieuws-blog/2026/deze-nabestaanden-ontdekken-dat-de-verzekering-niet-uitkeert-301972/",
+          "publishedDate": "Sat, 07 Nov 2026 04:05:00 GMT",
+          "description": "Een nabestaande kreeg geen uitkering uit een overlijdensrisicoverzekering; de rechtbank gaf de verzekeraar gelijk. Wie na het overlijden van een partner met een restschuld blijft zitten, krijgt ook me ..."
+        },
+        {
+          "title": "Maatregelen na dodelijk ongeval met carnavalswagen: 'Een verzekering voorkomt geen ongeluk'",
+          "source": "L1 Nieuws",
+          "url": "https://www.l1nieuws.nl/nieuws/3267969/maatregelen-na-dodelijk-ongeval-met-carnavalswagen-een-verzekering-voorkomt-geen-ongeluk",
+          "publishedDate": "Fri, 06 Nov 2026 00:26:00 GMT",
+          "description": "Na het dodelijke ongeval met een carnavalswagen in Blerick in 2024 startte de Arbeidsinspectie een onderzoek. De Provinciale Staten vroegen zich hardop af of er provinciebreed een collectieve verzeker ..."
+        },
+        {
+          "title": "ABN AMRO met ANW-hiaat verzekering in Radar",
+          "source": "abnamro",
+          "url": "https://www.abnamro.com/nl/nieuws/abn-amro-met-anw-hiaat-verzekering-in-radar",
+          "publishedDate": "Thu, 05 Sep 2019 00:49:00 GMT",
+          "description": "Maandagavond 9 september heeft tv-programma Radar aandacht besteed aan de nabestaande van een oud-ABN AMRO collega met een Algemene Nabestaandewet (ANW)-hiaat verzekering van ABN AMRO Verzekeringen ..."
+        },
+        {
+          "title": "Wat is een aanvullende zorgverzekering?",
+          "source": "Rijksoverheid",
+          "url": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/zorgverzekering/wat-is-een-aanvullende-zorgverzekering",
+          "publishedDate": "Fri, 15 Jul 2016 07:29:00 GMT",
+          "description": "Een aanvullende verzekering is een verzekering voor zorg die niet in de basisverzekering zit. Bijvoorbeeld voor brillen of lenzen. Of voor meer fysiotherapie dan het basispakket vergoedt. Een ..."
+        },
+        {
+          "title": "Zorgverzekering kiezen?",
+          "source": "ZorgWijzer.nl",
+          "url": "https://www.zorgwijzer.nl/zorgvergelijker/zorgverzekering-kiezen",
+          "publishedDate": "Tue, 26 Jan 2016 06:22:00 GMT",
+          "description": "Eigen risico € 385 geen korting tot € 264 korting De kosten van behandeling voor alternatieve of complementaire geneeswijzen kunnen oplopen tot meer dan € 50 per uur. Met een aanvullende verzekering ..."
         }
       ]
     }
