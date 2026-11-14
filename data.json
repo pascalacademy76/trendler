@@ -1,398 +1,147 @@
 {
-  "fetchedAt": "2026-11-14T16:17:46.453Z",
+  "fetchedAt": "2026-11-14T20:50:42.236Z",
   "trends": [
     {
       "keyword": "gijs naber",
       "trafficLabel": "500K+",
-      "articles": []
-    },
-    {
-      "keyword": "nederland - griekenland",
-      "trafficLabel": "200K+",
       "articles": [
         {
-          "title": "Oranje verpulvert Griekenland met 7-0: zelfs 13-0 tegen Duitsland kan genoeg zijn",
-          "source": "Mee Met Oranje",
-          "url": "https://www.meemetoranje.nl/nederlands-elftal/nieuws/oranje-griekenland-7-0-duitsland-13-0-nations-league/",
-          "publishedDate": "Fri, 13 Nov 2026 14:35:00 GMT",
-          "description": "Oranje haalt met 7-0 uit tegen Griekenland en cre&#235;ert een bizarre uitgangspositie: zelfs 13-0 tegen Duitsland kan nog genoeg zijn."
+          "title": "Gijs Naber is de nieuwe incarnatie van de Sint in het Sinterklaasjournaal",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/11/14/gijs-naber-is-de-nieuwe-incarnatie-van-de-sint-in-het-sinterklaasjournaal-a4941356",
+          "publishedDate": "Sat, 14 Nov 2026 04:58:00 GMT",
+          "description": "Televisie: De opvolger van Stefan de Walle is acteur Gijs Naber, zo bleek zaterdagmiddag uit het verslag van de intocht door Het Sinterklaasjournaal. Het was de ontknoping van een merkwaardige mediahy ..."
         },
         {
-          "title": "LIVE Nederland - Griekenland (GESLOTEN): Oranje boekt monsteroverwinning",
-          "source": "meemetoranje",
-          "url": "https://www.meemetoranje.nl/nederlands-elftal/nieuws/nederland-griekenland-liveblog-nations-league-oranje/",
-          "publishedDate": "Fri, 13 Nov 2026 12:13:00 GMT",
-          "description": "Nederland speelt vrijdagavond om 20.45 uur tegen Griekenland in de vijfde speelronde van de UEFA Nations League. Beide landen hebben na vier wedstrijden acht punten en strijden in de Johan Cruijff ArenA om een belangrijke slag in de groep. Bondscoach Xavi ..."
-        }
-      ]
-    },
-    {
-      "keyword": "hypotheekrente",
-      "trafficLabel": "20K+",
-      "articles": [
+          "title": "Eindelijk antwoord op de vraag wie de nieuwe Sinterklaas is: acteur Gijs Naber",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/cultuur-media/eindelijk-antwoord-op-de-vraag-wie-de-nieuwe-sinterklaas-is-acteur-gijs-naber~bd93e4c0/",
+          "publishedDate": "Sat, 14 Nov 2026 04:58:00 GMT",
+          "description": "Na weken van speculatie is nu bekend wie de nieuwe Sinterklaas is. Gijs Naber maakte tijdens de Nationale Intocht zijn debuut als goedheiligman."
+        },
         {
-          "title": "Hogere maandlasten voor veel huiseigenaren door stijgende hypotheekrente",
+          "title": "Zo werd Gijs Naber als nieuwe Sinterklaas ge&#239;ntroduceerd",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6416301/hogere-maandlasten-voor-veel-huiseigenaren-door-stijgende-hypotheekrente.html",
-          "publishedDate": "Wed, 11 Nov 2026 23:48:00 GMT",
-          "description": "Steeds meer huiseigenaren krijgen de komende jaren te maken met hogere maandlasten vanwege de stijging van de hypotheekrente. Dat meldt De Nederlandsche Bank (DNB) op basis van hypotheekdata van banke ..."
+          "url": "https://www.nu.nl/332280/video/zo-werd-gijs-naber-als-nieuwe-sinterklaas-geintroduceerd.html",
+          "publishedDate": "Sat, 14 Nov 2026 04:43:00 GMT",
+          "description": "Gijs Naber volgt Stefan de Walle op als Sinterklaas, zo is zaterdag vlak voor de intocht in Grave bekend geworden. Zijn komst als nieuwe Sinterklaas werd kort voor de intocht onthuld in Het Sinterklaa ..."
         },
         {
-          "title": "De woningmarkt verandert: fijn voor kopers, of begin van nieuwe crisis?",
-          "source": "NOS",
-          "url": "https://nos.nl/nieuwsuur/artikel/2639105-de-woningmarkt-verandert-fijn-voor-kopers-of-begin-van-nieuwe-crisis",
-          "publishedDate": "Wed, 11 Nov 2026 22:00:00 GMT",
-          "description": "Het rammelt op de woningmarkt. De huizenprijzen dalen en woningen staan langer te koop. Bovendien wordt nieuwbouw maar moeizaam verkocht en neemt het vertrouwen onder kopers al maanden af. Wat is er a ..."
-        },
-        {
-          "title": "Steeds minder vertrouwen in huizenmarkt door strenge regels en hoge rente",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6416218/steeds-minder-vertrouwen-in-huizenmarkt-door-strenge-regels-en-hoge-rente.html",
-          "publishedDate": "Wed, 11 Nov 2026 06:16:00 GMT",
-          "description": "Het tijdperk van extreme overbiedingen en explosieve prijsstijgingen op de huizenmarkt is voorbij. Door de opgelopen hypotheekrente kunnen huizenkopers tienduizenden euro's minder lenen, blijkt uit de ..."
-        },
-        {
-          "title": "De hypotheekrente daalt, maar experts verwachten dat het tijdelijk is",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/wonen/de-hypotheekrente-daalt-maar-experts-verwachten-dat-het-tijdelijk-is~a910321ed/",
-          "publishedDate": "Tue, 27 Oct 2026 01:16:00 GMT",
-          "description": "Wekenlang steeg de hypotheekrente. Het hoogste punt werd begin deze maand bereikt: 4,52 procent bij de meest gekozen periode van tien jaar vast met Nationale Hypotheek Garantie. Nu verlagen veel aanbi ..."
-        },
-        {
-          "title": "NADER BEKEKEN: Een huis kopen in 2027: meer lenen, maar ook meer kansen?",
-          "source": "Arenalokaal",
-          "url": "https://www.arenalokaal.nl/nieuws/column/53775/nader-bekeken-een-huis-kopen-in-2027-meer-lenen-maar-ook-meer",
-          "publishedDate": "Sat, 14 Nov 2026 04:14:00 GMT",
-          "description": "“Kunnen we volgend jaar misschien meer lenen?” Het is een vraag die ik regelmatig hoor van mensen die al een tijdje op zoek zijn naar een woning, maar merken dat hun maximale hypotheek net niet.."
-        },
-        {
-          "title": "Hypotheekschok dreigt voor bijna miljoen huishoudens: kwart mogelijk ruim 300 euro per maand extra kwijt",
-          "source": "RTV Focus Zwolle",
-          "url": "https://www.rtvfocuszwolle.nl/hypotheeklasten-stijgen-950000-huishoudens/",
-          "publishedDate": "Sat, 14 Nov 2026 01:41:00 GMT",
-          "description": "Voor ongeveer 950.000 huishoudens dreigt de hypotheek de komende jaren duurder te worden. Volgens DNB stijgen de bruto maandlasten voor het doorsnee getroffen huishouden met 150 euro. Een kwart kan me ..."
-        },
-        {
-          "title": "Deze huiseigenaren verliezen een korting die stilletjes is afgeschaft",
-          "source": "HomeFinance",
-          "url": "https://www.homefinance.nl/nieuws-blog/2026/deze-huiseigenaren-verliezen-een-korting-die-stilletjes-is-afgeschaft-301972/",
-          "publishedDate": "Fri, 13 Nov 2026 23:56:00 GMT",
-          "description": "Heb je je hypotheek (bijna) afgelost, dan kan een belastingvoordeel op je woning in 2027 verder krimpen. De verlaging staat in het Belastingplan 2027, maar moet nog door de Tweede en Eerste Kamer word ..."
-        },
-        {
-          "title": "DNB: 950.000 huishoudens krijgen hogere hypotheeklasten, een kwart betaalt ruim 300 euro extra",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/geld-carriere/woningmarkt/2026/11/huiseigenaren-dreigt-stijging-hypotheeklasten/",
-          "publishedDate": "Thu, 12 Nov 2026 03:02:00 GMT",
-          "description": "Voor zo’n 950.000 huishoudens dreigt de hypotheek de komende jaren duurder te worden. Volgens De Nederlandsche Bank (DNB) stijgen de bruto maandlasten bij een renteherziening v&#243;&#243;r eind 2028 voor een ..."
-        },
-        {
-          "title": "Deze huiseigenaren mogen volgend jaar voor het eerst minder aftrekken dan hun buren",
-          "source": "HomeFinance",
-          "url": "https://www.homefinance.nl/nieuws-blog/2026/deze-huiseigenaren-mogen-volgend-jaar-voor-het-eerst-minder-aftrekken-dan-hun-buren-301972/",
-          "publishedDate": "Fri, 06 Nov 2026 08:10:00 GMT",
-          "description": "Ook in 2027 krijgen huiseigenaren die met hun belastbaar inkomen in de eerste schijf blijven minder hypotheekrenteaftrek dan wie de tweede schijf bereikt. Hun aftrekpercentage stijgt volgens het kabin ..."
-        },
-        {
-          "title": "Zo reken je uit wat nu je maximale hypotheek is met €3.000, €4.000 of €5.000 salaris",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/economie/zo-reken-je-uit-wat-nu-je-maximale-hypotheek-is-met-eur3000-eur4000-of-eur5000-salaris",
-          "publishedDate": "Fri, 02 Oct 2026 04:43:00 GMT",
-          "description": "De hypotheekrente staat op het hoogste niveau in bijna drie jaar. Met dit stappenplan reken je zelf uit hoeveel je nog kunt lenen, met rekenvoorbeelden voor drie salarissen. De hypotheekrente stijgt a ..."
-        }
-      ]
-    },
-    {
-      "keyword": "ronald koeman",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "‘Officieel onderzoek KNVB naar Ronald Koeman’",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/officieel-onderzoek-knvb-naar-ronald-koeman/",
-          "publishedDate": "Sat, 14 Nov 2026 00:01:00 GMT",
-          "description": "Ronald Koeman is inmiddels alweer een klein tijdje weg als bondscoach van Oranje. Toch blijft de naam nog altijd rondzingen bij de KNVB. Wat heeft ..."
-        },
-        {
-          "title": "Koeman neemt het op voor bekritiseerde Frenkie de Jong: 'Ik zie geen problemen'",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/koeman-neemt-het-op-voor-bekritiseerde-frenkie-de-jong-ik-zie-geen-problemen/ar-AA2hmRee",
-          "publishedDate": "Fri, 13 Nov 2026 03:39:00 GMT",
-          "description": "Ronald Koeman heeft het opgenomen voor Frenkie de Jong, die bij FC Barcelona regelmatig onder vuur ligt. De voormalige trainer van de Catalanen vindt dat de middenvelder over voldoende mentale weerbaa ..."
-        },
-        {
-          "title": "Oranje-international onthult: ‘Ik kreeg plots een appje van Ronald Koeman’",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/oranje-international-onthult-ik-kreeg-plots-een-appje-van-ronald-koeman",
-          "publishedDate": "Thu, 12 Nov 2026 04:30:00 GMT",
-          "description": "Ian Maatsen vertelt tegenover De Telegraaf over zijn eerste periode bij het Nederlands elftal. De linksback van Aston Villa hoopt tijdens de komende interlandperiode zijn tweede cap te verdienen."
-        },
-        {
-          "title": "Marten de Roon blikt terug op mislukt WK: 'Ronald Koeman weet dat zelf ook'",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/marten-de-roon-blikt-terug-op-mislukt-wk-ronald-koeman-weet-dat-zelf-ook/ar-AA2heA6Y",
-          "publishedDate": "Wed, 11 Nov 2026 12:54:28 GMT",
-          "description": "Marten de Roon kijkt met Kick 't met van Ziggo Sport terug op het voor Oranje mislukte WK. Onder meer de forse kritiek op toenmalig bondscoach Ronald Koeman komt aan bod bij de middenvelder."
-        },
-        {
-          "title": "Marten de Roon is duidelijk over Ronald Koeman: 'Het is te makkelijk...'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/marten-de-roon-is-duidelijk-over-ronald-koeman-het-is-te-makkelijk",
-          "publishedDate": "Wed, 11 Nov 2026 11:39:00 GMT",
-          "description": "Marten de Roon blikt bij Ziggo Sport terug op het WK en de kritiek die Ronald Koeman destijds kreeg na de uitschakeling van Oranje tegen Marokko."
-        },
-        {
-          "title": "Ronald Koeman staat met zijn kinderen stil bij bijzondere dag: eerste keer na verlies van Bartina",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/boulevard/nieuws/ronald-koeman-staat-met-zijn-kinderen-stil-bij-bijzondere-dag-eerste-keer-na-verlies-van-bartina-2026110116523522512/",
-          "publishedDate": "Sun, 01 Nov 2026 09:51:00 GMT",
-          "description": "Het zijn moeilijke maanden voor Ronald Koeman. In september moest de oud-bondscoach afscheid nemen van zijn vrouw Bartina, die jarenlang tegen borstkanker vocht. Op een speciale dag in Spanje is het ..."
-        },
-        {
-          "title": "Dit gebeurde er op 27 oktober: Barcelona ontslaat Ronald Koeman",
-          "source": "FootballTransfers",
-          "url": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/10/27-oktober-op-transfermarkt-ronald-koeman-ontslagen-door-barcelona",
-          "publishedDate": "Tue, 27 Oct 2026 01:11:00 GMT",
-          "description": "Ronald Koeman werd op 27 oktober ontslagen door Barcelona, Dwight Lodeweges stapte op bij NEC en Heracles koos Hendrie Kr&#252;zen."
-        },
-        {
-          "title": "PORTRET. Gentleman (m&#233;t vagebond-gehalte) die al wel wat levensverdriet kende: wie is Nederlands bondscoach Ronald Koeman?",
-          "source": "HLN",
-          "url": "https://www.hln.be/ek-voetbal/portret-gentleman-met-vagebond-gehalte-die-al-wel-wat-levensverdriet-kende-wie-is-nederlands-bondscoach-ronald-koeman~abee54f4/",
-          "publishedDate": "Tue, 11 Jun 2024 02:31:00 GMT",
-          "description": "Ronald Koeman (61) is al eens Europees kampioen geworden in Duitsland. In 1988. Sindsdien gingen sportief succes en levensverdriet hand in hand bij Koeman, die na de (chronische) borstkanker van zijn ..."
-        }
-      ]
-    },
-    {
-      "keyword": "sinterklaas intocht 2026",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Kijk de video! Dit was de intocht van Sinterklaas in het Oranjepark in Apeldoorn",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/apeldoorn/kijk-de-video-dit-was-de-intocht-van-sinterklaas-in-het-oranjepark-in-apeldoorn~a2bc970c/",
-          "publishedDate": "Fri, 13 Nov 2026 20:25:00 GMT",
-          "description": "Vandaag meerde de Sint aan in het Oranjepark in Apeldoorn. De intocht in was ook dit jaar weer &#233;&#233;n groot feest. Wil je het festijn terugkijken? Bekijk hier de video van de intocht van Sinterklaas 2026 ..."
-        },
-        {
-          "title": "Dit was d&#233; Sinterklaasintocht in Den Helder 2026: sta jij ertussen?",
-          "source": "Rodi.nl",
-          "url": "https://www.rodi.nl/denhelder/nieuws/512148/-fotos-dit-was-de-sinterklaasintocht-in-den-helder-2026-sta-jij-ertussen-",
-          "publishedDate": "Sat, 14 Nov 2026 08:14:00 GMT",
-          "description": "DEN HELDER - Sinterklaas is vandaag feestelijk aangekomen in Den Helder! Op Willemsoord werd de goedheiligman onthaald, samen met zijn Pieten."
-        },
-        {
-          "title": "Intocht Sinterklaas Amstelveen 2026",
-          "source": "1Amstelveen",
-          "url": "https://1amstelveen.nl/intocht-sinterklaas-amstelveen-2026/",
-          "publishedDate": "Sat, 14 Nov 2026 06:51:00 GMT",
-          "description": "Vandaag is Sinterklaas met zijn Pieten aangekomen in Amstelveen. Het was nog maar de vraag of Sint de nieuwe locatie kon vinden want de intocht eindigde dit ..."
-        },
-        {
-          "title": "Intocht Sinterklaas 2026 in beeld",
-          "source": "sliedrecht24",
-          "url": "https://sliedrecht24.nl/intocht-sinterklaas-2026-in-beeld/",
-          "publishedDate": "Sat, 14 Nov 2026 04:49:00 GMT",
-          "description": "SLIEDRECHT – Sinterklaas en zijn Pieten zijn zaterdagmorgen 14 november 2026 na een lange tocht uit Spanje aangekomen in Sliedrecht. De Pakjesboot meerde aan bij de Schuttevaerkade in de gemeentehaven ..."
-        },
-        {
-          "title": "Fotoserie: Zonovergoten Sinterklaasintocht op Scheveningen",
-          "source": "indebuurt",
-          "url": "https://indebuurt.nl/den-haag/sinterklaas-in-den-haag/fotoserie-zonovergoten-sinterklaasintocht-op-scheveningen~a19863e4/",
-          "publishedDate": "Fri, 13 Nov 2026 23:15:00 GMT",
-          "description": "Pakjesboot 070 kwam zaterdagochtend 14 november rond kwart over 11 aan in de haven van Scheveningen. Het was erg druk op de kades. Met het mooie, zonnige weer wilden veel kinderen hier graag bij zijn."
-        },
-        {
-          "title": "Sinterklaasintocht 2026 in Breda: dit is de route en het programma",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/breda/sinterklaasintocht-2026-in-breda-dit-is-de-route-en-het-programma~a192cc9c/",
-          "publishedDate": "Fri, 13 Nov 2026 22:30:00 GMT",
-          "description": "O, kom er eens kijken! Volgende maand komt Sinterklaas aan in Breda. Wil je de goedheiligman en zijn pieten goed kunnen zien? Hier lees je alles over de route en het programma tijdens de ..."
-        },
-        {
-          "title": "Terug in Middelburg: Bekijk hier alle foto’s van de Sinterklaasintocht 2026",
-          "source": "indebuurt",
-          "url": "https://indebuurt.nl/middelburg/genieten-van-middelburg/terug-in-middelburg-bekijk-hier-alle-fotos-van-de-sinterklaasintocht-2026~ac07e640/",
-          "publishedDate": "Fri, 13 Nov 2026 21:57:00 GMT",
-          "description": "Sinterklaas is weer heelhuids aangekomen in Middelburg. Rond 13.30 uur kwam hij zaterdag samen met de pieten aan bij de jachthaven aan De Punt en de Rouaansekaai. Daar werd de goedheiligman begroet do ..."
-        },
-        {
-          "title": "Sinterklaas draait alvast warm: intocht met cabrio door Tuindorp Oostzaan",
-          "source": "AT5",
-          "url": "https://www.at5.nl/artikelen/241042/intocht-sinterklaas-cabrio-tuindorp-oostzaan-amsterdam",
-          "publishedDate": "Fri, 13 Nov 2026 21:33:00 GMT",
-          "description": "Rond 10.00 uur kwamen Sint en zijn pieten met de boot aan op de Appelweg. Vervolgens was er dus een intocht door Tuindorp Oostzaan. De intocht eindigde rond 14.00 op het Zonneplein. Om 15.00 uur volgt ..."
-        },
-        {
-          "title": "Fotoreeks! Zo zag de sinterklaasintocht in Dordrecht 2026 eruit",
-          "source": "Provinciale Zeeuwse Courant",
-          "url": "https://www.pzc.nl/dordrecht/fotoreeks-zo-zag-de-sinterklaasintocht-in-dordrecht-2026-eruit~aa72fa18/",
-          "publishedDate": "Fri, 13 Nov 2026 18:25:00 GMT",
-          "description": "Sinterklaas en zijn pieten zijn weer in ons land! Een heleboel zingende kinderen stonden zaterdag 14 november vol verwachting bij de Kuipershaven. Hebben we jou ook gespot?"
-        },
-        {
-          "title": "Livestream Sinterklaasintocht Borne 2026",
-          "source": "borneboeit",
-          "url": "https://www.borneboeit.nl/199769/nieuws/livestream-sinterklaasintocht-borne-2026",
-          "publishedDate": "Fri, 13 Nov 2026 16:00:00 GMT",
-          "description": "Sinterklaas komt vandaag aan in Borne! Ook dit jaar wordt de goedheiligman weer feestelijk ontvangen en staat hem een warm welkom te wachten. Kun je er zelf niet bij zijn? Geen probleem! BorneBoeit ..."
-        }
-      ]
-    },
-    {
-      "keyword": "jan pijnenburg",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Voormalig Doe Maar-drummer Jan Pijnenburg (70) onverwachts overleden",
+          "title": "Het speculeren is voorbij: acteur Gijs Naber neemt de mijter over van Stefan de Walle",
           "source": "Het Parool",
-          "url": "https://www.parool.nl/kunst-media/voormalig-doe-maar-drummer-jan-pijnenburg-70-onverwachts-overleden~b0ce5d6b/",
-          "publishedDate": "Sat, 14 Nov 2026 01:16:00 GMT",
-          "description": "Voormalig Doe Maar-drummer Jan Pijnenburg is donderdag op 70-jarige leeftijd overleden. De in Vught geboren muzikant stierf in Spanje, meldt Dagblad van het Noorden."
+          "url": "https://www.parool.nl/nederland/het-speculeren-is-voorbij-acteur-gijs-naber-neemt-de-mijter-over-van-stefan-de-walle~b5fe8c1a/",
+          "publishedDate": "Sat, 14 Nov 2026 04:36:00 GMT",
+          "description": "Na weken van speculatie liet de nieuwe adviseur van de Goedheiligman zich zaterdag eindelijk zien tijdens de intocht van Sinterklaas in Grave. En wie goed keek, herkende achter de witte baard niemand ..."
         },
         {
-          "title": "Doe Maar-drummer Jan Pijnenburg (70) plotseling overleden",
+          "title": "Acteur Gijs Naber is de opvolger van Stefan de Walle in het Sinterklaasjournaal",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/acteur-gijs-naber-is-de-opvolger-van-stefan-de-walle-in-het-sinterklaasjournaal~be2648315/",
+          "publishedDate": "Sat, 14 Nov 2026 04:34:00 GMT",
+          "description": "Gijs Naber is de nieuwe hoofdrolspeler in het Sinterklaasjournaal. Dat werd zaterdag duidelijk tijdens de landelijke intocht in het Brabantse Grave. De acteur is de opvolger van Stefan de Walle, van w ..."
+        },
+        {
+          "title": "Gijs Naber is nieuwe Sinterklaas en volgt na vijftien jaar Stefan de Walle op",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/muziek/6416540/doe-maar-drummer-jan-pijnenburg-70-plotseling-overleden.html",
-          "publishedDate": "Fri, 13 Nov 2026 14:35:00 GMT",
-          "description": "Doe Maar-drummer Jan Pijnenburg is donderdag op zeventigjarige leeftijd plotseling in zijn woonplaats in Spanje overleden, meldt Dagblad van het Noorden. Pijnenburg kwam in 1982 bij de band en was ook ..."
+          "url": "https://www.nu.nl/media/6416442/gijs-naber-is-nieuwe-sinterklaas-en-volgt-na-vijftien-jaar-stefan-de-walle-op.html",
+          "publishedDate": "Sat, 14 Nov 2026 04:27:00 GMT",
+          "description": "Gijs Naber volgt Stefan de Walle op als Sinterklaas, zo is zaterdag vlak voor de intocht in Grave bekend geworden. De Walle nam het stokje in 2011 over van Bram van der Vlugt."
         },
         {
-          "title": "Voormalig Doe Maar-drummer Jan Pijnenburg (70) overleden",
+          "title": "Sinterklaasmysterie na weken onthuld, Gijs Naber volgt Stefan de Walle op",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2639401-voormalig-doe-maar-drummer-jan-pijnenburg-70-overleden",
-          "publishedDate": "Fri, 13 Nov 2026 13:51:00 GMT",
-          "description": "Zijn vriend, de Groningse zanger Harry Niehof, zegt tegenover&#160;Dagblad van het Noorden&#160;dat Pijnenbrug buitengewoon muzikaal was. &quot;Hij had een zachte stem, was bedachtzaam, maar ook verschrikkelijk grap ..."
+          "url": "https://nos.nl/artikel/2639457-sinterklaasmysterie-na-weken-onthuld-gijs-naber-volgt-stefan-de-walle-op",
+          "publishedDate": "Sat, 14 Nov 2026 03:24:00 GMT",
+          "description": "Gijs Naber neemt de staf over van de 61-jarige Stefan de Walle, die in september na vijftien jaar afscheid nam."
         },
         {
-          "title": "Voormalig Doe Maar-drummer Jan Pijnenburg plotseling op 70-jarige leeftijd overleden",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/artikel/5665084/voormalig-doe-maar-drummer-jan-pijnenburg-70-overleden",
-          "publishedDate": "Fri, 13 Nov 2026 13:18:00 GMT",
-          "description": "Jan Pijnenburg, de oud-drummer van de band Doe Maar, is op 70-jarige leeftijd onverwacht overleden. Dat heeft zijn goede vriend, zanger Harry Niehof, vrijdag bevestigd aan het ANP na eerdere berichtge ..."
-        },
-        {
-          "title": "Voormalig Doe Maar-drummer Jan Pijnenburg (70) overlijdt onverwacht in Spanje tijdens middagdutje",
+          "title": "Hints naar Gijs Naber als adviseur zaten al verstopt in Het Sinterklaasjournaal: van motorrijder tot websitefout",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/voormalig-doe-maar-drummer-jan-pijnenburg-70-overlijdt-onverwacht-in-spanje-tijdens-middagdutje~a0ce5d6b/",
-          "publishedDate": "Thu, 12 Nov 2026 20:03:00 GMT",
-          "description": "Voormalig Doe Maar-drummer Jan Pijnenburg is donderdag op 70-jarige leeftijd overleden. De in Vught geboren muzikant stierf in Spanje, meldt Dagblad van het Noorden."
+          "url": "https://www.ad.nl/binnenland/hints-naar-gijs-naber-als-adviseur-zaten-al-verstopt-in-het-sinterklaasjournaal-van-motorrijder-tot-websitefout~af72b80b/",
+          "publishedDate": "Sat, 14 Nov 2026 01:09:00 GMT",
+          "description": "Dagenlang keken miljoenen mensen naar Het Sinterklaasjournaal. De spanning was groot: wie zou dit jaar de nieuwe adviseur van de Sint worden? Tot ieders verbazing waren de Sint en zijn adviseur vermis ..."
         },
         {
-          "title": "'Doe Maar'-drummer Jan Pijnenburg overleden",
-          "source": "Belga News Agency on MSN",
-          "url": "https://www.msn.com/nl-be/entertainment/muziek/doe-maar-drummer-jan-pijnenburg-overleden/ar-AA2hqB2l",
-          "publishedDate": "Sat, 14 Nov 2026 03:12:50 GMT",
-          "description": "De gewezen drummer van de Nederlandse band 'Doe Maar', Jan Pijnenburg (70), is overleden. Dat melden Nederlandse media. Pijnenburg stierf in zijn woning in Spanje. De doodsoorzaak is niet bekendgemaak ..."
+          "title": "Gijs Naber 'goedgekeurd' door publiek in nieuwe Sinterklaas-rol",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/algemeen/nederland/artikelen/gijs-naber-goedgekeurd-door-publiek-in-nieuwe-sinterklaas-rol",
+          "publishedDate": "Sat, 14 Nov 2026 09:03:00 GMT",
+          "description": "Veel kijkers reageren positief op de keuze voor Gijs Naber als nieuwe Sinterklaas. Op sociale media wordt zijn eerste optreden geprezen, al denken sommigen dat de acteur nog verder in zijn rol kan gro ..."
         },
         {
-          "title": "Jan Pijnenburg (70), ex-drummer van Nederlandse popgroep Doe Maar, onverwacht overleden",
-          "source": "VRT on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/jan-pijnenburg-70-ex-drummer-van-nederlandse-popgroep-doe-maar-onverwacht-overleden/ar-AA2hpJFL",
-          "publishedDate": "Sat, 14 Nov 2026 00:12:40 GMT",
-          "description": "Jan Pijnenburg (70), voormalig drummer van de Nederlandse popgroep 'Doe Maar', is overleden. Dat melden Nederlandse media. De man is onverwacht overleden bij hem thuis in Spanje."
-        },
-        {
-          "title": "Gisteren (13 november) om 21:29",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6034758/doe-maar-drummer-jan-pijnenburg-70-onverwacht-overleden",
-          "publishedDate": "Fri, 13 Nov 2026 13:29:00 GMT",
-          "description": "Jan Pijnenburg, de drummer van Doe Maar in de hoogtijdagen van de band, is donderdag onverwacht overleden. De in Vught geboren muzikant werd 70 jaar. Hij stierf in zijn woonplaats in Spanje, meldt Dag ..."
-        },
-        {
-          "title": "Doe Maar-drummer Jan Pijnenburg (70) onverwacht overleden",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/entertainment/bners/artikelen/doe-maar-drummer-jan-pijnenburg-70-overleden",
-          "publishedDate": "Fri, 13 Nov 2026 12:58:00 GMT",
-          "description": "Doe Maar-drummer Jan Pijnenburg is op 70-jarige leeftijd overleden in Spanje. Hij speelde in de jaren 80 bij de populaire band en keerde later terug bij re&#252;nies."
+          "title": "Wie is Gijs Naber, de nieuwe Sinterklaas?",
+          "source": "damespraatjes",
+          "url": "https://damespraatjes.nl/wie-is-gijs-naber/",
+          "publishedDate": "Sat, 14 Nov 2026 05:12:00 GMT",
+          "description": "Gijs Naber is de nieuwe Sinterklaas! Maar wie is de acteur die Stefan de Walle opvolgt? Ontdek zijn carri&#232;re en bekende rollen."
         }
       ]
     },
     {
-      "keyword": "kritiek",
-      "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
-      "keyword": "thekla reuten",
+      "keyword": "pauw &amp; de wit",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Thekla Reuten en Gijs Naber: ‘Het was tussen ons niet van de ene op de andere dag fiftyfifty’",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2025/12/18/thekla-reuten-en-gijs-naber-het-was-tussen-ons-niet-van-de-ene-op-de-andere-dag-fiftyfifty-a4914351",
-          "publishedDate": "Thu, 18 Dec 2025 06:00:00 GMT",
-          "description": "Opvoeding Acteurs Thekla Reuten en Gijs Naber speelden dit jaar allebei in films over opgroeien en ouderschap. Ze vertellen over de verlokkingen en het gevaar van de smartphone en over ‘chef de maison ..."
+          "title": "NAVO-baas Mark Rutte is donderdag te gast bij Pauw &amp; De Wit",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/media/6415484/navo-baas-mark-rutte-is-donderdag-te-gast-bij-pauw-de-wit.html",
+          "publishedDate": "Wed, 04 Nov 2026 06:06:00 GMT",
+          "description": "Secretaris-generaal Mark Rutte van de NAVO is donderdag te gast in het tv-programma Pauw &amp; De Wit. Het is de eerste keer dat de oud-premier in het programma aan tafel zit."
         },
         {
-          "title": "Thekla Reuten: ‘Ik ben dankbaar dat ik ouder m&#225;g worden’",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2020/09/02/ik-ben-dankbaar-dat-ik-ouder-mag-worden-a4009713",
-          "publishedDate": "Wed, 02 Sep 2020 04:29:00 GMT",
-          "description": "Dubbelinterview Haar marxistische vader had graag gezien dat Rosa Reuten de politiek inging. Ze werd actrice, net als haar nichtje Thekla. „Als ik vroeger bij jullie kwam logeren, dacht ik: wat een ..."
+          "title": "Talkshow ‘Pauw &amp; De Wit’ zet in op expertise. ‘Bij ons zitten experts, bij RTL en SBS opiniemakers’",
+          "source": "Volkskrant",
+          "url": "https://www.volkskrant.nl/cultuur-media/talkshow-pauw-de-wit-zet-in-op-expertise-bij-ons-zitten-experts-bij-rtl-en-sbs-opiniemakers~beba05a0/",
+          "publishedDate": "Sun, 31 Aug 2025 11:26:00 GMT",
+          "description": "Maandag begint Pauw &amp; De Wit, de opvolger van Bar Laat. Anders dan in die vorige BNNVara-talkshow willen presentatoren Jeroen Pauw en Tim de Wit zich meer richten op het harde nieuws, zonder daarin ..."
         },
         {
-          "title": "Fan van Downton Abbey? Nederland krijgt een eigen romantisch kostuumdrama met Thekla Reuten",
-          "source": "Beau Monde",
-          "url": "https://beaumonde.nl/artikel/700369/grand-hotel-aan-zee-kostuumdrama-thekla-reuten-daan-schuurmans-npo-start",
-          "publishedDate": "Sat, 14 Nov 2026 01:00:00 GMT",
-          "description": "Fan van Downton Abbey? Thekla Reuten en Daan Schuurmans spelen in het Nederlandse kostuumdrama Grand Hotel aan Zee."
+          "title": "Extra uitzending Pauw &amp; De Wit over coalitiecrisis, ook veel aandacht in andere programma’s",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/extra-uitzending-pauw-en-de-wit-over-coalitiecrisis-ook-veel-aandacht-in-andere-programmas~ac5ec08c/",
+          "publishedDate": "Sat, 14 Nov 2026 01:24:00 GMT",
+          "description": "Pauw &amp; De Wit komt zaterdagavond met een extra uitzending vanwege de coalitiecrisis in Den Haag. Het BNNVara-programma is om 22.30 uur te zien op NPO 1."
         },
         {
-          "title": "Thekla Reuten: ‘Mijn gedrevenheid is me met de paplepel ingegoten’",
-          "source": "Het Financieele Dagblad",
-          "url": "https://fd.nl/samenleving/1618255/thekla-reuten-mijn-gedrevenheid-is-me-met-de-paplepel-ingegoten",
-          "publishedDate": "Mon, 09 Nov 2026 02:01:00 GMT",
-          "description": "Thekla Reuten maakt zich sinds twee jaar als bezorgde burger hard voor een smartphonevrije jeugd, en niet zonder resultaat. Vanaf volgende maand is de bekroonde actrice te zien in het kostuumdrama ‘Gr ..."
+          "title": "Extra uitzending Pauw &amp; De Wit over coalitiecrisis",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/extra-uitzending-pauw-en-de-wit-over-coalitiecrisis~ac5ec08c/",
+          "publishedDate": "Fri, 13 Nov 2026 22:53:00 GMT",
+          "description": "Pauw &amp; De Wit komt zaterdagavond met een extra uitzending vanwege de coalitiecrisis in Den Haag. Het BNNVara-programma is om 22.30 uur te zien op NPO 1."
         },
         {
-          "title": "Biografie van Thekla Reuten",
-          "source": "Nijmegen",
-          "url": "https://www.biosagenda.nl/p3857_thekla-reuten.html",
-          "publishedDate": "Wed, 30 Sep 2026 17:00:00 GMT",
-          "description": "Fedja van Hu&#234;t, Valentijn Dhaenens, Noortje Herlaar en Thekla Reuten in Voor de meisjes Thekla Reuten studeerde aan de toneelschool in Amsterdam. Ze maakte al snel de stap naar film en speelde in ..."
+          "title": "Jeroen Pauw over koers talkshow: ‘Als we Marco Borsato 50 minuten aan tafel kunnen hebben, doen we dat ook’",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/show/de-wit-over-eerste-seizoen-met-pauw-soms-kwam-ik-in-stormen-terecht-waarvan-ik-dacht-wat-gebeurt-hier~aec71896/?slug_rd=1",
+          "publishedDate": "Sun, 30 Aug 2026 00:00:00 GMT",
+          "description": "De talkshow Pauw &amp; De Wit kende een succesvol eerste seizoen. Gaan Jeroen Pauw en Tim de Wit op herhaling? Hoe keken de heren naar Triviant? H&#233;bben ze eigenlijk wel gekeken? En wat te denken van Renze ..."
         },
         {
-          "title": "Thekla Reuten (Smartphonevrij Opgroeien): 'Nicotine en alcohol herken je; sociale media zijn een algoritme dat jou ongemerkt overneemt'",
-          "source": "BNR",
-          "url": "https://www.bnr.nl/podcast/thebigfive/10600399/thekla-reuten-smartphonevrij-opgroeien-nicotine-en-alcohol-herken-je-sociale-media-zijn-een-algoritme-dat-jou-ongemerkt-overneemt",
-          "publishedDate": "Thu, 07 May 2026 03:05:00 GMT",
-          "description": "Wanneer geef je je kind een smartphone? Actrice en moeder Thekla Reuten vertelt waarom zij dat bewust uitstelt tot in ieder geval 14 jaar en waarom inmiddels tienduizenden ouders haar volgen."
+          "title": "Extra uitzending Pauw &amp; De Wit vanwege ontwikkelingen Iran, NPO verhuist andere programma’s",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/show/extra-uitzending-pauw-en-de-wit-vanwege-ontwikkelingen-iran-npo-verhuist-andere-programmas~aad38487/",
+          "publishedDate": "Fri, 27 Feb 2026 19:22:00 GMT",
+          "description": "De NPO zendt zaterdagavond een extra uitzending van Pauw &amp; De Wit uit. In de ingelaste talkshow, die rond 22.35 uur begint op NPO 1, worden de aanvallen van Isra&#235;l en de Verenigde Staten op Iran ..."
         },
         {
-          "title": "Thekla Reuten schittert in nieuw romantisch kostuumdrama Grand Hotel aan Zee van KRO-NCRV",
-          "source": "kro-ncrv",
-          "url": "https://kro-ncrv.nl/persberichten/thekla-reuten-schittert-in-nieuw-romantisch-kostuumdrama-grand-hotel-aan-zee-van-kro",
-          "publishedDate": "Sun, 07 Dec 2025 16:00:00 GMT",
-          "description": "KRO-NCRV en producent Big Blue maakten eerder bekend dat zij eind 2026 komen met Grand Hotel aan Zee, het eerste romantische kostuumdrama van Nederlandse bodem. De achtdelige serie speelt zich af ..."
+          "title": "Floortje Dessing openhartig over zwaar jaar in Pauw &amp; De Wit: ‘Dan staat je leven even stil’",
+          "source": "PZC",
+          "url": "https://www.pzc.nl/show/floortje-dessing-openhartig-over-zwaar-jaar-in-pauw-de-wit-dan-staat-je-leven-even-stil~a1ce3c20/?slug_rd=1",
+          "publishedDate": "Thu, 18 Sep 2025 16:59:00 GMT",
+          "description": "Floortje Dessing openhartig over zwaar jaar in Pauw &amp; De Wit: ‘Dan staat je leven even stil’ Floortje Dessing (55) is terug van weggeweest. Donderdagavond was ze voor het eerst sinds twee jaar weer te ..."
         },
         {
-          "title": "Dit wist je nog niet over actrice Thekla Reuten",
-          "source": "mannenzaken",
-          "url": "https://mannenzaken.nl/nieuws/dit-wist-je-nog-niet-over-actrice-thekla-reuten",
-          "publishedDate": "Wed, 19 May 2021 09:25:00 GMT",
-          "description": "Actrice Thekla Reuten is v&#233;&#233;l meer dan alleen onderdeel van de pauzeact bij het Songfestival. Dit wist je nog niet over deze betoverende dame! Wie was toch die mysterieuze vrouw met die mooie teksten ..."
-        },
-        {
-          "title": "Thekla Reuten wint Prijs Beste Actrice",
-          "source": "Nijmegen",
-          "url": "https://www.biosagenda.nl/nieuws_thekla-reuten-wint-prijs-beste-actrice_8576.html",
-          "publishedDate": "Mon, 10 May 2021 11:24:00 GMT",
-          "description": "De speelfilm Marionette valt in de prijzen op het 41e Oporto International Film Festival – Fantasporto in Portugal (26 april tot en met 4 mei). Hoofdrolspeelster Thekla Reuten wint de award voor Beste ..."
-        },
-        {
-          "title": "De beste films met Thekla Reuten",
-          "source": "filmvandaag",
-          "url": "https://www.filmvandaag.nl/acteur/Thekla+Reuten",
-          "publishedDate": "Mon, 09 Oct 2017 16:30:00 GMT",
-          "description": "Bekijk hier het overzicht van de beste films met Thekla Reuten. Thekla Reuten speelt in 41 films, die we hebben gesorteerd op IMDb-score. Via onze uitgebreide zoekpagina kun je zoeken in alle films &amp; ..."
+          "title": "Paul Witteman heeft rol in talkshow Pauw &amp; De Wit: ‘Knipoog naar vroeger’",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/show/paul-witteman-heeft-rol-in-talkshow-pauw-de-wit-knipoog-naar-vroeger~a06bb184/?slug_rd=1",
+          "publishedDate": "Fri, 29 Aug 2025 15:12:00 GMT",
+          "description": "Paul Witteman heeft een rol in de nieuwe talkshow Pauw &amp; De Wit. De oud-presentator kondigt vanaf maandag dagelijks de presentator van dienst aan, bevestigt BNNVara na berichtgeving van mediakenner ..."
         }
       ]
     },
     {
       "keyword": "overasselt",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
           "title": "Man kort na aanval in Overasselt gebeld door 'Bolle Jos': 'Komt zo nieuws'",
@@ -421,6 +170,13 @@
           "url": "https://www.rtl.nl/nieuws/onderzoek/artikel/5656731/verklaringen-dossier-overasselt",
           "publishedDate": "Fri, 02 Oct 2026 09:40:00 GMT",
           "description": "Iedereen moest dood, of het nu de goudvis of de kat was. Dat verklaart een van de verdachten van de schietpartij in Overasselt, blijkt uit het strafdossier."
+        },
+        {
+          "title": "Verdachte schietpartij Overasselt op vrije voeten wegens gebrek aan bewijs",
+          "source": "Omroep Gelderland",
+          "url": "https://www.gld.nl/nieuws/8543558/verdachte-schietpartij-overasselt-op-vrije-voeten-wegens-gebrek-aan-bewijs",
+          "publishedDate": "Wed, 04 Nov 2026 13:28:00 GMT",
+          "description": "De 21-jarige Nathan K. uit Rotterdam, &#233;&#233;n van de mannen die verdacht werd van betrokkenheid bij de schietpartij van begin september in Overasselt, is woensdag vrijgelaten. Er is onvoldoende bewijs om ..."
         },
         {
           "title": "'Verdachten Overasselt beschikten over militaire aanvalswapens'",
@@ -460,6 +216,455 @@
       ]
     },
     {
+      "keyword": "viktor orbán",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Hongarije vindt bijna 20 miljoen euro cash in corruptieonderzoek Orb&#225;n",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6416585/hongarije-vindt-bijna-20-miljoen-euro-cash-in-corruptieonderzoek-orban.html",
+          "publishedDate": "Sat, 14 Nov 2026 07:13:00 GMT",
+          "description": "Hongaarse autoriteiten hebben deze week bijna 20 miljoen euro aan cash gevonden in een onderzoek naar voormalig premier Viktor Orb&#225;n. Het geld was onder meer verstopt in afgelegen schuren en begraven ..."
+        },
+        {
+          "title": "Miljoenen euro's opgegraven in anti-corruptieonderzoek naar regering-Orb&#225;n",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2639467-miljoenen-euro-s-opgegraven-in-anti-corruptieonderzoek-naar-regering-orban",
+          "publishedDate": "Sat, 14 Nov 2026 04:21:00 GMT",
+          "description": "De Hongaarse autoriteiten hebben in een corruptieonderzoek naar een minister uit de vorige regering van Viktor Orb&#225;n ruim 18 miljoen euro aan contant geld teruggevonden. Het geld lag begraven in ..."
+        },
+        {
+          "title": "Broer oud-premier Orb&#225;n opgepakt in Hongarije op verdenking van mensenhandel",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2638736-broer-oud-premier-orban-opgepakt-in-hongarije-op-verdenking-van-mensenhandel",
+          "publishedDate": "Mon, 09 Nov 2026 06:17:00 GMT",
+          "description": "Op meerdere plekken in Boedapest hebben arrestaties en huiszoekingen plaatsgevonden in het onderzoek naar mensensmokkel."
+        },
+        {
+          "title": "Hoe Viktor Orb&#225;n de pion van Poetin in Europa werd: ‘Hij is enkel ge&#239;nteresseerd in macht en rijkdom’",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/wereld/hoe-viktor-orban-de-pion-van-poetin-in-europa-werd-hij-is-enkel-geinteresseerd-in-macht-en-rijkdom~b39e9f4f/",
+          "publishedDate": "Fri, 10 Apr 2026 20:00:00 GMT",
+          "description": "Ooit was hij een grote liberale belofte, inmiddels is Viktor Orb&#225;n de hartendief van Poetin, Trump &#233;n China, en verlamt hij de EU van binnenuit. Hoe kon het zover komen? Portret van een onvervalste ..."
+        },
+        {
+          "title": "Hoe Viktor Orb&#225;n straffeloos met de Europese Unie speelt",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/hoe-viktor-orban-straffeloos-met-de-europese-unie-speelt~be9f1498/",
+          "publishedDate": "Tue, 08 Oct 2024 15:00:00 GMT",
+          "description": "In de Europese Unie gaat heel veel altijd hetzelfde. E&#233;n land is voorzitter, een half jaar lang. Welk land dat is, ligt al jaren vooraf vast. Wat ook vastligt: in de eerste plenaire vergadering na de ..."
+        },
+        {
+          "title": "Begraven in bos of verstopt in boerderijen: Hongaarse speurders vinden voor miljoenen euro's aan smeergeld",
+          "source": "VRT on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/begraven-in-bos-of-verstopt-in-boerderijen-hongaarse-speurders-vinden-voor-miljoenen-euros-aan-smeergeld/ar-AA2hqu0y",
+          "publishedDate": "Sat, 14 Nov 2026 04:06:45 GMT",
+          "description": "Bijna 18 miljoen euro aan bankbiljetten, dat hebben Hongaarse speurders ontdekt in een anticorruptieonderzoek naar een minister uit de regering van oud-premier Viktor Orb&#225;n. Het geld lag begraven in b ..."
+        },
+        {
+          "title": "Bijna 18 miljoen euro cash gevonden in bossen en boerderijen bij onderzoek naar oud-minister van Orb&#225;n",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/video/productie/bijna-18-miljoen-euro-cash-gevonden-in-bossen-en-boerderijen-bij-onderzoek-naar-oud-minister-van-orban-15032005",
+          "publishedDate": "Fri, 13 Nov 2026 16:00:00 GMT",
+          "description": "De Hongaarse autoriteiten hebben bijna 20 miljoen dollar, ofwel bijna 18 miljoen euro, aan contant geld gevonden in boerderijen en bossen. De vondst werd gedaan tijdens een onderzoek naar een voormali ..."
+        },
+        {
+          "title": "Bal&#225;zs Orb&#225;n slaat alarm: 'In Brussel wordt een autoritaire linkse staat opgebouwd'",
+          "source": "nieuwrechts",
+          "url": "https://nieuwrechts.nl/113933-balzs-orbn-slaat-alarm-in-brussel-wordt-een-autoritaire-linkse-staat-opgebouwd",
+          "publishedDate": "Thu, 05 Nov 2026 16:00:00 GMT",
+          "description": "Bal&#225;zs Orb&#225;n, oud-adviseur van Viktor Orb&#225;n, ziet de regering-Magyar tegenstanders uitschakelen. Brussel zet volgens hem afwijkende regeringen onder druk."
+        },
+        {
+          "title": "Danst Viktor Orb&#225;n zijn laatste pauwendans? ‘Niemand kon dit voorspellen’",
+          "source": "AD",
+          "url": "https://www.ad.nl/buitenland/danst-viktor-orban-zijn-laatste-pauwendans-niemand-kon-dit-voorspellen~a39e9f4f/",
+          "publishedDate": "Fri, 10 Apr 2026 21:01:00 GMT",
+          "description": "Viktor Orb&#225;n (62) wandelt richting het hek waarachter de internationale pers zich heeft verzameld. Het is 19 maart, een uur of 10.00 uur, en bij de Europese Raad in Brussel is hij de man op wie ..."
+        },
+        {
+          "title": "Tegenwind voor de Hongaarse premier Viktor Orb&#225;n, maar waait het hard genoeg?",
+          "source": "AD",
+          "url": "https://www.ad.nl/buitenland/tegenwind-voor-de-hongaarse-premier-viktor-orban-maar-waait-het-hard-genoeg~af2d7a39/",
+          "publishedDate": "Sat, 20 Apr 2024 23:19:00 GMT",
+          "description": "Het zijn misschien wel de mooiste voorbeelden van de manier waarop Viktor Orb&#225;n politiek bedrijft. Het ene staat in het dorp waar hij voor een deel opgroeide, het andere rijdt er naartoe. En je zult ..."
+        }
+      ]
+    },
+    {
+      "keyword": "kritiek",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Felle kritiek op Zuid-Afrikaanse zwembond na overstap wereldtopper Smith naar Nederland",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2639039-felle-kritiek-op-zuid-afrikaanse-zwembond-na-overstap-wereldtopper-smith-naar-nederland",
+          "publishedDate": "Wed, 11 Nov 2026 08:41:00 GMT",
+          "description": "Dat zwemster Tatjana Smith, met vier medailles de succesvolste Zuid-Afrikaanse olympi&#235;r ooit, voortaan voor Nederland uitkomt, is als een grote schok aangekomen in Zuid-Afrika."
+        },
+        {
+          "title": "Veel kritiek op nieuw voorstel box 3, maar meerderheid lonkt",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2638774-veel-kritiek-op-nieuw-voorstel-box-3-maar-meerderheid-lonkt",
+          "publishedDate": "Mon, 09 Nov 2026 11:00:00 GMT",
+          "description": "Over het plan voor vermogenswinstbelasting moet eigenlijk nog deze week gestemd worden. Oppositiepartijen vrezen een tekort van ruim 17 miljard euro omdat de dekking rammelt."
+        },
+        {
+          "title": "Fokkers op Wieringen strijden om mooiste konijn, maar er is ook kritiek",
+          "source": "NH Nieuws",
+          "url": "https://www.nhnieuws.nl/nieuws/365460/fokkers-op-wieringen-strijden-om-mooiste-konijn-maar-er-is-ook-kritiek",
+          "publishedDate": "Sat, 14 Nov 2026 09:00:00 GMT",
+          "description": "950 kleindieren tentoongesteld op 30e Wieringerlandshow in Hippolytushoef. Fokkers genieten, maar krijgen ook kritiek van buitenaf. Lees hun verhaal."
+        },
+        {
+          "title": "Sneijder woest na kritiek op socials: &quot;Stelletje zielige figuren&quot;",
+          "source": "Ajax1.nl",
+          "url": "https://www.ajax1.nl/sneijder-woest-na-kritiek-op-socials-stelletje-zielige-figuren/",
+          "publishedDate": "Sat, 14 Nov 2026 02:00:00 GMT",
+          "description": "Lees nu | Rodney Sneijder heeft fel gereageerd op de kritiek die zijn broer Wesley Sneijder krijgt na zijn aanstelling bij Eminent Boys. De ..."
+        },
+        {
+          "title": "Lof voor presentatrice H&#233;l&#232;ne Hendriks door reactie op kritiek Johan Derksen: 'Dat vind ik heel grappig'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/lof-voor-presentatrice-helene-hendriks-door-reactie-op-kritiek-johan-derksen-dat-vind-ik-heel-grappig-2026111216572608852/",
+          "publishedDate": "Thu, 12 Nov 2026 10:24:00 GMT",
+          "description": "H&#233;l&#232;ne Hendriks en Johan Derksen werkten de afgelopen jaren vaak genoeg samen en meestal is de oud-voetballer erg positief over de presentatrice, maar deze week liet hij zowaar een kritische toon ..."
+        },
+        {
+          "title": "Kritiek op ‘jongetje’ Orjasaeter schiet Van der Meijde in verkeerde keelgat",
+          "source": "Twente Insite",
+          "url": "https://www.twenteinsite.nl/fc-twente-nieuws/kritiek-op-jongetje-orjasaeter-schiet-van-der-meijde-in-verkeerde-keelgat",
+          "publishedDate": "Wed, 11 Nov 2026 06:23:00 GMT",
+          "description": "Sondre Orjasaeter evenaarde tegen Excelsior een stokoud record in de Eredivisie. Hij gaf in de wedstrijd in Rotterdam maar liefst vijf assists en werd door veel media bewierookt. Het record stamt uit ..."
+        },
+        {
+          "title": "Kritiek op Sinterklaasjournaal raakt gevoelige snaar: ‘Je moet je kind maar in een doek wikkelen’",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/tiel/kritiek-op-sinterklaasjournaal-raakt-gevoelige-snaar-je-moet-je-kind-maar-in-een-doek-wikkelen~a0162cca/",
+          "publishedDate": "Wed, 11 Nov 2026 04:19:00 GMT",
+          "description": "„Je moet je kinderen in een doek wikkelen en op zolder achter een schot zetten. Heb je wel eens om je heen gekeken hoe onze wereld eruitziet?”, reageert Harrie Peters onder het artikel waarin de ..."
+        },
+        {
+          "title": "Kritiek en lof voor Amrabat na bewogen duel in Enschede",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/kritiek-en-lof-voor-amrabat-na-bewogen-duel-in-enschede/ar-AA2h5OZp",
+          "publishedDate": "Mon, 09 Nov 2026 13:13:00 GMT",
+          "description": "Het spel van Sofyan Amrabat was maandagavond voer voor zowel kritiek als lof aan de tafel van Rondo. De Ajacied was op bezoek bij FC Twente niet in al zijn acties gelukkig, maar vertegenwoordigt w&#233;l w ..."
+        },
+        {
+          "title": "Stortvloed aan kritiek op populaire vriendin van Lamine Yamal na openhartige onthulling: 'Waarom zou je zoiets delen?'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/stortvloed-aan-kritiek-op-populaire-vriendin-van-lamine-yamal-na-openhartige-onthulling-waarom-zou-je-zoiets-delen-2026110916351126729/",
+          "publishedDate": "Mon, 09 Nov 2026 10:04:00 GMT",
+          "description": "In&#233;s Garcia, de vriendin van FC Barcelona-superster Lamine Yamal, heeft op Instagram openhartig verteld over een herpesuitbraak in haar gezicht. De influencer liet weten dat ze daarvoor wordt behandel ..."
+        }
+      ]
+    },
+    {
+      "keyword": "grafsteen",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Grafsteen van Alex uit Over Mijn Lijk komt hard aan bij Linda de Lange: 'Nu is het echt'",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/grafsteen-van-alex-uit-over-mijn-lijk-komt-hard-aan-bij-linda-de-lange-nu-is-het-echt/ar-AA2hoUGN",
+          "publishedDate": "Fri, 13 Nov 2026 12:05:48 GMT",
+          "description": "Een emotioneel moment voor weduwe Linda de Lange en haar zoon Aaron. De grafsteen van Alex uit 'Over Mijn Lijk' is geplaatst. Linda deelt het nieuws vrijdag in haar blog en op Instagram. Hoewel ze bli ..."
+        },
+        {
+          "title": "Mysterieuze grafsteen in Utrecht blijkt ’foutje’",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/binnenland/mysterieuze-grafsteen-in-utrecht-blijkt-foutje/64218656.html",
+          "publishedDate": "Sat, 22 Jul 2023 08:20:00 GMT",
+          "description": "Het zou bizar zijn dat miljoenen bezoekers van de Utrechtse binnenstad al vele tientallen jaren over ’het graf’ of misschien wel meerdere graven zijn heengelopen zonder dat ze dat wisten."
+        },
+        {
+          "title": "Een grafsteen uit graniet is vaak de echte boosdoener: waarom begraven de rode lantaarn blijft",
+          "source": "De Morgen",
+          "url": "https://www.demorgen.be/beter-leven/een-grafsteen-uit-graniet-is-vaak-de-echte-boosdoener-waarom-begraven-de-rode-lantaarn-blijft~be23f64d/",
+          "publishedDate": "Mon, 02 Nov 2026 19:00:00 GMT",
+          "description": "Onze ecologische voetafdruk stopt niet na onze dood. Wij zetten voor u de milieu-impact van de bestaande &#233;n nieuwe vormen van lijkbezorging op een rij."
+        },
+        {
+          "title": "Amerikanen vinden eeuwenoude Romeinse grafsteen in hun achtertuin",
+          "source": "jeugdjournaal",
+          "url": "https://jeugdjournaal.nl/l/2612738",
+          "publishedDate": "Sat, 02 May 2026 04:32:00 GMT",
+          "description": "Een echtpaar uit de Amerikaanse stad New Orleans zal gek op hebben gekeken tijdens het klussen in de tuin. Tussen de struiken vonden ze namelijk opeens een Romeinse grafsteen van bijna 2.000 jaar oud!"
+        },
+        {
+          "title": "Bizarre vondst: grafsteen duikt op in Aalsmeerse kringloopwinkel",
+          "source": "wnl",
+          "url": "https://wnl.tv/2026/01/20/bizarre-vondst-grafsteen-duikt-op-in-aalsmeerse-kringloopwinkel",
+          "publishedDate": "Tue, 20 Jan 2026 09:03:00 GMT",
+          "description": "Een opmerkelijke vondst bij een kringloopwinkel in Aalsmeer. Tussen stenen en mineralen lag ineens een echte grafsteen. Het roept in de studio van Goedemorgen Nederland vooral vragen op. Want hoe komt ..."
+        },
+        {
+          "title": "De Lebu&#239;nustoren op je grafsteen: steenhouwer Tom Lamers hakt hem handmatig voor je uit",
+          "source": "stadsbladutrecht.nl",
+          "url": "https://indebuurt.nl/deventer/bedrijvigheid/de-koopman/de-lebuinustoren-op-je-grafsteen-steenhouwer-tom-lamers-hakt-hem-handmatig-voor-je-uit~16236/",
+          "publishedDate": "Wed, 07 Jan 2026 00:55:00 GMT",
+          "description": "Als zijn overgrootvader (betovergrootvader begon in 1868 als steenhouwer) de werkplaats in Deventer zou binnen stappen, zou hij direct aan de slag kunnen. Hier vind je geen hypermoderne machines, maar ..."
+        },
+        {
+          "title": "2.000 jaar oude grafsteen duikt op in achtertuin in New Orleans: &quot;Dit is wat een Romein wil, voor altijd herinnerd worden&quot;",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2025/10/11/verloren-romeinse-grafzerk-duikt-op-in-achtertuin-in-new-orleans/",
+          "publishedDate": "Sat, 11 Oct 2025 01:44:00 GMT",
+          "description": "In de Amerikaanse stad New Orleans heeft een familie een bijzondere ontdekking gedaan tijdens het opkuisen van hun achtertuin: een grafsteen met Latijnse opschriften. Volgens archeologen gaat het om ..."
+        },
+        {
+          "title": "Het kiezen van een grafsteen",
+          "source": "regionieuwshoogeveen",
+          "url": "https://regionieuwshoogeveen.nl/zakelijk/het-kiezen-van-een-grafsteen/",
+          "publishedDate": "Tue, 17 Sep 2024 09:32:00 GMT",
+          "description": "Een grafsteen uitzoeken voor een dierbare kan een emotioneel en moeilijk proces zijn. Het is belangrijk om een grafsteen te kiezen die zowel de persoonlijkheid van de overledene weerspiegelt als een ..."
+        },
+        {
+          "title": "Oude grafsteen geeft geheimen nog niet prijs: “Niet het graf van Toetanchamon, maar mysterie blijft”",
+          "source": "HLN",
+          "url": "https://www.hln.be/ieper/oude-grafsteen-geeft-geheimen-nog-niet-prijs-niet-het-graf-van-toetanchamon-maar-mysterie-blijft~af261891/",
+          "publishedDate": "Wed, 01 Mar 2023 19:49:00 GMT",
+          "description": "Ieper wachtte deze ochtend in spanning af of er zich iemand onder de grote grafsteen bevond die door archeologen werd gevonden op het plein voor de Sint-Maartenskathedraal. Dat bleek niet het geval, ..."
+        },
+        {
+          "title": "Belgi&#235;, hotspot voor geroofd antiek: hoe een eeuwenoude Italiaanse grafsteen opdook in een dorp in de Kempen",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2022/02/16/hoe-een-eeuwenoude-italiaanse-grafsteen-opdook-in-een-dorp-in-de/",
+          "publishedDate": "Thu, 21 Apr 2022 20:38:00 GMT",
+          "description": "VRT NWS en de krant De Tijd volgen drie dagen op rij de weg van een geroofd stuk antiek, van het land van herkomst tot in Belgi&#235;. Hoe komen geroofde Egyptische mummies en sarcofagen, Griekse vazen en ..."
+        }
+      ]
+    },
+    {
+      "keyword": "nac - emmen",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "NAC verlengt fraaie reeks met zege op Emmen, Mats Seuntjens scoort bij rentree",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6416598/nac-verlengt-fraaie-reeks-met-zege-op-emmen-mats-seuntjens-scoort-bij-rentree.html",
+          "publishedDate": "Sat, 14 Nov 2026 10:33:00 GMT",
+          "description": "NAC Breda heeft zaterdag zijn ongeslagen serie in de Keuken Kampioen Divisie behouden na een 4-2-zege in de topper tegen FC Emmen. Routinier Mats Seuntjens viel in de slotfase in en pikte direct zijn ..."
+        },
+        {
+          "title": "Twee treffers Cooper-Love niet genoeg: FC Emmen verliest opnieuw",
+          "source": "ZO!34",
+          "url": "https://www.zo34.nl/nieuws/14987/twee-treffers-cooper-love-niet-genoeg-fc-emmen-verliest-opnieuw/",
+          "publishedDate": "Sat, 14 Nov 2026 10:24:00 GMT",
+          "description": "FC Emmen heeft voor de derde keer op rij verloren. De Emmenaren gingen in Breda na een doelpuntrijk duel met 4 ..."
+        },
+        {
+          "title": "FC Emmen ten onder tijdens 'Avondje NAC', ondanks dubbelslag Jack Cooper-Love",
+          "source": "RTV Drenthe",
+          "url": "https://www.rtvdrenthe.nl/sport/18947886/fc-emmen-ten-onder-tijdens-avondje-nac-ondanks-dubbelslag-jack-cooper-love",
+          "publishedDate": "Sat, 14 Nov 2026 10:19:00 GMT",
+          "description": "De boodschap was vooraf duidelijk: FC Emmen kon wel weer eens een goed resultaat gebruiken na twee pijnlijke nederlagen. Het leek op bezoek bij NAC Breda de goede kant op te gaan, maar toen de avond v ..."
+        },
+        {
+          "title": "NAC Breda wint na heus doelpuntenfestijn thuis van FC Emmen",
+          "source": "NACFans",
+          "url": "https://www.nacfans.nl/nac-breda-wint-na-heus-doelpuntenfestijn-thuis-van-fc-emmen/",
+          "publishedDate": "Sat, 14 Nov 2026 09:29:00 GMT",
+          "description": "Lees nu | NAC Breda heeft op zaterdagmiddag van FC Emmen weten te winnen. De Parel van het Zuiden versloeg de ploeg uit Drenthe in een doelpuntrijk ..."
+        },
+        {
+          "title": "Veerkrachtig NAC rekent af met directe concurrent FC Emmen en vindt weg omhoog",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/veerkrachtig-nac-rekent-af-met-directe-concurrent-fc-emmen-en-vindt-weg-omhoog/ar-AA2hqUUI",
+          "publishedDate": "Sat, 14 Nov 2026 09:25:16 GMT",
+          "description": "NAC Breda heeft in een uiterst vermakelijk Keuken Kampioen Divisie-duel afgerekend met directe concurrent FC Emmen. Het waren de Drenten die in de eerste helft aanvankelijk op voorsprong kwamen in het ..."
+        },
+        {
+          "title": "Seuntjens bekroont rentree met doelpunt in heerlijk gevecht tussen NAC en Emmen",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/seuntjens-bekroont-rentree-met-doelpunt-in-heerlijk-gevecht-tussen-nac-en-emmen",
+          "publishedDate": "Sat, 14 Nov 2026 09:25:00 GMT",
+          "description": "NAC Breda houdt zicht op de top van de Keuken Kampioen Divisie. De Brabanders bogen zaterdag in het thuisduel met FC Emmen een achterstand om. Het hoogtepunt was de invalbeurt van Mats Seuntjens, die ..."
+        },
+        {
+          "title": "Lees terug: FC Emmen onderuit in Breda",
+          "source": "RTV Drenthe",
+          "url": "https://www.rtvdrenthe.nl/sport/18947877/lees-terug-fc-emmen-onderuit-in-breda",
+          "publishedDate": "Sat, 14 Nov 2026 09:23:00 GMT",
+          "description": "Het is afgelopen in Brabant. NAC Breda legt FC Emmen na een spectaculaire wedstrijd over de knie: 4-2. Voor de Emmenaren is het de derde nederlaag op rij."
+        },
+        {
+          "title": "NAC trekt aan het langste eind tegen FC Emmen in spektakelstuk met zes goals",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/nac/nac-trekt-aan-het-langste-eind-tegen-fc-emmen-in-spektakelstuk-met-zes-goals~ac280d54/",
+          "publishedDate": "Sat, 14 Nov 2026 01:28:00 GMT",
+          "description": "NAC maakte zichzelf het leven zuur tegen FC Emmen, met tal van gemiste kansen en makkelijk weggegeven goals. In een duel met maar liefst zes doelpunten trok de ploeg van Rick Kruys de zege op karakter ..."
+        },
+        {
+          "title": "‘Ik schaam me een beetje voor mijn goal’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/ik-schaam-me-een-beetje-voor-mijn-goal/",
+          "publishedDate": "Fri, 13 Nov 2026 23:00:00 GMT",
+          "description": "Mats Seuntjens maakte vandaag zijn eerste treffer van dit seizoen namens NAC Breda tegen FC Emmen, daar m&#243;&#233;t hij wel trots op zijn, of niet? Mats ..."
+        },
+        {
+          "title": "Avondje NAC tegen FC Emmen vol geluksmomenten",
+          "source": "nac",
+          "url": "https://www.nac.nl/nieuws/avondje-nac-tegen-fc-emmen-vol-geluksmomenten",
+          "publishedDate": "Fri, 13 Nov 2026 16:00:00 GMT",
+          "description": "NAC meldt zich steeds nadrukkelijker in de top van de Keuken Kampioen Divisie. De ploeg is al tien duels op rij ongeslagen, want ook FC Emmen gaat in eigen huis over de knie. In de tweede helft valt ..."
+        }
+      ]
+    },
+    {
+      "keyword": "vliegtuigen",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Vliegtuigen in de hele VS staan aan de grond vanwege vliegverbod",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/332275/video/vliegtuigen-in-de-hele-vs-staan-aan-de-grond-vanwege-vliegverbod.html",
+          "publishedDate": "Sat, 14 Nov 2026 00:16:00 GMT",
+          "description": "De Verenigde Staten kregen vrijdag te maken met een landelijk vliegverbod. Door gebreken in het communicatiesysteem konden de vliegtuigen niet veilig opstijgen."
+        },
+        {
+          "title": "Vliegtuigen in hele VS aan de grond om ‘veiligheidsredenen’, alle vluchten vanuit Europa naar VS opgeschort",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/wereld/vliegtuigen-in-hele-vs-aan-de-grond-om-veiligheidsredenen-alle-vluchten-vanuit-europa-naar-vs-opgeschort~b23865c4/",
+          "publishedDate": "Fri, 13 Nov 2026 14:29:00 GMT",
+          "description": "De Federal Aviation Administration (FAA) heeft in de VS een grondstop voor alle vliegtuigen afgekondigd. De precieze oorzaak is niet bekend, maar volgens de FAA is de keuze gemaakt om ‘veiligheidsrede ..."
+        },
+        {
+          "title": "Vliegtuigen in hele VS aan de grond om veiligheid, alle vluchten vanuit Europa naar VS opgeschort",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/vliegtuigen-in-hele-vs-aan-de-grond-om-veiligheid-alle-vluchten-vanuit-europa-naar-vs-opgeschort~ba2895c0/",
+          "publishedDate": "Fri, 13 Nov 2026 14:15:00 GMT",
+          "description": "Alle vliegtuigen in de Verenigde Staten moeten tot nader order aan de grond blijven, meldt de Amerikaanse luchtvaartautoriteit FAA. Dat is volgens de organisatie ‘vanwege buitengewone omstandigheden e ..."
+        },
+        {
+          "title": "‘VS halen militaire vliegtuigen weg van tweede Britse basis wegens dreiging Iran’",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/11/10/amerika-haalt-militaire-vliegtuigen-weg-van-tweede-britse-basis-wegens-dreiging-iran-a4940983",
+          "publishedDate": "Tue, 10 Nov 2026 01:26:00 GMT",
+          "description": "De Verenigde Staten hebben maandag Amerikaanse vliegtuigen ge&#235;vacueerd van de vliegbasis RAF Mildenhall in Engeland, wegens een dreiging vanuit Iran. Dat meldt The Wall Street Journal dinsdag op basis ..."
+        },
+        {
+          "title": "KLM-vliegtuigen staan uren vast door onzekerheid met ATC",
+          "source": "Up in the Sky",
+          "url": "https://www.upinthesky.nl/2026/11/14/klm-vliegtuigen-staan-uren-vast-door-onzekerheid-met-atc/",
+          "publishedDate": "Sat, 14 Nov 2026 02:30:00 GMT",
+          "description": "Meerdere KLM-vliegtuigen hebben in de Verenigde Staten urenlang aan de grond gestaan door een grote storing bij de Amerikaanse luchtverkeersleiding. De ..."
+        },
+        {
+          "title": "Vliegtuigen mogen weer opstijgen en landen in Amerika na grote storing",
+          "source": "jeugdjournaal",
+          "url": "https://jeugdjournaal.nl/l/2639432",
+          "publishedDate": "Fri, 13 Nov 2026 22:46:00 GMT",
+          "description": "Na een grote storing vannacht, mogen vliegtuigen weer opstijgen en landen in de Verenigde Staten. De storing gebeurde gisteravond laat. Vijf uur lang mochten er geen vliegtuigen opstijgen. Ook mochten ..."
+        },
+        {
+          "title": "Alle vliegtuigen in de Verenigde Staten moeten aan de grond blijven",
+          "source": "TravMagazine",
+          "url": "https://www.travmagazine.nl/alle-vliegtuigen-in-de-verenigde-staten-moeten-aan-de-grond-blijven/",
+          "publishedDate": "Fri, 13 Nov 2026 14:38:00 GMT",
+          "description": "Alle vliegtuigen in de Verenigde Staten moeten voorlopig aan de grond blijven. De Amerikaanse luchtvaartautoriteit Federal Aviation Administration (FAA) heeft op 13 november 2026 een grondstop afgekon ..."
+        },
+        {
+          "title": "The Helicopter Company sluit aankoopovereenkomsten voor een vloot van maximaal 60 vliegtuigen met Bombardier",
+          "source": "MarketScreener",
+          "url": "https://nl.marketscreener.com/beursnieuws/the-helicopter-company-sluit-aankoopovereenkomsten-voor-een-vloot-van-maximaal-60-vliegtuigen-met-bo-ce785ededb8cf72c",
+          "publishedDate": "Fri, 13 Nov 2026 14:00:00 GMT",
+          "description": "The Helicopter Company heeft een vaste order geplaatst voor 12 vliegtuigen van Bombardier ter waarde van 568 miljoen dollar, gebaseerd op de catalogusprijzen van 2026, met opties op nog eens ..."
+        },
+        {
+          "title": "Vliegtuigen in VS moeten aan de grond blijven om veiligheid",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/in-het-nieuws/buitenland/2026/11/alle-vliegtuigen-vs-aan-grond-br/",
+          "publishedDate": "Fri, 13 Nov 2026 13:08:00 GMT",
+          "description": "De Amerikaanse luchtvaartautoriteit FAA houdt alle vliegtuigen aan de grond vanwege buitengewone omstandigheden en veiligheidsredenen."
+        },
+        {
+          "title": "Europa getroffen door golf van bomdreigingen: vliegtuigen onderschept en tv-zenders ontruimd",
+          "source": "Suriname Herald",
+          "url": "https://www.srherald.com/buitenland/2026/11/07/europa-getroffen-door-golf-van-bomdreigingen-vliegtuigen-onderschept-en-tv-zenders-ontruimd/",
+          "publishedDate": "Fri, 06 Nov 2026 19:08:00 GMT",
+          "description": "Europa wordt sinds dinsdag getroffen door een reeks bomdreigingen die het vliegverkeer in verschillende landen hebben ontregeld. Vrijdag werden opnieuw passagiersvliegtuigen bedreigd, terwijl ook ..."
+        }
+      ]
+    },
+    {
+      "keyword": "portugal - denemarken",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Portugal staat stil bij afscheid van recordinternational Ronaldo",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/sport/artikel/5665194/portugal-staat-stil-bij-afscheid-van-recordinternational-ronaldo",
+          "publishedDate": "Sat, 14 Nov 2026 12:23:00 GMT",
+          "description": "De internationals van Portugal hebben vlak voor het thuisduel met Denemarken in de Nations League een eerbetoon aan Cristiano Ronaldo gebracht. Ze liepen vlak voor de aftrap het veld op in een shirt m ..."
+        },
+        {
+          "title": "Portugal neemt met eerbetoon afscheid van Ronaldo, die schittert door afwezigheid",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2639513-portugal-neemt-met-eerbetoon-afscheid-van-ronaldo-die-schittert-door-afwezigheid",
+          "publishedDate": "Sat, 14 Nov 2026 11:56:00 GMT",
+          "description": "Het rugnummer 7, dat Ronaldo naar eigen zeggen &quot;teruggeeft&quot; aan de Portugese ploeg, wordt in deze interlandperiode gedragen door voormalig Ajacied Carlos Forbs ..."
+        },
+        {
+          "title": "LIVE Nations League | Goal van Deense spits H&#248;jlund afgekeurd, Portugese fans eren Cristiano Ronaldo",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/live-nations-league-goal-van-deense-spits-h-jlund-afgekeurd-portugese-fans-eren-cristiano-ronaldo~a02d1112/",
+          "publishedDate": "Sat, 14 Nov 2026 04:25:00 GMT",
+          "description": "Het einde van een tijdperk, zo zal het voelen vanavond. Portugal neemt het op tegen Denemarken, maar Cristiano Ronaldo is daar niet bij. De topscorer aller tijden van zijn land nam na een conflict met ..."
+        },
+        {
+          "title": "LIVE Nations League | Carlos Forbs krijgt rugnummer 7 van Cristiano Ronaldo, maar begint wel op de bank bij Portugal",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/live-nations-league-carlos-forbs-krijgt-rugnummer-7-van-cristiano-ronaldo-maar-begint-wel-op-de-bank-bij-portugal~a02d1112/",
+          "publishedDate": "Fri, 13 Nov 2026 21:00:00 GMT",
+          "description": "Het einde van een tijdperk, zo zal het voelen vanavond. Portugal neemt het op tegen Denemarken, maar Cristiano Ronaldo is daar niet bij. De topscorer aller tijden van zijn land nam na een conflict met ..."
+        },
+        {
+          "title": "Video: Portugal brengt indrukwekkend eerbetoon aan Cristiano Ronaldo",
+          "source": "vandaaginside",
+          "url": "https://www.vandaaginside.nl/sport/buitenlands-voetbal/internationale-competities/artikelen/video-portugal-brengt-indrukwekkend-eerbetoon-aan-cristiano-ronaldo",
+          "publishedDate": "Sat, 14 Nov 2026 12:04:00 GMT",
+          "description": "Cristiano Ronaldo is zaterdagavond voorafgaand aan het Nations League-duel tussen Portugal en Denemarken uitgebreid in het zonnetje gezet. De Portugese voetballegende, die onlangs afscheid nam als int ..."
+        },
+        {
+          "title": "Praat mee op VP: Portugal - Denemarken",
+          "source": "Voetbalprimeur Netherlands on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/praat-mee-op-vp-portugal-denemarken/ar-AA2hqSEy",
+          "publishedDate": "Sat, 14 Nov 2026 11:15:00 GMT",
+          "description": "Portugal en Denemarken staan zaterdagavond tegenover elkaar in de Nations League. De wedstrijd begint om 20.45 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+        },
+        {
+          "title": "Om Cristiano Ronaldo te eren: Portugal pakt uit met aangepast rugnummer 7, dat door Carlos Forbs gedragen zal worden",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/2026/11/14/om-cristiano-ronaldo-te-eren-portugal-pakt-uit-met-aangepast-rugnummer-7-dat-door-carlos-forbs-gedragen-zal-worden~1794670372619/",
+          "publishedDate": "Sat, 14 Nov 2026 07:53:00 GMT",
+          "description": "Opvallend nieuwigheidje vanavond bij Portugal. Om Cristiano Ronaldo, die zijn laatste match voor Portugal gespeeld heeft, te eren, wordt het rugnummer 7 aangepast. Het nummer krijgt een ander ontwerp ..."
+        },
+        {
+          "title": "Portugal treft Denemarken en kijkt naar Fernandes nu Ronaldo is afgezwaaid",
+          "source": "Voetbalprimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2158755/portugal-treft-denemarken-en-kijkt-naar-fernandes-nu-ronaldo-is-afgezwaaid.html",
+          "publishedDate": "Sat, 14 Nov 2026 04:00:00 GMT",
+          "description": "ADVERTORIAL - Portugal gaat het zaterdag opnemen tegen Denemarken. De Portugezen beginnen aan het tijdperk zonder Cristiano Ronaldo en moeten direct aan de bak. BetCity staat klaar met een welkomstact ..."
+        },
+        {
+          "title": "Nieuw tijdperk begint bij Portugal: wie stapt uit de schaduw van Ronaldo?",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/nieuw-tijdperk-begint-bij-portugal-wie-stapt-uit-de-schaduw-van-ronaldo",
+          "publishedDate": "Sat, 14 Nov 2026 02:00:00 GMT",
+          "description": "ADVERTORIAL – Het hoge woord kwam er op 5 november uit: Cristiano Ronaldo kondigde toen zijn afscheid als international aan. Zaterdagavond komen de Portugezen voor het eerst sinds dat nieuws in actie, ..."
+        },
+        {
+          "title": "Waar en hoe laat wordt Portugal – Denemarken in de Nations League uitgezonden?",
+          "source": "VoetbalNieuws.nl",
+          "url": "https://www.voetbalnieuws.nl/nieuws/2158504/waar-en-hoe-laat-wordt-portugal-denemarken-in-de-nations-league-uitgezonden-vn.html",
+          "publishedDate": "Fri, 13 Nov 2026 05:02:00 GMT",
+          "description": "Portugal en Denemarken staan zaterdagavond tegenover elkaar in de vijfde speelronde van de Nations League. Portugal hoopt de foutloze status te behouden als koploper van de groep, terwijl Denemarken c ..."
+        }
+      ]
+    },
+    {
       "keyword": "zandvoort",
       "trafficLabel": "5K+",
       "articles": [
@@ -469,13 +674,6 @@
           "url": "https://www.ad.nl/zandvoort/sinterklaas-komt-zondag-aan-op-het-strand-van-zandvoort~a8a3f491/",
           "publishedDate": "Thu, 12 Nov 2026 05:00:00 GMT",
           "description": "Sinterklaas komt zondag met de boot aan in Zandvoort. De aankomst is rond 11.00 uur op het strand ter hoogte van het Badhuisplein."
-        },
-        {
-          "title": "Giftige groene knolamaniet gevonden in Zuidduinen in Zandvoort",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/zandvoort/giftige-groene-knolamaniet-gevonden-in-zuidduinen-in-zandvoort~aa26090a/",
-          "publishedDate": "Wed, 11 Nov 2026 20:00:00 GMT",
-          "description": "In de Zuidduinen in Zandvoort is de groene knolamaniet gevonden. De paddenstoel gevaarlijk kan zijn voor honden, mensen en andere dieren."
         },
         {
           "title": "Laatste raceweekend in Zandvoort, maar uitstraling moet nog jaren doorwerken",
@@ -532,6 +730,13 @@
           "url": "https://www.manners.nl/funda-parel-appartement-kopen-zandvoort-5-ton-strand-zeezicht/",
           "publishedDate": "Mon, 29 Jun 2026 05:27:00 GMT",
           "description": "Als je het ruimtelijke appartement binnenloopt, kun je een Tony Montana-vibe niet onderdrukken. Marmeren pilaren, pal aan het strand, twee balkons, zeezicht, woonoppervlak van 93 m&#178;, twee slaapkamers."
+        },
+        {
+          "title": "Bazen grand prix in Zandvoort staken flink deel financi&#235;le buffer in eigen zak",
+          "source": "rtl",
+          "url": "https://www.rtl.nl/nieuws/economie/artikel/5561644/organisatie-f1-zandvoort-keerde-20-miljoen-aan-zichzelf-uit",
+          "publishedDate": "Sat, 31 Jan 2026 07:53:00 GMT",
+          "description": "Dit jaar wordt de laatste Formule 1-race gereden in Zandvoort. De organisatoren stoppen ermee, onder meer vanwege de grote financi&#235;le risico's die gelopen worden als het evenement minder bezoekers ..."
         }
       ]
     }
