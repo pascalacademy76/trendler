@@ -1,106 +1,44 @@
 {
-  "fetchedAt": "2026-11-18T17:42:52.972Z",
+  "fetchedAt": "2026-11-18T23:45:53.705Z",
   "trends": [
-    {
-      "keyword": "rdw",
-      "trafficLabel": "100K+",
-      "articles": [
-        {
-          "title": "RDW schrapt 21.000 tenaamstellingen: zelfs parkeren op straat is vanaf vandaag verboden",
-          "source": "Autobahn",
-          "url": "https://autobahn.eu/artikel/700934/rdw-21000-tenaamstellingen-beeindigd-parkeren-verboden",
-          "publishedDate": "Wed, 18 Nov 2026 06:59:00 GMT",
-          "description": "De RDW heeft vandaag 21.000 tenaamstellingen be&#235;indigd. De getroffen voertuigen mogen zelfs niet meer op straat staan. Wie loopt risico en hoe los je dat op?"
-        },
-        {
-          "title": "RDW grijpt in: politie mag deze auto's vanaf vandaag zomaar in beslag nemen",
-          "source": "Auto Review",
-          "url": "https://www.autoreview.nl/nieuws/id/38492/rdw-tenaamstelling-vandaag-politie-inbeslagname",
-          "publishedDate": "Tue, 17 Nov 2026 16:15:00 GMT",
-          "description": "De RDW be&#235;indigt vandaag de tenaamstelling van auto's van eigenaren die uit de BRP zijn uitgeschreven. Zo voorkom je inbeslagname."
-        },
-        {
-          "title": "Digitale tolheffing A24 blijft bron van boetes",
-          "source": "GroentenNieuws",
-          "url": "https://www.groentennieuws.nl/article/9893605/digitale-tolheffing-a24-blijft-bron-van-boetes/",
-          "publishedDate": "Tue, 17 Nov 2026 03:44:00 GMT",
-          "description": "De digitale tolweg A24 tussen Vlaardingen en Rozenburg blijft voor problemen zorgen bij incidentele gebruikers. Maandelijks verstuurt de RDW ongeveer 100.000 betaalherinneringen van 9 euro ..."
-        },
-        {
-          "title": "Motorrijtuigenbelasting 2027 – nieuwe regels voor vrijstellingen en bijzondere tarieven",
-          "source": "nextens",
-          "url": "https://www.nextens.nl/fiscaal-nieuws/cat2/motorrijtuigenbelasting-2027-nieuwe-regels-voor-vrijstellingen-en-bijzondere-tarieven/",
-          "publishedDate": "Mon, 16 Nov 2026 06:28:00 GMT",
-          "description": "Motorrijtuigenbelasting 2027 verandert. Lees wat de nieuwe RDW-classificatie betekent voor vrijstellingen en bijzondere tarieven."
-        },
-        {
-          "title": "Wijzigingen in vrijstellingen en tarieven motorrijtuigenbelasting vanaf 1 januari 2027",
-          "source": "Taxence",
-          "url": "https://www.taxence.nl/nieuws/wijzigingen-in-vrijstellingen-en-tarieven-motorrijtuigenbelasting-vanaf-1-januari-2027/",
-          "publishedDate": "Mon, 16 Nov 2026 00:00:00 GMT",
-          "description": "Vanaf 1 januari 2027 veranderen de regels voor bepaalde vrijstellingen en bijzondere tarieven van de motorrijtuigenbelasting (mrb). De Belastingdienst gaat voortaan uit van de voertuigclassificatie va ..."
-        },
-        {
-          "title": "Wilt u DDS vaker zien?",
-          "source": "De Dagelijkse Standaard",
-          "url": "https://www.dagelijksestandaard.nl/economie/camper-kampeerauto-rdw-sa-wegenbelasting-2027-dubbel-bestelauto-n1",
-          "publishedDate": "Sun, 15 Nov 2026 06:30:00 GMT",
-          "description": "Vanaf 2027 telt alleen de RDW-registratie. Staat je dieselcamper van 3.000 kilo er als gewone personenauto, dan betaal je bij tarieven 2026 ruim €4.400."
-        },
-        {
-          "title": "Voor de RDW is het een camper, maar voor de Belastingdienst niet: vanaf 2027 verdwijnt dat verschil",
-          "source": "Autobahn on MSN",
-          "url": "https://www.msn.com/nl-nl/auto/algemeen/voor-de-rdw-is-het-een-camper-maar-voor-de-belastingdienst-niet-vanaf-2027-verdwijnt-dat-verschil/ar-AA2hmeKG",
-          "publishedDate": "Fri, 13 Nov 2026 02:31:00 GMT",
-          "description": "Een omgebouwde bestelbus kan bij de RDW als camper geregistreerd staan, terwijl de Belastingdienst het lagere belastingtarief weigert. Soms maakt zelfs een ontbrekende kraan het verschil. Vanaf 1 janu ..."
-        },
-        {
-          "title": "RDW grijpt in vanaf 18 november: zelfs je auto voor de deur parkeren kan verboden zijn",
-          "source": "rtvfocuszwolle",
-          "url": "https://www.rtvfocuszwolle.nl/rdw-auto-18-november-tenaamstelling-kenteken/",
-          "publishedDate": "Sat, 24 Oct 2026 13:02:00 GMT",
-          "description": "Een auto die keurig verzekerd is en gewoon door de APK is gekomen, mag vanaf woensdag 18 november mogelijk niet meer op straat staan. De RDW grijpt in bij een deel van de Nederlandse kentekens. Zelfs ..."
-        },
-        {
-          "title": "Auto exporteren: alles over verkoop, RDW en BPM",
-          "source": "autoscout24",
-          "url": "https://www.autoscout24.nl/informeren/advies/aan-de-slag-met-de-verkoop/auto-exporteren-alles-wat-je-moet-weten-over-verkoop-en-export/",
-          "publishedDate": "Thu, 09 Jul 2026 17:00:00 GMT",
-          "description": "Het exporteren van een auto kan een aantrekkelijke optie zijn wanneer je je voertuig niet binnen Nederland kunt of wilt verkopen. Maar hoe werkt een auto exporteren precies? In dit artikel leggen we ..."
-        }
-      ]
-    },
     {
       "keyword": "gta 6",
       "trafficLabel": "100K+",
       "articles": [
         {
-          "title": "Dertien jaar gewacht op GTA 6, nu nemen deze gamers vrij van hun werk: ‘Ik zit er stipt om 00.00 uur klaar voor’",
+          "title": "Radio-dj Domien maakt afspraak met zijn vriendin en zoontje: ‘Papa dagje vrij vanwege GTA 6’",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/dertien-jaar-gewacht-op-gta-6-nu-nemen-deze-gamers-vrij-van-hun-werk-ik-zit-er-stipt-om-00-00-uur-klaar-voor~a20bf3c6/",
-          "publishedDate": "Wed, 18 Nov 2026 08:15:00 GMT",
-          "description": "Dragqueen Reggy B. reageert na mishandeling in Amsterdam: ‘Ik ben bang en dat is precies wat ze willen’ Dragqueen Reggy B. reageert na mishandeling in Amsterdam: ‘Ik ben bang en dat is precies wat ze ..."
+          "url": "https://www.ad.nl/games/radio-dj-domien-maakt-afspraak-met-zijn-vriendin-en-zoontje-papa-dagje-vrij-vanwege-gta-6~a2b97435/",
+          "publishedDate": "Wed, 18 Nov 2026 13:37:00 GMT",
+          "description": "Qmusic-dj Domien Verschuuren noemt zichzelf geen fanatieke gamer, maar voor de lancering van Grand Theft Auto 6 maakt hij een uitzondering. De 38-jarige radiomaker heeft al een vaste afspraak gemaakt ..."
         },
         {
-          "title": "Opschudding in game-land: GTA 6 krijgt een 10 van The Guardian, Washington Post en andere grote media",
+          "title": "LIVE Lancering GTA 6 | GTA 6 nu uit in Nederland, advocaat waarschuwt voor ontslag bij ziekmelding",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/games/opschudding-in-game-land-gta-6-krijgt-een-10-van-the-guardian-washington-post-en-andere-grote-media~a5a2b115/",
-          "publishedDate": "Wed, 18 Nov 2026 05:04:00 GMT",
-          "description": "De langverwachte videogame Grand Theft Auto 6 heeft tot nu toe bijna alleen maar lovende recensies ontvangen. Op recensieplatform Metacritic, dat recensies van media verzamelt in een overzicht, behaal ..."
+          "url": "https://www.ad.nl/games/live-lancering-gta-6-gta-6-nu-uit-in-nederland-advocaat-waarschuwt-voor-ontslag-bij-ziekmelding~a4971c58/",
+          "publishedDate": "Wed, 18 Nov 2026 02:01:00 GMT",
+          "description": "GTA 6 is woensdagnacht in Nederland uitgekomen voor de PlayStation 5 en Xbox Series X/S. De normale versie van het spel kost 80 euro, een speciale editie met extra voorwerpen 100 euro. Ontwikkelaar Ro ..."
         },
         {
-          "title": "Dit is hoe gamestudio Rockstar elke euro uit GTA 6 wil persen",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/dit-is-hoe-gamestudio-rockstar-elke-euro-uit-gta-6-wil-persen/ar-AA2hGtwI",
-          "publishedDate": "Wed, 18 Nov 2026 01:51:07 GMT",
-          "description": "Gamers hebben er jaren op moeten wachten, maar vannacht verschijnt eindelijk GTA 6. De game kostte naar verluidt 1,5 miljard dollar om te maken. Maar met ruim 15 miljoen gamers die het spel al besteld ..."
+          "title": "GTA 6 evenaart record met 99 score op Metacritic",
+          "source": "techgaming",
+          "url": "https://techgaming.nl/gta-6-metacritic-score-99-recensies",
+          "publishedDate": "Wed, 18 Nov 2026 13:05:00 GMT",
+          "description": "Tags #Rockstar Games #PlayStation 5 #Xbox Series X #Gaming nieuws #GTA 6 #Metacritic Deze samenwerking is een volledig onafhankelijk initiatief en is op geen enkele wijze verbonden met, gesponsord doo ..."
         },
         {
-          "title": "Rockstar promoot GTA 6 in China zonder toestemming autoriteiten",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/tech-innovatie/10615922/rockstar-promoot-gta-6-in-china-zonder-toestemming-autoriteiten",
-          "publishedDate": "Wed, 18 Nov 2026 07:55:00 GMT",
-          "description": "De Amerikaanse gameontwikkelaar Rockstar Games maakt reclame voor Grand Theft Auto (GTA) VI in China, terwijl het spel daar niet officieel verkocht mag worden. De game verschijnt donderdag en heeft ..."
+          "title": "Deze apps heb je nodig om extra van GTA 6 te genieten",
+          "source": "Android Planet",
+          "url": "https://www.androidplanet.nl/apps/gta-6-apps/",
+          "publishedDate": "Wed, 18 Nov 2026 11:19:00 GMT",
+          "description": "Naast de game zelf heb je ook deze GTA 6-apps op je smartphone nodig om extra van Grand Theft Auto VI te genieten."
+        },
+        {
+          "title": "GTA 6 is eindelijk uit, al moet Europa nog even wachten",
+          "source": "IGN Benelux",
+          "url": "https://nl.ign.com/grand-theft-auto-vi/168504/gta-6-is-eindelijk-uit-al-moet-europa-nog-even-wachten",
+          "publishedDate": "Wed, 18 Nov 2026 07:14:00 GMT",
+          "description": "Na jaren wachten, talloze uitstellen en een gigantische hoeveelheid speculatie is het eindelijk zover: GTA 6 is verschenen. Althans, in Nieuw-Zeeland kunnen spelers inmiddels met de langverwachte game ..."
         },
         {
           "title": "GTA 6 moet &#233;&#233;n groep gamers flink teleurstellen",
@@ -110,13 +48,6 @@
           "description": "Wat is er nou leuker dan mensen kapot rijden in Vice City? Mensen kapot rijden in Vice City met een racestuurtje natuurlijk. Het klinkt als de natte droom van iedere petrolhead, en toch valt die droom ..."
         },
         {
-          "title": "GTA 6: dit is wat er in de Ultimate Edition zit",
-          "source": "IGN Benelux on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/gaming/gta-6-dit-is-wat-er-in-de-ultimate-edition-zit/ar-AA2hHnSt",
-          "publishedDate": "Wed, 18 Nov 2026 05:15:00 GMT",
-          "description": "Hier kun je lezen wat er precies in de Ultimate Edition van GTA 6 zit, en hoe en wanneer je al die goodies kunt verkrijgen in de game."
-        },
-        {
           "title": "GTA 6 schrijft geschiedenis en is momenteel best beoordeelde game ooit op Metacritic",
           "source": "IGN Benelux",
           "url": "https://nl.ign.com/grand-theft-auto-vi/168488/gta-6-schrijft-geschiedenis-en-is-momenteel-best-beoordeelde-game-ooit-op-metacritic",
@@ -124,18 +55,18 @@
           "description": "De eerste cijfers van GTA 6 zijn binnen na de release van de game in Nieuw-Zeeland en die zijn niets minder dan baanbrekend. Op het moment van schrijven staan er maar liefst 98 recensies geregistreerd ..."
         },
         {
-          "title": "GTA 6 heeft een instelling die je absoluut niet wilt aanzetten",
-          "source": "IGN Benelux on MSN",
-          "url": "https://www.msn.com/nl-nl/gaming/game-live-streamen/gta-6-heeft-een-instelling-die-je-absoluut-niet-wilt-aanzetten/ar-AA2hHsxg",
-          "publishedDate": "Wed, 18 Nov 2026 04:00:42 GMT",
-          "description": "GTA 6 wil je natuurlijk op de best mogelijke manier ervaren. Toch heeft Rockstar een instelling toegevoegd die de game voor een bepaalde groep spelers juist een stuk minder goed maakt. De kans is groo ..."
-        },
-        {
           "title": "GTA 6 review - Een generatiebepalende game",
           "source": "Gameliner",
           "url": "https://gameliner.nl/reviews/gta-6-review-een-generatiebepalende-game/113525",
           "publishedDate": "Wed, 18 Nov 2026 04:00:00 GMT",
           "description": "Na meer dan 100 uur is het tijd om inkt op het papier te zetten voor de review. Is GTA 6 het wachten waard geweest?"
+        },
+        {
+          "title": "PlayStation 5-eigenaren moeten update installeren om GTA 6 te kunnen spelen",
+          "source": "WANT",
+          "url": "https://www.want.nl/gta-6-playstation-5-update-vereist/",
+          "publishedDate": "Wed, 18 Nov 2026 02:12:00 GMT",
+          "description": "Wil je meteen GTA 6 spelen tijdens de release? Dan moet je je PlayStation nog wel snel updaten naar de meest recente versie."
         },
         {
           "title": "GTA 6: de hype bereikt ongekende hoogten",
@@ -147,29 +78,333 @@
       ]
     },
     {
-      "keyword": "mclaren",
+      "keyword": "zilveren kruis",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "De McLaren MCL41 uit 2027 wordt geveild voordat hij ook maar een keer op het circuit verschijnt.",
-          "source": "autohebdo",
-          "url": "https://www.autohebdo.nl/nieuws/f1/De-McLaren-MCL41-uit-2027-wordt-geveild-voordat-hij-ook-maar-een-keer-op-het-circuit-verschijnt..html",
-          "publishedDate": "Wed, 18 Nov 2026 05:12:00 GMT",
-          "description": "McLaren organiseerde eind vorig jaar een uitzonderlijke eerste veiling, waarbij potenti&#235;le kopers de MCL40 konden bemachtigen."
+          "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door-tekort-aan-zorgbudget/ar-AA2hISQf",
+          "publishedDate": "Wed, 18 Nov 2026 09:43:47 GMT",
+          "description": "Klanten van Zilveren Kruis kunnen bij meerdere ziekenhuizen tot het einde van het jaar niet meer terecht voor nieuwe, planbare zorg. De reden is geld: ziekenhuizen zeggen dat het afgesproken budget va ..."
         },
         {
-          "title": "&quot;We hebben geen stappen achteruit gezet&quot; – McLaren-teambaas verklaart 2026",
-          "source": "Motorsport.com",
-          "url": "https://nl.motorsport.com/f1/news/we-hebben-geen-stappen-achteruit-gezet-mclaren-teambaas-verklaart-2026/10875225/",
-          "publishedDate": "Tue, 17 Nov 2026 17:48:00 GMT",
-          "description": "Het is een moeilijk jaar geweest voor McLaren na het winnen van twee opeenvolgende constructeurskampioenschappen. Teambaas Andrea Stella legt een seizoen uit dat werd bepaald door enkele onvoorziene o"
+          "title": "Meerdere ziekenhuizen weigeren klanten van Zilveren Kruis, FBTO en Interpolis: verzekeraars ‘betalen niet genoeg’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/meerdere-ziekenhuizen-weigeren-klanten-van-zilveren-kruis-fbto-en-interpolis-verzekeraars-betalen-niet-genoeg~ae3ecf24/",
+          "publishedDate": "Wed, 18 Nov 2026 09:25:00 GMT",
+          "description": "Mensen die een zorgverzekering bij Zilveren Kruis hebben, kunnen tot het einde van het jaar niet terecht bij een aantal ziekenhuizen. Die hebben een tijdelijke pati&#235;ntenstop afgekondigd. Ze vinden dat ..."
+        },
+        {
+          "title": "Pati&#235;ntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken",
+          "source": "nieuwsinalphen.nl",
+          "url": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
+          "publishedDate": "Wed, 18 Nov 2026 11:14:00 GMT",
+          "description": "Foto: Ter illustratie REGIO - Het Alrijne Ziekenhuis in Leiderdorp neemt vanaf woensdag 18 november voorlopig geen nieuwe pati&#235;nten meer aan voor bepaalde planbare behandelingen die worden vergoed ..."
+        },
+        {
+          "title": "Bij deze zorgverzekeraar stijgt je premie het minst in 2027",
+          "source": "Zorgwijzer",
+          "url": "https://www.zorgwijzer.nl/zorgverzekering-2027/bij-deze-zorgverzekeraar-stijgt-je-premie-het-minst-in-2027",
+          "publishedDate": "Wed, 18 Nov 2026 10:29:00 GMT",
+          "description": "Geen enkele zorgverzekering wordt volgend jaar goedkoper. Alle 61 basispolissen gaan omhoog, gemiddeld met € 14,83 per maand. Bij 49 polissen komt er zelfs meer dan € 10 per maand bij. E&#233;n zorgverzeke ..."
+        },
+        {
+          "title": "Verzekerden Zilveren Kruis kunnen volgend jaar pas terecht bij Alrijne ziekenhuis",
+          "source": "Het Financieele Dagblad",
+          "url": "https://fd.nl/samenleving/1620004/verzekerden-zilveren-kruis-kunnen-volgend-jaar-pas-terecht-bij-alrijne-ziekenhuis",
+          "publishedDate": "Wed, 18 Nov 2026 08:48:00 GMT",
+          "description": "U heeft browser notificaties voor fd.nl eerder geweigerd. Ga naar browser instellingen en sta browser notificaties toe voor fd.nl. De precieze handelingen zijn afhankelijk van uw browser."
+        },
+        {
+          "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/algemeen/ziekenhuizen-nemen-deel-klanten-zilveren-kruis-tijdelijk-niet-op",
+          "publishedDate": "Wed, 18 Nov 2026 08:26:00 GMT",
+          "description": "LEIDEN (ANP) - Sommige mensen die een zorgverzekering bij Zilveren Kruis hebben, kunnen tot het einde van het jaar niet terecht bij een paar ziekenhuizen. Die hebben een tijdelijke pati&#235;ntenstop afgek ..."
+        },
+        {
+          "title": "Achmea legt €400 miljoen bij, CZ €20 miljoen",
+          "source": "Welingelichte Kringen",
+          "url": "https://www.welingelichtekringen.nl/samenleving/je-buurman-bij-zilveren-kruis-betaalt-eur570-meer-jij-bij-cz-eur1726-het-verschil-komt-uit-de-spaarpot-van-je-verzekeraa",
+          "publishedDate": "Sat, 14 Nov 2026 02:36:00 GMT",
+          "description": "Je buurman heeft de Basis Zeker-polis van Zilveren Kruis en gaat in 2027 €164,95 per maand betalen. Dat is €5,70 meer dan nu. Jij zit bij CZ op de Zorg-op-maatpolis en gaat €17,26 omhoog, naar €177,25 ..."
+        },
+        {
+          "title": "Zorgpremie Zilveren Kruis 2027 stijgt gemiddeld met 4,4%",
+          "source": "Independer Weblog",
+          "url": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-zilveren-kruis-2027-stijgt-gemiddeld-met-44/",
+          "publishedDate": "Thu, 12 Nov 2026 16:27:00 GMT",
+          "description": "Zilveren Kruis heeft de nieuwe zorgpremies voor 2027 bekendgemaakt. Goed nieuws: de stijging valt mee. Waar vooraf een gemiddelde stijging van € 12,50 per maand werd verwacht, stijgen de prijzen bij ..."
+        }
+      ]
+    },
+    {
+      "keyword": "ramon van asch",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "FVD royeert fractievoorzitter Den Bosch na neo-nazivechttoernooi",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/laatste-nieuws/fvd-royeert-fractievoorzitter-den-bosch-na-neo-nazivechttoernooi~be144361/",
+          "publishedDate": "Wed, 18 Nov 2026 14:01:00 GMT",
+          "description": "Ralf Dekker, de huidige FVD-fractievoorzitter in de Tweede Kamer, reageerde eerder op de onthulling tegen de NOS. Daar zei hij dat &quot;iedereen moet gaan waar hij wil&quot;. &quot;Het is goed om je in de breedte ..."
+        },
+        {
+          "title": "FvD royeert fractievoorzitter Den Bosch na aanwezigheid bij rechtsex&#173;tre&#173;mis&#173;tisch kooigevecht",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/fvd-royeert-fractievoorzitter-den-bosch-na-aanwezigheid-bij-rechtsextremistisch-kooigevecht~ac9bbb01/",
+          "publishedDate": "Wed, 18 Nov 2026 13:30:00 GMT",
+          "description": "Rechtsextremisten hebben eerder dit jaar kooigevechten gehouden op verschillende locaties, waaronder een terrein in Oeffelt. Dat blijkt uit beelden van Zembla. Het televisieprogramma ontdekte naar eig ..."
+        },
+        {
+          "title": "Fractievoorzitter FVD Den Bosch weggestuurd bij partij na neonazi-vechttoernooi",
+          "source": "RTL Nieuws &amp; Entertainment on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/fractievoorzitter-fvd-den-bosch-weggestuurd-bij-partij-na-neonazi-vechttoernooi/ar-AA2hIBYf",
+          "publishedDate": "Wed, 18 Nov 2026 11:52:00 GMT",
+          "description": "De fractievoorzitter in de gemeenteraad van Den Bosch, Ramon van Asch, is door de partij verzocht om op te stappen. Dat meldt de partij na onthullingen in Zembla dat FVD-leden aanwezig waren bij vecht ..."
+        },
+        {
+          "title": "FVD royeert twee leden na Zembla-uitzending over neonazi's en Hitler-verering",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2640076-fvd-royeert-twee-leden-na-zembla-uitzending-over-neonazi-s-en-hitler-verering",
+          "publishedDate": "Wed, 18 Nov 2026 11:48:00 GMT",
+          "description": "Onder anderen Ramon van Asch, FVD-fractievoorzitter in de gemeenteraad van Den Bosch, is door de partij gemaand om op te stappen. Hij heeft daar gehoor aan gegeven."
+        },
+        {
+          "title": "FVD royeert partijprominent van Asch en Luc K.",
+          "source": "BNNVARA",
+          "url": "https://www.bnnvara.nl/zembla/artikelen/fvd-royeert-partijprominent-van-asch-en-luc-k",
+          "publishedDate": "Wed, 18 Nov 2026 11:08:00 GMT",
+          "description": "Het partijbestuur van Forum voor Democratie heeft partijprominent Ramon van Asch geroyeerd en gevraagd op te stappen als fractievoorzitter van FVD in Den Bosch. Dat maakte FVD zojuist bekend, anderhal ..."
+        },
+        {
+          "title": "Nauwe banden tussen FVD en neonazistische vechtclubs, blijkt uit reportage Zembla",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/11/18/zembla-toont-nauwe-banden-tussen-fvd-en-neonazistische-vechtclubs-a4941770",
+          "publishedDate": "Wed, 18 Nov 2026 10:22:00 GMT",
+          "description": "Extreemrechts: FVD-gemeenteraadslid Ramon van Asch uit Den Bosch bezocht een vechttoernooi van neonazi’s. En leden van de jongerentak JFVD namen zelf deel aan deze toernooien, blijkt uit onderzoek van ..."
+        },
+        {
+          "title": "Partijprominent Forum voor Democratie was aanwezig bij geheim vechttoernooi van neonazi’s",
+          "source": "De Volkskrant",
+          "url": "https://www.volkskrant.nl/binnenland/partijprominent-forum-voor-democratie-was-aanwezig-bij-geheim-vechttoernooi-van-neonazi-s~b43d6ec6/",
+          "publishedDate": "Wed, 18 Nov 2026 08:59:00 GMT",
+          "description": "Ramon van Asch, FvD-fractievoorzitter in Den Bosch en oud-bestuurslid van JFVD, bezocht in juni een vechttoernooi van neonazi’s. Een gezicht van FvD-bedrijf Eerlijk Eten vocht zelf op een neonazi-even ..."
+        },
+        {
+          "title": "Vandaag (18 november) om 22:39 • Aangepast vandaag (18 november) om 22:51",
+          "source": "Omroep Brabant",
+          "url": "https://www.omroepbrabant.nl/nieuws/6035326/burgemeester-mikkers-van-den-bosch-fel-over-neonazisme-verwerpelijk",
+          "publishedDate": "Wed, 18 Nov 2026 14:39:00 GMT",
+          "description": "Burgemeester Jack Mikkers van Den Bosch is flink geschrokken van de beelden van een neonazistisch vechttoernooi in Oeffelt. Daarbij was ook het inmiddels opgestapte Bossche FVD-raadslid Ramon van Asch ..."
+        },
+        {
+          "title": "FVD-raadslid stapt op na bezoek aan neonazistisch vechttoernooi",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/politiek/beleid/artikelen/den-bosch-fvd-fractievoorzitter-stapt-op-na-onthulling-zembla",
+          "publishedDate": "Wed, 18 Nov 2026 12:12:00 GMT",
+          "description": "Ramon van Asch, FVD-fractievoorzitter in Den Bosch, stapt op. Hij was volgens Zembla aanwezig bij een vechttoernooi van neonazistische vechtclubs."
+        },
+        {
+          "title": "FVD royeert twee leden na onthulling over neonazistische kooigevechten; ook FVD-raadslid verzocht op te stappen",
+          "source": "nieuwrechts",
+          "url": "https://nieuwrechts.nl/114432-fvd-royeert-twee-leden-na-onthulling-over-neonazistische-vechtavonden-ook-fvd-raadslid-verzocht-op-te-stappen",
+          "publishedDate": "Wed, 18 Nov 2026 09:45:00 GMT",
+          "description": "Forum voor Democratie heeft twee leden uit de partij gezet. Uit onderzoek van Zembla bleek dat ze aanwezig waren bij vechtwedstrijden van een extremistisch netwerk. Ook FVD-gemeenteraadslid Ramon van ..."
+        }
+      ]
+    },
+    {
+      "keyword": "ps5",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "PS5 is vierde PlayStation met 100 miljoen geleverde consoles",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/tweakers/6416345/ps5-is-vierde-playstation-met-100-miljoen-geleverde-consoles.html",
+          "publishedDate": "Thu, 12 Nov 2026 05:06:00 GMT",
+          "description": "Sony heeft wereldwijd meer dan 100 miljoen exemplaren van de PlayStation 5 geleverd. Daarmee is de PS5 de vierde generatie van de spelcomputer die deze grens bereikt."
+        },
+        {
+          "title": "Nederlandse game Duck Side of the Moon verschijnt op PS5, met gratis Homegrown-update voor alle platformen",
+          "source": "thatsgaming",
+          "url": "https://thatsgaming.nl/nederlandse-game-duck-side-of-the-moon-verschijnt-op-ps5-met-gratis-homegrown-update-voor-alle-platformen/",
+          "publishedDate": "Wed, 18 Nov 2026 11:38:00 GMT",
+          "description": "De Nederlandse indiestudio Starbrew Games heeft Duck Side of the Moon uitgebracht op PlayStation 5. De rustige open-wereldgame over verkennen ..."
+        },
+        {
+          "title": "Laatste check: zo zijn je PS5 of Xbox en tv klaar voor GTA VI",
+          "source": "Bright on MSN",
+          "url": "https://www.msn.com/nl-nl/gaming/xbox/laatste-check-zo-zijn-je-ps5-of-xbox-en-tv-klaar-voor-gta-vi/ar-AA2hIefh",
+          "publishedDate": "Wed, 18 Nov 2026 09:10:00 GMT",
+          "description": "Middernacht op 19 november is het zover en kunnen we GTA VI eindelijk gaan spelen. Tijd voor een laatste check, zodat je PS5 of Xbox snel laadt en je tv de juiste settings heeft."
+        },
+        {
+          "title": "GTA 6 krijgt nooit 60fps op PS5 Pro: &quot;Console is niet krachtig genoeg&quot;",
+          "source": "IGN Benelux on MSN",
+          "url": "https://www.msn.com/nl-nl/gaming/playstation/gta-6-krijgt-nooit-60fps-op-ps5-pro-console-is-niet-krachtig-genoeg/ar-AA2hHDnh",
+          "publishedDate": "Wed, 18 Nov 2026 05:07:19 GMT",
+          "description": "Er is slecht nieuws voor GTA 6-spelers die hoopten op een 60fps-mode voor de PlayStation 5 Pro. Zelfs Sony's krachtigere console kan de nieuwe game van Rockstar niet op een hogere framerate draaien. D ..."
+        },
+        {
+          "title": "Sony brengt nieuwe PS5-update uit vlak voor GTA 6-release en probeert hackers voor te blijven",
+          "source": "IGN Benelux on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/gaming/sony-brengt-nieuwe-ps5-update-uit-vlak-voor-gta-6-release-en-probeert-hackers-voor-te-blijven/ar-AA2hCBTN",
+          "publishedDate": "Tue, 17 Nov 2026 07:23:00 GMT",
+          "description": "Sony heeft een nieuwe firmware-update voor de PlayStation 5 uitgebracht, slechts een dag voor de release van GTA 6. De update volgt bovendien kort nadat een bekende hacker claimde als eerste een game- ..."
+        },
+        {
+          "title": "Wacht niet te lang met upgraden van het geheugen van je PS5 - ADV",
+          "source": "IGN Benelux on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/gaming/wacht-niet-te-lang-met-upgraden-van-het-geheugen-van-je-ps5-adv/ar-AA2hAEIg",
+          "publishedDate": "Tue, 17 Nov 2026 01:00:00 GMT",
+          "description": "De PS5 heeft op zich veel opslagruimte, maar er wordt wel erg veel van gevraagd."
+        },
+        {
+          "title": "AMD viert mee nu PS5 enkele dagen voor de lancering van GTA 6 de grens van 100 miljoen verscheepte exemplaren passeert",
+          "source": "notebookcheck",
+          "url": "https://www.notebookcheck.nl/AMD-viert-mee-nu-PS5-enkele-dagen-voor-de-lancering-van-GTA-6-de-grens-van-100-miljoen-verscheepte-exemplaren-passeert.1450987.0.html",
+          "publishedDate": "Sun, 15 Nov 2026 08:45:00 GMT",
+          "description": "Sony heeft meer dan 100 miljoen PlayStation 5-consoles geleverd, waarmee het de vierde PlayStation is die deze mijlpaal bereikt. AMD, dat de chips voor de console levert, vierde dit met een gesigneerd ..."
+        },
+        {
+          "title": "PS5 wordt vierde PlayStation met 100 miljoen geleverde consoles",
+          "source": "Tweakers",
+          "url": "https://tweakers.net/nieuws/254434/ps5-wordt-vierde-playstation-met-100-miljoen-geleverde-consoles.html",
+          "publishedDate": "Thu, 12 Nov 2026 01:56:00 GMT",
+          "description": "Sony heeft meer dan honderd miljoen exemplaren geleverd van de PlayStation 5. Dat heeft het bedrijf bevestigd. Er zijn enkele PlayStation-generaties waarvan de totale leveringen nog hoger liggen."
+        },
+        {
+          "title": "Waarschuwing: deze nieuwe PS5-jailbreak werkt zelfs op veel recente consoles",
+          "source": "xgn.nl",
+          "url": "https://www.xgn.nl/nieuws/waarschuwing-deze-nieuwe-ps5-jailbreak-werkt-zelfs-op-veel-recente-consoles",
+          "publishedDate": "Thu, 01 Oct 2026 02:02:00 GMT",
+          "description": "Als je een PS5 hebt, download je waarschijnlijk systeemupdates zodra Sony ze beschikbaar stelt, zonder er veel bij stil te staan wat ze precies doen. Wat je misschien niet weet, is dat deze updates ..."
+        },
+        {
+          "title": "GTA 6-fans opgelet: deze pre-order kan je zomaar een gratis PS5 Pro bezorgen",
+          "source": "xgn.nl",
+          "url": "https://www.xgn.nl/nieuws/gta-6-fans-opgelet-deze-pre-order-kan-je-zomaar-een-gratis-ps5-pro-bezorgen",
+          "publishedDate": "Fri, 28 Aug 2026 01:07:00 GMT",
+          "description": "Wie van plan is om GTA 6 voor de PS5 te pre-orderen, kan daar binnenkort mogelijk meer aan overhouden dan d&#233; game van het najaar (lees: GTA VI). Bol heeft namelijk een nieuwe winactie opgezet waarbij ..."
+        }
+      ]
+    },
+    {
+      "keyword": "playstation 5",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "LIVE Lancering GTA 6 | Storing bij PlayStation Network vlak voor release van GTA 6",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/games/live-lancering-gta-6-grootste-gameshop-van-nederland-boycot-gta-6-bezorgd-over-deze-trend~a4971c58/",
+          "publishedDate": "Wed, 18 Nov 2026 13:17:00 GMT",
+          "description": "Vannacht is het zover: de lancering van de grootste mediaproductie die ooit is gemaakt. Grand Theft Auto 6 verschijnt, dertien jaar na zijn voorganger, voor de PlayStation 5 en Xbox Series X/S. MediaM ..."
+        },
+        {
+          "title": "LIVE Lancering GTA 6 | GTA 6 nu uit in Nederland, advocaat waarschuwt voor ontslag bij ziekmelding",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/games/live-lancering-gta-6-gta-6-nu-uit-in-nederland-advocaat-waarschuwt-voor-ontslag-bij-ziekmelding~a4971c58/",
+          "publishedDate": "Wed, 18 Nov 2026 02:01:00 GMT",
+          "description": "GTA 6 is woensdagnacht in Nederland uitgekomen voor de PlayStation 5 en Xbox Series X/S. De normale versie van het spel kost 80 euro, een speciale editie met extra voorwerpen 100 euro. Ontwikkelaar Ro ..."
+        },
+        {
+          "title": "Sony wint Britse rechtszaak over commissie PlayStation Store",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/tweakers/6416947/sony-wint-britse-rechtszaak-over-commissie-playstation-store.html",
+          "publishedDate": "Wed, 18 Nov 2026 00:22:00 GMT",
+          "description": "Sony heeft een Britse rechtszaak gewonnen over de commissie van 30 procent in de PlayStation Store. Volgens de rechter betalen consumenten daardoor niet aantoonbaar te veel."
+        },
+        {
+          "title": "PS5 is vierde PlayStation met 100 miljoen geleverde consoles",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/tweakers/6416345/ps5-is-vierde-playstation-met-100-miljoen-geleverde-consoles.html",
+          "publishedDate": "Thu, 12 Nov 2026 05:06:00 GMT",
+          "description": "Sony heeft wereldwijd meer dan 100 miljoen exemplaren van de PlayStation 5 geleverd. Daarmee is de PS5 de vierde generatie van de spelcomputer die deze grens bereikt."
+        },
+        {
+          "title": "PlayStation 5-eigenaren moeten update installeren om GTA 6 te kunnen spelen",
+          "source": "WANT",
+          "url": "https://www.want.nl/gta-6-playstation-5-update-vereist/",
+          "publishedDate": "Wed, 18 Nov 2026 02:12:00 GMT",
+          "description": "Wil je meteen GTA 6 spelen tijdens de release? Dan moet je je PlayStation nog wel snel updaten naar de meest recente versie."
+        },
+        {
+          "title": "Flinke Black Friday-korting op Playstation Plus-jaarabonnementen",
+          "source": "IGN Benelux on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/gaming/flinke-black-friday-korting-op-playstation-plus-jaarabonnementen/ar-AA2hxhiu",
+          "publishedDate": "Mon, 16 Nov 2026 04:30:00 GMT",
+          "description": "Het is weer zover: PlayStations Black Friday-aanbiedingen zijn er."
+        },
+        {
+          "title": "PlayStation 5 bereikt 100 miljoen verkochte exemplaren vlak voor release van GTA 6",
+          "source": "IGN Benelux",
+          "url": "https://nl.ign.com/playstation-5/168373/playstation-5-bereikt-100-miljoen-verkochte-exemplaren-vlak-voor-release-van-gta-6",
+          "publishedDate": "Fri, 13 Nov 2026 03:30:00 GMT",
+          "description": "Sony heeft bekendgemaakt dat er inmiddels meer dan 100 miljoen exemplaren van de PlayStation 5 zijn verscheept. De console bereikt deze mijlpaal vlak voor de release van GTA 6, waarvan wordt verwacht ..."
+        },
+        {
+          "title": "PlayStation 5 bereikt indrukwekkende mijlpaal, ondanks sterk gedaalde verkoop",
+          "source": "Bright on MSN",
+          "url": "https://www.msn.com/nl-nl/gaming/playstation/playstation-5-bereikt-indrukwekkende-mijlpaal-ondanks-sterk-gedaalde-verkoop/ar-AA2hiFi0",
+          "publishedDate": "Thu, 12 Nov 2026 05:23:14 GMT",
+          "description": "Ondanks teruglopende verkopen kan Sony een verkoopfeestje vieren. Het bedrijf heeft namelijk bekendgemaakt dat het inmiddels meer dan 100 miljoen PlayStation 5-consoles heeft geleverd. Daarmee is de P ..."
+        },
+        {
+          "title": "PlayStation 5 passeert grens van 100 miljoen verkochte exemplaren",
+          "source": "Gamingnation",
+          "url": "https://gamingnation.nl/playstation-5-passeert-grens-van-100-miljoen-verkochte-exemplaren/",
+          "publishedDate": "Thu, 12 Nov 2026 05:02:00 GMT",
+          "description": "De PlayStation 5 heeft de grens van 100 miljoen exemplaren gepasseerd. Sony bereikt de mijlpaal bijna zes jaar na de release."
+        },
+        {
+          "title": "Sony brengt nieuwe PlayStation Portal met extra opslag voor ‘toekomstige functies’ enkel uit in Japan",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/playstation/sony-brengt-nieuwe-playstation-portal-met-extra-opslag-voor-toekomstige-functies-enkel-uit-in-japan~ab659492/",
+          "publishedDate": "Tue, 10 Nov 2026 03:00:00 GMT",
+          "description": "Sony brengt op 10 december in Japan een nieuwe versie van de PlayStation Portal uit. Deze handheld draait net zoals de bestaande variant geen lokale games, maar streamt ze via een PlayStation 5-consol ..."
+        }
+      ]
+    },
+    {
+      "keyword": "metacritic",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Grand Theft Auto VI Critic Reviews",
+          "source": "Metacritic",
+          "url": "https://www.metacritic.com/game/grand-theft-auto-vi/critic-reviews/",
+          "publishedDate": "Tue, 17 Nov 2026 16:00:00 GMT",
+          "description": "Metascore 99 (Universal acclaim) based on 152 critic reviews. Vice City, USA. Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find ..."
+        },
+        {
+          "title": "The Lord of the Rings: The Rings of Power Season 3 Critic Reviews",
+          "source": "Metacritic",
+          "url": "https://www.metacritic.com/tv/the-lord-of-the-rings-the-rings-of-power/critic-reviews/?season=season-3",
+          "publishedDate": "Tue, 10 Nov 2026 16:00:00 GMT",
+          "description": "Season 3 is an encapsulation of &quot;The Rings of Power&quot; as a whole: some incredibly high highs, several frustrating lows, and the creeping feeling that time is finally starting to run out."
+        },
+        {
+          "title": "Black Doves Season 2 Critic Reviews",
+          "source": "Metacritic",
+          "url": "https://www.metacritic.com/tv/black-doves/critic-reviews/?season=season-2",
+          "publishedDate": "Wed, 04 Nov 2026 15:59:00 GMT",
+          "description": "So delightful is it to just get to hang out with this gang, whether they’re slow-motion shooting their way through a cadre of henchmen or winding down afterward at a swanky jazz bar, that it’s easy to ..."
         }
       ]
     },
     {
       "keyword": "uefa nations league",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
+        {
+          "title": "Turkije verdwijnt naar het vagevuur, 4 landen zeker van promotie: dit is het (voorlopige) verdict in de Nations League",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/2026/11/18/turkije-verdwijnt-naar-het-vagevuur-4-landen-zeker-van-promotie-dit-is-het-voorlopige-verdict-in-de-nations-league~1794980618434/",
+          "publishedDate": "Wed, 18 Nov 2026 00:24:00 GMT",
+          "description": "Het kan verkeren voor Turkije. Speelden ze deze editie nog in een toppoule met Frankrijk, Belgi&#235; en Itali&#235;, dan wacht nu een degradatie naar het vagevuur. De Turken sprokkelden geen enkel punt en ..."
+        },
         {
           "title": "Definitief: de mogelijke tegenstanders van Rode Duivels in Nations League",
           "source": "VoetbalNieuws.be",
@@ -185,18 +420,18 @@
           "description": "De Rode Duivels hebben zich op knappe wijze geplaatst voor de kwartfinales van de Nations League. In maart mogen ze dus gaan strijden voor ..."
         },
         {
-          "title": "Op deze datum is loting knock-outfase Nations League en zo werkt die",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/op-deze-datum-is-loting-knock-outfase-nations-league-en-zo-werkt-die/ar-AA2hwIsx",
-          "publishedDate": "Mon, 16 Nov 2026 15:00:00 GMT",
-          "description": "Nu het Nederlands elftal zo goed als zeker is van deelname aan de knock-outfase van de Nations League mag Oranje uitkijken naar de loting. Die vindt vrij snel na afloop van de groepsfase plaats. In di ..."
-        },
-        {
           "title": "‘UEFA gooit Duitsland per direct uit Nations League’",
           "source": "Soccernews.nl",
           "url": "https://www.soccernews.nl/news/uefa-gooit-duitsland-per-direct-uit-nations-league/",
           "publishedDate": "Mon, 16 Nov 2026 13:31:00 GMT",
           "description": "In Berlijn staan Duitsland en Nederland maandagavond tegenover elkaar voor de laatste Nations League-wedstrijd van 2026. Tijdens deze burenruzie draagt ..."
+        },
+        {
+          "title": "Op deze datum is loting knock-outfase Nations League en zo werkt die",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/op-deze-datum-is-loting-knock-outfase-nations-league-en-zo-werkt-die/ar-AA2hwIsx",
+          "publishedDate": "Mon, 16 Nov 2026 12:10:00 GMT",
+          "description": "Nu het Nederlands elftal zo goed als zeker is van deelname aan de knock-outfase van de Nations League mag Oranje uitkijken naar de loting. Die vindt vrij snel na afloop van de groepsfase plaats. In di ..."
         },
         {
           "title": "Slecht nieuws voor de Rode Duivels: ondanks penaltyheisa pakt Itali&#235; uit met verrassende comeback tegen Frankrijk",
@@ -227,13 +462,6 @@
           "description": "Bekijk mijn producten Extra zenders wijzigen Streamingdiensten wijzigen Mijn internetsnelheid wijzigen Mijn televisie-pakket wijzigen Mijn Vaste Telefonie wijzigen Verhuizing doorgeven Bekijk mijn ..."
         },
         {
-          "title": "Hoe werkt de Nations League? De (ingewikkelde) opzet van het Europese landentoernooi uitgelegd",
-          "source": "Squawka Football",
-          "url": "https://www.squawka.com/nl/nieuws/hoe-werkt-nations-league-opzet/",
-          "publishedDate": "Tue, 22 Sep 2026 02:41:00 GMT",
-          "description": "De Nations League is een Europees landentoernooi van de UEFA. Landen spelen om punten, promotie, degradatie en een plek in de beslissende ronde. Het toernooi vervangt een deel van de oefeninterlands."
-        },
-        {
           "title": "UEFA sleutelt aan opzet Nations League met oog op nieuw format",
           "source": "Vi",
           "url": "https://www.vi.nl/nieuws/uefa-sleutelt-aan-opzet-nations-league-met-oog-op-nieuw-format",
@@ -243,15 +471,118 @@
       ]
     },
     {
+      "keyword": "mclaren",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "De McLaren MCL41 uit 2027 wordt geveild voordat hij ook maar een keer op het circuit verschijnt.",
+          "source": "autohebdo",
+          "url": "https://www.autohebdo.nl/nieuws/f1/De-McLaren-MCL41-uit-2027-wordt-geveild-voordat-hij-ook-maar-een-keer-op-het-circuit-verschijnt..html",
+          "publishedDate": "Wed, 18 Nov 2026 05:12:00 GMT",
+          "description": "McLaren organiseerde eind vorig jaar een uitzonderlijke eerste veiling, waarbij potenti&#235;le kopers de MCL40 konden bemachtigen."
+        },
+        {
+          "title": "&quot;We hebben geen stappen achteruit gezet&quot; – McLaren-teambaas verklaart 2026",
+          "source": "Motorsport.com",
+          "url": "https://nl.motorsport.com/f1/news/we-hebben-geen-stappen-achteruit-gezet-mclaren-teambaas-verklaart-2026/10875225/",
+          "publishedDate": "Tue, 17 Nov 2026 17:48:00 GMT",
+          "description": "Het is een moeilijk jaar geweest voor McLaren na het winnen van twee opeenvolgende constructeurskampioenschappen. Teambaas Andrea Stella legt een seizoen uit dat werd bepaald door enkele onvoorziene o"
+        }
+      ]
+    },
+    {
+      "keyword": "claudia de breij",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Claudia de Breij worstelt met naderend verlies van goede vriendin",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5665692/claudia-de-breij-worstelt-met-naderend-verlies-van-goede-vriendin",
+          "publishedDate": "Wed, 18 Nov 2026 07:32:00 GMT",
+          "description": "Het is geen makkelijk jaar voor Claudia de Breij (51). De cabareti&#232;re dreigt een goede vriendin te verliezen aan een ernstige ziekte en dat valt haar zwaar. Wanneer ze in een interview met LINDA. over ..."
+        },
+        {
+          "title": "Deze kandidaat wint De slimste mens in finale met een verdrietig randje: ‘Nooit van durven dromen’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/deze-kandidaat-wint-de-slimste-mens-in-finale-met-een-verdrietig-randje-nooit-van-durven-dromen~a98f1292/",
+          "publishedDate": "Fri, 06 Nov 2026 14:25:00 GMT",
+          "description": "Politiek verslaggever Mats Akkerman (32) is de winnaar van het najaarsseizoen van De slimste mens 2026. In een zenuwslopende ontknoping wist de politiek journalist vrijdagavond af te rekenen met journ ..."
+        },
+        {
+          "title": "Claudia de Breij (50) springt in het diepe met haar musicaldebuut: ‘Hoe ouder je wordt, hoe minder eerste keren er zijn’",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/cultuur-media/claudia-de-breij-50-springt-in-het-diepe-met-haar-musicaldebuut-hoe-ouder-je-wordt-hoe-minder-eerste-keren-er-zijn~b5426c95/",
+          "publishedDate": "Fri, 06 Jun 2025 05:53:00 GMT",
+          "description": "“Ik ben helemaal kapot, maar ik vind het z&#243; leuk. Leuker dan ik had gedacht. Goddank.” Cabaretier Claudia de Breij (50) heeft een sprong in het diepe gewaagd en repeteert sinds een paar weken voor ..."
+        },
+        {
+          "title": "Biograaf Claudia de Breij: Amalia is laconiek en plichtsgetrouw en het is allebei echt",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/nederland/biograaf-claudia-de-breij-amalia-is-laconiek-en-plichtsgetrouw-en-het-is-allebei-echt~bdcb4686/",
+          "publishedDate": "Mon, 15 Nov 2021 15:01:00 GMT",
+          "description": "Ze spraken elkaar dagenlang voor het portret dat de &#233;&#233;n (Claudia de Breij) over de ander (prinses Amalia) schreef. In paleis Huis ten Bosch - &#243;&#243;k op Amalia’s meidenkamer - bij de Koninklijke Stallen ..."
+        },
+        {
+          "title": "Claudia de Breij doet wat ze wil, &#243;&#243;k aanschurken tegen het koningshuis",
+          "source": "Volkskrant",
+          "url": "https://www.volkskrant.nl/nieuws-achtergrond/claudia-de-breij-doet-wat-ze-wil-ook-aanschurken-tegen-het-koningshuis~be601307/",
+          "publishedDate": "Mon, 15 Nov 2021 06:23:00 GMT",
+          "description": "Claudia de Breij wilde altijd al eens een lintje krijgen. Ze sprak daar in 2010 al over in haar succesvoorstelling Hete Vrede, die werd bekroond met cabaretprijs Poelifinario. Na een grapje over het ..."
+        },
+        {
+          "title": "Lintje voor Claudia de Breij, Govert de Roos, Karel Martens – en de 110-jarige Mary Benjamin",
+          "source": "Volkskrant",
+          "url": "https://www.volkskrant.nl/nieuws-achtergrond/lintje-voor-claudia-de-breij-govert-de-roos-karel-martens-en-de-110-jarige-mary-benjamin~beef8fb0/",
+          "publishedDate": "Mon, 26 Apr 2021 06:00:00 GMT",
+          "description": "Meer dan 2.800 Nederlanders, onder wie cabaretier Claudia de Breij, krijgen een lintje voor hun verdiensten voor de samenleving. Wederom zijn het vooral mannen die zo’n koninklijke onderscheiding ..."
+        },
+        {
+          "title": "De Breij voelde zich 'heel onzeker' voor oudejaarsconference '26",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/de-breij-voelde-zich-heel-onzeker-voor-oudejaarsconference-26",
+          "publishedDate": "Wed, 18 Nov 2026 08:58:00 GMT",
+          "description": "Claudia de Breij heeft zich &quot;heel onzeker&quot; gevoeld tijdens de voorbereiding op de aankomende oudejaarsconference. Volgens de cabaretier is de show extra spannend, omdat deze voor een breed publiek is, ..."
+        },
+        {
+          "title": "'Onzekere' Claudia de Breij schakelt psycholoog in ter voorbereiding oudejaarsconference 2026",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/onzekere-claudia-de-breij-psycholoog-voorbereiding-oudejaarsconference-2026",
+          "publishedDate": "Wed, 18 Nov 2026 08:56:00 GMT",
+          "description": "Claudia de Breij voelt zich onzeker voor haar oudejaarsconference '26. Ze deelt haar ervaringen en tips van een sportpsycholoog in een interview met LINDA."
+        },
+        {
+          "title": "Claudia de Breij over schrappen NS Publieksprijs: 'Literatuur is geen wedstrijd'",
+          "source": "NU",
+          "url": "https://www.nu.nl/cultuur-overig/6232305/claudia-de-breij-over-schrappen-ns-publieksprijs-literatuur-is-geen-wedstrijd.html",
+          "publishedDate": "Wed, 26 Oct 2022 06:44:00 GMT",
+          "description": "In de boekenwereld wordt teleurgesteld en geschrokken gereageerd op het schrappen van de NS Publieksprijs. Woensdagochtend werd duidelijk dat de stemmen te veel werden gemanipuleerd om nog tot een ..."
+        },
+        {
+          "title": "Verraste Claudia de Breij naar stadhuis gelokt voor lintje: 'Ik dacht nog: het zou toch niet?’",
+          "source": "AD",
+          "url": "https://www.ad.nl/utrecht/verraste-claudia-de-breij-naar-stadhuis-gelokt-voor-lintje-ik-dacht-nog-het-zou-toch-niet~a9f912d6/",
+          "publishedDate": "Sun, 25 Apr 2021 22:12:00 GMT",
+          "description": "Met een smoes werd ze vanochtend naar het stadhuis van Utrecht gelokt, waar een glunderende burgemeester Dijksma haar toesprak. En nu prijkt er een lintje op de rechterborst van Claudia de Breij (46)."
+        }
+      ]
+    },
+    {
       "keyword": "rotterdam",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Auto slaat over de kop na harde botsing tegen betonblok in Rotterdam-Zuid, bestuurder aangehouden",
+          "title": "Man (22) aangehouden op Rotterdam Airport, verdacht van betrokkenheid bij aanslag bij boerderij van Jan G.",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-rotterdam/auto-slaat-over-de-kop-na-harde-botsing-tegen-betonblok-in-rotterdam-zuid-bestuurder-aangehouden~a1e56fe4/",
-          "publishedDate": "Wed, 18 Nov 2026 07:30:00 GMT",
-          "description": "In Rotterdam-Zuid is in de nacht van dinsdag op woensdag een auto over de kop geslagen na een eenzijdig ongeval. Het voertuig botste hard tegen een betonnen bouwblok en raakte total loss."
+          "url": "https://www.ad.nl/binnenland/man-22-aangehouden-op-rotterdam-airport-verdacht-van-betrokkenheid-bij-aanslag-bij-boerderij-van-jan-g~a88d24ef/",
+          "publishedDate": "Wed, 18 Nov 2026 13:38:00 GMT",
+          "description": "Een 22-jarige man is dinsdagavond aangehouden op Rotterdam The Hague Airport. De Amsterdammer wordt volgens de politie verdacht van betrokkenheid bij de aanslag voor het huis van &lt;a href=&quot;https://www."
+        },
+        {
+          "title": "Weekendtips: deze dingen doe je in Rotterdam (20 - 22 november)",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/rotterdam/weekendtips-deze-dingen-doe-je-in-rotterdam-20-22-november~ac85ecdf3/",
+          "publishedDate": "Wed, 18 Nov 2026 12:00:00 GMT",
+          "description": "Aanstaande zondag is er een boekenruil en budgetboekenmarkt bij Leeszaal Rotterdam West. Tussen 13.00 en 17.00 uur mag je swappen en shop je boeken onder de 15 euro. Om 15.00 uur is er een gezellige v ..."
         },
         {
           "title": "Vrouw midden op de weg in Rotterdam in haar auto neergestoken",
@@ -261,18 +592,18 @@
           "description": "In het centrum van Rotterdam is vanochtend een 46-jarige vrouw in haar auto neergestoken. Ze raakte hierbij ernstig gewond en is met spoed naar het ziekenhuis gebracht. Een man van 46 is aangehouden."
         },
         {
-          "title": "Op bezoek bij Sinterklaas: hier in Rotterdam ligt nu een pakjesboot",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/rotterdam/op-bezoek-bij-sinterklaas-hier-in-rotterdam-ligt-nu-een-pakjesboot~aabfac59/",
-          "publishedDate": "Tue, 17 Nov 2026 23:31:00 GMT",
-          "description": "Pieten die pepernoten bakken in de kombuis en een ontmoeting met Sinterklaas in zijn werkkamer. Het gebeurt allemaal tijdens een rondleiding op de pakjesboot, die komende dagen in Rotterdam ligt."
+          "title": "Verdachte Overasselt die naar Marokko vluchtte opgepakt op Rotterdam Airport",
+          "source": "nu",
+          "url": "https://nu.cw/2026/11/18/verdachte-overasselt-die-naar-marokko-vluchtte-opgepakt-op-rotterdam-airport/",
+          "publishedDate": "Wed, 18 Nov 2026 14:55:00 GMT",
+          "description": "Een 22-jarige verdachte van het geweld in Overasselt is dinsdagavond aangehouden op Rotterdam The Hague Airport. De Amsterdammer was al eerder in beeld bij de politie, maar was naar Marokko gevlucht."
         },
         {
-          "title": "Noorse Zeemanskerk in Rotterdam krijgt t&#243;ch hoognodige en grondige restauratie",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/hoeksche-waard/noorse-zeemanskerk-in-rotterdam-krijgt-toch-hoognodige-en-grondige-restauratie~abbb2557/",
-          "publishedDate": "Wed, 18 Nov 2026 08:55:00 GMT",
-          "description": "De kogel is (figuurlijk) door de kerk: de Noorse Zeemanskerk aan de rand van Het Park in Rotterdam krijgt t&#243;ch de opknapbeurt die zo hard nodig is. Met behulp van fondsenwerving door Stadsherstel Rott ..."
+          "title": "Sennon Kastaneer blijft zich inzetten voor Caribische studenten: van Cura&#231;ao tot Rotterdam",
+          "source": "Caribisch Netwerk",
+          "url": "https://caribischnetwerk.ntr.nl/2026/11/18/sennon-kastaneer-blijft-zich-inzetten-voor-caribische-studenten-van-curacao-tot-rotterdam/",
+          "publishedDate": "Wed, 18 Nov 2026 11:19:00 GMT",
+          "description": "Ze vertrok naar Cura&#231;ao om haar kennis en ervaring in te zetten voor jongeren op haar geboorte-eiland. Jaren later koos Sennon Kastaneer (41) opnieuw voor Nederland, ditmaal om zichzelf professioneel ..."
         },
         {
           "title": "25 gemeenten vergeleken: Apeldoorn is de gezondste stad, Rotterdam eindigt helemaal onderaan",
@@ -308,344 +639,6 @@
           "url": "https://www.hartvannederland.nl/112/crime/artikelen/vrouw-neergestoken-auto-gewond-rotterdam-zuidholland",
           "publishedDate": "Wed, 18 Nov 2026 00:00:00 GMT",
           "description": "Een 46-jarige vrouw is in Rotterdam gestoken in haar auto en vervolgens gewond op de rijbaan beland. Een 46-jarige man is aangehouden."
-        },
-        {
-          "title": "Weektips: deze dingen doe je in Rotterdam (17 - 19 november)",
-          "source": "indebuurt",
-          "url": "https://indebuurt.nl/rotterdam/doen/uittips/weektips-deze-dingen-doe-je-in-rotterdam-17-19-november~a29d032d/",
-          "publishedDate": "Mon, 16 Nov 2026 10:45:00 GMT",
-          "description": "Van vallende sterren spotten in het Kralingse Bos en pepernotenkeramiek schilderen tot een magische filmavond met liveorkest in De Doelen: we hoeven ons niet te vervelen. Dit zijn onze weektips voor d ..."
-        }
-      ]
-    },
-    {
-      "keyword": "wie is de nieuwe topper",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "De spanning stijgt: grote kans dat de nieuwe Topper uit deze regio komt",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/de-ronde-venen/de-spanning-stijgt-grote-kans-dat-de-nieuwe-topper-uit-deze-regio-komt~adce1b7f/",
-          "publishedDate": "Tue, 17 Nov 2026 07:30:00 GMT",
-          "description": "De onthulling van de nieuwe Topper is uitgesteld en de spanning stijgt: wie o wie wordt het? Welke zanger staat straks in een glitterpak naast Jeroen van der Boom, Jan Smit en Ren&#233; Froger? En de hamvr ..."
-        },
-        {
-          "title": "De nieuwe Toppers blijven nog even in het donker: fans moeten aan de bak",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/video/cf0c2166-ff55-488b-89cb-008524d4a83f/de-nieuwe-toppers-blijven-nog-even-het-donker",
-          "publishedDate": "Mon, 16 Nov 2026 16:00:00 GMT",
-          "description": "Wie worden de nieuwe Toppers? Het houdt de gemoederen al maanden bezig, maar sinds maandag lijkt er eindelijk licht aan het einde van de glittertunnel. Fans kunnen via de website een lichtje aansteken ..."
-        },
-        {
-          "title": "De Toppers stellen onthulling nieuwe samenstelling uit vanwege Microsoft-storing",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/muziek/6416466/de-toppers-stellen-onthulling-nieuwe-samenstelling-uit-vanwege-microsoft-storing.html",
-          "publishedDate": "Fri, 13 Nov 2026 04:38:00 GMT",
-          "description": "De Toppers hebben de bekendmaking van hun nieuwe samenstelling vrijdag uitgesteld vanwege de wereldwijde Microsoft-storing. Ook het thema voor 2027 zou worden onthuld. De lancering is verschoven naar ..."
-        },
-        {
-          "title": "Fans halen uit naar zoektocht nieuwe Topper: 'Wat een flauwekul!'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/tv/spraakmakend/artikelen/fans-halen-uit-naar-zoektocht-nieuwe-topper",
-          "publishedDate": "Wed, 18 Nov 2026 08:39:00 GMT",
-          "description": "De zoektocht naar een nieuwe Topper na het vertrek van Gerard Joling zorgt voor ergernis bij fans. De mysterieuze filmpjes krijgen flinke kritiek."
-        },
-        {
-          "title": "'Tino Martin volgt Gerard Joling op bij De Toppers'",
-          "source": "WNL",
-          "url": "https://wnl.tv/2026/11/18/tino-martin-volgt-gerard-joling-op-bij-de-toppers",
-          "publishedDate": "Wed, 18 Nov 2026 00:38:00 GMT",
-          "description": "De naam van Martin zingt al weken rond sinds duidelijk werd dat Joling niet langer deel uitmaakt van de formatie. Ook Mart Hoogkamer werd nadrukkelijk genoemd als mogelijke opvolger. Volgens ..."
-        },
-        {
-          "title": "De Toppers lanceren campagne voor onthulling nieuwe formatie",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/de-toppers-lanceren-campagne-voor-onthulling-nieuwe-formatie",
-          "publishedDate": "Mon, 16 Nov 2026 09:27:00 GMT",
-          "description": "De bekendmaking van de nieuwe samenstelling van De Toppers laat nog even op zich wachten. De organisatie achter de zanggroep heeft maandag een landelijke actie gelanceerd. Het idee van de campagne is."
-        },
-        {
-          "title": "Nog geen nieuwe naam Toppers: onthulling laat op zich wachten",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/entertainment/meen-je-niet/nog-geen-nieuwe-naam-toppers/",
-          "publishedDate": "Mon, 16 Nov 2026 09:14:00 GMT",
-          "description": "Wie had gehoopt vandaag te horen wie Gerard Joling (66) opvolgt bij De Toppers, moet nog even geduld hebben. De groep maakte maandag geen namen bekend, maar lanceerde een campagne waarbij fans zelf be ..."
-        },
-        {
-          "title": "Wie worden de nieuwe Toppers? De organisatie heeft iets bijzonders bedacht",
-          "source": "Vriendin",
-          "url": "https://www.vriendin.nl/nieuwtjes/wie-worden-de-nieuwe-toppers/",
-          "publishedDate": "Mon, 16 Nov 2026 07:37:00 GMT",
-          "description": "Al weken wordt er volop gespeculeerd over de nieuwe samenstelling van de Toppers. Er is nu meer bekend over de onthulling."
-        },
-        {
-          "title": "Bekendmaking nieuwe Toppers uitgesteld door storing Microsoft",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/bekendmaking-nieuwe-toppers-uitgesteld-door-storing-microsoft",
-          "publishedDate": "Fri, 13 Nov 2026 04:15:00 GMT",
-          "description": "De nieuwe samenstelling van De Toppers blijft nog even geheim. Door de Microsoft-storing is de bekendmaking uitgesteld naar maandag. Ontdek waarom."
-        },
-        {
-          "title": "Eindelijk tijd voor Toppers-onthulling: ‘Tino Martin is wel een risico’",
-          "source": "Mediacourant",
-          "url": "https://www.mediacourant.nl/2026/11/eindelijk-tijd-voor-toppers-onthulling-tino-martin-is-wel-een-risico/",
-          "publishedDate": "Fri, 13 Nov 2026 01:45:00 GMT",
-          "description": "Het grote geheim van De Toppers wordt onthuld. Volgens RTL Boulevard is vandaag de grote dag waarop de opvolger van Gerard Joling bekend wordt gemaakt. En alle ogen zijn gericht op Tino ..."
-        }
-      ]
-    },
-    {
-      "keyword": "zeiler",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Duiker vist telefoon van zeiler uit water bij Medemblik",
-          "source": "Rodi.nl",
-          "url": "https://www.rodi.nl/medemblik/nieuws/512179/duiker-vist-telefoon-van-zeiler-uit-water-bij-medemblik",
-          "publishedDate": "Wed, 11 Nov 2026 06:56:00 GMT",
-          "description": "MEDEMBLIK – Een zeiler in Medemblik liet zijn telefoon in het water vallen toen hij een foto wilde maken van de reling van zijn boot. Een duiker van Recovery Divers haalde het toestel in &#233;&#233;n duik we.."
-        },
-        {
-          "title": "Zeiler Audio is een nieuw Zwitsers audiobedrijf en voorversterker PR-01 en eindversterker PA-01 zijn de eerste twee producten",
-          "source": "HiFi",
-          "url": "https://hifi.nl/artikel/zeiler-audio-is-een-nieuw-zwitsers-audiobedrijf-en-voorversterker-pr-01-en-eindversterker-pa-01-zijn-de-eerste-twee-producten",
-          "publishedDate": "Mon, 06 Feb 2023 14:20:00 GMT",
-          "description": "Zeiler Audio heeft zijn eerste twee producten gelanceerd. Het in Zwitserland gevestigde audiobedrijf heeft de voorversterker PR-01 en eindversterker PA-01 gelanceerd. Beide toestellen hebben buizen ..."
-        },
-        {
-          "title": "Zeiler in Lichtenvoorde is nu Hofleverancier",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/oost-gelre/zeiler-in-lichtenvoorde-is-nu-hofleverancier~a5a4b896/",
-          "publishedDate": "Sat, 08 Oct 2022 20:59:00 GMT",
-          "description": "Zeiler begon in 1897 als smederij en voegde later machinebouw, ijzerwaren en huishoudelijke artikelen toe. Het bedrijf heeft zich volledig toegelegd op detailhandel en geldt als speciaalzaak op het ..."
-        }
-      ]
-    },
-    {
-      "keyword": "ps5",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "LIVE Lancering GTA 6 | Man boekt hotelkamer om GTA 6 te spelen, PS5 van 1600 euro kan hogere beeldsnelheid ‘nooit aan’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/games/live-lancering-gta-6-man-boekt-hotelkamer-om-gta-6-te-spelen-ps5-van-1600-euro-kan-hogere-beeldsnelheid-nooit-aan~a4971c58/",
-          "publishedDate": "Wed, 18 Nov 2026 08:39:00 GMT",
-          "description": "Grand Theft Auto 6 krijgt op recensiesite Metacritic een (uitzonderlijk) hoge score van 9,9 op basis van circa 150 recensies van professionele gamesites. Daarmee staat de titel op dit moment op gelijk ..."
-        },
-        {
-          "title": "PS5 is vierde PlayStation met 100 miljoen geleverde consoles",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/tweakers/6416345/ps5-is-vierde-playstation-met-100-miljoen-geleverde-consoles.html",
-          "publishedDate": "Thu, 12 Nov 2026 05:06:00 GMT",
-          "description": "Sony heeft wereldwijd meer dan 100 miljoen exemplaren van de PlayStation 5 geleverd. Daarmee is de PS5 de vierde generatie van de spelcomputer die deze grens bereikt."
-        },
-        {
-          "title": "Laatste check: zo zijn je PS5 of Xbox en tv klaar voor GTA VI",
-          "source": "Bright on MSN",
-          "url": "https://www.msn.com/nl-nl/gaming/xbox/laatste-check-zo-zijn-je-ps5-of-xbox-en-tv-klaar-voor-gta-vi/ar-AA2hIefh",
-          "publishedDate": "Wed, 18 Nov 2026 09:10:00 GMT",
-          "description": "Middernacht op 19 november is het zover en kunnen we GTA VI eindelijk gaan spelen. Tijd voor een laatste check, zodat je PS5 of Xbox snel laadt en je tv de juiste settings heeft."
-        },
-        {
-          "title": "GTA 6 gebruikt opvallende techniek om op Xbox Series S te draaien",
-          "source": "IGN Benelux on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/gaming/gta-6-gebruikt-opvallende-techniek-om-op-xbox-series-s-te-draaien/ar-AA2hHmcq",
-          "publishedDate": "Wed, 18 Nov 2026 06:30:00 GMT",
-          "description": "GTA 6 is eindelijk verschenen en laat op alle consoles indrukwekkende technische prestaties zien. Vooral de Xbox Series S is een opvallende prestatie, aangezien Rockstar de game zelfs op de relatief z ..."
-        },
-        {
-          "title": "GTA 6 krijgt nooit 60fps op PS5 Pro: &quot;Console is niet krachtig genoeg&quot;",
-          "source": "IGN Benelux on MSN",
-          "url": "https://www.msn.com/nl-nl/gaming/playstation/gta-6-krijgt-nooit-60fps-op-ps5-pro-console-is-niet-krachtig-genoeg/ar-AA2hHDnh",
-          "publishedDate": "Wed, 18 Nov 2026 05:07:19 GMT",
-          "description": "Er is slecht nieuws voor GTA 6-spelers die hoopten op een 60fps-mode voor de PlayStation 5 Pro. Zelfs Sony's krachtigere console kan de nieuwe game van Rockstar niet op een hogere framerate draaien. D ..."
-        },
-        {
-          "title": "Wacht niet te lang met upgraden van het geheugen van je PS5 - ADV",
-          "source": "IGN Benelux on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/gaming/wacht-niet-te-lang-met-upgraden-van-het-geheugen-van-je-ps5-adv/ar-AA2hAEIg",
-          "publishedDate": "Tue, 17 Nov 2026 01:00:00 GMT",
-          "description": "De PS5 heeft op zich veel opslagruimte, maar er wordt wel erg veel van gevraagd."
-        },
-        {
-          "title": "AMD viert mee nu PS5 enkele dagen voor de lancering van GTA 6 de grens van 100 miljoen verscheepte exemplaren passeert",
-          "source": "notebookcheck",
-          "url": "https://www.notebookcheck.nl/AMD-viert-mee-nu-PS5-enkele-dagen-voor-de-lancering-van-GTA-6-de-grens-van-100-miljoen-verscheepte-exemplaren-passeert.1450987.0.html",
-          "publishedDate": "Sun, 15 Nov 2026 08:45:00 GMT",
-          "description": "Sony heeft meer dan 100 miljoen PlayStation 5-consoles geleverd, waarmee het de vierde PlayStation is die deze mijlpaal bereikt. AMD, dat de chips voor de console levert, vierde dit met een gesigneerd ..."
-        },
-        {
-          "title": "Duck Side of the Moon komt naar PS5 + grote GRATIS update op 17 november",
-          "source": "thatsgaming",
-          "url": "https://thatsgaming.nl/duck-side-of-the-moon-komt-naar-ps5-grote-gratis-update-op-17-november/",
-          "publishedDate": "Wed, 04 Nov 2026 11:50:00 GMT",
-          "description": "De Nederlandse indie-studio Starbrew Games kondigt met veel enthousiasme aan dat Duck Side of the Moon, hun knusse avonturenspel vol ..."
-        },
-        {
-          "title": "Waarschuwing: deze nieuwe PS5-jailbreak werkt zelfs op veel recente consoles",
-          "source": "xgn.nl",
-          "url": "https://www.xgn.nl/nieuws/waarschuwing-deze-nieuwe-ps5-jailbreak-werkt-zelfs-op-veel-recente-consoles",
-          "publishedDate": "Thu, 01 Oct 2026 02:02:00 GMT",
-          "description": "Als je een PS5 hebt, download je waarschijnlijk systeemupdates zodra Sony ze beschikbaar stelt, zonder er veel bij stil te staan wat ze precies doen. Wat je misschien niet weet, is dat deze updates ..."
-        },
-        {
-          "title": "GTA 6-fans opgelet: deze pre-order kan je zomaar een gratis PS5 Pro bezorgen",
-          "source": "xgn.nl",
-          "url": "https://www.xgn.nl/nieuws/gta-6-fans-opgelet-deze-pre-order-kan-je-zomaar-een-gratis-ps5-pro-bezorgen",
-          "publishedDate": "Fri, 28 Aug 2026 01:07:00 GMT",
-          "description": "Wie van plan is om GTA 6 voor de PS5 te pre-orderen, kan daar binnenkort mogelijk meer aan overhouden dan d&#233; game van het najaar (lees: GTA VI). Bol heeft namelijk een nieuwe winactie opgezet waarbij ..."
-        }
-      ]
-    },
-    {
-      "keyword": "playstation 5",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "LIVE Lancering GTA 6 | Man boekt hotelkamer om GTA 6 te spelen, PS5 van 1600 euro kan hogere beeldsnelheid ‘nooit aan’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/games/live-lancering-gta-6-man-boekt-hotelkamer-om-gta-6-te-spelen-ps5-van-1600-euro-kan-hogere-beeldsnelheid-nooit-aan~a4971c58/",
-          "publishedDate": "Wed, 18 Nov 2026 08:39:00 GMT",
-          "description": "Grand Theft Auto 6 krijgt op recensiesite Metacritic een (uitzonderlijk) hoge score van 9,9 op basis van circa 150 recensies van professionele gamesites. Daarmee staat de titel op dit moment op gelijk ..."
-        },
-        {
-          "title": "Sony wint Britse rechtszaak over commissie PlayStation Store",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/tweakers/6416947/sony-wint-britse-rechtszaak-over-commissie-playstation-store.html",
-          "publishedDate": "Wed, 18 Nov 2026 00:22:00 GMT",
-          "description": "Sony heeft een Britse rechtszaak gewonnen over de commissie van 30 procent in de PlayStation Store. Volgens de rechter betalen consumenten daardoor niet aantoonbaar te veel."
-        },
-        {
-          "title": "PS5 is vierde PlayStation met 100 miljoen geleverde consoles",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/tweakers/6416345/ps5-is-vierde-playstation-met-100-miljoen-geleverde-consoles.html",
-          "publishedDate": "Thu, 12 Nov 2026 05:06:00 GMT",
-          "description": "Sony heeft wereldwijd meer dan 100 miljoen exemplaren van de PlayStation 5 geleverd. Daarmee is de PS5 de vierde generatie van de spelcomputer die deze grens bereikt."
-        },
-        {
-          "title": "Flinke Black Friday-korting op Playstation Plus-jaarabonnementen",
-          "source": "IGN Benelux on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/gaming/flinke-black-friday-korting-op-playstation-plus-jaarabonnementen/ar-AA2hxhiu",
-          "publishedDate": "Mon, 16 Nov 2026 04:30:00 GMT",
-          "description": "Het is weer zover: PlayStations Black Friday-aanbiedingen zijn er."
-        },
-        {
-          "title": "PlayStation 5 bereikt 100 miljoen verkochte exemplaren vlak voor release van GTA 6",
-          "source": "IGN Benelux",
-          "url": "https://nl.ign.com/playstation-5/168373/playstation-5-bereikt-100-miljoen-verkochte-exemplaren-vlak-voor-release-van-gta-6",
-          "publishedDate": "Fri, 13 Nov 2026 03:30:00 GMT",
-          "description": "Sony heeft bekendgemaakt dat er inmiddels meer dan 100 miljoen exemplaren van de PlayStation 5 zijn verscheept. De console bereikt deze mijlpaal vlak voor de release van GTA 6, waarvan wordt verwacht ..."
-        },
-        {
-          "title": "PlayStation 5 bereikt indrukwekkende mijlpaal, ondanks sterk gedaalde verkoop",
-          "source": "Bright on MSN",
-          "url": "https://www.msn.com/nl-nl/gaming/playstation/playstation-5-bereikt-indrukwekkende-mijlpaal-ondanks-sterk-gedaalde-verkoop/ar-AA2hiFi0",
-          "publishedDate": "Thu, 12 Nov 2026 05:23:14 GMT",
-          "description": "Ondanks teruglopende verkopen kan Sony een verkoopfeestje vieren. Het bedrijf heeft namelijk bekendgemaakt dat het inmiddels meer dan 100 miljoen PlayStation 5-consoles heeft geleverd. Daarmee is de P ..."
-        },
-        {
-          "title": "PlayStation 5 passeert grens van 100 miljoen verkochte exemplaren",
-          "source": "Gamingnation",
-          "url": "https://gamingnation.nl/playstation-5-passeert-grens-van-100-miljoen-verkochte-exemplaren/",
-          "publishedDate": "Thu, 12 Nov 2026 05:02:00 GMT",
-          "description": "De PlayStation 5 heeft de grens van 100 miljoen exemplaren gepasseerd. Sony bereikt de mijlpaal bijna zes jaar na de release."
-        },
-        {
-          "title": "PS5 wordt vierde PlayStation met 100 miljoen geleverde consoles",
-          "source": "Tweakers",
-          "url": "https://tweakers.net/nieuws/254434/ps5-wordt-vierde-playstation-met-100-miljoen-geleverde-consoles.html",
-          "publishedDate": "Thu, 12 Nov 2026 01:56:00 GMT",
-          "description": "Sony heeft meer dan honderd miljoen exemplaren geleverd van de PlayStation 5. Dat heeft het bedrijf bevestigd. Er zijn enkele PlayStation-generaties waarvan de totale leveringen nog hoger liggen."
-        },
-        {
-          "title": "PlayStation 5 bereikt bijna zes jaar na de lancering 100 miljoen verscheepte exemplaren",
-          "source": "notebookcheck",
-          "url": "https://www.notebookcheck.nl/PlayStation-5-bereikt-bijna-zes-jaar-na-de-lancering-100-miljoen-verscheepte-exemplaren.1448313.0.html",
-          "publishedDate": "Wed, 11 Nov 2026 19:10:00 GMT",
-          "description": "Sony heeft bevestigd dat er op 10 november 2026 wereldwijd meer dan 100 miljoen exemplaren van de PlayStation 5 zijn verscheept, bijna zes jaar na de lancering van de console. De mijlpaal wordt kort v ..."
-        },
-        {
-          "title": "Sony brengt nieuwe PlayStation Portal met extra opslag voor ‘toekomstige functies’ enkel uit in Japan",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/playstation/sony-brengt-nieuwe-playstation-portal-met-extra-opslag-voor-toekomstige-functies-enkel-uit-in-japan~ab659492/",
-          "publishedDate": "Tue, 10 Nov 2026 03:00:00 GMT",
-          "description": "Sony brengt op 10 december in Japan een nieuwe versie van de PlayStation Portal uit. Deze handheld draait net zoals de bestaande variant geen lokale games, maar streamt ze via een PlayStation 5-consol ..."
-        }
-      ]
-    },
-    {
-      "keyword": "ongeval",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Ongeval met letsel op Overtoom in Amsterdam, traumahelikopter gealarmeerd",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-amsterdam/ongeval-met-letsel-op-overtoom-in-amsterdam-traumahelikopter-gealarmeerd~a10137fa/",
-          "publishedDate": "Sat, 14 Nov 2026 17:36:00 GMT",
-          "description": "De hulpdiensten zijn in de nacht van zaterdag op zondag uitgerukt voor een zwaar ongeval met letsel aan Overtoom in Amsterdam. Behalve een ambulance is ook een traumahelikopter gealarmeerd."
-        },
-        {
-          "title": "Acht mensen naar ziekenhuis na ernstig ongeval met vier auto's in Zuid-Holland",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/binnenland/6415594/acht-mensen-naar-ziekenhuis-na-ernstig-ongeval-met-vier-autos-in-zuid-holland.html",
-          "publishedDate": "Thu, 05 Nov 2026 05:08:00 GMT",
-          "description": "Hulpdiensten zijn donderdag massaal uitgerukt voor een zwaar ongeval met vier voertuigen op de N209 bij Hazerswoude-Dorp. Acht mensen moesten naar het ziekenhuis. Twee van hen zijn zwaargewond."
-        },
-        {
-          "title": "Ongeval met letsel op Asterlo in Rotterdam",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/zuid-holland/rotterdam-rijnmond/rotterdam/56117801/p2000-politie-naar-asterlo-in-rotterdam-voor-ongeval-met-letsel.html",
-          "publishedDate": "Wed, 18 Nov 2026 07:06:00 GMT",
-          "description": "De hulpdiensten zijn woensdagmiddag uitgerukt voor een ongeval met letsel aan Asterlo in Rotterdam. De melding kwam vlak na drie uur 's middags bij de alarmcentrale binnen. Hulpdiensten zijn naar de l ..."
-        },
-        {
-          "title": "Fietser (43) raakt ernstig gewond bij ongeval met trekker in Kampen",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/kampen/fietser-43-raakt-ernstig-gewond-bij-ongeval-met-trekker-in-kampen~a34dc724/",
-          "publishedDate": "Wed, 18 Nov 2026 05:47:00 GMT",
-          "description": "Een 43-jarige man raakte dinsdagmiddag ernstig gewond bij een ongeval met een tractor in Kampen. Hij zat zelf op een fiets."
-        },
-        {
-          "title": "Vrouw raakt gewond bij ongeval in Oss: auto belandt tegen lantaarnpaal",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/112-nieuws-oss/vrouw-raakt-gewond-bij-ongeval-in-oss-auto-belandt-tegen-lantaarnpaal~adad223c/",
-          "publishedDate": "Wed, 18 Nov 2026 05:29:00 GMT",
-          "description": "Een vrouw is woensdagmiddag gewond geraakt bij een ongeval op de kruising van de Heihoekstraat en het Bosschepad in Oss. Het slachtoffer is nagekeken in een ambulance."
-        },
-        {
-          "title": "Ongeval met letsel op Aartserfweg in Grubbenvorst",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/limburg/limburg-noord/grubbenvorst/56116008/p2000-politie-naar-aartserfweg-in-grubbenvorst-voor-ongeval-met-letsel.html",
-          "publishedDate": "Wed, 18 Nov 2026 00:54:00 GMT",
-          "description": "De hulpdiensten zijn woensdagochtend uitgerukt voor een ongeval met letsel aan de Aartserfweg in Grubbenvorst."
-        },
-        {
-          "title": "Ongeval met letsel op Henric Spieghelstraat in Den Bosch",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/112-nieuws-den-bosch/ongeval-met-letsel-op-henric-spieghelstraat-in-den-bosch~aa0c5e87/",
-          "publishedDate": "Wed, 18 Nov 2026 00:33:00 GMT",
-          "description": "De hulpdiensten zijn woensdagochtend uitgerukt voor een ongeval met letsel op de kruising van de Henric Spieghelstraat en Zuiderparkweg in Den Bosch."
-        },
-        {
-          "title": "Ongeval met letsel op Grundellaan in Hengelo",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/112-nieuws-hengelo/ongeval-met-letsel-op-grundellaan-in-hengelo~a849227a/",
-          "publishedDate": "Wed, 18 Nov 2026 00:25:00 GMT",
-          "description": "De hulpdiensten zijn woensdagochtend uitgerukt voor een ongeval met letsel op de kruising van Grundellaan en Enschedesestraat in Hengelo."
-        },
-        {
-          "title": "Zeker drie gewonden bij ongeval tussen bestelbus en auto in Almere",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/112-nieuws-almere/zeker-drie-gewonden-bij-ongeval-tussen-bestelbus-en-auto-in-almere~af4b4bd8/",
-          "publishedDate": "Mon, 16 Nov 2026 14:07:00 GMT",
-          "description": "Bij een ongeval tussen een bestelbus en een personenauto op de Audioweg in Almere zijn maandagavond zeker drie mensen gewond geraakt. Dat meldt de politie. Vijf ambulances kwamen naar de plek van het ..."
-        },
-        {
-          "title": "Ongeval met letsel op Langstraat in Halsteren",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/112-nieuws-bergen-op-zoom/ongeval-met-letsel-op-langstraat-in-halsteren~a8d0e97d/",
-          "publishedDate": "Mon, 16 Nov 2026 08:41:00 GMT",
-          "description": "De brandweer is de afgelopen 30 dagen 17 keer naar Halsteren gestuurd. De ambulance werd in die periode 106 keer gealarmeerd. Meer artikelen over de inzet van de hulpdiensten lees je in onze sectie ..."
         }
       ]
     }
