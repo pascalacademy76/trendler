@@ -1,389 +1,161 @@
 {
-  "fetchedAt": "2026-11-19T14:35:46.385Z",
+  "fetchedAt": "2026-11-19T22:31:21.394Z",
   "trends": [
     {
-      "keyword": "zilveren kruis",
-      "trafficLabel": "50K+",
+      "keyword": "anthropic stock",
+      "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
+          "title": "Anthropic prijst aandeel op 83 dollar voor grootste beursgang ooit",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/economie/anthropic-prijst-aandeel-op-83-dollar-voor-grootste-beursgang-ooit~a00cf077/",
+          "publishedDate": "Thu, 19 Nov 2026 00:16:00 GMT",
+          "description": "AI-bedrijf Anthropic gaat bij zijn beursgang in New York op donderdag aandelen uitgeven voor een prijs van 83 dollar per stuk. Daarmee wordt dan 81,3 miljard dollar opgehaald met de aandelenverkoop. B ..."
+        },
+        {
+          "title": "Anthropic becomes most valuable AI firm as shares soar in stock market debut",
+          "source": "BBC on MSN",
+          "url": "https://www.msn.com/en-xl/news/other/anthropic-becomes-most-valuable-ai-firm-as-shares-soar-in-stock-market-debut/ar-AA2hNOGL",
+          "publishedDate": "Thu, 19 Nov 2026 13:38:42 GMT",
+          "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+        },
+        {
+          "title": "Anthropic IPO Live: Stock Closes Day At $97—Up More Than 17%",
+          "source": "Forbes on MSN",
+          "url": "https://www.msn.com/en-us/news/other/anthropic-ipo-live-stock-closes-day-at-97-up-more-than-17/ar-AA2hJbNW",
+          "publishedDate": "Thu, 19 Nov 2026 13:08:56 GMT",
+          "description": "Anthropic shares started trading shortly before noon."
+        },
+        {
+          "title": "Anthropic makes stock market debut: Who stands to gain from the blockbuster IPO?",
+          "source": "Fox Business",
+          "url": "https://www.foxbusiness.com/markets/anthropic-makes-stock-market-debut-who-could-gain-from-blockbuster-ipo",
+          "publishedDate": "Thu, 19 Nov 2026 12:02:00 GMT",
+          "description": "Anthropic stock is now on the Nasdaq under ticker ANT, and experts say index funds and 401(k) plans could soon give Americans exposure to the AI developer."
+        },
+        {
+          "title": "Following Anthropic’s Massive IPO, This Is the Number AI Leaders Are Watching Carefully—And It’s Not the Stock Price",
+          "source": "Inc.com",
+          "url": "https://www.inc.com/aaron-mok/following-anthropics-massive-ipo-this-is-the-number-ai-leaders-are-watching-carefully-and-its-not-the-stock-price/91438378",
+          "publishedDate": "Thu, 19 Nov 2026 11:37:00 GMT",
+          "description": "Anthropic’s IPO, the largest public offering in history, could be a win for other AI startups if the company’s push to make money sends customers looking for alternatives."
+        },
+        {
+          "title": "Voeg toe als voorkeursbron op Google",
+          "source": "aiwereld",
+          "url": "https://aiwereld.nl/nieuws/anthropic-beursgang-ipo-nasdaq-ant-prijs-cijfers-2026",
+          "publishedDate": "Thu, 19 Nov 2026 10:14:00 GMT",
+          "description": "Anthropic gaat voor 83 dollar per aandeel naar Nasdaq. Lees hoe de IPO van 81,34 miljard dollar werkt, wat Claude verdient en wie de macht houdt."
+        },
+        {
+          "title": "Should You Buy Anthropic Stock Now That It's Public?",
+          "source": "The Motley Fool on MSN",
+          "url": "https://www.msn.com/en-us/news/other/should-you-buy-anthropic-stock-now-that-its-public/ar-AA2hMX19",
+          "publishedDate": "Thu, 19 Nov 2026 09:58:21 GMT",
+          "description": "Anthropic could become a great company without being a great investment at today’s prices. Here’s why patience may pay off."
+        },
+        {
+          "title": "Wordt dit de grootste beursgang ooit? AI-bedrijf Anthropic vandaag naar de beurs",
+          "source": "VRT on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/wordt-dit-de-grootste-beursgang-ooit-ai-bedrijf-anthropic-vandaag-naar-de-beurs/ar-AA2hJQmo",
+          "publishedDate": "Thu, 19 Nov 2026 07:30:00 GMT",
+          "description": "AI is overal, maar levert de technologie ook genoeg geld op om de torenhoge verwachtingen waar te maken? Anthropic, het bedrijf achter chatbot Claude, trekt vandaag naar de beurs. Met 76 euro per aand ..."
+        },
+        {
+          "title": "I’m Buying Anthropic Stock, Just Not on Day 1. Here’s My Plan.",
+          "source": "AOL",
+          "url": "https://www.aol.com/articles/m-buying-anthropic-stock-just-150602000.html",
+          "publishedDate": "Thu, 19 Nov 2026 07:06:00 GMT",
+          "description": "Anthropic (NASDAQ:ANT), the company behind the Claude AI models, is set to begin trading on the Nasdaq today under the ticker ANT. It's one of the most anticipated IPOs in history, and the final ..."
+        },
+        {
+          "title": "Liveblog: Anthropic-aandeel levert winst in na spectaculaire beursopening",
+          "source": "Newsbit",
+          "url": "https://newsbit.nl/liveblog-anthropic-schrijft-vandaag-geschiedenis-met-grootste-beursgang-ooit/",
+          "publishedDate": "Thu, 19 Nov 2026 00:41:00 GMT",
+          "description": "Anthropic gaat vandaag naar de beurs en kan geschiedenis schrijven met de grootste beursgang ooit. Volg de eerste koers en alle ontwikkelingen live."
+        }
+      ]
+    },
+    {
+      "keyword": "emma kok",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Emma Kok vond het ‘heel spannend’ om lichaam aan vriend te laten zien, maar zijn reactie geeft veel steun",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/emma-kok-vond-het-heel-spannend-om-lichaam-aan-vriend-te-laten-zien-maar-zijn-reactie-geeft-veel-steun~a5080b29/",
+          "publishedDate": "Thu, 19 Nov 2026 11:41:00 GMT",
+          "description": "Zangeres Emma Kok (18) vindt het erg fijn dat haar vriend haar lichaam mooi vindt zoals het is. Ze zou het hebben begrepen als dat niet zo was, zegt ze donderdag openhartig in een nieuw interview. Daa ..."
+        },
+        {
+          "title": "Emma Kok overwint onzekerheid over lichaam dankzij vriend Stilanos",
           "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door-tekort-aan-zorgbudget/ar-AA2hISQf",
-          "publishedDate": "Wed, 18 Nov 2026 09:43:47 GMT",
-          "description": "Klanten van Zilveren Kruis kunnen bij meerdere ziekenhuizen tot het einde van het jaar niet meer terecht voor nieuwe, planbare zorg. De reden is geld: ziekenhuizen zeggen dat het afgesproken budget va ..."
+          "url": "https://www.msn.com/nl-nl/nieuws/other/emma-kok-overwint-onzekerheid-over-lichaam-dankzij-vriend-stilanos/ar-AA2hKYKa",
+          "publishedDate": "Thu, 19 Nov 2026 00:53:17 GMT",
+          "description": "De liefde doet Emma Kok (18) goed. De zangeres, die vanwege haar ziekte afhankelijk is van sondevoeding, heeft jarenlang geworsteld met onzekerheden over haar lichaam. Sinds ze een relatie heeft met h ..."
         },
         {
-          "title": "Meerdere ziekenhuizen weigeren klanten van Zilveren Kruis, FBTO en Interpolis: verzekeraars ‘betalen niet genoeg’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/meerdere-ziekenhuizen-weigeren-klanten-van-zilveren-kruis-fbto-en-interpolis-verzekeraars-betalen-niet-genoeg~ae3ecf24/",
-          "publishedDate": "Wed, 18 Nov 2026 09:25:00 GMT",
-          "description": "Mensen die een zorgverzekering bij Zilveren Kruis hebben, kunnen tot het einde van het jaar niet terecht bij een aantal ziekenhuizen. Die hebben een tijdelijke pati&#235;ntenstop afgekondigd. Ze vinden dat ..."
-        },
-        {
-          "title": "Ook pati&#235;ntenstop bij klinieken en zbc’s",
-          "source": "Skipr",
-          "url": "https://www.skipr.nl/nieuws/ook-patientenstop-bij-klinieken-en-zbcs/",
-          "publishedDate": "Thu, 19 Nov 2026 05:43:00 GMT",
-          "description": "Bij een aantal klinieken is onvoldoende zorg gecontracteerd door Zilveren Kruis en een deel van hen voert daarom een pati&#235;ntenstop door."
-        },
-        {
-          "title": "Zilveren Kruis: AOW'ers met tandartsen verzekeringen gaan in 2027 75 euro meer betalen",
-          "source": "De Dagelijkse Standaard",
-          "url": "https://www.dagelijksestandaard.nl/economie/zilveren-kruis-tandarts-verzekering-duurder",
-          "publishedDate": "Thu, 19 Nov 2026 02:00:00 GMT",
-          "description": "In 2027 gaan klanten van Zilveren Kruis met een uitgebreide tandartsverzekering tot 75 euro per jaar meer betalen. Voor 30-plussers gaat het pakket met vier sterren van 64,25 euro naar 70,50 per maand ..."
-        },
-        {
-          "title": "Zilveren Kruis-klanten getroffen door pati&#235;ntenstop bij 3 ziekenhuizen: zorgbudget is op",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
-          "publishedDate": "Thu, 19 Nov 2026 01:06:00 GMT",
-          "description": "Verzekerden van Zilveren Kruis kunnen bij meerdere ziekenhuizen voorlopig geen nieuwe, planbare behandeling starten. Volgens de ziekenhuizen is het afgesproken zorgbudget ontoereikend. Pati&#235;nten ..."
-        },
-        {
-          "title": "Verzekerden Zilveren Kruis kunnen volgend jaar pas terecht bij Alrijne ziekenhuis",
-          "source": "Het Financieele Dagblad",
-          "url": "https://fd.nl/samenleving/1620004/verzekerden-zilveren-kruis-kunnen-volgend-jaar-pas-terecht-bij-alrijne-ziekenhuis",
-          "publishedDate": "Wed, 18 Nov 2026 08:48:00 GMT",
-          "description": "U heeft browser notificaties voor fd.nl eerder geweigerd. Ga naar browser instellingen en sta browser notificaties toe voor fd.nl. De precieze handelingen zijn afhankelijk van uw browser."
-        },
-        {
-          "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/algemeen/ziekenhuizen-nemen-deel-klanten-zilveren-kruis-tijdelijk-niet-op",
-          "publishedDate": "Wed, 18 Nov 2026 08:26:00 GMT",
-          "description": "LEIDEN (ANP) - Sommige mensen die een zorgverzekering bij Zilveren Kruis hebben, kunnen tot het einde van het jaar niet terecht bij een paar ziekenhuizen. Die hebben een tijdelijke pati&#235;ntenstop afgek ..."
-        },
-        {
-          "title": "Achmea legt €400 miljoen bij, CZ €20 miljoen",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/samenleving/je-buurman-bij-zilveren-kruis-betaalt-eur570-meer-jij-bij-cz-eur1726-het-verschil-komt-uit-de-spaarpot-van-je-verzekeraa",
-          "publishedDate": "Sat, 14 Nov 2026 02:36:00 GMT",
-          "description": "Je buurman heeft de Basis Zeker-polis van Zilveren Kruis en gaat in 2027 €164,95 per maand betalen. Dat is €5,70 meer dan nu. Jij zit bij CZ op de Zorg-op-maatpolis en gaat €17,26 omhoog, naar €177,25 ..."
-        },
-        {
-          "title": "Zorgpremie Zilveren Kruis 2027 stijgt gemiddeld met 4,4%",
-          "source": "Independer Weblog",
-          "url": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-zilveren-kruis-2027-stijgt-gemiddeld-met-44/",
-          "publishedDate": "Thu, 12 Nov 2026 16:27:00 GMT",
-          "description": "Zilveren Kruis heeft de nieuwe zorgpremies voor 2027 bekendgemaakt. Goed nieuws: de stijging valt mee. Waar vooraf een gemiddelde stijging van € 12,50 per maand werd verwacht, stijgen de prijzen bij ..."
-        },
-        {
-          "title": "Meerdere ziekenhuizen kunnen tot eind 2026 geen verzekerden van Zilveren Kruis meer aannemen",
-          "source": "Nationale Zorggids",
-          "url": "https://www.nationalezorggids.nl/zorgverzekering/meerdere-ziekenhuizen-kunnen-tot-eind-2026-geen-verzekerden-van-zilveren-kruis-meer-aannemen/",
-          "publishedDate": "Wed, 21 Oct 2026 17:00:00 GMT",
-          "description": "Meerdere ziekenhuizen hebben een pati&#235;ntenstop ingevoerd voor verzekerden van Zilveren Kruis. Zij hebben hun budgetplafond bereikt en krijgen geen extra geld om nieuwe pati&#235;nten ..."
-        }
-      ]
-    },
-    {
-      "keyword": "ramon van asch",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Wie is Ramon van Asch, de geroyeerde FvD’er die opdook bij een neonazistisch vechttoernooi?",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/den-bosch/wie-is-ramon-van-asch-de-geroyeerde-fvder-die-opdook-bij-een-neonazistisch-vechttoernooi~a57f6112/",
-          "publishedDate": "Wed, 18 Nov 2026 17:00:00 GMT",
-          "description": "Inwoners Hintham praten in Rosmalen over veiligheid in hun wijk Inwoners Hintham praten in Rosmalen over veiligheid in hun wijk Verkeerscontrole in Den Bosch: meerdere boetes en bijna een ton aan acht ..."
-        },
-        {
-          "title": "FVD royeert twee leden na Zembla-uitzending over neonazi's en Hitler-verering",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2640076-fvd-royeert-twee-leden-na-zembla-uitzending-over-neonazi-s-en-hitler-verering",
-          "publishedDate": "Wed, 18 Nov 2026 11:48:00 GMT",
-          "description": "Onder anderen Ramon van Asch, FVD-fractievoorzitter in de gemeenteraad van Den Bosch, is door de partij gemaand om op te stappen. Hij heeft daar gehoor aan gegeven."
-        },
-        {
-          "title": "FVD royeert partijprominent van Asch en Luc K.",
-          "source": "BNNVARA",
-          "url": "https://www.bnnvara.nl/zembla/artikelen/fvd-royeert-partijprominent-van-asch-en-luc-k",
-          "publishedDate": "Wed, 18 Nov 2026 11:08:00 GMT",
-          "description": "Het partijbestuur van Forum voor Democratie heeft partijprominent Ramon van Asch geroyeerd en gevraagd op te stappen als fractievoorzitter van FVD in Den Bosch. Dat maakte FVD zojuist bekend, anderhal ..."
-        },
-        {
-          "title": "Nauwe banden tussen FVD en neonazistische vechtclubs, blijkt uit reportage Zembla",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/11/18/zembla-toont-nauwe-banden-tussen-fvd-en-neonazistische-vechtclubs-a4941770",
-          "publishedDate": "Wed, 18 Nov 2026 10:22:00 GMT",
-          "description": "Extreemrechts: FVD-gemeenteraadslid Ramon van Asch uit Den Bosch bezocht een vechttoernooi van neonazi’s. En leden van de jongerentak JFVD namen zelf deel aan deze toernooien, blijkt uit onderzoek van ..."
-        },
-        {
-          "title": "Van Weel wil harde actie van FVD na onthullingen over neonazistische vechtclubs",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/politiek/beleid/artikelen/van-weel-wil-harde-actie-van-fvd-na-onthullingen-over-neonazistische-vechtc",
-          "publishedDate": "Thu, 19 Nov 2026 05:56:00 GMT",
-          "description": "Van Weel wil dat FVD harde actie onderneemt naar aanleiding van onthullingen in Zembla. Op beelden is te zien hoe FVD'ers actief waren bij neonazistische vechtclubs."
-        },
-        {
-          "title": "Vandaag (19 november) om 11:30",
-          "source": "Omroep Brabant",
-          "url": "https://www.omroepbrabant.nl/nieuws/6035409/mishandeling-vechtpartij-en-hitler-verering-vaker-ophef-om-ramon-van-asch",
-          "publishedDate": "Thu, 19 Nov 2026 03:30:00 GMT",
-          "description": "De aanwezigheid van Ramon van Asch bij een vechtwedstrijd van neonazi's kostte hem woensdag zijn plek als raadslid voor Forum voor Democratie (FVD) in Den Bosch. Bij het vechttoernooi in Oeffelt waar ..."
-        },
-        {
-          "title": "Jack Mikkers geschrokken van beelden Zembla: ‘Raadsleden hebben een voorbeeldfunctie’",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/den-bosch/jack-mikkers-geschrokken-van-beelden-zembla-raadsleden-hebben-een-voorbeeldfunctie~a3d76436/",
-          "publishedDate": "Thu, 19 Nov 2026 01:51:00 GMT",
-          "description": "Burgemeester Jack Mikkers van Den Bosch is geschrokken van de beelden van neonazistische vechttoernooien die onderzoeksprogramma Zembla woensdag naar buiten bracht. Bij een van die bijeenkomsten was o ..."
-        },
-        {
-          "title": "Lokale fractieleider in Nederland uit partij gezet na ‘Pano’-reportage over neonazistische vechtclubs",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/buitenland/lokale-fractieleider-in-nederland-uit-partij-gezet-na-pano-reportage-over-neonazistische-vechtclubs~a2ad5cae/",
-          "publishedDate": "Thu, 19 Nov 2026 01:18:00 GMT",
-          "description": "Ramon van Asch, fractievoorzitter van het rechts-populistische Forum voor Democratie (FVD) in de gemeenteraad van Den Bosch, is uit de partij gezet. Hij stopt ook als gemeenteraadslid. Dat meldt de pa ..."
-        },
-        {
-          "title": "FvD schopt Van Asch uit partij na Zembla-docu, ook wiskundedocent op non-actief",
-          "source": "PowNed",
-          "url": "https://www.powned.tv/article/fv-d-schopt-van-asch-uit-partij-na-zembla-docu-ook-wiskundedocent-op-non-actief~7014/",
-          "publishedDate": "Wed, 18 Nov 2026 16:01:00 GMT",
-          "description": "Wat misschien ook wel schokkend was, was dat de 'kooigevechten' gefaciliteerd werden door ene Egbert B., een wiskundedocent. Hij stelde zijn erf in Zuidwolde beschikbaar voor een zogenoemde 'fight ..."
-        },
-        {
-          "title": "FVD-raadslid stapt op na bezoek aan neonazistisch vechttoernooi",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/politiek/beleid/artikelen/den-bosch-fvd-fractievoorzitter-stapt-op-na-onthulling-zembla",
-          "publishedDate": "Wed, 18 Nov 2026 12:12:00 GMT",
-          "description": "Ramon van Asch, FVD-fractievoorzitter in Den Bosch, stapt op. Hij was volgens Zembla aanwezig bij een vechttoernooi van neonazistische vechtclubs."
-        }
-      ]
-    },
-    {
-      "keyword": "ontslag",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "‘Ernstig fysiek beperkte’ medewerker McDonald’s stapt na bezoek bedrijfsarts uit rolstoel: ontslag volgens rechter terecht",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/ernstig-fysiek-beperkte-medewerker-mcdonald-s-stapt-na-bezoek-bedrijfsarts-uit-rolstoel-ontslag-volgens-rechter-terecht~bbf15f13/",
-          "publishedDate": "Wed, 18 Nov 2026 09:35:00 GMT",
-          "description": "Een medewerker van een filiaal van McDonald’s is volgens de Amsterdamse kantonrechter terecht op staande voet ontslagen. De man gaf bij de bedrijfsarts aan dat hij ernstig fysiek beperkt was, maar uit ..."
-        },
-        {
-          "title": "Surinaamse justitieminister neemt ontslag; positie onhoudbaar",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/buitenland/surinaamse-justitieminister-neemt-ontslag-positie-onhoudbaar~bad2b435/",
-          "publishedDate": "Sun, 15 Nov 2026 01:44:00 GMT",
-          "description": "In Suriname heeft justitieminister Harish Monorath ontslag genomen. Vanaf maandag zit hij niet meer in de regering, meldt de voorlichtingsdienst zaterdag. President Jennifer Geerlings-Simons kondigde ..."
-        },
-        {
-          "title": "Minister van Justitie van Suriname neemt ontslag",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2639510-minister-van-justitie-van-suriname-neemt-ontslag",
-          "publishedDate": "Sat, 14 Nov 2026 11:14:00 GMT",
-          "description": "Dat komt niet als een verrassing, donderdag kondigde president Simons al aan dat Harish Monorath zou opstappen, omdat zijn positie onhoudbaar was geworden."
-        },
-        {
-          "title": "Indonesische vicepresident Gibran dient ontslag in na ophef over middelbareschooldiploma",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/indonesische-vicepresident-gibran-dient-ontslag-in-na-ophef-over-middelbareschooldiploma~a9368e91/",
-          "publishedDate": "Thu, 12 Nov 2026 10:34:00 GMT",
-          "description": "De Indonesische vicepresident Gibran Rakabuming Raka heeft donderdag zijn ontslag ingediend bij het hogerhuis van het parlement. Zijn positie stond onder druk nadat ophef was ontstaan over zijn in het ..."
-        },
-        {
-          "title": "Belgische koning accepteert ontslag regering niet, onderhandeling over begroting hervat",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2638286-belgische-koning-accepteert-ontslag-regering-niet-onderhandeling-over-begroting-hervat",
-          "publishedDate": "Fri, 06 Nov 2026 04:57:00 GMT",
-          "description": "De Belgische koning Filip heeft het ontslag van het kabinet van premier De Wever geweigerd. Maandag bood de premier zijn ontslag aan nadat maandenlange coalitieonderhandelingen over de begroting waren ..."
-        },
-        {
-          "title": "3M in Zwijndrecht kondigt stopzetting aan, collectief ontslag voor zo'n 200 werknemers",
-          "source": "TV OOST",
-          "url": "https://www.tvoost.be/nieuws/3m-in-zwijndrecht-kondigt-stopzetting-aan-collectief-ontslag-voor-zon-200-werknemers-215941",
-          "publishedDate": "Thu, 19 Nov 2026 02:19:00 GMT",
-          "description": "Tijdens een bijzondere ondernemingsraad donderdagvoormiddag heeft de directie van 3M in Zwijndrecht de intentie tot collectief ontslag aangekondigd. Tegen 2029 ..."
-        },
-        {
-          "title": "Deel van Franstalige magistraten vraagt ontslag minister van Justitie Verlinden",
-          "source": "BRUZZ",
-          "url": "https://www.bruzz.be/actua/justitie/deel-van-franstalige-magistraten-vraagt-ontslag-minister-van-justitie-verlinden-2026-11-19",
-          "publishedDate": "Wed, 18 Nov 2026 16:01:00 GMT",
-          "description": "In een brief aan het College van procureurs-generaal vraagt de Franstalige belangenvereniging voor magistraten (ASM) het ontslag van minister van Justitie Annelies Verlinden (CD&amp;V)."
-        },
-        {
-          "title": "Ontslag Monorath definitief bekrachtigd: vanaf maandag geen minister meer",
-          "source": "Waterkant.net",
-          "url": "https://www.waterkant.net/suriname/2026/11/14/ontslag-monorath-definitief-bekrachtigd-vanaf-maandag-geen-minister-meer/",
-          "publishedDate": "Sat, 14 Nov 2026 14:53:00 GMT",
-          "description": "Het vertrek van Harish Monorath als minister van Justitie en Veiligheid is nu officieel een feit. De bewindsman heeft vrijdag 13 november zijn ontslag ..."
-        },
-        {
-          "title": "Ontslag minister Monorath officieel bekrachtigd, vertrek gaat maandag in",
-          "source": "Suriname Herald",
-          "url": "https://www.srherald.com/suriname/2026/11/14/ontslag-minister-monorath-officieel-bekrachtigd-vertrek-gaat-maandag-in/",
-          "publishedDate": "Sat, 14 Nov 2026 07:29:00 GMT",
-          "description": "Het ontslag van minister Harish Monorath van Justitie en Veiligheid (JuVe) is officieel bekrachtigd. De bewindsman diende vrijdag 13 november zijn ontslag in bij president Jennifer Simons. De ..."
-        },
-        {
-          "title": "President Simons: situatie met minister Monorath onhoudbaar; minister zal ontslag indienen",
-          "source": "Waterkant.net",
-          "url": "https://www.waterkant.net/suriname/2026/11/12/president-simons-situatie-met-minister-monorath-onhoudbaar-minister-zal-ontslag-indienen/",
-          "publishedDate": "Thu, 12 Nov 2026 08:01:00 GMT",
-          "description": "De onzekerheid over de politieke toekomst van minister Harish Monorath van Justitie en Veiligheid heeft donderdag 12 november tot onrust onder zijn ..."
-        }
-      ]
-    },
-    {
-      "keyword": "claudia de breij",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Claudia de Breij worstelt met naderend verlies van goede vriendin",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/claudia-de-breij-worstelt-met-naderend-verlies-van-goede-vriendin/ar-AA2hLaHi",
-          "publishedDate": "Wed, 18 Nov 2026 07:31:37 GMT",
-          "description": "Het is geen makkelijk jaar voor Claudia de Breij (51). De cabareti&#232;re dreigt een goede vriendin te verliezen aan een ernstige ziekte en dat valt haar zwaar. Wanneer ze in een interview met LINDA. over ..."
-        },
-        {
-          "title": "Deze kandidaat wint De slimste mens in finale met een verdrietig randje: ‘Nooit van durven dromen’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/deze-kandidaat-wint-de-slimste-mens-in-finale-met-een-verdrietig-randje-nooit-van-durven-dromen~a98f1292/",
-          "publishedDate": "Fri, 06 Nov 2026 14:25:00 GMT",
-          "description": "Politiek verslaggever Mats Akkerman (32) is de winnaar van het najaarsseizoen van De slimste mens 2026. In een zenuwslopende ontknoping wist de politiek journalist vrijdagavond af te rekenen met journ ..."
-        },
-        {
-          "title": "Claudia de Breij doet wat ze wil, &#243;&#243;k aanschurken tegen het koningshuis",
-          "source": "Volkskrant",
-          "url": "https://www.volkskrant.nl/nieuws-achtergrond/claudia-de-breij-doet-wat-ze-wil-ook-aanschurken-tegen-het-koningshuis~be601307/",
-          "publishedDate": "Mon, 15 Nov 2021 06:23:00 GMT",
-          "description": "Claudia de Breij wilde altijd al eens een lintje krijgen. Ze sprak daar in 2010 al over in haar succesvoorstelling Hete Vrede, die werd bekroond met cabaretprijs Poelifinario. Na een grapje over het ..."
-        },
-        {
-          "title": "Lintje voor Claudia de Breij, Govert de Roos, Karel Martens – en de 110-jarige Mary Benjamin",
-          "source": "Volkskrant",
-          "url": "https://www.volkskrant.nl/nieuws-achtergrond/lintje-voor-claudia-de-breij-govert-de-roos-karel-martens-en-de-110-jarige-mary-benjamin~beef8fb0/",
-          "publishedDate": "Mon, 26 Apr 2021 06:00:00 GMT",
-          "description": "Meer dan 2.800 Nederlanders, onder wie cabaretier Claudia de Breij, krijgen een lintje voor hun verdiensten voor de samenleving. Wederom zijn het vooral mannen die zo’n koninklijke onderscheiding ..."
-        },
-        {
-          "title": "Snelle verklapt over wie hij zijn hit ‘Smoorverliefd’ schreef: ‘Ik zag alles weer helemaal voor me’",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/entertainment/snelle-verklapt-over-wie-hij-zijn-hit-smoorverliefd-schreef-ik-zag-alles-weer-helemaal-voor-me~213b4de",
-          "publishedDate": "Wed, 18 Nov 2026 23:00:00 GMT",
-          "description": "Speciaal voor Brooklyn, zoon van Claudia de Breij, deelt Snelle een primeur over z'n hit ‘Smoorverliefd’. Over wie hij het nummer schreef? Dat lees je hier."
-        },
-        {
-          "title": "Claudia de Breij zoekt hulp bij sportpsycholoog vanwege onzekerheid",
-          "source": "Weekblad Party",
-          "url": "https://weekbladparty.nl/claudia-de-breij-zoekt-hulp-bij-sportpsycholoog-vanwege-onzekerheid/",
-          "publishedDate": "Wed, 18 Nov 2026 14:30:00 GMT",
-          "description": "Hoewel Claudia de Breij (51) dit jaar alweer voor de 4e keer de oudejaarsconference verzorgt, is het voor de cabareti&#232;re geen routineklus."
-        },
-        {
-          "title": "De Breij voelde zich 'heel onzeker' voor oudejaarsconference '26",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/de-breij-voelde-zich-heel-onzeker-voor-oudejaarsconference-26",
-          "publishedDate": "Wed, 18 Nov 2026 08:58:00 GMT",
-          "description": "Claudia de Breij heeft zich &quot;heel onzeker&quot; gevoeld tijdens de voorbereiding op de aankomende oudejaarsconference. Volgens de cabaretier is de show extra spannend, omdat deze voor een breed publiek is, ..."
-        },
-        {
-          "title": "'Onzekere' Claudia de Breij schakelt psycholoog in ter voorbereiding oudejaarsconference 2026",
+          "title": "Emma Kok over impact pestverleden: 'Jarenlang therapie moeten volgen'",
           "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/onzekere-claudia-de-breij-psycholoog-voorbereiding-oudejaarsconference-2026",
-          "publishedDate": "Wed, 18 Nov 2026 08:56:00 GMT",
-          "description": "Claudia de Breij voelt zich onzeker voor haar oudejaarsconference '26. Ze deelt haar ervaringen en tips van een sportpsycholoog in een interview met LINDA."
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/emma-kok-impact-pestverleden-jarenlang-therapie",
+          "publishedDate": "Thu, 19 Nov 2026 06:24:00 GMT",
+          "description": "Emma Kok vertelt over het pesten op school en haar nieuwe single Laissez-Moi. Ook vertelt ze hoe ze meer zelfvertrouwen heeft gekregen door haar vriend."
         },
         {
-          "title": "Openingsshow Top 2000",
-          "source": "NPO",
-          "url": "https://npo.nl/start/serie/openingsshow-top-2000/afleveringen/seizoen-1/openingsshow-top-2000",
-          "publishedDate": "Tue, 24 Dec 2024 04:20:00 GMT",
-          "description": "De 27e editie van de NPO Radio 2 Top 2000 werd feestelijk afgetrapt met een spectaculaire openingsshow met Guus Meeuwis, Rond&#233;, DeWolff, Douwe Bob, The Indien, Floor Jansen, Miss Montreal, Zo&#235; Livay, ..."
+          "title": "Bijzondere mijlpaal voor Emma Kok: 'Ik heb mijn rijbewijs gehaald'",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/bijzondere-mijlpaal-emma-kok-rijbewijs-gehaald",
+          "publishedDate": "Thu, 19 Nov 2026 04:33:00 GMT",
+          "description": "Emma Kok heeft haar rijbewijs gehaald. Op Instagram deelt ze het nieuws. Ook moeder Nathalie is trots op haar dochter."
         },
         {
-          "title": "Verraste Claudia de Breij naar stadhuis gelokt voor lintje: 'Ik dacht nog: het zou toch niet?’",
-          "source": "AD",
-          "url": "https://www.ad.nl/utrecht/verraste-claudia-de-breij-naar-stadhuis-gelokt-voor-lintje-ik-dacht-nog-het-zou-toch-niet~a9f912d6/",
-          "publishedDate": "Sun, 25 Apr 2021 22:12:00 GMT",
-          "description": "Met een smoes werd ze vanochtend naar het stadhuis van Utrecht gelokt, waar een glunderende burgemeester Dijksma haar toesprak. En nu prijkt er een lintje op de rechterborst van Claudia de Breij (46)."
-        }
-      ]
-    },
-    {
-      "keyword": "staking ov",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Streekvervoer ligt maandag en dinsdag plat vanwege staking",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6417013/streekvervoer-ligt-maandag-en-dinsdag-plat-vanwege-staking.html",
-          "publishedDate": "Wed, 18 Nov 2026 08:07:00 GMT",
-          "description": "Buschauffeurs en machinisten in het streekvervoer leggen opnieuw het werk neer vanwege vastgelopen cao-onderhandelingen, hebben vakbonden FNV en CNV aangekondigd. Komende maandag en dinsdag zijn er la ..."
+          "title": "Verrassend nieuws over Emma Kok",
+          "source": "Vipnieuws.nl",
+          "url": "https://vipnieuws.nl/verrassend-nieuws-over-emma-kok/",
+          "publishedDate": "Thu, 19 Nov 2026 02:00:00 GMT",
+          "description": "Verrassend nieuws over Emma Kok: de zangeres is deze winter te zien als speciale gast bij Holiday on Ice. Waaraan mogen we ons verwachten? De zangeres verzorgt gastoptredens tijdens een aantal shows ..."
         },
         {
-          "title": "Streekvervoer ligt maandag en dinsdag plat door nieuwe stakingen",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/economie/artikel/5665857/streekvervoer-ligt-maandag-en-dinsdag-plat-door-nieuwe-stakingen",
-          "publishedDate": "Wed, 18 Nov 2026 06:59:00 GMT",
-          "description": "Komende maandag en dinsdag wordt er in een groot deel van het land de hele dag gestaakt in het stads- en streekvervoer. De stakingen volgen op geklapte cao-onderhandelingen voor de sector eerder deze ..."
+          "title": "Emma Kok laat zich na paar cocktails op intieme plekken vastpakken door wisselende partners",
+          "source": "Mannenzaken",
+          "url": "https://mannenzaken.nl/nieuws/emma-kok-laat-zich-na-paar-cocktails-op-intieme-plekken-vastpakken-door-wisselende-partners",
+          "publishedDate": "Wed, 18 Nov 2026 13:00:00 GMT",
+          "description": "Emma Kok laat haar brave podiumimago voor &#233;&#233;n avond duidelijk even thuis. De 18-jarige zangeres deelt een reeks beelden van een gezellige avond waarbij cocktails, vrienden en behoorlijk wat lichamelij ..."
         },
         {
-          "title": "Cao-conflict streekvervoer ettert door: 'Nieuwe staking onvermijdelijk'",
-          "source": "RTL Nieuws (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/cao-conflict-streekvervoer-ettert-door-nieuwe-staking-onvermijdelijk/ar-AA2hyOEr",
-          "publishedDate": "Mon, 16 Nov 2026 05:20:45 GMT",
-          "description": "Er dreigt opnieuw een landelijke staking in het streekvervoer. Een overgrote meerderheid van de leden van vakbonden CNV en FNV gaat niet akkoord met het eindbod van de werkgevers. Wel zijn de leden ma ..."
+          "title": "Emma Kok zorgt letterlijk en figuurlijk voor vuurwerk tijdens releaseparty in loshangende jurk",
+          "source": "Mannenzaken",
+          "url": "https://mannenzaken.nl/nieuws/emma-kok-zorgt-letterlijk-en-figuurlijk-voor-vuurwerk-tijdens-releaseparty-in-loshangende-jurk",
+          "publishedDate": "Thu, 12 Nov 2026 11:00:00 GMT",
+          "description": "Emma Kok heeft haar nieuwe muzikale hoofdstuk bepaald niet stilletjes afgetrapt. De 18-jarige zangeres vierde de release van haar single Laissez-Moi met een heuse releaseparty en trok daarvoor een opv ..."
         },
         {
-          "title": "Woensdag hele dag geen NS-treinen door landelijke ov-staking",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/duurzaamheid-economie/woensdag-hele-dag-geen-ns-treinen-door-landelijke-ov-staking~b78d1726/",
-          "publishedDate": "Thu, 03 Sep 2026 10:05:00 GMT",
-          "description": "Woensdag 9 september rijden er de hele dag geen NS-treinen in Nederland door de landelijke 24-uursstaking in het openbaar vervoer. Alleen luchthaven Schiphol blijft wel beperkt bereikbaar, heeft NS ..."
+          "title": "Emma Kok schittert deze winter als gastartiest bij ‘Holiday on Ice’",
+          "source": "Weekblad Party",
+          "url": "https://weekbladparty.nl/emma-kok-schittert-deze-winter-als-gastartiest-bij-holiday-on-ice/",
+          "publishedDate": "Tue, 10 Nov 2026 02:05:00 GMT",
+          "description": "Emma Kok heeft deze winter een bijzondere rol te pakken bij ‘Holiday on Ice’. De zangeres is gastarties tijdens ‘CINEMA OF DREAMS’."
         },
         {
-          "title": "Twee dagen ov-staking, mogelijke impact in de Langstraat",
-          "source": "langstraatmedia",
-          "url": "https://langstraatmedia.nl/twee-dagen-ov-staking-mogelijke-impact-in-de-langstraat/",
-          "publishedDate": "Wed, 18 Nov 2026 16:01:00 GMT",
-          "description": "DE LANGSTRAAT - Maandag 23 november en dinsdag 24 november zal er weer een ov-staking plaatsvinden. Vakbonden CNV en FNV hebben aangekondigd de hele dag te gaan staken. De reden dat het ov gaat staken ..."
+          "title": "Hoe leerde Emma Kok haar nieuwe vriend kennen?",
+          "source": "Show24",
+          "url": "https://show24.nl/hoe-leerde-emma-kok-haar-nieuwe-vriend-kennen/",
+          "publishedDate": "Mon, 09 Nov 2026 20:59:00 GMT",
+          "description": "“Toen hebben we elkaar ontmoet en was het meteen goed”, onthult Emma Kok in Weekend dat het liefde op het eerste gezicht was. Al gonst het op de ‘juicechannels’ wel van de geruchten dat de nieuwe ..."
         },
         {
-          "title": "Komende maandag en dinsdag: 2-daagse staking voor cao OV",
-          "source": "cnv",
-          "url": "https://www.cnv.nl/nieuws/komende-maandag-en-dinsdag-2-daagse-staking-voor-cao-ov-2026-11-18/",
-          "publishedDate": "Wed, 18 Nov 2026 09:40:00 GMT",
-          "description": "Komende maandag en dinsdag komen we opnieuw in actie. We roepen alle vakbondsleden op om mee te doen aan deze 2-daagse staking voor een goede cao Openbaar Vervoer."
-        },
-        {
-          "title": "OV-staking aangekondigd voor maandag en dinsdag",
-          "source": "W&#226;ldNet",
-          "url": "https://www.waldnet.nl/wn/nieuws/85796/OV_staking_aangekondigd_voor_maandag_en_dinsdag.html",
-          "publishedDate": "Wed, 18 Nov 2026 08:26:00 GMT",
-          "description": "Met het openbaar vervoer naar school of naar werk zal maandag of dinsdag moeilijk worden. Vakbonden CNV en FNV kondigden namelijk voor 23 en 24 ..."
-        },
-        {
-          "title": "Zo verliep de ochtend van ov-staking in Brabant: ‘Ik heb... nog niemand vervoerd’",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/tilburg/zo-verliep-de-ochtend-van-ov-staking-in-brabant-ik-heb-nog-niemand-vervoerd~afeff62d/?slug_rd=1",
-          "publishedDate": "Wed, 09 Sep 2026 06:38:00 GMT",
-          "description": "Het ov in Nederland ligt plat. Vanwege een staking rijden er vandaag amper treinen en weinig bussen. Toch verliep de ochtendspits rustig. Veel mensen lijken thuis te werken. Op de stations in Brabant ..."
-        },
-        {
-          "title": "Geen ov in Almelo op 9 september: landelijke staking gaat door",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/almelo/ov-staking-woensdag-9-september-almelo~a7f864e1/",
-          "publishedDate": "Thu, 03 Sep 2026 04:00:00 GMT",
-          "description": "De aangekondigde ov-staking op woensdag 9 september leek even niet door te gaan, maar niets is minder waar. Reizigers hebben pech: de staking gaat gewoon door. Op 9 september moet je de auto, fiets of ..."
-        },
-        {
-          "title": "Landelijke ov-staking uit protest tegen kabinetsbeleid op 24 juni",
-          "source": "BNR",
-          "url": "https://www.bnr.nl/nieuws/mobiliteit/10601385/landelijke-ov-staking-uit-protest-tegen-kabinetsbeleid-op-24-juni",
-          "publishedDate": "Wed, 20 May 2026 09:28:00 GMT",
-          "description": "Op 24 juni zullen openbaarvervoerswerknemers hun werk neerleggen tijdens een landelijke staking. Dat kondigt FNV aan. De reden voor de staking is onvrede over het kabinetsbeleid rond sociale zekerheid ..."
+          "title": "Emma Kok dit jaar te gast bij Holiday on Ice",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/emma-kok-dit-jaar-te-gast-bij-holiday-on-ice",
+          "publishedDate": "Mon, 09 Nov 2026 09:30:00 GMT",
+          "description": "Emma Kok verzorgt deze winter gastoptredens bij Holiday on Ice. Ontdek in welke vijf steden ze te zien is en wanneer de shows plaatsvinden. De kaartverkoop is gestart."
         }
       ]
     },
     {
       "keyword": "covid-19",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
         {
           "title": "Wat is het coronavirus?",
@@ -400,17 +172,10 @@
           "description": "Nieuws en video's uit de rubriek Coronavirus. Betrouwbaar, gratis en snel op NU.nl, de grootste nieuwssite van Nederland."
         },
         {
-          "title": "Corona is weer in opmars: bij luchtwegklachten duikt het virus steeds vaker op",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/gezond/corona-is-weer-in-opmars-bij-luchtwegklachten-duikt-het-virus-steeds-vaker-op~af3956e0/",
-          "publishedDate": "Wed, 04 Nov 2026 20:18:00 GMT",
-          "description": "Het aantal mensen met luchtwegklachten is momenteel flink aan het toenemen. Het zijn nog geen extreem hoge aantallen, omdat het griepvirus zich nog relatief kalm houdt. Maar heb je ook koorts? Weet da ..."
-        },
-        {
           "title": "Corona is weer terug, net nu de laatste vaccinaties worden gegeven",
           "source": "De Gelderlander",
           "url": "https://www.gelderlander.nl/gezond/corona-is-weer-terug-net-nu-de-laatste-vaccinaties-worden-gegeven~acc5d2ad/",
-          "publishedDate": "Wed, 18 Nov 2026 21:59:00 GMT",
+          "publishedDate": "Thu, 19 Nov 2026 04:22:00 GMT",
           "description": "Het coronavirus is weer echt terug van weggeweest. Van alle virussen waar in laboratoria op wordt getest, is het coronavirus momenteel het meest voorkomende. Al een week of tien is er een stijgende li ..."
         },
         {
@@ -419,6 +184,13 @@
           "url": "https://www.rivm.nl/corona/actueel/weekcijfers",
           "publishedDate": "Wed, 18 Nov 2026 08:23:00 GMT",
           "description": "Het RIVM deelt wekelijks op woensdag de actuele cijfers over het coronavirus SARS (severe acute respiratory syndrome)-CoV-2 in Nederland. Update 18 november 2026: Meer mensen met coronavirus ..."
+        },
+        {
+          "title": "Mentale gezondheid van jongeren nog steeds niet hersteld na Covid-19",
+          "source": "Newsmonkey on MSN",
+          "url": "https://www.msn.com/nl-nl/geldzaken/algemeen/mentale-gezondheid-van-jongeren-nog-steeds-niet-hersteld-na-covid-19/ar-AA2h0vut",
+          "publishedDate": "Sun, 08 Nov 2026 06:44:00 GMT",
+          "description": "In het kort Uit een uitgebreid, door de overheid gesteund vijfjarig onderzoek blijkt dat jongeren tussen de 16 en 25 jaar de diepste en langdurigste psychische klachten hebben ondervonden als gevolg v ..."
         },
         {
           "title": "Viroloog Koopmans over inschatten gevaar coronavirus: 'Dat proces heeft tijd nodig'",
@@ -435,18 +207,18 @@
           "description": "Het risico op ernstige ziekte en sterfte door COVID-19 neemt toe met de leeftijd, schrijft de raad in een verklaring. Uit onderzoek naar de ziektelast in 2023 en 2024 blijkt dat het risico op ..."
         },
         {
+          "title": "Rioolwateronderzoek coronavirus",
+          "source": "rivm",
+          "url": "https://www.rivm.nl/corona/onderzoeken/rioolwater",
+          "publishedDate": "Wed, 11 Feb 2026 04:11:00 GMT",
+          "description": "Met rioolwateronderzoek blijft het RIVM de verspreiding van het coronavirus volgen. Momenteel ontvangt het RIVM nog steeds vanuit meer dan 300 locaties in Nederland enkele keren per week een monster ..."
+        },
+        {
           "title": "Coronavirus COVID-19",
           "source": "Rijksoverheid",
           "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/coronavirus-covid-19",
           "publishedDate": "Mon, 18 Aug 2025 06:22:00 GMT",
           "description": "Meer financi&#235;le ondersteuning voor zorgmedewerkers met langdurige post-COVID klachten Met de regeling ‘Zorgmedewerkers met langdurige post-COVID klachten’ heeft het kabinet in 2023 een groep ..."
-        },
-        {
-          "title": "COVID-19 adviezen OMT en RT",
-          "source": "rivm",
-          "url": "https://www.rivm.nl/corona/adviezen",
-          "publishedDate": "Fri, 11 Feb 2022 06:42:00 GMT",
-          "description": "Duiding COVID-19-epidemie door het COVID-19-responsteam Meer informatie ..."
         },
         {
           "title": "Wat het nieuwe coronavirus met het lichaam doet",
@@ -458,299 +230,436 @@
       ]
     },
     {
-      "keyword": "rijtjeshuis",
-      "trafficLabel": "5K+",
+      "keyword": "robin groot",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Verbouwing van rijtjeshuis leidt tot verbazing: ‘Zestien kamers in een eengezinswoning, hoe dan?’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/verbouwing-van-rijtjeshuis-leidt-tot-verbazing-zestien-kamers-in-een-eengezinswoning-hoe-dan~adff6caa/",
-          "publishedDate": "Thu, 19 Nov 2026 03:01:00 GMT",
-          "description": "Verbouwing van rijtjeshuis leidt tot verbazing: ‘Zestien kamers in een eengezinswoning, hoe dan?’ ..."
+          "title": "Robin Groot vervangt Joy Beune bij EK Allround",
+          "source": "De Telegraaf",
+          "url": "https://www.telegraaf.nl/sport/schaatsen/robin-groot-vervangt-joy-beune-bij-ek-allround/64141726.html",
+          "publishedDate": "Fri, 06 Jan 2023 01:55:00 GMT",
+          "description": "Antoinette de Jong is de grootste Nederlandse troef bij het allroundtoernooi van de vrouwen. De Nederlandse geldt als grote favoriete voor het goud. Ook Marijke Groenewoud verschijnt aan de start. Bij ..."
         },
         {
-          "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro’s op, maar ook jarenlange celstraffen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
-          "publishedDate": "Tue, 17 Nov 2026 11:32:00 GMT",
-          "description": "Vanuit een rijtjeshuis in Breda dreven Leon Z. en Francois L. een miljoenenhandel in medicijnen. Volgens de rechter is er genoeg bewijs dat de twee betrokken waren bij de distributie van middelen via ..."
+          "title": "Ex-schaatsster Robin Groot is gestopt met topsport, maar weet zichzelf alsnog keihard uit te dagen",
+          "source": "Mannenzaken",
+          "url": "https://mannenzaken.nl/nieuws/ex-schaatsster-robin-groot-is-gestopt-met-topsport-maar-weet-zichzelf-alsnog-keihard-uit-te-dagen",
+          "publishedDate": "Wed, 18 Nov 2026 11:00:00 GMT",
+          "description": "Robin Groot heeft haar schaatsen inmiddels definitief aan de wilgen gehangen, maar wie denkt dat de voormalige topschaatsster tegenwoordig rustig op de bank zit, heeft het behoorlijk mis. De 25-jarige ..."
         },
         {
-          "title": "Meest voorkomende type woning in Nederland? Het rijtjeshuis",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2439237-meest-voorkomende-type-woning-in-nederland-het-rijtjeshuis",
-          "publishedDate": "Tue, 02 Aug 2022 17:27:00 GMT",
-          "description": "Zeker 42 procent van de bijna 8 miljoen woningen in Nederland is een rijtjeshuis. Dit type woning, bestaande uit minstens drie huizen aan elkaar vast, is daarmee het meest voorkomend. Dat meldt CBS, ..."
+          "title": "Robin Groot vergat te genieten en zoekt haar geluk nu op snikheet eiland: &quot;Dit is precies wat ik nodig heb&quot;",
+          "source": "mannenzaken",
+          "url": "https://mannenzaken.nl/nieuws/robin-groot-vergat-te-genieten-en-zoekt-haar-geluk-nu-op-snikheet-eiland-dit-is-precies-wat-ik-nodig-heb",
+          "publishedDate": "Fri, 29 May 2026 07:00:00 GMT",
+          "description": "Robin Groot heeft de afgelopen jaren bijna alleen maar geleefd voor het schaatsen. Trainingsschema’s, wedstrijden, doelen behalen en constant bezig zijn met presteren. Dat hoort natuurlijk bij ..."
         },
         {
-          "title": "Tuin rijtjeshuis wordt kleiner, maar (half)vrijstaande woning krijgt er juist tuin bij",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/bouw-infrastructuur/10615400/tuin-rijtjeshuis-wordt-kleiner-maar-half-vrijstaande-woning-krijgt-er-juist-tuin-bij",
-          "publishedDate": "Sat, 14 Nov 2026 01:07:00 GMT",
-          "description": "Rijtjeshuizen &#233;n vrijstaande woningen zijn de afgelopen vijf jaar kleiner geworden, maar vooral rijtjeshuizen leveren daarvoor tuinruimte in."
+          "title": "Voormalig schaatsster Robin Groot (25) reageert op zware uitdaging: 'Dit ga ik sowieso nog een keer doen'",
+          "source": "sportnieuws",
+          "url": "https://sportnieuws.nl/schaatsen/nieuws/voormalig-schaatsster-robin-groot-25-reageert-op-zware-uitdaging-dit-ga-ik-sowieso-nog-een-keer-doen-2026041706135047996/",
+          "publishedDate": "Fri, 17 Apr 2026 01:33:00 GMT",
+          "description": "Robin Groot voltooide vorig weekend de marathon van Parijs. Vooral het eind ging voor de 25-jarige oud-schaatsster niet van harte, maar ze is toch van &#233;&#233;n ding zeker: dit was niet haar laatste ..."
         },
         {
-          "title": "Kijken: dit rijtjeshuis in Hoograven staat te koop voor meer dan 6,8 ton",
-          "source": "stadsbladutrecht.nl",
-          "url": "https://indebuurt.nl/utrecht/wonen/kijken-dit-rijtjeshuis-in-hoograven-staat-te-koop-voor-meer-dan-68-ton~191862/",
-          "publishedDate": "Tue, 06 Jan 2026 01:14:00 GMT",
-          "description": "Denk je aan een rijtjeshuis, dan denk je misschien niet direct aan een woning waarvoor je meer dan 6 ton kwijt bent. Toch zijn ze er wel. Sterker nog, in 2020 schreef RTL Nieuws dat er steeds meer ..."
+          "title": "Robin Groot valt op met persoonlijke records bij NK, mikt op WK allround",
+          "source": "noordhollandsdagblad.nl",
+          "url": "https://www.noordhollandsdagblad.nl/sport/sport-alkmaar/robin-groot-valt-op-met-persoonlijke-records-bij-nk-mikt-op-wk-allround/11691858.html",
+          "publishedDate": "Sat, 30 Dec 2023 05:26:00 GMT",
+          "description": "Robin Groot valt op bij de NK afstanden. Wellicht niet direct door haar klasseringen, wel met persoonlijke records. Na een negende plek op de 1.500 meter en de zesde stek op de drie kilometer volgt ..."
         },
         {
-          "title": "Rijtjeshuis in de prestigieuze Apollobuurt te koop voor liefst € 2,7 miljoen",
-          "source": "pureluxe",
-          "url": "https://pureluxe.nl/2024/03/rijtjeshuis-apollobuurt-te-koop/",
-          "publishedDate": "Thu, 21 Mar 2024 12:48:00 GMT",
-          "description": "Dit magnifieke rijtjeshuis, gelegen in de prestigieuze Apollobuurt, nodigt u uit om de hoogtepunten van modern wonen te ontdekken. Met zijn royale proporties, smaakvolle renovaties en sublieme ..."
-        },
-        {
-          "title": "Een rijtjeshuis voor €3,65 miljoen? Uiteraard in Amsterdam Oud-Zuid",
-          "source": "Quotenet",
-          "url": "https://www.quotenet.nl/vastgoed/qasteel/a44114404/rijtjeshuis-voor-euro3-miljoen-amsterdam-oud-zuid/",
-          "publishedDate": "Wed, 07 Jun 2023 03:51:00 GMT",
-          "description": "De makelaar van dienst maakt er het beste van, en noemt dit geen rijtjeshuis maar een: 'Prachtig ruim jaren ’30 familiehuis in Oud-Zuid. Uniek is dit geweldige gezinshuis van ca. 308 m&#178; woonoppervlak ..."
-        },
-        {
-          "title": "Meeste mensen in Nederland wonen in rijtjeshuis",
-          "source": "jeugdjournaal",
-          "url": "https://jeugdjournaal.nl/l/2439257",
-          "publishedDate": "Wed, 03 Aug 2022 02:07:00 GMT",
-          "description": "In wat voor soort huis woon jij? Uit een nieuw onderzoek blijkt dat de meeste mensen in Nederland in een rijtjeshuis wonen. De naam zegt het al: het is een huis dat in een rijtje staat. Om het een ..."
-        },
-        {
-          "title": "Rijtjeshuis van € 1,5 miljoen gaat viraal",
-          "source": "wonen360",
-          "url": "https://www.wonen360.nl/article/9133822/rijtjeshuis-van-eur-1-5-miljoen-gaat-viraal/",
-          "publishedDate": "Thu, 15 Aug 2019 01:19:00 GMT",
-          "description": "Iedereen is wel van overtuigd dat de woningmarkt uit zijn voegen is gebarsten en de prijzen voor de woningen enorm gestegen zijn. De prijzen hiervan lopen ver uiteen. In de mooie opgezette en geliefde ..."
-        },
-        {
-          "title": "Alleen in Amsterdam: €3,5 miljoen winst op een rijtjeshuis",
-          "source": "Quotenet",
-          "url": "https://www.quotenet.nl/vastgoed/qasteel/a219454/alleen-in-amsterdam-3-5-miljoen-winst-op-een-rijtjeshuis-219454/",
-          "publishedDate": "Wed, 20 Feb 2019 03:23:00 GMT",
-          "description": "Goed, eerlijk is eerlijk. Het betreft hier geen doorsnee rijtjeshuis, maar eentje van 440 vierkante meter aan de felbegeerde Van Eeghenstraat in Amsterdam. Verkopers zijn Menno Heemstra van het ..."
+          "title": "Robin Groot (21) dankzij ’Van der Poel-training’ bij top EK. ’Het aantal volgers op Instagram is omhoog geschoten’",
+          "source": "noordhollandsdagblad.nl",
+          "url": "https://www.noordhollandsdagblad.nl/sport/sport-alkmaar/robin-groot-21-dankzij-van-der-poel-training-bij-top-ek.-het-aantal-volgers-op-instagram-is-omhoog-geschoten/11489454.html",
+          "publishedDate": "Tue, 10 Jan 2023 02:00:00 GMT",
+          "description": "Broek op LangedijkRobin Groot (21) hoorde pas vlak voor het EK allround in Hamar dat ze haar debuut mocht maken op een titeltoernooi. De schaatsster reed tijdens haar eerste grote internationale ..."
         }
       ]
     },
     {
-      "keyword": "voetbal",
-      "trafficLabel": "5K+",
+      "keyword": "wijchen",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Voetbal | Xavi biedt excuses aan na 5-0-nederlaag tegen Duitsland",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6416774/voetbal-xavi-biedt-excuses-aan-na-5-0-nederlaag-tegen-duitsland.html",
-          "publishedDate": "Mon, 16 Nov 2026 10:02:00 GMT",
-          "description": "Goedenavond en welkom in dit liveblog! Vandaag hou ik, Bram Schutte, je op de hoogte van de Nations League-wedstrijd tussen Duitsland en Nederland. Veel plezier!"
+          "title": "Mix van zon en wolken in Wijchen in de ochtend",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/wijchen/weer-wijchen~ab90fbaf/",
+          "publishedDate": "Wed, 04 Nov 2026 17:25:00 GMT",
+          "description": "Het is overwegend bewolkt in Wijchen en het regent af en toe. De temperatuur ligt rond de 13 graden. De wind komt uit het oosten en is matig. De vrouwen van NEC winnen alles, toch heeft de proftak gee ..."
         },
         {
-          "title": "Voetbal steeds minder populair in Itali&#235;: 'Blijven hangen in jaren tachtig'",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2639549-voetbal-steeds-minder-populair-in-italie-blijven-hangen-in-jaren-tachtig",
-          "publishedDate": "Sun, 15 Nov 2026 00:25:00 GMT",
-          "description": "Het gaat niet goed met het Italiaanse voetbal. De tennisbond heeft nu zelfs meer leden dan de voetbalbond. En dat in het land van de viervoudige wereldkampioen."
+          "title": "Halloweenkoopavond brengt griezelactiviteiten naar centrum van Wijchen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/wijchen/halloweenkoopavond-brengt-griezelactiviteiten-naar-centrum-van-wijchen~a7d8c290/",
+          "publishedDate": "Fri, 23 Oct 2026 02:43:00 GMT",
+          "description": "Het centrum van Wijchen staat eind oktober in het teken van Halloween tijdens een koopavond. De activiteiten zijn 30 oktober van 17.00 tot 20.00 uur in het centrum en op de Markt."
         },
         {
-          "title": "Er zit nog veel Nederland in Hatzidiakos: 'Mooi en frivool voetbal, zo ben ik opgegroeid'",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2639243-er-zit-nog-veel-nederland-in-hatzidiakos-mooi-en-frivool-voetbal-zo-ben-ik-opgegroeid",
-          "publishedDate": "Thu, 12 Nov 2026 21:01:00 GMT",
-          "description": "Maar ook als voetballer voelt de 29-jarige Griek zich in veel opzichten nog Nederlands. Toen hij veertien was verruilde Hatzidiakos de jeugdopleiding van Panathinaikos voor die van AZ, waar hij twaalf ..."
+          "title": "Wijchen en Druten waarschuwen voor energieverkopers aan de deur",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/wijchen/wijchen-en-druten-waarschuwen-voor-energieverkopers-aan-de-deur~a8eb1f37/",
+          "publishedDate": "Thu, 19 Nov 2026 05:57:00 GMT",
+          "description": "De gemeenten Wijchen en Druten waarschuwen inwoners voor verkopers van energiebesparende producten aan de deur en voor valse e-mails. Sommige verkopers doen alsof zij namens de gemeente werken, maar d ..."
         },
         {
-          "title": "De opkomst van de middenklassevoetballer: voetbal in Engeland is niet enkel meer een volkssport",
+          "title": "Neem de tijd bij aanbiedingen van energiebesparende producten aan uw deur en wees alert op valse e-mails",
+          "source": "wijchen",
+          "url": "https://www.wijchen.nl/nieuws/2026/11/19/neem-de-tijd-bij-aanbiedingen-van-energiebesparende-producten-aan-uw-deur-en-wees-alert-op-valse-e-mails",
+          "publishedDate": "Wed, 18 Nov 2026 16:01:00 GMT",
+          "description": "In onze gemeente gaan verkopers van energiebesparende producten langs de deuren of sturen zij e-mails. Sommige verkopers wekken de indruk dat zij namens de gemeente werken. Dat klopt niet."
+        },
+        {
+          "title": "VOS houdt avond over socratisch gesprek in Wijchen",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/wijchen/vos-houdt-avond-over-socratisch-gesprek-in-wijchen~a3562648/",
+          "publishedDate": "Tue, 17 Nov 2026 07:49:00 GMT",
+          "description": "De VOS houdt in Wijchen een interactieve avond over het socratisch gesprek. Dinsdag 24 november maken deelnemers in De Schakel kennis met deze gespreksvorm, vanaf 19.30 uur."
+        },
+        {
+          "title": "Logicor sluit langjarige huurdeal in Wijchen",
+          "source": "Vastgoedjournaal.nl",
+          "url": "https://vastgoedjournaal.nl/news/75031/logicor-sluit-langjarige-huurdeal-in-wijchen",
+          "publishedDate": "Mon, 16 Nov 2026 03:01:00 GMT",
+          "description": "Logicor heeft een langjarige huurovereenkomst gesloten met Allpa voor 4.688 m2 bedrijfsruimte en 1.004 m2 kantoorruimte, aangevuld met parkeerplaatsen op het complex aan Bijsterhuizen 2023 in Wijchen."
+        },
+        {
+          "title": "Bibliotheek Wijchen organiseert gratis Brein Caf&#233; met thema ‘Eetstoornissen’",
+          "source": "Regio Online",
+          "url": "https://regioonline.nl/regio-arnhem-nijmegen/bibliotheek-wijchen-brein-cafe/",
+          "publishedDate": "Sun, 15 Nov 2026 04:00:00 GMT",
+          "description": "Wijchen - Tijdens deze bijeenkomst vertelt Wesley Hekhuizen in Bibliotheek Wijchen over zijn werk als projectleider voor KEET Gelderland, module LibraZ voor ..."
+        },
+        {
+          "title": "Evenementenbeleid Wijchen: inwoners gevraagd mee te denken",
+          "source": "Regio Online",
+          "url": "https://regioonline.nl/regio-arnhem-nijmegen/evenementenbeleid-wijchen/",
+          "publishedDate": "Sun, 08 Nov 2026 11:00:00 GMT",
+          "description": "Wijchen vernieuwt het evenementenbeleid. Inwoners kunnen tot en met 14 december 2026 een vragenlijst invullen over evenementen en locaties."
+        },
+        {
+          "title": "Kelvinstraat 61, 6601 HH Wijchen",
+          "source": "funda",
+          "url": "https://www.funda.nl/detail/koop/verkocht/wijchen/huis-kelvinstraat-61/43221881/",
+          "publishedDate": "Fri, 30 Jan 2026 16:00:00 GMT",
+          "description": "Royaal wonen en werken op een toplocatie in Wijchen Op een centrale locatie in Wijchen bevindt zich deze traditioneel gebouwde, luxe villa met vrijstaande garage/bedrijfsruimte, gelegen op een royaal ..."
+        }
+      ]
+    },
+    {
+      "keyword": "rabobank",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Rabobank bekijkt strengere hypotheekgrens opnieuw na zorgen over 50-plussers",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/economie/rabobank-bekijkt-strengere-hypotheekgrens-opnieuw-na-zorgen-over-50-plussers~a191bdd6/",
+          "publishedDate": "Thu, 19 Nov 2026 12:49:00 GMT",
+          "description": "De Rabobank twijfelt over zijn eigen nieuwe hypotheekregel, waarbij de bank al vijftien jaar voor je pensioen rekent met je pensioeninkomen. Daardoor kunnen veel mensen vanaf hun 52ste minder geld len ..."
+        },
+        {
+          "title": "Rabobank trekt miljoenen uit voor boeren die minder bestrijdingsmiddelen willen gebruiken",
           "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/sport/de-opkomst-van-de-middenklassevoetballer-voetbal-in-engeland-is-niet-enkel-meer-een-volkssport~bade950f/",
-          "publishedDate": "Wed, 11 Nov 2026 03:59:00 GMT",
-          "description": "Josh King en Jobe Bellingham maken donderdag hun debuut voor het Engels elftal tijdens de Nations League. Zij zijn onderdeel van een nieuwe generatie voetballers in Engeland, afkomstig van priv&#233;schole ..."
+          "url": "https://www.volkskrant.nl/economie/rabobank-trekt-miljoenen-uit-voor-boeren-die-minder-bestrijdingsmiddelen-willen-gebruiken~b037bf50/",
+          "publishedDate": "Thu, 12 Nov 2026 09:42:00 GMT",
+          "description": "De Rabobank stelt 60 miljoen euro beschikbaar aan boeren die willen minderen met het gebruik van gewasbestrijdingsmiddelen. Het geld kunnen zij investeren in bijvoorbeeld laserwieders en drones, techn ..."
         },
         {
-          "title": "Voetbal kan onvoorspelbaar zijn, grote doel was om door te breken in Feyenoord 1",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/voetbal-kan-onvoorspelbaar-zijn-grote-doel-was-om-door-te-breken-in-feyenoord-1/ar-AA2hLMPd",
-          "publishedDate": "Thu, 19 Nov 2026 02:21:00 GMT",
-          "description": "Ramon Hendriks kijkt zonder spijt terug op zijn vertrek bij Feyenoord. De 25-jarige verdediger verruilde de Rotterdammers in 2024 voor VfB Stuttgart, waar hij inmiddels is uitgegroeid tot een belangri ..."
+          "title": "Miljoenen van Rabobank moeten boeren van pesticiden afhelpen",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/duurzaamheid-economie/miljoenen-van-rabobank-moeten-boeren-van-pesticiden-afhelpen~bf49a66d/",
+          "publishedDate": "Wed, 11 Nov 2026 14:00:00 GMT",
+          "description": "De Rabobank stelt 60 miljoen euro beschikbaar voor techniek waarmee boeren met minder bestrijdingsmiddelen kunnen werken. Wetenschapper Martina Vijver adviseert het effect van het plan in kaart te bre ..."
         },
         {
-          "title": "Memphis prijst Seedorf en haalt uit: 'Zij begrijpen weinig van voetbal'",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/memphis-prijst-seedorf-en-haalt-uit-zij-begrijpen-weinig-van-voetbal/ar-AA2hLOTA",
-          "publishedDate": "Thu, 19 Nov 2026 01:23:00 GMT",
-          "description": "Memphis Depay is vol lof over de werkwijze van Clarence Seedorf bij Corinthians. De 32-jarige aanvaller was woensdagavond belangrijk tijdens de 4-0 overwinning op Botafogo en ziet dat de Nederlandse t ..."
+          "title": "Rabobank heroverweegt omstreden aanpassing hypotheekbeoordeling",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/economie/rabobank-heroverweegt-omstreden-aanpassing-hypotheekbeoordeling",
+          "publishedDate": "Thu, 19 Nov 2026 10:44:00 GMT",
+          "description": "UTRECHT (ANP) - Rabobank denkt opnieuw na over nieuwe hypotheeknormen die de bank in maart wil invoeren. De aankondiging dat de hoogte van het pensioen al veel eerder voor de pensioenleeftijd zal mees ..."
         },
         {
-          "title": "Peter Bosz openhartig: 'Het sprak mij enorm aan hoe hij naar voetbal keek'",
-          "source": "PSV Inside",
-          "url": "https://www.psvinside.nl/nieuws/peter-bosz-eerlijk-over-idool-het-sprak-mij-enorm-aan-hoe-hij-naar-voetbal-keek",
-          "publishedDate": "Wed, 18 Nov 2026 04:43:00 GMT",
-          "description": "Peter Bosz prijst Cruijff: “Voor publiek spelen.” In podcast benadrukt PSV-coach het belang van aantrekkelijk voetbal &#233;n winst."
+          "title": "Duizenden meldingen na storing bij Rabobank, probleem verholpen",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/economie/geld/artikelen/duizenden-meldingen-na-storing-bij-rabobank-probleem-verholpen",
+          "publishedDate": "Thu, 19 Nov 2026 08:20:00 GMT",
+          "description": "Rabobank ondervond een storing met rekeningen en creditcards, bevestigt een woordvoerder. Betaalrekeningen functioneerden, maar spaarrekeningen waren tijdelijk niet toegankelijk."
         },
         {
-          "title": "Verdrag van Salland bespreekt betekenis van voetbal in Wijhe",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/olst-wijhe/verdrag-van-salland-bespreekt-betekenis-van-voetbal-in-wijhe~a32cc4d9/",
-          "publishedDate": "Tue, 17 Nov 2026 10:00:00 GMT",
-          "description": "Wat zegt voetbal over de Sallandse identiteit? Die vraag staat vrijdag 20 november centraal tijdens een bijeenkomst van het Verdrag van Salland in de kantine van Wijhe ’92."
+          "title": "Dansteam X.I. naar het WK dankzij Rabobank: ‘Dat nemen we ons hele leven mee",
+          "source": "De Krant Nieuws",
+          "url": "https://www.dekrantnieuws.nl/nieuws/nieuws/107678/dansteam-x-i-naar-het-wk-dankzij-rabobank-dat-nemen-we-ons-hele-leven-mee-vzc9c2",
+          "publishedDate": "Thu, 19 Nov 2026 06:22:00 GMT",
+          "description": "GRONINGEN - Rabobank reikte op 17 november in totaal €150.000 uit aan projecten voor en door jongeren uit Groningen en Drenthe. Een van de ontvangers was dansteam X.I."
         },
         {
-          "title": "‘Pep Guardiola heeft voetbal om zeep geholpen’",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/pep-guardiola-heeft-voetbal-om-zeep-geholpen/",
-          "publishedDate": "Mon, 16 Nov 2026 09:58:00 GMT",
-          "description": "Zbigniew Boniek is van mening dat de invloed van Pep Guardiola slecht is voor het moderne voetbal. De Poolse oud-vicepresident van de UEFA wijst op het ..."
+          "title": "Nieuwe pensioen hypotheeknormen: Rabobank en Obvion krabbelen terug",
+          "source": "AMweb",
+          "url": "https://www.amweb.nl/160878/nieuwe-pensioen-hypotheeknormen-rabobank-en-obvion-krabbelen-terug",
+          "publishedDate": "Thu, 19 Nov 2026 02:01:00 GMT",
+          "description": "Rabobank en Obvion heroverwegen hun plan om vanaf 15 jaar voor de AOW-leeftijd rekening te houden met het toekomstige pensioeninkomen."
         },
         {
-          "title": "Klopp lijkt in defensie rekening te houden met 'Xavi-voetbal' van Oranje",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/klopp-lijkt-in-defensie-rekening-te-houden-met-xavi-voetbal-van-oranje",
-          "publishedDate": "Mon, 16 Nov 2026 00:53:00 GMT",
-          "description": "Duitse media verwachten dat bondscoach J&#252;rgen Klopp zijn opstelling voor het Nations League-duel met Oranje maandagavond op twee plekken wijzigt. Nico Schlotterbeck en Nathaniel Brown keren waarschijn ..."
+          "title": "Rabobank koopt eigen Certificaten terug, maar is het bod aantrekkelijk?",
+          "source": "Beleggers Belangen",
+          "url": "https://www.beleggersbelangen.nl/advies/rabobank-koopt-eigen-certificaten-terug-maar-is-het-bod-aantrekkelijk/",
+          "publishedDate": "Tue, 17 Nov 2026 07:07:00 GMT",
+          "description": "Rabobank maakte op 9 november bekend dat het maximaal 40 miljoen Rabobank Certificaten inkoopt. De bank biedt 113% van de nominale waarde, oftewel €28,25 ..."
+        },
+        {
+          "title": "Rabobank en T is for Tech werken drie jaar samen",
+          "source": "Nijkerk Nieuws",
+          "url": "https://nijkerk.nieuws.nl/regio/rabobank-en-t-is-for-tech-werken-drie-jaar-samen",
+          "publishedDate": "Mon, 16 Nov 2026 06:59:00 GMT",
+          "description": "Rabobank en T is for Tech werken drie jaar samen om jongeren in de regio Amersfoort zelf techniek te laten ontdekken. De start was op 16 november 2026."
+        },
+        {
+          "title": "Rabobank kiest voor financi&#235;le prikkels om 'noodzakelijke transitie tuinbouw' te versnellen",
+          "source": "GroentenNieuws",
+          "url": "https://www.groentennieuws.nl/article/9892171/rabobank-kiest-voor-financiele-prikkels-om-noodzakelijke-transitie-tuinbouw-te-versnellen/",
+          "publishedDate": "Mon, 16 Nov 2026 03:14:00 GMT",
+          "description": "De Nederlandse tuinbouw levert dagelijks groente, fruit, bloemen en planten aan consumenten in Europa. Groente en fruit dragen daarmee bij aan de gezondheid, bloemen en planten aan ..."
         }
       ]
     },
     {
-      "keyword": "salderingsregeling zonnepanelen",
+      "keyword": "aardgas",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Bijna helft zonnepaneeleigenaren heeft spijt van aankoop",
-          "source": "nieuwrechts",
-          "url": "https://nieuwrechts.nl/114417-bijna-helft-zonnepaneeleigenaren-heeft-spijt-van-aankoop",
-          "publishedDate": "Thu, 19 Nov 2026 06:00:00 GMT",
-          "description": "Bijna de helft van de Nederlandse zonnepaneeleigenaren zou achteraf geen zonnepanelen meer kopen. Dat blijkt uit onderzoek van energieleverancier Budget Thuis onder 1.038 eigenaren. Maar liefst 46 pro ..."
+          "title": "Schiermonnikoog vraagt inwoners om mening over aardgasvrij eiland",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/schiermonnikoog/schiermonnikoog-vraagt-inwoners-om-mening-over-aardgasvrij-eiland~a3b3acd6/",
+          "publishedDate": "Wed, 18 Nov 2026 03:37:00 GMT",
+          "description": "De gemeente Schiermonnikoog werkt aan een warmteprogramma voor een aardgasvrij eiland. Inwoners, ondernemers en eigenaren van recreatiewoningen kunnen de komende weken een enqu&#234;te invullen."
         },
         {
-          "title": "Informatieavond over einde salderingsregeling",
-          "source": "zeewolde-actueel",
-          "url": "https://www.zeewolde-actueel.nl/nieuws/nieuws/379707/informatieavond-over-einde-salderingsregeling",
-          "publishedDate": "Thu, 19 Nov 2026 05:05:00 GMT",
-          "description": "ZEEWOLDE - De salderingsregeling voor zonnepanelen stopt op 1 januari 2027. Wat betekent dit voor huishoudens met zonnepanelen en hoe kunnen zij hun zelf opgewekte stroom zo voordelig mogelijk gebru.."
+          "title": "Stijging gasprijs is niet te stoppen: 2 euro per kubieke meter in zicht",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/economie/stijging-gasprijs-is-niet-te-stoppen-2-euro-per-kubieke-meter-in-zicht~ad534c90/",
+          "publishedDate": "Fri, 16 Oct 2026 21:02:00 GMT",
+          "description": "Aardgas blijft duurder worden. In &#233;&#233;n maand tijd is de beursprijs weer met 10 procent gestegen. Wie een nieuw contract afsluit, moet nu al rekenen met 1,80 euro per kuub. Een prijs van 2 euro wordt st ..."
         },
         {
-          "title": "Einde salderingsregel zet zonnepaneeleigenaren aan het denken",
-          "source": "Solar365",
-          "url": "https://www.solar365.nl/nieuws/einde-salderingsregel-zet-zonnepaneeleigenaren-aan-het-denken--68A6B5AF.html",
-          "publishedDate": "Thu, 19 Nov 2026 04:30:00 GMT",
-          "description": "Vanaf 1 januari 2027 komt er definitief een einde aan de salderingsregeling. Daardoor kunnen huishoudens met zonnepanelen stroom die zij terugleveren ..."
+          "title": "Toch gelukt: Amsterdamse regio verstookte 15 procent minder aardgas in 2022",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/amsterdam/toch-gelukt-amsterdamse-regio-verstookte-15-procent-minder-aardgas-in-2022~b940053c/",
+          "publishedDate": "Wed, 18 Jan 2023 09:09:00 GMT",
+          "description": "Het is de Amsterdamse regio gelukt om vorig jaar 15 procent minder aardgas te verstoken dan gemiddeld in de vier jaar ervoor. Daarmee is het doel dat door een coalitie van gemeenten en ..."
         },
         {
-          "title": "Einde salderingsregeling: 46% van de eigenaren zou achteraf geen panelen meer aanschaffen",
-          "source": "Eemskrant.nl",
-          "url": "https://www.eemskrant.nl/einde-salderingsregeling-46-van-de-eigenaren-zou-achteraf-geen-panelen-meer-aanschaffen/",
-          "publishedDate": "Thu, 19 Nov 2026 01:03:00 GMT",
-          "description": "Nederland - Januari 2027 stopt de salderingsregeling in Nederland. Vanaf dat moment kunnen mensen met zonnepanelen hun teruggeleverde stroom niet meer ..."
+          "title": "Nieuwe huizen nog altijd op aardgas",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2020/07/16/nieuwe-huizen-nog-altijd-op-aardgas-a4006174",
+          "publishedDate": "Thu, 16 Jul 2020 10:58:00 GMT",
+          "description": "Aardgasvrij Sinds twee jaar geldt een wet om nieuwbouw niet meer op aardgas aan te sluiten. Toch komen er nog altijd duizenden nieuwe huizen bij m&#233;t aardgas. Twee jaar geleden werd een wetswijziging ..."
         },
         {
-          "title": "Wie zonnepanelen heeft krijgt vanaf 1 januari een heel andere energierekening en dit kun je nu nog doen",
-          "source": "DutchCowboys",
-          "url": "https://www.dutchcowboys.nl/nieuws/wie-zonnepanelen-heeft-krijgt-vanaf-1-januari-een-heel-andere-energierekening-en-dit-kun-518426",
-          "publishedDate": "Wed, 18 Nov 2026 22:53:00 GMT",
-          "description": "De salderingsregeling stopt op 1 januari 2027. Lees wat dit betekent voor je terugleververgoeding en hoe je meer stroom van je zonnepanelen zelf gebruikt."
+          "title": "Prijsrecord aardgas, het is nu bijna te geef",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2020/05/25/prijsrecord-aardgas-het-is-nu-bijna-te-geef-a4000775",
+          "publishedDate": "Mon, 25 May 2020 13:13:00 GMT",
+          "description": "Vier vragen over de energiemarkt Aardgas kost in de groothandel nog maar 4 cent per kubieke meter, de laagste prijs in twintig jaar. Dat schaadt fossiele &#233;n groene bedrijven. Je kon erop wachten."
         },
         {
-          "title": "39 procent zonnepaneeleigenaren overweegt thuisbatterij vanwege einde salderingsregeling, 86 procent wil stroomgebruik aanpassen",
+          "title": "T&#252;rkiye toont interesse in Surinaams aardgas: mogelijke LNG-leveringen besproken",
+          "source": "Suriname Herald",
+          "url": "https://www.srherald.com/suriname/2026/11/18/turkiye-toont-interesse-in-surinaams-aardgas-mogelijke-lng-leveringen-besproken/",
+          "publishedDate": "Wed, 18 Nov 2026 13:34:00 GMT",
+          "description": "T&#252;rkiye heeft belangstelling getoond voor samenwerking bij de ontwikkeling van de Surinaamse offshore olie- en gassector. Daarbij wordt gekeken naar LNG-infrastructuur en de mogelijke toekomstige afna ..."
+        },
+        {
+          "title": "Shell begint met productie van gas uit velden in wateren Maleisi&#235;",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/geldzaken/algemeen/shell-begint-met-productie-van-gas-uit-velden-in-wateren-maleisi%C3%AB/ar-AA2hAGXJ",
+          "publishedDate": "Mon, 16 Nov 2026 23:35:00 GMT",
+          "description": "KUALA LUMPUR (ANP) - Shell is begonnen met de productie van aardgas bij twee gasvelden in de wateren van Maleisi&#235;. Die velden, genaamd Rosmari en Marjoram, liggen 220 kilometer uit de kust van de Male ..."
+        },
+        {
+          "title": "Warmtenetten: ‘Zonder stabiele subsidies veroordeel je heel veel mensen tot in lengte van dagen tot aardgas’",
           "source": "Solar Magazine",
-          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45385/39-procent-zonnepaneeleigenaren-overweegt-thuisbatterij-vanwege-einde-salderingsregeling-86-procent-wil-stroomgebruik-aanpassen",
-          "publishedDate": "Wed, 18 Nov 2026 16:01:00 GMT",
-          "description": "39 procent van de zonnepaneeleigenaren overweegt vanwege het einde van de salderingsregeling een thuisbatterij aan te schaffen. Bovendien wil 86 procent huishoudelijke apparaten vaker overdag gebruike ..."
+          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45293/warmtenetten-zonder-stabiele-subsidies-veroordeel-je-heel-veel-mensen-tot-in-lengte-van-dagen-tot-aardgas",
+          "publishedDate": "Sun, 08 Nov 2026 16:00:00 GMT",
+          "description": "Gemeenten zien vaker het nut van warmtenetten, maar de aanleg blijft steken. Joris Wijnhoven, strateeg Energietransitie bij NVDE: ‘De businesscase is gewoon niet rond te breien. De regering moet in ac ..."
         },
         {
-          "title": "Bedenker salderingsregeling Diederik Samsom heeft geen medelijden met boze zonnepaneeleigenaren",
-          "source": "Solar Magazine",
-          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45384/bedenker-salderingsregeling-diederik-samsom-heeft-geen-medelijden-met-boze-zonnepaneeleigenaren",
-          "publishedDate": "Wed, 18 Nov 2026 16:01:00 GMT",
-          "description": "Diederik Samsom, bedenker van de salderingsregeling, heeft weinig begrip voor boze zonnepaneeleigenaren nu het salderen voorgoed stopt. Subsidie op thuisbatterijen vindt het oud-Tweede Kamerlid bovend ..."
+          "title": "Wanneer wordt mijn gasaansluiting afgesloten en hoe haalbaar is dat? Jouw vragen over afbouw van aardgas beantwoord",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/16/vragen-afbouw-aardgasnet-vlaanderen/",
+          "publishedDate": "Wed, 16 Sep 2026 07:30:00 GMT",
+          "description": "Er komen op onze redactie heel wat vragen binnen over de afbouw van het aardgasnet in ons land. Gasnetbeheerder Fluvius heeft van de Vlaamse regering de opdracht gekregen om het net af te bouwen. Hoe ..."
         },
         {
-          "title": "Thuisbatterij populair nu salderingsregeling stopt, maar heb je er ook wat aan?",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/thuisbatterij-populair-nu-salderingsregeling-stopt-maar-heb-je-er-ook-wat-aan",
-          "publishedDate": "Tue, 17 Nov 2026 06:08:00 GMT",
-          "description": "Over ruim een maand is het zover: de lucratieve salderingsregeling stopt. Op dit moment kunnen huishoudens met zonnepanelen de elektriciteit die ze terugleveren aan het net nog verrekenen met de ..."
-        },
-        {
-          "title": "Thuisbatterij voor zonnepanelen: loont het in 2027 echt?",
-          "source": "maassluis",
-          "url": "https://www.maassluis.nu/economie/consument/thuisbatterij-voor-zonnepanelen-loont-het-in-2027-echt/",
-          "publishedDate": "Wed, 11 Nov 2026 16:00:00 GMT",
-          "description": "Loont een thuisbatterij bij zonnepanelen na het einde van de salderingsregeling? Lees over kosten, besparing, terugverdientijd en voor wie het loont."
+          "title": "Aardgas- en elektriciteitslevering aan bedrijven; verbruiksklasse, SBI 2008",
+          "source": "CBS",
+          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/84901NED",
+          "publishedDate": "Thu, 30 Oct 2025 19:00:00 GMT",
+          "description": "A-U Alle economische activiteiten Totaal aardgas Totaal elektriciteit 2024* 897.070 23.081.500 63.499.700 A-U Alle economische activiteiten Totaal aardgas 0 t/m 10 000 kWh 2024* 534.170 1.125.500 ..."
         }
       ]
     },
     {
-      "keyword": "anthropic stock",
+      "keyword": "vliegen",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Anthropic's IPO Is Finally Here. The Stock Is Set to Pop 25% in Opening Day.",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/livecoverage/ipo-anthropic-claude-stock-price-ticker",
-          "publishedDate": "Thu, 19 Nov 2026 06:14:00 GMT",
-          "description": "Follow live coverage of Anthropic's IPO, including its pricing today and stock trading under the ticker ANT tomorrow."
+          "title": "De Week van Minne: Op weg naar klimaatneutraal vliegen",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/fragmenten/de-rode-draad/01a1f55c-3450-7057-8f5a-f5c34a43efbe/2026-11-19-de-week-van-minne-op-weg-naar-klimaatneutraal-vliegen",
+          "publishedDate": "Thu, 19 Nov 2026 10:59:00 GMT",
+          "description": "Elke week duikt een redacteur van De Rode Draad voorbij de waan van de dag in &#233;&#233;n groot onderwerp. Deze week onderzoekt Minne van Veen de toekomst van duurzaam vliegen. Waarom blijft een grote doorbra ..."
         },
         {
-          "title": "AI firm Anthropic about to make US stock market debut with valuation of $1.5tn",
-          "source": "BBC on MSN",
-          "url": "https://www.msn.com/en-us/money/topstories/ai-firm-anthropic-about-to-make-us-stock-market-debut-with-valuation-of-15tn/ar-AA2hMvKc",
-          "publishedDate": "Thu, 19 Nov 2026 05:48:20 GMT",
-          "description": "The company behind AI product Claude is being publicly listed for the first time today, with trading to begin in New York from 14:30 GMT."
+          "title": "Hoe je bij KLM Business Class kunt vliegen voor slechts € 200",
+          "source": "Up in the Sky",
+          "url": "https://www.upinthesky.nl/2026/11/19/hoe-je-in-business-class-van-klm-kunt-vliegen-voor-slechts-e-200/",
+          "publishedDate": "Wed, 18 Nov 2026 22:49:00 GMT",
+          "description": "De intercontinentale businessclass van KLM is iconisch. Hoewel noch de stoelen, noch de service eruit springen in vergelijking met de concurrentie, keren ..."
         },
         {
-          "title": "Today’s Market Movers: Anthropic IPO Pricing Lifts Alphabet, Amazon and AI Stocks Before the Bell",
-          "source": "Blockonomi",
-          "url": "https://blockonomi.com/todays-market-movers-anthropic-ipo-pricing-lifts-alphabet-amazon-and-ai-stocks-before-the-bell/",
-          "publishedDate": "Thu, 19 Nov 2026 05:36:00 GMT",
-          "description": "Anthropic’s record $83 IPO price lifts Alphabet and Amazon, Palo Alto jumps 9.6%, Alibaba slips and Walmart reports."
+          "title": "China laat elektrisch passagiersvliegtuig voor 19 personen opstijgen: dit kan nog weleens de toekomst van vliegen worden",
+          "source": "VK Magazine",
+          "url": "https://www.vkmag.com/magazine/china-laat-elektrisch-passagiersvliegtuig-voor-19-personen-opstijgen-dit-kan-nog-weleens-de-toekomst-van-vliegen-worden",
+          "publishedDate": "Sun, 15 Nov 2026 23:37:00 GMT",
+          "description": "Wie tegenwoordig een vliegticket boekt, weet dat er ergens onder de vleugels een paar flinke motoren hangen die behoorlijk wat kerosine verstoken. Maar als het aan China ligt, gaat dat in de toekomst ..."
+        }
+      ]
+    },
+    {
+      "keyword": "nederlands kabinet",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Ondernemers kritisch op vage mkb-plannen kabinet: 'Worst voorgehouden'",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/economie/artikel/5665594/kabinet-nog-weinig-concreet-ondernemers-willen-meer-duidelijkheid",
+          "publishedDate": "Tue, 17 Nov 2026 04:52:00 GMT",
+          "description": "Het kabinet komt met nieuwe belastingmaatregelen voor ondernemers na het crisisberaad van afgelopen dagen. Onder meer de zogenoemde mkb-vrijstelling moet omhoog. Tot teleurstelling van ondernemers zel ..."
         },
         {
-          "title": "Anthropic IPO: 3 weird facts to know before you buy the stock",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-3-weird-facts-to-know-before-you-buy-the-stock-130027579.html",
-          "publishedDate": "Thu, 19 Nov 2026 05:30:00 GMT",
-          "description": "In an amended S-1 filing, Anthropic said that third quarter sales rose 1,127% to $17 billion. Revenue growth slowed on a quarter-over-quarter basis. Third quarter sales increased 47% compared with a ..."
+          "title": "Mocht het kabinet dit weekend vallen, dan is de koning niet in Europees Nederland",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/11/14/mocht-het-kabinet-dit-weekend-vallen-dan-is-de-koning-niet-in-nederland-a4941395",
+          "publishedDate": "Sat, 14 Nov 2026 04:14:00 GMT",
+          "description": "Mocht het kabinet dit weekend vallen, of een deel van de ministers ontslag willen indienen, dan is &#233;&#233;n cruciale schakel niet in Europees Nederland. Alleen de Koning verleent namelijk ontslag en Willem ..."
         },
         {
-          "title": "Anthropic IPO: The stock is just hours away from its highly anticipated trading debut — live coverage",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/livecoverage/anthropic-ipo-stock-trading-today-price-valuation-ant",
-          "publishedDate": "Thu, 19 Nov 2026 04:30:00 GMT",
-          "description": "Anthropic's stock will begin trading on Thursday after pricing at $83, implying a $1.5 trillion valuation on a fully diluted basis. The company is set to haul in record proceeds and its IPO has been ..."
+          "title": "Amsterdamse raadsleden en Nederlandse universiteiten roepen kabinet op Gazanen te evacueren: ‘Leg deze week nog contact met Isra&#235;l’",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/amsterdam/amsterdamse-raadsleden-en-nederlandse-universiteiten-roepen-kabinet-op-gazanen-te-evacueren-leg-deze-week-nog-contact-met-israel~b70a58d5/",
+          "publishedDate": "Thu, 21 May 2026 02:33:00 GMT",
+          "description": "Amsterdamse raadsleden en Nederlandse universiteiten roepen het kabinet op om 46 Palestijnen met een Nederlands visum uit Gaza te evacueren. Onder hen zijn ook studenten die komend studiejaar in ..."
         },
         {
-          "title": "Anthropic Starts Trading Nov. 19. These 3 Industrial Stocks Already Are Linked to It -- and You Can Buy Them Right Now.",
-          "source": "The Motley Fool",
-          "url": "https://www.fool.com/investing/2026/11/19/anthropic-starts-trading-nov-19-these-3-industrial-stocks-already-are-linked-to-it-and-you-can-buy-them-right-now/",
+          "title": "Nederlands kabinet koppelt werk- en verblijfsvergunning aan toelating uitleenbureau",
+          "source": "AGF.nl",
+          "url": "https://www.agf.nl/article/9893576/nederlands-kabinet-koppelt-werk-en-verblijfsvergunning-aan-toelating-uitleenbureau/",
+          "publishedDate": "Tue, 17 Nov 2026 04:11:00 GMT",
+          "description": "Het Nederlandse kabinet presenteert op 16 november 2026 een wetsvoorstel dat werk- en verblijfsvergunningen voor arbeidsmigranten van buiten de EU koppelt aan de toelatingsstatus ..."
+        },
+        {
+          "title": "Nederlands kabinet overleeft crisis na vier dagen overleg",
+          "source": "Starnieuws",
+          "url": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/94899",
+          "publishedDate": "Mon, 16 Nov 2026 18:57:00 GMT",
+          "description": "De Nederlandse regeringscoalitie van D66, VVD en CDA blijft voorlopig aan de macht. Na vier dagen intensief crisisoverleg hebben de drie ..."
+        },
+        {
+          "title": "Vertrouwen hersteld in Nederlandse coalitie: kabinet-Jetten gaat door &quot;na intensieve gesprekken&quot;",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/regering-nederland-valt-niet/",
+          "publishedDate": "Mon, 16 Nov 2026 13:19:00 GMT",
+          "description": "De Nederlandse coalitiepartijen D66, VVD en CDA willen verder met het huidige kabinet van premier Rob Jetten. Volgens de Rijksvoorlichtingsdienst, de communicatiedienst van de Nederlandse regering, zi ..."
+        },
+        {
+          "title": "Jesse Klaver: ‘Nederland heeft het recht te weten of er nog een kabinet is’",
+          "source": "BNR Nieuwsradio",
+          "url": "https://www.bnr.nl/nieuws/nieuws-politiek/10615784/nederland-heeft-recht-om-te-weten-of-er-nog-een-kabinet-is",
+          "publishedDate": "Mon, 16 Nov 2026 04:34:00 GMT",
+          "description": "Wat Klaver betreft&#160;vindt het debat morgen al plaats. Uit het debat moet volgens hem vooral helderheid gehaald worden."
+        },
+        {
+          "title": "De Rode Lijn Voorbij-protest: wat moet het Nederlandse kabinet doen?",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/fragmenten/de-rode-draad/01a1b15e-1c8a-716e-92f6-f2ef2eb6e32e/2026-11-06-de-rode-lijn-voorbij-protest-wat-moet-het-nederlandse-kabinet-doen",
+          "publishedDate": "Fri, 06 Nov 2026 06:00:00 GMT",
+          "description": "Zondag vindt er in Amsterdam weer een Rode Lijn-demonstratie plaats tegen de genocide van Palestijnen in Gaza en de andere door Isra&#235;l bezette gebieden. Thomas van Gool, projectleider bij vredesorgani ..."
+        },
+        {
+          "title": "Kabinet kiest voor AI die Nederland vooruithelpt",
+          "source": "Rijksoverheid",
+          "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/kabinet-kiest-voor-ai-die-nederland-vooruithelpt",
+          "publishedDate": "Fri, 06 Nov 2026 05:45:00 GMT",
+          "description": "Kunstmatige intelligentie (AI) verandert in hoog tempo onze economie, samenleving en veiligheid. De keuzes die Nederland nu maakt, bepalen welke banen en bedrijven hier ontstaan, hoe onze zorg, onderw ..."
+        }
+      ]
+    },
+    {
+      "keyword": "corona",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Alles over het coronavirus",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/coronavirus",
+          "publishedDate": "Mon, 09 Nov 2026 16:00:00 GMT",
+          "description": "Nieuws en video's uit de rubriek Coronavirus. Betrouwbaar, gratis en snel op NU.nl, de grootste nieuwssite van Nederland."
+        },
+        {
+          "title": "Corona-verhoren: Marion Koopmans getuigt voor parlementaire enqu&#234;tecommissie Corona",
+          "source": "NOS",
+          "url": "https://nos.nl/livestream/2615912-corona-verhoren-marion-koopmans-getuigt-voor-parlementaire-enquetecommissie-corona",
+          "publishedDate": "Fri, 29 May 2026 02:45:00 GMT",
+          "description": "Corona-verhoren: Marion Koopmans getuigt voor parlementaire enqu&#234;tecommissie Corona Viroloog Marion Koopmans is de eerste getuige die gehoord wordt door Corona-commissie. De enqu&#234;tecommissie met ..."
+        },
+        {
+          "title": "Corona in Den Haag en omstreken",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/dossier/corona-in-den-haag-en-omstreken~d74ff6576-6ff9-4e05-9d5c-2ff222c9df63/",
+          "publishedDate": "Mon, 21 Mar 2022 23:03:00 GMT",
+          "description": "Bekijk alle artikelen uit: Corona in Den Haag en omstreken bij AD. Het laatste nieuws uit binnen- en buitenland, sport en show."
+        },
+        {
+          "title": "Corona is weer terug, net nu de laatste vaccinaties worden gegeven",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/gezond/corona-is-weer-terug-net-nu-de-laatste-vaccinaties-worden-gegeven~acc5d2ad/",
           "publishedDate": "Thu, 19 Nov 2026 04:22:00 GMT",
-          "description": "Anthropic 's ( ANT +0.00%) initial public offering (IPO) looks set to be another blockbuster, possibly setting new IPO records and giving investors a chance to access a pure-play artificial ..."
+          "description": "Het coronavirus is weer echt terug van weggeweest. Van alle virussen waar in laboratoria op wordt getest, is het coronavirus momenteel het meest voorkomende. Al een week of tien is er een stijgende li ..."
         },
         {
-          "title": "Anthropic to Price Stock at $83 a Share, Valuing it Above $1 Trillion",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/news/videos/anthropic-price-stock-83-share-121907058.html",
-          "publishedDate": "Thu, 19 Nov 2026 04:19:00 GMT",
-          "description": "Anthropic, known for its Claude AI chatbot, is going public Thursday morning and will appear on the NASDAQ as ANT. The company is pricing its shares at $83 apiece, which could skyrocket Anthropic’s ..."
+          "title": "Corona slaat weer toe: hier stijgen de cijfers en moet het mondkapje weer op",
+          "source": "Startpagina on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/corona-slaat-weer-toe-hier-stijgen-de-cijfers-en-moet-het-mondkapje-weer-op/ar-AA2hLqph",
+          "publishedDate": "Thu, 19 Nov 2026 02:11:59 GMT",
+          "description": "Corona is terug van weggeweest: in Nederland en de VS stijgen de cijfers en nieuwe variant PJ.2.1 rukt op. Moet het mondkapje weer op en dreigen er lockdowns? Dit is de stand van zaken."
         },
         {
-          "title": "Update: Anthropic prijst IPO op 83 dollar per aandeel",
-          "source": "De Aandeelhouder",
-          "url": "https://www.deaandeelhouder.nl/nieuws/2026/11/19/update-anthropic-prijst-ipo-op-83-dollar-per-aandeel/",
-          "publishedDate": "Wed, 18 Nov 2026 23:53:00 GMT",
-          "description": "Daar zitten wel stevige aannames achter, erkent Jobe. Econopolis rekent op ongeveer 374 miljard dollar omzet in 2030 en een duidelijke verbetering van de winstgevendheid. “Anthropic moet dat nog ..."
+          "title": "Hoelang ben je besmettelijk met corona?",
+          "source": "Gezondheid.be",
+          "url": "https://www.gezondheid.be/artikel/covid19/zelftest-na-covid-hoe-kan-je-zien-of-je-nog-besmettelijk-bent-33719",
+          "publishedDate": "Wed, 21 Oct 2026 17:00:00 GMT",
+          "description": "dossier Je kan het coronavirus al doorgeven voordat je zelf iets van de besmetting merkt. Vooral tijdens de eerste dagen nadat de symptomen beginnen, ben je besmettelijk. Bij de meeste mensen neemt ..."
         },
         {
-          "title": "Voeg toe als voorkeursbron op Google",
-          "source": "aiwereld",
-          "url": "https://aiwereld.nl/nieuws/anthropic-beursgang-ipo-nasdaq-ant-prijs-cijfers-2026",
-          "publishedDate": "Wed, 18 Nov 2026 23:07:00 GMT",
-          "description": "Anthropic gaat voor 83 dollar per aandeel naar Nasdaq. Lees hoe de IPO van 81,34 miljard dollar werkt, wat Claude verdient en wie de macht houdt."
+          "title": "Een coronaprik krijgen",
+          "source": "Rijksoverheid",
+          "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/coronavirus-vaccinatie/aanpak-coronavaccinatie",
+          "publishedDate": "Mon, 10 Nov 2025 09:27:00 GMT",
+          "description": "De volgende mensen kunnen een coronaprik halen in het najaar van 2026: Mensen van 70 jaar en ouder; Mensen van 50 tot en met 69 jaar met 1 of meer ziekten of aandoeningen die meer kans hebben op het ..."
         },
         {
-          "title": "Wordt dit de grootste beursgang ooit? AI-bedrijf Anthropic vandaag naar de beurs",
-          "source": "VRT on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/wordt-dit-de-grootste-beursgang-ooit-ai-bedrijf-anthropic-vandaag-naar-de-beurs/ar-AA2hJQmo",
-          "publishedDate": "Wed, 18 Nov 2026 20:46:09 GMT",
-          "description": "AI is overal, maar levert de technologie ook genoeg geld op om de torenhoge verwachtingen waar te maken? Anthropic, het bedrijf achter chatbot Claude, trekt vandaag naar de beurs. Met 76 euro per aand ..."
+          "title": "COVID-19 en covid-vaccinatie",
+          "source": "lhv.nl",
+          "url": "https://www.lhv.nl/thema/corona-en-covid-vaccinatie/",
+          "publishedDate": "Wed, 23 Oct 2024 17:00:00 GMT",
+          "description": "Op deze pagina staat alle informatie over corona voor jou als huisarts op een rijtje. Van adviezen over beeldbellen tot handige informatiebronnen. Ook vind je hier alle informatie over de ..."
+        },
+        {
+          "title": "Belgi&#235; rondt officieel trieste kaap van 30.000 coronadoden: wie zijn ze en stierven ze d&#243;&#243;r of m&#233;t covid?",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2022/02/21/30-000-mensen-overleden-aan-corona/",
+          "publishedDate": "Mon, 21 Feb 2022 06:44:00 GMT",
+          "description": "Op 7 maart zal het exact twee jaar geleden zijn dat het coronavirus in ons land een eerste dodelijk slachtoffer veroorzaakte. Vandaag is officieel de symbolische kaap van 30.000 coronadoden ..."
         }
       ]
     }
