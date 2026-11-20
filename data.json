@@ -1,231 +1,334 @@
 {
-  "fetchedAt": "2026-11-20T03:49:18.674Z",
+  "fetchedAt": "2026-11-20T12:23:49.816Z",
   "trends": [
     {
-      "keyword": "covid-19",
+      "keyword": "tandarts wijchen",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Wat is het coronavirus?",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/uitleg-over-het-coronavirus",
-          "publishedDate": "Wed, 11 Nov 2026 16:00:00 GMT",
-          "description": "Nieuws en video's uit de rubriek Uitleg over het coronavirus. Betrouwbaar, gratis en snel op NU.nl, de grootste nieuwssite van Nederland."
-        },
-        {
-          "title": "Alles over het coronavirus",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/coronavirus",
-          "publishedDate": "Mon, 09 Nov 2026 16:00:00 GMT",
-          "description": "Nieuws en video's uit de rubriek Coronavirus. Betrouwbaar, gratis en snel op NU.nl, de grootste nieuwssite van Nederland."
-        },
-        {
-          "title": "Jongeren zijn Covid-19 nog steeds niet te boven",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/zorg/jongeren-zijn-covid-19-nog-steeds-niet-te-boven~be8b8d81/",
-          "publishedDate": "Thu, 29 Oct 2026 08:29:00 GMT",
-          "description": "Vijf jaar na dato kampen jongeren nog steeds met de nawee&#235;n van de coronacrisis. Hun mentale gezondheid en welzijn laten geen herstel zien."
-        },
-        {
-          "title": "Corona is weer terug, net nu de laatste vaccinaties worden gegeven",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/gezond/corona-is-weer-terug-net-nu-de-laatste-vaccinaties-worden-gegeven~acc5d2ad/",
-          "publishedDate": "Thu, 19 Nov 2026 04:22:00 GMT",
-          "description": "Het coronavirus is weer echt terug van weggeweest. Van alle virussen waar in laboratoria op wordt getest, is het coronavirus momenteel het meest voorkomende. Al een week of tien is er een stijgende li ..."
-        },
-        {
-          "title": "Actualiteiten over coronavirus SARS-CoV-2",
-          "source": "rivm",
-          "url": "https://www.rivm.nl/corona/actueel/weekcijfers",
-          "publishedDate": "Wed, 18 Nov 2026 08:23:00 GMT",
-          "description": "Het RIVM deelt wekelijks op woensdag de actuele cijfers over het coronavirus SARS (severe acute respiratory syndrome)-CoV-2 in Nederland. Update 18 november 2026: Meer mensen met coronavirus ..."
-        },
-        {
-          "title": "Viroloog Koopmans over inschatten gevaar coronavirus: 'Dat proces heeft tijd nodig'",
-          "source": "rtl",
-          "url": "https://www.rtl.nl/nieuws/politiek/artikel/5607011/koopmans-inschatten-gevaar-van-nieuw-virus-heeft-tijd-nodig",
-          "publishedDate": "Fri, 29 May 2026 02:17:00 GMT",
-          "description": "Niemand had begin 2020 al kunnen inschatten hoe snel en massaal het coronavirus wereldwijd om zich heen zou grijpen. Dat heeft viroloog Marion Koopmans gezegd tijdens haar verhoor in de parlementaire ..."
-        },
-        {
-          "title": "Gezondheidsraad schuift grens coronaprik op: jongere ouderen komen niet langer in aanmerking",
-          "source": "rtl",
-          "url": "https://www.rtl.nl/nieuws/artikel/5576323/adviesleeftijd-coronaprik-met-tien-jaar-verschoven-van-60-naar-70-plus",
-          "publishedDate": "Tue, 10 Mar 2026 03:06:00 GMT",
-          "description": "Het risico op ernstige ziekte en sterfte door COVID-19 neemt toe met de leeftijd, schrijft de raad in een verklaring. Uit onderzoek naar de ziektelast in 2023 en 2024 blijkt dat het risico op ..."
-        },
-        {
-          "title": "Coronavirus COVID-19",
-          "source": "Rijksoverheid",
-          "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/coronavirus-covid-19",
-          "publishedDate": "Mon, 18 Aug 2025 06:22:00 GMT",
-          "description": "Meer financi&#235;le ondersteuning voor zorgmedewerkers met langdurige post-COVID klachten Met de regeling ‘Zorgmedewerkers met langdurige post-COVID klachten’ heeft het kabinet in 2023 een groep ..."
-        },
-        {
-          "title": "COVID-19 adviezen OMT en RT",
-          "source": "rivm",
-          "url": "https://www.rivm.nl/corona/adviezen",
-          "publishedDate": "Fri, 11 Feb 2022 06:42:00 GMT",
-          "description": "Duiding COVID-19-epidemie door het COVID-19-responsteam Meer informatie ..."
-        },
-        {
-          "title": "Wat het nieuwe coronavirus met het lichaam doet",
-          "source": "nationalgeographic",
-          "url": "https://www.nationalgeographic.nl/wetenschap/2020/02/wat-het-nieuwe-coronavirus-met-het-lichaam-doet",
-          "publishedDate": "Tue, 08 Jun 2021 12:26:00 GMT",
-          "description": "Veel aspecten van het nieuwe coronavirus dat China in zijn greep houdt, zijn nog onbekend, maar &#233;&#233;n ding is duidelijk: de ziekte kan in het hele menselijk lichaam huishouden. Dat was ook het kenmerk ..."
-        }
-      ]
-    },
-    {
-      "keyword": "emma kok",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Emma Kok vond het ‘heel spannend’ om lichaam aan vriend te laten zien, maar zijn reactie geeft veel steun",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/show/emma-kok-vond-het-heel-spannend-om-lichaam-aan-vriend-te-laten-zien-maar-zijn-reactie-geeft-veel-steun~a5080b29/",
-          "publishedDate": "Thu, 19 Nov 2026 11:06:00 GMT",
-          "description": "Zangeres Emma Kok (18) vindt het erg fijn dat haar vriend haar lichaam mooi vindt zoals het is. Ze zou het hebben begrepen als dat niet zo was, zegt ze donderdag openhartig in een nieuw interview. Daa ..."
-        },
-        {
-          "title": "Emma Kok over impact pestverleden: 'Jarenlang therapie moeten volgen'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/emma-kok-impact-pestverleden-jarenlang-therapie",
-          "publishedDate": "Thu, 19 Nov 2026 06:24:00 GMT",
-          "description": "Emma Kok vertelt over het pesten op school en haar nieuwe single Laissez-Moi. Ook vertelt ze hoe ze meer zelfvertrouwen heeft gekregen door haar vriend."
-        },
-        {
-          "title": "Bijzondere mijlpaal voor Emma Kok: 'Ik heb mijn rijbewijs gehaald'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/bijzondere-mijlpaal-emma-kok-rijbewijs-gehaald",
-          "publishedDate": "Thu, 19 Nov 2026 04:33:00 GMT",
-          "description": "Emma Kok heeft haar rijbewijs gehaald. Op Instagram deelt ze het nieuws. Ook moeder Nathalie is trots op haar dochter."
-        },
-        {
-          "title": "GEFELICITEERD! Emma Kok schreeuwt fantastisch nieuws van de daken",
-          "source": "100%NL Magazine",
-          "url": "https://www.100pmagazine.nl/nieuws/gefeliciteerd-emma-kok-schreeuwt-fantastisch-nieuws-van-de-daken/",
-          "publishedDate": "Thu, 19 Nov 2026 02:39:00 GMT",
-          "description": "Emma Kok heeft bereikt mijlpaal achter mijlpaal en ook vandaag heeft de zangeres iets bijzonders te vieren. Vol trots deelt ze op Instagram een foto waarop ze naast een auto staat. ‘Raad eens wie er r ..."
-        },
-        {
-          "title": "Verrassend nieuws over Emma Kok",
-          "source": "Vipnieuws.nl",
-          "url": "https://vipnieuws.nl/verrassend-nieuws-over-emma-kok/",
-          "publishedDate": "Thu, 19 Nov 2026 02:00:00 GMT",
-          "description": "Verrassend nieuws over Emma Kok: de zangeres is deze winter te zien als speciale gast bij Holiday on Ice. Waaraan mogen we ons verwachten? De zangeres verzorgt gastoptredens tijdens een aantal shows ..."
-        },
-        {
-          "title": "Emma Kok overwint onzekerheid over lichaam dankzij vriend Stilanos",
-          "source": "RTL Boulevard (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/emma-kok-overwint-onzekerheid-over-lichaam-dankzij-vriend-stilanos/ar-AA2hKYKa",
-          "publishedDate": "Thu, 19 Nov 2026 00:53:17 GMT",
-          "description": "De liefde doet Emma Kok (18) goed. De zangeres, die vanwege haar ziekte afhankelijk is van sondevoeding, heeft jarenlang geworsteld met onzekerheden over haar lichaam. Sinds ze een relatie heeft met h ..."
-        },
-        {
-          "title": "Emma Kok laat zich na paar cocktails op intieme plekken vastpakken door wisselende partners",
-          "source": "Mannenzaken",
-          "url": "https://mannenzaken.nl/nieuws/emma-kok-laat-zich-na-paar-cocktails-op-intieme-plekken-vastpakken-door-wisselende-partners",
-          "publishedDate": "Wed, 18 Nov 2026 13:00:00 GMT",
-          "description": "Emma Kok laat haar brave podiumimago voor &#233;&#233;n avond duidelijk even thuis. De 18-jarige zangeres deelt een reeks beelden van een gezellige avond waarbij cocktails, vrienden en behoorlijk wat lichamelij ..."
-        },
-        {
-          "title": "Emma Kok zorgt letterlijk en figuurlijk voor vuurwerk tijdens releaseparty in loshangende jurk",
-          "source": "Mannenzaken",
-          "url": "https://mannenzaken.nl/nieuws/emma-kok-zorgt-letterlijk-en-figuurlijk-voor-vuurwerk-tijdens-releaseparty-in-loshangende-jurk",
-          "publishedDate": "Thu, 12 Nov 2026 11:00:00 GMT",
-          "description": "Emma Kok heeft haar nieuwe muzikale hoofdstuk bepaald niet stilletjes afgetrapt. De 18-jarige zangeres vierde de release van haar single Laissez-Moi met een heuse releaseparty en trok daarvoor een opv ..."
-        },
-        {
-          "title": "Hoe leerde Emma Kok haar nieuwe vriend kennen?",
-          "source": "Show24",
-          "url": "https://show24.nl/hoe-leerde-emma-kok-haar-nieuwe-vriend-kennen/",
-          "publishedDate": "Mon, 09 Nov 2026 20:59:00 GMT",
-          "description": "“Toen hebben we elkaar ontmoet en was het meteen goed”, onthult Emma Kok in Weekend dat het liefde op het eerste gezicht was. Al gonst het op de ‘juicechannels’ wel van de geruchten dat de nieuwe ..."
-        },
-        {
-          "title": "Emma Kok dit jaar te gast bij Holiday on Ice",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/emma-kok-dit-jaar-te-gast-bij-holiday-on-ice",
-          "publishedDate": "Mon, 09 Nov 2026 09:30:00 GMT",
-          "description": "Emma Kok verzorgt deze winter gastoptredens bij Holiday on Ice. Ontdek in welke vijf steden ze te zien is en wanneer de shows plaatsvinden. De kaartverkoop is gestart."
-        }
-      ]
-    },
-    {
-      "keyword": "anthropic",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Anthropic sluit op eerste dag met koers van 97,17 dollar",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/11/19/anthropic-sluit-op-eerste-dag-met-koers-van-9717-dollar-a4941892",
-          "publishedDate": "Thu, 19 Nov 2026 14:39:00 GMT",
-          "description": "In de eerste minuten van de eerste dag van de beursnotering steeg het aandeel van AI-bedrijf Anthropic even met 34 procent van 83 dollar tot boven de 111 euro, maar die hoge koers heeft de beursdebuta ..."
-        },
-        {
-          "title": "Succesvolle eerste beursdag voor Anthropic, afwachten of optimisme doorzet",
+          "title": "Tandarts die neonazistisch kooigevecht faciliteerde, zegt daardoor 'overvallen' te zijn",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2640208-succesvolle-eerste-beursdag-voor-anthropic-afwachten-of-optimisme-doorzet",
-          "publishedDate": "Thu, 19 Nov 2026 13:42:00 GMT",
-          "description": "Het aandeel van het AI-bedrijf was aan het einde van de beursdag van de Amerikaanse Nasdaq fors in waarde gestegen."
+          "url": "https://nos.nl/artikel/2640242-tandarts-die-neonazistisch-kooigevecht-faciliteerde-zegt-daardoor-overvallen-te-zijn",
+          "publishedDate": "Thu, 19 Nov 2026 23:53:00 GMT",
+          "description": "&quot;Ik ben zelf conservatief, rechts en nationalistisch. Ik hou van Europa, ik hou van Nederland. Maar dat is heel wat anders dan een neonazi zijn&quot;, zegt hij."
         },
         {
-          "title": "OpenAI kijkt aandachtig mee naar de beursgang van Anthropic. Wat zullen ze denken?",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/11/19/openai-kijkt-aandachtig-mee-naar-de-beursgang-van-anthropic-wat-zullen-ze-denken-a4941889",
-          "publishedDate": "Thu, 19 Nov 2026 12:44:00 GMT",
-          "description": "Terwijl beleggers en bankiers nog volop bezig zijn met de eerste handelsdag van Anthropic, verlegt de aandacht zich straks naar de mogelijk volgende mega-gebeurtenis op de beurzen. En dat is de beursg ..."
+          "title": "Zembla onthult huiveringwekkende praktijken van Nederlandse neonazi's en hun nauwe banden met FVD",
+          "source": "BNNVARA",
+          "url": "https://www.bnnvara.nl/joop/artikelen/zembla-onthult-huiveringwekkende-praktijken-van-nederlandse-neonazis-en-hun-nauwe-banden-met-fvd",
+          "publishedDate": "Tue, 17 Nov 2026 16:00:00 GMT",
+          "description": "De rechtsextremisten, die deel uitmaken van een snelgroeiend wereldwijd netwerk, organiseren in Nederland kampen waar onder meer kooigevechten gehouden worden."
         },
         {
-          "title": "Anthropic haalt bij grootste beursgang ooit 107 miljard dollar op en vestigt record",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/duurzaamheid-economie/anthropic-haalt-bij-grootste-beursgang-ooit-107-miljard-dollar-op-en-vestigt-record~bf2e07a8/",
-          "publishedDate": "Thu, 19 Nov 2026 12:07:00 GMT",
-          "description": "Er was veel vraag naar aandelen van AI-firma Anthropic. In de eerste uren van de handel in het aandeel steeg de koers, maar niet heel spectaculair."
+          "title": "Tandarts uit Wijchen onder vuur vanwege kooigevechten van neonazi’s op eigen terrein",
+          "source": "Nationale Zorggids",
+          "url": "https://www.nationalezorggids.nl/zorgpersoneel/tandarts-uit-wijchen-onder-vuur-vanwege-kooigevechten-van-neonazis-op-eigen-terrein/",
+          "publishedDate": "Fri, 20 Nov 2026 00:21:00 GMT",
+          "description": "De negatieve recensies stromen binnen bij een tandarts uit Wijchen. De reden? Hij heeft, bewust of onbewust, een nazi-bijeenkomst met kooigevechten gefaciliteerd op zijn ..."
         },
         {
-          "title": "Koers AI-bedrijf Anthropic meteen door het dak: aandeel opent 34 procent hoger",
+          "title": "Boze bellers treffen de verkeerde tandarts na nieuws over kooigevecht",
+          "source": "Welingelichte Kringen",
+          "url": "https://www.welingelichtekringen.nl/samenleving/boze-bellers-treffen-de-verkeerde-tandarts-na-nieuws-over-kooigevecht",
+          "publishedDate": "Fri, 20 Nov 2026 00:02:00 GMT",
+          "description": "Na een Zembla-uitzending over een kooigevecht kreeg de verkeerde tandarts boze telefoontjes. De verwarring zat in het verschil tussen woonplaats en werkadres."
+        },
+        {
+          "title": "Kooigevechten op terrein van tandarts Bas E. roepen vragen op: waarom juist hier in Oeffelt?",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/land-van-cuijk/kooigevechten-op-terrein-van-tandarts-bas-e-roepen-vragen-op-waarom-juist-hier-in-oeffelt~ad59a7e5/",
+          "publishedDate": "Thu, 19 Nov 2026 07:34:00 GMT",
+          "description": "Kooigevechten op terrein van tandarts Bas E. roepen vragen op: waarom juist hier in Oeffelt? Door mijn rekeningnummer in te vullen geef ik DPG Media toestemming voor automatische incasso van 15,17 per ..."
+        }
+      ]
+    },
+    {
+      "keyword": "ongeval",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "N362 in beide richtingen dicht na fors ongeval tegen boom in Nieuwolda",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/economie/koers-ai-bedrijf-anthropic-meteen-door-het-dak-aandeel-opent-34-procent-hoger~acab0b73/",
-          "publishedDate": "Thu, 19 Nov 2026 12:01:00 GMT",
-          "description": "De koers van AI-bedrijf Anthropic ging donderdag bij het beursdebuut direct door het dak. Het aandeel schoot meteen naar 111,50 dollar, 34 procent hoger dan de introductiekoers van 83 dollar. Het gaat ..."
+          "url": "https://www.ad.nl/112-nieuws-oldambt/n362-in-beide-richtingen-dicht-na-fors-ongeval-tegen-boom-in-nieuwolda~ae7d0069/",
+          "publishedDate": "Fri, 20 Nov 2026 01:38:00 GMT",
+          "description": "Een personenauto is vrijdagochtend op een boom gebotst langs de N362 in Nieuwolda. Door het ongeval is de weg in beide richtingen afgesloten tussen Nieuwolda en de aansluiting met de A7."
         },
         {
-          "title": "Recordbeursgang: terwijl de AI-zeepbel-angst stijgt, haalt Anthropic 107 miljard dollar op",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/economie/recordbeursgang-terwijl-de-ai-zeepbel-angst-stijgt-haalt-anthropic-107-miljard-dollar-op~bc402ce8/",
-          "publishedDate": "Thu, 19 Nov 2026 10:34:00 GMT",
-          "description": "De langverwachte beursgang van Anthropic, het AI-bedrijf dat waarschuwt voor de ‘catastrofale’ risico’s van AI, is bepaald geen financi&#235;le catastrofe geworden. De chatbotmaker haalde donderdag bij zij ..."
+          "title": "Flinke file na ongeval op A29 bij Barendrecht, twee rijstroken in Heinenoordtunnel dicht",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-barendrecht/flinke-file-na-ongeval-op-a29-bij-barendrecht-twee-rijstroken-in-heinenoordtunnel-dicht~a44737b3/",
+          "publishedDate": "Thu, 19 Nov 2026 00:50:00 GMT",
+          "description": "Vanwege een ongeval in de Heinenoordtunnel zijn donderdagochtend twee rijstroken van de A29 dicht. Dat zorgt voor veel vertraging richting Rotterdam."
         },
         {
-          "title": "Claude-maker Anthropic zorgt voor vuurwerk met grootste beursgang ooit",
+          "title": "Acht mensen naar ziekenhuis na ernstig ongeval met vier auto's in Zuid-Holland",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6417110/claude-maker-anthropic-zorgt-voor-vuurwerk-met-grootste-beursgang-ooit.html",
-          "publishedDate": "Thu, 19 Nov 2026 09:57:00 GMT",
-          "description": "Het aandeel Anthropic is donderdag 34 procent hoger geopend op de Nasdaq. Bij de start van de handel steeg de koers tot ongeveer 111 dollar per aandeel. Daarmee komt de beurswaarde van het AI-bedrijf ..."
+          "url": "https://www.nu.nl/binnenland/6415594/acht-mensen-naar-ziekenhuis-na-ernstig-ongeval-met-vier-autos-in-zuid-holland.html",
+          "publishedDate": "Thu, 05 Nov 2026 05:08:00 GMT",
+          "description": "Hulpdiensten zijn donderdag massaal uitgerukt voor een zwaar ongeval met vier voertuigen op de N209 bij Hazerswoude-Dorp. Acht mensen moesten naar het ziekenhuis. Twee van hen zijn zwaargewond."
         },
         {
-          "title": "Aandeel AI-bedrijf Anthropic pakt 17 procent koerswinst op eerste beursdag, maar Wall Street daalt fors",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/beleggen-en-investeren/aandeel-ai-bedrijf-anthropic-pakt-17-procent-koerswinst-op-eerste-beursdag-maar-wall-street-daalt-fors~a94f3700/",
-          "publishedDate": "Thu, 19 Nov 2026 14:45:00 GMT",
-          "description": "Anthropic, het Amerikaanse AI-bedrijf achter chatbot Claude, heeft donderdag zijn langverwachte intrede op de Amerikaanse technologiebeurs Nasdaq gemaakt. Het ging om de grootste beursgang ooit. De ko ..."
+          "title": "Ongeval met letsel op Burg.Backxlaan in Nieuwleusen",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/112-nieuws-dalfsen/ongeval-met-letsel-op-burg-backxlaan-in-nieuwleusen~a713d98e/",
+          "publishedDate": "Fri, 20 Nov 2026 03:48:00 GMT",
+          "description": "De melding kwam rond kwart voor twaalf 's ochtends bij de alarmcentrale binnen. Hulpdiensten zijn naar de locatie gestuurd om hulp te verlenen. 112 Nieuwleusen De brandweer is de afgelopen 30 dagen 4 ..."
         },
         {
-          "title": "Liveblog: Anthropic-aandeel levert winst in na spectaculaire beursopening",
-          "source": "Newsbit",
-          "url": "https://newsbit.nl/liveblog-anthropic-schrijft-vandaag-geschiedenis-met-grootste-beursgang-ooit/",
-          "publishedDate": "Thu, 19 Nov 2026 14:40:00 GMT",
-          "description": "Anthropic gaat vandaag naar de beurs en kan geschiedenis schrijven met de grootste beursgang ooit. Volg de eerste koers en alle ontwikkelingen live."
+          "title": "Ongeval met letsel op N470 in Pijnacker",
+          "source": "Alarmeringen",
+          "url": "https://alarmeringen.nl/zuid-holland/haaglanden/pijnacker/56125962/p2000-ongeval-met-letsel-op-n470-in-pijnacker.html",
+          "publishedDate": "Fri, 20 Nov 2026 02:17:00 GMT",
+          "description": "De hulpdiensten zijn vrijdagochtend uitgerukt voor een ongeval met letsel aan N470 in Pijnacker. De melding kwam rond kwart over tien 's ochtends bij de alarmcentrale binnen. Er is een ambulance naar ..."
         },
         {
-          "title": "Koers AI-bedrijf Anthropic 34 procent omhoog bij recordbeursgang",
-          "source": ".ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/geldzaken/other/koers-ai-bedrijf-anthropic-34-procent-omhoog-bij-recordbeursgang/ar-AA2hN6qN",
-          "publishedDate": "Thu, 19 Nov 2026 09:09:42 GMT",
-          "description": "NEW YORK (ANP) - AI-bedrijf Anthropic heeft donderdag bij zijn debuut op de aandelenbeurzen in New York meteen fors aan beurswaarde gewonnen. Door de vele miljarden die het bedrijf ophaalt, gaat het o ..."
+          "title": "Ongeval met letsel op Teisterbantlaan in Tiel",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/112-nieuws-tiel/ongeval-met-letsel-op-teisterbantlaan-in-tiel~a23414cd/",
+          "publishedDate": "Thu, 19 Nov 2026 23:19:00 GMT",
+          "description": "De melding kwam rond kwart over zeven 's ochtends bij de alarmcentrale binnen. Hulpdiensten zijn naar de locatie gestuurd om hulp te verlenen. 112 Tiel De brandweer is de afgelopen 30 dagen 70 keer na ..."
+        },
+        {
+          "title": "Ongeval met letsel op Groeneweg in Wijk en aalburg",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/noord-brabant/midden-en-west-brabant/wijk-en-aalburg/56124699/p2000-voertuigbrand-op-groeneweg-in-wijk-en-aalburg.html",
+          "publishedDate": "Thu, 19 Nov 2026 17:24:00 GMT",
+          "description": "De brandweer is in de nacht van donderdag op vrijdag uitgerukt na een melding over een autobrand op de Groeneweg in Wijk en aalburg."
+        },
+        {
+          "title": "Scooterrijdster lichtgewond bij ongeval op Valkseweg in Barneveld",
+          "source": "Barneveldse Krant",
+          "url": "https://www.barneveldsekrant.nl/112/ongeval/1329371/scooterrijdster-lichtgewond-bij-ongeval-op-valkseweg-in-barneveld",
+          "publishedDate": "Thu, 19 Nov 2026 12:33:00 GMT",
+          "description": "[BARNEVELD] Een scooterrijdster is donderdagavond lichtgewond geraakt bij een aanrijding met een auto op de Valkseweg bij de kruising met de Hoge Valkseweg."
+        },
+        {
+          "title": "Ernstig ongeval op de Rijksstraatweg in Heemskerk: twee personen gewond",
+          "source": "Rodi.nl",
+          "url": "https://www.rodi.nl/heemskerk/112-nieuws/513010/ernstig-ongeval-op-de-rijksstraatweg-in-heemskerk-twee-personen-gewond",
+          "publishedDate": "Wed, 18 Nov 2026 12:20:00 GMT",
+          "description": "HEEMSKERK - Rond 20.20 uur heeft er een ernstig ongeval plaatsgevonden op de Rijksstraatweg in Heemskerk. Meerdere hulpdiensten kwamen met spoed ter plaatse om hulp te verlenen."
+        }
+      ]
+    },
+    {
+      "keyword": "mart hoogkamer",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Mart Hoogkamer blijft in afwachting van De Toppers: 'Misschien word ik nog gebeld'",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/video/video/5aee47ae-d355-4c58-88df-2924b82c8e8c/mart-hoogkamer-blijft-afwachting-van-de",
+          "publishedDate": "Thu, 19 Nov 2026 16:00:00 GMT",
+          "description": "Wie wordt de nieuwe Topper? Het is de grote vraag die de gemoederen de afgelopen weken bezighoudt. Mart Hoogkamer (28) laat aan RTL Boulevard weten niets meer te hebben gehoord, maar sluit een belletj ..."
+        },
+        {
+          "title": "Mart Hoogkamer koopt samen met vrienden caf&#233; in Leiderdorp",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/entertainment/6414452/mart-hoogkamer-koopt-samen-met-vrienden-cafe-in-leiderdorp.html",
+          "publishedDate": "Mon, 26 Oct 2026 08:17:00 GMT",
+          "description": "Mart Hoogkamer heeft samen met twee vrienden een caf&#233; in Leiderdorp gekocht. Caf&#233; Dobbertje sloot in augustus de deuren omdat de voormalige eigenaresse om gezondheidsredenen moest stoppen."
+        },
+        {
+          "title": "Mart Hoogkamer ontkracht geruchten over De Toppers: 'Jij bent het dus niet?!'",
+          "source": "vandaaginside",
+          "url": "https://www.vandaaginside.nl/media/bners/artikelen/mart-hoogkamer-ontkracht-geruchten-over-de-toppers-jij-bent-het-dus-niet",
+          "publishedDate": "Fri, 20 Nov 2026 03:23:00 GMT",
+          "description": "Mart Hoogkamer heeft nog altijd niets gehoord over een mogelijke toetreding tot De Toppers. De zanger, die eerder aangaf open te staan voor een plek in de zangformatie, vertelt tegenover RTL Boulevard ..."
+        },
+        {
+          "title": "Mart Hoogkamer met brok in de keel na droommoment met Ren&#233; Froger",
+          "source": "Startpagina on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/mart-hoogkamer-met-brok-in-de-keel-na-droommoment-met-ren%C3%A9-froger/ar-AA2hQkjh",
+          "publishedDate": "Fri, 20 Nov 2026 01:54:25 GMT",
+          "description": "Mart Hoogkamer (28) ziet een langgekoesterde wens uitkomen: in De Frogers zingt hij voor het eerst een duet met Ren&#233; Froger. Achter de schermen breekt zijn stem als hij zijn grote voorbeeld bedankt. R ..."
+        },
+        {
+          "title": "Mart Hoogkamer brengt duet uit met vriendin Jennifer: 'Ik ben er trots op'",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/mart-hoogkamer-duet-vriendin-jennifer-trots",
+          "publishedDate": "Fri, 20 Nov 2026 01:33:00 GMT",
+          "description": "Mart Hoogkamer brengt voor het eerst een duet uit met vriendin Jennifer. Zijn vriendin hielt het lange tijd af maar nu is het nummer dan toch uitgekomen."
+        },
+        {
+          "title": "Mart Hoogkamer en Jennifer schreeuwen heel mooi nieuws van de daken: ‘We mogen het nu eindelijk met jullie delen’",
+          "source": "100%NL Magazine",
+          "url": "https://www.100pmagazine.nl/nieuws/mart-hoogkamer-en-jennifer-schreeuwen-mooi-nieuws-van-de-daken/",
+          "publishedDate": "Fri, 20 Nov 2026 00:53:00 GMT",
+          "description": "De dag waarop Mart Hoogkamer en Jennifer van Ooijen lang op hebben gewacht, is eindelijk aangebroken. Nu delen zij het met de rest van het land."
+        },
+        {
+          "title": "Foto's: dit is de knappe vriendin van zanger Mart Hoogkamer",
+          "source": "MAN MAN on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/foto-s-dit-is-de-knappe-vriendin-van-zanger-mart-hoogkamer/ar-AA1JVMbS",
+          "publishedDate": "Fri, 20 Nov 2026 00:12:16 GMT",
+          "description": "Mart Hoogkamer is al lange tijd samen met zijn vriendin Jennifer van Ooijen. Afgelopen januari zijn ze bovendien de trot ..."
+        },
+        {
+          "title": "Domper voor Mart Hoogkamer: ‘Dit wordt de nieuwe Topper’",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/domper-voor-mart-hoogkamer-dit-wordt-de-nieuwe-topper",
+          "publishedDate": "Mon, 09 Nov 2026 01:45:00 GMT",
+          "description": "Na weken van speculaties lijkt er eindelijk duidelijkheid te komen over de nieuwe samenstelling van De Toppers."
+        },
+        {
+          "title": "Toppers-nieuws deze week bekend: ‘Pijnlijk voor Mart Hoogkamer’",
+          "source": "Mediacourant",
+          "url": "https://www.mediacourant.nl/2026/11/toppers-nieuws-deze-week-bekend-pijnlijk-voor-mart-hoogkamer/",
+          "publishedDate": "Mon, 09 Nov 2026 00:30:00 GMT",
+          "description": "De nieuwe samenstelling van De Toppers wordt deze week eindelijk bekendgemaakt. Volgens Priv&#233;-baas Evert Santegoeds krijgt Tino Martin een plek in de groep, maar blijft Mart Hoogkamer buiten de boot."
+        },
+        {
+          "title": "Mart Hoogkamer genegeerd door De Toppers: ‘Niet meer gebeld’",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/mart-hoogkamer-genegeerd-toppers",
+          "publishedDate": "Sat, 07 Nov 2026 05:38:00 GMT",
+          "description": "Mart Hoogkamer De Toppers: de zanger hoort niets meer van de formatie en twijfelt inmiddels. Kiest hij straks voor Beste Zangers?"
+        }
+      ]
+    },
+    {
+      "keyword": "rabobank storing",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Opnieuw problemen bij Rabobank: sommige klanten kunnen saldo niet zien",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/tech/nieuws/artikelen/rabobank-opnieuw-storing-saldo-niet-zichtbaar-bankierenapp",
+          "publishedDate": "Fri, 20 Nov 2026 03:34:00 GMT",
+          "description": "Rabobank kampt vrijdag opnieuw met een storing. Klanten kunnen hun saldo op betaal- en spaarrekeningen niet zien in de app. Ook donderdag waren er problemen."
+        },
+        {
+          "title": "Duizenden meldingen na storing bij Rabobank, probleem verholpen",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/economie/geld/artikelen/duizenden-meldingen-na-storing-bij-rabobank-probleem-verholpen",
+          "publishedDate": "Thu, 19 Nov 2026 08:20:00 GMT",
+          "description": "Rabobank ondervond een storing met rekeningen en creditcards, bevestigt een woordvoerder. Betaalrekeningen functioneerden, maar spaarrekeningen waren tijdelijk niet toegankelijk."
+        },
+        {
+          "title": "Storing Rabobank opgelost, deel klanten wacht nog op salaris",
+          "source": "ED",
+          "url": "https://www.ed.nl/binnenland/storing-rabobank-opgelost-deel-klanten-wacht-nog-op-salaris~aa837f30/",
+          "publishedDate": "Mon, 25 Aug 2025 05:10:00 GMT",
+          "description": "De Rabobank heeft maandag te maken gehad met een storing. Door de storing hadden klanten problemen met het overboeken van geld. Ook maakten klanten van de bank op sociale media melding dat ze hun ..."
+        },
+        {
+          "title": "Klanten Rabobank hebben betaalproblemen door storing",
+          "source": "AD",
+          "url": "https://www.ad.nl/economie/klanten-rabobank-hebben-betaalproblemen-door-storing~a8d854e1/",
+          "publishedDate": "Sat, 03 May 2025 11:49:00 GMT",
+          "description": "Sommige klanten melden dat het lijkt of hun betaalpas is geblokkeerd. De bank laat weten dat de pas niet werkelijk is geblokkeerd, maar dat de betaalautomaten wel die melding kunnen geven. Ook zijn er ..."
+        },
+        {
+          "title": "Storing Rabobank: problemen met mobiel bankieren en internetbankieren (update)",
+          "source": "Androidworld",
+          "url": "https://androidworld.nl/nieuws/storing-rabobank-problemen-met-app-en-website/",
+          "publishedDate": "Wed, 04 Jan 2023 01:22:00 GMT",
+          "description": "Klanten van de Rabobank ondervonden urenlang problemen bij het gebruik van de app, mobiel bankieren en internetbankieren op desktop. IGN-collega Nick meldde dat hij niet meer kan inloggen in de ..."
+        },
+        {
+          "title": "Rabobank-storing met de app en website (Update)",
+          "source": "Androidworld",
+          "url": "https://androidworld.nl/nieuws/rabobank-storing-app-website/",
+          "publishedDate": "Wed, 26 Oct 2022 04:53:00 GMT",
+          "description": "De Rabobank heeft momenteel technische problemen met zijn website en app. De storing is woensdag iets na 10 uur begonnen en een heleboel gebruikers melden problemen. Er zijn problemen met inloggen en ..."
+        },
+        {
+          "title": "Rabobank heeft storing bij Bankieren-app en internetbankieren - update",
+          "source": "Tweakers",
+          "url": "https://tweakers.net/nieuws/168480/rabobank-heeft-storing-bij-bankieren-app-en-internetbankieren.html",
+          "publishedDate": "Mon, 15 Jun 2020 06:51:00 GMT",
+          "description": "Klanten van de Nederlandse bank Rabobank krijgen een foutmelding te zien als zij willen internetbankieren of gebruikmaken van de Bankieren-app. De bank bevestigt de problemen en zegt te werken aan een ..."
+        },
+        {
+          "title": "Rabobank kampt met storing bij internetbankieren en bankapp - update",
+          "source": "Tweakers",
+          "url": "https://tweakers.net/nieuws/134365/rabobank-kampt-met-storing-bij-internetbankieren-en-bankapp.html",
+          "publishedDate": "Wed, 24 Jan 2018 00:42:00 GMT",
+          "description": "Klanten van de Rabobank hebben last van een storing bij zowel internetbankieren als bij bankieren met de mobiele Rabo Bankieren-app. De eerste problemen vertoonden zich woensdagochtend en duren nog ..."
+        },
+        {
+          "title": "Storing Rabobank houdt nog steeds aan",
+          "source": "AD",
+          "url": "https://www.ad.nl/economie/storing-rabobank-houdt-nog-steeds-aan~afc3a00f/",
+          "publishedDate": "Tue, 16 Feb 2016 12:48:00 GMT",
+          "description": "De storing waardoor een deel klanten van Rabobank vandaag niet konden internetbankieren is laat in de avond nog steeds niet opgelost. Dat liet een woordvoerder van Rabobank weten. 'We werken hard door ..."
+        }
+      ]
+    },
+    {
+      "keyword": "aardgas",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Schiermonnikoog vraagt inwoners om mening over aardgasvrij eiland",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/schiermonnikoog/schiermonnikoog-vraagt-inwoners-om-mening-over-aardgasvrij-eiland~a3b3acd6/",
+          "publishedDate": "Wed, 18 Nov 2026 03:37:00 GMT",
+          "description": "De gemeente Schiermonnikoog werkt aan een warmteprogramma voor een aardgasvrij eiland. Inwoners, ondernemers en eigenaren van recreatiewoningen kunnen de komende weken een enqu&#234;te invullen."
+        },
+        {
+          "title": "Huizen van aardgas halen verloopt stroef, vervuilend verkeer weren ook: klimaatdoelen Amsterdam verder uit zicht",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/amsterdam/huizen-van-aardgas-halen-verloopt-stroef-vervuilend-verkeer-weren-ook-klimaatdoelen-amsterdam-verder-uit-zicht~b9d22d7f/",
+          "publishedDate": "Sun, 25 Aug 2024 20:00:00 GMT",
+          "description": "De klimaatdoelen van de gemeente Amsterdam blijven ver uit zicht. Huizen van aardgas af krijgen en auto’s op fossiele brandstof uit de stad weren gaat veel moeizamer dan gedacht. In 2050 wil Amsterdam ..."
+        },
+        {
+          "title": "Toch gelukt: Amsterdamse regio verstookte 15 procent minder aardgas in 2022",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/amsterdam/toch-gelukt-amsterdamse-regio-verstookte-15-procent-minder-aardgas-in-2022~b940053c/",
+          "publishedDate": "Wed, 18 Jan 2023 09:09:00 GMT",
+          "description": "Het is de Amsterdamse regio gelukt om vorig jaar 15 procent minder aardgas te verstoken dan gemiddeld in de vier jaar ervoor. Daarmee is het doel dat door een coalitie van gemeenten en ..."
+        },
+        {
+          "title": "Nieuwe huizen nog altijd op aardgas",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2020/07/16/nieuwe-huizen-nog-altijd-op-aardgas-a4006174",
+          "publishedDate": "Thu, 16 Jul 2020 10:58:00 GMT",
+          "description": "Aardgasvrij Sinds twee jaar geldt een wet om nieuwbouw niet meer op aardgas aan te sluiten. Toch komen er nog altijd duizenden nieuwe huizen bij m&#233;t aardgas. Twee jaar geleden werd een wetswijziging ..."
+        },
+        {
+          "title": "Prijsrecord aardgas, het is nu bijna te geef",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2020/05/25/prijsrecord-aardgas-het-is-nu-bijna-te-geef-a4000775",
+          "publishedDate": "Mon, 25 May 2020 13:13:00 GMT",
+          "description": "Vier vragen over de energiemarkt Aardgas kost in de groothandel nog maar 4 cent per kubieke meter, de laagste prijs in twintig jaar. Dat schaadt fossiele &#233;n groene bedrijven. Je kon erop wachten."
+        },
+        {
+          "title": "Met een tank vol aardgas kom je overal",
+          "source": "Volkskrant",
+          "url": "https://www.volkskrant.nl/nieuws-achtergrond/met-een-tank-vol-aardgas-kom-je-overal~b06b8991/",
+          "publishedDate": "Thu, 25 Jul 2013 15:00:00 GMT",
+          "description": "Zomaar een paar feitjes over autorijden op aardgas. Auto's op methaan (aardgas) stoten minder CO2 en fijnstof uit dan auto's met een benzine- of dieselmotor. In Europese landen als Duitsland en Itali&#235; ..."
+        },
+        {
+          "title": "T&#252;rkiye toont interesse in Surinaams aardgas: mogelijke LNG-leveringen besproken",
+          "source": "Suriname Herald",
+          "url": "https://www.srherald.com/suriname/2026/11/18/turkiye-toont-interesse-in-surinaams-aardgas-mogelijke-lng-leveringen-besproken/",
+          "publishedDate": "Wed, 18 Nov 2026 13:34:00 GMT",
+          "description": "T&#252;rkiye heeft belangstelling getoond voor samenwerking bij de ontwikkeling van de Surinaamse offshore olie- en gassector. Daarbij wordt gekeken naar LNG-infrastructuur en de mogelijke toekomstige afna ..."
+        },
+        {
+          "title": "Warmtenetten: ‘Zonder stabiele subsidies veroordeel je heel veel mensen tot in lengte van dagen tot aardgas’",
+          "source": "Solar Magazine",
+          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45293/warmtenetten-zonder-stabiele-subsidies-veroordeel-je-heel-veel-mensen-tot-in-lengte-van-dagen-tot-aardgas",
+          "publishedDate": "Sun, 08 Nov 2026 16:00:00 GMT",
+          "description": "Gemeenten zien vaker het nut van warmtenetten, maar de aanleg blijft steken. Joris Wijnhoven, strateeg Energietransitie bij NVDE: ‘De businesscase is gewoon niet rond te breien. De regering moet in ac ..."
+        },
+        {
+          "title": "Aardgas- en elektriciteitslevering aan bedrijven; verbruiksklasse, SBI 2008",
+          "source": "CBS",
+          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/84901NED",
+          "publishedDate": "Thu, 30 Oct 2025 19:00:00 GMT",
+          "description": "A-U Alle economische activiteiten Totaal aardgas Totaal elektriciteit 2024* 897.070 23.081.500 63.499.700 A-U Alle economische activiteiten Totaal aardgas 0 t/m 10 000 kWh 2024* 534.170 1.125.500 ..."
+        },
+        {
+          "title": "Amsterdammers verbruiken acht procent minder aardgas dan vorig jaar",
+          "source": "NU",
+          "url": "https://www.nu.nl/amsterdam/6243623/amsterdammers-verbruiken-acht-procent-minder-aardgas-dan-vorig-jaar.html",
+          "publishedDate": "Thu, 22 Dec 2022 00:39:00 GMT",
+          "description": "Amsterdamse huishoudens verbruiken dit jaar 8 procent minder aardgas dan in 2021. Het is een prognose op basis van cijfers van netbeheerder Liander tot en met september van dit jaar. Belangrijkste ..."
         }
       ]
     },
@@ -255,6 +358,13 @@
           "description": "De Rabobank stelt 60 miljoen euro beschikbaar voor techniek waarmee boeren met minder bestrijdingsmiddelen kunnen werken. Wetenschapper Martina Vijver adviseert het effect van het plan in kaart te bre ..."
         },
         {
+          "title": "Opnieuw problemen bij Rabobank: sommige klanten kunnen saldo niet zien",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/tech/nieuws/artikelen/rabobank-opnieuw-storing-saldo-niet-zichtbaar-bankierenapp",
+          "publishedDate": "Fri, 20 Nov 2026 03:34:00 GMT",
+          "description": "Rabobank kampt vrijdag opnieuw met een storing. Klanten kunnen hun saldo op betaal- en spaarrekeningen niet zien in de app. Ook donderdag waren er problemen."
+        },
+        {
           "title": "Rabobank heroverweegt omstreden aanpassing hypotheekbeoordeling",
           "source": "Nieuws.nl",
           "url": "https://nieuws.nl/economie/rabobank-heroverweegt-omstreden-aanpassing-hypotheekbeoordeling",
@@ -267,13 +377,6 @@
           "url": "https://www.hartvannederland.nl/economie/geld/artikelen/duizenden-meldingen-na-storing-bij-rabobank-probleem-verholpen",
           "publishedDate": "Thu, 19 Nov 2026 08:20:00 GMT",
           "description": "Rabobank ondervond een storing met rekeningen en creditcards, bevestigt een woordvoerder. Betaalrekeningen functioneerden, maar spaarrekeningen waren tijdelijk niet toegankelijk."
-        },
-        {
-          "title": "Dansteam X.I. naar het WK dankzij Rabobank: ‘Dat nemen we ons hele leven mee",
-          "source": "De Krant Nieuws",
-          "url": "https://www.dekrantnieuws.nl/nieuws/nieuws/107678/dansteam-x-i-naar-het-wk-dankzij-rabobank-dat-nemen-we-ons-hele-leven-mee-vzc9c2",
-          "publishedDate": "Thu, 19 Nov 2026 06:22:00 GMT",
-          "description": "GRONINGEN - Rabobank reikte op 17 november in totaal €150.000 uit aan projecten voor en door jongeren uit Groningen en Drenthe. Een van de ontvangers was dansteam X.I."
         },
         {
           "title": "Nieuwe pensioen hypotheeknormen: Rabobank en Obvion krabbelen terug",
@@ -306,119 +409,78 @@
       ]
     },
     {
-      "keyword": "robin groot",
+      "keyword": "anthropic koers",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Ex-schaatsster Robin Groot is gestopt met topsport, maar weet zichzelf alsnog keihard uit te dagen",
-          "source": "Mannenzaken",
-          "url": "https://mannenzaken.nl/nieuws/ex-schaatsster-robin-groot-is-gestopt-met-topsport-maar-weet-zichzelf-alsnog-keihard-uit-te-dagen",
-          "publishedDate": "Wed, 18 Nov 2026 11:00:00 GMT",
-          "description": "Robin Groot heeft haar schaatsen inmiddels definitief aan de wilgen gehangen, maar wie denkt dat de voormalige topschaatsster tegenwoordig rustig op de bank zit, heeft het behoorlijk mis. De 25-jarige ..."
+          "title": "Koerswinst Anthropic ingezakt, grotere AI-zorgen zijn niet weg",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/economie/artikel/5666179/koerswinst-anthropic-ingezakt-grotere-ai-zorgen-zijn-niet-weg",
+          "publishedDate": "Thu, 19 Nov 2026 23:22:00 GMT",
+          "description": "Het aandeel van AI-bedrijf Anthropic is bij het beursdebuut aan de Amerikaanse Nasdaq donderdag ruim 17 procent hoger de handel uitgegaan. Daarmee halveerde de aanvankelijke koerswinst: het aandeel op ..."
         },
         {
-          "title": "Robin Groot vergat te genieten en zoekt haar geluk nu op snikheet eiland: &quot;Dit is precies wat ik nodig heb&quot;",
-          "source": "mannenzaken",
-          "url": "https://mannenzaken.nl/nieuws/robin-groot-vergat-te-genieten-en-zoekt-haar-geluk-nu-op-snikheet-eiland-dit-is-precies-wat-ik-nodig-heb",
-          "publishedDate": "Fri, 29 May 2026 07:00:00 GMT",
-          "description": "Robin Groot heeft de afgelopen jaren bijna alleen maar geleefd voor het schaatsen. Trainingsschema’s, wedstrijden, doelen behalen en constant bezig zijn met presteren. Dat hoort natuurlijk bij ..."
-        },
-        {
-          "title": "Voormalig schaatsster Robin Groot (25) reageert op zware uitdaging: 'Dit ga ik sowieso nog een keer doen'",
-          "source": "sportnieuws",
-          "url": "https://sportnieuws.nl/schaatsen/nieuws/voormalig-schaatsster-robin-groot-25-reageert-op-zware-uitdaging-dit-ga-ik-sowieso-nog-een-keer-doen-2026041706135047996/",
-          "publishedDate": "Fri, 17 Apr 2026 01:33:00 GMT",
-          "description": "Robin Groot voltooide vorig weekend de marathon van Parijs. Vooral het eind ging voor de 25-jarige oud-schaatsster niet van harte, maar ze is toch van &#233;&#233;n ding zeker: dit was niet haar laatste ..."
-        },
-        {
-          "title": "Robin Groot valt op met persoonlijke records bij NK, mikt op WK allround",
-          "source": "noordhollandsdagblad.nl",
-          "url": "https://www.noordhollandsdagblad.nl/sport/sport-alkmaar/robin-groot-valt-op-met-persoonlijke-records-bij-nk-mikt-op-wk-allround/11691858.html",
-          "publishedDate": "Sat, 30 Dec 2023 05:26:00 GMT",
-          "description": "Robin Groot valt op bij de NK afstanden. Wellicht niet direct door haar klasseringen, wel met persoonlijke records. Na een negende plek op de 1.500 meter en de zesde stek op de drie kilometer volgt ..."
-        },
-        {
-          "title": "Robin Groot (21) dankzij ’Van der Poel-training’ bij top EK. ’Het aantal volgers op Instagram is omhoog geschoten’",
-          "source": "noordhollandsdagblad.nl",
-          "url": "https://www.noordhollandsdagblad.nl/sport/sport-alkmaar/robin-groot-21-dankzij-van-der-poel-training-bij-top-ek.-het-aantal-volgers-op-instagram-is-omhoog-geschoten/11489454.html",
-          "publishedDate": "Tue, 10 Jan 2023 02:00:00 GMT",
-          "description": "Broek op LangedijkRobin Groot (21) hoorde pas vlak voor het EK allround in Hamar dat ze haar debuut mocht maken op een titeltoernooi. De schaatsster reed tijdens haar eerste grote internationale ..."
-        }
-      ]
-    },
-    {
-      "keyword": "aardgas",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Schiermonnikoog vraagt inwoners om mening over aardgasvrij eiland",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/schiermonnikoog/schiermonnikoog-vraagt-inwoners-om-mening-over-aardgasvrij-eiland~a3b3acd6/",
-          "publishedDate": "Wed, 18 Nov 2026 03:37:00 GMT",
-          "description": "De gemeente Schiermonnikoog werkt aan een warmteprogramma voor een aardgasvrij eiland. Inwoners, ondernemers en eigenaren van recreatiewoningen kunnen de komende weken een enqu&#234;te invullen."
-        },
-        {
-          "title": "Stijging gasprijs is niet te stoppen: 2 euro per kubieke meter in zicht",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/economie/stijging-gasprijs-is-niet-te-stoppen-2-euro-per-kubieke-meter-in-zicht~ad534c90/",
-          "publishedDate": "Fri, 16 Oct 2026 21:02:00 GMT",
-          "description": "Aardgas blijft duurder worden. In &#233;&#233;n maand tijd is de beursprijs weer met 10 procent gestegen. Wie een nieuw contract afsluit, moet nu al rekenen met 1,80 euro per kuub. Een prijs van 2 euro wordt st ..."
-        },
-        {
-          "title": "Toch gelukt: Amsterdamse regio verstookte 15 procent minder aardgas in 2022",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/amsterdam/toch-gelukt-amsterdamse-regio-verstookte-15-procent-minder-aardgas-in-2022~b940053c/",
-          "publishedDate": "Wed, 18 Jan 2023 09:09:00 GMT",
-          "description": "Het is de Amsterdamse regio gelukt om vorig jaar 15 procent minder aardgas te verstoken dan gemiddeld in de vier jaar ervoor. Daarmee is het doel dat door een coalitie van gemeenten en ..."
-        },
-        {
-          "title": "Nieuwe huizen nog altijd op aardgas",
+          "title": "Anthropic sluit op eerste dag met koers van 97,17 dollar",
           "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2020/07/16/nieuwe-huizen-nog-altijd-op-aardgas-a4006174",
-          "publishedDate": "Thu, 16 Jul 2020 10:58:00 GMT",
-          "description": "Aardgasvrij Sinds twee jaar geldt een wet om nieuwbouw niet meer op aardgas aan te sluiten. Toch komen er nog altijd duizenden nieuwe huizen bij m&#233;t aardgas. Twee jaar geleden werd een wetswijziging ..."
+          "url": "https://www.nrc.nl/nieuws/2026/11/19/anthropic-sluit-op-eerste-dag-met-koers-van-9717-dollar-a4941892",
+          "publishedDate": "Thu, 19 Nov 2026 14:39:00 GMT",
+          "description": "In de eerste minuten van de eerste dag van de beursnotering steeg het aandeel van AI-bedrijf Anthropic even met 34 procent van 83 dollar tot boven de 111 euro, maar die hoge koers heeft de beursdebuta ..."
         },
         {
-          "title": "Prijsrecord aardgas, het is nu bijna te geef",
+          "title": "Anthropic zakt weer een beetje en op de rest van de beurzen is het beeld wisselend",
           "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2020/05/25/prijsrecord-aardgas-het-is-nu-bijna-te-geef-a4000775",
-          "publishedDate": "Mon, 25 May 2020 13:13:00 GMT",
-          "description": "Vier vragen over de energiemarkt Aardgas kost in de groothandel nog maar 4 cent per kubieke meter, de laagste prijs in twintig jaar. Dat schaadt fossiele &#233;n groene bedrijven. Je kon erop wachten."
+          "url": "https://www.nrc.nl/nieuws/2026/11/19/anthropic-zakt-weer-een-beetje-en-op-de-rest-van-de-beurzen-is-het-beeld-wisselend-a4941876",
+          "publishedDate": "Thu, 19 Nov 2026 10:42:00 GMT",
+          "description": "Terwijl de koers van Anthropic even over zijn hoogtepunt heen is en iets is gezakt tot net boven de 100 dollar per aandeel, kijken we ook even naar de rest van de beurzen vandaag. Daar was de stemming ..."
         },
         {
-          "title": "T&#252;rkiye toont interesse in Surinaams aardgas: mogelijke LNG-leveringen besproken",
-          "source": "Suriname Herald",
-          "url": "https://www.srherald.com/suriname/2026/11/18/turkiye-toont-interesse-in-surinaams-aardgas-mogelijke-lng-leveringen-besproken/",
-          "publishedDate": "Wed, 18 Nov 2026 13:34:00 GMT",
-          "description": "T&#252;rkiye heeft belangstelling getoond voor samenwerking bij de ontwikkeling van de Surinaamse offshore olie- en gassector. Daarbij wordt gekeken naar LNG-infrastructuur en de mogelijke toekomstige afna ..."
+          "title": "Claude-maker Anthropic zorgt voor vuurwerk met grootste beursgang ooit",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6417110/claude-maker-anthropic-zorgt-voor-vuurwerk-met-grootste-beursgang-ooit.html",
+          "publishedDate": "Thu, 19 Nov 2026 09:57:00 GMT",
+          "description": "Het aandeel Anthropic is donderdag 34 procent hoger geopend op de Nasdaq. Bij de start van de handel steeg de koers tot ongeveer 111 dollar per aandeel. Daarmee komt de beurswaarde van het AI-bedrijf ..."
         },
         {
-          "title": "Info-avond FvD ‘Krommenie Aardgasvrij’, UPDATE: pilot afgeschoten",
-          "source": "De Orkaan",
-          "url": "https://www.deorkaan.nl/forum-informatieavond-krommenie-aardgasvrij/",
-          "publishedDate": "Tue, 17 Nov 2026 10:09:00 GMT",
-          "description": "De flyer is voorzien van de bekende groenblauwe achtergrondkleur van Zaanstad, maar de gemeente heeft niks met de ‘informatieavond’ te maken. FvD-fractievoorzitter Dick Doorn heeft er wel wat mee te m ..."
+          "title": "Recordbeursgang voor AI-bedrijf Anthropic, koers stijgt meteen met een derde",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2640176-recordbeursgang-voor-ai-bedrijf-anthropic-koers-stijgt-meteen-met-een-derde",
+          "publishedDate": "Thu, 19 Nov 2026 08:53:00 GMT",
+          "description": "Anthropic haalt met de beursgang 81 miljard dollar (zo'n 74 miljard euro) op. Een aantal zittende investeerders, waaronder Nvidia, Google en Microsoft, legt nog eens 26 miljard dollar in. Daarmee ..."
         },
         {
-          "title": "Warmtenetten: ‘Zonder stabiele subsidies veroordeel je heel veel mensen tot in lengte van dagen tot aardgas’",
-          "source": "Solar Magazine",
-          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45293/warmtenetten-zonder-stabiele-subsidies-veroordeel-je-heel-veel-mensen-tot-in-lengte-van-dagen-tot-aardgas",
-          "publishedDate": "Sun, 08 Nov 2026 16:00:00 GMT",
-          "description": "Gemeenten zien vaker het nut van warmtenetten, maar de aanleg blijft steken. Joris Wijnhoven, strateeg Energietransitie bij NVDE: ‘De businesscase is gewoon niet rond te breien. De regering moet in ac ..."
+          "title": "Koers AI-bedrijf Anthropic meteen door het dak: aandeel opent 34 procent hoger",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/economie/koers-ai-bedrijf-anthropic-meteen-door-het-dak-aandeel-opent-34-procent-hoger~acab0b73/",
+          "publishedDate": "Thu, 19 Nov 2026 02:41:00 GMT",
+          "description": "De koers van AI-bedrijf Anthropic ging donderdag bij het beursdebuut direct door het dak. Het aandeel schoot meteen naar 111,50 dollar, 34 procent hoger dan de introductiekoers van 83 dollar. Het gaat ..."
         },
         {
-          "title": "Wanneer wordt mijn gasaansluiting afgesloten en hoe haalbaar is dat? Jouw vragen over afbouw van aardgas beantwoord",
-          "source": "vrt",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/16/vragen-afbouw-aardgasnet-vlaanderen/",
-          "publishedDate": "Wed, 16 Sep 2026 07:30:00 GMT",
-          "description": "Er komen op onze redactie heel wat vragen binnen over de afbouw van het aardgasnet in ons land. Gasnetbeheerder Fluvius heeft van de Vlaamse regering de opdracht gekregen om het net af te bouwen. Hoe ..."
+          "title": "Anthropic: de boot gemist?",
+          "source": "De Kritische Belegger",
+          "url": "https://dekritischebelegger.nl/aandelen/fondsen/anthropic-de-boot-gemist/",
+          "publishedDate": "Fri, 20 Nov 2026 01:16:00 GMT",
+          "description": "Tien aandelen Anthropic leverden de ene koper $141,70 winst op en de andere $143,30 verlies. Wat betekent de eerste slotkoers voor wie nu instapt?"
         },
         {
-          "title": "Aardgas- en elektriciteitslevering aan bedrijven; verbruiksklasse, SBI 2008",
-          "source": "CBS",
-          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/84901NED",
-          "publishedDate": "Thu, 30 Oct 2025 19:00:00 GMT",
-          "description": "A-U Alle economische activiteiten Totaal aardgas Totaal elektriciteit 2024* 897.070 23.081.500 63.499.700 A-U Alle economische activiteiten Totaal aardgas 0 t/m 10 000 kWh 2024* 534.170 1.125.500 ..."
+          "title": "Beursnotering van Anthropic zorgt voor hoge activiteit bij Zweedse onlinebrokers",
+          "source": "MarketScreener",
+          "url": "https://nl.marketscreener.com/beursnieuws/beursnotering-van-anthropic-zorgt-voor-hoge-activiteit-bij-zweedse-onlinebrokers-ce785ed3d889f626",
+          "publishedDate": "Thu, 19 Nov 2026 14:51:00 GMT",
+          "description": "Het Amerikaanse AI-bedrijf Anthropic, dat achter Claude zit, steeg donderdag tijdens zijn eerste handelsdag op Nasdaq met 17 procent. Bij de Zweedse onlinebrokers was sprake van hoge activiteit."
+        },
+        {
+          "title": "Liveblog: Historische beursgang Anthropic zit erop, aandeel sluit fors hoger",
+          "source": "Newsbit",
+          "url": "https://newsbit.nl/liveblog-anthropic-schrijft-vandaag-geschiedenis-met-grootste-beursgang-ooit/",
+          "publishedDate": "Thu, 19 Nov 2026 14:10:00 GMT",
+          "description": "Anthropic gaat vandaag naar de beurs en kan geschiedenis schrijven met de grootste beursgang ooit. Volg de eerste koers en alle ontwikkelingen live."
+        },
+        {
+          "title": "Koers AI-bedrijf Anthropic 34 procent omhoog bij recordbeursgang",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/geldzaken/other/koers-ai-bedrijf-anthropic-34-procent-omhoog-bij-recordbeursgang/ar-AA2hN6qN",
+          "publishedDate": "Thu, 19 Nov 2026 09:09:42 GMT",
+          "description": "NEW YORK (ANP) - AI-bedrijf Anthropic heeft donderdag bij zijn debuut op de aandelenbeurzen in New York meteen fors aan beurswaarde gewonnen. Door de vele miljarden die het bedrijf ophaalt, gaat het o ..."
         }
       ]
     },
@@ -427,11 +489,32 @@
       "trafficLabel": "5K+",
       "articles": [
         {
+          "title": "SkyShowtime trekt stekker uit Europese dienst eind 2027",
+          "source": "FOK!",
+          "url": "https://frontpage.fok.nl/nieuws/895419/1/1/50/skyshowtime-trekt-stekker-uit-europese-dienst-eind-2027.html",
+          "publishedDate": "Fri, 20 Nov 2026 03:32:00 GMT",
+          "description": "SkyShowtime stopt eind 2027 in meer dan twintig Europese landen. De Europese streamingdienst, een joint venture van Comcast en Skydance, heeft personeel deze week laten weten dat de stekker eruit gaat ..."
+        },
+        {
+          "title": "Streamingdienst SkyShowtime stopt eind 2027",
+          "source": "Marketing Report",
+          "url": "https://marketingreport.nl/streamingdienst-skyshowtime-stopt-eind-2027",
+          "publishedDate": "Thu, 19 Nov 2026 12:11:00 GMT",
+          "description": "Vier jaar na de lancering van SkyShowtime, kondigt deze streamingdienst aan (uiterlijk) eind 2027 te stoppen."
+        },
+        {
           "title": "Deze loeispannende misdaadserie van SkyShowtime wordt steeds sterker en handhaaft zijn record op IMDb",
           "source": "SerieTotaal",
           "url": "https://www.serietotaal.nl/nieuws/45821/deze-loeispannende-misdaadserie-van-skyshowtime-wordt-steeds-sterker-en-handhaaft-zijn-record-op-imdb",
           "publishedDate": "Thu, 19 Nov 2026 10:44:00 GMT",
           "description": "MobLand van SkyShowtime is behalve een succesvolle serie ook een productie die er met de tijd alleen maar beter op wordt. Nervous Breakdown (s2, afl. 9) is de voorlaatste aflevering van het seizoen en ..."
+        },
+        {
+          "title": "SkyShowtime stopt in Nederland",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/streaming/skyshowtime-stopt-in-nederland",
+          "publishedDate": "Thu, 19 Nov 2026 08:29:00 GMT",
+          "description": "Vier jaar na de introductie in Nederland maken eigenaren Comcast en Paramount Skydance bekend dat het over en uit is voor SkyShowtime in Europa."
         },
         {
           "title": "'Streamingdienst SkyShowtime stopt eind volgend jaar'",
@@ -469,170 +552,67 @@
           "description": "Eind 2027 is het voorbij voor SkyShowtime. Comcast en Paramount Skydance stoppen met de streamingdienst. Ook in Nederland."
         },
         {
-          "title": "Streamingdienst SkyShowtime stopt eind 2027",
-          "source": "Spreekbuis.nl",
-          "url": "https://www.spreekbuis.nl/streamingdienst-skyshowtime-stopt-eind-2027/",
-          "publishedDate": "Thu, 19 Nov 2026 04:28:00 GMT",
-          "description": "Streamingdienst SkyShowtime verdwijnt eind 2027 uit Nederland. Eigenaren Comcast en Paramount Skydance hebben besloten de Europese streamingdienst te be&#235;indigen. Dat meldt het Amerikaanse entertainmen ..."
-        },
-        {
           "title": "'Dexter: Resurrection' van SkyShowtime krijgt concurrentie van een onverwachte, twintig jaar oude rivaal",
           "source": "SerieTotaal",
           "url": "https://www.serietotaal.nl/nieuws/45790/dexter-resurrection-van-skyshowtime-ondervindt-concurrentie-van-een-onverwachte-twintig-jaar-oude-rivaal",
           "publishedDate": "Mon, 16 Nov 2026 10:44:00 GMT",
           "description": "Dexter: Resurrection van SkyShowtime Nederland is vooralsnog een van de overgebleven series in het Dexter-universum. Daarom is het niet verbazingwekkend dat de oorspronkelijke serie Dexter (2006) op d ..."
-        },
-        {
-          "title": "HBO Max en Paramount+ worden samen een grote streamingdienst, maar wat gebeurt er met SkyShowtime?",
-          "source": "WANT",
-          "url": "https://www.want.nl/hbo-max-paramount-plus-skyshowtime-gevolgen/",
-          "publishedDate": "Wed, 07 Oct 2026 05:36:00 GMT",
-          "description": "De Overname van Warner Bros Discovery door Paramount zorgt voor een grote nieuwe studio. Maar wat betekent het voor HBO Max en SkyShowtime?"
-        },
-        {
-          "title": "Prijsverhoging SkyShowtime gaat 23 april in: zo kun je het omzeilen",
-          "source": "iCulture",
-          "url": "https://www.iculture.nl/nieuws/skyshowtime-prijsverhoging-reclame/",
-          "publishedDate": "Sun, 18 Feb 2024 04:49:00 GMT",
-          "description": "Op dit moment kost SkyShowtime nog 6,99 euro per maand, maar vanaf 23 april gaat dit omhoog naar 8,99 euro per maand. Er komt tegelijk ook een goedkoper abonnement met reclame bij. Die gaat 5,99 euro ..."
         }
       ]
     },
     {
-      "keyword": "harry &amp; meghan",
+      "keyword": "waylon faillissement",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "A Royal Snub? Kate Leaves Harry &amp; Meghan Off the Guest List for a Christmas Event",
-          "source": "Allvipp.com",
-          "url": "https://www.allvipp.com/royals/a-slap-in-the-face-for-harry-amp-meghan-kate-denies-them-an-invitation-to-a-christmas-event",
-          "publishedDate": "Mon, 16 Nov 2026 00:20:00 GMT",
-          "description": "Prince Harry and Meghan, Duchess of Sussex, are reportedly not expected to attend Kate's Christmas carol concert at Westminster Abbey. Instead, the couple are planning to spend the holidays in the ..."
+          "title": "Waylon verrast gedupeerde fans na faillissement",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/waylon-verrast-gedupeerde-fans-na-faillissement",
+          "publishedDate": "Thu, 19 Nov 2026 05:52:00 GMT",
+          "description": "Waylon heeft groot nieuws voor zijn fans. De zanger gaat volgend jaar een langgekoesterde droom in vervulling laten gaan."
         },
         {
-          "title": "Are Prince Harry &amp; Meghan Markle Spending Christmas in the UK?",
-          "source": "Stylecaster on MSN",
-          "url": "https://www.msn.com/en-us/news/other/are-prince-harry-meghan-markle-spending-christmas-in-the-uk/ar-AA2h0jsq",
-          "publishedDate": "Tue, 10 Nov 2026 16:00:00 GMT",
-          "description": "Where will they be?"
+          "title": "Kaartkopers afgelast Waylon's Top 1000-concert krijgen nieuw optreden",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/kaartkopers-afgelast-waylon-top-1000-concert-nieuw-optreden",
+          "publishedDate": "Thu, 19 Nov 2026 04:30:00 GMT",
+          "description": "Bezoekers van het afgelaste Top 1000-concert van Waylon krijgen alsnog een optreden aangeboden tijdens Waylon's American Roadtrip in Ahoy."
         },
         {
-          "title": "Prince Harry plays with Meghan's ponytail in loving gesture caught on camera – watch",
-          "source": "HELLO!",
-          "url": "https://www.hellomagazine.com/royalty/931570/prince-harry-unseen-loving-gesture-meghan-markle/?amp;utm_campaign=hellouk&amp;utm_source=Twitter",
-          "publishedDate": "Tue, 27 Oct 2026 07:30:00 GMT",
-          "description": "Prince Harry couldn't resist playing with Meghan Markle's hair during a visit to Nottingham earlier this month. The couple are now abroad with their children, Prince Archie and Princess Lilibet, HELLO ..."
+          "title": "Miljoenenschuld bij failliete organisator Waylon-concert, fans gedupeerd",
+          "source": "rtl",
+          "url": "https://www.rtl.nl/nieuws/economie/artikel/5633088/failliete-organisator-waylon-concerten-laat-miljoenenschuld-achter",
+          "publishedDate": "Wed, 29 Jul 2026 05:43:00 GMT",
+          "description": "Schuldeisers hebben ruim 1,2 miljoen euro tegoed van de failliete organisator van een geannuleerd megaconcert van zanger Waylon. Een zusterbedrijf, dat een bekende televisiestudio in het Gooi ..."
         },
         {
-          "title": "Prince Harry and Meghan recap: Duchess of Sussex says 'it’s great to be back' as crowds cheer",
-          "source": "The Mirror",
-          "url": "https://www.mirror.co.uk/news/royals/prince-harry-meghan-nottingham-live-37771520?amp%3Butm_campaign=main",
-          "publishedDate": "Thu, 15 Oct 2026 16:09:00 GMT",
-          "description": "Prince Harry and Meghan Markle today donned aprons for a cooking class in Nottingham - as they carried out their second engagement of the day. The Duke and Duchess of Sussex started their day at the ..."
+          "title": "Bedrijf achter Waylons Top 1000-concert failliet verklaard",
+          "source": "MSN",
+          "url": "https://www.msn.com/nl-nl/geldzaken/algemeen/bedrijf-achter-waylons-top-1000-concert-failliet-verklaard/ar-AA1XVgSB",
+          "publishedDate": "Wed, 11 Mar 2026 04:30:00 GMT",
+          "description": "Entertainment Networks B.V., de organisatie achter Waylons Top 1000-concert, is dinsdag door de rechtbank Midden-Nederland failliet verklaard. Dat meldt de rechtbank desgevraagd aan het ANP. Door het ..."
         },
         {
-          "title": "Are Harry and Meghan trying to sneak their way back into the royal fold? VOTE NOW",
-          "source": "The Sun",
-          "url": "https://www.thesun.co.uk/royals/40695977/harry-meghan-royal-return-poll/?amp;utm_campaign=sunmaintwitter&amp;utm_source=Twitter",
-          "publishedDate": "Thu, 15 Oct 2026 04:31:00 GMT",
-          "description": "THE Sussexes – who are not working royals – have stepped out in Nottingham today in their first pseudo-royal engagement since returning to the UK. They chose Nottingham as it was the location for ..."
-        },
-        {
-          "title": "Prince Harry and Meghan in new security scare as men with backpacks spotted at Archie and Lilibet's school",
-          "source": "The Mirror",
-          "url": "https://www.mirror.co.uk/news/royals/harry-meghan-security-scare-paparazzi-37717750.amp",
-          "publishedDate": "Wed, 30 Sep 2026 06:00:00 GMT",
-          "description": "Two young men carrying backpacks, who are believed to be international paparazzi, are understood to have been seen by both private security and school staff near Prince Archie and Princess Lilibet's s ..."
-        },
-        {
-          "title": "Prins Harry en Meghan verlengen hun deal met Netflix: ‘Trots’",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/show/prins-harry-en-meghan-verlengen-hun-deal-met-netflix-trots~a479514c/",
-          "publishedDate": "Mon, 11 Aug 2025 02:00:00 GMT",
-          "description": "Prins Harry en zijn vrouw Meghan hebben hun samenwerking met Netflix verlengd. De hertog en hertogin van Sussex werken sinds 2020 via hun productiebedrijf Archewell Productions samen met de ..."
-        },
-        {
-          "title": "Prince Harry &amp; Meghan Markle ditch Archewell &amp; launch slick new website using ROYAL titles to share ‘personal updates’",
-          "source": "The Sun",
-          "url": "https://www.thesun.co.uk/royals/25666646/prince-harry-meghan-markle-new-website/?amp;utm_medium=social&amp;utm_campaign=sharebarweb",
-          "publishedDate": "Mon, 12 Feb 2024 12:42:00 GMT",
-          "description": "One expert blasted them for 'cashing in on royal connections they hate so much' PRINCE Harry and Meghan Markle have undergone a major rebrand in a bid to share more “personal updates” with fans. The ..."
-        },
-        {
-          "title": "Documentaire over prins Harry en Meghan Markle te zien bij AVROTROS",
-          "source": "NU",
-          "url": "https://www.nu.nl/achterklap/5247494/documentaire-over-prins-harry-en-meghan-markle-te-zien-bij-avrotros.html",
-          "publishedDate": "Tue, 01 May 2018 12:43:00 GMT",
-          "description": "De AVROTROS zendt donderdagavond 17 mei de documentaire Harry &amp; Meghan, een koninklijk sprookje uit. De film analyseert het liefdesverhaal van de Britse prins Harry en zijn aanstaande, actrice Meghan ..."
+          "title": "Aanbieding voor €0,49/week",
+          "source": "telegraaf.nl",
+          "url": "https://www.telegraaf.nl/entertainment/sterren/waylon-wil-fans-niet-in-de-steek-laten-na-faillissement-organisator-top-1000-concert-het-kan-niet-zo-zijn-dat-een-externe-partij-dit-verpest/140873140.html",
+          "publishedDate": "Mon, 09 Mar 2026 17:00:00 GMT",
+          "description": "Waylon (45) zoekt een manier om fans te compenseren voor het Top 1000 Allertijden Concert dat oorspronkelijk in 2025 in Rotterdam Ahoy zou plaatsvinden. In september dat jaar werd het optreden ..."
         }
       ]
     },
     {
-      "keyword": "storing rabobank",
+      "keyword": "koninklijke luchtvaart maatschappij",
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Storing Rabobank voorbij",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/nieuws/storing-rabobank-voorbij~bcc066d5/",
-          "publishedDate": "Sun, 20 Feb 2011 08:34:00 GMT",
-          "description": ",,Het was een technische storing, er waren problemen met het netwerk. We doen nu onderzoek naar wat er precies heeft plaatsgevonden'', aldus de zegsman. Vanaf zondagmiddag een uur tot ongeveer half ..."
-        },
-        {
-          "title": "Duizenden meldingen na storing bij Rabobank, probleem verholpen",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/economie/geld/artikelen/duizenden-meldingen-na-storing-bij-rabobank-probleem-verholpen",
-          "publishedDate": "Thu, 19 Nov 2026 08:20:00 GMT",
-          "description": "Rabobank ondervond een storing met rekeningen en creditcards, bevestigt een woordvoerder. Betaalrekeningen functioneerden, maar spaarrekeningen waren tijdelijk niet toegankelijk."
-        },
-        {
-          "title": "Storing bij Rabobank zorgt voor problemen met internetbankieren - update",
-          "source": "Tweakers",
-          "url": "https://tweakers.net/nieuws/234932/storing-bij-rabobank-zorgt-voor-problemen-met-internetbankieren.html",
-          "publishedDate": "Wed, 14 May 2025 03:24:00 GMT",
-          "description": "Rabobank-klanten ervaren op dit moment problemen met internetbankieren vanwege een storing. Door de storing is het niet mogelijk om rekeningen op te halen via de app. Het is ook niet mogelijk om ..."
-        },
-        {
-          "title": "Storing bankieren bij Rabobank verholpen",
-          "source": "AD",
-          "url": "https://www.ad.nl/economie/storing-bankieren-bij-rabobank-verholpen~a28bb75d/",
-          "publishedDate": "Tue, 26 Mar 2024 14:48:00 GMT",
-          "description": "Op de website Allestoringen is te zien dat het aantal klachten rond 19.15 uur begon op te lopen. Volgens de zegsman van de bank duurde de storing ongeveer een uur. Op socialmediaplatform X werd ..."
-        },
-        {
-          "title": "Storing Rabobank opgelost, website weer bereikbaar",
-          "source": "Nieuws",
-          "url": "https://nieuws.nl/economie/storing-rabobank-opgelost-website-weer-bereikbaar",
-          "publishedDate": "Wed, 03 Jan 2024 04:22:00 GMT",
-          "description": "Rabobank heeft woensdagochtend een grote storing opgelost. Door dat euvel waren onder meer de website en app van de bank ruim een uur niet bereikbaar. Ook waren er problemen met iDEAL-betalingen. Een ..."
-        },
-        {
-          "title": "Storing Rabobank: problemen met mobiel bankieren en internetbankieren (update)",
-          "source": "Androidworld",
-          "url": "https://androidworld.nl/nieuws/storing-rabobank-problemen-met-app-en-website/",
-          "publishedDate": "Wed, 04 Jan 2023 01:22:00 GMT",
-          "description": "Klanten van de Rabobank ondervonden urenlang problemen bij het gebruik van de app, mobiel bankieren en internetbankieren op desktop. IGN-collega Nick meldde dat hij niet meer kan inloggen in de ..."
-        },
-        {
-          "title": "Rabobank-storing met de app en website (Update)",
-          "source": "Androidworld",
-          "url": "https://androidworld.nl/nieuws/rabobank-storing-app-website/",
-          "publishedDate": "Wed, 26 Oct 2022 04:53:00 GMT",
-          "description": "De Rabobank heeft momenteel technische problemen met zijn website en app. De storing is woensdag iets na 10 uur begonnen en een heleboel gebruikers melden problemen. Er zijn problemen met inloggen en ..."
-        },
-        {
-          "title": "Storing Rabobank houdt nog steeds aan",
-          "source": "AD",
-          "url": "https://www.ad.nl/economie/storing-rabobank-houdt-nog-steeds-aan~afc3a00f/",
-          "publishedDate": "Tue, 16 Feb 2016 12:48:00 GMT",
-          "description": "De storing waardoor een deel klanten van Rabobank vandaag niet konden internetbankieren is laat in de avond nog steeds niet opgelost. Dat liet een woordvoerder van Rabobank weten. 'We werken hard door ..."
+          "title": "Toen KLM plotseling niet meer naar Suriname mocht vliegen",
+          "source": "Up in the Sky",
+          "url": "https://www.upinthesky.nl/2026/11/12/toen-klm-plotseling-niet-meer-naar-suriname-mocht-vliegen/",
+          "publishedDate": "Wed, 11 Nov 2026 22:49:00 GMT",
+          "description": "Vandaag de dag is KLM de onbetwiste marktleider op vluchten tussen Amsterdam en Paramaribo en dat is de Nederlandse airline vrijwel altijd geweest. Toch ..."
         }
       ]
-    },
-    {
-      "keyword": "de telegraaf",
-      "trafficLabel": "5K+",
-      "articles": []
     }
   ]
 }
