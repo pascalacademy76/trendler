@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-11-20T20:36:42.350Z",
+  "fetchedAt": "2026-11-21T01:54:29.589Z",
   "trends": [
+    {
+      "keyword": "xi jinping",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Drie machtige mannen aan tafel: bijeenkomst van Xi, Trump en Poetin roept vragen en argwaan op",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/11/17/drie-machtige-mannen-aan-tafel-bijeenkomst-van-xi-trump-en-poetin-roept-vragen-en-argwaan-op-a4941592",
+          "publishedDate": "Tue, 17 Nov 2026 09:58:00 GMT",
+          "description": "Topontmoeting: In het Chinese Shenzhen spreken Donald Trump, Xi Jinping en Vladimir Poetin elkaar donderdag. De agenda is onduidelijk, de uitkomst ongewis. Vanuit Europa wordt de bijeenkomst scherp in"
+        },
+        {
+          "title": "Europa vertelt Trump dat “zinloze top” niets verandert: “Poetin is niet en zal nooit onze vriend zijn”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/buitenland/europa-vertelt-trump-dat-zinloze-top-niets-verandert-poetin-is-niet-en-zal-nooit-onze-vriend-zijn~aa0d95d5/",
+          "publishedDate": "Thu, 19 Nov 2026 12:11:00 GMT",
+          "description": "De historische ontmoeting tussen Donald Trump, Vladimir Poetin en Xi Jinping in China heeft Europa allerminst overtuigd. Terwijl de drie wereldleiders een gezamenlijke vredesverklaring presenteerden,"
+        }
+      ]
+    },
     {
       "keyword": "zwarte cross",
       "trafficLabel": "20K+",
@@ -14,10 +34,10 @@
         },
         {
           "title": "Jan Smit en Roxy Dekker eerste namen Zwarte Cross 2027",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/show/jan-smit-en-roxy-dekker-eerste-namen-zwarte-cross-2027~a07ad86c/",
-          "publishedDate": "Fri, 20 Nov 2026 06:30:00 GMT",
-          "description": "Jan Smit en Roxy Dekker zijn de eerste aangekondigde namen die optreden tijdens de komende editie van de Zwarte Cross. Dat is vrijdag namens de organisatie bekendgemaakt in de 538 Ochtendshow."
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/jan-smit-en-roxy-dekker-eerste-namen-zwarte-cross-2027",
+          "publishedDate": "Fri, 20 Nov 2026 06:03:00 GMT",
+          "description": "Jan Smit en Roxy Dekker zijn de eerste aangekondigde namen die optreden tijdens de komende editie van de Zwarte Cross. Dat is vrijdag namens de organisatie bekendgemaakt in de 538 Ochtendshow. Voor Sm ..."
         },
         {
           "title": "Zwarte Cross maakt eerste namen bekend voor 2027: Roxy Dekker en Jan Smit",
@@ -82,6 +102,13 @@
       "trafficLabel": "20K+",
       "articles": [
         {
+          "title": "Ongeval met letsel op Laan van Chartroise in Utrecht",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-utrecht/ongeval-met-letsel-op-laan-van-chartroise-in-utrecht~a1d37eaf/",
+          "publishedDate": "Fri, 20 Nov 2026 11:19:00 GMT",
+          "description": "De brandweer is de afgelopen 30 dagen 212 keer naar Utrecht gestuurd. De ambulance werd in die periode 1315 keer gealarmeerd. Meer artikelen over de inzet van de hulpdiensten lees je in onze sectie ..."
+        },
+        {
           "title": "N362 in beide richtingen dicht na fors ongeval tegen boom in Nieuwolda",
           "source": "Algemeen Dagblad",
           "url": "https://www.ad.nl/112-nieuws-oldambt/n362-in-beide-richtingen-dicht-na-fors-ongeval-tegen-boom-in-nieuwolda~ae7d0069/",
@@ -89,18 +116,11 @@
           "description": "Een personenauto is vrijdagochtend op een boom gebotst langs de N362 in Nieuwolda. Door het ongeval is de weg in beide richtingen afgesloten tussen Nieuwolda en de aansluiting met de A7."
         },
         {
-          "title": "Ongeval met letsel op Alphenseweg in Baarle-Nassau",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/112-nieuws-baarle-nassau/ongeval-met-letsel-op-alphenseweg-in-baarle-nassau~aa6f2b0b/",
-          "publishedDate": "Fri, 20 Nov 2026 12:14:00 GMT",
-          "description": "De brandweer is de afgelopen 30 dagen 6 keer naar Baarle-Nassau gestuurd. De ambulance werd in die periode 58 keer gealarmeerd. Meer artikelen over de inzet van de hulpdiensten lees je in onze sectie ..."
-        },
-        {
-          "title": "Ongeval met letsel op Koningstraat in Apeldoorn",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/112-nieuws-apeldoorn/ongeval-met-letsel-op-koningstraat-in-apeldoorn~ad8e0609/",
-          "publishedDate": "Fri, 20 Nov 2026 12:12:00 GMT",
-          "description": "De hulpdiensten zijn vrijdagavond uitgerukt voor een ongeval met letsel op de kruising van de Koningstraat en Zwolseweg in Apeldoorn."
+          "title": "Ongeval met letsel op de Roef in Woudrichem, traumahelikopter gealarmeerd",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/noord-brabant/midden-en-west-brabant/woudrichem/56128876/p2000-ongeval-met-letsel-op-de-roef-in-woudrichem.html",
+          "publishedDate": "Fri, 20 Nov 2026 13:03:00 GMT",
+          "description": "De brandweer van Woudrichem is de afgelopen 30 dagen 8 keer gealarmeerd. De ambulance moest 45 keer naar die plaats toe. Alarmeringen.nl bestaat ruim 20 jaar en omvat de grootste database met 112 ..."
         },
         {
           "title": "Ongeval met letsel op Laan van Walloni&#235; in Roosendaal, traumahelikopter gealarmeerd",
@@ -110,32 +130,11 @@
           "description": "De hulpdiensten zijn vrijdagavond uitgerukt voor een zwaar ongeval met letsel aan Laan van Walloni&#235; in Roosendaal. Behalve een ambulance is ook een traumahelikopter gealarmeerd."
         },
         {
-          "title": "Ongeval met letsel op Kramatweg in Amsterdam",
-          "source": "Alarmeringen.nl",
-          "url": "https://alarmeringen.nl/noord-holland/amsterdam-amstelland/amsterdam/56128471/p2000-ongeval-met-letsel-op-kramatweg-in-amsterdam.html",
-          "publishedDate": "Fri, 20 Nov 2026 11:13:00 GMT",
-          "description": "De hulpdiensten zijn vrijdagavond uitgerukt voor een ongeval met letsel aan de Kramatweg in Amsterdam. De melding kwam rond kwart over zeven 's avonds bij de alarmcentrale binnen. Hulpdiensten zijn na ..."
-        },
-        {
           "title": "Vrouw (27) uit Raalte overlijdt bij ongeval met vrachtwagen op de N348 bij Ommen",
           "source": "De Stentor",
           "url": "https://www.destentor.nl/raalte/vrouw-27-uit-raalte-overlijdt-bij-ongeval-met-vrachtwagen-op-de-n348-bij-ommen~af8efcb3/",
           "publishedDate": "Fri, 20 Nov 2026 09:55:00 GMT",
           "description": "De automobilist die donderdag overleed bij het ongeval op de N348 bij Ommen, is een 27-jarige vrouw uit de gemeente Raalte. De auto kwam daar in botsing met een vrachtwagen."
-        },
-        {
-          "title": "Bromfietser gewond na ongeval met vluchtmisdrijf",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/hamme/bromfietser-gewond-na-ongeval-met-vluchtmisdrijf~a2cc888d/",
-          "publishedDate": "Fri, 20 Nov 2026 08:30:00 GMT",
-          "description": "Op de Evangeliestraat in Hamme is een bromfietser vanmiddag gewond geraakt bij een ongeval met een personenwagen. De bestuurder van het voertuig stopte eerst, maar zou nadien toch doorgereden zijn. De ..."
-        },
-        {
-          "title": "Ongeval met letsel op Dotterlaan in Arnhem",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/112-nieuws-arnhem/ongeval-met-letsel-op-dotterlaan-in-arnhem~a703a1b7/",
-          "publishedDate": "Fri, 20 Nov 2026 08:15:00 GMT",
-          "description": "De melding kwam rond kwart over vier 's middags bij de alarmcentrale binnen. Er is een ambulance naar de locatie gestuurd om hulp te verlenen. 112 Arnhem De brandweer is de afgelopen 30 dagen 230 keer ..."
         },
         {
           "title": "Verslagenheid bij middelbare school na fataal ongeval 14-jarige leerling",
@@ -150,20 +149,36 @@
           "url": "https://www.deputtenaer.nl/112/ongeval/1329572/auto-op-de-kant-tegen-vangrail-bij-ongeval-op-a28-bij-strand-",
           "publishedDate": "Fri, 20 Nov 2026 06:20:00 GMT",
           "description": "[ERMELO] Op de A28 vanuit Zwolle richting Amersfoort ter hoogte van Strand Horst heeft vrijdagmiddag 20 november een verkeersongeval plaatsgevonden waarbij twee auto’s betrokken waren."
+        },
+        {
+          "title": "Ongeval met letsel op Groeneweg in Wijk en aalburg",
+          "source": "Alarmeringen.nl",
+          "url": "https://alarmeringen.nl/noord-brabant/midden-en-west-brabant/wijk-en-aalburg/56124699/p2000-voertuigbrand-op-groeneweg-in-wijk-en-aalburg.html",
+          "publishedDate": "Thu, 19 Nov 2026 17:24:00 GMT",
+          "description": "De brandweer is in de nacht van donderdag op vrijdag uitgerukt na een melding over een autobrand op de Groeneweg in Wijk en aalburg."
+        },
+        {
+          "title": "Ernstig ongeval op de Rijksstraatweg in Heemskerk: twee personen gewond",
+          "source": "Rodi.nl",
+          "url": "https://www.rodi.nl/heemskerk/112-nieuws/513010/ernstig-ongeval-op-de-rijksstraatweg-in-heemskerk-twee-personen-gewond",
+          "publishedDate": "Wed, 18 Nov 2026 12:20:00 GMT",
+          "description": "HEEMSKERK - Rond 20.20 uur heeft er een ernstig ongeval plaatsgevonden op de Rijksstraatweg in Heemskerk. Meerdere hulpdiensten kwamen met spoed ter plaatse om hulp te verlenen."
         }
       ]
     },
     {
-      "keyword": "donald trump",
-      "trafficLabel": "10K+",
-      "articles": []
-    },
-    {
       "keyword": "jason bhugwandass ziek",
-      "trafficLabel": "5K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Jason Bhugwandass (28), die na zijn eigen traumatische ervaring streed tegen misstanden in de jeugdzorg, is overleden",
+          "title": "Jason was slachtoffer van het jeugdzorgsysteem, maar werd boegbeeld en reddingsboei",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/jason-was-slachtoffer-van-het-jeugdzorgsysteem-maar-werd-boegbeeld-en-reddingsboei~a5e2fc8b/",
+          "publishedDate": "Fri, 20 Nov 2026 12:28:00 GMT",
+          "description": "Even leek het erop dat Jason Bhugwandass het gebroken jeugdzorgsysteem zou kraken. Onvermoeibaar legde hij bloot welke misstanden plaatsvonden. Totdat het hem allemaal te veel werd. &lt;a href=&quot;https://w ..."
+        },
+        {
+          "title": "Jason Bhugwandass (28), die na zijn eigen traumatische ervaringen streed tegen misstanden in de jeugdzorg, is overleden",
           "source": "NRC",
           "url": "https://www.nrc.nl/nieuws/2026/11/20/jason-bhugwandass-28-die-na-zijn-eigen-traumatische-ervaring-streed-tegen-misstanden-in-de-jeugdzorg-is-overleden-a4941969",
           "publishedDate": "Fri, 20 Nov 2026 11:55:00 GMT",
@@ -177,11 +192,11 @@
           "description": "De vrijdag overleden Bhugwandass zette zich in voor mensen die, net als hij, slachtoffer waren geworden van de gesloten jeugdzorg. Het leidde tot de sluiting van de Zikos-afdelingen en excuses van de ..."
         },
         {
-          "title": "Jason Bhugwandass (1998-2026), compromisloze en gedreven strijder tegen de gesloten jeugdzorg, bleef kampen met zijn eigen trauma’s",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/jason-bhugwandass-1998-2026-compromisloze-en-gedreven-strijder-tegen-de-gesloten-jeugdzorg-bleef-kampen-met-zijn-eigen-trauma-s~b3baf4c5/",
-          "publishedDate": "Fri, 20 Nov 2026 10:53:00 GMT",
-          "description": "Onvermoeibaar streed Jason Bhugwandass tegen de gesloten jeugdzorg, die hem als tiener blijvend beschadigde. Zijn vasthoudendheid leidde tot politieke verandering en gaf duizenden lotgenoten een stem."
+          "title": "Jeugdzorgactivist Jason Bhugwandass op 28-jarige leeftijd overleden",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/jeugdzorgactivist-jason-bhugwandass-op-28-jarige-leeftijd-overleden~b3fd8838/",
+          "publishedDate": "Fri, 20 Nov 2026 10:48:00 GMT",
+          "description": "Jason Bhugwandass is vrijdag op 28-jarige leeftijd overleden. Hij werd bekend door zijn strijd tegen de gesloten jeugdzorg en zette zich in voor mensen die, net als hij, slachtoffer werden van deze ge ..."
         },
         {
           "title": "Jason Bhugwandass (28), die misstanden in jeugdzorg onthulde, overleden",
@@ -191,46 +206,343 @@
           "description": "Jason Bhugwandass is vrijdag op 28-jarige leeftijd overleden. Hij zette zich in voor mensen die, net als hij, slachtoffer waren geworden van misstanden in de gesloten jeugdzorg. Dankzij zijn inzet zij ..."
         },
         {
-          "title": "Jason Bhugwandass (28) overleden, boegbeeld van strijd tegen misstanden in jeugdzorg",
+          "title": "Jason Bhugwandass (28) overleden, streed tegen misstanden in jeugdzorg",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2640323-jason-bhugwandass-28-overleden-boegbeeld-van-strijd-tegen-misstanden-in-jeugdzorg",
+          "url": "https://nos.nl/artikel/2640323-jason-bhugwandass-28-overleden-streed-tegen-misstanden-in-jeugdzorg",
           "publishedDate": "Fri, 20 Nov 2026 09:41:00 GMT",
           "description": "Jason werd gedreven door zijn eigen ervaringen. Als tiener kwam hij, depressief door problemen in zijn gezin, terecht in de gesloten jeugdzorg."
         },
         {
-          "title": "Jason Bhugwandass, die misstanden in jeugdzorg onthulde, op 28-jarige leeftijd overleden",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5666212/jason-bhugwandass-28-de-jeugdzorgstrijder-er-niet-meer",
-          "publishedDate": "Fri, 20 Nov 2026 09:22:00 GMT",
-          "description": "Jason Bhugwandass (28) is niet meer. Hij werd bekend door zijn strijd tegen misstanden in de gesloten jeugdzorg. Met zijn rapport Eenzaam Gesloten bracht hij als ervaringsdeskundige ernstige misstande ..."
+          "title": "Belangenorganisatie MIND `diep bedroefd` na overlijden Jason",
+          "source": "Drimble",
+          "url": "https://drimble.nl/binnenlands-nieuws/108664054/belangenorganisatie-mind-diep-bedroefd-na-overlijden-jason.html",
+          "publishedDate": "Fri, 20 Nov 2026 15:13:00 GMT",
+          "description": "Belangenorganisatie MIND laat weten &#180;diep bedroefd&#180; te zijn na het overlijden van Jason Bhugwandass. We bewonderen Jason zijn doorzettingsvermogen. Hoe hij, ondanks zijn eigen psychisch lijden, zich i ..."
         },
         {
-          "title": "Jason wilde rust, maar werd ingehaald door zijn jeugdzorgverleden",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/binnenland/jason-wilde-rust-maar-werd-ingehaald-door-zijn-jeugdzorgverleden~a5e2fc8b/",
-          "publishedDate": "Fri, 20 Nov 2026 12:18:00 GMT",
-          "description": "Even leek het erop dat Jason Bhugwandass het gebroken jeugdzorgsysteem zou kraken. Onvermoeibaar legde hij bloot welke misstanden plaatsvonden. Totdat het hem allemaal te veel werd. &lt;a href=&quot;https://w ..."
-        },
-        {
-          "title": "Jeugdzorgactivist Jason Bhugwandass op 28-jarige leeftijd overleden",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/binnenland/jeugdzorgactivist-jason-bhugwandass-op-28-jarige-leeftijd-overleden~a3fd8838/",
-          "publishedDate": "Fri, 20 Nov 2026 11:52:00 GMT",
-          "description": "Jason Bhugwandass is vrijdag op 28-jarige leeftijd overleden. Zijn naasten hebben dat aan het ANP laten weten. Hij zette zich in voor mensen die, net als hij, slachtoffer waren geworden in de gesloten ..."
-        },
-        {
-          "title": "Belangenorganisatie MIND ‘diep bedroefd’ na overlijden Jason",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/belangenorganisatie-mind-diep-bedroefd-na-overlijden-jason",
-          "publishedDate": "Fri, 20 Nov 2026 11:44:00 GMT",
-          "description": "Belangenorganisatie MIND laat weten ‘diep bedroefd’ te zijn na het overlijden van Jason Bhugwandass. „We bewonderen Jason zijn doorzettingsvermogen. Hoe hij, ondanks zijn eigen psychisch lijden, zich ..."
+          "title": "Jason Bhugwandass is op 28-jarige leeftijd overleden",
+          "source": "NPO Radio 1",
+          "url": "https://www.nporadio1.nl/fragmenten/langs-de-lijn-en-omstreken/01a1fadc-308d-70bd-916e-3d1b2c9ff22a/2026-11-20-jason-bhugwandass-is-op-28-jarige-leeftijd-overleden",
+          "publishedDate": "Fri, 20 Nov 2026 13:00:00 GMT",
+          "description": "Jason Bhugwandass is vandaag op 28-jarige leeftijd overleden. Hij zette zich in voor mensen die, net als hij, slachtoffer waren geworden in de gesloten jeugdzorg. Dankzij de strijd van Bhugwandass ..."
         },
         {
           "title": "Jeugdzorgactivist Jason Bhugwandass (28) overleden",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/het-beste-van-hart/persoonlijke-verhalen/artikelen/jeugdzorgactivist-jason-bhugwandass-28-overleden",
-          "publishedDate": "Fri, 20 Nov 2026 10:46:00 GMT",
-          "description": "Jason Bhugwandass is vrijdag op 28-jarige leeftijd overleden. Zijn naasten hebben dat aan het ANP laten weten. Hij zette zich in voor mensen die, net als hij, slachtoffer zijn van de gesloten jeugdzor ..."
+          "source": "LINDA.nl",
+          "url": "https://www.linda.nl/nieuws/jason-bhugwandass-overleden-jeugdzorg~59ffed3",
+          "publishedDate": "Fri, 20 Nov 2026 11:15:00 GMT",
+          "description": "Jason Bhugwandass is vrijdag op 28-jarige leeftijd overleden. Zijn naasten hebben dat aan het ANP laten weten. Hij zette zich in voor mensen die, net als hij, slachtoffer waren geworden in de gesloten ..."
+        },
+        {
+          "title": "Amsterdammer van het jaar Jason Bhugwandass (28) overleden, streed voor betere jeugdzorg",
+          "source": "AT5",
+          "url": "https://www.at5.nl/artikelen/241140/amsterdammer-van-het-jaar-jason-bhugwandass-28-overleden-streed-voor-betere-jeugdzorg",
+          "publishedDate": "Fri, 20 Nov 2026 09:45:00 GMT",
+          "description": "Jason Bhugwandass, die zich de afgelopen tien jaar inzette tegen gesloten jeugdinstellingen, is overleden. Mede dankzij zijn inzet nam de Tweede Kamer een motie aan om die instellingen te sluiten."
+        }
+      ]
+    },
+    {
+      "keyword": "wateroverlast",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "De Westereen krijgt 2400 meter nieuwe riolering tegen wateroverlast",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/dantumadiel/de-westereen-krijgt-2400-meter-nieuwe-riolering-tegen-wateroverlast~a4d505b2/",
+          "publishedDate": "Sun, 15 Nov 2026 20:46:00 GMT",
+          "description": "Folkertsma Infra vernieuwt in opdracht van de gemeente Dantumadiel 2400 meter riolering in de Vogelbuurt in De Westereen. Het rioolwerk is naar verwachting in juni 2027 klaar."
+        },
+        {
+          "title": "Heer start proef met subsidie voor maatregelen tegen wateroverlast",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/maastricht/heer-start-proef-met-subsidie-voor-maatregelen-tegen-wateroverlast~a291ae4ff/",
+          "publishedDate": "Mon, 08 Sep 2025 20:59:00 GMT",
+          "description": "Inwoners van Heer kunnen vanaf vandaag, dinsdag, een subsidie aanvragen voor maatregelen tegen wateroverlast. Het gaat om een proef die mogelijk wordt uitgebreid naar andere delen van de stad."
+        },
+        {
+          "title": "112-melding aan de Berceusestraat in Amsterdam",
+          "source": "112amsterdam",
+          "url": "https://112amsterdam.nl/112-melding-aan-de-berceusestraat-in-amsterdam-2/",
+          "publishedDate": "Fri, 20 Nov 2026 09:58:00 GMT",
+          "description": "AMSTERDAM - Vrijdagmiddag is aan de Berceusestraat in Amsterdam wateroverlast in een gebouw ontstaan. Rond 17:58 uur werden de hulpdiensten gealarmeerd. De brandweer werd voor het incident gealarmeerd ..."
+        },
+        {
+          "title": "Poliklinieken Oldenzaal blijven langer dicht om wateroverlast",
+          "source": "Reformatorisch Dagblad",
+          "url": "https://www.rd.nl/artikel/poliklinieken-oldenzaal-blijven-langer-dicht-om-wateroverlast",
+          "publishedDate": "Wed, 18 Nov 2026 06:28:00 GMT",
+          "description": "Enkele poliklinieken van Medisch Spectrum Twente in Oldenzaal blijven ook de komende dagen dicht. De afdelingen zijn in ieder geval tot en met vrijdag gesloten. Na een technische storing is wateroverl ..."
+        },
+        {
+          "title": "Grote wateroverlast in Zellik: Civiele Bescherming pompt water weg op Brusselsesteenweg",
+          "source": "VRT on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/grote-wateroverlast-in-zellik-deel-brusselsesteenweg-staat-volledig-blank/ar-AA2hBPsc",
+          "publishedDate": "Tue, 17 Nov 2026 07:46:34 GMT",
+          "description": "De Civiele Bescherming en de brandweer hebben het water op de Brusselsesteenweg (N9) in Zellik (Asse) weggepompt. Een groot deel van het industrieterrein stond daar urenlang blank door een probleem me ..."
+        },
+        {
+          "title": "Meerdere poliklinieken MST Oldenzaal gesloten door wateroverlast",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/oldenzaal/meerdere-poliklinieken-mst-oldenzaal-gesloten-door-wateroverlast~a03e3d1e/",
+          "publishedDate": "Tue, 17 Nov 2026 06:52:00 GMT",
+          "description": "Door wateroverlast is een aantal poliklinieken van MST Oldenzaal gesloten. Het gaat om de afdelingen longgeneeskunde, KNO, orthopedie en MDL (maag, darm en lever)."
+        },
+        {
+          "title": "Hevige bui zorgt voor wateroverlast in Brussel, verkeerstunnels tijd lang afgesloten",
+          "source": "BRUZZ",
+          "url": "https://www.bruzz.be/actua/mobiliteit/hevige-bui-zorgt-voor-wateroverlast-brussel-verkeerstunnels-tijd-lang-afgesloten-2026-11-17",
+          "publishedDate": "Mon, 16 Nov 2026 16:00:00 GMT",
+          "description": "Dinsdagochtend is een stevige regenbui over Brussel getrokken. Daardoor zijn verschillende straten onder water gelopen, enkele tunnels stonden blank. De brandweer moest tien keer uitrukken."
+        },
+        {
+          "title": "Dijken rond woningen en meer ruimte voor water: Zoutleeuw wordt beschermd tegen wateroverlast",
+          "source": "VRT",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/zoutleeuw-wateroverlast-waterbom-maatregelen-dijken-herinrichtin/",
+          "publishedDate": "Mon, 16 Nov 2026 02:34:00 GMT",
+          "description": "Zoutleeuw plant een investering van 2 miljoen euro om de stad te beschermen tegen wateroverlast. In juli 2021 richtten overstromingen zware schade aan in het centrum en de deelgemeente Budingen. De Kl ..."
+        },
+        {
+          "title": "Wateroverlast in de Efteling: wandelpaden en stapstenen bij Volk van Laaf ondergelopen",
+          "source": "Looopings",
+          "url": "https://www.looopings.nl/weblog/34908/Wateroverlast-in-de-Efteling-wandelpaden-en-stapstenen-bij-Volk-van-Laaf-ondergelopen.html",
+          "publishedDate": "Sat, 14 Nov 2026 09:36:00 GMT",
+          "description": "Wie bij het Volk van Laaf in de Efteling droge voeten wil houden, moet goed oppassen. Hevige regenval heeft voor wateroverlast gezorgd in ..."
+        },
+        {
+          "title": "Zware regen veroorzaakt overlast op Aruba",
+          "source": "Antilliaans Dagblad",
+          "url": "https://antilliaansdagblad.com/artikel/aruba/20261109/zware-regen-veroorzaakt-overlast",
+          "publishedDate": "Mon, 09 Nov 2026 15:01:00 GMT",
+          "description": "Zware regenval hield Aruba zondag in zijn greep. De buien veroorzaakten wateroverlast en schade aan woningen door binnendringend water. Ook ontstonden in meerdere wijken stroomstoringen als gevolg van ..."
+        }
+      ]
+    },
+    {
+      "keyword": "executie",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Weer problemen bij executie in de VS: terdoodveroordeelde schreeuwt het uur lang uit van de pijn",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/weer-problemen-bij-executie-in-de-vs-terdoodveroordeelde-schreeuwt-het-uur-lang-uit-van-de-pijn~a9f7033a/",
+          "publishedDate": "Fri, 20 Nov 2026 06:48:00 GMT",
+          "description": "In de Verenigde Staten heeft een executie opnieuw tot veel verontwaardiging geleid. De 70-jarige Reinaldo Dennes, een veroordeelde moordenaar, werd donderdag ge&#235;xecuteerd in Texas. Voor hij overleed, ..."
+        },
+        {
+          "title": "Opnieuw problemen bij executie in VS: 'Neem me, laat me niet lijden'",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2640281-opnieuw-problemen-bij-executie-in-vs-neem-me-laat-me-niet-lijden",
+          "publishedDate": "Fri, 20 Nov 2026 03:49:00 GMT",
+          "description": "Het gevangenispersoneel had moeite om een geschikte ader te vinden voor de injectie van het dodelijke middel. Daardoor duurde de procedure meer dan een uur."
+        },
+        {
+          "title": "Florida breekt record met 20ste executie dit jaar, 71-jarige moordenaar heeft altijd ontkend",
+          "source": "RTL Nieuws (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/florida-breekt-record-met-20ste-executie-dit-jaar-71-jarige-moordenaar-heeft-altijd-ontkend/ar-AA2hRNSW",
+          "publishedDate": "Fri, 20 Nov 2026 02:07:01 GMT",
+          "description": "De Amerikaanse staat Florida heeft met twintig executies dit jaar een nieuw record gebroken. Gisteren werd de 71-jarige Thomas Mitchell Overton met een dodelijke injectie ge&#235;xecuteerd. Daarmee heeft F ..."
+        },
+        {
+          "title": "Christa Pike na mislukte executie: 'Voortdurend pijn, zowel fysiek als mentaal'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6414953/christa-pike-na-mislukte-executie-voortdurend-pijn-zowel-fysiek-als-mentaal.html",
+          "publishedDate": "Fri, 30 Oct 2026 07:58:00 GMT",
+          "description": "De Amerikaanse Christa Pike, die eind september een executiepoging overleefde, lijdt sinds de mislukte executie voortdurend pijn, zegt ze in een eerste reactie. Ook heeft ze moeite met praten. Daarnaa ..."
+        },
+        {
+          "title": "Executie met hetzelfde middel als bij Christa Pike loopt opnieuw fout: doodstrijd duurt uur en man schreeuwt van pijn",
+          "source": "VRT on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/executie-met-hetzelfde-middel-als-bij-christa-pike-loopt-opnieuw-fout-doodstrijd-duurt-uur-en-man-schreeuwt-van-pijn/ar-AA2hRgMd",
+          "publishedDate": "Fri, 20 Nov 2026 08:02:21 GMT",
+          "description": "In de Verenigde Staten is een executie opnieuw moeilijk verlopen: de executie van Reinaldo Dennes (70) in de staat Texas duurde meer dan een uur. Bovendien schreeuwde de man het uit van de pijn voorda ..."
+        },
+        {
+          "title": "Executie in Texas verloopt moeizaam, Florida breekt record",
+          "source": "actueel365.nl",
+          "url": "https://actueel365.nl/executie-texas-pijnklachten-florida-executierecord-2026-2",
+          "publishedDate": "Thu, 19 Nov 2026 20:19:00 GMT",
+          "description": "Een executie in de Amerikaanse staat Texas is donderdag moeizaam verlopen: gevangenispersoneel had ruim een uur nodig om geschikte aders te vinden en de ..."
+        },
+        {
+          "title": "Op de foto die hem roem bezorgde, kreeg Jan Stappenbeld ook veel kritiek, fotograaf overleden op 80-jarige leeftijd",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/zwolle/op-de-foto-die-hem-roem-bezorgde-kreeg-jan-stappenbeld-ook-veel-kritiek-fotograaf-overleden-op-80-jarige-leeftijd~a918672f/",
+          "publishedDate": "Tue, 17 Nov 2026 12:53:00 GMT",
+          "description": "Als jong jochie fietst hij al achter de brandweer aan. Jaren later legt Jan Stappenbeld de executie bij de treinkaping Wijster vast. Een foto die hem roem &#233;n grafkransen op de mat bezorgt. De Zwolse f ..."
+        },
+        {
+          "title": "Renbaan Duindigt in jubileumjaar opnieuw richting executie: gemeente Wassenaar blokkeert redding omdat zij de grond zelf wil hebben",
+          "source": "Wassenaarders.nl",
+          "url": "https://wassenaarders.nl/2026/11/17/renbaan-duindigt-in-jubileumjaar-opnieuw-richting-executie-gemeente-wassenaar-blokkeert-redding-omdat-zij-de-grond-zelf-wil-hebben/",
+          "publishedDate": "Tue, 17 Nov 2026 03:00:00 GMT",
+          "description": "In het jaar waarin Draf- en Renbaan Duindigt 120 jaar bestaat en de Derby 7.200 bezoekers trok, heeft &#233;&#233;n van de hypotheekhouders dhr. A van Schie een executieveiling van de historische baan aangekond ..."
+        },
+        {
+          "title": "Tiental naalden gebruikt bij mislukte executie Christa Pike: ‘Aders mogelijk geknapt’",
+          "source": "AD",
+          "url": "https://www.ad.nl/buitenland/tiental-naalden-gebruikt-bij-mislukte-executie-christa-pike-aders-mogelijk-geknapt~adaf1d3d/",
+          "publishedDate": "Fri, 23 Oct 2026 02:29:00 GMT",
+          "description": "Het executieteam in de Amerikaanse staat Tennessee heeft ongeveer tien pogingen gedaan om de terdoodveroordeelde Christa Pike (50) te executeren. Daarbij zijn haar aders mogelijk geknapt nog voordat ..."
+        },
+        {
+          "title": "Eerste executie van vrouw in 200 jaar in Tennessee uitgesteld, amper uur voor geplande terechtstelling",
+          "source": "vrt",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/30/tennessee-executie-uitstel-protest/",
+          "publishedDate": "Wed, 30 Sep 2026 08:29:00 GMT",
+          "description": "De executie van Christa Pike (50) in de Amerikaanse staat Tennessee is uitgesteld, amper &#233;&#233;n uur voordat die zou plaatsvinden. Een rechter wil laten onderzoeken of haar verklaringen over seksueel ..."
+        }
+      ]
+    },
+    {
+      "keyword": "jongeren protesteren tegen dienstplicht",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Scholieren en studenten lopen uit de les tegen toenemende militarisering",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2640292-scholieren-en-studenten-lopen-uit-de-les-tegen-toenemende-militarisering",
+          "publishedDate": "Fri, 20 Nov 2026 06:17:00 GMT",
+          "description": "Ook in 24 andere Europese landen protesteerden jongeren tegen de toenemende militarisering, waaronder Duitsland, Spanje en Kroati&#235;. In Itali&#235; liepen duizenden studenten in een mars door de straten van ..."
+        },
+        {
+          "title": "Jongeren verlaten school en collegezaal uit protest tegen dienstplicht: ‘We willen minder geweld’",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/den-haag/jongeren-verlaten-school-en-collegezaal-uit-protest-tegen-dienstplicht-we-willen-minder-geweld~a78cf642/",
+          "publishedDate": "Fri, 20 Nov 2026 04:16:00 GMT",
+          "description": "Scholieren en studenten verlaten vandaag om 13.00 uur hun scholen en collegezalen uit protest tegen onder andere de dienstplicht."
+        },
+        {
+          "title": "Jongeren protesteren tegen uitbreiding militaire dienstplicht: ‘Wij willen liever een mooiere toekomst’",
+          "source": "centraalplus",
+          "url": "https://centraalplus.nl/2026/11/20/jongeren-protesteren-tegen-uitbreiding-militaire-dienstplicht-wij-willen-liever-een-mooiere-toekomst/",
+          "publishedDate": "Fri, 20 Nov 2026 15:06:00 GMT",
+          "description": "Jongeren spreken zich uit tegen de plannen van het kabinet om de militarisering uit te breiden en de betrokkenheid van jongeren bij het leger te vergroten. Tijdens een protest uiten zij hun zorgen ove ..."
+        },
+        {
+          "title": "Studenten protesteren tegen dienstplicht: 'Kom op voor je toekomst'",
+          "source": "Omroep Gelderland",
+          "url": "https://www.gld.nl/nieuws/8550031/studenten-protesteren-tegen-dienstplicht-kom-op-voor-je-toekomst",
+          "publishedDate": "Fri, 20 Nov 2026 10:06:00 GMT",
+          "description": "Studenten en scholieren in heel Nederland liepen deze vrijdag massaal de les uit. De actie was een protest tegen de dienstplicht en de verdere militarisering. Ook in Gelderland namen veel jongeren dee ..."
+        },
+        {
+          "title": "Minister over stakende jongeren: ‘Hoort bij vrije samenleving’",
+          "source": "Ministerie van Defensie",
+          "url": "https://www.defensie.nl/nieuws/20261120-minister-over-stakende-jongeren-hoort-bij-vrije-samenleving",
+          "publishedDate": "Fri, 20 Nov 2026 09:09:00 GMT",
+          "description": "Scholieren en studenten uit tientallen scholen liepen vandaag hun school of collegezaal uit. Zij protesteren op die manier onder meer tegen een mogelijke terugkeer van dienstplicht en tegen oorlog."
+        },
+        {
+          "title": "Utrechtse jongeren protesteren tegen de dienstplicht: ‘als zij ons geen toekomst geven, komen we hem zelf halen’",
+          "source": "De Utrechtse Internet Courant",
+          "url": "https://www.duic.nl/algemeen/algemeen/61563/utrechtse-jongeren-protesteren-tegen-de-dienstplicht-als-zij-ons-geen-toekomst-geven-komen-we-hem-zelf-halen",
+          "publishedDate": "Fri, 20 Nov 2026 07:37:00 GMT",
+          "description": "Scholieren en studenten uit Utrecht deden vanmiddag mee met een nationaal jongerenprotest tegen de uitbreiding van dienstplicht en militarisering, en voor een betaalbaardere toekomst."
+        },
+        {
+          "title": "Jongeren protesteren tegen dienstplicht op Broerplein",
+          "source": "Groninger Internet Courant",
+          "url": "https://www.gic.nl/nieuws/jongeren-protesteren-tegen-dienstplicht-op-broerplein",
+          "publishedDate": "Fri, 20 Nov 2026 07:17:00 GMT",
+          "description": "“Sterf niet voor Yeşilg&#246;z”, stond op de posters die vandaag verspreid waren over het Broerplein. Scholieren en studenten uit Groningen maakten een vuist tegen het kabinet, dat volgens de demonstranten ..."
+        },
+        {
+          "title": "Scholieren en studenten protesteren tegen dienstplicht en gebrek aan investeringen",
+          "source": "Nationale Onderwijsgids",
+          "url": "https://www.nationaleonderwijsgids.nl/hbo/scholieren-en-studenten-protesteren-tegen-dienstplicht-en-gebrek-aan-investeringen/",
+          "publishedDate": "Fri, 20 Nov 2026 06:39:00 GMT",
+          "description": "Vandaag om 13.00 uur verlaten scholieren en studenten op meer dan zestig scholen in zeker zestien steden in Nederland massaal hun klaslokaal of collegezaal."
+        },
+        {
+          "title": "Jongeren komen in actie tegen plannen voor nieuwe dienstplicht: vanmiddag lopen ze klas uit",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/binnenland/jongeren-komen-in-actie-tegen-plannen-voor-nieuwe-dienstplicht-vanmiddag-lopen-ze-klas-uit~af5349ee/",
+          "publishedDate": "Fri, 20 Nov 2026 06:33:00 GMT",
+          "description": "Het plan is nog niet af, toch is er al veel onrust over: de dienstplicht-nieuwe-stijl. De actiegroep ‘Stop de Oorlogskoorts’ roept jongeren op om vrijdag te demonstreren en massaal de klas uit te lope ..."
+        },
+        {
+          "title": "Studenten bij Nijmeegs protest tegen dienstplicht: ‘Jongeren willen helemaal niet vechten in een oorlog’",
+          "source": "Vox",
+          "url": "https://www.voxweb.nl/nieuws/studenten-bij-nijmeegs-protest-tegen-dienstplicht-jongeren-willen-helemaal-niet-vechten-in-een-oorlog",
+          "publishedDate": "Fri, 20 Nov 2026 06:26:00 GMT",
+          "description": "Ongeveer honderd actievoerders kwamen vandaag voor het centraal station bijeen om te protesteren tegen de dienstplicht en tegen overheidsinvesteringen in Defensie. Scholieren en studenten waren opgero ..."
+        }
+      ]
+    },
+    {
+      "keyword": "bayern - köln",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Bayern moet Gouden Bal-winnaar Kane maanden missen door enkelblessure",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6417291/bayern-moet-gouden-bal-winnaar-kane-maanden-missen-door-enkelblessure.html",
+          "publishedDate": "Fri, 20 Nov 2026 15:49:00 GMT",
+          "description": "Gouden Bal-winnaar Harry Kane kan maandenlang niet in actie komen. De spits van Bayern M&#252;nchen viel vrijdag geblesseerd uit in de Bundesliga-wedstrijd tegen FC K&#246;ln en dat blijkt behoorlijk ernstig te ..."
+        },
+        {
+          "title": "Teleurstellend gelijkspel Bayern en uitvalbeurt Kane bij rentree Kompany",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6417287/teleurstellend-gelijkspel-bayern-en-uitvalbeurt-kane-bij-rentree-kompany.html",
+          "publishedDate": "Fri, 20 Nov 2026 14:29:00 GMT",
+          "description": "Bayern M&#252;nchen heeft vrijdag bij de rentree van Vincent Kompany puntenverlies geleden in de Bundesliga. Bayern kwam niet verder dan 1-1 tegen 1. FC K&#246;ln. Het uitvallen van Harry Kane was een extra sme ..."
+        },
+        {
+          "title": "Rentree Kompany brengt Bayern geen geluk: puntenverlies en blessures Kane en Olise",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2640350-rentree-kompany-brengt-bayern-geen-geluk-puntenverlies-en-blessures-kane-en-olise",
+          "publishedDate": "Fri, 20 Nov 2026 13:54:00 GMT",
+          "description": "Bayern speelt bij de rentree van trainer Kompany gelijk tegen FC K&#246;ln (1-1), Harry Kane en Michael Olise vallen geblesseerd uit."
+        },
+        {
+          "title": "&quot;Harry Kane is maanden out&quot;: zware klap voor Bayern en Kompany, die ook Olise de avond op krukken ziet afsluiten",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/2026/11/20/-harry-kane-is-maanden-out-zware-klap-voor-bayern-en-kompany-die-ook-olise-de-avond-op-krukken-ziet-afsluiten~1795215568743/",
+          "publishedDate": "Fri, 20 Nov 2026 16:03:00 GMT",
+          "description": "De comeback van Vincent Kompany bij Bayern M&#252;nchen heeft een bijzonder wrange nasmaak gekregen. Na het teleurstellende gelijkspel tegen FC K&#246;ln (1-1) volgde nog meer slecht nieuws: Harry Kane heeft ..."
+        },
+        {
+          "title": "Rampavond Bayern: grote zorgen om Kane en Olise na gelijkspel tegen K&#246;ln",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/rampavond-bayern-grote-zorgen-om-kane-en-olise-na-gelijkspel-tegen-k%C3%B6ln/ar-AA2hSBDU",
+          "publishedDate": "Fri, 20 Nov 2026 14:01:08 GMT",
+          "description": "Bayern M&#252;nchen heeft niet weten te winnen van 1. FC K&#246;ln in de Bundesliga. In eigen huis speelde Der Rekordmeister met 1-1 gelijk. Vincent Kompany keerde voor het eerst terug op de bank na vier weken ..."
+        },
+        {
+          "title": "Bayern M&#252;nchen loopt averij op tegen K&#246;ln: zorgen om Kane en Olise",
+          "source": "VoetbalNieuws.nl",
+          "url": "https://www.voetbalnieuws.nl/nieuws/2161094/bayern-munchen-loopt-averij-op-tegen-koln-zorgen-om-kane-en-olise.html",
+          "publishedDate": "Fri, 20 Nov 2026 13:23:00 GMT",
+          "description": "Bayern M&#252;nchen heeft vrijdagavond punten laten liggen tegen 1. FC K&#246;ln. De ploeg van Vincent Kompany kwam niet verder dan 1-1 en zag bovendien Harry Kane en Michael Olise voortijdig uitvallen."
+        },
+        {
+          "title": "Geen gedroomde comeback voor Kompany: Bayern verliest punten tegen K&#246;ln &#233;n ziet sterrenduo Kane/Olise uitvallen",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/matches/voetbal/buitenland/dui/bundesliga/2026-2027/regulier/10/bayern-munchen-1-fc-koln-geen-gedroomde-comeback-voor-kompany-bayern-verliest-punten-tegen-koln-en-ziet-sterrenduo-kane-olise-uitvallen~1784282284923/",
+          "publishedDate": "Fri, 20 Nov 2026 12:30:00 GMT",
+          "description": "Niet de comeback waarop hij had gehoopt. Het warme welkom kreeg Vincent Kompany wel, de drie punten niet. de Belg stond na zijn gedwongen afwezigheid opnieuw langs de zijlijn bij Bayern M&#252;nchen, maar ..."
+        },
+        {
+          "title": "Driedubbele pijn voor Bayern met puntenverlies en uitvallen van Kane &#233;n Olise",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/aanvallende-zorgen-bayern-dijen-uit-ballon-d-or-winnaar-kane-valt-uit-tegen-koln",
+          "publishedDate": "Fri, 20 Nov 2026 12:05:00 GMT",
+          "description": "Harry Kane is vrijdagavond geblesseerd geraakt bij Bayern M&#252;nchen. De winnaar van de Gouden Bal begon in de basis tegen 1. FC K&#246;ln, maar moest de strijd halverwege de eerste helft staken. Hij lijkt de ..."
+        },
+        {
+          "title": "Bayern-fans zijn blij met terugkeer van Kompany: &quot;We wisten dat hij sterker terug zou komen&quot;",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/video/productie/bayern-fans-zijn-blij-met-terugkeer-van-kompany-15096135",
+          "publishedDate": "Thu, 19 Nov 2026 16:00:00 GMT",
+          "description": "Bayern M&#252;nchen ontvangt K&#246;ln voor de comeback van Vincent Kompany (40) langs de zijlijn. En daar zijn de Bayern-fans bijzonder blij mee. VTM NIEUWS-journalist Jonas Decleer sprak met enkele supporters ..."
+        },
+        {
+          "title": "Bayern bevestigt terugkeer Kompany richting thuisduel met K&#246;ln",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/bayern-bevestigt-terugkeer-kompany-richting-thuisduel-met-koln",
+          "publishedDate": "Wed, 18 Nov 2026 06:41:00 GMT",
+          "description": "Bayern M&#252;nchen heeft aangekondigd dat Vincent Kompany donderdag bij de persconferentie aanschuift richting het thuisduel met 1. FC K&#246;ln. Daarmee lijkt niets meer een rentree van de Belg op de bank bij ..."
         }
       ]
     },
@@ -239,25 +551,67 @@
       "trafficLabel": "5K+",
       "articles": [
         {
-          "title": "Live: Kan Almere City nog terugkomen in de tweede helft tegen NAC?",
-          "source": "Omroep Flevoland",
-          "url": "https://www.omroepflevoland.nl/sport/532130/live:-kan-almere-city-nog-terugkomen-in-de-tweede-helft",
-          "publishedDate": "Fri, 20 Nov 2026 11:40:00 GMT",
-          "description": "Almere City FC speelt sinds 20.00 uur de topper tegen NAC Breda. De Almeerders staan op de tweede plaats en hebben drie punten meer dan de Brabanders, die op plek vier staan. Trainer Anoush Dastgir ki ..."
+          "title": "NAC raast als gele storm door de KKD: 'Het vertrouwen in promotie is er'",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/nac-raast-als-gele-storm-door-kkd-promotie-het-vertrouwen-is-er",
+          "publishedDate": "Fri, 20 Nov 2026 14:49:00 GMT",
+          "description": "NAC Breda verkeert in bloedvorm. De Brabanders zijn tien competitieduels op rij ongeslagen en verpulverden Almere City FC vrijdagavond met 1-4, waardoor NAC in punten naast de ploeg uit Flevoland komt ..."
         },
         {
-          "title": "Rust: Almere City met 0-3 achterstand de kleedkamer in",
-          "source": "Omroep Flevoland",
-          "url": "https://www.omroepflevoland.nl/sport/532130/rust:-almere-city-met-0-3-achterstand-de-kleedkamer-in",
-          "publishedDate": "Fri, 20 Nov 2026 11:40:00 GMT",
-          "description": "Almere City FC speelt sinds 20.00 uur de topper tegen NAC Breda. De Almeerders staan op de tweede plaats en hebben drie punten meer dan de Brabanders, die op plek vier staan. Trainer Anoush Dastgir ki ..."
+          "title": "NAC Breda wint topper in eerste divisie bij Almere City",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/nac-breda-wint-topper-in-eerste-divisie-bij-almere-city",
+          "publishedDate": "Fri, 20 Nov 2026 14:29:00 GMT",
+          "description": "ALMERE (ANP) - NAC Breda heeft de topper in de eerste divisie bij Almere City gewonnen. De ploeg van trainer Rick Kruys was met 4-1 te sterk voor de nummer 2 van de ranglijst. NAC, de nieuwe nummer 3, ..."
         },
         {
-          "title": "Praat mee op VP: Almere City – NAC Breda",
+          "title": "NAC overtuigt in topper tegen Almere, Heracles loopt uit naar voorsprong van tien punten",
+          "source": "Voetbal Centraal",
+          "url": "https://www.voetbalcentraal.nl/nieuws/1832092/NAC-overtuigt-in-topper-tegen-Almere,-Heracles-loopt-uit-naar-voorsprong-van-tien-punten",
+          "publishedDate": "Fri, 20 Nov 2026 14:20:00 GMT",
+          "description": "NAC Breda heeft met ruime cijfers gewonnen bij directe concurrent Almere City: 1-4. De twee ploegen staan nu in punten gelijk in de strijd om rechtstreekse promotie naar de eredivisie. Koploper Heracl ..."
+        },
+        {
+          "title": "Tovergoal Heracles en heerlijk hakje van zoon Roy Beerens, pijnlijke avond Almere City",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/voetbal/tovergoal-heracles-en-heerlijk-hakje-van-zoon-roy-beerens-pijnlijke-avond-almere-city~a6af1319/?slug_rd=1",
+          "publishedDate": "Fri, 20 Nov 2026 14:05:00 GMT",
+          "description": "Koploper Heracles heeft geen fout gemaakt in de Keuken Kampioen Divisie. De ploeg van Vincent Heilmann versloeg Jong PSV met 2-1. Nummer 2 Almere City liep averij op na een harde dreun van NAC Breda ( ..."
+        },
+        {
+          "title": "Reguliere zege Heracles, NAC haalt flink uit in Almere",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/reguliere-zege-heracles-nac-haalt-flink-uit-in-almere/ar-AA2hSL97",
+          "publishedDate": "Fri, 20 Nov 2026 13:02:15 GMT",
+          "description": "Heracles Almelo dendert door richting de Eredivisie. In het Asito Stadion was ook Jong PSV vrijdagavond niet opgewassen tegen de aanvalsmachine van Vincent Heilmann. Almere City FC is nog tweede, maar ..."
+        },
+        {
+          "title": "NAC verplettert directe concurrent Almere, Heracles profiteert optimaal",
           "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-almere-city-nac-breda/ar-AA2hSgh9",
-          "publishedDate": "Fri, 20 Nov 2026 10:15:00 GMT",
-          "description": "Almere City en NAC Breda staan vrijdagavond tegenover elkaar in de Keuken Kampioen Divisie. De wedstrijd begint om 20.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praa ..."
+          "url": "https://www.msn.com/nl-nl/sport/algemeen/nac-verplettert-directe-concurrent-almere-heracles-profiteert-optimaal/ar-AA2hSw4m",
+          "publishedDate": "Fri, 20 Nov 2026 12:56:06 GMT",
+          "description": "Heracles Almelo heeft wederom een overwinning geboekt in de Keuken Kampioen Divisie. De koploper van de KKD won met 2-0 van het Jong PSV van Stijn Schaars. Daarmee loopt de ploeg van Vincent Heilmann ..."
+        },
+        {
+          "title": "NAC Breda haalt hard uit en doet uitstekende zaken in KKD-top",
+          "source": "NACFans",
+          "url": "https://www.nacfans.nl/nac-breda-haalt-hard-uit-en-doet-uitstekende-zaken-in-kkd-top/",
+          "publishedDate": "Fri, 20 Nov 2026 12:56:00 GMT",
+          "description": "Lees nu | NAC Breda heeft vrijdagavond goede zaken gedaan in de strijd om de bovenste plekken in de KKD. De ploeg van Rick Kruys won met 0-4 van ..."
+        },
+        {
+          "title": "Almere City FC lijdt kansloze nederlaag tegen NAC Breda",
+          "source": "Omroep Flevoland",
+          "url": "https://www.omroepflevoland.nl/sport/532130/almere-city-fc-lijdt-kansloze-nederlaag-tegen-nac-breda",
+          "publishedDate": "Fri, 20 Nov 2026 11:40:00 GMT",
+          "description": "Almere City heeft vrijdagavond op eigen veld een pijnlijke nederlaag geleden tegen NAC. In de eerste helft kwam de ploeg van Anoush Dastgir er nauwelijks aan te pas, wat resulteerde in een 0-3 achters ..."
+        },
+        {
+          "title": "Live: Ferdy Druijf zorgt in slotfase voor eretreffer",
+          "source": "Omroep Flevoland",
+          "url": "https://www.omroepflevoland.nl/sport/532130/live:-ferdy-druijf-zorgt-in-slotfase-voor-eretreffer",
+          "publishedDate": "Fri, 20 Nov 2026 11:40:00 GMT",
+          "description": "Almere City FC speelt sinds 20.00 uur de topper tegen NAC Breda. De Almeerders staan op de tweede plaats en hebben drie punten meer dan de Brabanders, die op plek vier staan. Trainer Anoush Dastgir ki ..."
         },
         {
           "title": "NAC Breda maakt opstelling voor topper tegen Almere City bekend",
@@ -265,55 +619,8 @@
           "url": "https://www.nacfans.nl/nac-breda-maakt-opstelling-voor-topper-tegen-almere-city-bekend/",
           "publishedDate": "Fri, 20 Nov 2026 10:04:00 GMT",
           "description": "Lees nu | NAC Breda speelt vanavond een belangrijke wedstrijd tegen Almere City. Rick Kruys kiest voor de volgende basisopstelling."
-        },
-        {
-          "title": "LIVE Keuken Kampioen Divisie | NAC geeft pak slaag aan Almere City, fenomenale goal Heracles",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/voetbal/live-keuken-kampioen-divisie-nac-geeft-pak-slaag-aan-almere-city-fenomenale-goal-heracles~a6af1319/",
-          "publishedDate": "Thu, 19 Nov 2026 23:16:00 GMT",
-          "description": "Negen duels vanavond in de Keuken Kampioen Divisie. Koploper Heracles speelt thuis tegen Jong PSV, NAC Breda gaat op bezoek bij Almere City. Volg het hier vanaf 20.00 uur live."
-        },
-        {
-          "title": "LIVE | Eerste kansen na rust zijn voor Almere City: NAC nog altijd op riante voorsprong",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/nac/live-eerste-kansen-na-rust-zijn-voor-almere-city-nac-nog-altijd-op-riante-voorsprong~a8b335ef/",
-          "publishedDate": "Thu, 19 Nov 2026 23:13:00 GMT",
-          "description": "NAC staat voor een cruciale uitwedstrijd. Op bezoek bij Almere City kan de ploeg van Rick Kruys definitief aanhaken in de strijd om de tweede plek. Dat moet dan wel gebeuren zonder de geblesseerde Leo ..."
-        },
-        {
-          "title": "Almere City FC vs NAC Breda Opstellingen, Statistieken &amp; Voorspelling",
-          "source": "Squawka",
-          "url": "https://www.squawka.com/nl/nieuws/kkd/almere-city-fc-nac-breda-opstellingen-statistieken-voorspelling/",
-          "publishedDate": "Thu, 19 Nov 2026 16:00:00 GMT",
-          "description": "Almere City en NAC treffen elkaar op 20 november. Lees onze voorspelling, odds, statistieken en vermoedelijke opstellingen."
-        },
-        {
-          "title": "Kruys geeft duidelijkheid over Brym: &quot;Tegen Almere City...&quot;",
-          "source": "NACFans",
-          "url": "https://www.nacfans.nl/kruys-geeft-duidelijkheid-over-brym-tegen-almere-city/",
-          "publishedDate": "Thu, 19 Nov 2026 10:41:00 GMT",
-          "description": "Lees nu | NAC Breda kan vrijdagavond in de topper tegen Almere City waarschijnlijk weer beschikken over Charles-Andreas Brym. De 28-jarige aanvaller ..."
-        },
-        {
-          "title": "Clash der culturen in Almere: NAC begint aan bepalende trilogie",
-          "source": "BN DeStem",
-          "url": "https://www.bndestem.nl/nac/clash-der-culturen-in-almere-nac-begint-aan-bepalende-trilogie~a1e7f76b4/",
-          "publishedDate": "Thu, 19 Nov 2026 10:34:00 GMT",
-          "description": "‘Lichte klachten’ houden Soumano van het trainingsveld bij NAC: ‘Als er enige twijfel is, doe ik het niet’ ‘Lichte klachten’ houden Soumano van het trainingsveld bij NAC: ‘Als er enige twijfel is, doe ..."
-        },
-        {
-          "title": "Keuken Kampioen Divisie speelronde 16: waar KKD kijken, programma, odds en belangrijkste wedstrijden",
-          "source": "news.bet365",
-          "url": "https://news.bet365.nl/nl-nl/article/keuken-kampioen-divisie-speelronde-16-waar-kkd-kijken-programma-odds-en-belangrijkste-wedstrijden/2026111809475623945",
-          "publishedDate": "Wed, 18 Nov 2026 01:47:00 GMT",
-          "description": "Heracles Almelo is stevig op weg naar het kampioenschap in de Keuken Kampioen Divisie. De strijd om de tweede plaats (ook directe promotie) heeft met Almere City - NAC Breda een direct duel."
         }
       ]
-    },
-    {
-      "keyword": "executie",
-      "trafficLabel": "5K+",
-      "articles": []
     },
     {
       "keyword": "simon keizer",
@@ -388,234 +695,6 @@
           "url": "https://www.ad.nl/apeldoorn/simon-keizer-signeert-zijn-autobiografie-in-apeldoorn~a3fd3060/",
           "publishedDate": "Fri, 01 May 2026 04:33:00 GMT",
           "description": "Simon Keizer ken je waarschijnlijk wel van het voormalige zangduo Nick &amp; Simon. Maar wat je misschien niet weet is dat de Volendamse zanger en presentator ook een boek heeft geschreven: Wat moed dat ..."
-        }
-      ]
-    },
-    {
-      "keyword": "slagveld",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Het jaarlijkse gebagger van waternavel laat een slagveld achter waar vogels tijdelijk een bonanza aantreffen",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/duurzaamheid-economie/het-jaarlijkse-gebagger-van-waternavel-laat-een-slagveld-achter-waar-vogels-tijdelijk-een-bonanza-aantreffen~b592096a/",
-          "publishedDate": "Sun, 15 Nov 2026 13:00:00 GMT",
-          "description": "Bovenstaande vogels eten vooral plantaardige kost. Het jaarlijkse gebagger van grote waternavel laat een slagveld achter waar ze tijdelijk een bonanza aantreffen, maar daarna juist rotting en bederf."
-        },
-        {
-          "title": "Robots die het overnemen van de mens? ‘Op het slagveld is dat al werkelijkheid’",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/buitenland/robots-die-het-overnemen-van-de-mens-op-het-slagveld-is-dat-al-werkelijkheid~bb831b8e/",
-          "publishedDate": "Mon, 19 May 2025 15:00:00 GMT",
-          "description": "Martijn Kitzen: “Het Oekra&#239;ense slagveld heeft een dubbel gezicht. Van de ene kant is het heel klassiek, een oorlog tussen twee statelijke partijen. Je ziet loopgraven, tanks, artillerie en infanterie ..."
-        },
-        {
-          "title": "Gravende dassen zorgen voor slagveld bij voetbalclub in Soest",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/milieu-gezondheid/dieren/videos/gravende-dassen-zorgen-voor-slagveld-bij-voetbalclub-in-soest",
-          "publishedDate": "Wed, 18 Nov 2026 13:23:00 GMT",
-          "description": "De velden van een voetbalvereniging in Soest zijn beschadigd door een dassenfamilie die er gangen en holen graaft. Volgens bestuurslid Peter Beijer wordt de overlast steeds erger. Het veld lijkt inmid ..."
-        },
-        {
-          "title": "Vakantie 1 – Verdun, het slagveld",
-          "source": "amklassiek.nl",
-          "url": "https://amklassiek.nl/vakantie-1-verdun-het-slagveld/2026/07/08/",
-          "publishedDate": "Wed, 08 Jul 2026 14:56:00 GMT",
-          "description": "Op vakantie gaan doe je zo: je staat op, pakt je papieren en een tandenborstel, stapt op en gaat op weg. Ergens in de middag is er dan – nadat er in de buitenwijken van Verdun zelf een ..."
-        },
-        {
-          "title": "Sudden Strike 5 bestormt het slagveld op 23 april",
-          "source": "techgaming",
-          "url": "https://techgaming.nl/sudden-strike-5-bestormt-het-slagveld-op-23-april/",
-          "publishedDate": "Thu, 26 Mar 2026 07:48:00 GMT",
-          "description": "Uitgever Kalypso Media en ontwikkelaar Kite Games hebben bekendgemaakt dat Sudden Strike 5, de nieuwste telg in de real-time tactische serie die zich afspeelt in de Tweede Wereldoorlog, op 23 april ..."
-        },
-        {
-          "title": "Chaos in Tirol: Nederlanders betrokken bij ‘slagveld’ in apr&#232;s-skibar, Oostenrijker knock-out",
-          "source": "AD",
-          "url": "https://www.ad.nl/buitenland/chaos-in-tirol-nederlanders-betrokken-bij-slagveld-in-apres-skibar-oostenrijker-knock-out~ab023b427/",
-          "publishedDate": "Mon, 29 Dec 2025 03:37:00 GMT",
-          "description": "Het leek een onbezorgde avond te worden op het terras van een apr&#232;s-skibar in St. Anton am Arlberg, een bij Nederlanders geliefd skigebied. Maar rond half 9 ’s avonds sloeg de sfeer totaal om. Twee ..."
-        },
-        {
-          "title": "Medische zorgen op het slagveld",
-          "source": "Knack",
-          "url": "https://www.knack.be/geschiedenis/verlichting/medische-zorgen-op-het-slagveld/",
-          "publishedDate": "Mon, 16 Jun 2025 09:17:00 GMT",
-          "description": "Ondanks de inspanningen van dokters, chirurgijns en gewone burgers was het lot van de gewonden na een veldslag op zijn minst erbarmelijk te noemen. Kanonvuur en geweerschoten zorgden voor verwondingen ..."
-        },
-        {
-          "title": "Winnen op het nieuwe slagveld? Investeer in Defensie-innovatie",
-          "source": "BNR",
-          "url": "https://www.bnr.nl/podcast/digitaal/10565015/winnen-op-het-nieuwe-slagveld-investeer-in-defensie-innovatie",
-          "publishedDate": "Wed, 15 Jan 2025 08:03:00 GMT",
-          "description": "Steeds meer jonge, Europese bedrijven richten zich op defensietechnologie. En voor die start- of scale-ups staan &#243;&#243;k steeds meer investeerders klaar. In een wereld met meer dreiging en een veranderd ..."
-        },
-        {
-          "title": "Rusland verliest in rap tempo tanks, ‘op slagveld blijven ze cruciaal’",
-          "source": "BNR",
-          "url": "https://www.bnr.nl/nieuws/internationaal/10554157/rusland-verliest-op-rap-tempo-tanks-op-slagveld-blijven-ze-cruciaal",
-          "publishedDate": "Wed, 07 Aug 2024 13:58:00 GMT",
-          "description": "De tankvoorraad van Rusland raakt snel op, concludeert een OSINT-analist op basis van satellietbeelden. De blogger schat dat Rusland sinds de start van de oorlog in Oekra&#239;ne de helft van zijn tanks is ..."
-        },
-        {
-          "title": "‘Tijdloze waarheden op het slagveld: in oorlog is alles eenvoudig, maar zijn de eenvoudigste dingen moeilijk’",
-          "source": "Knack",
-          "url": "https://www.knack.be/nieuws/wereld/tijdloze-waarheden-op-het-slagveld-in-oorlog-is-alles-eenvoudig-maar-zijn-de-eenvoudigste-dingen-moeilijk/",
-          "publishedDate": "Thu, 07 Sep 2023 21:59:00 GMT",
-          "description": "‘Snelle doorbraken zoals tijdens de Golfoorlog zijn eerder de uitzondering dan de regel; vaak gaan eenheden in de strijd drie stappen vooruit en twee terug’, schrijft Roger Housen over de uitdagingen ..."
-        }
-      ]
-    },
-    {
-      "keyword": "tandarts zembla",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Beroepsvereniging schorst tandarts uit neonazi-aflevering Zembla",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2640304-beroepsvereniging-schorst-tandarts-uit-neonazi-aflevering-zembla",
-          "publishedDate": "Fri, 20 Nov 2026 07:09:00 GMT",
-          "description": "Volgens beroepsvereniging KNMT heeft Bas Eybergen het aanzien van en het vertrouwen in de beroepsgroep &quot;zeer ernstig geschaad&quot;."
-        },
-        {
-          "title": "Tandarts die neonazistisch kooigevecht faciliteerde, zegt daardoor 'overvallen' te zijn",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2640242-tandarts-die-neonazistisch-kooigevecht-faciliteerde-zegt-daardoor-overvallen-te-zijn",
-          "publishedDate": "Thu, 19 Nov 2026 23:53:00 GMT",
-          "description": "&quot;Ik ben zelf conservatief, rechts en nationalistisch. Ik hou van Europa, ik hou van Nederland. Maar dat is heel wat anders dan een neonazi zijn&quot;, zegt hij."
-        },
-        {
-          "title": "Neonazistische tandarts geschorst door beroepsvereniging na Zembla-uitzending",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/neonazistische-tandarts-geschorst-door-beroepsvereniging-na-zembla-uitzending~bb17bbf1/",
-          "publishedDate": "Thu, 19 Nov 2026 23:06:00 GMT",
-          "description": "De Brabantse tandarts die zijn terrein beschikbaar stelde voor neonazistische vechttoernooien, is door de beroepsvereniging voor tandartsen (KNMT) geschorst. In een uitzending van tv-programma Zembla ..."
-        },
-        {
-          "title": "Zembla Special De neonazi-files houdt Nederland in de ban: 'Het kan je buurman of tandarts zijn'",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/video/defa3644-6ff4-4fc3-9935-8d07ec708d61/zembla-special-de-neonazi-files-houdt",
-          "publishedDate": "Thu, 19 Nov 2026 16:00:00 GMT",
-          "description": "De 'Zembla Special: De neonazi-files', maakt veel los. De documentaire, waarbij een netwerk van neonazi's en zogenoemde 'active clubs' in Nederland en Belgi&#235; zichtbaar worden, zorgde vrijdag voor veel ..."
-        },
-        {
-          "title": "'Ik steek je tent in de fik': tandarts uit Den Ham bedreigd na neonazi-docu Zembla",
-          "source": "Oost",
-          "url": "https://www.oost.nl/nieuws/3721790/ik-steek-je-tent-in-de-fik-tandarts-uit-den-ham-bedreigd-na-neonazi-docu-zembla",
-          "publishedDate": "Fri, 20 Nov 2026 09:17:00 GMT",
-          "description": "&quot;Je staat er lekker op man.&quot; Tandarts Bas Wemekamp uit Den Ham schrikt een hoedje van allerlei dreigmails aan zijn adres na een documentaire van Zembla. Mensen denken dat hij betrokken is bij geheime ..."
-        },
-        {
-          "title": "Beroepsvereniging schorst tandarts uit Zembla-aflevering",
-          "source": "Zorgvisie",
-          "url": "https://www.zorgvisie.nl/skipr/beroepsvereniging-schorst-tandarts-uit-zembla-aflevering/",
-          "publishedDate": "Fri, 20 Nov 2026 05:21:00 GMT",
-          "description": "De KNMT, de beroepsvereniging voor tandartsen, schorst haar lid Bas E., de man die als tandarts werkzaam is en in de uitzending van Zembla over neonazistische kooigevechten was te zien."
-        },
-        {
-          "title": "Tandarts uit Wijchen onder vuur vanwege kooigevechten van neonazi’s op eigen terrein",
-          "source": "Nationale Zorggids",
-          "url": "https://www.nationalezorggids.nl/zorgpersoneel/tandarts-uit-wijchen-onder-vuur-vanwege-kooigevechten-van-neonazis-op-eigen-terrein/",
-          "publishedDate": "Fri, 20 Nov 2026 00:21:00 GMT",
-          "description": "De negatieve recensies stromen binnen bij een tandarts uit Wijchen. De reden? Hij heeft, bewust of onbewust, een nazi-bijeenkomst met kooigevechten gefaciliteerd op zijn ..."
-        },
-        {
-          "title": "Boze bellers treffen de verkeerde tandarts na nieuws over kooigevecht",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/samenleving/boze-bellers-treffen-de-verkeerde-tandarts-na-nieuws-over-kooigevecht",
-          "publishedDate": "Fri, 20 Nov 2026 00:02:00 GMT",
-          "description": "Na een Zembla-uitzending over een kooigevecht kreeg de verkeerde tandarts boze telefoontjes. De verwarring zat in het verschil tussen woonplaats en werkadres."
-        },
-        {
-          "title": "KNMT schorst tandarts uit Zembla-uitzending als lid",
-          "source": "KNMT",
-          "url": "https://knmt.nl/nieuws/knmt-schorst-tandarts-uit-zembla-uitzending-als-lid",
-          "publishedDate": "Thu, 19 Nov 2026 16:00:00 GMT",
-          "description": "Het bestuur van de KNMT is geschokt door de uitzending van het tv-programma Zembla over neonazi's en de rol die tandarts Bas E. daarin speelt. Die druist in tegen alles waar onze beroepsgroep en onze ..."
-        },
-        {
-          "title": "Gelderse tandartspraktijk overspoeld met negatieve recensies na uitzending Zembla over neonazi's",
-          "source": "Omroep Gelderland",
-          "url": "https://www.gld.nl/nieuws/8549236/gelderse-tandartspraktijk-overspoeld-met-negatieve-recensies-na-uitzending-zembla-over-neonazis",
-          "publishedDate": "Thu, 19 Nov 2026 08:24:00 GMT",
-          "description": "Een tandarts in Wijchen is in opspraak geraakt na de uitzending van het tv-programma Zembla over neonazi's. Online is de tandarts onder vuur komen te liggen met negatieve reviews."
-        }
-      ]
-    },
-    {
-      "keyword": "patrick stewart",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Acteur Patrick Stewart overleed aan gevolgen van twee vormen van dementie",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/film/6417192/acteur-patrick-stewart-overleed-aan-gevolgen-van-twee-vormen-van-dementie.html",
-          "publishedDate": "Fri, 20 Nov 2026 01:12:00 GMT",
-          "description": "Patrick Stewart overleed vorige maand aan de gevolgen van de ziekte van Alzheimer en Lewy body dementie, meldt TMZ op basis van zijn overlijdensakte. De Star Trek-acteur werd 86 jaar."
-        },
-        {
-          "title": "Star Trek-acteur Patrick Stewart overleed aan hartstilstand",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/film/6417192/star-trek-acteur-patrick-stewart-overleed-aan-hartstilstand.html",
-          "publishedDate": "Fri, 20 Nov 2026 01:12:00 GMT",
-          "description": "Patrick Stewart overleed vorige maand aan een hartstilstand als gevolg van de ziekte van Alzheimer en Lewy body dementie, meldt TMZ op basis van zijn overlijdensakte. De Star Trek-acteur werd 86 jaar."
-        },
-        {
-          "title": "Offici&#235;le doodsoorzaak van Sir Patrick Stewart openbaar gemaakt",
-          "source": "FilmVandaag.nl on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/offici%C3%ABle-doodsoorzaak-van-sir-patrick-stewart-openbaar-gemaakt/ar-AA2hS4zZ",
-          "publishedDate": "Fri, 20 Nov 2026 07:52:00 GMT",
-          "description": "De offici&#235;le doodsoorzaak van Sir Patrick Stewart is bekendgemaakt. De gevierde Britse acteur, die filmfans onder meer kennen van zijn grote ..."
-        },
-        {
-          "title": "Overlijdensakte onthult: hier ging Star Trek-legende Patrick Stewart aan dood",
-          "source": "Startpagina on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/overlijdensakte-onthult-hier-ging-star-trek-legende-patrick-stewart-aan-dood/ar-AA2hRegp",
-          "publishedDate": "Fri, 20 Nov 2026 07:09:59 GMT",
-          "description": "Patrick Stewart (86) overleed aan een hart- en ademstilstand en Lewy body-dementie, blijkt uit zijn overlijdensakte. Zijn familie meldde eerder al dat hij ook Alzheimer had. En er staat nog een opvall ..."
-        },
-        {
-          "title": "Offici&#235;le doodsoorzaak ‘Star Trek’-acteur Patrick Stewart bekend",
-          "source": "Weekend Online",
-          "url": "https://www.weekend-online.nl/buitenland/officiele-doodsoorzaak-star-trek-acteur-patrick-stewart-bekend/",
-          "publishedDate": "Fri, 20 Nov 2026 04:48:00 GMT",
-          "description": "De offici&#235;le doodsoorzaak van acteur Patrick Stewart is bekendgemaakt. De Britse acteur, wereldberoemd door zijn rollen in ‘Star Trek’ en ‘X-Men’, overleed op 86-jarige leeftijd."
-        },
-        {
-          "title": "Doodsoorzaak ‘Star Trek’ en ‘X-Men’-icoon Patrick Stewart (86) bekend",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/celebrities/doodsoorzaak-star-trek-en-x-men-icoon-patrick-stewart-86-bekend~ae7c5a02/",
-          "publishedDate": "Fri, 20 Nov 2026 02:28:00 GMT",
-          "description": "De Britse acteur Patrick Stewart is vorige maand op 86-jarige leeftijd overleden aan de gevolgen van Alzheimer en Lewy body dementie. Volgens zijn overlijdensakte was er ook sprake van een hart- en ad ..."
-        },
-        {
-          "title": "Overlijdensakte Star Trek-acteur Patrick Stewart vermeldt hart- en ademstilstand",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/show/overlijdensakte-star-trek-acteur-patrick-stewart-vermeldt-hart-en-ademstilstand~afeaeac60/",
-          "publishedDate": "Thu, 19 Nov 2026 23:52:00 GMT",
-          "description": "De Britse acteur Patrick Stewart is overleden aan de gevolgen van Alzheimer en Lewy body dementie. Volgens zijn overlijdensakte was er ook sprake van een hart- en ademstilstand, meldt entertainmentweb ..."
-        },
-        {
-          "title": "Overlijdensakte Patrick Stewart vermeldt hart- en ademstilstand",
-          "source": ".ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/nieuws/overlijdensakte-patrick-stewart-vermeldt-hart-en-ademstilstand/ar-AA2hPMcz",
-          "publishedDate": "Thu, 19 Nov 2026 22:34:36 GMT",
-          "description": "De Britse acteur Patrick Stewart is overleden aan de gevolgen van Alzheimer en Lewy body dementie. Volgens zijn overlijdensakte was er ook sprake van een hart- en ademstilstand, meldt entertainmentweb ..."
-        },
-        {
-          "title": "Acteur Patrick Stewart, die binnenkort nog te zien is in ‘Avengers: Doomsday’, overleden",
-          "source": "VRT",
-          "url": "https://www.vrt.be/nwsnwsnws/nl/post/2026/10/30/patrick_stewart/",
-          "publishedDate": "Fri, 30 Oct 2026 16:21:00 GMT",
-          "description": "De X-Men verliezen hun professor: de Britse acteur Patrick Stewart (86) is overleden. Hij overleed na een korte strijd tegen Alzheimer en Lewy-bodydementie. Dat zijn ziektes die de hersenen aantasten."
-        },
-        {
-          "title": "Ian McKellen neemt afscheid van jarenlange vriend Patrick Stewart",
-          "source": "RTL Boulevard (NL) on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/beroemdheden/ian-mckellen-prijst-overleden-vriend-patrick-stewart/ar-AA2go7TB",
-          "publishedDate": "Fri, 30 Oct 2026 00:09:58 GMT",
-          "description": "Ian McKellen (87) heeft lovende woorden gedeeld over zijn overleden vriend en collega-acteur Patrick Stewart. De twee kenden elkaar al decennia en speelden ook samen in diverse films. Stewart overleed ..."
         }
       ]
     }
