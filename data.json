@@ -1,104 +1,256 @@
 {
-  "fetchedAt": "2026-11-22T09:15:25.818Z",
+  "fetchedAt": "2026-11-22T17:15:48.659Z",
   "trends": [
     {
-      "keyword": "feyenoord - excelsior",
+      "keyword": "ajax - ado",
       "trafficLabel": "100K+",
       "articles": [
         {
-          "title": "Feyenoord verliest van Excelsior en wint voor vierde keer op rij niet in Eredivisie; PSV wint wel",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/feyenoord-verliest-van-excelsior-en-wint-voor-vierde-keer-op-rij-niet-in-eredivisie-psv-wint-wel/ar-AA2hUDlm?ocid=BingNewsVerp",
-          "publishedDate": "Sat, 21 Nov 2026 13:35:00 GMT",
-          "description": "Dit is het livetopic voor de wedstrijden in de Eredivisie op zaterdag 21 november. Er staan vijf wedstrijden op het programma en onder meer PSV en Feyenoord zullen in actie komen. De duels zijn live t"
+          "title": "Ajax stijgt naar tweede plek in Eredivisie na probleemloze zege op tiental ADO",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6417428/ajax-stijgt-naar-tweede-plek-in-eredivisie-na-probleemloze-zege-op-tiental-ado.html",
+          "publishedDate": "Sun, 22 Nov 2026 08:22:00 GMT",
+          "description": "Ajax heeft zondag dankzij een 3-0-zege op ADO Den Haag de achterstand op koploper PSV weer tot een punt verkleind. Voor De Klassieker van volgende week hebben de Amsterdammers een voorsprong van drie ..."
         },
         {
-          "title": "Twee penaltymomenten bij Feyenoord - Excelsior: analisten vellen duidelijk oordeel",
+          "title": "Ajax beleeft makkelijke middag tegen ADO, maar ziet Mokio geblesseerd uitvallen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2640604-ajax-beleeft-makkelijke-middag-tegen-ado-maar-ziet-mokio-geblesseerd-uitvallen",
+          "publishedDate": "Sun, 22 Nov 2026 07:23:00 GMT",
+          "description": "De Amsterdammers zijn in eigen huis veel te sterk voor laagvlieger ADO Den Haag, dat na 37 minuten met tien man moest vervolgen: 3-0."
+        },
+        {
+          "title": "Ajax overtuigend te sterk voor ADO Den Haag bij weerzien met Maurice Steijn (3-0)",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/ajax/ajax-overtuigend-te-sterk-voor-ado-den-haag-bij-weerzien-met-maurice-steijn-3-0~b6896107/",
+          "publishedDate": "Sun, 22 Nov 2026 05:36:00 GMT",
+          "description": "Ajax heeft overtuigend de volle buit gepakt tegen ADO Den Haag. Dankzij twee doelpunten en een assist van Davy Klaassen werd de ploeg van Maurice Steijn met 3-0 verslagen. Ajax blijft zo in het spoor ..."
+        },
+        {
+          "title": "Zakelijk Ajax overtuigend te sterk voor ADO Den Haag, zorgen om Jorthy Mokio richting Klassieker",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/voetbal/zakelijk-ajax-overtuigend-te-sterk-voor-ado-den-haag-zorgen-om-jorthy-mokio-richting-klassieker~a6896107/",
+          "publishedDate": "Sun, 22 Nov 2026 09:13:00 GMT",
+          "description": "Ajax heeft ADO Den Haag eenvoudig afgeschud. Het weerzien met Maurice Steijn, die zijn rentree maakte als hoofdcoach van de Hagenezen, was na 15 minuten beslist. Wel verzuimde Ajax na een rode kaart v ..."
+        },
+        {
+          "title": "Je kunt een speld horen vallen: waarom het muisstil was tijdens Ajax - ADO",
           "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/twee-penaltymomenten-bij-feyenoord-excelsior-analisten-vellen-duidelijk-oordeel",
-          "publishedDate": "Sat, 21 Nov 2026 11:58:00 GMT",
-          "description": "De slotfase van de eerste helft van Feyenoord - Excelsior kende twee penaltymomenten, maar Robin Hensgens gaf er maar eentje. Volgens de ESPN-analisten had de arbiter het bij het juiste eind."
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/bruggink-stil-protest-ajax-ado-den-haag-f-side-uitsupporters",
+          "publishedDate": "Sun, 22 Nov 2026 08:39:00 GMT",
+          "description": "Arnold Bruggink verklaart de opvallende stilte tijdens Ajax - ADO Den Haag (3-0). De F-Side protesteerde volgens de ESPN-analist tegen het verbod op uitsupporters."
+        },
+        {
+          "title": "Ajax profiteert optimaal van misstap Feyenoord: Klaassen grote man tegen tiental ADO",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/ajax-ado-den-haag-klaassen-mokio-rode-kaart-waem",
+          "publishedDate": "Sun, 22 Nov 2026 08:32:00 GMT",
+          "description": "Ajax wint met 3-0 van ADO Den Haag dankzij twee goals van Davy Klaassen. Een rode kaart voor Waem en een blessure van Mokio kleuren het duel."
+        },
+        {
+          "title": "'Damage control' voor Steijn en ADO: 'Zo'n Ajax-elftal had ik ook graag gehad'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/damage-control-voor-steijn-en-ado-zo-n-ajax-elftal-had-ik-ook-graag-gehad/ar-AA2hYSzX",
+          "publishedDate": "Sun, 22 Nov 2026 08:28:15 GMT",
+          "description": "De terugkeer van Maurice Steijn als hoofdtrainer van ADO Den Haag liep uit op een teleurstelling. De Hagenezen verloren met 3-0 van zijn oude club Ajax en Matteo Waem moest vervroegd richting de kleed ..."
+        },
+        {
+          "title": "Klaassen helpt Ajax tegen ADO aan tweede plaats richting De Klassieker",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/klaassen-helpt-ajax-tegen-ado-aan-tweede-plaats-richting-de-klassieker",
+          "publishedDate": "Sun, 22 Nov 2026 07:22:00 GMT",
+          "description": "Ajax is de drukke laatste periode van 2026 begonnen met een simpele overwinning op ADO Den Haag. Met een uitblinkende Davy Klaassen werd daarmee de tweede plaats in de Eredivisie overgenomen van Feyen ..."
+        },
+        {
+          "title": "Ajax boekt probleemloze zege op ADO Den Haag, maar toch zijn er grote zorgen voor trainer M&#237;chel S&#225;nchez",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/ajax-boekt-probleemloze-zege-op-ado-den-haag-maar-toch-zijn-er-grote-zorgen-voor-trainer-michel-sanchez/blt0f769bb652bc146a",
+          "publishedDate": "Sun, 22 Nov 2026 07:22:00 GMT",
+          "description": "Ajax heeft zondagmiddag een probleemloze zege geboekt in de Eredivisie. In de Johan Cruijff ArenA werd ADO Den Haag kinderlijk eenvoudig aan de kant geschoven: 3-0. Door de overwinning klimt de ploeg ..."
+        },
+        {
+          "title": "ADO Den Haag met 3-0 onderuit op bezoek bij Ajax",
+          "source": "ADO Den Haag",
+          "url": "https://adodenhaag.nl/nl/teams/1e-elftal/resultaten/afc-ajax-ado-den-haag-1358",
+          "publishedDate": "Sun, 22 Nov 2026 06:30:00 GMT",
+          "description": "ADO Den Haag heeft in Amsterdam met 3-0 van Ajax verloren. In de eerste wedstrijd sinds de terugkeer van hoofdtrainer Maurice Steijn kwam de Haagse ploeg na een kwartier op een 2-0 achterstand. Vlak v ..."
         }
       ]
     },
     {
-      "keyword": "nec - psv",
+      "keyword": "twente - willem ii",
       "trafficLabel": "50K+",
       "articles": [
         {
-          "title": "PSV boekt in aanloop naar Real Madrid-uit ruime zege op NEC, Bosz vreest lange absentie Mauro J&#250;nior",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/psv-boekt-in-aanloop-naar-real-madrid-uit-ruime-zege-op-nec-bosz-vreest-lange-absentie-mauro-junior~a85e86ac1/",
-          "publishedDate": "Sat, 21 Nov 2026 11:36:00 GMT",
-          "description": "PSV heeft goede zaken gedaan in de eredivisie. Het team van trainer Peter Bosz won met 1-4 bij NEC. Met een 0-3 stand bij rust was de wedstrijd al beslist, maar PSV zag wel aanvoerder Mauro J&#250;nior uit ..."
-        },
-        {
-          "title": "NEC-uit is voor koploper PSV een heerlijk opwarmertje voor de strijd met Real Madrid: 1-4",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/sport/nec-uit-is-voor-koploper-psv-een-heerlijk-opwarmertje-voor-de-strijd-met-real-madrid-1-4~b6cb500c/",
-          "publishedDate": "Sat, 21 Nov 2026 10:48:00 GMT",
-          "description": "NEC maakte het PSV de laatste jaren enorm moeilijk. Maar daar was zaterdagavond geen sprake van. De koploper liep snel weg, en won met 1-4."
-        },
-        {
-          "title": "NEC kan niet voor nieuw spektakelstuk zorgen tegen PSV en gaat met grote cijfers onderuit",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/nijmegen/live-nec-moet-vrezen-voor-grote-nederlaag-tegen-psv-ook-na-rust-weer-een-tegengoal~a1c11d42/?slug_rd=1",
-          "publishedDate": "Sat, 21 Nov 2026 10:29:00 GMT",
-          "description": "NEC heeft door de interlandperiode extra lang kunnen genieten van de broodnodige zege op FC Utrecht, maar moet zaterdag in eigen huis tegen PSV weer vol aan de bak. De onderlinge ontmoetingen vorig se ..."
-        },
-        {
-          "title": "PSV al in &#233;&#233;n helft klaar met NEC in Nijmegen, maar verliest aanvoerder Mauro J&#250;nior",
+          "title": "Twente worstelt zich langs tien man Willem II en pakt voorlopig tweede plek",
           "source": "NOS",
-          "url": "https://nos.nl/artikel/2640453-psv-al-in-een-helft-klaar-met-nec-in-nijmegen-maar-verliest-aanvoerder-mauro-junior",
-          "publishedDate": "Sat, 21 Nov 2026 09:28:00 GMT",
-          "description": "Koploper PSV heeft de eredivisie overtuigend hervat met een ruime zege bij NEC: 1-4. Bij rust stond het in Nijmegen al 0-3. Domper op de zege was het uitvallen van aanvoerder Mauro J&#250;nior met een ..."
+          "url": "https://nos.nl/artikel/2640584-twente-worstelt-zich-langs-tien-man-willem-ii-en-pakt-voorlopig-tweede-plek",
+          "publishedDate": "Sun, 22 Nov 2026 05:15:00 GMT",
+          "description": "Dankzij een later treffer van invaller Marko Pjaca wint FC Twente thuis met 2-1 van Willem II, dat met tien man nog wel op voorsprong weet te komen."
         },
         {
-          "title": "Peter Bosz verbaast na NEC - PSV iedereen met zeer opvallende bekentenis",
-          "source": "Voetbalzone on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/peter-bosz-verbaast-na-nec-psv-iedereen-met-zeer-opvallende-bekentenis/ar-AA2hXkTl",
-          "publishedDate": "Sun, 22 Nov 2026 00:07:41 GMT",
-          "description": "Peter Bosz heeft zaterdagavond voor een opvallend moment gezorgd. De oefenmeester van PSV verbaasde de verslaggever van ESPN en de mensen thuis met een bijzondere bekentenis."
-        },
-        {
-          "title": "Heel Nederland walgt van Peter Bosz na NEC-PSV",
-          "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/heel-nederland-walgt-van-peter-bosz-na-nec-psv/",
-          "publishedDate": "Sun, 22 Nov 2026 00:00:00 GMT",
-          "description": "PSV won op zaterdag met sprekend gemak van NEC. Achteraf ging het echter vooral om het gedrag van Peter Bosz. Wat had de trainer misdaan? PSV had geen ..."
-        },
-        {
-          "title": "Heet van de Herdgang | Poll: ‘Moet PSV tegen Real Madrid zijn aanvallende speelstijl handhaven?",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/eindhoven/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven~a71e295c/",
-          "publishedDate": "Sat, 21 Nov 2026 13:05:00 GMT",
-          "description": "Na de zege op NEC (1-4) gaat de focus bij PSV uit naar de Champions League-wedstrijd tegen Real Madrid van dinsdag. Moet coach Peter Bosz in Spanje zijn bekende, aanvallende speelstijl handhaven? Geef ..."
-        },
-        {
-          "title": "SUPERTIP: Livestream NEC – PSV (Eredivisie 21-11-2026)",
-          "source": "Voetbal4u",
-          "url": "https://www.voetbal4u.com/2026/11/21/supertip-livestream-nec-psv-eredivisie-21-11-2026/",
-          "publishedDate": "Sat, 21 Nov 2026 11:45:00 GMT",
-          "description": "Vandaag om 16.30 uur staat er weer een mooi affiche op de kalender in de Nederlandse Eredivisie. NEC neemt het dan namelijk in eigen huis op tegen PSV. Beide clubs zullen er alles aan doen om na negen ..."
-        },
-        {
-          "title": "PSV bezorgt Bosz aangename verjaardag na simpele afrekening met NEC",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/psv-bezorgt-bosz-aangename-verjaardag-na-simpele-afrekening-met-nec/ar-AA2hVTrG",
-          "publishedDate": "Sat, 21 Nov 2026 10:13:38 GMT",
-          "description": "PSV heeft zaterdagavond bijzonder eenvoudig afgerekend met voormalig angstgegner NEC. Op de 63ste verjaardag van trainer Peter Bosz was de regerend landskampioen al na &#233;&#233;n helft klaar met de ploeg van ..."
-        },
-        {
-          "title": "Kijkers NEC-PSV gaan helemaal los: 'Een lachertje'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/kijkers-nec-psv-laten-van-zich-horen-na-opvallend-moment-een-lachertje",
-          "publishedDate": "Sat, 21 Nov 2026 09:45:00 GMT",
-          "description": "De penalty voor PSV tegen NEC zorgt voor ophef. Kijkers op X uiten massaal kritiek op scheidsrechter Jeroen Manschot en de VAR na de strafschop."
+          "title": "Van den Brom voorziet mooi Twente-seizoen: 'Winnen ook de moeilijke wedstrijden'",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/van-den-brom-voorziet-mooi-twente-seizoen-winnen-ook-de-moeilijke-wedstrijden",
+          "publishedDate": "Sun, 22 Nov 2026 06:25:00 GMT",
+          "description": "John van den Brom was een tevreden man zaterdagmiddag. De trainer van FC Twente zag zijn ploeg winnen van Willem II , al ging dat niet van harte. Dat Twente juist de moeilijke wedstrijd ook wint, kon"
         }
       ]
     },
     {
-      "keyword": "irene moors zus",
+      "keyword": "tijn sadée",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Voormalig NRC-Europacorrespondent Tijn Sad&#233;e overleden na kort ziekbed",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/11/22/voormalig-nrc-europacorrespondent-tijn-sadee-overleden-na-kort-ziekbed-a4942014",
+          "publishedDate": "Sun, 22 Nov 2026 08:31:00 GMT",
+          "description": "Journalistiek: De journalist overleed zaterdagavond op 62-jarige leeftijd aan longkanker. „Tijn was een doorleefde kenner van de Hongaarse en Europese politiek. Hij schreef boeken, organiseerde debatt ..."
+        },
+        {
+          "title": "Correspondent Tijn Sad&#233;e (62) overleden na kort ziekbed",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/show/correspondent-tijn-sadee-62-overleden-na-kort-ziekbed~aa78d10d/",
+          "publishedDate": "Sun, 22 Nov 2026 06:29:00 GMT",
+          "description": "Europacorrespondent Tijn Sad&#233;e is zaterdag op 62-jarige leeftijd overleden. Dat bevestigt de NOS aan het ANP. Bij de journalist werd enkele weken geleden kanker geconstateerd, schrijft de NOS."
+        },
+        {
+          "title": "NOS-Europacorrespondent Tijn Sad&#233;e (62) overleden",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2640574-nos-europacorrespondent-tijn-sadee-62-overleden",
+          "publishedDate": "Sun, 22 Nov 2026 03:50:00 GMT",
+          "description": "Sad&#233;e versloeg jarenlang voor onder meer de NOS en NRC het nieuws rond de EU en uit Hongarije. Enkele weken geleden werd bij hem kanker geconstateerd."
+        },
+        {
+          "title": "Bashen en cashen, dat is het motto van de Hongaarse premier Viktor Orb&#225;n",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2024/05/16/bashen-en-cashen-dat-is-het-motto-van-de-hongaarse-premier-viktor-orban-a4199073",
+          "publishedDate": "Thu, 16 May 2024 02:42:00 GMT",
+          "description": "Hongarije Al meer dan twintig jaar volgt Tijn Sad&#233;e de Hongaarse premier Orb&#225;n op de voet. In zijn nieuwe boek probeert hij de kwelduivel van Brussel te doorgronden. Na een grote ..."
+        },
+        {
+          "title": "NOS-Europacorrespondent Tijn Sad&#233;e (62) na kort ziekbed overleden",
+          "source": "nu",
+          "url": "https://nu.cw/2026/11/22/nos-europacorrespondent-tijn-sadee-62-na-kort-ziekbed-overleden/",
+          "publishedDate": "Sun, 22 Nov 2026 08:42:00 GMT",
+          "description": "NOS-Europacorrespondent Tijn Sad&#233;e is op 62-jarige leeftijd overleden. Sad&#233;e versloeg jarenlang nieuws over de Europese Unie. Enkele weken geleden kreeg hij de diagnose kanker. Hij overleed zaterdag i ..."
+        },
+        {
+          "title": "Correspondent Tijn Sad&#233;e (62) uit Breda overleden na kort ziekbed",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/show/correspondent-tijn-sadee-62-uit-breda-overleden-na-kort-ziekbed~aa78d10d/",
+          "publishedDate": "Sun, 22 Nov 2026 08:20:00 GMT",
+          "description": "Europacorrespondent Tijn Sad&#233;e is zaterdag op 62-jarige leeftijd overleden. Dat bevestigt de NOS aan het ANP. Bij de journalist werd enkele weken geleden kanker geconstateerd, schrijft de NOS."
+        },
+        {
+          "title": "Vandaag (22 november) om 16:17 • Aangepast vandaag (22 november) om 16:58",
+          "source": "Omroep Brabant",
+          "url": "https://www.omroepbrabant.nl/nieuws/6035719/nos-correspondent-tijn-sadee-uit-breda-overleden-op-62-jarige-leeftijd",
+          "publishedDate": "Sun, 22 Nov 2026 08:17:00 GMT",
+          "description": "Europa-correspondent Tijn Sad&#233;e uit Breda is op 62-jarige leeftijd overleden. Dat meldt de NOS, waarvoor hij jarenlang werkte. Sad&#233;e kreeg enkele weken geleden te horen dat hij kanker had en overleed ..."
+        },
+        {
+          "title": "Journalist en schrijver Tijn Sad&#233;e (62) na kort ziekbed overleden",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/entertainment/bners/artikelen/journalist-en-schrijver-tijn-sadee-62-na-kort-ziekbed-overleden",
+          "publishedDate": "Sun, 22 Nov 2026 06:59:00 GMT",
+          "description": "Tijn Sad&#233;e is op 62-jarige leeftijd na een kort ziekbed overleden. Enkele weken geleden werd er kanker geconstateerd ..."
+        },
+        {
+          "title": "NOS-correspondent Tijn Sad&#233;e (62) overleden",
+          "source": "Shownieuws",
+          "url": "https://www.shownieuws.nl/entertainment/nieuws/artikelen/nos-correspondent-tijn-sadee-62-overleden",
+          "publishedDate": "Sun, 22 Nov 2026 05:09:00 GMT",
+          "description": "Europacorrespondent Tijn Sad&#233;e is zaterdag op 62-jarige leeftijd overleden. Dat bevestigt de NOS aan het ANP. Bij de journalist werd enkele weken geleden kanker geconstateerd, schrijft de NOS."
+        },
+        {
+          "title": "#262: Tijn Sad&#233;e over Viktor Orban",
+          "source": "BNR",
+          "url": "https://www.bnr.nl/podcast/perestrojkast/10571763/262-tijn-sadee-over-viktor-orban",
+          "publishedDate": "Thu, 17 Apr 2025 21:00:00 GMT",
+          "description": "Tijn Sad&#233;e is Europa-correspondent voor NOS, Radio1 en de VPRO. Hij is thuis in de drie B’s: Brussel, Boedapest en de Balkan. Hij is journalist, reiziger, avonturier, schrijver en...vijand van Viktor ..."
+        }
+      ]
+    },
+    {
+      "keyword": "modaal inkomen",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Open Huizen Dag in Waddinxveen: 17 huizen tussen 339.000 en 945.000 euro te bezichtigen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/waddinxveen/open-huizen-dag-in-waddinxveen-17-huizen-tussen-339-000-en-945-000-euro-te-bezichtigen~a6331d54/",
+          "publishedDate": "Fri, 02 Oct 2026 02:01:00 GMT",
+          "description": "Op zoek naar iets nieuws? In Waddinxveen kun je op 3 oktober, Open Huizen Dag, 17 te koop staande woningen zonder afspraak komen bekijken, blijkt uit een overzicht van huizensite Funda. Opvallend: met ..."
+        },
+        {
+          "title": "Huis kopen in Drechterland? Dan heb je met een modaal salaris ruim 217.000 euro aan spaargeld nodig",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/drechterland/huis-kopen-in-drechterland-dan-heb-je-met-een-modaal-salaris-ruim-217-000-euro-aan-spaargeld-nodig~aa5a8bde/",
+          "publishedDate": "Thu, 16 Oct 2025 07:33:00 GMT",
+          "description": "Wie met een modaal inkomen een huis in Drechterland wil kopen, heeft ruim 217.000 euro aan eigen geld nodig, blijkt uit onderzoek van Independer."
+        },
+        {
+          "title": "Het netto salaris van Jan Modaal in 2027 en de maximale hypotheek",
+          "source": "Manners",
+          "url": "https://www.manners.nl/jan-modaal-inkomen-netto-salaris-2027-hypotheek/",
+          "publishedDate": "Sat, 21 Nov 2026 15:59:00 GMT",
+          "description": "Voor het eerst tikt het modale inkomen de 50.000 euro aan: het CPB raamt Jan Modaal in 2027 op precies dat bedrag. Bij een stijging van 48.000 naar 50.000 euro bruto houd je daar volgens onze berekeni ..."
+        },
+        {
+          "title": "Minimumloon gaat netto tot 45 euro per maand omhoog in 2027",
+          "source": "Personeelsnet",
+          "url": "https://www.personeelsnet.nl/bericht/minimumloon-gaat-netto-tot-45-euro-omhoog-in-2027",
+          "publishedDate": "Fri, 20 Nov 2026 06:15:00 GMT",
+          "description": "Werknemers die het minimumloon verdienen, gaan er op hun eerste loonstrook van 2027 netto op vooruit. Wie 40 uur per week werkt, krijgt maandelijks € 44,87 meer op de rekening. Ook werknemers met een ..."
+        },
+        {
+          "title": "Eerste loonstrook 2027: minimumloonverdiener houdt netto tot €45 per maand meer over",
+          "source": "Persberichten.com",
+          "url": "https://www.persberichten.com/persbericht/115979/eerste-loonstrook-2027-minimumloonverdiener-houdt-netto-tot-45-per-maand-meer-over",
+          "publishedDate": "Thu, 19 Nov 2026 08:10:00 GMT",
+          "description": "Amersfoort – Nederlanders die het minimumloon verdienen, gaan er per 1 januari 2027 netto op vooruit. Dit blijkt uit nieuwe doorrekeningen van HR- en Salarisdienstverlener Youforce op basis van de rek ..."
+        },
+        {
+          "title": "Dit is het modaal inkomen in 2027 en de maximale hypotheek",
+          "source": "Manners",
+          "url": "https://www.manners.nl/modaal-inkomen-2027-per-jaar-bruto-per-maand-maximale-hypotheek/",
+          "publishedDate": "Thu, 01 Oct 2026 06:41:00 GMT",
+          "description": "Bij het geraamde modaal inkomen van 2027 per maand is het vakantiegeld eraf gehaald. Dit omdat de meeste Nederlanders hun vakantietoeslag in &#233;&#233;n keer krijgen uitgekeerd in mei. Het is dus de meest ..."
+        },
+        {
+          "title": "Jan Modaal heeft in Den Bosch precies &#233;&#233;n huis dat hij kan betalen",
+          "source": "ED",
+          "url": "https://www.ed.nl/den-bosch/jan-modaal-heeft-in-den-bosch-precies-een-huis-dat-hij-kan-betalen~afd06662/",
+          "publishedDate": "Fri, 21 Aug 2026 04:00:00 GMT",
+          "description": "Met een modaal inkomen kun je in Den Bosch op dit moment precies &#233;&#233;n te koop staande woning betalen, blijkt uit cijfers van adviesketen De Hypotheker. En dat op een totaal van 515 woningen die hier nu ..."
+        },
+        {
+          "title": "Jan Modaal heeft in Almere precies &#233;&#233;n huis dat hij kan betalen",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/almere/jan-modaal-heeft-in-almere-precies-een-huis-dat-hij-kan-betalen~adfa8a1b/",
+          "publishedDate": "Thu, 20 Aug 2026 21:05:00 GMT",
+          "description": "Met een modaal inkomen kun je in Almere op dit moment precies &#233;&#233;n te koop staand huis betalen, blijkt uit cijfers van adviesketen De Hypotheker. En dat op een totaal van 1293 huizen die hier nu op ..."
+        },
+        {
+          "title": "Jan Modaal heeft in Wageningen opnieuw minder woningen om uit te kiezen: twee vallen er binnen budget",
+          "source": "Gelderlander",
+          "url": "https://www.gelderlander.nl/wageningen/jan-modaal-heeft-in-wageningen-opnieuw-minder-woningen-om-uit-te-kiezen-twee-vallen-er-binnen-budget~a2634f15/",
+          "publishedDate": "Thu, 20 Aug 2026 21:04:00 GMT",
+          "description": "Jan Modaal heeft in Wageningen opnieuw minder woningen om uit te kiezen: twee vallen er binnen budget Met een modaal inkomen kun je in Wageningen op dit moment minder te koop staande huizen betalen ..."
+        },
+        {
+          "title": "Jan Modaal kan in Dongen geen enkel huis betalen",
+          "source": "bd.nl",
+          "url": "https://www.bd.nl/dongen/jan-modaal-kan-in-dongen-geen-enkel-huis-betalen~a5ac2072/",
+          "publishedDate": "Thu, 22 Aug 2024 19:30:00 GMT",
+          "description": "Ter vergelijking: in heel Noord-Brabant ligt &#233;&#233;n op de 265 huizen financieel binnen het bereik van Jan Modaal, landelijk geldt dat voor &#233;&#233;n op de 57 woningen — nog geen twee procent dus. Dat is niet ..."
+        }
+      ]
+    },
+    {
+      "keyword": "zus irene moors",
       "trafficLabel": "20K+",
       "articles": [
         {
@@ -116,10 +268,24 @@
           "description": "Irene Moors heeft afscheid moeten nemen van haar oudere zus Marja, die op 66-jarige leeftijd is overleden. Op Instagram deelt de presentatrice een liefdevol eerbetoon aan haar zus."
         },
         {
+          "title": "Zus van Irene Moors op 66-jarige leeftijd overleden: ‘Ze verrijkte mijn leven’",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/show/zus-van-irene-moors-op-66-jarige-leeftijd-overleden-ze-verrijkte-mijn-leven~ae415415/",
+          "publishedDate": "Sun, 22 Nov 2026 03:57:00 GMT",
+          "description": "Irene Moors heeft afscheid moeten nemen van haar oudere zus Marja. Zij overleed op 15 november op 66-jarige leeftijd, maakt de presentatrice zaterdag bekend op Instagram."
+        },
+        {
+          "title": "Verdriet bij Irene Moors: zus Marja (66) overleden",
+          "source": "Startpagina on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/verdriet-bij-irene-moors-zus-marja-66-overleden/ar-AA2hXUHx",
+          "publishedDate": "Sun, 22 Nov 2026 03:40:20 GMT",
+          "description": "Irene Moors heeft haar oudere zus Marja verloren. Marja overleed op 15 november, ze werd 66 jaar. Op Instagram neemt de presentatrice ontroerend afscheid en vertelt ze hoe trots ze op haar zus is."
+        },
+        {
           "title": "Zus van Irene Moors op 66-jarige leeftijd overleden: ‘Ik ben zo trots op haar’",
           "source": "LINDA.nl",
           "url": "https://www.linda.nl/media/zus-irene-moors-overleden~ee88123",
-          "publishedDate": "Sat, 21 Nov 2026 12:04:00 GMT",
+          "publishedDate": "Sun, 22 Nov 2026 02:04:00 GMT",
           "description": "Verdrietig nieuws: Irene Moors heeft afscheid moeten nemen van haar oudere zus Marja. Dat maakte de presentatrice zaterdag bekend op Instagram."
         },
         {
@@ -135,503 +301,393 @@
           "url": "https://www.shownieuws.nl/entertainment/nieuws/artikelen/irene-moors-rouwt-om-grote-zus",
           "publishedDate": "Sat, 21 Nov 2026 10:31:00 GMT",
           "description": "Verdrietig nieuws: Irene Moors laat op Instagram weten dat haar grote zus Marja Moors op 66-jarige leeftijd is overleden. &quot;Zoveel liefde gevoeld vandaag toen we haar herdachten.&quot; Marja overleed eerder ..."
+        },
+        {
+          "title": "Zus Mirjam en Irene Moors halen herinneringen op aan Bart de Graaff",
+          "source": "NU",
+          "url": "https://www.nu.nl/124362/video/zus-mirjam-en-irene-moors-halen-herinneringen-op-aan-bart-de-graaff.html",
+          "publishedDate": "Sun, 16 Apr 2017 17:00:00 GMT",
+          "description": "Delen via WhatsApp Delen via Facebook Delen via X Delen via Bluesky Delen via LinkedIn Delen via E-mail ..."
         }
       ]
     },
     {
-      "keyword": "winterweer",
+      "keyword": "barcelona - villarreal",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Het winterweer haalde het beste in ons naar boven",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/01/11/het-winterweer-haalde-het-beste-in-ons-naar-boven-a4917288",
-          "publishedDate": "Sun, 11 Jan 2026 01:00:00 GMT",
-          "description": "Al dagen is er sprake van extreem winterweer. Hoe vervelend de lange files, geannuleerde vluchten en problemen met treinverkeer ook zijn, onze samenleving is meer dan verkeer en vervoer. En wie om ..."
+          "title": "Barcelona door drie goals in tien minuten met schrik vrij tegen Villarreal",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2640620-barcelona-door-drie-goals-in-tien-minuten-met-schrik-vrij-tegen-villarreal",
+          "publishedDate": "Sun, 22 Nov 2026 08:31:00 GMT",
+          "description": "FC Barcelona wint moeizaam van Villarreal (3-2) en staat weer drie punten boven concurrent Real Madrid in de Spaanse competitie."
         },
         {
-          "title": "Winterverwachting: zacht en wisselvallig, of kunnen we het ijs op?",
-          "source": "Weeronline",
-          "url": "https://www.weeronline.nl/nieuws/winterverwachting-weer-winter-2026-2027",
-          "publishedDate": "Sat, 21 Nov 2026 22:52:00 GMT",
-          "description": "De winter van 2026-2027 staat op het punt van beginnen. Waar hoop jij op? Sneeuw en kou, of wil je liever een zachte winter? De details hoor je hier. | Weeronline ..."
+          "title": "Frenkie de Jong komt met Bar&#231;a rampstart te boven: fraaie comeback tegen Villarreal",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/frenkie-de-jong-komt-met-barca-rampstart-te-boven-fraaie-comeback-tegen-villarreal~a27a4474/",
+          "publishedDate": "Sun, 22 Nov 2026 08:10:00 GMT",
+          "description": "Het is FC Barcelona gelukt om Villarreal te verslaan. Na een vroege 0-2 achterstand kwam de ploeg van Frenkie De Jong nog kwam terug en wisten ze uiteindelijk nog met 3-2 te winnen."
         },
         {
-          "title": "Weeronline: wintermaanden waarschijnlijk warmer dan normaal",
-          "source": ".ANP on MSN",
-          "url": "https://www.msn.com/nl-nl/weer/meteorologie/weeronline-wintermaanden-waarschijnlijk-warmer-dan-normaal/ar-AA2hWl70",
-          "publishedDate": "Sat, 21 Nov 2026 22:00:00 GMT",
-          "description": "De komende winter verloopt waarschijnlijk zachter dan normaal. Weeronline verwacht alleen winterweer in het begin van december en mogelijk in februari. November is tot nu toe wel kouder dan gemiddeld, ..."
+          "title": "FC Barcelona toont veerkracht en klopt Villarreal na rust alsnog",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/sport/artikel/5666558/fc-barcelona-toont-veerkracht-en-klopt-villarreal-na-rust-alsnog",
+          "publishedDate": "Sun, 22 Nov 2026 07:33:00 GMT",
+          "description": "FC Barcelona heeft puntenverlies in de Spaanse voetbalcompetitie vrij moeizaam voorkomen. De koploper stond voor eigen publiek tegen Villarreal bij rust op achterstand (0-2), maar won dankzij drie doe ..."
+        },
+        {
+          "title": "Barcelona draait vroege dubbele achterstand tegen Villarreal helemaal om",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/barcelona-draait-dubbele-achterstand-villarreal-om/",
+          "publishedDate": "Sun, 22 Nov 2026 08:31:00 GMT",
+          "description": "Ex-Club Brugge-speler Tajon Buchanan zette Villarreal vroeg op weg, maar Barcelona boog de wedstrijd na rust alsnog om."
+        },
+        {
+          "title": "Bar&#231;a komt dramatische start te boven en blijft fier aan kop in La Liga",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/barca-komt-dramatische-start-te-boven-en-blijft-fier-aan-kop-in-la-liga",
+          "publishedDate": "Sun, 22 Nov 2026 07:02:00 GMT",
+          "description": "Barcelona heeft zondagmiddag gewonnen van Villarreal. De Spaanse landskampioen begon slecht aan de wedstrijd, maar zorgde in tweede helft voor een knappe comeback aan de hand van uitblinkers Pedri en ..."
+        },
+        {
+          "title": "Barcelona zorgt voor knappe remontada na dramatische start tegen Villarreal",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/barcelona-zorgt-voor-knappe-remontada-na-dramatische-start-tegen-villarreal/ar-AA2hYsW3",
+          "publishedDate": "Sun, 22 Nov 2026 07:00:51 GMT",
+          "description": "FC Barcelona heeft zich zondag na een dramatische start volledig teruggeknokt tegen Villarreal. De ploeg van Hansi Flick keek in eigen huis al na zeven minuten tegen een 0-2 achterstand aan, maar draa ..."
+        },
+        {
+          "title": "Praat mee op VP: De Jong keert op opvallende plaats terug in basis bij Bar&#231;a",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/praat-mee-op-vp-de-jong-keert-op-opvallende-plaats-terug-in-basis-bij-bar%C3%A7a/ar-AA2hXNAV",
+          "publishedDate": "Sun, 22 Nov 2026 03:57:53 GMT",
+          "description": "FC Barcelona en Villarreal treffen elkaar zondagmiddag in La Liga. De wedstrijd begint om 14.00 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praat mee!"
+        },
+        {
+          "title": "Op welke zender kijk je Barcelona – Villarreal live?",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-barcelona-villarreal-live/",
+          "publishedDate": "Sun, 22 Nov 2026 01:55:00 GMT",
+          "description": "Een mooi affiche in LaLiga, midden op de zondagmiddag. FC Barcelona ontvangt Villarreal CF in Spotify Camp Nou. Waar kijk je dit duel live? SN TV Gids: ..."
+        },
+        {
+          "title": "Barcelona vs Villarreal voorspelling, tips en odds | La Liga",
+          "source": "Eurosport",
+          "url": "https://www.eurosport.nl/weddenschappen/voorspellingen/barcelona-vs-villarreal-voorspelling-tips-en-odds-22-11-26/",
+          "publishedDate": "Sat, 21 Nov 2026 04:59:00 GMT",
+          "description": "Villarreal heeft met 23,6 xG de op twee na hoogste waarde van LaLiga en kwam tegen Getafe op 8 november tot zeven schoten op doel. Barcelona incasseerde in vier van de laatste vijf wedstrijden ..."
+        },
+        {
+          "title": "FC Barcelona – Villarreal: Waar Kijken, Opstellingen &amp; Statistieken: Houdt Barca de koppositie vast?",
+          "source": "bettingodds",
+          "url": "https://www.bettingodds.com/nl/nieuws/fc-barcelona-villarreal-waar-kijken-opstellingen-statistieken-28-2-2026",
+          "publishedDate": "Fri, 27 Feb 2026 23:10:00 GMT",
+          "description": "Hans-Dieter Flick's FC Barcelona ontvangt zaterdag 28 februari Villarreal in een La Liga-duel dat cruciaal is voor de titelstrijd. De Catalanen staan momenteel eerste met 61 punten. Een thuiszege in ..."
+        }
+      ]
+    },
+    {
+      "keyword": "sparta rotterdam - az",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Hoog bezoek op Het Kasteel: Britse premier Andy Burnham op de tribune bij duel tussen Sparta en AZ",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/regiosport-rotterdam/hoog-bezoek-op-het-kasteel-britse-premier-andy-burnham-op-de-tribune-bij-duel-tussen-sparta-en-az~a7fd28a1/",
+          "publishedDate": "Sun, 22 Nov 2026 08:44:00 GMT",
+          "description": "De Britse premier Andy Burnham is zondagmiddag aandachtig toeschouwer tijdens het eredivisieduel tussen Sparta en AZ. Burnham, een groot voetbalfan, is op bezoek in Nederland en lunchte gisteren nog m ..."
+        },
+        {
+          "title": "AZ rolt na rust Sparta op en springt over Feyenoord heen naar vierde plaats",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2640605-az-rolt-na-rust-sparta-op-en-springt-over-feyenoord-heen-naar-vierde-plaats",
+          "publishedDate": "Sun, 22 Nov 2026 07:28:00 GMT",
+          "description": "AZ heeft op bezoek bij Sparta aan een sterke tweede helft drie punten overgehouden. Na de 1-1 ruststand stoomden de Alkmaarders door naar een 5-1 zege. AZ passeerde door die zege Feyenoord, dat ..."
+        },
+        {
+          "title": "AZ legt Sparta na rust op de pijnbank en boekt eclatante zege op Het Kasteel",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/az-legt-sparta-na-rust-op-de-pijnbank-en-boekt-eclatante-zege-op-het-kasteel~ab95830d/",
+          "publishedDate": "Sat, 21 Nov 2026 19:31:00 GMT",
+          "description": "Een opleving kort na rust was voor AZ voldoende om Sparta over de knie te leggen. De Rotterdammers zakten voor de tweede keer op rij na de pauze door het ijs, waardoor AZ met speels gemak uitliep naar ..."
+        },
+        {
+          "title": "Wereldberoemde politicus duikt plots op bij Sparta Rotterdam - AZ",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/wereldberoemde-politicus-bezoekt-sparta-az",
+          "publishedDate": "Sun, 22 Nov 2026 09:08:00 GMT",
+          "description": "Hoog bezoek op Het Kasteel: de Britse premier Andy Burnham zag Sparta met 1-5 ten onder gaan tegen AZ. Waarom juichte de premier voor de Kasteelheren?"
+        },
+        {
+          "title": "Opvallende gast bij Sparta tegen AZ: Britse premier heeft onverwachte band met Rotterdamse club",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/boulevard/nieuws/opvallende-gast-bij-sparta-tegen-az-britse-premier-heeft-onverwachte-band-met-rotterdamse-club-2026112215581772928/",
+          "publishedDate": "Sun, 22 Nov 2026 08:57:00 GMT",
+          "description": "Samen met burgemeester Carola Schouten nam Andy Burnham zondagmiddag plaats op de tribune van Het Kasteel. Voor de Britse premier was het meer dan zomaar een middagje voetbal. Daar zit namelijk een bi ..."
+        },
+        {
+          "title": "Hoog bezoek in Rotterdam: Britse premier duikt plots op bij Sparta - AZ",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/hoog-bezoek-in-rotterdam-britse-premier-duikt-plots-op-bij-sparta-az/ar-AA2hYInO",
+          "publishedDate": "Sun, 22 Nov 2026 08:44:53 GMT",
+          "description": "Sparta Rotterdam heeft zondag bijzonder bezoek ontvangen op Het Kasteel. Niemand minder dan de Britse premier Andy Burnham was aanwezig bij het Eredivisieduel met AZ. De Engelse politicus zag hoe de A ..."
+        },
+        {
+          "title": "AZ klimt na overwinning bij Sparta naar vierde plek in Eredivisie",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/az-klimt-na-overwinning-bij-sparta-naar-vierde-plek-in-eredivisie",
+          "publishedDate": "Sun, 22 Nov 2026 08:35:00 GMT",
+          "description": "ROTTERDAM (ANP) - AZ is in de Eredivisie naar de vierde plaats gestegen. De Alkmaarders boekten in de tweede helft een ruime overwinning bij Sparta Rotterdam: 1-5. Het was voor AZ in de competitie de."
+        },
+        {
+          "title": "Opvallende gast bij Sparta-AZ: Britse premier Andy Burnham bezoekt Het Kasteel",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2286265/opvallende-gast-bij-sparta-az-britse-premier-andy-burnham-bezoekt-het-kasteel",
+          "publishedDate": "Sun, 22 Nov 2026 07:45:00 GMT",
+          "description": "Sparta Rotterdam kreeg zondagmiddag bijzonder bezoek tijdens de thuiswedstrijd tegen AZ. De Britse premier Andy Burnham nam plaats op de tribune van Het Kasteel, waar hij samen met burgemeester Carola ..."
+        },
+        {
+          "title": "AZ walst na rust over Sparta heen en profiteert optimaal van misstap Feyenoord",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/az-walst-na-rust-over-sparta-heen-en-profiteert-optimaal-van-misstap-feyenoord/ar-AA2hYhhi",
+          "publishedDate": "Sun, 22 Nov 2026 07:22:47 GMT",
+          "description": "AZ heeft zondag op bezoek bij Sparta Rotterdam het verschil gemaakt na rust. De Alkmaarders hadden het in de eerste helft lastig met de thuisploeg, maar sloegen na de pauze razendsnel toe. De ploeg va ..."
+        },
+        {
+          "title": "Sparta Rotterdam - AZ in Eredivisie: blessures, opstellingen, h2h, tv-gids, vorm, voorspellingen en meer",
+          "source": "news.bet365",
+          "url": "https://news.bet365.nl/nl-nl/article/sparta-rotterdam-az-in-eredivisie-blessures-opstellingen-h2h-tv-gids-vorm-voorspellingen-en-meer/2026111915392722118",
+          "publishedDate": "Thu, 19 Nov 2026 08:49:00 GMT",
+          "description": "Sparta Rotterdam won op 3 maart 1985 met 5-2 van AZ. Dat is de grootste overwinning van de Rotterdammers in de onderlinge historie. Op 21 september 1980 won AZ met 3-7 op Het Kasteel. Met tien ..."
+        }
+      ]
+    },
+    {
+      "keyword": "isack hadjar",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Max Verstappen houdt ronde na ronde vol in bloedstollende race en grijpt spectaculaire zege in Las Vegas",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/formule-1/max-verstappen-houdt-ronde-na-ronde-vol-in-bloedstollende-race-en-grijpt-spectaculaire-zege-in-las-vegas~ab191ac8/",
+          "publishedDate": "Sun, 22 Nov 2026 00:44:00 GMT",
+          "description": "In een fascinerende slipstreamrace, waar geen coureur &#233;cht weg wist te komen, was het Max Verstappen die vooraan de trein knap alle aanvallen 50 rondjes lang wist te pareren, met zijn vierde zege van ..."
+        },
+        {
+          "title": "Hadjar trekt strategie Red Bull in twijfel",
+          "source": "RacingNews365 on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/motorsport/hadjar-trekt-strategie-red-bull-in-twijfel/ar-AA2hYpVD",
+          "publishedDate": "Sun, 22 Nov 2026 05:00:00 GMT",
+          "description": "Isack Hadjar was goed op weg in de openingsfase van de GP van Las Vegas, tot strategische opdrachten en problemen het hem steeds lastiger maakten. Hij twijfelt echter of de strategische opdrachten van ..."
+        },
+        {
+          "title": "Het contrast bij Red Bull is levensgroot: &quot;De lol is er voor mij af&quot;",
+          "source": "F1 Maximaal",
+          "url": "https://www.f1maximaal.nl/formule-1/het-contrast-bij-red-bull-is-levensgroot-mijn-motivatie-is-nu-wel-weg",
+          "publishedDate": "Sun, 22 Nov 2026 01:39:00 GMT",
+          "description": "Red Bull Racing heeft Isack Hadjar momenteel nauwelijks nodig. Max Verstappen scoort in zijn eentje namelijk meer punten dan McLaren, Ferrari of Mercedes. Dat neemt niet weg dat Hadjar de laatste weke ..."
+        },
+        {
+          "title": "Hadjar ge&#239;rriteerd dat Red Bull hem verbood Verstappen in te halen",
+          "source": "GPblog on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/motorsport/hadjar-ge%C3%AFrriteerd-dat-red-bull-hem-verbood-verstappen-in-te-halen/ar-AA2hWYoa",
+          "publishedDate": "Sat, 21 Nov 2026 23:43:00 GMT",
+          "description": "Isack Hadjar is niet blij met de teamorders van Red Bull Racing. Volgens de Fransman zou het plan van het team om hem achter Max Verstappen te houden nooit werken. Hadjar kende een goede start van de ..."
+        },
+        {
+          "title": "Hadjar baalt van gedrag concurrentie in kwalificatie GP Las Vegas: &quot;Hou niet van die spelletjes&quot;",
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1093175/hadjar-baalt-van-gedrag-concurrentie-in-kwalificatie-gp-las-vegas-hou-niet-van-die-spelletjes/",
+          "publishedDate": "Sat, 21 Nov 2026 02:59:00 GMT",
+          "description": "Isack Hadjar kijkt met gemengde gevoelens terug op de kwalificatie voor de Grand Prix van Las Vegas. De 22-jarige coureur van Red Bull Racing zette de vijfde tijd op de borden op het Las Vegas Strip C ..."
+        },
+        {
+          "title": "Onder indruk van Max Verstappen: &quot;Nu begrijp ik waarom hij viervoudig wereldkampioen is&quot;",
+          "source": "RaceXpress",
+          "url": "https://www.racexpress.nl/formule-1/onder-indruk-van-max-verstappen-nu-begrijp-ik-waarom-hij-viervoudig-wereldkampioen-is/n/158116",
+          "publishedDate": "Fri, 20 Nov 2026 22:58:00 GMT",
+          "description": "Isack Hadjar heeft tijdens zijn eerste seizoen als teamgenoot van Max Verstappen bij Red Bull ontdekt wat de Nederlander zo bijzonder maakt. De Fransman ..."
+        },
+        {
+          "title": "Isack Hadjar heeft een duidelijk doel voor het einde van het seizoen: &quot;Ik wil graag een race winnen.&quot;",
+          "source": "autohebdo",
+          "url": "https://www.autohebdo.nl/nieuws/f1/Isack-Hadjar-heeft-een-duidelijk-doel-voor-het-einde-van-het-seizoen%3A-ik-wil-een-race-winnen..html",
+          "publishedDate": "Thu, 19 Nov 2026 07:51:00 GMT",
+          "description": "Isack Hadjar, die twee weken geleden derde werd in de Grand Prix van Brazili&#235; achter zijn teamgenoot Max Verstappen, is van plan zijn troefkaart uit te spelen voor het einde van het seizoen."
+        },
+        {
+          "title": "Hadjar: 'Ik heb nog veel in de tank' en baalt dat F1-seizoen bijna voorbij is",
+          "source": "Formule1nieuws.nl",
+          "url": "https://formule1nieuws.nl/nieuws/hadjar-ik-heb-nog-veel-in-de-tank-en-baalt-dat-f1-seizoen-bijna-voorbij-is/",
+          "publishedDate": "Thu, 12 Nov 2026 10:31:00 GMT",
+          "description": "Isack Hadjar wil nog niet stoppen. Terwijl het F1-seizoen op zijn einde loopt, zegt de Red Bull-coureur dat hij zich 'een beetje verdrietig' voelt, omdat hij dit jaar het gevoel heeft nauwelijks te he ..."
+        },
+        {
+          "title": "Isack Hadjar vindt vertrouwen terug met podiumplaats na lastige periode: &quot;Ik stond bijna voortdurend op het punt om te crashen&quot;",
+          "source": "RaceXpress",
+          "url": "https://www.racexpress.nl/formule-1/isack-hadjar-vindt-vertrouwen-terug-met-podiumplaats-na-lastige-periode-ik-stond-bijna-voortdurend-op-het-punt-om-te-crashen/n/157848",
+          "publishedDate": "Tue, 10 Nov 2026 03:31:00 GMT",
+          "description": "Isack Hadjar heeft tijdens de Grand Prix van S&#227;o Paulo een knap resultaat neergezet. De Red Bull-coureur begon vanaf de vijfde startpositie aan de race ..."
+        },
+        {
+          "title": "Ondanks zijn podiumplaats blijft Isack Hadjar veeleisend: &quot;Ik moet ervoor zorgen dat ik minder fouten maak.&quot;",
+          "source": "autohebdo",
+          "url": "https://www.autohebdo.nl/nieuws/f1/isack-hadjar-derde-podium-in-Brazili%C3%AB.html",
+          "publishedDate": "Sun, 08 Nov 2026 12:06:00 GMT",
+          "description": "Isack Hadjar, die vanaf de derde rij startte, leverde een solide prestatie in de Grand Prix van Interlagos en eindigde uiteindelijk als derde."
+        }
+      ]
+    },
+    {
+      "keyword": "sneeuw",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Komende dagen meer wind en regen, dinsdag plaatselijk kans op natte sneeuw",
+          "source": "RTL Nieuws (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/komende-dagen-meer-wind-en-regen-dinsdag-plaatselijk-kans-op-natte-sneeuw/ar-AA2ht8cR",
+          "publishedDate": "Sat, 14 Nov 2026 21:21:28 GMT",
+          "description": "De komende dagen worden wisselvalliger. De kans op regen wordt daarbij steeds groter. De meeste regen valt in de nacht naar dinsdag en dinsdagochtend. Daarbij bestaat in het noordoosten tijdelijk kans ..."
+        },
+        {
+          "title": "Winter met &#233;n zonder sneeuw in het DUNAatelier",
+          "source": "Allesoverkatwijk.nl",
+          "url": "https://www.allesoverkatwijk.nl/nieuws/algemeen/111029/winter-met-en-zonder-sneeuw-in-het-dunaatelier",
+          "publishedDate": "Sun, 22 Nov 2026 08:00:00 GMT",
+          "description": "Vanaf eind november zijn impressies van de winterperiode te zien in het DUNAatelier. Tien leden van de Katwijkerkring stellen werken ten toon met als thema ‘Winter’. Frans Bianchi, Sibylle Bross, Nata ..."
+        },
+        {
+          "title": "Wintersport onbetaalbaar? Deze Bredase zaak heeft de oplossing: ‘Voor een prikkie de sneeuw in’",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/brabant/wintersport-onbetaalbaar-deze-bredase-zaak-heeft-de-oplossing-voor-een-prikkie-de-sneeuw-in~a56f05693/",
+          "publishedDate": "Sun, 22 Nov 2026 05:06:00 GMT",
+          "description": "Op skivakantie gaan was nog nooit zo duur als nu. Toch glijden straks weer honderdduizenden Nederlanders van de Franse en Oostenrijkse pistes. Hoe doen ze dat? Dit Bredase bedrijf geeft ze een zetje."
         },
         {
           "title": "Verstoorde poolwervel vergroot kans op winterweer: sneeuw en vorst mogelijk in december",
           "source": "RTV Focus Zwolle",
           "url": "https://www.rtvfocuszwolle.nl/verstoorde-poolwervel-winterweer-sneeuw-december-2026/",
-          "publishedDate": "Sat, 21 Nov 2026 11:37:00 GMT",
+          "publishedDate": "Sun, 22 Nov 2026 01:37:00 GMT",
           "description": "Een verstoorde poolwervel kan de kans op winterweer vergroten. Weeronline ziet mogelijkheden voor sneeuw en vorst in december. Wat betekent dit voor Zwolle?"
         },
         {
-          "title": "Winterverwachting 2026/27: zacht, met kansen op winterweer",
-          "source": "weerverteller",
-          "url": "https://www.weerverteller.nl/verhalen/winterverwachting-2026-27-zacht-met-kansen-op-winterweer",
-          "publishedDate": "Sat, 21 Nov 2026 08:59:00 GMT",
-          "description": "De aanloop naar de komende winter was een bijzondere. Wat wordt de invloed van de sterke El Ni&#241;o en de vroeg ingestorte poolwervel? De winterverwachting 2027."
+          "title": "Zoveel sneeuw valt er niet vaak op &#233;&#233;n dag: vandaag tot 85 cm in de Alpen",
+          "source": "Skiinformatie.nl",
+          "url": "https://skiinformatie.nl/zoveel-sneeuw-valt-er-niet-vaak-op-een-dag-vandaag-tot-85-cm-in-de-alpen/",
+          "publishedDate": "Sun, 22 Nov 2026 00:05:00 GMT",
+          "description": "Vandaag valt er in de westelijke Alpen een hoeveelheid sneeuw die je niet vaak op &#233;&#233;n dag ziet. Bovenin Chamonix komt er volgens onze sneeuwverwachting ..."
         },
         {
-          "title": "Gaat een unieke gebeurtenis hoog boven de polen ons winterweer bezorgen?",
-          "source": "Drimble",
-          "url": "https://drimble.nl/buitenlands-nieuws/108668957/gaat-een-unieke-gebeurtenis-hoog-boven-de-polen-ons-winterweer-bezorgen.html",
-          "publishedDate": "Sat, 21 Nov 2026 03:35:00 GMT",
-          "description": "De wetenschappelijke wereld kijkt met grote interesse naar de poolwervel die eind vorige week is ingestort. Deze ijskoude, onzichtbare draaikolk van lucht van een paar duizend kilometer doorsnee ontst ..."
+          "title": "Het weekendweer, en de wapenstilstand is voorbij: sneeuw beneden de 1000 meter en stormachtige wind.",
+          "source": "Notizie.it",
+          "url": "https://www.notizie.it/nl/Slecht-weer--sneeuw--verandert-alles-dit-weekend.-Zondag-dalen-de-temperaturen-drastisch./",
+          "publishedDate": "Sat, 21 Nov 2026 12:32:00 GMT",
+          "description": "Een weekend met extreem weer in Itali&#235;, met stortbuien, stormvloeden en dalende temperaturen in het noorden: hier is de laatste weersvoorspelling."
         },
         {
-          "title": "Winterweer in aantocht: temperatuur duikt ’s nachts tot min 5 graden",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/binnenland/winterweer-in-aantocht-temperatuur-duikt-s-nachts-tot-min-5-graden~a63d6894/",
-          "publishedDate": "Fri, 20 Nov 2026 10:07:00 GMT",
-          "description": "Lange grijze dagen vol regen liggen nu echt achter ons. Volgende week doet licht winterweer zijn intrede. Het blijft droog en de temperatuur gaat flink omlaag. Schaatsliefhebbers opgelet: ’s nachts da ..."
+          "title": "Volgende week mogelijk smeltende sneeuw",
+          "source": "Redactie24",
+          "url": "https://www.redactie24.be/natuur-en-weer/volgende-week-mogelijk-smeltende-sneeuw-195262",
+          "publishedDate": "Fri, 20 Nov 2026 22:15:00 GMT",
+          "description": "Na al die regen voelt een heldere ochtend bijna als een ander seizoen. In het zuiden kan de temperatuur tegen het ochtendgloren zelfs onder nul zakken. Even verder in Europa is het winterweer al een s ..."
         },
         {
-          "title": "Krijgen we eerste witte kerst sinds 2010? Kans op koude winter groter geworden door instorten poolwervel",
-          "source": "EenVandaag",
-          "url": "https://eenvandaag.avrotros.nl/artikelen/krijgen-we-eerste-witte-kerst-sinds-2010-kans-op-koude-winter-groter-geworden-door-instorten-poolwervel-165412",
-          "publishedDate": "Tue, 17 Nov 2026 08:42:00 GMT",
-          "description": "De laatste keer dat het tijdens de kerst sneeuwde is alweer 16 jaar geleden. Maar dit jaar is de kans op een witte kerst in Nederland een stuk groter, ..."
+          "title": "Live uit de sneeuw op de Hintertuxer Gletscher: genieten vandaag",
+          "source": "Snowplaza",
+          "url": "https://www.snowplaza.nl/weblog/sneeuw-frankrijk-chamonix-158-cm/",
+          "publishedDate": "Fri, 20 Nov 2026 02:54:00 GMT",
+          "description": "Tot en met dinsdag valt in Chamonix 158 cm verse sneeuw en zondag in de Oisans tot 87 cm op &#233;&#233;n dag. Tignes en Val Thorens openen zaterdag."
         },
         {
-          "title": "Is er winterweer op komst? Weerman Ruben Weytjens heeft nieuws",
-          "source": "Nieuws365",
-          "url": "https://www.nieuws365.be/weer/is-er-winterweer-op-komst-weerman-ruben-weytjens-heeft-nieuws",
-          "publishedDate": "Wed, 11 Nov 2026 12:00:00 GMT",
-          "description": "Wie hoopt op een vroege winterprik, lijkt voorlopig nog niet aan zijn trekken te komen. Na enkele koude, maar overwegend droge dagen krijgen we vanaf zondag een ander weerbeeld. De kans op regen neemt ..."
+          "title": "&quot;Pineapple Express&quot; brengt veel regen en sneeuw naar de Amerikaanse westkust",
+          "source": "Weer &amp; Radar Nederland",
+          "url": "https://www.weerenradar.nl/weer-nieuws/pineapple-express-brengt-veel-regen-en-sneeuw-naar-de-amerikaanse-westkust--d7988ae3-6958-4ee6-a00d-99dd09a249b5",
+          "publishedDate": "Wed, 18 Nov 2026 02:32:00 GMT",
+          "description": "Aan de westkust van de VS zorgt al de derde storm binnen een week voor onstuimig weer. Vooral in Californi&#235; staat er een harde wind en vallen er enorme hoeveelheden regen, waardoor er gevaar is voor o ..."
         },
         {
-          "title": "Volg ons op Google Nieuws",
-          "source": "Welingelichte Kringen",
-          "url": "https://www.welingelichtekringen.nl/samenleving/weersverwachting-november-winterweer",
-          "publishedDate": "Tue, 20 Oct 2026 05:12:00 GMT",
-          "description": "Volgens de weersverwachting van Weeronline wordt november overdag 10 tot 15 graden en blijft de kans op vroeg winterweer klein."
+          "title": "Tot 127 cm sneeuw op de kaarten: dit staat de Alpen komende dagen te wachten",
+          "source": "Skiinformatie.nl",
+          "url": "https://skiinformatie.nl/tot-127-cm-sneeuw-op-de-kaarten-dit-staat-de-alpen-komende-dagen-te-wachten/",
+          "publishedDate": "Sun, 15 Nov 2026 22:51:00 GMT",
+          "description": "Dit zijn de sneeuwverwachtingen waar we zo vlak voor de start van het wintersportseizoen op hopen! De Alpen krijgen deze week te maken met een reeks ..."
         }
       ]
     },
     {
-      "keyword": "groningen - heerenveen",
-      "trafficLabel": "20K+",
+      "keyword": "liverpool - man utd",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Dylan Vente en blunderende FC Groningen-keeper bezorgen Heerenveen zege in Euroborg",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/dylan-vente-en-blunderende-fc-groningen-keeper-bezorgen-heerenveen-zege-in-euroborg~acebab88/",
-          "publishedDate": "Sat, 21 Nov 2026 15:44:00 GMT",
-          "description": "sc Heerenveen heeft de Derby van het Noorden zaterdagavond overtuigend naar zich toegetrokken. In een levendige ontmoeting in de Euroborg profiteerden de Friezen optimaal van een onzekere avond van Gr ..."
+          "title": "Liverpool klopt Brighton en nadert top drie, nieuwe tik voor Manchester United",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2636629-liverpool-klopt-brighton-en-nadert-top-drie-nieuwe-tik-voor-manchester-united",
+          "publishedDate": "Sun, 25 Oct 2026 13:17:00 GMT",
+          "description": "Liverpool wint met 2-0 van nummer drie Brighton &amp; Hove Albion. Manchester United verliest thuis met 0-3 van Bournemouth, waar Justin Kluivert de assist bij de 1-0 geeft."
         },
         {
-          "title": "Heerenveen viert naast doelpunten &#243;&#243;k de slidings",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/pro/heerenveen-viert-naast-doelpunten-ook-de-slidings",
-          "publishedDate": "Sun, 22 Nov 2026 01:00:00 GMT",
-          "description": "In de Derby van het Noorden tegen FC Groningen breidde SC Heerenveen zijn zegereeks verder uit: 1-3. Met speciale dank aan de blunderende Lovro Stubljar, maar &#243;&#243;k aan een belangrijke stap die de ploeg ..."
+          "title": "Matthijs de Ligt wordt volledig afgemaakt na gigablunder bij Liverpool - Manchester United: alsof hij in de Sunday League speelt!",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/matthijs-de-ligt-wordt-volledig-afgemaakt-na-gigablunder-bij-liverpool-manchester-united-alsof-hij-in-de-sunday-league-speelt/ar-AA2hYBn4",
+          "publishedDate": "Sun, 22 Nov 2026 09:05:34 GMT",
+          "description": "Mauricio Pochettino kent een ware horrorstart als manager van Manchester United. Al binnen tien minuten kijkt zijn ploeg tegen een achterstand aan tegen Liverpool, nadat Leny Yoro met rood van het vel ..."
         },
         {
-          "title": "Lees en luister terug: Keeper Stubljar biedt excuses aan na blunder tegen Heerenveen",
-          "source": "RTV Noord",
-          "url": "https://www.rtvnoord.nl/sport/1454626/lees-en-luister-terug-keeper-stubljar-biedt-excuses-aan-na-blunder-tegen-heerenveen",
-          "publishedDate": "Sat, 21 Nov 2026 15:59:00 GMT",
-          "description": "De Sloveense keeper leidde eigenhandig de eerste treffer van Heerenveen in en Schreuders begrijpt hoe hij zich voelt. 'Dat weet hij zelf ook en zo had hij het zich niet voorgesteld.' Het verlies tegen ..."
-        },
-        {
-          "title": "Heerenveen doet Groningen pijn in de Euroborg en stijgt naar plek vijf",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/heerenveen-doet-groningen-pijn-in-de-euroborg-en-stijgt-naar-plek-vijf",
-          "publishedDate": "Sat, 21 Nov 2026 14:55:00 GMT",
-          "description": "SC Heerenveen straft Gronings geschutter genadeloos af en stijgt dankzij een 1-3 zege in de Euroborg naar de vijfde plaats in de Eredivisie."
-        },
-        {
-          "title": "Heerenveen vervolgt zegereeks met hulp van blunderende keeper Stubljar",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/heerenveen-vervolgt-zegereeks-met-hulp-van-blunderende-keeper-stubljar/ar-AA2hVFjH",
-          "publishedDate": "Sat, 21 Nov 2026 13:57:21 GMT",
-          "description": "SC Heerenveen heeft zaterdagavond tegen FC Groningen voor de vijfde keer op rij gewonnen in de Eredivisie. De Friezen hadden de uitzege in de Derby van het Noorden grotendeels te danken aan een negati ..."
-        },
-        {
-          "title": "Vervanger Vaessen gaat gruwelijk de mist in en dupeert FC Groningen",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/vervanger-vaessen-gaat-gruwelijk-de-mist-in-en-dupeert-fc-groningen",
-          "publishedDate": "Sat, 21 Nov 2026 13:52:00 GMT",
-          "description": "Lovro Stubljar, de vervanger van Etienne Vaessen bij FC Groningen, gaat gruwelijk in de fout in de derby tegen sc Heerenveen en schenkt Dylan Vente de 0-1 voor de Friezen."
-        },
-        {
-          "title": "LUISTER LIVE: FC Groningen – sc Heerenveen (afgelopen)",
-          "source": "OOG Groningen",
-          "url": "https://www.oogtv.nl/2026/11/luister-live-fc-groningen-sc-heerenveen-vanaf-2030/",
-          "publishedDate": "Sat, 21 Nov 2026 12:22:00 GMT",
-          "description": "Zonder Dick Lukkien langs de lijn neemt FC Groningen het vanavond op tegen sc Heerenveen. De Euroborg maakt zich klaar voor de 'Derby van het Noorden'. Volg de wedstrijd live op OOG radio vanaf 20:30."
-        },
-        {
-          "title": "FC Groningen verliest van Heerenveen",
-          "source": "Groningen Nieuws",
-          "url": "https://groningen.nieuws.nl/nieuws/fc-groningen-verliest-van-heerenveen-38078",
-          "publishedDate": "Sat, 21 Nov 2026 12:04:00 GMT",
-          "description": "FC Groningen heeft in de 'Derby van het Noorden' verloren van FC Groningen. In de Euroborg werd het zaterdagavond 3-1 voor de bezoekers uit Friesland."
-        },
-        {
-          "title": "Deze spelers droegen het shirt van FC Groningen en sc Heerenveen",
-          "source": "ELFvoetbal.nl",
-          "url": "https://www.elfvoetbal.nl/binnenland/288403/deze-spelers-droegen-het-shirt-van-fc-groningen-en-sc-heerenveen",
-          "publishedDate": "Sat, 21 Nov 2026 06:00:00 GMT",
-          "description": "Zaterdagavond staat om 21.00 uur de Derby van het Noorden op het programma tussen FC Groningen en sc Heerenveen. Hoewel Heerenveen, met de aanwezigheid van SC Cambuur, meer gericht is op de vijandelij ..."
-        },
-        {
-          "title": "FC Groningen - sc Heerenveen: vorm, opstellingen, voorspelling, waar je kan kijken en odds",
-          "source": "news.bet365",
-          "url": "https://news.bet365.nl/nl-nl/article/fc-groningen-sc-heerenveen-vorm-opstellingen-voorspelling-waar-je-kan-kijken-en-odds/2026112008051387368",
-          "publishedDate": "Sat, 21 Nov 2026 04:39:00 GMT",
-          "description": "Aan doelpunten ontbreekt het FC Groningen niet. De ploeg maakte in twaalf competitiewedstrijden 29 goals, goed voor de vijfde aanval van de Eredivisie, en met Brynj&#243;lfur Willumsson (negen treffers) en ..."
-        }
-      ]
-    },
-    {
-      "keyword": "real madrid - celta",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "Real Madrid wint in aanloop naar PSV-thuis met nodige moeite: Carlos Esp&#237; weer belangrijk als invaller",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/real-madrid-wint-in-aanloop-naar-psv-thuis-met-nodige-moeite-carlos-espi-weer-belangrijk-als-invaller~a3e2efaf/",
-          "publishedDate": "Fri, 20 Nov 2026 16:11:00 GMT",
-          "description": "Real Madrid heeft zaterdagavond met flink wat pijn en moeite de drie punten gepakt in de thuiswedstrijd tegen Celta de Vigo. De ploeg van coach Jos&#233; Mourinho won met 2-1 dankzij een goal van de jonge ..."
-        },
-        {
-          "title": "Mourinho verklapt basisspeler tegen PSV: 'Dan hoef je het niet meer te vragen'",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/mourinho-verklapt-basisspeler-tegen-psv-dan-hoef-je-het-niet-meer-te-vragen",
-          "publishedDate": "Sun, 22 Nov 2026 00:02:00 GMT",
-          "description": "Real Madrid won zaterdagavond nipt van Celta de Vigo in eigen huis . Invaller Carlos Esp&#237; werd het goudhaantje van de Madrilenen, terwijl Vin&#237;cius J&#250;nior op de bank moest beginnen. Jos&#233; Mourinho legde ..."
-        },
-        {
-          "title": "Real Madrid jaagt op Barcelona en treft Celta de Vigo: pak tot 100x je inleg!",
-          "source": "Voetbalprimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2161286/real-madrid-jaagt-op-barcelona-en-treft-celta-de-vigo-pak-tot-100x-je-inleg.html",
-          "publishedDate": "Sat, 21 Nov 2026 15:59:00 GMT",
-          "description": "ADVERTORIAL - Real Madrid jaagt in Spanje op FC Barcelona en voelt ook de hete adem van stadsgenoot Atl&#233;tico Madrid in de nek. Tegen Celta de Vigo mogen in die strijd ook geen punten worden verspeeld."
-        },
-        {
-          "title": "Real Madrid voorkomt puntenverlies na achterstand tegen Celta",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/voetbal/real-madrid-voorkomt-puntenverlies-na-achterstand-tegen-celta",
-          "publishedDate": "Sat, 21 Nov 2026 15:23:00 GMT",
-          "description": "MADRID (ANP) - Real Madrid heeft zaterdagavond puntenverlies kunnen voorkomen in de thuiswedstrijd tegen Celta de Vigo. Ondanks een vroege achterstand tegen de club uit Galici&#235; won Real met 2-1. Daarm ..."
-        },
-        {
-          "title": "LIVE. 1-1! Jude Bellingham scoort verlossende gelijkmaker voor Real Madrid",
-          "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/primera-division/live-1-1-jude-bellingham-scoort-verlossende-gelijkmaker-voor-real-madrid~a78c62bc/",
-          "publishedDate": "Sat, 21 Nov 2026 14:35:00 GMT",
-          "description": "Ook in LaLiga beginnen ze er opnieuw aan dit weekend en Real Madrid hervat met een thuiswedstrijd tegen Celta Vigo. Thibaut Courtois speelde geen Nations League met de Rode Duivels en genoot dus van e ..."
-        },
-        {
-          "title": "Veerkrachtig Real Madrid draait het weer in de slotfase om en verslaat Celta",
+          "title": "Praat mee op VP: Pochettino kiest voor De Ligt bij United tegen Liverpool",
           "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/veerkrachtig-real-madrid-draait-het-weer-in-de-slotfase-om-en-verslaat-celta/ar-AA2hVQeS",
-          "publishedDate": "Sat, 21 Nov 2026 14:03:29 GMT",
-          "description": "Real Madrid heeft zaterdag in de absolute slotfase drie belangrijke punten weten te pakken. Dankzij invaller Carlos Espi en Jude Bellingham werd Celta de Vigo uiteindelijk met 2-1 verslagen, waardoor ..."
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/praat-mee-op-vp-pochettino-kiest-voor-de-ligt-bij-united-tegen-liverpool/ar-AA2hY6zb",
+          "publishedDate": "Sun, 22 Nov 2026 07:54:04 GMT",
+          "description": "Liverpool en Manchester United treffen elkaar zondag in een absolute Premier League-kraker. De wedstrijd begint om 17.30 uur, volg de wedstrijd hieronder in de live-omgeving van VoetbalPrimeur en praa ..."
         },
         {
-          "title": "Real Madrid komt drie dagen voor bezoek PSV goed weg in LaLiga",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/real-madrid-komt-drie-dagen-voor-bezoek-psv-goed-weg-in-laliga/blte80f7f6e35592e8f",
-          "publishedDate": "Sat, 21 Nov 2026 14:02:00 GMT",
-          "description": "Real Madrid heeft zaterdag in het Santiago Bernab&#233;u op het nippertje met 2-1 gewonnen van Celta de Vigo. De Madrilenen staan nu in punten gelijk met koploper FC Barcelona, dat zondag nog in actie komt ..."
+          "title": "Buitenland: Clash tussen Liverpool en Manchester United; Chivu wil in het spoor van koploper Lazio blijven",
+          "source": "Ajax Showtime",
+          "url": "https://www.ajaxshowtime.com/voetbalnieuws/buitenland-clash-tussen-liverpool-en-manchester-united-chivu-wil-in-het-spoor-van-koploper-lazio-blijven",
+          "publishedDate": "Sun, 22 Nov 2026 01:36:00 GMT",
+          "description": "De interlandperiode is weer voorbij en dat betekent dat er weer op nationaal niveau gevoetbald gaat worden. Meerdere oud-spelers van Ajax zullen in dit weekeinde weer in actie komen voor hun clubs. Hu ..."
         },
         {
-          "title": "Real Madrid vs Celta de Vigo: Statistieken, Opstellingen &amp; Odds",
-          "source": "Squawka",
-          "url": "https://www.squawka.com/nl/nieuws/la-liga/real-madrid-celta-de-vigo-statistieken-opstellingen-odds/",
-          "publishedDate": "Sat, 21 Nov 2026 00:29:00 GMT",
-          "description": "Real Madrid - Celta de Vigo: alle statistieken, opstellingen, voorspellingen en beste odds voor deze La Liga-kraker in het Bernab&#233;u. Bekijk tips, markten en wedkansen voor jouw bet!"
-        },
-        {
-          "title": "Unibet Real Madrid – Celta de Vigo kijken | Gratis live stream",
-          "source": "Squawka",
-          "url": "https://www.squawka.com/nl/nieuws/unibet-real-madrid-celta-de-vigo-kijken-gratis-live-stream/",
-          "publishedDate": "Sat, 21 Nov 2026 00:10:00 GMT",
-          "description": "Geen Ziggo Sport? Dan kun je de wedstrijd Real Madrid - Celta de Vigo gratis kijken bij onze partner Unibet. Klik, registreer en kijk."
-        },
-        {
-          "title": "Mourinho vindt dat Real Madrid steeds lekkerder gaat ruiken",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/mourinho-vindt-dat-real-madrid-steeds-lekkerder-gaat-ruiken",
-          "publishedDate": "Fri, 20 Nov 2026 12:00:00 GMT",
-          "description": "ADVERTORIAL – In de thuiswedstrijd tegen Celta de Vigo moet Real Madrid zaterdagavond de druk op koploper Barcelona verder opvoeren. De Madrilenen gaan op jacht naar hun negende overwinning op rij. Bl ..."
-        }
-      ]
-    },
-    {
-      "keyword": "f1 stand",
-      "trafficLabel": "20K+",
-      "articles": [
-        {
-          "title": "F1 2026 – De stand van het wereldkampioenschap na de Grand Prix van Las Vegas",
-          "source": "autohebdo",
-          "url": "https://www.autohebdo.nl/nieuws/f1/Stand-van-het-F1-Wereldkampioenschap-2026-na-de-Grand-Prix-van-Las-Vegas..html",
-          "publishedDate": "Sun, 22 Nov 2026 00:26:00 GMT",
-          "description": "Hoewel Kimi Antonelli sinds de Grand Prix van Mexico onovertroffen is, woedt de strijd achter hem nog steeds om de tweede plaats."
-        },
-        {
-          "title": "WK-stand F1 na GP Las Vegas: Verstappen slaat grote slag",
-          "source": "RacingNews365 on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/wk-stand-f1-na-gp-las-vegas-verstappen-slaat-grote-slag/ar-AA2hXkai",
-          "publishedDate": "Sat, 21 Nov 2026 21:38:00 GMT",
-          "description": "Max Verstappen heeft met zijn zege in Las Vegas Red Bull belangrijke punten geschonken. De Nederlander liep ook uit in de strijd om de tweede plaats in de WK-stand."
-        },
-        {
-          "title": "F1 Stand Vandaag: Piastri neemt WK-leiding over, Verstappen jaagt op Norris",
-          "source": "gpfans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/1047523/f1-stand-na-grand-prix-saoedi-arabie-max-verstappen-derde-in-wk/",
-          "publishedDate": "Sun, 20 Apr 2025 14:23:00 GMT",
-          "description": "De F1-stand 2025 is vandaag weer flink op de schop gegaan als gevolg van de Grand Prix van Saoedi-Arabi&#235;. Lando Norris is niet langer de WK-leider en heeft zijn positie moeten afstaan aan ..."
-        },
-        {
-          "title": "F1 Stand: Dit is de WK-stand na de zege van Norris in Melbourne",
-          "source": "MSN",
-          "url": "https://www.msn.com/nl-nl/sport/motorsport/f1-stand-dit-is-de-wk-stand-na-de-zege-van-norris-in-melbourne/ar-AA1B0M4B",
-          "publishedDate": "Sun, 16 Mar 2025 00:34:00 GMT",
-          "description": "Vandaag is de stand in het WK van de F1 dat Lando Norris aan kop gaat met 25 punten. De McLaren-coureur won de Grand Prix van Australi&#235; en gaat daardoor aan kop in het klassement van 2025. Max ..."
-        },
-        {
-          "title": "F1 WK-stand constructeurs | Alpine zet kampioenschap op z'n kop",
-          "source": "gpblog.com",
-          "url": "https://www.gpblog.com/nl/nieuws/f1-wk-stand-constructeurs-alpine-zet-kampioenschap-op-z-n-kop.html",
-          "publishedDate": "Mon, 04 Nov 2024 01:24:00 GMT",
-          "description": "Tim Kraaij is hoofdredacteur van GPblog.com en Formule 1-analist. Dankzij zijn permanente FIA-accreditatie en directe toegang tot de paddock brengt hij diepgaande, datagedreven analyses en duiding van ..."
-        }
-      ]
-    },
-    {
-      "keyword": "nieuws",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Het nieuws van zaterdag 21 november 2026",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/11/21/",
-          "publishedDate": "Fri, 20 Nov 2026 16:00:00 GMT",
-          "description": "Zaterdagmiddag kwam een einde aan een twee jaar durende kerkdienst in Kampen die was bedoeld om uitzetting van de familie Babayants naar Oezbekistan te voorkomen. De familie start een nieuwe procedure ..."
-        },
-        {
-          "title": "Het nieuws van vrijdag 20 november 2026",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/11/20/",
-          "publishedDate": "Thu, 19 Nov 2026 16:00:00 GMT",
-          "description": "Aaron Blomme (29) is hoop diver – hoepelduiker – bij Cirque du Soleil. Hij verdeelt zijn tijd tussen zijn thuisbasis in het Belgische Waregem, zijn vriendin in Montr&#233;al en de show waarmee hij op ..."
-        },
-        {
-          "title": "Slecht nieuws voor Kees Smit en Jong Oranje: AZ-middenvelder weken uitgeschakeld na terugslag in herstel",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/slecht-nieuws-voor-kees-smit-en-jong-oranje-az-middenvelder-weken-uitgeschakeld-na-terugslag-in-herstel~a44d2115/",
-          "publishedDate": "Sat, 14 Nov 2026 08:06:00 GMT",
-          "description": "Slecht nieuws voor AZ-middenvelder Kees Smit. De 20-jarige is teruggeworpen in zijn herstel en zal dus ook de komende weken nog niet beschikbaar zijn. Zodoende komt Smit dinsdag niet in actie in het b ..."
-        },
-        {
-          "title": "112-nieuws: Afvalbrandjes in Stad • Code geel wegens gladheid",
-          "source": "RTV Noord",
-          "url": "https://www.rtvnoord.nl/112/1454749/112-nieuws-afvalbrandjes-in-stad-code-geel-wegens-gladheid",
-          "publishedDate": "Sat, 21 Nov 2026 15:59:00 GMT",
-          "description": "In dit 112-blog houden we je deze zondag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven."
-        },
-        {
-          "title": "Waarom de Arnhemse politiek niet in alarmfase &#233;&#233;n is na nieuws over Marcouch als politiechef in Amsterdam",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/arnhem/waarom-de-arnhemse-politiek-niet-in-alarmfase-een-is-na-nieuws-over-marcouch-als-politiechef-in-amsterdam~aa5ec80f/",
-          "publishedDate": "Sat, 21 Nov 2026 06:57:00 GMT",
-          "description": "Moet Arnhem zich voorbereiden op een tijdperk zonder Ahmed Marcouch? Is zijn gezag aangetast nadat uitlekte dat hij in beeld was als politiechef in Amsterdam? Raadsleden dubben over hoe met het nieuws ..."
-        },
-        {
-          "title": "M&#237;chel deelt goed nieuws: Ajax heeft viertal terug voor duel met ADO",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/m%C3%ADchel-deelt-goed-nieuws-ajax-heeft-viertal-terug-voor-duel-met-ado/ar-AA2hSvsU",
-          "publishedDate": "Fri, 20 Nov 2026 11:07:56 GMT",
-          "description": "Ajax-trainer M&#237;chel S&#225;nchez had vrijdagavond goed nieuws te melden in aanloop naar de hervatting van de Eredivisie. Tegen ADO Den Haag kunnen de Amsterdammers beschikken over een hoop spelers die voor ..."
-        },
-        {
-          "title": "112-nieuws vrijdag 20 november: Politie zet twee helikopters in voor 'conflict in relationele sfeer'",
-          "source": "RTV Noord",
-          "url": "https://www.rtvnoord.nl/112/1454392/112-nieuws-vrijdag-20-november-politie-zet-twee-helikopters-in-voor-conflict-in-relationele-sfeer",
-          "publishedDate": "Fri, 20 Nov 2026 08:05:00 GMT",
-          "description": "In dit 112-blog houden we je deze vrijdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven."
-        },
-        {
-          "title": "Sunderland deelt goed en slecht nieuws over geblesseerde Brobbey",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/sunderland-deelt-goed-en-slecht-nieuws-over-geblesseerde-brobbey/ar-AA2hMG6x",
-          "publishedDate": "Thu, 19 Nov 2026 07:30:00 GMT",
-          "description": "Er is goed en slecht nieuws over de blessure van Brian Brobbey. De Oranje-international kan komend weekend niet voor Sunderland in actie komen tegen Aston Villa, maar volgens manager R&#233;gis Le Bris is ..."
-        },
-        {
-          "title": "Mark van Bommel heeft ‘verschrikkelijk slecht nieuws’ voor Belgi&#235;",
+          "title": "Op welke zender kijk je Liverpool – Manchester United live?",
           "source": "Soccernews.nl",
-          "url": "https://www.soccernews.nl/news/mark-van-bommel-heeft-verschrikkelijk-slecht-nieuws-voor-belgie/",
-          "publishedDate": "Wed, 18 Nov 2026 01:08:00 GMT",
-          "description": "Mark van Bommel wordt er boos op aangekeken dat Romelu Lukaku plotseling heeft besloten om te stoppen bij Belgi&#235;."
+          "url": "https://www.soccernews.nl/news/op-welke-zender-kijk-je-liverpool-manchester-united-live/",
+          "publishedDate": "Sun, 22 Nov 2026 01:22:00 GMT",
+          "description": "Zondag staat een absolute kraker op het menu in de Premier League. Liverpool en Manchester United spelen de wedstrijd waar het voor de fans iedere jaar ..."
         },
         {
-          "title": "Man kort na aanval in Overasselt gebeld door ‘Bolle Jos’: ‘Komt zo nieuws’",
-          "source": "nu",
-          "url": "https://nu.cw/2026/11/14/man-kort-na-aanval-in-overasselt-gebeld-door-bolle-jos-komt-zo-nieuws/",
-          "publishedDate": "Sat, 14 Nov 2026 05:08:00 GMT",
-          "description": "De voortvluchtige crimineel 'Bolle Jos' zou enkele uren na de dodelijke aanval in Overasselt hebben aangekondigd dat er nieuws over het doelwit van die aanval naar buiten zou komen. Dat verklaart een ..."
-        }
-      ]
-    },
-    {
-      "keyword": "faillissement",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Nederlandse fatbikepionier Knaap Bikes failliet: 'Gehoopt op strengere regels'",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6417105/nederlandse-fatbikepionier-knaap-bikes-failliet-gehoopt-op-strengere-regels.html",
-          "publishedDate": "Thu, 19 Nov 2026 06:04:00 GMT",
-          "description": "Knaap Bikes, een Nederlandse producent van fatbikes, is failliet. Het bedrijf had gehoopt dat de overheid met regelgeving zou komen om oneerlijke concurrentie uit China tegen te gaan. Ook lijken de im ..."
+          "title": "Liverpool vs Manchester United: Opstellingen, Statistieken, Voorspelling &amp; Odds",
+          "source": "Squawka",
+          "url": "https://www.squawka.com/nl/nieuws/premier-league/liverpool-manchester-united-opstellingen-statistieken-voorspelling-odds/",
+          "publishedDate": "Sun, 22 Nov 2026 00:00:00 GMT",
+          "description": "Liverpool ontvangt Manchester United op Anfield. Lees alles over opstellingen, statistieken, voorspellingen en de beste betting odds."
         },
         {
-          "title": "Bijna 400 ontslagen bij chemiebedrijf Vynova door faillissement: &quot;In 7 jaar ging 317 miljoen euro winst naar aandeelhouders, waar is dat geld naartoe?&quot;",
-          "source": "DeWereldMorgen",
-          "url": "https://www.dewereldmorgen.be/artikel/2026/11/20/bijna-400-ontslagen-bij-chemiebedrijf-vynova-door-faillissement-in-7-jaar-ging-317-miljoen-euro",
-          "publishedDate": "Fri, 20 Nov 2026 08:31:00 GMT",
-          "description": "&quot;Er staat gewoon iemand met een bijl en die leest een papier af: 'Je bent erbij, je bent er niet bij. Dat is wel een hele impact.&quot; Hans De Hondt behoort tot de 206 van de ongeveer 600 werknemers die n ..."
+          "title": "Liverpool vs Manchester United: Voorspelling, Tips en Odds | Premier League",
+          "source": "Eurosport",
+          "url": "https://www.eurosport.nl/weddenschappen/voorspellingen/liverpool-vs-manchester-united-voorspelling-tips-en-odds-premier-league-22-11-26/",
+          "publishedDate": "Sat, 21 Nov 2026 19:31:00 GMT",
+          "description": "United neemt met 193 schoten de meeste van alle teams in de competitie, maar zet slechts 7,3 procent daarvan om, waardoor &#233;&#233;n tegentreffer waarschijnlijker is dan twee. Liverpool kan op zijn beurt ..."
         },
         {
-          "title": "Faillissement handelsbedrijf bijna afgerond, 'op korte termijn' uitkering aan schuldeisers",
-          "source": "AGF.nl",
-          "url": "https://www.agf.nl/article/9894830/faillissement-handelsbedrijf-bijna-afgerond-op-korte-termijn-uitkering-aan-schuldeisers/",
-          "publishedDate": "Fri, 20 Nov 2026 04:09:00 GMT",
-          "description": "De curator in het faillissement van Jager Holland en WTG Logistics heeft besloten over te gaan tot afwikkeling van het faillissement van het handelsbedrijf en de daaraan ..."
+          "title": "Van Dijk schrijft geschiedenis in duel tegen Manchester United en pakt bijzonder record",
+          "source": "Voetbalzone",
+          "url": "https://www.voetbalzone.nl/nieuws/van-dijk-schrijft-geschiedenis-in-duel-tegen-manchester-united-en-pakt-bijzonder-record/blt6ce5223beb9321a9",
+          "publishedDate": "Sat, 21 Nov 2026 19:31:00 GMT",
+          "description": "Virgil van Dijk treft zondagmiddag met Liverpool Manchester United. De Oranje-international heeft tijdens de North West Derby een bijzonder record te pakken. Met zijn 35 jaar en 137 dagen wordt Van Di ..."
         },
         {
-          "title": "Faillissement voor bedrijf dat grote landbouwmachines maakt: ‘Technische parel, bekend in heel Nederland &#233;n daarbuiten’",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/neder-betuwe/faillissement-voor-bedrijf-dat-grote-landbouwmachines-maakt-technische-parel-bekend-in-heel-nederland-en-daarbuiten~ac932761/",
-          "publishedDate": "Fri, 20 Nov 2026 01:13:00 GMT",
-          "description": "Het zat al een paar jaar financieel niet lekker, maar nu is dan toch echt het doek gevallen voor Vredo. De bouwer van grote, specialistische landbouwmachines in Dodewaard is failliet verklaard."
+          "title": "Jacks Liverpool – Manchester United odds boost: 100x Dubbele kans Man utd",
+          "source": "Squawka",
+          "url": "https://www.squawka.com/nl/betting-acties/jacks-liverpool-manchester-united-odds-boost-100x-dubbele-kans/",
+          "publishedDate": "Fri, 20 Nov 2026 02:43:00 GMT",
+          "description": "Jacks heeft een mooie odds boost op Liverpool - Manchester United. Wed op &quot;dubbele kans&quot; Man utd en pak een 100x odds boost!"
         },
         {
-          "title": "Nederlandse maker van fatbikes Knaap is failliet",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/economie/nederlandse-maker-van-fatbikes-knaap-is-failliet",
-          "publishedDate": "Thu, 19 Nov 2026 05:18:00 GMT",
-          "description": "TER AAR (ANP) - De Nederlandse fatbikemaker Knaap Bikes is failliet. Dat bevestigt curator Wouter Vlasveld na berichtgeving van RTL Z. Het bestuur van het in 2019 opgerichte bedrijf stelt dat het uitb ..."
-        },
-        {
-          "title": "Uitstel van betaling bij Vynova leidt tot faillissement",
-          "source": "L1 Nieuws",
-          "url": "https://www.l1nieuws.nl/nieuws/3274231/uitstel-van-betaling-bij-vynova-leidt-tot-faillissement",
-          "publishedDate": "Wed, 18 Nov 2026 04:04:00 GMT",
-          "description": "De uitstel van betaling bij LVM, het bedrijf dat een doorstart van Vynova in Beek mogelijk moest maken, heeft niet tot het gewenste resultaat geleid. Doordat de productie in Belgi&#235; stil ligt, kon het ..."
-        },
-        {
-          "title": "Faillissement voormalig exploitanten BC.GAME op Cura&#231;ao opgeheven",
-          "source": "CasinoNieuws.nl",
-          "url": "https://www.casinonieuws.nl/online/faillissement-voormalig-exploitanten-bc-game-op-curacao-opgeheven/",
-          "publishedDate": "Wed, 18 Nov 2026 01:34:00 GMT",
-          "description": "Bijna twee jaar nadat de Cura&#231;aose bedrijven achter BC.GAME failliet werden verklaard, zijn de faillissementen opgeheven."
-        },
-        {
-          "title": "Accountant ‘misbruikt positie’ bij aanvraag faillissement vennootschap van veroordeelde gedeputeerde",
-          "source": "AccountantWeek.nl",
-          "url": "https://accountantweek.nl/artikel/accountant-misbruikt-positie-bij-aanvraag-faillissement-vennootschap-van-veroordeelde-gedeputeerde/",
-          "publishedDate": "Tue, 17 Nov 2026 08:14:00 GMT",
-          "description": "Faillissement gebruiken om openstaande facturen uit 2012, 2013, 2014 en 2015 betaald te krijgen. Omdat zijn cli&#235;nt was veroordeeld tot een celstraf wegens ambtelijke corruptie wachtte de accountant ui ..."
-        },
-        {
-          "title": "Paprika maakt online doorstart in vijf landen na faillissement",
-          "source": "FashionUnited",
-          "url": "https://fashionunited.nl/nieuws/retail/paprika-maakt-online-doorstart-in-vijf-landen-na-faillissement/2026111671463",
-          "publishedDate": "Mon, 16 Nov 2026 05:40:00 GMT",
-          "description": "Na een faillissement maakt het Belgische modemerk Paprika een online doorstart in vijf landen. De fysieke winkels blijven gesloten."
-        },
-        {
-          "title": "Grote vakbondsactie voor verwacht faillissement Vynova in Tessenderlo: ontslag dreigt voor 600 werknemers",
-          "source": "VRT",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/vynova-tessenderlo-ham-actie-vakbond-faillissement/",
-          "publishedDate": "Mon, 09 Nov 2026 03:06:00 GMT",
-          "description": "Vakbonden ACV en ABVV voeren vandaag actie voor het mogelijke faillissement van chemiebedrijf Vynova in Tessenderlo-Ham. Vynova zit al lang in slechte papieren en de vakbond vreest dat morgen het fail ..."
-        }
-      ]
-    },
-    {
-      "keyword": "bedrijfsarts",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "‘Ernstig fysiek beperkte’ medewerker McDonald’s stapt na bezoek bedrijfsarts uit rolstoel: ontslag volgens rechter terecht",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/ernstig-fysiek-beperkte-medewerker-mcdonald-s-stapt-na-bezoek-bedrijfsarts-uit-rolstoel-ontslag-volgens-rechter-terecht~bbf15f13/",
-          "publishedDate": "Wed, 18 Nov 2026 09:35:00 GMT",
-          "description": "Een medewerker van een filiaal van McDonald’s is volgens de Amsterdamse kantonrechter terecht op staande voet ontslagen. De man gaf bij de bedrijfsarts aan dat hij ernstig fysiek beperkt was, maar uit ..."
-        },
-        {
-          "title": "De bedrijfsarts: vriend of vijand?",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2011/03/09/de-bedrijfsarts-vriend-of-vijand-12003205-a1151153",
-          "publishedDate": "Tue, 08 Mar 2011 16:00:00 GMT",
-          "description": "In een recente FNV-enqu&#234;te oordelen werknemers hard over de bedrijfsarts. Een verlengstuk van de werkgever en een verzuimcontroleur is hij in hun ogen. Wat doet de bedrijfsarts eigenlijk? Zes vragen."
-        },
-        {
-          "title": "McDonald’s-medewerker ontslagen na opvallend rolstoelbezoek aan bedrijfsarts",
-          "source": "actueel365.nl",
-          "url": "https://actueel365.nl/mcdonalds-medewerker-ontslagen-rolstoel-bedrijfsarts-rechter",
-          "publishedDate": "Sat, 21 Nov 2026 21:05:00 GMT",
-          "description": "Een medewerker van McDonald’s verscheen in een rolstoel bij de bedrijfsarts, maar liep kort daarna op eigen benen weg. Rechercheurs filmden het opvallende ..."
-        },
-        {
-          "title": "McDonald's-medewerker verschijnt in rolstoel bij bedrijfsarts, maar camerabeelden kosten hem zijn baan",
-          "source": "Panorama on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/mcdonalds-medewerker-verschijnt-in-rolstoel-bij-bedrijfsarts-maar-camerabeelden-kosten-hem-zijn-baan/ar-AA2hQMrY",
-          "publishedDate": "Fri, 20 Nov 2026 03:10:00 GMT",
-          "description": "Een McDonald's-medewerker die in een rolstoel bij de bedrijfsarts verscheen, is na ruim elf jaar zijn baan kwijt. Zijn werkgever vertrouwde de boel niet helemaal en schakelde een recherchebureau in. W ..."
-        },
-        {
-          "title": "Second opinion bij de bedrijfsarts: wat moeten werkgevers regelen?",
-          "source": "vnpf.nl",
-          "url": "https://vnpf.nl/nieuws/second-opinion-bij-de-bedrijfsarts-wat-moeten-werkgevers-regelen/",
-          "publishedDate": "Thu, 19 Nov 2026 07:27:00 GMT",
-          "description": "Wanneer een werknemer het niet eens is met een medisch advies van de bedrijfsarts, kan een second opinion helpen om de situatie opnieuw te laten beoordelen. Dit recht is onder meer van toepassing op ..."
-        },
-        {
-          "title": "Second opinion bij de bedrijfsarts: wat moet de werkgever regelen?",
-          "source": "HR Praktijk",
-          "url": "https://www.hrpraktijk.nl/medewerker/ziekteverzuim/second-opinion-bij-de-bedrijfsarts-wat-moet-de-werkgever-regelen/",
-          "publishedDate": "Mon, 16 Nov 2026 06:02:00 GMT",
-          "description": "Een werknemer is het niet eens met het advies van de bedrijfsarts en vraagt om een second opinion. Bij werkgevers gaat het dan vaak op twee punten mis. HR probeert de aanvraag zelf te regelen, of de ..."
-        },
-        {
-          "title": "Bedrijfsarts inschakelen bij ziekte: dit zijn je taken en grenzen",
-          "source": "PW.",
-          "url": "https://www.pwnet.nl/54897/bedrijfsarts-inschakelen-bij-ziekte-dit-zijn-je-taken-en-grenzen",
-          "publishedDate": "Sun, 15 Nov 2026 16:00:00 GMT",
-          "description": "De bedrijfsarts speelt een sleutelrol in ziekteverzuim. Ontdek hoe je deze samenwerking optimaal kunt benutten voor een vlotte re-integratie."
-        },
-        {
-          "title": "Geen bedrijfsarts beschikbaar? Hoe werk je toch aan de inzetbaarheid? Met taakdelegatie",
-          "source": "HR Praktijk",
-          "url": "https://www.hrpraktijk.nl/medewerker/ziekteverzuim/geen-bedrijfsarts-beschikbaar-hoe-werk-je-toch-aan-de-inzetbaarheid-met-taakdelegatie/",
-          "publishedDate": "Mon, 16 Oct 2023 03:04:00 GMT",
-          "description": "Met taakdelegatie door de bedrijfsarts wordt geborgd dat de arbeidsongeschikte werknemer tijdens de re-integratie de juiste begeleiding krijgt waarbij de taakgedelegeerde oog kan hebben voor de ..."
-        },
-        {
-          "title": "Berisping bedrijfsarts – werknemer onprofessioneel en onheus behandeld",
-          "source": "salarisvanmorgen",
-          "url": "https://www.salarisvanmorgen.nl/2023/05/08/berisping-bedrijfsarts-werknemer-onprofessioneel-en-onheus-behandeld/",
-          "publishedDate": "Mon, 08 May 2023 02:12:00 GMT",
-          "description": "De werknemer verwijt de bedrijfsarts dat hij hem onheus en onprofessioneel heeft bejegend tijdens het consult. De klacht tegen de bedrijfsarts is gegrond. Een andere klacht is dat de bedrijfsarts ..."
-        },
-        {
-          "title": "NVAB: Bedrijfsarts kiest positie",
-          "source": "medischcontact.nl",
-          "url": "https://www.medischcontact.nl/actueel/laatste-nieuws/artikel/nvab-bedrijfsarts-kiest-positie",
-          "publishedDate": "Tue, 08 May 2007 11:47:00 GMT",
-          "description": "Op 4 april 2007 ging de Algemene Ledenvergadering van de NVAB met algemene stemmen akkoord met de positioneringsnota De bedrijfsarts: dokter en adviseur . Daarmee heeft de NVAB een aantal duidelijke ..."
+          "title": "Waar en hoe laat wordt Liverpool - Manchester United uitgezonden?",
+          "source": "VoetbalNieuws.nl",
+          "url": "https://www.voetbalnieuws.nl/nieuws/2160130/waar-en-hoe-laat-wordt-liverpool-manchester-united-uitgezonden.html",
+          "publishedDate": "Wed, 18 Nov 2026 04:46:00 GMT",
+          "description": "Liverpool en Manchester United staan zondag tegenover elkaar in een van de grootste wedstrijden van het Engelse voetbal. De ontmoeting op Anfield krijgt extra lading door het debuut van Mauricio Poche ..."
         }
       ]
     }
