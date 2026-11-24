@@ -1,98 +1,174 @@
 {
-  "fetchedAt": "2026-11-23T13:24:47.164Z",
+  "fetchedAt": "2026-11-24T01:05:44.013Z",
   "trends": [
     {
-      "keyword": "liverpool - man utd",
+      "keyword": "nvidia stock",
+      "trafficLabel": "50K+",
+      "articles": [
+        {
+          "title": "Nvidia's stock surges more than 30% on Jensen Huang's return. Will it get back to $200?",
+          "source": "The Motley Fool on MSN",
+          "url": "https://www.msn.com/en-us/news/other/nvidias-stock-surges-more-than-30-on-jensen-huangs-return-will-it-get-back-to-200/ar-AA2i5d6c",
+          "publishedDate": "Mon, 23 Nov 2026 16:40:02 GMT",
+          "description": "On Monday, the company announced that Huang is back as CEO, after resigning just a few weeks earlier."
+        },
+        {
+          "title": "Nvidia stock surges 31% on CEO Jensen Huang's return",
+          "source": "The Chosun Ilbo on MSN",
+          "url": "https://www.msn.com/en-xl/news/other/nvidia-stock-surges-31-on-ceo-jensen-huangs-return/ar-AA2i52MR",
+          "publishedDate": "Mon, 23 Nov 2026 16:21:56 GMT",
+          "description": "Nvidia’s announcement of CEO Jensen Huang’s return triggered a surge in U.S. stock markets. Nvidia’s stock price soared 31%, and major tech stocks, which had experienced sharp corrections due to ..."
+        },
+        {
+          "title": "Nvidia’s stock was falling. Here's why one investor is buying more",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-falling-heres-why-003519855.html",
+          "publishedDate": "Mon, 23 Nov 2026 16:00:00 GMT",
+          "description": "Nvidia’s sell-off rattled AI investors, but Deepwater’s Gene Munster sees an opportunity. Here’s why he’s buying more shares despite the risks."
+        },
+        {
+          "title": "US stocks soar and recover more than half of last week’s plunge after Jensen Huang returns to Nvidia",
+          "source": "KMVT",
+          "url": "https://www.kmvt.com/2026/11/23/us-stocks-soar-recover-more-than-half-last-weeks-plunge-after-jensen-huang-returns-nvidia/",
+          "publishedDate": "Mon, 23 Nov 2026 11:04:00 GMT",
+          "description": "NEW YORK (AP) — Nvidia is leading a tremendous rally on Wall Street Monday following the surprise return of Jensen Huang, the charismatic backer of the entire artificial intelligence industry, as its ..."
+        },
+        {
+          "title": "Nvidia Is on the Verge of Buying Another AI Startup for $500 Million. What This Means for NVDA Stock.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-verge-buying-another-ai-173050773.html",
+          "publishedDate": "Mon, 23 Nov 2026 09:30:00 GMT",
+          "description": "Nvidia Is on the Verge of Buying Another AI Startup for $500 Million. What This Means for NVDA Stock."
+        },
+        {
+          "title": "Jensen Huang Is Back. Is It Safe To Buy Nvidia Stock Now?",
+          "source": "AOL",
+          "url": "https://www.aol.com/articles/jensen-huang-back-safe-buy-163415000.html",
+          "publishedDate": "Mon, 23 Nov 2026 08:33:00 GMT",
+          "description": "Investors wondering how much Jensen Huang was worth to Nvidia (NASDAQ:NVDA) got their answer Monday morning. Nvidia stock jumped 30% at the open, adding roughly $1 trillion to the ..."
+        },
+        {
+          "title": "Nvidia Stock Soars on News of Jensen Huang's Return. Here's What It Means for Investors.",
+          "source": "AOL",
+          "url": "https://www.aol.com/articles/nvidia-stock-soars-news-jensen-162702000.html",
+          "publishedDate": "Mon, 23 Nov 2026 08:27:00 GMT",
+          "description": "Nvidia (NASDAQ:NVDA) shocked the investing world today, announcing the reinstatement of Jensen Huang as president, CEO, and board member. The news sent Nvidia stock soaring. It gained about $1 ..."
+        }
+      ]
+    },
+    {
+      "keyword": "huishouden",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Manchester United dieper in crisis door verlies bij Liverpool na vroege rode kaart",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/voetbal/6417442/manchester-united-dieper-in-crisis-door-verlies-bij-liverpool-na-vroege-rode-kaart.html",
-          "publishedDate": "Sun, 22 Nov 2026 11:22:00 GMT",
-          "description": "Manchester United heeft zondag andermaal een pijnlijke nederlaag geleden in de Premier League. De ploeg van de debuterende coach Maurico Pochettino verloor na een vroege rode kaart met 4-0 bij Liverpo ..."
+          "title": "Actieplan moet ‘bizar lange’ wachtlijsten voor hulp bij het huishouden indammen",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/amsterdam/actieplan-moet-bizar-lange-wachtlijsten-voor-hulp-bij-het-huishouden-indammen~b16134a5/",
+          "publishedDate": "Wed, 05 Jul 2023 09:57:00 GMT",
+          "description": "Actieplan moet ‘bizar lange’ wachtlijsten voor hulp bij het huishouden indammen De wachttijden voor hulp bij het huishouden kunnen in Zuid en West oplopen tot achttien maanden. Een actieplan met 29 ..."
         },
         {
-          "title": "Kansloos ManUnited onderuit bij rivaal Liverpool: Mauricio Pochettino beleeft nachtmerriedebuut",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/voetbal/kansloos-manunited-onderuit-bij-rivaal-liverpool-mauricio-pochettino-beleeft-nachtmerriedebuut~a39fc3e4/",
-          "publishedDate": "Sun, 22 Nov 2026 01:43:00 GMT",
-          "description": "Liverpool heeft Mauricio Pochettino een nachtmerriedebuut bezorgd bij Manchester United. Door een vroege rode kaart voor Leny Yoro gingen The Red Devils op Anfield kansloos onderuit (4-0). De kersvers ..."
+          "title": "Huishouden in Deventer kan ruim 3.000 euro besparen met warmtepomp",
+          "source": "Salland1",
+          "url": "https://www.salland1.nl/huishouden-in-deventer-kan-ruim-3-000-euro-besparen-met-warmtepomp/",
+          "publishedDate": "Sat, 21 Nov 2026 05:56:00 GMT",
+          "description": "Leestijd: &lt; 1 minuutEen gemiddeld huishouden in de gemeente Deventer kan in drie jaar tijd ongeveer 3.066 euro besparen door over te stappen op een volledig elektrische warmtepomp. Dat blijkt uit bere ..."
         },
         {
-          "title": "Liverpool-trainer Iraola blikt vooruit op Club Brugge en doet dat met een klein hartje",
-          "source": "Voetbalkrant.com",
-          "url": "https://www.voetbalkrant.com/nieuws/2026-11-23/liverpool-trainer-iraola-blikt-vooruit-op-club-brugge-en-doet-dat-met-een-klein-hartje",
-          "publishedDate": "Mon, 23 Nov 2026 02:00:00 GMT",
-          "description": "Andoni Iraola beleefde zondag een heerlijke namiddag na de 4-0-zege van Liverpool tegen Manchester United. De Reds richten hun blik nu op de Champions League en een lastige trip naar Club Brugge. De S ..."
+          "title": "Berekening: 'Warmtepomp kan Valkenswaards huishouden ruim 3.300 euro besparen in drie jaar'",
+          "source": "valkenswaard24",
+          "url": "https://www.valkenswaard24.nl/artikel/berekening-warmtepomp-kan-valkenswaards-huishouden-ruim-3-300-euro-besparen-in-drie-jaar~eghwj4/",
+          "publishedDate": "Fri, 20 Nov 2026 03:11:00 GMT",
+          "description": "Een gemiddeld huishouden in de gemeente Valkenswaard kan in drie jaar tijd 3.321 euro besparen door over te stappen op een volledig elektrische warmtepomp. Daarmee kan ongeveer 39 procent van de gesch ..."
         },
         {
-          "title": "De Ligt onder vuur in Engeland na nieuwe negatieve mijlpaal Man Utd",
-          "source": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/de-ligt-onder-vuur-in-engeland-na-nieuwe-negatieve-mijlpaal-man-utd",
-          "publishedDate": "Mon, 23 Nov 2026 01:46:00 GMT",
-          "description": "Matthijs de Ligt moet het behoorlijk ontgelden in Engeland na de pijnlijke nederlaag van Manchester United bij Liverpool . The Mancunians zijn bezig aan een historische slechte reeks en incasseerden d ..."
+          "title": "Warmtepomp kan huishouden in Lopik duizenden euro’s besparen",
+          "source": "omroeplekstroom.nl",
+          "url": "https://omroeplekstroom.nl/warmtepomp-kan-huishouden-in-lopik-duizenden-euros-besparen/",
+          "publishedDate": "Tue, 17 Nov 2026 16:00:00 GMT",
+          "description": "LOPIK – Een warmtepomp kan voor huishoudens in Lopik een flinke besparing opleveren. Een gemiddeld huishouden kan bij de huidige energieprijzen in drie jaar tijd bijna 3.500 euro besparen. Daar staat ..."
         },
         {
-          "title": "Keane gaat los op spelers Man Utd na volgende dreun op Anfield",
-          "source": "Voetbal International on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/keane-gaat-los-op-spelers-man-utd-na-volgende-dreun-op-anfield/ar-AA2i1OA7",
-          "publishedDate": "Sun, 22 Nov 2026 22:58:00 GMT",
-          "description": "Voormalig Manchester United-aanvoerder Roy Keane had geen goed woord over voor het optreden van Manchester United tegen Liverpool . De analyticus van Sky Sports stelt dat de spelers van Man Utd veel z ..."
+          "title": "Warmtepomp bespaart doorsnee huishouden in Noordoostpolder € 3.295 in drie jaar",
+          "source": "noordoostpolder.nieuws",
+          "url": "https://noordoostpolder.nieuws.nl/zakelijk/warmtepomp-bespaart-doorsnee-huishouden-in-noordoostpolder-3295-in-drie-jaar",
+          "publishedDate": "Tue, 17 Nov 2026 12:06:00 GMT",
+          "description": "Een doorsnee huishouden in de gemeente Noordoostpolder kan bij de huidige energieprijzen in drie jaar tijd 3.295 euro besparen door over te stappen op een volledig elektrische warmtepomp. Daarmee wor."
         },
         {
-          "title": "Dramatisch debuut Pochettino bij Man United: horrordag voor De Ligt in Liverpool",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/dramatisch-debuut-pochettino-bij-man-united-horrordag-voor-de-ligt-in-liverpool",
-          "publishedDate": "Sun, 22 Nov 2026 11:26:00 GMT",
-          "description": "Manchester United heeft zondag een pijnlijke nederlaag geleden op bezoek bij Liverpool. Bij het debuut van trainer Mauricio Pochettino gingen de bezoekers op Anfield met 4-0 onderuit. Matthijs de Ligt ..."
+          "title": "Maak je huishouden slimmer met deze accessoires",
+          "source": "iCulture",
+          "url": "https://www.iculture.nl/gids/smart-home-apparaten-huishouden/",
+          "publishedDate": "Mon, 16 Nov 2026 16:00:00 GMT",
+          "description": "Wil je je huishouden slimmer maken, dan zijn er tegenwoordig meer opties dan je denkt. Van vleesthermometer tot wasmachine en koffiezetter: alles is op afstand te bedienen en te programmeren vanaf je ..."
         },
         {
-          "title": "Liverpool veegt de vloer aan met Manchester United bij debuut van Pochettino",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/voetbal/liverpool-veegt-de-vloer-aan-met-manchester-united-bij-debuut-van-pochettino/ar-AA2hZ0Ce",
-          "publishedDate": "Sun, 22 Nov 2026 10:22:58 GMT",
-          "description": "Het debuut van Mauricio Pochettino bij Manchester United is uitgelopen op een deceptie. Na een snelle rode kaart veegde Liverpool de vloer aan met het tiental van The Mancunians: 4-0. Matthijs de Ligt ..."
+          "title": "ZinVolt ontwikkelt analyseplatform dat ideale thuisbatterij per huishouden berekent",
+          "source": "Solar Magazine",
+          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45351/zinvolt-ontwikkelt-analyseplatform-dat-ideale-thuisbatterij-per-huishouden-berekent",
+          "publishedDate": "Sun, 15 Nov 2026 16:00:00 GMT",
+          "description": "Energiebedrijf ZinVolt heeft een analyseplatform ontwikkeld dat het werkelijke stroomverbruik van huishoudens meet en vertaalt naar een advies over de juiste opslagcapaciteit van een thuisbatterij."
         },
         {
-          "title": "Liverpool slacht Manchester United mede door 'disasterclass' Matthijs de Ligt helemaal af",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/liverpool-slacht-manchester-united-mede-door-disasterclass-matthijs-de-ligt-helemaal-af/blt3923f6838cd1ceff",
-          "publishedDate": "Sun, 22 Nov 2026 10:22:00 GMT",
-          "description": "Liverpool heeft zondagavond een overtuigende overwinning geboekt op Manchester United (4-0). De ploeg van Andoni Iraola profiteerde optimaal van een vroege rode kaart voor Leny Yoro. Matthijs de Ligt ..."
+          "title": "Klein huishouden bespaart vanaf 2029 tot 200 euro met nieuw stroomtarief",
+          "source": "AD",
+          "url": "https://www.ad.nl/economie/klein-huishouden-bespaart-vanaf-2029-tot-200-euro-met-nieuw-stroomtarief~a3d7899e/",
+          "publishedDate": "Wed, 07 Oct 2026 22:33:00 GMT",
+          "description": "Een klein huishouden bespaart tot 200 euro per jaar als we ons stroomgebruik beter spreiden over de dag. Dat becijfert toezichthouder ACM in een onderzoek naar de invoering van een variabel ..."
         },
         {
-          "title": "Pijnlijk debuut voor Pochettino: Manchester United krijgt na dramatisch openingskwartier alweer realitycheck van Liverpool",
-          "source": "sporza",
-          "url": "https://sporza.be/nl/matches/voetbal/buitenland/eng/premier-league/2026-2027/regulier/11/liverpool-manchester-united-pijnlijk-debuut-voor-pochettino-manchester-united-krijgt-na-dramatisch-openingskwartier-alweer-realitycheck-van-liverpool~1784279829371/",
-          "publishedDate": "Sun, 22 Nov 2026 09:30:00 GMT",
-          "description": "Een nieuwe trainer, een nieuw begin, maar voorlopig vooral de oude problemen. Het debuut van Mauricio Pochettino bij Manchester United is uitgedraaid op een pijnlijke kennismaking met de werkelijkheid ..."
+          "title": "Het huishouden anno 2020: “Huisman zijn? Ik had het zwaar onderschat”",
+          "source": "HLN",
+          "url": "https://www.hln.be/familie/het-huishouden-anno-2020-huisman-zijn-ik-had-het-zwaar-onderschat~a5551ce7/",
+          "publishedDate": "Mon, 19 Oct 2020 23:18:00 GMT",
+          "description": "Vrouwen werken meer dan ooit. Terwijl twintig jaar geleden 50 procent van de vrouwen aan de slag was, is dat nu 61 procent volgens cijfers van Statbel. Ter vergelijking: bij de mannen ligt dat ..."
         },
         {
-          "title": "Van Dijk schrijft geschiedenis in duel tegen Manchester United en pakt bijzonder record",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/van-dijk-schrijft-geschiedenis-in-duel-tegen-manchester-united-en-pakt-bijzonder-record/blt6ce5223beb9321a9",
-          "publishedDate": "Sun, 22 Nov 2026 07:52:00 GMT",
-          "description": "Virgil van Dijk treft zondagmiddag met Liverpool Manchester United. De Oranje-international heeft tijdens de North West Derby een bijzonder record te pakken. Met zijn 35 jaar en 137 dagen wordt Van Di ..."
+          "title": "Onderzoek Pew: Christen leeft in kleiner huishouden dan moslim",
+          "source": "RD",
+          "url": "https://www.rd.nl/artikel/onderzoek-pew-christen-leeft-in-kleiner-huishouden-dan-moslim",
+          "publishedDate": "Fri, 13 Dec 2019 01:38:00 GMT",
+          "description": "Dat blijkt uit cijfers die het Amerikaanse Pew Research Centre donderdag heeft gepresenteerd. Op basis van gegevens uit 130 landen concludeert Pew dat een moslim wereldwijd gemiddeld 6,4 huisgenoten ..."
         }
       ]
     },
     {
       "keyword": "rijden",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Rijden onder invloed van drugs of met valse kentekenplaten: dit was de buit van een politiecontrole in Nieuwegein",
+          "title": "Waarom rijden automobilisten zo tergend langzaam bij het invoegen?",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/nieuwegein/rijden-onder-invloed-van-drugs-of-met-valse-kentekenplaten-dit-was-de-buit-van-een-politiecontrole-in-nieuwegein~a6d8b003/",
-          "publishedDate": "Sun, 15 Nov 2026 05:56:00 GMT",
-          "description": "Van rijden onder invloed van drugs tot het gebruik van valse kentekenplaten: een grootscheepse controle van onder meer politie, douane en Belastingdienst in Nieuwegein leidde onlangs tot zo’n dertig p ..."
+          "url": "https://www.ad.nl/auto/waarom-rijden-automobilisten-zo-tergend-langzaam-bij-het-invoegen~a81fac611/",
+          "publishedDate": "Mon, 23 Nov 2026 11:15:00 GMT",
+          "description": "Het valt Bernard Krab op dat veel automobilisten tegenwoordig met tergend langzame snelheid invoegen op de snelweg. Is hierbij geen minimumsnelheid verplicht, vraagt hij zich af. Onze auto-expert Niek ..."
+        },
+        {
+          "title": "Eurostar naar Parijs bestaat 30 jaar: 'Ons nadeel is dat we op rails rijden'",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/economie/video/bf98084e-c008-4155-a387-1d968977710d/eurostar-naar-parijs-bestaat-30-jaar-ons",
+          "publishedDate": "Sun, 22 Nov 2026 16:00:00 GMT",
+          "description": "De route van Amsterdam naar Parijs met de hogesnelheidstrein bestaat dit jaar 30 jaar. De route is een succes en Eurostar wil op meer steden gaan rijden. Maar nieuwe internationale treinroutes openen, ..."
+        },
+        {
+          "title": "Formule 1 gaat tot vreugde van Verstappen weer rijden met iconische V8-motoren",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2639908-formule-1-gaat-tot-vreugde-van-verstappen-weer-rijden-met-iconische-v8-motoren",
+          "publishedDate": "Tue, 17 Nov 2026 08:57:00 GMT",
+          "description": "De viervoudig wereldkampioen sprak de afgelopen jaren meermaals uit dat hij hoopte op een terugkeer van de V8-motor, die tussen 2006 en 2013 gebruikt werd en bekendstond om zijn scherpe, 'gillende' ge ..."
+        },
+        {
+          "title": "Vakbonden: 4 op 5 bussen rijden niet door staking streekvervoer",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/geldzaken/nieuws/vakbonden-4-op-5-bussen-rijden-niet-door-staking-streekvervoer/ar-AA2i3HJs",
+          "publishedDate": "Mon, 23 Nov 2026 09:24:00 GMT",
+          "description": "UTRECHT (ANP) - Vier op de vijf bussen in het streekvervoer rijden maandag niet door de staking uit onvrede over een nieuwe cao, schatten FNV en CNV. Voor dinsdag verwachten de bonden dat ongeveer eve ..."
         },
         {
           "title": "Meeste bussen en treinen rijden in Twente, ondanks stakingen",
           "source": "De Gelderlander",
           "url": "https://www.gelderlander.nl/enschede/meeste-bussen-en-treinen-rijden-in-twente-ondanks-stakingen~af5959a5/",
-          "publishedDate": "Mon, 23 Nov 2026 01:45:00 GMT",
+          "publishedDate": "Mon, 23 Nov 2026 02:02:00 GMT",
           "description": "Het gaat te ver om te zeggen dat het openbaar streekvervoer in Twente en de Achterhoek volgens dienstregeling rijdt, maar het effect van de stakingen is zeer beperkt. De meeste bussen rijden en ook op ..."
         },
         {
@@ -115,13 +191,55 @@
           "url": "https://www.waterkant.net/suriname/2026/11/21/twee-buschauffeurs-betrapt-op-rijden-over-rijwielpad-direct-openstaande-vonnissen-betaald/",
           "publishedDate": "Fri, 20 Nov 2026 16:00:00 GMT",
           "description": "Twee buschauffeurs in Suriname zijn door de politie betrapt op het rijden over een rijwielpad. Bij de controles kwam ook aan het licht dat beide ..."
+        },
+        {
+          "title": "In dit EU-land moet je straks minimaal 100 rijden, anders krijg je een boete",
+          "source": "Welingelichte Kringen",
+          "url": "https://www.welingelichtekringen.nl/economie/italie-minimumsnelheid-100-linkerbaan",
+          "publishedDate": "Fri, 20 Nov 2026 01:58:00 GMT",
+          "description": "Itali&#235; wil een minimumsnelheid van 100 km/u op de linkerbaan van brede snelwegen. Trager rijden kan straks €40 tot €160 boete kosten."
+        },
+        {
+          "title": "Treinen rijden weer tussen Boxtel en Eindhoven na brand op trein bij station Best",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/eindhoven/treinen-rijden-weer-tussen-boxtel-en-eindhoven-na-brand-op-trein-bij-station-best~a078b8bc/",
+          "publishedDate": "Tue, 17 Nov 2026 10:02:00 GMT",
+          "description": "Bovenop een sprinter bij station Best is dinsdagmiddag brand ontstaan. De brandweer had het vuur snel onder controle. Door het brandje reden tussen Boxtel en Eindhoven Centraal tijdelijk geen sprinter ..."
         }
       ]
     },
     {
       "keyword": "red bull racing",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
+        {
+          "title": "‘Ik heb die race met tranen in mijn ogen gekeken’: jullie kiezen Verstappens meest legendarische overwinning",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/formule-1/ik-heb-die-race-met-tranen-in-mijn-ogen-gekeken-jullie-kiezen-verstappens-meest-legendarische-overwinning~a5fd7e82/",
+          "publishedDate": "Mon, 23 Nov 2026 07:45:00 GMT",
+          "description": "Max Verstappen won in Las Vegas voor de 75ste keer in zijn rijke carri&#232;re een race in de Formule 1. Wat is de mooiste zege volgens onze lezers? We kregen ruim 750 inzendingen: een overzicht van de mee ..."
+        },
+        {
+          "title": "Red Bull doet onderzoek naar zoveelste defect aan wagen tijdens GP",
+          "source": "GPblog NL on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/red-bull-doet-onderzoek-naar-zoveelste-defect-aan-wagen-tijdens-gp/ar-AA2i4o1M",
+          "publishedDate": "Mon, 23 Nov 2026 15:00:00 GMT",
+          "description": "Red Bull zoekt voor de Grand Prix van Qatar uit waarom de voorvleugel van Isack Hadjar in Las Vegas afbrak. Teambaas Laurent Mekies zegt dat het team de Fransman excuses verschuldigd is. Dat is opvall ..."
+        },
+        {
+          "title": "Red Bull begrijpt frustratie Hadjar, verdedigt keuze voor Verstappen",
+          "source": "GPblog on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/motorsport/red-bull-begrijpt-frustratie-hadjar-verdedigt-keuze-voor-verstappen/ar-AA2i3WHX",
+          "publishedDate": "Mon, 23 Nov 2026 07:30:00 GMT",
+          "description": "Laurent Mekies begrijpt de frustraties van Isack Hadjar, die in Las Vegas niet voor de overwinning mocht racen. De teambaas van Red Bull Racing meent echter dat het helpen van Max Verstappen strategis ..."
+        },
+        {
+          "title": "Red Bull-pitmuur totaal verbijsterd door Verstappen: 'Wat was dat?'",
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/nl/f1-nieuws/1093291/red-bull-pitmuur-totaal-verbijsterd-door-verstappen-wat-was-dat/",
+          "publishedDate": "Mon, 23 Nov 2026 06:49:00 GMT",
+          "description": "Red Bull Racing-teambaas Laurent Mekies is na de Grand Prix van Las Vegas vol lof en verbazing over het niveau dat Max Verstappen laat zien. Tijdens een persgesprek met de geschreven media na de race ..."
+        },
         {
           "title": "Red Bull trekt boetekleed aan na dramatische wending: &quot;Dat ligt zeer waarschijnlijk aan ons&quot;",
           "source": "F1 Maximaal",
@@ -137,20 +255,6 @@
           "description": "Max Verstappen en Red Bull Racing hebben met een compleet unieke afstelling het verschil gemaakt tijdens de Grand Prix van Las Vegas. Een uitgebreide analyse van de data toont dat Verstappen zeker nie ..."
         },
         {
-          "title": "Zo houdt Red Bull McLaren achter zich in de strijd om P3: dit moet er in Qatar gebeuren",
-          "source": "GPblog on MSN",
-          "url": "https://www.msn.com/nl-nl/sport/motorsport/zo-houdt-red-bull-mclaren-achter-zich-in-de-strijd-om-p3-dit-moet-er-in-qatar-gebeuren/ar-AA2i0PIg",
-          "publishedDate": "Mon, 23 Nov 2026 00:15:00 GMT",
-          "description": "Red Bull Racing kan de strijd om de derde plaats bij de constructeurs al in Qatar beslissen, maar dan moet bijna alles meezitten. McLaren kan de beslissing op Lusail nooit zelf forceren. Omdat er in Q ..."
-        },
-        {
-          "title": "Voor Red Bull is compute ook een tco-race",
-          "source": "Computable.nl",
-          "url": "https://www.computable.nl/2026/11/20/voor-red-bull-is-compute-ook-een-tco-race/",
-          "publishedDate": "Fri, 20 Nov 2026 09:00:00 GMT",
-          "description": "De Formule 1 staat bekend als een technologische speeltuin waar teams voortdurend investeren in software, simulaties en data-analyse. Toch vormt niet de technologie niet de grootste uitdaging maar kos ..."
-        },
-        {
           "title": "Red Bull Racing",
           "source": "GPblog",
           "url": "https://www.gpblog.com/nl/f1-teams/red-bull-racing",
@@ -158,25 +262,11 @@
           "description": "Formule 1 team Red Bull Racing, is actief met Max Verstappen en Isack Hadjar. Lees het laatste F1-nieuws over Red Bull Racing op GPblog.com ..."
         },
         {
-          "title": "Dit is de mogelijke vervanger van Max Verstappen: Red Bull Racing stelt nieuwe reservecoureur aan",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/formule-1/nieuws/dit-is-de-mogelijke-vervanger-van-max-verstappen-red-bull-racing-stelt-nieuwe-reservecoureur-aan-2026111216105535552/",
-          "publishedDate": "Thu, 12 Nov 2026 09:24:00 GMT",
-          "description": "Red Bull Racing heeft een nieuwe reserverijder aangesteld. De 19-jarige Bulgaar Nikola Tsolov zal in 2027 in de plaats van Max Verstappen of Isack Hadjar rijden wanneer dat nodig is."
-        },
-        {
-          "title": "Tsolov krijgt nieuwe rol bij Red Bull Racing en Racing Bulls",
-          "source": "GPblog",
-          "url": "https://www.gpblog.com/nl/breaking-news/tsolov-krijgt-nieuwe-rol-bij-red-bull-racing",
-          "publishedDate": "Thu, 12 Nov 2026 08:06:00 GMT",
-          "description": "Ludo van Denderen is in zijn functie van autosportjournalist bij GPblog &#233;&#233;n van de grootste nieuwsjagers in de F1-paddock. Van Denderen beschikt over een enorm netwerk en weet dagelijks de bekendste n ..."
-        },
-        {
-          "title": "Racing Bulls neemt belangrijk besluit over oud-teamgenoot Max Verstappen",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/formule-1/nieuws/racing-bulls-neemt-belangrijk-besluit-over-oud-teamgenoot-max-verstappen-2026111211502007470/",
-          "publishedDate": "Thu, 12 Nov 2026 05:01:00 GMT",
-          "description": "Racing Bulls, het zusterteam van Red Bull Racing, heeft zijn coureurs voor volgend seizoen bevestigd. Daarmee komt er eindelijk duidelijkheid over de toekomst van Liam Lawson, wiens zitje maandenlang ..."
+          "title": "Red Bull Laatste F1-nieuws",
+          "source": "https//racingnews365.nl",
+          "url": "https://racingnews365.nl/f1/teams/red-bull/nieuws",
+          "publishedDate": "Fri, 13 Nov 2026 05:52:00 GMT",
+          "description": "Een nieuwe rijdersduo voor Red Bull Racing. De piepjonge Isack Hadjar is de nieuwe teamgenoot van Max Verstappen. Hadjar vervangt Yuki Tsunoda die tot reservecoureur werd gedegradeerd. Verstappen wist ..."
         },
         {
           "title": "Tweede straf dreigt binnen Red Bull Racing na mogelijk wangedrag in de paddock",
@@ -186,403 +276,23 @@
           "description": "Red Bull Racing -coureur Isack Hadjar moet zich zaterdagochtend melden bij de stewards in aanloop naar de Grand Prix van Mexico. De Frans-Algerijnse rijder duwde op vrijdag in de Formule 1-paddock op ..."
         },
         {
-          "title": "De oorsprong van het F1-team van Red Bull Racing",
-          "source": "f1max.nl",
-          "url": "https://f1max.nl/red-bull-racing",
-          "publishedDate": "Sat, 24 Sep 2022 02:07:00 GMT",
-          "description": "Voordat Red Bull Racing in 2005 het daglicht zag als team na een overname, stond het bekend als Jaguar Racing F1 Team. Red Bull Racing is &#233;&#233;n van de jongste teams op de grid en behoort eveneens tot de ..."
-        }
-      ]
-    },
-    {
-      "keyword": "ov staking",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Langere reistijd naar Catharina Ziekenhuis in Eindhoven door staking en werkzaamheden",
-          "source": "ED.nl",
-          "url": "https://www.ed.nl/eindhoven/langere-reistijd-naar-catharina-ziekenhuis-in-eindhoven-door-staking-en-werkzaamheden~ad0a66a4/",
-          "publishedDate": "Mon, 23 Nov 2026 01:12:00 GMT",
-          "description": "Reizigers naar het Catharina Ziekenhuis in Eindhoven krijgen te maken met mogelijke vertraging door een OV-staking en wegwerkzaamheden. Maandag 23 en dinsdag 24 november kunnen bus- en treinritten uit ..."
-        },
-        {
-          "title": "Minder bussen en treinen: week begint met staking streekvervoer",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2640660-minder-bussen-en-treinen-week-begint-met-staking-streekvervoer",
-          "publishedDate": "Sun, 22 Nov 2026 19:00:00 GMT",
-          "description": "Buschauffeurs en machinisten gaan staken vanwege vastgelopen cao-onderhandelingen tussen werkgevers en de vakbonden."
-        },
-        {
-          "title": "Enorme vertraging bij Maastunnel door storing, te hoge vrachtwagens en ov-staking",
-          "source": "Rijnmond",
-          "url": "https://www.rijnmond.nl/nieuws/2286682/enorme-vertraging-bij-maastunnel-door-storing-te-hoge-vrachtwagens-en-ov-staking",
-          "publishedDate": "Mon, 23 Nov 2026 02:00:00 GMT",
-          "description": "Het is maandagochtend al urenlang extreem druk rond de Maastunnel in Rotterdam. Automobilisten lopen flinke vertraging op door een combinatie van problemen. De vertraging loopt op tot een uur."
-        },
-        {
-          "title": "Grote OV-staking legt busverkeer in Groningen grotendeels plat; treinen rijden wel",
-          "source": "Westerwolde Actueel",
-          "url": "https://www.westerwoldeactueel.nl/2026/11/23/grote-ov-staking-legt-busverkeer-in-groningen-grotendeels-plat-treinen-rijden-wel/",
-          "publishedDate": "Mon, 23 Nov 2026 01:48:00 GMT",
-          "description": "GRONINGEN – Reizigers in de stad en provincie Groningen moeten vandaag (maandag 23 november) en morgen (dinsdag 24 november) rekening houden met forse hinder in het openbaar vervoer. Door een landelij ..."
-        },
-        {
-          "title": "Staking streekvervoer in Utrecht: deze bussen en trams rijden wel en niet",
-          "source": "De Utrechtse Internet Courant",
-          "url": "https://www.duic.nl/algemeen/algemeen/61574/staking-streekvervoer-in-utrecht-deze-bussen-en-trams-rijden-wel-en-niet",
-          "publishedDate": "Mon, 23 Nov 2026 01:26:00 GMT",
-          "description": "Er wordt vandaag en morgen gestaakt in het streekvervoer. Dat betekent dat een deel van de bussen en trams in Utrecht niet rijdt. Vervoerder U-OV probeert de belangrijkste en drukste lijnen wel te l.."
-        },
-        {
-          "title": "OV-staking: minder busvervoer in regio Tilburg",
-          "source": "Omroep Tilburg",
-          "url": "https://www.omroeptilburg.nl/regio/tilburg/ov-staking-minder-busvervoer-in-de-regio-tilburg/",
-          "publishedDate": "Mon, 23 Nov 2026 01:18:00 GMT",
-          "description": "Busschauffeurs in de regio Tilburg leggen maandag en dinsdag het werk neer. Hierdoor vallen verschillende ritten uit. Het personeel staakt vanwege vastgelopen cao-onderhandelingen."
-        },
-        {
-          "title": "Effecten ov-staking verschillen per regio, veel uitval in Brabant",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/algemeen/effecten-ov-staking-verschillen-per-regio-veel-uitval-in-brabant",
-          "publishedDate": "Mon, 23 Nov 2026 01:13:00 GMT",
-          "description": "DEN HAAG (ANP) - De gevolgen van de staking in het streekvervoer verschillen per regio. Arriva laat weten dat in de Achterhoek 100 procent van de bussen rijdt, in Limburg en Twente rijdt volgens de ve ..."
-        },
-        {
-          "title": "OV-staking in de Zaanstreek: lang wachten op de bus",
-          "source": "De Orkaan",
-          "url": "https://www.deorkaan.nl/ov-staking-in-de-zaanstreek-lang-wachten-op-de-bus/",
-          "publishedDate": "Mon, 23 Nov 2026 00:11:00 GMT",
-          "description": "Reizigers bij busstation De Vlinder in Zaandam, moesten in sommige gevallen meer dan drie kwartier wachten voordat de bus kwam, die reden maar heel zelden. Ook op station Zaandam moesten busreizigers ..."
-        },
-        {
-          "title": "Opnieuw staking in streekvervoer: maandag en dinsdag kans op uitval",
-          "source": "destadamersfoort.nl",
-          "url": "https://www.destadamersfoort.nl/lokaal/verkeer-en-vervoer/1329937/opnieuw-staking-in-streekvervoer-maandag-en-dinsdag-kans-op-u",
-          "publishedDate": "Sun, 22 Nov 2026 11:40:00 GMT",
-          "description": "[AMERSFOORT] Vakbonden CNV en FNV kondigen een landelijke ov-staking aan op maandag 23 en dinsdag 24 november voor het streekvervoer. De vakbonden hebben aangekondigd de komende periode vaker te sta.."
-        },
-        {
-          "title": "Mogelijk rituitval streekvervoer in Frysl&#226;n vanwege landelijke ov-staking",
-          "source": "grootsneek",
-          "url": "https://www.grootsneek.nl/nieuws/algemeen/150149/gevolgen-staking-streekvervoer-in-fryslan-lijken-mee-te-vallen-qbuzz-houdt-wel-rekening-met-rituitval",
-          "publishedDate": "Sun, 22 Nov 2026 04:01:00 GMT",
-          "description": "FRYSLAN - Reizigers in Frysl&#226;n moeten maandag 23 en dinsdag 24 november rekening houden met uitvallende busritten. Vakbonden FNV en CNV hebben een landelijke tweedaagse staking in het streekvervoer.."
-        }
-      ]
-    },
-    {
-      "keyword": "november",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Al vroeg in het seizoen winters: koudste november sinds 1998 in zicht",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/weer/artikel/5666657/koudste-november-sinds-1998-zicht-hebben-we-de-herfst-overgeslagen",
-          "publishedDate": "Mon, 23 Nov 2026 04:05:00 GMT",
-          "description": "November stevent mogelijk af op de koudste editie in 28 jaar. Afgelopen nacht kwam het lokaal tot 10 graden vorst aan de grond en zeker tot zaterdag blijft het koud. Op sommige plekken wordt daarom al ..."
-        },
-        {
-          "title": "Op haar tijdlijn volgde gen Z jongerenprotesten in heel Europa. Nu gaan ze tegelijkertijd de straat op: ‘Dit wordt het startschot voor een studentenopstand’",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/11/19/op-hun-tijdlijn-volgde-gen-z-jongerenprotesten-in-heel-europa-nu-gaan-ze-tegelijkertijd-de-straat-op-dit-wordt-het-startschot-voor-een-studentenopstand-a4941715",
-          "publishedDate": "Thu, 19 Nov 2026 08:49:00 GMT",
-          "description": "Protesten: Op vrijdag 20 november gaan jongeren in verschillende Europese landen protesteren. Waarom precies? NRC spreekt initiatiefnemers uit Nederland, het VK, Itali&#235; en Portugal. „Politici zijn wer ..."
-        },
-        {
-          "title": "November 2026: dit is er deze maand te doen in Utrecht",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/utrecht/november-2026-dit-is-er-deze-maand-te-doen-in-utrecht~a4530d18/",
-          "publishedDate": "Mon, 02 Nov 2026 01:28:00 GMT",
-          "description": "Tijdens de donkere, koude dagen is er een hoop leuks te beleven in Utrecht. Pak je agenda er maar bij, want de keuze is reuze deze maand. Veel plezier!"
-        },
-        {
-          "title": "Belgi&#235; – Itali&#235; kijken – zo volg je de strijd om de kwartfinales (Nations League 15 november)",
-          "source": "Squawka",
-          "url": "https://www.squawka.com/nl/nieuws/nations-league/belgie-italie-kijken-nations-league-15-november/",
-          "publishedDate": "Sun, 15 Nov 2026 01:57:00 GMT",
-          "description": "Vandaag Belgi&#235; - Itali&#235; kijken? De aftrap is zondag 15 november om 20.45 uur. Bekijk de tv-zender en lees hoe je de wedstrijd online volgt."
-        },
-        {
-          "title": "Dit weer is normaal in november",
-          "source": "weeronline",
-          "url": "https://www.weeronline.nl/nieuws/dit-weer-is-normaal-in-november",
-          "publishedDate": "Sat, 14 Nov 2026 22:43:00 GMT",
-          "description": "November is de derde echte herfstmaand. Het is vaak bewolkt en het regent en waait regelmatig. Toch zijn er soms ook fraaie najaarsdagen met geregeld zon en temperaturen ruim boven 10 graden. In de ..."
-        },
-        {
-          "title": "Voor het eerst in november code rood voor sneeuw in Zweden",
-          "source": "Weer.nl on MSN",
-          "url": "https://www.msn.com/nl-nl/weer/meteorologie/voor-het-eerst-in-november-code-rood-voor-sneeuw-in-zweden/ar-AA2hmOBM",
-          "publishedDate": "Fri, 13 Nov 2026 03:32:04 GMT",
-          "description": "In Zweden en Finland gelden vrijdag 13 november oranje en gele waarschuwingen wegens hevige sneeuwval. Op donderdag gold voor het eerst sinds 2021 code rood."
-        },
-        {
-          "title": "Leuke dingen om te doen in november in Den Haag: van shoppen tot schaatsen",
-          "source": "indebuurt",
-          "url": "https://indebuurt.nl/den-haag/doen/uittips/leuke-dingen-om-te-doen-in-november-in-den-haag-van-shoppen-tot-schaatsen~a7ee2f0e/",
-          "publishedDate": "Mon, 02 Nov 2026 09:30:00 GMT",
-          "description": "Van schaatsen op Scheveningen tot de intocht van Sinterklaas: in november is er genoeg te doen in Den Haag! Hier een overzicht van leuke uitjes voor de maand november in Den Haag ..."
-        },
-        {
-          "title": "November – De oorsprong van slachtmaand en jachtmaand",
-          "source": "Griekse",
-          "url": "https://historiek.net/november-slacht-of-jachtmaand/54467/",
-          "publishedDate": "Sun, 01 Nov 2026 23:46:00 GMT",
-          "description": "Hiervan is slachtmaand de meest gebruikelijke bijnaam, omdat vooral in deze maand op boerderijen vaak een varken geslacht werd als voedselvoorraad voor de komende winter. Dit gebeuren heeft Casper ..."
-        },
-        {
-          "title": "November 2026: dit is er deze maand te doen in Tilburg",
-          "source": "indebuurt",
-          "url": "https://indebuurt.nl/tilburg/doen/uittips/november-2026-dit-is-er-deze-maand-te-doen-in-tilburg~aec37f03/",
-          "publishedDate": "Sat, 31 Oct 2026 09:00:00 GMT",
-          "description": "November zit bomvol leuke evenementen. Van Sinterklaas, Elf-Elf, kunst, een wijnfestival en winterse activiteiten. November in Tilburg wil je niet missen."
-        },
-        {
-          "title": "November 2026: dit is er deze maand te doen in Nijmegen",
-          "source": "Gelderlander",
-          "url": "https://www.gelderlander.nl/nijmegen/november-2026-dit-is-er-deze-maand-te-doen-in-nijmegen~a0225c31/",
-          "publishedDate": "Fri, 30 Oct 2026 23:00:00 GMT",
-          "description": "November is zo’n maand waarin je het liefst onder een dekentje kruipt. Maar Nijmegen heeft andere plannen: bockbier, de Sint, MATRIXX-clubnachten en genoeg verhalen om de donkere dagen door te komen."
-        }
-      ]
-    },
-    {
-      "keyword": "wie is de mol",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Frank van Leeuwen en Kim K&#246;tter doen mee aan 27e seizoen Wie is de Mol?",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/media/6417478/frank-van-leeuwen-en-kim-kotter-doen-mee-aan-27e-seizoen-wie-is-de-mol.html",
-          "publishedDate": "Mon, 23 Nov 2026 03:03:00 GMT",
-          "description": "Presentator Frank van Leeuwen, cabaretier Ren&#233; van Meurs en ondernemer Kim K&#246;tter doen mee aan het nieuwe seizoen van Wie is de Mol?. De 27e editie is opgenomen in Engeland."
-        },
-        {
-          "title": "Wie is de Mol? 2027 speelt zich dicht bij huis af: dit zijn de deelnemers",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/artikel/5666659/nieuw-seizoen-wie-de-mol-speelt-zich-af-engeland",
-          "publishedDate": "Mon, 23 Nov 2026 02:39:00 GMT",
-          "description": "Voor het nieuwe seizoen van 'Wie is de Mol?' hoeven de kandidaten dit keer niet de halve wereld over te vliegen. Het 27e seizoen speelt zich namelijk af in Engeland, maakt AVROTROS bekend. Vanaf zater ..."
-        },
-        {
-          "title": "Wie is de Mol? 2027: deze tien BN’ers gaan mee naar Engeland",
-          "source": "Grazia on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/other/wie-is-de-mol-2027-deze-tien-bn-ers-gaan-mee-naar-engeland/ar-AA2i1XVR",
-          "publishedDate": "Mon, 23 Nov 2026 04:20:00 GMT",
-          "description": "Er komt een nieuw seizoen van Wie is de Mol? aan, dus onze zaterdagavonden zijn binnenkort weer bezet. AVROTROS heeft vandaag bekendgemaakt welke tien BN’ers in Engeland op zoek gaan naar de saboteur."
-        },
-        {
-          "title": "Van Kim K&#246;tter tot Marg&#244;t Ros: dit zijn de kandidaten van Wie is de Mol? 2027",
-          "source": "Beau Monde on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/van-kim-k%C3%B6tter-tot-marg%C3%B4t-ros-dit-zijn-de-kandidaten-van-wie-is-de-mol-2027/ar-AA2i2mO0",
-          "publishedDate": "Mon, 23 Nov 2026 04:20:00 GMT",
-          "description": "Wie vertrouw je en wie houdt je voor de gek? Vanaf januari kunnen we weer volop speuren, want de tien deelnemers van Wie is de Mol? 2027 zijn bekendgemaakt."
-        },
-        {
-          "title": "Nieuw seizoen Wie is de Mol? speelt zich af in Engeland",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/nieuw-seizoen-wie-is-de-mol-speelt-zich-af-in-engeland",
-          "publishedDate": "Mon, 23 Nov 2026 03:34:00 GMT",
-          "description": "Het nieuwe seizoen van Wie is de Mol? speelt zich af in Engeland. Naast de hoofdstad Londen doet het populaire spelprogramma ook Brighton en Cornwall aan. De eerste aflevering van de nieuwe reeks is t ..."
-        },
-        {
-          "title": "Trust nobody: dit zijn de kandidaten van het aankomende seizoen van Wie is de Mol?",
-          "source": "Cosmopolitan",
-          "url": "https://www.cosmopolitan.com/nl/entertainment/g74505068/kandidaten-wie-is-de-mol-2027/",
-          "publishedDate": "Mon, 23 Nov 2026 03:31:00 GMT",
-          "description": "Frank van Leeuwen is het vaste gezicht van Goedemorgen Nederland, de dagelijkse ochtendshow van WNL. Daarnaast schuift hij regelmatig aan bij Eva of De Oranjezondag. Ook nam hij deel aan De Slimste ..."
-        },
-        {
-          "title": "Wie is de Mol? gaat op deze datum van start met deze 10 deelnemers",
-          "source": "TVgids.nl",
-          "url": "https://www.tvgids.nl/nieuws/televisie/wie-is-de-mol-startdatum-2027-deze-10-deelnemers-rik-westelaken",
-          "publishedDate": "Mon, 23 Nov 2026 03:12:00 GMT",
-          "description": "Het 27e seizoen van Wie is de Mol? komt eraan en wij kunnen je vandaag vertellen welke tien BN'ers de spannende strijd met elkaar aan zullen gaan. En vanaf wanneer het op tv te zien is. Lees snel verd ..."
-        },
-        {
-          "title": "Kandidaten Wie is de Mol? 2027 bekend: deze tien BN’ers gaan op zoek naar de Mol",
-          "source": "Vriendin",
-          "url": "https://www.vriendin.nl/nieuwtjes/kandidaten-widm-2027-bekend/",
-          "publishedDate": "Mon, 23 Nov 2026 02:18:00 GMT",
-          "description": "Goed nieuws voor alle molloten, want de kandidaten van Wie is de Mol? 2027 zijn eindelijk bekend. Het nieuwe seizoen komt eraan."
-        },
-        {
-          "title": "'Wie is de Mol? 0027': Tien nieuwe kandidaten en &#233;&#233;n saboteur in een metropool van geheimen",
-          "source": "TVvisie",
-          "url": "https://tvvisie.be/nieuws/nederland/wie-is-de-mol-0027-tien-nieuwe-kandidaten-en-een-saboteur-in-een-metropool-van-geheimen_143545/",
-          "publishedDate": "Mon, 23 Nov 2026 02:16:00 GMT",
-          "description": "Tien nieuwe kandidaten en &#233;&#233;n saboteur in een metropool vol geheimen. Zaterdag 2 januari start het 27e seizoen van 'Wie is de Mol?'. Benieuwd naar de eerste aanwijzingen? Lees dan snel verder, want he ..."
-        },
-        {
-          "title": "Wie is de Mol? NPO Start-editie",
-          "source": "NPO",
-          "url": "https://npo.nl/start/serie/wie-is-de-mol-npo-start-editie/meer-informatie",
-          "publishedDate": "Sat, 03 Oct 2026 19:21:00 GMT",
-          "description": "Een groep onbekende Nederlanders begint aan de zoektocht van hun leven waarin niets is wat het lijkt. Wie is de saboteur in hun midden? Wie lukt het de Mol te ontmaskeren? En wie weet het antwoord op ..."
-        }
-      ]
-    },
-    {
-      "keyword": "mokio",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "‘Tegen Feyenoord kan de breedte van Ajax een cruciale factor worden’",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/sport/tegen-feyenoord-kan-de-breedte-van-ajax-een-cruciale-factor-worden~b9b91aa4/",
-          "publishedDate": "Sun, 22 Nov 2026 16:00:00 GMT",
-          "description": "Ajax is goed begonnen aan ‘blok 3’: na een eenvoudige winst op ADO Den Haag (3-0) staat Ajax tweede, een punt achter koploper PSV. Presentator Menno Pot en Paroolverslaggever Daan Sutorius gaan erover ..."
-        },
-        {
-          "title": "VP-voetbalkantine: Het verlies van Mokio gaat puntenverlies opleveren voor Ajax",
-          "source": "Voetbalprimeur on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/vp-voetbalkantine-het-verlies-van-mokio-gaat-puntenverlies-opleveren-voor-ajax/ar-AA2i2rx1",
-          "publishedDate": "Mon, 23 Nov 2026 05:00:00 GMT",
-          "description": "De voetbalkantine is de ideale plek om na de wedstrijd met je vrienden nog even lekker bij te praten en wat te drinken. De VP-Voetbalkantine is een offtopic rubriek waar elk onderwerp mag worden bespr ..."
-        },
-        {
-          "title": "KNVB zwaar onder vuur na Ajax – ADO Den Haag: ‘Schorsen die gast!’",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/jorthy-mokio-blessure-sekou-sylla-henk-spaan-ajax",
-          "publishedDate": "Mon, 23 Nov 2026 04:00:00 GMT",
-          "description": "Columnist Henk Spaan is woest na de zware charge op Jorthy Mokio bij Ajax - ADO Den Haag: 'Schorsen die gast!' Bekijk hier zijn felle uithaal."
-        },
-        {
-          "title": "Historische blamage Feyenoord ondanks record 17-jarige, Mokio in rijtje met Ajax-toptalenten",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/voetbal/historische-blamage-feyenoord-ondanks-record-17-jarige-mokio-in-rijtje-met-ajax-toptalenten~a7d2e6158/",
-          "publishedDate": "Mon, 23 Nov 2026 03:28:00 GMT",
-          "description": "De dertiende speelronde in de VriendenLoterij Eredivisie was ook cijfermatig weer interessant. Op basis van data van Opta zetten we de opvallendste statistieken voor je op een rij."
-        },
-        {
-          "title": "Ajax moet Mokio voorlopig missen: heeft de club wel een een-op-een vervanger?",
-          "source": "Ajax Showtime on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/ajax-moet-mokio-voorlopig-missen-heeft-de-club-wel-een-een-op-een-vervanger/ar-AA2i1PUN",
-          "publishedDate": "Mon, 23 Nov 2026 02:15:00 GMT",
-          "description": "Ajax gaat de afwezigheid van Jorthy Mokio in de komende periode duidelijk voelen. De Belgische Congolees beschikt over bepaalde kwaliteiten die de meeste middenvelders in de selectie van Ajax niet heb ..."
-        },
-        {
-          "title": "Woede om harde overtreding op Mokio bij Ajax – ADO: 'Schorsen die gast!'",
-          "source": "Voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/woede-om-harde-overtreding-op-mokio-bij-ajax-ado-schorsen-die-gast/blt72723ea02be750b0",
-          "publishedDate": "Mon, 23 Nov 2026 00:23:00 GMT",
-          "description": "Henk Spaan heeft in zijn column zijn ongezouten mening gegeven over Ajax – ADO (3-0). Daarbij uitte hij ook kritiek op de overtreding die leidde tot het uitvallen van Jorthy Mokio. “Geen van de namen ..."
-        },
-        {
-          "title": "Ajax vreest flinke tegenvaller: Jorthy Mokio lijkt ernstige blessure op te lopen",
-          "source": "Voetbalprimeur",
-          "url": "https://www.voetbalprimeur.nl/videos/2161770/ajax-wint-van-ado-den-haag-maar-vreest-zware-blessure-jorthy-mokio.html",
-          "publishedDate": "Sun, 22 Nov 2026 15:15:00 GMT",
-          "description": "Ajax had geen kind aan ADO Den Haag in de Johan Cruijff ArenA en wist de Hagenezen met 3-0 te verslaan . Toch was er ook slecht nieuws, want Jorthy Mokio raakte geblesseerd. Na afloop gaf Ajax-trainer ..."
-        },
-        {
-          "title": "Jorthy Mokio baart Ajax zorgen: “Het ziet er heel slecht uit”",
-          "source": "voetbalfocus",
-          "url": "https://voetbalfocus.be/jorthy-mokio-blessurezorgen-ajax-ado-den-haag/",
-          "publishedDate": "Sun, 22 Nov 2026 12:32:00 GMT",
-          "description": "De achttienjarige middenvelder scoorde tegen ADO Den Haag, maar strompelde in de slotfase geblesseerd van het veld."
-        },
-        {
-          "title": "Michel komt met zorgwekkende blessure-update over Mokio richting Klassieker",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/mokio-valt-geblesseerd-uit-bij-ajax-met-klassieker-in-aantocht",
-          "publishedDate": "Sun, 22 Nov 2026 08:40:00 GMT",
-          "description": "Jorthy Mokio valt geblesseerd uit na een harde charge van ADO Den Haag-speler Sekou Sylla. Houdt Ajax-middenvelder een enkelblessure over aan het duel en komt De Klassieker tegen Feyenoord in gevaar?"
-        },
-        {
-          "title": "'Ernstige blessure' voor Ajax-speler Jorthy Mokio (18): 'Het ziet er niet goed uit'",
+          "title": "Opvallend nieuws Red Bull: Max Verstappen ziet Formule 1-legende afhaken",
           "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/eredivisie-voetbal/nieuws/ernstige-blessure-voor-ajax-speler-jorthy-mokio-18-het-ziet-er-niet-goed-uit-2026112215143739833/",
-          "publishedDate": "Sun, 22 Nov 2026 08:14:00 GMT",
-          "description": "Ajax kende sportief gezien een zorgeloze middag tegen ADO Den Haag. De ploeg van M&#237;chel S&#225;nchez kwam al snel op voorsprong en ook nog eens vroeg met een overtal. In de slotfase kreeg Ajax echter een f ..."
-        }
-      ]
-    },
-    {
-      "keyword": "jutta leerdam",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Schaatsen? Jutta Leerdam staat op de golfbaan in LA: 'Future goals'",
-          "source": "Golf.nl",
-          "url": "https://www.golf.nl/nieuws/2026/nov/2311-schaatsster-jutta-leerdam-golft-los-angeles",
-          "publishedDate": "Mon, 23 Nov 2026 03:05:00 GMT",
-          "description": "Jutta Leerdam is een golfer. Dat blijkt uit beelden van Dani&#235;lle Oerlemans die zij deelde via Instagram. Leerdam en Oerlemans speelden onlangs een rondje in Los Angeles."
-        },
-        {
-          "title": "Droomvrouw: Jutta Leerdam poseert prachtig op z&#233;&#233;r tropische vakantiefoto’s",
-          "source": "MAN MAN on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/droomvrouw-jutta-leerdam-poseert-prachtig-op-z%C3%A9%C3%A9r-tropische-vakantiefoto-s/ar-AA20XGp6",
-          "publishedDate": "Mon, 23 Nov 2026 02:52:05 GMT",
-          "description": "Jutta Leerdam geniet van een tropische vakantie in Puerto Rico met haar vriend Jake Paul en deelt superfitte foto’s in bikini op Instagram."
-        },
-        {
-          "title": "Jutta Leerdam verstopte jarenlang d&#237;t deel van haar lichaam: nu is ze er juist trots op",
-          "source": "Startpagina on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/jutta-leerdam-verstopte-jarenlang-d%C3%ADt-deel-van-haar-lichaam-nu-is-ze-er-juist-trots-op/ar-AA2i2jwu",
-          "publishedDate": "Mon, 23 Nov 2026 02:06:38 GMT",
-          "description": "Jutta Leerdam verstopte vroeger haar gespierde benen, nu laat ze ze juist overal zien. De Olympisch kampioen voert op TikTok campagne voor meer sterke vrouwen in de modewereld. Als meisje miste ze een ..."
-        },
-        {
-          "title": "Schaatsicoon Jutta Leerdam (27) krijgt dringend advies: ‘Laat haar dat doen’",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/schaatsen/nieuws/schaatsicoon-jutta-leerdam-27-krijgt-dringend-advies-laat-haar-dat-doen-2026112218430256549/",
-          "publishedDate": "Sun, 22 Nov 2026 12:12:00 GMT",
-          "description": "Schaatsen doet Jutta Leerdam dit seizoen niet, maar stilzitten evenmin. De olympisch kampioene op de 1000 meter is druk met allerlei zaken die niets met de schaatssport te maken hebben. Een Nederlands ..."
-        },
-        {
-          "title": "Jutta Leerdam red kitten van de straat: 'Nieuw gezinslid'",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/entertainment/bners/artikelen/jutta-leerdam-red-kitten-van-de-straat-nieuw-gezinslid",
-          "publishedDate": "Sun, 22 Nov 2026 11:32:00 GMT",
-          "description": "Jutta Leerdam heeft een kitten in huis genomen, nadat ze hem vond in de stromende regen en hij geen familie bleek te hebben."
-        },
-        {
-          "title": "Jutta Leerdam ontwaakt in de lucht en ontwart zichzelf tegen de vacht in",
-          "source": "Mannenzaken",
-          "url": "https://mannenzaken.nl/nieuws/jutta-leerdam-ontwaakt-in-de-lucht-en-ontwart-zichzelf-tegen-de-vacht-in",
-          "publishedDate": "Sun, 22 Nov 2026 06:00:00 GMT",
-          "description": "Jutta Leerdam heeft dit seizoen eindelijk wat meer vrijheid in haar agenda en daar hoort blijkbaar ook de nodige tijd in het vliegtuig bij. Op nieuwe beelden zien we de olympisch kampioene ontwaken va ..."
-        },
-        {
-          "title": "Jutta Leerdam verborg haar gespierde benen eerst, nu wil ze dat de modewereld ze juist viert",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/show/jutta-leerdam-verborg-haar-gespierde-benen-eerst-nu-wil-ze-dat-de-modewereld-ze-juist-viert~aa25716c/",
-          "publishedDate": "Sun, 22 Nov 2026 03:54:00 GMT",
-          "description": "Jutta Leerdam (27) was vroeger helemaal niet blij met haar gespierde benen, deelt de topschaatsster in een nieuwe TikTok-video. Nu laat ze haar atletische stelten overal zien. Ze is bezig met een heus ..."
-        },
-        {
-          "title": "Jutta Leerdam gaat gevecht aan met Norris in opmerkelijke geldstrijd",
-          "source": "GPFans",
-          "url": "https://www.gpfans.com/nl/f1-nieuws/1093016/jutta-leerdam-gaat-strijd-aan-met-norris-uit-in-opmerkelijke-geldstrijd/",
-          "publishedDate": "Wed, 18 Nov 2026 05:36:00 GMT",
-          "description": "Jutta Leerdam en Formule 1-coureur Lando Norris gaan het vanaf januari tegen elkaar opnemen in de Saxo Investment Challenge. In deze op woensdag aangekondigde beleggingscompetitie van de Deense bank ..."
-        },
-        {
-          "title": "Schaatsicoon Jutta Leerdam gaat strijd aan met F1-coureur Lando Norris in bijzondere competitie",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/boulevard/nieuws/schaatsicoon-jutta-leerdam-gaat-strijd-aan-met-f1-coureur-lando-norris-in-bijzondere-competitie-2026111810164091397/",
-          "publishedDate": "Wed, 18 Nov 2026 03:37:00 GMT",
-          "description": "Jutta Leerdam komt dit jaar niet in actie als schaatsster, maar zal binnenkort toch de strijd aangaan met grote internationale sportsterren. Ze neemt het onder anderen op tegen Formule ..."
-        },
-        {
-          "title": "Jutta Leerdam pissig over podcast Ben van der Burg: ‘Z&#243; onzeker!’",
-          "source": "Mediacourant",
-          "url": "https://www.mediacourant.nl/2026/11/jutta-leerdam-pissig-over-podcast-ben-van-der-burg-zo-onzeker/",
-          "publishedDate": "Sun, 08 Nov 2026 01:00:00 GMT",
-          "description": "Jutta Leerdam is pissig over een discussie in de podcast van Vandaag Inside-ster Ben van der Burg, waarin schaatscoach Jillert Anema haar status bagatelliseert. &quot;Oude, onzekere mannen!&quot;, roept ze."
+          "url": "https://sportnieuws.nl/formule-1/nieuws/opvallend-nieuws-red-bull-max-verstappen-ziet-formule-1-legende-afhaken-2025080209424276960/",
+          "publishedDate": "Sat, 02 Aug 2025 05:36:00 GMT",
+          "description": "Helmut Marko bevestigt het nieuws aan F1 Insider. Hij was juist lovend over de mogelijke komst van de Duitse F1-legende. Begin dit jaar noemde Marko de viervoudig wereldkampioen nog zijn ideale ..."
         }
       ]
     },
     {
       "keyword": "patty brard",
-      "trafficLabel": "2K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Patty Brard moet vijf dagen rust houden na botsing, Marly van der Velden showt gloednieuwe pantertrap",
+          "title": "Jutta geniet van het leven en Achmed heeft babynieuws",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/patty-brard-moet-vijf-dagen-rust-houden-na-botsing-marly-van-der-velden-showt-gloednieuwe-pantertrap~a4d15c8f/",
-          "publishedDate": "Mon, 23 Nov 2026 04:50:00 GMT",
+          "url": "https://www.ad.nl/show/jutta-geniet-van-het-leven-en-achmed-heeft-babynieuws~a4d15c8f/",
+          "publishedDate": "Mon, 23 Nov 2026 11:17:00 GMT",
           "description": "Korte updates van de sterren op sociale media: wij smullen ervan. In de rubriek Showbytes struint de showredactie het web voor je af voor de gekste, mooiste en opvallendste posts van bekende Nederland ..."
         },
         {
@@ -593,18 +303,11 @@
           "description": "A ch, de vrije wil, en wat je er al niet mee kunt doen! Afgelopen zaterdagavond keek ik naar het tweede seizoen van Boxing Stars (Videoland), en merkwaardiger nog: afgelopen zaterdagavond deden er ..."
         },
         {
-          "title": "Recensie ‘Patty’: Ju&#237;st die schaamteloosheid maakt Patty Brard zo interessant",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/kunst-media/recensie-patty-juist-die-schaamteloosheid-maakt-patty-brard-zo-interessant~bf5b8b27/",
-          "publishedDate": "Sun, 18 Feb 2024 19:00:00 GMT",
-          "description": "De serie Patty gaat vergezeld van een bijsluiter, zoals dat meestal het geval is met series over het leven van een bestaand persoon. In krom Nederlands staat er: ‘Deze fictieve serie is gebaseerd op ..."
-        },
-        {
-          "title": "Het zoveelste nieuwe leven van Patty Brard",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2020/04/17/het-zoveelste-nieuwe-leven-van-patty-brard-a3997061",
-          "publishedDate": "Fri, 17 Apr 2020 03:49:00 GMT",
-          "description": "Iedereen leest Wekelijks schrijft NRC over de populairste boeken van dit moment. Deze week: Patty, de negen levens van Patty Brard van Michel van Egmond en Antoinette Scheulderman. Michel van Egmond ..."
+          "title": "Patty Brard naar ziekenhuis na ongeluk",
+          "source": "Ditjes en Datjes",
+          "url": "https://www.ditjesendatjes.nl/patty-brard-naar-ziekenhuis-na-ongeluk",
+          "publishedDate": "Mon, 23 Nov 2026 08:01:00 GMT",
+          "description": "Patty Brard heeft een behoorlijk pijnlijk ongeluk achter de rug. De klap was zo hard dat ze naar het ziekenhuis moest."
         },
         {
           "title": "Foto's: zo zag Patty Brard (71) er vroeger uit",
@@ -647,19 +350,337 @@
           "url": "https://www.hln.be/showbizz/biografie-van-patty-brard-doet-heel-nederland-beven-bridget-en-andre-hazes-stonden-al-te-kussen-op-mijn-huwelijk~a4845dc2/",
           "publishedDate": "Wed, 01 Apr 2020 19:51:00 GMT",
           "description": "Voor de gelegenheid van haar 65e verjaardag heeft Patty Brard - U kent ze nog als zangeres van Luv’ en het strenge jurylid in ‘K2 Zoekt K3' - een nieuw boek uit. In ‘De Negen Levens van Patty Brard’ ..."
+        },
+        {
+          "title": "Ook Patty Brard te zien als stand-up comedian",
+          "source": "AD",
+          "url": "https://www.ad.nl/show/ook-patty-brard-te-zien-als-stand-up-comedian~a266a789/",
+          "publishedDate": "Mon, 26 Sep 2016 08:01:00 GMT",
+          "description": "Patty Brard is binnenkort te zien als stand-up comedian. De 'Diva van de Lage Landen', zoals ze vandaag bij de opnamen werd genoemd, is &#233;&#233;n van de deelnemers van Celebrity Stand, een nieuw programma ..."
+        }
+      ]
+    },
+    {
+      "keyword": "vitesse - de graafschap",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "De Graafschap viert zonder uitfans zege op Vitesse: wedstrijd ontsierd door staking en trieste aftocht Leemans",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/de-graafschap-viert-zonder-uitfans-zege-op-vitesse-wedstrijd-ontsierd-door-staking-en-trieste-aftocht-leemans~a0e16a7f/",
+          "publishedDate": "Mon, 23 Nov 2026 14:30:00 GMT",
+          "description": "De Graafschap heeft een belangrijke uitzege geboekt in de Keuken Kampioen Divisie. In Gelredome werd met 0-1 gewonnen van aartsrivaal Vitesse. De wedstrijd werd eerder afgelast, omdat fans van De Graa ..."
+        },
+        {
+          "title": "De Graafschap wint derby van Vitesse na schrik om hoofdblessure Leemans",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/voetbal/6417562/de-graafschap-wint-derby-van-vitesse-na-schrik-om-hoofdblessure-leemans.html",
+          "publishedDate": "Mon, 23 Nov 2026 14:29:00 GMT",
+          "description": "De Graafschaap heeft maandag de beladen Gelderse derby gewonnen. De 'Superboeren' boekten een 0-1-zege op Vitesse. De inhaalwedstrijd in de Keuken Kampioen Divisie werd ontsierd door bekers op het vel ..."
+        },
+        {
+          "title": "Weer supportersproblemen en nare hoofdblessure bij inhaalduel Vitesse-De Graafschap",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2640762-weer-supportersproblemen-en-nare-hoofdblessure-bij-inhaalduel-vitesse-de-graafschap",
+          "publishedDate": "Mon, 23 Nov 2026 11:46:00 GMT",
+          "description": "Het duel in de eerste divisie is maandagavond voor tien minuten stilgelegd nadat er voorwerpen op het veld werden gegooid door fans van de club uit Arnhem."
+        },
+        {
+          "title": "Opnieuw heisa rond derby: Vitesse - De Graafschap tijdelijk gestaakt",
+          "source": "Voetbalprimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2162189/vitesse-de-graafschap-gestaakt.html",
+          "publishedDate": "Mon, 23 Nov 2026 15:59:00 GMT",
+          "description": "De derby tussen Vitesse en De Graafschap is tijdelijk stilgelegd nadat supporters bekers op het veld gooiden. De onrust ontstond nadat Vitesse-spits Naoufal Bannis in het strafschopgebied naar de gron ..."
+        },
+        {
+          "title": "De Graafschap wint inhaalduel bij Vitesse",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/voetbal/de-graafschap-wint-inhaalduel-bij-vitesse",
+          "publishedDate": "Mon, 23 Nov 2026 14:18:00 GMT",
+          "description": "ARNHEM (ANP) - De Graafschap heeft de inhaalwedstrijd in de eerste divisie bij Vitesse met 1-0 gewonnen. Julian Kania kopte in de 82e het enige doelpunt binnen uit een hoekschop. De Graafschap klimt d ..."
+        },
+        {
+          "title": "De Graafschap wint derby bij Vitesse, zorgen over aanvoerder Leemans",
+          "source": "Voetbal International on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/de-graafschap-wint-derby-bij-vitesse-zorgen-over-aanvoerder-leemans/ar-AA2i4UwZ",
+          "publishedDate": "Mon, 23 Nov 2026 14:06:09 GMT",
+          "description": "De derby tussen Vitesse en De Graafschap is maandag gewonnen door de bezoekers. Daardoor deed een ongelooflijke misser van Nouafal Bannis nog eens extra pijn voor Vitesse. Ondertussen zijn er zorgen o ..."
+        },
+        {
+          "title": "Vitesse verliest van De Graafschap in inhaalderby met bizarre misser en grote zorgen om Clint Leemans",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/vitesse-verliest-van-de-graafschap-in-inhaalderby-met-bizarre-misser-en-grote-zorgen-om-clint-leemans/ar-AA2i4nDW",
+          "publishedDate": "Mon, 23 Nov 2026 13:10:31 GMT",
+          "description": "De Gelderse derby tussen Vitesse en De Graafschap is een prooi geworden voor de Doetinchemmers. In een Keuken Kampioen Divisie-duel dat tweemaal langere tijd stil lag, trok De Graafschap door een rake ..."
+        },
+        {
+          "title": "TERUGLEZEN Vitesse-De Graafschap | De Graafschap wint Gelderse derby • Spelers klappen na afloop voor leeg uitvak",
+          "source": "Tubantia",
+          "url": "https://www.tubantia.nl/winterswijk/live-vitesse-de-graafschap-grootste-kansen-voor-vitesse-wedstrijd-even-gestaakt-na-gooien-van-voorwerpen~a078ee48/?slug_rd=1",
+          "publishedDate": "Mon, 23 Nov 2026 12:58:00 GMT",
+          "description": "De Graafschap heeft de Gelderse derby met 0-1 gewonnen. Twee weken geleden werd de Gelderse derby afgelast omdat supporters van De Graafschap de eigen spelersbus tegenhielden. Maandagavond is de wedst ..."
+        },
+        {
+          "title": "Vitesse - De Graafschap na half uur spelen tijdelijk gestaakt",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/vitesse-de-graafschap-na-half-uur-spelen-tijdelijk-gestaakt",
+          "publishedDate": "Mon, 23 Nov 2026 12:36:00 GMT",
+          "description": "De wedstrijd tussen Vitesse en De Graafschap is maandagavond tijdelijk gestaakt na het gooien van bekertjes op het veld. Dat gebeurde na een afgewezen penaltyclaim van Vitesse."
+        },
+        {
+          "title": "Inhaalduel Vitesse – De Graafschap tijdelijk gestaakt",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/in-het-nieuws/sport/2026/11/vitesse-de-graafschap-duel-gestaakt-br/",
+          "publishedDate": "Mon, 23 Nov 2026 11:40:00 GMT",
+          "description": "De wedstrijd tussen Vitesse en De Graafschap werd tijdelijk gestaakt nadat supporters voorwerpen op het veld gooiden."
+        }
+      ]
+    },
+    {
+      "keyword": "moldavië",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "De Moldavische schrijver die de toekomst van Oekraine voorspelt",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/11/19/de-moldavische-schrijver-die-de-toekomst-van-oekraine-voorspelt-a4941665",
+          "publishedDate": "Thu, 19 Nov 2026 00:54:00 GMT",
+          "description": "Het tripartite-overleg tussen de presidenten Trump, Poetin en Xi lijkt vooralsnog niet op de conferentie van Jalta, waar Europa in 1945 in invloedssferen werd verdeeld. De oorlog in Oekra&#239;ne gaat dus ..."
+        },
+        {
+          "title": "Moldavi&#235; stevent af op EU-lidmaatschap: ‘Sinds de oorlog in Oekra&#239;ne zijn we ineens belangrijk’",
+          "source": "PAROOL",
+          "url": "https://www.parool.nl/wereld/moldavie-stevent-af-op-eu-lidmaatschap-sinds-de-oorlog-in-oekraine-zijn-we-ineens-belangrijk~b28109b7/",
+          "publishedDate": "Fri, 01 Aug 2025 13:00:00 GMT",
+          "description": "Op het plein van het Gheorghe Asachi Lyceum in de Moldavische hoofdstad Chisinau kijkt ze, zes meter hoog en fonkelnieuw, met een bijbel in haar hand devoot de wereld in: koningin Maria van Roemeni&#235;, ..."
+        },
+        {
+          "title": "Moldavi&#235; stevent af op EU-lidmaatschap. ‘Sinds de oorlog in Oekra&#239;ne zijn we ineens belangrijk’",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/moldavie-stevent-af-op-eu-lidmaatschap-sinds-de-oorlog-in-oekraine-zijn-we-ineens-belangrijk~b28109b7/",
+          "publishedDate": "Thu, 03 Jul 2025 08:53:00 GMT",
+          "description": "Op het plein van het Gheorghe Asachi Lyceum in de Moldavische hoofdstad Chisinau kijkt ze, zes meter hoog en fonkelnieuw, met een bijbel in haar hand devoot de wereld in: koningin Maria van Roemeni&#235;, ..."
+        },
+        {
+          "title": "Wie asfalteert, maakt in Moldavi&#235; kans om de verkiezingen te winnen",
+          "source": "Trouw",
+          "url": "https://www.trouw.nl/buitenland/wie-asfalteert-maakt-in-moldavie-kans-om-de-verkiezingen-te-winnen~b9ddf5ee/",
+          "publishedDate": "Fri, 03 Nov 2023 14:00:00 GMT",
+          "description": "Wat moet dat hier, bromt de bewaker van pretpark Orheiland. Hij zit duidelijk niet te wachten op de buitenlandse bezoekers vandaag, als duidelijk is dat die niet gekomen zijn voor een ritje in de ..."
+        },
+        {
+          "title": "Rusland beraamde een coup in Moldavi&#235;, aldus president Sandu. Moskou noemt de beschuldiging ‘volstrekt ongegrond’",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2023/02/14/moldavie-zit-klem-tussen-zijn-europese-ambities-en-rusland-a4157082",
+          "publishedDate": "Tue, 14 Feb 2023 07:58:00 GMT",
+          "description": "Moldavi&#235; Een diep economisch dal, stroomtekorten en een „verijdelde coup”: de pro-Europese regering in Moldavi&#235; kampt met vele crises. Het luchtruim van Moldavi&#235; werd dinsdagmiddag ‘om ..."
+        },
+        {
+          "title": "Bijeenkomst in Hoofddorp belicht zakelijke kansen in Moldavi&#235;",
+          "source": "AGF.nl",
+          "url": "https://www.agf.nl/article/9895401/bijeenkomst-in-hoofddorp-belicht-zakelijke-kansen-in-moldavie/",
+          "publishedDate": "Mon, 23 Nov 2026 04:04:00 GMT",
+          "description": "Nederlandse ondernemers kunnen op donderdag 10 december kennismaken met de zakelijke mogelijkheden in Moldavi&#235;. Tijdens het evenement 'Moldova and the Netherlands — Business Opportunities ..."
+        },
+        {
+          "title": "Aardappelprijzen in Moldavi&#235; verdubbelen",
+          "source": "AGF.nl",
+          "url": "https://www.agf.nl/article/9884809/aardappelprijzen-in-moldavie-verdubbelen/",
+          "publishedDate": "Tue, 17 Nov 2026 04:11:00 GMT",
+          "description": "De groothandelsprijzen voor aardappelen in Moldavi&#235; zijn sinds half oktober gestegen. Waar de prijzen eerder uitkwamen op 0,08 tot 0,11 euro per kilo, liggen ze inmiddels op 0,33 tot ..."
+        },
+        {
+          "title": "John van 't Schip ligt enorm onder vuur in Kazachstan: 'Dit is ernstig'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/john-van-t-schip-kritiek-kazachstan-kulshinbayev",
+          "publishedDate": "Mon, 16 Nov 2026 07:00:00 GMT",
+          "description": "Er is 'geen vertrouwen meer' in John van 't Schip bij Kazachstan. Voetbalexpert Almas Kulshinbayev haalt vernietigend uit naar de Nederlandse bondscoach."
+        },
+        {
+          "title": "Buitenlandminister Moldavi&#235;: ‘Europa, maak je los van Rusland, het kan en het moet!’",
+          "source": "BNR Nieuwsradio",
+          "url": "https://www.bnr.nl/nieuws/internationaal/10615590/buitenlandminister-moldavie-europa-maak-je-los-van-rusland-het-kan-en-het-moet",
+          "publishedDate": "Fri, 13 Nov 2026 16:00:00 GMT",
+          "description": "Op de EU-conferentie in de Moldavische hoofdstad Chisinau kon het land alvast dromen van het EU-lidmaatschap. BNR's Europaverslaggever Geert Jan Hahn bezocht het forum en sprak met Mihai Popsoi, de ..."
+        },
+        {
+          "title": "Uitbreiding: EU en Moldavi&#235; onderhandelen verder over toetreding",
+          "source": "consilium.europa",
+          "url": "https://www.consilium.europa.eu/nl/press/press-releases/2026/10/13/enlargement-eu-and-moldova-start-negotiations-on-internal-market-competitiveness-and-inclusive-growth/",
+          "publishedDate": "Tue, 13 Oct 2026 14:22:00 GMT",
+          "description": "De EU en Moldavi&#235; hebben opnieuw een belangrijke stap in het toetredings&#173;proces gezet door de onderhandelings&#173;clusters interne markt en concurrentie&#173;vermogen en inclusieve groei te openen. Clusters ..."
+        }
+      ]
+    },
+    {
+      "keyword": "europese gasprijs",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Voldoende gas in voorraden, geen zorgen over tekorten deze winter",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/binnenland/voldoende-gas-in-voorraden-geen-zorgen-over-tekorten-deze-winter~a49f630e/",
+          "publishedDate": "Mon, 23 Nov 2026 03:30:00 GMT",
+          "description": "De Nederlandse gasvoorraden zijn voldoende gevuld en er zijn geen zorgen over tekorten in de winter, nu door het koude weer in Nederland en Noordwest-Europa de vraag naar gas voor verwarming van wonin ..."
+        },
+        {
+          "title": "Gasprijs stijgt fors door winterweer, en de kou houdt voorlopig aan",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/economie/artikel/5666650/gasprijs-stijgt-door-koude-winterweer",
+          "publishedDate": "Mon, 23 Nov 2026 01:52:00 GMT",
+          "description": "De Europese gasprijs stijgt met 6 procent door kouder winterweer. Op de Amsterdamse gasbeurs kost een megawattuur ruim 93 euro, tegen 88 euro vrijdag."
+        },
+        {
+          "title": "Koud weer en zwakke wind zorgen voor hogere gasprijs",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6417463/koud-weer-en-zwakke-wind-zorgen-voor-hogere-gasprijs.html",
+          "publishedDate": "Mon, 23 Nov 2026 00:12:00 GMT",
+          "description": "De Europese gasprijs is maandagochtend flink gestegen door het koudere weer. Door de lage temperaturen neemt de vraag naar gas voor verwarming van woningen en gebouwen toe."
+        },
+        {
+          "title": "Gasprijs gaat omlaag, loont het om over te stappen?",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/nieuws/economie/artikel/5664530/gasprijs-omlaag-overstappen-niet",
+          "publishedDate": "Wed, 11 Nov 2026 22:01:00 GMT",
+          "description": "De afgelopen weken daalt de prijs van gas op de Europese groothandelsmarkt weer, na een piek eind oktober. Goed nieuws dus voor mensen die een nieuw energiecontract willen afsluiten. Maar is dit wel h ..."
+        },
+        {
+          "title": "Kouder weer doet gasprijs flink stijgen, Nederlandse gasvoorraad gedaald",
+          "source": "BNR Nieuwsradio",
+          "url": "https://www.bnr.nl/nieuws/economie/10616027/kouder-weer-doet-gasprijs-flink-stijgen-nederlandse-gasvoorraad-gedaald",
+          "publishedDate": "Mon, 23 Nov 2026 01:38:00 GMT",
+          "description": "De prijs is nog wel altijd ver verwijderd van de enorme piek van eind 2022 na de Russische invasie van Oekra&#239;ne."
+        },
+        {
+          "title": "Flinke stijging Europese gasprijs door kouder weer",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/geldzaken/nieuws/flinke-stijging-europese-gasprijs-door-kouder-weer/ar-AA2i0P9A",
+          "publishedDate": "Sun, 22 Nov 2026 23:19:07 GMT",
+          "description": "AMSTERDAM (ANP/BLOOMBERG) - De Europese gasprijs is maandagochtend flink gestegen door het koudere weer in het noordwesten van Europa. Daardoor neemt de vraag naar gas voor verwarming van woningen en ..."
+        },
+        {
+          "title": "Bulkschip loopt vast, gasprijs, metaaldiefstal, handelsdeal",
+          "source": "Flows",
+          "url": "https://www.flows.be/varia/2026/11/bulkschip-loopt-vast-gasprijs-metaaldiefstal-handelsdeal/",
+          "publishedDate": "Sun, 22 Nov 2026 16:00:00 GMT",
+          "description": "Het Maltese bulkschip ‘MIRO G’ is door zware weersomstandigheden vastgelopen aan de Franse Atlantische kust, waarbij 19 van de 22 bemanningsleden werden ge&#235;vacueerd. De scheepvaartpolitie heeft bij ee ..."
+        },
+        {
+          "title": "Wat als de Europese gasprijs in Tokio wordt bepaald?",
+          "source": "MarketScreener",
+          "url": "https://nl.marketscreener.com/beursnieuws/wat-als-de-europese-gasprijs-in-tokio-wordt-bepaald-ce785eddd988ff21",
+          "publishedDate": "Wed, 18 Nov 2026 02:35:00 GMT",
+          "description": "Deze winter zou de verwarming van een appartement in Tokio de energierekening van een Duitse fabriek weleens kunnen verlichten. Sinds Europa een groot deel van zijn Russische gaspijpleidingen ..."
+        },
+        {
+          "title": "Gasprijs op hoogste niveau in bijna vier jaar: “Als je nog wil vastklikken, is nu het moment”",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/energie/gasprijs-op-hoogste-niveau-in-bijna-vier-jaar-als-je-nog-wil-vastklikken-is-nu-het-moment~a41fb86e/",
+          "publishedDate": "Mon, 26 Oct 2026 06:38:00 GMT",
+          "description": "De verwarming gaat weer aan, de Europese gasprijs loopt stevig op en de nervositeit op de energiemarkt is groot. Wat doe je nu best met je energiecontract? “Als je nog wil vastklikken, is nu het momen ..."
+        },
+        {
+          "title": "Gasprijs bijna drie keer zo hoog: 'Best zorgelijk'",
+          "source": "Hart van Nederland",
+          "url": "https://www.hartvannederland.nl/economie/geld/artikelen/gasprijs-stijgt-97-euro-gevolgen-huishoudens",
+          "publishedDate": "Mon, 26 Oct 2026 05:34:00 GMT",
+          "description": "De gasprijs stijgt boven de 97 euro per megawattuur. Gasexpert Ren&#233; Peters legt uit wat huishoudens merken en of een vast energiecontract verstandig is."
+        }
+      ]
+    },
+    {
+      "keyword": "wie is de mol 2027 kandidaten",
+      "trafficLabel": "10K+",
+      "articles": [
+        {
+          "title": "Frank van Leeuwen en Kim K&#246;tter doen mee aan 27e seizoen Wie is de Mol?",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/media/6417478/frank-van-leeuwen-en-kim-kotter-doen-mee-aan-27e-seizoen-wie-is-de-mol.html",
+          "publishedDate": "Mon, 23 Nov 2026 03:03:00 GMT",
+          "description": "Presentator Frank van Leeuwen, cabaretier Ren&#233; van Meurs en ondernemer Kim K&#246;tter doen mee aan het nieuwe seizoen van Wie is de Mol?. De 27e editie is opgenomen in Engeland."
+        },
+        {
+          "title": "Wie is de Mol? 2027 speelt zich dicht bij huis af: dit zijn de kandidaten",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/boulevard/artikel/5666659/nieuw-seizoen-wie-de-mol-speelt-zich-af-engeland",
+          "publishedDate": "Mon, 23 Nov 2026 02:39:00 GMT",
+          "description": "Voor het nieuwe seizoen van 'Wie is de Mol?' hoeven de kandidaten dit keer niet de halve wereld over te vliegen. Het 27e seizoen speelt zich namelijk af in Engeland, maakt AVROTROS bekend. Vanaf zater ..."
+        },
+        {
+          "title": "Hier kun je de tien nieuwe kandidaten van Wie is de Mol? 2027 van kennen",
+          "source": "Girlscene on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/hier-kun-je-de-tien-nieuwe-kandidaten-van-wie-is-de-mol-2027-van-kennen/ar-AA2i3bGh",
+          "publishedDate": "Mon, 23 Nov 2026 07:06:00 GMT",
+          "description": "Het nieuwe seizoen van Wie is de Mol? komt eraan en inmiddels zijn ook de tien nieuwe kandidaten bekendgemaakt. Voor het 27e seizoen van het populaire programma gaan tien bekende Nederlanders opnieuw ..."
+        },
+        {
+          "title": "Dit zijn de kandidaten van Wie is de Mol? 2027",
+          "source": "showbizznetwork",
+          "url": "https://showbizznetwork.nl/artikel/77845/dit-zijn-de-kandidaten-van-wie-is-de-mol-2027",
+          "publishedDate": "Mon, 23 Nov 2026 05:28:00 GMT",
+          "description": "AVROTROS heeft maandag de kandidaten van het nieuwe seizoen van Wie is de Mol? bekendgemaakt. Ook is bekend in welk land het zich dit seizoen zal afspelen. Dit ..."
+        },
+        {
+          "title": "Van Kim K&#246;tter tot Marg&#244;t Ros: dit zijn de kandidaten van Wie is de Mol? 2027",
+          "source": "Beau Monde on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/van-kim-k%C3%B6tter-tot-marg%C3%B4t-ros-dit-zijn-de-kandidaten-van-wie-is-de-mol-2027/ar-AA2i2mO0",
+          "publishedDate": "Mon, 23 Nov 2026 04:20:00 GMT",
+          "description": "Wie vertrouw je en wie houdt je voor de gek? Vanaf januari kunnen we weer volop speuren, want de tien deelnemers van Wie is de Mol? 2027 zijn bekendgemaakt."
+        },
+        {
+          "title": "Wie is de Mol? 2027: deze tien BN’ers gaan mee naar Engeland",
+          "source": "Grazia on MSN",
+          "url": "https://www.msn.com/nl-nl/entertainment/other/wie-is-de-mol-2027-deze-tien-bn-ers-gaan-mee-naar-engeland/ar-AA2i1XVR",
+          "publishedDate": "Mon, 23 Nov 2026 04:20:00 GMT",
+          "description": "Er komt een nieuw seizoen van Wie is de Mol? aan, dus onze zaterdagavonden zijn binnenkort weer bezet. AVROTROS heeft vandaag bekendgemaakt welke tien BN’ers in Engeland op zoek gaan naar de saboteur."
+        },
+        {
+          "title": "Trust nobody: dit zijn de kandidaten van het aankomende seizoen van Wie is de Mol?",
+          "source": "Cosmopolitan",
+          "url": "https://www.cosmopolitan.com/nl/entertainment/g74505068/kandidaten-wie-is-de-mol-2027/",
+          "publishedDate": "Mon, 23 Nov 2026 03:31:00 GMT",
+          "description": "Frank van Leeuwen is het vaste gezicht van Goedemorgen Nederland, de dagelijkse ochtendshow van WNL. Daarnaast schuift hij regelmatig aan bij Eva of De Oranjezondag. Ook nam hij deel aan De Slimste ..."
+        },
+        {
+          "title": "Wie is de Mol? gaat op deze datum van start met deze 10 deelnemers",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/televisie/wie-is-de-mol-startdatum-2027-deze-10-deelnemers-rik-westelaken",
+          "publishedDate": "Mon, 23 Nov 2026 03:12:00 GMT",
+          "description": "Het 27e seizoen van Wie is de Mol? komt eraan en wij kunnen je vandaag vertellen welke tien BN'ers de spannende strijd met elkaar aan zullen gaan. En vanaf wanneer het op tv te zien is. Lees snel verd ..."
+        },
+        {
+          "title": "D&#237;t zijn de kandidaten van Wie is de Mol 2027!",
+          "source": "100%NL Magazine",
+          "url": "https://www.100pmagazine.nl/nieuws/dit-zijn-de-kandidaten-van-wie-is-de-mol-2027/",
+          "publishedDate": "Mon, 23 Nov 2026 02:50:00 GMT",
+          "description": "De kandidaten van het nieuwe seizoen Wie is de Mol zijn bekend!"
+        },
+        {
+          "title": "Kandidaten Wie is de Mol? 2027 bekend: deze tien BN’ers gaan op zoek naar de Mol",
+          "source": "Vriendin",
+          "url": "https://www.vriendin.nl/nieuwtjes/kandidaten-widm-2027-bekend/",
+          "publishedDate": "Mon, 23 Nov 2026 02:18:00 GMT",
+          "description": "Goed nieuws voor alle molloten, want de kandidaten van Wie is de Mol? 2027 zijn eindelijk bekend. Het nieuwe seizoen komt eraan."
         }
       ]
     },
     {
       "keyword": "moeder",
-      "trafficLabel": "2K+",
+      "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Straat leeft mee als moeder en zoon gewond raken bij uitslaande zolderbrand: ‘Zo’n lieve vrouw’",
+          "title": "Minderjarige nepagent opgepakt voor beroven moeder van Ewald &#233;n oudere man in Sliedrecht",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-delft/straat-leeft-mee-als-moeder-en-zoon-gewond-raken-bij-uitslaande-zolderbrand-zon-lieve-vrouw~a2944575/",
-          "publishedDate": "Fri, 20 Nov 2026 06:51:00 GMT",
-          "description": "Aan de Indiastraat in Delft woedde vrijdagochtend een brand op een zolder. Twee mensen raakten zwaargewond. De omliggende woningen werden uit voorzorg ontruimd."
+          "url": "https://www.ad.nl/sliedrecht/minderjarige-nepagent-opgepakt-voor-beroven-moeder-van-ewald-en-oudere-man-in-sliedrecht~a74ec74e/",
+          "publishedDate": "Mon, 23 Nov 2026 11:00:00 GMT",
+          "description": "Een 17-jarige jongen is aangehouden voor de beroving van de 83-jarige moeder van Ewald Kuipers uit Gorinchem. Ook wordt hij verdacht van het oplichten van een bewoner van de Thorbeckehof in Sliedrecht ..."
+        },
+        {
+          "title": "Insiya was 2 toen ze werd ontvoerd, en toch is er tien jaar later nog hoop voor moeder Nadia",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/amsterdam/insiya-was-2-toen-ze-werd-ontvoerd-en-toch-is-er-tien-jaar-later-nog-hoop-voor-moeder-nadia~ba6b5837/",
+          "publishedDate": "Mon, 23 Nov 2026 10:11:00 GMT",
+          "description": "Een Nederlandse ‘diplomatieke delegatie’ gaat proberen beweging te krijgen in de zaak van het naar India ontvoerde meisje Insiya. Het lijkt hopeloos – Insiya is al 12 en talloze rechterlijke vonnissen ..."
         },
         {
           "title": "‘Haar pijn en verdriet heeft mijn moeder niet met mij kunnen delen’",
@@ -669,18 +690,32 @@
           "description": "Toen haar moeder niet kon ophouden met klagen over haar broer, verbood Nora haar nog langer over hem te praten. In deze serie spreekt Barbara van Beukering mensen die spijt hebben van een beslissing."
         },
         {
-          "title": "Influencer Vera Dijkmans ‘in tranen’ in detentiecentrum ICE, moeder demonstreert voor de deur: ‘Dit is mensonterend’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/influencer-vera-dijkmans-in-tranen-in-detentiecentrum-ice-moeder-demonstreert-voor-de-deur-dit-is-mensonterend~abebc889/",
-          "publishedDate": "Sat, 14 Nov 2026 23:48:00 GMT",
-          "description": "De familie van Vera Dijkmans maakt zich ernstige zorgen nu de 29-jarige influencer al sinds woensdag vastzit in een Amerikaans detentiecentrum van ICE. Haar moeder Marianne demonstreerde zelf voor de ..."
+          "title": "Zaak tegen Amerikaanse moeder die 3 kinderen zou hebben gedood moet over",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/buitenland/6416783/zaak-tegen-amerikaanse-moeder-die-3-kinderen-zou-hebben-gedood-moet-over.html",
+          "publishedDate": "Mon, 16 Nov 2026 09:19:00 GMT",
+          "description": "Een Amerikaanse rechtszaak waarin een moeder terechtstaat voor de moord op haar drie kinderen moet definitief over. De jury werd het niet eens over een oordeel, waardoor de rechter maandag besloot dat ..."
         },
         {
-          "title": "GTA 6-ontwikkelaar eert overleden moeder met in-game-eerbetoon dat spelers kunnen bezoeken",
-          "source": "IGN Benelux on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/gaming/gta-6-ontwikkelaar-eert-overleden-moeder-met-in-game-eerbetoon-dat-spelers-kunnen-bezoeken/ar-AA2i2549",
-          "publishedDate": "Mon, 23 Nov 2026 03:30:37 GMT",
-          "description": "Een medewerker van Rockstar heeft zijn moeder in GTA VI ge&#235;erd met een in-game gedenkteken in Leonida dat spelers kunnen bezoeken."
+          "title": "Moeder van Ruben: nooit geloofd in zelfmoord",
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Binnenland/moeder-van-ruben-nooit-geloofd-in-zelfmoord/ar-AA2i38mH",
+          "publishedDate": "Mon, 23 Nov 2026 07:42:00 GMT",
+          "description": "ASSEN (ANP) - De moeder van Ruben, die op 20 januari vorig jaar aan de gevolgen van een drugsoverdosis stierf, heeft nooit geloofd in zelfmoord. Dit zei ze maandag in de rechtbank in Assen, waar de 27 ..."
+        },
+        {
+          "title": "Moeder Alice en dochter Anouk maken Sinterklaas magisch voor vluchtelingenkinderen: ‘De tranen schieten soms echt in mijn ogen’",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/oss/moeder-alice-en-dochter-anouk-maken-sinterklaas-magisch-voor-vluchtelingenkinderen-de-tranen-schieten-soms-echt-in-mijn-ogen~a0a1e81f/",
+          "publishedDate": "Mon, 23 Nov 2026 05:50:00 GMT",
+          "description": "Overal hangen posters van een statige man met een lange witte baard, op school zingen klasgenootjes uit volle borst over het zetten van schoenen en op het digibord draait het Sinterklaasjournaal. Voor ..."
+        },
+        {
+          "title": "Moeder van overleden Ruben aan het woord: 'Er is een stuk uit mijn ziel gesneden' • Esm&#233;e D. zwijgt",
+          "source": "RTV Drenthe",
+          "url": "https://www.rtvdrenthe.nl/nieuws/18970545/moeder-van-overleden-ruben-aan-het-woord-er-is-een-stuk-uit-mijn-ziel-gesneden-esmee-d-zwijgt",
+          "publishedDate": "Mon, 23 Nov 2026 05:28:00 GMT",
+          "description": "Heeft Esm&#233;e D. haar vriend Ruben vergiftigd? Of maakte hij zelf een einde aan zijn leven? Moeder van Ruben aan het woord Esm&#233;e D. blijft stil ..."
         },
         {
           "title": "Moeder wil zoon vergeven na zware mishandeling, maar eist uitleg",
@@ -697,32 +732,11 @@
           "description": "Koning M&#225;xima heeft zaterdag samen met haar moeder Mar&#237;a del Carmen Cerruti een tentoonstelling bezocht in Buenos Aires. Dat melden verschillende lokale media, waaronder Ciudad Magazine. De twee bezoc ..."
         },
         {
-          "title": "Burgemeester Halsema doet oproep: help moeder om Insiya te bereiken",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/112/vermissing/artikelen/burgemeester-halsema-doet-oproep-help-moeder-insiya-bereiken",
-          "publishedDate": "Sun, 22 Nov 2026 05:09:00 GMT",
-          "description": "Burgemeester Halsema heeft op Instagram een oproep geplaatst. Ze wil aandacht vragen voor de zaak van de ontvoerde Insiya. Zij werd in 2016 ontvoerd."
-        },
-        {
           "title": "Niemand kwam naar Fenne haar babyshower: “Alleen mijn moeder was er”",
           "source": "damespraatjes",
           "url": "https://damespraatjes.nl/niemand-kwam-naar-de-babyshower/",
           "publishedDate": "Sat, 21 Nov 2026 06:46:00 GMT",
           "description": "Voor de zwangere Fenne werd door haar moeder een babyshower georganiseerd. Alleen kwam niemand opdagen. 'Voelde me eenzaam en heel onzeker' ..."
-        },
-        {
-          "title": "Kathleen Aerts emotioneel tijdens zingen voor dementerende moeder",
-          "source": "Shownieuws",
-          "url": "https://www.shownieuws.nl/algemeen/buitenland/videos/kathleen-aerts-emotioneel-tijdens-zingen-voor-dementerende-moeder",
-          "publishedDate": "Wed, 18 Nov 2026 03:19:00 GMT",
-          "description": "Kathleen Aerts deelt een bijzonder emotioneel moment met haar volgers. Ze staat stil bij het overlijden van haar moeder, die precies zes jaar geleden overleed. Op Instagram deelt de zangeres een ontro ..."
-        },
-        {
-          "title": "Moeder zag influencer Vera Dijkmans ‘in tranen’ in detentiecentrum ICE: ‘Ze zit op &#233;&#233;n kamer met twaalf andere vrouwen’",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/buitenland/moeder-zag-influencer-vera-dijkmans-in-tranen-in-detentiecentrum-ice-ze-zit-op-een-kamer-met-twaalf-andere-vrouwen~abebc889/",
-          "publishedDate": "Sun, 15 Nov 2026 13:21:00 GMT",
-          "description": "De familie van Vera Dijkmans maakt zich ernstige zorgen nu de 29-jarige influencer al sinds woensdag vastzit in een Amerikaans detentiecentrum van ICE. Haar moeder Marianne trof haar dochter dit weeke ..."
         }
       ]
     }
