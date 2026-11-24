@@ -1,643 +1,496 @@
 {
-  "fetchedAt": "2026-11-24T11:17:41.928Z",
+  "fetchedAt": "2026-11-24T21:25:43.285Z",
   "trends": [
     {
-      "keyword": "huishouden",
+      "keyword": "real madrid - psv",
+      "trafficLabel": "100K+",
+      "articles": [
+        {
+          "title": "Ernst gepasseerd bij Feyenoord, Van Persie in de spits • Wanner start bij PSV in Madrid",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2640824-ernst-gepasseerd-bij-feyenoord-van-persie-in-de-spits-wanner-start-bij-psv-in-madrid",
+          "publishedDate": "Tue, 24 Nov 2026 03:45:00 GMT",
+          "description": "In dit liveblog volgen we alles in aanloop naar de Champions League-wedstrijden van PSV tegen Real Madrid en Feyenoord tegen FC Porto (21.00 uur)."
+        },
+        {
+          "title": "LIVE Champions League | PSV krijgt direct na rust tik terug: Valverde brengt Real Madrid op gelijke hoogte",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/live-champions-league-psv-krijgt-direct-na-rust-tik-terug-valverde-brengt-real-madrid-op-gelijke-hoogte~ab81cc85/",
+          "publishedDate": "Tue, 24 Nov 2026 00:10:00 GMT",
+          "description": "PSV greep verrassend de voorsprong op bezoek bij het grote Real Madrid. Kort na rust kwam Real Madrid op gelijke hoogte. Wie pakt de punten? Je volgt het hier live."
+        }
+      ]
+    },
+    {
+      "keyword": "feyenoord - porto",
       "trafficLabel": "50K+",
       "articles": [
         {
-          "title": "Actieplan moet ‘bizar lange’ wachtlijsten voor hulp bij het huishouden indammen",
-          "source": "PAROOL",
-          "url": "https://www.parool.nl/amsterdam/actieplan-moet-bizar-lange-wachtlijsten-voor-hulp-bij-het-huishouden-indammen~b16134a5/",
-          "publishedDate": "Wed, 05 Jul 2023 09:57:00 GMT",
-          "description": "Actieplan moet ‘bizar lange’ wachtlijsten voor hulp bij het huishouden indammen De wachttijden voor hulp bij het huishouden kunnen in Zuid en West oplopen tot achttien maanden. Een actieplan met 29 ..."
+          "title": "Feyenoord jaagt vergeefs op gelijkmaker na vroege dreun tegen FC Porto",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2287554/feyenoord-jaagt-vergeefs-op-gelijkmaker-na-vroege-dreun-tegen-fc-porto",
+          "publishedDate": "Tue, 24 Nov 2026 12:48:00 GMT",
+          "description": "Feyenoord en FC Porto doen in De Kuip weinig voor elkaar onder, maar toch gaan de Portugezen met een voorsprong de rust in. De Rotterdammers kregen al na twee minuten een mokerslag te verwerken toen O"
         },
         {
-          "title": "Warmtepomp bespaart huishouden in Amstelveen 3.117 euro in 3 jaar",
-          "source": "Amstelveenweb",
-          "url": "https://amstelveenweb.com/nieuws-Warmtepomp-bespaart-huishouden-in-Amstelveen-311&newsid=458206887",
-          "publishedDate": "Sun, 22 Nov 2026 16:00:00 GMT",
-          "description": "Een doorsnee huishouden in de gemeente Amstelveen kan bij de huidige energieprijzen in drie jaar tijd 3.117 euro besparen door over te stappen op een volledig elektrische warmtepomp. Daarmee wordt naa ..."
-        },
-        {
-          "title": "Huishouden in Deventer kan ruim 3.000 euro besparen met warmtepomp",
-          "source": "Salland1",
-          "url": "https://www.salland1.nl/huishouden-in-deventer-kan-ruim-3-000-euro-besparen-met-warmtepomp/",
-          "publishedDate": "Sat, 21 Nov 2026 05:56:00 GMT",
-          "description": "Leestijd: &lt; 1 minuutEen gemiddeld huishouden in de gemeente Deventer kan in drie jaar tijd ongeveer 3.066 euro besparen door over te stappen op een volledig elektrische warmtepomp. Dat blijkt uit bere ..."
-        },
-        {
-          "title": "Warmtepomp kan huishouden in Lopik duizenden euro’s besparen",
-          "source": "omroeplekstroom.nl",
-          "url": "https://omroeplekstroom.nl/warmtepomp-kan-huishouden-in-lopik-duizenden-euros-besparen/",
-          "publishedDate": "Tue, 17 Nov 2026 16:00:00 GMT",
-          "description": "LOPIK – Een warmtepomp kan voor huishoudens in Lopik een flinke besparing opleveren. Een gemiddeld huishouden kan bij de huidige energieprijzen in drie jaar tijd bijna 3.500 euro besparen. Daar staat ..."
-        },
-        {
-          "title": "Warmtepomp bespaart doorsnee huishouden in Noordoostpolder € 3.295 in drie jaar",
-          "source": "noordoostpolder.nieuws",
-          "url": "https://noordoostpolder.nieuws.nl/zakelijk/warmtepomp-bespaart-doorsnee-huishouden-in-noordoostpolder-3295-in-drie-jaar",
-          "publishedDate": "Tue, 17 Nov 2026 12:06:00 GMT",
-          "description": "Een doorsnee huishouden in de gemeente Noordoostpolder kan bij de huidige energieprijzen in drie jaar tijd 3.295 euro besparen door over te stappen op een volledig elektrische warmtepomp. Daarmee wor."
-        },
-        {
-          "title": "Maak je huishouden slimmer met deze accessoires",
-          "source": "iCulture",
-          "url": "https://www.iculture.nl/gids/smart-home-apparaten-huishouden/",
-          "publishedDate": "Mon, 16 Nov 2026 16:00:00 GMT",
-          "description": "Wil je je huishouden slimmer maken, dan zijn er tegenwoordig meer opties dan je denkt. Van vleesthermometer tot wasmachine en koffiezetter: alles is op afstand te bedienen en te programmeren vanaf je ..."
-        },
-        {
-          "title": "ZinVolt ontwikkelt analyseplatform dat ideale thuisbatterij per huishouden berekent",
-          "source": "Solar Magazine",
-          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45351/zinvolt-ontwikkelt-analyseplatform-dat-ideale-thuisbatterij-per-huishouden-berekent",
-          "publishedDate": "Sun, 15 Nov 2026 16:00:00 GMT",
-          "description": "Energiebedrijf ZinVolt heeft een analyseplatform ontwikkeld dat het werkelijke stroomverbruik van huishoudens meet en vertaalt naar een advies over de juiste opslagcapaciteit van een thuisbatterij."
-        },
-        {
-          "title": "Klein huishouden bespaart vanaf 2029 tot 200 euro met nieuw stroomtarief",
-          "source": "AD",
-          "url": "https://www.ad.nl/economie/klein-huishouden-bespaart-vanaf-2029-tot-200-euro-met-nieuw-stroomtarief~a3d7899e/",
-          "publishedDate": "Thu, 08 Oct 2026 07:32:00 GMT",
-          "description": "Een klein huishouden bespaart tot 200 euro per jaar als we ons stroomgebruik beter spreiden over de dag. Dat becijfert toezichthouder ACM in een onderzoek naar de invoering van een variabel ..."
-        },
-        {
-          "title": "Vlamingen eerlijk over de verdeling van het huishouden: “De meeste mannen blijken nog steeds gemakzuchtige luieriken”",
-          "source": "HLN",
-          "url": "https://www.hln.be/familie/vlamingen-eerlijk-over-de-verdeling-van-het-huishouden-de-meeste-mannen-blijken-nog-steeds-gemakzuchtige-luieriken~a17e71a7/",
-          "publishedDate": "Fri, 23 Oct 2020 00:22:00 GMT",
-          "description": "Wanneer het op het huishouden aankomt, zijn vrouwen wereldwijd nog altijd de pineut, blijkt uit een onderzoek van de krant De Morgen. Hoe zit dat bij Vlamingen thuis? Zijn de taken netjes tussen de ..."
-        },
-        {
-          "title": "Onderzoek Pew: Christen leeft in kleiner huishouden dan moslim",
-          "source": "RD",
-          "url": "https://www.rd.nl/artikel/onderzoek-pew-christen-leeft-in-kleiner-huishouden-dan-moslim",
-          "publishedDate": "Fri, 13 Dec 2019 01:38:00 GMT",
-          "description": "Dat blijkt uit cijfers die het Amerikaanse Pew Research Centre donderdag heeft gepresenteerd. Op basis van gegevens uit 130 landen concludeert Pew dat een moslim wereldwijd gemiddeld 6,4 huisgenoten ..."
-        }
-      ]
-    },
-    {
-      "keyword": "elina boer zoekt vrouw",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Opmerking Maurice valt verkeerd: 'gekrenkte' Elina vertrekt uit Boer zoekt vrouw",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/artikel/5666692/elina-vertrekt-bij-maurice-boer-zoekt-vrouw",
-          "publishedDate": "Mon, 23 Nov 2026 13:31:00 GMT",
-          "description": "Maurice (48) krijgt in 'Boer zoekt vrouw' na zijn verjaardag een tegenvaller te verwerken. Na een goed gesprek leek het tussen hem en Elina (47) weer de goede kant op te gaan, maar tijdens het feest g ..."
-        },
-        {
-          "title": "Eerste afscheid valt boer Maurice zwaar in Boer zoekt vrouw",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/artikel/5665616/tranen-eerste-afscheid-maurice-boer-zoekt-vrouw",
-          "publishedDate": "Wed, 18 Nov 2026 13:30:00 GMT",
-          "description": "Boer Maurice moet in 'Boer zoekt vrouw' na amper 24 uur al afscheid nemen van een van zijn drie log&#233;s. De boer heeft de vrouwen nog maar net leren kennen, maar moet nu al beslissen met wie hij verder ..."
-        },
-        {
-          "title": "Dagelijkse versie van Boer zoekt vrouw trekt helft van de kijkers via uitgesteld kijken",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/dagelijkse-versie-van-boer-zoekt-vrouw-trekt-helft-van-de-kijkers-via-uitgesteld-kijken~a2bd24e0/",
-          "publishedDate": "Mon, 16 Nov 2026 08:41:00 GMT",
-          "description": "Met de keuze om Boer zoekt Vrouw vanaf dit seizoen dagelijks te programmeren, in plaats van op zondagavond, is het kijkgedrag flink veranderd. Bijna de helft van de mensen die de aftrap keek, deed dat ..."
-        },
-        {
-          "title": "Hupsend staan vijf vrouwen van middelbare leeftijd in de kas van boer Maurice te dansen om hem te versieren",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/ps/hupsend-staan-vijf-vrouwen-van-middelbare-leeftijd-in-de-kas-van-boer-maurice-te-dansen-om-hem-te-versieren~bc8234db/",
-          "publishedDate": "Fri, 13 Nov 2026 02:01:00 GMT",
-          "description": "In de rubriek Han Lips schrijven verschillende redacteuren van Het Parool elke dag over wat hun opvalt op tv. Vandaag: Boer zoekt vrouw."
-        },
-        {
-          "title": "De redactie kijkt Boer zoekt Vrouw: na de stiekeme zoenen en haar vertrek bij Maurice twijfelt Elina t&#243;ch",
-          "source": "Nouveau on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/other/de-redactie-kijkt-boer-zoekt-vrouw-na-de-stiekeme-zoenen-en-haar-vertrek-bij-maurice-twijfelt-elina-t%C3%B3ch/ar-AA2i5UQb",
-          "publishedDate": "Tue, 24 Nov 2026 02:00:00 GMT",
-          "description": "Gisteren zagen we hoe de boeren feestjes vierden en hun logees introduceerden aan familie en vrienden. Zo ook bij boer Maurice, al kreeg het feestje daar helaas een nare nasmaak. Want de ochtend na he ..."
-        },
-        {
-          "title": "De TV van gisteren: Boer Zoekt Vrouw-kijkers niet rouwig om vertrek Elina",
-          "source": "TVgids.nl",
-          "url": "https://www.tvgids.nl/nieuws/gemist/de-tv-van-gisteren-boer-zoekt-vrouw-kijkers-niet-rouwig-om-vertrek-elina",
-          "publishedDate": "Mon, 23 Nov 2026 23:56:00 GMT",
-          "description": "Na een ongelukkige opmerking van Maurice besloot Elina haar koffers te pakken in Boer Zoekt Vrouw. Haar vertrek kwam voor de boer toch wel als een verrassing. Veel kijkers lijken er echter weinig moei ..."
-        },
-        {
-          "title": "Elina twijfelt over vertrek bij Maurice in Boer zoekt Vrouw",
-          "source": "LoveReality",
-          "url": "https://lovereality.nl/elina-twijfelt-over-vertrek-bij-maurice-in-boer-zoekt-vrouw/",
-          "publishedDate": "Mon, 23 Nov 2026 16:00:00 GMT",
-          "description": "Elina is vertrokken uit Boer zoekt Vrouw. De afgelopen afleveringen leek ze steeds verder naar Maurice toe te groeien, maar daar is inmiddels nog maar weinig van over. Een opmerking op het feest van M ..."
-        },
-        {
-          "title": "Plotse wending bij Maurice in ‘Boer zoekt vrouw’: na geheime zoenen pakt Elina haar koffers",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/entertainment/fragment-gemist/elina-vertrekt-bzv-opmerking-maurice~169e4d6",
-          "publishedDate": "Mon, 23 Nov 2026 14:30:00 GMT",
-          "description": "Wat een gezellige verjaardag voor Maurice had moeten worden, eindigt in tranen. Na een vervelende opmerking van hem slaat Elina’s gevoel compleet om en besluit ze haar koffers te pakken. Elina biecht ..."
-        },
-        {
-          "title": "Makers Boer zoekt Vrouw begaan pijnlijke blunder",
-          "source": "LoveReality",
-          "url": "https://lovereality.nl/makers-boer-zoekt-vrouw-begaan-pijnlijke-blunder/",
-          "publishedDate": "Sun, 22 Nov 2026 10:19:00 GMT",
-          "description": "Teasers voor volgende afleveringen, het is vaak een heikel punt. Wordt er niet te veel weggegeven en worden we op een verkeerd been gezet als kijker? Ook Boer zoekt Vrouw lijkt nu in de trap te vallen ..."
-        },
-        {
-          "title": "Kijkers Boer zoekt vrouw waarschuwen Maurice: ‘Ze heeft een plan’",
-          "source": "Ditjes en Datjes",
-          "url": "https://www.ditjesendatjes.nl/kijkers-boer-zoekt-vrouw-waarschuwen-maurice-ze-heeft-een-plan",
-          "publishedDate": "Tue, 17 Nov 2026 06:01:00 GMT",
-          "description": "Elina, een van de logees van boer Maurice in Boer zoekt vrouw, heeft zich nu al niet populair gemaakt bij een aantal kijkers."
-        }
-      ]
-    },
-    {
-      "keyword": "diederik gommers",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Inspectie grijpt in bij Erasmus MC vanwege ‘kwetsbare’ werkcultuur, Diederik Gommers vertrekt",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/binnenland/inspectie-grijpt-in-bij-erasmus-mc-vanwege-kwetsbare-werkcultuur-diederik-gommers-vertrekt~b90f83b2/",
-          "publishedDate": "Mon, 23 Nov 2026 12:07:00 GMT",
-          "description": "De intensive care van het Erasmus MC kampt met een ‘kwetsbare’ cultuur die gevolgen kan hebben voor de kwaliteit van zorg, blijkt uit een nog niet verschenen rapport van de zorginspectie. IC-hoofd Die ..."
-        },
-        {
-          "title": "Diederik Gommers stopt per direct als ic-hoofd bij Erasmus MC na kritisch rapport over werkcultuur",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/diederik-gommers-stopt-per-direct-als-ic-hoofd-bij-erasmus-mc-na-kritisch-rapport-over-werkcultuur~a41fc8e6/",
-          "publishedDate": "Mon, 23 Nov 2026 12:00:00 GMT",
-          "description": "Diederik Gommers legt per direct zijn functie neer als hoofd intensive care (ic) bij het Erasmus MC. Aanleiding is een kritisch rapport van de Inspectie Gezondheidszorg en Jeugd (IGJ) over de werkcult ..."
-        },
-        {
-          "title": "Diederik Gommers stopt als leidinggevende op intensive care bij Erasmus MC vanwege ‘kwetsbare’ situatie op afdeling",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/11/23/diederik-gommers-stopt-als-leidinggevende-op-intensive-care-bij-erasmus-mc-vanwege-kwetsbare-situatie-op-afdeling-a4942129",
-          "publishedDate": "Mon, 23 Nov 2026 11:37:00 GMT",
-          "description": "Ziekenhuis: Het ziekenhuis in Rotterdam betreurt dat sommige medewerkers zich „onvoldoende veilig” hebben gevoeld om „hun zorgen te uiten”, zonder daar verder over in detail te treden."
-        },
-        {
-          "title": "Diederik Gommers stapt per direct op als afdelingshoofd na kritisch rapport over werkcultuur op ic Erasmus MC",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/binnenland/diederik-gommers-stapt-per-direct-op-als-afdelingshoofd-na-kritisch-rapport-over-werkcultuur-op-ic-erasmus-mc~b0f6d1be/",
-          "publishedDate": "Mon, 23 Nov 2026 11:13:00 GMT",
-          "description": "Op de intensive care van het Erasmus MC in Rotterdam is sprake van een onveilige werkcultuur. Dat blijkt uit een rapport van de Inspectie Gezondheidszorg en Jeugd (IGJ), melden NOS en Nieuwsuur. Afdel ..."
-        },
-        {
-          "title": "Inspectie grijpt in bij ic Erasmus MC vanwege mogelijke risico's voor pati&#235;nten, Gommers stopt als afdelingshoofd",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2640739-inspectie-grijpt-in-bij-ic-erasmus-mc-vanwege-mogelijke-risico-s-voor-patienten-gommers-stopt-als-afdelingshoofd",
-          "publishedDate": "Mon, 23 Nov 2026 08:51:00 GMT",
-          "description": "Op de intensive care van het Erasmus Medisch Centrum in Rotterdam is sprake van een situatie &quot;die een ernstige bedreiging voor de veiligheid van pati&#235;nten of de zorg kan betekenen&quot;."
-        },
-        {
-          "title": "Wilt u DDS vaker zien?",
-          "source": "De Dagelijkse Standaard",
-          "url": "https://www.dagelijksestandaard.nl/politiek/gommers-stopt-ic-erasmus-mc-inspectie-anonieme-melders",
-          "publishedDate": "Mon, 23 Nov 2026 23:05:00 GMT",
-          "description": "Diederik Gommers stopt als hoofd van de ic van het Erasmus MC. Volgens de inspectie wilde de leiding er vooral weten wie anoniem had geklaagd."
-        },
-        {
-          "title": "Diederik Gommers stopt als ic-hoofd Erasmus MC na kritisch rapport werkcultuur",
-          "source": "nu",
-          "url": "https://nu.cw/2026/11/23/diederik-gommers-stopt-als-ic-hoofd-erasmus-mc-na-kritisch-rapport-werkcultuur/",
-          "publishedDate": "Mon, 23 Nov 2026 13:17:00 GMT",
-          "description": "De intensive care van het Erasmus MC in Rotterdam kampt volgens de Inspectie Gezondheidszorg en Jeugd (IGJ) met een werkcultuur die de veiligheid van pati&#235;nten of de zorg ernstig in gevaar kan brengen ..."
-        },
-        {
-          "title": "Diederik Gommers weg als afdelingshoofd IC Erasmus MC na ingrijpen IGJ",
-          "source": "Skipr",
-          "url": "https://www.skipr.nl/nieuws/diederik-gommers-weg-als-afdelingshoofd-ic-erasmus-mc-na-ingrijpen-igj/",
-          "publishedDate": "Mon, 23 Nov 2026 10:14:00 GMT",
-          "description": "De Inspectie Gezondheidszorg en Jeugd (IGJ) grijpt in op de intensive care van het Erasmus MC in Rotterdam vanwege een onveilige werkcultuur, meldt de NOS."
-        },
-        {
-          "title": "Gommers stopt als ic-hoofd na zorgen om veiligheid pati&#235;nten",
-          "source": "Hart van Nederland",
-          "url": "https://www.hartvannederland.nl/milieu-gezondheid/zorg/artikelen/diederik-gommers-stopt-ic-erasmus-mc",
-          "publishedDate": "Mon, 23 Nov 2026 09:26:00 GMT",
-          "description": "Diederik Gommers stopt als IC-hoofd bij het Erasmus MC. Volgens de inspectie vormt de situatie op de afdeling mogelijk een ernstig risico voor pati&#235;nten."
-        },
-        {
-          "title": "Gommers stopt als hoofd ic in Erasmus MC na rapport Inspectie",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/diederik-gommers-stopt-icv-erasmusmc-br/",
-          "publishedDate": "Mon, 23 Nov 2026 09:25:00 GMT",
-          "description": "Diederik Gommers stopt als hoofd intensive care na kritiek van de inspectie op de onveilige werkcultuur in het Erasmus MC."
-        }
-      ]
-    },
-    {
-      "keyword": "rs-28 sarmat",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "La Russie pourrait commencer &#224; d&#233;ployer des missiles Sarmat g&#233;ants capables d’atteindre les &#201;tats-Unis",
-          "source": "Business AM",
-          "url": "https://fr.businessam.be/la-russie-pourrait-commencer-a-deployer-des-missiles-sarmat-geants-capables-datteindre-les-etats-unis/",
-          "publishedDate": "Mon, 23 Nov 2026 05:16:00 GMT",
-          "description": "Principaux renseignements La Russie int&#232;gre les missiles RS-28 Sarmat dans son arsenal militaire op&#233;rationnel. Cette arme &#224; propergol liquide contourne ..."
-        },
-        {
-          "title": "Rusland begint mogelijk met inzet van gigantische Sarmat-raketten die de Verenigde Staten kunnen bereiken",
-          "source": "Business AM",
-          "url": "https://businessam.be/rusland-begint-mogelijk-met-inzet-van-gigantische-sarmat-raketten-die-de-verenigde-staten-kunnen-bereiken/",
-          "publishedDate": "Mon, 23 Nov 2026 05:15:00 GMT",
-          "description": "Key takeaways Rusland neemt RS-28 Sarmat-raketten op in zijn actieve militaire arsenaal. Dit wapen op vloeibare brandstof omzeilt westerse verdedigingssystemen via onconventionele polaire routes. Onda ..."
-        },
-        {
-          "title": "Le missile russe RS-28 Sarmat &#171; affronte de front &#187; le missile am&#233;ricain LGM-30G Minuteman III, Mach 23, port&#233;e de 13 000 km.",
-          "source": "vietnam",
-          "url": "https://www.vietnam.vn/fr/ten-lua-rs-28-sarmat-nga-so-gang-ten-lua-lgm-30g-minuteman-iii-my-mach-23-tam-ban-13000km",
-          "publishedDate": "Mon, 12 Oct 2026 15:00:00 GMT",
-          "description": "Les deux missiles balistiques intercontinentaux (ICBM) les plus puissants des &#201;tats-Unis et de la Russie, le LGM-30G Minuteman III et le RS-28 Sarmat (connu en Occident sous le nom de Satan II), ..."
-        },
-        {
-          "title": "Le missile RS-28 Sarmat a une port&#233;e de 18 000 km, est le plus lourd au monde et transporte 15 ogives nucl&#233;aires MIRV.",
-          "source": "vietnam",
-          "url": "https://www.vietnam.vn/fr/ten-lua-rs-28-sarmat-tam-ban-18-000km-nang-nhat-the-gioi-15-dau-dan-hat-nhan-mirv",
-          "publishedDate": "Wed, 09 Sep 2026 17:00:00 GMT",
-          "description": "&#192; l'&#232;re de la dissuasion nucl&#233;aire moderne, le missile balistique intercontinental RS-28 Sarmat (ICBM), le plus lourd du monde et surnomm&#233; Satan 2 par l'OTAN, est salu&#233; par la Russie comme le symbole ..."
-        },
-        {
-          "title": "De RS-28 Sarmat-ICBM is nog altijd niet in dienst, symptoom van de Russische technologische achterstand",
-          "source": "meta-defense",
-          "url": "https://meta-defense.fr/nl/2026/08/04/rs-28-sarmat-russische-technologische-achterstand/",
-          "publishedDate": "Tue, 04 Aug 2026 08:10:00 GMT",
-          "description": "Door Moskou in september 2023 operationeel verklaard, bevond de intercontinentale ballistische RS-28 Sarmat-raket zich medio juli 2026 nog in de testfase, volgens een analyse van Dallas Analytics op ..."
-        },
-        {
-          "title": "Russische RS-28 Sarmat-raket kampt met aanhoudende storingen, blijkt uit gelekte documenten",
-          "source": "Business AM",
-          "url": "https://businessam.be/russische-rs-28-sarmat-raket-kampt-met-aanhoudende-storingen-blijkt-uit-gelekte-documenten/",
-          "publishedDate": "Tue, 28 Jul 2026 23:30:00 GMT",
-          "description": "Uit interne documenten die onlangs door Dallas Analytics zijn vrijgegeven, blijkt dat de RS-28 Sarmat, de belangrijkste intercontinentale ballistische raket van Rusland, voortdurend met tegenslagen te ..."
-        },
-        {
-          "title": "De Russische RS-28 Sarmat ICBM is met succes getest vanuit Plesetsk.",
-          "source": "meta-defense",
-          "url": "https://meta-defense.fr/nl/2026/05/13/sarmat-essai-reussi-depuis-plesetsk/",
-          "publishedDate": "Wed, 13 May 2026 06:03:00 GMT",
-          "description": "04 / op 10Het exportsucces van de FDI-fregatten bevestigt de positie van Naval Group, maar lost het tekort aan Franse fregatten niet op. 05 / op 10Het Turkse bedrijf Baykar levert de ..."
-        },
-        {
-          "title": "Nouvel &#233;chec du missile russe RS-28 SARMAT &#171; Satan 2 &#187;, une &#233;pine dans le pied de la dissuasion nucl&#233;aire du Kremlin",
-          "source": "La Voix du Nord",
-          "url": "https://www.lavoixdunord.fr/1651865/article/2025-12-01/nouvel-echec-du-missile-russe-rs-28-sarmat-satan-2-une-epine-dans-le-pied-de-la",
-          "publishedDate": "Mon, 01 Dec 2025 08:22:00 GMT",
-          "description": "Un tr&#232;s probable missile balistique intercontinental lourd RS-28 SARMAT s’est &#233;cras&#233; vendredi en Russie peu apr&#232;s son d&#233;collage, lors d’un test en conditions r&#233;elles. Ce cinqui&#232;me &#233;chec de suite est ..."
-        },
-        {
-          "title": "RS-28 Sarmat ‘Satan 2’ ICBM samengevat",
-          "source": "tpo",
-          "url": "https://tpo.nl/kennisbank/rs-28-sarmat-satan-2-icbm-samengevat/",
-          "publishedDate": "Fri, 01 Sep 2023 05:24:00 GMT",
-          "description": "De RS-28 Sarmat, ook bekend als ‘Satan 2‘, is een intercontinentale ballistische raket (ICBM) ontwikkeld door Rusland. Deze raket met vloeibare brandstof wordt beschouwd als een van de krachtigste ..."
-        },
-        {
-          "title": "Le RS-28 Sarmat capable de d&#233;truire le Texas!",
-          "source": "parstoday",
-          "url": "https://parstoday.ir/fr/news/world-i91959-le_rs_28_sarmat_capable_de_d%C3%A9truire_le_texas%21",
-          "publishedDate": "Sat, 02 Jan 2021 11:36:00 GMT",
-          "description": "La Russie va tester un nouveau missile qui &#171; bat tous les syst&#232;mes de d&#233;fense &#187; avec une port&#233;e de 6200 miles. Le RS-28 Sarmat p&#232;se 208 tonnes et a une autonomie d’environ 6200 miles et il peut ..."
+          "title": "Groot nieuws tijdens Feyenoord - FC Porto: keeperswissel krijgt staartje",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/tjark-ernst-basisplaats-feyenoord-florian-kastenmeier",
+          "publishedDate": "Mon, 23 Nov 2026 23:31:00 GMT",
+          "description": "Grijpt Giovanni van Bronckhorst keihard in bij Feyenoord? Martijn Krabbendam verwacht dat Tjark Ernst geslachtofferd wordt voor Florian Kastenmeier."
         }
       ]
     },
     {
       "keyword": "gpfans formule 1-nieuws &amp; meer",
-      "trafficLabel": "5K+",
+      "trafficLabel": "20K+",
       "articles": []
     },
     {
-      "keyword": "liefde",
-      "trafficLabel": "5K+",
+      "keyword": "galatasaray",
+      "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Royaltydeskundige Justine Marcella ten huwelijk gevraagd: 'Onvoorwaardelijke liefde bestaat'",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/boulevard/artikel/5666849/royaltydeskundige-justine-marcella-ten-huwelijk-gevraagd",
-          "publishedDate": "Tue, 24 Nov 2026 00:57:00 GMT",
-          "description": "Justine Marcella (55) mag zich binnenkort een getrouwde vrouw noemen. De royaltydeskundige is tijdens een romantisch diner in Lille ten huwelijk gevraagd door haar grote liefde Pieter Jelle Wytzes. Op ..."
-        },
-        {
-          "title": "Theaterregisseur Agnes Laura Kumpina (31): ‘De godin van de liefde, die moet me vast een inzicht of twee brengen’",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/ps/theaterregisseur-agnes-laura-kumpina-31-de-godin-van-de-liefde-die-moet-me-vast-een-inzicht-of-twee-brengen~bbfa8745/",
-          "publishedDate": "Fri, 20 Nov 2026 09:00:00 GMT",
-          "description": "De Lets-Nederlandse theaterregisseur Agnes Laura Kumpina (31) onderzoekt in theatervoorstelling Venus en Adonis wat er gebeurt als een zelfstandige vrouw haar verlangen uitspreekt, maar de man tegenov ..."
-        },
-        {
-          "title": "Beroemde weduwen die nooit meer de liefde hebben gevonden",
-          "source": "Stars Insider",
-          "url": "https://www.starsinsider.com/nl/beroemdheden/1067937/beroemde-weduwen-die-nooit-meer-de-liefde-hebben-gevonden",
-          "publishedDate": "Tue, 24 Nov 2026 01:14:00 GMT",
-          "description": "V oor sommige stellen eindigt hun liefdesverhaal veel te vroeg. Of het nu Hollywoodsterren, wereldleiders, sportlegendes of leden van koninklijke families betrof: deze beroemdheden beleefden een liefd ..."
-        },
-        {
-          "title": "Justine Marcella stapt in huwelijksbootje: ‘Onvoorwaardelijke liefde bestaat’",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/show/justine-marcella-stapt-in-huwelijksbootje-onvoorwaardelijke-liefde-bestaat~a686cdcb5/",
-          "publishedDate": "Tue, 24 Nov 2026 00:21:00 GMT",
-          "description": "Royaltydeskundige en Expeditie Robinson-kandidaat Justine Marcella gaat trouwen. Op Instagram deelt de 55-jarige beelden van het romantische aanzoek. Grote liefde Pieter ging onverwachts op zijn knie ..."
-        },
-        {
-          "title": "Sylwia en Illya uit ‘B&amp;B Vol Liefde’",
-          "source": "LINDA.nl",
-          "url": "https://www.linda.nl/media/bekend/sylwia-illya-ziekenhuis-rtl-boulevard~7a726c1",
-          "publishedDate": "Mon, 23 Nov 2026 13:58:00 GMT",
-          "description": "Sylwia en Illya lijken elkaar helemaal te hebben gevonden in B&amp;B Vol Liefde, totdat de Franse kasteelheer in het ziekenhuis belandt."
-        },
-        {
-          "title": "Van realityshow naar real love: kan liefde die voor de camera ontstaat &#233;cht standhouden?",
-          "source": "Grazia on MSN",
-          "url": "https://www.msn.com/nl-nl/entertainment/algemeen/van-realityshow-naar-real-love-kan-liefde-die-voor-de-camera-ontstaat-%C3%A9cht-standhouden/ar-AA2i7yyU",
-          "publishedDate": "Mon, 23 Nov 2026 13:50:00 GMT",
-          "description": "Van Love is Blind tot B&amp;B Vol Liefde: we smullen massaal van de zoektocht naar liefde op televisie. En ja, sommigen slagen daar ook &#233;cht in! Maar hoe groot is de kans dat een liefde die voor de camera ..."
-        },
-        {
-          "title": "Herdenkingsavond ‘Liefde blijft’ in teken van rouw en herinneringen",
-          "source": "Rodi.nl",
-          "url": "https://www.rodi.nl/westland/nieuws/123808/herdenkingsavond-liefde-blijft-in-teken-van-rouw-en-herinneringen",
-          "publishedDate": "Mon, 23 Nov 2026 10:03:00 GMT",
-          "description": "Uitvaartverzorging Respect heeft op 19 november voor de zevende keer een herdenkingsbijeenkomst gehouden. In de Dorpskerk stonden nabestaanden samen stil bij overleden dierbaren."
-        },
-        {
-          "title": "Timothy reageert op enorme B&amp;B Vol Liefde-ophef: “Weet ik uit ervaring…”",
-          "source": "LoveReality",
-          "url": "https://lovereality.nl/timothy-reageert-op-enorme-bb-vol-liefde-ophef-weet-ik-uit-ervaring/",
-          "publishedDate": "Sat, 21 Nov 2026 00:57:00 GMT",
-          "description": "Onlangs verscheen er een vernietigend artikel in het NRC over B&amp;B Vol Liefde. Deelnemers zouden ‘uitgebuit’ worden voor de kijkcijfers. Oud-kandidaten Jean-Paul en Timothy, die zelf nota bene vaak bet ..."
-        },
-        {
-          "title": "Nicki Pouw-Verweij keerde terug naar haar eerste liefde: Ik sta liever aan het bed dan dat ik aan een vergadertafel zit",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/nicki-pouw-verweij-keerde-terug-naar-haar-eerste-liefde-ik-sta-liever-aan-het-bed-dan-dat-ik-aan-een-vergadertafel-zit",
-          "publishedDate": "Thu, 19 Nov 2026 05:43:00 GMT",
-          "description": "„Wat ik gek blijf vinden”, mijmert Pouw, „is dat ik objectief bezien in de politiek meer bereikte. Veel pati&#235;nten hadden daar iets aan. Alleen zie je daar zelf weinig van.” ..."
-        },
-        {
-          "title": "Nilg&#252;n Yerli stelt de voorwaarden van de liefde ter discussie in Theater de Liefde",
-          "source": "Haarlem105",
-          "url": "https://haarlem105.nl/nilgun-yerli-stelt-de-voorwaarden-van-de-liefde-ter-discussie-in-theater-de-liefde/",
-          "publishedDate": "Tue, 17 Nov 2026 02:41:00 GMT",
-          "description": "Nilg&#252;n Yerli staat donderdag 19 november in Theater de Liefde met haar nieuwe voorstelling Liefde: Weet je het zeker? Daarin onderzoekt ze de voorwaarden die we stellen aan de relaties in ons leven. I ..."
-        }
-      ]
-    },
-    {
-      "keyword": "nieuwegein",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Gazaans gezin met vijf kinderen (en 6de op komst) door rechter uit huis in Nieuwegein gezet vanwege jarenlange overlast",
+          "title": "Derby bij Galatasaray ontaardt in massale vechtpartij, trainer Fenerbah&#231;e stapt op",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/nieuwegein/gazaans-gezin-met-vijf-kinderen-en-6de-op-komst-door-rechter-uit-huis-in-nieuwegein-gezet-vanwege-jarenlange-overlast~a837e32c/",
-          "publishedDate": "Mon, 23 Nov 2026 09:15:00 GMT",
-          "description": "Een gezin met vijf kinderen moet vanwege jarenlange geluidsoverlast binnen drie maanden hun huis in Nieuwegein verlaten. Dat oordeelde de Utrechtse rechter maandag. De moeder staat op het punt te beva ..."
+          "url": "https://www.ad.nl/voetbal/derby-bij-galatasaray-ontaardt-in-massale-vechtpartij-trainer-fenerbahce-stapt-op~a8812df5/",
+          "publishedDate": "Tue, 27 Oct 2026 16:45:00 GMT",
+          "description": "De wedstrijd tussen Galatasaray en Fenerbah&#231;e is maandagavond uit de hand gelopen. Nadat Galatasaray met 2-1 had gewonnen van de aartsrivaal, sloeg de vlam in de pan tussen Fenerbah&#231;e-verdediger Archi ..."
         },
         {
-          "title": "Inbrekers sloegen zondag 1 keer toe in Nieuwegein",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-nieuwegein/inbrekers-sloegen-zondag-1-keer-toe-in-nieuwegein~a2a76eb1/",
-          "publishedDate": "Mon, 23 Nov 2026 03:01:00 GMT",
-          "description": "In de gemeente Nieuwegein is zondag &#233;&#233;n keer ingebroken. Dit blijkt uit data van de politie die door deze site geautomatiseerd is geanalyseerd."
+          "title": "Deniz G&#252;l is held &#233;n schlemiel van Galatasaray tegen Aston Villa",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/deniz-g%C3%BCl-is-held-%C3%A9n-schlemiel-van-galatasaray-tegen-aston-villa/ar-AA2i8UUp",
+          "publishedDate": "Tue, 24 Nov 2026 11:39:09 GMT",
+          "description": "Galatasaray heeft dinsdag op eigen veld met 1-0 gewonnen van Aston Villa in de competitiefase van de Champions League. De Turkse topclub stijgt hierdoor naar de dertiende plaats. Villa blijft steken o ..."
         },
         {
-          "title": "Nieuwegein krijgt er ruim 2.200 auto’s bij, maar autobezit per woonadres daalt",
-          "source": "pen",
-          "url": "https://www.pen.nl/artikel/nieuwegein-krijgt-er-ruim-2-200-autos-bij-maar-autobezit-per-woonadres-daalt",
-          "publishedDate": "Tue, 24 Nov 2026 00:31:00 GMT",
-          "description": "Het aantal personenauto’s in Nieuwegein is tussen 2019 en 2025 met 7,7 procent gestegen. Daarmee staat Nieuwegein op de tweede plaats van twaalf ..."
+          "title": "Gratis live stream kijken Galatasaray – Amedspor",
+          "source": "Squawka",
+          "url": "https://www.squawka.com/nl/nieuws/gratis-live-stream-kijken-galatasaray-amedspor-7-11/",
+          "publishedDate": "Sat, 07 Nov 2026 02:28:00 GMT",
+          "description": "Wil jij Galatasaray - Amedspor via een gratis live stream kijken? Dat kan wij hebben 2 links beschikbaar. 1 Voor Nederland en 1 voor Belgi&#235;."
         },
         {
-          "title": "Gezin moet huurwoning in Nieuwegein uit na jarenlange overlast",
-          "source": "molenkruier",
-          "url": "https://www.molenkruier.nl/nieuws/nieuws/486534/gezin-moet-huurwoning-in-nieuwegein-uit-na-jarenlange-overlast",
-          "publishedDate": "Mon, 23 Nov 2026 13:44:00 GMT",
-          "description": "Nieuwegein - Een gezin in Nieuwegein moet binnen drie maanden de huurwoning uit. De rechter vindt dat de overlast al veel te lang duurt. Ook werd er in huis illegale waterpijptabak gevonden."
-        },
-        {
-          "title": "Dell Technologies Forum Nieuwegein: Future-Ready AI &amp; Infrastructure",
-          "source": "ITdaily",
-          "url": "https://itdaily.be/events/dell-technologies-forum-nieuwegein-future-ready-ai-infrastructure/",
-          "publishedDate": "Mon, 23 Nov 2026 05:58:00 GMT",
-          "description": "Dell Technologies organiseert op 8 december 2026 het Dell Technologies Forum in NBC Nieuwegein. De conferentie richt zich op IT-verantwoordelijken en business leaders en staat in het teken van AI en ..."
-        },
-        {
-          "title": "Mini’s RCN spelen thuistoernooi in Nieuwegein",
-          "source": "molenkruier",
-          "url": "https://www.molenkruier.nl/sport/sport/486367/minis-rcn-spelen-thuistoernooi-in-nieuwegein",
-          "publishedDate": "Sun, 22 Nov 2026 16:00:00 GMT",
-          "description": "Nieuwegein - De Mini’s (U12) van Rugby Club Nieuwegein (RCN) speelden afgelopen weekend een thuistoernooi. Op het rugbyveld in Nieuwegein streden de jonge spelers fanatiek om iedere meter en iedere.."
-        },
-        {
-          "title": "Man aangehouden na grote politieactie aan Bergwal in Nieuwegein: DSI en politiehond ingezet",
-          "source": "pen",
-          "url": "https://www.pen.nl/artikel/man-aangehouden-na-grote-politieactie-bij-merweplein-in-nieuwegein-dsi-en-politiehond-ingezet",
-          "publishedDate": "Sun, 22 Nov 2026 05:56:00 GMT",
-          "description": "De grote politieactie zondagmiddag 22 november bij het Merweplein in Nieuwegein heeft geleid tot de aanhouding van een man. Volgens een woordvoerder van ..."
-        },
-        {
-          "title": "Grote politieactie in Nieuwegein klaar: buurtbewoners kunnen weer veilig naar buiten",
-          "source": "RTV Utrecht",
-          "url": "https://www.rtvutrecht.nl/nieuws/4122202/grote-politieactie-in-nieuwegein-klaar-buurtbewoners-kunnen-weer-veilig-naar-buiten",
-          "publishedDate": "Sun, 22 Nov 2026 05:31:00 GMT",
-          "description": "De politie heeft vanmiddag een groot gebied afgezet rond een flat aan de Bergwal in Nieuwegein. Volgens een woordvoerder was er sprake van een persoon met onbegrepen gedrag, die een gevaar vormde voor ..."
-        },
-        {
-          "title": "Oud-politieagent vrijgesproken van verkrachting 17-jarig meisje in Nieuwegein",
-          "source": "NU",
-          "url": "https://www.nu.nl/binnenland/6401359/oud-politieagent-vrijgesproken-van-verkrachting-17-jarig-meisje-in-nieuwegein.html",
-          "publishedDate": "Tue, 30 Jun 2026 08:16:00 GMT",
-          "description": "Twee mannen zijn dinsdag vrijgesproken van de verkrachting van een zeventienjarig meisje in Nieuwegein. Een van de mannen werkte destijds als politieagent en raakte zijn baan kwijt. Volgens de rechter ..."
-        }
-      ]
-    },
-    {
-      "keyword": "tallulah belle willis",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Tallulah Belle Willis l&#246;scht inniges Foto mit Vater Bruce",
-          "source": "Nau.ch",
-          "url": "https://www.nau.ch/people/welt/tallulah-belle-willis-loscht-inniges-foto-mit-vater-bruce-67206040",
-          "publishedDate": "Tue, 24 Nov 2026 02:44:00 GMT",
-          "description": "Tallulah Belle Willis teilt einen privaten Moment mit ihrem demenzkranken Vater Bruce Willis. Kurz darauf l&#246;scht sie das Foto und erkl&#228;rt ihre Entscheidung."
-        },
-        {
-          "title": "Pourquoi Tallulah Willis s’est-elle excus&#233;e apr&#232;s avoir partag&#233; une photo de son p&#232;re malade ?",
-          "source": "Madame Figaro on MSN",
-          "url": "https://www.msn.com/fr-fr/actualite/other/pourquoi-tallulah-willis-s-est-elle-excus%C3%A9e-apr%C3%A8s-avoir-partag%C3%A9-une-photo-de-son-p%C3%A8re-malade/ar-AA2i3aup",
-          "publishedDate": "Mon, 23 Nov 2026 05:55:57 GMT",
-          "description": "Alors qu’elle partage r&#233;guli&#232;rement quelques nouvelles de Bruce Willis, atteint de d&#233;mence frontotemporale, sa fille a supprim&#233;, le 22 novembre, une photo qu’elle avait post&#233;e la veille. La jeune femm ..."
-        },
-        {
-          "title": "Bruce Willis, atteint de d&#233;mence, appara&#238;t sur une photo “peut-&#234;tre trop intime” : sa fille Tallulah Belle Willis prend une d&#233;cision radicale en catastrophe",
-          "source": "Closer",
-          "url": "https://www.closermag.fr/people/bruce-willis-atteint-de-demence-apparait-sur-une-photo-peut-etre-trop-intime-sa-fille-tallulah-belle-willis-prend-une-decision-radicale-en-catastrophe-3670821",
-          "publishedDate": "Mon, 23 Nov 2026 02:38:00 GMT",
-          "description": "Lorsque Tallulah Belle Willis partage une photo jug&#233;e trop intime de son p&#232;re Bruce Willis, 71 ans, la Toile s’enflamme. Entre culpabilit&#233;, maladie et droit &#224; l’image, son revirement soul&#232;ve une quest ..."
-        },
-        {
-          "title": "Tallulah Willis deletes a photo of her father, Bruce Willis, and apologises for sharing an intimate moment",
-          "source": "The Times of India on MSN",
-          "url": "https://www.msn.com/en-in/entertainment/other/tallulah-willis-deletes-a-photo-of-her-father-bruce-willis-and-apologises-for-sharing-an-intimate-moment/ar-AA2i1r0O",
-          "publishedDate": "Sun, 22 Nov 2026 21:33:00 GMT",
-          "description": "Tallulah Willis recently shared a heartfelt moment with her father, Bruce Willis, but later removed the post, citing it felt too personal for public viewing. She highlighted the significance of ..."
-        },
-        {
-          "title": "Tallulah Willis apologizes for ‘intimate’ photo of dad Bruce Willis amid his dementia battle: ‘I can do better’",
-          "source": "Entertainment Weekly on MSN",
-          "url": "https://www.msn.com/en-us/music/news/tallulah-willis-apologizes-for-intimate-photo-of-dad-bruce-willis-amid-his-dementia-battle-i-can-do-better/ar-AA2hYEwd",
-          "publishedDate": "Sun, 22 Nov 2026 12:12:34 GMT",
-          "description": "The “Die Hard” star has been largely absent from public life since being diagnosed with FTD in 2023."
-        },
-        {
-          "title": "Bruce Willis’ daughter Tallulah shares rare photo with dad amid his ongoing dementia battle",
-          "source": "MEAWW News",
-          "url": "https://news.meaww.com/bruce-willis-daughter-tallulah-shares-rare-photo-with-dad-amid-his-ongoing-dementia-battle",
-          "publishedDate": "Sun, 22 Nov 2026 03:25:00 GMT",
-          "description": "LOS ANGELES, CALIFORNIA: Tallulah Willis recently offered a rare glimpse into her quality time with her father, Bruce Willis, 71. The 32-year-old took to Instagram on Saturday, November 21, to share a ..."
-        },
-        {
-          "title": "Bruce Willis' daughter Tallulah slams person who leaked details about dad's health battle: 'Stay away'",
-          "source": "MEAWW News",
-          "url": "https://news.meaww.com/bruce-willis-daughter-tallulah-slams-person-who-leaked-details-about-dads-health-battle-stay-away",
-          "publishedDate": "Wed, 11 Nov 2026 21:58:00 GMT",
-          "description": "Tallulah Willis, 32, addressed the issue in Instagram Stories after reading an article describing an alleged decline in Bruce Willis' health ..."
-        },
-        {
-          "title": "Bruce Willis, 71, Embraces Daughter Tallulah, 32, in Rare Intimate Snap Amid His Dementia Battle",
-          "source": "InStyle on MSN",
-          "url": "https://www.msn.com/en-us/news/other/bruce-willis-71-embraces-daughter-tallulah-32-in-rare-intimate-snap-amid-his-dementia-battle/ar-AA2h92fX",
-          "publishedDate": "Tue, 10 Nov 2026 06:26:07 GMT",
-          "description": "The ‘Die Hard’ actor shares Tallulah, as well as daughters Rumer, 38, and Scout, 35, with ex-wife Demi Moore."
-        },
-        {
-          "title": "Dochter (17) Bruce Willis en Demi Moore opgepakt",
-          "source": "AD",
-          "url": "https://www.ad.nl/sterren/dochter-17-bruce-willis-en-demi-moore-opgepakt~ab19d10c/",
-          "publishedDate": "Tue, 16 Feb 2016 14:47:00 GMT",
-          "description": "Met drie vriendinnen werd Tallulah door de politie betrapt terwijl ze twee flessen alchol bij zich hadden. Omdat de meiden minderjarig zijn, werden ze aangehouden door de plaatselijke autoriteiten."
-        },
-        {
-          "title": "Tallulah Belle, la fille de Demi Moore et Bruce Willis, arr&#234;t&#233;e",
-          "source": "clint",
-          "url": "https://www.clint.be/actua/tallulah-belle-la-fille-de-demi-moore-et-bruce-willis-arr%C3%AAt%C3%A9e",
-          "publishedDate": "Tue, 03 May 2011 00:57:00 GMT",
-          "description": "Tallulah Belle, la fille de Bruce Willis et de Demi Moore, a &#233;t&#233; arr&#234;t&#233;e alors qu'elle sortait de sa voiture avec deux bouteilles d'alcool &#224; la main. Ce n'est pas parce qu'on est une enfant de star ..."
-        }
-      ]
-    },
-    {
-      "keyword": "spaarrekening",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "De Spaarrekening van Jack (51): ‘Ik spaar 2000 euro per maand, vrijwel mijn hele maandsalaris’",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/geld-carriere/spaarrekening/2026/11/spaarrekening-jack-spaar-2000-euro-vrijwel-hele-maandsalaris/",
-          "publishedDate": "Mon, 23 Nov 2026 10:21:00 GMT",
-          "description": "Hoeveel geld staat er op je spaarrekening? Dat vragen we iedere week aan een andere Nederlander. Want hoewel we steeds meer over geld praten, hebben we het nooit over hoeveel we precies verdienen en s ..."
-        },
-        {
-          "title": "Voor welk type spaarrekening ga je het best: gereglementeerd of niet?",
+          "title": "Stuttgart gaat onderuit tegen Galatasaray - Sporting neemt maat van Shakhtar Donetsk in... Londen",
           "source": "Het Laatste Nieuws",
-          "url": "https://www.hln.be/mijn-geld/voor-welk-type-spaarrekening-ga-je-het-best-gereglementeerd-of-niet~a2102513/",
-          "publishedDate": "Fri, 20 Nov 2026 22:02:00 GMT",
-          "description": "De meeste spaarrekeningen in ons land zijn gereglementeerd. Maar er bestaan ook niet-gereglementeerde spaarboekjes. Wat is het verschil tussen beide? En nog belangrijker: welke soort spaarrekening bre ..."
+          "url": "https://www.hln.be/champions-league/stuttgart-gaat-onderuit-tegen-galatasaray-sporting-neemt-maat-van-shakhtar-donetsk-in-londen~a7307616/",
+          "publishedDate": "Tue, 03 Nov 2026 15:58:00 GMT",
+          "description": "Galatasaray heeft een belangrijke zege geboekt. De Turkse topploeg haalde het met 2-0 van Stuttgart, dat het in januari opneemt tegen &lt;a href=&quot;https://www.hln.be/club-brugge/&quot; target=&quot;_blank&quot;&gt;Club Bru ..."
         },
         {
-          "title": "Elke maand €100 opzij: dit kan het na 10, 20 en 30 jaar waard zijn",
-          "source": "Belegger.nl",
-          "url": "https://www.belegger.nl/Artikel/885322/Elke-maand-100-opzij-dit-kan-het-na-10-20-en-30-jaar-waard-zijn.aspx",
-          "publishedDate": "Tue, 17 Nov 2026 23:31:00 GMT",
-          "description": "Je hebt net die streamingdienst opgezegd die je toch niet meer keek, en bij Black Friday liet je dat ‘koopje’ liggen. Dat scheelt al snel een paar tientjes. Maar wat doe je ermee?"
+          "title": "Massale vechtpartij na Fenerbah&#231;e - Galatasaray: 'Ze krabben en trekken aan haren'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/archie-brown-galatasaray-fenerbahce-schorsing-vechtpartij",
+          "publishedDate": "Tue, 27 Oct 2026 08:45:00 GMT",
+          "description": "Archie Brown liep na zijn rode kaart bij Galatasaray - Fenerbah&#231;e helemaal leeg in de persruimte. Een gigantische schorsing dreigt na de vechtpartij."
         },
         {
-          "title": "Spaarrente Rabo, ING en ABN omhoog, maar zijn deze banken voor spaarders nog wel interessant?",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/lifestyle/spaarrente-rabo-ing-en-abn-omhoog-maar-zijn-deze-banken-voor-spaarders-nog-wel-interessant",
-          "publishedDate": "Sun, 08 Nov 2026 03:13:00 GMT",
-          "description": "Grootbanken zoals Rabobank, ING en ABN AMRO hebben hun spaartarieven recent stapsgewijs verhoogd. Hoewel een renteverhoging op het eerste gezicht goed nieuws lijkt, blijft de vraag of het voldoende is ..."
+          "title": "Bizarre beelden: spelers van Galatasaray en Fenerbah&#231;e gaan met elkaar op de vuist",
+          "source": "Voetbalprimeur",
+          "url": "https://www.voetbalprimeur.nl/videos/2151757/meer-beelden-spelers-van-galatasaray-en-fenerbahce-gaan-met-elkaar-op-de-vuist.html",
+          "publishedDate": "Tue, 27 Oct 2026 02:48:00 GMT",
+          "description": "De derby tussen Galatasaray en Fenerbah&#231;e is maandagavond uit de hand gelopen. De spelers van beide Turkse topclubs gingen met elkaar op de vuist, nadat Galatasaray met 2-1 wist te winnen van de grote ..."
         },
         {
-          "title": "De Spaarrekening van Joost (23): ‘Er staat 127.000 euro op’",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/geld-carriere/2026/10/spaarrekening-joost-23-er-staat-127k-euro-op/",
-          "publishedDate": "Mon, 05 Oct 2026 12:31:00 GMT",
-          "description": "„Ik weet nog dat ik op mijn zestiende ongeveer 1100 euro op mijn rekening had staan. Sindsdien ben ik eigenlijk altijd blijven werken en sparen.&quot; ..."
+          "title": "Galatasaray wint derby van Fenerbah&#231;e: Osimhen schittert met dubbelslag",
+          "source": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2151630/victor-osimhen-bezorgt-galatasaray-derbyzege-op-fenerbahce.html",
+          "publishedDate": "Mon, 26 Oct 2026 14:24:00 GMT",
+          "description": "Galatasaray heeft in eigen huis de derby tegen Fenerbah&#231;e weten te winnen. Victor Osimhen besliste het duel door tweemaal te scoren in de 2-1-overwinning. Het enige doelpunt van Fenerbah&#231;e kwam voort ..."
         },
         {
-          "title": "De Rekening van Lola (26): 'Ik heb nu € 30.000 op mijn spaarrekening staan'",
-          "source": "ELLE",
-          "url": "https://www.elle.com/nl/carriere-en-geld/a35307057/de-rekening-lola-spaarrekening/",
-          "publishedDate": "Fri, 21 Mar 2025 23:12:00 GMT",
-          "description": "Hoe ziet jouw rekening eruit? Dat vragen we iedere week in de rubriek De Rekening aan iemand anders, opdat we vaker praten over geld en hoe we daar mee omgaan. Interviews vinden altijd telefonisch ..."
+          "title": "FC Barcelona dendert door in Champions League: Lamine Yamal steelt de show",
+          "source": "FC Update",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/10/galatasaray-barcelona-1-4-lamine-yamal-champions-league",
+          "publishedDate": "Tue, 13 Oct 2026 16:15:00 GMT",
+          "description": "FC Barcelona heeft dinsdagavond zijn indrukwekkende zegereeks voortgezet in de Champions League. De ploeg van trainer Hansi Flick kwam op bezoek bij Galatasaray op achterstand, maar draaide de ..."
         },
         {
-          "title": "Nieuwe spaarrekening openen voor hogere rente? Dit moet je weten: “Bij de populairste bank van het moment moet je tot 2 maanden wachten”",
-          "source": "HLN",
-          "url": "https://www.hln.be/mijn-geld/nieuwe-spaarrekening-openen-voor-hogere-rente-dit-moet-je-weten-bij-de-populairste-bank-van-het-moment-moet-je-tot-2-maanden-wachten~a7e5274b/",
-          "publishedDate": "Sun, 30 Jul 2023 23:15:00 GMT",
-          "description": "Hoewel er in ons land klassiek erg weinig consumenten van bank overstappen, lijken nu toch meer consumenten op zoek te gaan naar een spaarrekening die meer oplevert. Dat leert navraag bij enkele ..."
-        },
-        {
-          "title": "Spaarrekening ook in 2021 vaste waarde, meer mensen kozen voor (duurzaam) beleggen",
-          "source": "Knack",
-          "url": "https://trends.knack.be/geld/spaarrekening-ook-in-2021-vaste-waarde-meer-mensen-kozen-voor-duurzaam-beleggen/",
-          "publishedDate": "Mon, 03 Jan 2022 23:00:00 GMT",
-          "description": "Ondanks de historisch lage rente blijft de spaarrekening een vastewaarde bij de Belg. Dat blijkt uit cijfers van Belfius, BNP Paribas Fortis, KBC, Crelan en ING over 2021. Bij BNP Paribas Fortis ..."
-        },
-        {
-          "title": "BNP lanceert spaarrekening voor rijke spaarder",
-          "source": "Tijd",
-          "url": "https://www.tijd.be/netto/sparen/bnp-lanceert-spaarrekening-voor-rijke-spaarder/9314097.html",
-          "publishedDate": "Mon, 11 May 2020 04:13:00 GMT",
-          "description": "BNP Paribas Fortis pakt uit met een nieuwe spaarrekening en haalt de aangroeipremie opnieuw van stal. De rekening biedt geen hoge rente en spaarders betalen 25 procent roerende voorheffing op de ..."
-        },
-        {
-          "title": "Hoe berekent u de intrest van uw spaarrekening?",
-          "source": "Tijd",
-          "url": "https://www.tijd.be/netto/sparen/hoe-berekent-u-de-intrest-van-uw-spaarrekening/9020209.html",
-          "publishedDate": "Sun, 08 Jan 2012 00:24:00 GMT",
-          "description": "De spaarrekeningen die banken in de etalage zetten, worden er niet doorzichtiger op. Het is geen sinecure om zelf te berekenen op welke rentevergoeding u op het einde van het jaar recht hebt. Hoe ..."
+          "title": "Galatasaray live kijken",
+          "source": "ziggo",
+          "url": "https://www.ziggo.nl/entertainment/sport/voetbal/galatasaray",
+          "publishedDate": "Sun, 26 Jul 2026 19:26:00 GMT",
+          "description": "{&quot;@context&quot;:&quot;https://schema.org&quot;,&quot;@type&quot;:&quot;BreadcrumbList&quot;,&quot;itemListElement&quot;:[{&quot;@type&quot;:&quot;ListItem&quot;,&quot;position&quot;:1,&quot;name&quot;:&quot;Ziggo&quot;,&quot;item&quot;:&quot;https://www.ziggo.nl/&quot;},{&quot;@type ..."
         }
       ]
     },
     {
-      "keyword": "radar",
-      "trafficLabel": "2K+",
+      "keyword": "auto",
+      "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Omstreden radartoren in Herwijnen nadert voltooiing, maar rechtszaak loopt nog",
-          "source": "AD",
-          "url": "https://www.ad.nl/west-betuwe/omstreden-radartoren-in-herwijnen-nadert-voltooiing-maar-rechtszaak-loopt-nog~a64935b5/",
-          "publishedDate": "Mon, 23 Nov 2026 12:01:00 GMT",
-          "description": "De militaire radartoren die in opdracht van het ministerie van Defensie wordt gebouwd in Herwijnen nadert zijn voltooiing. De zogenoemde radarkop en de ronde schijf, waarop de radar komt te draaien, ..."
+          "title": "Elektrische auto die zichzelf oplaadt is eindelijk klaar: rijden zonder laadpaal komt dichterbij",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/auto/elektrische-auto-die-zichzelf-oplaadt-is-eindelijk-klaar-rijden-zonder-laadpaal-komt-dichterbij~a6d40b30/",
+          "publishedDate": "Tue, 24 Nov 2026 04:31:00 GMT",
+          "description": "Een elektrische auto die zichzelf oplaadt zodra hij in de zon staat: het klinkt bijna te mooi om waar te zijn. Maar het Amerikaanse Aptera heeft na jaren vertraging en financi&#235;le problemen eindelijk d ..."
         },
         {
-          "title": "Uitzending Radar 16 november: medisch afvallen en malafide ongediertebestrijder",
-          "source": "Radar",
-          "url": "https://radar.avrotros.nl/artikel/uitzending-radar-16-november-medisch-afvallen-en-malafide-ongediertebestrijder-63177",
-          "publishedDate": "Fri, 13 Nov 2026 02:21:00 GMT",
-          "description": "In de uitzending van maandag 16 november 2026 besteedt Radar aandacht aan medisch afvallen. Zulke medicijnen mogen alleen voorgeschreven worden aan mensen ..."
+          "title": "Brandende kliko richt flinke schade aan bij twee geparkeerde auto’s in Delft",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/112-nieuws-delft/brandende-kliko-richt-flinke-schade-aan-bij-twee-geparkeerde-autos-in-delft~aebb835a/",
+          "publishedDate": "Sun, 22 Nov 2026 05:28:00 GMT",
+          "description": "wee geparkeerde personenauto’s aan de Icarusweg in Delft zijn in de nacht van zaterdag op zondag beschadigd geraakt door een brand. Het vuur ontstond in een kliko en sloeg over naar beide voertuigen."
         },
         {
-          "title": "Radar Doppler UdG",
-          "source": "x",
-          "url": "https://x.com/radardopplerudg",
-          "publishedDate": "Thu, 23 May 2013 17:53:00 GMT",
-          "description": "El Radar Doppler, es una herramienta meteorol&#243;gica que permite saber donde llueve (en tiempo real) y hacia d&#243;nde se dirige la lluvia. Buenos d&#237;as. Hoy amanecemos con cielo con pocas nubes y bancos de ..."
+          "title": "Auto's opgegraven die in WO II voorkwamen dat Duitsers landden bij Soesterberg",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/binnenland/6417191/autos-opgegraven-die-in-wo-ii-voorkwamen-dat-duitsers-landden-bij-soesterberg.html",
+          "publishedDate": "Fri, 20 Nov 2026 00:47:00 GMT",
+          "description": "Archeologen hebben een autowrak opgegraven op de voormalige vliegbasis bij Soesterberg en halen binnenkort nog meer auto's naar boven. De voertuigen zijn daar vermoedelijk neergezet tijdens de Tweede ..."
         },
         {
-          "title": "Understanding Weather Radar",
-          "source": "Weather Underground",
-          "url": "https://www.wunderground.com/prepare/understanding-radar",
-          "publishedDate": "Wed, 01 Dec 2010 20:48:00 GMT",
-          "description": "Precipitation intensity is measured by a ground-based radar that bounces radar waves off of precipitation. The Local Radar base reflectivity product is a display of echo intensity (reflectivity) ..."
+          "title": "Auto over de kop en eindigt total loss in weiland",
+          "source": "Rijnmond",
+          "url": "https://www.rijnmond.nl/nieuws/2287367/auto-over-de-kop-en-eindigt-total-loss-in-weiland",
+          "publishedDate": "Tue, 24 Nov 2026 04:51:00 GMT",
+          "description": "Bij een ongeluk op de Broekseweg/Randweg in Strijen is dinsdagmiddag een auto over de kop geslagen. Het voertuig kwam ondersteboven in het gras terecht, meters van de weg vandaan. Wonderwel is de auto ..."
+        },
+        {
+          "title": "Auto’s botsen frontaal op elkaar bij wegversmalling in Waspik",
+          "source": "Brabants Dagblad",
+          "url": "https://www.bd.nl/waalwijk/autos-botsen-frontaal-op-elkaar-bij-wegversmalling-in-waspik~ab1ddd84/",
+          "publishedDate": "Mon, 23 Nov 2026 10:16:00 GMT",
+          "description": "Twee auto’s zijn maandagmiddag frontaal op elkaar gebotst bij de wegversmalling op de Nieuwe Provinciale Weg in Waspik. Beide auto’s raakten flink beschadigd door de klap."
+        },
+        {
+          "title": "Auto knalt op voorganger bij Intratuin Deventer",
+          "source": "De Stentor",
+          "url": "https://www.destentor.nl/112-nieuws-deventer/auto-knalt-op-voorganger-bij-intratuin-deventer~a18b9700/",
+          "publishedDate": "Mon, 23 Nov 2026 09:13:00 GMT",
+          "description": "Een auto is op zijn voorganger gebotst bij de verkeerslichten op de N348 in Deventer. Beide auto’s raakten flink beschadigd, maar niemand raakte gewond."
+        },
+        {
+          "title": "Archeologen graven auto's op bij vliegbasis Soesterberg",
+          "source": "RTV Utrecht",
+          "url": "https://www.rtvutrecht.nl/nieuws/4121394/archeologen-graven-autos-op-bij-vliegbasis-soesterberg",
+          "publishedDate": "Thu, 19 Nov 2026 22:00:00 GMT",
+          "description": "Archeologen hebben op de voormalige vliegbasis Soesterberg twee autowrakken opgegraven. Waarschijnlijk zijn de wagens in 1940 op de landingsbaan gezet, zodat Duitse vliegtuigen er niet konden landen."
+        },
+        {
+          "title": "RDW grijpt in: politie mag deze auto's vanaf vandaag zomaar in beslag nemen",
+          "source": "Auto Review",
+          "url": "https://www.autoreview.nl/nieuws/id/38492/rdw-tenaamstelling-vandaag-politie-inbeslagname",
+          "publishedDate": "Tue, 17 Nov 2026 16:15:00 GMT",
+          "description": "De RDW be&#235;indigt vandaag de tenaamstelling van auto's van eigenaren die uit de BRP zijn uitgeschreven. Zo voorkom je inbeslagname."
+        },
+        {
+          "title": "Twee gewonden na botsing tussen bestelbus en auto in Erlecom, auto belandt in berm",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/112-nieuws-berg-en-dal/twee-gewonden-na-botsing-tussen-bestelbus-en-auto-in-erlecom-auto-belandt-in-berm~a994bc38/",
+          "publishedDate": "Tue, 10 Nov 2026 08:33:00 GMT",
+          "description": "Twee personen zijn dinsdagmiddag gewond geraakt bij een ongeluk op de Kapitteldijk in Erlecom. Een bestelbus botste daar achter op een personenauto, waarna de auto van de dijk raakte. Beide inzittende ..."
+        },
+        {
+          "title": "Autoblog TV: 24 uur per dag auto's op tv",
+          "source": "Autoblog.nl",
+          "url": "https://www.autoblog.nl/autoblog-tv",
+          "publishedDate": "Thu, 04 Jun 2026 05:10:00 GMT",
+          "description": "Kijk gratis naar Autoblog TV. Rijtesten, roadtrips, occasions, supercars en klassiekers. Live via Rakuten TV en Samsung TV Plus."
+        }
+      ]
+    },
+    {
+      "keyword": "cyberaanval banken",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Gevaar voor pensioenen &#233;n risico van cyberaanval: Olaf Sleijpen, baas Nederlandsche Bank, ziet bedreigingen voor Nederland",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/nederland/gevaar-voor-pensioenen-en-risico-van-cyberaanval-olaf-sleijpen-baas-nederlandsche-bank-ziet-bedreigingen-voor-nederland~bf297f71/",
+          "publishedDate": "Tue, 24 Nov 2026 08:10:00 GMT",
+          "description": "Code rood is het n&#233;t niet, maar de Nederlandse economie loopt wel groot gevaar door cyberincidenten. Dat zegt Olaf Sleijpen, president van De Nederlandsche Bank (DNB). Hij waarschuwt voor een ingrijpe ..."
+        },
+        {
+          "title": "DNB vreest cyberaanval op banken en raadt aan cash voor drie dagen te hebben",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/economie/6417640/dnb-vreest-cyberaanval-op-banken-en-raadt-aan-cash-voor-drie-dagen-te-hebben.html",
+          "publishedDate": "Tue, 24 Nov 2026 08:00:00 GMT",
+          "description": "Consumenten en financi&#235;le instellingen zoals banken moeten zich goed voorbereiden op een mogelijke grote cyberaanval, waarbij het betalingsverkeer kan uitvallen. Daarvoor waarschuwt De Nederlandsche B ..."
+        },
+        {
+          "title": "JPMorgan Chase veroorzaakt storing bij duizenden klanten van grote Amerikaanse banken",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/buitenland/jpmorgan-chase-veroorzaakt-storing-bij-duizenden-klanten-van-grote-amerikaanse-banken~aa7297a6/",
+          "publishedDate": "Mon, 16 Nov 2026 01:02:00 GMT",
+          "description": "Duizenden klanten meldden maandag problemen met de toegang tot hun online bankrekeningen bij verschillende grote Amerikaanse banken. De storing ontstond nadat een technisch probleem bij JPMorgan Chase ..."
+        },
+        {
+          "title": "Toezichthouder maakt zich zorgen over cyberincidenten: ook bank straks doelwit",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2638855-toezichthouder-maakt-zich-zorgen-over-cyberincidenten-ook-bank-straks-doelwit",
+          "publishedDate": "Tue, 10 Nov 2026 05:06:00 GMT",
+          "description": "Volgens de Autoriteit Financi&#235;le Markten is het niet de vraag of banken worden geraakt door een cyberaanval, maar wanneer en hoe groot de impact zal zijn."
+        },
+        {
+          "title": "Sleijpen waarschuwt voor mogelijk dagenlange verstoring banken",
+          "source": ".ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/geldzaken/other/sleijpen-waarschuwt-voor-mogelijk-dagenlange-verstoring-banken/ar-AA2i8a6a",
+          "publishedDate": "Tue, 24 Nov 2026 08:02:00 GMT",
+          "description": "AMSTERDAM (ANP) - Het Nederlandse financi&#235;le systeem wordt in toenemende mate bedreigd door cyberaanvallen. President Olaf Sleijpen van De Nederlandsche Bank (DNB) waarschuwt dat aanvallen van hackers ..."
+        },
+        {
+          "title": "Hackers stelen klantgegevens van Visa, Mastercard en JPMorgan",
+          "source": "Newsbit",
+          "url": "https://newsbit.nl/grote-hack-bij-visa-mastercard-en-jpmorgan-duizenden-klanten-getroffen/",
+          "publishedDate": "Fri, 20 Nov 2026 12:40:00 GMT",
+          "description": "Visa, Mastercard en JPMorgan zijn getroffen door een datalek. Duizenden klantgegevens liggen op straat. Wat betekent dit voor klanten?"
+        },
+        {
+          "title": "AFM waarschuwt: niet &#243;f, maar wanneer een cyberaanval komt",
+          "source": "Newsbit",
+          "url": "https://newsbit.nl/afm-waarschuwt-voor-grote-cyberaanval-niet-of-maar-wanneer/",
+          "publishedDate": "Fri, 20 Nov 2026 06:22:00 GMT",
+          "description": "AFM waarschuwt voor cyberaanvallen op banken en cryptoplatformen. Ook cryptofraude en miljarden aan erfenissen vergroten de risico's."
+        },
+        {
+          "title": "Amerika getroffen door golf van mysterieuze storingen: banken, vliegvelden en zelfs NSA plat",
+          "source": "De Dagelijkse Standaard",
+          "url": "https://www.dagelijksestandaard.nl/buitenland/wat-is-er-aan-de-hand-in-de-vs-storingen-treffen-banken-luchtvaart-en-overheid-we-worden-niet-aangevallen",
+          "publishedDate": "Wed, 18 Nov 2026 04:15:00 GMT",
+          "description": "Grote storingen treffen Amerikaanse banken, luchtvaartmaatschappijen, Microsoft, Apple en de NSA. De overheid ontkent een cyberaanval, maar de zorgen groeien."
+        },
+        {
+          "title": "Een Franse bank verloor ongeveer €100 miljoen bij een cyberaanval die &quot;zeer waarschijnlijk&quot; werd ondersteund door AI",
+          "source": "notebookcheck",
+          "url": "https://www.notebookcheck.nl/Een-Franse-bank-verloor-ongeveer-EUR100-miljoen-bij-een-cyberaanval-die-zeer-waarschijnlijk-werd-ondersteund-door-AI.1450984.0.html",
+          "publishedDate": "Sun, 15 Nov 2026 08:45:00 GMT",
+          "description": "Cr&#233;dit Mutuel Ark&#233;a meldde een verlies van ongeveer €100 miljoen nadat aanvallers via een gehackte dienstverlener de systemen waren binnengedrongen en frauduleuze instantoverschrijvingen hadden gebrui ..."
+        },
+        {
+          "title": "Hackers vallen bank aan: moedergroep Keytrade Bank raamt verlies van cyberaanval op meer dan 100 miljoen euro",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/economie/hackers-vallen-bank-aan-moedergroep-keytrade-bank-raamt-verlies-van-cyberaanval-op-meer-dan-100-miljoen-euro~af35c7d1/",
+          "publishedDate": "Wed, 04 Nov 2026 14:10:00 GMT",
+          "description": "De Franse groep Cr&#233;dit Mutuel Ark&#233;a is het slachtoffer geworden van een cyberaanval waarbij “frauduleuze operaties” konden worden uitgevoerd. Dat heeft de moedergroep van de Belgische Keytrade Bank ve ..."
+        }
+      ]
+    },
+    {
+      "keyword": "arsenal - bvb",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Pikante Aussagen vor Arsenal – Dortmund: Hummels heizt Kovac-Diskussion beim BVB an",
+          "source": "DerWesten.de",
+          "url": "https://www.derwesten.de/sport/fussball/bvb/bvb-mats-hummels-niko-kovac-spielstil-kritik-id302205568.html",
+          "publishedDate": "Tue, 24 Nov 2026 13:09:00 GMT",
+          "description": "Trotz Tabellenf&#252;hrung rei&#223;t die Debatte um den Fu&#223;ball des BVB nicht ab. Jetzt sorgt Mats Hummels mit deutlichen Worten f&#252;r neuen Gespr&#228;chsstoff."
+        },
+        {
+          "title": "BVB jetzt live! FC Arsenal - Borussia Dortmund: 1:0 - Champions League im Liveticker",
+          "source": "Westdeutsche Allgemeine Zeitung",
+          "url": "https://www.waz.de/sport/borussia-dortmund/article413760354/bvb-jetzt-live-fc-arsenal-borussia-dortmund-champions-league-im-liveticker.html",
+          "publishedDate": "Tue, 24 Nov 2026 12:58:00 GMT",
+          "description": "Borussia Dortmund ist in der Champions League beim FC Arsenal gefordert. Kann der BVB auch auf internationaler B&#252;hne &#252;berzeugen? Das Spiel im Liveticker."
+        },
+        {
+          "title": "Arsenal vs. Borussia Dortmund (BVB) LIVE: Champions League im LIVE-TICKER: 1:0",
+          "source": "DAZN",
+          "url": "https://www.dazn.com/de-DE/news/fussball/arsenal-vs-borussia-dortmund-bvb-live-champions-league-ticker-blog/13l1e6atxtvp61qw9bglcf2vup",
+          "publishedDate": "Tue, 24 Nov 2026 12:00:00 GMT",
+          "description": "Arsenal und der BVB treffen am 5. Spieltag in der Champions League aufeinander. Hier gibt es den LIVE-TICKER zur Partie."
+        },
+        {
+          "title": "Arsenal London gegen BVB: Champions League heute live und gratis im TV?",
+          "source": "COMPUTER BILD on MSN",
+          "url": "https://www.msn.com/de-de/nachrichten/other/arsenal-london-gegen-bvb-champions-league-heute-live-und-gratis-im-tv/ar-AA2i2d35",
+          "publishedDate": "Tue, 24 Nov 2026 11:00:00 GMT",
+          "description": "Prominenter Gegner in der Champions League 2026/27: Borussia Dortmund gastiert bei Arsenal London. Gibt es das Spiel heute gratis live im TV und Stream?"
+        },
+        {
+          "title": "Livestream: Arsenal - BVB live sehen",
+          "source": "DAZN",
+          "url": "https://www.dazn.com/de-DE/news/fussball/livestream-arsenal-bvb-live-sehen-champions-league/1glkcokuh3k6a1fz1iwollofyz",
+          "publishedDate": "Tue, 24 Nov 2026 10:16:00 GMT",
+          "description": "In der Champions League muss Borussia Dortmund beim Vorjahresfinalisten FC Arsenal ran. Kann der BVB auch in London bestehen? Wir liefern alle Infos zur &#220;bertragung des Spiels im Livestream."
+        },
+        {
+          "title": "Winter-Abschied vom BVB? So plant Arsenal mit Nwaneri",
+          "source": "Fussballdaten",
+          "url": "https://www.fussballdaten.de/news/winter-abschied-bvb-so-plant-arsenal-nwaneri/",
+          "publishedDate": "Tue, 24 Nov 2026 09:04:00 GMT",
+          "description": "Ethan Nwaneri kommt bei Borussia Dortmund zuletzt kaum noch zum Zug. Der FC Arsenal k&#246;nnte seine Leihgabe bereits im Winter zur&#252;ckholen – nun werden die Pl&#228;ne der Londoner bekannt."
+        },
+        {
+          "title": "BVB verspielt 2:0-F&#252;hrung beim FC Arsenal",
+          "source": "sport.de",
+          "url": "https://www.sport.de/news/ne17471705/bvb-verspielt-20-fuehrung-beim-fc-arsenal/",
+          "publishedDate": "Tue, 24 Nov 2026 08:50:00 GMT",
+          "description": "Bittere Partie f&#252;r Borussia Dortmund! Die U19 des BVB hat im Rahmen der Youth League am Dienstagnachmittag eine 2:0-F&#252;hrung beim FC Arsenal verspielt. Der Spielverlauf glich einer schwarzgelben Achter ..."
+        },
+        {
+          "title": "Fu&#223;ball heute: Arsenal gegen BVB live 1:0 (Halbzeit) bei Prime Video",
+          "source": "Deutsche Fu&#223;ballnationalmannschaft",
+          "url": "https://www.fussballnationalmannschaft.net/fussball-live-tv-amazon-27-123304794.html",
+          "publishedDate": "Tue, 24 Nov 2026 04:00:00 GMT",
+          "description": "Wer &#252;bertr&#228;gt Arsenal gegen Dortmund? Am Dienstag um 21 Uhr live und exklusiv bei Prime Video, Sendebeginn 20 Uhr. Nicht bei DAZN, nicht im Free-TV."
+        },
+        {
+          "title": "Verletzungs-Schock vor Arsenal vs. BVB",
+          "source": "sport.de",
+          "url": "https://www.sport.de/news/ne17469278/verletzungs-schock-vor-arsenal-vs-bvb/",
+          "publishedDate": "Mon, 23 Nov 2026 23:04:00 GMT",
+          "description": "Wenn Borussia Dortmund am Dienstagabend im Rahmen der Champions League beim FC Arsenal zu Gast ist, ist die Favoritenrolle klar verteilt: Die Gunners m&#252;ssen vor heimischer Kulisse gegen den BVB allerd ..."
+        },
+        {
+          "title": "Wer &#252;bertr&#228;gt FC Arsenal gegen den BVB live im TV und Stream in &#214;sterreich?",
+          "source": "kicker",
+          "url": "https://www.kicker.at/wer-uebertraegt-fc-arsenal-gegen-den-bvb-live-im-tv-und-stream-in-oesterreich-1274243/artikel",
+          "publishedDate": "Mon, 23 Nov 2026 22:30:00 GMT",
+          "description": "F&#252;r den BVB steht in der K&#246;nigsklasse eine Ausw&#228;rtsreise zum FC Arsenal nach London an. Wo ihr die Partie live in &#214;sterreich verfolgen k&#246;nnt, erfahrt ihr hier."
+        }
+      ]
+    },
+    {
+      "keyword": "griep",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Griepseizoen komt eraan: wanneer draag je een mondkapje?",
+          "source": "De Castricummer",
+          "url": "https://www.castricummer.nl/nieuws/zorg/131524/griepseizoen-komt-eraan-wanneer-draag-je-een-mondkapje-",
+          "publishedDate": "Sun, 22 Nov 2026 01:00:00 GMT",
+          "description": "Regio - Niezen, hoesten en keelpijn: steeds meer mensen hebben last van luchtwegklachten. Dat betekent dat het griepseizoen in aantocht is. Wat houdt dit nu eigenlijk in? Hoe voorkom je dat je ander.."
+        },
+        {
+          "title": "Gisteren (19 november) om 19:00",
+          "source": "Omroep Brabant",
+          "url": "https://www.omroepbrabant.nl/nieuws/6034113/piet-gaat-griep-met-zijn-betersoep-te-lijf-goed-eten-is-de-basis",
+          "publishedDate": "Thu, 19 Nov 2026 10:59:00 GMT",
+          "description": "Wie in de straat van Piet van Beurden uit Tilburg ziek wordt, kan zomaar een pan soep voor de deur krijgen. Piet maakt zijn eigen ‘betersoep’, boordevol groenten, kruiden en bijzondere ingredi&#235;nten. E ..."
+        },
+        {
+          "title": "GGD waarschuwt: griep gaat rond op Bonaire",
+          "source": "nu",
+          "url": "https://nu.cw/2026/11/12/ggd-waarschuwt-griep-gaat-rond-op-bonaire/",
+          "publishedDate": "Thu, 12 Nov 2026 09:20:00 GMT",
+          "description": "De griep gaat momenteel rond op Bonaire. De GGD waarschuwt inwoners voor een toename van griepgevallen en roept op om voorzorgsmaatregelen te nemen om verdere verspreiding te voorkomen. Dat meldt het ..."
+        },
+        {
+          "title": "Griep: Wanneer bereikt de epidemie in Itali&#235; zijn piek? Achtergrondinformatie over het bulletin.",
+          "source": "Notizie.it",
+          "url": "https://www.notizie.it/nl/Italiaanse-griep%3A-wanneer-is-het-hoogtepunt-van-de-symptomen--achtergrondinformatie/",
+          "publishedDate": "Sat, 07 Nov 2026 07:02:00 GMT",
+          "description": "Het griepseizoen 2026-2027 is begonnen, maar een opvallende afwezige is het wekelijkse RespiVirNe-bulletin, dat elke vrijdag werd gepubliceerd door het Nationaal Instituut voor Volksgezondheid en waar ..."
+        },
+        {
+          "title": "Waarom is vaccinatie tegen griep belangrijk?",
+          "source": "Testaankoop",
+          "url": "https://www.test-aankoop.be/gezond/ziekten-en-geneesmiddelen/ziekten-en-gezondheidsproblemen/antwoord-van-expert/griep-vaccinatie-belgie",
+          "publishedDate": "Tue, 13 Oct 2026 00:09:00 GMT",
+          "description": "Elk jaar breekt er tussen oktober en maart een griepepidemie uit. Je kunt je hierop voorbereiden door je te laten vaccineren. Om beschermd te blijven, moet je je wel elk jaar opnieuw laten inenten."
+        },
+        {
+          "title": "Heb je een verkoudheid of de griep? Een nieuwe smaaktest moet straks duidelijkheid geven",
+          "source": "metronieuws",
+          "url": "https://www.metronieuws.nl/lifestyle/fit-gezond/2025/10/heb-griep-of-duidelijkheid-xyz/",
+          "publishedDate": "Mon, 06 Oct 2025 00:54:00 GMT",
+          "description": "Het griepseizoen staat weer voor de deur en dat betekent dat de twijfel bij veel mensen toeslaat: zijn ze verkouden &#243;f hebben ze de griep te pakken? In het laatste geval is het fijn als je het weet, ..."
+        },
+        {
+          "title": "Het onderscheid herkennen - Griep of een verkoudheid?",
+          "source": "weerenradar",
+          "url": "https://www.weerenradar.nl/weer-nieuws/het-onderscheid-herkennen-griep-of-een-verkoudheid--6e963bb2-8009-4cea-8fb4-7d2eba551be8",
+          "publishedDate": "Sat, 11 Dec 2021 00:30:00 GMT",
+          "description": "De termen verkoudheid en griep worden vaak door elkaar gebruikt, ook al zijn het twee verschillende ziekten. De uitdrukking &quot;influenza-achtige infectie&quot; zorgt voor extra verwarring, hoewel het griep ..."
+        },
+        {
+          "title": "Griep of Covid-19: hoe herken je het verschil?",
+          "source": "Business AM",
+          "url": "https://businessam.be/de-griep-of-covid-19-hoe-herken-je-het-verschil/",
+          "publishedDate": "Sun, 03 Oct 2021 22:03:00 GMT",
+          "description": "Het griepseizoen staat opnieuw voor de deur. Tijdens die periode is het niet altijd eenvoudig om vast te stellen of je al dan niet een coronabesmetting hebt opgelopen. Waar moet je op letten? Met de ..."
+        }
+      ]
+    },
+    {
+      "keyword": "real madrid",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "Spektakelstuk in Spanje: PSV onder 19 speelt gelijk tegen Real Madrid dankzij prachtgoals Bro Hansen",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/spektakelstuk-in-spanje-psv-onder-19-speelt-gelijk-tegen-real-madrid-dankzij-prachtgoals-bro-hansen~a77141ca/",
+          "publishedDate": "Tue, 24 Nov 2026 10:05:00 GMT",
+          "description": "PSV onder 19 heeft bij Real Madrid in de UEFA Youth League een gelijkspel over de streep getrokken. De ploeg van trainer Jasper Waalkens stond in het laatste halfuur met een man minder, maar speelde s"
+        },
+        {
+          "title": "Perisic schrijft historie in Bernabeu",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/psv-er-perisic-schrijft-historie-in-bernabeu-met-openingstreffer-tegen-real-madrid",
+          "publishedDate": "Tue, 24 Nov 2026 12:50:00 GMT",
+          "description": "Aan PSV dinsdagavond de taak om voor een stunt te zorgen in de Champions League op bezoek bij Real Madrid. Via een rake strafschop van Ivan Perisic kwamen de Eindhovenaren in ieder geval op voorsprong"
+        }
+      ]
+    },
+    {
+      "keyword": "ricardo pepi",
+      "trafficLabel": "5K+",
+      "articles": [
+        {
+          "title": "‘Eredivisie-supertransfer door blessure Harry Kane’",
+          "source": "Soccernews.nl",
+          "url": "https://www.soccernews.nl/news/eredivisie-supertransfer-door-blessure-harry-kane/",
+          "publishedDate": "Tue, 24 Nov 2026 07:51:00 GMT",
+          "description": "Harry Kane ligt er de komende maanden uit met een blessure. Daarom wil Bayern M&#252;nchen de markt op voor een extra spits, want alternatieven heeft coach ..."
+        },
+        {
+          "title": "Georges Mikautadze is hierom betere optie voor Bayern M&#252;nchen dan Ricardo Pepi",
+          "source": "FootballTransfers",
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/de-bundesliga/2026/11/georges-mikautadze-is-hierom-betere-optie-voor-bayern-munchen-dan-ricardo-pepi",
+          "publishedDate": "Tue, 24 Nov 2026 06:55:00 GMT",
+          "description": "Bayern M&#252;nchen zoekt een vervanger voor Harry Kane en denkt daarbij onder meer aan de komst van Ricardo Pepi. In Duitsland lijkt men echter beter in te kunnen zetten op de komst van Georges Mikautadze ..."
+        },
+        {
+          "title": "'Absolute grootmacht zet PSV-spits Pepi op lijst met mogelijke winteraankopen'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/absolute-grootmacht-zet-psv-spits-pepi-op-lijst-met-mogelijke-winteraankopen/ar-AA2i8wyr",
+          "publishedDate": "Tue, 24 Nov 2026 06:25:00 GMT",
+          "description": "De naam van Ricardo Pepi prijkt op het lijstje van Bayern M&#252;nchen. Dat schrijft La Gazzetta dello Sport . Der Rekordmeister zou in januari een spits willen aantrekken, nu Harry Kane langdurig uit de r ..."
+        },
+        {
+          "title": "'Bayern vindt potenti&#235;le vervanger Kane in de Eredivisie'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/ricardo-pepi-bayern-munchen-vervanger-kane",
+          "publishedDate": "Tue, 24 Nov 2026 05:20:00 GMT",
+          "description": "Slaat Bayern M&#252;nchen plots toe in Eindhoven? Na de zware enkelblessure van sterspeler Harry Kane duikt de naam van PSV-spits Ricardo Pepi op in M&#252;nchen."
+        },
+        {
+          "title": "PSV-spits Ricardo Pepi in beeld bij Bayern M&#252;nchen als vervanger Harry Kane",
+          "source": "FootballTransfers",
+          "url": "https://www.footballtransfers.com/nl/transfernieuws/de-bundesliga/2026/11/psv-spits-ricardo-pepi-in-beeld-als-vervanger-harry-kane-transfer-kent-een-risico",
+          "publishedDate": "Tue, 24 Nov 2026 03:54:00 GMT",
+          "description": "Bayern M&#252;nchen is door de blessure van Harry Kane op zoek naar een nieuwe spits. De Duitse topclub zou daarbij onder meer denken aan de komst van PSV-spits Ricardo Pepi."
+        },
+        {
+          "title": "‘Bayern Munchen meldt zich bij PSV voor 23-jarige Ricardo Pepi’",
+          "source": "Voetbal4u",
+          "url": "https://www.voetbal4u.com/2026/11/24/bayern-munchen-meldt-zich-bij-psv-voor-23-jarige-ricardo-pepi/",
+          "publishedDate": "Mon, 23 Nov 2026 20:12:00 GMT",
+          "description": "Ricardo Pepi mag zich in de belangstelling heugen van Bayern Munchen. Met dit nieuws pakt het Italiaanse medium 'La Gazzetta dello Sport' vandaag uit. De Europese eliteclub zou in januari graag een ex ..."
+        },
+        {
+          "title": "Bosz heeft moeite met 'teleurstellen' PSV'er: 'Hij zat in zijn beste fase, maar...'",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/bosz-psv-flamingo-pepi-geertruida-moeilijk",
+          "publishedDate": "Sat, 21 Nov 2026 08:22:00 GMT",
+          "description": "Peter Bosz vind het niet 'moeilijk' om Ricardo Pepi teleur te stellen bij PSV, maar had veel meer moeite met het passeren van Ryan Flamingo."
+        },
+        {
+          "title": "'Ricardo Pepi zal het daar totaal niet mee eens zijn'",
+          "source": "PSV Inside",
+          "url": "https://www.psvinside.nl/nieuws/ricardo-pepi-zal-het-daar-totaal-niet-mee-eens-zijn",
+          "publishedDate": "Thu, 19 Nov 2026 12:13:00 GMT",
+          "description": "Ricardo Pepi is weer terug bij PSV nadat de aanvaller op bezoek bij FC Twente geblesseerd raakte. Ppei kende vorig seizoen ook de nodige pech met blessureleed."
+        },
+        {
+          "title": "PSV-spits Ricardo Pepi hervat training na blessureleed: 'Hij houdt niet in'",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/psv-spits-ricardo-pepi-hervat-training-na-blessureleed-hij-houdt-niet-in-2026103014034790837/",
+          "publishedDate": "Fri, 30 Oct 2026 08:09:00 GMT",
+          "description": "Ricardo Pepi traint weer mee met de selectie van PSV. Dat vertelde trainer Peter Bosz tijdens een persconferentie in aanloop naar het Eredivisieduel met Willem II. Toch klinken er ook negatieve ..."
         }
       ]
     }
