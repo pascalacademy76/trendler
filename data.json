@@ -1,85 +1,332 @@
 {
-  "fetchedAt": "2026-11-26T15:32:38.931Z",
+  "fetchedAt": "2026-11-27T00:13:13.551Z",
   "trends": [
     {
-      "keyword": "oekraïne",
+      "keyword": "ajax - thun",
+      "trafficLabel": "200K+",
+      "articles": [
+        {
+          "title": "Bounida leidt Ajax langs Thun met twee goals, Berghuis zorgt voor fraai slotakkoord",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2641156-bounida-leidt-ajax-langs-thun-met-twee-goals-berghuis-zorgt-voor-fraai-slotakkoord",
+          "publishedDate": "Thu, 26 Nov 2026 11:42:00 GMT",
+          "description": "In de Johan Cruijff Arena wordt het 4-0. Het is voor Ajax de derde zege in vier wedstrijden in de Conference League."
+        },
+        {
+          "title": "Ajax met goed gevoel richting Klassieker na ruime zege op FC Thun, prachtige goals Bounida en Berghuis",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/ajax/ajax-met-goed-gevoel-richting-klassieker-na-ruime-zege-op-fc-thun-prachtige-goals-bounida-en-berghuis~b927b742/",
+          "publishedDate": "Thu, 26 Nov 2026 08:49:00 GMT",
+          "description": "Ajax heeft de derde zege (4-0) op rij geboekt in de Conference League, mede dankzij prachtige goals van Rayane Bounida en Steven Berghuis. Ajax is inmiddels acht wedstrijden ongeslagen, waardoor de cl ..."
+        },
+        {
+          "title": "Live: Ajax - FC Thun | Ajax met goed gevoel richting Klassieker na ruime zege op FC Thun",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/ajax/live-ajax-fc-thun-ajax-met-goed-gevoel-richting-klassieker-na-ruime-zege-op-fc-thun~b927b742/",
+          "publishedDate": "Thu, 26 Nov 2026 08:49:00 GMT",
+          "description": "Ajax zit in een goede fase. De Amsterdammers zijn al zeven wedstrijden in alle competities ongeslagen. Vanavond neemt Ajax het in de Conference League thuis op tegen het Zwitserse FC Thun. Volg het du ..."
+        },
+        {
+          "title": "Bounida steelt de show bij Ajax - FC Thun: 'Dit is de beste versie van mezelf'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/bounida-steelt-de-show-bij-ajax-fc-thun-dit-is-de-beste-versie-van-mezelf/ar-AA2ijEuM",
+          "publishedDate": "Thu, 26 Nov 2026 14:51:21 GMT",
+          "description": "Rayane Bounida voelt zich kiplekker bij Ajax. De jonge spelmaker was donderdag twee keer trefzeker tegen FC Thun , waaronder &#233;&#233;n keer met een schitterende vrije trap. Na de wedstrijd spreekt Bounida o ..."
+        },
+        {
+          "title": "Zwitserse media eensgezind: 'Imponerend Ajax veegt FC Thun weg'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/zwitserse-media-eensgezind-imponerend-ajax-veegt-fc-thun-weg/ar-AA2ijkvW",
+          "publishedDate": "Thu, 26 Nov 2026 13:25:02 GMT",
+          "description": "Een dominant Ajax boekte een zeer verdiende zege op FC Thun in de Conference League. De Amsterdammers wisten te imponeren en waren een paar maatjes te groot, zo oordelen de Zwitserse media na de 4-0 i ..."
+        },
+        {
+          "title": "Zwitserse pers zag Thun 'weggeveegd' worden door Ajax: 'Maar dat is geen schande'",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/zwitserse-pers-zag-thun-weggeveegd-worden-door-ajax-maar-dat-is-geen-schande",
+          "publishedDate": "Thu, 26 Nov 2026 12:51:00 GMT",
+          "description": "Er viel voor FC Thun niets te halen in de Johan Cruijff Arena, zo zag ook de Zwitserse pers na de dikke nederlaag van de ploeg uit Berner Oberland tegen Ajax. De Amsterdammers waren meer dan een maatj ..."
+        },
+        {
+          "title": "UEFA Conference League: Ajax beleeft zorgeloze avond in Conference League – Ruime 4-0 zege op Zwitsers kampioen FC Thun",
+          "source": "Eurosport",
+          "url": "https://www.eurosport.nl/voetbal/uefa-conference-league/2026-2027/uefa-conference-league-ajax-beleeft-zorgeloze-avond-in-conference-league-ruime-4-0-zege-op-zwitsers-kampioen-fc-thun_sto23359124/story.shtml",
+          "publishedDate": "Thu, 26 Nov 2026 12:43:00 GMT",
+          "description": "Ajax heeeft simpel met 4-0 gewonnen van FC Thun in de UEFA Conference League. Rayane Bounida werd de man van de wedstrijd met twee doelpunten."
+        },
+        {
+          "title": "Ajax heeft geen kind aan FC Thun en boekt dankzij fraaie doelpunten belangrijke zege in Conference League",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/ajax-heeft-geen-kind-aan-fc-thun-en-boekt-dankzij-fraaie-doelpunten-belangrijke-zege-in-conference-league-2026112616114958690/",
+          "publishedDate": "Thu, 26 Nov 2026 12:39:00 GMT",
+          "description": "Ajax kende een heerlijke Europese avond in de Johan Cruijff ArenA. De Amsterdammers waren oppermachtig tegen het Zwitserse FC Thun en boekten een overtuigende 4-0-zege, opgeluisterd met twee schittere ..."
+        },
+        {
+          "title": "Ajax scoort vier keer tegen FC Thun in Conference League (4-0)",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/in-het-nieuws/sport/2026/11/ajax-thun-bounida-overwinning-conference-br/",
+          "publishedDate": "Thu, 26 Nov 2026 11:43:00 GMT",
+          "description": "Ajax verslaat FC Thun met 40 en boekt derde Conference League zege op rij dankzij twee doelpunten van Bounida."
+        },
+        {
+          "title": "Door elkaar gehusseld Ajax wint zorgeloos met 4-0 van FC Thun",
+          "source": "Ajaxinside.nl",
+          "url": "https://www.ajaxinside.nl/door-elkaar-gehusseld-ajax-wint-zorgeloos-met-4-0-van-fc-thun/",
+          "publishedDate": "Thu, 26 Nov 2026 11:42:00 GMT",
+          "description": "Ajax is goed bezig in de Conference League in de strijd om directe plaatsing voor de volgende ronde. Vanavond in de uitverkochte Johan Cruijff Arena was de Zwitserse club FC Thun de tegenstander. Het ..."
+        }
+      ]
+    },
+    {
+      "keyword": "nec",
       "trafficLabel": "20K+",
       "articles": [
         {
-          "title": "Wat doet Oekra&#239;ne in Libi&#235;? Waar Russen vechten, vechten Oekra&#239;ners aan de andere kant",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/11/26/wat-doet-oekraine-in-libie-waar-russen-vechten-vechten-oekrainers-aan-de-andere-kant-a4942269",
-          "publishedDate": "Thu, 26 Nov 2026 07:02:00 GMT",
-          "description": "Oekra&#239;ne in Libi&#235;: Russische bondgenoten in de Sahel krijgen wapens via de havens in Libi&#235;. Voor Oekra&#239;ne, dat afgelopen weekend een Russisch oorlogsschip tot zinken bracht in de haven van Benghazi, i ..."
-        },
-        {
-          "title": "Trump en Rutte roepen Rusland op de oorlog in Oekra&#239;ne niet verder uit te breiden",
-          "source": "NRC",
-          "url": "https://www.nrc.nl/nieuws/2026/11/26/trump-en-rutte-roepen-rusland-op-de-oorlog-in-oekraine-niet-verder-uit-te-breiden-a4942340",
-          "publishedDate": "Wed, 25 Nov 2026 21:50:00 GMT",
-          "description": "De Amerikaanse president Donald Trump en NAVO-topman Mark Rutte hebben Rusland opgeroepen geen acties te ondernemen die de oorlog in Oekra&#239;ne verder uitbreiden. Dat staat in een gezamenlijke verklarin ..."
-        },
-        {
-          "title": "Van Finse Golf tot Libische haven, Oekra&#239;ne slaat toe: 'Rusland is nergens meer veilig'",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2640868-van-finse-golf-tot-libische-haven-oekraine-slaat-toe-rusland-is-nergens-meer-veilig",
-          "publishedDate": "Tue, 24 Nov 2026 09:53:00 GMT",
-          "description": "De aanval op de havenstad Benghazi past binnen de strategie van Oekra&#239;ne om de Russische oorlogsvoering steeds vaker economisch en logistiek hard te raken, zegt defensieanalist Davis Ellison."
-        },
-        {
-          "title": "LIVE Oorlog Oekra&#239;ne | Zelensky bevestigt aanval op Russisch vrachtschip in Finse Golf, Europese partners bezorgd",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/buitenland/live-oorlog-oekraine-rusland-houdt-verrassingsoefening-vlak-bij-estland-ze-schoten-op-bewegende-doelen~adfb97be/",
-          "publishedDate": "Tue, 24 Nov 2026 06:18:00 GMT",
-          "description": "Oekra&#239;ne zit achter de droneaanval op het Russische vrachtschip Sparta II in de Finse Golf. Dat bevestigde de Oekra&#239;ense president Volodymyr Zelensky tegenover persbureau Bloomberg. De aanval op het s ..."
-        },
-        {
-          "title": "LIVE Oorlog Oekra&#239;ne | Stroomstoring in zeven Oekra&#239;ense regio’s na aanvallen, Rusland veroordeelt Colombiaanse ‘huurling’ tot 20 jaar cel",
-          "source": "AD",
-          "url": "https://www.ad.nl/buitenland/live-oorlog-oekraine-turkse-olietanker-getroffen-door-drone-op-zwarte-zee~adfb97be/",
-          "publishedDate": "Thu, 26 Nov 2026 05:02:00 GMT",
-          "description": "In de door Rusland bezette Oekra&#239;ense regio Donetsk is een Colombiaan veroordeeld tot twintig jaar celstraf, omdat hij als huurling zou hebben gewerkt voor het Oekra&#239;ense leger. Dat meldt de Russische ..."
-        },
-        {
-          "title": "Navo-chef Rutte en Trump doen oproep aan Poetin: ‘Maak oorlog in Oekra&#239;ne niet groter’",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/buitenland/navo-chef-rutte-en-trump-doen-oproep-aan-poetin-maak-oorlog-in-oekraine-niet-groter~a5ed04b6/",
-          "publishedDate": "Thu, 26 Nov 2026 01:15:00 GMT",
-          "description": "Navo-leider Mark Rutte en de Amerikaanse president Donald Trump roepen Rusland op om de oorlog in Oekra&#239;ne ‘niet groter te maken’. Dat brachten ze woensdagavond lokale tijd in een gezamenlijke verklar ..."
-        },
-        {
-          "title": "Oekra&#239;ense dansers van Charkiv City Ballet treden op in Brabant: ‘Nederland is bijna een sprookje’",
+          "title": "NEC wint voor derde keer op rij in Europa League, routiniers Bryan Linssen en Tjaronn Chery weer belangrijk",
           "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/cultuur/oekraiense-dansers-van-charkiv-city-ballet-treden-op-in-brabant-nederland-is-bijna-een-sprookje~ac9c7c7c/",
-          "publishedDate": "Wed, 25 Nov 2026 17:40:00 GMT",
-          "description": "Een gezelschap van Oekra&#239;ense dansers treedt in Noord-Brabant op met De Notenkraker en Het Zwanenmeer, balletten van Peter Iljitsj Tsjaikovski. Een aantal van hen is overgekomen uit Charkiv, een stad ..."
+          "url": "https://www.bd.nl/voetbal/live-europa-league-nec-begint-goed-tegen-stade-rennais-ayodele-thomas-ontbreekt-om-disciplinaire-redenen~acdd0a1a/",
+          "publishedDate": "Thu, 26 Nov 2026 15:01:00 GMT",
+          "description": "NEC won de laatste twee wedstrijden in de Europa League en hoopt die reeks vanavond een vervolg te geven. De Nijmegenaren spelen vanavond in de eigen Goffert tegen Stade Rennais, de nummer 9 van de Li ..."
         },
         {
-          "title": "Liveblog Oekra&#239;ne | Oekra&#239;ne valt Russische luchtmachtbasis aan en beschadigt jets",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/internationaal/10616077/liveblog-oekraine-doden-bij-droneaanvallen",
-          "publishedDate": "Wed, 25 Nov 2026 14:47:00 GMT",
-          "description": "Het is dag 1.735 van de oorlog in Oekra&#239;ne. Volg de recente ontwikkelingen hier in dit liveblog. Bij een oekrainse droneaanval in de Russische regio Samara is een dode gevallen. Dat melden Russische ..."
+          "title": "TERUGLEZEN | NEC beleeft opnieuw prachtige Europese avond en verslaat Stade Rennes in kolkende Goffert",
+          "source": "De Gelderlander",
+          "url": "https://www.gelderlander.nl/nec/teruglezen-nec-beleeft-opnieuw-prachtige-europese-avond-en-verslaat-stade-rennes-in-kolkende-goffert~a74bc838/",
+          "publishedDate": "Thu, 26 Nov 2026 14:54:00 GMT",
+          "description": "NEC heeft opnieuw voor een prachtige Europese avond gezorgd. De ploeg van Dick Schreuder won in een sfeervolle Goffert met 3-1 van Stade Rennes en zet daarmee een grote stap richting de knock-outfase ..."
         },
         {
-          "title": "Honderdduizenden Russen meer gesneuveld in Oekra&#239;ne dan eerder aangenomen",
-          "source": "Tubantia",
-          "url": "https://www.tubantia.nl/buitenland/honderdduizenden-russen-meer-gesneuveld-in-oekraine-dan-eerder-aangenomen~a2716b6d/",
-          "publishedDate": "Mon, 23 Nov 2026 14:30:00 GMT",
-          "description": "Rusland heeft mogelijk bijna driekwart miljoen militairen verloren in de strijd in en tegen Oekra&#239;ne. Tot deze verbijsterende cijfers komen de onafhankelijke Russische nieuwssites Medoeza en Mediazona ..."
+          "title": "Uitslagen Europees voetbal | Invallers bij AZ maken comeback compleet, ook NEC doet uitstekende zaken",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/uitslagen-europees-voetbal-invallers-bij-az-maken-comeback-compleet-ook-nec-doet-uitstekende-zaken-2026112617173844928/",
+          "publishedDate": "Thu, 26 Nov 2026 14:54:00 GMT",
+          "description": "De Nederlandse ploegen kenden donderdag een uitstekende avond in Europa. Ajax wist eerder op de avond al te winnen en ook NEC en AZ hielden de punten in Nederlandse handen. Vooral AZ maakte indruk doo ..."
         },
         {
-          "title": "Zelensky bevestigt dat Oekra&#239;ne achter aanval op Russisch marineschip bij Libi&#235; zit",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/buitenland/zelensky-bevestigt-dat-oekraine-achter-aanval-op-russisch-marineschip-bij-libie-zit~a32fca86/?slug_rd=1",
-          "publishedDate": "Mon, 23 Nov 2026 06:31:00 GMT",
-          "description": "De Oekra&#239;ense president Volodymyr Zelensky bevestigt dat zijn land een aanval heeft uitgevoerd op een Russisch marineschip bij Libi&#235;. Hij zegt op X dat het vaartuig tot zinken is gebracht en spreekt o ..."
+          "title": "Europese droom van NEC duurt voor: sensatie tegen Stade Rennes",
+          "source": "FCUpdate.nl",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/nec-wint-stade-rennes-europa-league",
+          "publishedDate": "Thu, 26 Nov 2026 14:53:00 GMT",
+          "description": "Wat een avond in De Goffert! Tjaronn Chery schiet NEC in een zinderende slotfase naar een sensationele 2-1 overwinning op Stade Rennes."
+        },
+        {
+          "title": "Schreuder allesbehalve uitbundig na mooie Europese avond voor NEC",
+          "source": "Omroep Gelderland",
+          "url": "https://www.gld.nl/sport/8552228/schreuder-allesbehalve-uitbundig-na-mooie-europese-avond-voor-nec",
+          "publishedDate": "Thu, 26 Nov 2026 14:32:00 GMT",
+          "description": "NEC won donderdag voor de derde keer op rij in de Europa League. In een bruisende Goffert versloeg de Nijmeegse trots het Franse Stade Rennes met 3-1. Daarmee is de knock-out fase voor NEC heel dichtb ..."
+        },
+        {
+          "title": "De verdiensten van Ajax, AZ, Twente en NEC in Europa League en Conference League",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/de-verdiensten-van-ajax-az-twente-en-nec-in-europa-league-en-conference-league",
+          "publishedDate": "Thu, 26 Nov 2026 13:59:00 GMT",
+          "description": "Minder lucratief, maar nog altijd financieel interessant. AZ en NEC komen dit seizoen uit in de Europa League, Ajax en FC Twente zijn actief in de Conference League. In dit bericht houden we bij hoeve ..."
+        },
+        {
+          "title": "NEC stunt met overwinning op Stade Rennes en voegt zich bij top van Europa League",
+          "source": "Voetbalzone on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/nec-stunt-met-overwinning-op-stade-rennes-en-voegt-zich-bij-top-van-europa-league/ar-AA2iji3y",
+          "publishedDate": "Thu, 26 Nov 2026 13:56:22 GMT",
+          "description": "NEC heeft een stunt uitgehaald in de Europa League. De Nijmegenaren hebben met 3-1 gewonnen van Stade Rennes en staan daardoor nu al op tien punten. Daarmee bezet NEC de achtste plaats op de ranglijst ..."
+        },
+        {
+          "title": "NEC boekt tegen Stade Rennes derde Europa League-overwinning",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/in-het-nieuws/sport/2026/11/nec-wint-rennes-europa-league-br/",
+          "publishedDate": "Thu, 26 Nov 2026 13:55:00 GMT",
+          "description": "NEC heeft tegen Stade Rennes de derde overwinning van het Europa League-seizoen geboekt. In het eigen Goffertstadion werd het 3-1 voor de nummer 3 van afgelopen seizoen in de Eredivisie. Door de ..."
+        },
+        {
+          "title": "NEC kan volgende ronde ruiken na knappe zege op Stade Rennes",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/nec-kan-volgende-ronde-ruiken-na-knappe-zege-op-stade-rennes",
+          "publishedDate": "Thu, 26 Nov 2026 13:52:00 GMT",
+          "description": "NEC heeft donderdag een razend knappe driepunter gepakt in de Europa League. Een even vermakend als chaotisch duel met Stade Rennes werd in de tweede helft naar zich toe getrokken, waardoor NEC op tie ..."
+        },
+        {
+          "title": "TV-gids Europees voetbal: zo kijk je live naar de wedstrijden van Ajax, AZ, NEC en FC Twente in Europa",
+          "source": "Sportnieuws",
+          "url": "https://sportnieuws.nl/nederlands-voetbal/nieuws/tv-gids-europees-voetbal-zo-kijk-je-live-naar-de-wedstrijden-van-ajax-az-nec-en-fc-twente-in-europa-2026112609014461719/",
+          "publishedDate": "Thu, 26 Nov 2026 03:10:00 GMT",
+          "description": "Wie niet naar &#233;&#233;n wedstrijd wil kijken, kan terecht op Ziggo Sport 4. Op die zender is zowel om 18.45 uur als om 21.00 uur een schakelkanaal met alle wedstrijden. De duels van de Nederlandse clubs ..."
+        }
+      ]
+    },
+    {
+      "keyword": "toos van der valk",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Lies Visschedijk zat veel in tent voor Van der Valk-serie: 'Het was heel eenzaam'",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/film/6417004/lies-visschedijk-zat-veel-in-tent-voor-van-der-valk-serie-het-was-heel-eenzaam.html",
+          "publishedDate": "Thu, 26 Nov 2026 08:12:00 GMT",
+          "description": "De cast van Toos: De Van der Valk ontvoering vormde in de opnameperiode een hechte familie. Toch voelden hoofdrolspelers Lies Visschedijk en Frank Lammers zich juist eenzaam door de bijzondere opzet v ..."
+        },
+        {
+          "title": "Recensie: Toos: De Van der Valk ontvoering schept een mooi tijdsbeeld, maar voelt ook wat ouderwets aan",
+          "source": "Het Parool",
+          "url": "https://www.parool.nl/kunst-media/recensie-toos-de-van-der-valk-ontvoering-schept-een-mooi-tijdsbeeld-maar-voelt-ook-wat-ouderwets-aan~bf7fab20/",
+          "publishedDate": "Wed, 25 Nov 2026 19:01:00 GMT",
+          "description": "De ontvoering van Toos van der Valk, begin jaren tachtig, levert een degelijke serie op met de sfeer uit die periode – maar ook het verhaaltempo."
+        },
+        {
+          "title": "De beruchte ontvoering van Toos van der Valk opnieuw in beeld",
+          "source": "RTL Nieuws &amp; Entertainment",
+          "url": "https://www.rtl.nl/tv/fragmenten/video/182f1588-af50-4e49-9763-8d8cd87cf56f/de-beruchte-ontvoering-van-toos-van-der",
+          "publishedDate": "Wed, 25 Nov 2026 16:00:00 GMT",
+          "description": "De ontvoeringen van rijke, vooraanstaande families waren schering en inslag in de jaren 80.&#160;Vandaag ging bij Netflix de serie over de beruchte ontvoering van Toos van der Valk in 1982 van start. Advoc ..."
+        },
+        {
+          "title": "Hotelvrouw Toos van der Valk (nu 95) werd 44 jaar geleden ontvoerd, op Netflix zie je haar vastgebonden in een tentje liggen",
+          "source": "metronieuws",
+          "url": "https://www.metronieuws.nl/entertainment/films-series/2026/11/hotelvrouw-toos-van-der-valk-44-jaar-geleden-ontvoerd-serie-netflix-br/",
+          "publishedDate": "Thu, 26 Nov 2026 07:59:00 GMT",
+          "description": "De ontvoering van een rijke vrouw uit een familie van de Van der Valk-hotels. Een oudere generatie weet bij de naam Toos van der Valk misschien meteen wat er wordt bedoeld. Anderen zullen het allang ..."
+        },
+        {
+          "title": "21 dagen gevangenschap en miljoenenlosgeld: het echte verhaal achter Netflix-serie Toos van der Valk",
+          "source": "RTL Boulevard (NL) on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/other/21-dagen-gevangenschap-en-miljoenenlosgeld-het-echte-verhaal-achter-netflix-serie-toos-van-der-valk/ar-AA2ihKJd",
+          "publishedDate": "Thu, 26 Nov 2026 00:01:43 GMT",
+          "description": "De ontvoering van Toos van der Valk (94) hield Nederland in 1982 wekenlang in zijn greep. De vrouw achter het Van der Valk-hotelimperium werd uit haar huis in Nuland ontvoerd en drie weken vastgehoude ..."
+        },
+        {
+          "title": "Ljouwerter akteur spilet rol yn Netflix-rige: “Waanzinnig om mee te maken”",
+          "source": "Omrop Frysl&#226;n",
+          "url": "https://www.omropfryslan.nl/fy/nijs/18977514/ljouwerter-akteur-spilet-rol-yn-netflix-rige-waanzinnig-om-mee-te-maken",
+          "publishedDate": "Wed, 25 Nov 2026 09:24:00 GMT",
+          "description": "Akteur Ronald Kalter spilet yn in nije Netflix-rige oer de &#251;ntfiering fan Toos van der Valk yn 1982. D&#234;rmei giet de fan oarsprong Ljouwerter akteur de wr&#226;ld oer, want Netflix is aktyf yn mear as 190 l ..."
+        },
+        {
+          "title": "‘Valks, wo ist Valks?’ Wat er &#233;cht gebeurde met de ontvoerde Toos van der Valk",
+          "source": "Panorama",
+          "url": "https://panorama.nl/artikel/701273/valks-wo-ist-valks-wat-er-echt-gebeurde-met-de-ontvoerde-toos-van-der-valk",
+          "publishedDate": "Tue, 24 Nov 2026 22:59:00 GMT",
+          "description": "In november 1982 vielen vier gemaskerde Italianen het huis van horecaondernemer Gerrit van der Valk in Nuland binnen. Ze kwamen voor hem, maar namen zijn vrouw mee. Drie weken lag Toos geketend in een ..."
+        },
+        {
+          "title": "De streamingtip van de week: Toos: De Van der Valk Ontvoering op Netflix",
+          "source": "TVgids.nl",
+          "url": "https://www.tvgids.nl/nieuws/streaming/de-streamingtip-van-de-week-toos-de-van-der-valk-ontvoering-op-netflix",
+          "publishedDate": "Tue, 24 Nov 2026 06:28:00 GMT",
+          "description": "Van der Valk is het grootste hotelimperium van Nederland. Maar rijkdom kan z'n nadelen hebben. In 1982 werd Toos van der Valk ontvoerd. Netflix heeft nu een dramaserie gemaakt over deze spraakmakende ..."
+        },
+        {
+          "title": "Netflix komt met een bloedstollende serie over de ontvoering van Toos van der Valk",
+          "source": "FHM",
+          "url": "https://fhm.nl/entertainment/netflix-komt-met-een-bloedstollende-serie-over-de-ontvoering-van-toos-van-der-valk",
+          "publishedDate": "Mon, 16 Nov 2026 03:59:00 GMT",
+          "description": "Precies 44 jaar na de ontvoering&#160;van Toos van der Valk brengt Netflix de nieuwe Nederlandse misdaadserie Toos: De Van der Valk-ontvoering uit. Vanaf 26 november kun je kijken naar de aangrijpende ontv ..."
+        },
+        {
+          "title": "Serie Toos van der Valk vanaf 26 november op Netflix",
+          "source": "Nieuws.nl",
+          "url": "https://nieuws.nl/entertainment/serie-toos-van-der-valk-vanaf-26-november-op-netflix",
+          "publishedDate": "Tue, 13 Oct 2026 03:29:00 GMT",
+          "description": "De dramaserie over de ontvoering van Toos van der Valk verschijnt op 26 november op Netflix. Ontdek wie de hoofdrollen spelen en het verhaal achter de serie."
+        }
+      ]
+    },
+    {
+      "keyword": "az",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "FC Twente verliest in blessuretijd • AZ pas derde ploeg die terugkomt van 2-0 achterstand",
+          "source": "NOS",
+          "url": "https://nos.nl/liveblog/2641134-fc-twente-verliest-in-blessuretijd-az-pas-derde-ploeg-die-terugkomt-van-2-0-achterstand",
+          "publishedDate": "Thu, 26 Nov 2026 08:46:00 GMT",
+          "description": "In dit liveblog aandacht voor de verrichtingen van NEC en AZ in de Europa League en Ajax en FC Twente in de Conference League."
+        },
+        {
+          "title": "AZ imponeert met zeldzame Nederlandse comeback",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/az-imponeert-met-zeldzame-nederlandse-comeback",
+          "publishedDate": "Wed, 25 Nov 2026 22:15:00 GMT",
+          "description": "De vier Nederlandse deelnemers aan de Europa League en Conference League kwamen donderdag in actie. Om 18.45 uur ontving Ajax het Zwitserse FC Thun. Om 21.00 uur speelde AZ bij Sparta Praag, NEC thuis"
+        }
+      ]
+    },
+    {
+      "keyword": "kind",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "Rob Jetten verwacht in 2027 kind via draagmoeder en neemt enkele dagen verlof",
+          "source": "NU.nl",
+          "url": "https://www.nu.nl/achterklap/6413657/rob-jetten-verwacht-in-2027-kind-via-draagmoeder-en-neemt-enkele-dagen-verlof.html",
+          "publishedDate": "Mon, 19 Oct 2026 06:56:00 GMT",
+          "description": "Premier Rob Jetten en zijn partner Nicol&#225;s Keenan verwachten volgend jaar een kind via een draagmoeder. De minister-president zal rond de geboorte enkele dagen verlof opnemen."
+        },
+        {
+          "title": "Eva (moeder van 15-jarige) weigert nieuwe opvoedtrend frictionmaxxing: ‘Ik laat mijn kind niet expres lijden’",
+          "source": "Metro",
+          "url": "https://www.metronieuws.nl/lifestyle/opvoeding/2026/10/eva-moeder-15-jarige-weigert-nieuwe-opvoedtrend-frictionmaxxing-niet-bewust-te-lijden/",
+          "publishedDate": "Thu, 29 Oct 2026 07:01:00 GMT",
+          "description": "Je kinderen een beetje laten lijden zodat ze sterker worden. Friction-maxxing is de nieuwste opvoedtrend. Eva Munnik ziet er weinig in."
+        },
+        {
+          "title": "Ik krijg een kind: maak een overzicht van wat u moet weten en regelen",
+          "source": "Rijksoverheid",
+          "url": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/zwangerschap-en-geboorte/checklist-kind-krijgen",
+          "publishedDate": "Tue, 10 Dec 2024 17:53:00 GMT",
+          "description": "U bent zwanger of uw partner is zwanger. Of uw kindje is net geboren. Dan krijgt u te maken met zwangerschapsverlof of ouderschapsverlof. En met de geboorteaangifte en de keuze van de achternaam. Op ..."
+        },
+        {
+          "title": "Wet kind, draagmoederschap en afstamming",
+          "source": "Eerste",
+          "url": "https://www.eerstekamer.nl/wetsvoorstel/36390_wet_kind_draagmoederschap_en",
+          "publishedDate": "Thu, 29 Jun 2023 17:00:00 GMT",
+          "description": "Dit wetsvoorstel voorziet in een wettelijke regeling voor nationaal en internationaal draagmoederschap. Het kabinet geeft met de indiening van dit wetsvoorstel uitvoering aan het advies van de ..."
+        },
+        {
+          "title": "Peuter | Zindelijk worden: zo help je je kind zelf gaan plassen of poepen",
+          "source": "Nji.nl",
+          "url": "https://www.nji.nl/kennis/ontwikkeling/peuter-zindelijk-worden-zo-help-je-je-kind-zelf-gaan-plassen-of-poepen",
+          "publishedDate": "Thu, 08 Sep 2022 02:32:00 GMT",
+          "description": "Alle kinderen hebben na hun derde verjaardag nog wel eens een ongelukje. Dat gebeurt vooral als het kind is afgeleid of opgaat in een spel. Dat is heel normaal. Ook een terugval als een kind al een ..."
+        },
+        {
+          "title": "Een profiel op maat voor ieder kind",
+          "source": "NPO",
+          "url": "https://npo.nl/start/kindprofiel",
+          "publishedDate": "Mon, 23 Nov 2015 20:54:00 GMT",
+          "description": "Binnen het kindprofiel op NPO Start krijgen kinderen hun eigen omgeving. Een plek waar ze nieuwsgierig kunnen zijn, bekende programma’s terugvinden en nieuwe favorieten ontdekken. Veilig en vertrouwd, ..."
+        },
+        {
+          "title": "Welke achternaam kan ik voor mijn kind kiezen?",
+          "source": "Rijksoverheid",
+          "url": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/aangifte-geboorte-en-naamskeuze-kind/achternaam-kind-kiezen",
+          "publishedDate": "Mon, 08 Jun 2015 01:41:00 GMT",
+          "description": "U kunt voor uw kind de achternaam van de moeder, de duomoeder of de vader kiezen. Ook kunt u uw kind de achternamen van beide ouders geven. Keuze van de achternaam kan alleen bij het eerste kind Heeft ..."
+        }
+      ]
+    },
+    {
+      "keyword": "twente",
+      "trafficLabel": "20K+",
+      "articles": [
+        {
+          "title": "FC Twente gaat in extra tijd nog onderuit bij SC Freiburg",
+          "source": "Algemeen Dagblad",
+          "url": "https://www.ad.nl/voetbal/fc-twente-gaat-in-extra-tijd-nog-onderuit-bij-sc-freiburg~a1ce4c3c/",
+          "publishedDate": "Thu, 26 Nov 2026 15:30:00 GMT",
+          "description": "FC Twente heeft na drie nederlagen op rij de eerste punten verspeeld in de Conference League. Het team van John van den Brom ging met 2-1 onderuit bij SC Freiburg. De nummer drie van de Bundesliga maa"
+        },
+        {
+          "title": "Duitse media smult van Freiburg: 'Maar FC Twente was lang beter'",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/duitse-media-smult-van-freiburg-maar-fc-twente-was-lang-beter",
+          "publishedDate": "Thu, 26 Nov 2026 15:05:00 GMT",
+          "description": "FC Twente liet donderdagavond na een resultaat te boeken bij SC Freiburg (2-1) . De Duitsers trokken in extremis aan het langste eind. De Duitse media genoten er met volle teugen van."
         }
       ]
     },
     {
       "keyword": "mississippi",
-      "trafficLabel": "10K+",
+      "trafficLabel": "20K+",
       "articles": [
         {
           "title": "De eerste zwarte senator van Mississippi in anderhalve eeuw wist zelfs te winnen in voormalig Ku Klux Klan-gebied. ‘Eindelijk komt er verandering’",
@@ -131,13 +378,6 @@
           "description": "In de zuidelijke Amerikaanse staat is een sensatie in de maak: de zwarte Democratische kandidaat kan daar een Senaatszetel winnen. Voor inwoners is het een belangrijk moment."
         },
         {
-          "title": "‘Mississippi is totaal onverwacht de staat geworden waar de verkiezingen het spannendst zijn’",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/buitenland/mississippi-is-totaal-onverwacht-de-staat-geworden-waar-de-verkiezingen-het-spannendst-zijn~b16ed90c/",
-          "publishedDate": "Tue, 10 Nov 2026 13:07:00 GMT",
-          "description": "In Mississippi worden de allerlaatste stemmen per stuk met de hand gecertificeerd. Correspondent Thomas Rueb was erbij, dinsdag in Jackson. ‘Republikeinse winst was altijd een natuurwet in het Diepe Z ..."
-        },
-        {
           "title": "Op zijn eerste rally was vier man, nu verovert Democraat Scott Colom Republikeins bolwerk",
           "source": "De Tijd",
           "url": "https://www.tijd.be/dossiers/verkiezingen-vs/op-zijn-eerste-rally-was-vier-man-nu-verovert-democraat-scott-colom-republikeins-bolwerk/10699527.html",
@@ -146,590 +386,182 @@
         },
         {
           "title": "Democraat Scott Colom in VS wint senaatszetel in Mississippi",
-          "source": "Reformatorisch Dagblad",
-          "url": "https://www.rd.nl/artikel/democraat-scott-colom-in-vs-wint-senaatszetel-in-mississippi",
-          "publishedDate": "Wed, 11 Nov 2026 18:00:00 GMT",
-          "description": "De Democraat Scott Colom heeft in de Amerikaanse staat Mississippi met een nipte meerderheid een senaatszetel binnengesleept bij de midtermverkiezingen, aldus Amerikaanse media, waaronder CNN en NBC."
-        }
-      ]
-    },
-    {
-      "keyword": "noorse koninklijke familie",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Kwakkelende Mette-Marit verschijnt onverwachts bij concert Noors koningshuis",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/koningshuis/6417838/kwakkelende-mette-marit-verschijnt-onverwachts-bij-concert-noors-koningshuis.html",
-          "publishedDate": "Thu, 26 Nov 2026 02:07:00 GMT",
-          "description": "Koningin Mette-Marit is woensdag onverwachts verschenen bij het dankconcert van de Noorse koninklijke familie in Oslo. Ze zou eigenlijk pas volgende zomer weer offici&#235;le taken voor het koningshuis ver ..."
+          "source": "ANP on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/Buitenland/democraat-scott-colom-in-vs-wint-senaatszetel-in-mississippi/ar-AA2hge04",
+          "publishedDate": "Wed, 11 Nov 2026 17:20:03 GMT",
+          "description": "JACKSON (ANP/AFP/RTR) - De Democraat Scott Colom heeft in de Amerikaanse staat Mississippi met een nipte meerderheid een senaatszetel binnengesleept bij de midtermverkiezingen, aldus Amerikaanse media ..."
         },
         {
-          "title": "Zien: koningin Mette-Marit maakt onverwacht feestelijke rentree",
-          "source": "royalty-online",
-          "url": "https://www.royalty-online.nl/monarchie/noorwegen/koningin-mette-marit-concert/",
-          "publishedDate": "Thu, 26 Nov 2026 02:22:00 GMT",
-          "description": "Koningin Mette-Marit zorgde voor een opvallende verrassing in Oslo. Ze verscheen onverwacht bij een bijzonder concert."
-        },
-        {
-          "title": "Mette-Marit onverwachts bij dankconcert van koninklijke familie",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/koningshuis/mette-marit-onverwachts-bij-dankconcert-van-koninklijke-familie",
-          "publishedDate": "Wed, 25 Nov 2026 12:10:00 GMT",
-          "description": "Mette-Marit is onverwacht opgedoken bij het dankconcert van de Noorse koninklijke familie in Oslo. De koningin zou eigenlijk pas volgende zomer weer offici&#235;le taken voor het koningshuis verrichten, ma ..."
-        },
-        {
-          "title": "Koningin Sonja niet langer lid van Noors koninklijk huis na rouwperiode Harald",
+          "title": "Democraten blijven winnen en veroveren nog een Senaatszetel in Mississippi",
           "source": "Tubantia",
-          "url": "https://www.tubantia.nl/show/koningin-sonja-niet-langer-lid-van-noors-koninklijk-huis-na-rouwperiode-harald~a5573e2d/",
-          "publishedDate": "Mon, 12 Oct 2026 03:02:00 GMT",
-          "description": "Koningin Sonja is op de website van het Noorse koningshuis niet langer opgenomen in de lijst met leden van het koninklijk huis. De weduwe van koning Harald en moeder van de huidige koning Haakon staat ..."
-        },
-        {
-          "title": "Noorse koninklijke familie legt rozen bij bloemenzee paleisplein",
-          "source": "Nieuws",
-          "url": "https://nieuws.nl/koningshuis/noorse-koninklijke-familie-legt-rozen-bij-bloemenzee-paleisplein",
-          "publishedDate": "Mon, 31 Aug 2026 11:12:00 GMT",
-          "description": "Het koningspaar, koningin Sonja en prinses M&#228;rtha Louise hebben samen de bloemenzee op het paleisplein bewonderd. Op beelden van de Noorse televisie is te zien hoe het viertal het paleis even verliet ..."
-        },
-        {
-          "title": "Steeds meer leden Noorse koninklijke familie in ziekenhuis bij koning Harald",
-          "source": "bd.nl",
-          "url": "https://www.bd.nl/show/steeds-meer-leden-noorse-koninklijke-familie-in-ziekenhuis-bij-koning-harald~ac93ecb0/",
-          "publishedDate": "Thu, 27 Aug 2026 23:33:00 GMT",
-          "description": "Bij het ziekenhuis in Oslo komen vrijdagochtend steeds meer leden van de Noorse koninklijke familie aan om te waken over koning Harald. Even na 08.00 uur arriveerden prinses Ingrid Alexandra en prins ..."
+          "url": "https://www.tubantia.nl/buitenland/democraten-blijven-winnen-en-veroveren-nog-een-senaatszetel-in-mississippi~a77deaa4/",
+          "publishedDate": "Wed, 11 Nov 2026 15:32:00 GMT",
+          "description": "Het enorme succes van de Democraten bij de tussentijdse verkiezingen in de VS duurt voort: in de zuidelijke staat Mississippi won de Democratische kandidaat Scott Colom (43) nipt van de zittende Repub ..."
         }
       ]
     },
     {
-      "keyword": "estavana polman",
+      "keyword": "thermostaat",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Nicolas Keenan en Estavana Polman in Boerderij Van Dorst: dat pakte geweldig uit",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/han-lips/nicolas-keenan-en-estavana-polman-in-boerderij-van-dorst-dat-pakte-geweldig-uit~b843e528/",
-          "publishedDate": "Wed, 25 Nov 2026 23:28:00 GMT",
-          "description": "In de rubriek Han Lips schrijven verschillende redacteuren van Het Parool elke dag over wat hun opvalt op tv. Vandaag: Boerderij Van Dorst."
+          "title": "Binnen zes uur is de nepvriezer van NRC gehackt, via Letland zit een indringer aan de ’thermostaat’",
+          "source": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/11/20/binnen-zes-uur-is-de-nepvriezer-van-nrc-gehackt-via-letland-zit-een-indringer-aan-de-thermostaat-a4941105",
+          "publishedDate": "Fri, 20 Nov 2026 09:34:00 GMT",
+          "description": "Digitale kwetsbaarheid: Hoelang duurt het voordat een kwetsbare koelkast die met internet verbonden is, wordt gehackt? Nog geen zes uur en een stortvloed aan ongerelateerde andere hackpogingen later, ..."
         },
         {
-          "title": "Estavana Polman haalt uit naar mannen VI na mislukt tv-avontuur: ‘Fijn geweest als ze me beetje hadden geholpen’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/estavana-polman-haalt-uit-naar-mannen-vi-na-mislukt-tv-avontuur-fijn-geweest-als-ze-me-beetje-hadden-geholpen~a1e6aa985/",
-          "publishedDate": "Wed, 25 Nov 2026 13:46:00 GMT",
-          "description": "Voormalig handbalster Estavana Polman is niet te spreken over hoe zij als nieuwkomer aan tafel bij Vandaag Inside is begeleid door Wilfred Genee, Ren&#233; van der Gijp en Johan Derksen. Dat vertelt Polman ..."
-        },
-        {
-          "title": "Estavana Polman miste begeleiding bij VI: 'Ga geen politiek debat voeren'",
+          "title": "Vijftien jaar oude slimme thermostaat van Essent stopt over paar maanden met werken",
           "source": "NU.nl",
-          "url": "https://www.nu.nl/achterklap/6417807/estavana-polman-miste-begeleiding-bij-vi-ga-geen-politiek-debat-voeren.html",
-          "publishedDate": "Wed, 25 Nov 2026 13:37:00 GMT",
-          "description": "Estavana Polman vindt dat ze onvoldoende is begeleid tijdens haar kortstondige periode als vaste tafelgast bij Vandaag Inside. De oud-handbalster had graag gezien dat ze &quot;een beetje geholpen&quot; werd, ve ..."
+          "url": "https://www.nu.nl/tweakers/6415248/vijftien-jaar-oude-slimme-thermostaat-van-essent-stopt-over-paar-maanden-met-werken.html",
+          "publishedDate": "Mon, 02 Nov 2026 06:31:00 GMT",
+          "description": "De vijftien jaar oude E-Thermostaat van energieleverancier Essent stopt in februari met werken. Dat heeft de maker, ICY, bekendgemaakt. ICY had de ondersteuning voor de thermostaat overgenomen nadat E ..."
         },
         {
-          "title": "Estavana Polman openhartig over veelbesproken vertrek bij VI-vertrek: 'Niet zoals...'",
-          "source": "Mee Met Oranje",
-          "url": "https://www.meemetoranje.nl/overig-nieuws/nieuws/estavana-polman-vertrek-vandaag-inside/",
-          "publishedDate": "Thu, 26 Nov 2026 03:34:00 GMT",
-          "description": "Estavana Polman doet een boekje open over haar snelle vertrek bij Vandaag Inside: „Dat was niet gegaan zoals ik had gehoopt.” Ze miste vooral steun."
+          "title": "Thermostaat op 19 in plaats van 21 graden: hoeveel bespaar je daar echt mee? Energie-expert heeft het uitgerekend",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/energie/thermostaat-op-19-in-plaats-van-21-graden-hoeveel-bespaar-je-daar-echt-mee-energie-expert-heeft-het-uitgerekend~adc66a2b/",
+          "publishedDate": "Wed, 25 Nov 2026 23:23:00 GMT",
+          "description": "Wat is de ideale temperatuur voor elke kamer in je woning? En hoeveel procent energie bespaar je met &#233;&#233;n graadje minder?"
         },
         {
-          "title": "Estavana Polman blikt terug op ophef Vandaag Inside: ‘Ik had wel wat hulp kunnen gebruiken’",
-          "source": "Weekend Online",
-          "url": "https://www.weekend-online.nl/bners/estvana-polman-vandaag-inside/",
-          "publishedDate": "Thu, 26 Nov 2026 02:42:00 GMT",
-          "description": "Estavana Polman kijkt met gemengde gevoelens terug op haar korte periode als tafelgast bij Vandaag Inside. De voormalig handbalster vindt dat ze als nieuwkomer onvoldoende is begeleid door Wilfred Gen ..."
+          "title": "Nieuws Sport Showbizz Nina Regio Kijk Puzzel Podcast",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/mijn-geld/wat-is-de-ideale-temperatuur-voor-elke-kamer-in-je-woning-en-hoeveel-procent-energie-bespaar-je-met-een-graadje-minder~a932812d/",
+          "publishedDate": "Tue, 24 Nov 2026 22:11:00 GMT",
+          "description": "Bij de huidige gas- en stroomprijzen is het belangrijk om de verwarmingskosten binnen de perken te houden. Volgens de Vlaamse overheid verbruikt een verwarmingstoestel 7 procent minder energie wanneer ..."
         },
         {
-          "title": "Estavana Polman ontgoocheld door ervaring met Genee, Derksen en Van der Gijp: 'Ga niet schreeuwen'",
-          "source": "Panorama on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/estavana-polman-ontgoocheld-door-ervaring-met-genee-derksen-en-van-der-gijp-ga-niet-schreeuwen/ar-AA2igTg7",
-          "publishedDate": "Thu, 26 Nov 2026 02:17:00 GMT",
-          "description": "Estavana zou eens per maand een frisse vrouwelijke wind door de VI-studio laten waaien, maar het bleef bij &#233;&#233;n enkel briesje."
+          "title": "Review: De Tado X Gen 2 oogt prachtig, maar mist een belangrijke upgrade",
+          "source": "XGN.nl",
+          "url": "https://www.xgn.nl/review/review-de-tado-x-gen-2-oogt-prachtig-maar-mist-een-belangrijke-upgrade",
+          "publishedDate": "Sun, 22 Nov 2026 09:04:00 GMT",
+          "description": "De Tado X Gen 2 heeft een strak nieuw ontwerp, touchbediening en een accu. Maar is deze slimme thermostaat de upgrade waard? Lees er over in onze review."
         },
         {
-          "title": "Estavana Polman vindt Vandaag Inside geen safe space: ‘Jammer’",
-          "source": "Mediacourant",
-          "url": "https://www.mediacourant.nl/2026/11/estavana-polman-vindt-vandaag-inside-geen-safe-space-jammer/",
-          "publishedDate": "Wed, 25 Nov 2026 23:30:00 GMT",
-          "description": "Estavana Polman verwijt de mannen van Vandaag Inside dat ze haar aan haar lot hebben overgelaten. &quot;Het is wel fijn als je een beetje een handje wordt geholpen. En ja, dat is niet gebeurd&quot;, klaagt ze."
+          "title": "Op deze temperatuur staat de thermostaat bij jullie thuis: ‘Liefst 20 graden, maar dat is veel te duur’",
+          "source": "Radar",
+          "url": "https://radar.avrotros.nl/artikel/op-deze-temperatuur-staat-de-thermostaat-bij-jullie-thuis-liefst-20-graden-maar-dat-is-veel-te-duur-63195",
+          "publishedDate": "Sat, 21 Nov 2026 22:00:00 GMT",
+          "description": "In de herfst- en wintermaanden wordt de thermostaat weer vaker aangezet. Omdat de gasprijzen - als je geen vast contract hebt - de afgelopen tijd vrij hoog ..."
         },
         {
-          "title": "Estavana Polman haalt uit naar Vandaag Inside: 'Was fijn als je wordt geholpen...'",
-          "source": "Voetbalprimeur Netherlands on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/estavana-polman-haalt-uit-naar-vandaag-inside-was-fijn-als-je-wordt-geholpen/ar-AA2idQyq",
-          "publishedDate": "Wed, 25 Nov 2026 15:57:00 GMT",
-          "description": "Estavana Polman heeft uitgehaald naar Wilfred Genee, Ren&#233; van der Gijp en Johan Derksen. De vrouw van Rafael van der Vaart en voormalig handbalster is niet te spreken over de manier waarop zij is bege ..."
+          "title": "Tado thermostaat en radiatorknoppen kopen? Hier zijn ze het goedkoopst",
+          "source": "iCulture",
+          "url": "https://www.iculture.nl/gids/tado/",
+          "publishedDate": "Mon, 16 Nov 2026 16:00:00 GMT",
+          "description": "Lees hier alles over Tado. Deze slimme thermostaat en radiatorknoppen werken met HomeKit, OpenTherm en modulerende ketels."
         },
         {
-          "title": "Estavana Polman maakt Vandaag Inside-mannen &#233;&#233;n verwijt: 'Dat is niet gebeurd'",
-          "source": "FCUpdate.nl",
-          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/11/estavana-polman-verwijt-vandaag-inside",
-          "publishedDate": "Wed, 25 Nov 2026 14:10:00 GMT",
-          "description": "Estavana Polman blikt met verbazing terug op haar mislukte VI-avontuur: 'Fijn geweest als de mannen me een handje hadden geholpen.' Lees haar felle reactie!"
+          "title": "Hoe hoog moet je thermostaat staan? Dit is de ideale temperatuur in huis",
+          "source": "Nieuws365",
+          "url": "https://www.nieuws365.be/binnenland/hoe-hoog-moet-je-thermostaat-staan-dit-is-de-ideale-temperatuur-in-huis",
+          "publishedDate": "Mon, 26 Oct 2026 14:00:00 GMT",
+          "description": "Nu de koudere maanden eraan komen, gaat de verwarming in veel Belgische woningen opnieuw vaker aan. Maar op hoeveel graden stel je de thermostaat het best in? Zet je hem op 21 graden voor extra comfor ..."
         },
         {
-          "title": "Estavana Polman: te weinig geholpen tijdens Vandaag Inside",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/estavana-polman-te-weinig-geholpen-tijdens-vandaag-inside",
-          "publishedDate": "Wed, 25 Nov 2026 13:22:00 GMT",
-          "description": "Voormalig handbalster Estavana Polman vindt dat ze onvoldoende is begeleid tijdens haar kortstondige werk als vaste tafelgast bij praatprogramma Vandaag Inside. Volgens Polman had ze graag gezien dat."
+          "title": "Tado presenteert dunste slimme thermostaat ooit: dit is er nieuw",
+          "source": "iCulture",
+          "url": "https://www.iculture.nl/nieuws/tado-thermostaat-x-tweede-generatie/",
+          "publishedDate": "Fri, 04 Sep 2026 18:37:00 GMT",
+          "description": "Met een dikte van 1,78 cm is de nieuwste Thermostaat X volgens Tado de dunste slimme thermostaat op de markt. Er zitten geen fysieke bedieningsknoppen meer op en daar komt een touchscreen voor in de ..."
+        },
+        {
+          "title": "Dingen die je moet weten over een draadloze thermostaat",
+          "source": "fhm",
+          "url": "https://fhm.nl/entertainment/draadloze-thermostaat",
+          "publishedDate": "Thu, 06 Oct 2022 00:00:00 GMT",
+          "description": "Met de thermostaat in jouw woning kun je de temperatuur nauwkeurig regelen door de verwarmings- en koelsystemen te bedienen. Deze thermostaten zijn vaak vast verbonden met jouw verwarmings- en ..."
         }
       ]
     },
     {
-      "keyword": "pinnen",
+      "keyword": "besiktas",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Wat heb je aan cash in huis als pinnen de norm is? ‘Met een biljet van 50 euro houdt het snel op’",
-          "source": "Trouw",
-          "url": "https://www.trouw.nl/binnenland/wat-heb-je-aan-cash-in-huis-als-pinnen-de-norm-is-met-een-biljet-van-50-euro-houdt-het-snel-op~bcedc873/",
-          "publishedDate": "Wed, 25 Nov 2026 07:48:00 GMT",
-          "description": "DNB adviseert mensen om contant geld in huis te hebben, maar op veel plekken kun je alleen pinnen. Wat dan? Supermarkten onderzoeken of ‘offline pinnen’ een oplossing is."
+          "title": "Besiktas tegen Isra&#235;lisch Hapoel Beer-Sheva in Georgi&#235; stilgelegd na vechtpartijen",
+          "source": "NOS",
+          "url": "https://nos.nl/artikel/2641157-besiktas-tegen-israelisch-hapoel-beer-sheva-in-georgie-stilgelegd-na-vechtpartijen",
+          "publishedDate": "Thu, 26 Nov 2026 12:06:00 GMT",
+          "description": "Reden voor het stilleggen waren hevige ongeregeldheden tussen de fans van de Turkse club en het Georgische beveiligingspersoneel."
         },
         {
-          "title": "Europese consumenten pinnen voor het eerst meer dan dat ze cash betalen",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/internationaal/10616185/europese-consumenten-pinnen-voor-het-eerst-meer-dan-dat-ze-cash-betalen",
-          "publishedDate": "Wed, 25 Nov 2026 04:46:00 GMT",
-          "description": "Gemiddeld doen consumenten in het eurogebied 2,2 betalingen voor goederen en diensten per dag. Het gemiddelde bedrag dat consumenten aan cash op zak hebben is 64 euro. Verder heeft 38 procent contant ..."
+          "title": "Wedstrijd Besiktas tegen Isra&#235;lisch Hapoel Beer-Sheva stilgelegd na vechtpartijen",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-be/nieuws/other/wedstrijd-besiktas-tegen-isra%C3%ABlisch-hapoel-beer-sheva-stilgelegd-na-vechtpartijen/ar-AA2ijl1S",
+          "publishedDate": "Thu, 26 Nov 2026 14:50:00 GMT",
+          "description": "Er is flinke chaos ontstaan bij het Europa League-duel tussen Besiktas (Turkije) en Hapoel Beer-Sheva (Isra&#235;l). Door de ongeregeldheden tussen de fans van de Turkse club en het Georgische beveiligings ..."
         },
         {
-          "title": "Pinnen maakt je losser met geld — maar vooral bij &#233;&#233;n soort aankoop",
-          "source": "welingelichtekringen.nl",
-          "url": "https://www.welingelichtekringen.nl/psychologie/pinnen-maakt-je-losser-met-geld-maar-vooral-bij-een-soort-aankoop",
-          "publishedDate": "Sun, 02 Aug 2026 02:29:00 GMT",
-          "description": "Je houdt je pas tegen de terminal, hoort een piepje en loopt door. Geen briefje dat verdwijnt, geen wisselgeld, geen moment van bezinning. Dat pinnen je daardoor ongemerkt klauwen met geld kost, is ..."
+          "title": "“Onaanvaardbaar”: hardhandig optreden politie tegen Besiktas-fans na steun voor Palestina tegen Isra&#235;lische tegenstander zorgt voor kritiek",
+          "source": "Het Laatste Nieuws",
+          "url": "https://www.hln.be/europa-league/onaanvaardbaar-hardhandig-optreden-politie-tegen-besiktas-fans-na-steun-voor-palestina-tegen-israelische-tegenstander-zorgt-voor-kritiek~ac2094ed/",
+          "publishedDate": "Thu, 26 Nov 2026 14:34:00 GMT",
+          "description": "Geen fraaie beelden uit het Europa League-duel tussen Besiktas en het Isra&#235;lische Hapoel Beer Sheva. De wedstrijd, die in Georgi&#235; werd afgewerkt, lag meer dan een halfuur stil door een confrontatie tu ..."
         },
         {
-          "title": "In deze landen betaal je het meest voor pinnen (en zo voorkom je het)",
-          "source": "reisleven",
-          "url": "https://reisleven.nl/pinnen-vakantie-landen-duurst-voorkomen",
-          "publishedDate": "Wed, 15 Apr 2026 00:22:00 GMT",
-          "description": "We zijn tegenwoordig gewend om vrijwel alles met pin te betalen en zelden nog contant geld te gebruiken. In het buitenland kan het juist handig zijn om altijd wat cash op zak te hebben. Pinnen is ..."
+          "title": "Georgische politie grijpt in op tribune bij Besiktas tegen Hapoel Beer Sjeva",
+          "source": "BN DeStem",
+          "url": "https://www.bndestem.nl/voetbal/georgische-politie-grijpt-in-op-tribune-bij-besiktas-tegen-hapoel-beer-sjeva~a1656624/",
+          "publishedDate": "Thu, 26 Nov 2026 14:06:00 GMT",
+          "description": "De wedstrijd tussen Besiktas en Hapoel Beer Sjeva in de Europa League is donderdagavond een half uur lang onderbroken. De politie moest ingrijpen op de tribunes, waar ongeregeldheden waren."
         },
         {
-          "title": "ING markeert 40 jaar pinnen in Nederland met introductie vernieuwde betaalpas",
-          "source": "nieuws",
-          "url": "https://nieuws.ing.nl/nl-NL/258006-ing-markeert-40-jaar-pinnen-in-nederland-met-introductie-vernieuwde-betaalpas/",
-          "publishedDate": "Wed, 19 Nov 2025 22:30:00 GMT",
-          "description": "Deze maand staat ING stil bij een bijzonder moment. Het is namelijk 40 jaar geleden dat pinnen zijn intrede deed in Nederland. In november 1985 verrichtte toenmalig minister van Verkeer en Waterstaat ..."
-        },
-        {
-          "title": "Let op als je bij de ATM-pinautomaten geld pint in Spanje",
-          "source": "spanjevandaag",
-          "url": "https://spanjevandaag.com/26/07/2025/atm-pinautomaten-spanje-commisiekosten/",
-          "publishedDate": "Sat, 26 Jul 2025 00:15:00 GMT",
-          "description": "Scoor met Black Friday handige gadgets voor je reis naar Spanje, zoals powerbanks, camera’s en smartwatches. Pinautomaten zijn in Spanje wijdverspreid, maar het wordt steeds lastiger om ze te vinden ..."
-        },
-        {
-          "title": "Kostenverschil tussen pinnen en contant betalen blijft groeien",
-          "source": "banken",
-          "url": "https://www.banken.nl/nieuws/25713/kostenverschil-tussen-pinnen-en-contant-betalen-blijft-groeien",
-          "publishedDate": "Tue, 26 Nov 2024 21:30:00 GMT",
-          "description": "Het betalen aan de toonbank is voor ondernemers in Nederland een stuk duurder geworden, vooral als het contant gebeurt. Dit blijkt uit recent onderzoek van Betaalvereniging Nederland en verschillende ..."
-        },
-        {
-          "title": "Kleine ondernemer: laag bedrag liever niet pinnen, maar juist contant",
-          "source": "RD",
-          "url": "https://www.rd.nl/artikel/kleine-ondernemer-laag-bedrag-liever-niet-pinnen-maar-juist-contant",
-          "publishedDate": "Mon, 27 Feb 2023 11:12:00 GMT",
-          "description": "„Dat was het? Twee euro en 25 cent alstublieft.” De klant haalt haar pinpas tevoorschijn. „Heb je zo’n klein bedrag niet contant?” vraagt marktkoopman Roland Verheggen. Hij staat achter zijn kraam met ..."
-        },
-        {
-          "title": "Helft minder klandizie voor horeca zonder pinnen",
-          "source": "customerfirst",
-          "url": "https://customerfirst.nl/nieuws/2021/08/helft-minder-klandizie-voor-horeca-zonder-pinnen/index.xml",
-          "publishedDate": "Thu, 05 Aug 2021 17:00:00 GMT",
-          "description": "Als gasten in de horeca niet kunnen pinnen neemt de klandizie met de helft af. Dat blijkt uit onderzoek onder 1127 consumenten, uitgevoerd door Lightspeed. De pinpas is bij uitstek het favoriete ..."
-        },
-        {
-          "title": "Rabobank gaat geld vragen voor pinnen in het buitenland",
+          "title": "Supporters Beşiktaş houden Palestijnse vlaggen omhoog, politie grijpt hard in",
           "source": "rtl",
-          "url": "https://www.rtl.nl/economie/beurs/artikel/5239480/rabobank-geld-pinnen-kost-geld-cash-uitbannen-abn-amro",
-          "publishedDate": "Thu, 01 Jul 2021 22:26:00 GMT",
-          "description": "Rabobankklanten moeten vanaf september transactiekosten betalen als ze geld opnemen bij een pinautomaat die niet van de Rabobank en niet van Geldmaat is. Je betaalt 75 cent, ook als je slechts een ..."
+          "url": "https://www.rtl.nl/nieuws/buitenland/artikel/5667429/besiktas-hapoel-beer-sjeva-politie-grijpt-voetbal",
+          "publishedDate": "Thu, 26 Nov 2026 13:23:00 GMT",
+          "description": "Het duel werd om veiligheidsredenen gespeeld in Batoemi, in Georgi&#235;. Al voor de aftrap was het onrustig. Volgens de Turkse zender NTV greep de politie in toen fans Palestijnse vlaggen lieten zien, en ..."
+        },
+        {
+          "title": "Besiktas beleeft angstaanjagende vlucht: 'Gevaarlijkste wat ik ooit heb gezien'",
+          "source": "Voetbalprimeur on MSN",
+          "url": "https://www.msn.com/nl-nl/nieuws/overig/besiktas-beleeft-angstaanjagende-vlucht-gevaarlijkste-wat-ik-ooit-heb-gezien/ar-AA2iiGuW",
+          "publishedDate": "Thu, 26 Nov 2026 07:39:00 GMT",
+          "description": "Besiktas heeft een angstaanjagende reis beleefd naar het Georgische Batumi. De Turkse topclub treft in dat land Hapoel Beer-Sheva in de Europa League. De Turkse club kan niet in eigen huis spelen, omd ..."
+        },
+        {
+          "title": "Selectie Besiktas komt in noodweer terecht: 'Een van de spannendste vluchten ooit'",
+          "source": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/selectie-besiktas-maakt-noodlanding-een-van-de-spannendste-vluchten-ooit",
+          "publishedDate": "Thu, 26 Nov 2026 05:55:00 GMT",
+          "description": "De voorbereiding van Besiktas op het Europa League-duel met Hapoel Be'er Sheva is flink verstoord geraakt. De Turkse selectie kwam tijdens de vlucht naar het Georgische Batumi midden in een onweersbui ..."
+        },
+        {
+          "title": "Stapje opzij en dan een schitterende streep: Leandro Trossard is de redder van Besiktas dankzij h&#233;&#233;rlijke winner",
+          "source": "sporza",
+          "url": "https://sporza.be/nl/2026/11/22/stapje-opzij-en-dan-een-schitterende-streep-leandro-trossard-is-de-redder-van-besiktas-dankzij-heerlijke-winner~1795363804500/",
+          "publishedDate": "Sun, 22 Nov 2026 09:26:00 GMT",
+          "description": "Met twee doelpunten van Dusan Vlahovic was Besiktas na 34 minuten nochtans al op een 0-2-voorsprong gekomen. Maar wat een demonstratie had moeten worden, dreigde gaandeweg uit te draaien in een lesje ..."
+        },
+        {
+          "title": "‘Besiktas plant nieuwe poging voor Rode Duivel Lukebakio’",
+          "source": "voetbalfocus",
+          "url": "https://voetbalfocus.be/besiktas-nieuwe-poging-dodi-lukebakio/",
+          "publishedDate": "Wed, 18 Nov 2026 05:21:00 GMT",
+          "description": "Besiktas wil in de wintermercato opnieuw proberen om Dodi Lukebakio naar Turkije te halen. De Rode Duivel bleef afgelopen zomer nog bij Benfica, maar zijn beperkte speeltijd in Lissabon maakt hem volg ..."
+        },
+        {
+          "title": "Naar verluidt: 'Juventus bereidt bod van veertig miljoen euro voor op Taylor, Ajax profiteert mee'",
+          "source": "Ajax Showtime on MSN",
+          "url": "https://www.msn.com/nl-nl/sport/voetbal/naar-verluidt-besiktas-hoopt-de-ligt-in-januari-op-huurbasis-over-te-nemen/ar-AA2hwFa3",
+          "publishedDate": "Wed, 18 Nov 2026 03:05:00 GMT",
+          "description": "De transfermarkt is momenteel gesloten, maar nog steeds zijn er volop geruchten omtrent voormalig spelers van Ajax. In Naar verluidt lees je de laatste geruchten rondom oud-Ajacieden, maar denk eraan: ..."
         }
       ]
     },
     {
-      "keyword": "andy taylor",
+      "keyword": "boer zoekt vrouw vonken over de grens",
       "trafficLabel": "10K+",
       "articles": [
         {
-          "title": "Andy Taylor (65), gitarist van Duran Duran, overleden: ‘Hij bracht een onuitwisbaar vuur in onze muziek’",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/kunst-media/andy-taylor-65-gitarist-van-duran-duran-overleden-hij-bracht-een-onuitwisbaar-vuur-in-onze-muziek~bc57f5a5/",
-          "publishedDate": "Wed, 25 Nov 2026 23:24:00 GMT",
-          "description": "De Britse gitarist Andy Taylor is op 65-jarige leeftijd overleden aan de gevolgen van prostaatkanker. Dat hebben zijn voormalige collega’s van Duran Duran en Taylors familie bekendgemaakt in een gezam ..."
-        },
-        {
-          "title": "Andy Taylor (65), gitarist van Duran Duran, overleden",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2641037-andy-taylor-65-gitarist-van-duran-duran-overleden",
-          "publishedDate": "Wed, 25 Nov 2026 17:02:00 GMT",
-          "description": "Taylor was gitarist tijdens de succesvolste jaren van de band. Hij was onder meer te horen op hits als The Reflex en A View to a Kill."
-        },
-        {
-          "title": "Voormalig Duran Duran-gitarist Andy Taylor (65) overleden",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/muziek/6417811/voormalig-duran-duran-gitarist-andy-taylor-65-overleden.html",
-          "publishedDate": "Wed, 25 Nov 2026 15:07:00 GMT",
-          "description": "Gitarist Andy Taylor, vooral bekend van de band Duran Duran, is maandag overleden, maken zijn bandleden bekend in een verklaring. Taylor had &quot;een lange en moedige strijd tegen prostaatkanker&quot; gevoerd ..."
-        },
-        {
-          "title": "Voormalig Duran Duran-gitarist Andy Taylor op 65-jarige leeftijd overleden",
-          "source": "Weekend Online",
-          "url": "https://www.weekend-online.nl/wereldsterren/andy-taylor-duran-duran/",
-          "publishedDate": "Thu, 26 Nov 2026 00:37:00 GMT",
-          "description": "Andy Taylor, voormalig gitarist van de Britse band Duran Duran, is maandag op 65-jarige leeftijd overleden. Hij stierf thuis aan de gevolgen van prostaatkanker, in het bijzijn van zijn familie. Zijn f ..."
-        },
-        {
-          "title": "Andy Taylor, gitarist van Duran Duran, overleden op 65-jarige leeftijd: ‘Drijvende kracht achter nummers’",
-          "source": "Metro",
-          "url": "https://www.metronieuws.nl/entertainment/2026/11/andy-taylor-gitarist-duran-duran/",
-          "publishedDate": "Thu, 26 Nov 2026 00:16:00 GMT",
-          "description": "Andy Taylor, de voormalig gitarist van de Britse band Duran Duran, is op 65-jarige leeftijd overleden. Hij overleed aan de gevolgen van uitgezaaide prostaatkanker. In een verklaring van de band en ..."
-        },
-        {
-          "title": "Andy Taylor (65), gitarist van Britse band Duran Duran overleden",
-          "source": "NPO Radio 1",
-          "url": "https://www.nporadio1.nl/fragmenten/nos-radio-1-journaal/01a217b5-c5b2-72a8-b822-d54f08207f8c/2026-11-26-andy-taylor-65-gitarist-van-britse-band-duran-duran-overleden",
-          "publishedDate": "Wed, 25 Nov 2026 22:00:00 GMT",
-          "description": "De gitarist is op 65-jarige leeftijd overleden. Hij leed al jaren aan kanker. Vooral in de jaren '80 en '90 scoorde de band veel hits. Gitarist Ed Struijlaart, en maker van de podcast Gitaarmannen, ..."
-        },
-        {
-          "title": "Andy Taylor (65), gitarist van Duran Duran, overleden na strijd tegen prostaatkanker",
-          "source": "De Morgen",
-          "url": "https://www.demorgen.be/tv-cultuur/andy-taylor-65-gitarist-van-duran-duran-overleden-na-strijd-tegen-prostaatkanker~b0319cc7/",
-          "publishedDate": "Wed, 25 Nov 2026 19:42:00 GMT",
-          "description": "Voormalig Duran Duran-gitarist Andy Taylor is op 65-jarige leeftijd overleden na een strijd tegen prostaatkanker. Dat laten zijn vrouw Tracey en de band zelf weten."
-        },
-        {
-          "title": "Gitarist Andy Taylor (65), bekend van Duran Duran, overleden",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/gitarist-andy-taylor-65-bekend-van-duran-duran-overleden",
-          "publishedDate": "Wed, 25 Nov 2026 15:10:00 GMT",
-          "description": "De Britse gitarist Andy Taylor is op 65-jarige leeftijd overleden aan de gevolgen van prostaatkanker. Dat hebben zijn voormalige collega's van Duran Duran en familie woensdag bekendgemaakt in een geza ..."
-        },
-        {
-          "title": "Duran Duran-leden rouwen om overlijden van Andy Taylor",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/duran-duran-leden-rouwen-om-overlijden-van-andy-taylor",
-          "publishedDate": "Wed, 25 Nov 2026 15:01:00 GMT",
-          "description": "De bandleden van Duran Duran spreken vol lof over hun oud-gitarist Andy Taylor. Woensdag werd bekendgemaakt dat hij op 65-jarige leeftijd is overleden aan de gevolgen van prostaatkanker. Volgens basgi ..."
-        },
-        {
-          "title": "Andy Taylor, voormalige gitarist van Duran Duran, overleden op 65-jarige leeftijd",
-          "source": "Belga News Agency on MSN",
-          "url": "https://www.msn.com/nl-be/nieuws/other/andy-taylor-voormalige-gitarist-van-duran-duran-overleden-op-65-jarige-leeftijd/ar-AA2ieuHJ",
-          "publishedDate": "Wed, 25 Nov 2026 14:49:47 GMT",
-          "description": "Andy Taylor, de voormalige gitarist van de Britse band Duran Duran, is maandag op 65-jarige leeftijd overleden na &quot;een lange en moedige strijd&quot; tegen prostaatkanker. Dat heeft de newwaveband woensdaga ..."
-        }
-      ]
-    },
-    {
-      "keyword": "brandweer",
-      "trafficLabel": "10K+",
-      "articles": [
-        {
-          "title": "Brandweer nog bezig met brand in machine bij houthandel in Waardenburg",
+          "title": "Boer zoekt Vrouw richting ontknoping: Joey maakt zijn keuze en eerste vonken slaan over op Rhodos",
           "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/west-betuwe/brandweer-nog-bezig-met-brand-in-machine-bij-houthandel-in-waardenburg~a29a4df1/?slug_rd=1",
-          "publishedDate": "Wed, 25 Nov 2026 14:33:00 GMT",
-          "description": "In een loods van zaagsel- en houtvezelbedrijf Plospan aan de Industrieweg in Waardenburg brak woensdagmiddag een zeer grote brand uit. De vlammen sloegen metershoog uit het dak en er kwamen flinke roo ..."
-        },
-        {
-          "title": "Brandweer hele nacht bezig met grote brand in chocoladefabriek in Schinnen",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/112-nieuws-beekdaelen/brandweer-hele-nacht-bezig-met-grote-brand-in-chocoladefabriek-in-schinnen~a9d906e4/",
-          "publishedDate": "Sun, 22 Nov 2026 22:26:00 GMT",
-          "description": "In een chocoladefabriek aan de Kleine Breinder in Schinnen is maandagavond laat een grote brand uitgebroken. Meerdere tankautospuiten en redvoertuigen zijn ingezet en ook is een blusrobot gebruikt om ..."
-        },
-        {
-          "title": "Spring er n&#237;&#233;t in als een auto in het water is beland, adviseert de brandweer",
-          "source": "Het Parool",
-          "url": "https://www.parool.nl/amsterdam/spring-er-niet-in-als-een-auto-in-het-water-is-beland-adviseert-de-brandweer~baacc1ff/",
-          "publishedDate": "Fri, 20 Nov 2026 11:00:00 GMT",
-          "description": "Een 64-jarige vrouw uit Leiden overleed donderdag nadat zij met haar auto in de gracht was gereden. Wat moet je doen als je auto in het water belandt, en wat kun je als omstander betekenen? ‘We zullen ..."
-        },
-        {
-          "title": "Ambulancepost Alphen aan den Rijn neemt brandweer mee in de wereld van de ambulancezorg",
-          "source": "Alphens.nl",
-          "url": "https://www.alphens.nl/nieuws/ambulancepost-alphen-aan-den-rijn-neemt-brandweer-mee-in-de-wereld-van-de-ambulancezorg.html",
-          "publishedDate": "Thu, 26 Nov 2026 07:09:00 GMT",
-          "description": "Ambulanceverpleegkundige en praktijkbegeleider Ren&#233; Rhee van Ambulancepost Alphen aan den Rijn legde de brandweer uit hoe de ambulancedienst werkt. Hij liet z ..."
-        },
-        {
-          "title": "Brandweer schaalt op naar middelbrand bij brand in schuur",
-          "source": "NoorderNieuws",
-          "url": "https://noordernieuws.nl/2026/11/brandweer-schaalt-op-naar-middelbrand-bij-brand-in-schuur/",
-          "publishedDate": "Thu, 26 Nov 2026 04:11:00 GMT",
-          "description": "DELFZIJL - In een schuur aan de Kerkstraat in Delfzijl is donderdagochtend brand uitgebroken. De brandweer schaalde op naar middelbrand en kwam met ..."
-        },
-        {
-          "title": "Grote schuur volledig uitgebrand, brandweer weet woning te behouden",
-          "source": "112brabant",
-          "url": "https://112brabant.nl/2026/11/26/video/grote-schuur-volledig-uitgebrand-brandweer-weet-woning-te-behouden/",
-          "publishedDate": "Wed, 25 Nov 2026 23:05:00 GMT",
-          "description": "HERPT - Achter een woning aan de Achterweg in Herpt, gemeente Heusden, heeft woensdagavond een grote uitslaande brand gewoed. Een schuur van naar schatting ..."
-        },
-        {
-          "title": "Bijzondere laatste uitruk voor Hielko Sijsling na 36 jaar bij Brandweer Pekela",
-          "source": "Westerwolde Actueel",
-          "url": "https://www.westerwoldeactueel.nl/2026/11/25/bijzondere-laatste-uitruk-voor-hielko-sijsling-na-36-jaar-bij-brandweer-pekela/",
-          "publishedDate": "Wed, 25 Nov 2026 15:31:00 GMT",
-          "description": "OUDE PEKELA – Een oefenavond van Brandweer Pekela kreeg woensdagavond 25 november een bijzonder en emotioneel tintje. Voor Hielko Sijsling stond namelijk zijn allerlaatste uitruk als actief brandweerm ..."
-        },
-        {
-          "title": "Auto belandt op zijkant in voortuin, brandweer bevrijdt oudere man",
-          "source": "GelreNieuws.nl",
-          "url": "https://www.gelrenieuws.nl/2026/11/video/auto-belandt-op-zijkant-in-voortuin-brandweer-bevrijdt-oudere-man.html",
-          "publishedDate": "Wed, 25 Nov 2026 10:51:00 GMT",
-          "description": "DUIVEN – Op de Eltingerhof in Duiven is woensdag aan het einde van de middag een auto op zijn zijkant in de voortuin van een woning terechtgekomen. De ..."
-        },
-        {
-          "title": "Auto kantelt en komt in voortuin terecht in Duiven, brandweer bevrijdt bestuurder",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/112-nieuws-duiven/auto-kantelt-en-komt-in-voortuin-terecht-in-duiven-brandweer-bevrijdt-bestuurder~ad08907f/",
-          "publishedDate": "Wed, 25 Nov 2026 10:17:00 GMT",
-          "description": "Een auto is woensdagmiddag in de voortuin van een woning aan Eltingerhof in Duiven op zijn zijkant tot stilstand gekomen. De brandweer heeft de bestuurder uit de auto geholpen."
-        },
-        {
-          "title": "Brandweer ingezet na incident met gootsteenontstopper in Putten",
-          "source": "De Puttenaer",
-          "url": "https://www.deputtenaer.nl/112/overig/1329640/brandweer-ingezet-na-incident-met-gootsteenontstopper-in-putten",
-          "publishedDate": "Fri, 20 Nov 2026 12:16:00 GMT",
-          "description": "[PUTTEN] De brandweer van Garderen is vrijdagavond rond 19.30 uur gealarmeerd voor een incident met een vaatwasser in een woning aan de Wildforsterweg in Putten."
-        }
-      ]
-    },
-    {
-      "keyword": "nicolás keenan",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "De partner van Rob Jetten in ‘Boerderij van Dorst’, dat leverde een misschien wel uniek interview op",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/televisie/de-partner-van-rob-jetten-in-boerderij-van-dorst-dat-leverde-een-misschien-wel-uniek-interview-op~be234214/",
-          "publishedDate": "Thu, 26 Nov 2026 02:00:00 GMT",
-          "description": "O veral op televisie werd er voorbeschouwd. Nicol&#225;s Keenan, partner van premier Rob Jetten en ook speler van het nationale Argentijnse hockeyteam, was woensdagavond in interviewprogramma Boerderij van ..."
-        },
-        {
-          "title": "Verloofde van Rob Jetten werd 'beetje verdrietig' van haatreacties op babynieuws",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/achterklap/6417806/verloofde-van-rob-jetten-werd-beetje-verdrietig-van-haatreacties-op-babynieuws.html",
-          "publishedDate": "Wed, 25 Nov 2026 13:36:00 GMT",
-          "description": "Hockeyer Nicol&#225;s Keenan, de verloofde van premier Rob Jetten, werd &quot;een beetje verdrietig&quot; van de haatreacties na het nieuws dat ze een kind verwachten via een draagmoeder. Het stel heeft ook veel pos ..."
-        },
-        {
-          "title": "Nicol&#225;s, partner van Rob Jetten, is blij met keuze voor draagmoeder: ‘Wij gaan niet veranderen door de haat’",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/show/nicolas-partner-van-rob-jetten-is-blij-met-keuze-voor-draagmoeder-wij-gaan-niet-veranderen-door-de-haat~a8391afa/",
-          "publishedDate": "Wed, 25 Nov 2026 13:20:00 GMT",
-          "description": "Tophockeyer Nicol&#225;s Keenan, de Argentijnse partner van premier Rob Jetten, is ‘superzenuwachtig’ over &lt;a href=&quot;https://www.ad.nl/politiek/rob-jetten-en-nico-keenan-krijgen-een-baby-we-zijn-onze-eiceld ..."
-        },
-        {
-          "title": "Tophockeyer Nicol&#225;s Keenan openhartig over bewuste keuze met Rob Jetten: 'Het draait om de liefde'",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/boulevard/nieuws/tophockeyer-nicolas-keenan-openhartig-over-bewuste-keuze-met-rob-jetten-het-draait-om-de-liefde-2026112613205636670/",
-          "publishedDate": "Thu, 26 Nov 2026 06:53:00 GMT",
-          "description": "Keenan wilde altijd al kinderen. &quot;Robs eerste reactie was: misschien ben ik al te oud&quot;, vertelt de hockeyer van Klein Zwitserland en het Argentijnse team in het programma Boerderij van Dorst. Ze ..."
-        },
-        {
-          "title": "Nicol&#225;s Keenan, inderdaad ‘hij van’ Rob Jetten, deed gisteravond het onmogelijke",
-          "source": "Brabants Dagblad",
-          "url": "https://www.bd.nl/binnenland/nicolas-keenan-inderdaad-hij-van-rob-jetten-deed-gisteravond-het-onmogelijke~a503efb01/",
-          "publishedDate": "Thu, 26 Nov 2026 03:45:00 GMT",
-          "description": "Eerst goed nadenken, dan pas een hond: overheid lanceert campagne, Hondenbescherming wil verplichte aanschafcursus. MET VIDEO. Kannan is al bijna 7 jaar dood, maar wint nog altijd ..."
-        },
-        {
-          "title": "Nicol&#225;s Keenan in Boerderij Van Dorst openhartig over vaderschap en coming-out",
-          "source": "TVgids.nl",
-          "url": "https://www.tvgids.nl/nieuws/gemist/nicolas-keenan-in-boerderij-van-dorst-openhartig-over-vaderschap-en-coming-out",
-          "publishedDate": "Thu, 26 Nov 2026 02:33:00 GMT",
-          "description": "De 'first gentleman' Nicol&#225;s Keenan was woensdagavond samen met Estavana Polman te zien in Boerderij Van Dorst."
-        },
-        {
-          "title": "Verloofde Rob Jetten gebasht op SBS 6: ‘Dit is gewoon achterlijk!’",
-          "source": "Mediacourant",
-          "url": "https://www.mediacourant.nl/2026/11/verloofde-rob-jetten-gebasht-op-sbs-6-dit-is-gewoon-achterlijk/",
-          "publishedDate": "Thu, 26 Nov 2026 02:30:00 GMT",
-          "description": "Nicol&#225;s Keenan, de verloofde van Rob Jetten, krijgt er flink van langs bij Shownieuws. Story-baas Guido den Aantrekker ergert zich aan de manier waarop de hockeyer zich op sociale media presenteert. &quot; ..."
-        },
-        {
-          "title": "Verloofde Rob Jetten palmt Angela de Jong in: ‘Wat een mazzel!’",
-          "source": "Mediacourant",
-          "url": "https://www.mediacourant.nl/2026/11/verloofde-rob-jetten-palmt-angela-de-jong-in-wat-een-mazzel/",
-          "publishedDate": "Wed, 25 Nov 2026 17:35:00 GMT",
-          "description": "Nicol&#225;s Keenan heeft er een onverwachte fan bij: Angela de Jong. De AD-columniste had door alle negatieve verhalen een behoorlijk ongunstig beeld gekregen van de verloofde van Rob Jetten, maar is nu o ..."
-        },
-        {
-          "title": "Hockeyende vriend van Rob Jetten laat zich uit over politieke toekomst van premier",
-          "source": "Sportnieuws",
-          "url": "https://sportnieuws.nl/boulevard/nieuws/hockeyende-vriend-van-rob-jetten-laat-zich-uit-over-politieke-toekomst-van-premier-2026112521061859105/",
-          "publishedDate": "Wed, 25 Nov 2026 14:25:00 GMT",
-          "description": "Voor Nicol&#225;s Keenan en Rob Jetten zijn het bijzondere tijden. De Argentijnse tophockeyer en de premier van Nederland verwachten hun eerste kindje &#233;n op zakelijk gebied staat er ook een hoop op het spe ..."
-        },
-        {
-          "title": "Nicol&#225;s Keenan is 'supernerveus' voor aankomend vaderschap",
-          "source": "Nieuws.nl",
-          "url": "https://nieuws.nl/entertainment/nicolas-keenan-is-supernerveus-voor-aankomend-vaderschap",
-          "publishedDate": "Wed, 25 Nov 2026 13:20:00 GMT",
-          "description": "Hockeyer Nicol&#225;s Keenan, de verloofde van premier Rob Jetten, is &quot;supernerveus&quot; voor het aankomende vaderschap. Dat zegt hij in het programma Boerderij van Dorst. &quot;Soms lig je in bed, en dan denk je:."
-        }
-      ]
-    },
-    {
-      "keyword": "vaccin",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Onderzoek: vaccin tegen HPV kan 13.000 kankerdiagnoses voorkomen",
-          "source": "NOS",
-          "url": "https://nos.nl/artikel/2640796-onderzoek-vaccin-tegen-hpv-kan-13-000-kankerdiagnoses-voorkomen",
-          "publishedDate": "Tue, 24 Nov 2026 00:09:00 GMT",
-          "description": "Kankercentrum IKNL en het Erasmus MC deden onderzoek in de hoop het vertrouwen in de nieuwe HPV-vaccinatie bij ouders te vergroten."
-        },
-        {
-          "title": "Allergisch voor noten? Hoopgevende test met vaccin",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/binnenland/artikel/5666706/allergisch-voor-noten-misschien-er-een-vaccin-op-komst",
-          "publishedDate": "Mon, 23 Nov 2026 06:29:00 GMT",
-          "description": "Mogelijk goed nieuws voor mensen die last hebben van voedselallergie&#235;n. Onderzoekers in Denemarken hebben een nieuw vaccin ontwikkeld die zouden moeten helpen tegen de klachten. De eerste testen werde ..."
-        },
-        {
-          "title": "Ouderen willen massaal prik tegen RS-virus na uitzending Radar: bij meerdere GGD’s is vaccin op",
-          "source": "De Stentor",
-          "url": "https://www.destentor.nl/binnenland/ouderen-willen-massaal-prik-tegen-rs-virus-na-uitzending-radar-bij-meerdere-ggds-is-vaccin-op~af28964a/",
-          "publishedDate": "Wed, 25 Nov 2026 23:39:00 GMT",
-          "description": "Reageer mee onder dit artikel! Waar je reactie aan moet voldoen, lees je hier in onze huisregels. Daar zie je ook wat je moet doen om een account aan te maken. Omdat redacteuren de reacties beoordelen ..."
-        },
-        {
-          "title": "Plotseling tekort aan RS-vaccin voor volwassenen: ‘zeer sterk toegenomen’ vraag naar middel tegen luchtweginfectie",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/gezond/plotseling-tekort-aan-rs-vaccin-voor-volwassenen-zeer-sterk-toegenomen-vraag-naar-middel-tegen-luchtweginfectie~af28964a/",
-          "publishedDate": "Wed, 25 Nov 2026 23:00:00 GMT",
-          "description": "Ouderen vragen momenteel massaal om inge&#235;nt te worden tegen het RS-virus. De vraag is ineens z&#243; sterk toegenomen, dat menigeen nul op het rekest krijgt."
-        },
-        {
-          "title": "Ingezonden: 'Wat kost een vaccinatie voor volwassenen, en waar betaal je eigenlijk voor?'",
-          "source": "Dongen Nieuws",
-          "url": "https://dongen.nieuws.nl/zakelijk/ingezonden-wat-kost-een-vaccinatie-voor-volwassenen-en-waar-betaal-je-eigenlijk-voor",
-          "publishedDate": "Wed, 25 Nov 2026 01:19:00 GMT",
-          "description": "Ingezonden Wie vanuit Dongen een vaccinatie wil regelen, voor een verre reis of gewoon voor de eigen gezondheid, stelt zichzelf meestal eerst &#233;&#233;n vraag: wat gaat me dat kosten? Het eerlijke antwoord i ..."
-        },
-        {
-          "title": "Vaccin tegen hepatitis A komt structureel beschikbaar voor mannen die seks hebben met mannen",
-          "source": "Nationale Zorggids",
-          "url": "https://www.nationalezorggids.nl/ziekenhuizen/vaccin-tegen-hepatitis-a-komt-structureel-beschikbaar-voor-mannen-die-seks-hebben-met-mannen/",
-          "publishedDate": "Tue, 24 Nov 2026 23:43:00 GMT",
-          "description": "Een vaccinatie tegen hepatitis A wordt structureel beschikbaar voor mannen die seks hebben met mannen, meldt minister Sophie Hermans van Volksgezondheid, Welzijn en Sport in een brief aan de Tweede Ka ..."
-        },
-        {
-          "title": "Vaccin hepatitis A vast voor mannen die seks hebben met mannen",
-          "source": "Skipr",
-          "url": "https://www.skipr.nl/nieuws/vaccin-hepatitis-a-vast-voor-mannen-die-seks-hebben-met-mannen/",
-          "publishedDate": "Tue, 24 Nov 2026 08:20:00 GMT",
-          "description": "Een vaccinatie tegen hepatitis A wordt structureel beschikbaar voor mannen die seks hebben met mannen, zo meldt minister Sophie Hermans van Volksgezondheid, Welzijn en Sport in een brief aan de Tweede ..."
-        },
-        {
-          "title": "In de toekomst voorkomt HPV-vaccinatie bijna 12.800 kankerdiagnoses",
-          "source": "ZorgKrant.nl",
-          "url": "https://zorgkrant.nl/anders/21706-in-de-toekomst-voorkomt-hpv-vaccinatie-bijna-12-800-kankerdiagnoses",
-          "publishedDate": "Tue, 24 Nov 2026 01:00:00 GMT",
-          "description": "Sinds september wordt gevaccineerd met een vaccin dat beschermt tegen zeven typen HPV die een verhoogd risico op kanker geven ..."
-        },
-        {
-          "title": "Vernieuwd HPV-vaccin kan 13.000 kankerdiagnoses voorkomen",
-          "source": "NPO Radio 1",
-          "url": "https://www.nporadio1.nl/fragmenten/nos-radio-1-journaal/01a20cf7-92e6-7022-9f9f-00705b3ed636/2026-11-24-vernieuwd-hpv-vaccin-kan-13000-kankerdiagnoses-voorkomen",
-          "publishedDate": "Mon, 23 Nov 2026 22:00:00 GMT",
-          "description": "De vernieuwde HPV-vaccinatie kan in de toekomst bijna 13.000 pati&#235;nten met kanker voorkomen, bij kinderen die nu jonger zijn dan 10 jaar. De vaccinatie beschermt sinds september tegen verschillende ka ..."
-        },
-        {
-          "title": "Vaccin tegen dodelijkste vorm huidkanker halveert risico’s bijna",
-          "source": "De Gelderlander",
-          "url": "https://www.gelderlander.nl/gezond/vaccin-tegen-dodelijkste-vorm-huidkanker-halveert-risicos-bijna~add2143a/",
-          "publishedDate": "Fri, 23 Oct 2026 15:04:00 GMT",
-          "description": "Een nieuw vaccin vermindert het risico op overlijden of terugkeer van huidkanker met bijna de helft, meldt onder meer The Washington Post. Het door de farmaceutische bedrijven Moderna en Merck ontwikk ..."
-        }
-      ]
-    },
-    {
-      "keyword": "economie",
-      "trafficLabel": "5K+",
-      "articles": [
-        {
-          "title": "Boodschappen worden mogelijk duurder door hoge energieprijzen",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6417829/boodschappen-worden-mogelijk-duurder-door-hoge-energieprijzen.html",
-          "publishedDate": "Thu, 26 Nov 2026 01:12:00 GMT",
-          "description": "Consumenten kunnen nog jaren last houden van de hoge olie- en gasprijzen, aangezien die doorwerken in de prijzen van voedsel, goederen en diensten. Dat betekent bijvoorbeeld dat boodschappen en reizen ..."
-        },
-        {
-          "title": "Nieuws - Economie",
-          "source": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/economie/",
-          "publishedDate": "Wed, 25 Nov 2026 14:52:00 GMT",
-          "description": "Blijf altijd op de hoogte van het laatste nieuws via de snelste en leukste nieuwssite van Nederland, 24 uur per dag en 7 dagen in de week ..."
-        },
-        {
-          "title": "DNB waarschuwt voor 'gevaarlijke samenloop van schokken' voor financi&#235;le stelsel",
-          "source": "RTL Nieuws &amp; Entertainment on MSN",
-          "url": "https://www.msn.com/nl-nl/nieuws/overig/dnb-waarschuwt-voor-gevaarlijke-samenloop-van-schokken-voor-financi%C3%ABle-stelsel/ar-AA2i7AxR",
-          "publishedDate": "Tue, 24 Nov 2026 07:00:02 GMT",
-          "description": "De zorgen over de stabiliteit van het financi&#235;le systeem zijn nog meer toegenomen. Dat komt vooral door de gevaren van AI. Ook de hoge overheidsschulden en opgelopen rente dragen bij aan de bezorgdhei ..."
-        },
-        {
-          "title": "Waarom Jensen Huang terugkeert bij Nvidia: 'Intensieve lobby'",
-          "source": "RTL Nieuws &amp; Entertainment",
-          "url": "https://www.rtl.nl/nieuws/economie/artikel/5666848/waarom-huang-terugkeerde-als-nvidia-topman",
-          "publishedDate": "Tue, 24 Nov 2026 06:39:00 GMT",
-          "description": "Het was Donald Trump er alles aan gelegen om Jensen Huang weer terug te laten keren als Nvidia-topman. De Amerikaanse president is bang dat dat de economie een opdoffer krijgt en wellicht ook dat zijn ..."
-        },
-        {
-          "title": "Nederlanders zijn onnodig pessimistisch over de economie",
-          "source": "De Volkskrant",
-          "url": "https://www.volkskrant.nl/economie/nederlanders-zijn-onnodig-pessimistisch-over-de-economie~b93f1728/",
-          "publishedDate": "Thu, 19 Nov 2026 08:12:00 GMT",
-          "description": "Nederlanders kunnen wel een opkikcursus ‘basale economische kerncijfers’ gebruiken. Zij schatten belangrijke graadmeters als de inflatie en de koopkracht steevast dramatischer in dan deze in werkelijk ..."
-        },
-        {
-          "title": "Chinese economie groeit weer harder door sterke AI-export",
-          "source": "NU.nl",
-          "url": "https://www.nu.nl/economie/6413682/chinese-economie-groeit-weer-harder-door-sterke-ai-export.html",
-          "publishedDate": "Mon, 19 Oct 2026 09:56:00 GMT",
-          "description": "De Chinese economie is in het derde kwartaal weer wat harder gegroeid. De tweede economie ter wereld veert daarmee op na een periode van trage groei. Dat is mede te danken aan een sterke export."
-        },
-        {
-          "title": "DNB: Gevolgen van energieschok mogelijk tot ver in 2027 voelbaar in winkelwagen",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/economie/10616192/dnb-gevolgen-van-energieschok-mogelijk-tot-ver-in-2027-voelbaar-in-winkelwagen",
-          "publishedDate": "Wed, 25 Nov 2026 22:01:00 GMT",
-          "description": "DNB verwacht dat vertraagde prijsdoorberekeningen en hogere lonen de inflatie aanjagen &#233;n het begrotingsbeleid lastiger maken voor Den Haag."
-        },
-        {
-          "title": "Big agro: zo belangrijk zijn boeren voor Nederlandse economie | Top 500",
-          "source": "EW",
-          "url": "https://www.ewmagazine.nl/economie/2026/11/top-500-grootste-bedrijven-nederland-big-agro-frieslandcampina-1594328/",
-          "publishedDate": "Wed, 18 Nov 2026 21:59:00 GMT",
-          "description": "De EW Top 500 van 2026: ontdek de grootste bedrijven van Nederland, de opvallendste stijgers en nieuwkomers, de winstcijfers en de rol van familiebedrijven."
-        },
-        {
-          "title": "ING: Nederlandse economie groeit minder hard, maar blijft boven Europees gemiddelde",
-          "source": "BNR Nieuwsradio",
-          "url": "https://www.bnr.nl/nieuws/economie/10615933/ing-nederlandse-economie-groeit-minder-hard-maar-blijft-boven-europees-gemiddelde",
-          "publishedDate": "Wed, 18 Nov 2026 16:01:00 GMT",
-          "description": "ASML en de export blijven de groeimotor, maar krapte, hogere inflatie en dalende koopkracht zetten de binnenlandse economie onder druk."
-        },
-        {
-          "title": "ACM bereidt zich voor op toezicht nieuwe EU-regels digitale economie",
-          "source": "acm",
-          "url": "https://www.acm.nl/nl/publicaties/acm-bereidt-zich-voor-op-toezicht-nieuwe-eu-regels-digitale-economie",
-          "publishedDate": "Thu, 13 Apr 2023 16:59:00 GMT",
-          "description": "De Autoriteit Consument &amp; Markt (ACM) bereidt zich voor op de grote veranderingen die eraan komen door nieuwe Europese regels voor het toezicht op de digitale economie. Zo heeft de ACM een leidraad ..."
+          "url": "https://www.ad.nl/show/boer-zoekt-vrouw-richting-ontknoping-joey-maakt-zijn-keuze-en-eerste-vonken-slaan-over-op-rhodos~a7e2f845e/",
+          "publishedDate": "Thu, 26 Nov 2026 14:18:00 GMT",
+          "description": "Alleen boer Joey (31) moest donderdagavond nog kleur bekennen in Boer zoekt Vrouw. Na een zenuwslopend keuzemoment – volgens hem ‘by far het allerergste tot nu toe’ – pakt de paardenhouder zijn koffer ..."
         }
       ]
     }
